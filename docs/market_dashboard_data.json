@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-07-29 19:35",
+  "generated_at": "2026-07-29 19:45",
   "wire_file": "/Users/anshumanomjhunjhunwala/Documents/Codex/2026-07-17/making-a-lightweight/outputs/market_news_wires/2026-07-29-ai-market-wires.csv",
   "posture": {
-    "stance": "Risk-off, AI-led",
-    "wire_count": "121",
-    "ai_wire_count": "36",
-    "selling_wire_count": "40",
-    "weak_index_count": "12"
+    "stance": "Risk-off, broad",
+    "wire_count": "189",
+    "ai_wire_count": "49",
+    "selling_wire_count": "50",
+    "weak_index_count": "0"
   },
   "narrative": [
     {
@@ -25,1112 +25,30 @@
       "text": "Fund-related wires are active, but this dashboard should be read for category dispersion rather than a single fund-flow signal."
     }
   ],
-  "indices": [
-    {
-      "region": "India",
-      "name": "Nifty 50",
-      "ticker": "^NSEI",
-      "last_date": "2026-07-29",
-      "last": 24250.2,
-      "return_1d_pct": 1.1042140877174367,
-      "return_5d_pct": 1.0582871021513673,
-      "return_20d_pct": 1.0178752818628567,
-      "rsi_14": 56.11,
-      "sma_20": 24118.35,
-      "distance_sma_20_pct": 0.55,
-      "above_sma_20": true,
-      "sma_50": 23875.4,
-      "distance_sma_50_pct": 1.57,
-      "above_sma_50": true,
-      "sma_200": 24786.89,
-      "distance_sma_200_pct": -2.17,
-      "above_sma_200": false
-    },
-    {
-      "region": "India",
-      "name": "Nifty Midcap 50",
-      "ticker": "^NSEMDCP50",
-      "last_date": "2026-07-29",
-      "last": 18087.7,
-      "return_1d_pct": 0.633133741991565,
-      "return_5d_pct": 1.1381520714101256,
-      "return_20d_pct": 2.0975249494440407,
-      "rsi_14": 59.24,
-      "sma_20": 17913.4,
-      "distance_sma_20_pct": 0.97,
-      "above_sma_20": true,
-      "sma_50": 17643.34,
-      "distance_sma_50_pct": 2.52,
-      "above_sma_50": true,
-      "sma_200": 17023.69,
-      "distance_sma_200_pct": 6.25,
-      "above_sma_200": true
-    },
-    {
-      "region": "India",
-      "name": "Nifty Bank",
-      "ticker": "^NSEBANK",
-      "last_date": "2026-07-29",
-      "last": 57205.9,
-      "return_1d_pct": 0.7933963566646884,
-      "return_5d_pct": 0.13845980374935785,
-      "return_20d_pct": -1.4253125290067392,
-      "rsi_14": 49.95,
-      "sma_20": 57559.99,
-      "distance_sma_20_pct": -0.62,
-      "above_sma_20": false,
-      "sma_50": 56486.48,
-      "distance_sma_50_pct": 1.27,
-      "above_sma_50": true,
-      "sma_200": 57421.8,
-      "distance_sma_200_pct": -0.38,
-      "above_sma_200": false
-    },
-    {
-      "region": "India",
-      "name": "India VIX",
-      "ticker": "^INDIAVIX",
-      "last_date": "2026-07-29",
-      "last": 12.01,
-      "return_1d_pct": -4.398890973996805,
-      "return_5d_pct": -9.650114903762496,
-      "return_20d_pct": -9.308913123869766,
-      "rsi_14": 41.54,
-      "sma_20": 12.89,
-      "distance_sma_20_pct": -6.84,
-      "above_sma_20": false,
-      "sma_50": 14.27,
-      "distance_sma_50_pct": -15.83,
-      "above_sma_50": false,
-      "sma_200": 14.49,
-      "distance_sma_200_pct": -17.15,
-      "above_sma_200": false
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty Auto",
-      "ticker": "^CNXAUTO",
-      "last_date": "2026-07-29",
-      "last": 27825.95,
-      "return_1d_pct": 2.679726634932056,
-      "return_5d_pct": 3.129734146544849,
-      "return_20d_pct": 4.674353035393164,
-      "rsi_14": 64.45,
-      "sma_20": 26858.71,
-      "distance_sma_20_pct": 3.6,
-      "above_sma_20": true,
-      "sma_50": 26492.99,
-      "distance_sma_50_pct": 5.03,
-      "above_sma_50": true,
-      "sma_200": 26843.38,
-      "distance_sma_200_pct": 3.66,
-      "above_sma_200": true
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty IT",
-      "ticker": "^CNXIT",
-      "last_date": "2026-07-29",
-      "last": 31123.1,
-      "return_1d_pct": 2.3168581104833885,
-      "return_5d_pct": 9.013182329181223,
-      "return_20d_pct": 20.773535944523246,
-      "rsi_14": 70.4,
-      "sma_20": 28593.0,
-      "distance_sma_20_pct": 8.85,
-      "above_sma_20": true,
-      "sma_50": 28478.98,
-      "distance_sma_50_pct": 9.28,
-      "above_sma_50": true,
-      "sma_200": 32802.48,
-      "distance_sma_200_pct": -5.12,
-      "above_sma_200": false
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty FMCG",
-      "ticker": "^CNXFMCG",
-      "last_date": "2026-07-29",
-      "last": 49690.65,
-      "return_1d_pct": 1.9322550834088847,
-      "return_5d_pct": 1.8044495649335968,
-      "return_20d_pct": 0.2662483495936341,
-      "rsi_14": 54.98,
-      "sma_20": 49267.86,
-      "distance_sma_20_pct": 0.86,
-      "above_sma_20": true,
-      "sma_50": 49503.12,
-      "distance_sma_50_pct": 0.38,
-      "above_sma_50": true,
-      "sma_200": 51815.15,
-      "distance_sma_200_pct": -4.1,
-      "above_sma_200": false
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty Pharma",
-      "ticker": "^CNXPHARMA",
-      "last_date": "2026-07-29",
-      "last": 26373.35,
-      "return_1d_pct": 1.4404483491644804,
-      "return_5d_pct": 2.411826575833187,
-      "return_20d_pct": 4.72804912722975,
-      "rsi_14": 66.55,
-      "sma_20": 25796.66,
-      "distance_sma_20_pct": 2.24,
-      "above_sma_20": true,
-      "sma_50": 25045.37,
-      "distance_sma_50_pct": 5.3,
-      "above_sma_50": true,
-      "sma_200": 23213.74,
-      "distance_sma_200_pct": 13.61,
-      "above_sma_200": true
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty Metal",
-      "ticker": "^CNXMETAL",
-      "last_date": "2026-07-29",
-      "last": 12686.8,
-      "return_1d_pct": 2.008929885955224,
-      "return_5d_pct": 0.6772998984414302,
-      "return_20d_pct": -2.565126605201007,
-      "rsi_14": 50.0,
-      "sma_20": 12589.39,
-      "distance_sma_20_pct": 0.77,
-      "above_sma_20": true,
-      "sma_50": 12946.46,
-      "distance_sma_50_pct": -2.01,
-      "above_sma_50": false,
-      "sma_200": 11672.29,
-      "distance_sma_200_pct": 8.69,
-      "above_sma_200": true
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty Realty",
-      "ticker": "^CNXREALTY",
-      "last_date": "2026-07-29",
-      "last": 918.45,
-      "return_1d_pct": -0.027212364937212463,
-      "return_5d_pct": -1.9954128709246066,
-      "return_20d_pct": 13.123535483308357,
-      "rsi_14": 65.27,
-      "sma_20": 878.82,
-      "distance_sma_20_pct": 4.51,
-      "above_sma_20": true,
-      "sma_50": 817.91,
-      "distance_sma_50_pct": 12.29,
-      "above_sma_50": true,
-      "sma_200": 833.88,
-      "distance_sma_200_pct": 10.14,
-      "above_sma_200": true
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty Energy",
-      "ticker": "^CNXENERGY",
-      "last_date": "2026-07-29",
-      "last": 38180.55,
-      "return_1d_pct": -2.7915808711205026,
-      "return_5d_pct": -2.6511765953780797,
-      "return_20d_pct": -5.8388696141561836,
-      "rsi_14": 33.3,
-      "sma_20": 39437.53,
-      "distance_sma_20_pct": -3.19,
-      "above_sma_20": false,
-      "sma_50": 39815.76,
-      "distance_sma_50_pct": -4.11,
-      "above_sma_50": false,
-      "sma_200": 36986.33,
-      "distance_sma_200_pct": 3.23,
-      "above_sma_200": true
-    },
-    {
-      "region": "India Sectors",
-      "name": "Nifty PSU Bank",
-      "ticker": "^CNXPSUBANK",
-      "last_date": "2026-07-29",
-      "last": 8317.15,
-      "return_1d_pct": -0.7707174441494935,
-      "return_5d_pct": -1.6954970731749008,
-      "return_20d_pct": -4.581536274594155,
-      "rsi_14": 46.49,
-      "sma_20": 8437.54,
-      "distance_sma_20_pct": -1.43,
-      "above_sma_20": false,
-      "sma_50": 8323.74,
-      "distance_sma_50_pct": -0.08,
-      "above_sma_50": false,
-      "sma_200": 8474.4,
-      "distance_sma_200_pct": -1.86,
-      "above_sma_200": false
-    },
-    {
-      "region": "Asia",
-      "name": "Nikkei 225",
-      "ticker": "^N225",
-      "last_date": "2026-07-29",
-      "last": 61434.19,
-      "return_1d_pct": -1.4923941869365187,
-      "return_5d_pct": -7.080643668990283,
-      "return_20d_pct": -12.31493457220062,
-      "rsi_14": 34.58,
-      "sma_20": 66844.68,
-      "distance_sma_20_pct": -8.09,
-      "above_sma_20": false,
-      "sma_50": 67027.75,
-      "distance_sma_50_pct": -8.35,
-      "above_sma_50": false,
-      "sma_200": 56796.73,
-      "distance_sma_200_pct": 8.17,
-      "above_sma_200": true
-    },
-    {
-      "region": "Asia",
-      "name": "KOSPI",
-      "ticker": "^KS11",
-      "last_date": "2026-07-29",
-      "last": 5663.24,
-      "return_1d_pct": -5.983403985715185,
-      "return_5d_pct": -16.688879008223857,
-      "return_20d_pct": -33.18877740291496,
-      "rsi_14": 31.37,
-      "sma_20": 7091.15,
-      "distance_sma_20_pct": -20.14,
-      "above_sma_20": false,
-      "sma_50": 7805.31,
-      "distance_sma_50_pct": -27.44,
-      "above_sma_50": false,
-      "sma_200": 5707.68,
-      "distance_sma_200_pct": -0.78,
-      "above_sma_200": false
-    },
-    {
-      "region": "Asia",
-      "name": "Hang Seng",
-      "ticker": "^HSI",
-      "last_date": "2026-07-29",
-      "last": 25807.92,
-      "return_1d_pct": 1.963862612955869,
-      "return_5d_pct": 3.6768258590281544,
-      "return_20d_pct": 12.791826809236163,
-      "rsi_14": 65.85,
-      "sma_20": 24519.87,
-      "distance_sma_20_pct": 5.25,
-      "above_sma_20": true,
-      "sma_50": 24585.21,
-      "distance_sma_50_pct": 4.97,
-      "above_sma_50": true,
-      "sma_200": 25747.68,
-      "distance_sma_200_pct": 0.23,
-      "above_sma_200": true
-    },
-    {
-      "region": "Asia",
-      "name": "Shanghai Composite",
-      "ticker": "000001.SS",
-      "last_date": "2026-07-29",
-      "last": 3828.47,
-      "return_1d_pct": 0.3973984044650214,
-      "return_5d_pct": -0.9972744498503161,
-      "return_20d_pct": -6.905280002925574,
-      "rsi_14": 40.38,
-      "sma_20": 3915.47,
-      "distance_sma_20_pct": -2.22,
-      "above_sma_20": false,
-      "sma_50": 4013.99,
-      "distance_sma_50_pct": -4.62,
-      "above_sma_50": false,
-      "sma_200": 4013.38,
-      "distance_sma_200_pct": -4.61,
-      "above_sma_200": false
-    },
-    {
-      "region": "Asia",
-      "name": "ASX 200",
-      "ticker": "^AXJO",
-      "last_date": "2026-07-28",
-      "last": 8947.8,
-      "return_1d_pct": 0.6048999852428683,
-      "return_5d_pct": 1.7570195880008521,
-      "return_20d_pct": 1.926248825142629,
-      "rsi_14": 62.86,
-      "sma_20": 8811.83,
-      "distance_sma_20_pct": 1.54,
-      "above_sma_20": true,
-      "sma_50": 8766.37,
-      "distance_sma_50_pct": 2.07,
-      "above_sma_50": true,
-      "sma_200": 8776.54,
-      "distance_sma_200_pct": 1.95,
-      "above_sma_200": true
-    },
-    {
-      "region": "US",
-      "name": "S&P 500",
-      "ticker": "^GSPC",
-      "last_date": "2026-07-29",
-      "last": 7403.64,
-      "return_1d_pct": -0.3384088526588558,
-      "return_5d_pct": -1.271107256409909,
-      "return_20d_pct": -1.2763719611745494,
-      "rsi_14": 44.34,
-      "sma_20": 7487.48,
-      "distance_sma_20_pct": -1.12,
-      "above_sma_20": false,
-      "sma_50": 7469.85,
-      "distance_sma_50_pct": -0.89,
-      "above_sma_50": false,
-      "sma_200": 7015.94,
-      "distance_sma_200_pct": 5.53,
-      "above_sma_200": true
-    },
-    {
-      "region": "US",
-      "name": "Nasdaq 100",
-      "ticker": "^NDX",
-      "last_date": "2026-07-29",
-      "last": 27657.57,
-      "return_1d_pct": -0.3802114188225847,
-      "return_5d_pct": -4.622811017990336,
-      "return_20d_pct": -8.649580869349926,
-      "rsi_14": 35.33,
-      "sma_20": 28979.3,
-      "distance_sma_20_pct": -4.56,
-      "above_sma_20": false,
-      "sma_50": 29427.62,
-      "distance_sma_50_pct": -6.01,
-      "above_sma_50": false,
-      "sma_200": 26474.01,
-      "distance_sma_200_pct": 4.47,
-      "above_sma_200": true
-    },
-    {
-      "region": "US",
-      "name": "Dow Jones",
-      "ticker": "^DJI",
-      "last_date": "2026-07-29",
-      "last": 52103.66,
-      "return_1d_pct": -1.220270816482527,
-      "return_5d_pct": -0.2200710415264706,
-      "return_20d_pct": -0.41196934532353735,
-      "rsi_14": 50.5,
-      "sma_20": 52401.33,
-      "distance_sma_20_pct": -0.57,
-      "above_sma_20": false,
-      "sma_50": 51602.88,
-      "distance_sma_50_pct": 0.97,
-      "above_sma_50": true,
-      "sma_200": 48987.27,
-      "distance_sma_200_pct": 6.36,
-      "above_sma_200": true
-    },
-    {
-      "region": "US",
-      "name": "Russell 2000",
-      "ticker": "^RUT",
-      "last_date": "2026-07-29",
-      "last": 2949.87,
-      "return_1d_pct": -0.1329309231148823,
-      "return_5d_pct": -0.340088192641419,
-      "return_20d_pct": -2.4632098303010497,
-      "rsi_14": 48.98,
-      "sma_20": 2968.5,
-      "distance_sma_20_pct": -0.63,
-      "above_sma_20": false,
-      "sma_50": 2937.26,
-      "distance_sma_50_pct": 0.43,
-      "above_sma_50": true,
-      "sma_200": 2671.61,
-      "distance_sma_200_pct": 10.42,
-      "above_sma_200": true
-    },
-    {
-      "region": "Europe",
-      "name": "DAX",
-      "ticker": "^GDAXI",
-      "last_date": "2026-07-29",
-      "last": 25486.74,
-      "return_1d_pct": 0.08926508024154067,
-      "return_5d_pct": 1.3171324819073904,
-      "return_20d_pct": 1.7829710771465557,
-      "rsi_14": 58.72,
-      "sma_20": 25196.04,
-      "distance_sma_20_pct": 1.15,
-      "above_sma_20": true,
-      "sma_50": 24998.72,
-      "distance_sma_50_pct": 1.95,
-      "above_sma_50": true,
-      "sma_200": 24382.52,
-      "distance_sma_200_pct": 4.53,
-      "above_sma_200": true
-    },
-    {
-      "region": "Europe",
-      "name": "FTSE 100",
-      "ticker": "^FTSE",
-      "last_date": "2026-07-29",
-      "last": 10905.99,
-      "return_1d_pct": 0.3218676697176015,
-      "return_5d_pct": 1.7634621104320347,
-      "return_20d_pct": 4.081677730734246,
-      "rsi_14": 69.45,
-      "sma_20": 10629.32,
-      "distance_sma_20_pct": 2.6,
-      "above_sma_20": true,
-      "sma_50": 10503.73,
-      "distance_sma_50_pct": 3.83,
-      "above_sma_50": true,
-      "sma_200": 10200.45,
-      "distance_sma_200_pct": 6.92,
-      "above_sma_200": true
-    },
-    {
-      "region": "Europe",
-      "name": "CAC 40",
-      "ticker": "^FCHI",
-      "last_date": "2026-07-29",
-      "last": 8405.67,
-      "return_1d_pct": -0.6278724573243522,
-      "return_5d_pct": -0.3818457920751084,
-      "return_20d_pct": 0.8201691735818306,
-      "rsi_14": 52.87,
-      "sma_20": 8386.55,
-      "distance_sma_20_pct": 0.23,
-      "above_sma_20": true,
-      "sma_50": 8324.63,
-      "distance_sma_50_pct": 0.97,
-      "above_sma_50": true,
-      "sma_200": 8184.26,
-      "distance_sma_200_pct": 2.71,
-      "above_sma_200": true
-    },
-    {
-      "region": "Europe",
-      "name": "Euro Stoxx 50",
-      "ticker": "^STOXX50E",
-      "last_date": "2026-07-29",
-      "last": 6260.79,
-      "return_1d_pct": -0.45662901613519047,
-      "return_5d_pct": -0.8896672818437645,
-      "return_20d_pct": -0.34556245025865184,
-      "rsi_14": 50.76,
-      "sma_20": 6286.75,
-      "distance_sma_20_pct": -0.41,
-      "above_sma_20": false,
-      "sma_50": 6203.02,
-      "distance_sma_50_pct": 0.93,
-      "above_sma_50": true,
-      "sma_200": 5904.72,
-      "distance_sma_200_pct": 6.03,
-      "above_sma_200": true
-    }
-  ],
-  "regional_breadth": [
-    {
-      "region": "Asia",
-      "count": 5,
-      "advancers": 3,
-      "decliners": 2,
-      "advance_decline_ratio": 1.5,
-      "average_1d_pct": -0.9,
-      "average_5d_pct": -3.87,
-      "above_20dma_pct": 40.0,
-      "above_50dma_pct": 40.0
-    },
-    {
-      "region": "Europe",
-      "count": 4,
-      "advancers": 2,
-      "decliners": 2,
-      "advance_decline_ratio": 1.0,
-      "average_1d_pct": -0.17,
-      "average_5d_pct": 0.45,
-      "above_20dma_pct": 75.0,
-      "above_50dma_pct": 100.0
-    },
-    {
-      "region": "India",
-      "count": 4,
-      "advancers": 3,
-      "decliners": 1,
-      "advance_decline_ratio": 3.0,
-      "average_1d_pct": -0.47,
-      "average_5d_pct": -1.83,
-      "above_20dma_pct": 50.0,
-      "above_50dma_pct": 75.0
-    },
-    {
-      "region": "India Sectors",
-      "count": 8,
-      "advancers": 5,
-      "decliners": 3,
-      "advance_decline_ratio": 1.67,
-      "average_1d_pct": 0.85,
-      "average_5d_pct": 1.34,
-      "above_20dma_pct": 75.0,
-      "above_50dma_pct": 62.5
-    },
-    {
-      "region": "US",
-      "count": 4,
-      "advancers": 0,
-      "decliners": 4,
-      "advance_decline_ratio": 0.0,
-      "average_1d_pct": -0.52,
-      "average_5d_pct": -1.61,
-      "above_20dma_pct": 0.0,
-      "above_50dma_pct": 50.0
-    }
-  ],
+  "indices": [],
+  "regional_breadth": [],
   "global_leaders_laggards": {
-    "leaders": [
-      {
-        "region": "Asia",
-        "name": "Hang Seng",
-        "ticker": "^HSI",
-        "last_date": "2026-07-29",
-        "last": 25807.92,
-        "return_1d_pct": 1.963862612955869,
-        "return_5d_pct": 3.6768258590281544,
-        "return_20d_pct": 12.791826809236163,
-        "rsi_14": 65.85,
-        "sma_20": 24519.87,
-        "distance_sma_20_pct": 5.25,
-        "above_sma_20": true,
-        "sma_50": 24585.21,
-        "distance_sma_50_pct": 4.97,
-        "above_sma_50": true,
-        "sma_200": 25747.68,
-        "distance_sma_200_pct": 0.23,
-        "above_sma_200": true
-      },
-      {
-        "region": "India",
-        "name": "Nifty 50",
-        "ticker": "^NSEI",
-        "last_date": "2026-07-29",
-        "last": 24250.2,
-        "return_1d_pct": 1.1042140877174367,
-        "return_5d_pct": 1.0582871021513673,
-        "return_20d_pct": 1.0178752818628567,
-        "rsi_14": 56.11,
-        "sma_20": 24118.35,
-        "distance_sma_20_pct": 0.55,
-        "above_sma_20": true,
-        "sma_50": 23875.4,
-        "distance_sma_50_pct": 1.57,
-        "above_sma_50": true,
-        "sma_200": 24786.89,
-        "distance_sma_200_pct": -2.17,
-        "above_sma_200": false
-      },
-      {
-        "region": "India",
-        "name": "Nifty Bank",
-        "ticker": "^NSEBANK",
-        "last_date": "2026-07-29",
-        "last": 57205.9,
-        "return_1d_pct": 0.7933963566646884,
-        "return_5d_pct": 0.13845980374935785,
-        "return_20d_pct": -1.4253125290067392,
-        "rsi_14": 49.95,
-        "sma_20": 57559.99,
-        "distance_sma_20_pct": -0.62,
-        "above_sma_20": false,
-        "sma_50": 56486.48,
-        "distance_sma_50_pct": 1.27,
-        "above_sma_50": true,
-        "sma_200": 57421.8,
-        "distance_sma_200_pct": -0.38,
-        "above_sma_200": false
-      },
-      {
-        "region": "India",
-        "name": "Nifty Midcap 50",
-        "ticker": "^NSEMDCP50",
-        "last_date": "2026-07-29",
-        "last": 18087.7,
-        "return_1d_pct": 0.633133741991565,
-        "return_5d_pct": 1.1381520714101256,
-        "return_20d_pct": 2.0975249494440407,
-        "rsi_14": 59.24,
-        "sma_20": 17913.4,
-        "distance_sma_20_pct": 0.97,
-        "above_sma_20": true,
-        "sma_50": 17643.34,
-        "distance_sma_50_pct": 2.52,
-        "above_sma_50": true,
-        "sma_200": 17023.69,
-        "distance_sma_200_pct": 6.25,
-        "above_sma_200": true
-      },
-      {
-        "region": "Asia",
-        "name": "ASX 200",
-        "ticker": "^AXJO",
-        "last_date": "2026-07-28",
-        "last": 8947.8,
-        "return_1d_pct": 0.6048999852428683,
-        "return_5d_pct": 1.7570195880008521,
-        "return_20d_pct": 1.926248825142629,
-        "rsi_14": 62.86,
-        "sma_20": 8811.83,
-        "distance_sma_20_pct": 1.54,
-        "above_sma_20": true,
-        "sma_50": 8766.37,
-        "distance_sma_50_pct": 2.07,
-        "above_sma_50": true,
-        "sma_200": 8776.54,
-        "distance_sma_200_pct": 1.95,
-        "above_sma_200": true
-      }
-    ],
-    "laggards": [
-      {
-        "region": "Asia",
-        "name": "KOSPI",
-        "ticker": "^KS11",
-        "last_date": "2026-07-29",
-        "last": 5663.24,
-        "return_1d_pct": -5.983403985715185,
-        "return_5d_pct": -16.688879008223857,
-        "return_20d_pct": -33.18877740291496,
-        "rsi_14": 31.37,
-        "sma_20": 7091.15,
-        "distance_sma_20_pct": -20.14,
-        "above_sma_20": false,
-        "sma_50": 7805.31,
-        "distance_sma_50_pct": -27.44,
-        "above_sma_50": false,
-        "sma_200": 5707.68,
-        "distance_sma_200_pct": -0.78,
-        "above_sma_200": false
-      },
-      {
-        "region": "India",
-        "name": "India VIX",
-        "ticker": "^INDIAVIX",
-        "last_date": "2026-07-29",
-        "last": 12.01,
-        "return_1d_pct": -4.398890973996805,
-        "return_5d_pct": -9.650114903762496,
-        "return_20d_pct": -9.308913123869766,
-        "rsi_14": 41.54,
-        "sma_20": 12.89,
-        "distance_sma_20_pct": -6.84,
-        "above_sma_20": false,
-        "sma_50": 14.27,
-        "distance_sma_50_pct": -15.83,
-        "above_sma_50": false,
-        "sma_200": 14.49,
-        "distance_sma_200_pct": -17.15,
-        "above_sma_200": false
-      },
-      {
-        "region": "Asia",
-        "name": "Nikkei 225",
-        "ticker": "^N225",
-        "last_date": "2026-07-29",
-        "last": 61434.19,
-        "return_1d_pct": -1.4923941869365187,
-        "return_5d_pct": -7.080643668990283,
-        "return_20d_pct": -12.31493457220062,
-        "rsi_14": 34.58,
-        "sma_20": 66844.68,
-        "distance_sma_20_pct": -8.09,
-        "above_sma_20": false,
-        "sma_50": 67027.75,
-        "distance_sma_50_pct": -8.35,
-        "above_sma_50": false,
-        "sma_200": 56796.73,
-        "distance_sma_200_pct": 8.17,
-        "above_sma_200": true
-      },
-      {
-        "region": "US",
-        "name": "Dow Jones",
-        "ticker": "^DJI",
-        "last_date": "2026-07-29",
-        "last": 52103.66,
-        "return_1d_pct": -1.220270816482527,
-        "return_5d_pct": -0.2200710415264706,
-        "return_20d_pct": -0.41196934532353735,
-        "rsi_14": 50.5,
-        "sma_20": 52401.33,
-        "distance_sma_20_pct": -0.57,
-        "above_sma_20": false,
-        "sma_50": 51602.88,
-        "distance_sma_50_pct": 0.97,
-        "above_sma_50": true,
-        "sma_200": 48987.27,
-        "distance_sma_200_pct": 6.36,
-        "above_sma_200": true
-      },
-      {
-        "region": "Europe",
-        "name": "CAC 40",
-        "ticker": "^FCHI",
-        "last_date": "2026-07-29",
-        "last": 8405.67,
-        "return_1d_pct": -0.6278724573243522,
-        "return_5d_pct": -0.3818457920751084,
-        "return_20d_pct": 0.8201691735818306,
-        "rsi_14": 52.87,
-        "sma_20": 8386.55,
-        "distance_sma_20_pct": 0.23,
-        "above_sma_20": true,
-        "sma_50": 8324.63,
-        "distance_sma_50_pct": 0.97,
-        "above_sma_50": true,
-        "sma_200": 8184.26,
-        "distance_sma_200_pct": 2.71,
-        "above_sma_200": true
-      }
-    ]
+    "leaders": [],
+    "laggards": []
   },
   "india_breadth": {
     "summary": {
-      "source_count": 60,
-      "downloaded_count": 59,
-      "advancers": 36,
-      "decliners": 23,
+      "source_count": 10,
+      "downloaded_count": 0,
+      "advancers": 0,
+      "decliners": 0,
       "unchanged": 0,
-      "advance_decline_ratio": 1.57,
-      "up_turnover_share_pct": 74.2,
-      "down_turnover_share_pct": 25.8,
-      "high_volume_decliners": 5,
-      "above_20dma_pct": 93.2,
-      "above_50dma_pct": 100.0
+      "advance_decline_ratio": null,
+      "up_turnover_share_pct": null,
+      "down_turnover_share_pct": null,
+      "high_volume_decliners": 0,
+      "above_20dma_pct": null,
+      "above_50dma_pct": null
     },
-    "leaders": [
-      {
-        "symbol": "BLSE",
-        "ticker": "BLSE.NS",
-        "sector": "Technology services",
-        "last": 298.81,
-        "return_1d_pct": 5.72,
-        "return_5d_pct": 14.887155125490036,
-        "volume": 1209001.0,
-        "avg_volume_20": 1610880.7,
-        "volume_ratio_20d": 0.75,
-        "turnover_proxy": 361261585.8583374,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "DIACABS",
-        "ticker": "DIACABS.NS",
-        "sector": "Producer manufacturing",
-        "last": 337.45,
-        "return_1d_pct": 5.0,
-        "return_5d_pct": 25.38084039559234,
-        "volume": 9075877.0,
-        "avg_volume_20": 9742321.1,
-        "volume_ratio_20d": 0.93,
-        "turnover_proxy": 3062654804.439514,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "DIVISLAB",
-        "ticker": "DIVISLAB.NS",
-        "sector": "Health technology",
-        "last": 7784.5,
-        "return_1d_pct": 4.84,
-        "return_5d_pct": 5.822795464078112,
-        "volume": 1158117.0,
-        "avg_volume_20": 470336.45,
-        "volume_ratio_20d": 2.46,
-        "turnover_proxy": 9015361786.5,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "GHCLTEXTIL",
-        "ticker": "GHCLTEXTIL.NS",
-        "sector": "Process industries",
-        "last": 119.53,
-        "return_1d_pct": 4.64,
-        "return_5d_pct": 4.667252165926383,
-        "volume": 888972.0,
-        "avg_volume_20": 845888.7,
-        "volume_ratio_20d": 1.05,
-        "turnover_proxy": 106258822.0748291,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "LALPATHLAB",
-        "ticker": "LALPATHLAB.NS",
-        "sector": "Health services",
-        "last": 1882.5,
-        "return_1d_pct": 4.28,
-        "return_5d_pct": 10.800470865214828,
-        "volume": 1040059.0,
-        "avg_volume_20": 487438.45,
-        "volume_ratio_20d": 2.13,
-        "turnover_proxy": 1957911067.5,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "LLOYDSME",
-        "ticker": "LLOYDSME.NS",
-        "sector": "Non-energy minerals",
-        "last": 2051.3,
-        "return_1d_pct": 3.65,
-        "return_5d_pct": 9.595560311031793,
-        "volume": 851133.0,
-        "avg_volume_20": 567553.4,
-        "volume_ratio_20d": 1.5,
-        "turnover_proxy": 1745929164.4592285,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "TFCILTD",
-        "ticker": "TFCILTD.NS",
-        "sector": "Finance",
-        "last": 100.57,
-        "return_1d_pct": 3.64,
-        "return_5d_pct": 22.931185302620527,
-        "volume": 42888666.0,
-        "avg_volume_20": 14058263.55,
-        "volume_ratio_20d": 3.05,
-        "turnover_proxy": 4313313126.531418,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "EXIDEIND",
-        "ticker": "EXIDEIND.NS",
-        "sector": "Producer manufacturing",
-        "last": 435.65,
-        "return_1d_pct": 2.89,
-        "return_5d_pct": -2.7241290701716214,
-        "volume": 2845419.0,
-        "avg_volume_20": 5797197.2,
-        "volume_ratio_20d": 0.49,
-        "turnover_proxy": 1239606769.9829407,
-        "above_20dma": true,
-        "above_50dma": true
-      }
-    ],
-    "laggards": [
-      {
-        "symbol": "E2E",
-        "ticker": "E2E.NS",
-        "sector": "Technology services",
-        "last": 491.45,
-        "return_1d_pct": -4.65,
-        "return_5d_pct": 4.853850951032412,
-        "volume": 5201407.0,
-        "avg_volume_20": 2078729.85,
-        "volume_ratio_20d": 2.5,
-        "turnover_proxy": 2556231533.643738,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "SWANDEF",
-        "ticker": "SWANDEF.NS",
-        "sector": "Producer manufacturing",
-        "last": 2334.1,
-        "return_1d_pct": -3.08,
-        "return_5d_pct": -2.729621492513501,
-        "volume": 12844.0,
-        "avg_volume_20": 19160.25,
-        "volume_ratio_20d": 0.67,
-        "turnover_proxy": 29979181.654296875,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "MENONBE",
-        "ticker": "MENONBE.NS",
-        "sector": "Producer manufacturing",
-        "last": 219.58,
-        "return_1d_pct": -3.08,
-        "return_5d_pct": 5.729973793792986,
-        "volume": 86557.0,
-        "avg_volume_20": 109936.55,
-        "volume_ratio_20d": 0.79,
-        "turnover_proxy": 19006186.2184906,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "KABRAEXTRU",
-        "ticker": "KABRAEXTRU.NS",
-        "sector": "Producer manufacturing",
-        "last": 390.15,
-        "return_1d_pct": -2.29,
-        "return_5d_pct": 14.413487946183112,
-        "volume": 97830.0,
-        "avg_volume_20": 240176.6,
-        "volume_ratio_20d": 0.41,
-        "turnover_proxy": 38168373.90289307,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "HNDFDS",
-        "ticker": "HNDFDS.NS",
-        "sector": "Consumer non-durables",
-        "last": 568.0,
-        "return_1d_pct": -1.09,
-        "return_5d_pct": 0.7985803016858917,
-        "volume": 111027.0,
-        "avg_volume_20": 82428.1,
-        "volume_ratio_20d": 1.35,
-        "turnover_proxy": 63063336.0,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "MMFL",
-        "ticker": "MMFL.NS",
-        "sector": "Producer manufacturing",
-        "last": 548.7,
-        "return_1d_pct": -0.85,
-        "return_5d_pct": -0.6158238596728594,
-        "volume": 39758.0,
-        "avg_volume_20": 184147.5,
-        "volume_ratio_20d": 0.22,
-        "turnover_proxy": 21815215.08532715,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "RRKABEL",
-        "ticker": "RRKABEL.NS",
-        "sector": "Producer manufacturing",
-        "last": 2558.9,
-        "return_1d_pct": -0.7,
-        "return_5d_pct": 5.200625106016088,
-        "volume": 776229.0,
-        "avg_volume_20": 743521.8,
-        "volume_ratio_20d": 1.04,
-        "turnover_proxy": 1986292312.2963867,
-        "above_20dma": true,
-        "above_50dma": true
-      },
-      {
-        "symbol": "BOSCHLTD",
-        "ticker": "BOSCHLTD.NS",
-        "sector": "Producer manufacturing",
-        "last": 41065.0,
-        "return_1d_pct": -0.59,
-        "return_5d_pct": -1.1910490856592904,
-        "volume": 46737.0,
-        "avg_volume_20": 27692.8,
-        "volume_ratio_20d": 1.69,
-        "turnover_proxy": 1919254905.0,
-        "above_20dma": false,
-        "above_50dma": true
-      }
-    ],
-    "sector_breadth": [
-      {
-        "sector": "Non-energy minerals",
-        "count": 1,
-        "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 3.65,
-        "average_volume_ratio_20d": 1.5
-      },
-      {
-        "sector": "Consumer services",
-        "count": 1,
-        "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 2.82,
-        "average_volume_ratio_20d": 0.74
-      },
-      {
-        "sector": "Commercial services",
-        "count": 1,
-        "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 2.53,
-        "average_volume_ratio_20d": 0.58
-      },
-      {
-        "sector": "Health services",
-        "count": 3,
-        "advancers": 2,
-        "decliners": 1,
-        "average_1d_pct": 1.42,
-        "average_volume_ratio_20d": 1.29
-      },
-      {
-        "sector": "Transportation",
-        "count": 1,
-        "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 1.35,
-        "average_volume_ratio_20d": 0.6
-      },
-      {
-        "sector": "Process industries",
-        "count": 7,
-        "advancers": 4,
-        "decliners": 3,
-        "average_1d_pct": 1.32,
-        "average_volume_ratio_20d": 0.68
-      },
-      {
-        "sector": "Health technology",
-        "count": 7,
-        "advancers": 5,
-        "decliners": 2,
-        "average_1d_pct": 1.23,
-        "average_volume_ratio_20d": 1.26
-      },
-      {
-        "sector": "Retail trade",
-        "count": 1,
-        "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 1.02,
-        "average_volume_ratio_20d": 0.65
-      },
-      {
-        "sector": "Finance",
-        "count": 12,
-        "advancers": 9,
-        "decliners": 3,
-        "average_1d_pct": 0.7,
-        "average_volume_ratio_20d": 0.95
-      },
-      {
-        "sector": "Consumer durables",
-        "count": 4,
-        "advancers": 3,
-        "decliners": 1,
-        "average_1d_pct": 0.65,
-        "average_volume_ratio_20d": 1.04
-      },
-      {
-        "sector": "Technology services",
-        "count": 2,
-        "advancers": 1,
-        "decliners": 1,
-        "average_1d_pct": 0.53,
-        "average_volume_ratio_20d": 1.62
-      },
-      {
-        "sector": "Producer manufacturing",
-        "count": 12,
-        "advancers": 5,
-        "decliners": 7,
-        "average_1d_pct": 0.09,
-        "average_volume_ratio_20d": 0.68
-      }
-    ],
-    "source_count": 60
+    "leaders": [],
+    "laggards": [],
+    "sector_breadth": [],
+    "source_count": 10
   },
   "nse_highs": {
     "fresh_highs": [],
@@ -1456,110 +374,6 @@
         "rs_above_50dma": true,
         "rotation_signal": "Strengthening with volume",
         "rotation_score": 5.34
-      },
-      {
-        "symbol": "ULTRACEMCO",
-        "name": "UltraTech Cement",
-        "ticker": "ULTRACEMCO.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 11998.0,
-        "return_1d_pct": 0.35,
-        "return_5d_pct": 0.88,
-        "return_20d_pct": 4.73,
-        "volume_ratio_20d": 0.99,
-        "rsi_14": 60.27,
-        "rsi_5d_ago": 57.92,
-        "above_sma_20": true,
-        "above_sma_50": true,
-        "above_sma_200": true,
-        "distance_sma_20_pct": 2.1,
-        "distance_sma_50_pct": 4.44,
-        "rs_ratio": 0.49475882,
-        "rs_ratio_sma_50": 0.48076076,
-        "rs_distance_sma_50_pct": 2.91,
-        "rs_return_20d_pct": 3.68,
-        "rs_above_50dma": true,
-        "rotation_signal": "Strengthening",
-        "rotation_score": 5.24
-      },
-      {
-        "symbol": "ICICIBANK",
-        "name": "ICICI Bank",
-        "ticker": "ICICIBANK.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 1437.9,
-        "return_1d_pct": 0.5,
-        "return_5d_pct": -0.19,
-        "return_20d_pct": 4.21,
-        "volume_ratio_20d": 0.84,
-        "rsi_14": 60.6,
-        "rsi_5d_ago": 64.55,
-        "above_sma_20": true,
-        "above_sma_50": true,
-        "above_sma_200": true,
-        "distance_sma_20_pct": 1.06,
-        "distance_sma_50_pct": 6.19,
-        "rs_ratio": 0.05929436,
-        "rs_ratio_sma_50": 0.0565414,
-        "rs_distance_sma_50_pct": 4.87,
-        "rs_return_20d_pct": 3.16,
-        "rs_above_50dma": true,
-        "rotation_signal": "Strengthening",
-        "rotation_score": 5.13
-      },
-      {
-        "symbol": "M&M",
-        "name": "Mahindra & Mahindra",
-        "ticker": "M&M.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 3221.8,
-        "return_1d_pct": -1.51,
-        "return_5d_pct": 1.46,
-        "return_20d_pct": 4.01,
-        "volume_ratio_20d": 1.6,
-        "rsi_14": 56.17,
-        "rsi_5d_ago": 55.71,
-        "above_sma_20": true,
-        "above_sma_50": true,
-        "above_sma_200": false,
-        "distance_sma_20_pct": 1.81,
-        "distance_sma_50_pct": 4.28,
-        "rs_ratio": 0.13285664,
-        "rs_ratio_sma_50": 0.12931473,
-        "rs_distance_sma_50_pct": 2.74,
-        "rs_return_20d_pct": 2.97,
-        "rs_above_50dma": true,
-        "rotation_signal": "Strengthening with volume",
-        "rotation_score": 5.09
-      },
-      {
-        "symbol": "JIOFIN",
-        "name": "Jio Financial Services",
-        "ticker": "JIOFIN.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 249.48,
-        "return_1d_pct": 5.23,
-        "return_5d_pct": 6.25,
-        "return_20d_pct": 3.95,
-        "volume_ratio_20d": 2.43,
-        "rsi_14": 62.13,
-        "rsi_5d_ago": 45.88,
-        "above_sma_20": true,
-        "above_sma_50": true,
-        "above_sma_200": false,
-        "distance_sma_20_pct": 4.73,
-        "distance_sma_50_pct": 4.75,
-        "rs_ratio": 0.01028775,
-        "rs_ratio_sma_50": 0.0099633,
-        "rs_distance_sma_50_pct": 3.26,
-        "rs_return_20d_pct": 2.9,
-        "rs_above_50dma": true,
-        "rotation_signal": "Strengthening with volume",
-        "rotation_score": 5.08
       }
     ],
     "weakening": [
@@ -1770,110 +584,6 @@
         "rs_above_50dma": false,
         "rotation_signal": "Weakening",
         "rotation_score": 0.52
-      },
-      {
-        "symbol": "ADANIPORTS",
-        "name": "Adani Ports",
-        "ticker": "ADANIPORTS.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 1719.7,
-        "return_1d_pct": -3.1,
-        "return_5d_pct": -5.48,
-        "return_20d_pct": -6.95,
-        "volume_ratio_20d": 2.89,
-        "rsi_14": 33.35,
-        "rsi_5d_ago": 49.98,
-        "above_sma_20": false,
-        "above_sma_50": false,
-        "above_sma_200": true,
-        "distance_sma_20_pct": -5.31,
-        "distance_sma_50_pct": -4.99,
-        "rs_ratio": 0.07091488,
-        "rs_ratio_sma_50": 0.0757417,
-        "rs_distance_sma_50_pct": -6.37,
-        "rs_return_20d_pct": -7.89,
-        "rs_above_50dma": false,
-        "rotation_signal": "Weakening",
-        "rotation_score": 0.4
-      },
-      {
-        "symbol": "COALINDIA",
-        "name": "Coal India",
-        "ticker": "COALINDIA.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 410.05,
-        "return_1d_pct": -0.02,
-        "return_5d_pct": -4.28,
-        "return_20d_pct": -5.68,
-        "volume_ratio_20d": 1.74,
-        "rsi_14": 23.54,
-        "rsi_5d_ago": 38.23,
-        "above_sma_20": false,
-        "above_sma_50": false,
-        "above_sma_200": false,
-        "distance_sma_20_pct": -4.21,
-        "distance_sma_50_pct": -7.65,
-        "rs_ratio": 0.01690914,
-        "rs_ratio_sma_50": 0.0186218,
-        "rs_distance_sma_50_pct": -9.2,
-        "rs_return_20d_pct": -6.63,
-        "rs_above_50dma": false,
-        "rotation_signal": "Weakening",
-        "rotation_score": -0.4
-      },
-      {
-        "symbol": "BEL",
-        "name": "Bharat Electronics",
-        "ticker": "BEL.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 387.55,
-        "return_1d_pct": -0.37,
-        "return_5d_pct": -4.72,
-        "return_20d_pct": -6.89,
-        "volume_ratio_20d": 2.84,
-        "rsi_14": 31.01,
-        "rsi_5d_ago": 44.08,
-        "above_sma_20": false,
-        "above_sma_50": false,
-        "above_sma_200": false,
-        "distance_sma_20_pct": -5.17,
-        "distance_sma_50_pct": -5.91,
-        "rs_ratio": 0.01598131,
-        "rs_ratio_sma_50": 0.01726295,
-        "rs_distance_sma_50_pct": -7.42,
-        "rs_return_20d_pct": -7.83,
-        "rs_above_50dma": false,
-        "rotation_signal": "Weakening",
-        "rotation_score": -0.4
-      },
-      {
-        "symbol": "POWERGRID",
-        "name": "Power Grid",
-        "ticker": "POWERGRID.NS",
-        "downloaded": true,
-        "last_date": "2026-07-29",
-        "last": 282.85,
-        "return_1d_pct": -0.86,
-        "return_5d_pct": -2.23,
-        "return_20d_pct": -1.63,
-        "volume_ratio_20d": 1.48,
-        "rsi_14": 43.35,
-        "rsi_5d_ago": 54.37,
-        "above_sma_20": false,
-        "above_sma_50": false,
-        "above_sma_200": false,
-        "distance_sma_20_pct": -0.87,
-        "distance_sma_50_pct": -1.63,
-        "rs_ratio": 0.01166382,
-        "rs_ratio_sma_50": 0.01205764,
-        "rs_distance_sma_50_pct": -3.27,
-        "rs_return_20d_pct": -2.63,
-        "rs_above_50dma": false,
-        "rotation_signal": "Weakening",
-        "rotation_score": -0.53
       }
     ],
     "mean_reversion": [],
@@ -1890,6 +600,14 @@
         "modified": "2026-07-02T15:19:20Z",
         "bear_link": "bear://x-callback-url/open-note?id=F5D9DFBB-81D7-47A6-91C5-59B848F152B0",
         "excerpt": "# Adani Ports #stocks/watchlist/adaniports ![](0cd23bfdbefe8cc42631f4718d499587038179ec.png)",
+        "images": [
+          {
+            "original_ref": "0cd23bfdbefe8cc42631f4718d499587038179ec.png",
+            "filename": "0cd23bfdbefe8cc42631f4718d499587038179ec.png",
+            "asset_path": "assets/adani-ports-01-0cd23bfdbefe8cc42631f4718d499587038179ec-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Adani Ports \n\n#stocks/watchlist/adaniports\n\n![](0cd23bfdbefe8cc42631f4718d499587038179ec.png)"
       },
       {
@@ -1898,6 +616,14 @@
         "modified": "2026-07-02T15:16:42Z",
         "bear_link": "bear://x-callback-url/open-note?id=6B34B791-21D8-4898-8E0F-972D95416AFC",
         "excerpt": "# Astra microwave #stocks/watchlist/astra-microwave Last updated 2nd july 2026 ![](128e77d6af16be8f6665870898400d3869c9ed42.png)",
+        "images": [
+          {
+            "original_ref": "128e77d6af16be8f6665870898400d3869c9ed42.png",
+            "filename": "128e77d6af16be8f6665870898400d3869c9ed42.png",
+            "asset_path": "assets/astra-microwave-01-128e77d6af16be8f6665870898400d3869c9ed42-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Astra microwave\n\n#stocks/watchlist/astra-microwave\n\nLast updated 2nd july 2026\n\n![](128e77d6af16be8f6665870898400d3869c9ed42.png)"
       },
       {
@@ -1906,6 +632,26 @@
         "modified": "2026-07-20T09:41:07Z",
         "bear_link": "bear://x-callback-url/open-note?id=640A3005-A534-436E-BE40-FE8076C8297B",
         "excerpt": "# Azad Engineering ## Observation - 2026-07-20 Stock: Azad Engineering Action: Bought on 20 July 2026 Observation: Long breakout candle and now consolidation like the flag pattern is forming. The stock is also at support, which shows that the stock is ready for a bounce. Volumes...",
+        "images": [
+          {
+            "original_ref": "azad-engineering-flag-support-2026-07-20 2.png",
+            "filename": "azad-engineering-flag-support-2026-07-20 2.png",
+            "asset_path": "assets/azad-engineering-01-azad-engineering-flag-support-2026-07-20-2-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/azad-engineering-02-image-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "azad-engineering-flag-support-2026-07-20.png",
+            "filename": "azad-engineering-flag-support-2026-07-20.png",
+            "asset_path": "assets/azad-engineering-03-azad-engineering-flag-support-2026-07-20-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Azad Engineering\n## Observation - 2026-07-20\n\nStock: Azad Engineering\n\nAction: Bought on 20 July 2026\n\nObservation:\nLong breakout candle and now consolidation like the flag pattern is forming. The stock is also at support, which shows that the stock is ready for a bounce. Volumes have been declining on the correction, which adds to the confidence that the uptrend is intact.\n\n---\n\n![](azad-engineering-flag-support-2026-07-20%202.png)\n## Update - 2026-07-20\n\nBought on 20 July 2026 as the stock was at support and forming a flag pattern.\n\n#stocks/watchlist/azadengineering\n\n\n#stocks/watchlist/azadengineering\n\n![](image.png)\n---\n\n## Observation - 2026-07-20\n\nLong breakout candle and now consolidation like the flag pattern is forming. The stock is also at support, which shows that the stock is ready for a bounce.\n\nVolumes have been declining on the correction, which adds to the confidence that the uptrend is intact.\n\n![](azad-engineering-flag-support-2026-07-20.png)"
       },
       {
@@ -1914,6 +660,7 @@
         "modified": "2026-07-18T14:21:37Z",
         "bear_link": "bear://x-callback-url/open-note?id=C16F3A03-B34E-44D4-A614-8393A68781CE",
         "excerpt": "# Bajaj Finance Created: 2026-07-18 ## Current View Above a key level and has been outperforming the index. #stocks/watchlist/bajajfinance",
+        "images": [],
         "note": "# Bajaj Finance\n\nCreated: 2026-07-18\n\n## Current View\n\nAbove a key level and has been outperforming the index.\n\n\n#stocks/watchlist/bajajfinance"
       },
       {
@@ -1922,6 +669,20 @@
         "modified": "2026-07-21T08:51:01Z",
         "bear_link": "bear://x-callback-url/open-note?id=BE73A4D9-0BDF-4D52-B581-D83213585610",
         "excerpt": "# Balaji Amines ## Observation - 2026-07-21 Stock: Balaji Amines Action: Watching Observation: The stock is forming a flag pattern above the support level. Current uptrend is strong and the next resistance is at the 2700 level. --- ![](balaji-amines-flag-support-2026-07-21.png)...",
+        "images": [
+          {
+            "original_ref": "balaji-amines-flag-support-2026-07-21.png",
+            "filename": "balaji-amines-flag-support-2026-07-21.png",
+            "asset_path": "assets/balaji-amines-01-balaji-amines-flag-support-2026-07-21-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "870395dfae276b03e7dce7ab4807d8b3bdf8e29b.png",
+            "filename": "870395dfae276b03e7dce7ab4807d8b3bdf8e29b.png",
+            "asset_path": "assets/balaji-amines-02-870395dfae276b03e7dce7ab4807d8b3bdf8e29b-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Balaji Amines\n## Observation - 2026-07-21\n\nStock: Balaji Amines\n\nAction: Watching\n\nObservation:\nThe stock is forming a flag pattern above the support level. Current uptrend is strong and the next resistance is at the 2700 level.\n\n---\n\n![](balaji-amines-flag-support-2026-07-21.png)\n#stocks/watchlist/balajiamines\n\n![](870395dfae276b03e7dce7ab4807d8b3bdf8e29b.png)"
       },
       {
@@ -1930,6 +691,14 @@
         "modified": "2026-07-20T09:36:38Z",
         "bear_link": "bear://x-callback-url/open-note?id=AEC7301C-A536-4D51-A9D1-4A72C3B4B489",
         "excerpt": "# Bharat Forge Created: 2026-07-18 updated last 20/7/2026 ## Current View - - - update on 20/7/2026 breaking out from the flag pattern and the stock is looking like it is in the middle of the uptrend which is going to last for a while. ![](image.png) - - - Added to watchlist for...",
+        "images": [
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/bharat-forge-01-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Bharat Forge\n\nCreated: 2026-07-18\nupdated last 20/7/2026\n## Current View\n- - -\nupdate on 20/7/2026\nbreaking out from the flag pattern and the stock is looking like it is in the middle of the uptrend which is going to last for a while. \n![](image.png)\n- - -\nAdded to watchlist for tracking.\n\n\n#stocks/watchlist/bharatforge"
       },
       {
@@ -1938,6 +707,20 @@
         "modified": "2026-07-20T09:49:12Z",
         "bear_link": "bear://x-callback-url/open-note?id=8D474C7B-1BB9-4605-8EE9-4FDD3F95D03F",
         "excerpt": "# Bharat Seats ## Observation - 2026-07-20 Stock: Bharat Seats Observation: Stock at the support level. Volumes are low. Expecting a bounce. --- ![](bharat-seats-support-low-volume-2026-07-20.png) #stocks/watchlist/bharatseats ![](image.png)",
+        "images": [
+          {
+            "original_ref": "bharat-seats-support-low-volume-2026-07-20.png",
+            "filename": "bharat-seats-support-low-volume-2026-07-20.png",
+            "asset_path": "assets/bharat-seats-01-bharat-seats-support-low-volume-2026-07-20-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/bharat-seats-02-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Bharat Seats \n## Observation - 2026-07-20\n\nStock: Bharat Seats\n\nObservation:\nStock at the support level. Volumes are low. Expecting a bounce.\n\n---\n\n![](bharat-seats-support-low-volume-2026-07-20.png)\n\n#stocks/watchlist/bharatseats \n\n![](image.png)"
       },
       {
@@ -1946,6 +729,14 @@
         "modified": "2026-07-14T10:54:21Z",
         "bear_link": "bear://x-callback-url/open-note?id=BF6ECF0B-6029-49E5-BCFA-26464E19CA34",
         "excerpt": "# caplipoint #stocks/watchlist/caplipoint ![](image.png)",
+        "images": [
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/caplipoint-01-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# caplipoint\n#stocks/watchlist/caplipoint\n![](image.png)"
       },
       {
@@ -1954,6 +745,7 @@
         "modified": "2026-07-18T14:21:51Z",
         "bear_link": "bear://x-callback-url/open-note?id=F8F2F35B-9AA4-493C-ACF0-8C255490DFE8",
         "excerpt": "# City Union Bank Created: 2026-07-18 ## Current View Added to watchlist for tracking. #stocks/watchlist/cityunionbank",
+        "images": [],
         "note": "# City Union Bank\n\nCreated: 2026-07-18\n\n## Current View\n\nAdded to watchlist for tracking.\n\n\n#stocks/watchlist/cityunionbank"
       },
       {
@@ -1962,6 +754,20 @@
         "modified": "2026-07-14T11:03:22Z",
         "bear_link": "bear://x-callback-url/open-note?id=6A578A06-D3C7-44F8-A86E-A9C25A45FF34",
         "excerpt": "# Divislab #stocks/watchlist/divislab ![](image.png) ![](image%20copy.png)",
+        "images": [
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/divislab-01-image-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "image copy.png",
+            "filename": "image copy.png",
+            "asset_path": "assets/divislab-02-image-copy-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Divislab\n#stocks/watchlist/divislab\n\n![](image.png)\n\n![](image%20copy.png)"
       },
       {
@@ -1970,6 +776,7 @@
         "modified": "2026-07-14T15:56:31Z",
         "bear_link": "bear://x-callback-url/open-note?id=DA86BC67-5781-40C8-BA14-C747B6321B27",
         "excerpt": "# fermenta biotech #stocks/watchlist/fermetabiotech",
+        "images": [],
         "note": "# fermenta biotech\n#stocks/watchlist/fermetabiotech"
       },
       {
@@ -1978,6 +785,14 @@
         "modified": "2026-07-03T12:18:25Z",
         "bear_link": "bear://x-callback-url/open-note?id=63BB2C46-9EDF-45B9-B239-566A66DEFC77",
         "excerpt": "# fusion finance #stocks/watchlist/fusionfinance ![](f0ff6c75da4f3961a8fd0e23d6baee411ea7e673.heic)",
+        "images": [
+          {
+            "original_ref": "f0ff6c75da4f3961a8fd0e23d6baee411ea7e673.heic",
+            "filename": "f0ff6c75da4f3961a8fd0e23d6baee411ea7e673.heic",
+            "asset_path": "assets/fusion-finance-01-f0ff6c75da4f3961a8fd0e23d6baee411ea7e673-heic.jpg",
+            "source_extension": "heic"
+          }
+        ],
         "note": "# fusion finance\n\n#stocks/watchlist/fusionfinance\n\n![](f0ff6c75da4f3961a8fd0e23d6baee411ea7e673.heic)"
       },
       {
@@ -1986,6 +801,20 @@
         "modified": "2026-07-21T08:51:31Z",
         "bear_link": "bear://x-callback-url/open-note?id=E1BF4684-DA26-4568-A76C-11485EBE46E9",
         "excerpt": "# Gabriel ## Observation - 2026-07-21 Stock: Gabriel India Action: Watching Observation: Looks like the stock is already in the middle of a strong uptrend and will need to wait to get an entry in the stock. --- ![](gabriel-india-strong-uptrend-2026-07-21.png) #stocks/watchlist/g...",
+        "images": [
+          {
+            "original_ref": "gabriel-india-strong-uptrend-2026-07-21.png",
+            "filename": "gabriel-india-strong-uptrend-2026-07-21.png",
+            "asset_path": "assets/gabriel-01-gabriel-india-strong-uptrend-2026-07-21-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/gabriel-02-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Gabriel \n## Observation - 2026-07-21\n\nStock: Gabriel India\n\nAction: Watching\n\nObservation:\nLooks like the stock is already in the middle of a strong uptrend and will need to wait to get an entry in the stock.\n\n---\n\n![](gabriel-india-strong-uptrend-2026-07-21.png)\n\n#stocks/watchlist/gabriel\nLast updated - 15 july 2026\nstock looks good for the rally in the coming days. Has done well on the day when the overall markets were flat and the broader markets were still coming to terms with the restart of the hostilities between the US and Iran. \n![](image.png)"
       },
       {
@@ -1994,6 +823,32 @@
         "modified": "2026-07-27T14:33:22Z",
         "bear_link": "bear://x-callback-url/open-note?id=FA554EE0-F80C-4DF0-B535-6963A8839763",
         "excerpt": "# GHCL Textiles ## Observation - 2026-07-23 Stock: GHCL Textiles Action: Watching Observation: Worth watching for now. The stock has had a sharp rally and is trading close to its all-time-high zone. We should not chase the move here. A position should be considered only if the s...",
+        "images": [
+          {
+            "original_ref": "ghcl-textiles-2026-07-23 4.png",
+            "filename": "ghcl-textiles-2026-07-23 4.png",
+            "asset_path": "assets/ghcl-textiles-01-ghcl-textiles-2026-07-23-4-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "ghcl-textiles-2026-07-23 3.png",
+            "filename": "ghcl-textiles-2026-07-23 3.png",
+            "asset_path": "assets/ghcl-textiles-02-ghcl-textiles-2026-07-23-3-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "ghcl-textiles-2026-07-23 2.png",
+            "filename": "ghcl-textiles-2026-07-23 2.png",
+            "asset_path": "assets/ghcl-textiles-03-ghcl-textiles-2026-07-23-2-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "ghcl-textiles-2026-07-23.png",
+            "filename": "ghcl-textiles-2026-07-23.png",
+            "asset_path": "assets/ghcl-textiles-04-ghcl-textiles-2026-07-23-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# GHCL Textiles\n## Observation - 2026-07-23\n\nStock: GHCL Textiles\n\nAction: Watching\n\nObservation:\nWorth watching for now. The stock has had a sharp rally and is trading close to its all-time-high zone. We should not chase the move here. A position should be considered only if the stock breaks above the resistance/all-time-high area and then successfully retests the breakout level as support. Fundamental support for the move appears to be improving yarn spreads, strong FY26/Q4 performance, capacity/value-added expansion, low leverage, and broader textile-sector tailwinds. Continuation needs confirmation from sustained spreads and order conversion.\n\n---\n\n#stocks/watchlist #stocks/watchlist/ghcltextiles\n\n![](ghcl-textiles-2026-07-23%204.png)\n## Observation - 2026-07-23\n\nStock: GHCL Textiles\n\nAction: Watching\n\nObservation:\nWorth watching for now. The stock has had a sharp rally and is trading close to its all-time-high zone. We should not chase the move here. A position should be considered only if the stock breaks above the resistance/all-time-high area and then successfully retests the breakout level as support. Fundamental support for the move appears to be improving yarn spreads, strong FY26/Q4 performance, capacity/value-added expansion, low leverage, and broader textile-sector tailwinds. Continuation needs confirmation from sustained spreads and order conversion.\n\n---\n\n#stocks/watchlist #stocks/watchlist/ghcltextiles\n\n![](ghcl-textiles-2026-07-23%203.png)\n## Observation - 2026-07-23\n\nStock: GHCL Textiles\n\nAction: Watching\n\nObservation:\nWorth watching for now. The stock has had a sharp rally and is trading close to its all-time-high zone. We should not chase the move here. A position should be considered only if the stock breaks above the resistance/all-time-high area and then successfully retests the breakout level as support. Fundamental support for the move appears to be improving yarn spreads, strong FY26/Q4 performance, capacity/value-added expansion, low leverage, and broader textile-sector tailwinds. Continuation needs confirmation from sustained spreads and order conversion.\n\n---\n\n![](ghcl-textiles-2026-07-23%202.png)\n## Observation - 2026-07-23\n\nStock: GHCL Textiles\n\nAction: Watching\n\nObservation:\nWorth watching for now. The stock has had a sharp rally and is trading close to its all-time-high zone. We should not chase the move here. A position should be considered only if the stock breaks above the resistance/all-time-high area and then successfully retests the breakout level as support. Fundamental support for the move appears to be improving yarn spreads, strong FY26/Q4 performance, capacity/value-added expansion, low leverage, and broader textile-sector tailwinds. Continuation needs confirmation from sustained spreads and order conversion.\n\n---\n\n![](ghcl-textiles-2026-07-23.png)\n\n#stocks/watchlist/ghcltextiles"
       },
       {
@@ -2002,6 +857,20 @@
         "modified": "2026-07-21T08:55:29Z",
         "bear_link": "bear://x-callback-url/open-note?id=8B0277F4-9D90-4585-A532-C7D248E3547C",
         "excerpt": "# Ipcalab ## Observation - 2026-07-21 Stock: IPCA Laboratories Action: Watching Observation: IPCA Lab is nearing support on the long-term chart on the daily timeframe. We are looking at 1755 as the major support level, and the current price is around 1797. --- ![](ipca-lab-near-...",
+        "images": [
+          {
+            "original_ref": "ipca-lab-near-support-2026-07-21.png",
+            "filename": "ipca-lab-near-support-2026-07-21.png",
+            "asset_path": "assets/ipcalab-01-ipca-lab-near-support-2026-07-21-png.png",
+            "source_extension": "png"
+          },
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/ipcalab-02-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Ipcalab\n## Observation - 2026-07-21\n\nStock: IPCA Laboratories\n\nAction: Watching\n\nObservation:\nIPCA Lab is nearing support on the long-term chart on the daily timeframe. We are looking at 1755 as the major support level, and the current price is around 1797.\n\n---\n\n![](ipca-lab-near-support-2026-07-21.png)\n#stocks/watchlist/ipcalab\n\n![](image.png)"
       },
       {
@@ -2010,6 +879,14 @@
         "modified": "2026-07-22T15:04:27Z",
         "bear_link": "bear://x-callback-url/open-note?id=3EE6B25D-53E8-40F8-B11F-6FA1BAFCE267",
         "excerpt": "# JB chem pharma ## Observation - 2026-07-21 Stock: JB Chem Pharma Action: Watching Observation: The stock has formed a major bearish candle on high volumes. There is a good chance that this signals the end of the run-up for the stock in the short term at least. We need to wait...",
+        "images": [
+          {
+            "original_ref": "80e76f9bb62d03c2df4d232a5ff573b7920989fa.heic",
+            "filename": "80e76f9bb62d03c2df4d232a5ff573b7920989fa.heic",
+            "asset_path": "assets/jb-chem-pharma-01-80e76f9bb62d03c2df4d232a5ff573b7920989fa-heic.jpg",
+            "source_extension": "heic"
+          }
+        ],
         "note": "# JB chem pharma \n## Observation - 2026-07-21\n\nStock: JB Chem Pharma\n\nAction: Watching\n\nObservation:\nThe stock has formed a major bearish candle on high volumes. There is a good chance that this signals the end of the run-up for the stock in the short term at least. We need to wait and watch for the stock to either come to a support level or form another consolidation pattern and then break out from that.\n\n---\n\n\n#stocks/watchlist/jbchepharma\n![](80e76f9bb62d03c2df4d232a5ff573b7920989fa.heic)"
       },
       {
@@ -2018,6 +895,7 @@
         "modified": "2026-07-15T11:19:03Z",
         "bear_link": "bear://x-callback-url/open-note?id=D52CD139-EB9B-4F09-B0CB-10765CA27C9F",
         "excerpt": "# List of stocks that I am tracking currently #stocks/watchlist Current Watch list 1. [[Ramco cement]] 2. [[Sky gold]] 3. [[Balaji Amines]] 4. [[Rategain Travel]] 5. [[Astra microwave]] 6. [[Adani Ports]] 7. [[fusion finance]] 8. [[tamilnad mercantile bank]] 9. [[JB chem pharma]...",
+        "images": [],
         "note": "# List of stocks that I am tracking currently\n#stocks/watchlist \n\n\nCurrent Watch list \n\n1. [[Ramco cement]]\n2. [[Sky gold]]\n3. [[Balaji Amines]]\n4. [[Rategain Travel]]\n5. [[Astra microwave]]\n6. [[Adani Ports]]\n7. [[fusion finance]]\n8. [[tamilnad mercantile bank]]\n9. [[JB chem pharma]]\n10. [[Bharat Seats]]\n11. [[Azad Engineering]]\n12. [[suven life sciences]]\n13. [[caplipoint]]\n14. [[Ipcalab]]\n15. [[Sunpharma]]\n16. [[Divislab]]\n17. [[Gabriel]]\n18. [[3256577A-8AB9-4A5D-96A8-8B5A5746225F]]\n19. \n\n\n- - -\n\nThe below table is the summary of all the stocks that I am tracking and which are mentioned in this master list. Each stock will also get its own complete tracker which you can access by clicking on the link. \n| Stock Name                       | Link                                                         |\n|----------------------------------|--------------------------------------------------------------|\n| Adaniports <br>                  |                                                              |\n| ~~HDFC AMC~~                     | archived                                                     |\n| ~~Bajaj Finance~~                |                                                              |\n| Colgate Palmolive                |                                                              |\n| Marico                           |                                                              |\n| Bharat Elecronics Limited        |                                                              |\n| Indian Bank                      |                                                              |\n| Union Bank                       |                                                              |\n| Maha Bank                        |                                                              |\n| [[Aditya Birla Sunlife Limited]] |                                                              |\n| [[Coal India]]                   |                                                              |\n| [[Sai Life Sciences]]            | 27 Feb 2026 <br>all time high breakout from <br>consolidation and also outperforming <br>the market. |\n| ongc                             |                                                              |\n| lupin                            |                                                              |\n| GE shipping <br>                 |                                                              |\n| [[anand rathi wealth]]           |                                                              |\n| [[NATCOPHARMA]]                  | RESISTANCE BREAKOUT AND also outperforming the market.       |\n| [[polycab]]                      | all time high breakout from consolidation and now retracementn to the support. |\n| [[Madhya Bharat Agro]]           |                                                              |\n\nArchived Table \n| Stock name  | Notes  |\n|-------------|--------|\n| HDFC AMC    |        |\n\nTable for the breakout with the week ending 20-3-2026\n\n\nAdaniports \nExcellent relative strength and also at all time highs. The company is almost a monopoly in the indian shipping ports sector as it has build that over the last decade and a half. As India continues to grow and the infra segment is in the spotlight this particular stock is likely to get a lot of the investors interested. \n\nHDFC AMC \nupdate on the 18-2-2025\nlooks like the stock is forming a bearish engulfing pattern which is a little surprising but one candle is not going to nullify the entire chart picture. We will have to see how it pans out over the coming few days and whether the volumes pick up or the level is broken. In my view this will settle down in a few days most likely. \nLooks like the stock is now trading above some key level and the fact that this is also showing some strength despite the negative market news shows that the stock is looking set to see higher levels.\n\n\nbajaj finance \nlooking good on the short term trade perspective as the stock is now forming a bullish flag after breaking out above a key resistance level. There is expectedly more rally to come in this stock as the financials have been doing very well and are showing excellent relative strength \n\n\nbharat electronics limited \nLeading stock in the defence sector and has all broken out to all time high. There is a good chance that this stock is going become a multibagger and in the coming months and years. The chart picture and the fundamentals are both aligning perfectly at the moment.\n\nShort term trades \nwhirlpool looking very good at the moment with the breakout from a flag pattern. No real resistance at the moment nearby and looks like the stock can rally for a bit in the coming days. \n\n## Intermediate trends<!-- {\"fold\":true} -->\n### Indian Bank<!-- {\"fold\":true} -->\nHas been one of the stocks which has been weak as of late but otherwise is the strongest of the PSU lot. Has been able to absorb the volatility well and form a cosolidation pattern and is now looking to breakout from the consolidation pattern.  \n\n## Pure chart plays<!-- {\"fold\":true} -->\n### union bank\n is a breakout from a consolidation pattern to all time highs on high volumes. \n\n## Broad sectoral themes <!-- {\"fold\":true} -->\n### PSU Banks <!-- {\"fold\":true} -->\nPsu banks continue to look very good and we are seeing some real strength in the stocks there. Union bank and Indian bank are the ones that are breaking out to all time highs there and we could see the strength in the SBI now rub off in these stocks as they have been just consolidating while the SBI was making new all time highs. \n\n## DEFENCE <!-- {\"fold\":true} -->\nThis sector has the stocks doing very well and we are expecting to see some more of these stocks do well in the coimng days. The orders from the government has been coming in and the companies now need to deliver on the promise that they have made. \nBEL \nalready mentioned above \n#### Dynamatic technologies \n\n### Pharma <!-- {\"fold\":true} -->\n#### sms pharma<!-- {\"fold\":true} -->\n\n\nFMCG\nThe sector looks very good and is forming some very good reversal patterns as well as breakout in the case of a few. Marico looks like the best in the sector and the others that are also looking constructive are Colgate and Britannia. Britannia is breaking out from what looks like a consolidation pattern on the weekly timeframe. 18 Feb 2026"
       },
       {
@@ -2026,6 +904,7 @@
         "modified": "2026-07-02T15:12:32Z",
         "bear_link": "bear://x-callback-url/open-note?id=20764051-813E-4FBE-A2ED-8B9966D4CA65",
         "excerpt": "# Rategain Travel #stocks/watchlist/rategain",
+        "images": [],
         "note": "# Rategain Travel \n\n#stocks/watchlist/rategain"
       },
       {
@@ -2034,6 +913,7 @@
         "modified": "2026-07-18T14:21:43Z",
         "bear_link": "bear://x-callback-url/open-note?id=2A59DB28-9EC3-4E2F-8201-094A851B82E0",
         "excerpt": "# SBI Cards and Payments Created: 2026-07-18 ## Current View Looks like it is making a reversal head and shoulder pattern. Consistent with the financials doing well. #stocks/watchlist/sbicards",
+        "images": [],
         "note": "# SBI Cards and Payments\n\nCreated: 2026-07-18\n\n## Current View\n\nLooks like it is making a reversal head and shoulder pattern. Consistent with the financials doing well.\n\n\n#stocks/watchlist/sbicards"
       },
       {
@@ -2042,6 +922,14 @@
         "modified": "2026-07-02T15:01:42Z",
         "bear_link": "bear://x-callback-url/open-note?id=2D398766-484D-4B3E-9AE8-7C3E788BA0EF",
         "excerpt": "# Sky gold #stocks/watchlist/skygold Last updated 2nd july 2026 ![](0bb712a31c8fe543edd220e6316252769d0d8878.png)",
+        "images": [
+          {
+            "original_ref": "0bb712a31c8fe543edd220e6316252769d0d8878.png",
+            "filename": "0bb712a31c8fe543edd220e6316252769d0d8878.png",
+            "asset_path": "assets/sky-gold-01-0bb712a31c8fe543edd220e6316252769d0d8878-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Sky gold \n\n#stocks/watchlist/skygold\n\nLast updated 2nd july 2026 \n\n![](0bb712a31c8fe543edd220e6316252769d0d8878.png)"
       },
       {
@@ -2050,6 +938,7 @@
         "modified": "2026-07-27T14:51:28Z",
         "bear_link": "bear://x-callback-url/open-note?id=185241AC-0E4E-4F22-9CC1-C7BEE173C285",
         "excerpt": "# Stock Watchlist Index Generated: 2026-07-27 20:21 Source tag: #stocks/watchlist Total notes: 27 ## Watchlist Notes 1. [Adani Ports](bear://x-callback-url/open-note?id=F5D9DFBB-81D7-47A6-91C5-59B848F152B0) 2. [Astra microwave](bear://x-callback-url/open-note?id=6B34B791-21D8-48...",
+        "images": [],
         "note": "# Stock Watchlist Index\n\nGenerated: 2026-07-27 20:21\n\nSource tag: #stocks/watchlist\n\nTotal notes: 27\n\n## Watchlist Notes\n\n1. [Adani Ports](bear://x-callback-url/open-note?id=F5D9DFBB-81D7-47A6-91C5-59B848F152B0)\n2. [Astra microwave](bear://x-callback-url/open-note?id=6B34B791-21D8-4898-8E0F-972D95416AFC)\n3. [Azad Engineering](bear://x-callback-url/open-note?id=640A3005-A534-436E-BE40-FE8076C8297B)\n4. [Bajaj Finance](bear://x-callback-url/open-note?id=C16F3A03-B34E-44D4-A614-8393A68781CE)\n5. [Balaji Amines](bear://x-callback-url/open-note?id=BE73A4D9-0BDF-4D52-B581-D83213585610)\n6. [Bharat Forge](bear://x-callback-url/open-note?id=AEC7301C-A536-4D51-A9D1-4A72C3B4B489)\n7. [Bharat Seats](bear://x-callback-url/open-note?id=8D474C7B-1BB9-4605-8EE9-4FDD3F95D03F)\n8. [caplipoint](bear://x-callback-url/open-note?id=BF6ECF0B-6029-49E5-BCFA-26464E19CA34)\n9. [City Union Bank](bear://x-callback-url/open-note?id=F8F2F35B-9AA4-493C-ACF0-8C255490DFE8)\n10. [Divislab](bear://x-callback-url/open-note?id=6A578A06-D3C7-44F8-A86E-A9C25A45FF34)\n11. [fermenta biotech](bear://x-callback-url/open-note?id=DA86BC67-5781-40C8-BA14-C747B6321B27)\n12. [fusion finance](bear://x-callback-url/open-note?id=63BB2C46-9EDF-45B9-B239-566A66DEFC77)\n13. [Gabriel](bear://x-callback-url/open-note?id=E1BF4684-DA26-4568-A76C-11485EBE46E9)\n14. [Generated: 2026-07-27 20:08](bear://x-callback-url/open-note?id=185241AC-0E4E-4F22-9CC1-C7BEE173C285)\n15. [GHCL Textiles](bear://x-callback-url/open-note?id=FA554EE0-F80C-4DF0-B535-6963A8839763)\n16. [Ipcalab](bear://x-callback-url/open-note?id=8B0277F4-9D90-4585-A532-C7D248E3547C)\n17. [JB chem pharma](bear://x-callback-url/open-note?id=3EE6B25D-53E8-40F8-B11F-6FA1BAFCE267)\n18. [List of stocks that I am tracking currently](bear://x-callback-url/open-note?id=D52CD139-EB9B-4F09-B0CB-10765CA27C9F)\n19. [Rategain Travel](bear://x-callback-url/open-note?id=20764051-813E-4FBE-A2ED-8B9966D4CA65)\n20. [SBI Cards and Payments](bear://x-callback-url/open-note?id=2A59DB28-9EC3-4E2F-8201-094A851B82E0)\n21. [Sky gold](bear://x-callback-url/open-note?id=2D398766-484D-4B3E-9AE8-7C3E788BA0EF)\n22. [Sunpharma](bear://x-callback-url/open-note?id=FBB52161-A84F-43B0-B917-F7D14AF6D2E6)\n23. [Supriya life science](bear://x-callback-url/open-note?id=476FDADB-6AE4-41A2-90F9-0BC33DFDF517)\n24. [suven life sciences](bear://x-callback-url/open-note?id=8D44D204-18F3-44C7-B502-4F8696C6B4B1)\n25. [Thangamayil Jewellery](bear://x-callback-url/open-note?id=5952FA00-2663-4AB8-838F-8B0B2F9154F0)\n26. [Tribhovandas Bhimji Zaveri](bear://x-callback-url/open-note?id=73F49E8A-78A8-45DB-86B7-803671CAB01E)\n27. [Untitled](bear://x-callback-url/open-note?id=3256577A-8AB9-4A5D-96A8-8B5A5746225F)\n\n#stocks/watchlist/index"
       },
       {
@@ -2058,6 +947,14 @@
         "modified": "2026-07-14T11:00:48Z",
         "bear_link": "bear://x-callback-url/open-note?id=FBB52161-A84F-43B0-B917-F7D14AF6D2E6",
         "excerpt": "# Sunpharma #stocks/watchlist/sunpharma ![](image.png)",
+        "images": [
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/sunpharma-01-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Sunpharma\n#stocks/watchlist/sunpharma\n\n![](image.png)"
       },
       {
@@ -2066,6 +963,14 @@
         "modified": "2026-07-14T15:53:30Z",
         "bear_link": "bear://x-callback-url/open-note?id=476FDADB-6AE4-41A2-90F9-0BC33DFDF517",
         "excerpt": "# Supriya life science #stocks/watchlist/supriyalifescience ![](image.png)",
+        "images": [
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/supriya-life-science-01-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Supriya life science\n\n#stocks/watchlist/supriyalifescience\n\n\n![](image.png)"
       },
       {
@@ -2074,6 +979,14 @@
         "modified": "2026-07-09T14:48:11Z",
         "bear_link": "bear://x-callback-url/open-note?id=8D44D204-18F3-44C7-B502-4F8696C6B4B1",
         "excerpt": "# suven life sciences #stocks/watchlist/suvenlife ![](image.png)",
+        "images": [
+          {
+            "original_ref": "image.png",
+            "filename": "image.png",
+            "asset_path": "assets/suven-life-sciences-01-image-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# suven life sciences \n\n#stocks/watchlist/suvenlife\n\n![](image.png)"
       },
       {
@@ -2082,6 +995,14 @@
         "modified": "2026-07-23T07:10:16Z",
         "bear_link": "bear://x-callback-url/open-note?id=5952FA00-2663-4AB8-838F-8B0B2F9154F0",
         "excerpt": "# Thangamayil Jewellery ## Observation - 2026-07-23 Stock: Thangamayil Jewellery Action: Watching Observation: The stock remains in a strong uptrend after a sharp breakout. Price is consolidating near the highs in a tight flag-like structure, which suggests the prior move is bei...",
+        "images": [
+          {
+            "original_ref": "thangamayil-jewellery-2026-07-23.png",
+            "filename": "thangamayil-jewellery-2026-07-23.png",
+            "asset_path": "assets/thangamayil-jewellery-01-thangamayil-jewellery-2026-07-23-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Thangamayil Jewellery\n## Observation - 2026-07-23\n\nStock: Thangamayil Jewellery\n\nAction: Watching\n\nObservation:\nThe stock remains in a strong uptrend after a sharp breakout. Price is consolidating near the highs in a tight flag-like structure, which suggests the prior move is being digested rather than reversed. A breakout above this consolidation can confirm continuation, while the recent consolidation base should be watched as the immediate support zone.\n\n---\n\n![](thangamayil-jewellery-2026-07-23.png)\n\n#stocks/watchlist/thangamayiljewellery"
       },
       {
@@ -2090,6 +1011,14 @@
         "modified": "2026-07-27T14:38:34Z",
         "bear_link": "bear://x-callback-url/open-note?id=73F49E8A-78A8-45DB-86B7-803671CAB01E",
         "excerpt": "# Tribhovandas Bhimji Zaveri ## Observation - 2026-07-27 Stock: Tribhovandas Bhimji Zaveri Action: Watching Observation: The stock has given a sharp momentum move and is trading above the earlier resistance zone around 221-239. Price is now near 280 after a strong breakout candl...",
+        "images": [
+          {
+            "original_ref": "tribhovandas-bhimji-zaveri-2026-07-27.png",
+            "filename": "tribhovandas-bhimji-zaveri-2026-07-27.png",
+            "asset_path": "assets/tribhovandas-bhimji-zaveri-01-tribhovandas-bhimji-zaveri-2026-07-27-png.png",
+            "source_extension": "png"
+          }
+        ],
         "note": "# Tribhovandas Bhimji Zaveri\n## Observation - 2026-07-27\n\nStock: Tribhovandas Bhimji Zaveri\n\nAction: Watching\n\nObservation:\nThe stock has given a sharp momentum move and is trading above the earlier resistance zone around 221-239. Price is now near 280 after a strong breakout candle with high volume. It is worth watching for continuation, but the better entry would be on a retest or consolidation above the breakout zone rather than chasing the move immediately. Key levels to monitor are the breakout support zone near 239/222 and the higher resistance area near 298.\n\n---\n\n#stocks/watchlist #stocks/watchlist/tribhovandasbhimjizaveri\n\n![](tribhovandas-bhimji-zaveri-2026-07-27.png)\n\n#stocks/watchlist #stocks/watchlist/tribhovandasbhimjizaveri"
       },
       {
@@ -2098,6 +1027,7 @@
         "modified": "2026-07-18T14:32:58Z",
         "bear_link": "bear://x-callback-url/open-note?id=3256577A-8AB9-4A5D-96A8-8B5A5746225F",
         "excerpt": "# Indusindbank Update - 2026-07-18 Breakout from resistance and now forming a flag pattern which it is breaking out from. Earnings date is close by, which can add volatility. Stock has broken out from the resistance zones and is now forming a consolidation flag pattern which is...",
+        "images": [],
         "note": "# Indusindbank\n\nUpdate - 2026-07-18\n\nBreakout from resistance and now forming a flag pattern which it is breaking out from. Earnings date is close by, which can add volatility.\n\n\nStock has broken out from the resistance zones and is now forming a consolidation flag pattern which is a good sign, as over the last couple of days a lot of the banking stocks have struggled due to the crude price rally on account of the US-Iran hostilities. The fact that this stock has been going well and just consolidating rather than falling sharply shows the investor interest in the stock and the coming days are likely to result in a good rally in the stock. \n\n#stocks/watchlist/indusindbank"
       }
     ],
@@ -2455,6 +1385,15 @@
       "description": "Stock market today: Japan’s Nikkei dips, South Korea’s KOSPI falls 6.81 percent as traders await Microsoft, Meta earnings amid tech selloff Economy Middle East"
     },
     {
+      "published": "2026-07-28T19:59:07+00:00",
+      "score": 9.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "TradingView",
+      "title": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbURXVk1wRGs2SHBoTTFnQm1RRFNLTFVBQlJyTXlCRFZYc010Zm80TkNrYnp3YXhPYWlfQnc1RnVJRGZkaE0yeWlfMEFfVEdtaDFkMzVIQ1g2NENEUGNDUmFsbzFqNWxiZTB1SGl0aE1URkRHZ2NSZE5xYk95c3JNWGlLTEVlb3NDTWZjbzB6Wjd1RTQzMVAyUmNvVmJDMHRFdjJNbVhleTRJdTc3ZUY0c2w1M1VYd29mTmhHRjJ5VG1HeWFhdDNfcDc4N25lT3ds?oc=5",
+      "description": "AI Chip Stocks Tumble as Nvidia, AMD Lead Market Selloff Over Spending Fears TradingView"
+    },
+    {
       "published": "2026-07-29T12:00:03+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -2570,6 +1509,141 @@
       "title": "Japanese Shares Fall as Tech Selloff Intensifies - TradingView",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZDJnX0RoV1ZoS1lpYmw2Mm5DYU9hTDlfNHlEZ0dSZUVUUExTVHMycHdWQllYTFhINnJaakpFaC1UUzJLejlfaW9lLXFrWTdfakNrOUpSX1BNMThTdHlzNlVRa2VaYkQzTGNQVktvZHJtbUJraEJlckxobktOMTVqZ0kxYXgtLWMzU3p3ektVb1c0dlhxN2F0TlVwX0lJTVZy?oc=5",
       "description": "Japanese Shares Fall as Tech Selloff Intensifies TradingView"
+    },
+    {
+      "published": "2026-07-28T22:48:00+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "The Edge Singapore",
+      "title": "Asian stocks eye gains as oil offsets chip selloff - The Edge Singapore",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUjZ1S3piSUZUNm91QjE5MlZldVpDUmM2WGxQRng1UDJjV0lXMlpTdTNXOWhLVFRNVHVyRjBzODh5dUVCTlFpWEtNZFZTSDJsT2pEaGpYWnFBZG1lNTBHNDZUVllZdFZKemNWN2Q3aVcwVndiNDcxQVBNN0NrZjkySHZmejZOclR3Y0ltSF9fMEsycm16aDcwZ3FGY9IBoAFBVV95cUxOck0yQzNLQWhYcGZpVjZhaktIVmhuTFV0QjlzSEJpS0g0Tms4WjVqOE5SbDN0VTBTLVBjcWhzU2M2b0R2VUhqNE4zdjhtU0d2Sl9Qcm55b0gxU0l5OERBZGxzN0pCaDNFU3RZN0hfVGFtckZnYmdZSklsM1BWdEdaWnZScjNMWFVuaThUVlJLaHRxSDduamhZdGxsZ0ZPUXNB?oc=5",
+      "description": "Asian stocks eye gains as oil offsets chip selloff The Edge Singapore"
+    },
+    {
+      "published": "2026-07-28T21:29:52+00:00",
+      "score": 8.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "BBN Times",
+      "title": "BSE SENSEX: Mumbai Benchmark Falls to 76,059.77 as Crude Oil Surge Extends Losing Streak to Five Sessions - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYlN4REhFT0NkV1B3dDVObXRETzZKQll1OWdvTkJmeWg0aXczTUYwOW9uMHY3VmtVWDRRUU5KMEwwMFFmRzBDQm9lUHVQVnBGaDl5Y29Oam1jVm5NRFZ5SFpvejdnWEFMMkVOSFRZb1ZqNHNxZnVhbEVyckxLRndPQ1AyTFJOYzUxY1lTSkxkMlNZaWg5ZDBRbUpSWWF4bzFEcUU1eUZ6TkV5X2FJeE5MYlZJREdublRUenhZZlRoLVd2UjdJbXFURGRBaE80dHJGU1hIR013?oc=5",
+      "description": "BSE SENSEX: Mumbai Benchmark Falls to 76,059.77 as Crude Oil Surge Extends Losing Streak to Five Sessions BBN Times"
+    },
+    {
+      "published": "2026-07-28T20:41:21+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "Benzinga",
+      "title": "SK Hynix Earnings Could Test AI Memory Selloff Thesis - Micron Technology (NASDAQ:MU), Western Digital (N - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRklLMGstRHhGOFVBdm4tQng4VkhPY0J0Ymx6dmd3U0djVzZUZnJWR0VETERkSFdlb2hIRHNDVUVQcG1idnJONkVJd1h0TXZ1dTh0NXJxdXBPcXJERDZzSGhWMW5fVXdtWnBNQmFweHBGTTc1Mm9tcm9QZEtQalZYN1lxMUdKRC11SGE1WGwtMkFIcko5T2JPSmRHZ21OejFHZmc?oc=5",
+      "description": "SK Hynix Earnings Could Test AI Memory Selloff Thesis - Micron Technology (NASDAQ:MU), Western Digital (N Benzinga"
+    },
+    {
+      "published": "2026-07-28T19:45:00+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Fortune",
+      "title": "‘A lot of panic around the AI investment’: How a chip slump is driving the Nasdaq toward correction - Fortune",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWFJ2OENUXzZ4VFZORnpSZ2xBNVFvMTNfWEx4OW9JSGpyU2UxTkZxRG5OeEpXUHlJZ19LdHJhcUJtMXhFWFFIZmR2aEtLYmFIWnJPZDRtUXBMQ0xaaUxiaVRTOTVxM2NNc1BTLVZrM3AyOFdWWUlnQ2MzUDBGSUNIbjlnazk?oc=5",
+      "description": "‘A lot of panic around the AI investment’: How a chip slump is driving the Nasdaq toward correction Fortune"
+    },
+    {
+      "published": "2026-07-28T19:16:21+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Pluang",
+      "title": "Nasdaq nears correction as AI and semiconductor stocks face profit-taking sell-offs. - Pluang",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNQUV2TFB2S1pkdHpnaWliUnc4UEV2VjNZY3BBa0IybjNOcGR2UFc4d0o1d1ktaHlHdS1BeVRxZXNKVmJaRk00ZDJHbFVWRnZQSmg3QzhUaG1oMjhwZ0VXTlN1bGdfcFI1STlCYXQtN09palB3TVo2dzNTWTh5NHVmanM2WQ?oc=5",
+      "description": "Nasdaq nears correction as AI and semiconductor stocks face profit-taking sell-offs. Pluang"
+    },
+    {
+      "published": "2026-07-28T17:44:03+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Investing.com",
+      "title": "U.S. chip stocks extend sell-off on AI financing, China competition worries - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVTJkTU1ZRXJLX1NaUEdqY0Z3QWd3cEhsZlNpN2RaU09pNVVhTEVPLUpFejc2TUx3RWR2OUhsUDVZWEZtcHZyZkI5cmxtRWNmMWgxYUJtR08ybVpnRVJLblNPN0tJM2FJNG9NRWFFb3ZmNFNUMXlhMUdRQ2VGMm16T1VBYXItcjYwNk1DMW5aZnNZU1NIUUhKWk9wckZlRFFIWC1EOWM4RFhuRTRLOU5qNHJoMTZFaFVXVjlZdUZNOGNsSEE?oc=5",
+      "description": "U.S. chip stocks extend sell-off on AI financing, China competition worries Investing.com"
+    },
+    {
+      "published": "2026-07-28T16:50:00+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "AFR",
+      "title": "Nasdaq 100 nears a correction as semiconductor sell-off extends - AFR",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOa3l0N0NxVGdVb3ViNXJFVlVmOXhheTJTOGdfc3ZFeE5XekFsa3N4UTg0RWJTaDRXY29HSkp3ckdyVG1Rb2pLSGJ0emJrcy00WnA2UktIM1BNYjRkblh6Q3NDRlVBNXhwN2o3Z1pBanktR2I2dGJiak1CMlN3WDRnWGplT0tYSVM1ZDNYR3dGTm81Q1NGY0g1dFlqY2R4d1A1c3FQNjJaOGhlcXpZX1c3VGFsNFNQejJLRWdsZVVBdw?oc=5",
+      "description": "Nasdaq 100 nears a correction as semiconductor sell-off extends AFR"
+    },
+    {
+      "published": "2026-07-28T16:28:16+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Los Angeles Times",
+      "title": "AI chip boom hits a wall as China competition stokes global sell-off - Los Angeles Times",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1hWendSaE9NM21PMFR0RTVkNkota3o3X1ZMMEpSYXo3R0dqQktITVhxaUxTVUdaVUFKaXh0MjREeHlwNnJabmFXYkdNVzVmV3I1M1YyYzM4NWdFaWRxSkNWbllMdTBQcHRuQVA3LUhxbXRyUjVJeDR6UTdXaGVTR09ZYTlNdm9iNXROX2pBRllhdHpaNGlxNDcxejhjT0lNN3NDcFlWWGNnZ29uZFRBXw?oc=5",
+      "description": "AI chip boom hits a wall as China competition stokes global sell-off Los Angeles Times"
+    },
+    {
+      "published": "2026-07-28T16:23:00+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Quiver Quantitative",
+      "title": "ASE Technology Falls as Semiconductor Selloff Overshadows Strong Recent Revenue Growth - Quiver Quantitative",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZmJ6NzQ4a1FGRExBMm14a2RqbjktRHQwT21fbEx1VDZOTnlnNXpXZEZaV0xaMjBIRlhzN0h5TUl5dllTNE9xNnhzUmQ1ZlpWQ0ZqQUNFNGZpNzU2aUNOVEJOQjlTSC1jRjBVcTRUNHFMQVFEWjlrN1BCaTB5LXJJdTc4WFJuNEpERnpkYVJXeEV5ZFp1VTU3bVhmdUNuR0s1NXhVN3UyVGIzNS1XSXhCb3poMEt3VG1GaS1n?oc=5",
+      "description": "ASE Technology Falls as Semiconductor Selloff Overshadows Strong Recent Revenue Growth Quiver Quantitative"
+    },
+    {
+      "published": "2026-07-28T15:02:35+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "eciks.org",
+      "title": "AMD stock falls amid global semiconductor sell-off driven by Asian market weakness - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE05TU5OTThuY242LVJRMFdZWEtKU2RPelBFMFEtMjU5N09Wbmd5OTlHV25QSHNvV3BSVGV6WWFjRnkwbE9ILUpJcmZ0N1Z5N0x0OFVCWExVMElFRlNXUTQ4ME4wbk5VQQ?oc=5",
+      "description": "AMD stock falls amid global semiconductor sell-off driven by Asian market weakness eciks.org"
+    },
+    {
+      "published": "2026-07-28T14:34:53+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "eciks.org",
+      "title": "Stock market awaits Fed decision as chip selloff deepens - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10ZGtIYTd2YVdXRDRLOVFVcU9OMWRXaG94T05Ya2xqenJTaFNKRktUSjJpLUtiNUFfQndrLVFPX2o2SjJIa3haRzF0em9Jejd6S01DNjVmVkw1eTZ6QkVsS2tVeTdncGYtZWpYaDRFYw?oc=5",
+      "description": "Stock market awaits Fed decision as chip selloff deepens eciks.org"
+    },
+    {
+      "published": "2026-07-28T13:25:30+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "eciks.org",
+      "title": "SK Hynix stock plunges 13% amid chip sector sell-off over AI concerns - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85T1I3SzNZUl83Nk83dEV1UVFYV0psc1l6dGFKWmlGd0VqeHcwUDNpbG1jcHR2TXZIaXRLdVdrX2U4NjlHaFltQVBFdlB0b084eGduajZYWmYwTUw3TzY1c29FU0Z2M2NJ?oc=5",
+      "description": "SK Hynix stock plunges 13% amid chip sector sell-off over AI concerns eciks.org"
+    },
+    {
+      "published": "2026-07-28T12:57:10+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "ig.com",
+      "title": "AI Chip Selloff: Is a Wider Stock Market Crash Next? - ig.com",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUFVhZGpNbnFSYU91MkktQ3p1NFhtdzRHcXl6VDg3YlZzOF93XzZka1BXWXJHVjZ0dXV5MDIzZmFMdGF3Tl9ub0hpaTRBZnJXOURwUDZGUzZ3LWkxQktsdnlwMGJJT0J3WjlkMDVzWGhoalRWdnNHanJUbGFPRGoxQjJZbWNhLU9oTE5yTEk3SUJFT2FGQVAtMVhFNl8wN2ozQnc?oc=5",
+      "description": "AI Chip Selloff: Is a Wider Stock Market Crash Next? ig.com"
+    },
+    {
+      "published": "2026-07-28T12:56:22+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Yahoo Finance",
+      "title": "Micron, SK Hynix stocks fall as chip sell-off deepens - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSkFQY1lVaGpEWnR5bExIMlk3Q3NBb0k4eW5sNjNYeThOMHdEY0RmM3NDZ3NKWVc3SktSQXE3TXNURDkzLWhtc3NTNXBYQVhCalp0bkp5dGcydmtDNURaZ0lPWFRpSkNkQ3NrQlFQeHdoeGlGWkFvdXMxSnd3cWxKOEtPdnlIMWhSWXFtM1ppUG44Unp3Q2hnUTlJTWlPbXlVWkJSQUtFQVd2eWlFUEE?oc=5",
+      "description": "Micron, SK Hynix stocks fall as chip sell-off deepens Yahoo Finance"
+    },
+    {
+      "published": "2026-07-28T12:56:22+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Yahoo Finance Singapore",
+      "title": "Micron, SK Hynix stocks fall as chip sell-off deepens - Yahoo Finance Singapore",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQlI4ZnV3VEYwbXZUNjhmR2RaOUFpdllWbGprRmZGX2ZldFhTUHo2N2VvSDAtMmdVYmxYbldPcWJhVjM4TkJ5WDQ1c3N0WjlxYVdTcGdZM19jTFJMTmhscVBRUVZmbjgzRVQyTV9aeTE1cHE1Mjl4TUVBUzFLTXhYX0o3NG4zZGtuR3N3LS1oMk9SQkJ5eGtDdGZ5UERjOVAzNDJ3?oc=5",
+      "description": "Micron, SK Hynix stocks fall as chip sell-off deepens Yahoo Finance Singapore"
     },
     {
       "published": "2026-07-29T10:26:59+00:00",
@@ -2734,6 +1808,195 @@
       "description": "Big Test for SNDK Stock at $1,000 as China Memory Competition and Semiconductor Selloff Deepens FXLeaders"
     },
     {
+      "published": "2026-07-28T22:19:09+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Sharecafe",
+      "title": "Nasdaq 100 Nears Correction Amid AI Spending Doubts - Sharecafe",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZE1kc09pVm9TbDNVbnAxMjhiVlc0a0t5bVdzTG1jMnVLbURsUmxjTk1Zalk0aVRKaElqV2c1OEtlVVJMQjBnY2JDMFdaUWI2VnhTclduNWJPUEdVZTB0OVpWcTR0WWFENmsxLThZV1Y3M0N1ZVByTVlmX2UxNFFfOWJlVTlETHV5NVFBdzBxcjlxR3ZVUUhJ?oc=5",
+      "description": "Nasdaq 100 Nears Correction Amid AI Spending Doubts Sharecafe"
+    },
+    {
+      "published": "2026-07-28T21:07:26+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Moomoo",
+      "title": "Nasdaq-100 Is on the Edge of Correction Territory as Semiconductor Stocks Take Another Beating - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeDNrZERWZ00tRjdjVE9sVS0wUUNjSDVtTnNoTmZCbjJ5STB4NFhzTHNpbExSZ1ktNHprcmhWdWlXUk9EQzE1ajJxOU1GNVpJX0dmcVJ0dnFmOFhQUm92TWtuYXZQMjNVZWFub3Y4aFdpbmxqYTJkZjhROWhEaU45X1FrNnV5VERHZ2ltQXA1cWtmb3dJcHVjVENR?oc=5",
+      "description": "Nasdaq-100 Is on the Edge of Correction Territory as Semiconductor Stocks Take Another Beating Moomoo"
+    },
+    {
+      "published": "2026-07-28T20:46:32+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Seoul Economic Daily",
+      "title": "Semiconductor Selloff Sends SanDisk Down 14%; Apple Touches $5 Trillion - Seoul Economic Daily",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMnFMTEhKMDl5NmFhWU90UU1xUTJXOWwtZENVQWtLdy1pY25tUnBRUDUwTGo5ZEpuWXAxbTM1UHJid29aYmNMUENMM09zaG5Id25UaDJ3ekZiYkJxNWpNck1EXzZHcFNiRV93LXlycDBXUlJnTFJzRHZxRHQzZE95aG1SbTJ0UE16Q0VMdGg1YkRpb29wSWQxS2tUbE8yS1NrZDRpQXc3X20?oc=5",
+      "description": "Semiconductor Selloff Sends SanDisk Down 14%; Apple Touches $5 Trillion Seoul Economic Daily"
+    },
+    {
+      "published": "2026-07-28T20:46:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "MarketWatch",
+      "title": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating - MarketWatch",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVkNFd2lWVnF2UmJKb290SkNHb0JfTEQ5NEZHb0VlTzFmd3htUkljN1ctTXY0VnhzWHhaeHlwZWhENTZRa21ha0hoNktlUXVXMFVXUGZhVnFYdDhZanRsN1duZlVSdWJfMUlCdl9Pb2hqWURnNTdrWXFuQ3VNWTZEajZOdFI1Y2N2NDZYeWpPRC13SzlKb1RGQU5MX29SMUNCQWpWcF80YWxxSFp2NHdHdG01R2EzR2p5OXVDd1g5UWR6cGNNVnFER21kdGhfRlFwX3Nj?oc=5",
+      "description": "Nasdaq-100 is on the edge of correction territory as semiconductor stocks take another beating MarketWatch"
+    },
+    {
+      "published": "2026-07-28T20:24:50+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "NBC News",
+      "title": "Nasdaq-100 slides into correction as global chip and memory stocks sell off - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUE1GNGdWRXhkc1llb3BDcVVaWjJ2ZU10aXQ4ZldYc3NVZmVfMTBGWDBJajNZRGNqd0t0dGxiTmRQU3dMWmFsRFFMMWZNRUJJQ1g1cnV3QWVvSDJRZi1KRFVPY1VPVndlQU53SWpVN0NHNTZod1FQWTdkUW9SU25XY3VCYVRkM2xmYU5GWWd3?oc=5",
+      "description": "Nasdaq-100 slides into correction as global chip and memory stocks sell off NBC News"
+    },
+    {
+      "published": "2026-07-28T19:51:49+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Investopedia",
+      "title": "An AI Market Correction Is Becoming a ‘Major’ Credit Risk, Fitch Says - Investopedia",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMTdqNG81Y3E0VkpaTTVkd2VoZzZwYm15M1ViR00ydDlxYXpDRDlWYk83blNWcGc1am83SXByR01VSFRXQlR2SDJkOG1xZVNBSXhuTWVicm9GVDFBRlY0RWFNWS02a3V6RndnOE9Gb0xmMFhHMy1oYmpSR0RvOVlkdmlHSk1MR2VyMlhYUk1zdE5QX0VJLVJTQ3gxZGlXdjllUmtfeER4WW43UHhfMnlrYWVmdzZTd2hBMGc?oc=5",
+      "description": "An AI Market Correction Is Becoming a ‘Major’ Credit Risk, Fitch Says Investopedia"
+    },
+    {
+      "published": "2026-07-28T18:56:08+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "DD News",
+      "title": "AI anxiety sparks tech rout, broad selloff in Asian markets - DD News",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQazU0dldpSGNNTFFDeXE2ZjBXV29RUmNVYzFZd1AxTEY0TEx1VUhMZzl4VXctcjV1Uk9QRG82eF9zN1ByWklCNU55NENFUklhOWJpelI3WE9jTWtvazhTdWxZR1VDQXAzLUtiNEtQRXNJczM2OFdubGNfYlN6aW9tZ0ViUW9ILTlZT1Brag?oc=5",
+      "description": "AI anxiety sparks tech rout, broad selloff in Asian markets DD News"
+    },
+    {
+      "published": "2026-07-28T17:52:27+00:00",
+      "score": 7.0,
+      "themes": "['market selling', 'India market']",
+      "source": "Whalesbook",
+      "title": "Nifty Consolidates at 24,000 as Volatility Declines - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVDQ5bkpCOWkxZlFodldTUTZyYjQ4RHdocWtEMnBvakJVaVl4dE00OTVjZm1iRVhXeVQ1Q3VZOFVfcnNUaWExdU5NSndaSFg5THUtdlliY3BfTW8wdEpMbGtlNGtxXy1ibzhwSEQzR0FUS0c3dTk3ZWpfOXV5Y2lCYWk1TGJFOUdvR3VWMzFiRXlaVE8wTTdlNEc5X0J1dHlkTlhfNENYaXVrM2k2QTFLSGJuSWlTSFpHTGlXVUNn?oc=5",
+      "description": "Nifty Consolidates at 24,000 as Volatility Declines Whalesbook"
+    },
+    {
+      "published": "2026-07-28T17:50:14+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Kuwait Times",
+      "title": "AI anxiety triggers tech rout, broad selloff in Asia markets - Kuwait Times",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdlVqdTc4V2VsNXFDOEFEblBDWTlUV1gwSGJFd05QNmJFZ2oyMTR1Q2cxemdlajZUbUZHdG5yc2NMOHl4ekNKeGpvcUZiRHcwbmRfbzBhTmVHVWhRakJJREctMzhFaUdqYWFNREdSTGpnZkRueC1FNG5aQWdRbHNZMTBaUGVYcS1FS0plZWpOc3Zsa19ITTNqWTFYQWh0XzItNk13UHIzVUpmbXPSAa8BQVVfeXFMUDF0dHR3RXN5VjQyc2x4SkVhZjZpWDNNRkxFenJjX0lVeGdJU3JYYU05aFZMdktlLThZYzl1RHp4RW5pR041cHAwaTRscEFHY1lOcFF1OTRfbUtiUC1oUTVhMFJpVmRVazdDbkhQRXV2eDVPUjJJb01tUjFoYll6SVlfVFpRcHRzWHRLQzdid3dYRHBsanBBWWJORDlGNjZYMVgzN0JwVS12eWtmSXo3Zw?oc=5",
+      "description": "AI anxiety triggers tech rout, broad selloff in Asia markets Kuwait Times"
+    },
+    {
+      "published": "2026-07-28T17:42:03+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Bloomberg",
+      "title": "Global Selloff Deepens Over AI Spending Fears - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWmkya1hpazBsSTBvSXdlOHVNSVhKLWhmNEZlODJUMXFWYy1GZnZYOVJZOHFvNUo0RDFlY1Q2dFNCMHZLSTZ3OTA5NDNOYzZPTG1wRlNIMGtGWmVubUMzblNaeFRVSzdaR1RfYTVzc3Y1Q3FYQngzS0Y4SXJkZ1hHRDl5ZzJ6SEMyTWdMblBpUEhDTVY3ai0ydDFtR1liY0Vx?oc=5",
+      "description": "Global Selloff Deepens Over AI Spending Fears Bloomberg"
+    },
+    {
+      "published": "2026-07-28T16:38:16+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Inshorts",
+      "title": "Fitch flags AI market correction as major global credit risk | Alphabet's capex to jump over 75% this year | Inshorts - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzBQQ3lTYmxkTkxiZkExd096UGo1RTIzaUVFTG1LN0JQWUxYRUE2WGtMbW96ZHZSRkpUTXFPSDhiMWtuVGJvRVVqTXFiOTVUX3pyZ3pQRF9DYnVkWjk3c0xOd3FSQUlKQ2tTTndzUVBfQ1pla2dib2doT1hYWVVXUk52NDdfOHdoOEc3Rjk2UXZiY1dRZG9FMEp4SFNHMVZqRGZEZU43QW4yWDDSAasBQVVfeXFMTzMwUEN5U2JsZE5MYmZBMXdPelBqNUUyM2lFRUxtSzdCUFlMWEVBNlhrTG1vemR2UkZKVE1xT0g4YjFrblRib0VVak1xYjk1VF96cmd6UERfQ2J1ZFo5N3NMTndxUkFJSkNrU053c1FQX0NaZWtnYm9naE9YWFlVV1JOdjQ3Xzh3aDhHN0Y5NlF2YmNXUWRvRTBKeEhTRzFWakRmRGVON0FuMlgw?oc=5",
+      "description": "Fitch flags AI market correction as major global credit risk | Alphabet's capex to jump over 75% this year | Inshorts Inshorts"
+    },
+    {
+      "published": "2026-07-28T16:00:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Taipei Times",
+      "title": "Fitch warns of credit risk amid AI market correction - Taipei Times",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wTzNmd3pDZ25McFp1aE9tM1VvV0JXQUdCRmMtZmxndzhUc2txRGFLaFBPczhJemJJQ3N1UGgyZkdpTEhPdUZYV0JiOUJabHhxdVpkbnhySG1HbkNBSERKMm1KNUFHZUVpRk1VMWdHeUpGWHdoTnc?oc=5",
+      "description": "Fitch warns of credit risk amid AI market correction Taipei Times"
+    },
+    {
+      "published": "2026-07-28T15:12:56+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "TradingView",
+      "title": "Chip Stocks Lead Global Market Selloff - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWXBCUGhrT1d3ZnMzenQ2ZDJ1Y3M1R0hlcmYyMDVhNy1wOU5EM2lkVUdxTVRBaFM0Yy16Yms1cXZfdGJ3UzlwbFkxYnQtOTBKN20xa0Jib0ozUVVRRFIxNXlzc2hhMGZpWG5sVGFmSXc2V2ptV0xvWGN3MGxEdXdfakpUZnh2azkzWlFkUnBBNzc1ekIxbmwtNUREbXlGd3QyZFdkVjI2QQ?oc=5",
+      "description": "Chip Stocks Lead Global Market Selloff TradingView"
+    },
+    {
+      "published": "2026-07-28T14:53:54+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "NDTV Profit",
+      "title": "Nasdaq 100 Cracks Over 10% From Peak, Enters Correction Phase As AI Trade Wanes - NDTV Profit",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUktpUExFOGNSRzA2NkNNRU50VERLakFYQmVvRmdhVmhCdnFqTnlWdTNmZ25qSWFzcE9PY0UtejFyWFBfamxub3BoX2hnbWxOUk81OW9odzVhNXNiTnNqYWtxSnd1LWxrUHJUTjlJa1p4cFlZQU1wYldWRHJMek15Rzg2QnlUV2g4UzhXQnZKN01qMDVKc2VWeEdnM2hQWExJT3lrZnJlNFpKdlhTTHpuVVVxVmVnYzNXVHYzbnlRajk1SFHSAcsBQVVfeXFMUFEzTzZROWZRY294Vnk1LU1VX3l3SmdSNTh3U2dPRE1XSEZEWlZMX1ZuWVhhYU1NMWx3NEtqdWxuMFZ6TVRYY1RYQ1ZyOXkzNzhiTkFLdkhNM0xfQTQ3ZVBOYUdUeWtFd3JNNHhtSHlmWWhWVWpBQWxjYWR4eFpTek1UOHY0OTZTRkNVSHVkdHBEZ2FuVFZ6T0NlMzN0a1kxWVVIdUVPQkJhSmRpNG83OEJ4bVpUd2ZsZVktdFdDT0V6U29ib2MxWFJhWUk?oc=5",
+      "description": "Nasdaq 100 Cracks Over 10% From Peak, Enters Correction Phase As AI Trade Wanes NDTV Profit"
+    },
+    {
+      "published": "2026-07-28T14:52:45+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "TradingView",
+      "title": "MU, AMD, INTC, SNDK Stocks Fall — Morgan Stanley's Mike Wilson Explains Why Investors Are Going After Chip And Memory Stocks - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPRFFLYXQ2ekppa0dnZl83dld1OG5jN0tsbWNEU09iZEdDWEY5WWpMNHhOVk56NzJwb05hTXgwU1N1cmZpQmN4SmN4c1E1MlpzY1dwOG4xRmVEVXdfeExqaHNEQ3dzY0JHcDJucTd6U2IxVGVzUHdHVElYNVdFMXVjMktHQUhnM1FSSndFSzZwb21PeXNLcV9mVVhJcEkwaURlYVFhMWJhdzQtbXF5NGJvbmV1RElGQzBaRUxGazAyT0tzNnRGYXY1bkdrMGpTeDNSdThsa0JrVDA0b1NLR2NHUFZYMEJZUjJKU2NHNWlPbnZVemhlOUJZOTJTSlhXZmFHMmxOUnNkSVBYN2JD?oc=5",
+      "description": "MU, AMD, INTC, SNDK Stocks Fall — Morgan Stanley's Mike Wilson Explains Why Investors Are Going After Chip And Memory Stocks TradingView"
+    },
+    {
+      "published": "2026-07-28T14:47:05+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Devdiscourse",
+      "title": "Global Chipmaker Selloff Highlights AI Funding Concerns - Devdiscourse",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOT2FFRXNxRTgwYlFXVDJfN2NDWnBQa0NuMnJDN0d0VDZuMXFuVTNaX3Z2LUpLM20tTnBpS2d3Y2liNDBQRU43OVlhcm5kTFVrZjNraHhzR1JBemQ4RXFkMWM0bU9UU3ZXYmlfY1BlVXdSa1B4SG1wM3pFV2FwdVFlSEd1T0NCY2V3d0E3VW9tck9XbGhxTmp4RG1PM203ZnBHY1JrZXRvbEc4OGNLb1HSAbMBQVVfeXFMT1JGa2lkS2Z3UVVVWU9hRTdPRU9ZVDBnSnlmZ19PRXg5VHl4bXNwTFB0blBwTUNvMVE1Qjd2NWJEOF9US2I1LTFDWDREM20zZkZ3aUV1d2ZZZUVGdmFudlJGamk0NTZ6YWFaamlfa28wOTR4a2lJaDZFYlp0ZjU1ckRNc01abHZYd0M0Qnh4anlxYThyaU52WmlBdllyclpwbEVqZS1zQmtoZUhuYWFBQ3lud2c?oc=5",
+      "description": "Global Chipmaker Selloff Highlights AI Funding Concerns Devdiscourse"
+    },
+    {
+      "published": "2026-07-28T14:45:31+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Insurance Journal",
+      "title": "Fitch Warns AI Market Correction Emerging as Major Global Credit Risk - Insurance Journal",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0tRXpVdGFZWUZtU1NidmZpUkhKdXZCeTM3SGJ6LTZrU3NEMnBPRFJ0Q3FTWkZzdXFlMWJGTVN5N2Y2eTJSdUlibkNrX21OU2dEMUJoODJjYlB4MVV3ekxGZUNlS2N2WklnTXZWTjh1a2dYZnFqZ3hqVnQ0NHNBQQ?oc=5",
+      "description": "Fitch Warns AI Market Correction Emerging as Major Global Credit Risk Insurance Journal"
+    },
+    {
+      "published": "2026-07-28T13:55:00+00:00",
+      "score": 7.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "Business Standard",
+      "title": "FPI inflows into FAR bonds fall 74% in July as crude, index delay weigh - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOFF5OF9LQjRSTS1kbVRsRkhpZ19odVhEX2Fod0VfVm1mRFhJQUQ4RkU3YktJaVJGUVRwMlZnSmJDdG1nYzl1Q0tGcldtQ3psZUk2cjU5cFN0Z0sycENGek5wVEMteTJaeWlQbWl1SkJrREtlTDBVQm9CZWNVQWhDdEhNSnF6ZktkTkZYY1VUMlg5ZTk3bWhsN19LbVFzZGFpVVEtRWQ4cm5XUHVadndTRk1hRlM5R0xpbWJrMGRwTGdaNm1WaWs2LVFrTGdzdUljOFHSAdcBQVVfeXFMT0txTHB0TkFZTEFyZHc2Q3BRajZiOUdmTU5vanlrSjVUV0ZhcHQtVnpZZGphbGgxWkJ0dkRjMkR4c05vM3FDOVAyUEprSHdsTGQxZFAzNjdWMHAxTV9rdlZOdWU0UUx4clZOLWllcDU3VkM0T2dFQ212UWNBN2FkN3FZMFZLeVJKVDRUdGVrNWJZYkVUY2RyZ1JiUU15SkhtNHNSN0Jua283Ny14ZnVvY2NvSlRfSW5QdTlyWjcwWGthX2lBVFk1VktjUGNMTzNGWEFPMzJnUVk?oc=5",
+      "description": "FPI inflows into FAR bonds fall 74% in July as crude, index delay weigh Business Standard"
+    },
+    {
+      "published": "2026-07-28T13:45:45+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Heads for Correction as AI Worries Rattle Investors - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMVFTa0NxUG5ETmdCR2NjSEdUaHBjNWRrZlM1cjMwNURHQUVfSUVrU2RCc0k1ZXA0U25ZUzcwLTFJa3Y1bV9rdEpHSDFXVGV0N3VlU1F5RjJQdFRJUXJGbkxHSEVvdnV3SnFhS1BZUlpKWEpvV3NEbXhkeVRyWHBIb1lNV0FnMDVLMnZpZDM0RnhUN19hQlZJb2NDRE5UOFc1anlweVBvR25FWG9BMGZENEl0NA?oc=5",
+      "description": "Nasdaq 100 Heads for Correction as AI Worries Rattle Investors Bloomberg"
+    },
+    {
+      "published": "2026-07-28T13:45:45+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Yahoo Finance",
+      "title": "Nasdaq 100 Heads for Correction as AI Worries Rattle Investors - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOblotTFVaMzdGQzBKaUxwRzBXTGhGYkJiZUJId18zSG5EajRPeXVKSDZ1bDhBb2tQOW9LSm1OdEZ3QVhudWJuM0pteHJBM3BPVWh1Y3I1OFlPdkRHS1ZqQkcwX1ZFOFdtWmZJYlFfR0pYMEJremZSVDRLZUdkMldDMmNoYzJ5ZjhJZ2hXNWlVNlY1cnZhUU9ZZnlMZw?oc=5",
+      "description": "Nasdaq 100 Heads for Correction as AI Worries Rattle Investors Yahoo Finance"
+    },
+    {
+      "published": "2026-07-28T13:45:45+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Bloomberg",
+      "title": "Nasdaq 100 Heads for Correction as AI Worries Rattle Investors - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZDFpaVZXbGlKUktqV3h6cnd2VW5QUzVNT19oVmNHYzBTamRqNXB5R2V0TGo1cUd1LVh3a2Z5UVVhWEpyTTRTdGJjalRVMkFxWERhWnBWTnFGaE9ETFVYZVNDczhUUUpBNnpNRVEwYkJQeFh5WUZTTk5TMkxzOGlWODBFR3dINFUta1JjazZnWklLMVRyTXpPWFdEeXVwTExUMG5pUjJrZFhldzNWUzhpMmFzSWt0MzJSWXktcy1ORE5WZGVSVWdSTnItTEtwa1VCMXc?oc=5",
+      "description": "Nasdaq 100 Heads for Correction as AI Worries Rattle Investors Bloomberg"
+    },
+    {
       "published": "2026-07-29T02:54:50+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -2759,6 +2022,24 @@
       "title": "Nifty correction a buying opportunity, but keep 10-15% cash: Sonam Srivastava - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS0JKM2staVVFbU9kVjhhM0JwQURsWXUyWGFCQURyM1duc0tEX2NtTDFYd194YXVib1MyV1dPNzZBUG4zZXVHa3V6bVA2ZXhUSVRKc2Y1a21hVVF3VGx2bVZaeXpwYmxCTktIakZoanN4Unl5ZVI4NWl5YjVUaWZIWEc1X3luZmFqT1pxNXJCWU5mS2FpOUdZZTl2VmE3ckFpcUlCdWJBdkJKajh2T1EtWDFhSmRORlhISnY2djdHdDd2S0ZMaEZEcW1IbXBubm4tQ25lNHYwZE82LXJWSXRNb3lB0gHnAUFVX3lxTE1sd1JJYU4ySlRzX0hfSlc4R0xkMUwxUVBEektaQ0hMOC1zN19BQUl3OTB1Vy1UeTFYT3h0eG4xdGRKWGdzVzJMUkVQbjg3NmNyMzdqZlAxSmI0YnFJRHhqdFBEUmZ3R0Q1RURMT2IwM2NOVS1vanViQUh5WUppcWdZdWJKSndhenB1Q19hek5uejZQbVpZZWdhb2FNLUgtcXVlRmFXaGVJM2N2TXpaSzNjUGtheHVEQ1F6a0M4RkVIQUNUM01ZZmlmWTZwNjRTLWQ4SjMwVmljM1ltaXA3eDktcmx2VlIyQQ?oc=5",
       "description": "Nifty correction a buying opportunity, but keep 10-15% cash: Sonam Srivastava The Economic Times"
+    },
+    {
+      "published": "2026-07-28T15:37:17+00:00",
+      "score": 6.0,
+      "themes": "['market selling', 'India market']",
+      "source": "Dailyhunt",
+      "title": "SENSEX, NIFTY50 resume decline after a day's pause; IT stocks outperform, FMCG shares fall - Dailyhunt",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOdnlYNGVFOURGV3dRalNPZExMYVVfWUFaM0E5TlpVRzhQbGJud2dPRHc4aHNuXzBzR0dfcmN3VThFRExVYXY0ZUtuSFRaX1NPdU1oOGJDMUlmeTRXY2VKNTF6M3V3M1RwY2RWY1YxQWYyYXdaVzNPamVjYmhYVnJZVnREdTZ0cEdJNVFjRlFJRWlsZFF0dXNuYjhxNXJXNHZma2dGeXBsbjh2cW94NlMwd1hQa09QLV9yRHdjWEhGd2hvNHlYWjVpbHJRVG1mN01ZUXM3Y0xPX3RKQjhFeXlpZGdQQ1pySzVCUGFIQ2VkODhFaWpHRkUwYWF3?oc=5",
+      "description": "SENSEX, NIFTY50 resume decline after a day's pause; IT stocks outperform, FMCG shares fall Dailyhunt"
+    },
+    {
+      "published": "2026-07-28T14:06:00+00:00",
+      "score": 6.0,
+      "themes": "['market selling', 'India market']",
+      "source": "The Times of India",
+      "title": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop - The Times of India",
+      "link": "https://news.google.com/rss/articles/CBMiowJBVV95cUxNcGtldktQTk1HNnlEMkNJU0NzcGtWbnhzdmtQRXZTcFNsMUtucUJfdXItSGdTaTBPcDh1bzNwV0dQVW8wdDV4N2RkSDBlRjNCai0tMXpicnNVNjZheG9tdUJqOHBJSkVQX3dpdVE5TnZfNWIyaHBYcG5nT1pRRTE2MEtxdzZQTGpOV0xheDBKQUpsYnNNdTZTRWxFTzliendYSUtIeVRZX1FzM3YwMGMtWmhMa2twSlNDZjdQTENFU3ptTjZoSWhTSlk2eHNaQ2UwN3BOWkgydEhJb0RDT0pPbEk2blBaczVGb25RSkpJT1k2eG0tel94VFZEMGlNaTJVWXg3aWJCS0xRZERPSmd5M09XQmxJbzMtc0lKdk9hRmlRVVnSAagCQVVfeXFMTS1rdFpjUjRPQXI3QmxtRmhqN3ZobDFzVTlkZzlaU2pqUmcwamszQ3pVVDRXYW4zMm5qY3ZOSDBCQjZ4eFZFWEZpb0gzZ2p0LTJEakZENVU2c2hZYjFsdUJQVlNDcDkyRFNJc0NNT28wMW9hUkpsdHpTTndaX2JNX1ZuTjB0ampXX3dXMjdIT3k2emJMOWlBN2lPZl9jeW9wdU1VdzBjNlRtMVMtZkJWcExpd3lMcTBZc2lyUHVGTVdpNHB4c1VXSDFJUjZySXF2Um5nRmlTWUEwM1g1S0cza3BFOVZjMzZ4cmdRR2ZFZ3gzb09ld3pVdFhueUVqbGRKaDZlMWh0eFd6VjNFT3NOUV8xZmxYU2xjU3ZYejVHaTdqVnUyRklkZ1I?oc=5",
+      "description": "US stock market today: S&P 500, Dow Jones trade flat; Nasdaq drops over 1% as chips stocks drop The Times of India"
     },
     {
       "published": "2026-07-29T09:42:54+00:00",
@@ -2840,6 +2121,24 @@
       "title": "Sebi proposes simplified rules, lower investment floor for mutual fund PMS - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcUY1VWc1N01rTEpyZU53cmtnWEVlSk0xQTBFTzdZSDFVZjExRk9VQXJFYlpnRlg2VndlTTlwdWJDZDNfcVR0aFhBN1p5LS1pRXFlUTNST25RRDFfQVpLNzFMeHIzbmdGR2lFcnUzX09KUTJsamRYLVVob1h4ZElFWXFRa3ZUdWd6cW1NYTh4cUFqNldEOTNtcFVpc0dOLWRjNDduYnoxeVhIbG8tUHBWQmlZYWFQSng1RFdPVFFYQkJIOVU5bnNYQ2VQcUxZM1N0NGE1ajlOd2Y1Q2vSAdsBQVVfeXFMTXFGNVVnNTdNa0xKcmVOd3JrZ1hFZUpNMUEwRU83WUgxVWYxMUZPVUFyRWJaZ0ZYNlZ3ZU05cHViQ2QzX3FUdGhYQTdaeS0taUVxZVEzUk9uUUQxX0FaSzcxTHhyM25nRkdpRXJ1M19PSlEybGpkWC1VaG9YeGRJRVlxUWt2VHVnenFtTWE4eHFBajZXRDkzbXBVaXNHTi1kYzQ3bmJ6MXlYSGxvLVBwVkJpWWFhUEp4NURXT1RRWEJCSDlVOW5zWENlUHFMWTNTdDRhNWo5TndmNUNr?oc=5",
       "description": "Sebi proposes simplified rules, lower investment floor for mutual fund PMS The Economic Times"
+    },
+    {
+      "published": "2026-07-28T21:59:17+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "Cafemutual",
+      "title": "Women now own ₹18 lakh crore in mutual funds. What's driving India's investing boom? - Cafemutual",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPekVGNzdLX1hJMDVhOTM3SDJycWo1Q3FsMkQ4ZlRjYU53R3lvX0Y4RmFtcHphZXFwdENwdHZacllfT3JIdHFYcUpvZTczTDc3X19XRl9pc3RWbmtrcDd1Tks5RmZyS2Z4OURTWFI3U2J3R2kzbVl0NGFiLV9sTkR0RG4wOUVERXgzc0thSVRVQzlweDl1RS1IdlJUZ1JlMVc3cXdlVTA2WkpCVHR1MEJ5VzNKS2VIOTBjaXpyWmsyTHJQUQ?oc=5",
+      "description": "Women now own ₹18 lakh crore in mutual funds. What's driving India's investing boom? Cafemutual"
+    },
+    {
+      "published": "2026-07-28T14:25:53+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "financialexpress.com",
+      "title": "How to build your mutual fund portfolio at 40: Experts share the right allocation and common pitfalls - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNekRwOU0tdEw4eVR4X0I5Qk1CLUUzemJxdWZkMHlvdnNjNmloQkp6Vm91TUo2UFpBNHVKZldpODM0M3ppNVc5XzBvSVpGWXZDREd5OThJUzlWcWhiR2FoYmtvVlhZQTR1aUVScDhYaTBUemlXZ2ZiYTFzSlpES0hfSGdzZEd0UGw5TFZGS051dlRyemNrR0xINFY4UXQ4U3JSai1KRklMQmlselB6ZlhHaHRfQmRYTlNKNTQ3Z3FSdXRJSU5LRkZHemVkZ3lpcXpVeUFDZkpwVEhwal9TYXVYZC1uTkRlcXFURWZ3UklobDNXeDTSAfoBQVVfeXFMT0RQcUlUYUh1RFVVdjRxX0gxVm1Oc0hRdS1Vd3FlcWdNSGdPY19kVGJ4QjNDTkE5cGxqSnFZc0FfcU1mNXdycll0VTgtVDV0ZmwxSzRWcG55N01oUFc0Q1dHZ3oxVEZwaXRhMzRlTUVPVnE1Q205LUQ3QXROX3NBUEVLbWFKenIyeXZ0NzRYUWpCUTZBMjFOVng0WTJ4azMzZ3VtZ1NtM3pJM2I3UlhVYnpRZ2pyR0RUU3I3TE9RVUxTSXJ1WHFJZk92YTRIdUtEMTdTR2tNZ01IcTRFUkg5V2E3LVBCZXE5eURTbElGWjAyWXdUQW9kUUQtUQ?oc=5",
+      "description": "How to build your mutual fund portfolio at 40: Experts share the right allocation and common pitfalls financialexpress.com"
     },
     {
       "published": "2026-07-29T10:49:35+00:00",
@@ -3085,6 +2384,78 @@
       "description": "GIFT Nifty jumps 250 pts, signals gap up start for Sensex, Nifty as Asian markets rebound; US Fed decision... Moneycontrol.com"
     },
     {
+      "published": "2026-07-28T22:40:13+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Yahoo",
+      "title": "Market on Main adds new monthly Farm to Tap sip-and-stroll feature - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONEtaRWcxR2t5RlBxUkc5dl9nMlZsZzBRelRxLUg5ZmdHMjhEUzB1eFZlMk9oNHlzY0hMZm9VQ1lkNVZyMTJ3YjlTXzJyZDAya0NsWUp5c2p5VVlELVlYWG93bHhjZ0RWVWdOWkJIQnhLbERORmU2Sk9GWFdKQldkR3dWWE1saGpISzM3Vjh3?oc=5",
+      "description": "Market on Main adds new monthly Farm to Tap sip-and-stroll feature Yahoo"
+    },
+    {
+      "published": "2026-07-28T16:42:16+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Dalal Street Investment Journal",
+      "title": "Top Hybrid Mutual Funds That Delivered Up to 21.15% Returns - Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNEt0WHJ3MXFNbmVwRmVNUmFTdmxhMWU4ckg2MkZwY0xiMHZOdUNfT29lNUlwY0dKTEN4SDNVeDZTUm5xa1d6NUY5cTNjc3RxbWlXRTFpc0g3d3N6ZFUtVWs0U2VWd1lrcmdZbjNPeGJwN2Q4dEJ1SDhuYnpxdklWRDFfdF91dl85OGt3YzlfS0RuRzMzRFdJQ1JBV0tWdDVodlE?oc=5",
+      "description": "Top Hybrid Mutual Funds That Delivered Up to 21.15% Returns Dalal Street Investment Journal"
+    },
+    {
+      "published": "2026-07-28T16:40:13+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "WesternSlopeNow.com",
+      "title": "Market on Main adds new monthly Farm to Tap sip-and-stroll feature - WesternSlopeNow.com",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOd0U0LUlkOFY0Uko4RHJIZ1pXVndJS1hwQXlMNWtsOVhXdk1VcWdscjNHbmVTUEFGTmxmWkZDejBIMmxlbFdpZm5rNkNyd0gwMWd6T1lsN0cwNlRBNEMzQ04zc1NZOWc5Y2Q3SFo2MEhsM2xyMGpFejFxSHJldHI0R0JOZWdzem9ITkNhaUU4elRLM0ZUUDNvMXJyTERvSndGbXNMS3pHcUM2XzR30gGsAUFVX3lxTE53RTQtSWQ4VjRSSjhEckhnWldWd0lLWHBBeUw1a2w5WFd2TVVxZ2xyM0duZVNQQUZObGZaRkN6MEgybGVsV2lmbms2Q3J3SDAxZ3pPWWw3RzA2VEE0QzNDTjNzU1k5ZzljZDdIWjYwSGwzbHIwakV6MXFIcmV0cjRHQk5lZ3N6b0hOQ2FpRTh6VEszRlRQM28xcnJMRG9Kd0Ztc0xLekdxQzZfNHc?oc=5",
+      "description": "Market on Main adds new monthly Farm to Tap sip-and-stroll feature WesternSlopeNow.com"
+    },
+    {
+      "published": "2026-07-28T16:00:00+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Trade Brains",
+      "title": "Top Stocks Where Mutual Funds Are Booking Profits While Retail Investors Keep Buying - Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZm1EMk5qSmdGTnBLa3NIdG9wekZnVFhqc2dDTHlLd041a3dsWGNoNy1nUEg4NE1sNFM5RmZrX3dnTHE4TzhVMUtuT3J4eGpQd3ZWRjBaa0xPdnJxWEhOamtyRHFpTzlhSXFINzgxdzUtUHZEeGs3ckpyeWt0UHV6TGhvazNXbG84akZYLUNtdFNUOFZubTFwT3EyeDFzV0ZPM2FKOGhweHdvY251?oc=5",
+      "description": "Top Stocks Where Mutual Funds Are Booking Profits While Retail Investors Keep Buying Trade Brains"
+    },
+    {
+      "published": "2026-07-28T15:57:00+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Investor's Business Daily",
+      "title": "Best Mutual Funds: News, Performance Reports And Investing Ideas - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh3UmNfU0JQZ2thTDdMbjBhbzVBS01uWWo5aXYxYUE2eHZVVV9yT0hJT2Z6TXY3czdXX1R1QlFZd3h5S0tYTE5UVUVqSFU5cWFtZFJxY3VGa01HT3BUZ3FqS1NkeTFYNEZKdnZWX1BCYUhzRDkzWlg4ZVNjMzFYVmgzd1luU1ZOQnRkYlBJamRFWnYxU0hORjMxM09WUHVuczktZ3M1cHh1cGhuaEI2elBLTQ?oc=5",
+      "description": "Best Mutual Funds: News, Performance Reports And Investing Ideas Investor's Business Daily"
+    },
+    {
+      "published": "2026-07-28T15:42:22+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "financialexpress.com",
+      "title": "Chasing top-performing mutual funds? It could be your biggest investing mistake - financialexpress.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQV1M2MXV0V1JyUEhKUndwSjRrYW9qZjZHdUFHclpVMU1MSHdVd1ROYVJqTDY1b0VJSHF6N0YtTjNhQUNxUF85VUp6QlFRUWpvcEZSWW9FbWhrdnE3Q0F6MUtsdUJfM0F3UENpUWhkQjZiVTFFOHdreHFPVUFDa0tmbVhvTVdzZ0tUUjQ0ZlJvT295aFR5eUM2RWRhYUJ5ZUNDSWdNX2RxR2Z3NkM2d2REU0tNNkNhc2N2alJpR2did2lYZmha0gHLAUFVX3lxTE16N1dJUTVDWTl0X0JLSmdyRjVXVjI3YTZrcUhlZG1kbnpvUjcteW92UjVrZ0xBOHFyVVZicEVoY29xSDFsRllhSHRqMFhZX2hvbzI4MjZtZkZkRklDZlVXUG0wdjZaRWp1QW5kWlJFQ19vbVN3MktZdFl2eGx1bjU2cmcxMGdFMUlMSlVmcWxBZGxtM2FEaE9fQUxLdV9CUUV4OEVJa28zWXMzcHo3SWc0UlVWdEo3WGJROEtzZkhuWnEzRG1UcGc0NVJr?oc=5",
+      "description": "Chasing top-performing mutual funds? It could be your biggest investing mistake financialexpress.com"
+    },
+    {
+      "published": "2026-07-28T14:03:27+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Whalesbook",
+      "title": "FDs vs Debt Mutual Funds: 2026 Strategy for Conservative Investors - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNelN5NDZDejU0NV9JSk1HNlB5bDIzVHkzOW1oTHNYM01Rclp0YnFMRnV6akczd1llZEh6N1Q3VFVUSWItbGVmTk5uSW9YbVM1WVRaSDBpdFlFOFplWnFVdnpVbXJnYk45UDhDdEFNWmZKUFF0WjBZbnBGVFRnd0VybTZyUkgwTFdFenh0V1NseVU5YURNVjVLYnJxUWMyb3hGWDg4RmV6b3NtRTRHTk8zbzVVMjFBRWlzTHM2djFhd0NDOW5UNmZDVlhzZW44THpxNXpDUVFka0VSN2RRd3hlWA?oc=5",
+      "description": "FDs vs Debt Mutual Funds: 2026 Strategy for Conservative Investors Whalesbook"
+    },
+    {
+      "published": "2026-07-28T13:17:25+00:00",
+      "score": 3.0,
+      "themes": "['AI / tech risk']",
+      "source": "Hindustan Times",
+      "title": "Apple overtakes Nvidia to become world's most valuable company as AI chip stocks slide | Business News - Hindustan Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOckpEdkZVMFFzT18tQm1rd3hMeE5sT2wwd29hdmY4eDNIaF9LT0RkVVZkNHF3bXRxZjhSSHBtc0hBZUNIVEw1NG4xbkg1UXRQSXVZT3paUjJaSjR6SndZS29VM2VEeVhXdWRMelNSV2E2M1hqUElZN3F0UTF1MWU4NmNfUU5YOGEtRDhDV3NvOG0tSGpEdVo2Q3VQWWgwS09FTXBPTGxkZ3Ntc3FfVjg2UGxmdmZseXg1Qk1kNk1WNUdjcXItSjVKUVIzdzBkUVFQN29CTC1ZUmc1ZElqOWpv0gHkAUFVX3lxTE81cmxRcnVuMFhENUNGai1PdFpYOVN3MGtNZC1iSFczNFdBVXhsZUNpdVRReFI0M253dW9JT1JKZm94a3lPX0xES3Bnb3FHUG8wUWtaME5vSlRXTEx0Q0lJLWItQk41bmZydUx5WlczMXBmZUZHZ0FPWGF0bGhUT1RIRlZ5NV9BN25SQTNrb1gxWGsxVjRhV29xQ1lUQmNVaTdGSkFjVm5tdnF4cmpPcm95VThkMXJ0NHlqTWx6YnJZNWY4QS1Wd0h3ZFVrYVVWUXNicmlzQlNSQ1lrR29xS09iM2JseQ?oc=5",
+      "description": "Apple overtakes Nvidia to become world's most valuable company as AI chip stocks slide | Business News Hindustan Times"
+    },
+    {
       "published": "2026-07-29T12:27:43+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
@@ -3227,6 +2598,78 @@
       "title": "Why Is NVIDIA (NVDA) Falling? The $250B OpenAI Deal, Circular Financing Fears, and Asian Chip Rout - TradingKey",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNnlpZDEwT3RHZU1VTl9QSzBnU0drTzBEX3dZWk5kM1NPUHBDS28yRkJLcHpYQk9EMEdFZ2JIdktvYW9tcFdDeENsSVREMmtlcDNydVBMZWx3cVIxRS1vMEZaX3NKQjgxdHdoYkpfYnZDRzlPbHI1bHdpcnlYYlBtNGt1elhZR2ZTRHI3SUtLTWM5SXdmY3lzYV9IcUtCNFBTZzhWYUxkV1hsYlpqZnNmZEU0VGxBUk92VFN3QXl1LXVnbWJUaDliZVVCTDNQRlNEMk9iRmFhaThOMEVSZkhCR1ln?oc=5",
       "description": "Why Is NVIDIA (NVDA) Falling? The $250B OpenAI Deal, Circular Financing Fears, and Asian Chip Rout TradingKey"
+    },
+    {
+      "published": "2026-07-28T22:14:48+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "livemint.com",
+      "title": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObXNmbGZjZ0xzc1JHUmQ1Z3ZISGJwRGpHcEtHZVN2S0ltWnhQdXk4emgxZHJ1dlBWeUVWbWVnSVdTbkF0bUwxNU55VFliWlhqRUFhaTkzU1A3VzFyQ3VPblp3enhzRHFlQ3cxZGtTX19TNWhMMlBIWWQ4Q1RqRm1DTlJXSUh5d1lhZWV4SGpyaGdyTXZNZXpLanhXSkZpMzlpZ3lpbXgzUFhzeXc1Q1lWdXU1b1FRMG1HVXJz0gG7AUFVX3lxTE5tc2ZsZmNnTHNzUkdSZDVndkhIYnBEakdwS0dlU3ZLSW1aeFB1eTh6aDFkcnV2UFZ5RVZtZWdJV1NuQXRtTDE1TnlUWWJaWGpFQWFpOTNTUDdXMXJDdU9uWnd6eHNEcWVDdzFka1NfX1M1aEwyUEhZZDhDVGpGbUNOUldJSHl3WWFlZXhIanJoZ3JNdk1lektqeFdKRmkzOWlneWlteDNQWHN5dzVDWVZ1dTVvUVEwbUdVcnM?oc=5",
+      "description": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens livemint.com"
+    },
+    {
+      "published": "2026-07-28T21:35:51+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "AdvisorHub",
+      "title": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens - AdvisorHub",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQVVOeFVWRkJoUFFfMHFlR0JYOERDaXk3RVhLVWV3OEMzdWxTSzktdW15OUpyYl9EYTBhWW0yVHp0U2F2Sm5keVhDZWdHZHJ3a2k2MldUNmQxUHZNY2NVY05iS19mYjFON3hzNFl3VmV0bVJvOW05VzlqOEtCS2tvcG84d3p6Qm5BSVMtZV9abnNoT1VBZnc?oc=5",
+      "description": "Nasdaq 100 Is Approaching a Correction as Chips Selloff Worsens AdvisorHub"
+    },
+    {
+      "published": "2026-07-28T20:51:51+00:00",
+      "score": 2.0,
+      "themes": "['macro / flows']",
+      "source": "Reuters",
+      "title": "US stocks mixed ahead key tech earnings, Fed - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWUF6MHN4NmxzbUxRX0JpZGFFTlliRjB0WW1DQ3NvVUpQVFJ3aFNoUFJ6cG0tNGx2anJ3OFFTWXk3VUdQQVowWHdoRnVzZTZsZV9KdTR1cWxDeFpXTTFidGxCR25jc2ZYUXp1Z2lYRzJwZDcweHNJalJfamhJT0lvTXRKWQ?oc=5",
+      "description": "US stocks mixed ahead key tech earnings, Fed Reuters"
+    },
+    {
+      "published": "2026-07-28T18:45:00+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "Proactive financial news",
+      "title": "Nasdaq enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNRFBxOHZMa1pCU1dFanVvdHplWEVBbkRVQnFTSHNoLUxWNVAtcjJEUEJPUDJBN05TMTJib3paS3UxMkdGMlhQLVNTMGREX3JhTnVaQjF0dHRYNzNHQ1FhcWRLSXRYbi1WcEpTY0MxYmo2Uk96UXJ5bm4zRnQ4ZlZQdTA2eS01QmpFVlFCX19JMmhTaUZSX0RzSDk5M3g4TnNFdHpGcWQxeTN2SjBWVGstdUUtN1Fpb0QzQ1ozcXBPaG1qMHZPREdRd3lKbWZRXzI5ZUVSbmoya09pMnZpak5jalB6dzY4dkhvVlI3LQ?oc=5",
+      "description": "Nasdaq enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow Proactive financial news"
+    },
+    {
+      "published": "2026-07-28T17:22:00+00:00",
+      "score": 2.0,
+      "themes": "['AI / tech risk']",
+      "source": "Seeking Alpha",
+      "title": "AI memory, chip stocks show slight recovery after initial rout - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcl96WDZNQ0RWM2FBcmM5cl91WXhvTVphU0hQN3pPQ0p1NFBlWUhvYXNNS05CbTNjWmhDVG9iU18yYW5OajhvV0trbG1UczNYWWFBSENRVExlQUJVWmNqT2dSbDVNZXVlZURFb2VUS0FLSVBRRTQ0bnEzbVBSNmlEQXJPQkZwOGpCeW5BcFRaOXhFeE9RUzBoNG5xWml3aWJpVnFVNXRR?oc=5",
+      "description": "AI memory, chip stocks show slight recovery after initial rout Seeking Alpha"
+    },
+    {
+      "published": "2026-07-28T15:05:00+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "Proactive financial news",
+      "title": "Nasdaq 100 enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow - Proactive financial news",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUEhrNGRGNXdScGtQSDBrSmxYVHJKWUkwOEpxdDZOUEZldTFFVjFleE84Q3N1SFdWNnNBR2ZkUXUza0phSmRmQ0dod1ZqZlF5V3NpMlJHcmI1bWVPdk9mMUVuV25QTlMzZE1uYklTSllIY1BjVkw3cmdWbGhQV05qUkQtVzRma3hvLS1WNkh5bUROVlZYRlJjUkMybXZZSmpVMlJzdVpwTnR5QnBTYTdCRU9rUTZWRFpkSTZCUzFxSnB2OXdQaDdMdWpsdm4zMGVrMVBwNVd3cXdhMnZudEwwOFl5MENzMEk0Q093bmdBTzl3QQ?oc=5",
+      "description": "Nasdaq 100 enters correction as sell-off deepens, while Coke and Sherwin-Williams lead Dow Proactive financial news"
+    },
+    {
+      "published": "2026-07-28T13:18:35+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Business Standard",
+      "title": "IT gains help Sensex, Nifty end flat despite broader market weakness - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMTE3S0daalJSX1ZWbUtHanFMVVlFUU11d3ZvWGtlVmNvUzExaHFGNGwxMThIVE9tLS01d1ZJM3RXR0VvUEJWSElGSWhPSG8yRzhiSzhXZWtHV18xY3U0TkJ6SEZKWVlQZWJsSDlFRy1sbTlHdmRnazhoclZLMmNHUnNuWlJHLWszeWw1SGwtZDR0WTVlS0Z6S2tJSHhGX2twREVYN1hRZ25fekRQUDZPZ29Ib3BaMTA0SmxNTjlocVVMQ0VPbkU1d2Zlc3BSeUdTWUNKTNIB1AFBVV95cUxPMTE3S0daalJSX1ZWbUtHanFMVVlFUU11d3ZvWGtlVmNvUzExaHFGNGwxMThIVE9tLS01d1ZJM3RXR0VvUEJWSElGSWhPSG8yRzhiSzhXZWtHV18xY3U0TkJ6SEZKWVlQZWJsSDlFRy1sbTlHdmRnazhoclZLMmNHUnNuWlJHLWszeWw1SGwtZDR0WTVlS0Z6S2tJSHhGX2twREVYN1hRZ25fekRQUDZPZ29Ib3BaMTA0SmxNTjlocVVMQ0VPbkU1d2Zlc3BSeUdTWUNKTA?oc=5",
+      "description": "IT gains help Sensex, Nifty end flat despite broader market weakness Business Standard"
+    },
+    {
+      "published": "2026-07-28T13:18:27+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Business Standard",
+      "title": "IT gains help Sensex, Nifty end flat despite broader market weakness - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQdjBTOWxFT2s5Nm9Ga0pjQWczMjU1MVI2cWt3ZktUbjlkc0ZIZnF3cS1FUERGZkM2OXFpc2JaSU1WM3lzVjludFZUVU9BM3RaMXNpSklURHZ6NXNsa3EwRVNrTi1PanJzU09aMjg4LWpLQ2Y0XzE0WEQ4RmhXR0cyNFdrZjMxT0pHelB1TElYUUswMlQ0WkdHQVRRU2JSN25HUEs3QjhXUjJyOUdsNEZLYUpHZTNoRVVuSDI5SEM4Z1d1NUc4blA3OXlFM0N1VknSAdQBQVVfeXFMTzExN0tHWmpSUl9WVm1LR2pxTFVZRVFNdXd2b1hrZVZjb1MxMWhxRjRsMTE4SFRPbS0tNXdWSTN0V0dFb1BCVkhJRkloT0hvMkc4Yks4V2VrR1dfMWN1NE5CekhGSllZUGVibEg5RUctbG05R3ZkZ2s4aHJWSzJjR1JzblpSRy1rM3lsNUhsLWQ0dFk1ZUtGektrSUh4Rl9rcERFWDdYUWduX3pEUFA2T2dvSG9wWjEwNEpsTU45aHFVTENFT25FNXdmZXNwUnlHU1lDSkw?oc=5",
+      "description": "IT gains help Sensex, Nifty end flat despite broader market weakness Business Standard"
     },
     {
       "published": "2026-07-29T11:33:03+00:00",
@@ -3497,6 +2940,105 @@
       "title": "Nasdaq Nears 10% Drop as Investors Question AI Spending Benefits - Briefs Finance",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNYzBMczQwZUUxUHg2Sm1zaVJnNURNQmp3SUFBM0pzSlQxSzluV3Z3MHc4TEJSQ1B2cGNiVkpYR2R6R21meUFKbjRDNjd2RDNrQjBiV29IV3JyLXNQMjFULUkxUkdoSU82NE4zQjRQcnBCQXkycnVWenFNSWYya3RNRHpHMER3Z1U2NTljZURSeENiQQ?oc=5",
       "description": "Nasdaq Nears 10% Drop as Investors Question AI Spending Benefits Briefs Finance"
+    },
+    {
+      "published": "2026-07-28T23:51:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "AFR",
+      "title": "World’s hottest trade just went into a correction. Don’t panic – yet - AFR",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQRWx3dmJrTEhhay1qY2hPc0ZnblpCaXR2VXN1U0NSSC16ZnBueDczaGlveXIyUTJkUFY3ZGh3YXJrUjFQSmxVX1hsWUxuRDU5NTlvcVF4LUF4TzJYenAzNjhQU1JwbnJEYWdqQlotUzhKV2cxOFVXVWZBQkJ4VGs0TDhjdVlHU0lmVFd2MTc0VHk2NG9TU0ZOLTh3b2FqWHBCbDdVWXBRQ0U2anpicmNraUtqYw?oc=5",
+      "description": "World’s hottest trade just went into a correction. Don’t panic – yet AFR"
+    },
+    {
+      "published": "2026-07-28T23:18:45+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "eciks.org",
+      "title": "SK Hynix shares plunge 41% this month ahead of Q2 earnings - eciks.org",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GaHh0NXA0WjF4Mm1iY2o4dUJLX2REaFBsbjRPb19hZXBUeVZkemZWeXJmZk94dXViYzdTOEZZS2tfVUNhR0lDZFRGeDRYcC1FZlBvTk81V21XU0txVzBXdVVvd1VtZw?oc=5",
+      "description": "SK Hynix shares plunge 41% this month ahead of Q2 earnings eciks.org"
+    },
+    {
+      "published": "2026-07-28T21:18:41+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "livemint.com",
+      "title": "Goldman Says Japan’s AI Stock Trade ‘Not Broken’ After Rout - livemint.com",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalNCdndLeVhuRF9aVjU3dFVtakJBSGVPZ1VDdE5hNDdUUG9hbXpjRDNnbmFWdkpSUGpNZjdvNnhYU1cxSlBScGVaUlJKQnc0eWYybjhzNHlxeVZ0RVZFclByYm1JLUxOeDRiNHBJVkFxV2lsZUo5dUNqZ2lBLU0zeUpkdC1hbzNHb0pXUC1zOURLeDh1bm9iX2Fpc1hiRkNMVkplZFFTUXRYQUp2QVHSAbMBQVVfeXFMT09jMkU0cjFYQThWWDVSdm5OOTlmYzlPSzhQdlNRRUszZVk3RmNnNWl1cTRYOV9SOW96SFNsSXFfN0lCR0FYU2ZVZ1ZRRlJkeXlsVXgzLXQ5b3U3blROSjBaOTlRdnRScmdieXlwQi1ITVBuaXhTWmpuUlp6M2ZGY3NFbDFoOWVocDhSVXMtRmRFck0yeG85MTNKVFotd1c3ajZrcDE5U0lKeWVUR3h1VUROTG8?oc=5",
+      "description": "Goldman Says Japan’s AI Stock Trade ‘Not Broken’ After Rout livemint.com"
+    },
+    {
+      "published": "2026-07-28T19:25:57+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "The AI Journal",
+      "title": "/C O R R E C T I O N — Whatfix/ - The AI Journal",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9TSmdyc2hIZVhCYzAwblpSdlNzS2pZbXZGNWV1N0tLN1ktc0tvUWI1ZEJFQUV2bDhWZlI3ZDdpRFI1X3BZQ0cyUGY3Nm5LSHJ2REIwLUdMS3JHZ0V1?oc=5",
+      "description": "/C O R R E C T I O N — Whatfix/ The AI Journal"
+    },
+    {
+      "published": "2026-07-28T18:27:47+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "DD News",
+      "title": "Indian markets open with sharp decline led by IT sell-off; Global cues remain mixed - DD News",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzhFOF9pcmlzUlBOemlvSkJmMThRejlJN29FSUdMeG1vNFRIUDJWNEdoOFh5anRvTXAySU8tVFQ4ZTQ5QzYteDJuMEkxMUZsNU4tNEQ4VnpNQzJnVjQ2b2tQZndKV3pQZEFTaE8yaFhvNWFicUFSMTRiQmRxUFFKVDJaSFFLQ1kxYnZ0QkZIUWx6ZDJSdEctSUg4MWFpeTlZbXByOGVlUG5MNDdt?oc=5",
+      "description": "Indian markets open with sharp decline led by IT sell-off; Global cues remain mixed DD News"
+    },
+    {
+      "published": "2026-07-28T18:06:51+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "BBN Times",
+      "title": "BSE SENSEX: Mumbai Benchmark Slips Marginally to 76,765.92 in Choppy Session - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPcjlnQmNTdVJibEpIU2tDY0NSUWR0X1ZkcFd3MkFoMHNObnZzdWF0bHlhSXpmdlZWcUVCT0VfaWtnLVdkYWhPazJsamdCYzNpRzJOSnAzejZ4TUZPTENWQV9kczRvU0pmdzNfckRmLTU3UnFmQ2syTVdCYlNDeFFfcXlEU1MxS09NMWJmdV9TajIwVmE2Yk9xR3V0V3B2dTFLQWpmR29wQWlSRmg5VkZ0OWNNdGR4Zw?oc=5",
+      "description": "BSE SENSEX: Mumbai Benchmark Slips Marginally to 76,765.92 in Choppy Session BBN Times"
+    },
+    {
+      "published": "2026-07-28T15:53:10+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Yahoo! Finance Canada",
+      "title": "Stock market today: Nasdaq pares losses as chip stocks sell off, S&P 500 and Dow rise - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUmpZQlVVa0dyNE5Yem5IQ0NvRzFtazRCem9hazg1QzZSdnVSTHoybjdXR1c0WXZ1SlZ1M1N0a2tPa0ZaaDJ0RWtJSkd2MG9JYzNtN0ZHSWhBREQzTWhJYkw3dW1ZazQtaTFZYkUxZTFRRlBHQkxOTTItOXRnZ25YQ0tTZE44Q29uZTlIVFhQUW14bXd0UzNGSnowbVkxZHZXWTVN?oc=5",
+      "description": "Stock market today: Nasdaq pares losses as chip stocks sell off, S&P 500 and Dow rise Yahoo! Finance Canada"
+    },
+    {
+      "published": "2026-07-28T15:41:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "TradingView",
+      "title": "Is SAP Stock a Buy After the 2026 Selloff and Profit Outlook Cut? - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQzg1ak0zQXhXUUZKV0s4LVN5cVQ5VjlKY0NvUXRoS0h1eHVXUlhSUTdCcGE4RzRoUS1Zd2o3emx1ZC0yMndtdGJENU9mQUh3bXdad3Z4dG40dzRMVDFDdkRxOGpCOTNXUzB4ajU0Vm9iS2lmR0htQmF5OVBCM0JhUkJpWkZvZENiZVFxNm9kUXFPeXRmeFVOVWlIeWxpbmoyano0cV9hYVRLcy1aeV9PcDI5MkphNXFJZm91cQ?oc=5",
+      "description": "Is SAP Stock a Buy After the 2026 Selloff and Profit Outlook Cut? TradingView"
+    },
+    {
+      "published": "2026-07-28T15:00:20+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Goodreturns",
+      "title": "Next Defence Multibagger? THIS BSE SME Stock Falls After Result Rally, Delivers 44% In 3 Months - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFphb0QwdGJyeDV6VXF1SThVby1vTjdMVnVhZE1BbEtwUzB5a2ZFS2NhOEZpSW9ZZ1Ewclg0T2tSNHdOcDFMUDE0eE1fdml2eEYtRm03WnZFQmdZaURqM0FUTS00dC1aTUpUcGhway03M1VfdTItX3o2TjJIYzFDM2FTcTVmby1CQ0FHZUZaUFlSTU9XOXlrczJ2OG1fb1BRSENLdjF4cUhNOXRhUkZMenRDeU1yUGhILXRmU0RIaXlDUzZmUTJxeFBnNEJ3aFRUc3d2UmRB?oc=5",
+      "description": "Next Defence Multibagger? THIS BSE SME Stock Falls After Result Rally, Delivers 44% In 3 Months Goodreturns"
+    },
+    {
+      "published": "2026-07-28T13:48:10+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Bloomberg",
+      "title": "Chip Rout Deepens on Circular Funding, China Competition Fears - Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOeHdSYUVPSG1jLVhiLU0yZW1mNXZlQWVGOWRTRTVDd3ZNNThKcWIxcUxEdjUzMHE3WF9tTlVUbE5xVXBoejU4WUtUNVlwaWhJSTBkX3pzb0JucjY2SnhrTlYzVlJyVFozVHpMVzRac2FrRDVXU18zQnhsaGJGWXlPVGlySkZ3RkVTOW9Na0ZEZUVYQ1dtUGFjalN1WktPajRpaGNOQzFuYU8wNjY3Mk15cDBYQQ?oc=5",
+      "description": "Chip Rout Deepens on Circular Funding, China Competition Fears Bloomberg"
+    },
+    {
+      "published": "2026-07-28T13:12:25+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Whalesbook",
+      "title": "Invesco India Large & Mid Cap Fund Posts 23.2% 3-Year CAGR - Whalesbook",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaHdndDNIZjJxamFUanVabkx2U3BEWEhOTlFGMFFJVzNsRUJ6VGtQNi1zODBSWHFNcEVZYk5GWXpXMXozTmJmZi1aT2VPVUs5NlJySVh1NnFVMHNZTF9HQWdfRkpfN2o0Z3pXOExYVl91X01lcWpFVVNqU29yU3B3NXhCWVpCQjUtdHcwcElNZ05pb1NqVFlncC1fekwzQ1VhR0F5cVlnV0pTd1UzaXc2eE4xeXdoX3JvLURmb3didEVEMjR4aUQwazBfcWlDak1fR2dlaWZNY3FMdDg?oc=5",
+      "description": "Invesco India Large & Mid Cap Fund Posts 23.2% 3-Year CAGR Whalesbook"
     }
   ]
 }
