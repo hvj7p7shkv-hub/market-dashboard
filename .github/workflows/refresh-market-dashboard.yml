@@ -3,7 +3,11 @@ name: Refresh market dashboard
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * 1-5"
+    # GitHub cron uses UTC. Run from 09:23 IST through the 15:33 close snapshot
+    # on weekdays, offset from round clock times to reduce scheduler delays.
+    - cron: "53 3 * * 1-5"
+    - cron: "3,13,23,33,43,53 4-9 * * 1-5"
+    - cron: "3 10 * * 1-5"
 
 permissions:
   contents: write
@@ -34,15 +38,20 @@ jobs:
       - name: Install dashboard dependencies
         run: python -m pip install -r requirements-market-dashboard.txt
 
-      - name: Refresh public market data
-        shell: bash
-        run: |
-          set +e
-          python scripts/fetch_ai_market_news_wires.py --days 1 --limit 80 --output-dir data/market_news_wires
-          python scripts/fetch_amfi_mutual_fund_navs.py --watchlist data/mutual_fund_watchlist.json --output-dir data/mutual_fund_navs
-          python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation
-          python scripts/fetch_nse_nifty500_52w_highs.py --output-dir data/nse_52w_highs
-          exit 0
+      - name: Refresh market wires
+        continue-on-error: true
+        run: python scripts/fetch_ai_market_news_wires.py --days 1 --limit 80 --output-dir data/market_news_wires
+
+      - name: Refresh mutual fund NAVs
+        continue-on-error: true
+        run: python scripts/fetch_amfi_mutual_fund_navs.py --watchlist data/mutual_fund_watchlist.json --output-dir data/mutual_fund_navs
+
+      - name: Refresh Nifty 500 highs
+        continue-on-error: true
+        run: python scripts/fetch_nse_nifty500_52w_highs.py --output-dir data/nse_52w_highs
+
+      - name: Refresh Nifty 50 rotation
+        run: python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation
 
       - name: Build dashboard snapshot
         run: >-
@@ -50,6 +59,8 @@ jobs:
           --output-dir docs
           --all-wires
           --india-breadth-limit 120
+          --min-index-coverage 0.70
+          --min-breadth-coverage 0.70
           --include-bear-note-text
           --bear-notes data/bear_dashboard_notes/latest-bear-watchlist-notes.json
 

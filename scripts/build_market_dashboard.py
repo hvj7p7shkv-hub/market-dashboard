@@ -881,7 +881,7 @@ def html_page(payload: dict[str, object]) -> str:
       <div class="header-actions">
         <div class="refresh-panel">
           <span class="eyebrow">Data refresh</span>
-          <b>Automatic every 10 minutes</b>
+          <b>Every 10 minutes during market hours</b>
           <span id="refreshStatus" class="stamp">Checking the latest snapshot</span>
           <button id="refreshNow" type="button">Refresh now</button>
         </div>
@@ -1092,7 +1092,12 @@ def html_page(payload: dict[str, object]) -> str:
       }}
       return `<div class="note-content">${{blocks.join('')}}</div>`;
     }}
-    document.getElementById('generated').textContent = `Generated ${{payload.generated_at}} from ${{payload.wire_file || 'wire data'}}`;
+    const quality = payload.data_quality || {{}};
+    const qualityParts = [];
+    if (quality.index_expected) qualityParts.push(`indices ${{quality.index_downloaded}}/${{quality.index_expected}}`);
+    if (quality.breadth_expected) qualityParts.push(`India breadth ${{quality.breadth_downloaded}}/${{quality.breadth_expected}}`);
+    const coverageText = qualityParts.length ? ` | Coverage: ${{qualityParts.join(', ')}}` : '';
+    document.getElementById('generated').textContent = `Generated ${{payload.generated_at}} from ${{payload.wire_file || 'wire data'}}${{coverageText}}`;
     document.getElementById('stance').textContent = payload.posture.stance;
     document.getElementById('stanceDetail').textContent = `${{payload.posture.wire_count}} wires, ${{payload.posture.ai_wire_count}} AI/tech, ${{payload.posture.selling_wire_count}} selling`;
 
@@ -1481,6 +1486,18 @@ def main() -> int:
     parser.add_argument("--highs-limit", type=int, default=25, help="Number of fresh/near 52-week highs to show.")
     parser.add_argument("--funds-limit", type=int, default=20, help="Number of mutual fund NAV rows to show.")
     parser.add_argument("--rotation-limit", type=int, default=12, help="Number of Nifty 50 rotation rows to show per bucket.")
+    parser.add_argument(
+        "--min-index-coverage",
+        type=float,
+        default=0.70,
+        help="Minimum share of configured global indices that must download before replacing the dashboard.",
+    )
+    parser.add_argument(
+        "--min-breadth-coverage",
+        type=float,
+        default=0.70,
+        help="Minimum share of the Indian breadth universe that must download before replacing the dashboard.",
+    )
     parser.add_argument("--bear-notes", type=Path, default=None, help="Bear dashboard-notes JSON to include.")
     parser.add_argument("--bear-notes-limit", type=int, default=80, help="Number of Bear watchlist notes to show.")
     parser.add_argument(
@@ -1494,8 +1511,24 @@ def main() -> int:
     wire_path = args.wires or find_latest_wires()
     wires = load_wires(wire_path, today_only=not args.all_wires)
     indices = download_index_history(args.period)
+    index_expected = len(INDEX_TICKERS)
+    index_coverage = len(indices) / index_expected if index_expected else 0.0
+    if index_coverage < args.min_index_coverage:
+        raise SystemExit(
+            f"Index download coverage was {len(indices)}/{index_expected} "
+            f"({index_coverage:.0%}); dashboard was not overwritten."
+        )
     leaders = load_leaders(TECHNICAL_SUMMARY, args.leaders)
     india_breadth = download_india_breadth(TECHNICAL_SUMMARY, args.india_breadth_limit)
+    breadth_summary = india_breadth.get("summary", {})
+    breadth_expected = int(breadth_summary.get("source_count") or 0)
+    breadth_downloaded = int(breadth_summary.get("downloaded_count") or 0)
+    breadth_coverage = breadth_downloaded / breadth_expected if breadth_expected else 0.0
+    if breadth_coverage < args.min_breadth_coverage:
+        raise SystemExit(
+            f"Indian breadth download coverage was {breadth_downloaded}/{breadth_expected} "
+            f"({breadth_coverage:.0%}); dashboard was not overwritten."
+        )
     nse_highs = load_nse_highs(find_latest_nse_highs(), args.highs_limit)
     mutual_fund_navs = load_mutual_fund_navs(find_latest_mutual_fund_navs(), args.funds_limit)
     nifty50_rotation = load_nifty50_rotation(find_latest_nifty50_rotation(), args.rotation_limit)
@@ -1507,7 +1540,15 @@ def main() -> int:
     )
     payload = {
         "generated_at": dt.datetime.now(dt.timezone(dt.timedelta(hours=5, minutes=30))).strftime("%Y-%m-%d %H:%M IST"),
-        "wire_file": str(wire_path) if wire_path else "",
+        "wire_file": wire_path.name if wire_path else "",
+        "data_quality": {
+            "index_downloaded": len(indices),
+            "index_expected": index_expected,
+            "index_coverage_pct": round(index_coverage * 100, 1),
+            "breadth_downloaded": breadth_downloaded,
+            "breadth_expected": breadth_expected,
+            "breadth_coverage_pct": round(breadth_coverage * 100, 1),
+        },
         "posture": market_posture(indices, wires),
         "narrative": narrative_from_wires(wires),
         "indices": indices,

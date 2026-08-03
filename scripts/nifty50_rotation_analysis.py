@@ -233,13 +233,27 @@ def main() -> int:
     parser.add_argument("--period", default="1y")
     parser.add_argument("--benchmark", default=DEFAULT_BENCHMARK)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument(
+        "--min-coverage",
+        type=float,
+        default=0.80,
+        help="Minimum share of Nifty 50 constituents that must download before replacing the snapshot.",
+    )
     args = parser.parse_args()
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
     data = analyse(args.period, args.benchmark)
+    downloaded_count = int(data.get("downloaded", pd.Series(dtype=bool)).fillna(False).astype(bool).sum())
+    expected_count = len(NIFTY50)
+    coverage = downloaded_count / expected_count if expected_count else 0.0
+    if coverage < args.min_coverage:
+        raise SystemExit(
+            f"Nifty 50 download coverage was {downloaded_count}/{expected_count} "
+            f"({coverage:.0%}); rotation snapshot was not overwritten."
+        )
     output = args.output_dir / f"{dt.date.today().isoformat()}-nifty50-rotation.csv"
     data.to_csv(output, index=False)
-    print(f"Nifty 50 rotation rows: {len(data)}")
+    print(f"Nifty 50 rotation coverage: {downloaded_count}/{expected_count}")
     print(f"CSV: {output}")
     return 0
 
