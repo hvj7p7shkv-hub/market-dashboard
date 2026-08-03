@@ -766,9 +766,14 @@ def find_latest_nifty500_rotation() -> Path | None:
 def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
     empty = {
         "leaders": [],
+        "composite_leaders": [],
+        "strengthening": [],
+        "extended": [],
+        "setup_candidates": [],
         "weakening": [],
         "laggards": [],
         "mean_reversion": [],
+        "risk_review": [],
         "source_file": "",
         "count": 0,
         "downloaded_count": 0,
@@ -793,12 +798,63 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
     coverage_pct = round(downloaded_count / total_count * 100, 1) if total_count else None
     summary = summarize_nifty500_breadth(downloaded, total_count)
     summary["coverage_pct"] = coverage_pct
-    leaders = downloaded.copy()
-    if "rotation_score" in leaders:
-        leaders = leaders.sort_values(["rotation_score", "rs_return_20d_pct"], ascending=[False, False], na_position="last")
-    laggards = downloaded.copy()
-    if "rotation_score" in laggards:
-        laggards = laggards.sort_values(["rotation_score", "rs_return_20d_pct"], ascending=[True, True], na_position="last")
+
+    def sorted_frame(frame: pd.DataFrame, columns: list[str], ascending: list[bool]) -> pd.DataFrame:
+        available = [column for column in columns if column in frame.columns]
+        if not available:
+            return frame
+        available_ascending = [ascending[columns.index(column)] for column in available]
+        return frame.sort_values(available, ascending=available_ascending, na_position="last")
+
+    signal = (
+        downloaded["rotation_signal"].astype(str)
+        if "rotation_signal" in downloaded
+        else pd.Series("", index=downloaded.index)
+    )
+    setup_quality = (
+        downloaded["setup_quality"].astype(str)
+        if "setup_quality" in downloaded
+        else pd.Series("", index=downloaded.index)
+    )
+    setup_score = (
+        pd.to_numeric(downloaded["setup_score"], errors="coerce")
+        if "setup_score" in downloaded
+        else pd.Series(math.nan, index=downloaded.index)
+    )
+    has_setup_text = (
+        downloaded["primary_setup"].astype(str).str.len() > 0
+        if "primary_setup" in downloaded
+        else pd.Series(False, index=downloaded.index)
+    )
+    leaders = sorted_frame(downloaded.copy(), ["rotation_score", "rs_return_20d_pct"], [False, False])
+    strengthening = sorted_frame(
+        downloaded[signal.str.contains("Strengthening", case=False, na=False)].copy(),
+        ["rotation_score", "rs_return_20d_pct"],
+        [False, False],
+    )
+    extended = sorted_frame(
+        downloaded[signal.str.contains("Leader but extended", case=False, na=False)].copy(),
+        ["rotation_score", "rs_return_20d_pct"],
+        [False, False],
+    )
+    risk_review = sorted_frame(
+        downloaded[
+            signal.str.contains("Risk", case=False, na=False)
+            | setup_quality.str.contains("Risk", case=False, na=False)
+        ].copy(),
+        ["rotation_score", "rs_return_20d_pct"],
+        [True, True],
+    )
+    setup_candidates = sorted_frame(
+        downloaded[
+            ((setup_score >= 2.3) | setup_quality.isin(["Actionable watch", "Watch"]) | signal.str.contains("Setup watch", case=False, na=False))
+            & ~setup_quality.str.contains("Risk", case=False, na=False)
+            & has_setup_text
+        ].copy(),
+        ["setup_score", "rotation_score", "rs_return_20d_pct"],
+        [False, False, False],
+    )
+    laggards = sorted_frame(downloaded.copy(), ["rotation_score", "rs_return_20d_pct"], [True, True])
     weakening = (
         downloaded[downloaded["rotation_signal"].astype(str).str.contains("Weakening", case=False, na=False)]
         if "rotation_signal" in downloaded
@@ -816,9 +872,14 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
         benchmark_ticker = str(data["benchmark_ticker"].dropna().iloc[0])
     return {
         "leaders": json.loads(leaders.head(limit).to_json(orient="records")),
+        "composite_leaders": json.loads(leaders.head(limit).to_json(orient="records")),
+        "strengthening": json.loads(strengthening.head(limit).to_json(orient="records")),
+        "extended": json.loads(extended.head(limit).to_json(orient="records")),
+        "setup_candidates": json.loads(setup_candidates.head(limit).to_json(orient="records")),
         "weakening": json.loads(weakening.head(limit).to_json(orient="records")),
         "laggards": json.loads(laggards.head(limit).to_json(orient="records")),
         "mean_reversion": json.loads(mean_reversion.head(limit).to_json(orient="records")),
+        "risk_review": json.loads(risk_review.head(limit).to_json(orient="records")),
         "source_file": str(path),
         "count": total_count,
         "downloaded_count": downloaded_count,
@@ -1614,17 +1675,37 @@ def html_page(payload: dict[str, object]) -> str:
       </table>` : '<div class="empty">Run the AMFI mutual-fund NAV fetcher to populate HDFC 500 and other fund NAV movement.</div>';
 
     const rotation = payload.nifty50_rotation || {{}};
+    function rotationPillClass(signal) {{
+      const text = String(signal || '');
+      if (text.includes('Risk') || text.includes('Weakening')) return 'risk';
+      if (text.includes('Mean') || text.includes('Setup')) return 'watch';
+      return 'leader';
+    }}
     function rotationRows(rows) {{
       return (rows || []).map(row => `
         <tr>
           <td><strong>${{row.symbol || ''}}</strong><div class="source">${{row.name || ''}}</div></td>
-          <td><span class="pill ${{String(row.rotation_signal || '').includes('Weakening') ? 'risk' : String(row.rotation_signal || '').includes('Mean') ? 'watch' : 'leader'}}">${{row.rotation_signal || ''}}</span></td>
+          <td><span class="pill ${{rotationPillClass(row.rotation_signal)}}">${{row.rotation_signal || ''}}</span></td>
           <td class="num">${{row.rotation_score ?? ''}}</td>
           <td class="num ${{cls(row.rs_return_20d_pct)}}">${{pct(row.rs_return_20d_pct)}}</td>
           <td class="num ${{cls(row.rs_distance_sma_50_pct)}}">${{pct(row.rs_distance_sma_50_pct)}}</td>
           <td class="num">${{row.volume_ratio_20d ?? ''}}</td>
           <td class="num">${{row.rsi_14 ?? ''}}</td>
           <td class="num ${{cls(row.distance_sma_50_pct)}}">${{pct(row.distance_sma_50_pct)}}</td>
+        </tr>`).join('');
+    }}
+    function setupRows(rows) {{
+      return (rows || []).map(row => `
+        <tr>
+          <td><strong>${{row.symbol || ''}}</strong><div class="source">${{row.name || ''}}</div></td>
+          <td><strong>${{esc(row.primary_setup || '')}}</strong><div class="source">${{esc(row.setup_tags || '')}}</div></td>
+          <td><span class="pill ${{String(row.setup_quality || '').includes('Actionable') ? 'leader' : 'watch'}}">${{esc(row.setup_quality || '')}}</span></td>
+          <td class="num">${{row.setup_score ?? ''}}</td>
+          <td class="num">${{row.setup_pivot_level ?? ''}}</td>
+          <td class="num">${{pct(row.setup_retest_gap_pct)}}</td>
+          <td class="num">${{row.setup_volume_ratio ?? ''}}</td>
+          <td class="num">${{row.rsi_14 ?? ''}}</td>
+          <td>${{esc(row.setup_commentary || '')}}</td>
         </tr>`).join('');
     }}
     const rotationLeaderRows = rotationRows(rotation.leaders);
@@ -1678,47 +1759,65 @@ def html_page(payload: dict[str, object]) -> str:
         <td class="num">${{pct(row.above_50dma_pct)}}</td>
         <td class="num">${{row.average_volume_ratio_20d ?? ''}}</td>
       </tr>`).join('');
-    const rotation500LeaderRows = rotationRows(rotation500.leaders);
+    const rotation500StrengthRows = rotationRows(rotation500.strengthening);
+    const rotation500SetupRows = setupRows(rotation500.setup_candidates);
+    const rotation500ExtendedRows = rotationRows(rotation500.extended);
     const rotation500WeakRows = rotationRows(rotation500.weakening);
     const rotation500LaggardRows = rotationRows(rotation500.laggards);
     const rotation500MeanRows = rotationRows(rotation500.mean_reversion);
+    const rotation500RiskRows = rotationRows(rotation500.risk_review);
     document.getElementById('nifty500Rotation').innerHTML = rotation500.source_file ? `
       <div class="metric-grid">
         ${{rotation500BreadthHtml}}
       </div>
       <div class="empty" style="margin: 12px 16px;">
-        This is the full Nifty 500 downloaded universe, not the 52-week-high watchlist. It measures market participation using advances/declines, turnover proxy, moving-average placement, volume pressure, and then ranks leadership versus ${{rotation500.benchmark_ticker || 'the benchmark'}}.
+        This is the full Nifty 500 downloaded universe, not the 52-week-high watchlist. The tables below keep the ideas separate: true RS leaders are strengthening versus ${{rotation500.benchmark_ticker || 'the benchmark'}}, setup candidates are near chart decision zones, and mean-reversion bounces are oversold recoveries.
       </div>
       <div style="padding: 0 16px 12px;">
         <div class="detail-heading">Nifty 500 sector breadth</div>
         ${{rotation500SectorRows ? `<table><thead><tr><th>Sector</th><th class="num">A/D</th><th class="num">Avg 1D</th><th class="num">Above 50DMA</th><th class="num">Vol/20D</th></tr></thead><tbody>${{rotation500SectorRows}}</tbody></table>` : '<div class="empty">Sector breadth will appear after the next Nifty 500 refresh includes sector data.</div>'}}
       </div>
       <div style="padding: 10px 16px 0;">
-        <div class="detail-heading">Broad-market leaders</div>
+        <div class="detail-heading">True RS leaders</div>
       </div>
-      <table>
+      ${{rotation500StrengthRows ? `<table>
         <thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead>
-        <tbody>${{rotation500LeaderRows}}</tbody>
-      </table>
+        <tbody>${{rotation500StrengthRows}}</tbody>
+      </table>` : '<div class="empty">No Nifty 500 names are in the true strengthening bucket in the latest snapshot.</div>'}}
+      <div style="padding: 10px 16px 0;">
+        <div class="detail-heading">Setup candidates near entry zones</div>
+      </div>
+      ${{rotation500SetupRows ? `<table>
+        <thead><tr><th>Stock</th><th>Setup</th><th>Quality</th><th class="num">Setup score</th><th class="num">Pivot</th><th class="num">Retest gap</th><th class="num">Vol/20D</th><th class="num">RSI</th><th>Read</th></tr></thead>
+        <tbody>${{rotation500SetupRows}}</tbody>
+      </table>` : '<div class="empty">No current breakout-retest, flag, or inverse head-and-shoulders setup was detected in the latest snapshot.</div>'}}
       <div class="two-col" style="padding: 10px 16px 16px;">
+        <div>
+          <div class="detail-heading">Extended leaders</div>
+          ${{rotation500ExtendedRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500ExtendedRows}}</tbody></table>` : '<div class="empty">No extended-leader bucket in latest file.</div>'}}
+        </div>
+        <div>
+          <div class="detail-heading">Mean-reversion bounces</div>
+          ${{rotation500MeanRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500MeanRows}}</tbody></table>` : '<div class="empty">No mean-reversion bucket in latest file.</div>'}}
+        </div>
+      </div>
+      <div class="two-col" style="padding: 0 16px 16px;">
         <div>
           <div class="detail-heading">Weakening names</div>
           ${{rotation500WeakRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500WeakRows}}</tbody></table>` : '<div class="empty">No weakening bucket in latest file.</div>'}}
         </div>
         <div>
-          <div class="detail-heading">Lowest rotation scores</div>
-          ${{rotation500LaggardRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500LaggardRows}}</tbody></table>` : '<div class="empty">No laggard bucket in latest file.</div>'}}
+          <div class="detail-heading">Risk review / lowest scores</div>
+          ${{(rotation500RiskRows || rotation500LaggardRows) ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500RiskRows || rotation500LaggardRows}}</tbody></table>` : '<div class="empty">No risk or laggard bucket in latest file.</div>'}}
         </div>
-      </div>
-      <div style="padding: 0 16px 16px;">
-        <div class="detail-heading">Mean-reversion bounces</div>
-        ${{rotation500MeanRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500MeanRows}}</tbody></table>` : '<div class="empty">No mean-reversion bucket in latest file.</div>'}}
-      </div>` : '<div class="empty">Run the Nifty 500 rotation analysis to populate broad-market relative-strength, volume, and RSI rotation.</div>';
+      </div>` : '<div class="empty">No Nifty 500 rotation snapshot was found. Run the market dashboard refresh once; if Yahoo blocks a few symbols, the dashboard will still use the latest usable snapshot and show the download coverage here.</div>';
 
     const highs = payload.nse_highs || {{}};
     function technicalHighRows(rows) {{
       return (rows || []).map(row => {{
         const hasOverlay = Boolean(row.has_technical_overlay);
+        const rawSetupLabel = String(row.setup_label || '');
+        const displaySetupLabel = rawSetupLabel === 'High-proximity watch' ? 'Near high, needs RS/RSI check' : rawSetupLabel;
         const statusText = row.relative_strength_leader
           ? 'RS leader'
           : hasOverlay
@@ -1728,7 +1827,7 @@ def html_page(payload: dict[str, object]) -> str:
         const pnfText = row.pnf_signal || (hasOverlay ? '' : 'Technical overlay pending');
         return `
           <tr>
-            <td><strong>${{esc(row.symbol || '')}}</strong><div class="source">${{esc(row.company || '')}}</div><div class="source">${{esc(row.setup_label || '')}}</div></td>
+            <td><strong>${{esc(row.symbol || '')}}</strong><div class="source">${{esc(row.company || '')}}</div><div class="source">${{esc(displaySetupLabel)}}</div></td>
             <td class="num">${{row.rank_score ?? ''}}</td>
             <td><span class="pill ${{statusClass}}">${{esc(statusText)}}</span></td>
             <td class="num ${{cls(row.relative_strength_ratio_distance_sma_50_pct)}}">${{pct(row.relative_strength_ratio_distance_sma_50_pct)}}</td>

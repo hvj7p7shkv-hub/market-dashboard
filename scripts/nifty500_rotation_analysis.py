@@ -38,6 +38,11 @@ try:
 except Exception:  # pragma: no cover - runtime dependency
     yf = None
 
+try:
+    from setup_pattern_detection import scan_setups
+except Exception:  # pragma: no cover - optional local helper
+    scan_setups = None
+
 
 def make_nse_session() -> requests.Session:
     session = requests.Session()
@@ -281,10 +286,16 @@ def download_benchmark(preferred: str, fallbacks: list[str], period: str) -> tup
         close = clean_close(frame)
         if len(close) >= 70:
             return ticker, close
-    raise SystemExit(f"No benchmark data downloaded for any of: {', '.join(seen)}")
+    print(
+        "Benchmark data was not available for any of "
+        f"{', '.join(seen)}. Continuing with market-breadth metrics only."
+    )
+    return "", pd.Series(dtype=float)
 
 
 def signal_for(row: dict[str, object]) -> str:
+    setup_quality = str(row.get("setup_quality") or "")
+    primary_setup = str(row.get("primary_setup") or "")
     rs_above = bool(row.get("rs_above_50dma"))
     rs_20 = row.get("rs_return_20d_pct")
     vol = row.get("volume_ratio_20d")
@@ -292,6 +303,8 @@ def signal_for(row: dict[str, object]) -> str:
     rsi_prev = row.get("rsi_5d_ago")
     above_50 = bool(row.get("above_sma_50"))
     above_200 = bool(row.get("above_sma_200"))
+    if "risk" in setup_quality.lower() or "head-and-shoulders risk" in primary_setup.lower():
+        return "Risk review"
     if isinstance(rsi_now, (int, float)) and isinstance(rsi_prev, (int, float)) and rsi_prev < 35 <= rsi_now:
         return "Mean reversion bounce"
     if rs_above and isinstance(rs_20, (int, float)) and rs_20 > 0 and above_50:
@@ -300,6 +313,8 @@ def signal_for(row: dict[str, object]) -> str:
         return "Strengthening"
     if above_50 and above_200 and isinstance(rsi_now, (int, float)) and rsi_now > 72:
         return "Leader but extended"
+    if setup_quality in {"Actionable watch", "Watch"} and primary_setup:
+        return f"Setup watch: {primary_setup}"
     if not rs_above and isinstance(rs_20, (int, float)) and rs_20 < 0:
         return "Weakening"
     return "Neutral / watch"
@@ -330,6 +345,9 @@ def score_row(row: dict[str, object]) -> float:
             score -= 0.7
     if isinstance(rsi_now, (int, float)) and isinstance(rsi_prev, (int, float)) and rsi_prev < 35 <= rsi_now:
         score += 0.9
+    setup_score = row.get("setup_score")
+    if isinstance(setup_score, (int, float)):
+        score += max(min(setup_score, 4), -3) * 0.35
     return round(score, 2)
 
 
@@ -349,6 +367,7 @@ def analyse(
     if yf is None:
         raise SystemExit("yfinance is not installed.")
     benchmark_ticker, benchmark_close = download_benchmark(benchmark, benchmark_fallbacks, period)
+    has_benchmark = not benchmark_close.empty
     tickers = universe["ticker"].dropna().astype(str).tolist()
     history = download_history(tickers, period, chunk_size)
     rows: list[dict[str, object]] = []
@@ -374,8 +393,12 @@ def analyse(
             )
             continue
         volume = clean_volume(frame, close.index)
-        aligned = pd.concat([close.rename("stock"), benchmark_close.rename("benchmark")], axis=1).dropna()
-        if len(aligned) < 50:
+        aligned = (
+            pd.concat([close.rename("stock"), benchmark_close.rename("benchmark")], axis=1).dropna()
+            if has_benchmark
+            else pd.DataFrame()
+        )
+        if has_benchmark and len(aligned) < 50:
             rows.append(
                 {
                     "symbol": symbol,
@@ -389,7 +412,7 @@ def analyse(
                 }
             )
             continue
-        ratio = aligned["stock"] / aligned["benchmark"]
+        ratio = aligned["stock"] / aligned["benchmark"] if has_benchmark else pd.Series(dtype=float)
         latest = float(close.iloc[-1])
         rsi_series = rsi(close).dropna()
         latest_volume = float(volume.iloc[-1])
@@ -398,7 +421,7 @@ def analyse(
         sma_20 = latest_rolling(close, 20)
         sma_50 = latest_rolling(close, 50)
         sma_200 = latest_rolling(close, 200)
-        rs_sma_50 = latest_rolling(ratio, 50)
+        rs_sma_50 = latest_rolling(ratio, 50) if has_benchmark else None
         rsi_now = float(rsi_series.iloc[-1]) if not rsi_series.empty else None
         rsi_5d_ago = float(rsi_series.iloc[-6]) if len(rsi_series) >= 6 else None
         row = {
@@ -426,14 +449,18 @@ def analyse(
             "above_sma_200": bool(sma_200 and latest > sma_200) if sma_200 else None,
             "distance_sma_20_pct": round_value((latest / sma_20 - 1) * 100) if sma_20 else None,
             "distance_sma_50_pct": round_value((latest / sma_50 - 1) * 100) if sma_50 else None,
-            "rs_ratio": round_value(float(ratio.iloc[-1]), 8),
+            "rs_ratio": round_value(float(ratio.iloc[-1]), 8) if has_benchmark and len(ratio) else None,
             "rs_ratio_sma_50": round_value(rs_sma_50, 8),
             "rs_distance_sma_50_pct": round_value((float(ratio.iloc[-1]) / rs_sma_50 - 1) * 100)
-            if rs_sma_50
+            if has_benchmark and rs_sma_50
             else None,
-            "rs_return_20d_pct": pct_return(ratio, 20),
-            "rs_above_50dma": bool(rs_sma_50 and float(ratio.iloc[-1]) > rs_sma_50),
+            "rs_return_20d_pct": pct_return(ratio, 20) if has_benchmark else None,
+            "rs_above_50dma": bool(rs_sma_50 and float(ratio.iloc[-1]) > rs_sma_50)
+            if has_benchmark and len(ratio)
+            else None,
         }
+        if scan_setups is not None:
+            row.update(scan_setups(frame))
         row["rotation_signal"] = signal_for(row)
         row["rotation_score"] = score_row(row)
         rows.append(row)
@@ -492,16 +519,29 @@ def main() -> int:
     downloaded_count = int(data.get("downloaded", pd.Series(dtype=bool)).fillna(False).astype(bool).sum())
     expected_count = len(universe)
     coverage = downloaded_count / expected_count if expected_count else 0.0
+    output = args.output_dir / f"{stamp}-nifty500-rotation.csv"
     if coverage < args.min_coverage:
+        existing_snapshots = list(args.output_dir.glob("*-nifty500-rotation.csv"))
+        if downloaded_count > 0 and not existing_snapshots:
+            data.to_csv(output, index=False)
+            print(
+                f"Warning: Nifty 500 download coverage was only {downloaded_count}/{expected_count} "
+                f"({coverage:.0%}). Wrote the partial first snapshot so the dashboard can show coverage."
+            )
+            print(f"Nifty 500 constituents: {expected_count}")
+            print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
+            print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
+            print(f"Universe CSV: {universe_path}")
+            print(f"Rotation CSV: {output}")
+            return 0
         raise SystemExit(
             f"Nifty 500 download coverage was {downloaded_count}/{expected_count} "
             f"({coverage:.0%}); rotation snapshot was not overwritten. Universe CSV: {universe_path}"
         )
-    output = args.output_dir / f"{stamp}-nifty500-rotation.csv"
     data.to_csv(output, index=False)
     print(f"Nifty 500 constituents: {expected_count}")
     print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
-    print(f"Benchmark used: {benchmark_ticker}")
+    print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
     print(f"Universe CSV: {universe_path}")
     print(f"Rotation CSV: {output}")
     return 0
