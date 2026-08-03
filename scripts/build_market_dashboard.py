@@ -143,35 +143,106 @@ def market_theme_counts(wires: list[dict[str, object]]) -> dict[str, int]:
     return counts
 
 
+def wire_date(row: dict[str, object]) -> str:
+    published = str(row.get("published", ""))
+    match = re.match(r"\d{4}-\d{2}-\d{2}", published)
+    return match.group(0) if match else ""
+
+
+def latest_wire_slice(wires: list[dict[str, object]]) -> tuple[str, list[dict[str, object]]]:
+    dated_rows = [(wire_date(row), row) for row in wires]
+    dates = [date for date, _ in dated_rows if date]
+    if not dates:
+        return "", wires
+    latest = max(dates)
+    return latest, [row for date, row in dated_rows if date == latest]
+
+
+def title_contains(row: dict[str, object], terms: list[str]) -> bool:
+    text = f"{row.get('title', '')} {row.get('description', '')}".lower()
+    return any(term in text for term in terms)
+
+
+def sample_title(wires: list[dict[str, object]], terms: list[str]) -> str:
+    for row in wires:
+        if title_contains(row, terms):
+            return str(row.get("title", "")).strip()
+    return str(wires[0].get("title", "")).strip() if wires else ""
+
+
 def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]:
-    counts = market_theme_counts(wires)
-    top_titles = " ".join(row["title"].lower() for row in wires[:30])
+    latest_date, latest_wires = latest_wire_slice(wires)
+    scoped_wires = latest_wires or wires
+    counts = market_theme_counts(scoped_wires)
+    top_titles = " ".join(str(row.get("title", "")).lower() for row in scoped_wires[:40])
     asia_ai = any(term in top_titles for term in ["kospi", "nikkei", "chip", "semiconductor", "ai"])
     crude = any(term in top_titles for term in ["crude", "oil", "brent"])
     flows = any(term in top_titles for term in ["fii", "fpi", "flows", "rupee"])
+    india_relief = any(
+        term in top_titles
+        for term in ["surge", "jump", "rebound", "gains", "up for", "above", "relief", "crude falls", "oil falls"]
+    )
     items = []
+    date_text = f" for {latest_date}" if latest_date else ""
+    if india_relief and asia_ai:
+        items.append(
+            {
+                "label": "Latest Wire Bias",
+                "title": "India relief, global AI overhang",
+                "text": (
+                    f"The latest wire slice{date_text} has {counts['India market']} India-market wires, "
+                    f"{counts['market selling']} selling/risk wires, and {counts['AI / tech risk']} AI/tech-risk wires. "
+                    "The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+                ),
+            }
+        )
+    elif india_relief:
+        items.append(
+            {
+                "label": "Latest Wire Bias",
+                "title": "India relief is leading the tape",
+                "text": (
+                    f"The latest wire slice{date_text} is being led by India recovery language, with "
+                    f"{counts['India market']} India-market wires versus {counts['market selling']} selling/risk wires."
+                ),
+            }
+        )
+    elif counts["market selling"] or counts["AI / tech risk"]:
+        items.append(
+            {
+                "label": "Latest Wire Bias",
+                "title": "Risk-off still dominates the wires",
+                "text": (
+                    f"The latest wire slice{date_text} has {counts['market selling']} selling/risk wires and "
+                    f"{counts['AI / tech risk']} AI/tech-risk wires, so the bias remains defensive."
+                ),
+            }
+        )
     if asia_ai:
+        title = sample_title(scoped_wires, ["kospi", "nikkei", "chip", "semiconductor", "ai"])
         items.append(
             {
                 "label": "Dominant Wire",
                 "title": "Asian AI and chip risk-off",
-                "text": "Today's strongest wire cluster is around Korea/Japan semiconductor selling and AI-capex anxiety spilling into regional equities.",
+                "text": f"AI/chip-linked selling is still the key external risk cluster. Representative wire: {title}",
             }
         )
     if crude:
+        title = sample_title(scoped_wires, ["crude", "oil", "brent"])
         items.append(
             {
-                "label": "India Pressure",
-                "title": "Crude remains the local macro swing factor",
-                "text": "Recent Indian-market weakness still has a crude component; relief rallies are also being linked to lower oil.",
+                "label": "India Trigger",
+                "title": "Crude is the local swing factor",
+                "text": f"Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: {title}",
             }
         )
     if flows:
+        title = sample_title(scoped_wires, ["fii", "fpi", "flows", "rupee"])
         items.append(
             {
                 "label": "Flows",
                 "title": "Foreign-flow and risk appetite lens",
-                "text": "The wires continue to mention FII/FPI pressure and global risk appetite, so breadth matters more than index-only moves.",
+                "text": f"Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: {title}",
             }
         )
     if counts["mutual funds"]:
@@ -696,11 +767,22 @@ def copy_bear_dashboard_assets(bear_notes_path: Path | None, output_dir: Path) -
 
 
 def market_posture(indices: list[dict[str, object]], wires: list[dict[str, object]]) -> dict[str, str]:
-    selling_wires = sum(1 for row in wires[:50] if "market selling" in str(row.get("themes", "")).lower())
-    ai_wires = sum(1 for row in wires[:50] if "ai / tech risk" in str(row.get("themes", "")).lower())
+    latest_date, latest_wires = latest_wire_slice(wires)
+    scoped_wires = latest_wires or wires
+    wire_sample = scoped_wires
+    selling_wires = sum(1 for row in wire_sample if "market selling" in str(row.get("themes", "")).lower())
+    ai_wires = sum(1 for row in wire_sample if "ai / tech risk" in str(row.get("themes", "")).lower())
+    india_wires = sum(1 for row in wire_sample if "india market" in str(row.get("themes", "")).lower())
+    title_blob = " ".join(str(row.get("title", "")).lower() for row in wire_sample)
+    india_relief = any(
+        term in title_blob
+        for term in ["surge", "jump", "rebound", "gains", "up for", "above", "relief", "crude falls", "oil falls"]
+    )
     weak_indices = sum(1 for row in indices if (row.get("distance_sma_20_pct") or 0) < 0)
     above_50 = sum(1 for row in indices if row.get("above_sma_50") is True)
-    if ai_wires >= 5 and weak_indices >= 3:
+    if india_relief and ai_wires >= 5:
+        stance = "India relief, AI overhang"
+    elif ai_wires >= 5 and weak_indices >= 3:
         stance = "Risk-off, AI-led"
     elif selling_wires >= 8:
         stance = "Risk-off, broad"
@@ -710,9 +792,12 @@ def market_posture(indices: list[dict[str, object]], wires: list[dict[str, objec
         stance = "Mixed"
     return {
         "stance": stance,
-        "wire_count": str(len(wires)),
+        "wire_count": str(len(scoped_wires)),
+        "wire_total_count": str(len(wires)),
+        "wire_scope_date": latest_date,
         "ai_wire_count": str(ai_wires),
         "selling_wire_count": str(selling_wires),
+        "india_wire_count": str(india_wires),
         "weak_index_count": str(weak_indices),
     }
 
@@ -1270,7 +1355,8 @@ def html_page(payload: dict[str, object]) -> str:
     const coverageText = qualityParts.length ? ` | Coverage: ${{qualityParts.join(', ')}}` : '';
     document.getElementById('generated').textContent = `Generated ${{payload.generated_at}} from ${{payload.wire_file || 'wire data'}}${{coverageText}}`;
     document.getElementById('stance').textContent = payload.posture.stance;
-    document.getElementById('stanceDetail').textContent = `${{payload.posture.wire_count}} wires, ${{payload.posture.ai_wire_count}} AI/tech, ${{payload.posture.selling_wire_count}} selling`;
+    const postureDate = payload.posture.wire_scope_date ? `${{payload.posture.wire_scope_date}} · ` : '';
+    document.getElementById('stanceDetail').textContent = `${{postureDate}}${{payload.posture.wire_count}} latest-date wires, ${{payload.posture.india_wire_count || 0}} India, ${{payload.posture.ai_wire_count}} AI/tech, ${{payload.posture.selling_wire_count}} selling`;
 
     const narrative = document.getElementById('narrative');
     narrative.innerHTML = payload.narrative.map(item => `
