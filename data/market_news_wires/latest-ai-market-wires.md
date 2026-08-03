@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-03 11:52
+Generated: 2026-08-03 11:59
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,7 +26,17 @@ Asia stocks retreat as KOSPI sinks 4%; AI selloff outweighs Iran optimism Invest
 
 3 August, 2026 Stock Market Updates: Sensex surges 788 points, Nifty above 24,550 as crude oil falls India TV News
 
-### 3. Japanese Stocks Fall on AI Spending Recovery Concerns; Oil Falls on Temporary US-Iran Truce - marketscreener.com
+### 3. Japanese Stocks Fall on AI Spending Recovery Concerns; Oil Falls on Temporary US-Iran Truce - Moomoo
+
+- Source: Moomoo
+- Published: 2026-08-03T08:43:34+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcmFQQzV1V2dqWVZIS3hhaXRLZVp6VTU1QWkyTThVLTJTakxGMDdMLVh1VG1QRjF4dHhDT0lMZ2JWYW1uU21qRURxaElqbVliVVk2NFg0NjJTVmhfWGkzSTdKVjk4aXZuWkotZ2RpemVPNVFoT2xHTloxRXEybWJBU3hUd0M4c2diUy1UOHBmTzNDMnBDNnF1Z1pKSjdpZlZRZ2xEeVZFUms?oc=5
+
+Japanese Stocks Fall on AI Spending Recovery Concerns; Oil Falls on Temporary US-Iran Truce Moomoo
+
+### 4. Japanese Stocks Fall on AI Spending Recovery Concerns; Oil Falls on Temporary US-Iran Truce - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-08-03T07:23:17+00:00
@@ -36,7 +46,7 @@ Asia stocks retreat as KOSPI sinks 4%; AI selloff outweighs Iran optimism Invest
 
 Japanese Stocks Fall on AI Spending Recovery Concerns; Oil Falls on Temporary US-Iran Truce marketscreener.com
 
-### 4. Caterpillar Faces Earnings Test After AI Selloff Punished Stock - Bloomberg.com
+### 5. Caterpillar Faces Earnings Test After AI Selloff Punished Stock - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-08-03T11:00:00+00:00
@@ -46,17 +56,17 @@ Japanese Stocks Fall on AI Spending Recovery Concerns; Oil Falls on Temporary US
 
 Caterpillar Faces Earnings Test After AI Selloff Punished Stock Bloomberg.com
 
-### 5. Live: Nifty up for 4th day, near 24,600; Oil falls 4%, rupee rebounds | Closing Bell - Moneycontrol.com
+### 6. Live: Nifty up for 4th day, near 24,600; Oil falls 4%, rupee rebounds | Closing Bell - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-03T09:25:08+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeHlNTVUyZzJIbTl1WEFMOFhrbi1odDJ1WDdOTTlHaGF0V1ZOYkJOc19NakowMVViamo0a0h3c1JYTmg2THkxS0hrM2F6SmNsM3BmUEtaNnEtY0Q3czJTZF9Xazk2RUJibm9ZWExmMTRxQTFxOUJHbnJNTTRvUWZfbmdYb2ZMV3JPY2wwR0tKcWxBSmhhWWtLb1B5TVl6ak1fVEtCSTlMSFVFTlY2cUZXdjhObWhvMTdkdmpwS3Z3X2VUWlNmZVpTNWkzMU1sV05VUkZyMnRWYTBVSnluLTJoZlgyUdIB6AFBVV95cUxNb1FrR3o3U0xJTUM2VHNZOG0wdmZWQUFFeWJWWjlxVmNzZXZEZVVTVllLRTlCdzFxUWRNTmJYZWRUUzdNQ0YwQ1hLVFZCU1cyN21mTGp1SWVCeFFRNVdySVRyamZlMnQtWlBGWS00cGs2QjNQSHlsLW1iRkhuU2ZwS21jV0IyLVlZLWkxWFU5QjJiNDhfNGFEZExyUU1TcThsX2dLc08zcHdWZHpzaXhVdHA1bXpkdHk0eHg1SDlEUHI4STIxU0VoUlNTcmlUM3hpakdoVW4xektlc1lXOWppQXRoclRmbHRz?oc=5
+- Link: https://news.google.com/rss/articles/CBMinwNBVV95cUxOaVVrQklHMmNTTXlMTUt6U0E3aFBZUk13dGV3MXQxcGp6SExGRmR2WlhqN0FQNFpGWEN1cWZiVmFzemppZHZFekJva1NDT3dvMWJWa1B3TzdFMFFKMjRBMnd4V0pGanJ3NFFnUGdJVXpmY0VJQ3dYeVl1NDlucHcxeEo2R3V0S0lhcldTcVBjQ0ZGdktDTGJIM21WbEJrWVlNRlZROW9vVHNTUkpxcEFZdWJvWW8yTzNtVndJS0tabWQtWV8wRGNwN01EREF5dXhlN00wV3B5dGd6MjZoS2puM0RoTlNVck5jT2U4amdYdDVZblV1dmx4Z0xpYVBtODRvZ0lVMGx4RXpsSWhlQWQzdkZqeDBQRjZNWEZ2bjc4bC1RUHlCazg1S2pZTFpkR2NLSzFBU1hnaVY5VTZ6Vno1YnBpQ1RvdjkwNHlneFp0djRlckpSTWd6emg1ZDhEQjVTTkk2dndJOU1zbHF1Rzh4cUYtSTdwVVJYdFF0ZW9YdVEtR2llanNQSURLR3JxUVdMTG5hNzZRNjA0aEtXVEUw0gHoAUFVX3lxTE1vUWtHejdTTElNQzZUc1k4bTB2ZlZBQUV5YlZaOXFWY3NldkRlVVNWWUtFOUJ3MXFRZE1OYlhlZFRTN01DRjBDWEtUVkJTVzI3bWZManVJZUJ4UVE1V3JJVHJqZmUydC1aUEZZLTRwazZCM1BIeWwtbWJGSG5TZnBLbWNXQjItWVktaTFYVTlCMmI0OF80YURkTHJRTVNxOGxfZ0tzTzNwd1ZkenNpeFV0cDVtemR0eTR4eDVIOURQcjhJMjFTRWhSU1NyaVQzeGlqR2hVbjF6S2VzWVc5amlBdGhyVGZsdHM?oc=5
 
 Live: Nifty up for 4th day, near 24,600; Oil falls 4%, rupee rebounds | Closing Bell Moneycontrol.com
 
-### 6. China stocks close down as AI selloff hits chip supply chain - Free Malaysia Today
+### 7. China stocks close down as AI selloff hits chip supply chain - Free Malaysia Today
 
 - Source: Free Malaysia Today
 - Published: 2026-08-03T09:00:42+00:00
@@ -66,7 +76,7 @@ Live: Nifty up for 4th day, near 24,600; Oil falls 4%, rupee rebounds | Closing 
 
 China stocks close down as AI selloff hits chip supply chain Free Malaysia Today
 
-### 7. China stocks close down as AI selloff hammers chip supply chain - marketscreener.com
+### 8. China stocks close down as AI selloff hammers chip supply chain - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-08-03T08:23:01+00:00
@@ -76,7 +86,7 @@ China stocks close down as AI selloff hits chip supply chain Free Malaysia Today
 
 China stocks close down as AI selloff hammers chip supply chain marketscreener.com
 
-### 8. Sensex, Nifty Jump at Open as Crude Falls, Global Cues Firm - HDFC Sky
+### 9. Sensex, Nifty Jump at Open as Crude Falls, Global Cues Firm - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-08-03T04:47:01+00:00
@@ -86,7 +96,7 @@ China stocks close down as AI selloff hammers chip supply chain marketscreener.c
 
 Sensex, Nifty Jump at Open as Crude Falls, Global Cues Firm HDFC Sky
 
-### 9. China stocks slide as AI selloff hammers chip supply chain - marketscreener.com
+### 10. China stocks slide as AI selloff hammers chip supply chain - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-08-03T04:22:25+00:00
@@ -96,7 +106,7 @@ Sensex, Nifty Jump at Open as Crude Falls, Global Cues Firm HDFC Sky
 
 China stocks slide as AI selloff hammers chip supply chain marketscreener.com
 
-### 10. NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance - Stocktwits
+### 11. NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-08-02T18:57:33+00:00
@@ -106,7 +116,7 @@ China stocks slide as AI selloff hammers chip supply chain marketscreener.com
 
 NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance Stocktwits
 
-### 11. AI Selloff Accelerates As OpenAI IPO-Delay Report Rattles Chip Stocks | Stock Market Live Kirby Dach (8pnrIvRHhv) - Mshale
+### 12. AI Selloff Accelerates As OpenAI IPO-Delay Report Rattles Chip Stocks | Stock Market Live Kirby Dach (8pnrIvRHhv) - Mshale
 
 - Source: Mshale
 - Published: 2026-08-02T15:10:13+00:00
@@ -116,7 +126,7 @@ NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI 
 
 AI Selloff Accelerates As OpenAI IPO-Delay Report Rattles Chip Stocks | Stock Market Live Kirby Dach (8pnrIvRHhv) Mshale
 
-### 12. Technology sector slumps in July as AI and memory stocks lead selloff - Seeking Alpha
+### 13. Technology sector slumps in July as AI and memory stocks lead selloff - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-08-02T14:05:02+00:00
@@ -126,7 +136,7 @@ AI Selloff Accelerates As OpenAI IPO-Delay Report Rattles Chip Stocks | Stock Ma
 
 Technology sector slumps in July as AI and memory stocks lead selloff Seeking Alpha
 
-### 13. News Air cargo traffic 'defying gravity' as AI sell-off leaves project forwarders unfazed - The Loadstar
+### 14. News Air cargo traffic 'defying gravity' as AI sell-off leaves project forwarders unfazed - The Loadstar
 
 - Source: The Loadstar
 - Published: 2026-08-03T11:15:57+00:00
@@ -136,7 +146,17 @@ Technology sector slumps in July as AI and memory stocks lead selloff Seeking Al
 
 News Air cargo traffic 'defying gravity' as AI sell-off leaves project forwarders unfazed The Loadstar
 
-### 14. Global Market: China stocks slide as global AI selloff hits chipmakers; Alibaba rallies on new AI model - The Economic Times
+### 15. DIIs' stake in Nifty 500 hits record 21%; FIIs' share falls to 17%: Motilal Oswal - Fortune India
+
+- Source: Fortune India
+- Published: 2026-08-03T07:11:15+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMXcxc2tTSUt1Z25HZGFJTXkyWTBueFd6Rmw1Z0tEdnJMY1R1NlQ5cDE0a0tDNXVZZlpMSnY5eTBZaF9ndjJsbU5IZlE5T0k4b09FNGppeVhJZUE3OElIWlFINE0wWDI2RnpIcEFnZEttZWs1dVl0bnpnMlBGUnF6MGczRzdCRC1qQV9wd3pvM0phZDZEUHhNQ29CZzIzeDROMlZWeUtmT3lwUW10Z3dadTVpcW5IWTBXd3BV0gHIAUFVX3lxTE9UN093TEIyb05lYmpkVkk4M2RTVzNVQkRWMk1RSE1PM3FRYTlqaEdGWlJURmdSc0tZUWhuQUZEejNCdXppcUpQS2xfajhNNmF4dnVQalpkMDZhMFlCUGlTcHNLR0xvUG8zTVI2VXZfZHVEVG9WMXpoZGNsUHJPbVVWT0p4dmlyTVQ2UVpQWjRBUlVTNTM5aHBRLUljUGlkZF9pWE5LYl94cUhSYWlpVnMyRW1EWDFoakRmSnVQOEsycFZiWXczanJy?oc=5
+
+DIIs' stake in Nifty 500 hits record 21%; FIIs' share falls to 17%: Motilal Oswal Fortune India
+
+### 16. Global Market: China stocks slide as global AI selloff hits chipmakers; Alibaba rallies on new AI model - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-03T05:50:54+00:00
@@ -146,7 +166,7 @@ News Air cargo traffic 'defying gravity' as AI sell-off leaves project forwarder
 
 Global Market: China stocks slide as global AI selloff hits chipmakers; Alibaba rallies on new AI model The Economic Times
 
-### 15. Asian stocks trade mixed as AI-led selloff and Yen rally counter Iran optimism - FXStreet
+### 17. Asian stocks trade mixed as AI-led selloff and Yen rally counter Iran optimism - FXStreet
 
 - Source: FXStreet
 - Published: 2026-08-03T05:20:32+00:00
@@ -156,7 +176,7 @@ Global Market: China stocks slide as global AI selloff hits chipmakers; Alibaba 
 
 Asian stocks trade mixed as AI-led selloff and Yen rally counter Iran optimism FXStreet
 
-### 16. South Korea’s AI Sell-Off Shows How Quickly Market Optimism Can Turn Says RMIT - SMBtech
+### 18. South Korea’s AI Sell-Off Shows How Quickly Market Optimism Can Turn Says RMIT - SMBtech
 
 - Source: SMBtech
 - Published: 2026-08-03T04:58:13+00:00
@@ -166,7 +186,7 @@ Asian stocks trade mixed as AI-led selloff and Yen rally counter Iran optimism F
 
 South Korea’s AI Sell-Off Shows How Quickly Market Optimism Can Turn Says RMIT SMBtech
 
-### 17. Morgan Stanley's 120-page report analyzes the recent correction in the AI sector. - KuCoin
+### 19. Morgan Stanley's 120-page report analyzes the recent correction in the AI sector. - KuCoin
 
 - Source: KuCoin
 - Published: 2026-08-03T04:34:01+00:00
@@ -176,7 +196,7 @@ South Korea’s AI Sell-Off Shows How Quickly Market Optimism Can Turn Says RMIT
 
 Morgan Stanley's 120-page report analyzes the recent correction in the AI sector. KuCoin
 
-### 18. Stock Market Today (August 3, 2026): Sensex Jumps Over 500 Points As Trump Signals Iran Deal; Crude Falls 4.5% - Times Now
+### 20. Stock Market Today (August 3, 2026): Sensex Jumps Over 500 Points As Trump Signals Iran Deal; Crude Falls 4.5% - Times Now
 
 - Source: Times Now
 - Published: 2026-08-03T03:55:33+00:00
@@ -186,7 +206,7 @@ Morgan Stanley's 120-page report analyzes the recent correction in the AI sector
 
 Stock Market Today (August 3, 2026): Sensex Jumps Over 500 Points As Trump Signals Iran Deal; Crude Falls 4.5% Times Now
 
-### 19. Tokyo Electron (8035 JP): The Correction Did Our Work — Upgrade to BULLISH on the AI Re-Acceleration - Smartkarma
+### 21. Tokyo Electron (8035 JP): The Correction Did Our Work — Upgrade to BULLISH on the AI Re-Acceleration - Smartkarma
 
 - Source: Smartkarma
 - Published: 2026-08-03T02:30:15+00:00
@@ -196,7 +216,7 @@ Stock Market Today (August 3, 2026): Sensex Jumps Over 500 Points As Trump Signa
 
 Tokyo Electron (8035 JP): The Correction Did Our Work — Upgrade to BULLISH on the AI Re-Acceleration Smartkarma
 
-### 20. How to Interpret the AI Market Correction: Morgan Stanley's 120-Page Report Deep Dive - odaily.news
+### 22. How to Interpret the AI Market Correction: Morgan Stanley's 120-Page Report Deep Dive - odaily.news
 
 - Source: odaily.news
 - Published: 2026-08-03T02:13:43+00:00
@@ -206,7 +226,7 @@ Tokyo Electron (8035 JP): The Correction Did Our Work — Upgrade to BULLISH on 
 
 How to Interpret the AI Market Correction: Morgan Stanley's 120-Page Report Deep Dive odaily.news
 
-### 21. CICC Analysis: How far has this market correction gone? Beyond AI, what else is worth buying? - 富途牛牛
+### 23. CICC Analysis: How far has this market correction gone? Beyond AI, what else is worth buying? - 富途牛牛
 
 - Source: 富途牛牛
 - Published: 2026-08-03T01:47:15+00:00
@@ -216,7 +236,7 @@ How to Interpret the AI Market Correction: Morgan Stanley's 120-Page Report Deep
 
 CICC Analysis: How far has this market correction gone? Beyond AI, what else is worth buying? 富途牛牛
 
-### 22. South Korean stocks crater as chipmaker selloff erases months of AI gains - Crypto Briefing
+### 24. South Korean stocks crater as chipmaker selloff erases months of AI gains - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-08-03T01:25:25+00:00
@@ -226,7 +246,7 @@ CICC Analysis: How far has this market correction gone? Beyond AI, what else is 
 
 South Korean stocks crater as chipmaker selloff erases months of AI gains Crypto Briefing
 
-### 23. IT Selloff Weighs on Equities as Sensex, Nifty Close Lower - DD News
+### 25. IT Selloff Weighs on Equities as Sensex, Nifty Close Lower - DD News
 
 - Source: DD News
 - Published: 2026-08-02T19:58:08+00:00
@@ -236,7 +256,17 @@ South Korean stocks crater as chipmaker selloff erases months of AI gains Crypto
 
 IT Selloff Weighs on Equities as Sensex, Nifty Close Lower DD News
 
-### 24. Salesforce Stock Slips After-Hours: Rare Insider Buy Fails To Boost Confidence Amid AI Threat And Ongoing Selloff - Stocktwits
+### 26. Sensex, Nifty fall nearly 2 percent amid US–Iran war - DD News
+
+- Source: DD News
+- Published: 2026-08-02T19:56:39+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQTWdyUGx3OUdGVnNSd0lzX1VyNS1FQ1ZrSXNIaVZySm1DYUwxQ0F5LUhGdHFSenJGbWhrZmZsZW1oTmV5UWhjdDRRMmxpX2hsMlM3aFNFeW96SzF3QzA5MUYxNVhOaEF4N0dzcTJpUHBrYUVKdlNmYk5aNzllYUU0b3dVRHM?oc=5
+
+Sensex, Nifty fall nearly 2 percent amid US–Iran war DD News
+
+### 27. Salesforce Stock Slips After-Hours: Rare Insider Buy Fails To Boost Confidence Amid AI Threat And Ongoing Selloff - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-08-02T18:51:15+00:00
@@ -246,7 +276,7 @@ IT Selloff Weighs on Equities as Sensex, Nifty Close Lower DD News
 
 Salesforce Stock Slips After-Hours: Rare Insider Buy Fails To Boost Confidence Amid AI Threat And Ongoing Selloff Stocktwits
 
-### 25. Nikkei 225: Tokyo Benchmark Plunges 2.73% to 64,611 as Alphabet-Led Tech Selloff Hits Japan - BBN Times
+### 28. Nikkei 225: Tokyo Benchmark Plunges 2.73% to 64,611 as Alphabet-Led Tech Selloff Hits Japan - BBN Times
 
 - Source: BBN Times
 - Published: 2026-08-02T15:03:40+00:00
@@ -256,7 +286,7 @@ Salesforce Stock Slips After-Hours: Rare Insider Buy Fails To Boost Confidence A
 
 Nikkei 225: Tokyo Benchmark Plunges 2.73% to 64,611 as Alphabet-Led Tech Selloff Hits Japan BBN Times
 
-### 26. 🔥 "Accenture Stock Selloff Explained: AI Threat Or Market Overreaction?" S&p/tsx Composite Index (1IJMOjrXaH) - Mshale
+### 29. 🔥 "Accenture Stock Selloff Explained: AI Threat Or Market Overreaction?" S&p/tsx Composite Index (1IJMOjrXaH) - Mshale
 
 - Source: Mshale
 - Published: 2026-08-02T14:39:36+00:00
@@ -266,7 +296,7 @@ Nikkei 225: Tokyo Benchmark Plunges 2.73% to 64,611 as Alphabet-Led Tech Selloff
 
 🔥 "Accenture Stock Selloff Explained: AI Threat Or Market Overreaction?" S&p/tsx Composite Index (1IJMOjrXaH) Mshale
 
-### 27. Cloud Revenue Highlights Divide in AI Stock Selloff, Separating Market Winners and Losers - TechStock²
+### 30. Cloud Revenue Highlights Divide in AI Stock Selloff, Separating Market Winners and Losers - TechStock²
 
 - Source: TechStock²
 - Published: 2026-08-02T13:35:00+00:00
@@ -276,7 +306,7 @@ Nikkei 225: Tokyo Benchmark Plunges 2.73% to 64,611 as Alphabet-Led Tech Selloff
 
 Cloud Revenue Highlights Divide in AI Stock Selloff, Separating Market Winners and Losers TechStock²
 
-### 28. Domestic Investors Overtake FIIs In Nifty 500 Ownership, DII Holdings Reach Record 21% As Foreign Stake Falls - Free Press Journal
+### 31. Domestic Investors Overtake FIIs In Nifty 500 Ownership, DII Holdings Reach Record 21% As Foreign Stake Falls - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-08-03T11:38:12+00:00
@@ -286,7 +316,7 @@ Cloud Revenue Highlights Divide in AI Stock Selloff, Separating Market Winners a
 
 Domestic Investors Overtake FIIs In Nifty 500 Ownership, DII Holdings Reach Record 21% As Foreign Stake Falls Free Press Journal
 
-### 29. Domestic investors absorb $58 bn FII selloff, emerge as biggest mkt owners - Business Standard
+### 32. Domestic investors absorb $58 bn FII selloff, emerge as biggest mkt owners - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-03T07:39:32+00:00
@@ -296,7 +326,7 @@ Domestic Investors Overtake FIIs In Nifty 500 Ownership, DII Holdings Reach Reco
 
 Domestic investors absorb $58 bn FII selloff, emerge as biggest mkt owners Business Standard
 
-### 30. Domestic investors absorb $58 bn FII selloff, emerge as biggest mkt owners - Business Standard
+### 33. Domestic investors absorb $58 bn FII selloff, emerge as biggest mkt owners - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-03T07:39:32+00:00
@@ -306,17 +336,7 @@ Domestic investors absorb $58 bn FII selloff, emerge as biggest mkt owners Busin
 
 Domestic investors absorb $58 bn FII selloff, emerge as biggest mkt owners Business Standard
 
-### 31. DIIs' stake in Nifty 500 hits record 21%; FIIs' share falls to 17%: Motilal Oswal - fortuneindia.com
-
-- Source: fortuneindia.com
-- Published: 2026-08-03T07:11:15+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVDdPd0xCMm9OZWJqZFZJODNkU1czVUJEVjJNUUhNTzNxUWE5amhHRlpSVEZnUnNLWVFobkFGRHozQnV6aXFKUEtsX2o4TTZheHZ1UGpaZDA2YTBZQlBpU3BzS0dMb1BvM01SNlV2X2R1RFRvVjF6aGRjbFByT21VVk9KeHZpck1UNlFaUFo0QVJVUzUzOWhwUS1JY1BpZGRfaVhOS2JfeHFIUmFpaVZzMkVtRFgxaGpEZkp1UDhLMnBWYll3M2pyctIByAFBVV95cUxPVDdPd0xCMm9OZWJqZFZJODNkU1czVUJEVjJNUUhNTzNxUWE5amhHRlpSVEZnUnNLWVFobkFGRHozQnV6aXFKUEtsX2o4TTZheHZ1UGpaZDA2YTBZQlBpU3BzS0dMb1BvM01SNlV2X2R1RFRvVjF6aGRjbFByT21VVk9KeHZpck1UNlFaUFo0QVJVUzUzOWhwUS1JY1BpZGRfaVhOS2JfeHFIUmFpaVZzMkVtRFgxaGpEZkp1UDhLMnBWYll3M2pycg?oc=5
-
-DIIs' stake in Nifty 500 hits record 21%; FIIs' share falls to 17%: Motilal Oswal fortuneindia.com
-
-### 32. Sensex Surges 800 Points, Nifty Tops 24,550 on Falling Crude Oil and FII Inflows - IBTimes India
+### 34. Sensex Surges 800 Points, Nifty Tops 24,550 on Falling Crude Oil and FII Inflows - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-08-03T05:48:51+00:00
@@ -326,7 +346,7 @@ DIIs' stake in Nifty 500 hits record 21%; FIIs' share falls to 17%: Motilal Oswa
 
 Sensex Surges 800 Points, Nifty Tops 24,550 on Falling Crude Oil and FII Inflows IBTimes India
 
-### 33. Dixon Technologies (India) Ltd Falls 2.45% - Business Standard
+### 35. Dixon Technologies (India) Ltd Falls 2.45% - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-03T04:34:20+00:00
@@ -336,7 +356,7 @@ Sensex Surges 800 Points, Nifty Tops 24,550 on Falling Crude Oil and FII Inflows
 
 Dixon Technologies (India) Ltd Falls 2.45% Business Standard
 
-### 34. Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns
+### 36. Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-08-02T13:15:22+00:00
@@ -346,7 +366,7 @@ Dixon Technologies (India) Ltd Falls 2.45% Business Standard
 
 Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus Goodreturns
 
-### 35. Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows - The Times of India
+### 37. Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows - The Times of India
 
 - Source: The Times of India
 - Published: 2026-08-03T05:09:00+00:00
@@ -356,7 +376,7 @@ Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Ear
 
 Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflows The Times of India
 
-### 36. Sensex, Nifty underperform over 2 years, but these 3 mutual funds deliver double-digit gains - The Economic Times
+### 38. Sensex, Nifty underperform over 2 years, but these 3 mutual funds deliver double-digit gains - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-03T04:59:16+00:00
@@ -366,7 +386,7 @@ Rupee rises 31 paise on weaker dollar, lower oil prices and continued FII inflow
 
 Sensex, Nifty underperform over 2 years, but these 3 mutual funds deliver double-digit gains The Economic Times
 
-### 37. Sensex rises 544 points, Nifty closes at 24,774 as IT rally, crude oil relief lift markets - newsdrum.in
+### 39. Sensex rises 544 points, Nifty closes at 24,774 as IT rally, crude oil relief lift markets - newsdrum.in
 
 - Source: newsdrum.in
 - Published: 2026-08-03T11:13:51+00:00
@@ -376,17 +396,7 @@ Sensex, Nifty underperform over 2 years, but these 3 mutual funds deliver double
 
 Sensex rises 544 points, Nifty closes at 24,774 as IT rally, crude oil relief lift markets newsdrum.in
 
-### 38. Markets Add ₹5 Lakh Cr As Falling Crude, FPI Buying Lift Sensex, Nifty - outlookbusiness.com
-
-- Source: outlookbusiness.com
-- Published: 2026-08-03T10:29:44+00:00
-- Themes: India market, macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc3hYVExxOE56ZDV0ckRnN25fU2JHQWlBYmhfaGVuQm5YdU1rSnEwMTRMalBRMi1JLWx3WG5hN3gxSnQ0bHJZSElRMHF6OXA2bDNkVjE4ZERnVExadFZIbFFOQWlpY29RUjc2NkJ1LWR2T0o5cFJVZ3MtaXdDQVhQQ01pNHFOTGlFN01fd21ubW9UM3hmbVJZSnM4UkJsRDZrSG8wNVM5bVhqWE9XZkZiVDVGWDZQOXdp0gG4AUFVX3lxTE9zeFhUTHE4TnpkNXRyRGc3bl9TYkdBaUFiaF9oZW5Cblh1TWtKcTAxNExqUFEyLUktbHdYbmE3eDFKdDRscllISVEwcXo5cDZsM2RWMThkRGdUTFp0VkhsUU5BaWljb1FSNzY2QnUtZHZPSjlwUlVncy1pd0NBWFBDTWk0cU5MaUU3TV93bW5tb1QzeGZtUllKczhSQmxENmtIbzA1UzltWGpYT1dmRmJUNUZYNlA5d2k?oc=5
-
-Markets Add ₹5 Lakh Cr As Falling Crude, FPI Buying Lift Sensex, Nifty outlookbusiness.com
-
-### 39. Nifty jumps 391 points to 24,774, Sensex closes at 78,639 as lower crude prices, FII inflows fuel rally - ANI News
+### 40. Nifty jumps 391 points to 24,774, Sensex closes at 78,639 as lower crude prices, FII inflows fuel rally - ANI News
 
 - Source: ANI News
 - Published: 2026-08-03T10:25:00+00:00
@@ -396,7 +406,7 @@ Markets Add ₹5 Lakh Cr As Falling Crude, FPI Buying Lift Sensex, Nifty outlook
 
 Nifty jumps 391 points to 24,774, Sensex closes at 78,639 as lower crude prices, FII inflows fuel rally ANI News
 
-### 40. SIF vs mutual funds: How 7 long-short strategies differ from comparable mutual fund categories - The Economic Times
+### 41. SIF vs mutual funds: How 7 long-short strategies differ from comparable mutual fund categories - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-03T10:14:37+00:00
@@ -406,7 +416,7 @@ Nifty jumps 391 points to 24,774, Sensex closes at 78,639 as lower crude prices,
 
 SIF vs mutual funds: How 7 long-short strategies differ from comparable mutual fund categories The Economic Times
 
-### 41. India Stock Market Outlook: Can FII Flows & Strong Q1 Earnings Power The Next August Rally? - Business Today
+### 42. India Stock Market Outlook: Can FII Flows & Strong Q1 Earnings Power The Next August Rally? - Business Today
 
 - Source: Business Today
 - Published: 2026-08-03T09:11:51+00:00
@@ -416,7 +426,7 @@ SIF vs mutual funds: How 7 long-short strategies differ from comparable mutual f
 
 India Stock Market Outlook: Can FII Flows & Strong Q1 Earnings Power The Next August Rally? Business Today
 
-### 42. This international mutual fund resumes subscription. Should you invest or wait? - The Economic Times
+### 43. This international mutual fund resumes subscription. Should you invest or wait? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-03T08:34:50+00:00
@@ -426,7 +436,7 @@ India Stock Market Outlook: Can FII Flows & Strong Q1 Earnings Power The Next Au
 
 This international mutual fund resumes subscription. Should you invest or wait? The Economic Times
 
-### 43. Top equity mutual funds by 1-year SIP returns: Small-cap schemes dominate; Bank of India Small Cap leads with 40% return - livemint.com
+### 44. Top equity mutual funds by 1-year SIP returns: Small-cap schemes dominate; Bank of India Small Cap leads with 40% return - livemint.com
 
 - Source: livemint.com
 - Published: 2026-08-03T07:01:04+00:00
@@ -436,7 +446,7 @@ This international mutual fund resumes subscription. Should you invest or wait? 
 
 Top equity mutual funds by 1-year SIP returns: Small-cap schemes dominate; Bank of India Small Cap leads with 40% return livemint.com
 
-### 44. Markets Open on a Strong Note as Sensex, Nifty Advance Amid FII Inflows and Easing Crude Prices - Content Media Solution
+### 45. Markets Open on a Strong Note as Sensex, Nifty Advance Amid FII Inflows and Easing Crude Prices - Content Media Solution
 
 - Source: Content Media Solution
 - Published: 2026-08-03T05:18:31+00:00
@@ -446,17 +456,17 @@ Top equity mutual funds by 1-year SIP returns: Small-cap schemes dominate; Bank 
 
 Markets Open on a Strong Note as Sensex, Nifty Advance Amid FII Inflows and Easing Crude Prices Content Media Solution
 
-### 45. Lower crude prices and FII inflows push Sensex, Nifty higher in early trade - nationalheraldindia.com
+### 46. Lower crude prices and FII inflows push Sensex, Nifty higher in early trade - National Herald
 
-- Source: nationalheraldindia.com
+- Source: National Herald
 - Published: 2026-08-03T05:03:13+00:00
 - Themes: India market, macro / flows
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPWlF0c2k0VmJ4eS01clc0ZmVXRWYzYW9fU1ZYVjNSZ2hSSUdiN2lQdS1HUDhIVkdrcjJZeUtBU0x2dnZuc29fWHBmeTV5d2NMdkllNmFuODY1d0FsWXlfeGt0Q19xbHA3SGEtaVdhV3hJelN5SW1lajhJN1JXU3BaSmhvbnluNkJpWExyYmJkVGRLOGJLTC15VUVvbTM4V0lscW9oUDAxNWRVelZ3dzc1Z2VUbXRBQjk0SzR0SHk0RTMxVTlaM0dSc9IByAFBVV95cUxPWlF0c2k0VmJ4eS01clc0ZmVXRWYzYW9fU1ZYVjNSZ2hSSUdiN2lQdS1HUDhIVkdrcjJZeUtBU0x2dnZuc29fWHBmeTV5d2NMdkllNmFuODY1d0FsWXlfeGt0Q19xbHA3SGEtaVdhV3hJelN5SW1lajhJN1JXU3BaSmhvbnluNkJpWExyYmJkVGRLOGJLTC15VUVvbTM4V0lscW9oUDAxNWRVelZ3dzc1Z2VUbXRBQjk0SzR0SHk0RTMxVTlaM0dScw?oc=5
 
-Lower crude prices and FII inflows push Sensex, Nifty higher in early trade nationalheraldindia.com
+Lower crude prices and FII inflows push Sensex, Nifty higher in early trade National Herald
 
-### 46. Sensex Jumps 600 Points, Nifty Up 0.8% As Falling Crude Prices And FII Inflows Lift Sentiment - Free Press Journal
+### 47. Sensex Jumps 600 Points, Nifty Up 0.8% As Falling Crude Prices And FII Inflows Lift Sentiment - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-08-03T04:57:52+00:00
@@ -466,7 +476,7 @@ Lower crude prices and FII inflows push Sensex, Nifty higher in early trade nati
 
 Sensex Jumps 600 Points, Nifty Up 0.8% As Falling Crude Prices And FII Inflows Lift Sentiment Free Press Journal
 
-### 47. Sensex, Nifty Surge: Crude Oil Drop Fuels Indian Markets - Rediff MoneyWiz
+### 48. Sensex, Nifty Surge: Crude Oil Drop Fuels Indian Markets - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-08-03T04:37:44+00:00
@@ -476,7 +486,7 @@ Sensex Jumps 600 Points, Nifty Up 0.8% As Falling Crude Prices And FII Inflows L
 
 Sensex, Nifty Surge: Crude Oil Drop Fuels Indian Markets Rediff MoneyWiz
 
-### 48. Best mutual fund SIP portfolios to invest in August 2026 - The Economic Times
+### 49. Best mutual fund SIP portfolios to invest in August 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-03T04:09:23+00:00
@@ -485,16 +495,6 @@ Sensex, Nifty Surge: Crude Oil Drop Fuels Indian Markets Rediff MoneyWiz
 - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNdHRwVGM3T3ZJQ3A5QVk3ZThJTkI1V0xhY185dE9hVEFyM2ZZUC1CWERvU2FtRFVsS2VXX2xKMjNTc3RVNGFKQXpJQmZ6eFFUbVVqcWhOam5MS0NSdlltZUV6Y0MxXzRSME9aX3VXYWg3dzZONF9yaWJOLUV2ODdOQ1JPdjlpNkdLVnhHSWVxWDhBTTV1N1FxbE9aNlVwV3BodjBxZXlyTWRDb1BpejZHVnVxX2ktVjdBX3ZDU1kxWdIBxAFBVV95cUxQbThFQlFUWWtDREp0N0h5Q0ZqcHNWSkNGNDBiQ3UtaGJMWVVXYnVja3ozNmFoandGX3I3VFhORlBBM2Y2bXJzQnBNRXA0dkY1bllwUk02a2V0RG5mejZVbk9nWjl6RWViMm54Tmp1c2J6cnpNLUc0bkthSUlTSzhrTUhXYklhT3dsbERnU05BaXBDSnhJYkk1OHl4UDdkb2pzRm41ZTB2MWhpYXRCWkRSLTZHU0hra0pMSmEwcWFYTjNLYWxr?oc=5
 
 Best mutual fund SIP portfolios to invest in August 2026 The Economic Times
-
-### 49. Indian mutual fund industry’s AUM rises 12 pc to Rs 73.73 lakh crore in FY26 - DD News
-
-- Source: DD News
-- Published: 2026-08-02T19:20:28+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNSnlPYWQ3MHVMdldEY3BqcUkzTVpIYkdzWXY0Tko2bFFYbDJLODhNUjRXQTJwdkFObmlSRzB3NzE0X0ZxX0Z6LXNhZVdlM3FmRGR5UlVmZmlzU1d6czlmZ3JjOXJnakt1dU1sc0F6QWVLYm1nY3htY2xrVzZxT0k1VmFQWmxMdVhZa0h5aWxCUDJhOGdvX2RRX1F2d1l3YUdzZ3ZR?oc=5
-
-Indian mutual fund industry’s AUM rises 12 pc to Rs 73.73 lakh crore in FY26 DD News
 
 ### 50. NFOs next week: 5 new mutual fund NFOs to open between August 3-7; check minimum investment and full list - ET Now
 
@@ -506,33 +506,33 @@ Indian mutual fund industry’s AUM rises 12 pc to Rs 73.73 lakh crore in FY26 D
 
 NFOs next week: 5 new mutual fund NFOs to open between August 3-7; check minimum investment and full list ET Now
 
-### 51. Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6 pc - DT Next
+### 51. Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6 pc - dtnext.in
 
-- Source: DT Next
+- Source: dtnext.in
 - Published: 2026-08-03T10:56:41+00:00
 - Themes: India market, macro / flows
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVXZibWdrMkg2ckRPSW5QV1JfLVNLSVR3RG9JYWFIMDVOVzE1V2tMSEZITEFxSXF6eGlaSlJ1QmJsbVVmdnNGQnI5dW5aSWZMWkEtcGlFeW5hRmJEUmdKeEdKQ0lubGhlcXFoT2tXcDRiT1ZkRE5ZSDZ0dWtEWGgtNjFFTUVGTEpuTUNxeXdhU25jSElLSWZxM0E4NTNNRXI3YWNqcF9uWk1HdjQ3elh2VFFSSjB3TTF5T2RVelVuVkNZQVFOVVNyU9IB1gFBVV95cUxNYXlGMkc2ZGh5eUF1emJndGZPVHhDdURzN3k3T0hVbHZYNU1ha0p1M3dvVXZxbE1lZVNHX3NObE1uV0FfdXBCeXo4TjN6MjhwYzNYUFVjNXcwbFJ4RmRobTIyNGVRWEhRVnRoMGVEbGVHNDZRbzQ2X1VwamItajlNWEkzWjJjZkpiR2hUYTdwUS1GbVhaeEFhazhtRU5MV0lsODBlM2xuRnFHblNwaTBIaDdUcDZuTTZTMm1jR2l3RXQ1M2Z5Zmdzc21xdC1aMy1EVlg4aFpn?oc=5
 
-Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6 pc DT Next
+Stock markets take winning run to 4th day as crude oil prices drop sharply; Nifty surges 1.6 pc dtnext.in
 
 ### 52. These 8 equity mutual funds lost over 10% return in July. Do you own any in your portfolio? - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-08-03T10:32:20+00:00
+- Published: 2026-08-03T10:27:23+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxOclhUaS1fbkYtV3NtZE1xZjVTUTh3TVBucHdEajU2MXRPOW1PTWNEOFphUEZiVERoQ2d6dTlYRGhlbEhjeUx5THQxWUZ3VWZ4YzVQb2dKNGhUTGYwNjQzN1JxZzJGS1RnTkt2Wm52cUhOaldBTHB1eHRoY3Q3ZExqMXNkOFZ2Ml9tQ1NPRG1vY243MWJaMVM5aXlMNHZuZGtmdkZtNmtKbW1PRGJEcW44bjloc2drQ25lS1ZZcVRDTzRmUG9rYjM1b3NESkZfbmF5NmRiZ1V1ZmxUeDF4c1p4d2V1ODNXU2M?oc=5
+- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPb0NSTS1TWTFsMzU4ZGJ2MFMzVlg3U1VsZTBuTWZreENsdl9SZVZaaUcxMDhvbzVjb2JJLTI5ZDZFbEdZVzBFOHl1NThDQlRFNGJtWm1uN0lKRUtDY3UwbHlZc3pnWWpHRW1EWUR4V2paSlFDdDFqbmFmWmowVWtjdlN5cWNQWk53RG9TM1JDVkpZQzZPTWwxNE1yWWUzaTB2cTFkMmR3Uks5T3dHcUlwMjdUeVdyOEotQk5PQVBJc0VOdjVCam5NbHBfVzJwcG01TUhUVEJwWlk4d3BfX2gxcnVlbFlSWjdObWNPb3k3RkM2anc?oc=5
 
 These 8 equity mutual funds lost over 10% return in July. Do you own any in your portfolio? The Economic Times
 
 ### 53. Should investors redeem equity mutual funds after strong returns? Here's when rebalancing matters - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-08-03T09:10:31+00:00
+- Published: 2026-08-03T09:26:50+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQQWViejJCQWdDTW80dVRSZkZaV1JRdk5zNHZCaDZIbF9JTzFRblZSR3NVd001YWJaNlo3cEwyZ19OTklaN051NVBSeTd2VElhd01qMEpkbUJnWW9xQ1dWbm5qM3l0dkNWb0tGa25SSWg4WVQ4Njg5T1pSV1JNdU1udTJQNWdYTmFXc1lWWUxrVm5MSU11Y1hmTHk4QmZELUZGM2hXMFpWQTB5SDJ6dWFEZW1kbTJndC04Nm1uYTFnTlV5dGlFZVhnUzE0cEoxWmdfVmZ5Q1c1Mzh4ZGtWOHJVS0xNZHFMa00tV1dmeVhMRWFIdmhiMDdLV09BUVo?oc=5
+- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxQOFpSaVV1RDNXSEc1UmxJT2pmSERHZEllTHhoWmtnX0tEWVg5LW1uUTNwaFFOM2xvUHlnQklGOVZTeU1HdE9rN1FwMWhkMEJvU3JZWFl6MFZjNlg4VjNmRXl0blhBMUFCMjZpQS1VVlpjZnU4QWVOWGN2Z3EwbVdjV21yTVVQZlFaQjFjVE03Q2h5XzVoYzJxOGM2T1M1WHlvS2pqWUttY1dQTGt3YXNIUGZSTVc4SFg1RFFBYUltR2kwZXV6UDB2UGx2Wm5oWldRUzhoMlVSM0ZRc0ZfNTlUanR0REp6Q0l4TlhodVVjZTVuSEpaMm5nVUExakN5R1NOTERTVHJ0RThZNzJYUmdfcXNWX2NTUWR2d0E?oc=5
 
 Should investors redeem equity mutual funds after strong returns? Here's when rebalancing matters The Economic Times
 
@@ -726,15 +726,15 @@ Invesco India Nifty Bank ETF Fund info The Economic Times
 
 Why Are Sensex and Nifty Up Today? Indian Stock Market Opens Higher as Nifty 50 Nears 24,600 and Sensex Gains 0.80% on Positive Investor Sentiment The Sunday Guardian
 
-### 73. AI Boom Delivers Historic Earnings Beats - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ) - benzinga.com
+### 73. AI Boom Delivers Historic Earnings Beats - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ) - Benzinga
 
-- Source: benzinga.com
+- Source: Benzinga
 - Published: 2026-08-03T05:58:00+00:00
 - Themes: AI / tech risk, macro / flows
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOeDhrNmtvSGpWWnNGLXRYOXpNLTBYQUh0bUs5S0VNQUtURGJ3SHNhMHl2QXo4QmFNd0hlc2pydmllQkVoYUotU05DZGJmQUhrcGszVjFPOHgtR1lhcHI3NVJ0Rl9hLVB3clFNT2VmbmNLUTQ5VEFGdWU0VG9UVlVmZ0otQnJ1dm5yNzRSSld0amNMckJQYjBUSXh0VjJkUnZLOGVjelpRaHFISFZfS09ZUkh2TmFyYXJsRHlOU0x5WDZZdDJRdFo0UGNsaXI?oc=5
 
-AI Boom Delivers Historic Earnings Beats - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ) benzinga.com
+AI Boom Delivers Historic Earnings Beats - Invesco QQQ Trust, Series 1 (NASDAQ:QQQ) Benzinga
 
 ### 74. Why is the stock market rising today? Sensex jumps over 660 points, Nifty tops 24,590; here's what's driving the rally - Zee Business
 
@@ -762,7 +762,7 @@ Sensex Surges 789 Points as Global Oil Prices Plunge 7 Percent streamlinefeed.co
 - Published: 2026-08-03T05:17:16+00:00
 - Themes: macro / flows
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPWE1tMWszdGJyU0dGa05zZ2ZlN0xOdkF6Xy1ieFhCV0J3M0hKbEhwUjQwUGVabDgxNU5Qb294UmsyanZ4aUMtOHpsZFlQTTBCeE1adjkwdXZJT2x6LTR5RGJZeXlfWnJxbzBlazh4NTBhTGNQRjM4U2prUzg5bWlHMWJJWE1XdC1xVEU2UUJYbi05dDJNbG0wQjZkaGJHOUUzVTJWN3M3XzFRek9HbVNmczZObVlxanozbGxTLTFwcGJsWXZqd2xjOWkzRURZMU3SAc8BQVVfeXFMT1hNbTFrM3RiclNHRmtOc2dmZTdMTnZBel8tYnhYQldCdzNISmxIcFI0MFBlWmw4MTVOUG9veFJrMmp2eGlDLTh6bGRZUE0wQnhNWnY5MHV2SU9sei00eURiWXl5X1pycW8wZWs4eDUwYUxjUEYzOFNqa1M4OW1pRzFiSVhNV3QtcVRFNlFCWG4tOXQyTWxtMEI2ZGhiRzlFM1UyVjdzN18xUXpPR21TZnM2Tm1ZcWp6M2xsUy0xcHBibFl2andsYzlpM0VEWTFN?oc=5
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTTFMektySzBRVmRtc0x2OWVWNnNtT2ZlQXptR28zSmhldEp0dVZOT18zLWVHLWR5bEI3V0JuaGxRdHJ1RmdCSEE3OEFoSFZ0dEpkT1JUUEc3VWt5eENjSVFwZmlyemh6OHNnTHlaNnhkWG1Ra2FhR21BYTRnRFRhQmFaZTJkTFJwbFFVR2Y3Rk12WUhncE1oc08ySnFNVVlnbENUSWxaWm96QTRRdE51Q2QzV2xiVXoySnZ3QnByM3VGTFp0MGZuT9IBzwFBVV95cUxPWE1tMWszdGJyU0dGa05zZ2ZlN0xOdkF6Xy1ieFhCV0J3M0hKbEhwUjQwUGVabDgxNU5Qb294UmsyanZ4aUMtOHpsZFlQTTBCeE1adjkwdXZJT2x6LTR5RGJZeXlfWnJxbzBlazh4NTBhTGNQRjM4U2prUzg5bWlHMWJJWE1XdC1xVEU2UUJYbi05dDJNbG0wQjZkaGJHOUUzVTJWN3M3XzFRek9HbVNmczZObVlxanozbGxTLTFwcGJsWXZqd2xjOWkzRURZMU0?oc=5
 
 Stock markets surge in early trade as crude oil prices drop sharply The Hindu
 
