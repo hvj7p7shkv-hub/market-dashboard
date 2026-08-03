@@ -2,6 +2,14 @@ name: Refresh market dashboard
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".refresh-market-dashboard"
+      - "scripts/**"
+      - "requirements-market-dashboard.txt"
+      - ".github/workflows/refresh-market-dashboard.yml"
   schedule:
     # GitHub cron uses UTC. Run from 09:23 IST through the 15:33 close snapshot
     # on weekdays, offset from round clock times to reduce scheduler delays.
@@ -39,16 +47,22 @@ jobs:
         run: python -m pip install -r requirements-market-dashboard.txt
 
       - name: Refresh market wires
-        continue-on-error: true
-        run: python scripts/fetch_ai_market_news_wires.py --days 1 --limit 80 --output-dir data/market_news_wires
+        run: |
+          if ! python scripts/fetch_ai_market_news_wires.py --days 1 --limit 80 --output-dir data/market_news_wires; then
+            echo "::notice::Market wires could not be refreshed. The dashboard will use the latest available wire snapshot."
+          fi
 
       - name: Refresh mutual fund NAVs
-        continue-on-error: true
-        run: python scripts/fetch_amfi_mutual_fund_navs.py --watchlist data/mutual_fund_watchlist.json --output-dir data/mutual_fund_navs
+        run: |
+          if ! python scripts/fetch_amfi_mutual_fund_navs.py --watchlist data/mutual_fund_watchlist.json --output-dir data/mutual_fund_navs; then
+            echo "::notice::Mutual fund NAVs could not be refreshed. The dashboard will use the latest available NAV snapshot."
+          fi
 
       - name: Refresh Nifty 500 highs
-        continue-on-error: true
-        run: python scripts/fetch_nse_nifty500_52w_highs.py --output-dir data/nse_52w_highs
+        run: |
+          if ! python scripts/fetch_nse_nifty500_52w_highs.py --output-dir data/nse_52w_highs; then
+            echo "::notice::Nifty 500 highs could not be refreshed. The dashboard will use the latest available highs snapshot."
+          fi
 
       - name: Refresh Nifty 50 rotation
         run: python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation
