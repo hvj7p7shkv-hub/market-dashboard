@@ -106,6 +106,7 @@ def normalize_constituent_csv(data: pd.DataFrame, index: str) -> pd.DataFrame:
     lowered = {str(column).strip().lower(): column for column in data.columns}
     symbol_column = lowered.get("symbol")
     name_column = lowered.get("company name") or lowered.get("company") or lowered.get("name")
+    sector_column = lowered.get("industry") or lowered.get("sector")
     if symbol_column is None:
         raise ValueError("Constituent CSV does not contain a Symbol column.")
     records = []
@@ -115,7 +116,16 @@ def normalize_constituent_csv(data: pd.DataFrame, index: str) -> pd.DataFrame:
         if not symbol or symbol in seen:
             continue
         name = str(row.get(name_column, symbol)).strip() if name_column else symbol
-        records.append({"symbol": symbol, "name": name, "ticker": yahoo_ticker(symbol), "source_index": index})
+        sector = str(row.get(sector_column, "Unknown")).strip() if sector_column else "Unknown"
+        records.append(
+            {
+                "symbol": symbol,
+                "name": name,
+                "ticker": yahoo_ticker(symbol),
+                "sector": sector or "Unknown",
+                "source_index": index,
+            }
+        )
         seen.add(symbol)
     if not records:
         raise ValueError("Constituent CSV did not contain usable symbols.")
@@ -142,11 +152,13 @@ def load_universe_from_nse_live(index: str) -> pd.DataFrame:
         if not symbol or symbol in {"NIFTY500", "NIFTY 500"} or symbol in seen:
             continue
         company = first_value(row, ["meta.companyName", "companyName", "name", "identifier"]) or symbol
+        sector = first_value(row, ["meta.industry", "industry", "sector", "meta.sector"]) or "Unknown"
         records.append(
             {
                 "symbol": symbol,
                 "name": str(company).strip(),
                 "ticker": yahoo_ticker(symbol),
+                "sector": str(sector).strip() or "Unknown",
                 "source_index": index,
             }
         )
@@ -353,6 +365,7 @@ def analyse(
                     "symbol": symbol,
                     "name": name,
                     "ticker": ticker,
+                    "sector": meta.get("sector", "Unknown"),
                     "downloaded": False,
                     "download_note": "Yahoo returned no usable price history",
                     "source_index": meta.get("source_index", DEFAULT_INDEX),
@@ -368,6 +381,7 @@ def analyse(
                     "symbol": symbol,
                     "name": name,
                     "ticker": ticker,
+                    "sector": meta.get("sector", "Unknown"),
                     "downloaded": False,
                     "download_note": "Insufficient overlap with benchmark history",
                     "source_index": meta.get("source_index", DEFAULT_INDEX),
@@ -380,6 +394,7 @@ def analyse(
         rsi_series = rsi(close).dropna()
         latest_volume = float(volume.iloc[-1])
         avg_volume_20 = latest_rolling(volume, 20)
+        turnover_proxy = latest * latest_volume
         sma_20 = latest_rolling(close, 20)
         sma_50 = latest_rolling(close, 50)
         sma_200 = latest_rolling(close, 200)
@@ -390,6 +405,7 @@ def analyse(
             "symbol": symbol,
             "name": name,
             "ticker": ticker,
+            "sector": meta.get("sector", "Unknown"),
             "downloaded": True,
             "download_note": "",
             "source_index": meta.get("source_index", DEFAULT_INDEX),
@@ -399,7 +415,10 @@ def analyse(
             "return_1d_pct": pct_return(close, 1),
             "return_5d_pct": pct_return(close, 5),
             "return_20d_pct": pct_return(close, 20),
+            "volume": round_value(latest_volume, 0),
+            "avg_volume_20": round_value(avg_volume_20, 0),
             "volume_ratio_20d": round(latest_volume / avg_volume_20, 2) if avg_volume_20 else None,
+            "turnover_proxy": round_value(turnover_proxy, 2),
             "rsi_14": round_value(rsi_now),
             "rsi_5d_ago": round_value(rsi_5d_ago),
             "above_sma_20": bool(sma_20 and latest > sma_20),

@@ -488,6 +488,118 @@ def boolish(value: object) -> bool:
     return str(value).strip().lower() in {"true", "1", "yes", "y"}
 
 
+def summarize_nifty500_breadth(data: pd.DataFrame, source_count: int) -> dict[str, object]:
+    if data.empty:
+        return {
+            "source_count": source_count,
+            "downloaded_count": 0,
+            "advancers": 0,
+            "decliners": 0,
+            "unchanged": 0,
+            "advance_decline_ratio": None,
+            "up_turnover_share_pct": None,
+            "down_turnover_share_pct": None,
+            "high_volume_decliners": 0,
+            "above_20dma_pct": None,
+            "above_50dma_pct": None,
+            "above_200dma_pct": None,
+            "sector_breadth": [],
+        }
+
+    rows = data.to_dict(orient="records")
+    total = len(rows)
+    advancers = [row for row in rows if (clean_number(row.get("return_1d_pct")) or 0) > 0]
+    decliners = [row for row in rows if (clean_number(row.get("return_1d_pct")) or 0) < 0]
+    high_volume_decliners = [
+        row for row in decliners if (clean_number(row.get("volume_ratio_20d")) or 0) >= 1.5
+    ]
+
+    def row_turnover(row: dict[str, object]) -> float:
+        turnover = clean_number(row.get("turnover_proxy"))
+        if turnover is not None:
+            return turnover
+        volume = clean_number(row.get("volume")) or 0
+        last = clean_number(row.get("last")) or 0
+        return volume * last
+
+    up_turnover = sum(row_turnover(row) for row in advancers)
+    down_turnover = sum(row_turnover(row) for row in decliners)
+    total_turnover = up_turnover + down_turnover
+    sector_rows: list[dict[str, object]] = []
+    if "sector" in data.columns:
+        for sector, group in data.groupby("sector", dropna=False):
+            returns = [clean_number(value) for value in group.get("return_1d_pct", pd.Series(dtype=float))]
+            returns = [value for value in returns if value is not None]
+            sector_advancers = sum(1 for value in returns if value > 0)
+            sector_decliners = sum(1 for value in returns if value < 0)
+            volume_ratios = [
+                clean_number(value)
+                for value in group.get("volume_ratio_20d", pd.Series(dtype=float))
+            ]
+            volume_ratios = [value for value in volume_ratios if value is not None]
+            sector_rows.append(
+                {
+                    "sector": str(sector or "Unknown"),
+                    "count": int(len(group)),
+                    "advancers": int(sector_advancers),
+                    "decliners": int(sector_decliners),
+                    "advance_decline_ratio": round(sector_advancers / sector_decliners, 2)
+                    if sector_decliners
+                    else None,
+                    "average_1d_pct": round(sum(returns) / len(returns), 2) if returns else None,
+                    "above_50dma_pct": round(
+                        sum(1 for _, item in group.iterrows() if boolish(item.get("above_sma_50")))
+                        / len(group)
+                        * 100,
+                        1,
+                    )
+                    if len(group)
+                    else None,
+                    "average_volume_ratio_20d": round(sum(volume_ratios) / len(volume_ratios), 2)
+                    if volume_ratios
+                    else None,
+                }
+            )
+        sector_rows.sort(
+            key=lambda row: (
+                clean_number(row.get("average_1d_pct")) or -999,
+                row.get("advancers") or 0,
+            ),
+            reverse=True,
+        )
+
+    return {
+        "source_count": source_count,
+        "downloaded_count": total,
+        "advancers": len(advancers),
+        "decliners": len(decliners),
+        "unchanged": total - len(advancers) - len(decliners),
+        "advance_decline_ratio": round(len(advancers) / len(decliners), 2) if decliners else None,
+        "up_turnover_share_pct": round(up_turnover / total_turnover * 100, 1) if total_turnover else None,
+        "down_turnover_share_pct": round(down_turnover / total_turnover * 100, 1) if total_turnover else None,
+        "high_volume_decliners": len(high_volume_decliners),
+        "above_20dma_pct": round(
+            sum(1 for row in rows if boolish(row.get("above_sma_20"))) / total * 100,
+            1,
+        )
+        if total
+        else None,
+        "above_50dma_pct": round(
+            sum(1 for row in rows if boolish(row.get("above_sma_50"))) / total * 100,
+            1,
+        )
+        if total
+        else None,
+        "above_200dma_pct": round(
+            sum(1 for row in rows if boolish(row.get("above_sma_200"))) / total * 100,
+            1,
+        )
+        if total
+        else None,
+        "sector_breadth": sector_rows[:15],
+    }
+
+
 def build_nifty500_technical_leaders(data: pd.DataFrame, technical_path: Path, limit: int) -> list[dict[str, object]]:
     if data.empty:
         return []
@@ -662,6 +774,7 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
         "downloaded_count": 0,
         "coverage_pct": None,
         "benchmark_ticker": "",
+        "summary": {},
     }
     if path is None or not path.exists():
         return empty
@@ -677,6 +790,9 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
     )
     downloaded_count = int(len(downloaded))
     total_count = int(len(data))
+    coverage_pct = round(downloaded_count / total_count * 100, 1) if total_count else None
+    summary = summarize_nifty500_breadth(downloaded, total_count)
+    summary["coverage_pct"] = coverage_pct
     leaders = downloaded.copy()
     if "rotation_score" in leaders:
         leaders = leaders.sort_values(["rotation_score", "rs_return_20d_pct"], ascending=[False, False], na_position="last")
@@ -706,8 +822,9 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
         "source_file": str(path),
         "count": total_count,
         "downloaded_count": downloaded_count,
-        "coverage_pct": round(downloaded_count / total_count * 100, 1) if total_count else None,
+        "coverage_pct": coverage_pct,
         "benchmark_ticker": benchmark_ticker,
+        "summary": summary,
     }
 
 
@@ -1190,8 +1307,8 @@ def html_page(payload: dict[str, object]) -> str:
     </section>
     <section class="panel">
       <div class="section-title">
-        <h2>Nifty 500 Rotation</h2>
-        <span>Broad-market leaders and laggards</span>
+        <h2>Nifty 500 Breadth + Rotation</h2>
+        <span>Full universe participation</span>
       </div>
       <div id="nifty500Rotation"></div>
     </section>
@@ -1539,19 +1656,42 @@ def html_page(payload: dict[str, object]) -> str:
       </div>` : '<div class="empty">Run the Nifty 50 rotation analysis to populate relative-strength, volume, and RSI rotation.</div>';
 
     const rotation500 = payload.nifty500_rotation || {{}};
+    const rotation500Summary = rotation500.summary || {{}};
+    const rotation500BreadthMetrics = [
+      ['A/D', `${{rotation500Summary.advancers ?? 0}} / ${{rotation500Summary.decliners ?? 0}}`],
+      ['A/D ratio', rotation500Summary.advance_decline_ratio ?? ''],
+      ['Up turnover share', pct(rotation500Summary.up_turnover_share_pct)],
+      ['High-volume decliners', rotation500Summary.high_volume_decliners ?? 0],
+      ['Above 20DMA', pct(rotation500Summary.above_20dma_pct)],
+      ['Above 50DMA', pct(rotation500Summary.above_50dma_pct)],
+      ['Above 200DMA', pct(rotation500Summary.above_200dma_pct)],
+      ['Downloaded', `${{rotation500Summary.downloaded_count ?? rotation500.downloaded_count ?? 0}} / ${{rotation500Summary.source_count ?? rotation500.count ?? 0}}`],
+      ['Down turnover share', pct(rotation500Summary.down_turnover_share_pct)]
+    ];
+    const rotation500BreadthHtml = rotation500BreadthMetrics.map(([label, value]) => `
+      <div class="metric"><span class="eyebrow">${{label}}</span><b>${{value}}</b></div>`).join('');
+    const rotation500SectorRows = (rotation500Summary.sector_breadth || []).map(row => `
+      <tr>
+        <td>${{row.sector || 'Unknown'}}<div class="source">${{row.count ?? 0}} stocks</div></td>
+        <td class="num">${{row.advancers ?? 0}} / ${{row.decliners ?? 0}}</td>
+        <td class="num ${{cls(row.average_1d_pct)}}">${{pct(row.average_1d_pct)}}</td>
+        <td class="num">${{pct(row.above_50dma_pct)}}</td>
+        <td class="num">${{row.average_volume_ratio_20d ?? ''}}</td>
+      </tr>`).join('');
     const rotation500LeaderRows = rotationRows(rotation500.leaders);
     const rotation500WeakRows = rotationRows(rotation500.weakening);
     const rotation500LaggardRows = rotationRows(rotation500.laggards);
     const rotation500MeanRows = rotationRows(rotation500.mean_reversion);
     document.getElementById('nifty500Rotation').innerHTML = rotation500.source_file ? `
       <div class="metric-grid">
-        <div class="metric"><span class="eyebrow">Universe</span><b>${{rotation500.count ?? 0}}</b></div>
-        <div class="metric"><span class="eyebrow">Downloaded</span><b>${{rotation500.downloaded_count ?? 0}}</b></div>
-        <div class="metric"><span class="eyebrow">Coverage</span><b>${{pct(rotation500.coverage_pct)}}</b></div>
-        <div class="metric"><span class="eyebrow">Benchmark</span><b>${{rotation500.benchmark_ticker || 'Nifty'}}</b></div>
+        ${{rotation500BreadthHtml}}
       </div>
       <div class="empty" style="margin: 12px 16px;">
-        This layer scans the Nifty 500 for stocks gaining or losing relative strength versus the benchmark, then combines it with volume, RSI, and moving-average placement.
+        This is the full Nifty 500 downloaded universe, not the 52-week-high watchlist. It measures market participation using advances/declines, turnover proxy, moving-average placement, volume pressure, and then ranks leadership versus ${{rotation500.benchmark_ticker || 'the benchmark'}}.
+      </div>
+      <div style="padding: 0 16px 12px;">
+        <div class="detail-heading">Nifty 500 sector breadth</div>
+        ${{rotation500SectorRows ? `<table><thead><tr><th>Sector</th><th class="num">A/D</th><th class="num">Avg 1D</th><th class="num">Above 50DMA</th><th class="num">Vol/20D</th></tr></thead><tbody>${{rotation500SectorRows}}</tbody></table>` : '<div class="empty">Sector breadth will appear after the next Nifty 500 refresh includes sector data.</div>'}}
       </div>
       <div style="padding: 10px 16px 0;">
         <div class="detail-heading">Broad-market leaders</div>
