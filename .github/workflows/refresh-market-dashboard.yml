@@ -1,0 +1,67 @@
+name: Refresh market dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * 1-5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-dashboard-refresh
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      MARKET_DASHBOARD_ROOT: ${{ github.workspace }}
+      MARKET_DASHBOARD_DATA_ROOT: ${{ github.workspace }}/data
+
+    steps:
+      - name: Check out dashboard
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: requirements-market-dashboard.txt
+
+      - name: Install dashboard dependencies
+        run: python -m pip install -r requirements-market-dashboard.txt
+
+      - name: Refresh public market data
+        shell: bash
+        run: |
+          set +e
+          python scripts/fetch_ai_market_news_wires.py --days 1 --limit 80 --output-dir data/market_news_wires
+          python scripts/fetch_amfi_mutual_fund_navs.py --watchlist data/mutual_fund_watchlist.json --output-dir data/mutual_fund_navs
+          python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation
+          python scripts/fetch_nse_nifty500_52w_highs.py --output-dir data/nse_52w_highs
+          exit 0
+
+      - name: Build dashboard snapshot
+        run: >-
+          python scripts/build_market_dashboard.py
+          --output-dir docs
+          --all-wires
+          --india-breadth-limit 120
+          --include-bear-note-text
+          --bear-notes data/bear_dashboard_notes/latest-bear-watchlist-notes.json
+
+      - name: Publish refreshed snapshot
+        shell: bash
+        run: |
+          git config user.name "market-dashboard-bot"
+          git config user.email "market-dashboard-bot@users.noreply.github.com"
+          git add docs data
+          if git diff --cached --quiet; then
+            echo "Dashboard is already current."
+          else
+            git commit -m "Auto-refresh market dashboard"
+            git push
+          fi

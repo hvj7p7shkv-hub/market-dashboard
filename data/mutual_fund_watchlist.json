@@ -1,0 +1,34 @@
+[
+  {
+    "label": "HDFC Nifty 500 Index",
+    "query": "HDFC Nifty 500 Index Fund Direct Growth"
+  },
+  {
+    "label": "HDFC Nifty 500 Multicap 50:25:25",
+    "query": "HDFC Nifty 500 Multicap 50:25:25 Index Fund Direct Growth"
+  },
+  {
+    "label": "Motilal Oswal Nifty 500 Index",
+    "query": "Motilal Oswal Nifty 500 Index Fund Direct Growth"
+  },
+  {
+    "label": "ICICI Prudential Nifty 500 Index",
+    "query": "ICICI Prudential Nifty 500 Index Fund Direct Growth"
+  },
+  {
+    "label": "Nippon India Nifty 500 Equal Weight",
+    "query": "Nippon India Nifty 500 Equal Weight Index Fund Direct Growth"
+  },
+  {
+    "label": "HDFC Flexi Cap",
+    "query": "HDFC Flexi Cap Fund Direct Growth"
+  },
+  {
+    "label": "HDFC Mid-Cap Opportunities",
+    "query": "HDFC Mid-Cap Opportunities Fund Direct Growth"
+  },
+  {
+    "label": "HDFC Small Cap",
+    "query": "HDFC Small Cap Fund Direct Growth"
+  }
+]
