@@ -455,7 +455,7 @@ def build_nifty500_technical_leaders(data: pd.DataFrame, technical_path: Path, l
         ).strip()
         chart_view = str(
             technical_row.get("chart_pattern_view")
-            or "High-proximity leadership; run the technical overlay for RS, RSI, and P&F confirmation."
+            or "Price is close to or at a 52-week high. Technical overlay pending; check RS, RSI, and P&F before upgrading the reading."
         ).strip()
         sort_score = (
             (rank_score or 0) * 10
@@ -1497,9 +1497,9 @@ def html_page(payload: dict[str, object]) -> str:
           ? 'RS leader'
           : hasOverlay
             ? 'Technical watch'
-            : 'High-proximity watch';
-        const statusClass = row.relative_strength_leader ? 'leader' : hasOverlay ? 'watch' : 'flat';
-        const pnfText = row.pnf_signal || (hasOverlay ? '' : 'Overlay pending');
+            : '52W high watch';
+        const statusClass = row.relative_strength_leader ? 'leader' : 'watch';
+        const pnfText = row.pnf_signal || (hasOverlay ? '' : 'Technical overlay pending');
         return `
           <tr>
             <td><strong>${{esc(row.symbol || '')}}</strong><div class="source">${{esc(row.company || '')}}</div><div class="source">${{esc(row.setup_label || '')}}</div></td>
