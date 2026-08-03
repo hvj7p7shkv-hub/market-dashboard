@@ -60,12 +60,18 @@ jobs:
 
       - name: Refresh Nifty 500 highs
         run: |
-          if ! python scripts/fetch_nse_nifty500_52w_highs.py --output-dir data/nse_52w_highs; then
+          if ! python scripts/fetch_nse_nifty500_52w_highs.py --output-dir data/nse_52w_highs --universe-csv data/nifty500_universe/ind_nifty500list.csv; then
             echo "::notice::Nifty 500 highs could not be refreshed. The dashboard will use the latest available highs snapshot."
           fi
 
       - name: Refresh Nifty 50 rotation
         run: python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation
+
+      - name: Refresh Nifty 500 rotation
+        run: |
+          if ! python scripts/nifty500_rotation_analysis.py --period 1y --output-dir data/nifty500_rotation --universe-csv data/nifty500_universe/ind_nifty500list.csv --min-coverage 0.60; then
+            echo "::notice::Nifty 500 rotation could not be refreshed. The dashboard will use the latest available broad-market rotation snapshot."
+          fi
 
       - name: Build dashboard snapshot
         run: >-
@@ -73,6 +79,7 @@ jobs:
           --output-dir docs
           --all-wires
           --india-breadth-limit 120
+          --nifty500-rotation-limit 15
           --min-index-coverage 0.70
           --min-breadth-coverage 0.70
           --include-bear-note-text

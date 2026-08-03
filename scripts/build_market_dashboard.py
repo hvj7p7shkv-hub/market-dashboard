@@ -28,6 +28,7 @@ TECHNICAL_SUMMARY = DATA_ROOT / "batch_52w_technical" / "technical_ranked_summar
 NSE_HIGH_DIR = DATA_ROOT / "nse_52w_highs"
 MUTUAL_FUND_NAV_DIR = DATA_ROOT / "mutual_fund_navs"
 NIFTY50_ROTATION_DIR = DATA_ROOT / "nifty50_rotation"
+NIFTY500_ROTATION_DIR = DATA_ROOT / "nifty500_rotation"
 BEAR_DASHBOARD_NOTES_DIR = DATA_ROOT / "bear_dashboard_notes"
 
 os.environ.setdefault("MPLCONFIGDIR", str(ROOT / "work" / "matplotlib"))
@@ -404,25 +405,123 @@ def find_latest_nse_highs() -> Path | None:
     return candidates[0] if candidates else None
 
 
+def symbol_key(value: object) -> str:
+    return re.sub(r"[^A-Z0-9]", "", str(value or "").upper().replace(".NS", ""))
+
+
+def boolish(value: object) -> bool:
+    if isinstance(value, bool):
+        return value
+    if value is None or pd.isna(value):
+        return False
+    return str(value).strip().lower() in {"true", "1", "yes", "y"}
+
+
+def build_nifty500_technical_leaders(data: pd.DataFrame, technical_path: Path, limit: int) -> list[dict[str, object]]:
+    if data.empty:
+        return []
+    pool = data.copy()
+    if "within_3pct_52w_high" in pool:
+        pool = pool[pool["within_3pct_52w_high"].astype(bool)]
+    if pool.empty:
+        return []
+
+    technical_lookup: dict[str, dict[str, object]] = {}
+    if technical_path.exists():
+        technical = pd.read_csv(technical_path)
+        technical = technical.where(pd.notna(technical), None)
+        if "Symbol" in technical:
+            for _, row in technical.iterrows():
+                key = symbol_key(row.get("Symbol"))
+                if key and key not in technical_lookup:
+                    technical_lookup[key] = row.to_dict()
+
+    records: list[dict[str, object]] = []
+    for _, row in pool.iterrows():
+        key = symbol_key(row.get("symbol"))
+        technical_row = technical_lookup.get(key, {})
+        rank_score = clean_number(technical_row.get("rank_score"))
+        rs_distance = clean_number(technical_row.get("relative_strength_ratio_distance_sma_50_pct"))
+        rsi_14 = clean_number(technical_row.get("rsi_14"))
+        one_month = clean_number(technical_row.get("return_1m_pct"))
+        distance = clean_number(row.get("distance_from_52w_high_pct"))
+        change = clean_number(row.get("change_pct"))
+        fresh = boolish(row.get("fresh_52w_high"))
+        pnf_signal = str(technical_row.get("pnf_signal") or "").strip()
+        rs_leader = boolish(technical_row.get("relative_strength_leader"))
+        setup_label = str(
+            technical_row.get("setup_label")
+            or ("Fresh 52-week high" if fresh else "Near 52-week high")
+        ).strip()
+        chart_view = str(
+            technical_row.get("chart_pattern_view")
+            or "High-proximity leadership; run the technical overlay for RS, RSI, and P&F confirmation."
+        ).strip()
+        sort_score = (
+            (rank_score or 0) * 10
+            + (8 if rs_leader else 0)
+            + (4 if "bullish" in pnf_signal.lower() else 0)
+            + (3 if fresh else 0)
+            + (change or 0)
+            + max(distance or -20, -20) / 2
+        )
+        records.append(
+            {
+                "symbol": row.get("symbol"),
+                "company": row.get("company"),
+                "last_price": row.get("last_price"),
+                "change_pct": change,
+                "distance_from_52w_high_pct": distance,
+                "rank_score": rank_score,
+                "relative_strength_leader": rs_leader if technical_row else None,
+                "relative_strength_ratio_distance_sma_50_pct": rs_distance,
+                "rsi_14": round(rsi_14, 2) if rsi_14 is not None else None,
+                "return_1m_pct": one_month,
+                "pnf_signal": pnf_signal or None,
+                "setup_label": setup_label,
+                "chart_pattern_view": chart_view,
+                "has_technical_overlay": bool(technical_row),
+                "_sort_score": sort_score,
+            }
+        )
+    records = sorted(records, key=lambda item: item.get("_sort_score") or 0, reverse=True)
+    for item in records:
+        item.pop("_sort_score", None)
+    return records[:limit]
+
+
 def load_nse_highs(path: Path | None, limit: int) -> dict[str, object]:
     if path is None or not path.exists():
-        return {"fresh_highs": [], "near_highs": [], "source_file": ""}
+        return {"fresh_highs": [], "near_highs": [], "technical_leaders": [], "source_file": ""}
     data = pd.read_csv(path)
     if data.empty:
-        return {"fresh_highs": [], "near_highs": [], "source_file": str(path)}
+        return {"fresh_highs": [], "near_highs": [], "technical_leaders": [], "source_file": str(path)}
     data = data.where(pd.notna(data), None)
     fresh = data[data["fresh_52w_high"].astype(bool)] if "fresh_52w_high" in data.columns else data.head(0)
     near = data[data["within_3pct_52w_high"].astype(bool)] if "within_3pct_52w_high" in data.columns else data.head(0)
-    if "distance_from_52w_high_pct" in fresh:
-        fresh = fresh.sort_values(["distance_from_52w_high_pct", "change_pct"], ascending=[False, False], na_position="last")
+    technical_leaders = build_nifty500_technical_leaders(data, TECHNICAL_SUMMARY, limit)
+    laggards = data.copy()
+    worst_day = data.copy()
+    if "change_pct" in fresh:
+        fresh = fresh.sort_values(["change_pct", "distance_from_52w_high_pct"], ascending=[False, False], na_position="last")
     if "distance_from_52w_high_pct" in near:
         near = near.sort_values(["distance_from_52w_high_pct", "change_pct"], ascending=[False, False], na_position="last")
+    if "distance_from_52w_high_pct" in laggards:
+        laggards = laggards.sort_values(["distance_from_52w_high_pct", "change_pct"], ascending=[True, True], na_position="last")
+    if "change_pct" in worst_day:
+        worst_day = worst_day.sort_values(["change_pct", "distance_from_52w_high_pct"], ascending=[True, True], na_position="last")
     return {
         "fresh_highs": json.loads(fresh.head(limit).to_json(orient="records")),
         "near_highs": json.loads(near.head(limit).to_json(orient="records")),
+        "technical_leaders": technical_leaders,
+        "structural_laggards": json.loads(laggards.head(limit).to_json(orient="records")),
+        "worst_day_moves": json.loads(worst_day.head(limit).to_json(orient="records")),
         "source_file": str(path),
+        "source_name": str(data["source"].dropna().iloc[0]) if "source" in data and len(data["source"].dropna()) else "NSE live",
         "fresh_count": int(len(fresh)),
         "near_count": int(len(near)),
+        "technical_leaders_count": int(len(technical_leaders)),
+        "technical_overlay_count": int(sum(1 for row in technical_leaders if row.get("has_technical_overlay"))),
         "total_count": int(len(data)),
     }
 
@@ -473,6 +572,71 @@ def load_nifty50_rotation(path: Path | None, limit: int) -> dict[str, object]:
         "mean_reversion": json.loads(mean_reversion.head(limit).to_json(orient="records")),
         "source_file": str(path),
         "count": int(len(data)),
+    }
+
+
+def find_latest_nifty500_rotation() -> Path | None:
+    candidates = sorted(NIFTY500_ROTATION_DIR.glob("*nifty500-rotation.csv"), key=lambda path: path.stat().st_mtime, reverse=True)
+    return candidates[0] if candidates else None
+
+
+def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
+    empty = {
+        "leaders": [],
+        "weakening": [],
+        "laggards": [],
+        "mean_reversion": [],
+        "source_file": "",
+        "count": 0,
+        "downloaded_count": 0,
+        "coverage_pct": None,
+        "benchmark_ticker": "",
+    }
+    if path is None or not path.exists():
+        return empty
+    data = pd.read_csv(path)
+    if data.empty:
+        empty["source_file"] = str(path)
+        return empty
+    data = data.where(pd.notna(data), None)
+    downloaded = (
+        data[data["downloaded"].astype(str).str.lower().isin(["true", "1"])]
+        if "downloaded" in data
+        else data
+    )
+    downloaded_count = int(len(downloaded))
+    total_count = int(len(data))
+    leaders = downloaded.copy()
+    if "rotation_score" in leaders:
+        leaders = leaders.sort_values(["rotation_score", "rs_return_20d_pct"], ascending=[False, False], na_position="last")
+    laggards = downloaded.copy()
+    if "rotation_score" in laggards:
+        laggards = laggards.sort_values(["rotation_score", "rs_return_20d_pct"], ascending=[True, True], na_position="last")
+    weakening = (
+        downloaded[downloaded["rotation_signal"].astype(str).str.contains("Weakening", case=False, na=False)]
+        if "rotation_signal" in downloaded
+        else downloaded.head(0)
+    )
+    if weakening.empty:
+        weakening = laggards.head(limit)
+    mean_reversion = (
+        downloaded[downloaded["rotation_signal"].astype(str).str.contains("Mean reversion", case=False, na=False)]
+        if "rotation_signal" in downloaded
+        else downloaded.head(0)
+    )
+    benchmark_ticker = ""
+    if "benchmark_ticker" in data and len(data["benchmark_ticker"].dropna()):
+        benchmark_ticker = str(data["benchmark_ticker"].dropna().iloc[0])
+    return {
+        "leaders": json.loads(leaders.head(limit).to_json(orient="records")),
+        "weakening": json.loads(weakening.head(limit).to_json(orient="records")),
+        "laggards": json.loads(laggards.head(limit).to_json(orient="records")),
+        "mean_reversion": json.loads(mean_reversion.head(limit).to_json(orient="records")),
+        "source_file": str(path),
+        "count": total_count,
+        "downloaded_count": downloaded_count,
+        "coverage_pct": round(downloaded_count / total_count * 100, 1) if total_count else None,
+        "benchmark_ticker": benchmark_ticker,
     }
 
 
@@ -941,8 +1105,15 @@ def html_page(payload: dict[str, object]) -> str:
     </section>
     <section class="panel">
       <div class="section-title">
+        <h2>Nifty 500 Rotation</h2>
+        <span>Broad-market leaders and laggards</span>
+      </div>
+      <div id="nifty500Rotation"></div>
+    </section>
+    <section class="panel">
+      <div class="section-title">
         <h2>Nifty 500 52-Week Highs</h2>
-        <span>Fresh highs and near-high candidates</span>
+        <span>Technical leaders, highs, and laggards</span>
       </div>
       <div id="nseHighs"></div>
     </section>
@@ -1281,7 +1452,67 @@ def html_page(payload: dict[str, object]) -> str:
         </div>
       </div>` : '<div class="empty">Run the Nifty 50 rotation analysis to populate relative-strength, volume, and RSI rotation.</div>';
 
+    const rotation500 = payload.nifty500_rotation || {{}};
+    const rotation500LeaderRows = rotationRows(rotation500.leaders);
+    const rotation500WeakRows = rotationRows(rotation500.weakening);
+    const rotation500LaggardRows = rotationRows(rotation500.laggards);
+    const rotation500MeanRows = rotationRows(rotation500.mean_reversion);
+    document.getElementById('nifty500Rotation').innerHTML = rotation500.source_file ? `
+      <div class="metric-grid">
+        <div class="metric"><span class="eyebrow">Universe</span><b>${{rotation500.count ?? 0}}</b></div>
+        <div class="metric"><span class="eyebrow">Downloaded</span><b>${{rotation500.downloaded_count ?? 0}}</b></div>
+        <div class="metric"><span class="eyebrow">Coverage</span><b>${{pct(rotation500.coverage_pct)}}</b></div>
+        <div class="metric"><span class="eyebrow">Benchmark</span><b>${{rotation500.benchmark_ticker || 'Nifty'}}</b></div>
+      </div>
+      <div class="empty" style="margin: 12px 16px;">
+        This layer scans the Nifty 500 for stocks gaining or losing relative strength versus the benchmark, then combines it with volume, RSI, and moving-average placement.
+      </div>
+      <div style="padding: 10px 16px 0;">
+        <div class="detail-heading">Broad-market leaders</div>
+      </div>
+      <table>
+        <thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead>
+        <tbody>${{rotation500LeaderRows}}</tbody>
+      </table>
+      <div class="two-col" style="padding: 10px 16px 16px;">
+        <div>
+          <div class="detail-heading">Weakening names</div>
+          ${{rotation500WeakRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500WeakRows}}</tbody></table>` : '<div class="empty">No weakening bucket in latest file.</div>'}}
+        </div>
+        <div>
+          <div class="detail-heading">Lowest rotation scores</div>
+          ${{rotation500LaggardRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500LaggardRows}}</tbody></table>` : '<div class="empty">No laggard bucket in latest file.</div>'}}
+        </div>
+      </div>
+      <div style="padding: 0 16px 16px;">
+        <div class="detail-heading">Mean-reversion bounces</div>
+        ${{rotation500MeanRows ? `<table><thead><tr><th>Stock</th><th>Signal</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS vs 50DMA</th><th class="num">Vol/20D</th><th class="num">RSI</th><th class="num">vs 50DMA</th></tr></thead><tbody>${{rotation500MeanRows}}</tbody></table>` : '<div class="empty">No mean-reversion bucket in latest file.</div>'}}
+      </div>` : '<div class="empty">Run the Nifty 500 rotation analysis to populate broad-market relative-strength, volume, and RSI rotation.</div>';
+
     const highs = payload.nse_highs || {{}};
+    function technicalHighRows(rows) {{
+      return (rows || []).map(row => {{
+        const hasOverlay = Boolean(row.has_technical_overlay);
+        const statusText = row.relative_strength_leader
+          ? 'RS leader'
+          : hasOverlay
+            ? 'Technical watch'
+            : 'High-proximity watch';
+        const statusClass = row.relative_strength_leader ? 'leader' : hasOverlay ? 'watch' : 'flat';
+        const pnfText = row.pnf_signal || (hasOverlay ? '' : 'Overlay pending');
+        return `
+          <tr>
+            <td><strong>${{esc(row.symbol || '')}}</strong><div class="source">${{esc(row.company || '')}}</div><div class="source">${{esc(row.setup_label || '')}}</div></td>
+            <td class="num">${{row.rank_score ?? ''}}</td>
+            <td><span class="pill ${{statusClass}}">${{esc(statusText)}}</span></td>
+            <td class="num ${{cls(row.relative_strength_ratio_distance_sma_50_pct)}}">${{pct(row.relative_strength_ratio_distance_sma_50_pct)}}</td>
+            <td class="num">${{row.rsi_14 ?? ''}}</td>
+            <td>${{esc(pnfText)}}</td>
+            <td class="num ${{cls(row.distance_from_52w_high_pct)}}">${{pct(row.distance_from_52w_high_pct)}}</td>
+            <td>${{esc(row.chart_pattern_view || '')}}</td>
+          </tr>`;
+      }}).join('');
+    }}
     function highRows(rows) {{
       return (rows || []).map(row => `
         <tr>
@@ -1293,23 +1524,44 @@ def html_page(payload: dict[str, object]) -> str:
           <td class="num">${{row.volume ?? ''}}</td>
         </tr>`).join('');
     }}
+    const nifty500TechnicalLeaderRows = technicalHighRows(highs.technical_leaders);
     const freshHighRows = highRows(highs.fresh_highs);
     const nearHighRows = highRows(highs.near_highs);
+    const structuralLaggardRows = highRows(highs.structural_laggards);
+    const worstDayRows = highRows(highs.worst_day_moves);
     document.getElementById('nseHighs').innerHTML = highs.source_file ? `
       <div class="metric-grid">
         <div class="metric"><span class="eyebrow">Fresh highs</span><b>${{highs.fresh_count ?? 0}}</b></div>
         <div class="metric"><span class="eyebrow">Within 3%</span><b>${{highs.near_count ?? 0}}</b></div>
+        <div class="metric"><span class="eyebrow">Technical leaders</span><b>${{highs.technical_leaders_count ?? 0}}</b></div>
         <div class="metric"><span class="eyebrow">Universe</span><b>${{highs.total_count ?? 0}}</b></div>
-        <div class="metric"><span class="eyebrow">Source</span><b>NSE</b></div>
+        <div class="metric"><span class="eyebrow">Source</span><b>${{highs.source_name || 'NSE live'}}</b></div>
+      </div>
+      <div class="empty" style="padding:0 16px 10px;">
+        The technical leaders table uses the same RS, RSI, P&F, and reading fields as the leadership watchlist when that overlay is available. The raw fresh/near-high and laggard lists remain below it for breadth context.
+      </div>
+      <div style="padding: 10px 16px 16px;">
+        <div class="detail-heading">Nifty 500 technical leaders</div>
+        ${{nifty500TechnicalLeaderRows ? `<table><thead><tr><th>Stock</th><th class="num">Rank</th><th>Status</th><th class="num">RS vs 50DMA</th><th class="num">RSI</th><th>P&F</th><th class="num">52W gap</th><th>Read</th></tr></thead><tbody>${{nifty500TechnicalLeaderRows}}</tbody></table>` : '<div class="empty">No Nifty 500 technical leaders found in the latest file.</div>'}}
       </div>
       <div class="two-col" style="padding: 10px 16px 16px;">
         <div>
-          <div class="detail-heading">Fresh/new 52-week highs</div>
+          <div class="detail-heading">Technical leaders: fresh 52-week highs</div>
           ${{freshHighRows ? `<table><thead><tr><th>Stock</th><th class="num">Last</th><th class="num">Chg</th><th class="num">52W high</th><th class="num">Distance</th><th class="num">Volume</th></tr></thead><tbody>${{freshHighRows}}</tbody></table>` : '<div class="empty">No fresh highs found in the latest file.</div>'}}
         </div>
         <div>
-          <div class="detail-heading">Within 3% of 52-week high</div>
+          <div class="detail-heading">Continuation leaders: within 3% of 52-week high</div>
           ${{nearHighRows ? `<table><thead><tr><th>Stock</th><th class="num">Last</th><th class="num">Chg</th><th class="num">52W high</th><th class="num">Distance</th><th class="num">Volume</th></tr></thead><tbody>${{nearHighRows}}</tbody></table>` : '<div class="empty">No near-high candidates found in the latest file.</div>'}}
+        </div>
+      </div>
+      <div class="two-col" style="padding: 0 16px 16px;">
+        <div>
+          <div class="detail-heading">Structural laggards vs 52-week high</div>
+          ${{structuralLaggardRows ? `<table><thead><tr><th>Stock</th><th class="num">Last</th><th class="num">Chg</th><th class="num">52W high</th><th class="num">Distance</th><th class="num">Volume</th></tr></thead><tbody>${{structuralLaggardRows}}</tbody></table>` : '<div class="empty">No structural laggards found in the latest file.</div>'}}
+        </div>
+        <div>
+          <div class="detail-heading">Weakest day moves</div>
+          ${{worstDayRows ? `<table><thead><tr><th>Stock</th><th class="num">Last</th><th class="num">Chg</th><th class="num">52W high</th><th class="num">Distance</th><th class="num">Volume</th></tr></thead><tbody>${{worstDayRows}}</tbody></table>` : '<div class="empty">No weak day moves found in the latest file.</div>'}}
         </div>
       </div>` : '<div class="empty">The Nifty 500 52-week-high file is not present yet. Run the NSE 52-week-high fetcher first, then rebuild the dashboard. If the fetcher fails, NSE may be blocking the request and the dashboard will keep this section empty.</div>';
 
@@ -1486,6 +1738,7 @@ def main() -> int:
     parser.add_argument("--highs-limit", type=int, default=25, help="Number of fresh/near 52-week highs to show.")
     parser.add_argument("--funds-limit", type=int, default=20, help="Number of mutual fund NAV rows to show.")
     parser.add_argument("--rotation-limit", type=int, default=12, help="Number of Nifty 50 rotation rows to show per bucket.")
+    parser.add_argument("--nifty500-rotation-limit", type=int, default=15, help="Number of Nifty 500 rotation rows to show per bucket.")
     parser.add_argument(
         "--min-index-coverage",
         type=float,
@@ -1532,6 +1785,7 @@ def main() -> int:
     nse_highs = load_nse_highs(find_latest_nse_highs(), args.highs_limit)
     mutual_fund_navs = load_mutual_fund_navs(find_latest_mutual_fund_navs(), args.funds_limit)
     nifty50_rotation = load_nifty50_rotation(find_latest_nifty50_rotation(), args.rotation_limit)
+    nifty500_rotation = load_nifty500_rotation(find_latest_nifty500_rotation(), args.nifty500_rotation_limit)
     bear_notes_path = args.bear_notes or find_latest_bear_dashboard_notes()
     bear_watchlist_notes = load_bear_dashboard_notes(
         bear_notes_path,
@@ -1558,6 +1812,7 @@ def main() -> int:
         "nse_highs": nse_highs,
         "mutual_fund_navs": mutual_fund_navs,
         "nifty50_rotation": nifty50_rotation,
+        "nifty500_rotation": nifty500_rotation,
         "bear_watchlist_notes": bear_watchlist_notes,
         "leaders": leaders,
         "wires": wires,
@@ -1575,6 +1830,7 @@ def main() -> int:
     print(f"Nifty 500 fresh highs: {nse_highs.get('fresh_count', 0)}")
     print(f"Mutual fund NAVs: {mutual_fund_navs.get('count', 0)}")
     print(f"Nifty 50 rotation rows: {nifty50_rotation.get('count', 0)}")
+    print(f"Nifty 500 rotation rows: {nifty500_rotation.get('downloaded_count', 0)}/{nifty500_rotation.get('count', 0)}")
     print(f"Bear watchlist notes: {bear_watchlist_notes.get('shown_count', 0)}")
     print(f"Leaders: {len(leaders)}")
     return 0
