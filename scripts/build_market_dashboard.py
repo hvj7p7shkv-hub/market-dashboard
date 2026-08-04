@@ -96,6 +96,37 @@ def rsi(series: pd.Series, length: int = 14) -> pd.Series:
     return 100 - (100 / (1 + rs))
 
 
+def yf_series(frame: pd.DataFrame, column: str) -> pd.Series:
+    if frame.empty:
+        return pd.Series(dtype=float)
+    if isinstance(frame.columns, pd.MultiIndex):
+        level0 = [str(value) for value in frame.columns.get_level_values(0)]
+        level1 = [str(value) for value in frame.columns.get_level_values(1)]
+        if column in level0:
+            series = frame.xs(column, axis=1, level=0, drop_level=True)
+        elif column in level1:
+            series = frame.xs(column, axis=1, level=1, drop_level=True)
+        else:
+            return pd.Series(dtype=float)
+        if isinstance(series, pd.DataFrame):
+            series = series.iloc[:, 0]
+        return pd.to_numeric(series, errors="coerce").dropna()
+    if column not in frame:
+        return pd.Series(dtype=float)
+    series = frame[column]
+    if isinstance(series, pd.DataFrame):
+        series = series.iloc[:, 0]
+    return pd.to_numeric(series, errors="coerce").dropna()
+
+
+def usable_index_rows(indices: list[dict[str, object]]) -> list[dict[str, object]]:
+    return [
+        row
+        for row in indices
+        if not row.get("is_stale") and not row.get("is_outlier")
+    ]
+
+
 def find_latest_wires() -> Path | None:
     candidates = sorted(WIRES_DIR.glob("*ai-market-wires*.csv"), key=lambda path: path.stat().st_mtime, reverse=True)
     return candidates[0] if candidates else None
@@ -256,9 +287,10 @@ def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]
     return items[:4]
 
 
-def download_index_history(period: str) -> list[dict[str, object]]:
+def download_index_history(period: str, max_stale_days: int, outlier_pct: float) -> list[dict[str, object]]:
     if yf is None:
         return []
+    today = dt.datetime.now(dt.timezone(dt.timedelta(hours=5, minutes=30))).date()
     rows: list[dict[str, object]] = []
     for region, name, ticker in INDEX_TICKERS:
         try:
@@ -266,23 +298,36 @@ def download_index_history(period: str) -> list[dict[str, object]]:
                 data = yf.download(ticker, period=period, auto_adjust=False, progress=False, timeout=25)
             if data.empty:
                 continue
-            if isinstance(data.columns, pd.MultiIndex):
-                data.columns = data.columns.get_level_values(0)
-            close = data["Adj Close"] if "Adj Close" in data else data["Close"]
-            close = close.dropna().astype(float)
+            close = yf_series(data, "Close")
+            if close.empty:
+                close = yf_series(data, "Adj Close")
             if close.empty:
                 continue
+            last_date = close.index[-1].date()
+            stale_days = max((today - last_date).days, 0)
             last = float(close.iloc[-1])
+            return_1d = pct_return(close, 1)
+            is_stale = stale_days > max_stale_days
+            is_outlier = return_1d is not None and abs(return_1d) >= outlier_pct
+            notes = []
+            if is_stale:
+                notes.append(f"stale quote: {stale_days} calendar days old")
+            if is_outlier:
+                notes.append(f"outlier 1D move: {return_1d:.2f}%")
             row: dict[str, object] = {
                 "region": region,
                 "name": name,
                 "ticker": ticker,
-                "last_date": close.index[-1].date().isoformat(),
+                "last_date": last_date.isoformat(),
                 "last": round(last, 2),
-                "return_1d_pct": pct_return(close, 1),
+                "return_1d_pct": return_1d,
                 "return_5d_pct": pct_return(close, 5),
                 "return_20d_pct": pct_return(close, 20),
                 "rsi_14": round(float(rsi(close).iloc[-1]), 2),
+                "stale_days": stale_days,
+                "is_stale": is_stale,
+                "is_outlier": is_outlier,
+                "data_note": "; ".join(notes),
             }
             for window in (20, 50, 200):
                 ma = close.rolling(window).mean().iloc[-1]
@@ -298,7 +343,7 @@ def download_index_history(period: str) -> list[dict[str, object]]:
 def regional_breadth(indices: list[dict[str, object]]) -> list[dict[str, object]]:
     rows: list[dict[str, object]] = []
     by_region: dict[str, list[dict[str, object]]] = {}
-    for row in indices:
+    for row in usable_index_rows(indices):
         by_region.setdefault(str(row.get("region", "Other")), []).append(row)
     for region, items in sorted(by_region.items()):
         returns_1d = [clean_number(item.get("return_1d_pct")) for item in items]
@@ -328,7 +373,7 @@ def regional_breadth(indices: list[dict[str, object]]) -> list[dict[str, object]
 def global_leaders_laggards(indices: list[dict[str, object]], limit: int = 5) -> dict[str, list[dict[str, object]]]:
     valid = [
         row
-        for row in indices
+        for row in usable_index_rows(indices)
         if clean_number(row.get("return_1d_pct")) is not None and str(row.get("region", "")) != "India Sectors"
     ]
     ranked = sorted(valid, key=lambda row: clean_number(row.get("return_1d_pct")) or 0, reverse=True)
@@ -945,6 +990,7 @@ def copy_bear_dashboard_assets(bear_notes_path: Path | None, output_dir: Path) -
 
 
 def market_posture(indices: list[dict[str, object]], wires: list[dict[str, object]]) -> dict[str, str]:
+    valid_indices = usable_index_rows(indices)
     latest_date, latest_wires = latest_wire_slice(wires)
     scoped_wires = latest_wires or wires
     wire_sample = scoped_wires
@@ -956,15 +1002,15 @@ def market_posture(indices: list[dict[str, object]], wires: list[dict[str, objec
         term in title_blob
         for term in ["surge", "jump", "rebound", "gains", "up for", "above", "relief", "crude falls", "oil falls"]
     )
-    weak_indices = sum(1 for row in indices if (row.get("distance_sma_20_pct") or 0) < 0)
-    above_50 = sum(1 for row in indices if row.get("above_sma_50") is True)
+    weak_indices = sum(1 for row in valid_indices if (row.get("distance_sma_20_pct") or 0) < 0)
+    above_50 = sum(1 for row in valid_indices if row.get("above_sma_50") is True)
     if india_relief and ai_wires >= 5:
         stance = "India relief, AI overhang"
     elif ai_wires >= 5 and weak_indices >= 3:
         stance = "Risk-off, AI-led"
     elif selling_wires >= 8:
         stance = "Risk-off, broad"
-    elif above_50 >= max(2, len(indices) // 2):
+    elif above_50 >= max(2, len(valid_indices) // 2):
         stance = "Constructive but selective"
     else:
         stance = "Mixed"
@@ -977,6 +1023,7 @@ def market_posture(indices: list[dict[str, object]], wires: list[dict[str, objec
         "selling_wire_count": str(selling_wires),
         "india_wire_count": str(india_wires),
         "weak_index_count": str(weak_indices),
+        "valid_index_count": str(len(valid_indices)),
     }
 
 
@@ -1175,6 +1222,7 @@ def html_page(payload: dict[str, object]) -> str:
     .wire a {{ color: #174f7a; text-decoration: none; font-weight: 650; }}
     .wire a:hover {{ text-decoration: underline; }}
     .source {{ color: var(--muted); font-size: 12px; }}
+    .data-warning {{ color: var(--red); font-weight: 700; }}
     .score {{ font-variant-numeric: tabular-nums; color: var(--muted); }}
     .note-browser {{ display: grid; grid-template-columns: 320px 1fr; gap: 0; }}
     .note-list {{ border-right: 1px solid #edf0ec; max-height: 560px; overflow: auto; }}
@@ -1529,6 +1577,9 @@ def html_page(payload: dict[str, object]) -> str:
     const quality = payload.data_quality || {{}};
     const qualityParts = [];
     if (quality.index_expected) qualityParts.push(`indices ${{quality.index_downloaded}}/${{quality.index_expected}}`);
+    if (quality.index_valid !== undefined) qualityParts.push(`valid indices ${{quality.index_valid}}/${{quality.index_downloaded}}`);
+    if (quality.index_stale) qualityParts.push(`stale indices ${{quality.index_stale}}`);
+    if (quality.index_outliers) qualityParts.push(`outlier indices ${{quality.index_outliers}}`);
     if (quality.breadth_expected) qualityParts.push(`India breadth ${{quality.breadth_downloaded}}/${{quality.breadth_expected}}`);
     const coverageText = qualityParts.length ? ` | Coverage: ${{qualityParts.join(', ')}}` : '';
     document.getElementById('generated').textContent = `Generated ${{payload.generated_at}} from ${{payload.wire_file || 'wire data'}}${{coverageText}}`;
@@ -1545,13 +1596,16 @@ def html_page(payload: dict[str, object]) -> str:
       </article>`).join('') || '<div class="panel empty">No current wire cluster found.</div>';
 
     const regionId = region => `region-${{String(region).toLowerCase().replace(/[^a-z0-9]+/g, '-')}}`;
+    function indexDataNote(row) {{
+      return row.data_note ? `<div class="source data-warning">${{esc(row.data_note)}}</div>` : '';
+    }}
     function regionDetailRows(region) {{
       const rows = payload.indices
-        .filter(item => item.region === region)
+        .filter(item => item.region === region && !item.is_stale && !item.is_outlier)
         .sort((a, b) => (Number(b.return_1d_pct) || 0) - (Number(a.return_1d_pct) || 0));
       return rows.map(item => `
         <tr>
-          <td><strong>${{item.name}}</strong><div class="source">${{item.ticker}} · ${{item.last_date || ''}}</div></td>
+          <td><strong>${{item.name}}</strong><div class="source">${{item.ticker}} · ${{item.last_date || ''}}</div>${{indexDataNote(item)}}</td>
           <td class="num">${{fmt.format(item.last || 0)}}</td>
           <td class="num ${{cls(item.return_1d_pct)}}">${{pct(item.return_1d_pct)}}</td>
           <td class="num ${{cls(item.return_5d_pct)}}">${{pct(item.return_5d_pct)}}</td>
@@ -1565,7 +1619,7 @@ def html_page(payload: dict[str, object]) -> str:
       const details = regionDetailRows(row.region);
       return `
         <tr class="region-row" data-region-id="${{id}}">
-          <td><span class="region-toggle">+</span><strong>${{row.region}}</strong><div class="source">${{row.count}} indices</div></td>
+          <td><span class="region-toggle">+</span><strong>${{row.region}}</strong><div class="source">${{row.count}} valid indices</div></td>
           <td class="num ${{cls(row.average_1d_pct)}}">${{pct(row.average_1d_pct)}}</td>
           <td class="num ${{cls(row.average_5d_pct)}}">${{pct(row.average_5d_pct)}}</td>
           <td class="num">${{row.advancers}} / ${{row.decliners}}</td>
@@ -1892,7 +1946,7 @@ def html_page(payload: dict[str, object]) -> str:
 
     const indexRows = payload.indices.map(row => `
       <tr>
-        <td><strong>${{row.name}}</strong><div class="source">${{row.region}} · ${{row.ticker}} · ${{row.last_date || ''}}</div></td>
+        <td><strong>${{row.name}}</strong><div class="source">${{row.region}} · ${{row.ticker}} · ${{row.last_date || ''}}</div>${{indexDataNote(row)}}</td>
         <td class="num">${{fmt.format(row.last || 0)}}</td>
         <td class="num ${{cls(row.return_1d_pct)}}">${{pct(row.return_1d_pct)}}</td>
         <td class="num ${{cls(row.return_5d_pct)}}">${{pct(row.return_5d_pct)}}</td>
@@ -2071,6 +2125,18 @@ def main() -> int:
         help="Minimum share of configured global indices that must download before replacing the dashboard.",
     )
     parser.add_argument(
+        "--max-index-stale-days",
+        type=int,
+        default=3,
+        help="Exclude index quotes older than this many calendar days from bias and breadth calculations.",
+    )
+    parser.add_argument(
+        "--index-outlier-pct",
+        type=float,
+        default=12.0,
+        help="Exclude index rows with a one-day move above this threshold from bias and breadth calculations.",
+    )
+    parser.add_argument(
         "--min-breadth-coverage",
         type=float,
         default=0.70,
@@ -2088,9 +2154,12 @@ def main() -> int:
     args.output_dir.mkdir(parents=True, exist_ok=True)
     wire_path = args.wires or find_latest_wires()
     wires = load_wires(wire_path, today_only=not args.all_wires)
-    indices = download_index_history(args.period)
+    indices = download_index_history(args.period, args.max_index_stale_days, args.index_outlier_pct)
     index_expected = len(INDEX_TICKERS)
     index_coverage = len(indices) / index_expected if index_expected else 0.0
+    valid_indices = usable_index_rows(indices)
+    stale_indices = [row for row in indices if row.get("is_stale")]
+    outlier_indices = [row for row in indices if row.get("is_outlier")]
     if index_coverage < args.min_index_coverage:
         raise SystemExit(
             f"Index download coverage was {len(indices)}/{index_expected} "
@@ -2122,6 +2191,9 @@ def main() -> int:
         "wire_file": wire_path.name if wire_path else "",
         "data_quality": {
             "index_downloaded": len(indices),
+            "index_valid": len(valid_indices),
+            "index_stale": len(stale_indices),
+            "index_outliers": len(outlier_indices),
             "index_expected": index_expected,
             "index_coverage_pct": round(index_coverage * 100, 1),
             "breadth_downloaded": breadth_downloaded,

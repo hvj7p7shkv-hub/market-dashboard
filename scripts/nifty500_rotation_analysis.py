@@ -212,7 +212,21 @@ def latest_rolling(series: pd.Series, window: int) -> float | None:
 
 
 def get_series(frame: pd.DataFrame, column: str) -> pd.Series:
-    if frame.empty or column not in frame:
+    if frame.empty:
+        return pd.Series(dtype=float)
+    if isinstance(frame.columns, pd.MultiIndex):
+        level0 = [str(value) for value in frame.columns.get_level_values(0)]
+        level1 = [str(value) for value in frame.columns.get_level_values(1)]
+        if column in level0:
+            series = frame.xs(column, axis=1, level=0, drop_level=True)
+        elif column in level1:
+            series = frame.xs(column, axis=1, level=1, drop_level=True)
+        else:
+            return pd.Series(dtype=float)
+        if isinstance(series, pd.DataFrame):
+            series = series.iloc[:, 0]
+        return pd.to_numeric(series, errors="coerce").dropna()
+    if column not in frame:
         return pd.Series(dtype=float)
     series = frame[column]
     if isinstance(series, pd.DataFrame):
@@ -283,6 +297,7 @@ def download_benchmark(preferred: str, fallbacks: list[str], period: str) -> tup
             continue
         seen.add(ticker)
         frame = yfinance_download([ticker], period)
+        frame = extract_ticker_frame(frame, ticker, single_ticker=True)
         close = clean_close(frame)
         if len(close) >= 70:
             return ticker, close

@@ -81,6 +81,8 @@ jobs:
           --india-breadth-limit 120
           --nifty500-rotation-limit 15
           --min-index-coverage 0.70
+          --max-index-stale-days 3
+          --index-outlier-pct 12
           --min-breadth-coverage 0.70
           --include-bear-note-text
           --bear-notes data/bear_dashboard_notes/latest-bear-watchlist-notes.json
