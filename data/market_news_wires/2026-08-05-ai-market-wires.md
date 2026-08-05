@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-05 09:35
+Generated: 2026-08-05 11:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,7 +16,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 India better placed amid AI-driven market volatility; FII inflows may reach $25 billion: HSBC Fortune India
 
-### 2. China AI optical stocks fall on report U.S. weighs ban on data center components By Investing.com - Investing.com India
+### 2. Indian AI Products Need a Correction Receipt for Global Markets - India Technology News
+
+- Source: India Technology News
+- Published: 2026-08-05T11:15:34+00:00
+- Themes: AI / tech risk, market selling, India market
+- Score: 12
+- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxNZC0zT0lCRlpTZ0VqLTZ1ek91MEVtTXZEZG81dVlRR1hJb3pIVFd2eFMtWHdWTU82MTYteHMxeFVUR1RhVmdKZ3FDWDU2Z1VVczJpRXFJa1hPaENfdVpsSWdNVTNmektJUkRlc3UwOEp2ZXExaVp4aUNlbGFMQVltQWZKVy10czVFMVAyU3FGaGhsd3V2dWtXX3Vwbw?oc=5
+
+Indian AI Products Need a Correction Receipt for Global Markets India Technology News
+
+### 3. China AI optical stocks fall on report U.S. weighs ban on data center components By Investing.com - Investing.com India
 
 - Source: Investing.com India
 - Published: 2026-08-05T03:17:50+00:00
@@ -26,7 +36,7 @@ India better placed amid AI-driven market volatility; FII inflows may reach $25 
 
 China AI optical stocks fall on report U.S. weighs ban on data center components By Investing.com Investing.com India
 
-### 3. FII shares drops to 14-year low of 15.88%, domestic mutual funds reach all-time high of 11.58% in June 2026: PRIME Database - India's News.Net
+### 4. FII shares drops to 14-year low of 15.88%, domestic mutual funds reach all-time high of 11.58% in June 2026: PRIME Database - India's News.Net
 
 - Source: India's News.Net
 - Published: 2026-08-04T16:00:00+00:00
@@ -36,7 +46,17 @@ China AI optical stocks fall on report U.S. weighs ban on data center components
 
 FII shares drops to 14-year low of 15.88%, domestic mutual funds reach all-time high of 11.58% in June 2026: PRIME Database India's News.Net
 
-### 4. Whale Rock hit by AI and chip selloff, flagship fund drops 21.7% - report (BE:NYSE) - Seeking Alpha
+### 5. Oil India shares fall 2.33%; stock among top losers on Nifty Midcap 150 - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-05T08:45:45+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOGw3TmVXZkRUWVRZSVZ3aXRwS2FFbDExR20wU1FMYXRkaGlxTmFKXzd1Y0VIbUtvazVNbWRoajF2VTJ4ZEVSSHJHY2IzRTI1YVozQll5Y0hfemUwdWpYejI1X1ctTEEzZWVwQ1VQeF9JQmJkbWE0ak9Eb0lGSlJHVU5mMzcyd2pmR2syOUVzNWtJRUNkN0Z0Y1VhcjB6SXNjcVdMeXpMRTBEd01kdkUyMW41NUhibVkteFBVS3ZLcmxVamdOdm9oWUM3b2JzNktMclUydWI3QlhYR2x3b3ZuWdIB5gFBVV95cUxQcnNlbUlfQnNoRXB3ODBndnJ1QkN5VDh3RXRRSEpTRzBsamF3OXZ0UURmRjhCZEdWaG00UFVRNF8tSDNzakE3ZnpHaGVIUHg2Y2RxNDBRX1hsUWtYc1EzNmFvWVNmcUgyc3YyODI5VUppb3JOVjVsNW00OGsweG5Nd2xOTkVTMldRZ21ESjgwTlZ6aWV4U05Ka3NmcXJ5QlpESjI4RXhvWXpJWks2UHF4WmQ1Q1luelUwV2dNTG0zVkd6dVY5WHZncjJWcHFpNUd1NVlHVk9nS1RYRURuVk1TV2RqVk92Zw?oc=5
+
+Oil India shares fall 2.33%; stock among top losers on Nifty Midcap 150 Moneycontrol.com
+
+### 6. Whale Rock hit by AI and chip selloff, flagship fund drops 21.7% - report (BE:NYSE) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-08-05T05:15:31+00:00
@@ -46,7 +66,7 @@ FII shares drops to 14-year low of 15.88%, domestic mutual funds reach all-time 
 
 Whale Rock hit by AI and chip selloff, flagship fund drops 21.7% - report (BE:NYSE) Seeking Alpha
 
-### 5. 5 August, 2026 Stock Market Updates: Sensex zooms 626 points, Nifty above 24,650 as crude falls below $80 - India TV News
+### 7. 5 August, 2026 Stock Market Updates: Sensex zooms 626 points, Nifty above 24,650 as crude falls below $80 - India TV News
 
 - Source: India TV News
 - Published: 2026-08-05T03:57:42+00:00
@@ -55,26 +75,6 @@ Whale Rock hit by AI and chip selloff, flagship fund drops 21.7% - report (BE:NY
 - Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNMlpoNHdDZVlhR1g1cnpyeHltcE05RmJTVk93MzN3NDNMZFRPWGVWTm1jSlQwRUdKSGNtdXptWXpULWFrcnNGUEdTMW9LZ3Q4UkxBZVg3eWNvUUZfb1F1c3VDUjgzYXM3YkVnSndqRGpPU1lmUEZsdkZBMmFLeWZ2LUVkM3Z5Z1Ita1JmbHlQOU1hbTB2MmlfbC1LdGFuYmd2WVkxbkVpR0ltVHhaRUlicWdySE5RbXlqQ002S1pKdWV3bHVjdVNmN2NPaHladThudFAwTUN5cmplUS1rd0JYeGJlYUpFaFJVc1RLSVprTGp0YW9nSlJlWNIB_gFBVV95cUxQT044cFhOMlRKQjhwTVkxLVB1c0NHeFlxcXVwTUhzNWZSR0IwODM3SUlGRTRkWnpnTnVXcmtCanRIV0hQcmJIdXlIQlpHemwtaDBSVnptb1pBdGlLOTREX3V1OG9aZ1hKd19LX09wdUhXd2Y4dzJxVW4tbDFQRUZwVW91Y3c4N2RrLWZwVF9GbVJZcVFXcDUycGlpeXdSQWliNk82d1hZTHlaX2QwT29RQ3JzbnhXUlp2M2pIQ0tzeUdmWU1xZnpEVHlxQmpyZzc4S0JmYXBSZkpWSDlXc05HUElOeHJJLWtRdlBVbkc4ZTdkUldhZ2NZNzRNVjNYZw?oc=5
 
 5 August, 2026 Stock Market Updates: Sensex zooms 626 points, Nifty above 24,650 as crude falls below $80 India TV News
-
-### 6. Sensex falls 210.08 points, Nifty drops 159.40 points to settle at 24,614.90, HUL among top losers - India TV News
-
-- Source: India TV News
-- Published: 2026-08-04T10:37:27+00:00
-- Themes: market selling, India market
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQU1prRlhnYTNZTWN6bndwdFJ1RkdOTnNwYzZBc1BiSS0tdEM2cFFqQjV3NE51UnNyTGk2dWVjV3ZBbDZ2cXRsbDJ0SnhPT19Fb193VzZXQk1Yd3FSUENRRjFjYkJDcEdMQjlkeUJ4czR1WmotX2pJMUs3T0FfNkRVcVRycU5la1c1Y2tHY2U3aVMzcUtkRHk1RVFrY05aSUJDYVExZ05pa1JweDF5aTFMLWJHbEMyYUl0Y21BM0ZqZGlYcFZBR1RjOFE2SzNrWjI5Q1BQc1Fhd21wMmNSNHFNcFJ4VklnUUxTMEhCTVpRRDV6d9IB9wFBVV95cUxONG5sNkpwUFphbEFsYWJpNHpFU0ZWZEJ6N1BmMnl0WXJLNWt3NE1Kdmd2QnpmTXF0NVhhdE1IRURNNElMQXBoeHF3b3JXbGhTVVdhbWxFNEdJc3hoZ19Udm1ZZWFYczNxcS1CUkt2U2Z4UnU2OG1oWktPV2E5UjkxWkVxMi1JanRqcVJqRW1zbElBOTZVNUJNR3RfU05RQTkyd0xic2U1U2tzTm5pQldDT19maXFfb2NLZk1YY1oyNnVhQndSeVlFY2hyM2s2QnNNdWluYmtrZ3lTQzNPcGx4RXYzdkRTV2ZyUk1pZklEcE9RZ2dZbjln?oc=5
-
-Sensex falls 210.08 points, Nifty drops 159.40 points to settle at 24,614.90, HUL among top losers India TV News
-
-### 7. Sensex, Nifty open firm amid positive global cues, fall in oil prices - Asianet Newsable
-
-- Source: Asianet Newsable
-- Published: 2026-08-05T04:30:30+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLWlQVlZIcEU1dFg0Qll1Ml9rcE9pNkczNzdTQm5uLUgyLXZ2R1lqMTVnbHF4d2VFVjAtV1RKZU1naU9FM2RaSTJBSjhkSWp5WkFlTGJFVDBWUVl6SlZkLUVpa0YtYUtzWjEzQzVjaU5mMlFybmo4aXdPZm1wR2RsS0pSYnFCcGRyYWUzR3N5TGlIQ1owOGlRdEQ2NGpCQXdST3A4NG9Xb2VqSVNjbUtVWGlzMElvUjFidVU0YUwyNkFGRUxGLS1IcNIBzgFBVV95cUxNN2E3Q2xTU2hOYVJpdllVLVRTTkJlNXZZMEM0QTY5RHhRWV9qaHRfcUpaZFc0Z0wyT3ZWUXZ4YU5ZdkVaNThETWlCXzlWZHdwUk03czEtbTBzZkY1NmJhQXpmVlFfYlN4OEF1WlNyT1U2dl8wRUhMdjhHc1VvTERhcXNzdEtmckNTMXhCdE5aNDNIU2pWS1hhODM2UzYySEpIZGR6WGJjZTJWWjIwdXdjQ2RCTjRhWHNKRUpMeWU4YUJCQVpKMmZwYmFqdGoxUQ?oc=5
-
-Sensex, Nifty open firm amid positive global cues, fall in oil prices Asianet Newsable
 
 ### 8. S&P 500 hits new high | Oil falls to $79 | CAS confusion for Nifty & Sensex - Moneycontrol.com
 
@@ -89,14 +89,24 @@ S&P 500 hits new high | Oil falls to $79 | CAS confusion for Nifty & Sensex Mone
 ### 9. Sensex Falls 210 Points, Nifty Ends Below 24,650 as New Closing Auction Mechanism Triggers Volatility - Daily Pioneer
 
 - Source: Daily Pioneer
-- Published: 2026-08-05T00:12:47+00:00
+- Published: 2026-08-05T00:34:47+00:00
 - Themes: market selling, India market
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ0x5ZXpDVmlEY0taeHdMOWVnVGRrejd3cFkwQ1RmaEF0WXBPakNxVzgtYktxczZXNG1ZMXdUaE1JdDJJM0xFWnpVRUdLSVRQakZQYjBwMElTUFc5eVdjd0dxZ3FzTjhuUUJRb3o0U2RZTFJmYS00bUs0VmtaajhGaGhFQkk5WHh0cHc5ZlpTcw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTTF3SGQzd0RVMVpucl80cFNZVG5vQk43NGY2dnRDQnY4aDhyMGlPRGdTRVQ1ZFJYRlo3SGlTazRHSm9NUDNQNnRBc092NW5JaEl0VWdBeUxWTW0yV1pRX1hJZkFzTW9UdWp5QTF2cl9FUGxSTmhyTW81ckhZWUx0eFg2dHEwWnJ3dXB1MURmWEhOSU9keDF6aVRfekluYmRjUHNRdV9RMVJLdw?oc=5
 
 Sensex Falls 210 Points, Nifty Ends Below 24,650 as New Closing Auction Mechanism Triggers Volatility Daily Pioneer
 
-### 10. Markets Snap Four-Day Winning Streak, Sensex Falls 210 Points As New Closing Auction Triggers Volatility - IBTimes India
+### 10. Ather Energy, LIC, KEI Industries among buzzing stocks as NIFTY falls over 1%, SENSEX drops 270 pts - Dailyhunt
+
+- Source: Dailyhunt
+- Published: 2026-08-04T18:48:45+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxQeTBNUFpjQzZVeHM0bXBadGlnRFZZTWdVMUF3ZHRvOThkeWcwZmpfZHBaQzZJZXM3eXN0LXFGQXYzUlZ5LXo0M2p5VXZlVVU0dmFobF9yMEZlTFRLQjZwa3prSEluN0JfNUh6SGI3ZUFsYy13eklKTk0xWDdsczRXS3A2RXA2QVJvV3hyNzM0MWVrWTJzTi1GTzhkNUxRUE9URUpsSnJaVjFQSmI3YWVONTdnRzUtZUJBQXZvYTN5UnZTU1Qtb1VHZFJQOHZ4SEFxR0o1ZUtIaXNEQnhKQ3cyOXNGdW5yZWwzcmxhNzF0OENvcU1DUURPNi1VbWNpXzROU0UzdTRtVQ?oc=5
+
+Ather Energy, LIC, KEI Industries among buzzing stocks as NIFTY falls over 1%, SENSEX drops 270 pts Dailyhunt
+
+### 11. Markets Snap Four-Day Winning Streak, Sensex Falls 210 Points As New Closing Auction Triggers Volatility - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-08-04T14:26:04+00:00
@@ -105,16 +115,6 @@ Sensex Falls 210 Points, Nifty Ends Below 24,650 as New Closing Auction Mechanis
 - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNaC04cF96S1puZHluX3J3SXFyUUhhVEhZa2RnZlNpNEVUVWFCZ1h0WTlheU1MUW9PMnRnUjkzVjB1U3pETzlWc3Q2Y2hwRk4wTjJYTUJ1RmJhbjRxeGtCcUJabnVOUnBWTGY2azllbFpITHVtWTdnR1VwRjZvUEdfQkVwNmw3ckJ4N1BoY1BFY0laVHBnajZ0UG43eDVFNVVnS2k4cklybVVyU2hHbEdlUXd1NmhRNFFCVUpBNVpGSQ?oc=5
 
 Markets Snap Four-Day Winning Streak, Sensex Falls 210 Points As New Closing Auction Triggers Volatility IBTimes India
-
-### 11. Ather Energy, LIC, KEI Industries among buzzing stocks as NIFTY falls over 1%, SENSEX drops 270 pts - Dailyhunt
-
-- Source: Dailyhunt
-- Published: 2026-08-04T14:10:50+00:00
-- Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxQeTBNUFpjQzZVeHM0bXBadGlnRFZZTWdVMUF3ZHRvOThkeWcwZmpfZHBaQzZJZXM3eXN0LXFGQXYzUlZ5LXo0M2p5VXZlVVU0dmFobF9yMEZlTFRLQjZwa3prSEluN0JfNUh6SGI3ZUFsYy13eklKTk0xWDdsczRXS3A2RXA2QVJvV3hyNzM0MWVrWTJzTi1GTzhkNUxRUE9URUpsSnJaVjFQSmI3YWVONTdnRzUtZUJBQXZvYTN5UnZTU1Qtb1VHZFJQOHZ4SEFxR0o1ZUtIaXNEQnhKQ3cyOXNGdW5yZWwzcmxhNzF0OENvcU1DUURPNi1VbWNpXzROU0UzdTRtVQ?oc=5
-
-Ather Energy, LIC, KEI Industries among buzzing stocks as NIFTY falls over 1%, SENSEX drops 270 pts Dailyhunt
 
 ### 12. SOXX ETF Drew Record $6.9 Billion During Chip Selloff - iShares PHLX SOX Semiconductor Sector Index Fund - Benzinga
 
@@ -136,37 +136,17 @@ SOXX ETF Drew Record $6.9 Billion During Chip Selloff - iShares PHLX SOX Semicon
 
 China’s AI And Chip Stocks Bounced After A Selloff Finimize
 
-### 14. Stock Market Today: Sensex Falls 210 Pts, Nifty Drops 159 Pts as Four-Day Rally Ends - APAC Media
+### 14. Stock Market Today: Sensex Falls 210 Pts, Nifty Drops 159 Pts as Four-Day Rally Ends - apacnewsnetwork.com
 
-- Source: APAC Media
+- Source: apacnewsnetwork.com
 - Published: 2026-08-04T11:47:28+00:00
 - Themes: market selling, India market
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE8yaE04WG1xV0xuZUlwSkNRSGVLM2FWbjBzUHVqekVQT3VSTGpHdTFsODRHdjUwZFg2N000Wl95Z3NCOUFTT2dHRVlTaGlnV1ZFUGFGRjNZU0dNOHU4aTducDJ0T2tJeE4tZ3NPOTctN1dzbTdfRmdhdnhNYzhHUQ?oc=5
 
-Stock Market Today: Sensex Falls 210 Pts, Nifty Drops 159 Pts as Four-Day Rally Ends APAC Media
+Stock Market Today: Sensex Falls 210 Pts, Nifty Drops 159 Pts as Four-Day Rally Ends apacnewsnetwork.com
 
-### 15. Sensex Falls 210 Points, Nifty Slips Below 24,650 Amid F&O Volatility, RBI Caution - outlookbusiness.com
-
-- Source: outlookbusiness.com
-- Published: 2026-08-04T10:27:48+00:00
-- Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWYyMEhlbnlzSHFibUE3TUFQblRiTDRvbTBQY2xLREhaOWZBZ2R4WTRsV0l6dmdDeUh1aHI2VmdJTzk0UGxNRm0wOHBpa29IT2tZZXZSdTI0T296RzF3cWpsRXdTbkNqTHdaLVZNRFJQYnRRVTNXeW1FaGJaZVJUVC1VYi1QWUlkQ0RIMUdOTkF3cXppVkVEWVlHVzNrVHRyLS01NWJhOURaYjRESUJZck1pQVpabXZfX2fSAccBQVVfeXFMTXdsZUpoVEV2SnVYNldSSDRMYzFQalg3elRxdUF0VXdVVlNIb19hTXVST2ZlLTlUZmZmQ0pKY2h0czRWV2JudWVMNkVMX3h0QUR1T0w4ZU9vNzA5Z1g4MlpFWDQ1QWJnaGpzNTBYOHpxYmo1VTZYeVZzNGhEUERrWnFoc0NWM1VwcmF3Y1A5UVlncWZaT2tVSGt0ejFSTm83YUp2aEJKWWFiLXNLbFVXblR5N19pRXQzeFlnMjVLVFhkbkF1cVMyaw?oc=5
-
-Sensex Falls 210 Points, Nifty Slips Below 24,650 Amid F&O Volatility, RBI Caution outlookbusiness.com
-
-### 16. Sensex Falls 210 Points, Nifty Slips Below 24,650 Amid F&O Volatility, RBI Caution - outlookbusiness.com
-
-- Source: outlookbusiness.com
-- Published: 2026-08-04T10:27:48+00:00
-- Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNd2xlSmhURXZKdVg2V1JINExjMVBqWDd6VHF1QXRVd1VWU0hvX2FNdVJPZmUtOVRmZmZDSkpjaHRzNFZXYm51ZUw2RUxfeHRBRHVPTDhlT283MDlnWDgyWkVYNDVBYmdoanM1MFg4enFiajVVNlh5VnM0aERQRGtacWhzQ1YzVXByYXdjUDlRWWdxZlpPa1VIa3R6MVJObzdhSnZoQkpZYWItc0tsVVduVHk3X2lFdDN4WWcyNUtUWGRuQXVxUzJr0gHHAUFVX3lxTE13bGVKaFRFdkp1WDZXUkg0TGMxUGpYN3pUcXVBdFV3VVZTSG9fYU11Uk9mZS05VGZmZkNKSmNodHM0VldibnVlTDZFTF94dEFEdU9MOGVPbzcwOWdYODJaRVg0NUFiZ2hqczUwWDh6cWJqNVU2WHlWczRoRFBEa1pxaHNDVjNVcHJhd2NQOVFZZ3FmWk9rVUhrdHoxUk5vN2FKdmhCSllhYi1zS2xVV25UeTdfaUV0M3hZZzI1S1RYZG5BdXFTMms?oc=5
-
-Sensex Falls 210 Points, Nifty Slips Below 24,650 Amid F&O Volatility, RBI Caution outlookbusiness.com
-
-### 17. Oil India Shares Slide 2.3% Amid Market Volatility - Whalesbook
+### 15. Oil India Shares Slide 2.3% Amid Market Volatility - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-05T09:17:42+00:00
@@ -176,7 +156,17 @@ Sensex Falls 210 Points, Nifty Slips Below 24,650 Amid F&O Volatility, RBI Cauti
 
 Oil India Shares Slide 2.3% Amid Market Volatility Whalesbook
 
-### 18. Nifty 50 Falls Below 24,550 After RBI Holds Repo Rate at 5.25%; Sensex Erases Early Gains - Dalal Street Investment Journal
+### 16. Gujarat Fluorochemicals Shares Fall 2.14%; Stock Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-05T09:02:51+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxQMzM0ZmF3LTNqeXF3NzNZUWI3b0c4cjZhT1pGbGhpdW9OaFl1RDRIRmJQVGc0MEROaS1ZQnI2LWROTmp0RkFVN01YNXc2UThVbmpoRFdPdGpaNVdPYnhJT095RTFDa2t3M1JnellQUzJ3XzFrdGF5YmZJVVlDZkpqdWJIdjgtZllPbDdrbUFycWRNMFRQSTdHZ2Z5ajVCT1ozMjREcWxFNWI1eU1xeVpNcFUyQks3aFhDeG9nQ1hTR0dRQ19MZnhGYVVnaWhTVGlyTWh2RGgzWGttakp3WXg0Unh4dXpmVHpJRk51UmpBZDJUOW9qUmJhetIB-AFBVV95cUxQMzM0ZmF3LTNqeXF3NzNZUWI3b0c4cjZhT1pGbGhpdW9OaFl1RDRIRmJQVGc0MEROaS1ZQnI2LWROTmp0RkFVN01YNXc2UThVbmpoRFdPdGpaNVdPYnhJT095RTFDa2t3M1JnellQUzJ3XzFrdGF5YmZJVVlDZkpqdWJIdjgtZllPbDdrbUFycWRNMFRQSTdHZ2Z5ajVCT1ozMjREcWxFNWI1eU1xeVpNcFUyQks3aFhDeG9nQ1hTR0dRQ19MZnhGYVVnaWhTVGlyTWh2RGgzWGttakp3WXg0Unh4dXpmVHpJRk51UmpBZDJUOW9qUmJheg?oc=5
+
+Gujarat Fluorochemicals Shares Fall 2.14%; Stock Among Top Losers on Nifty Midcap 150 Moneycontrol.com
+
+### 17. Nifty 50 Falls Below 24,550 After RBI Holds Repo Rate at 5.25%; Sensex Erases Early Gains - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-05T08:58:24+00:00
@@ -186,7 +176,7 @@ Oil India Shares Slide 2.3% Amid Market Volatility Whalesbook
 
 Nifty 50 Falls Below 24,550 After RBI Holds Repo Rate at 5.25%; Sensex Erases Early Gains Dalal Street Investment Journal
 
-### 19. Rate-sensitive shares, Ola Electric, PNB Housing Finance among buzzing stocks as NIFTY falls over 90 pts; SENSEX flat - Upstox
+### 18. Rate-sensitive shares, Ola Electric, PNB Housing Finance among buzzing stocks as NIFTY falls over 90 pts; SENSEX flat - Upstox
 
 - Source: Upstox
 - Published: 2026-08-05T08:44:34+00:00
@@ -196,7 +186,7 @@ Nifty 50 Falls Below 24,550 After RBI Holds Repo Rate at 5.25%; Sensex Erases Ea
 
 Rate-sensitive shares, Ola Electric, PNB Housing Finance among buzzing stocks as NIFTY falls over 90 pts; SENSEX flat Upstox
 
-### 20. SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits
+### 19. SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-08-05T08:39:46+00:00
@@ -206,15 +196,25 @@ Rate-sensitive shares, Ola Electric, PNB Housing Finance among buzzing stocks as
 
 SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race Stocktwits
 
-### 21. 4 AI selloff stocks become top picks for world’s best managers - Citywire
+### 20. 4 AI selloff stocks become top picks for world’s best managers - Citywire
 
 - Source: Citywire
-- Published: 2026-08-05T08:18:10+00:00
+- Published: 2026-08-05T08:19:15+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSVNmb19fOWVZNlhzMi0xZWVrRjZzd2xsSkplT3dTcEg3SEM1SjdxaUlzOFpWU2xtVndicElVWGVSZXpRSE9IaG5NTXRwOEFKZEFmZGFGVnAwU21VMXZVZU1yQV9YQ2F2SUR0dW1QNkJhQ21ic1k4T1dlaGU3X2tGQVM0SG9NX3FtZjZ1ek5hVEVHRE1rYlZFZ2ZqTGUyQ1VOZnFxb0NnUU9oQQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVZMUlYtNHpITEgyUnFBWG9LTWN5MWhGSnBreENfTGR4ekFXd2dNcmtFa21oejVJOWhLLUR5SWZRb2Rfdkp6d2hQSVh5eTBEejc4ZG1sTlNtc18yVVMxcEMtVkRGRlQ5NDVHTjY2Zkd4cUlWNGtVWE1Tc1JQUTBaUm9BZDE1eTNRZ194MDJLRWQyV3ZiZ2paUXdMczVNRm1tQkUxbVBJODliMW04Wm1jMQ?oc=5
 
 4 AI selloff stocks become top picks for world’s best managers Citywire
+
+### 21. DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ - Stocktwits
+
+- Source: Stocktwits
+- Published: 2026-08-05T08:06:34+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRWJzNnAyNDZqM1EwS0xWMFhaZURZUzJDaUN2Zk9icTZIUUw2QlJkSkFFaXN2VHlSS2dtNENncHpyTGRqRDhvOVBDaHQtNVZlQUwzWXJYOFROTzg2bnJFR09NeWo2eWVPX1luZ2tHQ0cwcjlHVkRyUUtMNDVqeHZXS01NU3paNV9TR0JGQ2d5X3JnVE5TdHF4dkhKRjdpNUFUMUlGaGVTTkRYWEtuTXFaZURoNC1odXdv?oc=5
+
+DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ Stocktwits
 
 ### 22. AI Equities: Correction/Consolidation? - Continuum Economics
 
@@ -476,15 +476,15 @@ India's new closing auction stokes sharp Nifty swings, options volatility on wee
 
 Nifty 50 Falls Over 1%; Sensex Trades Flat as RBI Policy, U.S.-Iran Talks Keep Investors Cautious Dalal Street Investment Journal
 
-### 48. Sensex up over 0.60% while Nifty falls after SEBI cas - NewsBytes
+### 48. Sensex up over 0.60% while Nifty falls after SEBI cas - newsbytesapp.com
 
-- Source: NewsBytes
+- Source: newsbytesapp.com
 - Published: 2026-08-04T11:59:58+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPZHktRkxWSTB4WFNENnZkWC01RS1PeGlRTkdYeUQxNHBvaWlWLTdLeUlfQXdXZ0pMZkZhLVM1S20yQ09aWVV1NjVERFBUZU8ySlpIZy00SUpld2g5VEVXWTBjNlhvTmZ0ZnFEQ1JhcG9ZSXJ5TEJMd05IU2M5R0VrdXNnUHYyYnZjVzhpQ1NpcERHSFZhZzUtV1l5SFhxTF9B?oc=5
 
-Sensex up over 0.60% while Nifty falls after SEBI cas NewsBytes
+Sensex up over 0.60% while Nifty falls after SEBI cas newsbytesapp.com
 
 ### 49. Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? - Goodreturns
 
@@ -516,117 +516,17 @@ Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock M
 
 Nifty ends 0.64% down, Sensex declines 0.27%, new closing auction mechanism keeps markets volatile says experts Kalinga TV
 
-### 52. The AI Rehire Correction Paradox: 87K Cuts YTD, but a Third of Companies Are Already Reversing Course - forkast.news
+### 52. Sensex, Nifty Snap Winning Run As FMCG, Realty Stocks Drag; Late Recovery Cushions Fall - BW Businessworld
 
-- Source: forkast.news
-- Published: 2026-08-04T11:28:01+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNUEVjcXBaU1hkT29kWHRaSUVVMlpGU0ZHVU01cTE3RWtCaHJObEdIVDN2T3lxSS1aNGdiLVF2YU9lNXptNjYteEQwUzhmNWlsQzc1UFd6azRXWWljamx0T3NhVkVmdGVpNVlMUS1ZVW5zNXdNM3ZNbHFsenV6dVFJWURmMm1COVlOb1pybUZVZWcwYUc4TEJWSUJncnNVbjRINlIydXMzczBmU3k5MmxjTXMzejJtampIdlNUQV9B?oc=5
-
-The AI Rehire Correction Paradox: 87K Cuts YTD, but a Third of Companies Are Already Reversing Course forkast.news
-
-### 53. Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-08-04T11:16:10+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxONDFRMFRCdFhYS1F1ekdTNjZ0Z1ZTeEdoc3paVG9FaEZoakRoNWF4VzFTYklLNnFtSWpJRjE1OW10eFh1SUxDUDZ6VlB4UXBOSi1RMkNBazhIbkN5T2xlYWtBSkQ1emsxQXYxQWNOMS15MDBOWGE3aUk1WjAzQlNXbHItNzF3cl9iaWVSd0FQbXFqVHBUNDcwTEdUMnVhWGpPZmVKdWZqY2dQcS1tYkJhdkN4T0RHanBYRkNLMzZsUl9pUVVWN3JNemh0S2hYNzdWTmpZRmxOd2lueWMxdU5hZmJhdk1Sc3N4XzUwTDhaSDFBdjdvOTlzSDZUR0dwNXY1eVhN?oc=5
-
-Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks Stocktwits
-
-### 54. Stock Market Closing Update Today: Sensex Falls 210 Points, Nifty Below 24,650, Dalal Street Ends in Red Ahead of RBI Policy; - Dynamite News
-
-- Source: Dynamite News
-- Published: 2026-08-04T10:57:31+00:00
+- Source: BW Businessworld
+- Published: 2026-08-04T11:45:16+00:00
 - Themes: market selling, India market
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQWmlSUWJraEFaOXotMS00NkNjUEhYUzE0U0JpZXF3RGVQTHJxR1pCLTA4NTNXLXBrcEpuanFLZDBBWkp6YWd6ZVFqRjIyTnN6U0VfVDh3R0lCb3BEMVhwWjZFUTdwMkdIeGlId1JQR3BpSHIzMEtVWHJrcDhyaEEtbzVQTmN0MUx6WHV6OHNOaTZOV3Y5Z21vZXJzck1QQk010gGmAUFVX3lxTE16ZlR4OUwxWGo0YXhkSGdTZmZFQXUzZTBFaEE1bGlBM0RWTTJvNWVnOEFrdlZ2dURRUmIzc201WERURUlMYVlieURLdEdsQU9ULV9TelNBRWxkak1talE1S3BfOVc4YlltSjBFV2J0dHpYeXNvLWlVZFdjWkNZNHNVa29kR0p4a3JnaHdWTWtOUUYyLU9YN3FXYmg2LV9WRUlWaFh0aGc?oc=5
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOMVdUVkVWR1pCS0Q3Qm5WQmJ0LUVlSjl6dzJsWmt2ZzBpcndJSkwzWlpiX3NUY1RPQ1lmZURpNGlDcDZldDA1aHJlWjBzVlNfT0NiNXhmZ2plQVcyYl9MbVBTZ29hRncza3pGV3U2SXBidXJ4VXJoMzUydkNobG1QcWQ2N3B0blhSWlNrQ3RWV2hfcjdULWVoTzByX2VGalk2RWZ6Qk5pNi0xNkFVb3NaV1k0Qjl6bWh5WkYzZFUySzl5cnBhYkNF?oc=5
 
-Stock Market Closing Update Today: Sensex Falls 210 Points, Nifty Below 24,650, Dalal Street Ends in Red Ahead of RBI Policy; Dynamite News
+Sensex, Nifty Snap Winning Run As FMCG, Realty Stocks Drag; Late Recovery Cushions Fall BW Businessworld
 
-### 55. Markets Snap Four-Day Winning Streak, Sensex Falls 210 Points As New Closing Auction Triggers Volatility - Free Press Journal
-
-- Source: Free Press Journal
-- Published: 2026-08-04T10:56:47+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaGw2OGJUSGRUNkJwLVQzZ296X0hnck5ncjFvRVlRVlE4dFJrU3lrdzNnVFA2WXVtMUI4czFFaENRMEd1eXF3QldBQ2RXMFdJUGdPMDRhOXdEUzJHSU82V3J5ZXRxYnA1MjQ3TTBvMTFhZEotaGtOZkJYWkwtWkJtbGtXNzJrSjhkTnhtZ3Bjd2pjek43SWJidU9MNW5mOXpOX1ZvbFdvM2VKV3BrYUhJR2NnWjhGaXlFdkRHaWkwN2Ewcmd4aFplTkFoLVozY1JsUFp0YUhlOTRlY2dh0gHiAUFVX3lxTE9famwxQkRnNFNldGVmNXd5OHBYNEY1bmx2YlBjTTJxVjFMUkpBMnFOVklwNlZ3cmpaSm5DbngtR2ZFQXBhTXV3T1MyblQ4Tkh3R2VBd3pDcVVaLWVNQmNWZ3drNEFENTF3YklmN2NXcG9CblE1QktuZHI5Tm8xMVRIdmxrbGJLeEdyZlFodFg0bU1pbm8tMGJlR2Jkdi15bWZJcmdsMGRUZUVnZ0c3Nnl1d20zR1dkcmpXcnRsQkVqaVZlNWEzZVpNMlFwd0pmbnJDMkZTQkpfN1Vic3dpZ0FZLWc?oc=5
-
-Markets Snap Four-Day Winning Streak, Sensex Falls 210 Points As New Closing Auction Triggers Volatility Free Press Journal
-
-### 56. Sensex settles 210 pts lower; Nifty ends below 24,650 as CAS correction weighs - Business Standard
-
-- Source: Business Standard
-- Published: 2026-08-04T10:34:14+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQejJDbU5kZEhrYU1NanNTZmlTc0ZjSDZocWdkbmI1dEZLUEJ1VE56aXltcG53cEF6QnA5VDlLaGhNLW9paFUxUF94aWF3d3hNSVJlb0FzZkRhVkdzYUYxNHcyRTlNdEp5TEhCNlBCU3RfQUJaQ095dV8zMnRFQ216U1dsRGNMTGphUWluZ2c5VnBjdXhDVkpIaVM5clJEOXdrRUs3TVEtZlNqSE0wS1RsbmNfTVVzbS1aaDdNZ0k5cUJZbjJMVGZJaXdOdHlTNFVQZUJHcEcwTGNTSG9kQjVUeGV0Zi1vQVVHLVpHYjJ5RF_SAfYBQVVfeXFMT3RXVEN0bWxlWU9qV3c5Z3ZpcEZ0ejdJTlJvbmxxT2JROEk4b3AtX3FFVjMzZEF1OHJSTy1FN095ZVRXVkV3MkpQRFYxaDhKZ3ZNUjhyWllQaE4yeHZJYWlOV3hRNUEzT2k4bzFFeWtaSExqckh4emlfTmZzbVZUQklBNnYwaU9fdDFjeWRJTTRHMGVBVUMwQ3dOa093U2RmSjR2U00tQmdSNXU5YU9BLVV4RUN2T2E0eGwxbmhldy1yWS1jSEpwbFhxUzFYV3Vxc2pZLXhsemJMZXNLNWQ1dHp1QVZVaFFGbnc5ZmdPYzZLLXJuaG1n?oc=5
-
-Sensex settles 210 pts lower; Nifty ends below 24,650 as CAS correction weighs Business Standard
-
-### 57. Closing Bell: Nifty Ends Lower After 4-Day Rally Ahead of RBI MPC Policy; Sensex Falls 210 Points - Dalal Street Investment Journal
-
-- Source: Dalal Street Investment Journal
-- Published: 2026-08-04T10:26:52+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcFc1VjV2Q0twc1lYZ3laY2YyaHBCODhqUmpSMlRhXzBkYUtZU1FPX2liUHRYRW01dXFQX204NEM0ZmFlZlJHUkI0VDAtMmNWV3RuSE1lNklyZ0FEQktNZElWUXhnOGFRMlhyNGI3cV83QTU0R3Z5SWhQWmlmenV1YV9GamtLUGRVVi1JdWEwODNJWmU3SnNkSmd4elRldnBfWllfUWlLQnFPaGU3VXdGb3hPUGFfa0tmOExYN1Ryck5qY1BzXy1PT1h4NWFTcjZJMjdtTzRFMkdFelZr?oc=5
-
-Closing Bell: Nifty Ends Lower After 4-Day Rally Ahead of RBI MPC Policy; Sensex Falls 210 Points Dalal Street Investment Journal
-
-### 58. Sensex falls 210 points, Nifty ends below 24,650 ahead of RBI policy - newsdrum.in
-
-- Source: newsdrum.in
-- Published: 2026-08-04T10:23:32+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQQm14RExxNURwNW5WdmQtUjZEeF9MTV9aRGlNOHBOaWJleVd3dWZLclZiRURyVXVVaVhGYkhJUGV5UURCUGx1aTRoMmlUT2dGNlhEYS01U2hmLW9jZGl5bXAyZHlrNENSNk5lckNLNFVOR1BxbFp3S2M2cVRXQk1zZnVsUTVOVDNKRFQzckFXUFVidXpRQVFCN3ZtSEluWjA4VVNPWGp6S1NfY1A30gGsAUFVX3lxTFBCbXhETHE1RHA1blZ2ZC1SNkR4X0xNX1pEaU04cE5pYmV5V3d1ZktyVmJFRHJVdVVpWEZiSElQZXlRREJQbHVpNGgyaVRPZ0Y2WERhLTVTaGYtb2NkaXltcDJkeWs0Q1I2TmVyQ0s0VU5HUHFsWndLYzZxVFdCTXNmdWxRNU5UM0pEVDNyQVdQVWJ1elFBUUI3dm1ISW5aMDhVU09YanpLU19jUDc?oc=5
-
-Sensex falls 210 points, Nifty ends below 24,650 ahead of RBI policy newsdrum.in
-
-### 59. Sensex falls 210 points, Nifty closes below 24,650 as market snaps 4-day gaining streak - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-08-04T10:21:12+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQNW5QR2ktRDJPSnhGUmVTeUdFY18wcFVGQXVWdzRoMWg5ZDl6RVY1WHFTWlZwcEFPcU9OZjRrdlZLYWU3bDFfRms3M21CWXhCUzNONkF5THI2T0Z5b3E4QUdiNHBKeUxaNW1TRnJTc3RkcksyR3MzTkJLX0dYV0Y3LW1ab3ZoNkl1d0l2cGxjclN2ZXlDR1VnMldLd0lmUy1qUkNrS25rdVQtaklUT1lFMUJQd0Z6QV9JTFExSjRBU29vZGlBQWlCSkpCdFlrTXhaZjFWaHJnYWNMSDJjTlN5b2pqLUhSWWF5UE4yTHZNcFHSAfYBQVVfeXFMT2x3QXljMF9ZcGZxcDdRSlVoWHpyc3NERVBSMzhFaGxIZV9oempYYVJxQ2ZDZ3RtenBpaWVWSE9QWmRVOWd5VEpoV1RQZmxKbTU5cHdnWmdBdElNbFBJWWdCdDNySXJKZ1I4WjNEREtIa0wtSldRaFd6eExGMG9RSnZ2X3ZVa1pFdGpMVUJJQy03SndhLVF5SDVEVWhPTHExR3BDRnJrRXB5eTEwaHpjQm5vNEx5dk1TRkVYRG9YV0RPZlczNVdPOHNSRFNvRFJEa0pjNjBsWTE3UUlzbFdnc29wYmhrdEJpNXBtZUNiY2tBQVFVcTJR?oc=5
-
-Sensex falls 210 points, Nifty closes below 24,650 as market snaps 4-day gaining streak The Economic Times
-
-### 60. Sensex Falls 210 Points, Nifty Closes at 24,615 After Closing Auction; New CAS Mechanism Triggers Fresh Vol - news18.com
-
-- Source: news18.com
-- Published: 2026-08-04T10:19:42+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQT2otYUVFOVN2elFwZ0p5YnRHM3FkR1RrekFDVk1xcC1ILXRYTHk1ZG5UMUVMaTJ1TFRORTU1aFZZTUgzbTVPeTU0T0hzZW5fTEdrOElCTkhLUF9DMFRlY3FnRmJwaUZuVlpTT2Joc2VPa2otbjFnRy1GYWxXdl9vb2FKdXlGeG5veUZqeFhkcHhkaENsWlVnQ3NaNFFyMFNhNlV0NjNZZVN4ZEVLTkZudkZmQ1k1WlVVOUVLNkVqRENQZDNKWGUxMVRKWFJMdjFDdGR2aUlLeS11ekJwWDlRX01jTEFOejBPSjZJM3RoUkhVb2wwQ1B4cUl2d3FnclHSAYQCQVVfeXFMT29OanVDWFA3Q2JxTXdzLWdOSkZUTXVIOTUyRlBvcEZ5dm9wOTYzemYyYjJkZmdDem56eURpYnVYUkp1dDdCeFR4VVhWWFg1RDRhYWhkc2xJU1pZRHNlZlVrbnktckpsQmlwSzBObmFVR0p4RHBOdzAwbGVEd1ZjT1hkRFA1cEt1R2Nlby1FZjFFRkNQaE4xQ2k2VUhhRDluQVhBelZXcTFuSlNQTkNSb1lQOUNBeUxmaG5RMG1KakpyYnNSSmdfdVJpUFVxTU96M3ZJNERsd1Faa3ctSkxld0xHZllJTmpiaWJERWtGUElmWmV4UHpjQ19ScEh2UXc1MzQ1alQ?oc=5
-
-Sensex Falls 210 Points, Nifty Closes at 24,615 After Closing Auction; New CAS Mechanism Triggers Fresh Vol news18.com
-
-### 61. Stock markets snap 4-day rally amid new closing auction session, Sensex drops 210 points - Telegraph India
-
-- Source: Telegraph India
-- Published: 2026-08-04T10:14:55+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY3ZWSHh5SGN5bFdWUHRsb19IM2NSZ2tQeEVMbnF0Vlg4cG0zSE5GLWxwYkpoX0x4clFjd2dtbzZlQWc2WkpfbEFYTVh4SDBaNldPaHVvbjhQaEZteWJEdGdoTUZ0MGJ2UTdVQUNweUN4X0lVNi00QmJsWFp4U2cyaTdWdTVpTlkyTUVOOEZXZFE1ME5FbHN2ak1Va2pRZmRMUzViRGRqS0VOdENZa1RqN3JNY1pfMUNNTjd2a1hJYnFydDjSAcgBQVVfeXFMTlVBeHVvVDBjYWxWMUhScUJYc2FycEtuN3YwUXJwRThadFlNdllUY2F6TXNBUEx3STJ1VDJSMEpRUm9sLWtoQUxIRWdkSTU5cFM5OU1yU2ZkRlJsZDlXclRKVkJaaW8xY0hsUXN5bzBQTThsSzI3WXIyNVc4Zmo2cWJnSU43Vi1HdTVPNWtmb1dHTzZwemVOQW0tWFU2THpzY1pFVWd3ZjhkaUVMSkVxZ2NLTS13LU8xZmNFcUY2cWhLcG80b01yNlU?oc=5
-
-Stock markets snap 4-day rally amid new closing auction session, Sensex drops 210 points Telegraph India
-
-### 62. Closing Bell: Nifty falls 159 points, Sensex slips 210 points; Realty, FMCG, IT stocks drag - Zee Business
-
-- Source: Zee Business
-- Published: 2026-08-04T10:03:49+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNMXoxd3oxNlEya3ZyVXhTcE1QVHB5MzBZS0VpR3JJeXk0YTdsZlRtbjJaclJSU2E5c3lERkwzaTh3LTRkRERZRmo4SG16VTN1dXNWN2twYlVyN3ltY3p3Y2lHREVkQTZJV3JzS296WmNnMXYwTllSZnNoSWFsVC1SS1d1NExuWDBJLWJvN0VGekhfU2hLQXMwRkRkNk93dGdTZjRXRC1Sa3hGTmVVX3ZkeW5iTlBWOEV0VDZyeUZQbWNXaEtoeEJlZ2t5UDNYZw?oc=5
-
-Closing Bell: Nifty falls 159 points, Sensex slips 210 points; Realty, FMCG, IT stocks drag Zee Business
-
-### 63. RBI Keeps Repo Rate at 5.25%; Nifty Bank Falls to 57,593 - Whalesbook
+### 53. RBI Keeps Repo Rate at 5.25%; Nifty Bank Falls to 57,593 - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-05T09:14:07+00:00
@@ -636,7 +536,17 @@ Closing Bell: Nifty falls 159 points, Sensex slips 210 points; Realty, FMCG, IT 
 
 RBI Keeps Repo Rate at 5.25%; Nifty Bank Falls to 57,593 Whalesbook
 
-### 64. Private Promoters’ Share Hits 2-Year High, MFs Reach Record As FII Holding Falls - BW Businessworld
+### 54. 40% Fall In One Year: This Smallcap Tech Stock Tumbled Over 7% In A Single Session. Here's Why - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-08-05T09:13:16+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVTRTQ1BrWDIzLTJOZXltVGc5anYzV0h6WUFxNldKMmVYeTctQmdLdTRXVkI5RnRQTkdnMUhaVF9OMWU0c21Ud3VTRi1oNWVEYjI3RW5zTjhPbGJVM2l0MGpfbTBXZ3J3VDJpTzZKYzVNMnI2MkR4VXhqazd2UzEtbWZXcGhzUkpNLWFfbWowVmxHdGdtcDdhb09SVldFV2QyeUt3MkplaGRwOE5TVVUxbDZzWGlVcjB1Z1VNNG1MTldqR1ZCX3lGbG9sbDJ3REQ2cklFRmlsN3d5MUVNeXlBMFE4b3XSAeQBQVVfeXFMT1U0U0NQa1gyMy0yTmV5bVRnOWp2M1dIellBcTZXSjJlWHk3LUJnS3U0V1ZCOUZ0UE5HZzFIWlRfTjFlNHNtVHd1U0YtaDVlRGIyN0Vuc044T2xiVTNpdDBqX20wV2dyd1QyaU82SmM1TTJyNjJEeFV4ams3dlMxLW1mV3Boc1JKTS1hX21qMFZsR3RnbXA3YW9PUlZXRVdkMnlLdzJKZWhkcDhOU1VVMWw2c1hpVXIwdWdVTTRtTE5XakdWQl95RmxvbGwyd0RENnJJRUZpbDd3eTFFTXl5QTBROG91?oc=5
+
+40% Fall In One Year: This Smallcap Tech Stock Tumbled Over 7% In A Single Session. Here's Why NDTV Profit
+
+### 55. Private Promoters’ Share Hits 2-Year High, MFs Reach Record As FII Holding Falls - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-08-04T20:30:05+00:00
@@ -646,7 +556,7 @@ RBI Keeps Repo Rate at 5.25%; Nifty Bank Falls to 57,593 Whalesbook
 
 Private Promoters’ Share Hits 2-Year High, MFs Reach Record As FII Holding Falls BW Businessworld
 
-### 65. Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns
+### 56. Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-08-04T14:14:55+00:00
@@ -656,47 +566,27 @@ Private Promoters’ Share Hits 2-Year High, MFs Reach Record As FII Holding Fal
 
 Indian Stock Market Outlook Next Week: Can Sensex, Nifty Hit Fresh Highs? Q1 Earnings, FII, Crude Oil in Focus Goodreturns
 
-### 66. Sensex Snaps 4-Day Rally, Falls 210 Points as New F&O Auction Impacts Markets - Deccan Chronicle
+### 57. India to outperform global peers on strong consumption, FTAs to boost exports: HSBC Mutual Fund India CEO - IANS LIVE
 
-- Source: Deccan Chronicle
-- Published: 2026-08-04T10:58:24+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZmdPTFJsdXhsZEhTbWotSHIyYjkxcDNLb3ZjTEt5bmVhYjJIZ0JHQXFWZGhDTUhSS25LdjgzaDYzVUxMZjFhMjBkVFBpQ1N1YlFRZWJEcUExemNmWkk1R0I3d0QtUUZVQVFIX0pDRkw3STdFajN2cHVram93dWFHV1dNbVpNT3puanNJemk2aFRHaEVxcUQzOE1lSUV2RXl4VUFKSUI4em1tT1M0SUhzTnVVeEM0NlZFRFVUYnVMUmJNNVnSAcgBQVVfeXFMTS0zTmNVOUlfeERoZXkyQlhmUEdzVGlXbC1rNC1JdFZaWlhSYm1peEdFcW41SF9OQktVUlZGeW1TeG85aWxEb0RDWmlvR0Q4TkEzZWlzLVhJVExSMHNiTVRkWnZSajFYcFhxcUZqcF9mMFZYY2lWUVZDR1A3SFJGS1RyQXNfVUJhMVJHZG01QU1KRjhkeWRpTVhVTThOVDFBVFlzNXA3MWlXMHBtZjh6N0V2ZlctRzh1WGQ0b2F4blpHTHZORDZTckg?oc=5
-
-Sensex Snaps 4-Day Rally, Falls 210 Points as New F&O Auction Impacts Markets Deccan Chronicle
-
-### 67. Nifty Falls to 24,614 Ahead of RBI Policy Decision - Whalesbook
-
-- Source: Whalesbook
-- Published: 2026-08-04T10:30:42+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPTmpQZXRCaVJPRVhJQVEzNlA0S0lmUmc1a1NqSFJ4a2F2UWhicjNKTzhDVHBGaG10NzJ5MC14bEs3VjlLbjV5MUxua2pSWnFzUTIwNTBJb2w4ZTRHQUtxU3pJQ3hxVGRZXzBQdm45cGpvOHdZZGtBQ3BKWjRQX1JyX0l5Rk40d3paN2R5b2ZiNFd2eHRXaFlzRUVYYk5JUm8xWm4zWE1rTkVTYzBscGxSdkduSUZ1MVk0eFI4d1NfRQ?oc=5
-
-Nifty Falls to 24,614 Ahead of RBI Policy Decision Whalesbook
-
-### 68. Nifty 50 Falls 1.25% at Close as Indian Equities Face Broad Selling Pressure - businessupturn.com
-
-- Source: businessupturn.com
-- Published: 2026-08-04T09:57:50+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQT0VLNjN4dWo1RzdSanFQbWZQNzNhTGh5TWN5NWRCNXNpXzhiQWtBNTZHTUxKc3IzMnVmZGp1bF93bUl3bU1fTnFEU0pCNEJhdVhsUmVfaTNocmpqTUk1NWRkdUdFRjA4TlhiYzNuVWVKSnhJRlJPbXdaeXM4TTlQUjlNZndVVGZwb0tmU2FETjloaHYyUHotUVhCdXdRRVFwazlabUlqY0ZuejRRNm1nVVFuLThNdEZzd1RhUEhFQ2x6b00?oc=5
-
-Nifty 50 Falls 1.25% at Close as Indian Equities Face Broad Selling Pressure businessupturn.com
-
-### 69. HSBC Mutual Fund CEO Projects Unprecedented Multi-Sector Boom For India - streamlinefeed.co.ke
-
-- Source: streamlinefeed.co.ke
-- Published: 2026-08-05T08:50:14+00:00
+- Source: IANS LIVE
+- Published: 2026-08-05T10:18:00+00:00
 - Themes: India market
 - Score: 5
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOck5oRzJPSXN6ZzRzRmxRVXhmU1Q3eVgzbWNPSWVvalBoUF95MmV2bDg3dERlWTFDTWlaNjVEZnNaZDJOWjJRNkhOUGpja2pnRlQxQ24xSEI5MVJkUDNmWTR0MGJxWmJZM3hWLXVxdTFKZTJmRzBKdE9UVEIwWVJkckV0MFFQU2RaNy1VbEIzUlZRVVN0VDR4aWZXUmtlSTFackcwdjZCekg?oc=5
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQVWNldzBPV1JZS04xSlZmTTdNMHFNWll1LWJVck1SdWdWMVMtQ1FnWEhQS3BmYUdtVEoyMUV4VVdjM1RKMktHam05OEVwSThOc0xmM1AwbW12aVdkVXlzN29NLVBNODV1WTRXc0FvRWVIQlVaUFZkQXVNZDhvQy16R2g4RGxLbHZEUWRTcHF0OTh3dGtKMlR3NGFva0lzNnZ0WHFOV3dFaVJDV2JpZmVVOThHcDZSZjQzVEpKOGNDUVN3eGNodU1yZXVaVXlLUQ?oc=5
 
-HSBC Mutual Fund CEO Projects Unprecedented Multi-Sector Boom For India streamlinefeed.co.ke
+India to outperform global peers on strong consumption, FTAs to boost exports: HSBC Mutual Fund India CEO IANS LIVE
 
-### 70. Looking to start an SIP in August? Here are mutual fund picks for aggressive investors - The Economic Times
+### 58. PGIM India Mutual Fund temporarily suspends SIPs and STPs in 3 international funds - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-08-05T09:09:29+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNX3lqRUVtX1o1VlluZlBGbFlYYnRfSGQtVlA4Q0lTVnNUdkd0YVh6T0VUS2VQY3c2S1EyTWhiQ2hSdUxEaTJ0emhGdHR6YUY4Y21UVmVOZHJoVGJQWWlnMUZteTRoQS15Zk8tS3p0Y0otYXVGZEZ1anZ3bldwdXdEdkowaEVfUUVKcEJMbU9ld1RIMWhtZ1Z4YlJVd21mLUtuUVViWFhnNjNWdWpnTE5lNk5TMDh6dlh2Y2xBNDY5b0FRcFdJYUYycjBKT2t0QnRoaDNDLS1CMG5CSnJkamVtdmlzYXZ6Z9IB5gFBVV95cUxNX3lqRUVtX1o1VlluZlBGbFlYYnRfSGQtVlA4Q0lTVnNUdkd0YVh6T0VUS2VQY3c2S1EyTWhiQ2hSdUxEaTJ0emhGdHR6YUY4Y21UVmVOZHJoVGJQWWlnMUZteTRoQS15Zk8tS3p0Y0otYXVGZEZ1anZ3bldwdXdEdkowaEVfUUVKcEJMbU9ld1RIMWhtZ1Z4YlJVd21mLUtuUVViWFhnNjNWdWpnTE5lNk5TMDh6dlh2Y2xBNDY5b0FRcFdJYUYycjBKT2t0QnRoaDNDLS1CMG5CSnJkamVtdmlzYXZ6Zw?oc=5
+
+PGIM India Mutual Fund temporarily suspends SIPs and STPs in 3 international funds The Economic Times
+
+### 59. Looking to start an SIP in August? Here are mutual fund picks for aggressive investors - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-05T09:06:58+00:00
@@ -706,7 +596,7 @@ HSBC Mutual Fund CEO Projects Unprecedented Multi-Sector Boom For India streamli
 
 Looking to start an SIP in August? Here are mutual fund picks for aggressive investors The Economic Times
 
-### 71. Rising SIP Holding Periods Prove Growing Maturity of Indian Mutual Fund Investors - streamlinefeed.co.ke
+### 60. Rising SIP Holding Periods Prove Growing Maturity of Indian Mutual Fund Investors - streamlinefeed.co.ke
 
 - Source: streamlinefeed.co.ke
 - Published: 2026-08-05T08:47:48+00:00
@@ -716,17 +606,37 @@ Looking to start an SIP in August? Here are mutual fund picks for aggressive inv
 
 Rising SIP Holding Periods Prove Growing Maturity of Indian Mutual Fund Investors streamlinefeed.co.ke
 
-### 72. Franklin India Money Market Fund leads money-market mutual funds in one-month returns; delivers 0.5% gain - Moneycontrol.com
+### 61. India Strategy : Earnings and FII flows anchor India as global tech retreats by Motilal Oswal Financial services Ltd - Investment Guru
+
+- Source: Investment Guru
+- Published: 2026-08-05T06:50:17+00:00
+- Themes: India market, macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOZ0NZd1pvOE1ybFkxWU42WTdtcWppaERlamhzN21iSGJ3V1JtLWdwVEFwTzZNcjk4UzQ0NmRlaXhFWW5wZXdMa052NnlRZkJsVjhydzlJR2E4LUR1aW1TOXAzYmtrQ2FseFZsajdLT0JMNXZZYi05QWw4eFdrNHNYb0R6N01pTnRFSV9yMTd6ek4xb2hxZW14NV9mMXR3WVJqbC1IOWxSSE55NjR2aHQ0Yzc0a2JheTBDQlNTdzdrV0p1Xzh5MkJxZDFDbXE3cUdMRnJGdVcta2J1akk1a29nQ1BoanUzSVE3NHFxNXlibEhCR0RrNFE?oc=5
+
+India Strategy : Earnings and FII flows anchor India as global tech retreats by Motilal Oswal Financial services Ltd Investment Guru
+
+### 62. Franklin India Money Market Fund leads money-market mutual funds in one-month returns; delivers 0.5% gain - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-05T06:03:35+00:00
 - Themes: India market
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxOZlVuQ1o2NDJlT1hfQzk5cHNvRUpjQVZZdDNyVm4xVzAtU0ZzRjAxRlIxQ0hEUC12NUtta29TaHV0OFF2Z1libWN5OVp3dkEzNk5JMThXUXhjTEp1V3lIZlpybC04RGs2XzM3WUx4TUVFUWtTMXdzOUp3cWtMZlJ6ZWEzRkwxU2hQSERsWXVSbUd5SHpQVHRtWjBzZmFpV1NKaE5JSnBkblN3N194bTRzUG54ZW5BbG1ma1A2bnMxNnBybURrbDd5a1lOWk1IZUJBR2dkWGJFUjI2YUVwcUlhR1dMLUs3aDMwLU5zRWl3T1pjNmxnWmgxMGNseXYwOHdoajhoTm9NUk3SAY4CQVVfeXFMTldoUWdueTZiMVJoeVpfbnk1dk0zOHFHVnlpNDhsVXFEU3hiZFpFUlFjUktnd2pRRWpJaXp3UlFSbl9hUV82alc3TFdlLWxPdUltUllFSVJLWEZxVFp3M0Z3T2p3ZHE0UzJqM1JXeG1SMkZLZDFjV05lNkhqcGJybFZNUXpjcUxDYWYwQ1IzZVRobU05WUVlek1FeWZTRi1naGZNRG5CdjZ0V0c0d1M3REI5VnFGNlR4VzhPNk1rNG9BaFlZeTZiYzBlbmUwU3J4TzZ4MUpXQzVGMURaR0dfQ1plX0RacVY3QXZORmNmOHFsd1VrWFZzUW5XTnh2WnNyMHpTeHZrdVRtc29OTkxB?oc=5
+- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxOV2hRZ255NmIxUmh5Wl9ueTV2TTM4cUdWeWk0OGxVcURTeGJkWkVSUWNSS2d3alFFaklpendSUVJuX2FRXzZqVzdMV2UtbE91SW1SWUVJUktYRnFUWnczRndPandkcTRTMmozUld4bVIyRktkMWNXTmU2SGpwYnJsVk1RemNxTENhZjBDUjNlVGhtTTlZRWV6TUV5ZlNGLWdoZk1EbkJ2NnRXRzR3UzdEQjlWcUY2VHhXOE82TWs0b0FoWVl5NmJjMGVuZTBTcnhPNngxSldDNUYxRFpHR19DWmVfRFpxVjdBdk5GY2Y4cWx3VWtYVnNRbldOeHZac3IwelN4dmt1VG1zb05OTEHSAY4CQVVfeXFMTldoUWdueTZiMVJoeVpfbnk1dk0zOHFHVnlpNDhsVXFEU3hiZFpFUlFjUktnd2pRRWpJaXp3UlFSbl9hUV82alc3TFdlLWxPdUltUllFSVJLWEZxVFp3M0Z3T2p3ZHE0UzJqM1JXeG1SMkZLZDFjV05lNkhqcGJybFZNUXpjcUxDYWYwQ1IzZVRobU05WUVlek1FeWZTRi1naGZNRG5CdjZ0V0c0d1M3REI5VnFGNlR4VzhPNk1rNG9BaFlZeTZiYzBlbmUwU3J4TzZ4MUpXQzVGMURaR0dfQ1plX0RacVY3QXZORmNmOHFsd1VrWFZzUW5XTnh2WnNyMHpTeHZrdVRtc29OTkxB?oc=5
 
 Franklin India Money Market Fund leads money-market mutual funds in one-month returns; delivers 0.5% gain Moneycontrol.com
 
-### 73. Franklin India Technology Fund leads technology sectoral mutual funds in three-year CAGR returns; delivers... - Moneycontrol.com
+### 63. Nippon India Dynamic Bond Fund leads dynamic-bond mutual funds in three-year CAGR returns; delivers 7.3%... - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-05T06:00:52+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxOY0lFR0lSanl2TGpJVWNuaGhHZjdQeU5SeGk2U21IeFF3SXVYUDRxdkE2OGxvTVNTMVlaSFN6MXFNT0dtaUZ2ZTRPUkk0U29zWmFGT2lmTW0wbzQwaVBUdW8tMF9iMElVcGI0RkpFWGZsZUNYNHI1d1BpQmRnQ1BVU1BoMzdSQXVtVGZzb1BEQzFBM3FLQm5Rckh2RDVXSjdncHN6aHF5M0lsbUhmZ3RERlM4NzdQT1c0WVpSZnNsNzh5MGk1RERoWDBhTjBlMGprMFozQTBRSHZ1eENxSFNTU24zWGRkNDltbGNXR2FDaHNSU0FjY3h5LXJPd1RwcGFqaWdEQ1A4WlJmcVBDT0NvUk1RNNIBkwJBVV95cUxOY0lFR0lSanl2TGpJVWNuaGhHZjdQeU5SeGk2U21IeFF3SXVYUDRxdkE2OGxvTVNTMVlaSFN6MXFNT0dtaUZ2ZTRPUkk0U29zWmFGT2lmTW0wbzQwaVBUdW8tMF9iMElVcGI0RkpFWGZsZUNYNHI1d1BpQmRnQ1BVU1BoMzdSQXVtVGZzb1BEQzFBM3FLQm5Rckh2RDVXSjdncHN6aHF5M0lsbUhmZ3RERlM4NzdQT1c0WVpSZnNsNzh5MGk1RERoWDBhTjBlMGprMFozQTBRSHZ1eENxSFNTU24zWGRkNDltbGNXR2FDaHNSU0FjY3h5LXJPd1RwcGFqaWdEQ1A4WlJmcVBDT0NvUk1RNA?oc=5
+
+Nippon India Dynamic Bond Fund leads dynamic-bond mutual funds in three-year CAGR returns; delivers 7.3%... Moneycontrol.com
+
+### 64. Franklin India Technology Fund leads technology sectoral mutual funds in three-year CAGR returns; delivers... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-05T06:00:36+00:00
@@ -736,7 +646,17 @@ Franklin India Money Market Fund leads money-market mutual funds in one-month re
 
 Franklin India Technology Fund leads technology sectoral mutual funds in three-year CAGR returns; delivers... Moneycontrol.com
 
-### 74. Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns; delivers 14.1% gain - Moneycontrol.com
+### 65. Invesco India Infrastructure Fund leads infrastructure sectoral mutual funds in three-month returns;... - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-05T05:55:40+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMioAJBVV95cUxNVmdNeTZ3Z0NFZ29fM2FkVGNpTjRhM3F5am9rZGgyaldwT0Z3U25JVzdVT1FySjRPQXdNdzg2dFdzeFJlZHQxV01IYzFwTjRMVE9Jc3I4cFNWdDlCQzlDeTg3Rll5cmttOW5Dc2s0RDdiaVB5aFlLYllpcWtFTm5aSVBxb3lNOVg2YUotVzM2b0tSaTNwbHo2NmI5T2Q5WFRBeGxWTnJMQ3l2eTRWUW45ZzI1ZFZWMXgxZHc1c3IzaFU0LXdwRzVEbFNNT1hQNWlSMG9VM08yTWktOGdDMnNibHlZb2l4V0tKdXlSY0puMWJXOHJ6azhaQjg5S3lGY0x2X2hvVy05bDNyV3J1MVlRN0JxQVhfbDN6NnktNnJsNDjSAaACQVVfeXFMTVZnTXk2d2dDRWdvXzNhZFRjaU40YTNxeWpva2RoMmpXcE9Gd1NuSVc3VU9Rcko0T0F3TXc4NnRXc3hSZWR0MVdNSGMxcE40TFRPSXNyOHBTVnQ5QkM5Q3k4N0ZZeXJrbTluQ3NrNEQ3YmlQeWhZS2JZaXFrRU5uWklQcW95TTlYNmFKLVczNm9LUmkzcGx6NjZiOU9kOVhUQXhsVk5yTEN5dnk0VlFuOWcyNWRWVjF4MWR3NXNyM2hVNC13cEc1RGxTTU9YUDVpUjBvVTNPMk1pLThnQzJzYmx5WW9peFdLSnV5UmNKbjFiVzhyems4WkI4OUt5RmNMdl9ob1ctOWwzcldydTFZUTdCcUFYX2wzejZ5LTZybDQ4?oc=5
+
+Invesco India Infrastructure Fund leads infrastructure sectoral mutual funds in three-month returns;... Moneycontrol.com
+
+### 66. Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns; delivers 14.1% gain - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-05T05:54:05+00:00
@@ -746,7 +666,7 @@ Franklin India Technology Fund leads technology sectoral mutual funds in three-y
 
 Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns; delivers 14.1% gain Moneycontrol.com
 
-### 75. How a ₹5000 SIP in top 5 midcap funds by AUM grew since launch - Upstox
+### 67. How a ₹5000 SIP in top 5 midcap funds by AUM grew since launch - Upstox
 
 - Source: Upstox
 - Published: 2026-08-05T04:27:42+00:00
@@ -756,7 +676,17 @@ Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns
 
 How a ₹5000 SIP in top 5 midcap funds by AUM grew since launch Upstox
 
-### 76. Best Mutual Funds to Invest in 2026 – Top Picks India - Myinvestmentideas
+### 68. Stock Market Today (August 5, 2026): Sensex, Nifty Jump As US-Iran Peace Deal Hopes Rise, Crude Oil Prices Fal - Times Now
+
+- Source: Times Now
+- Published: 2026-08-05T03:49:45+00:00
+- Themes: India market, macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxNYm55WE96RE5iTGI2OHlUQkhnRnFHSGVBOVJwUzgwY0tLUTc1OFR3ekVpSlhsSWQ4MkoyWk03MlNWLTFhRmE4TTlWSHhaZjl2aU9RVUF4QkpUQVJVTFRtbUxBMGtSbXo1RC1mRDZPWkF0a084MUV0ZHh1Tll3bkpSa1hmWjNMT1lOWlh3SE1McUpNVmR4WFBBMW82aW1saUpGSWZvWTJjWWFFNUU1U1hOWEN3UTFuLWZEenpIUE5wbnp4ZFVWbVdQWjVjemUzNUU4bUFNblJEZTFjYzN0UjJYbE16eTRnZzg3WFVDT1FQLVltVWxabUo3MWxfQml6OHRGb1V2akVIZknSAY4CQVVfeXFMUGg1SUdabDQ5WFJEZGVHVEZtZHNhZkR2SUVBbXRXZHg4MnVpZ0JlWVZoMjVxS3RvMUlCd281WmlsaW9PLVI5aE14WHhmS0VmVWJGaTlFaC1lY3VtdnExaHc4R1RWcVRPVUswclg1RmtnZ0ZRQmFUdi1kYnhJbnJwZk5GVzVKcjMtWUtmYnAwY1BFRDRSbVc5d2xrdVhkbUZCWU1Ndm9Xd2llWEZhV0lKaG1zWE1zd050SnozanJ1VXFDMXlZTnltcDFXVEFCcThOUWdlWlZhYjVtZm1TR0ktcEZSeWJraXRlTDh5NmcySmRsdXJQLUxSdjlYdmxsUlp6d1liUElrTTdrWjNWemFR?oc=5
+
+Stock Market Today (August 5, 2026): Sensex, Nifty Jump As US-Iran Peace Deal Hopes Rise, Crude Oil Prices Fal Times Now
+
+### 69. Best Mutual Funds to Invest in 2026 – Top Picks India - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-08-04T19:01:50+00:00
@@ -766,7 +696,7 @@ How a ₹5000 SIP in top 5 midcap funds by AUM grew since launch Upstox
 
 Best Mutual Funds to Invest in 2026 – Top Picks India Myinvestmentideas
 
-### 77. These 5 midcap mutual funds had maximum mid and small cap exposure in June. Check details - The Economic Times
+### 70. These 5 midcap mutual funds had maximum mid and small cap exposure in June. Check details - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-04T11:57:12+00:00
@@ -776,32 +706,102 @@ Best Mutual Funds to Invest in 2026 – Top Picks India Myinvestmentideas
 
 These 5 midcap mutual funds had maximum mid and small cap exposure in June. Check details The Economic Times
 
-### 78. Nippon India Dynamic Bond Fund leads dynamic-bond mutual funds in one-month returns; delivers 0.3% gain - Moneycontrol.com
+### 71. Union Mutual Funds Madhu Nair exits AMC; set to join Baroda BNP Paribas MF - Moneycontrol.com
 
 - Source: Moneycontrol.com
-- Published: 2026-08-04T10:29:02+00:00
+- Published: 2026-08-05T09:13:43+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZk5aNTNmbm5zQ1R6UndaMTRGWDUzeldDUjVfR1gwUWZVYUlvd1lNQ0xtZWxFcjh2UU0zVEtFa0RFMVg5LVd2Sy1ISE55OUs0ZmxVd0pSTkREbldmMTkzMmwxSUdnR3dNZVYzeGNTelBuM0xSbGdibGtkM0xhYV8yb2hSMmM3MjRuWDhyMnhCVkhESTBnNW85dXpwZDFzM3B5cE9pV0p4Qnpwbkc4NkR5eTRJbnkwYzdGZDBiMFhaVWZiZFRUbkllYzBKNlk3eUZETl9KZEtfbHVjV0g50gHcAUFVX3lxTE5mTlo1M2ZubnNDVHpSd1oxNEZYNTN6V0NSNV9HWDBRZlVhSW93WU1DTG1lbEVyOHZRTTNUS0VrREUxWDktV3ZLLUhITnk5SzRmbFV3SlJORERuV2YxOTMybDFJR2dHd01lVjN4Y1N6UG4zTFJsZ2Jsa2QzTGFhXzJvaFIyYzcyNG5YOHIyeEJWSERJMGc1bzl1enBkMXMzcHlwT2lXSnhCenBuRzg2RHl5NElueTBjN0ZkMGIwWFpVZmJkVFRuSWVjMEo2WTd5RkROX0pkS19sdWNXSDk?oc=5
+
+Union Mutual Funds Madhu Nair exits AMC; set to join Baroda BNP Paribas MF Moneycontrol.com
+
+### 72. Sensex Opens Above 79,000, Nifty Rises Ahead of RBI Policy Decision; Realty, Auto Stocks Lead Gains - IBTimes India
+
+- Source: IBTimes India
+- Published: 2026-08-05T06:35:38+00:00
 - Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxOdGlJYThNV0oxS0xQMHpyQi1vbkRSTjhUSnJoeUpwWGMyZzdLM1EwOTVrbzVDbXlpbzE5U0ZKRWRYZmF5aDcwTGM5NVotN1pSZnZySmZPalJVZXpTdG95TWl6eFJ4TWdFblhIVFgwQUJfUmFZVk1TajJSdDB5bVdsdGNXZVhmbTY3RjhfaUhGNmFKVVU0YjNkQkpDeVdiaDdFRDE4NFp5YnM5R3NWWmJlbVNmNFZjTE9SYWVNaXd1MERFeXdhWnpaU21uMVI1bkJUbGxSQkRkTkF0TUZleGRTUmZYb1g1V1pKdmV3MEhDbW03VXpTV3BSTjh6US1SRE1fMDhOcjF3YTctQnPSAYsCQVVfeXFMTnRpSWE4TVdKMUtMUDB6ckItb25EUk44VEpyaHlKcFhjMmc3SzNRMDk1a281Q215aW8xOVNGSkVkWGZheWg3MExjOTVaLTdaUmZ2ckpmT2pSVWV6U3RveU1penhSeE1nRW5YSFRYMEFCX1JhWVZNU2oyUnQweW1XbHRjV2VYZm02N0Y4X2lIRjZhSlVVNGIzZEJKQ3lXYmg3RUQxODRaeWJzOUdzVlpiZW1TZjRWY0xPUmFlTWl3dTBERXl3YVp6WlNtbjFSNW5CVGxsUkJEZE5BdE1GZXhkU1JmWG9YNVdaSnZldzBIQ21tN1V6U1dwUk44elEtUkRNXzA4TnIxd2E3LUJz?oc=5
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUHhlLV9ZMDktbGlVS0lEd3hQbEJYZENqTUkydUgzZzhzVE9UWmF4WFFPZzBfdDFxemtRRkdnc2ZvMVFuRE5HU0VkWXUySkZjbEhIZ1lpX0w0bFlSakZCSm1sZEc1eHFOUlV1ZFFuSjItU2szdngzaXJfTFcwNHpRSFd0eF9pbktmTXdWbHJQbC1GVzBSNHJjcE43SW83b0lrZ3BWQ1FiSTlIVmRkbzQzUnhYSFB4WFVIZXNjM2lJQTd0Rjg?oc=5
 
-Nippon India Dynamic Bond Fund leads dynamic-bond mutual funds in one-month returns; delivers 0.3% gain Moneycontrol.com
+Sensex Opens Above 79,000, Nifty Rises Ahead of RBI Policy Decision; Realty, Auto Stocks Lead Gains IBTimes India
 
-### 79. Invesco India Largecap Fund leads large-cap mutual funds in three-month returns; delivers 9.2% gain - Moneycontrol.com
+### 73. Kotak Equity Savings Fund leads equity-savings mutual funds in one-month returns; delivers 1.1% gain - Moneycontrol.com
 
 - Source: Moneycontrol.com
-- Published: 2026-08-04T10:27:09+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxPbFdtckN6SmROOVhPQXM1SkVhYnZxMC16aWtQdXlMUEJUMk9xbWJGanJPWE96ZHlLMG5yMFhZZktnRi01MU9Ra0lDRHQ0bVlFbXdMQTU2WFZ0SXkxSlpHMDhmS2tNQmwxQjFWSGNXcUNySkhNdnBzSWd1dFNEZW1oM2UyeUVPeXdSUlFicG5Zc2FVY1YxamxuRjVVWmJOY3FjZEhzMG5pOGxUczRoSnBoQVI4c0E1ZzRvN3FmQVk0cHRNZnB6YWs0VTJQVzd1YXVDSXcyRnZrTktpb0FBbm5fRzJYUk5USDFwZjl3UDk1QV9QeU1felVHZTVBbTFXVkox0gGGAkFVX3lxTFB1ZGpZaWVEN3JVSC1rNzcxYjRCaWxLaG5HdmhEaHJ3NDUzVDZnNXYwNEFXOGFFc2p2M25yWGtZYnNZeEJoek4tYmVZM1BGTktDUkktVmJpMUo4THlVaF9WeW0ydWFqaml5Rms4YXUyaGs0RW1xVGo0RXN3b0piMktpZkFHNGN3UWJKTHRHTl9Nem9weVoySjAtVTNybWUxbG1DMVFwdUg1aEJ1bXRVVGpTMUdMYUMzUXdZNkhpSVNWYjBINnY2ejJCUXFva1hKcndSV0Z1VzFVaEwzQjlNV2tmejJNQzRlaF9ha2d0c1RTaXlTRXhBOWYwRXZtV3VfeDRUM1Y3ZlE?oc=5
+- Published: 2026-08-05T06:04:45+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxNUEtTQ3Zhd3VIVXNWcjZOa1I2NmNzT0pacmdtWkJUSExkdmwzNTJKc1U0YVVuUjdVX1hsMnBsWEF0WWNmTXQ3UFJObGloX0V4RmtBVUlXZ3YwYW1LdmxVUk1sM2FnUkdQMUF1YjB5VkVGbTdjYXUyZFo3UnRXLTFBRldKcHRXRnQzMXlWa3F1SnV2c0lmc3Rvd25lSUktN0tCMGVLcm9ZMnlwUWtfWkVlM1U2d01Xc040NGtRZWlXOVctN25ib0JoMEtsNlllbWh0YTViV3ZFZFRkZzQ3U2tMWjREQ19wNkJoMlU1azdDMFYzVjlQNXQ2MGVQUEdOOEd1d0NkdTRhQdIBhwJBVV95cUxNUEtTQ3Zhd3VIVXNWcjZOa1I2NmNzT0pacmdtWkJUSExkdmwzNTJKc1U0YVVuUjdVX1hsMnBsWEF0WWNmTXQ3UFJObGloX0V4RmtBVUlXZ3YwYW1LdmxVUk1sM2FnUkdQMUF1YjB5VkVGbTdjYXUyZFo3UnRXLTFBRldKcHRXRnQzMXlWa3F1SnV2c0lmc3Rvd25lSUktN0tCMGVLcm9ZMnlwUWtfWkVlM1U2d01Xc040NGtRZWlXOVctN25ib0JoMEtsNlllbWh0YTViV3ZFZFRkZzQ3U2tMWjREQ19wNkJoMlU1azdDMFYzVjlQNXQ2MGVQUEdOOEd1d0NkdTRhQQ?oc=5
 
-Invesco India Largecap Fund leads large-cap mutual funds in three-month returns; delivers 9.2% gain Moneycontrol.com
+Kotak Equity Savings Fund leads equity-savings mutual funds in one-month returns; delivers 1.1% gain Moneycontrol.com
 
-### 80. DSP India T.I.G.E.R Fund leads infrastructure sectoral mutual funds in three-year CAGR returns; delivers... - Moneycontrol.com
+### 74. UTI Short Duration Fund leads short-duration mutual funds in one-month returns; delivers 0.3% gain - Moneycontrol.com
 
 - Source: Moneycontrol.com
-- Published: 2026-08-04T10:26:07+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMimwJBVV95cUxNN0pSanZmN3ZYMlZPY0o5VXVfZGtfNDQzb2I0Um9yNTlNVksxSnVOUFcybWM5TTFSWnd4R1NaSHNLVWZac3dKRHhuY3Y3TGxNSEhaa1BCbldwclR5VjJWRDltZE5EdGFWTGhmTm03MDlZMlc4LVJCMlJ1TURBT0RkUFlxbGNGMkN2UWxRZ2Z4Q2VSVUk3YjFJRGZVZEUzODd2RHMteHF3YTk0cmFvZFpxeDVkR1ZZNFpJdTFEMk9KMDFLbU5pNVlVREZFVW90cjJJcDZUeEVLeG0xN3RNdC1RYXU1UFJLQ3Bpc0JRMjFBdEl5YkdJbUhmcjZKT1Itbk1nSVZZOWxUMUxadHpNVUx5TlczNzJneTFBVFBr0gGbAkFVX3lxTE03SlJqdmY3dlgyVk9jSjlVdV9ka180NDNvYjRSb3I1OU1WSzFKdU5QVzJtYzlNMVJad3hHU1pIc0tVZlpzd0pEeG5jdjdMbE1ISFprUEJuV3ByVHlWMlZEOW1kTkR0YVZMaGZObTcwOVkyVzgtUkIyUnVNREFPRGRQWXFsY0YyQ3ZRbFFnZnhDZVJVSTdiMUlEZlVkRTM4N3ZEcy14cXdhOTRyYW9kWnF4NWRHVlk0Wkl1MUQyT0owMUttTmk1WVVERkVVb3RyMklwNlR4RUt4bTE3dE10LVFhdTVQUktDcGlzQlEyMUF0SXliR0ltSGZyNkpPUi1uTWdJVlk5bFQxTFp0ek1VTHlOVzM3Mmd5MUFUUGs?oc=5
+- Published: 2026-08-05T05:59:43+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxQTC0xX1dicnExWlZZZHBxXzhSdkNOc0syeTA0WkxLbzlqY016U25oU2g5YzRvSjE3LUpKM0JGOFNoWlVmajVQRUgtX2hXM1lMOXJTX1NZQndjS3E0cngyTzFnSzFDX3JZalNveTlVQklXeVk0Y01DYWZ0YS1wY2FvOUE1NTJwdkJvWkY4UHAzejNkZ3hFY0FITS03aHhVU3p0c0RoUUMwZnM3WGc2V0JxYmNzZ0dlQVlkdmY3MTlvZTRWWm5KLTB0QWdMd0tuZW1ua2gxazFBWkFiLVpCd2oySFNPbl8yY0tqX1MzYTdwaWtUc3BYT09WMUp2bzQweXVONHllT9IBhAJBVV95cUxQTC0xX1dicnExWlZZZHBxXzhSdkNOc0syeTA0WkxLbzlqY016U25oU2g5YzRvSjE3LUpKM0JGOFNoWlVmajVQRUgtX2hXM1lMOXJTX1NZQndjS3E0cngyTzFnSzFDX3JZalNveTlVQklXeVk0Y01DYWZ0YS1wY2FvOUE1NTJwdkJvWkY4UHAzejNkZ3hFY0FITS03aHhVU3p0c0RoUUMwZnM3WGc2V0JxYmNzZ0dlQVlkdmY3MTlvZTRWWm5KLTB0QWdMd0tuZW1ua2gxazFBWkFiLVpCd2oySFNPbl8yY0tqX1MzYTdwaWtUc3BYT09WMUp2bzQweXVONHllTw?oc=5
 
-DSP India T.I.G.E.R Fund leads infrastructure sectoral mutual funds in three-year CAGR returns; delivers... Moneycontrol.com
+UTI Short Duration Fund leads short-duration mutual funds in one-month returns; delivers 0.3% gain Moneycontrol.com
+
+### 75. Mutual Funds take wait-and-watch approach on closing auction amid thin liquidity - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-05T04:41:35+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQdTk2Z05mUDRNZURKQmJSMGd4ZWlycjl1c1pPNG1iRWRVSl94bHRJbXZNem5RUGdXMGRQMjRFVkVyN1VKZ3hiVHJJWHVuZm1oZ1JXZHV1MGRkTGxWMnhqdE5hNlU1eVJnVGUzTGMybDNPM0V3LXZxZENkYXJoZXlUX3NGOEVvdzRJWWFZYTdkaUdMeVhmMmZJVmRUNURPclBUNTl1Yk1hNzFDNXItTUhZTUh2aUtxVzB4LWtnakoxRUxhSjlKalRIMl94UXd1bnM1ZnpGcDE2WGk2SkZCUjA4LU4zVdIB4wFBVV95cUxQdTk2Z05mUDRNZURKQmJSMGd4ZWlycjl1c1pPNG1iRWRVSl94bHRJbXZNem5RUGdXMGRQMjRFVkVyN1VKZ3hiVHJJWHVuZm1oZ1JXZHV1MGRkTGxWMnhqdE5hNlU1eVJnVGUzTGMybDNPM0V3LXZxZENkYXJoZXlUX3NGOEVvdzRJWWFZYTdkaUdMeVhmMmZJVmRUNURPclBUNTl1Yk1hNzFDNXItTUhZTUh2aUtxVzB4LWtnakoxRUxhSjlKalRIMl94UXd1bnM1ZnpGcDE2WGk2SkZCUjA4LU4zVQ?oc=5
+
+Mutual Funds take wait-and-watch approach on closing auction amid thin liquidity Moneycontrol.com
+
+### 76. Best large cap mutual funds to invest in August 2026 - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-08-05T04:12:50+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOVlkxWXJWYnNKR21rYVFJY3FZNHdrYUg2N3VDYVp6ZGhBVDFid0U3a2xyT096RGxHR0pablFiOGlDMVJha1RoWjQxNW1lakNkOUpNZDJleUxpYUpFUV9CUXo1bzdNcUVkc0lPMWZMUGNYYjFpZ3hfN0NQZUlBdVZkSHBzUlhqME5icERsa3JoeVdkSUMtRng0OVBoQmlHZzltdlByRFA3b3FOMFZpUk5IOXBzTUVjTmlheUHSAb8BQVVfeXFMTTJ3S1dWZWpVVDdoc2JNN1FCMXFmUGh4cXYxN3Z1a3o4V3ExV1FubUp2dHE4Ry1uQUI0M1luSEpCQjNHdzZjUWNubngyTlpKNjZ3dk1QTUF3aHVyeG1OZWlQZnY1MTB6WDFvV0I3Y2xHYk1xU01vekV6eEhSWmt0aFdpUFI5VEVHdFRrUGxaZjltZ0gyVGRGQnA4V1c4dFhUZVFWT1E5TVdOYkFiVEJWUURUQ1F1Nk5ZdHh0dnZmVUk?oc=5
+
+Best large cap mutual funds to invest in August 2026 The Economic Times
+
+### 77. WhiteOak Study: SIP Timing Date Hardly Changes Returns - Whalesbook
+
+- Source: Whalesbook
+- Published: 2026-08-05T02:22:48+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNZzFteklIVmVEVzJjU01WQXdnRFNjQWZod3pZaThOX2pkSkZDMGNVX1c0NTByTEZaY0JOckgzRFUzUkU4bGdaRVc4bHdoMVJxd0d3YlNDWm85WjJ0bi04V0hyd3ZDbndKOWwxOFdOOWYzNlRsaGF1WlRFb2ViVXJsbnNwQ3JmbGpSMEtWVTRpWjF5MXpLa3AzMEJCM2JtSUFlZFprXzJpZGY4X2VhcS1zQ3NfMXdldnlicGx5MjJJWEVVS3N0LWxrVFp1TQ?oc=5
+
+WhiteOak Study: SIP Timing Date Hardly Changes Returns Whalesbook
+
+### 78. Rupee falls 3 paise to close at 95.40 against US dollar - The Shillong Times
+
+- Source: The Shillong Times
+- Published: 2026-08-05T01:23:56+00:00
+- Themes: market selling, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQd0lESUd6OUIzTUNscldYTklMRkx4ZnlzSkh4dGI0VWY5MlRpUnotaWN5VDR3aE43a0ZicV8yX0FxanRldUNxSzJ2ZWN2YmZDbmJLQnhkWkM3TWlvLWk0a1hnYjVCUUN0ZllVdjF3bXNfc2NNSV9rYXVOUVVLRmtWSFFNUjlPeFpyOWxHeVZqRTgwQXhEc3hQWjRrM3Y?oc=5
+
+Rupee falls 3 paise to close at 95.40 against US dollar The Shillong Times
+
+### 79. Best Mutual Funds: News, Performance Reports And Investing Ideas - Investor's Business Daily
+
+- Source: Investor's Business Daily
+- Published: 2026-08-04T16:14:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh3UmNfU0JQZ2thTDdMbjBhbzVBS01uWWo5aXYxYUE2eHZVVV9yT0hJT2Z6TXY3czdXX1R1QlFZd3h5S0tYTE5UVUVqSFU5cWFtZFJxY3VGa01HT3BUZ3FqS1NkeTFYNEZKdnZWX1BCYUhzRDkzWlg4ZVNjMzFYVmgzd1luU1ZOQnRkYlBJamRFWnYxU0hORjMxM09WUHVuczktZ3M1cHh1cGhuaEI2elBLTQ?oc=5
+
+Best Mutual Funds: News, Performance Reports And Investing Ideas Investor's Business Daily
+
+### 80. Sensex, Nifty End Lower as Investors Await RBI Rate Decision - INDIA New England News
+
+- Source: INDIA New England News
+- Published: 2026-08-04T15:36:59+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNWTFiRHpqNVNpSUstUVNzNHlabVhKbXBycGNNVE5Neng2bXdQSzU2M0NJb3dQbmR0MUNMOERqSm5DWVNCZ19EZFY0X2hFMmtFU1pYUTJwY2s0QWZKSVVPUWN5OTEtMkpPd3ZHelhjZjhWX1RBWC1DQi1nTVNJdDEwMjN3OTFoQTdNN2FmZmV2cDNGUQ?oc=5
+
+Sensex, Nifty End Lower as Investors Await RBI Rate Decision INDIA New England News
