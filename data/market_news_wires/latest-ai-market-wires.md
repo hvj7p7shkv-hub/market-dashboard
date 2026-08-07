@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-07 08:02
+Generated: 2026-08-07 08:20
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -46,15 +46,15 @@ Opening Bell: Nifty 50 Falls 47 Points, Sensex Drops 337 Points as Oil Prices Re
 
 Stocks Fall On Spiking Oil Prices, Tumbling AI Plays Sandisk, Western Digital; Nvidia Above Buy Trigger Investor's Business Daily
 
-### 5. SanDisk (SNDK) Stock Falls After Earnings: The AI Memory Selloff Deepens - Stocks Down Under
+### 5. SanDisk (SNDK) Stock Falls After Earnings: The AI Memory Selloff Deepens - stocksdownunder.com
 
-- Source: Stocks Down Under
+- Source: stocksdownunder.com
 - Published: 2026-08-06T18:32:04+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxPQzE5cnhZbXJOZnlFc25wZEZyZHRnVmdvR0xWb0xRSjZjYmVvR05BLXV5dy1wU0RDbEZTN1Nha2J4Y0ZqMVlmb2NTSGVLZExVN0twaUhZWnlhcmVoV3ZtT1BaNU40RHJoTXFlWEdIVDJ2TWd4b2pFRnU4aE9xQTNEbg?oc=5
 
-SanDisk (SNDK) Stock Falls After Earnings: The AI Memory Selloff Deepens Stocks Down Under
+SanDisk (SNDK) Stock Falls After Earnings: The AI Memory Selloff Deepens stocksdownunder.com
 
 ### 6. NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance - Stocktwits
 
@@ -86,7 +86,17 @@ GIFT Nifty falls 100 pts, signals muted start for Sensex, Nifty; rising oil pric
 
 KOSPI heads for 6% weekly slide as chip selloff deepens, AI trade loses steam Investing.com
 
-### 9. DII holdings in Nifty-500 hit record 21%; FII ownership falls to all-time low of 17%: Motilal Oswal - India's News.Net
+### 9. Gavin Baker Goes All-In on AI Infrastructure: July Selloff Completely Diverges from Fundamentals, NVIDIA Sits at Lowest Forward P/E in a Decade - odaily.news
+
+- Source: odaily.news
+- Published: 2026-08-06T19:37:37+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NaGN5VEZ2LURWbXhOUC1INHdMcnM5MTJOd0lVRlZzVmFRZDV5SWpZdHBHMkZWUnE5ZV9XcUJUSnNzaWFCdzNDd1FFOS1NNTR2?oc=5
+
+Gavin Baker Goes All-In on AI Infrastructure: July Selloff Completely Diverges from Fundamentals, NVIDIA Sits at Lowest Forward P/E in a Decade odaily.news
+
+### 10. DII holdings in Nifty-500 hit record 21%; FII ownership falls to all-time low of 17%: Motilal Oswal - India's News.Net
 
 - Source: India's News.Net
 - Published: 2026-08-06T15:59:00+00:00
@@ -96,7 +106,7 @@ KOSPI heads for 6% weekly slide as chip selloff deepens, AI trade loses steam In
 
 DII holdings in Nifty-500 hit record 21%; FII ownership falls to all-time low of 17%: Motilal Oswal India's News.Net
 
-### 10. SK Hynix drops 10.4% as Korea absorbs AMD and Alphabet selloff - MLQ.ai
+### 11. SK Hynix drops 10.4% as Korea absorbs AMD and Alphabet selloff - MLQ.ai
 
 - Source: MLQ.ai
 - Published: 2026-08-06T14:47:11+00:00
@@ -106,7 +116,7 @@ DII holdings in Nifty-500 hit record 21%; FII ownership falls to all-time low of
 
 SK Hynix drops 10.4% as Korea absorbs AMD and Alphabet selloff MLQ.ai
 
-### 11. Software Stocks Fall As Datadog, HubSpot Earnings Raise Questions Over AI Pricing - Investor's Business Daily
+### 12. Software Stocks Fall As Datadog, HubSpot Earnings Raise Questions Over AI Pricing - Investor's Business Daily
 
 - Source: Investor's Business Daily
 - Published: 2026-08-06T14:20:00+00:00
@@ -116,7 +126,7 @@ SK Hynix drops 10.4% as Korea absorbs AMD and Alphabet selloff MLQ.ai
 
 Software Stocks Fall As Datadog, HubSpot Earnings Raise Questions Over AI Pricing Investor's Business Daily
 
-### 12. INTC Stock Slides As Chip Selloff And Tariff Risks Rattle Traders - timothysykes.com
+### 13. INTC Stock Slides As Chip Selloff And Tariff Risks Rattle Traders - timothysykes.com
 
 - Source: timothysykes.com
 - Published: 2026-08-06T13:19:00+00:00
@@ -126,17 +136,27 @@ Software Stocks Fall As Datadog, HubSpot Earnings Raise Questions Over AI Pricin
 
 INTC Stock Slides As Chip Selloff And Tariff Risks Rattle Traders timothysykes.com
 
-### 13. SpaceX Earnings Surprise, Nvidia Partnership, AMD Selloff, and Cloudflare’s Stablecoin Wallet Signal a Shifting Tech Landscape - tekedia.com
+### 14. Nvidia’s Huang calls chip sell-off a buying opportunity By Investing.com - Investing.com UK
 
-- Source: tekedia.com
+- Source: Investing.com UK
+- Published: 2026-08-06T12:19:41+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNbWV2YUF5bHpDTmlxYlpkUElWZENneGtQc3g2OC0tX0xFUGZsc3RfQXU5aEp3NUJ3Q0dIQXZmbk1qZ215UG9TLVE3MnFwV0JoUUk5eWNwRjV3QVd3Vnk5THhpWnA5RWF6YmpmTW53dHN5WDR3SHV3YXM5VEduY2tweXhRa0pzNkZrM1N1cmJuRjQ3cU1YenZNTE9ma3VTNzZIcTRBNXlpX3NmZGM5ZWc?oc=5
+
+Nvidia’s Huang calls chip sell-off a buying opportunity By Investing.com Investing.com UK
+
+### 15. SpaceX Earnings Surprise, Nvidia Partnership, AMD Selloff, and Cloudflare’s Stablecoin Wallet Signal a Shifting Tech Landscape - Tekedia
+
+- Source: Tekedia
 - Published: 2026-08-06T11:20:59+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPcmVhemxKdS0wUUNGQTRfU04xZHZVN3lyY3FjNlFNWEtjei1LdmRscGdoNV9RT2h0ckFUYlA3ZkljN05Yc3VLMkx2NUwxSDlBS1hiOWhRYUtZUHdWZ2dJM2JTVi0zdlkxZ05nd0l0M3pzeFNWZlR3NXg5cG1tSDhTNlFQZ1lFUFF6MlFKeHRuUjdpNE5udHgxRFpsWVZiLTViV0IwQy1oQ2tKN2tscV8zWkxVbGdTUXctU3NmZlFfeF9qM3NhWWJ4N1o5eHBERV9TMTFJSWoxdlhsRFdOenZyWA?oc=5
 
-SpaceX Earnings Surprise, Nvidia Partnership, AMD Selloff, and Cloudflare’s Stablecoin Wallet Signal a Shifting Tech Landscape tekedia.com
+SpaceX Earnings Surprise, Nvidia Partnership, AMD Selloff, and Cloudflare’s Stablecoin Wallet Signal a Shifting Tech Landscape Tekedia
 
-### 14. Nikkei 225: Tech Sell-Off Drags Benchmark Lower as Chip Stocks Plunge and AI Optimism Fades - BBN Times
+### 16. Nikkei 225: Tech Sell-Off Drags Benchmark Lower as Chip Stocks Plunge and AI Optimism Fades - BBN Times
 
 - Source: BBN Times
 - Published: 2026-08-06T11:07:55+00:00
@@ -146,7 +166,7 @@ SpaceX Earnings Surprise, Nvidia Partnership, AMD Selloff, and Cloudflare’s St
 
 Nikkei 225: Tech Sell-Off Drags Benchmark Lower as Chip Stocks Plunge and AI Optimism Fades BBN Times
 
-### 15. AI Infrastructure Stocks Trading at Rich Multiples After the Semiconductor Selloff - simplywall.st
+### 17. AI Infrastructure Stocks Trading at Rich Multiples After the Semiconductor Selloff - simplywall.st
 
 - Source: simplywall.st
 - Published: 2026-08-06T11:04:37+00:00
@@ -156,17 +176,7 @@ Nikkei 225: Tech Sell-Off Drags Benchmark Lower as Chip Stocks Plunge and AI Opt
 
 AI Infrastructure Stocks Trading at Rich Multiples After the Semiconductor Selloff simplywall.st
 
-### 16. Nvidia’s Huang calls chip sell-off a buying opportunity - Investing.com
-
-- Source: Investing.com
-- Published: 2026-08-06T10:58:51+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPVGc3eExaam9UT0MxbWtBdlRTR0NXeGxMQTZyU2pVME1fOTd6U2tqeFFDbHg1RW1md0ZJQXFYbWd1UlI4WnBOZ1J2aXJKU1hUYzJJMU5aNzBmVmJ3dFdxbkUxUmFEZllMVkNQcFl3VzllenVfSXFjeTNXNjZJN1BIbVpxNEtpVmpRcnNvWUJuZWpjN19WTF9fWlNqeVRBYlJhTTRhODVKeVhhMDVrNUMw?oc=5
-
-Nvidia’s Huang calls chip sell-off a buying opportunity Investing.com
-
-### 17. AI momentum stocks retreat as earnings season sparks technology selloff - Yahoo Finance
+### 18. AI momentum stocks retreat as earnings season sparks technology selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-08-06T10:39:38+00:00
@@ -176,7 +186,7 @@ Nvidia’s Huang calls chip sell-off a buying opportunity Investing.com
 
 AI momentum stocks retreat as earnings season sparks technology selloff Yahoo Finance
 
-### 18. Nasdaq 100: SpaceX Lockup Tests AI Trade After Asia Tech Selloff - FXEmpire
+### 19. Nasdaq 100: SpaceX Lockup Tests AI Trade After Asia Tech Selloff - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-08-06T09:30:00+00:00
@@ -186,37 +196,17 @@ AI momentum stocks retreat as earnings season sparks technology selloff Yahoo Fi
 
 Nasdaq 100: SpaceX Lockup Tests AI Trade After Asia Tech Selloff FXEmpire
 
-### 19. Japanese Stocks Fall as Investors Turn Cautious on AI Spending; Oil Steady on US-Iran Deal Hopes - Moomoo
+### 20. SENSEX falls over 400 pts, NIFTY below 24,590 in noon deals; Britannia, Siemens Energy, LIC among buzzing stocks - upstox.com
 
-- Source: Moomoo
-- Published: 2026-08-06T08:35:36+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOcjlMTVBuY1Rfcm43R1BBR1gzcVJQT3Bid0U3cGp4cXFEWDBxSGpwazVhSjJYQ2NadWRYeGpwc1ZHRFgxM0FKX05OcEpQMlRybmpyMTlpNW9UOEVzaGo1WFFreExMUmJ3NUlFQW9PZDU3aTBaOXVPbGlKd0ZxWnZfcWNRT3A2WEFZR1B0am8zLUFxWFJES3lLX3hDdVhHbEo1OExnVGw0WQ?oc=5
-
-Japanese Stocks Fall as Investors Turn Cautious on AI Spending; Oil Steady on US-Iran Deal Hopes Moomoo
-
-### 20. Japanese Stocks Fall as Investors Turn Cautious on AI Spending; Oil Steady on US-Iran Deal Hopes - marketscreener.com
-
-- Source: marketscreener.com
-- Published: 2026-08-06T08:07:22+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxNdGM1TjJINS1TR25PYnpZWlhFN1JNTXp5dHRtWHlaN3FDQzBmeFNwV29Vc0lUQnJrNVZkRmlzOXdvYjZ3clJxQVhpcTlvZW9sdzVFdHNNWEItN1ktR3dqMUJnTFBrNlVwNWdVU25hSUE5eVBhTUJzZlFEWU1tQjdhZWxqbEtvSWFQRklnNWUwSUprZzRPODJHTGdoNm5IS3pnc0NmY1ExT1lKSnA1N3BMVDlTaXg3eTh1ekoxZEVqYkNUWUNCVjJUVTFvZjNYSU5NbXBNRWlmSFhucTFueFFIOFhR?oc=5
-
-Japanese Stocks Fall as Investors Turn Cautious on AI Spending; Oil Steady on US-Iran Deal Hopes marketscreener.com
-
-### 21. SENSEX falls over 400 pts, NIFTY below 24,590 in noon deals; Britannia, Siemens Energy, LIC among buzzing stocks - Upstox
-
-- Source: Upstox
+- Source: upstox.com
 - Published: 2026-08-07T07:37:23+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOVENzZGcwUHJUYjhaaEFKSzVZQWR2XzN1c1JBSWx4Rk1Lc0hVRGxGc2daamtpdWhYREMtcENNMkJEdnlBQ2JjekQ1UjY2RThnSDRLMXdfN3F4YXY0dnZBUmZVTXU2eVJBbVh4dE9DbUJYNC14N08tZV9WSDFQb3cyNVJyOXlyS3A3cEFmbWFSWjNTVVlZZ1NmSXFiQl9qeUYyTlowUEJ4QkEyU1V6eTRZai1pMUZGUmtJTTdXXzFjS1FNNU11TkZTcVZzLVZIa2pVaTIyV2J6SF9seGdwaUk1SzNVRi1ueURXV1M0NHBIUG81d1FWekE?oc=5
 
-SENSEX falls over 400 pts, NIFTY below 24,590 in noon deals; Britannia, Siemens Energy, LIC among buzzing stocks Upstox
+SENSEX falls over 400 pts, NIFTY below 24,590 in noon deals; Britannia, Siemens Energy, LIC among buzzing stocks upstox.com
 
-### 22. Stock Market Today: Sensex Falls Over 200 Points; Nifty Opens Lower in Volatile Trade on Middle East Concerns; What Investors Should Know - The Sunday Guardian
+### 21. Stock Market Today: Sensex Falls Over 200 Points; Nifty Opens Lower in Volatile Trade on Middle East Concerns; What Investors Should Know - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-08-07T05:42:21+00:00
@@ -226,7 +216,7 @@ SENSEX falls over 400 pts, NIFTY below 24,590 in noon deals; Britannia, Siemens 
 
 Stock Market Today: Sensex Falls Over 200 Points; Nifty Opens Lower in Volatile Trade on Middle East Concerns; What Investors Should Know The Sunday Guardian
 
-### 23. AI Scaling and Agricultural Strength Meet an E-Commerce Correction: Bayer, Miivo, and Zalando - Stockhouse
+### 22. AI Scaling and Agricultural Strength Meet an E-Commerce Correction: Bayer, Miivo, and Zalando - Stockhouse
 
 - Source: Stockhouse
 - Published: 2026-08-07T05:05:55+00:00
@@ -236,7 +226,7 @@ Stock Market Today: Sensex Falls Over 200 Points; Nifty Opens Lower in Volatile 
 
 AI Scaling and Agricultural Strength Meet an E-Commerce Correction: Bayer, Miivo, and Zalando Stockhouse
 
-### 24. Sensex Falls Over 500 Points, Nifty Slips 0.4% As NBFC Stocks Decline On RBIs Draft Lending Norms - Free Press Journal
+### 23. Sensex Falls Over 500 Points, Nifty Slips 0.4% As NBFC Stocks Decline On RBIs Draft Lending Norms - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-08-07T04:55:50+00:00
@@ -246,7 +236,7 @@ AI Scaling and Agricultural Strength Meet an E-Commerce Correction: Bayer, Miivo
 
 Sensex Falls Over 500 Points, Nifty Slips 0.4% As NBFC Stocks Decline On RBIs Draft Lending Norms Free Press Journal
 
-### 25. Markets Today: Sensex Falls 283 Points, Nifty Opens Below 24,600 As Financial Stocks Drag - News18
+### 24. Markets Today: Sensex Falls 283 Points, Nifty Opens Below 24,600 As Financial Stocks Drag - News18
 
 - Source: News18
 - Published: 2026-08-07T04:04:20+00:00
@@ -256,7 +246,7 @@ Sensex Falls Over 500 Points, Nifty Slips 0.4% As NBFC Stocks Decline On RBIs Dr
 
 Markets Today: Sensex Falls 283 Points, Nifty Opens Below 24,600 As Financial Stocks Drag News18
 
-### 26. BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis - Stocktwits
+### 25. BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-08-07T03:32:56+00:00
@@ -265,6 +255,16 @@ Markets Today: Sensex Falls 283 Points, Nifty Opens Below 24,600 As Financial St
 - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNjlDbi1IQTBRdFN2cjFXR0FUTzRHZnIwUlVfMFZYdzFOelF4dDRSZ3A2dTVnczZ5bG83X3hURURjMUJkdVZlckRublhWNHVFb0wwZ0JwQVdzTTMyVFhLZXNySnd3VV9TSHFSTlVFd1M4UnpIUVQxQ29uSHlPSjc1MjVrNy16dDJVVG5LQm5qT1NvMmlEYjZicHFrZ2ltYVd0WGFCYlRQLWt5a0xaNGF6c283THpXLTItZDU5b0lqTVBEa0U?oc=5
 
 BE Stock Recovers After 10% Selloff: Morgan Stanley Says Crusoe Project Pause Does Not Break AI Power Thesis Stocktwits
+
+### 26. Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks - Stocktwits
+
+- Source: Stocktwits
+- Published: 2026-08-07T03:03:25+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxONDFRMFRCdFhYS1F1ekdTNjZ0Z1ZTeEdoc3paVG9FaEZoakRoNWF4VzFTYklLNnFtSWpJRjE1OW10eFh1SUxDUDZ6VlB4UXBOSi1RMkNBazhIbkN5T2xlYWtBSkQ1emsxQXYxQWNOMS15MDBOWGE3aUk1WjAzQlNXbHItNzF3cl9iaWVSd0FQbXFqVHBUNDcwTEdUMnVhWGpPZmVKdWZqY2dQcS1tYkJhdkN4T0RHanBYRkNLMzZsUl9pUVVWN3JNemh0S2hYNzdWTmpZRmxOd2lueWMxdU5hZmJhdk1Sc3N4XzUwTDhaSDFBdjdvOTlzSDZUR0dwNXY1eVhN?oc=5
+
+Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks Stocktwits
 
 ### 27. Asia tech sell-off has not derailed AI investment cycle, J.P. Morgan says - CNBC TV18
 
@@ -316,15 +316,15 @@ Stock Market LIVE: RIL, BEL shares drive Sensex 200 points higher; Nifty Auto & 
 
 CEO of Nvidia sees tech stock correction as an excellent buying opportunity marketscreener.com
 
-### 32. AMD's Selloff Is Not Shaking Wall Street's AI Conviction - Yahoo Finance
+### 32. AMD's Selloff Is Not Shaking Wall Street's AI Conviction - TradingView
 
-- Source: Yahoo Finance
+- Source: TradingView
 - Published: 2026-08-06T17:05:18+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNVGdlUHZNQVlteTM1aW1DY09WVTJSR0RZd1Jrdk5vZHk0cm9jMm5CWnE3ZWNQS2k4NnBVOThRYTRnUk1nLUU3TThtYkdsMllZQ1U2NnhxaGRzS01vOFFfSzJsdGdyRXRhU1kwWUpzLVAwWWU0YnI1Mk85cjFhX0NZbWtTRVBDUFo1cWc2TTdZZV82ai14Y2FVaw?oc=5
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNVG55NGlIbWdfR1RUUlVwU1gzOUdTZ015eVZCa0Y1dWc4UTZuM2ZrYURkRWxWZzZKbHllZ3Iycks4aXZndFR5T21LVG9DSm16OEllbnUyVENmVkxWQ0VqNHFBWGljUGo4dVVKRUppcm1KTFR6X2JWVWZxbmhBcUg2b0dMNFVLZ3liSURvemRrWlNXYmNlTzhDVXpyQjIwTFkzSEdqTDdvSDVxY3psc3B5Zmd4ZjFLMGs?oc=5
 
-AMD's Selloff Is Not Shaking Wall Street's AI Conviction Yahoo Finance
+AMD's Selloff Is Not Shaking Wall Street's AI Conviction TradingView
 
 ### 33. Citi Analysts See Golden Opportunity in Semiconductor Selloff - Blockonomi
 
@@ -406,17 +406,7 @@ Citadel funds gain in July as many hedge funds nurse AI selloff related losses E
 
 European chip stocks extend Broadcom-driven selloff Investing.com
 
-### 41. Thailand's SET Index Ekes Out 2% Gain in July Despite Mideast Conflict and Global Tech Selloff - kaohoon international
-
-- Source: kaohoon international
-- Published: 2026-08-06T10:26:11+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1MWkyNkplZi1HM0c5dW9DdEhOQjlJMlpWV2NWUlRRNmFKWTE4NEhqM0o1ZXJyblFEQ1MtMFEyMEE2eVF4amNzbUdTZ1hRazE1VklRN3JWRE1sZUxoVmpGdQ?oc=5
-
-Thailand's SET Index Ekes Out 2% Gain in July Despite Mideast Conflict and Global Tech Selloff kaohoon international
-
-### 42. AI Selloff: Are China’s Breakthroughs Changing the Trade? - Moomoo
+### 41. AI Selloff: Are China’s Breakthroughs Changing the Trade? - Moomoo
 
 - Source: Moomoo
 - Published: 2026-08-06T10:18:06+00:00
@@ -426,7 +416,7 @@ Thailand's SET Index Ekes Out 2% Gain in July Despite Mideast Conflict and Globa
 
 AI Selloff: Are China’s Breakthroughs Changing the Trade? Moomoo
 
-### 43. Sensex jumps 374 points, Nifty ends flat; Reliance, SBI shine, Power Grid drops 4% - financialexpress.com
+### 42. Sensex jumps 374 points, Nifty ends flat; Reliance, SBI shine, Power Grid drops 4% - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-08-06T10:08:41+00:00
@@ -436,7 +426,7 @@ AI Selloff: Are China’s Breakthroughs Changing the Trade? Moomoo
 
 Sensex jumps 374 points, Nifty ends flat; Reliance, SBI shine, Power Grid drops 4% financialexpress.com
 
-### 44. Sensex Today | Stock Market LIVE Updates: Swiggy falls over 6% off highs; Nifty below 24,650 - CNBC TV18
+### 43. Sensex Today | Stock Market LIVE Updates: Swiggy falls over 6% off highs; Nifty below 24,650 - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-08-06T09:38:01+00:00
@@ -446,7 +436,7 @@ Sensex jumps 374 points, Nifty ends flat; Reliance, SBI shine, Power Grid drops 
 
 Sensex Today | Stock Market LIVE Updates: Swiggy falls over 6% off highs; Nifty below 24,650 CNBC TV18
 
-### 45. MphasiS shares fall 2.02% among top losers on Nifty Midcap 150 - Moneycontrol.com
+### 44. MphasiS shares fall 2.02% among top losers on Nifty Midcap 150 - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-06T09:18:06+00:00
@@ -456,17 +446,17 @@ Sensex Today | Stock Market LIVE Updates: Swiggy falls over 6% off highs; Nifty 
 
 MphasiS shares fall 2.02% among top losers on Nifty Midcap 150 Moneycontrol.com
 
-### 46. AI boom reshapes emerging markets, but surging volatility tests investor nerves - inkl
+### 45. AI boom reshapes emerging markets, but surging volatility tests investor nerves - inkl.com
 
-- Source: inkl
+- Source: inkl.com
 - Published: 2026-08-06T08:23:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPalVnUzdXSjZNWVQ4QjdsZGd4T3B3VHRBVXgzMzhDallwV2U0RHdSYXl0Uk1Ddi1CNVlUc2tra0pYbjB4Y3VzT2xUS2pXeVQ1b3cyZW5wRnZhTzA1aEp0VDZlNlJqdFF0Qk5sWGpJVmY5MGRUamFMazNCcEM2Xzl1M0xSQlVkYVNBUHlRd1R5MmVvYlN4d0Vzbi1ZVG5tRm0tWm55X2wwSQ?oc=5
 
-AI boom reshapes emerging markets, but surging volatility tests investor nerves inkl
+AI boom reshapes emerging markets, but surging volatility tests investor nerves inkl.com
 
-### 47. Sensex slumps 363 pts; consumer durables shares tumble - Business Standard
+### 46. Sensex slumps 363 pts; consumer durables shares tumble - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-07T06:22:59+00:00
@@ -476,7 +466,7 @@ AI boom reshapes emerging markets, but surging volatility tests investor nerves 
 
 Sensex slumps 363 pts; consumer durables shares tumble Business Standard
 
-### 48. Sensex Today: Why Is Sensex Down Today? BSE Benchmark Falls Around 300 Points on Strong Buying in Heavyweight Stocks; Top Gainers, Losers and Investor Outlook - The Sunday Guardian
+### 47. Sensex Today: Why Is Sensex Down Today? BSE Benchmark Falls Around 300 Points on Strong Buying in Heavyweight Stocks; Top Gainers, Losers and Investor Outlook - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-08-07T06:15:14+00:00
@@ -486,17 +476,17 @@ Sensex slumps 363 pts; consumer durables shares tumble Business Standard
 
 Sensex Today: Why Is Sensex Down Today? BSE Benchmark Falls Around 300 Points on Strong Buying in Heavyweight Stocks; Top Gainers, Losers and Investor Outlook The Sunday Guardian
 
-### 49. SENSEX falls over 200 points, NIFTY50 hovers around 24,600; banking, financial services shares top drags - Upstox
+### 48. SENSEX falls over 200 points, NIFTY50 hovers around 24,600; banking, financial services shares top drags - upstox.com
 
-- Source: Upstox
+- Source: upstox.com
 - Published: 2026-08-07T03:59:26+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZFpJXzZZZHU0MXJSTU9YTmdpLW9qOHMzZGpFTzYyaEVXMlRLSWRBUXJwN0N6emJlLVZwSmxCaFNkQlQ1bG9BQ0h3VzNIY2Yzb014Ni1xN3AxNWlnVlZvSm1jelhycWRLbllZVFFvRjJaVVE5Ym9zR2twWDNpbjNfa1ZrMVJTMHB5eDFhZndkU3N0dUs3SW9aWUs3VHNmX0dycGRmRXpEaXNOUWhRN0hWSTI1N0lQdGFtMDgyV1J5a055b1VfaXZ5YUpINTIwNktGQVBPTmQwZGdETWpLZUJraDFSeUhBalp4RTg3YzhsNEhwc3c?oc=5
 
-SENSEX falls over 200 points, NIFTY50 hovers around 24,600; banking, financial services shares top drags Upstox
+SENSEX falls over 200 points, NIFTY50 hovers around 24,600; banking, financial services shares top drags upstox.com
 
-### 50. Ipca Laboratories Shares Fall 2% As Midcap Index Dips - Whalesbook
+### 49. Ipca Laboratories Shares Fall 2% As Midcap Index Dips - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-06T10:07:07+00:00
@@ -506,7 +496,7 @@ SENSEX falls over 200 points, NIFTY50 hovers around 24,600; banking, financial s
 
 Ipca Laboratories Shares Fall 2% As Midcap Index Dips Whalesbook
 
-### 51. Nippon Life India Asset Management shares fall 2.01% on Thursday - Moneycontrol.com
+### 50. Nippon Life India Asset Management shares fall 2.01% on Thursday - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-06T09:15:18+00:00
@@ -516,7 +506,7 @@ Ipca Laboratories Shares Fall 2% As Midcap Index Dips Whalesbook
 
 Nippon Life India Asset Management shares fall 2.01% on Thursday Moneycontrol.com
 
-### 52. Sensex down nearly 8% in 2026. Best time to top up your mutual fund SIPs? - The Economic Times
+### 51. Sensex down nearly 8% in 2026. Best time to top up your mutual fund SIPs? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-07T04:37:01+00:00
@@ -526,7 +516,7 @@ Nippon Life India Asset Management shares fall 2.01% on Thursday Moneycontrol.co
 
 Sensex down nearly 8% in 2026. Best time to top up your mutual fund SIPs? The Economic Times
 
-### 53. India's mutual fund assets hit record ₹73.7 lakh crore in FY26 as SIP participation strengthens - CNBC TV18
+### 52. India's mutual fund assets hit record ₹73.7 lakh crore in FY26 as SIP participation strengthens - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-08-06T15:50:11+00:00
@@ -536,7 +526,7 @@ Sensex down nearly 8% in 2026. Best time to top up your mutual fund SIPs? The Ec
 
 India's mutual fund assets hit record ₹73.7 lakh crore in FY26 as SIP participation strengthens CNBC TV18
 
-### 54. Stock Markets Today: Sensex, Nifty Decline Amidst Surging Crude Oil Prices - Rediff
+### 53. Stock Markets Today: Sensex, Nifty Decline Amidst Surging Crude Oil Prices - Rediff
 
 - Source: Rediff
 - Published: 2026-08-07T05:05:18+00:00
@@ -546,7 +536,7 @@ India's mutual fund assets hit record ₹73.7 lakh crore in FY26 as SIP particip
 
 Stock Markets Today: Sensex, Nifty Decline Amidst Surging Crude Oil Prices Rediff
 
-### 55. PGIM India MF temporarily suspends SIPs in select overseas mutual funds - CNBC TV18
+### 54. PGIM India MF temporarily suspends SIPs in select overseas mutual funds - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-08-07T02:47:58+00:00
@@ -556,7 +546,7 @@ Stock Markets Today: Sensex, Nifty Decline Amidst Surging Crude Oil Prices Redif
 
 PGIM India MF temporarily suspends SIPs in select overseas mutual funds CNBC TV18
 
-### 56. BSEC reforms spark mutual fund rally - daily-sun.com
+### 55. BSEC reforms spark mutual fund rally - daily-sun.com
 
 - Source: daily-sun.com
 - Published: 2026-08-07T01:07:25+00:00
@@ -566,7 +556,7 @@ PGIM India MF temporarily suspends SIPs in select overseas mutual funds CNBC TV1
 
 BSEC reforms spark mutual fund rally daily-sun.com
 
-### 57. Who earns the most from your mutual fund? Banks beat fintechs, independent advisors trail - Business Today
+### 56. Who earns the most from your mutual fund? Banks beat fintechs, independent advisors trail - Business Today
 
 - Source: Business Today
 - Published: 2026-08-07T01:05:02+00:00
@@ -576,17 +566,7 @@ BSEC reforms spark mutual fund rally daily-sun.com
 
 Who earns the most from your mutual fund? Banks beat fintechs, independent advisors trail Business Today
 
-### 58. Buy 3 Healthcare Mutual Funds to Consider Amid Market Volatility - sharewise.com
-
-- Source: sharewise.com
-- Published: 2026-08-06T23:14:40+00:00
-- Themes: market selling
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxNdDZjbTdHZzNBUm9TM1pZRlIwNkV6OVlsQU5zSkpxRUxXbXlqYkxzZE8xUlZxT0Q5MHNqWFdSb0ZhZVJZeWc0NHZjVk9TdGxkSFNsSWMzaTBGZFdYaHN3UUxydm5jSE1WSE9OWUJiQ3BqbVgzeW12YXFYbWZtMlloNWQwMk1LUGdGV29KaTU1MUFPX3c2QWVaX0FUcXBqYUFqWlh2c2pUOE0xVE1Qb2xWWVRNMFE1SkZmUmtJTkhsRVROaVFLN3c?oc=5
-
-Buy 3 Healthcare Mutual Funds to Consider Amid Market Volatility sharewise.com
-
-### 59. Mutual Fund AUM hits ₹73.7 Lakh Crore as SIP Accounts Reach Record 10.45 Crore: SEBI report - Business Today
+### 57. Mutual Fund AUM hits ₹73.7 Lakh Crore as SIP Accounts Reach Record 10.45 Crore: SEBI report - Business Today
 
 - Source: Business Today
 - Published: 2026-08-06T14:40:58+00:00
@@ -596,7 +576,7 @@ Buy 3 Healthcare Mutual Funds to Consider Amid Market Volatility sharewise.com
 
 Mutual Fund AUM hits ₹73.7 Lakh Crore as SIP Accounts Reach Record 10.45 Crore: SEBI report Business Today
 
-### 60. Buy 3 Healthcare Mutual Funds to Consider Amid Market Volatility - Yahoo Finance
+### 58. Buy 3 Healthcare Mutual Funds to Consider Amid Market Volatility - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-08-06T11:45:00+00:00
@@ -606,7 +586,7 @@ Mutual Fund AUM hits ₹73.7 Lakh Crore as SIP Accounts Reach Record 10.45 Crore
 
 Buy 3 Healthcare Mutual Funds to Consider Amid Market Volatility Yahoo Finance
 
-### 61. Dalal Street Outlook: Why Falling Oil Prices, FII Flows & Strong Earnings Support Markets - Business Today
+### 59. Dalal Street Outlook: Why Falling Oil Prices, FII Flows & Strong Earnings Support Markets - Business Today
 
 - Source: Business Today
 - Published: 2026-08-06T11:06:16+00:00
@@ -616,17 +596,17 @@ Buy 3 Healthcare Mutual Funds to Consider Amid Market Volatility Yahoo Finance
 
 Dalal Street Outlook: Why Falling Oil Prices, FII Flows & Strong Earnings Support Markets Business Today
 
-### 62. Stock Market Update: Sensex, Nifty Close In Green; RBI Decision, Falling Crude Oil Prices Lift Dalal Street - Dynamite News
+### 60. Stock Market Update: Sensex, Nifty Close In Green; RBI Decision, Falling Crude Oil Prices Lift Dalal Street - dynamitenews.com
 
-- Source: Dynamite News
+- Source: dynamitenews.com
 - Published: 2026-08-06T10:26:54+00:00
 - Themes: India market, macro / flows
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOb0lWR1pDNERLQXB1R2tETDAyV2wwVHZKcUVQZ3FVeU4tMUtJNEY1dTc0alllOFkzMkNxZURteTFrVXliaVRBYVFZUHlNNjR5MTE4LUJ3NU9VcXZHQVV1amZxaHQ4Mlk2eUJFWTFKUnBtenRnbjN2QnVKNGo2YVk4bi1CSW8teGxLbWoya3FkR2hvbzZ5RkVsV2stbVdTY0xzb2ItNUswdkJ2MUhVa2lTRDln0gG3AUFVX3lxTE90TEJHcXZ1WlgyckJTem0yUnBYX2tfRXowbEl4OTdCNVl1NERrRmRod0hLXzd6eGQ4QlFnaktMSTdfaXN1bE12Y1JfNmFVZmtBOVd3X3Ezd2c0UmZ6aE1UUmFGdEhLZmVHcHpfN0FpbDNMY0VxUno4Ync3Yjlza051ZW9XMjJBZXJ1ZWtaQ2ZUc1Y5WVd6R0F3bVN3MG95YTlTeERpWTBudDk1STI2OWJfYU1makpzWQ?oc=5
 
-Stock Market Update: Sensex, Nifty Close In Green; RBI Decision, Falling Crude Oil Prices Lift Dalal Street Dynamite News
+Stock Market Update: Sensex, Nifty Close In Green; RBI Decision, Falling Crude Oil Prices Lift Dalal Street dynamitenews.com
 
-### 63. NFO Alert: SBI Mutual Fund launches Magnum Equity Ex-Top 100 Long Short Fund - The Economic Times
+### 61. NFO Alert: SBI Mutual Fund launches Magnum Equity Ex-Top 100 Long Short Fund - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-06T10:19:01+00:00
@@ -636,7 +616,7 @@ Stock Market Update: Sensex, Nifty Close In Green; RBI Decision, Falling Crude O
 
 NFO Alert: SBI Mutual Fund launches Magnum Equity Ex-Top 100 Long Short Fund The Economic Times
 
-### 64. SBI Mutual Fund Opens NFO For Magnum Equity Ex-Top 100 Long Short Fund - Whalesbook
+### 62. SBI Mutual Fund Opens NFO For Magnum Equity Ex-Top 100 Long Short Fund - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-06T09:29:19+00:00
@@ -646,27 +626,27 @@ NFO Alert: SBI Mutual Fund launches Magnum Equity Ex-Top 100 Long Short Fund The
 
 SBI Mutual Fund Opens NFO For Magnum Equity Ex-Top 100 Long Short Fund Whalesbook
 
-### 65. ai market data nifty bank nifty fii dii crude gold update - zeebiz.com
+### 63. ai market data nifty bank nifty fii dii crude gold update - Zee Business
 
-- Source: zeebiz.com
+- Source: Zee Business
 - Published: 2026-08-06T08:21:01+00:00
 - Themes: AI / tech risk, India market, macro / flows
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOOERpMkJwZ2xsZ19fSkM3YjJDQ2lxemlISzc4SzNoMTU2X0xvall2WnFWNkx0dmxzTzE5M3BWb3pTVmdwUFRwLWNLdVBBeFpLWHNIdFFXazQ2VkRzc1p6N1Y2REdpbHEwRjUycVhKV3U5NWdwWWg5eWc3eWliLUNsNVNPOTdjTk5lbjVmbzlIVGxOWk56cHpod1ltYkFlUTlyaFk5NHZMUGt6ZF95aThiWUo1QQ?oc=5
 
-ai market data nifty bank nifty fii dii crude gold update zeebiz.com
+ai market data nifty bank nifty fii dii crude gold update Zee Business
 
-### 66. 7 Stocks in Which Promoters and Mutual Funds Bought Stakes Worth ₹2,450 Cr via Bulk Deals - tradebrains.in
+### 64. 7 Stocks in Which Promoters and Mutual Funds Bought Stakes Worth ₹2,450 Cr via Bulk Deals - Trade Brains
 
-- Source: tradebrains.in
+- Source: Trade Brains
 - Published: 2026-08-07T07:39:00+00:00
 - Themes: 
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOWUJZY1UwR1RCZ0NhOUMzcEp0dlZITS1NVWZiZ1Vqd1NPdUo0Q0R2SXNWakgxZzV1YzlTemxuYml4SDljWGp3MGJxbkkxOVc1Zk9pN0hXUWV4MjVXY0paa0RMNHBYYlltTnJ5T05aZElsZlNKMU14Z0ZzWUc3WnFFa0xfNzJ1UGFZMXRBSm9WTGkyaWFZTUttanUxZUtzUXoycTdKSmlFVGVjdDRSU3FBbg?oc=5
 
-7 Stocks in Which Promoters and Mutual Funds Bought Stakes Worth ₹2,450 Cr via Bulk Deals tradebrains.in
+7 Stocks in Which Promoters and Mutual Funds Bought Stakes Worth ₹2,450 Cr via Bulk Deals Trade Brains
 
-### 67. A decade of zero FII flows—and India’s market has finally moved on - Moneycontrol.com
+### 65. A decade of zero FII flows—and India’s market has finally moved on - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-07T07:12:10+00:00
@@ -676,7 +656,7 @@ ai market data nifty bank nifty fii dii crude gold update zeebiz.com
 
 A decade of zero FII flows—and India’s market has finally moved on Moneycontrol.com
 
-### 68. How much should you allocate to Asia-focused mutual funds? Experts weigh in - Moneycontrol.com
+### 66. How much should you allocate to Asia-focused mutual funds? Experts weigh in - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-07T06:29:52+00:00
@@ -686,7 +666,7 @@ A decade of zero FII flows—and India’s market has finally moved on Moneycont
 
 How much should you allocate to Asia-focused mutual funds? Experts weigh in Moneycontrol.com
 
-### 69. Best small cap mutual funds to invest in August 2026 - The Economic Times
+### 67. Best small cap mutual funds to invest in August 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-07T04:47:55+00:00
@@ -696,7 +676,7 @@ How much should you allocate to Asia-focused mutual funds? Experts weigh in Mone
 
 Best small cap mutual funds to invest in August 2026 The Economic Times
 
-### 70. Sensex opens 300 points lower, Nifty below 24,600; Bajaj Finance down 4% - India Today
+### 68. Sensex opens 300 points lower, Nifty below 24,600; Bajaj Finance down 4% - India Today
 
 - Source: India Today
 - Published: 2026-08-07T03:50:19+00:00
@@ -706,7 +686,7 @@ Best small cap mutual funds to invest in August 2026 The Economic Times
 
 Sensex opens 300 points lower, Nifty below 24,600; Bajaj Finance down 4% India Today
 
-### 71. SIP Academy Marks 23 Years, Having Impacted Over 16 Lakh Children - businessnewsthisweek.com
+### 69. SIP Academy Marks 23 Years, Having Impacted Over 16 Lakh Children - businessnewsthisweek.com
 
 - Source: businessnewsthisweek.com
 - Published: 2026-08-07T03:45:09+00:00
@@ -716,7 +696,7 @@ Sensex opens 300 points lower, Nifty below 24,600; Bajaj Finance down 4% India T
 
 SIP Academy Marks 23 Years, Having Impacted Over 16 Lakh Children businessnewsthisweek.com
 
-### 72. Exiting mutual funds may get cheaper as SEBI cuts maximum exit load cap to 3% - Business Today
+### 70. Exiting mutual funds may get cheaper as SEBI cuts maximum exit load cap to 3% - Business Today
 
 - Source: Business Today
 - Published: 2026-08-07T03:20:02+00:00
@@ -726,7 +706,7 @@ SIP Academy Marks 23 Years, Having Impacted Over 16 Lakh Children businessnewsth
 
 Exiting mutual funds may get cheaper as SEBI cuts maximum exit load cap to 3% Business Today
 
-### 73. Sensex Rises 374 Points as Lower Oil Prices Boost Sentiment - INDIA New England News
+### 71. Sensex Rises 374 Points as Lower Oil Prices Boost Sentiment - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-08-06T17:04:42+00:00
@@ -736,7 +716,7 @@ Exiting mutual funds may get cheaper as SEBI cuts maximum exit load cap to 3% Bu
 
 Sensex Rises 374 Points as Lower Oil Prices Boost Sentiment INDIA New England News
 
-### 74. Doing monthly SIP in ELSS fund for last three years? Here's why you can't redeem your entire investment today - livemint.com
+### 72. Doing monthly SIP in ELSS fund for last three years? Here's why you can't redeem your entire investment today - livemint.com
 
 - Source: livemint.com
 - Published: 2026-08-06T15:42:24+00:00
@@ -746,7 +726,7 @@ Sensex Rises 374 Points as Lower Oil Prices Boost Sentiment INDIA New England Ne
 
 Doing monthly SIP in ELSS fund for last three years? Here's why you can't redeem your entire investment today livemint.com
 
-### 75. How a ₹25,000 step-up SIP can build a ₹10 crore retirement corpus in 25 years - livemint.com
+### 73. How a ₹25,000 step-up SIP can build a ₹10 crore retirement corpus in 25 years - livemint.com
 
 - Source: livemint.com
 - Published: 2026-08-06T13:41:57+00:00
@@ -756,7 +736,7 @@ Doing monthly SIP in ELSS fund for last three years? Here's why you can't redeem
 
 How a ₹25,000 step-up SIP can build a ₹10 crore retirement corpus in 25 years livemint.com
 
-### 76. Western Digital Sinks 16%, SanDisk Falls 11%, Micron Drops 6% as Memory Selloff Hits Storage Stocks - 24/7 Wall St.
+### 74. Western Digital Sinks 16%, SanDisk Falls 11%, Micron Drops 6% as Memory Selloff Hits Storage Stocks - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-08-06T13:26:39+00:00
@@ -766,7 +746,7 @@ How a ₹25,000 step-up SIP can build a ₹10 crore retirement corpus in 25 year
 
 Western Digital Sinks 16%, SanDisk Falls 11%, Micron Drops 6% as Memory Selloff Hits Storage Stocks 24/7 Wall St.
 
-### 77. Mutual Funds Launch Niche Schemes Under New 2026 SEBI Rules - Whalesbook
+### 75. Mutual Funds Launch Niche Schemes Under New 2026 SEBI Rules - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-06T13:20:12+00:00
@@ -776,7 +756,7 @@ Western Digital Sinks 16%, SanDisk Falls 11%, Micron Drops 6% as Memory Selloff 
 
 Mutual Funds Launch Niche Schemes Under New 2026 SEBI Rules Whalesbook
 
-### 78. Mutual funds line up niche offerings as Sebi opens new product avenues - Business Standard
+### 76. Mutual funds line up niche offerings as Sebi opens new product avenues - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-06T13:10:02+00:00
@@ -786,17 +766,17 @@ Mutual Funds Launch Niche Schemes Under New 2026 SEBI Rules Whalesbook
 
 Mutual funds line up niche offerings as Sebi opens new product avenues Business Standard
 
-### 79. Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - goodreturns.in
+### 77. Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - Goodreturns
 
-- Source: goodreturns.in
+- Source: Goodreturns
 - Published: 2026-08-06T11:17:19+00:00
 - Themes: India market
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2JzQUJabDhtVHRIaHQxMktTVVFtd0lWWmtTR1ZwLWN3dlVnS0tEQVZyVVhZWEtIWUNIZm9pQVdqbV9JNkR6RW9YLUNsWFVLMXJSMXlHdkxjTkdESk5YXzM1eDFHZ1BFc2psSHJjY0V3eGhfTEFrYVMxZU1HbG9PTjA0QUh1QUFDTmwtTjhfTGNMY1VVdzFzanNRU0RVUm9lTEphNVJKRlpZOHFfaTNIX09XVC1Fd2VHdWl1VzAxcVFKb0QwREgyRnNCQnZhQWhtRnVMaXlJWlBPeFVsUlE?oc=5
 
-Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows goodreturns.in
+Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows Goodreturns
 
-### 80. With Active ETFs now at 12% of the $15T US market, is the mutual funds era closing? - Wealth Professional
+### 78. With Active ETFs now at 12% of the $15T US market, is the mutual funds era closing? - Wealth Professional
 
 - Source: Wealth Professional
 - Published: 2026-08-06T10:51:54+00:00
@@ -805,3 +785,23 @@ Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Am
 - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMGpoZmdmNEg3ZUFiWnZ0MG5EU2tHc2lvZEhJUnhaT3lZbGRYNGdOWm1GOFFJOXFqMW5aRk43WFh3UzVWU3ZNYkF3Uk16dWNwSEQ0S2I5Q1VUUlA4UkYyMElkX0Y0T1JHaE96M2w1RTR4ZmNwN19BdDEzSUpGVU5pVEFSc0RPUTh0a3p3ZkNFYXhPZDJuUmYxNHFyOEZaMl9VenFqczRveVFfdzFFVnVBQ0w1UEN0djhPTlF5cVJqeWR0TFdLdlZvWkhMQjRFbXczamV3Vlhn?oc=5
 
 With Active ETFs now at 12% of the $15T US market, is the mutual funds era closing? Wealth Professional
+
+### 79. 5 top mutual funds to watch for long-term returns - financialexpress.com
+
+- Source: financialexpress.com
+- Published: 2026-08-06T09:59:31+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxORWxaRWExVzVmVGc5eEZqdklZYkJWV0E2NXRkeEhKcEpGRGQ0WF9CWTU2XzFoZFh2TjBJZjRaUWFRVHg3eTQzZy1DLUV3S2UxdHdwaF91MUgtZG1QQVFVODV1SzhYbGZPRHhpYnFMeF94U25YMENUWXJtMHcxRmpoSUs3azYyaFdtN1Fkcy1HeUNGUVRucnFqOGw1S0tZUWxyNU1fckxLbmdlQdIBsAFBVV95cUxPWTJHbUFtWERUWW9CVURBbDJXeVBKV2syUzJqdjNveGlURzd5VE9teGxTUFFmNDdJTmRlOXlUNzdpckYwVE1ObFp6THlIcUMzd2hpOGd6M1B3bUZMTkp0QWhsN2lPNzhtWjhzTTVvTlN5UkIwYklCS0RPYk9yVTB2U19yVTJMNTZ3cDJ3NnU5RjFVQk1yNFFCRjE0V2hQTWFsVjNtMXRGNkVBMGJPN01lWQ?oc=5
+
+5 top mutual funds to watch for long-term returns financialexpress.com
+
+### 80. 42 equity mutual funds deliver over 15% CAGR in 10 years, turn lumpsum investments 4x - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-08-06T09:25:44+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxNYUk4a0RhNThISHljdzRUdElaZmczMDBMV0wxT0Q3WFU2a2Y2RExkNEs2Sk9vN3AwR3Q2emhFd0lNMlY1cUhZaGNYM1RYMzl4dlo4bXRrUE5HRzg4NmpZQ09MQ3lCNWJuMWtrb0NIcFY3MmZNaE5UMXBKNmxGNFhzU0RtZUh5cENJMmJQd2MtVDM0dWthSmc3ekxWMk9Jd2ptRlpoTmpnOWhWSDVKNnJIQ3hYVTVQa0U1TURJZ0c2Q1BVYlI2X2h4bTVyUWRpMG5FMmN6Vk5tU0VOdEszNjdlZ1lsVHXSAeoBQVVfeXFMUDlEM2RjdkZIRl9RTFpWTG9xNGM4aUlXY09LMTdTTGV2SDZDejhGOFJlUjROSzE3ODRUeHJucUxHV1JTZUVsM0NlM1dmOW1WMDM3RW1RdUFMMWM5bGVrQUo4LU1sN1lMRm1tSXBqaGRrVzRrVG1vaTJOZkpSaU1ITkZydnkwU2I0eEhtNFM2dTFwZ3hCTk1Bd2RoWHR5V0U3YmljY180NEN4Q2E1THBNOTgzUk1keVdSQVVYaW1TRUVJT2QxM2FiTFQyRFoyUUVKYnhxMk5saGxGWTUzTUt0eUw2elRBWXM5UzZn?oc=5
+
+42 equity mutual funds deliver over 15% CAGR in 10 years, turn lumpsum investments 4x The Economic Times
