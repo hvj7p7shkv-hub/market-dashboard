@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10 17:28 IST",
+  "generated_at": "2026-08-10 18:07 IST",
   "wire_file": "2026-08-10-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -14,12 +14,12 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "99",
-    "wire_total_count": "133",
+    "wire_count": "106",
+    "wire_total_count": "139",
     "wire_scope_date": "2026-08-10",
-    "ai_wire_count": "9",
-    "selling_wire_count": "34",
-    "india_wire_count": "54",
+    "ai_wire_count": "10",
+    "selling_wire_count": "36",
+    "india_wire_count": "59",
     "weak_index_count": "3",
     "valid_index_count": "25"
   },
@@ -27,12 +27,12 @@
     {
       "label": "Latest Wire Bias",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-08-10 has 54 India-market wires, 34 selling/risk wires, and 9 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-08-10 has 59 India-market wires, 36 selling/risk wires, and 10 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "Dominant Wire",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market; What Caused Today’s Sell-Off - Goodreturns"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Sensex falls 156 pts, Nifty drops 45 pts in early trade - newsarenaindia.com"
     },
     {
       "label": "India Trigger",
@@ -555,23 +555,23 @@
       "name": "DAX",
       "ticker": "^GDAXI",
       "last_date": "2026-08-10",
-      "last": 26391.99,
-      "return_1d_pct": 0.2756175291591001,
-      "return_5d_pct": 1.5025384462667102,
-      "return_20d_pct": 5.087710102332332,
-      "rsi_14": 71.16,
+      "last": 26390.21,
+      "return_1d_pct": 0.26885714120334914,
+      "return_5d_pct": 1.4956953416786156,
+      "return_20d_pct": 5.080625292413665,
+      "rsi_14": 71.14,
       "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 25473.85,
+      "sma_20": 25473.76,
       "distance_sma_20_pct": 3.6,
       "above_sma_20": true,
-      "sma_50": 25157.71,
-      "distance_sma_50_pct": 4.91,
+      "sma_50": 25157.67,
+      "distance_sma_50_pct": 4.9,
       "above_sma_50": true,
-      "sma_200": 24456.25,
-      "distance_sma_200_pct": 7.92,
+      "sma_200": 24456.24,
+      "distance_sma_200_pct": 7.91,
       "above_sma_200": true
     },
     {
@@ -579,23 +579,23 @@
       "name": "FTSE 100",
       "ticker": "^FTSE",
       "last_date": "2026-08-10",
-      "last": 10875.88,
-      "return_1d_pct": -0.23135029920110517,
-      "return_5d_pct": 0.1674358950143784,
-      "return_20d_pct": 3.5965831148812244,
-      "rsi_14": 63.37,
+      "last": 10875.55,
+      "return_1d_pct": -0.23437823341717623,
+      "return_5d_pct": 0.16439585781440336,
+      "return_20d_pct": 3.593439004585841,
+      "rsi_14": 63.34,
       "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 10750.89,
+      "sma_20": 10750.88,
       "distance_sma_20_pct": 1.16,
       "above_sma_20": true,
-      "sma_50": 10574.24,
+      "sma_50": 10574.23,
       "distance_sma_50_pct": 2.85,
       "above_sma_50": true,
       "sma_200": 10257.68,
-      "distance_sma_200_pct": 6.03,
+      "distance_sma_200_pct": 6.02,
       "above_sma_200": true
     },
     {
@@ -603,23 +603,23 @@
       "name": "CAC 40",
       "ticker": "^FCHI",
       "last_date": "2026-08-10",
-      "last": 8720.79,
-      "return_1d_pct": 0.06724496665653223,
-      "return_5d_pct": 1.241838379276028,
-      "return_20d_pct": 4.25767523812659,
-      "rsi_14": 69.96,
+      "last": 8725.84,
+      "return_1d_pct": 0.12518926303730638,
+      "return_5d_pct": 1.3004628281767294,
+      "return_20d_pct": 4.318046018155375,
+      "rsi_14": 70.2,
       "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 8481.6,
-      "distance_sma_20_pct": 2.82,
+      "sma_20": 8481.85,
+      "distance_sma_20_pct": 2.88,
       "above_sma_20": true,
-      "sma_50": 8399.1,
-      "distance_sma_50_pct": 3.83,
+      "sma_50": 8399.2,
+      "distance_sma_50_pct": 3.89,
       "above_sma_50": true,
-      "sma_200": 8201.86,
-      "distance_sma_200_pct": 6.33,
+      "sma_200": 8201.89,
+      "distance_sma_200_pct": 6.39,
       "above_sma_200": true
     },
     {
@@ -627,23 +627,23 @@
       "name": "Euro Stoxx 50",
       "ticker": "^STOXX50E",
       "last_date": "2026-08-10",
-      "last": 6550.34,
-      "return_1d_pct": 0.40589437884448465,
-      "return_5d_pct": 1.92701849762702,
-      "return_20d_pct": 4.454137019955318,
-      "rsi_14": 69.7,
+      "last": 6553.83,
+      "return_1d_pct": 0.45939390900215926,
+      "return_5d_pct": 1.9813285322492824,
+      "return_20d_pct": 4.509793585619737,
+      "rsi_14": 69.89,
       "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 6343.56,
-      "distance_sma_20_pct": 3.26,
+      "sma_20": 6343.74,
+      "distance_sma_20_pct": 3.31,
       "above_sma_20": true,
-      "sma_50": 6271.54,
-      "distance_sma_50_pct": 4.45,
+      "sma_50": 6271.61,
+      "distance_sma_50_pct": 4.5,
       "above_sma_50": true,
-      "sma_200": 5939.05,
-      "distance_sma_200_pct": 10.29,
+      "sma_200": 5939.07,
+      "distance_sma_200_pct": 10.35,
       "above_sma_200": true
     }
   ],
@@ -665,8 +665,8 @@
       "advancers": 3,
       "decliners": 1,
       "advance_decline_ratio": 3.0,
-      "average_1d_pct": 0.13,
-      "average_5d_pct": 1.21,
+      "average_1d_pct": 0.15,
+      "average_5d_pct": 1.24,
       "above_20dma_pct": 100.0,
       "above_50dma_pct": 100.0
     },
@@ -857,23 +857,23 @@
         "name": "FTSE 100",
         "ticker": "^FTSE",
         "last_date": "2026-08-10",
-        "last": 10875.88,
-        "return_1d_pct": -0.23135029920110517,
-        "return_5d_pct": 0.1674358950143784,
-        "return_20d_pct": 3.5965831148812244,
-        "rsi_14": 63.37,
+        "last": 10875.55,
+        "return_1d_pct": -0.23437823341717623,
+        "return_5d_pct": 0.16439585781440336,
+        "return_20d_pct": 3.593439004585841,
+        "rsi_14": 63.34,
         "stale_days": 0,
         "is_stale": false,
         "is_outlier": false,
         "data_note": "",
-        "sma_20": 10750.89,
+        "sma_20": 10750.88,
         "distance_sma_20_pct": 1.16,
         "above_sma_20": true,
-        "sma_50": 10574.24,
+        "sma_50": 10574.23,
         "distance_sma_50_pct": 2.85,
         "above_sma_50": true,
         "sma_200": 10257.68,
-        "distance_sma_200_pct": 6.03,
+        "distance_sma_200_pct": 6.02,
         "above_sma_200": true
       },
       {
@@ -929,23 +929,23 @@
         "name": "CAC 40",
         "ticker": "^FCHI",
         "last_date": "2026-08-10",
-        "last": 8720.79,
-        "return_1d_pct": 0.06724496665653223,
-        "return_5d_pct": 1.241838379276028,
-        "return_20d_pct": 4.25767523812659,
-        "rsi_14": 69.96,
+        "last": 8725.84,
+        "return_1d_pct": 0.12518926303730638,
+        "return_5d_pct": 1.3004628281767294,
+        "return_20d_pct": 4.318046018155375,
+        "rsi_14": 70.2,
         "stale_days": 0,
         "is_stale": false,
         "is_outlier": false,
         "data_note": "",
-        "sma_20": 8481.6,
-        "distance_sma_20_pct": 2.82,
+        "sma_20": 8481.85,
+        "distance_sma_20_pct": 2.88,
         "above_sma_20": true,
-        "sma_50": 8399.1,
-        "distance_sma_50_pct": 3.83,
+        "sma_50": 8399.2,
+        "distance_sma_50_pct": 3.89,
         "above_sma_50": true,
-        "sma_200": 8201.86,
-        "distance_sma_200_pct": 6.33,
+        "sma_200": 8201.89,
+        "distance_sma_200_pct": 6.39,
         "above_sma_200": true
       }
     ]
@@ -3719,8 +3719,8 @@
         "matched": true,
         "scheme_code": 152842.0,
         "scheme_name": "Nippon India Nifty 500 Equal Weight Index Fund - Direct Plan - Growth Option",
-        "nav": 10.0454,
-        "nav_date": "2026-08-06",
+        "nav": 10.0506,
+        "nav_date": "2026-08-07",
         "return_1d_pct": -0.93,
         "return_5d_pct": 0.92,
         "return_20d_pct": null,
@@ -3732,8 +3732,8 @@
         "matched": true,
         "scheme_code": 152875.0,
         "scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Direct Plan-Growth",
-        "nav": 8.4205,
-        "nav_date": "2026-08-06",
+        "nav": 8.4407,
+        "nav_date": "2026-08-07",
         "return_1d_pct": -1.65,
         "return_5d_pct": 0.82,
         "return_20d_pct": null,
@@ -3745,8 +3745,8 @@
         "matched": true,
         "scheme_code": 153161.0,
         "scheme_name": "ICICI Prudential Nifty 500 Index Fund - Direct Plan - Growth",
-        "nav": 10.7262,
-        "nav_date": "2026-08-06",
+        "nav": 10.7201,
+        "nav_date": "2026-08-07",
         "return_1d_pct": -1.34,
         "return_5d_pct": 0.29,
         "return_20d_pct": null,
@@ -3758,8 +3758,8 @@
         "matched": true,
         "scheme_code": 118955.0,
         "scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-        "nav": 2297.6,
-        "nav_date": "2026-08-06",
+        "nav": 2296.801,
+        "nav_date": "2026-08-07",
         "return_1d_pct": -1.28,
         "return_5d_pct": -0.02,
         "return_20d_pct": null,
@@ -3771,8 +3771,8 @@
         "matched": true,
         "scheme_code": 130503.0,
         "scheme_name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
-        "nav": 163.991,
-        "nav_date": "2026-08-06",
+        "nav": 163.673,
+        "nav_date": "2026-08-07",
         "return_1d_pct": -1.11,
         "return_5d_pct": -0.27,
         "return_20d_pct": null,
@@ -3818,7 +3818,7 @@
         "return_60d_pct": null
       }
     ],
-    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-07-mutual-fund-navs.csv",
+    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-10-mutual-fund-navs.csv",
     "count": 8
   },
   "nifty50_rotation": {
@@ -10442,12 +10442,12 @@
   "wires": [
     {
       "published": "2026-08-10T07:55:00+00:00",
-      "score": 9.0,
+      "score": 8.0,
       "themes": "['market selling', 'India market']",
-      "source": "News Arena India",
-      "title": "Sensex falls 156 pts, Nifty drops 45 pts in early trade - News Arena India",
+      "source": "newsarenaindia.com",
+      "title": "Sensex falls 156 pts, Nifty drops 45 pts in early trade - newsarenaindia.com",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPenZaR3N3VDJxcTBwRzg1STVFN1BPRkpDRW8weF9iUi1OdWhFTVJyZzNqUTVxUnBSdnZWYUpHNDU0QmJoSkpxcmJMX0dRSjRsNlR3cEpjTVNqOFVoSS1ISFZ0RzNRMm5ScU56Ylk2UWs1RjM3d0E4NHJpazJwT3NrbFZlQ3JCRnd5RFpDUzY0dkpoeFp1SzhNWlFqZw?oc=5",
-      "description": "Sensex falls 156 pts, Nifty drops 45 pts in early trade News Arena India"
+      "description": "Sensex falls 156 pts, Nifty drops 45 pts in early trade newsarenaindia.com"
     },
     {
       "published": "2026-08-10T07:30:30+00:00",
@@ -10495,15 +10495,6 @@
       "description": "Sensex falls 300 pts from day's high, Nifty below 24,550: Rise in Brent crude prices among key factors behind market decline TradingView"
     },
     {
-      "published": "2026-08-10T02:51:45+00:00",
-      "score": 8.0,
-      "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "DD News",
-      "title": "Sensex closes down by 852 pts, Nifty falls 0.84% as crude tops USD 100 again - DD News",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmJaWklWbENNUGxVbUF2RjI4VTh4NFZQeUxkQS0xTERGb3hRMzlMRUJEbUIwdVZPejdYMWdfNXl3Q2s4LUMzcVp5WlZfQ2ZqUHMyaXJYaTNzV1VGdEtFLTlTYkpnZnlfS2tEMGFuaVNWMFNlR3B2elVCWFczbndVYndtb2N4ZG1PZ3hraFkwTWM4ekpGOVhGTW9iY2dBZkRuUUE?oc=5",
-      "description": "Sensex closes down by 852 pts, Nifty falls 0.84% as crude tops USD 100 again DD News"
-    },
-    {
       "published": "2026-08-09T23:15:54+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -10513,6 +10504,24 @@
       "description": "Nikkei 225: Tech Sell-Off Drags Benchmark Lower as Chip Stocks Plunge and AI Optimism Fades BBN Times"
     },
     {
+      "published": "2026-08-10T12:30:00+00:00",
+      "score": 7.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "ANI News",
+      "title": "Sustained crude rise could weigh on H2CY26 recovery, Nifty may fall to 23,030 by December 2026: Report - ANI News",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbmwxaWdQZWxyYWxzMExfOVdFcnhGblFWRzJEQ2kxZHowSUQyclVzY2hINWRlMWt6S3RzdzFSRFJMTkotZU11akloejA4Y0pBS2JvNTZxYkVKUlJHdzZRZDhzOFB2TnA2YjMzYTloYU5qNm4wTmJRallnZ3BMb1NrSFZ4TGJ0X0lYT1p3cDFNcmZKWEsxUXltMHd6UXFCRUpEMGJrdWQ1U3Bhc3owVFp4Q2hmTnlDUTc0V2tKR2tHV2RUYXdDa3J5RmlVcG5rOUNSUDZabmZlUkxSczlhdTVxV3F3WXY?oc=5",
+      "description": "Sustained crude rise could weigh on H2CY26 recovery, Nifty may fall to 23,030 by December 2026: Report ANI News"
+    },
+    {
+      "published": "2026-08-10T12:11:35+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Intellectia AI",
+      "title": "Stock Market Warning August 2026: Is a Major Correction Coming? - Intellectia AI",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5iQVNnc0ZEcThHMmE0U3FjdDFDWXhsQl9GLTJ4SVpTTHdtZUkyeWY2dmZ3VWhBRHRSZjdmRWtyZ2RFRWhNc1hDYkdGOWM4OW5sc1FPdGM4MEhDSmk3QjYxc3dSdzVuclZlQ1RGV2R1Y3NqLWhhR1J6dQ?oc=5",
+      "description": "Stock Market Warning August 2026: Is a Major Correction Coming? Intellectia AI"
+    },
+    {
       "published": "2026-08-10T11:53:49+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -10520,6 +10529,15 @@
       "title": "Cantor upgrades semiconductor stock outlook after sector selloff By Investing.com - Investing.com South Africa",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZjhpajVMcVRLQzJhUGZmNmlTakpNZC14YTlpR2dYcFBUMDJGYUNwanZ3cjZJeFAwLU43QUwtRHZaOEoteTJiX2JPbWgxOEp0T2Y2Y01xZXFSeWlRWVMySFNpcmg3bGR2ZkREZ3FubUN0ZHRlX2g2Y0dFM0VZUHNEUlIxdVowZTBaTnhCZ2dCM19ZMmJGQThhOVpPYzExcTNySFpTSE1xeUFjeTB2MTNWR2h6TTBVM3hxM3JuWlhPYmFUbVE?oc=5",
       "description": "Cantor upgrades semiconductor stock outlook after sector selloff By Investing.com Investing.com South Africa"
+    },
+    {
+      "published": "2026-08-10T11:53:35+00:00",
+      "score": 7.0,
+      "themes": "['market selling', 'India market']",
+      "source": "newsdrum.in",
+      "title": "Sensex, Nifty end flat after volatile trade; Titan jumps 3%, SBI falls over 2% - newsdrum.in",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEk5REF2cWRoX0d1Q25TU1RRZ19aUlRIbVFYUzZwcUtlbWl5TkI5cms5d0h6eWktamh4cV9Tbjl0ZWJ4RVNZaUNYWmRQTTBwLVVna19QMC11S2gtcjdxSXRGRGJfcmlaX0Y4QmlKTlVOX1RBUWo4M2o5b2sxN0lROGtWV2pyRWpnOG14Y1ZVNGpLNXVzZlNISlZzdDVFeFlWdjI1cjVBRWhtd1JNdWlnZFo5TUc4QdIBtgFBVV95cUxQcEk5REF2cWRoX0d1Q25TU1RRZ19aUlRIbVFYUzZwcUtlbWl5TkI5cms5d0h6eWktamh4cV9Tbjl0ZWJ4RVNZaUNYWmRQTTBwLVVna19QMC11S2gtcjdxSXRGRGJfcmlaX0Y4QmlKTlVOX1RBUWo4M2o5b2sxN0lROGtWV2pyRWpnOG14Y1ZVNGpLNXVzZlNISlZzdDVFeFlWdjI1cjVBRWhtd1JNdWlnZFo5TUc4QQ?oc=5",
+      "description": "Sensex, Nifty end flat after volatile trade; Titan jumps 3%, SBI falls over 2% newsdrum.in"
     },
     {
       "published": "2026-08-10T10:48:00+00:00",
@@ -10585,6 +10603,15 @@
       "description": "Citi Says AI Memory Boom Still Has Further to Run Despite Recent Sell-Off Yahoo Finance UK"
     },
     {
+      "published": "2026-08-10T10:17:02+00:00",
+      "score": 6.0,
+      "themes": "['market selling', 'India market']",
+      "source": "Dailyhunt",
+      "title": "SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high - Dailyhunt",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTFJkS0ZKLTBDbjlPSVh6aThCbEFOT08wMmhNR0ZvU01iMk1MVi1nS1JMUEJJS0JOQTJHQTNDWjdMTF9EU29kYi0tMWhnZ2dGT0hRdzVIV05GSzJiMzVGMl95VVBrbGNsQzJNR1pwWkhPRFlWODNNTGRZRmszdGU3LVBZUENtb1A2ME92bldUdUFqaGwwOWwza2UyUmFELVBHY0hEaE5XZlAyZVVsaUIwZEJ0bXZFLVpfZkRycVdsQUJJTkZoUlV1cHF3WDUtTWJ4WGNrRGJuQjBZUGJnX1Z2ZA?oc=5",
+      "description": "SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high Dailyhunt"
+    },
+    {
       "published": "2026-08-10T08:58:57+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -10601,15 +10628,6 @@
       "title": "Steel Authority of India shares fall 2.25% - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc21TTXpZenFNa2JJT2hXVGJJd2tqaWtSOUQtLUE1Rmp1SFJlem80ZHRDSko2clhFM2tYNmFKUDdySWN6aHZ5UzhiZ1RWcVJGb3NnbHYxdlhFbkM2MlV5QVBpVkZSQkF1bHFac0FZWmVzX29YeG9TcXVmZ05wZHoxcWVnMzFKdW0ydWRFU2tiSVBTVVZsWjRtb0ZuV2ZHdW1fR0F1MlpfemxtWGNQR0h3b0drTmRiYUtEVWE00gHAAUFVX3lxTE5iZE02X3JVSWJrM0hmdC1qRXJrN2Q3YlptWnR2TkxOZ2o1cDJnS1lfQ0ZsWElsWVEwWldxbDgxLXlrRU1HMVF2ZmMwMEFrT2Y4MTN0Tm1VSHNBZTZLX01ESzJuaks2cXZmaHdJeDdZT0hOQUJIWjZxdU1NMV9yeFVETTRnT19WRkIyTXJlUEExX1ZhNjgyLTZOUWJUWEdpV1pXbDlsV3F4X2dRNEhKNHF5eHpOeEd3eUx2U1hNOVlkTA?oc=5",
       "description": "Steel Authority of India shares fall 2.25% Moneycontrol.com"
-    },
-    {
-      "published": "2026-08-10T06:17:02+00:00",
-      "score": 6.0,
-      "themes": "['market selling', 'India market']",
-      "source": "dailyhunt.in",
-      "title": "SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high - dailyhunt.in",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQTFJkS0ZKLTBDbjlPSVh6aThCbEFOT08wMmhNR0ZvU01iMk1MVi1nS1JMUEJJS0JOQTJHQTNDWjdMTF9EU29kYi0tMWhnZ2dGT0hRdzVIV05GSzJiMzVGMl95VVBrbGNsQzJNR1pwWkhPRFlWODNNTGRZRmszdGU3LVBZUENtb1A2ME92bldUdUFqaGwwOWwza2UyUmFELVBHY0hEaE5XZlAyZVVsaUIwZEJ0bXZFLVpfZkRycVdsQUJJTkZoUlV1cHF3WDUtTWJ4WGNrRGJuQjBZUGJnX1Z2ZA?oc=5",
-      "description": "SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high dailyhunt.in"
     },
     {
       "published": "2026-08-10T04:40:18+00:00",
@@ -10657,6 +10675,15 @@
       "description": "Sensex, Nifty open higher as FII buying and strong earnings lift mood India Today"
     },
     {
+      "published": "2026-08-10T10:50:19+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "NFO Alert: Bandhan Mutual Fund announces launch of contra fund - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa1hIOVdkT2dhVHRIcVdjRlVvUVpMaUd2al9rN1poUzlnc2d0Sk9pbVhTV0hscDBvLWNPdkFrZElmTjh0eWVkUjFwMy1PaGRnLUo1b25rQ3J0Tl9rM3ZNZGJPMXFIVzdWUnpGZ1ZDOTlOcVR5TzNmRURsUGpGWUNkVmpxQ01OLUl0UnNKMndESHI2SHVlRV9qWGNSbG1hZmlsUTdIcm5zZFJ6R3MzTlViLU15bHk1OF93a0tKWXdJUDRUUXdTeTJlYWJ30gHKAUFVX3lxTE5rWEg5V2RPZ2FUdEhxV2NGVW9RWkxpR3ZqX2s3WmhTOWdzZ3RKT2ltWFNXSGxwMG8tY092QWtkSWZOOHR5ZWRSMXAzLU9oZGctSjVvbmtDcnROX2szdk1kYk8xcUhXN1ZSekZnVkM5OU5xVHlPM2ZFRGxQakZZQ2RWanFDTU4tSXRSc0oyd0RIcjZIdWVFX2pYY1JsbWFmaWxRN0hybnNkUnpHczNOVWItTXlseTU4X3drS0pZd0lQNFRRd1N5MmVhYnc?oc=5",
+      "description": "NFO Alert: Bandhan Mutual Fund announces launch of contra fund The Economic Times"
+    },
+    {
       "published": "2026-08-10T10:33:27+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -10673,6 +10700,15 @@
       "title": "Mutual Fund Woes: Number of Schemes in the Red Nearly Triples in FY26 - Outlook Money",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVmxnUXoxR2o0ZTNkS3hyekNNOHk3QzVjR0x1TldjT0hvZkVFM05Ub3g2eEVhN0xsaERfU0lwbFlhQzVPZjN5M3dQOTZCNGxOQk5XYjlLZFhPLURhU0s2TkZOb0c1X0NsTTZxR2Q5RlFyVk1BTWZNRDBnOVJ1T3FnMUoxamRlUFIyQ1dQS2J4SEd5TU9RNEZzdnBReEVnYkxkZUtnYjlqVdIBtAFBVV95cUxPVGZvN2VBdm93TTVMbGgxQmlxaDVSbjZFcmNWdlU1TTRtM2NJOXVyN3FzaGhoTzN6UVItYmxyZWQxMnpiQXZBUTU5UjR3MHhISHJ4dUM5ekp0c0dKSzBCd2VHZkx0cDNwQUp5M202ZzJCWndzOXV2N0swaHdZRWNFR1pBZXZoTnFQSUo2RWptdF9xTUJqRHlNR0FDMlp1bUNBTU5PVTVVUXRfNmlLQ2hxVGQ0X0U?oc=5",
       "description": "Mutual Fund Woes: Number of Schemes in the Red Nearly Triples in FY26 Outlook Money"
+    },
+    {
+      "published": "2026-08-10T08:51:54+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "outlookbusiness.com",
+      "title": "Nanoplastics In Every Sip: India Is Ignoring An Inconvenient Trade-Off - outlookbusiness.com",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVUlNM1VSZHFKM1FQcUhQQ1o0QmZvS2h1cXhYekNJMDRJQkEwNDgxWVpWR2dwQVZnNmw3Z0JBR0NpNHFXSzJ1S29GQnVwY1RVd2M1NzZBZlJ6dzEyUkFIdmJtdXQtdlA0TU1zeDlQdFFlR2FLYVVVeTN2UVBTR0E0cm1HOTBURWpESVlQZlRoNHRhanRqWE0yVEZrc3NLTGtUN3lVVU9teHYzcnBoTHln0gG8AUFVX3lxTE5FVU9vc3doS1lER2tfa0dSWFVYcnloYlpseG5Uamt1cEt5UGgzSFdRSjlrMTcyUGVQLXhrOHN3ZzFiVWMwdFFYLW9WSE9tenlKUUk2VmVHelZpbU9qdDBMVHVRU2RlNE9kWHRoMUJXbzlRblo5UmlQRzZneVQwZHpoMmVrSjdqY2lNbFJkT2M5M1VQUmZqR1E5eXhXMjJTb3ZfM1BINUZMWnlIUHQ5b0xBMGw3eDEwOTY0Q2RJ?oc=5",
+      "description": "Nanoplastics In Every Sip: India Is Ignoring An Inconvenient Trade-Off outlookbusiness.com"
     },
     {
       "published": "2026-08-10T06:30:54+00:00",
@@ -10736,6 +10772,15 @@
       "title": "Sensex, Nifty Gain Monday as Strong Earnings and FII Buying Lift Market - Whalesbook",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObVVwdzRYUmRFMDNBUkNhNnhMLUhRV2YxWDR4TnRneXZna0lFdjU0aGhGUG1RX056NHlPUWxMSzFJYlY1TW90dXYzYm02cU51SFB2SzR4bW04RndlT3QwQXNvT3RibF9UZzBJT3M3NGg2OTRBbEVVSVEwZEtjeGszWHA2MkN0TzRmUDBCMGNpZVBndllFUDJPa1VXUGFIY2x2ZEhxQ1V4YmM5S211WEpTTk1oNkxORTdjOHNXN0NYT2xLOFEtXzk3ZWtTVF9DY2dKdTd6NzN1NmxwY2M?oc=5",
       "description": "Sensex, Nifty Gain Monday as Strong Earnings and FII Buying Lift Market Whalesbook"
+    },
+    {
+      "published": "2026-08-10T12:02:08+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "theweek.in",
+      "title": "How will UPI MDR affect your mutual funds and equity investments? - theweek.in",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONHg5bDc2OFY5YnRpR3N2UERiRnY5eHZ6ZmJPWnFTSzZyQWtKUGRGQm16OENiWEdDSFRYTXhjMnBtQ1Yzb1FXZnkzZV9NTFFoNDI3X1hJbEpQZFNNak44azFtYmIwRG5ocjQ0VUduNVI5djBBNFY5MmRrdWJRcjdlWEhJdEdkcWVBODRSN1RxdjVjVWdiZ0x4RGFqc1dUdnBGTDVhWlhrLU9PTWVlcG0yXzBMeGlZVncy0gG-AUFVX3lxTE1QZV85MEEzOVpBam15V1lsTXhfUl9xMUxKTzFiUEd1ZFFlNU1uR2haQzR5RVlaUWxTQjdnRGJObnBWLVlHdkFEc1BjMlFhVXZyQUQxM3RoT3NNSDgwdk04eXpuRDAxQXdYY1RQSHJ0Vk43ak1Td1duY0gxMERqeGNyQkMtdmlwQV9NQXl1R0ViTzkxSXdWOG5SWnZ3MXc2c1NhN0FydWI3ZnhYVkwxb2FPRlRQdFVUWmxwU1l3eFE?oc=5",
+      "description": "How will UPI MDR affect your mutual funds and equity investments? theweek.in"
     },
     {
       "published": "2026-08-10T11:21:12+00:00",
@@ -10903,19 +10948,19 @@
       "published": "2026-08-10T04:22:18+00:00",
       "score": 3.0,
       "themes": "['market selling', 'macro / flows']",
-      "source": "business-standard.com",
-      "title": "Rupee falls 8 paise to 95.25 against US dollar during early trade - business-standard.com",
+      "source": "Business Standard",
+      "title": "Rupee falls 8 paise to 95.25 against US dollar during early trade - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPOHFWbTRfYU1faGxIb3Jnc1FJZWw4OVlOT09VV2JOWng2eFhFY3FpdjhlM0E5R1dTTDc5Y01vdFNLWFEyanRnS0FaX0FKUnBMLUJHeWV2VEVlMlc4NkhMYTVZSU53VDJtXzczTVdCdDJJdUJDdFQzMUM0M0dQMU1OUHZITzBPbFZYbE1TOEFuY1NUVi1QcWo0Y0dlZTZSNlgxQmZGR05MRFdvY3A2aUlua1pPTHQwVXdtSVdoeW1DdDZnejN0WWpmVS03VERJaWtLNEHSAdIBQVVfeXFMTzhxVm00X2FNX2hsSG9yZ3NRSWVsODlZTk9PVVdiTlp4NnhYRWNxaXY4ZTNBOUdXU0w3OWNNb3RTS1hRMmp0Z0tBWl9BSlJwTC1CR3lldlRFZTJXODZITGE1WUlOd1QybV83M01XQnQySXVCQ3RUMzFDNDNHUDFNTlB2SE8wT2xWWGxNUzhBbmNTVFYtUHFqNGNHZWU2UjZYMUJmRkdOTERXb2NwNmlJbmtaT0x0MFV3bUlXaHltQ3Q2Z3ozdFlqZlUtN1RESWlrSzRB?oc=5",
-      "description": "Rupee falls 8 paise to 95.25 against US dollar during early trade business-standard.com"
+      "description": "Rupee falls 8 paise to 95.25 against US dollar during early trade Business Standard"
     },
     {
       "published": "2026-08-10T03:55:06+00:00",
       "score": 3.0,
       "themes": "['India market']",
-      "source": "News18",
-      "title": "Sensex, Nifty Open Flat Amid Mixed Global Cues; Bank, IT Stocks Support Early Trade, India VIX Jumps 5% - News18",
+      "source": "news18.com",
+      "title": "Sensex, Nifty Open Flat Amid Mixed Global Cues; Bank, IT Stocks Support Early Trade, India VIX Jumps 5% - news18.com",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPTFlveDB3U2h5cC1vWktUT0dNMGJQZmRIdXY2cThsS3BhUkw0UzVlMVFiZXpkUWZwUXVxdldBOHd4X3RqZVl3a2JNVWk3TENuRDNMNDFJMHBuczZSV2wzS1NuMGhKU1JzbGtFTU95cUdjb3lWMGwtRElNNWZNY2xuRHN1YzZnNGwzdGZkdVJ6VjdYdVlURGRoMzl4VlBheWc5eDJWbzRCajZaR1U5M0dETXU5RXhpZFhGZzhESDdNdkJ3YjhCYWNPM3ROOW9yUWlhVXpJZW0zbi1KZ1VTbkRSRTk5eDVwRWp5NURoa3FB0gHzAUFVX3lxTE5lVi1ZeWhTRDJSVjNvZE84UjczazdzMGxOS3lnUGdzbXpQbzdTNTFady1qdlduOFg1ZENhTHVKc29OdFM5WGVCN1R2bzNlbUlNckxtVHE5eVFIYy1lbXlEQ3Jkb1VDSmZzLUp2V1gyR0FGYTNRNTc1N1N6OWJ5MzdZcE5udFl2VXZFd3MyUGJ3ZFlXbTgyeHdfNnBtR1lNRUJESVBuU09iekk4ZHlKbGhJTUp2X1Zna0NTNVlFeXA1RERjOFdaQnJTSkpMQndvaUQtQW1aTE5TX01DX1c3UWNEWlFPRnFwSWQ4U1IwY0JIQlBnRQ?oc=5",
-      "description": "Sensex, Nifty Open Flat Amid Mixed Global Cues; Bank, IT Stocks Support Early Trade, India VIX Jumps 5% News18"
+      "description": "Sensex, Nifty Open Flat Amid Mixed Global Cues; Bank, IT Stocks Support Early Trade, India VIX Jumps 5% news18.com"
     },
     {
       "published": "2026-08-10T02:56:16+00:00",
@@ -10934,6 +10979,15 @@
       "title": "DORA program will allow people to sip and stroll in Market Square - WBIR",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNVdzaGh1MndSTm1qaGFiQXU0ejUxOXNNQU91em5ZdDgwYkFhbkJxZlNDLWNNbmd5S19yWE1pSThyTW9XSWtqcmNtd1lRUW1BUHdrNlJyNVVBQUFaX0ZVWENMcThiSmFFMWYyU3U1TU5EbjU5LVJKMkR3a3VLUUhGeHFnQW84RUFRSWVfX1JRaHItcGo4N2gzQTZyYUtDaEpEV0lvMXcyZ3Q0T0VIVEtBR2RsYzVQRVB4SUpCVDJDS2VMTEZWOXhtWUpka3pmMzFOV3JROEo0d25oY01KVWtv?oc=5",
       "description": "DORA program will allow people to sip and stroll in Market Square WBIR"
+    },
+    {
+      "published": "2026-08-09T20:46:49+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Yahoo",
+      "title": "‘Sip and stroll’ option in Market Square - Yahoo",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSER6dFY1RUd2Y1k4OVAzcFhEbWFZcVVjbkd5X3Y1TWdPQnJsZ21MRk5iMmhuNGI3QzhpSW15NEg1MW5wSFpLa0t0Y3FnTkZDMnJNRXQxTkt2dVhvTGdGYjBxZWpHVk9QRFEzWk9xa0JaTlhyTnFXV0dvYlF0MUdzWjVmVzY2VDg?oc=5",
+      "description": "‘Sip and stroll’ option in Market Square Yahoo"
     },
     {
       "published": "2026-08-09T20:07:50+00:00",
@@ -10999,13 +11053,31 @@
       "description": "Mutual Funds, Active Equity Funds and Balanced Portfolios Lead Canada's Investment Trends kalkine.ca"
     },
     {
+      "published": "2026-08-10T11:52:30+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Market wrap: Titan Company, Bajaj Finance, SBI among top gainers and losers on Nifty and Sensex on Monday - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQMlB4VkFjb2hCTTdvUG8xa3lPQjZRemQycXJPNTlLTHhvVzNkR3Ruc0Y3cmNvRC1DQzdOLTRBN0Iwa2RsOTFpRmU4OFRERFU3MEkyTVZjdHRuZ0VzbjQyUkFtT1l2NzZwMVJaaUhRWUxwdlU3YXZ2SFpCOUhvd0tldzRhUG5zcnh2elBIbjl6azZNOXlQS252TmlTeGJLRnJURklvNnRReDBWQmEwNGxOSHFnM3NDUkNIRzVVLXNZSkgwdklZZ25fZ3JUbk9LV2RFOXV3QjRtWmUxRkNwYXJDTG9DZVRxZzRpX191RWU0ZnZ5NVE2dXJRWGxfdGZ3QVE2Njd0d2dSONIBjAJBVV95cUxOYUVJdExlMlRxWGdVb2JyOXpDTnYxLVRzMlliVkgyZzVDUWhMUklMMnhJaTkyVExmUS1hd3kzV2ZIVnNnR00yWGFnWG1OOGtjUVFiSkMzSEdOaVdXZEd4eGJUTlU4ajBLclBlaXRxSGdJVk41UlVWMUUydUV0ZUp2UnFIREVtNGxNOE5oYTFiQXhqYUdDMFhuaTNxSGF3ZFBJTWpsQVJhRG5iMndpTWp3cXJkWmd3ZFVvR1ZxbkFSTTdybXR1cHJpYWxEdFk5YmJQVTM1dUdfQU44YzY1TmwxMVNWZTJnVmdMWDJ0ZG9PZ2w5U0RJQzg1U3hOZTRMdkRic3I3X3dMQ0JKZ1dj?oc=5",
+      "description": "Market wrap: Titan Company, Bajaj Finance, SBI among top gainers and losers on Nifty and Sensex on Monday The Economic Times"
+    },
+    {
       "published": "2026-08-10T11:01:35+00:00",
       "score": 2.0,
       "themes": "['India market']",
-      "source": "The Assam Tribune",
-      "title": "Sensex, Nifty finish flat amid Hormuz tensions and uncertainty - The Assam Tribune",
+      "source": "assamtribune.com",
+      "title": "Sensex, Nifty finish flat amid Hormuz tensions and uncertainty - assamtribune.com",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFBjQ3BPTzdBSVJsSlJSRUJDVHZjRmNCMDJlR0swZUh5dVdIcXhSbEZlLWJRYTBxZkdGOGZOOG5qYy1vZzIxYW9DZWJZd3ZVU3NtSDBFeENpYk1Jd01Ea3FSRnBMZmc0UHRDYVNVZGNnQUFuaDQzLXBvT0ZpMTktMDdRVnBHRmlxTk1DWEEzdElQQVRaYmI0TjRyZl9ackg5S1NMQ0ln0gGrAUFVX3lxTFBfSGdjQ2pad1M5cDI2Q3RnYURLTm9tVFFTbV9qenJZQXhkN0NwZV9KU2hMb1pOdjIzbFZsaTJENDYxSERoNmN0dW1uX0hualkwUURRZEtOR0xSX2d1Ylg2TmtWUkJwRzd2VVhacldrUy1TUFQ2R0RaQW9PVF9MUUZkZGNKaGpEMFZibE5oSXpkVm1NRFFoTHFnR0kxTXhhZzdQOVRFQ3d2ZG5vSQ?oc=5",
-      "description": "Sensex, Nifty finish flat amid Hormuz tensions and uncertainty The Assam Tribune"
+      "description": "Sensex, Nifty finish flat amid Hormuz tensions and uncertainty assamtribune.com"
+    },
+    {
+      "published": "2026-08-10T08:27:12+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Dailyhunt",
+      "title": "Sensex, Nifty trade near flat line; European mrkt decline - Dailyhunt",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQME52RlZOSVI1OVFIbS1OczhJTVFFc3FOVGRhdl9EU1dTb01OSmtacmhrMTZDWGVvandheUdjMkF1RVNpQUVpNXJ3dnpDakJYV05YSFRaUkhtSTdra01SS0k1ZUpta3NGdEdpZWVRQ2l5eG51RmthTTNCOTFLbnozU2RsaGdka2t6cjlwSktRbGJXaGRqZGxCYmJUb3oxRzgxZ3hXbjY0VkZtNGFIOU1VYWFKd05BdG16dHRyZnR3UUsxZWVlVW1yMGNjTkJ3RTlxTHliN1EzOVF1Mk9K?oc=5",
+      "description": "Sensex, Nifty trade near flat line; European mrkt decline Dailyhunt"
     },
     {
       "published": "2026-08-10T08:07:29+00:00",
@@ -11107,15 +11179,6 @@
       "description": "NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 10 Upstox"
     },
     {
-      "published": "2026-08-10T02:51:21+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "DD News",
-      "title": "Sensex, Nifty open 1 per cent lower amid West Asia tensions, weak global cues - DD News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTNRcWRZZERCMTF5QzZsbzF3dFVSVHJJWkctWkJaTGpLbmw3b0x6ZGo0ZFdkSzFWaXd2N21LaXZ4VVhBVjkxUnBpWUl0dXc4SmVoc3RGUl83bmdGR3R0bGlBdDZyWlZwSTZGQXE4Q1p6UEhuOHlYeVlHczZFbG01c3V1cWFoMmFqSHo4azdnRG0xZkwyTVZCUVVMUVJsakFVeU5z?oc=5",
-      "description": "Sensex, Nifty open 1 per cent lower amid West Asia tensions, weak global cues DD News"
-    },
-    {
       "published": "2026-08-10T00:00:00+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -11141,6 +11204,24 @@
       "title": "Auto sector stocks down today, Feb 24: Hyundai Motor falls 3%, Landmark Cars down 3.41%, Bajaj Auto drops 1.24% - businessupturn.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQ2Zhc0U0RU5BUkhDdm43T056YzhEdTNlcE1mRm1oRTBMT0l6RzZEX0NiODdRYVVRTGlFcTVFS0lodkZJbWk1cGIxd29ja1M2aTFSVTBuREFObmRFXzZPa19kVFBZMDRXdG0zM0NGeHlMLW8wSjhkQXpjcElFekNtQlNTQ0hyUXdNZDBRNVNvYmU2MENEcktOcjlwT2o4Uk1meFZ6UzFRU3RfRnZ2aFhVQlhpT0lmeUI1QzhxVEp2YUlfbjg4U1pZeWlFR3dYNEJxUnJTQjljZGJNUVI4a1dOOFZyQ091QUV5?oc=5",
       "description": "Auto sector stocks down today, Feb 24: Hyundai Motor falls 3%, Landmark Cars down 3.41%, Bajaj Auto drops 1.24% businessupturn.com"
+    },
+    {
+      "published": "2026-08-10T12:30:00+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "tradebrains.in",
+      "title": "Top 5 Stocks with FII Holdings of Up to 35% to Keep on Your Radar - tradebrains.in",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMjFQZHlMQlNmcTI2V1ROUUo3MXBUbFc2NFZIVkN5ZWpXTEszLVVhZmRVd0FzV1g3MEhVaTdzYXItcEI1M2Jfc1FQMkdybU5sMV9XNjhLZXlhR19fejliUnBvR19hOVFvZVJVQjg1dGhDTGpCNDJlb3QtM2JuWGZycDN3dXhuLVRFRFdpN2FrSzNYUQ?oc=5",
+      "description": "Top 5 Stocks with FII Holdings of Up to 35% to Keep on Your Radar tradebrains.in"
+    },
+    {
+      "published": "2026-08-10T12:14:12+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Crypto Briefing",
+      "title": "Emerging-market stocks fall below half the valuation of US equities for first time in two decades - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRE4zTHBwUlY1cExDeWF2TWpzaUI3SjI2Z3cyX1lXazFhaXo4VURvaGh0ZkpjM0pCeFFKb3RXM3MtMkRQYnUwOThjVEVsbkVab3oyS0stZEVKQllucHpRYU5RSlBkUVFYQ1pWMU5icnBPNEt4LWEzbzZOSUx4ODdHblZR?oc=5",
+      "description": "Emerging-market stocks fall below half the valuation of US equities for first time in two decades Crypto Briefing"
     },
     {
       "published": "2026-08-10T11:35:16+00:00",
@@ -11182,10 +11263,10 @@
       "published": "2026-08-10T11:06:15+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "The Globe and Mail",
-      "title": "SpaceX retail investors sell shares for first time as stocks fall below IPO price - The Globe and Mail",
+      "source": "theglobeandmail.com",
+      "title": "SpaceX retail investors sell shares for first time as stocks fall below IPO price - theglobeandmail.com",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNa09rcWxlUkFDTk9pQldPckQ0bmR1Q1hLVzJ3NHQ0MkhNWWhhTEx1bEVWSndROXQ5cUpPTllVY3ZwcU56cDdLUE5Nb3hERmZ4SXU3bWZNREpUTE9PMWpZWll2cm5hZW54aENIcGJBMzRpQXNzVVR0d3E1VVVpVWpUMFZaVmtYVE1fWC10b2EtbHZYajQ4VGhIbXlvWUdKYnho?oc=5",
-      "description": "SpaceX retail investors sell shares for first time as stocks fall below IPO price The Globe and Mail"
+      "description": "SpaceX retail investors sell shares for first time as stocks fall below IPO price theglobeandmail.com"
     },
     {
       "published": "2026-08-10T11:02:14+00:00",
@@ -11195,6 +11276,24 @@
       "title": "Top gainers and losers, Aug 10: Titan soars 3%, Tata Consumer Products up 2%, SBI falls 2%; check full list - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcHM3c096T0dnSFpyeV9EdFJxUk1janh4UV9CR2kwUFp1R0JJTWUyQkhELUpBTGhZSWdTZC02OFdqSkZaaFBVZUk0YkRSbDEzaWR2QlhnQUtUXzVpS2tqRkl0c0dfU2JDN3Z4RmVYSEZtMVhmMG5pcE15ei1nUWRSUTFNVUtQcWlRaGlRSlFCQk5BVmZxekJmem9JZTBHdjNlZlU4c0xVQWVIQmpkZmUzb0YtZVpCN3R4TmRqdHZxN1pBRWIxOU9uYzJxVXEteEJfc1pGaDFuckZoQ2lGdkh1eTRvMUVRQVFjY2o3U2ZPbw?oc=5",
       "description": "Top gainers and losers, Aug 10: Titan soars 3%, Tata Consumer Products up 2%, SBI falls 2%; check full list Upstox"
+    },
+    {
+      "published": "2026-08-10T10:20:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "The Economic Times",
+      "title": "How should investors protect near-term financial goals from equity market volatility while still seeking reasonable returns? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNckRGbVVKLU9zLW5vUXFLRWJWd2d4RjFaUFpOZkVndnowbHVaUzdrMXZRSl9RTllURUYzVXZLdHVPZWZsbzJqUmVtZmtMaDJOWi11MndFeDZ1M1BhRVF5N0ZwTVBHZGFUNWVVUklyS21TbVJqRkgwVVV2OXhLbjVTWWhCN1pmNTVZdjN2WUlUZVlUZ2NmX3ZPQVEyWWp3OVJWZVpERnRIUlBla2g3dkxPbkFNX3hrQlY2MEdNSUpZVDZsQm9kcTk5WWI5MWR0dUR5blJBemN3QmI1b0FSYTVLdkk5NnkxSi1VV1ZveldmX0sxdkQwM3plb19vR0JIODhlZHppQkxFVGNNX3lwQ0NjWjBId3ZyVnh1RGd1RmIzSEx6UQ?oc=5",
+      "description": "How should investors protect near-term financial goals from equity market volatility while still seeking reasonable returns? The Economic Times"
+    },
+    {
+      "published": "2026-08-10T10:11:29+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "MarketsMojo",
+      "title": "India Shelter Finance Corporation Ltd Hits Intraday Low Amid Price Pressure - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMGNzbzR4QlZqWWhCOTJDam9MUy1OeDFBVTdWd2NFRURGWnBadlZFN241aEFwV3plMko2Ql9WVWVYRlR0Yl9sTVpjZFhTNmZ3WWxJbGRsa2RFaV9acV9uTElMaVlCZ3VzR2UtVlNmWk5rWlFpX3RVbXhLTDB5am84bEpSU3QyRk1HLVVUTjlTS3gzLUhmeHJmMVdLNjUwWHJGLUhlZEVLS1JzSjJiQklxY1diWlBuQVEwUnQxQ2NKM0hUNzB1YU5nVjBxZF9HQQ?oc=5",
+      "description": "India Shelter Finance Corporation Ltd Hits Intraday Low Amid Price Pressure MarketsMojo"
     },
     {
       "published": "2026-08-10T09:58:52+00:00",
@@ -11211,7 +11310,7 @@
       "themes": "['India market']",
       "source": "Moneycontrol.com",
       "title": "Live: Smallcap index outperforms this week; PSU Bank top sectoral gainer | Closing Bell - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNNHRxT1JGY3lsbUtjVTVKVUFnYl8yb0IybHFHc2hKMTRJZFc5dV9vVWt1U1BFSzhIMVNFdjJzdUhaa2ExX2NOVTdlcFA2ZU95bHVVRTluN3ZFeHFUT3JPSWVqdDFwcVVBR3RRZU5TSDBCNlZBbmJ5LS1oTVg0RHRGUkJOZ3JrcGJ5QlAzb3VJRTlhU1pfZGpaWnlmVjRLNGQzNkQtekFPNGxDNi1nWVRpMldTYU42S0NEMzMzbGRiUHRPZnhWVVUwdHV4S19YWDJLTnAzOUxpbVd6Qm16eW5aSzdiZ04wZEM5bDNPM2llMkpTQdIB9wFBVV95cUxOQTVVbG9rbkxTY3B0MDJ1ZVBNaTN2OVp3ZmFuMGM1ZnZkaDZpZ2dvS3Q5WWJ4UFpoOEtwODZkU29KN3ZvQ1ZGMklBV1c3bzE2bkZSLWJnNkhvRWp4S0ZtZVMza1N6Rmx3WEpPamh5bFZtWVFOUW1qR1FuZFRDUDFQU2d6OHMyZFMyVU1OTEtpbzR3eG5KLUdDRFFjazdWSGlHbTVYWHh3ZkNyWnE1dTNid3ZMS2xQYVFaYnFXZlJnalNmYkw4dEo4Y0FiRS11WUtSOHN4R3lrMjBGVXFwVHJmRW9EU1puYTVMeFJuLUxOa0JfWDdWZEpJ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOQTVVbG9rbkxTY3B0MDJ1ZVBNaTN2OVp3ZmFuMGM1ZnZkaDZpZ2dvS3Q5WWJ4UFpoOEtwODZkU29KN3ZvQ1ZGMklBV1c3bzE2bkZSLWJnNkhvRWp4S0ZtZVMza1N6Rmx3WEpPamh5bFZtWVFOUW1qR1FuZFRDUDFQU2d6OHMyZFMyVU1OTEtpbzR3eG5KLUdDRFFjazdWSGlHbTVYWHh3ZkNyWnE1dTNid3ZMS2xQYVFaYnFXZlJnalNmYkw4dEo4Y0FiRS11WUtSOHN4R3lrMjBGVXFwVHJmRW9EU1puYTVMeFJuLUxOa0JfWDdWZEpJ0gH3AUFVX3lxTE5BNVVsb2tuTFNjcHQwMnVlUE1pM3Y5WndmYW4wYzVmdmRoNmlnZ29LdDlZYnhQWmg4S3A4NmRTb0o3dm9DVkYySUFXVzdvMTZuRlItYmc2SG9FanhLRm1lUzNrU3pGbHdYSk9qaHlsVm1ZUU5RbWpHUW5kVENQMVBTZ3o4czJkUzJVTU5MS2lvNHd4bkotR0NEUWNrN1ZIaUdtNVhYeHdmQ3JacTV1M2J3dkxLbFBhUVpicVdmUmdqU2ZiTDh0SjhjQWJFLXVZS1I4c3hHeWsyMEZVcXBUcmZFb0RTWm5hNUx4Um4tTE5rQl9YN1ZkSkk?oc=5",
       "description": "Live: Smallcap index outperforms this week; PSU Bank top sectoral gainer | Closing Bell Moneycontrol.com"
     },
     {
@@ -11251,22 +11350,13 @@
       "description": "Motilal Oswal AMC crosses ₹2 lakh crore AUM milestone Fortune India"
     },
     {
-      "published": "2026-08-10T07:55:02+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "outlookbusiness.com",
-      "title": "Outlook Business Explains | Is India Tightening The Rules Around Foreign Capital? - outlookbusiness.com",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNm5FcHM1cjVPTENoejN3SXA2cGw5NnlXMjZfWGJLc1VKU013UnhpYWR1T2tXTnNkbXFHTjRmNWhiMWZoNWNMVl85YmxBZ1RYWGNBTGMtejdxM0NNMDNJdE9BTGdLNFRMaFJBdFRPRUZwNHhBVEZOTFNpSmtVTXdxeGhabF9YeDdCZ2xnV0w0X1pLbFdsVEFIZUtlUHJFNEFWX1NKRWNyTm9Vc2s1QVhLcGhyLTVpUUltXzNIdFI0OUVteklGN0NDb2hHTdIB2AFBVV95cUxNRC1aQXAxQ3dUcGkweGtIQks2SlBMQW9jREc4Unh1ZmpDWHNZYUdzTTRKaW81Y1Y1RnZtdkRrQU5mTXJjOXFYUGI0V2VvQ0liS1duVlRnY0FVbzBaREdaVVR3T2lvUjNjcndiSmdmeVVDTVlBVnQ4TEFfUURfaDZhREVBZDdrVXRWZjdIRTF6bWtQUGRDYTM3MXBiS0VlN0x4Rk9UcHhyNlVYbXB5alcxWGlYakg0RmR6a0hJMlpLd0R6SS1qY2JlVFFEeWJDa3U5Y0pQQ196V2I?oc=5",
-      "description": "Outlook Business Explains | Is India Tightening The Rules Around Foreign Capital? outlookbusiness.com"
-    },
-    {
       "published": "2026-08-10T07:41:00+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "business-standard.com",
-      "title": "Amid record FII selling, these two sectors quietly won global investors | Share market - business-standard.com",
+      "source": "Business Standard",
+      "title": "Amid record FII selling, these two sectors quietly won global investors | Share market - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd3dtSnF5VDZiVjRHMmEwS2QxdDI0U3h0dHZpLUdibmVhUFVjTXdRZkQ1ZWZUSjh4Rk51X2pQbTRkRzREckl5dkxkQzM2bVhkWUFFOEZXc0hPbXgzQXZqQWFJVXlHTGRxRmVDT2hkVk9aV3pCS0JDTHFfZ3hHa0ZLb1hHRlFqSmhWZUhjbU5lY3otZkVqakhsNmVPbWlJY1gtX1RoVWhwVTlXZHl4TlJ0QWVpOGpUdkM4amlQZFdkZzRWdl9OQ2lBdTUweGJfTEF3MnBibmlWdmVpRG5ucDNMcnNyONIB6AFBVV95cUxPVy1qRm9JWnV0dGc2cW1zWVlvU1BSaldjTTJQZER0aTZJUjZ5VHhmQUdJeUtOVDZZamttcXpXZmlzWjllMkp3R3ZrMGxiQWlGNUNMUkZtYl8yc2hjWnNiTVhsaF9CX2xtVVVVYnR0SVNxdkdINUFfZi1GWEM3UlhOTFBxdlR1YjQxQy1vanI4OFFmS0JiNVN2YjJKbm81X1hfTW9kWFJmQi1xR2QxVzV5dklxWUlnSGFCQk1USVRQOFhBTkdncm55c2tDb3JRbDRuRDNBNmFweWtkODQ4X2VNVlp5UDA5MXdN?oc=5",
-      "description": "Amid record FII selling, these two sectors quietly won global investors | Share market business-standard.com"
+      "description": "Amid record FII selling, these two sectors quietly won global investors | Share market Business Standard"
     },
     {
       "published": "2026-08-10T07:12:39+00:00",
@@ -11326,10 +11416,10 @@
       "published": "2026-08-10T06:02:43+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "business-standard.com",
-      "title": "Mangalam Cement slips after PAT falls 44% YoY in Q1 FY27 - business-standard.com",
+      "source": "Business Standard",
+      "title": "Mangalam Cement slips after PAT falls 44% YoY in Q1 FY27 - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSHhuVEs3bktoRi1oX2l0NS05YmJhWTlzMzdVdHhtRW1GRjlyX084OGt3b01WLXZqX1pxdGxxQjdmUVg3VnFMWTNTRkUwRTEwZzQtdGVzMHFqYWRwT1RQd25hQmdZSXZuZ0d1MXFpcktlNHhTdWVCdEpGakEzb0NoUUxNU3lHeHBFZXk0QlRTamQ4UnpCdUJFcjllX3d4eDlaWW90MnNUVVhRZGNYS1ZXa3ZJT3VCSUpoOVJaQzA4bkFNeDI1R2h1MFRUcENldE5BeDlN0gHYAUFVX3lxTFA1Z2trMm1MdlRWeEU0S1JpRnl0VmFNVXFkMzNOQUEwSW52cjVST0xDQ2M3cC1vcUxqSkgtNmt3SFdwVHM1RE9NSXp1WnB4OXI1eVZUcEtTdFVJLV91YmhNZll5d1lZNWdiczlsMFBCV0xyN0FBU1ZXelp2TDN6UjdFbXRHUFJPWmZQX1B5b25vUkdXNnJ0RXhtd3hUeFJFcjJWSDZPLVFiWC1oTm9rdFZkdlBHX01OZHNTcGxWZloyMFNjREdfWlViRDAtS21DUzVXMHBOYXhUOA?oc=5",
-      "description": "Mangalam Cement slips after PAT falls 44% YoY in Q1 FY27 business-standard.com"
+      "description": "Mangalam Cement slips after PAT falls 44% YoY in Q1 FY27 Business Standard"
     },
     {
       "published": "2026-08-10T05:35:00+00:00",
@@ -11344,10 +11434,10 @@
       "published": "2026-08-10T05:31:55+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "dailyhunt.in",
-      "title": "Nifty trades above 24,550 mark; PSU Bank shares decline - dailyhunt.in",
+      "source": "Dailyhunt",
+      "title": "Nifty trades above 24,550 mark; PSU Bank shares decline - Dailyhunt",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR0RmQUpKRzBvNXc5YVgxZ3hvZ20yNTRpQlRSR2Q4dUQ1aS1wbUR2UmNFUkVKN3lKY2dfZ2daUl85VmZfMXNoYkJVOWY2UW9DZDdicDItUE1fSEtHazAxMnM0TTF4RUNINnZaa0tQYzBlRHVvWGN6cUhLd1pzRC13b2g0VHpPWGp6NU1yVjJKNllLc2M5MjdEVWxWSDFwZWpSNXQyWWgxVFVwdGdGWVNwNDFHYTExZkNMeDZ4MEVOb3BzeDB4NGVaeVVxMUdDSHJVOW5BWlkyeU1rdw?oc=5",
-      "description": "Nifty trades above 24,550 mark; PSU Bank shares decline dailyhunt.in"
+      "description": "Nifty trades above 24,550 mark; PSU Bank shares decline Dailyhunt"
     },
     {
       "published": "2026-08-10T05:18:12+00:00",
@@ -11398,10 +11488,10 @@
       "published": "2026-08-10T04:11:13+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "laserfocusworld.com",
-      "title": "What’s Nvidia’s quantum strategy? - laserfocusworld.com",
+      "source": "Laser Focus World",
+      "title": "What’s Nvidia’s quantum strategy? - Laser Focus World",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNLV96QlM3SGdqdjk3R1pmS2E2N1FEVWhpeHNweVJKX2Q5U1JNN0p6b1YtaklyMG1zVWlKckJ6WjI5bGV5ei1oNkxwbTUwaUg1WU9uRFNlZmQ2ZXh0QUcwNWJlQ2lkdUdsYjMyYW5YSF9BN1BVREcwQTNNYWhHeWFYblhUZjFvZ2hxcWdFYndRb1Q?oc=5",
-      "description": "What’s Nvidia’s quantum strategy? laserfocusworld.com"
+      "description": "What’s Nvidia’s quantum strategy? Laser Focus World"
     },
     {
       "published": "2026-08-10T04:09:01+00:00",
@@ -11449,31 +11539,13 @@
       "description": "Morgan Stanley: Memory Stock Correction Ends, Re-entry Opportunity 조선일보"
     },
     {
-      "published": "2026-08-10T03:02:15+00:00",
+      "published": "2026-08-10T00:57:02+00:00",
       "score": 1.0,
       "themes": "['macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Brent oil climbs to $84 | Wallstreet Continues Winning Streak | Titan, Hitachi Energy results - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPV1BKRi1KWG5Ycjg3OWVhTVB3ZVhUam5iTFNLVUN0bGhGYy1TRXBMQURlVEozaXpnN3JpU3lIYUIyWHRQRks3T2s2dHZGNkh3LVVfYTdSNEoyRkxZTXFfcWdHM3c1Y1hYclo0Qm5rbl9zaTU1XzFyOGlSSGJLZ0lOU3lPRjMybURKeUtTSEY5aHVDRnljaDJ1dDE4UDk0SEFyZzVNSy1iZ0lFTUYtaHhGTE9DazZtNEV6UXdaMEpLaXd6Z3NBWUdOdmdINTdFd2piZTY0XzR0WmNsOVBvWk1VOWhXdUVGdGlvLUhrclBTSTTSAfYBQVVfeXFMT0pFUTZtODZsSmR1cUt2aHljME5sV0ROM1NTR3N2UGVjRzJIcklNaHhybzRHWXhLTzlfRHgtRXQyRmZGWm5ITmF2ZjFrbDdydzhmTEw4M3ZPWERzb0xRZTRhc2pTbFhjSE00ZWFLdGFPU2dWSDlaVTZacWd5cHpteGpucXpRcU1CYUttM2VwZnA1TThUN09qNTJCYWtfSTc5ajg2b1pwNms0dnpRVHNIbHdmLVpsUDZoXzViTHhkbkhzaTBocTVXbmt0UG5fd0hzdzNjY3VZUjZ4bVBwbldIeUpXRnRXcVh6Y3JJTXRIZlFtWVozVzNR?oc=5",
-      "description": "Brent oil climbs to $84 | Wallstreet Continues Winning Streak | Titan, Hitachi Energy results Moneycontrol.com"
-    },
-    {
-      "published": "2026-08-10T02:51:40+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "DD News",
-      "title": "Indian markets open with sharp decline led by IT sell-off; Global cues remain mixed - DD News",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzhFOF9pcmlzUlBOemlvSkJmMThRejlJN29FSUdMeG1vNFRIUDJWNEdoOFh5anRvTXAySU8tVFQ4ZTQ5QzYteDJuMEkxMUZsNU4tNEQ4VnpNQzJnVjQ2b2tQZndKV3pQZEFTaE8yaFhvNWFicUFSMTRiQmRxUFFKVDJaSFFLQ1kxYnZ0QkZIUWx6ZDJSdEctSUg4MWFpeTlZbXByOGVlUG5MNDdt?oc=5",
-      "description": "Indian markets open with sharp decline led by IT sell-off; Global cues remain mixed DD News"
-    },
-    {
-      "published": "2026-08-10T00:34:35+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "news.bitcoin.com",
-      "title": "Arthur Hayes Warns Bitcoin May Fall to $50,000 Before $1 Million - news.bitcoin.com",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeE9WYUdlWHhwTlNfM2pFLUpGWjF2bWtrOHhZWmJHLWtPN01EelU0NGhNbkhOOWFYMVVadWxpazJjNml3Y2hCYlhOeHQyUlpzT216VjlXaHRsTTBnZTJkWTBIWU1YTkZLNmxCOENVZUl1UmdrQXRLRVlBTnprVUxWcFdlV09DNGV5dmF1WDZYdjNVSDNzUVBhejgyQkEwNzgtN2tScA?oc=5",
-      "description": "Arthur Hayes Warns Bitcoin May Fall to $50,000 Before $1 Million news.bitcoin.com"
+      "source": "The Economic Times",
+      "title": "Global Market: European shares hold steady as Hormuz uncertainty keeps oil prices elevated - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5",
+      "description": "Global Market: European shares hold steady as Hormuz uncertainty keeps oil prices elevated The Economic Times"
     },
     {
       "published": "2026-08-09T22:01:15+00:00",
@@ -11488,10 +11560,10 @@
       "published": "2026-08-09T21:33:36+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "bloomingbit",
-      "title": "Morgan Stanley’s ‘Memory Winter’ Bear Says Samsung, SK Hynix Selloff Is a Buying Chance - bloomingbit",
+      "source": "en.bloomingbit.io",
+      "title": "Morgan Stanley’s ‘Memory Winter’ Bear Says Samsung, SK Hynix Selloff Is a Buying Chance - en.bloomingbit.io",
       "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5mWE1OVmhMUWRaM2FCVFBWVWhnMTFWRXBDdzhHWXpNeUM1ejZwMXZ2djBCNVUxMWx1ZmZmSVFJN2NEa29jaHRoZm5iR3ExaW95YS1iQw?oc=5",
-      "description": "Morgan Stanley’s ‘Memory Winter’ Bear Says Samsung, SK Hynix Selloff Is a Buying Chance bloomingbit"
+      "description": "Morgan Stanley’s ‘Memory Winter’ Bear Says Samsung, SK Hynix Selloff Is a Buying Chance en.bloomingbit.io"
     },
     {
       "published": "2026-08-09T20:43:28+00:00",
@@ -11611,15 +11683,6 @@
       "description": "July 7-Markets End 4-Day Rally as Global Cues Trigger Profit Booking; Nifty Slips Below 24,400 The Indian Awaaz"
     },
     {
-      "published": "2026-08-09T15:00:00+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "RS Web Solutions",
-      "title": "UK Stocks May Outperform US Equities if AI Growth Slows - RS Web Solutions",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNakhiMWRNNHJrWGI4XzJiTnY1RGplaUFPZnlzWE9NOFBGOHg5NERFVkRjcmtMekdvTHhMWk91eEo0TEFRMnZCYWdTYVg2ZDQ4TkU3azdpVENYRTVEUmRUekpoSnpCQU5QMFRBbEVMaFhreXFXWFVDb2RERWNqaFFSYl9pcVp2d1I4XzdUelFtTW1ZMEdaU1EtWXh6OTBzU3pXMWZ5Nzh3X0hhRmRsZ0FQN19KMXA?oc=5",
-      "description": "UK Stocks May Outperform US Equities if AI Growth Slows RS Web Solutions"
-    },
-    {
       "published": "2026-08-09T14:41:20+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -11627,15 +11690,6 @@
       "title": "S&P 500 Profit Growth Offers a Buffer Against AI Stock Swings - Yahoo Finance UK",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUVF2dVBubVRhbUpLemVmbElNTVF5VzdZS2Q3ZS04X1VURzIzMjBMYlpXT1Q1MklwVHpIdFVRcEJBUktaNks4MHVPXzU0RElNWWdReVdneEx5TzhnUHVBMVppUGFQNS0tTVVxZWxMdVlzd1RkUFFkQm4zMm5lLXloRg?oc=5",
       "description": "S&P 500 Profit Growth Offers a Buffer Against AI Stock Swings Yahoo Finance UK"
-    },
-    {
-      "published": "2026-08-09T14:26:03+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Liquide Blog",
-      "title": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 - Liquide Blog",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRjBfQmw4dFloYW5WS0l3LTgyb3NGU0kwc1cxdURTSjJsMmNsUkdiOVI1aE9RcjJ2Ym9lTUoxMjkxOHdZN3JjU2JnWkNsdnE5YXNiNE5PWDRhOGRCRldQeVNxNWQzMVdtZVBqVURRbUZXXzFRSVc1VTFmUmRIVFFqVG1jVTR5dzI2bkNxMHNNaWlFdThX?oc=5",
-      "description": "Share Market Live News: Indian Stock Market Prediction, Nifty 50 Liquide Blog"
     }
   ]
 }
