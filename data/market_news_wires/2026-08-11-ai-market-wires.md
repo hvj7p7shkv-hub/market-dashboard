@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-11 11:09
+Generated: 2026-08-11 12:29
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -36,7 +36,17 @@ Stock markets decline as crude oil surge weighs on sentiment; Sensex drops 388 p
 
 NVIDIA's $50 billion AI financing plan triggers tech stock sell-off, semiconductor index falls 3% KuCoin
 
-### 4. Business News | Sensex Ends 388 Points Lower, Nifty Falls 112 Points Amid Crude Oil Surge - LatestLY
+### 4. Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; debt funds see sharp reversal: AMFI data - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-11T11:05:16+00:00
+- Themes: market selling, India market
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUEZHbTRYZE1IV3NFQ3p6M2xoN09jZ2xRNTd4b042bU9Lazh0ZHM2RXM1bU5MMkluM3BtX3ZzUWpSQWFyWENUQmdudEZPUExjSXRrOERUZDMyLXRVZkpKUXdNME9UYlhjc20ybEZWYWtaZTRmeWtCUmxQak1INjJjSjZmQnZRUldRLVRDcjlvbWYtS2Z5T3UwUEoyZzR0ck4tLUtHTzFzVnFTREdEaXhVeHo2T1BfTVhxU3dZR05wY3hNQk0wcFN3MUlQUHl3V0pmYXhfR2FHdTlZeUV4dGhmbEFabUhJU04zNXpoZi1kSGhmNHdxenFXUtIB_gFBVV95cUxPRHVZZTJTUXMzZzd2c0JySEhCclJJcWZmZFdOdWlFWmlQZmxPVTVEeDRNNDV2UU1ua0xodlR1ckZpVjd1cFI0RWQyRFBaWU9lVER2NTNzNmVIekkwa3NldW45OEJaYzJScmFRUkJhQkdlNWo0SlJEanNxSjRMdFQ5MkFGcUpUbUpQYlVGWHZCRWZYSUJmRVpYX3Vockh0X0J6ZnZNMHFlb2FybGxXQm5hOTZGaEFadEZoejRCeEpOV0JIczdWcm0xWERiMENRaFBwaFI3UUpwbWF1MkdMbkNGMnpXem8zdmpCVzc1aEtsdGxtMEQwYy1sc044V3p4UQ?oc=5
+
+Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; debt funds see sharp reversal: AMFI data Moneycontrol.com
+
+### 5. Business News | Sensex Ends 388 Points Lower, Nifty Falls 112 Points Amid Crude Oil Surge - LatestLY
 
 - Source: LatestLY
 - Published: 2026-08-11T10:36:24+00:00
@@ -46,17 +56,17 @@ NVIDIA's $50 billion AI financing plan triggers tech stock sell-off, semiconduct
 
 Business News | Sensex Ends 388 Points Lower, Nifty Falls 112 Points Amid Crude Oil Surge LatestLY
 
-### 5. Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge - The Tribune
+### 6. Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge - The Tribune
 
 - Source: The Tribune
 - Published: 2026-08-11T10:33:39+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOQ0dFR05CVnYtR1Bldy1iaVZhd2ZpSmJyaHlnYXBLb1hodTlacDB6eXBCWkhRRFVtVFlpNDMwS0I4YzFtcUcxTXBrQWU4SzdjMUotOExlQWlNeXM0ZTdfeDRpelhhMU9LeXk2MmNVdkprTU5kYzJNMzI5UURmYjItUkJBUExWS3hsTlV6TWZYbFg4VW40eU81OW0tV2QtVmIwRDdTRlF5VzlMLTBlank5VXhraUVxdlXSAbsBQVVfeXFMT2xWUmtXUHdBOFNPQWxHd0FQTV9HYmtWcEJWenZZZzVKdm9BaEF0OU1QVEx2WURkem14bkFpVlZGLWI4NkpCbWhwQ0JFQzJmRVdlbVZvVVROTmwzTnZNSU9LeGdZWkhjb24tN0pieEJPeEx5Umk1Z0tiOUlXVk1GWlhNVGFZYVRlY0pfeTBFSGhjdzZYVC1MbTdmcXJlNjlPemNpMHJoNWRqWFpKNURSM3Q2NzhZV256RVp5MA?oc=5
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPbFZSa1dQd0E4U09BbEd3QVBNX0dia1ZwQlZ6dllnNUp2b0FoQXQ5TVBUTHZZRGR6bXhuQWlWVkYtYjg2SkJtaHBDQkVDMmZFV2VtVm9VVE5ObDNOdk1JT0t4Z1laSGNvbi03SmJ4Qk94THlSaTVnS2I5SVdWTUZaWE1UYVlhVGVjSl95MEVIaGN3NlhULUxtN2ZxcmU2OU96Y2kwcmg1ZGpYWko1RFIzdDY3OFlXbnpFWnkw0gG7AUFVX3lxTE9sVlJrV1B3QThTT0FsR3dBUE1fR2JrVnBCVnp2WWc1SnZvQWhBdDlNUFRMdllEZHpteG5BaVZWRi1iODZKQm1ocENCRUMyZkVXZW1Wb1VUTk5sM052TUlPS3hnWVpIY29uLTdKYnhCT3hMeVJpNWdLYjlJV1ZNRlpYTVRhWWFUZWNKX3kwRUhoY3c2WFQtTG03ZnFyZTY5T3pjaTByaDVkalhaSjVEUjN0Njc4WVduekVaeTA?oc=5
 
 Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge The Tribune
 
-### 6. Sensex falls 388 points, Nifty below 24,500 as crude surge, rupee weakness hurt markets - newsdrum.in
+### 7. Sensex falls 388 points, Nifty below 24,500 as crude surge, rupee weakness hurt markets - newsdrum.in
 
 - Source: newsdrum.in
 - Published: 2026-08-11T10:30:53+00:00
@@ -66,17 +76,17 @@ Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge The Tr
 
 Sensex falls 388 points, Nifty below 24,500 as crude surge, rupee weakness hurt markets newsdrum.in
 
-### 7. Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows - The Economic Times
+### 8. Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows - economictimes.com
 
-- Source: The Economic Times
+- Source: economictimes.com
 - Published: 2026-08-11T10:07:30+00:00
 - Themes: market selling, India market
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0gwNUUtc284czFpdDFiUUNaWVlNM0V1YnhaTDdmNE40Z19GSlhDY2JRTDZsdWFvUnFCNzVCME9DOVBFblhnY1Q0U1dLSXFpTzB5MEhJSXNvcnpCLTNDWFVKY0l4Sy0wQWRRckllM1E4R1cwV0lFT01Ba3ZzR05Pa0ZMSE9PcTRQWlRDWFVsWVVkMUxEaTdEOFdmb3VLTk9sYUR6alJsckQ4M242RHp6T3RBNlUtZ2k0M3BkNHI4STBad1NDNzE00gHMAUFVX3lxTE9GX2o0d1FpVk41aXpjZ1RWV3BoakR2dV9YQTRYRkh5REwtcGRLd0dEX1pzMmcxWmQxS1M2UTcybWIzXzhLaU5nVDdDMHNTd0EzTDk1dmRKb3dqN0xFNlZVbDA5cEJVQk82WmVrdjF2dWtVMVFzQ1dqNkdLWmZDVlpPZ1hieUdJSldxa1FwUjg5Q2V0LXhJX2ZTMXVnVzZMUWtHTkRiZ1N0a3ZqWWlyQnVYc19UUjNwam1rekFoa2Y2c05iTTJHSzlhNFk5Rg?oc=5
 
-Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows The Economic Times
+Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows economictimes.com
 
-### 8. Equity MF inflows fall to ₹24,697 crore in July; SIP contributions cross ₹31,000 crore for 10th straight month - Fortune India
+### 9. Equity MF inflows fall to ₹24,697 crore in July; SIP contributions cross ₹31,000 crore for 10th straight month - Fortune India
 
 - Source: Fortune India
 - Published: 2026-08-11T09:47:04+00:00
@@ -86,7 +96,7 @@ Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead i
 
 Equity MF inflows fall to ₹24,697 crore in July; SIP contributions cross ₹31,000 crore for 10th straight month Fortune India
 
-### 9. Sensex Falls Over 400 Points, Nifty Slips Below 24,500 as Crude Oil Weighs on Sentiment - Dalal Street Investment Journal
+### 10. Sensex Falls Over 400 Points, Nifty Slips Below 24,500 as Crude Oil Weighs on Sentiment - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-11T09:05:41+00:00
@@ -96,7 +106,7 @@ Equity MF inflows fall to ₹24,697 crore in July; SIP contributions cross ₹31
 
 Sensex Falls Over 400 Points, Nifty Slips Below 24,500 as Crude Oil Weighs on Sentiment Dalal Street Investment Journal
 
-### 10. Equity mutual fund inflows fall 14.8% in July; Large cap funds see first outflow since December 2023 - Business Today
+### 11. Equity mutual fund inflows fall 14.8% in July; Large cap funds see first outflow since December 2023 - Business Today
 
 - Source: Business Today
 - Published: 2026-08-11T07:55:23+00:00
@@ -106,17 +116,17 @@ Sensex Falls Over 400 Points, Nifty Slips Below 24,500 as Crude Oil Weighs on Se
 
 Equity mutual fund inflows fall 14.8% in July; Large cap funds see first outflow since December 2023 Business Today
 
-### 11. Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows - The Economic Times
+### 12. Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows - economictimes.com
 
-- Source: The Economic Times
+- Source: economictimes.com
 - Published: 2026-08-11T07:08:39+00:00
 - Themes: market selling, India market
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPRl9qNHdRaVZONWl6Y2dUVldwaGpEdnVfWEE0WEZIeURMLXBkS3dHRF9aczJnMVpkMUtTNlE3Mm1iM184S2lOZ1Q3QzBzU3dBM0w5NXZkSm93ajdMRTZWVWwwOXBCVUJPNlpla3YxdnVrVTFRc0NXajZHS1pmQ1ZaT2dYYnlHSUpXcWtRcFI4OUNldC14SV9mUzF1Z1c2TFFrR05EYmdTdGt2allpckJ1WHNfVFIzcGpta3pBaGtmNnNOYk0yR0s5YTRZOUbSAcwBQVVfeXFMT0ZfajR3UWlWTjVpemNnVFZXcGhqRHZ1X1hBNFhGSHlETC1wZEt3R0RfWnMyZzFaZDFLUzZRNzJtYjNfOEtpTmdUN0Mwc1N3QTNMOTV2ZEpvd2o3TEU2VlVsMDlwQlVCTzZaZWt2MXZ1a1UxUXNDV2o2R0taZkNWWk9nWGJ5R0lKV3FrUXBSODlDZXQteElfZlMxdWdXNkxRa0dORGJnU3RrdmpZaXJCdVhzX1RSM3BqbWt6QWhrZjZzTmJNMkdLOWE0WTlG?oc=5
 
-Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows The Economic Times
+Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead inflows economictimes.com
 
-### 12. Sensex Falls Over 400 Points, Nifty Slips Below 24,450 as Crude Oil Concerns Weigh - Dalal Street Investment Journal
+### 13. Sensex Falls Over 400 Points, Nifty Slips Below 24,450 as Crude Oil Concerns Weigh - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-11T07:06:49+00:00
@@ -125,16 +135,6 @@ Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; smallcaps lead i
 - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMk9HbTlsQ29nemRFM2xYVlJLYTFDdlNpNXJpY1hqR21sZ0xpWC1YWVBOeTllUEdjUXBDWFpNWW5NZEJHTjRSTFpraVAtR0hRcGhrMnU5WmlLYkoxaTVKY3A0NUs3Q3RCNlloRE9RS3Y5TkY4Q2pEY0Jlc2w1WXJMRjFtSGxHb1RibmRMUGNfdlZubks1M29mQk5NY2FtVFJ4WTlXUGk4MTl1OHIxazJRMDFqdDluX0tLajVhdUphNmRJNEN5X3I2Xw?oc=5
 
 Sensex Falls Over 400 Points, Nifty Slips Below 24,450 as Crude Oil Concerns Weigh Dalal Street Investment Journal
-
-### 13. Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; debt funds see sharp reversal: AMFI data - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-08-11T07:02:31+00:00
-- Themes: market selling, India market
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUEZHbTRYZE1IV3NFQ3p6M2xoN09jZ2xRNTd4b042bU9Lazh0ZHM2RXM1bU5MMkluM3BtX3ZzUWpSQWFyWENUQmdudEZPUExjSXRrOERUZDMyLXRVZkpKUXdNME9UYlhjc20ybEZWYWtaZTRmeWtCUmxQak1INjJjSjZmQnZRUldRLVRDcjlvbWYtS2Z5T3UwUEoyZzR0ck4tLUtHTzFzVnFTREdEaXhVeHo2T1BfTVhxU3dZR05wY3hNQk0wcFN3MUlQUHl3V0pmYXhfR2FHdTlZeUV4dGhmbEFabUhJU04zNXpoZi1kSGhmNHdxenFXUtIB_gFBVV95cUxPRHVZZTJTUXMzZzd2c0JySEhCclJJcWZmZFdOdWlFWmlQZmxPVTVEeDRNNDV2UU1ua0xodlR1ckZpVjd1cFI0RWQyRFBaWU9lVER2NTNzNmVIekkwa3NldW45OEJaYzJScmFRUkJhQkdlNWo0SlJEanNxSjRMdFQ5MkFGcUpUbUpQYlVGWHZCRWZYSUJmRVpYX3Vockh0X0J6ZnZNMHFlb2FybGxXQm5hOTZGaEFadEZoejRCeEpOV0JIczdWcm0xWERiMENRaFBwaFI3UUpwbWF1MkdMbkNGMnpXem8zdmpCVzc1aEtsdGxtMEQwYy1sc044V3p4UQ?oc=5
-
-Equity mutual fund inflows fall 15% to Rs 24,697 crore in July; debt funds see sharp reversal: AMFI data Moneycontrol.com
 
 ### 14. Sensex, Nifty Fall as Oil Prices and Middle East Uncertainty Weigh on Investors - businessnewsthisweek.com
 
@@ -156,7 +156,17 @@ Sensex, Nifty Fall as Oil Prices and Middle East Uncertainty Weigh on Investors 
 
 Dalal Street Shock! Sensex Falls 388 Points As Crude Oil Surge Triggers Market Fear Dynamite News
 
-### 16. Sensex falls 388 points, Nifty 50 ends below 24,500; rising oil prices, Middle East confusion weigh - livemint.com
+### 16. Sensex, Nifty fall nearly 0.5 pc as realty, FMCG and cement stocks drag - The Hans India
+
+- Source: The Hans India
+- Published: 2026-08-11T10:37:22+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWNjdDJnWmt5STAtRXluQUQ3WEZUcEJHQlVaZG9KSmVPZFhDdFYzZjJTbUF3bGRhTVhwaURmSEZKWG9PTHR2RE5oMWd4TU0xeUFWYW5JeDl5dkRETENDRG5qOHRuZEhES3VMQTd5WFU1WlBWZUxtNHhoMy1aSExtdVNQSmo0VWxieTk4bEtHWUJxQnhmU2JTQWVYMlhnS1Rma0dqWFkzbEtFOFpNS1d5S2psY2M5WklmX1HSAboBQVVfeXFMT0FjY3QyZ1preUkwLUV5bkFEN1hGVHBCR0JVWmRvSkplT2RYQ3RWM2YyU21Bd2xkYU1YcGlEZkhGSlhvT0x0dkROaDFneE1NMXlBVmFuSXg5eXZERExDQ0Ruajh0bmRIREt1TEE3eVhVNVpQVmVMbTR4aDMtWkhMbXVTUEpqNFVsYnk5OGxLR1lCcUJ4ZlNiU0FlWDJYZ0tUZmtHalhZM2xLRThaTUtXeUtqbGNjOVpJZl9R?oc=5
+
+Sensex, Nifty fall nearly 0.5 pc as realty, FMCG and cement stocks drag The Hans India
+
+### 17. Sensex falls 388 points, Nifty 50 ends below 24,500; rising oil prices, Middle East confusion weigh - livemint.com
 
 - Source: livemint.com
 - Published: 2026-08-11T10:15:46+00:00
@@ -166,17 +176,17 @@ Dalal Street Shock! Sensex Falls 388 Points As Crude Oil Surge Triggers Market F
 
 Sensex falls 388 points, Nifty 50 ends below 24,500; rising oil prices, Middle East confusion weigh livemint.com
 
-### 17. Sensex falls 300 points, Nifty slips below 24,550 as oil rises | Tap to know more | Inshorts - Inshorts
+### 18. Sensex falls 300 points, Nifty slips below 24,550 as oil rises | Tap to know more | Inshorts - Inshorts
 
 - Source: Inshorts
-- Published: 2026-08-11T09:21:04+00:00
+- Published: 2026-08-11T09:21:08+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNY3FGYXYzU0F3V3RQYU8xNmJ5T2ZQa205RHdfUjVqQlpKdGh3NURWZUVNeGkwa29xOVBJeVJVWG96SEw4R1J3S1ZJbGJoUDUxQ1EteklGbU81dmdvY0hnaG9nU0Fwd0o3NUIzcHpQSy16ZEhzMDl2QVpxS1NwMC1OaUJIaDNBbkxSWlpfdm1YV291dHI2SkVySmpEclZUVDJOTkh2M1dKb3HSAa4BQVVfeXFMTWVJT29QVVloMTZGdGNESlNUeHV1YUc1SlExTVV1NWJqYVZlRlpzTG1xM1YxNjNTcXVvVllBQ3dhcS1Ma1BBWEdTMFVvbElfem9xek91U2dZNS14bDhYV2ZIZFBPRHFrQ0hZWmRnVUk4R3hDWEFnb3NWS0NhOTk2RkF5SWdKb1VZcmppeE5WQjVGenBWSVpYVUliNThHVnFjTVBiakRVWWU0WHpVcVZ3?oc=5
+- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUlPb1BVWWgxNkZ0Y0RKU1R4dXVhRzVKUTFNVXU1YmphVmVGWnNMbXEzVjE2M1NxdW9WWUFDd2FxLUxrUEFYR1MwVW9sSV96b3F6T3VTZ1k1LXhsOFhXZkhkUE9EcWtDSFlaZGdVSThHeENYQWdvc1ZLQ2E5OTZGQXlJZ0pvVVlyaml4TlZCNUZ6cFZJWlhVSWI1OEdWcWNNUGJqRFVZZTRYelVxVnfSAa4BQVVfeXFMTWVJT29QVVloMTZGdGNESlNUeHV1YUc1SlExTVV1NWJqYVZlRlpzTG1xM1YxNjNTcXVvVllBQ3dhcS1Ma1BBWEdTMFVvbElfem9xek91U2dZNS14bDhYV2ZIZFBPRHFrQ0hZWmRnVUk4R3hDWEFnb3NWS0NhOTk2RkF5SWdKb1VZcmppeE5WQjVGenBWSVpYVUliNThHVnFjTVBiakRVWWU0WHpVcVZ3?oc=5
 
 Sensex falls 300 points, Nifty slips below 24,550 as oil rises | Tap to know more | Inshorts Inshorts
 
-### 18. Godfrey Phillips India Shares Fall 2.01%, Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
+### 19. Godfrey Phillips India Shares Fall 2.01%, Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T07:05:38+00:00
@@ -186,7 +196,7 @@ Sensex falls 300 points, Nifty slips below 24,550 as oil rises | Tap to know mor
 
 Godfrey Phillips India Shares Fall 2.01%, Among Top Losers on Nifty Midcap 150 Moneycontrol.com
 
-### 19. Sensex falls 300 points to 78,250: Nifty drops 50 points; banking and FMCG shares face selling - Bhaskar English
+### 20. Sensex falls 300 points to 78,250: Nifty drops 50 points; banking and FMCG shares face selling - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-08-11T04:40:18+00:00
@@ -196,7 +206,7 @@ Godfrey Phillips India Shares Fall 2.01%, Among Top Losers on Nifty Midcap 150 M
 
 Sensex falls 300 points to 78,250: Nifty drops 50 points; banking and FMCG shares face selling Bhaskar English
 
-### 20. Sensex, Nifty open lower amid strong domestic selloff - News Arena India
+### 21. Sensex, Nifty open lower amid strong domestic selloff - News Arena India
 
 - Source: News Arena India
 - Published: 2026-08-11T04:33:49+00:00
@@ -206,7 +216,7 @@ Sensex falls 300 points to 78,250: Nifty drops 50 points; banking and FMCG share
 
 Sensex, Nifty open lower amid strong domestic selloff News Arena India
 
-### 21. Sensex Falls 300 Points As Oil Spike Weighs; Nifty Slips Below 24,550 - outlookbusiness.com
+### 22. Sensex Falls 300 Points As Oil Spike Weighs; Nifty Slips Below 24,550 - outlookbusiness.com
 
 - Source: outlookbusiness.com
 - Published: 2026-08-11T04:19:18+00:00
@@ -216,7 +226,7 @@ Sensex, Nifty open lower amid strong domestic selloff News Arena India
 
 Sensex Falls 300 Points As Oil Spike Weighs; Nifty Slips Below 24,550 outlookbusiness.com
 
-### 22. Market Today: Sensex Declines 291 Points, Nifty Opens Below 24,550 As Rising Oil Prices Weigh; IT Stocks Ga - News18
+### 23. Market Today: Sensex Declines 291 Points, Nifty Opens Below 24,550 As Rising Oil Prices Weigh; IT Stocks Ga - News18
 
 - Source: News18
 - Published: 2026-08-11T04:13:53+00:00
@@ -226,7 +236,7 @@ Sensex Falls 300 Points As Oil Spike Weighs; Nifty Slips Below 24,550 outlookbus
 
 Market Today: Sensex Declines 291 Points, Nifty Opens Below 24,550 As Rising Oil Prices Weigh; IT Stocks Ga News18
 
-### 23. Sensex falls 350 pts, Nifty below 24,500: Rising oil prices among key factors behind market decline - Moneycontrol.com
+### 24. Sensex falls 350 pts, Nifty below 24,500: Rising oil prices among key factors behind market decline - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T04:06:54+00:00
@@ -236,25 +246,15 @@ Market Today: Sensex Declines 291 Points, Nifty Opens Below 24,550 As Rising Oil
 
 Sensex falls 350 pts, Nifty below 24,500: Rising oil prices among key factors behind market decline Moneycontrol.com
 
-### 24. Sensex falls over 300 points, Nifty below 24,550 as oil prices rise. What lies ahead? - The Economic Times
+### 25. Sensex falls over 300 points, Nifty below 24,550 as oil prices rise. What lies ahead? - economictimes.com
 
-- Source: The Economic Times
+- Source: economictimes.com
 - Published: 2026-08-11T03:57:00+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMiyAJBVV95cUxOQ3NWYlZneDJESm44MWNZa1poWk5YOFdfOHhSdUM2TE00Uld0alEwcm9HQ2owT3d6NVRWZ1RqM1JrNjk5aGVKeDllTzlZTHhqakJKaXo4SVJFRGxuT1RQcDlUa2hEN1lhbkN5Q3JrOTBYMmlXeG1majN3STRjM3MySjd3RURNYUlzS25kc0ZSSUpLb2lOMEJOdUIwb0lnd0NzNEtnZk5kRUpkbmZiSUZsbFZVTVRfZVpSQlExWkczUlVUM00wcnVJdW82d2ZpQXpRNUhHd19vRFhOa2tFT19NQmVtc3YyYlJwSl9yamVhVG5Db0FfNHQ5d2l3Qm9tVy16WWxlekRuZ3FBMXVVTnF5bVhMZUlSWm9UMGFjcE1lVGNKOWdGMUg4Vmw0V3hTWkR4aS1zaXY4dzRGNk1yaHNtaklPNWJFMDBw0gHwAUFVX3lxTFBJdk1DSE5QV2MzaXN2QTJJMUJDMTN3SmxaM3I3Nm9kdk5RWndKR1QwaFEtem1vbk9WbGRmaTF2TzAteWZ3cWM2ZDllRzY3S1JjeUxadzhJLXh0R054dkFvbmFCWWdtNnJLYzB0czlOTWNDOGZ4TUlnTmlHaU5xNGIzVW5wd0FpVHNGeVFwYUttNFNpNVR1MDhrYUFpdl8yYzM3b1FBbTdmcGp3YXM0Qk9rUkpGb1IzdWNyaWRqU1Zjdk1qRkFGOUJycnliTVRCSFlhaWdOdXhmUDV2Q001YVlTWlR3dTNlWFhYRnIxaGZHVg?oc=5
 
-Sensex falls over 300 points, Nifty below 24,550 as oil prices rise. What lies ahead? The Economic Times
-
-### 25. Sensex falls 200 points, Nifty near 24,500 as crude surges past $85/bbl - financialexpress.com
-
-- Source: financialexpress.com
-- Published: 2026-08-11T03:53:17+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxNVVpTb3pCekhUYkh0Mks4SDV4V0taaV84cHBQazVMcU1QeVFMS1pndnZlN19yWEJzN3BONWVuUHFFU2l2ajVtMUdaV2xNaXUwV09xRkl1QmVMSUpEeXh2bm1jdjVEZ21PVmNHTzhWZ3hYd1VDdkwwTXV2bFVPZFFuRFFfalZwU2VzNnV6MU5GNTFnM0JMX3BRYlR3SUZUZ210TUNMQkl4Y21pMHpaR3MzNVpMMGVSQjN4dmdIYTI0TktnaWRubzJ2cVBUUExxcHktZ1JjdVpnZGZhSlVmaDEyTW1SMWZ5aHhuLWZNZmotbmtycWtJMjZxeTBUQkduX1ZrUDNr0gGKAkFVX3lxTFBfUVpKWmhrQVZlMDFFMklTMWhyQXAzenFySlpxVzMyMF9Pejg3bkExVWpJb0NVNlppS2I3YkhFTnBkd1pHeFI3OXN0SFBLeTNVbUh0N2N3cm85Y3RkUWQzYlR1dzZBNmlxZkg4RmF0RHEtVWN4RnlfbDVaWjN5a3RrcUFPcm1xSjNYUEN2TUQxQW5MSXcwRFZiWEVicHplR19kY3hFYzJMV3NMQ2VKQ0hjVFY3aEdvTU8yWDFSM0swVlpweDk5dG1vQ1BMQThrSVctRmFjSkdUT2dDcERQMmcxUUFRRnBtcnBMNGtpNlhQN093bWFfXzdBS0Nab3UtVGRoYU9RQkNxMW1n?oc=5
-
-Sensex falls 200 points, Nifty near 24,500 as crude surges past $85/bbl financialexpress.com
+Sensex falls over 300 points, Nifty below 24,550 as oil prices rise. What lies ahead? economictimes.com
 
 ### 26. AI Stocks Are Splitting in Two: Why Software Is Rallying While Chip Stocks Fall - Stocks Down Under
 
@@ -276,15 +276,15 @@ AI Stocks Are Splitting in Two: Why Software Is Rallying While Chip Stocks Fall 
 
 S&P 500 Holds Near Record High as Oil Gains and Technology Stocks Fall Analytics Insight
 
-### 28. Sensex, Nifty fall nearly 0.5% as realty, FMCG and cement stocks drag - Zee News
+### 28. Tech stock sell-off tests AI hype, but is not end of infrastructure story - straitstimes.com
 
-- Source: Zee News
-- Published: 2026-08-11T10:47:03+00:00
-- Themes: market selling, India market
+- Source: straitstimes.com
+- Published: 2026-08-11T10:55:29+00:00
+- Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOYkVWNDZySF9SenhqdS1mdDNmd0pHTVV5cS1IMTRwYjJsY2lFUG1hQnVDMF90M19ORmVHU0l6b2dJM1NKcW9ETXlSbHdYWDRlMGhLMHlhZEhJVm5vaTFKbGs2cWxGREJnRmgweExnV2d6UTVQcC16cDhDSTBvWFpyTzlDR2gtOUZUaDVFSWhRTkplSHpSc1BvUmVLOXdEX05pRzhGSnhVcG1EZy1KVDBJcFRCZ9IBuAFBVV95cUxOc09jNENSaWZKV0NqRDg4RWthNWxkTGdEci15WWFrWl9KSWFpM3RDUU1CZUd2ZWx0TUxRcWhVZG9mUEJSc0ZyMWtYTlNXZzlHYXBLQWk1bnFESFo1S0owdUNTZUVvVGJvSWs1WEhBUWtockE2SW9BWW96c0tzTkV0V05uRm1PRl8xRS1ZVEdEcmstLTQxNkYxZHFiTFJFaHAwTmNCZVN0eDYxNWdiRVRuYnRQMDRkQkdG?oc=5
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEdOd1VsaE1yYVZUdW1ZblIyZHdHaEVPUmRPSnlMVGxYaFcwRlhXV3NudXNJaXgtZGhVRzRMM1hnUlkxTk1LdS14TmJlV1pyNlRpa0tlYnNTNEdEeXR2dHp3M2FPVy14bUNNQlZJZ3BnU0syVHRBWXFOSjF3YzF6ZDk2aXMxbnROZUNhT3k2eTA5LTZJRVFYY1NNQkRsZHRrWnQ3am14V3lobDJ5RmRIRjFicnNWU2ZWSUE?oc=5
 
-Sensex, Nifty fall nearly 0.5% as realty, FMCG and cement stocks drag Zee News
+Tech stock sell-off tests AI hype, but is not end of infrastructure story straitstimes.com
 
 ### 29. Sensex, Nifty Fall Nearly 0.5 Pc As Realty, FMCG And Cement Stocks Drag - Ommcom News
 
@@ -306,7 +306,27 @@ Sensex, Nifty Fall Nearly 0.5 Pc As Realty, FMCG And Cement Stocks Drag Ommcom N
 
 Sensex Falls 388 Points, Nifty Slips 112 Points as Cement, FMCG & Realty Stocks Drag Free Press Journal
 
-### 31. HUDCO Shares Fall 2.31% to Rs 195.00, Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
+### 31. Why Did Share Market Fall Today? Know Key Reasons Behind Sensex, Nifty Decline on August 11 - News18
+
+- Source: News18
+- Published: 2026-08-11T10:25:57+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUXZsME9lbncxeFpybHJzZkxCSFlhNWtTbEtXOVpZeWsxNTM4M3RQeklQM1BqRVBNVUFoUXdGMTI3b0VxRnhWZ2VYX3pkRThkSkJuTmQ5Qmk3M3J3LV9xOXdPR0t2SF85TnFtekd4MmNoNUV6T3VpTnY1UVFQQnprb2wwMGEwYTJ5Ry1VcHJjZWllYjJRcjVtZDhiMldocFUxdkM4bzhpRVJELVh4UXlENlVISW5EamlJMmxHWlg5RmJTTjRJU3dFQU9la0dkMEpQaGJZV2p6OV83eEVlSnfSAeMBQVVfeXFMTjJaY3dPblhYR19zRmZMeDNONkFrSnpjNUpvSFVBM19aNmJvTkhmdjN4ZWctSFZHMGlrR2U2WmRxRUxkM2xqVjZYbU1mNzY0TElyc3l1WlQtR3R2NVE1ZVdPaHZYRDAwdGFTcWU5OF9qSWRMdnVuWlZVRjBvekhDLTZqRGZycDEwMVJJbHl2d2Y5eHE2cGhCaktWVnVvMXBsQnVSRTV2bVpyeGFLYUlfSFNJdURLYjhRcWRxSy13V0FnTHllV0EtYjM2OHdQRk1lb3JfUTZBOGs4R3pmczhzbVhNQ0U?oc=5
+
+Why Did Share Market Fall Today? Know Key Reasons Behind Sensex, Nifty Decline on August 11 News18
+
+### 32. Sensex Falls 388 Points As Oil Rally, Inflation Concerns Weigh On Markets - outlookbusiness.com
+
+- Source: outlookbusiness.com
+- Published: 2026-08-11T10:21:12+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWMzN3A1dm12Q01NUVVRWTFRRmxjY2lBd1Y2d2ZUSndCRWp3ME5ITWRNNDVpc3RLZFQ3TGhwejJNVnkxaWo2SWwyeERYYW1HcnNzRnQ5UkNRdTljNjhRWjhBM0hkM1hqaS1nRGdLUnNfWjAtbi1ORFEwb1dLb1BYRjgtaHEtVWpGWU05T2VTOC1JOUU0elNkdTRvdzhOSjNLRWV3eXNDRjB0dmtpMlZSNG9n0gG_AUFVX3lxTFBpOGdtZUU5Yzl1QjItVk10Y25GbUdCRkVXVnE3RWdCRmZiY0JKUjVOVEFqMjJpcFFjbDhNVWZhTTljcmxYZWtScHMxRVRtQnZ6TVZYemUtVHNvYkVBak5rNm9qX1ljWno5TkxJWDgwZUtwWV92dGtGUXZpOUdiaHdGT2pjakROckwzM3FnOUc5bm1SLUo1NE9FdFFkX2l0VzgwNlc3enYzWUVYeG82Z3B1TEZNWno2WXZwSzR5cmYw?oc=5
+
+Sensex Falls 388 Points As Oil Rally, Inflation Concerns Weigh On Markets outlookbusiness.com
+
+### 33. HUDCO Shares Fall 2.31% to Rs 195.00, Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T10:21:02+00:00
@@ -316,7 +336,7 @@ Sensex Falls 388 Points, Nifty Slips 112 Points as Cement, FMCG & Realty Stocks 
 
 HUDCO Shares Fall 2.31% to Rs 195.00, Among Top Losers on Nifty Midcap 150 Moneycontrol.com
 
-### 32. Stock market fall explained: Why Sensex dropped 388 points, Nifty slipped below 24,500 - CNBC TV18
+### 34. Stock market fall explained: Why Sensex dropped 388 points, Nifty slipped below 24,500 - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-08-11T10:16:25+00:00
@@ -326,7 +346,7 @@ HUDCO Shares Fall 2.31% to Rs 195.00, Among Top Losers on Nifty Midcap 150 Money
 
 Stock market fall explained: Why Sensex dropped 388 points, Nifty slipped below 24,500 CNBC TV18
 
-### 33. Stock Markets Decline As Sensex Falls Over 380 Points, Nifty Tests 24,471 - ABP Live English
+### 35. Stock Markets Decline As Sensex Falls Over 380 Points, Nifty Tests 24,471 - ABP Live English
 
 - Source: ABP Live English
 - Published: 2026-08-11T10:07:57+00:00
@@ -336,37 +356,27 @@ Stock market fall explained: Why Sensex dropped 388 points, Nifty slipped below 
 
 Stock Markets Decline As Sensex Falls Over 380 Points, Nifty Tests 24,471 ABP Live English
 
-### 34. Redwood AI's Kigali Invitation Arrives as Shareholders Endure a Brutal Summer Selloff - ad-hoc-news.de
+### 36. Redwood AI's Kigali Invitation Arrives as Shareholders Endure a Brutal Summer Selloff - AD HOC NEWS
 
-- Source: ad-hoc-news.de
+- Source: AD HOC NEWS
 - Published: 2026-08-11T09:01:40+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd3pNV01EVDBxcWxrTDh3bm53X0d2ajVBVEdSSzI5Qmx0SkN3cGhXWDBnYk1xV1dVMUhyWnl4Z3MzaDY5RUo0S3M0alZJZVVOYW5QYlIwdTB5SlRXM09oUFUyM0FzOWVYLVAwZ2tWaVVsUHoyOFhDWllTRkJOUTA4ZFFBSC1TRFp2c0dheVBhcUFsdUc5SVA4cU5NRzNOdUhXbHdncWQ4c1pzaUVlNlFSQU55c1VRX29OUHM0NjdWV2VkVjVYbXdNVTRZalJLSVk5T2k1cHdfTUpQdw?oc=5
 
-Redwood AI's Kigali Invitation Arrives as Shareholders Endure a Brutal Summer Selloff ad-hoc-news.de
+Redwood AI's Kigali Invitation Arrives as Shareholders Endure a Brutal Summer Selloff AD HOC NEWS
 
-### 35. 25-year-old hedge fund manager who lost $35 billion in a month eyes fresh capital after AI stock selloff - The Economic Times
+### 37. 25-year-old hedge fund manager who lost $35 billion in a month eyes fresh capital after AI stock selloff - economictimes.com
 
-- Source: The Economic Times
+- Source: economictimes.com
 - Published: 2026-08-11T08:24:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxPQWhJZldNdWg3cnNkZ3lSb3A3NU1oSFRtZi11ekppbEZqVFdlNlRGeVY3aV9kaGlEMm0weHpKOGY0UVBaUnR6SWh0MFJ4VnFXMkNZRGpKMnAzMWs5MUlHaFJXemJWWmVHcUMtTTlaQ1UyNHFfMndER1k5Z2VobUswdUQ2NDc3UFhrakFmR3VScjJhSVV0R2VNejBRVTRGTHJ0ek56UzJIV19FZkFfVEhsanprSUlTSW9meUI0Q0ZVUFhJbTRLYmNld2Q0XzVUWTZ1OUxTT0U2UkplVWl4LXlrTXVDU2IxelMwdHpBYzdubEdZTVVsdEhYYlM5RU1vNHM3U0hhWU8wclJuMkZyWG92dDhR0gGSAkFVX3lxTE9BaElmV011aDdyc2RneVJvcDc1TWhIVG1mLXV6SmlsRmpUV2U2VEZ5VjdpX2RoaUQybTB4eko4ZjRRUFpSdHpJaHQwUnhWcVcyQ1lEakoycDMxazkxSUdoUld6YlZaZUdxQy1NOVpDVTI0cV8yd0RHWTlnZWhtSzB1RDY0NzdQWGtqQWZHdVJyMmFJVXRHZU16MFFVNEZMcnR6TnpTMkhXX0VmQV9USGxqemtJSVNJb2Z5QjRDRlVQWEltNEtiY2V3ZDRfNVRZNnU5TFNPRTZSSmVVaXgteWtNdUNTYjF6UzB0ekFjN25sR1lNVWx0SFhiUzlFTW80czdTSGFZTzByUm4yRnJYb3Z0OFE?oc=5
 
-25-year-old hedge fund manager who lost $35 billion in a month eyes fresh capital after AI stock selloff The Economic Times
+25-year-old hedge fund manager who lost $35 billion in a month eyes fresh capital after AI stock selloff economictimes.com
 
-### 36. Tech stock sell-off tests AI hype, but infrastructure investment cycle will go on - The Straits Times
-
-- Source: The Straits Times
-- Published: 2026-08-11T08:21:13+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQdEdOd1VsaE1yYVZUdW1ZblIyZHdHaEVPUmRPSnlMVGxYaFcwRlhXV3NudXNJaXgtZGhVRzRMM1hnUlkxTk1LdS14TmJlV1pyNlRpa0tlYnNTNEdEeXR2dHp3M2FPVy14bUNNQlZJZ3BnU0syVHRBWXFOSjF3YzF6ZDk2aXMxbnROZUNhT3k2eTA5LTZJRVFYY1NNQkRsZHRrWnQ3am14V3lobDJ5RmRIRjFicnNWU2ZWSUE?oc=5
-
-Tech stock sell-off tests AI hype, but infrastructure investment cycle will go on The Straits Times
-
-### 37. Naukri, Gland Pharma, Bosch among buzzing stocks as SENSEX falls over 400 pts, NIFTY trades below 24,500 - Upstox
+### 38. Naukri, Gland Pharma, Bosch among buzzing stocks as SENSEX falls over 400 pts, NIFTY trades below 24,500 - Upstox
 
 - Source: Upstox
 - Published: 2026-08-11T07:30:58+00:00
@@ -376,7 +386,7 @@ Tech stock sell-off tests AI hype, but infrastructure investment cycle will go o
 
 Naukri, Gland Pharma, Bosch among buzzing stocks as SENSEX falls over 400 pts, NIFTY trades below 24,500 Upstox
 
-### 38. Sensex Falls Nearly 400 Points, Nifty Slips Below 24,500 as Banks Drag; Small-Caps Buck Trend - Dalal Street Investment Journal
+### 39. Sensex Falls Nearly 400 Points, Nifty Slips Below 24,500 as Banks Drag; Small-Caps Buck Trend - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-11T06:05:40+00:00
@@ -386,7 +396,7 @@ Naukri, Gland Pharma, Bosch among buzzing stocks as SENSEX falls over 400 pts, N
 
 Sensex Falls Nearly 400 Points, Nifty Slips Below 24,500 as Banks Drag; Small-Caps Buck Trend Dalal Street Investment Journal
 
-### 39. Global Market Live: US Stocks Fall As Tech Giants Slide | Iran Talks, AI Rally In Focus Fiorentina Vs Genoa (q9Va5hpKgc) - Mshale
+### 40. Global Market Live: US Stocks Fall As Tech Giants Slide | Iran Talks, AI Rally In Focus Fiorentina Vs Genoa (q9Va5hpKgc) - Mshale
 
 - Source: Mshale
 - Published: 2026-08-11T05:10:09+00:00
@@ -395,16 +405,6 @@ Sensex Falls Nearly 400 Points, Nifty Slips Below 24,500 as Banks Drag; Small-Ca
 - Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE82V2R1T1prQlVwc3dYODkyOGlDUFlHblltd1RmQ1lTTENyRnNvdElnX3U1eWw1Z3JXaUI4MkZLZWdmV1pnMXVZX21wa0kwV0dHQzRQd1M5cm5BbHlPbFpDWA?oc=5
 
 Global Market Live: US Stocks Fall As Tech Giants Slide | Iran Talks, AI Rally In Focus Fiorentina Vs Genoa (q9Va5hpKgc) Mshale
-
-### 40. SSE Composite: Shanghai Benchmark Slips 0.59% to 3,809.7 as Weak PMI Data and AI Selloff Weigh on Sentiment - BBN Times
-
-- Source: BBN Times
-- Published: 2026-08-11T04:44:07+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUFdSZkNCenVHUlJTTXlGRnBjcmhwQWtVVjFiU1FMNk10VHRjVUkwTkdER09CWm1UaTJUV3BRdEhtOW5DMHhIeTRpZ2gyaUpNaGlRbzlrN3JIRjRnU0luZEdhTEE5YVVzMGdKd1Vua1NXRTJxV1prVDZ6NzUyUG1zOXJCTUFSUmxyd3FaOFhvZkFHZjJkVHd3N19fd2Y1T3BqQk5IYjkzbDNEOWNtRVhWdEo0dnJodXJRWHdlMW5SX2VhTGJpZ1loUkV6WWdZMW9sWnlJR3NIbFRKZEJiVkE?oc=5
-
-SSE Composite: Shanghai Benchmark Slips 0.59% to 3,809.7 as Weak PMI Data and AI Selloff Weigh on Sentiment BBN Times
 
 ### 41. Adani shares jump up to 3% as Sensex slips over 300 points, Nifty falls below 24,550 - newsdrum.in
 
@@ -416,25 +416,25 @@ SSE Composite: Shanghai Benchmark Slips 0.59% to 3,809.7 as Weak PMI Data and AI
 
 Adani shares jump up to 3% as Sensex slips over 300 points, Nifty falls below 24,550 newsdrum.in
 
-### 42. Why is market falling today? Sensex falls over 450 points, Nifty below 24,450. 4 key factors - The Economic Times
+### 42. Why is market falling today? Sensex falls over 450 points, Nifty below 24,450. 4 key factors - economictimes.com
 
-- Source: The Economic Times
+- Source: economictimes.com
 - Published: 2026-08-11T03:57:00+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZzRIUGxVM3d4WVNwN3lPYzFaeGZmUmNmS2J1enRpOTlTSFByc2JhX3paSUJLbjJrbEFUamFUR1NHSmVsNmwxUHpMSEtyZGhKVGZySVY2WXpBMG1POVJSYWV6ZktZUVRIRjl5bEMxWUpJRTU4OWtjeTd4VzEwUkJQdmpvWjN1ek9lUFBVUlU2VlVvLW1LY19Vam5OMHd4MFdsNGR4eFJ6Z0twa01TU2tRTklnMFZ4ZENlMWtxVV9Cem1sOTJZYkJZbU15aWo5a2FJb3RuaFJwRXhQVmhUMFdJT3kyd3lKc0IwYjk00gHwAUFVX3lxTFBJdk1DSE5QV2MzaXN2QTJJMUJDMTN3SmxaM3I3Nm9kdk5RWndKR1QwaFEtem1vbk9WbGRmaTF2TzAteWZ3cWM2ZDllRzY3S1JjeUxadzhJLXh0R054dkFvbmFCWWdtNnJLYzB0czlOTWNDOGZ4TUlnTmlHaU5xNGIzVW5wd0FpVHNGeVFwYUttNFNpNVR1MDhrYUFpdl8yYzM3b1FBbTdmcGp3YXM0Qk9rUkpGb1IzdWNyaWRqU1Zjdk1qRkFGOUJycnliTVRCSFlhaWdOdXhmUDV2Q001YVlTWlR3dTNlWFhYRnIxaGZHVg?oc=5
 
-Why is market falling today? Sensex falls over 450 points, Nifty below 24,450. 4 key factors The Economic Times
+Why is market falling today? Sensex falls over 450 points, Nifty below 24,450. 4 key factors economictimes.com
 
-### 43. Stock Market Today: Sensex falls over 200 points; Nifty slips below 24,550; Bajaj Finance top loser - Zee Business
+### 43. Stock Market Today: Sensex falls over 200 points; Nifty slips below 24,550; Bajaj Finance top loser - zeebiz.com
 
-- Source: Zee Business
+- Source: zeebiz.com
 - Published: 2026-08-11T03:49:52+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMVBwMi1sUG8zR2UxMnF4eVBxcm1JcDBsc2hCRlp0SEJGUEZ4bV9feTQzOWJYbFFDeWVobzEwZURwbFk3czBYZjBvOC15VnJIczlCR1NoTUdfTVJQSDAwQWY2TEJ0MmN0OGY4aFVkVVdmV0tPOC13RlI3ZXh0bm5Ycm5oazhreUxZVE9sbVJ6TlB4OHVBLWVQbUJNd3Ntd05ZM2NvMDhWaTN2US1fQkltV2Y2US1pS0JVckMzMkt3bFAwZl9EUXk0Vmt6WFlFMDdnbXBQMnBrLXI?oc=5
 
-Stock Market Today: Sensex falls over 200 points; Nifty slips below 24,550; Bajaj Finance top loser Zee Business
+Stock Market Today: Sensex falls over 200 points; Nifty slips below 24,550; Bajaj Finance top loser zeebiz.com
 
 ### 44. China Stocks Fall on Geopolitical Jitters, AI Weakness - TradingView
 
@@ -466,17 +466,7 @@ Goldman says Korea's AI-stock selloff has gone too far, doubles down on bull cas
 
 Markets End Lower As Rising Crude Triggers Profit-Booking; Sensex Falls Nearly 400 Pts BW Businessworld
 
-### 47. SpaceX Rout Continues As Tech Selloff Hits Stocks | The Pulse 6/23/2026 Lorella Cuccarini (dRWt1SaU3G) - Mshale
-
-- Source: Mshale
-- Published: 2026-08-10T16:25:14+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INmxTcWsxeGtuUUVxN2JQaTQ2MFhBeTlrOWExdDNYeTQ2bDNYbHBQeF81TnJvTF9xRFRCYjMzYTZGdHVRbVlCakM4Z3VRTU5IcHlwaDBFenpmZzg?oc=5
-
-SpaceX Rout Continues As Tech Selloff Hits Stocks | The Pulse 6/23/2026 Lorella Cuccarini (dRWt1SaU3G) Mshale
-
-### 48. Sustained crude rise could weigh on H2CY26 recovery, Nifty may fall to 23,030 by December 2026: Report - Big News Network.com
+### 47. Sustained crude rise could weigh on H2CY26 recovery, Nifty may fall to 23,030 by December 2026: Report - Big News Network.com
 
 - Source: Big News Network.com
 - Published: 2026-08-10T16:03:00+00:00
@@ -486,7 +476,7 @@ SpaceX Rout Continues As Tech Selloff Hits Stocks | The Pulse 6/23/2026 Lorella 
 
 Sustained crude rise could weigh on H2CY26 recovery, Nifty may fall to 23,030 by December 2026: Report Big News Network.com
 
-### 49. Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdrive. Stocks Fall. - International Business Times
+### 48. Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdrive. Stocks Fall. - International Business Times
 
 - Source: International Business Times
 - Published: 2026-08-10T15:22:15+00:00
@@ -496,7 +486,7 @@ Sustained crude rise could weigh on H2CY26 recovery, Nifty may fall to 23,030 by
 
 Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdrive. Stocks Fall. International Business Times
 
-### 50. Leveraged hedge fund Situational Awareness faces major losses amid AI sector correction and forced sell-offs. - Pluang
+### 49. Leveraged hedge fund Situational Awareness faces major losses amid AI sector correction and forced sell-offs. - Pluang
 
 - Source: Pluang
 - Published: 2026-08-10T13:43:26+00:00
@@ -506,7 +496,7 @@ Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdriv
 
 Leveraged hedge fund Situational Awareness faces major losses amid AI sector correction and forced sell-offs. Pluang
 
-### 51. Nifty may fall to 23,030 by December - News Arena India
+### 50. Nifty may fall to 23,030 by December - News Arena India
 
 - Source: News Arena India
 - Published: 2026-08-10T13:30:48+00:00
@@ -516,7 +506,7 @@ Leveraged hedge fund Situational Awareness faces major losses amid AI sector cor
 
 Nifty may fall to 23,030 by December News Arena India
 
-### 52. “Selloff Is Overdone”: Cantor Says to Buy These Semiconductor Stocks - TipRanks
+### 51. “Selloff Is Overdone”: Cantor Says to Buy These Semiconductor Stocks - TipRanks
 
 - Source: TipRanks
 - Published: 2026-08-10T13:19:11+00:00
@@ -526,7 +516,7 @@ Nifty may fall to 23,030 by December News Arena India
 
 “Selloff Is Overdone”: Cantor Says to Buy These Semiconductor Stocks TipRanks
 
-### 53. Stock Market Warning August 2026: Is a Major Correction Coming? - Intellectia AI
+### 52. Stock Market Warning August 2026: Is a Major Correction Coming? - Intellectia AI
 
 - Source: Intellectia AI
 - Published: 2026-08-10T12:55:44+00:00
@@ -536,7 +526,7 @@ Nifty may fall to 23,030 by December News Arena India
 
 Stock Market Warning August 2026: Is a Major Correction Coming? Intellectia AI
 
-### 54. Overseas Research Selection | JPMorgan: Storage Stock Correction Does Not Alter Fundamentals; AI-Driven Super Cycle May Extend to 2028 - 富途牛牛
+### 53. Overseas Research Selection | JPMorgan: Storage Stock Correction Does Not Alter Fundamentals; AI-Driven Super Cycle May Extend to 2028 - 富途牛牛
 
 - Source: 富途牛牛
 - Published: 2026-08-10T12:46:00+00:00
@@ -546,47 +536,37 @@ Stock Market Warning August 2026: Is a Major Correction Coming? Intellectia AI
 
 Overseas Research Selection | JPMorgan: Storage Stock Correction Does Not Alter Fundamentals; AI-Driven Super Cycle May Extend to 2028 富途牛牛
 
-### 55. Closing Bell: Sensex, Nifty end flat amid volatility; midcaps outperform - IndiaIPO
+### 54. Quick Wrap: Nifty FMCG Index falls 1.17% - Business Standard
 
-- Source: IndiaIPO
-- Published: 2026-08-10T12:08:39+00:00
+- Source: Business Standard
+- Published: 2026-08-11T11:34:10+00:00
 - Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYlNrWEI1WTNUQTVnN01sOG5laFh0YmVTRWpVSC1ZcWYtVGFNazkzbnFqYTNobmVrT1E1QWd4LVdlV040d1J0bEcxU1NnaVZQdktnTVB0NjF5RUprY2hNOUhpeFBKRWtBTnlrMndyUlNubWFjQ2dmZjNTQ3cwMkVKYlc5aS12WVkwdEVBeTFwcFN4MkFkMW1VRlVuY3QwUmlVRXZtMWVnT18?oc=5
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxORXd2Qi11T3hzUE5YVFplTkZNZnNkVEdGQXpYX0cxaTVzVXZvQkF6b1hibnEtYkkwZ1p2WVJaMldVbG9nbGNhQU1oNHRCR2lrbkdDNnNacHJWMzJMOTlQXzg1VTZYRmVZbGkyQVYxUXlUaExiQ29LdzlId3VnUUtDUmFJdWFjMlQ0UWx2Y2IwRnRUWWRvSW5ncjdXT3VYVzIxbi10dDlsSFNyVHA4YmhCQkwyZlNNWGN1Q2FXR9IBwgFBVV95cUxQc3JINUppOHhzSkVubmhJTFZfbFlHRzdhY1F2NG4tdTV4dWhrSnc1S2htd21vbUgxY0NEVHZMV0dYajljQlo4ZWtOaEJfQ3lCZkZaZF9zaGF3M2RobVNKX2F5eXVKR2l5QS0zMEFHVHItWTM3dGo2MU5JbHdDUk96R0dlV21hV3VTOW1aVk9CdmZ4ekMxX25iNTk1bGlCdm0yeTF0YUtnRkVQS0prMzdkU1BEajN0X2RpZDdKM253M2JaQQ?oc=5
 
-Closing Bell: Sensex, Nifty end flat amid volatility; midcaps outperform IndiaIPO
+Quick Wrap: Nifty FMCG Index falls 1.17% Business Standard
 
-### 56. Sensex, Nifty end flat after volatile trade; Titan jumps 3%, SBI falls over 2% - newsdrum.in
+### 55. Nifty 50 Falls at Close, Ending Session in Negative Territory - businessupturn.com
 
-- Source: newsdrum.in
-- Published: 2026-08-10T11:53:35+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQcEk5REF2cWRoX0d1Q25TU1RRZ19aUlRIbVFYUzZwcUtlbWl5TkI5cms5d0h6eWktamh4cV9Tbjl0ZWJ4RVNZaUNYWmRQTTBwLVVna19QMC11S2gtcjdxSXRGRGJfcmlaX0Y4QmlKTlVOX1RBUWo4M2o5b2sxN0lROGtWV2pyRWpnOG14Y1ZVNGpLNXVzZlNISlZzdDVFeFlWdjI1cjVBRWhtd1JNdWlnZFo5TUc4QdIBtgFBVV95cUxQcEk5REF2cWRoX0d1Q25TU1RRZ19aUlRIbVFYUzZwcUtlbWl5TkI5cms5d0h6eWktamh4cV9Tbjl0ZWJ4RVNZaUNYWmRQTTBwLVVna19QMC11S2gtcjdxSXRGRGJfcmlaX0Y4QmlKTlVOX1RBUWo4M2o5b2sxN0lROGtWV2pyRWpnOG14Y1ZVNGpLNXVzZlNISlZzdDVFeFlWdjI1cjVBRWhtd1JNdWlnZFo5TUc4QQ?oc=5
-
-Sensex, Nifty end flat after volatile trade; Titan jumps 3%, SBI falls over 2% newsdrum.in
-
-### 57. Cantor upgrades semiconductor stock outlook after sector selloff - Investing.com
-
-- Source: Investing.com
-- Published: 2026-08-10T11:33:55+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNd2VIT2d6SzhHRHU2aHdxLWRpakZOekRtcVRlSnpxYkNWMmNxYTVLTjRrSzhyS0dUcXJuZjM5ckZxQTJNaXcyTFNuWDRhVXg4UGNqR2lIeEg3Z0IybjRERk10Ym1uSDhYVGdWZVJGRlF3UjNnbDR5R2dVb1dFcHBaQkNwXzhTWGJNYVRtall1RkxYcFEwMWRaOC1xbDhVSm5EYnhVNkZ4b1NWdkg0c2s3UW1hYllabXFEYzY1UU5ZTWdEdw?oc=5
-
-Cantor upgrades semiconductor stock outlook after sector selloff Investing.com
-
-### 58. Nifty 50 Falls at Close, Ending Session in Negative Territory - Business Upturn
-
-- Source: Business Upturn
+- Source: businessupturn.com
 - Published: 2026-08-11T09:59:46+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPSi0zX0pMMEVOMXN2YjVYQmNPcEdRWkVfZUtSNFVUNXMxaEdBZHpPbFo3RjJRNHR2Q3RHOUJUdVVPMHR3SS1NZ0FsOHZDMDlUTDYxampyQXFGejlQeFNHWEdpWXRuOGlUWTc1RkZkakw5WldrVGJ1OXFzSzNBWFcwVkxxd2ZQV3NsdjdYVWdfa0JzN2pfT2dnemEtemZQUDJVQWxiUldHV2YzNjgzSUpN?oc=5
 
-Nifty 50 Falls at Close, Ending Session in Negative Territory Business Upturn
+Nifty 50 Falls at Close, Ending Session in Negative Territory businessupturn.com
 
-### 59. Tube Investments of India shares fall 2.15% - Moneycontrol.com
+### 56. MFs pull back: Stakes cut in 12 smallcap stocks after two quarters of buying; stocks fall up to 40% - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-08-11T09:38:39+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxNQmhuNVl6OUtreThSamVuU1ppU1Voekx2SjFObkFNMzdBSDRSMnJVaC0wRlJhbHp0ell3SWhpRDdGOE9VdVZHcDItSDZJb21HX25NVTdmdDZtU1FudGhqWjd4RDhacF8wd0ItY1VURFRFbHpWazE3LVBUUlZjd3QxTVBkSktjMUd6YkFxOHNKS0VCM081a0d2ZlRqX3dhMGE1a1RSVy0xc3lwUlZacDdCT0dYUG9SZ3FXOWtEUllfLWpwWEFaVVZncEVnT2ZjWGVsb2UzemhRSEQ4X2hUMWlVM0dXMEJxcEJyU0pqUVpYajFlMldnaFNNSmUzLWxGYjE4OW9ZbF9kazk?oc=5
+
+MFs pull back: Stakes cut in 12 smallcap stocks after two quarters of buying; stocks fall up to 40% The Economic Times
+
+### 57. Tube Investments of India shares fall 2.15% - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T07:53:08+00:00
@@ -596,7 +576,7 @@ Nifty 50 Falls at Close, Ending Session in Negative Territory Business Upturn
 
 Tube Investments of India shares fall 2.15% Moneycontrol.com
 
-### 60. Polycab India shares fall 2.09% to Rs 9,081.00 - Moneycontrol.com
+### 58. Polycab India shares fall 2.09% to Rs 9,081.00 - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T06:55:22+00:00
@@ -606,25 +586,45 @@ Tube Investments of India shares fall 2.15% Moneycontrol.com
 
 Polycab India shares fall 2.09% to Rs 9,081.00 Moneycontrol.com
 
-### 61. HDFC Bank Share Price: Stock hits 2-year low as FPI holding falls for fifth straight quarter - Zee Business
+### 59. HDFC Bank Share Price: Stock hits 2-year low as FPI holding falls for fifth straight quarter - zeebiz.com
 
-- Source: Zee Business
+- Source: zeebiz.com
 - Published: 2026-08-11T06:20:00+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdG9hSUdQOWhmYjFGelB0c2ZUQzV5ZnVKMFpyWlZDU1hPWkRGZFNNUGJDZlBxdGRQRmdqS2pTdmJxNjIzNV9GOGU0QXJodDF4QjZ4VExOck53NE9GQjVaMDBUVjNXVlZtdU1kcUJqY1pLb2J6TWQxRU05Qy1mYUhCQTQ1bUlzY0Fpb3B0aFg2Q1NtclBIS1czVHZEVkRxcHFXZ1JEZjMwSlZabENjRkhOTG83Mk1rOWdkUGtNVVlHMk9zMFpQeHBwU0pUcEFMdnMtNnZHYnhHa2tBQQ?oc=5
 
-HDFC Bank Share Price: Stock hits 2-year low as FPI holding falls for fifth straight quarter Zee Business
+HDFC Bank Share Price: Stock hits 2-year low as FPI holding falls for fifth straight quarter zeebiz.com
 
-### 62. SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high - Dailyhunt
+### 60. India’s Mutual Fund Flows Tilted Away From Large-Caps In July - Finimize
 
-- Source: Dailyhunt
+- Source: Finimize
+- Published: 2026-08-11T00:37:15+00:00
+- Themes: India market, macro / flows
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxNdS1WUWI1aTB0alpjb2FjdkhzazdCWEswV1gtWDVMUktkVEVZZTJmWm51bFNaS3llVzM0dVg5QS1Tdjh5WUhnMzZINlRzRmpsMFMzdi13NmsxdW9LU3dkUTRwSDhjc1RnR0lNa3NfVjVjX3QtTVNJcDBoWW0tdGwwbHk2M01WR0FIMG9jUEg0ZXZRSGs?oc=5
+
+India’s Mutual Fund Flows Tilted Away From Large-Caps In July Finimize
+
+### 61. SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high - dailyhunt.in
+
+- Source: dailyhunt.in
 - Published: 2026-08-10T13:28:20+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxNTU5pUjEwT0JUSDh1RjVFV0YwMFN4d2VLeWY3YkV2dTNKWVVabG5NZ2N4alNFQWtoX1l6aVZibVVhQm1lSE11cEFDek5UcE0xXzc1RmdWUnZHcjQwZmdybmJZbzFRZnowelFKQ0xDM3VaaGJueGd1WXRTWU5kMU9TMV9xaTdQMVRpWmFGMWJXZURmUXF5QnFpWUVZa2NObkZIY1F3MXNsY1pkcTUxR0Z0SE9udHFNSnBoTUlCS2d3cy1TTmQ5VElWSDhlcWs5Z1dCVHZQWWxhX1A3V1lpWlQ5S1FhZW05QXBJSExOWk5MVzVVSHJKclVOZ0VHNnpBVDBfQ1RyZA?oc=5
 
-SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high Dailyhunt
+SENSEX falls over 370 points from day's high, NIFTY50 trades below 24,550; Titan hits record high dailyhunt.in
+
+### 62. Smallcap, midcap mutual funds see rise in inflows; largecap funds witness first outflow in 30 months - economictimes.com
+
+- Source: economictimes.com
+- Published: 2026-08-11T10:11:24+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQjc0bWlmWWV1SVJaY2ZldDJRUHlWd1Uxal96bTVZazdJaDhVSVFTUE1uUFFnalc0d3dmWXE1SGxua1Y0czJBU3ItYTRlZ2tiS2R6UVVhZzhHQzF1dEF4MjVMamtLMUpodTVJV1RqSjN4Zl9QVFpvUFlUMVhsQUFSTGoycjBrTnVuSExvaWFaNWhYVTk3Z2xjNVRkS2NFQVRhTEt3Z1AxRkxubEFybUI2b0sxS21BcW5MSWx4V3VaVEllMUtlZS1tQXp4YzZuWTJzOF9tMEl2QldzcUNIRWpwYkVLWW02REkxREVpVVNUSk5MVm5uU2FfcUpiMjbSAfwBQVVfeXFMTUI3NG1pZllldUlSWmNmZXQyUVB5VndVMWpfem01WWs3SWg4VUlRU1BNblBRZ2pXNHd3ZllxNUhsbmtWNHMyQVNyLWE0ZWdrYktkelFVYWc4R0MxdXRBeDI1TGprSzFKaHU1SVdUakozeGZfUFRab1BZVDFYbEFBUkxqMnIwa051bkhMb2lhWjVoWFU5N2dsYzVUZEtjRUFUYUxLd2dQMUZMbmxBcm1CNm9LMUttQXFuTElseFd1WlRJZTFLZWUtbUF6eGM2blkyczhfbTBJdkJXc3FDSEVqcGJFS1ltNkRJMURFaVVTVEpOTFZublNhX3FKYjI2?oc=5
+
+Smallcap, midcap mutual funds see rise in inflows; largecap funds witness first outflow in 30 months economictimes.com
 
 ### 63. Rs 2.36 lakh crore flows into mutual funds in July: Debt funds steal the show - India Today
 
@@ -646,7 +646,17 @@ Rs 2.36 lakh crore flows into mutual funds in July: Debt funds steal the show In
 
 Amfi Data July 2026: Smallcap, Midcap Funds Lead Equity MF Inflows As Largecap Schemes See Outflows Outlook Money
 
-### 65. HSBC Mutual Fund remains upbeat on Indian equities over longer term - The Hans India
+### 65. Mutual fund industry sees Rs 2.35 lakh crore net inflow in July; AUM rises to Rs 85.76 lakh crore: AMFI - DD India
+
+- Source: DD India
+- Published: 2026-08-11T07:48:00+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOX24tTjMzc0lWMjNUaUVDUmI2UXdPcWw0dGRuZEkteTVzbFJFM0F5TThzSzBHZThVQkFFX0x5UUdaMTZyTGdWT2hNZ3hHYzBPQVJPWmtaTjZUVXFwTzZlZEM2cUJIMFJQRFV3S1ctME9KellnendpRjBSVnJGM2NMbURUekZOWElXZUhqUVBPMks5VmR3ZGR4aUJVSVVrVlZTcUZMX3JiOUhPeF83dGRfUjRxY2dfRm5Ydkw1S2xaWmFyZEVVSUhtMnlVWnk?oc=5
+
+Mutual fund industry sees Rs 2.35 lakh crore net inflow in July; AUM rises to Rs 85.76 lakh crore: AMFI DD India
+
+### 66. HSBC Mutual Fund remains upbeat on Indian equities over longer term - The Hans India
 
 - Source: The Hans India
 - Published: 2026-08-10T18:40:26+00:00
@@ -656,17 +666,17 @@ Amfi Data July 2026: Smallcap, Midcap Funds Lead Equity MF Inflows As Largecap S
 
 HSBC Mutual Fund remains upbeat on Indian equities over longer term The Hans India
 
-### 66. The Wealth Company launches GIFT City Fund to offer overseas investors India mutual fund exposure - The Economic Times
+### 67. Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows - livemint.com
 
-- Source: The Economic Times
-- Published: 2026-08-10T12:23:44+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxNcmRicDAzdkVRMURzcHpyWUNRZ29pR3FoeFJ0NHN0ZkRfdE5sU25acUwwYnRDdEl0cWZOaVVTSGZhVjBGTjFGcHU3WHFNSHpmN212TUt0amNDdVNQQjNmRjVFZnRzbEF2LU9TR1RwQWxwWlhJSW5HVGxob1pBVDVGNnJId1ZnLUF6M3Aydk1wX3BGQmp5ZHU4TGF6TUxVQjY5VV9MWk04bk1OWF9xMXdlYm5ERjkxYUpsQmpJcjZ3Ymw2ZmtyYThiMWFoY25LLVpHbmNzem4tdG5fOUx1eFBqVHRDdG5iSkJBbjBMNS1zajN6bk1XbmJFYlF30gH6AUFVX3lxTE1yZGJwMDN2RVExRHNwenJZQ1Fnb2lHcWh4UnQ0c3RmRF90TmxTblpxTDBidEN0SXRxZk5pVVNIZmFWMEZOMUZwdTdYcU1IemY3bXZNS3RqY0N1U1BCM2ZGNUVmdHNsQXYtT1NHVHBBbHBaWElJbkdUbGhvWkFUNUY2ckh3VmctQXozcDJ2TXBfcEZCanlkdThMYXpNTFVCNjlVX0xaTThuTU5YX3Exd2VibkRGOTFhSmxCaklyNndibDZma3JhOGIxYWhjbkstWkduY3N6bi10bl85THV4UGpUdEN0bmJKQkFuMEw1LXNqM3puTVduYkViUXc?oc=5
+- Source: livemint.com
+- Published: 2026-08-11T11:34:25+00:00
+- Themes: macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnFMM1lVM1M4WERoME1vR2lmWWY4SkJEb3M5ZWRLa0lUYkU1RzQza29CV2pKQmdwbEQ1NWNMdkJYbWRiYjRYMDlEUERjTjR5NFQ5bmNpUkdWZmxXYzlBZGFXUEZBMjUwLVhlMlJwTGdSMTNZTlN2S3N4OENBRWh5TkNtdDJ2OXlubWhSWGc0S2pyeVloRWtsSFhkcHBzSS1XWHdJUDRvVVhXQ0Z5SjAzM2Jqb3dORS1sX3c4b0QxaUFFS21LTG9iOFJPUzZScW5xMzhmVDFteWRNZEhXMXhZSXFvaF9BcVZUb3l4b081TFpOLVRwcllpWlFR0gH_AUFVX3lxTFBxN0lCd09ORktBY2Mzc1FMeDdMOGlzTnh5RnBpQnhWMnlDNE5FeGIwd3R6eHN0NjdYdlJYRXN6dEFXSzBJMDdMa1BuelU1T0JkVU9MV3RMOXJ6NU1DMTNwZG9KR0d3LUlRWGxVaVRnT2lzVVJhdVFTT282ck9uWUFfMEYyei1HRVdoZHNvUlRVMTNOY05WQ3dhdVEyX3ZXTHVKM09fOXN4THhvemFKSkV5T3VRc3dzWlU1NDBCdzJtcjVzbWtwNjdSZ1BWc3V0T2NPX1kxd2tFY01qT09BWjJjOTFCWTdzbHlicTU1ODBuSXh2VEpDUlMtNDVJSGdtSQ?oc=5
 
-The Wealth Company launches GIFT City Fund to offer overseas investors India mutual fund exposure The Economic Times
+Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows livemint.com
 
-### 67. Where to eat & sip this month in Delhi NCR - Luxebook India
+### 68. Where to eat & sip this month in Delhi NCR - Luxebook India
 
 - Source: Luxebook India
 - Published: 2026-08-11T11:05:07+00:00
@@ -676,17 +686,47 @@ The Wealth Company launches GIFT City Fund to offer overseas investors India mut
 
 Where to eat & sip this month in Delhi NCR Luxebook India
 
-### 68. SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volatility: AMFi Data - The Tribune
+### 69. AMFI data key highlights: Small-cap flows surge as large-caps see first outflow in 30 months, debt funds... - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-11T10:42:06+00:00
+- Themes: macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSzhzUlpUcVJhNGtUSEpyT2ZsclVuSnBRUlcxUmFCWkJSeUlaNS1BY2kyRmxyd1BsOS1JamYwVEllQU5uT1NhSF94aTV0cFptQjMzSENtRWlZQ3A0ZkpXSWlsdURPak40SHUtRUtYYUppRjNBdXM4LWlOeGVyRFlwRzRQWG4xMVNkT2trRy1iRmdPZU12LU9IazU3V3lROEFHakswdy1rZGtjaW5VdUtZUXpWTG9JdWVfLXRlaHNtTFRsSkZ0anV2V3pXeHlSeDlpZzFZOGs5NHFaaUtPd0VfTlBXSGJ3NkZiWHdnVmFiZmxvcGfSAfMBQVVfeXFMTUs4c1JaVHFSYTRrVEhKck9mbHJVbkpwUVJXMVJhQlpCUnlJWjUtQWNpMkZscndQbDktSWpmMFRJZUFObk9TYUhfeGk1dHBabUIzM0hDbUVpWUNwNGZKV0lpbHVET2pONEh1LUVLWGFKaUYzQXVzOC1pTnhlckRZcEc0UFhuMTFTZE9ra0ctYkZnT2VNdi1PSGs1N1d5UThBR2pLMHcta2RrY2luVXVLWVF6VkxvSXVlXy10ZWhzbUxUbEpGdGp1dld6V3h5Ung5aWcxWThrOTRxWmlLT3dFX05QV0hidzZGYlh3Z1ZhYmZsb3Bn?oc=5
+
+AMFI data key highlights: Small-cap flows surge as large-caps see first outflow in 30 months, debt funds... Moneycontrol.com
+
+### 70. SIP for Financial Freedom: 7 mutual fund portfolio mistakes to avoid - zeebiz.com
+
+- Source: zeebiz.com
+- Published: 2026-08-11T10:22:00+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3VhWDFvM2lJYlRsN3pTNmI2RjhOWEpwbjhqV3RqdlFiZ2ZWc1JCZ2NkNzJnMXBhWTM4T3k0bkNySXY2eDRTZFAzM3hIdGdQNjRLcU9mX3Y2dXh4OVp1T0ZDdVlvenVGNGpVanNkaXhDaUI4bTVieG5wdXdzY2NHOW5qN2FlSmVOMUVQNEwyVllHdU14eUUxUlFlY3o2b1FQYWlOS2dPUzI0TVlyYUpOMENySUVtWDBBVEdUUTVXM0c?oc=5
+
+SIP for Financial Freedom: 7 mutual fund portfolio mistakes to avoid zeebiz.com
+
+### 71. Mutual Fund: Equity schemes shrink 15% month-on-month in July, stellar show by debt funds - News9live
+
+- Source: News9live
+- Published: 2026-08-11T09:34:56+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3JFUVkwN0NqQkc5dkhTSHM5Y21QVEdBbi1jdm1LNTFuMEo2X2YyRVB1Rk1KMzVQMTlMRm84T3RMZWw3cngtMHNvLVNhZHlfOHFHLXRzZ194MDFWVWdfYU5VMHFGSXVOUkVaNlc4ZWdyWXUyOHBFMmNXNmU0OXFXLWdKR1labE9HVGY2UVRycXFtY2J0dmdVWkFZOTNESDd4U1Uzc0NyLThUWUowbFNVdV93a1ZnV1hDeGEwVU5LME1wZzFCdmVaSy1lQUpFc1dzLTk2cNIB2gFBVV95cUxNM0NzZ0I2cUlPNktjVEtnci04MUZESDV4eU04d1VEd0lud2JyVTR2TTVudzFWWnVxR1c5NWVLTmVNdVNhcFh0bWpTazhDc0s4dzFwY1lXdV9zUFUwRWV5ZW5mUldLSEtsd1NLamNfaTJrUVFORElyLXlYSl9vck02ZWJBYmI5VU5WelNpUFVqQjJzQ1lIZW5keEhvc0RtVmNaSFRzWjRFenZoZUo4QXJCWkVsbEdEYnNFOHk2ZEQ4UFFPZ2c2RzhUVUtYRkw0WEdkZTdoVUVQOTRQdw?oc=5
+
+Mutual Fund: Equity schemes shrink 15% month-on-month in July, stellar show by debt funds News9live
+
+### 72. SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volatility: AMFi Data - The Tribune
 
 - Source: The Tribune
 - Published: 2026-08-11T09:33:15+00:00
 - Themes: market selling
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaFhPNmdhY1NnMEcwMEdiQ3BwTk1rWmFfdmpYanpLQkxvNVRHdXVLWUJUVGZWVjU3dER1YnNmMXF4YUE2a25YclFwZ3VwSE4xM2p6RnB1bC14OTdhMGdIRHhfZlFDX2NOY1djZUlaZWd3M3RwSEllTVdzVEIzV1lOYklUVmh1MEtCMXVEa21rVGdzOXplUWh6aVcxXzBPS1BfREJ5aVZHa3JrOS10aXk2WXBKLWtLMVhTbFdUWmp2ZzZlZGI3TmtETl9FWG9pcmtlR01R0gHXAUFVX3lxTFBSOEhkUkp6QTM1X0lxOTVObHpFYVlBb1prRnlpS2dKRjc4MkNqLU9KREVVUDdEWGllRGJwcmFVMTR3VHd2TW50ZEt3RVhMOWd6X3o1WHgwd3AxV1hvNHBISm93STFscFhTTE1FQzJweE83R3BVSW9LcW04MndHS0NRT09KaWxjWktBN29oeHFhNENMVklvT3YyNEI5UTF5dEptNzVNNFFKVm1tUkNyT1FSWk90NlJQcGdLQ0Z0NDQ5MlktN0trRmo4WHY5OVFRZGtTbG9uTEtv?oc=5
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUjhIZFJKekEzNV9JcTk1Tmx6RWFZQW9aa0Z5aUtnSkY3ODJDai1PSkRFVVA3RFhpZURicHJhVTE0d1R3dk1udGRLd0VYTDlnel96NVh4MHdwMVdYbzRwSEpvd0kxbHBYU0xNRUMycHhPN0dwVUlvS3FtODJ3R0tDUU9PSmlsY1pLQTdvaHhxYTRDTFZJb092MjRCOVExeXRKbTc1TTRRSlZtbVJDck9RUlpPdDZSUHBnS0NGdDQ0OTJZLTdLa0ZqOFh2OTlRUWRrU2xvbkxLb9IB1wFBVV95cUxQUjhIZFJKekEzNV9JcTk1Tmx6RWFZQW9aa0Z5aUtnSkY3ODJDai1PSkRFVVA3RFhpZURicHJhVTE0d1R3dk1udGRLd0VYTDlnel96NVh4MHdwMVdYbzRwSEpvd0kxbHBYU0xNRUMycHhPN0dwVUlvS3FtODJ3R0tDUU9PSmlsY1pLQTdvaHhxYTRDTFZJb092MjRCOVExeXRKbTc1TTRRSlZtbVJDck9RUlpPdDZSUHBnS0NGdDQ0OTJZLTdLa0ZqOFh2OTlRUWRrU2xvbkxLbw?oc=5
 
 SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volatility: AMFi Data The Tribune
 
-### 69. AMFI July 2026 data out: Mutual fund AUM rises to Rs 85.76 lakh crore; net inflow strengthens to Rs 2.35 lakh crore - ET Now
+### 73. AMFI July 2026 data out: Mutual fund AUM rises to Rs 85.76 lakh crore; net inflow strengthens to Rs 2.35 lakh crore - ET Now
 
 - Source: ET Now
 - Published: 2026-08-11T09:04:42+00:00
@@ -696,7 +736,7 @@ SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volat
 
 AMFI July 2026 data out: Mutual fund AUM rises to Rs 85.76 lakh crore; net inflow strengthens to Rs 2.35 lakh crore ET Now
 
-### 70. Bank of India Liquid Fund leads liquid mutual funds in three-year CAGR returns; delivers 7.0% gain - Moneycontrol.com
+### 74. Bank of India Liquid Fund leads liquid mutual funds in three-year CAGR returns; delivers 7.0% gain - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T08:46:47+00:00
@@ -706,7 +746,7 @@ AMFI July 2026 data out: Mutual fund AUM rises to Rs 85.76 lakh crore; net inflo
 
 Bank of India Liquid Fund leads liquid mutual funds in three-year CAGR returns; delivers 7.0% gain Moneycontrol.com
 
-### 71. Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns; delivers 13.0% gain - Moneycontrol.com
+### 75. Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns; delivers 13.0% gain - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T08:42:22+00:00
@@ -716,7 +756,7 @@ Bank of India Liquid Fund leads liquid mutual funds in three-year CAGR returns; 
 
 Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns; delivers 13.0% gain Moneycontrol.com
 
-### 72. Nippon India Consumption Fund leads consumption sectoral mutual funds in one-month returns; delivers 5.2%... - Moneycontrol.com
+### 76. Nippon India Consumption Fund leads consumption sectoral mutual funds in one-month returns; delivers 5.2%... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T08:41:31+00:00
@@ -726,7 +766,7 @@ Bank of India Small Cap Fund leads small-cap mutual funds in three-month returns
 
 Nippon India Consumption Fund leads consumption sectoral mutual funds in one-month returns; delivers 5.2%... Moneycontrol.com
 
-### 73. DSP India T.I.G.E.R Fund leads infrastructure sectoral mutual funds in one-year CAGR returns; delivers... - Moneycontrol.com
+### 77. DSP India T.I.G.E.R Fund leads infrastructure sectoral mutual funds in one-year CAGR returns; delivers... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T08:35:56+00:00
@@ -736,17 +776,17 @@ Nippon India Consumption Fund leads consumption sectoral mutual funds in one-mon
 
 DSP India T.I.G.E.R Fund leads infrastructure sectoral mutual funds in one-year CAGR returns; delivers... Moneycontrol.com
 
-### 74. Mutual fund SIP inflows rise to Rs 31,961 crore in July; stoppage ratio moderates further - Moneycontrol.com
+### 78. Mutual fund SIP inflows rise to Rs 31,961 crore in July; stoppage ratio moderates further - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-11T08:05:58+00:00
 - Themes: India market
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPbG1na3VYOTR4SG11MEtCaGg5ODZPNWFwbFBYN3RfR1Z0NUJmV2VJS1owa01ZSTFnV2R6eUtqa2lSSHhIeTNVUWdDeVE2dFJPYlZidlg3SGdITzI1TXdneDRNVjFtS0tqdXhJMzhiOGxvWVJvaDFWaXRKU3ZPMW9ROWs2dy1tVk1mMXUzMjlfck5DV1Y3d2JDQ2xVUGZIV0dZbldzbU4tT2wzTGZ2eFg5VWVjbUYtSDFMWkxVVXU3NEVhTGIzZHJuaWtSSThsRDc4Z0ctUmpaNkZZU3V3SmtCc2NCZUxDRGtid1pjS0Zn0gHuAUFVX3lxTE9sbWdrdVg5NHhIbXUwS0JoaDk4Nk81YXBsUFg3dF9HVnQ1QmZXZUlLWjBrTVlJMWdXZHp5S2praVJIeEh5M1VRZ0N5UTZ0Uk9iVmJ2WDdIZ0hPMjVNd2d4NE1WMW1LS2p1eEkzOGI4bG9ZUm9oMVZpdEpTdk8xb1E5azZ3LW1WTWYxdTMyOV9yTkNXVjd3YkNDbFVQZkhXR1luV3NtTi1PbDNMZnZ4WDlVZWNtRi1IMUxaTFVVdTc0RWFMYjNkcm5pa1JJOGxENzhnRy1Salo2RllTdXdKa0JzY0JlTENEa2J3WmNLRmc?oc=5
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOV1kxbUZGd2NPcmVkbWZrQVRsSmZPS1FTMjFObENaM3lwUGJtVi1SQ0hQY3lBakJ1YlpkRWtuN2JOU0NfSGpqLUZub0c0eUtZUjhEbmtwX0FobUFMcDNpazRNbmFHZVhrUzhyQ1oycEFCQUJ3Ry1CN2pLSm5XX0FIUDliX3poTk9fZVlFMEtrWGduendSLVlQUUg0LXBRYlNiMHFkUFFDa2FPQ21uZWg5dXpUVDJLTDJhOHVBN1MwYmJnMV9TQ2VuYTVmQU1oN29MLVA4Y2lvdkZaVUcyeWdUM0g0SWM2X2Ff0gHuAUFVX3lxTE9sbWdrdVg5NHhIbXUwS0JoaDk4Nk81YXBsUFg3dF9HVnQ1QmZXZUlLWjBrTVlJMWdXZHp5S2praVJIeEh5M1VRZ0N5UTZ0Uk9iVmJ2WDdIZ0hPMjVNd2d4NE1WMW1LS2p1eEkzOGI4bG9ZUm9oMVZpdEpTdk8xb1E5azZ3LW1WTWYxdTMyOV9yTkNXVjd3YkNDbFVQZkhXR1luV3NtTi1PbDNMZnZ4WDlVZWNtRi1IMUxaTFVVdTc0RWFMYjNkcm5pa1JJOGxENzhnRy1Salo2RllTdXdKa0JzY0JlTENEa2J3WmNLRmc?oc=5
 
 Mutual fund SIP inflows rise to Rs 31,961 crore in July; stoppage ratio moderates further Moneycontrol.com
 
-### 75. Gold ETFs See 55% MoM Fall In July Inflows: AMFI Data - NDTV Profit
+### 79. Gold ETFs See 55% MoM Fall In July Inflows: AMFI Data - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-08-11T07:49:01+00:00
@@ -756,17 +796,7 @@ Mutual fund SIP inflows rise to Rs 31,961 crore in July; stoppage ratio moderate
 
 Gold ETFs See 55% MoM Fall In July Inflows: AMFI Data NDTV Profit
 
-### 76. Mutual fund industry sees Rs 2.35 lakh crore net inflow in July; AUM rises to Rs 85.76 lakh crore: AMFI - ddindia.co.in
-
-- Source: ddindia.co.in
-- Published: 2026-08-11T07:48:00+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOX24tTjMzc0lWMjNUaUVDUmI2UXdPcWw0dGRuZEkteTVzbFJFM0F5TThzSzBHZThVQkFFX0x5UUdaMTZyTGdWT2hNZ3hHYzBPQVJPWmtaTjZUVXFwTzZlZEM2cUJIMFJQRFV3S1ctME9KellnendpRjBSVnJGM2NMbURUekZOWElXZUhqUVBPMks5VmR3ZGR4aUJVSVVrVlZTcUZMX3JiOUhPeF83dGRfUjRxY2dfRm5Ydkw1S2xaWmFyZEVVSUhtMnlVWnk?oc=5
-
-Mutual fund industry sees Rs 2.35 lakh crore net inflow in July; AUM rises to Rs 85.76 lakh crore: AMFI ddindia.co.in
-
-### 77. Market Outlook: FPI Flows, Oil & Rupee Emerge As Key Triggers For Equities - Business Today
+### 80. Market Outlook: FPI Flows, Oil & Rupee Emerge As Key Triggers For Equities - Business Today
 
 - Source: Business Today
 - Published: 2026-08-11T07:42:43+00:00
@@ -775,33 +805,3 @@ Mutual fund industry sees Rs 2.35 lakh crore net inflow in July; AUM rises to Rs
 - Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOWDVLbk9TMG5WNWRoRWY1MHJZUWw0QVRiSTlFRFNQbU13ZVlBcXZ1bkhVOU9GLWpDTmcwSnRmZnlYX0k4MWJXSFZlMzU3Y2FrOWZZZ2dyY2xUTVZ0SFZ4S0hPaDlDZG93ZGdkdWVtd1N4WG94bzdBSE0xSlFDc0VlNy11Wk43dzdKYW9BV2h4WnhUeVJrdVByRGZyQml2ck5WTkJlbEhkcVduYVgxVFZEWTNpMFFHYlhtRmFvc3R3YnZkTElPWWdMR1NOOEluYnFoTGlMblFfZUc4TG1xQVJr0gHfAUFVX3lxTE5YNUtuT1MwblY1ZGhFZjUwcllRbDRBVGJJOUVEU1BtTXdlWUFxdnVuSFU5T0YtakNOZzBKdGZmeVhfSTgxYldIVmUzNTdjYWs5ZllnZ3JjbFRNVnRIVnhLSE9oOUNkb3dkZ2R1ZW13U3hYb3hvN0FITTFKUUNzRWU3LXVaTjd3N0phb0FXaHhaeFR5Umt1UHJEZnJCaXZyTlZOQmVsSGRxV25hWDFUVkRZM2kwUUdiWG1GYW9zdHdidmRMSU9ZZ0xHU044SW5icWhMaUxuUV9lRzhMbXFBUms?oc=5
 
 Market Outlook: FPI Flows, Oil & Rupee Emerge As Key Triggers For Equities Business Today
-
-### 78. Equity MF inflows drop 15% to Rs 24,697 crore in July; large-cap, focused funds see sharp fall: AMFI - financialexpress.com
-
-- Source: financialexpress.com
-- Published: 2026-08-11T07:39:55+00:00
-- Themes: market selling
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxNeV9sVlQ3RVhFLWtlUHhHLWdWNGRSU2R0ZVRLQ2ltTE9XRjlaaUxhZUdRcFZXN21BYjcyejVOYW53UG9uanNFYW9RX2dleWw0eEtuSmdKYU45MTJ0OTBrbW9IM2c1eGhROS03QllHVHVHRjUyVEFyT1UxZFZRaVdVSzFJd0E1cjRLekNLMnNRVWN5WlUtZ29ESFZzeEpURE15NmZPV184aHAyZ1o4VmJUUkJVRXlqVTJzRVRhRmVYaVVWOVJLLWtpMS0zMjBHUW42TFRBS09CSm5iTnZtTXBQa1JoRWhzWkRubVZDdEVQd0JfdXUwMnN2TDh6UU90V0dZdFNoOV9PY0g3NjdxOGNaVdIBlwJBVV95cUxNNGlEcVBFdzFDMThQZS1PaFlPdVFDUVl0cF9oWmI5TjZfLUVMNU1lTlY3VDhvRkdmNUxmUU5wWjZjMndBOW10OUxCRXdZVXlOdkhNNFQ4N1VmNi1vS3k1OFlBZmsyWDRuS3BEWk9wOS01RlFjbFZZZEpQdnowUFBwZ0tnaTNzQ1B2Tm5oVDQtSUlaWFFTRGhUcWlqZHB5VGRCSEViVHpJMTBjUFQ0ZDhnY0dqSndidWVraVp5bU5US0k0Q0lJSjBHU3BiR2oyeGZxVDBHRTZndDVVYXdfTVdEd3RZeGRpTXhSeFFMMHMtY2xQMjRGN2RVVHkwbjItV0wzd2N3eEhqaUJIQjNQQWwtZG91NlBHOUU?oc=5
-
-Equity MF inflows drop 15% to Rs 24,697 crore in July; large-cap, focused funds see sharp fall: AMFI financialexpress.com
-
-### 79. Indian Mutual Fund Equity Inflows Drop to ₹24,697 Cr in July - Whalesbook
-
-- Source: Whalesbook
-- Published: 2026-08-11T07:34:48+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOdkc4Nm5ZdzJzWDNGalRzZ3Q2SjJ6SXgzRTE1UHhIbGdZN2czaU5vQTdyT3o5dVhoWEE1bDFpV2dQQTJ5Y3RLQzEtRW5pQXllWXRjR3YzRE93STBMUDNLc2VZSlFlY29qRUlHRE5tb3lBN1QwS19oczlIemxYWUlqYXRlNkE3LXg5TGFBN1hDY1VYLWx5YlRRMEx5RFJMUGJlU0R1YTlfWnVSR1hmZ3RadlBWOFhIdThWa29iNHQ5VUZCeEswdDlUTHQ5ZXlFMndCUFdJeW00SjZZZFMzZC1rWEZn?oc=5
-
-Indian Mutual Fund Equity Inflows Drop to ₹24,697 Cr in July Whalesbook
-
-### 80. SIP contributions rise to ₹31,961 crore in July; equity inflows fall - CNBC TV18
-
-- Source: CNBC TV18
-- Published: 2026-08-11T07:34:38+00:00
-- Themes: market selling
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQZjZSaXNYbkpPVF94eFJoOG8tMVNnU2pfb2dTZTNwaVl4Q3pNLTFybnpoSG5UTzBxS1RLUXF0OFg1bXVnY3hfNmFMM2tmWjFjdEdJQWIwRnJuR2ZlYjdETDlKYms0LUpJYWs4MGNzTnFXTnl0T0kxc2tYeUJVOExvMXhVMXJXX294cDRtLWpQMnl2RHo3UWhGMnMzMDNuUWpPMEVFRGVCS2VFNTB5bGVTYXA1cEx0UdIBuwFBVV95cUxQLTVsWFJsN0RmR2lkeTVxRXNtMTRYWVpMRHNYWHNycnVrYTlfTkMtVkxZM2xkOXVhbDh3ZG4wd1B4eVZlYjBBdlVNSE9ydko1akJ4MjB2Zkc4akVDcGJRcUpvWHEzWDhIX2ZvbGdLMThpUXQtVy15WHRaS0JnQzlXX1ZBeVZyTlVySWhVYnlEa2hqci14YjBMNTFIYUpSMkZtNEZQbjlfTjFiXzkyYndub0pWd2QzZEtLNThB?oc=5
-
-SIP contributions rise to ₹31,961 crore in July; equity inflows fall CNBC TV18

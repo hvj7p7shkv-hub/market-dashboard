@@ -77,7 +77,6 @@ PIRAMALFIN,Piramal Finance Ltd.,PIRAMALFIN.NS,2026-08-11,2114.7,,2120.2,2075.6,2
 PTCIL,PTC Industries Ltd.,PTCIL.NS,2026-08-11,18906.0,,19520.0,18822.0,19370.0,-2.4,19851.0,13251.0,-4.76,False,False,9488,,Nifty Indices constituents + Yahoo history
 INDGN,Indegene Ltd.,INDGN.NS,2026-08-11,567.6,,583.6,564.35,568.75,-0.2,596.8,414.0,-4.89,False,False,1017374,,Nifty Indices constituents + Yahoo history
 HONASA,Honasa Consumer Ltd.,HONASA.NS,2026-08-11,467.3,,481.55,465.0,477.1,-2.05,491.35,248.4,-4.89,False,False,838746,,Nifty Indices constituents + Yahoo history
-CREDITACC,CreditAccess Grameen Ltd.,CREDITACC.NS,2026-08-11,1540.3,,1554.9,1523.3,1530.5,0.64,1620.0,1113.0,-4.92,False,False,219135,,Nifty Indices constituents + Yahoo history
 KARURVYSYA,Karur Vysya Bank Ltd.,KARURVYSYA.NS,2026-08-11,334.2,,335.45,330.25,331.2,0.91,351.8,201.82,-5.0,False,False,1149574,,Nifty Indices constituents + Yahoo history
 3MINDIA,3M India Ltd.,3MINDIA.NS,2026-08-11,36115.0,,36470.0,35740.0,35900.0,0.6,38030.0,28730.0,-5.04,False,False,3128,,Nifty Indices constituents + Yahoo history
 NAM-INDIA,Nippon Life India Asset Management Ltd.,NAM-INDIA.NS,2026-08-11,1171.3,,1182.9,1160.7,1174.0,-0.23,1233.5,780.25,-5.04,False,False,826535,,Nifty Indices constituents + Yahoo history
@@ -92,13 +91,14 @@ ABCAPITAL,Aditya Birla Capital Ltd.,ABCAPITAL.NS,2026-08-11,407.15,,409.9,403.0,
 TRAVELFOOD,Travel Food Services Ltd.,TRAVELFOOD.NS,2026-08-11,1389.0,,1415.1,1372.6,1396.9,-0.57,1470.9,1035.3,-5.57,False,False,81962,,Nifty Indices constituents + Yahoo history
 MANAPPURAM,Manappuram Finance Ltd.,MANAPPURAM.NS,2026-08-11,360.0,,373.05,357.05,369.3,-2.52,381.55,245.15,-5.65,False,False,6075799,,Nifty Indices constituents + Yahoo history
 BALRAMCHIN,Balrampur Chini Mills Ltd.,BALRAMCHIN.NS,2026-08-11,627.8,,658.0,613.1,655.25,-4.19,665.5,393.55,-5.66,False,False,643917,,Nifty Indices constituents + Yahoo history
+CREDITACC,CreditAccess Grameen Ltd.,CREDITACC.NS,2026-08-11,1540.3,,1554.9,1523.3,1530.5,0.64,1634.0,1113.0,-5.73,False,False,219135,,Nifty Indices constituents + Yahoo history
 TATACAP,Tata Capital Ltd.,TATACAP.NS,2026-08-11,367.2,,370.55,366.5,367.85,-0.18,390.2,296.0,-5.89,False,False,1019670,,Nifty Indices constituents + Yahoo history
 GABRIEL,Gabriel India Ltd.,GABRIEL.NS,2026-08-11,1501.4,,1509.0,1465.1,1469.8,2.15,1600.0,795.7,-6.16,False,False,280027,,Nifty Indices constituents + Yahoo history
 GAIL,GAIL (India) Ltd.,GAIL.NS,2026-08-11,175.34,,175.34,171.11,172.5,1.65,186.87,134.36,-6.17,False,False,15475101,,Nifty Indices constituents + Yahoo history
 DEEPAKNTR,Deepak Nitrite Ltd.,DEEPAKNTR.NS,2026-08-11,1784.8,,1805.0,1772.6,1779.2,0.31,1904.4,1280.0,-6.28,False,False,370508,,Nifty Indices constituents + Yahoo history
-NIVABUPA,Niva Bupa Health Insurance Company Ltd.,NIVABUPA.NS,2026-08-11,85.47,,86.38,84.61,86.39,-1.06,91.2,67.5,-6.28,False,False,1270871,,Nifty Indices constituents + Yahoo history
 INDUSINDBK,IndusInd Bank Ltd.,INDUSINDBK.NS,2026-08-11,1008.9,,1024.0,1005.0,1027.3,-1.79,1077.85,710.6,-6.4,False,False,1400556,,Nifty Indices constituents + Yahoo history
 STARHEALTH,Star Health and Allied Insurance Company Ltd.,STARHEALTH.NS,2026-08-11,584.7,,587.9,567.0,574.95,1.7,624.9,416.55,-6.43,False,False,469131,,Nifty Indices constituents + Yahoo history
+NIVABUPA,Niva Bupa Health Insurance Company Ltd.,NIVABUPA.NS,2026-08-11,85.47,,86.38,84.61,86.39,-1.06,91.4,67.5,-6.49,False,False,1270871,,Nifty Indices constituents + Yahoo history
 LLOYDSME,Lloyds Metals And Energy Ltd.,LLOYDSME.NS,2026-08-11,1986.2,,2065.0,1965.0,2052.8,-3.24,2125.0,1042.9,-6.53,False,False,1479610,,Nifty Indices constituents + Yahoo history
 RAINBOW,Rainbow Childrens Medicare Ltd.,RAINBOW.NS,2026-08-11,1504.1,,1547.0,1496.0,1538.6,-2.24,1610.0,1084.0,-6.58,False,False,68589,,Nifty Indices constituents + Yahoo history
 NYKAA,FSN E-Commerce Ventures Ltd.,NYKAA.NS,2026-08-11,325.0,,326.3,320.75,323.7,0.4,348.0,200.14,-6.61,False,False,7891918,,Nifty Indices constituents + Yahoo history
