@@ -1,10 +1,25 @@
 [
   {
-    "title": "Stock markets decline as crude oil surge weighs on sentiment; Sensex drops 388 points, Nifty slips below 24,500 - Telegraph India",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPS1g4N1pCdm5oZVk5VHNxTkMzeDB2MEdQT0wzeGhpUTd3ckRZc3lZUXNKRk1sVFVMVXNzV1BIQ29VcmhMZzhQbGJzZ3k0VEZqV3hwT3N1QmxlU2Y3eDZvOVZxUGNOdVJCMUhPTGp3ZHlfd2o2YTg4V0ZWazZ4QTE5RGxETXQxUE42WG05enZNcnpVbm5kMlZNOTNtRHVRRllqSzh0dTBtMHAzOVpoSlE5LXk2UTZUWUdVVkM3ZUVRNG1QY3d1Um4wSVF30gHKAUFVX3lxTE9LWDg3WkJ2bmhlWTlUc3FOQzN4MHYwR1BPTDN4aGlRN3dyRFlzeVlRc0pGTWxUVUxVc3NXUEhDb1VyaExnOFBsYnNneTRURmpXeHBPc3VCbGVTZjd4Nm85VnFQY051UkIxSE9MandkeV93ajZhODhXRlZrNnhBMTlEbERNdDFQTjZYbTl6dk1yelVubmQyVk05M21EdVFGWWpLOHR1MG0wcDM5WmhKUTkteTZRNlRZR1VWQzdlRVE0bVBjd3VSbjBJUXc?oc=5",
-    "description": "Stock markets decline as crude oil surge weighs on sentiment; Sensex drops 388 points, Nifty slips below 24,500 Telegraph India",
-    "published": "2026-08-11T10:14:02+00:00",
-    "source": "Telegraph India",
+    "title": "Blue Chip India Ltd Falls to 52-Week Low of Rs 2.14 as Sell-Off Deepens - Markets Mojo",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnpNWGNBenpVT3BSTFJ0NTN2dXBETlJRRUNUS19lbWVqazVWTkJMMXlZdFVrbnFoZkxoNTZKdjNHVldqUER4akZoMURvR2ZHcW02b3ZmVk1RZklWOU5ZZ0tGSU1LWHVFYU5CZFZlY2MwZmZpZ1hfdWFXRlZtbW9aVUR3UWhjdnYwNmJzLUk0N3NrN3l3bWJIOThiVzAxWFh1blpkSm5KZ1o3NG9jVXdQMGZwQkZXWEdNQmZQRnJja0p2ZW1BUVBIMXFIaE0?oc=5",
+    "description": "Blue Chip India Ltd Falls to 52-Week Low of Rs 2.14 as Sell-Off Deepens Markets Mojo",
+    "published": "2026-08-11T13:05:14+00:00",
+    "source": "Markets Mojo",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling",
+      "India market"
+    ],
+    "score": 13
+  },
+  {
+    "title": "Sensex, Nifty Fall 2nd Day on Crude Prices, Tata Stock Sell-off - The Daily Jagran",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNnlkam1QZjdid1hMcXpJR05CR3dZTGdMbm9wektESlhrd21pVlFSYUh3bjBFckc4Uy1rT1NQaTlWbFFBbzJFdVhfekhaUmhDN0xZOVRHQ3NTT2dwblFrRXExbU95YnpRZEF3bGlrQmc5OTdmcmZQQnYwbi1xaVBBM2QyOUZNWEJQTEJzd25jeEdRRWJvc2pzZmxKNkNqZlZVcmtucmFwdDlLZEg4X2c?oc=5",
+    "description": "Sensex, Nifty Fall 2nd Day on Crude Prices, Tata Stock Sell-off The Daily Jagran",
+    "published": "2026-08-12T10:51:00+00:00",
+    "source": "The Daily Jagran",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -12,7 +27,22 @@
       "India market",
       "macro / flows"
     ],
-    "score": 10
+    "score": 9
+  },
+  {
+    "title": "Sensex Falls 188 Points, Nifty Ends At 24,436 As Firm Crude Oil Prices Keep Investors Cautious - Free Press Journal",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVGxmME51WUM2Q1Fpb3B3eU9PbVFaQml0M211alViZzBCcEtfNGQyVzVneG4yejNxN1d5cXAxRmR1ektEaXRBbjNvS0NpMmNzd1k4WU9ZVjBrU2VFOXE3NU9CZTlhdTczOHpzU1pMYjZJUzBSOUVSNm9JcXZMcmVwT3lYbGg0LW45bmIwS1VjSTNrc2RCcVVkeUU4NVFpeXpOclpNVWFiUFdBWEdnbmlpeWpxVHp0UlJHdTBRb2dwZzRmX0YtLXo2dVdqZ21rUdIB0wFBVV95cUxOMXBrR1BacXJzc1F5a21YTzNhUHR6VEtRT1JmMXFjWTU1aFk0eGoxbWoyX09GRzJBVXNLLTIxS1JpU3VTdmgzcG5KeDRNeVpZYmEwbk8xdlZfZEFKeGxvUUhKei1YRG9jcGF1RzM2TXhZRzF1WE9xN0pJVHdRNG83YXZkNVhsRExqTnk4SHlSVi1oVFRvRHBmR0pCUXY3SWF5N0hIaTZhdFN4WVRyMGZyc2pMX3Y0TmhvNGFpSzRXZEVWeXhIR2Y3VGNmVHU5UmVQcmlN?oc=5",
+    "description": "Sensex Falls 188 Points, Nifty Ends At 24,436 As Firm Crude Oil Prices Keep Investors Cautious Free Press Journal",
+    "published": "2026-08-12T10:42:19+00:00",
+    "source": "Free Press Journal",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market",
+      "macro / flows"
+    ],
+    "score": 9
   },
   {
     "title": "Sensex falls over 650 points, Nifty below 24,300 as crude rises; Tata stocks drag after Chandrasekaran resignation - Fortune India",
@@ -22,6 +52,21 @@
     "source": "Fortune India",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market",
+      "macro / flows"
+    ],
+    "score": 9
+  },
+  {
+    "title": "Sensex falls over 650 points, Nifty below 24,300 as crude rises; Tata stocks drag after Chandrasekaran resignation - Fortune India",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQZlhZRldOZmh0YUR2TVAwN1pPYW5FQ1ZCbXFNTkNpZEdTTHdvUFFiQmxtZ0w0WWxmY0Zhc1o5aGt3b1ZoTnFfVDk3RFd4VU1UZU84M0ZlZVZESU91SmdQbHVqZXRpRmdwdk02cUtYMjR1UVhMMDZRS1Bud3ZtckpHcW9KUC1WUldzLU5hZnhmOW5wa1hSODJ3cVpSSzduZS1weGdiTE5BRVJadmh0ZlJwTm94RWFKT1EtUVJMNUJMYVM0VmNNcVdwVDN5OFpndEV2VWgxMUdlczRoSnllRHhMVVFHbWFPS0tYS1Z3dXh3Qk5VU1ViSEtsStIB-AFBVV95cUxQZlhZRldOZmh0YUR2TVAwN1pPYW5FQ1ZCbXFNTkNpZEdTTHdvUFFiQmxtZ0w0WWxmY0Zhc1o5aGt3b1ZoTnFfVDk3RFd4VU1UZU84M0ZlZVZESU91SmdQbHVqZXRpRmdwdk02cUtYMjR1UVhMMDZRS1Bud3ZtckpHcW9KUC1WUldzLU5hZnhmOW5wa1hSODJ3cVpSSzduZS1weGdiTE5BRVJadmh0ZlJwTm94RWFKT1EtUVJMNUJMYVM0VmNNcVdwVDN5OFpndEV2VWgxMUdlczRoSnllRHhMVVFHbWFPS0tYS1Z3dXh3Qk5VU1ViSEtsSg?oc=5",
+    "description": "Sensex falls over 650 points, Nifty below 24,300 as crude rises; Tata stocks drag after Chandrasekaran resignation Fortune India",
+    "published": "2026-08-12T08:31:04+00:00",
+    "source": "Fortune India",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
       "India market",
@@ -104,6 +149,20 @@
     "score": 9
   },
   {
+    "title": "SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volatility: AMFi Data - India's News.Net",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUE53cFRWSnphWl93aktIYjMzVE1IeXl4TER0R1cxNFI3ajNxQTc3MGF4V1BtR3h4aWJPSFVoVVFyYklvUTFwaXc1SXJtQVZOSnF5azNESndKVDFwZFlleFJDNlJ0Z3NFOWc3WmQtUVliXzlhSGhnZnRpSGpSX1ZkU0VyNHkwUm5UM2pnV3duWTV3UnFobTFOaTdoTTNvQ2hfQWxFRVU0Ny1GdlpzdE9DdUVheFRjNEpTYXdGbHlJRWpEdHhLRGFtcEN2cDI2ajND?oc=5",
+    "description": "SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volatility: AMFi Data India's News.Net",
+    "published": "2026-08-11T21:33:00+00:00",
+    "source": "India's News.Net",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market"
+    ],
+    "score": 9
+  },
+  {
     "title": "Equity MF inflows fall 15% in July as investors turn cautious, SIPs stay strong - The Times of India",
     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQNHhQUGM0bEVDM3UwQ1lFTmpzZVh0My05U05sbFlNUkE0VEdyMU8ycEttMjFvV2ExRHpLWnh4T2FlbmdFMjlGZjdteWRsTW1qYTExNmVKOHRCRzJtNFotQXRNeEVvTnF4Wjd4TnhKeUltbUhDVzBVMXJaNklfQWRYWkZxZ0JRb3lVSGY2MWNhU0w5MXdabEpxNnlfRlRNVjBHRkJXUTQ4cjVkdWhTRHZDMnN2YlNIT1RhN1liNG5oVEYxb2trajJPd0VnbXhhZ1JCc3FZRnVpX0JjMVVtOGhKcTRkZW83US12cW5hV3c3b2toZV9uT0FTeDREc9IB-wFBVV95cUxQNHhQUGM0bEVDM3UwQ1lFTmpzZVh0My05U05sbFlNUkE0VEdyMU8ycEttMjFvV2ExRHpLWnh4T2FlbmdFMjlGZjdteWRsTW1qYTExNmVKOHRCRzJtNFotQXRNeEVvTnF4Wjd4TnhKeUltbUhDVzBVMXJaNklfQWRYWkZxZ0JRb3lVSGY2MWNhU0w5MXdabEpxNnlfRlRNVjBHRkJXUTQ4cjVkdWhTRHZDMnN2YlNIT1RhN1liNG5oVEYxb2trajJPd0VnbXhhZ1JCc3FZRnVpX0JjMVVtOGhKcTRkZW83US12cW5hV3c3b2toZV9uT0FTeDREcw?oc=5",
     "description": "Equity MF inflows fall 15% in July as investors turn cautious, SIPs stay strong The Times of India",
@@ -148,11 +207,11 @@
     "score": 9
   },
   {
-    "title": "Equity Mutual Fund Inflows Fall 15% to ₹24,697 Crore in July: AMFI - APAC Media",
+    "title": "Equity Mutual Fund Inflows Fall 15% to ₹24,697 Crore in July: AMFI - apacnewsnetwork.com",
     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmVONkNTZndCZUpZSlBSNUMxNjNxYmZpT0x4SVRZVkJ1X3VmLXFFbXRTcDdyVU9lSUw1Wk50TldpV2hqMXM2NllmZDNVSmF4QWo0N0lOckNZNTNscmJyV2o4NFB5QWdHZFBlNm5WejhoR3lOSWhBYlp6Wk1IN1ZwUl82SzVaZG1SM0tmV3JsSE9MRDhvb2RuV0dNTDNDR2k4OVdrUWZxaFdYekZ5?oc=5",
-    "description": "Equity Mutual Fund Inflows Fall 15% to ₹24,697 Crore in July: AMFI APAC Media",
+    "description": "Equity Mutual Fund Inflows Fall 15% to ₹24,697 Crore in July: AMFI apacnewsnetwork.com",
     "published": "2026-08-11T12:13:31+00:00",
-    "source": "APAC Media",
+    "source": "apacnewsnetwork.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -176,11 +235,11 @@
     "score": 9
   },
   {
-    "title": "Sensex, Nifty Fall As Crude Oil Surge Revives Inflation Concerns - newsmobile.in",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQVl0TlRHdVl3NjVBdkZQWENDYWNWNlVCdmpLcllEenVrZlB0MW94aWV5SmltUDVuV0hLZWZOOEE2YzF3aTFhbnN1X01pdG1kR19FZ1Z4RFNhZUltcUNlbHBqd1JuelV2NFhkVm5rbFVfT1ZIdUlLZ1ZBR0wzTXRnNTUxQXdUSzBLaFdVZGowV0JmemRHcFNMeDBJdzdOY3lC?oc=5",
-    "description": "Sensex, Nifty Fall As Crude Oil Surge Revives Inflation Concerns newsmobile.in",
-    "published": "2026-08-11T11:00:51+00:00",
-    "source": "newsmobile.in",
+    "title": "Sensex falls 188 points, Nifty slips 36 points as oil prices weigh on markets - Telangana Today",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNk9wVDRIV181NTd2bERoX0N3d0Z1VlFtaUZSSDhQZ2pwbUV2UW04THkya2hOZGRKT1piSUFVbnZxLXlXVXF2NGs1Q3gweHdxX1ZBSDRDU2I0RWpJSFk5OEJiemhqUWc1ckVLNFJZV3FUZmdCUk5uVmVBRkFWZ3k4WHVPQ01EX1JpZ3oyNzNmcEZfM3plUmItUXlRZWM1MkRfT0NkdDhn?oc=5",
+    "description": "Sensex falls 188 points, Nifty slips 36 points as oil prices weigh on markets Telangana Today",
+    "published": "2026-08-12T10:45:55+00:00",
+    "source": "Telangana Today",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -188,96 +247,35 @@
       "India market",
       "macro / flows"
     ],
-    "score": 9
+    "score": 8
   },
   {
-    "title": "Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge - lokmattimes.com",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPX2VGaWtWamg0VGVBQ1QzYlpydllUbTBiWF9rQl9YcUVvZ2ZoNjA5d3NkVl9zOXJvTElPT2JMazh0cWZzNXRLeFQ4UlhqdFlHR0dEb2puRnAtelpHaVlWcHl3YWNCVUdONmVZSlJwSGZFYmp6YVZabUhROGJWbTF6WTBvaUhiZkFPMkJoWS1ySUJKRHV4dzdhdklsSVRGcDdPQzRISG5yMHpzRUJBMjY00gG0AUFVX3lxTE5oUnRoUkRtelJ6cklKbWp4X1hBREJGWjFTbjVyeVF0ZmcwajF0ajFWWVFqU3gzSEVORWJnbEZfRDN1X0ZTRTVSMFNhU1hfdHNrNEkxUk0tMXRQX0NtZ2FjMUlVVEktUzg3dk1zSzR3eGVYLXQ3N3M5bGh2Sm96X1UzVGxaVS1PT3VmNFQzQzVZQk1nUEZTOWZRcTRpemRsZlhxN1F2N0NueEtVS1dlRWNlR3lnUw?oc=5",
-    "description": "Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge lokmattimes.com",
-    "published": "2026-08-11T10:39:47+00:00",
-    "source": "lokmattimes.com",
+    "title": "Sensex falls 187.90 points to settle at 77,966.35, Nifty ends below 24,450 amid broad-based selling - India TV News",
+    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOYWk0dXV0Q1BxODJmdkhRNndMYVZHLTdBdkZ5LXlySHJEaDVBUDZKQUZTWGtOMDN6d1VoR0U3VkFjWG44eGpTWHhhNGhMQWNQWnU0ODNmZmRwZGkwbjBRTC1xVGZuUzBfRDdXWkt6dXlUUDBaY2NiZWY5NnFPNEVoYWZKQjR0eG5JbVpXUXdTbGFlM0JuYXRtQjBJYndhNDJDZDRnUy1hOXg4cWdfd2paSW9WUzdNbjhXMjVqc0xxWXM4MkN2OXdTTHpjUTNXMnZDcGJHMU5uZVlyV3NwTmhxTDhyQW5NMzlrQ0ozV2VEU09kenU40gH6AUFVX3lxTE9fSmdNWVg4dUh0VEVVc0d4MmtPYldxaU00MHBKdkJvbU4ySEdLcVNxX01ZdDlnQjhyY0pnZllXeVd1RVNkNUQtRmw1YndZWDdpdnhya1N1V1dCZ3VjWXRfWl91SEtwcGdzSGRJWFg1RmZ2UFBBOUtUaWlYQ3BsM2s5NjgtaFhPVGxyRC1iS2Z1bzd1T1VDSXR6dVluNnRxblI3V1dUN21ueVJUVkU3ZGR3RlFjZENCbVlMOVE3X09BdGhDaXUxREwxVHRzdHUzSmkxeV9rNG93X2lLZFB1LTRvLWRkWVFwY3dkUURpQkxUcDNJYVZGbmo5MEE?oc=5",
+    "description": "Sensex falls 187.90 points to settle at 77,966.35, Nifty ends below 24,450 amid broad-based selling India TV News",
+    "published": "2026-08-12T10:31:25+00:00",
+    "source": "India TV News",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Business News | Sensex Ends 388 Points Lower, Nifty Falls 112 Points Amid Crude Oil Surge - LatestLY",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOeHNueHdUSGNXSEZ5RGpweWttdFYzVE1sM2xGTkZLNGV3MWJHZ2VtdXhhQUtDclB0UldDcW1UaU93Zm9pTWtaRkdpdFQwWDhDRjlDeGxRTENJanoxdDJsbF91YlpFTWgzVFpVQ2ZBMUFmZm1nYlh1ZzVBLTg3MmtiQTUyb1l0NG9teDdsS05BVG1QLWdoV1pMNWlsWHctcnFxYVZfZEJ2OEMxUjZPQTVvTTVXekR6YWJLdDN1a3NYRE9HSk9Ydkhkbng2OEZhRERyc3fSAdcBQVVfeXFMUERIdHVfXzJTelZjQmV0X3FOYUpnRGpwbVl4eFVRM19Ya0xhcENSOG5zMFdQTXlvRlJWYjdrVHVXSktyNy1xWEdBNk4xTGtQaXBJRGQ2R1Y4UFJuVkNKSjRWZ0RfRlJyWVlEWDZnRmhfNHlKTjd1NG9fM29oeWNlQ0RzQ3JLODJESkw2VEhEalJ4LW9seFFmYTA3QzZ0NGUycERNdHplR0VSc1RwN0RiV2FkUWE5SW91LVlLNTRxdmRMMlVKbWJsRW41dVZpWktzS2dyMDc5aFU?oc=5",
-    "description": "Business News | Sensex Ends 388 Points Lower, Nifty Falls 112 Points Amid Crude Oil Surge LatestLY",
-    "published": "2026-08-11T10:36:24+00:00",
-    "source": "LatestLY",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge - The Tribune",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQamRhR3ktcGs2WUpzMFlhSnV3NzkyVkJnUFlYX3hvQ2dkZ1hhWkdBT0sxRjVSWjNGSHpQRjA2OGR2WXR4NnNBZ0I4bjBGYldCVHltUlJPTWZYVG1KMFVPQlZlM0R4RThkLS1GSVIyQ0duZmMzTkFpbVdELVhVQnNtUEMtekd4cExYRzd2d1RMU3dxMW5BQzk2ZElaWWRaZk9LMUNmRlo5QTh4TTRMVnhjOEs5NE92eUFwaHF0bmE3UDF6MGQ3N0NGajNqbG5reHpuMzNZaG92Y9IB1wFBVV95cUxQamRhR3ktcGs2WUpzMFlhSnV3NzkyVkJnUFlYX3hvQ2dkZ1hhWkdBT0sxRjVSWjNGSHpQRjA2OGR2WXR4NnNBZ0I4bjBGYldCVHltUlJPTWZYVG1KMFVPQlZlM0R4RThkLS1GSVIyQ0duZmMzTkFpbVdELVhVQnNtUEMtekd4cExYRzd2d1RMU3dxMW5BQzk2ZElaWWRaZk9LMUNmRlo5QTh4TTRMVnhjOEs5NE92eUFwaHF0bmE3UDF6MGQ3N0NGajNqbG5reHpuMzNZaG92Yw?oc=5",
-    "description": "Sensex ends 388 points lower, Nifty falls 112 points amid crude oil surge The Tribune",
-    "published": "2026-08-11T10:33:39+00:00",
-    "source": "The Tribune",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Sensex falls 388 points, Nifty below 24,500 as crude surge, rupee weakness hurt markets - newsdrum.in",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVE5UVTViWmZjMTJpYm1ZZVhlUGlJZUJ4NGo1NFFKOFNScE5fSnBnOElOaDhXUmdtME13U3FtcnJRWk5rbkJNZGZmbzRsVlpvd1JIeWFwMFh0NGt2QWxZVmdQQ05LYU9XT0c1WkIzV0VLSlNxYWZJTW1Zd2tBMVdaNjBzUGZJUkRXeVRjODEtM3ctcmZxLXVnMW5tQU9vZy1IdjJPTFNad0hfMmJLa1B0QVg4dU5WUUZ0REtva1NRd0U0aEw20gHEAUFVX3lxTE5UTlRVNWJaZmMxMmlibVllWGVQaUllQng0ajU0UUo4U1JwTl9KcGc4SU5oOFdSZ20wTXdTcW1yclFaTmtuQk1kZmZvNGxWWm93Ukh5YXAwWHQ0a3ZBbFlWZ1BDTkthT1dPRzVaQjNXRUtKU3FhZklNbVl3a0ExV1o2MHNQZklSRFd5VGM4MS0zdy1yZnEtdWcxbm1BT29nLUh2Mk9MU1p3SF8yYktrUHRBWDh1TlZRRnRES29rU1F3RTRoTDY?oc=5",
-    "description": "Sensex falls 388 points, Nifty below 24,500 as crude surge, rupee weakness hurt markets newsdrum.in",
-    "published": "2026-08-11T10:30:53+00:00",
-    "source": "newsdrum.in",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Equity MF inflows fall to ₹24,697 crore in July; SIP contributions cross ₹31,000 crore for 10th straight month - Fortune India",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUXdpcDhPZ0JLeHNqRXpMNmdjb2x1cUoxdkRQTEJJX3oyM0VYUmZqazhib05aTndqSHZCY3U4SlhFSm4tcm9DTDVWcVFuUkkta09HMGZ3eHNTUjFaVmh2dXgtN1RVSXJnR0JMTFltUWZ0Qml5M0tRZnhNNUljWkJZVm9jYkZXN0lEb1BabmNNcmNnbjNfY2xtbmlGNms5andHOG52RU9aUnRzUS05aU5uYVE3aVhiLUtpN3B6YXg5TXdvVEMwbGZMa3gtOHpBSXlZdVowWmRSbWM5R2dlUUdsRk9Dc9IB8AFBVV95cUxNSWczZGdOU3JvRFN5eUdNaFlCOTRNdC1HVUJBSDAxYVQ5T3paSTVXRXNxY1pVU2ozSUVSMjk3Skh5cmFxN2x4bUt1ekdlVUIxYTFTQ3hWbG1RcXNXWmNvYllZZXNaWHAzYlN5RDJ0Ui15UnJZdE5KZkQ4WFJkVjZDSGlhRE1UNmlmNmdNSUVCSG1qN3ZSY2REQnhXU0FDeFhpNFpDVm5sUEdtSjZsZFgxeF8tTHktVGJTYlZYTU9ZdHU5RlJ4NzhadUtBWTczbE94LVNoSDZ5ZGxmMWZMRE1PWExaQWZ2Y0FrLUJCbW9CM0s?oc=5",
-    "description": "Equity MF inflows fall to ₹24,697 crore in July; SIP contributions cross ₹31,000 crore for 10th straight month Fortune India",
-    "published": "2026-08-11T09:47:04+00:00",
-    "source": "Fortune India",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
       "India market"
     ],
-    "score": 9
+    "score": 8
   },
   {
-    "title": "Sensex Falls Over 400 Points, Nifty Slips Below 24,500 as Crude Oil Weighs on Sentiment - Dalal Street Investment Journal",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQYnJjMkFqQVFYbWZBaVRmVUJFZUtCYkJqVncybGI3elRSQms5WndKX0wzaS1DMG1Pb2FzSlVnTkJSRFlEVUpYMkRxV1hTUUFHUDVyYldvdzl6OGxnNVlZalc3cG1vZy05dTBsZVJMaGxsQXhzMlg3TktCbmhXeEIyb0ZWQ1JHeDFzUThfNncwdmpfXzZjanNNOUJ5SFlCWU9FRFlxOWxQSDdjVDcxQWc3YWd0XzNQcFNWblF0OUtQRXU5Y0p6d1FjcjNrNjRybXc?oc=5",
-    "description": "Sensex Falls Over 400 Points, Nifty Slips Below 24,500 as Crude Oil Weighs on Sentiment Dalal Street Investment Journal",
-    "published": "2026-08-11T09:05:41+00:00",
-    "source": "Dalal Street Investment Journal",
+    "title": "Sensex Falls 188 Points, Nifty Below 24,400 As Tata Sell-Off Weighs On IT Stocks - outlookbusiness.com",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPS0ppNUZpQmhQMHlHU1BxZ0ZxaEt4N1FyUDFrN2w1NmhMdVdsZG1QSFhLdHRFZlRFXzVIendFdDJZT2RENlpPRHg0Q1V1cDQ4WnB4RVU2RmFhMzFEV1JTbzJqV05lSXpPbWdqMWRWbEtrMzVRNzFoR1BiQnJwdVRpUkhNcGdMMjZ6ZVlEejA3U1FuMGp0Z1VWeUp4X1dzbkhCcHNVTGR6SjFNanJRYWFJUjA4TGJkMGRVZkHSAccBQVVfeXFMT3NhQ3dZdWRtMVNLV0NJSXcyZTBTSnBDRmZBSDJ4QlFwd1d5dWVnS0VLTlVQNUVNTk0xM0I4a3E3eDNVYTlTUFhFQ0FUaDNGNUVaU1hmZVhYWWg4amVPXzJaMXJrMFI4SzZhcGJCc213dnI0Vnh4OTQ3bWFiWXducENjOHZDanhYOTU5S2J3MUVTZHJvRUNVSEs3MW9CM0xXMzRqQ1ZmTm5TbXpydmIwMWdxS0FvejRpcU5fVlB1MnlUek1tRER0UQ?oc=5",
+    "description": "Sensex Falls 188 Points, Nifty Below 24,400 As Tata Sell-Off Weighs On IT Stocks outlookbusiness.com",
+    "published": "2026-08-12T10:23:26+00:00",
+    "source": "outlookbusiness.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
-      "India market",
-      "macro / flows"
+      "India market"
     ],
-    "score": 9
+    "score": 8
   },
   {
     "title": "Tata Group shares, Bata India, NALCO among buzzing stocks as SENSEX falls over 600 pts, NIFTY trades below 24,300 - Upstox",
@@ -290,6 +288,21 @@
     "themes": [
       "market selling",
       "India market"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Sensex, Nifty fall in early trade as crude prices rise - Telangana Today",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaU9RM0x2R2I5ME9lMVZXUFR2RmJPZF9XeklGXzhJekluVWZtSWNqVGtYT0d2YzdfS0h1QndRTElYOXlvd1lkMHVzN2l1SEcwVk9uU0gxMEE0emQ5dV9KbEg4WWRlczdIU08ySTBrdlY4bnhSSEd5UkpaZ2JVN1RQbDN4cW9wcjg?oc=5",
+    "description": "Sensex, Nifty fall in early trade as crude prices rise Telangana Today",
+    "published": "2026-08-12T04:44:09+00:00",
+    "source": "Telangana Today",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market",
+      "macro / flows"
     ],
     "score": 8
   },
@@ -314,20 +327,6 @@
     "description": "Sensex slips over 200 points, Nifty falls 68 points in cautious trade India Today",
     "published": "2026-08-12T03:49:48+00:00",
     "source": "India Today",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 8
-  },
-  {
-    "title": "Indian Stock Market Crash: Sensex Falls 5,035 Pts, Nifty Drops 1,453 Pts From Peak; Can Budget Revive Bulls? - Goodreturns",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaTRicEdpc2xjWnRrZGlDQmVHYUhyYlk5bE5VeU9FSWtwWEQ2MzFWMGtmeDJ3NFo2R0dEX3cwblVQemxEWFp0U3dwalVQTnFWOGlWb08zbGNVSlYyQzUtM244eWJPeGFXTHZMMm9RdVlHaTJqb0NJeFNiekM0TmxJbnhRSl82YWFUNlpyaWR0Q0NsMEVkb05jQXVOQTI1Vlpmb1FCZzVrcjcybUpJX1NON3dMRUVDbE9jV2FHQXd1OU1FRll5Rm40NVpkYmdlZTVpUFZ1b2dEb1VXU3FKaWc?oc=5",
-    "description": "Indian Stock Market Crash: Sensex Falls 5,035 Pts, Nifty Drops 1,453 Pts From Peak; Can Budget Revive Bulls? Goodreturns",
-    "published": "2026-08-11T23:23:46+00:00",
-    "source": "Goodreturns",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -396,84 +395,26 @@
     "score": 8
   },
   {
-    "title": "Cathie Wood’s ARK buys $40M in Nvidia, Tesla, SpaceX during AI selloff - eciks.org",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBTVldJZFUta250WklHOG5vc285VjdNUEkyNTZScGtVejEtQmtjaTkyZjdWdWtzNWROY29sY3NuOVZ1dWN1TWNBczk0Qm90a1RpTUZpZEpCSXpuWkp3a0hNWk1OY0wzaDQtLVNZVlFfbzBZS05xdDJfQ19R?oc=5",
-    "description": "Cathie Wood’s ARK buys $40M in Nvidia, Tesla, SpaceX during AI selloff eciks.org",
-    "published": "2026-08-11T11:15:13+00:00",
-    "source": "eciks.org",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 8
-  },
-  {
-    "title": "Dalal Street Shock! Sensex Falls 388 Points As Crude Oil Surge Triggers Market Fear - Dynamite News",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdG15ejRfVGJqSjJsNzl4bW9jWE4tRzE1b2RQOXF0a3lkVC01bGNxb3Zmdlhzci1UaDJNUURvYWRDa1lBSUdSRlFVVkVfbG5yYnExdTFWMHZHd1Azak15UzF1MG0xMjEyTUFnWEdzQzBCckpLcExkQ2pzdW03V1NnT01UY1N3WVgyYno4MGZPdWRrckMyckNHdFctYy1JNUZfWFV4eXRja9IBrAFBVV95cUxPME9TVGg0emhXWWxHRFRkQTJhdzJOVDh0VlgxWi0tOU5VdTQ0WDh3TDZUZEl0ZkdhR2tSdjNsUGpraUxZVTY3aW1OeHFkOEtiU19FSk1qdV83aVVMVjRTbnlCYmZ2UmIyUG11b3AzUTR5dTBUbjFmMVZtMm5vRWNvV3d0dEtFNU5ScmQ4blRKcWdTU2xkV0dKZVB0bUlIOVpLRkR1Vzg5R0NUcmpW?oc=5",
-    "description": "Dalal Street Shock! Sensex Falls 388 Points As Crude Oil Surge Triggers Market Fear Dynamite News",
-    "published": "2026-08-11T10:38:31+00:00",
-    "source": "Dynamite News",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 8
-  },
-  {
-    "title": "Sensex, Nifty fall nearly 0.5 pc as realty, FMCG and cement stocks drag - The Hans India",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQWNjdDJnWmt5STAtRXluQUQ3WEZUcEJHQlVaZG9KSmVPZFhDdFYzZjJTbUF3bGRhTVhwaURmSEZKWG9PTHR2RE5oMWd4TU0xeUFWYW5JeDl5dkRETENDRG5qOHRuZEhES3VMQTd5WFU1WlBWZUxtNHhoMy1aSExtdVNQSmo0VWxieTk4bEtHWUJxQnhmU2JTQWVYMlhnS1Rma0dqWFkzbEtFOFpNS1d5S2psY2M5WklmX1HSAboBQVVfeXFMT0FjY3QyZ1preUkwLUV5bkFEN1hGVHBCR0JVWmRvSkplT2RYQ3RWM2YyU21Bd2xkYU1YcGlEZkhGSlhvT0x0dkROaDFneE1NMXlBVmFuSXg5eXZERExDQ0Ruajh0bmRIREt1TEE3eVhVNVpQVmVMbTR4aDMtWkhMbXVTUEpqNFVsYnk5OGxLR1lCcUJ4ZlNiU0FlWDJYZ0tUZmtHalhZM2xLRThaTUtXeUtqbGNjOVpJZl9R?oc=5",
-    "description": "Sensex, Nifty fall nearly 0.5 pc as realty, FMCG and cement stocks drag The Hans India",
-    "published": "2026-08-11T10:37:22+00:00",
-    "source": "The Hans India",
+    "title": "Sensex, Nifty fall as crude nears $90, US-Iran deal hopes fade; what's ahead? - Business Today",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbU15WkZ0TDM4MkFLSV85c3g4MzBqU3Y4WkVvODVhMWJGZGR4WjR4eWQ2QVlSZG5OQzhmUnpyNENIZ0hyaXV6bVViU2cwWlkxS21fZHEwXzlGdDgzMFpadFVQNHlaakVaS1BhQ05TNU1ib081T2JGdTVJOFRmRG9hM2ZYVGVZWVZ0bFV2T1N5X285OUs4djFEbTJCeWFETkhOYzhQRDBCdHoxYUlTSWRNZlVaWVc1b1Fpc0piTzVRWGpGOEhoTGxMcHhlZHUza1diZnN5Vm9aWlp4ZXfSAdsBQVVfeXFMTW1NeVpGdEwzODJBS0lfOXN4ODMwalN2OFpFbzg1YTFiRmRkeFo0eHlkNkFZUmRuTkM4ZlJ6cjRDSGdIcml1em1VYlNnMFpZMUttX2RxMF85RnQ4MzBaWnRVUDR5WmpFWktQYUNOUzVNYm9PNU9iRnU1SThUZkRvYTNmWFRlWVlWdGxVdk9TeV9vOTlLOHYxRG0yQnlhRE5ITmM4UEQwQnR6MWFJU0lkTWZVWllXNW9RaXNKYk81UVhqRjhIaExsTHB4ZWR1M2tXYmZzeVZvWlpaeGV3?oc=5",
+    "description": "Sensex, Nifty fall as crude nears $90, US-Iran deal hopes fade; what's ahead? Business Today",
+    "published": "2026-08-11T12:03:59+00:00",
+    "source": "Business Today",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
-      "India market"
-    ],
-    "score": 8
-  },
-  {
-    "title": "Sensex falls 388 points, Nifty 50 ends below 24,500; rising oil prices, Middle East confusion weigh - livemint.com",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNQkpCVER5eW12NmxOSWRtVFFMR3BWLXdBdk5pV2piQlZKanFMaDhNUWxBaTdORXhDU0FtZGlmRlQ5bFBMVS1WS1o5WHlIOXE5STVqYUVITTFXRlBLRGpBTnIzekd3Y2I3U3ZZUy1LTHVuZUtwdV9wbEFQZ3JkTVlaU1Z2YlYzZjBabnlJRS1wUEd5amNNbGlra1ZDUTl5UWlPN3FfbUlkUDRkTndCTjBLd0hjQ1hFZHBPa0RIcHNwRG1yS0NUdWFqWGdIbHJvblpra1FXRk5QS0h4MWNaQ3lxVTBuZ3A4TEdNUUpRRzVIeE1UTVJaYXdMd1N30gH_AUFVX3lxTE0yQThYY3luS2VQWE5uYUFNYjR3czdDQVdEcXFfXzJZekRqNW9tNlZUbFZIM1p0ODFobmNIWTE2V2Yxdy1QWGR1Y0tGcm9KNGRaejVEeFhpUzhpTllmUlE5bjk4V0NaMkNISGpUT2h2VFBJai1Kd3NobFBoYVhwNDlXMWp0SlV1cHY1V1hJMEhpbExrODVNTlk0S1RZX3FwZ1o0dzRjSUlKcjkycjBaallJNEhmWURBTUZBcDJteDFrQjZDTXZUSDZ2dzZmRm1pdUVxTFpjNzh1dUR1Ri1BV0EwNDJ0ajNmY1pLZ3duT0tLMmpqVXZZcWpmS25oMUVtZw?oc=5",
-    "description": "Sensex falls 388 points, Nifty 50 ends below 24,500; rising oil prices, Middle East confusion weigh livemint.com",
-    "published": "2026-08-11T10:15:46+00:00",
-    "source": "livemint.com",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
       "India market",
       "macro / flows"
     ],
     "score": 8
   },
   {
-    "title": "Sensex falls 300 points, Nifty slips below 24,550 as oil rises | Tap to know more | Inshorts - Inshorts",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUlPb1BVWWgxNkZ0Y0RKU1R4dXVhRzVKUTFNVXU1YmphVmVGWnNMbXEzVjE2M1NxdW9WWUFDd2FxLUxrUEFYR1MwVW9sSV96b3F6T3VTZ1k1LXhsOFhXZkhkUE9EcWtDSFlaZGdVSThHeENYQWdvc1ZLQ2E5OTZGQXlJZ0pvVVlyaml4TlZCNUZ6cFZJWlhVSWI1OEdWcWNNUGJqRFVZZTRYelVxVnfSAa4BQVVfeXFMTWVJT29QVVloMTZGdGNESlNUeHV1YUc1SlExTVV1NWJqYVZlRlpzTG1xM1YxNjNTcXVvVllBQ3dhcS1Ma1BBWEdTMFVvbElfem9xek91U2dZNS14bDhYV2ZIZFBPRHFrQ0hZWmRnVUk4R3hDWEFnb3NWS0NhOTk2RkF5SWdKb1VZcmppeE5WQjVGenBWSVpYVUliNThHVnFjTVBiakRVWWU0WHpVcVZ3?oc=5",
-    "description": "Sensex falls 300 points, Nifty slips below 24,550 as oil rises | Tap to know more | Inshorts Inshorts",
-    "published": "2026-08-11T09:21:08+00:00",
-    "source": "Inshorts",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 8
-  },
-  {
-    "title": "Dalal Street in Panic? — Sensex Falls 650 Points While Nifty Dips Below 24,300 - prameyanews.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXhSLUJJU0llR0hLR19xRG5EU1FzUDVQaXpZQy04Zi1HSHh6R0R5MUpaWC04aWU3S1MwdUI5ejNiN3JfQVJIY3BpYndXLWdMem9JSEdhOTFqSURYQ3ZtUHpZMVZ0Vkk3ZENadE8zNnh2cnN6ZTVmYUxVS2V0RGdtdmt3UkVnbC12UmtHb2tlZmQ0eDhockxsMm9qckRjUlkz?oc=5",
-    "description": "Dalal Street in Panic? — Sensex Falls 650 Points While Nifty Dips Below 24,300 prameyanews.com",
-    "published": "2026-08-12T08:33:36+00:00",
-    "source": "prameyanews.com",
+    "title": "Sensex falls 188 points, Nifty ends at 24,436; IT, FMCG stocks drag market - newsdrum.in",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGc1VXhXVy1PcndwQUJhNjg1M3NwZnVWVmNwSC1TWjhPbHBIWlRoeS1QREY2a2c3T1d5ZTc0VzVySFBCa09uM2s3ZFZzSTBkbXplVF9fMjRBS0daMVhQMWcwcXFDWTE3RS1MQkxRS3FtS0QtRkh1ZFd0MDJuR1V4OVA5Y1pYNlA3LU9YTTF5a1p3dUotOWd5LWVDanVqb2NqQXRqTmZOSV83dUlkcTJqRkh30gGyAUFVX3lxTFBwZzVVeFdXLU9yd3BBQmE2ODUzc3BmdVZWY3BILVNaOE9scEhaVGh5LVBERjZrZzdPV3llNzRXNXJIUEJrT24zazdkVnNJMGRtemVUX18yNEFLR1oxWFAxZzBxcUNZMTdFLUxCTFFLcW1LRC1GSHVkV3QwMm5HVXg5UDljWlg2UDctT1hNMXlrWnd1Si05Z3ktZUNqdWpvY2pBdGpOZk5JXzd1SWRxMmpGSHc?oc=5",
+    "description": "Sensex falls 188 points, Nifty ends at 24,436; IT, FMCG stocks drag market newsdrum.in",
+    "published": "2026-08-12T11:10:50+00:00",
+    "source": "newsdrum.in",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -483,11 +424,81 @@
     "score": 7
   },
   {
-    "title": "Why is the market falling today? Sensex falls 570 points, Nifty below 24,300: Key factors - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWTRzSjhGMl9taHZJdDZlYXZsUWk3aHNIZVJsbkhEa3NtMkNkZXNxMGFuZzhOLXI5TmJtWGR6M1ZpYWtibTQxNVo0OVotME9kYkJ0QWNNQmdoeTMtdjRpN2h0NWNXRnJDdlBuRk5CbGloeGhkM1ZPVXhUV0xTTHVFRlVQWFpoLThod3hXSjR4ZkY3dWM4bVA4Zlp6REZIX2pXWUNWU2lRbVI1T2puN2t0aWVHbUE0ejlJY2dudC1jbnR5OGowa1p0c1Z5a2I4M25zNklJN05DUndxeU9Rd2JYRDkyYWZ1ck9ZVzEzenp0eVbSAfYBQVVfeXFMUDBOdlBPWGowcEFVRjBKV1BsRmdNX1R2NUNWaDBlQVFqSWFvb3BPYUJkU05GblFuaXotcHpfUkZZRFFjak9XdHR0OGlqdExlRFQtTGluSzZfVGdGVndaNEdFanREVWRQZDdDcWo3RkJUVVkxSXNPRFRlSWZhSTJvUm9EUmRJdW9UTFFYa3hYdVhUVEZsVm91a01YTnRpZnZPZ25BWGJhLV9LRTJDSTl4aDJQWkJ0eTNKa2l6QWdoZE80NXo2d2IwNm5sNGhpbndtUVlJU2V0TlF4RThIZE9RcHZ6U3BtbFh1cUZlRy1TUXlWdGcxMW5B?oc=5",
-    "description": "Why is the market falling today? Sensex falls 570 points, Nifty below 24,300: Key factors The Economic Times",
-    "published": "2026-08-12T08:27:21+00:00",
-    "source": "The Economic Times",
+    "title": "Nifty-Gold Ratio Falls to 1.6: Is India’s Stock Market Rally About to Begin? - Analytics Insight",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOV2ppZDFuOGt5SGg5U2VqZXpwbk9ocTZIZ18zaHZ4Ni1PX2lTUXNUcmx5LV9zX3JxTWhxaUhQcno5OHdYR3prTk5yUTBoZjBtQ1hvNndGZS1jTmo3eWgwbnBZZnpTbGwydmNhMVhXa3E1b2RtVnQ3WWdJNGZwdG42OXgybDRXRFVFSjFrU0RlcVl0a0dmUDdzZ3ZiTGVsTElmZ2Jzb05oWlhBdi1FWGllSEtvd9IBwAFBVV95cUxNblhGVTZCaEhIM3ZxSmg3SWdxUHBCTTRFQkZzRnd3anpZWEhRZy0zR3ZsOXUtSlNINXVZZTAwWVJ6bEctYUdqNlJtbU1qX2M4eU9LZ29IdW5ublVyLXF1WTJSWE1fcUJ5Q1NzRFFZZmotWUFoNkhuR2dqN2RSTUtWZ3UtdHRobG1ncUx6SEhNRm11VElzcEdjWVd4SWFFb1oxRjlJcll5cm15QVlmVDR3NU9taDNQdlNWX3RwMmRBWHc?oc=5",
+    "description": "Nifty-Gold Ratio Falls to 1.6: Is India’s Stock Market Rally About to Begin? Analytics Insight",
+    "published": "2026-08-12T11:00:00+00:00",
+    "source": "Analytics Insight",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Taking Stock: Sensex falls 188 pts, Nifty below 24,450; Tata group stocks drag after Chandrasekaran's exit - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPc3JMT1I5MGlEUFk1MU5yX05JaDMtNjZGNlFJUy1KdkRDRnFqRmg3bWVXWmt4djROaXJtWjJtOHRxTHNIYnprT19CX09MRnNFS0F4SUkwR3I1S0VhcHdZMFk2V3V4eVFEMmZlVmpxODA3U1hPUDFCbGZuQlY1MmszdWZ6OC1zUld0VmZ0dk93MzFJQTUtWjhrclpuZXNGTHQwWVBGSUQ4WTY4Rl9rMVoyd3BuaVh6bmh5WkhjeXk1RWhDWGVkeFFVWXVINU1neTE5NndQby1GamhYNFQ3NUJHNFdtZzBNdlhZSU1VamE0OUxrQdIB9wFBVV95cUxNaV9HaVJSV3hybnZDRndxQm5nX1JOUXdYQ1FlRWdieS1pekZQMDhVWWsyZW10UHRlN2M1Qkljb0N2VkRxa2FvbzRYY2N1V3kwcVpwVnVRdmZ3UjJ6SFZmbW9hbEcxRjNtdXVXaFF1VU9rVF9GM2JhNy1ETVJnYnVpb05Dc1p5WXZNZVBBcDZqZVR1enQ3QloxRi10ZHNydVVROVhrMVJTV011Wnk3VlMyQkFrT255Q3IzQjhHc0ZfbzBvQUdWWjV5OTVObDNVTTNYQTU0dE5oekZGcnoyY0FfSFU2d3BRcXF6QTZ1ZTlid3lBWTkxeDRN?oc=5",
+    "description": "Taking Stock: Sensex falls 188 pts, Nifty below 24,450; Tata group stocks drag after Chandrasekaran's exit Moneycontrol.com",
+    "published": "2026-08-12T10:32:31+00:00",
+    "source": "Moneycontrol.com",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Taking Stock: Sensex falls 188 pts, Nifty below 24,450; Tata stocks drag after Chandrasekaran exit - tradingview.com",
+    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPRHpmWWY4MDk2TjFvb3FvN3Myd0dnYkZkcWxBOGJPMHNFSlNkR3VjYUhtSDBhbi13LW0xZ0V1N0pMOHVYazl0NDU1cXhYc2VVUHJzMGU0aHhhYWk0SXNxeDZYTC02ZUV0cXREWFpiandLWlNhOTFKM2o2aE8tSHl1TTVRRHRpOTMyemk5S3hDQU5hdjRoR3o3RkJoT1NRdkJiTnZMNjVhOWtLMlRNWV9Qdk9oOFNJeUktcjROQVpLUmIwQmc3MkFuM3hXdk0wRjZ6MzN0ekt2VmZkM0trZGFEQWhuSU9DUk92cnhfNGFaQzVPdUhaeHQ4UUpn?oc=5",
+    "description": "Taking Stock: Sensex falls 188 pts, Nifty below 24,450; Tata stocks drag after Chandrasekaran exit tradingview.com",
+    "published": "2026-08-12T10:32:31+00:00",
+    "source": "tradingview.com",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Why did stock market fall today? Sensex, Nifty end lower after sharp recovery from lows - CNBC TV18",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNREhyc2xvQWVRNFhzeG9FSjdxczRaUFVXX1E5ZHptVEpXVk5tRWhvcHhhLW1EMDVkM3NNZ1lqX2ZVNDIyZUE3V3VFc3lVeVU5RXJnXzExNUV4LUczMGJ5SXZoYjFyNXMxRmVqaUhRWmlvUnhMZHF0XzlTWlF3Sm51VVpPcXhNZVVGSWdic1h1bWN1bEhiaERSTXdXZ2ppcXd0ODJPcF8wRmRDaHFKNG5YRVlfY3B1SmhocF9yVU1SV0ZlNldSRU13T0Nn0gHPAUFVX3lxTE9ubVpQNHpUVzh5akM4WlNtOHdZMUFvdjBRMVVzaU5KRWlhc1NJSkFmOEZNc00yREVLS09hQ2hvb0J4Nmo2WUlhclBITTRoODJNcGhxT0VlNHdCaGEyelpRV0ZYRzdWYzY1VkVibHhmbVFBVERzNEZUQVdQQmxyRlZtREoxZFpGMVhzcG1EVFc1TDNSUFJBN0c1M3R1c1ZfQjI4Mlc4WGdLaks1YjNUNkJMU0hINWRnTTd5WGNYRC0zYmhsV0hMQ0JlQ3BxQ2dsUQ?oc=5",
+    "description": "Why did stock market fall today? Sensex, Nifty end lower after sharp recovery from lows CNBC TV18",
+    "published": "2026-08-12T10:09:21+00:00",
+    "source": "CNBC TV18",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Stock Market Closing Today: Sensex ends 187 pts lower, Nifty below 24,450 - PSU Bank rises, IT Index falls - ET Now",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPc2hwUVVERXN6U1VkZDRzUnFLWlhRWkJPU1hkNkVERVJ5bndtZk54cUV3el8zc0ROcTJhdXlfN0NXcFdPSDlkeGpwblhndjZVcnItQTVjZWxxMUFvMmVtNlVmaEZ0Z2dueHJZMXlnSnlNczB3c1JGMm1KV3o0OHhCTlplcE0xTncySnV2UEMyU1ktTVF6b1l3SEZsUmFaMEJ1cnU4QjkyalpkVlJ1WmszeFdOZ0hmQ1pyTlBwTHZNMjNWUVczTGRKMG5UamF0UGhBR2dnUXlMb1F5N2pjQTZzRzg4RERNdm_SAewBQVVfeXFMTk5IcUZoZ1hFbzBLVHlMZGUxYmxUeDVvNXVzWWkwUjY3Vkd0US1IdUFUWWpCbTlaSV83ZVljMmMyQy1ELTdpNU1OeW1ud19YN1RGN2NkeWhrQ1A3UGIxT1NZbjY1MHh2TE1maWJtREZTV3B1LXNuVnlwOU45T0NYLVllSEpWc25qNVVNdXJxa0ZURzV6NFNtZERsTmRpRkJCSjZ3RDJVOU1VaHRNQkp6ejRQb3kwRHA0RUFwbHN0RjNVWXNYLUt0bGgxYVMxb2xtMWs2SkQ2bWNxWDdRNWtCMWpvYUZIcTNMdVhNY1I?oc=5",
+    "description": "Stock Market Closing Today: Sensex ends 187 pts lower, Nifty below 24,450 - PSU Bank rises, IT Index falls ET Now",
+    "published": "2026-08-12T10:07:46+00:00",
+    "source": "ET Now",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Dalal Street in Panic? — Sensex Falls 650 Points While Nifty Dips Below 24,300 - prameyanews.com",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXhSLUJJU0llR0hLR19xRG5EU1FzUDVQaXpZQy04Zi1HSHh6R0R5MUpaWC04aWU3S1MwdUI5ejNiN3JfQVJIY3BpYndXLWdMem9JSEdhOTFqSURYQ3ZtUHpZMVZ0Vkk3ZENadE8zNnh2cnN6ZTVmYUxVS2V0RGdtdmt3UkVnbC12UmtHb2tlZmQ0eDhockxsMm9qckRjUlkz?oc=5",
+    "description": "Dalal Street in Panic? — Sensex Falls 650 Points While Nifty Dips Below 24,300 prameyanews.com",
+    "published": "2026-08-12T08:33:36+00:00",
+    "source": "prameyanews.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -525,11 +536,11 @@
     "score": 7
   },
   {
-    "title": "Sensex Falls Over 600 Points, Nifty Slips Below 24,300 - Dalal Street Investment Journal",
+    "title": "Sensex Falls Over 600 Points, Nifty Slips Below 24,300 - insights.dsij.in",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG9lT2RwTloxaG01ek1sSV81elZfa0FxdUh6enFaamVPNkxvbmItWnotNjRVcUE1UFZHellVMEswS0NVUzBWMzBlTHhIdzBCSFdlTGVFSGdPVGdUVTlmbWYwVUVVVlA5V3pPbDgxYWZ1Y2dFOHB2allWcU1XbDNjYjB3eTlkdm5RbUZtVHJjT2Q3Q0l6NE5WbUQweWwwcG84elcw?oc=5",
-    "description": "Sensex Falls Over 600 Points, Nifty Slips Below 24,300 Dalal Street Investment Journal",
+    "description": "Sensex Falls Over 600 Points, Nifty Slips Below 24,300 insights.dsij.in",
     "published": "2026-08-12T07:36:59+00:00",
-    "source": "Dalal Street Investment Journal",
+    "source": "insights.dsij.in",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -540,7 +551,7 @@
   },
   {
     "title": "Persistent Systems shares fall 2.17%; stock among top losers on Nifty Midcap 150 - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUEFlMEVKWlFQUTQ3TGxtTTZ3VnZOT0c0YjF5UFZ5Tml0LTc0ZkxmeU9TWTZ3S0xJNm1RZjlJUTF6bVd4LTBiMjJQejI4QlEwQ2hhcDM4R1lUNGRqYzYydXhTZWhzOVJIUTVCcWxQLWJ4cUljTjhoRVR4MlRVdEtha0Uzc2g5bFgtNWxhNzU4ZkVHYmVwQ2t5NkdrbWVNaDh6M1BLRkNKSEU3aE1vcFMwdkNjTWRqNF9tS2gxNnI0dlpNLTRxb1lvWnU5MXdWd05DSF9NTFpPUHFuYXlxbmRCSnY0bmRzanRwbGUtUdIB8gFBVV95cUxPazlsV2NObmZtRkZuNEVIOXU2SmRKZzhjTGR6SFo4M0N2YjdiRUpsRGVNa0dPcVVjUi1kWU5OQ0NseG5DMzltZ0JPVG1hRld3UDAwV0UzMVNXZXQtRjh5Y1BNV3BIYUNkeVAwTGdIWGk5b1oxS2lfeGJvRG1vajc0NEoxUkJCdGZEWFdkNHE4STJia1B3ZE9sTzFwQ0d0dFAzZGR6ZjEzMGhqUEViSklobVl6M1dZbm83Vm5OWGZ6LXNudXVNRTRWOHNzbDg5YUVxT2lRbUhFMzlyTzlJNDg3cjZKSmxpMzFvODhON0c0dXlKQQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPazlsV2NObmZtRkZuNEVIOXU2SmRKZzhjTGR6SFo4M0N2YjdiRUpsRGVNa0dPcVVjUi1kWU5OQ0NseG5DMzltZ0JPVG1hRld3UDAwV0UzMVNXZXQtRjh5Y1BNV3BIYUNkeVAwTGdIWGk5b1oxS2lfeGJvRG1vajc0NEoxUkJCdGZEWFdkNHE4STJia1B3ZE9sTzFwQ0d0dFAzZGR6ZjEzMGhqUEViSklobVl6M1dZbm83Vm5OWGZ6LXNudXVNRTRWOHNzbDg5YUVxT2lRbUhFMzlyTzlJNDg3cjZKSmxpMzFvODhON0c0dXlKQdIB8gFBVV95cUxPazlsV2NObmZtRkZuNEVIOXU2SmRKZzhjTGR6SFo4M0N2YjdiRUpsRGVNa0dPcVVjUi1kWU5OQ0NseG5DMzltZ0JPVG1hRld3UDAwV0UzMVNXZXQtRjh5Y1BNV3BIYUNkeVAwTGdIWGk5b1oxS2lfeGJvRG1vajc0NEoxUkJCdGZEWFdkNHE4STJia1B3ZE9sTzFwQ0d0dFAzZGR6ZjEzMGhqUEViSklobVl6M1dZbm83Vm5OWGZ6LXNudXVNRTRWOHNzbDg5YUVxT2lRbUhFMzlyTzlJNDg3cjZKSmxpMzFvODhON0c0dXlKQQ?oc=5",
     "description": "Persistent Systems shares fall 2.17%; stock among top losers on Nifty Midcap 150 Moneycontrol.com",
     "published": "2026-08-12T07:29:23+00:00",
     "source": "Moneycontrol.com",
@@ -553,22 +564,8 @@
     "score": 7
   },
   {
-    "title": "Sensex crashes 600 points, Nifty nears 24,250; investors lose ₹3 lakh crore; key factors behind market selloff explained - livemint.com",
-    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObmNnaF9RWXJkZUNzY3FDWlVqQUFxR1RUTllFX21DWkFraUNhcDJrazB3VFhuWlRoSlFrLWNmUkt2LWpHejdVMkYwX09DVDgxQ1NmU3dnV1BDYjMtWk9xTXY4dWxYRGhRemhQRXhFZDlKamRpWmFQeFBpcndFNXcxZlBjOE43Q2ZxMUczNzNCcGdkRGZSelpXajdHNVNDaFBQU2EzOXFVLXBHbEFZVTNqdkw3SDJmdUR3Rkx6UFJxZUY1U1Q2OFFQeHJJUk1nWFBlUHV2NGR2bXNaSjFHbDVmSHFHZVhZcGl5UWlhUldTN2NlZ3I3TG1sdUFUZ2hlT3NIN1BkTzZua0dtMVhBVXh5c2lfZ9IBmAJBVV95cUxNMld4YlprNF9GanB1QzR5WWhpU2hjeVNCb09PNUF1MnJZWjJxUkt1bldFMUtQRl9GdFFRLVEtVTI4OHNJaWktWEhKWWU4VDVGUzVYNlNHeVZCbnJJSGhFVGpwWGxoNko1dG53cHdoNGxWNFY5VVJTSUlIY3VfWUJmTi1MbmxKeUhsZnpRWmwyUEVzS3lvRWlPQU91WGxfQXIyeW85T2VNWWd5WWN4cFFEdTZOa3JOaERYU01CYUFEQU9fNmdyMEtScWEwMkhRZDd2UWFkWGR6OUlNMHNkSmtXaW1UUzB4ZEJfTjJwT0RqYzdLSDdpalhvdmJsZGJleGZaMWZyNk1yYW80d0JOaEFBNHhXbTAyVjJo?oc=5",
-    "description": "Sensex crashes 600 points, Nifty nears 24,250; investors lose ₹3 lakh crore; key factors behind market selloff explained livemint.com",
-    "published": "2026-08-12T06:57:30+00:00",
-    "source": "livemint.com",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 7
-  },
-  {
     "title": "Godrej Properties Shares Fall 2.06% Among Top Losers on Nifty Midcap 150 - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQVmhuRXJJYl9ReC0xTW5nMEJlQVo2R1dCRi1VODF3Wjl3dlRZVzdEZXZZeDF2WFY4RVhqNDhMZUhQbHg1ZzNyODZRalBqemc3aWdZeWtxVGVfcFozMnY2TVRscmJEZW03UXhzVFh1V1VGQmp5eFdrVGJTeFhyMUFQaHF3Z05VX0pvcEJFTXlnLTBDNjdmVjdDVGEwNXVqdS1FYWozN0dQaWdxamVySkZRNmZ4SzJybnlJSGhkWURmYlBPa1Z4UEN3bXFhTkVteHZsbjYzYWJXSmhMeHU2RlRiUGxLc9IB6AFBVV95cUxOa1c0UFBaajhfQTdMNVZxZDJXWDQwOWo2ZS0xazBMVy1TOGZBMThWcEZiQVJUenY2SmE4WU9fZkFEZlJfWVo3OFNaZHBCeGRzYkd2LXhBbWl5c1dHLTBMTDlBeGhqdWJ3OW96Q1ZCMmxIQ3BXeWlONklTcUdWcUo4eURkdmVoVkdkb0ZsLWhaWkZOSS1qUXlXRnVDZ0dlaXh0cEhSb3dxblZYY3ZnWFhYY3E2WU5OS0pmWUFZSWdBallpdlh4RnJfckxaNlVOTjhPRU12bjdsLTkxZFBkelZ5elh4Q0o5ZVJz?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOa1c0UFBaajhfQTdMNVZxZDJXWDQwOWo2ZS0xazBMVy1TOGZBMThWcEZiQVJUenY2SmE4WU9fZkFEZlJfWVo3OFNaZHBCeGRzYkd2LXhBbWl5c1dHLTBMTDlBeGhqdWJ3OW96Q1ZCMmxIQ3BXeWlONklTcUdWcUo4eURkdmVoVkdkb0ZsLWhaWkZOSS1qUXlXRnVDZ0dlaXh0cEhSb3dxblZYY3ZnWFhYY3E2WU5OS0pmWUFZSWdBallpdlh4RnJfckxaNlVOTjhPRU12bjdsLTkxZFBkelZ5elh4Q0o5ZVJz0gHoAUFVX3lxTE5rVzRQUFpqOF9BN0w1VnFkMldYNDA5ajZlLTFrMExXLVM4ZkExOFZwRmJBUlR6djZKYThZT19mQURmUl9ZWjc4U1pkcEJ4ZHNiR3YteEFtaXlzV0ctMExMOUF4aGp1Ync5b3pDVkIybEhDcFd5aU42SVNxR1ZxSjh5RGR2ZWhWR2RvRmwtaFpaRk5JLWpReVdGdUNnR2VpeHRwSFJvd3FuVlhjdmdYWFhjcTZZTk5LSmZZQVlJZ0FqWWl2WHhGcl9yTFo2VU5OOE9FTXZuN2wtOTFkUGR6Vnl6WHhDSjllUnM?oc=5",
     "description": "Godrej Properties Shares Fall 2.06% Among Top Losers on Nifty Midcap 150 Moneycontrol.com",
     "published": "2026-08-12T06:57:15+00:00",
     "source": "Moneycontrol.com",
@@ -581,11 +578,11 @@
     "score": 7
   },
   {
-    "title": "3 KOSDAQ Stocks Surge Over 50% as KOSPI Slumps, AI Stocks Sink - CryptoRank",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBtY3pTZTItV0pSaHcwOW01cmZZV1ROcDVRb3loek1SNmRnTWlLTG1Jb09FZUQyNm9sNVQ5LWNwOWQ1bWg3TDlYdlp6UV9lNmc4V2RJSThMeDNzbGt0NmFsV3FzdDF5dU92R1RrYmhkSVhUSVVLYVpqay1B?oc=5",
-    "description": "3 KOSDAQ Stocks Surge Over 50% as KOSPI Slumps, AI Stocks Sink CryptoRank",
-    "published": "2026-08-12T06:43:35+00:00",
-    "source": "CryptoRank",
+    "title": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses - AOL.com",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RMjgzeFJIQmFPZG9WZmM3SVZJdkNSU1p6Y3VXUFBsUVVIUldybHA5aG85YVo0cFNfdDM4NHhHeThZTFVCOGRJeVd0NGRudENTWGR0WWFXVW1DR0FvQ1ZrbHpabHYwSWFTV3BIQU5Yb3JLUGxnWXBVTGwxdEU?oc=5",
+    "description": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses AOL.com",
+    "published": "2026-08-12T05:38:42+00:00",
+    "source": "AOL.com",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -595,11 +592,11 @@
     "score": 7
   },
   {
-    "title": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses - AOL.com",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RMjgzeFJIQmFPZG9WZmM3SVZJdkNSU1p6Y3VXUFBsUVVIUldybHA5aG85YVo0cFNfdDM4NHhHeThZTFVCOGRJeVd0NGRudENTWGR0WWFXVW1DR0FvQ1ZrbHpabHYwSWFTV3BIQU5Yb3JLUGxnWXBVTGwxdEU?oc=5",
-    "description": "Citadel funds gain in July as many hedge funds nurse AI selloff related losses AOL.com",
-    "published": "2026-08-12T05:38:42+00:00",
-    "source": "AOL.com",
+    "title": "3 KOSDAQ Stocks Surge Over 50% as KOSPI Slumps and AI Stocks Sink - KuCoin",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUEp5MExPT0Y3bUQ1MW5HS3l5eC1ybER2cHF0Q3Y4cnpTeWJRMldkSHRPNGVYc0RJYU5mMm56bHVMZWlZOGJFZ0NSeVlPTWEzc1JlaXkwa1pMZFhFV1lwTDdLVDFXeklnU2duNDBjeTFoR3dlVmpla05lek56TEYxUzUxSS1LZ0NuaTRwQjMtZkllZUZqVV9Eb0dYM1N2Zjg?oc=5",
+    "description": "3 KOSDAQ Stocks Surge Over 50% as KOSPI Slumps and AI Stocks Sink KuCoin",
+    "published": "2026-08-12T04:38:42+00:00",
+    "source": "KuCoin",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -638,11 +635,39 @@
     "score": 7
   },
   {
+    "title": "3 KOSDAQ Stocks Surge Over 50% as KOSPI Slumps, AI Stocks Sink - BeInCrypto",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1ETWZoYVpQalJPTmNCdzVyNHQzWl90N2xwbmtTdEV3cVNKQ2RaVWdOaGhjRy14QzNiYmlqNUtmY3o5dVNORUJjRWRxR1gxVjhJLU4wUFVhaUFnWFpNcEVtN2tZOUxaMlU?oc=5",
+    "description": "3 KOSDAQ Stocks Surge Over 50% as KOSPI Slumps, AI Stocks Sink BeInCrypto",
+    "published": "2026-08-12T04:00:00+00:00",
+    "source": "BeInCrypto",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
+  },
+  {
     "title": "South Korea’s AI Sell-Off – Market Optimism Turns - content-technology.com",
     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRDhJSUpzdVlmWG1ha09rTWxweVF2ZG11Z09yRjlHTXFuWlRzUVpQTnVUbU5hMnlGRElVbGloNzFfUDhnSnpRd2FvQUdPQ0k0d0xRSW1mNEdUdUxrMVdRaE1tdUVPb2cxRWtxMWY1VWtVeXU0dVQ4bVQ0b1AzUV9pX0t2ejBBMkt0TzRZS3JVNThmZzF2Mjlwbg?oc=5",
     "description": "South Korea’s AI Sell-Off – Market Optimism Turns content-technology.com",
     "published": "2026-08-12T03:09:51+00:00",
     "source": "content-technology.com",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Morning Wrap | Singapore Raises GDP Forecast to 4.5%-5.5% on AI Capex Boom; U.S. Stocks Fall on Tech Retreat - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNS2Q1TWJCUVZNRkZ6ajByUXU3RzV6SHN6Ny1ONExtdWk1RjNYR3pKd2tESFhsdlItdkQtdS1PMGFOWUowU2hRNDFhVXVPY1JyVDgzZGxYTF91bTNRYi03dFRGMUZaX0pxU29oenFQOUhnMzlwOFR4NWJkV3M0bUtHZVFtNy1RajRNdW9Jc1k1aEpsNzk2eFJrcEY0TlJPeWtkX2xWU250N1I?oc=5",
+    "description": "Morning Wrap | Singapore Raises GDP Forecast to 4.5%-5.5% on AI Capex Boom; U.S. Stocks Fall on Tech Retreat Moomoo",
+    "published": "2026-08-12T01:10:07+00:00",
+    "source": "Moomoo",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -722,167 +747,39 @@
     "score": 7
   },
   {
-    "title": "Asian Stocks Rebound After AI Selloff | The Asia Trade 6/9/2026 Costa Rica (05RSO4xQ3m) - Mshale",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBXMTlieW1UNEdlZS1KUGFfcHlJSER0cGpITDRUdjFPVmdmVnc1Um1HbjY0Wjk4cmFZOVZQMjJ1aVQ0Q3I4ZXJYMnZhUUIxTXhlODZaQm5kYkI2aldFVjk0OA?oc=5",
-    "description": "Asian Stocks Rebound After AI Selloff | The Asia Trade 6/9/2026 Costa Rica (05RSO4xQ3m) Mshale",
-    "published": "2026-08-11T11:22:47+00:00",
-    "source": "Mshale",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "GLOBAL MARKETS-AI anxiety sparks tech rout, broad selloff in Asian markets - Zawya",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjF4S2lEVjBhYnVTLWtSZ0FyZXV3LVZ6UmhfTnBsbHBKaldvcHJSb2FPaTZFTUFkRnZ5VUhuVzd1bngxVHlIOXdLZlFNZjFxdTNxaVZZcTdydkFYN1F4Zno2ME4wT0FieFZnb01ZeExVUi1rdDZQcjhXQlB5clh4bkdqeDc1OWpUeU5PVXlnWFc5X2JUZnNVS2tZb0kzYWJpWmM0S3FFYWxISkxKVHQ2TGJvcjBKdFdIa19BMGtR?oc=5",
-    "description": "GLOBAL MARKETS-AI anxiety sparks tech rout, broad selloff in Asian markets Zawya",
-    "published": "2026-08-11T11:10:32+00:00",
-    "source": "Zawya",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival - Stocktwits",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSnVqQ2ZlZm56Q2Z0QmxkeXlGMmtHS1dpV3pDZjdLYWxUMU5MaFU5R1BHQWYzS21ObDJBWUpvQXl6eTZ0ZHIyY2FMTDZ3dHlQWFQxcWF0MlVsOWw0cjc5V0F3ZDhOcVZaejU4VWNsaHZzYUFlMHdoTFA0MFRIb01Qb3RvUzVxc0duc1NjX2tBZ0dBUndFZzdPb0RMT3ZYanNZd25KazhGY1JkRm9DbENEQ0RkNU1rYnVoQ1BmclBsVnlKbjNoQVlIeUI0bzVBTGZVU1phYmJaRzdVTHlJYkhJbmxn?oc=5",
-    "description": "Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival Stocktwits",
-    "published": "2026-08-11T10:52:50+00:00",
-    "source": "Stocktwits",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Markets End Lower As Rising Crude Triggers Profit-Booking; Sensex Falls Nearly 400 Pts - BW Businessworld",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeVRsbDNTZTROWmdfNjRuSnZBZ3pPNjFNMnFvTFlpSjFnaFVLc242UXBtOEdWQklrUlhpdUFsaklmV196bmJ4THdldXliaTZHZzhZeTdpTVdlQmVYWHktTDFQX2M5NWRTWEZlSkVidXVYMDl6cEZvTlhwQjdPbkdjMUkyNnpuaTV2SjBKVmVCSTdrSnc4ekpEcS1zZC05RklCRndIQXY2SmNBUFNHMGVVY3FHb0ttSWh3OXMwNEtjMHRnQVQ2Mi1yOQ?oc=5",
-    "description": "Markets End Lower As Rising Crude Triggers Profit-Booking; Sensex Falls Nearly 400 Pts BW Businessworld",
-    "published": "2026-08-11T10:44:49+00:00",
-    "source": "BW Businessworld",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Sensex Falls 388 Points, Nifty Slips 112 Points as Cement, FMCG & Realty Stocks Drag - Free Press Journal",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbzNITklHWXg4OXRIRURGNVhzOVpsTWw0cDNqakpaMUZSYkVaRWVaa0s4OUM5b1QwTGg4MUFvWDdIQmpHUlQ5cTkyaHc1aERaLVhYNEw5UVFMZzZFV2RGWWRpMUVBTTFIeVlFd21Gcl9CVmNpVndOUkJMMzRmWkJLVGxVSURNU0JXWi1NMmN2UHB2RXNQMVNCeVRudmFHQlA4bzZNb2c5VHZkZlNsbHhWbjhJNDFPc3hKU1o4azBBQWpOdk3SAcMBQVVfeXFMUG8zSE5JR1l4ODl0SEVERjVYczlabE1sNHAzampKWjFGUmJFWkVlWmtLODlDOW9UMExoODFBb1g3SEJqR1JUOXE5Mmh3NWhEWi1YWDRMOVFRTGc2RVdkRllkaTFFQU0xSHlZRXdtRnJfQlZjaVZ3TlJCTDM0ZlpCS1RsVUlETVNCV1otTTJjdlBwdkVzUDFTQnlUbnZhR0JQOG82TW9nOVR2ZGZTbGx4Vm44STQxT3N4SlNaOGswQUFqTnZN?oc=5",
-    "description": "Sensex Falls 388 Points, Nifty Slips 112 Points as Cement, FMCG & Realty Stocks Drag Free Press Journal",
-    "published": "2026-08-11T10:40:10+00:00",
-    "source": "Free Press Journal",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Sensex Falls 388 Points As Oil Rally, Inflation Concerns Weigh On Markets - outlookbusiness.com",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRWMzN3A1dm12Q01NUVVRWTFRRmxjY2lBd1Y2d2ZUSndCRWp3ME5ITWRNNDVpc3RLZFQ3TGhwejJNVnkxaWo2SWwyeERYYW1HcnNzRnQ5UkNRdTljNjhRWjhBM0hkM1hqaS1nRGdLUnNfWjAtbi1ORFEwb1dLb1BYRjgtaHEtVWpGWU05T2VTOC1JOUU0elNkdTRvdzhOSjNLRWV3eXNDRjB0dmtpMlZSNG9n0gG_AUFVX3lxTFBpOGdtZUU5Yzl1QjItVk10Y25GbUdCRkVXVnE3RWdCRmZiY0JKUjVOVEFqMjJpcFFjbDhNVWZhTTljcmxYZWtScHMxRVRtQnZ6TVZYemUtVHNvYkVBak5rNm9qX1ljWno5TkxJWDgwZUtwWV92dGtGUXZpOUdiaHdGT2pjakROckwzM3FnOUc5bm1SLUo1NE9FdFFkX2l0VzgwNlc3enYzWUVYeG82Z3B1TEZNWno2WXZwSzR5cmYw?oc=5",
-    "description": "Sensex Falls 388 Points As Oil Rally, Inflation Concerns Weigh On Markets outlookbusiness.com",
-    "published": "2026-08-11T10:21:12+00:00",
-    "source": "outlookbusiness.com",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 7
-  },
-  {
-    "title": "HUDCO Shares Fall 2.31% to Rs 195.00, Among Top Losers on Nifty Midcap 150 - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPeU9KS0lSV2ZsNDJlbEhHTlhtZUs3X050SHM4ZFYzNW9XNU4xYnRaZDRJOEpQVTBWWlF0RHZESzUxdmJ0YVBFSkdKaHJpb0N5S05hUHl2WFNscFNKTk9aTzZ3QVg1NjMyb2VuQ1lVQkdKa3h6T2RTdm1XVlAtWUEybXB0T0dzNVRyUnpvanMyZXZFcTBPaHN6dDZUSWUtblRBZDZlWHkxUnEtM3d4eFFKVFpsRC0telU5QXgwbkJHTFpDVGRyS1VEU3o4ckUzaHJIQWZfS0JNb0xIY1RNWlgyOGN6bFdUZHc0U3fSAeoBQVVfeXFMT3lPSktJUldmbDQyZWxIR05YbWVLN19OdEhzOGRWMzVvVzVOMWJ0WmQ0SThKUFUwVlpRdER2REs1MXZidGFQRUpHSmhyaW9DeUtOYVB5dlhTbHBTSk5PWk82d0FYNTYzMm9lbkNZVUJHSmt4ek9kU3ZtV1ZQLVlBMm1wdE9HczVUclJ6b2pzMmV2RXEwT2hzenQ2VEllLW5UQWQ2ZVh5MVJxLTN3eHhRSlRabEQtLXpVOUF4MG5CR0xaQ1RkcktVRFN6OHJFM2hySEFmX0tCTW9MSGNUTVpYMjhjemxXVGR3NFN3?oc=5",
-    "description": "HUDCO Shares Fall 2.31% to Rs 195.00, Among Top Losers on Nifty Midcap 150 Moneycontrol.com",
-    "published": "2026-08-11T10:21:02+00:00",
-    "source": "Moneycontrol.com",
+    "title": "Godfrey Phillips India Shares Fall 2.05% Amidst Market Movements - tradingview.com",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPX2NBVnBIRkJvcldtZ1Q0R1pwMWVXWkxITGxmWFhkTjZZRThUcWhqSE1XLUNEUE5jVTg1akF0XzFUQ1VsSHhhLThnS1pXWmZPX051Y0lxbXJ1Q1o4RWticGF5T1d5S3FlU3VGYm1ucXhCTXlHdGpCaHhwYUJmLXBaUG53VUdRbzJiT3RLdFMyVjVpenVXbi1ZUkY1YW5wVXQwVWJLRzFDaEZlZEN6cWUyaEs3dThJTndSSm5iQVlUdDM4eEVM?oc=5",
+    "description": "Godfrey Phillips India Shares Fall 2.05% Amidst Market Movements tradingview.com",
+    "published": "2026-08-12T09:57:39+00:00",
+    "source": "tradingview.com",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
       "India market"
     ],
-    "score": 7
+    "score": 6
   },
   {
-    "title": "Stock market fall explained: Why Sensex dropped 388 points, Nifty slipped below 24,500 - CNBC TV18",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeDR3ZGZKSXBPWUg0QUgtVUUwOHM4MEZySVBkaVM0OXZ1ZTZJSmtZQUR5NTY4VzN4c2hISFM3czVtM0NaVEM1N2tiVVBJUzlDUjBhdUJhdDd5YzJ2V1dyb0Rvam9kOTZKSnZDQnZPblZFVUJiOGJJb2puSDlnTkNUN25TT3JfcTN2RzJZMTZ2Tk9YTDN4M2ktTkhLVlM2bk5EZ0l2aDJYUkRaYU5IVDVzdjhLNk5RTXFrZEhLN1ZPTENqaExUbi1J0gHMAUFVX3lxTE9CX1lpbTNBaHVFRFNMZHBMYnpZZF8xYmMycnpKaV9OUWdMTVVnMVpxdThxa0JQei1feUszSHhMSjlBU0FnbWRDU0xZNlhYWmRkQzBRWGh5eXdqU1VQMFVXUHJUUkZ2Z1lvRTFDZlRXU0JxUzNFY3RyX0RlcVhwZkZXVDRrSzBKRUl4Sl9LRmpKUXVQOFBUSVotenNfRGhnQVYxbFBQQUdNWjJ6TDBBdk9sNEZkMGRXb2djdTRkc3ZIcTd0SFlCX0E1b3dZZw?oc=5",
-    "description": "Stock market fall explained: Why Sensex dropped 388 points, Nifty slipped below 24,500 CNBC TV18",
-    "published": "2026-08-11T10:16:25+00:00",
-    "source": "CNBC TV18",
+    "title": "SENSEX falls over 250 points, NIFTY50 below 24,400 dragged by financial services shares - Dailyhunt",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOMkZWOXJiaGpGeFNkMTl2bFc4d1pUa3VLbGpyMmd5QzcyckxVY0JwbHBxeDZyeC1COFV3b0hMYkhuWENkdkF0cEZhNEZBbDFwczVJRjdXdHI2aUNVTC1aa2ZzQ0tlTEJQeC1iRXNSdzBLdnFabmViN3lVS1ItOWhoTUtTeWQ3ZFFOY2RCLUlNcVFraHB6bUxyMi0tTUhBbjlvTU55Vi00VFdzZDZSbDV1WUhNUDVJUGJKRFJ5ZFVNa3NyRnV1OWlXZXNpSHoyNkY2bjRfWDVmdzd6Z0ZraUJBeXlKVGtpV1hhRXh6Ym8zcjFIVFFMRGxiQw?oc=5",
+    "description": "SENSEX falls over 250 points, NIFTY50 below 24,400 dragged by financial services shares Dailyhunt",
+    "published": "2026-08-12T09:10:36+00:00",
+    "source": "Dailyhunt",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
       "India market"
     ],
-    "score": 7
+    "score": 6
   },
   {
-    "title": "Stock Markets Decline As Sensex Falls Over 380 Points, Nifty Tests 24,471 - ABP Live English",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUTR2N2R4T2R6cHhiRW9walpUekd4V2tKVlVoc09zT3hGekQ1SEVSWk5tVUs5TjE0X3lHdk9EX3d2azVtMW5WYWw5aTlqS0REdUdmdkQ2OXk1WkRQTG1WOFpmbnBzOTlUV2RvOG9EM05TckZGYlhyTV9Ibm5nVndGVFk0SC1mTjNKeVU5b3NHNVZZYUU1am1LUmJSVEkyeFdCT2RDaG1veV8wandoSTFJ0gG0AUFVX3lxTE4xRlVrdWs3RG51TV9jV2FkT0UtSXNLWklKbkRib3NzMmhpYnZOTGFoek5GTjZ3d2dWQk9GbEZEd0dRQTNuUzR3MDRGb3l6X3VHeWRxTW9HVm5sZzk4bllJX3hlLVRoMEJvSWR5T2toNnpBdU5QN0RrWlRZVWdvM0V3ZVFDRC1kdUo0eFdqbmNzZVFMQmVIQTJKNDBSMHBKWnpCZnZWUGppcF9oOUdBaU1ZSGhCUA?oc=5",
-    "description": "Stock Markets Decline As Sensex Falls Over 380 Points, Nifty Tests 24,471 ABP Live English",
-    "published": "2026-08-11T10:07:57+00:00",
-    "source": "ABP Live English",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Redwood AI's Kigali Invitation Arrives as Shareholders Endure a Brutal Summer Selloff - AD HOC NEWS",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPd3pNV01EVDBxcWxrTDh3bm53X0d2ajVBVEdSSzI5Qmx0SkN3cGhXWDBnYk1xV1dVMUhyWnl4Z3MzaDY5RUo0S3M0alZJZVVOYW5QYlIwdTB5SlRXM09oUFUyM0FzOWVYLVAwZ2tWaVVsUHoyOFhDWllTRkJOUTA4ZFFBSC1TRFp2c0dheVBhcUFsdUc5SVA4cU5NRzNOdUhXbHdncWQ4c1pzaUVlNlFSQU55c1VRX29OUHM0NjdWV2VkVjVYbXdNVTRZalJLSVk5T2k1cHdfTUpQdw?oc=5",
-    "description": "Redwood AI's Kigali Invitation Arrives as Shareholders Endure a Brutal Summer Selloff AD HOC NEWS",
-    "published": "2026-08-11T09:01:40+00:00",
-    "source": "AD HOC NEWS",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Jobs Crush Expectations — Rate Hikes Back? $NVDA Ai Selloff Extends | Stock Market Live Hamad Medjedovic (WIuWpPNHgi) - Mshale",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUczkzRVgwQzd0Q3hDOEs5UEMtOFhFSFU1aEVIT0Q2MDFKNms5RHYxemVrSFlfRlRkaEd1TmtBdzhkQ1J0ZzdhT180ZHlEajMtS2kyVkxPcE5TTG8?oc=5",
-    "description": "Jobs Crush Expectations — Rate Hikes Back? $NVDA Ai Selloff Extends | Stock Market Live Hamad Medjedovic (WIuWpPNHgi) Mshale",
-    "published": "2026-08-11T08:52:40+00:00",
-    "source": "Mshale",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Linde India Shares Fall 2.46% to Rs 6,800.50 - TradingView",
+    "title": "Linde India Shares Fall 2.46% to Rs 6,800.50 - tradingview.com",
     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUFFEajNfMUFQTktONnN1aWR1Yjc2MVcxWHRNbWVhSXh5S09WUmNIOC00cE40UXk4SHEtdDE3aWpQMGZIeW9jWTJubHFKSU9tMXd5c0t3WHZRQTh5YUVMUUg1cVhCVmRJbXplMVJOQUJjaFpGRzdDdlhkY0czZU5jUElfU3J4NktIMUY4MkxLa0tNYXFjZXhQQ1Fic1EzMjg4UFJvUmNoaktBZw?oc=5",
-    "description": "Linde India Shares Fall 2.46% to Rs 6,800.50 TradingView",
+    "description": "Linde India Shares Fall 2.46% to Rs 6,800.50 tradingview.com",
     "published": "2026-08-12T07:56:26+00:00",
-    "source": "TradingView",
+    "source": "tradingview.com",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -893,7 +790,7 @@
   },
   {
     "title": "Kalyan Jewellers India Shares Fall 2.19%, Company Declares Final Dividend of Rs 2.50 Per Share - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSnlLVE9POERLUWlJbC1handZQVcxdHVoZGpHNHBWUmd0bzZidkxJSkdKazd1bEVzMWhQSnc3NGVRa3JNZlhpcXZkWHM0M05rTmtqdUhseEx5VGFUY1BvRlFESmRYVTFzNE5uZnItZ3JjRll3U3l1MGljVno0NkR5Q3JCQkhxQm1DNlFNbXVkVkxIaVVUN0NJYmFMaEFCOXNSUG1Vcnp6bjFSM0RUTzdmTDg2N2xMQkxXM3RIQzVkTlZVQ1FKZEUzTnBYYjVWVXVCR3VHY2lXRzh1NDNHWEhZbDNVaXUyVGxQQ3dtSw?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRDVvZUpzZzc3a09TSGctdW5WTVZxRjJTaUNPM3JLd0ZwUU1HR0REUFZtZDBNTmdFd0cwcjl2aFZmSi1Ub2pMLW5tblF1YWI2N3lUalZ6bTdZQTdZLVV4TnRvejZFeDRKcS1wZjdKWGYtZXVDa2NoeGV5cndRN01rSXBDZU5DYnlnYWJQeUVBVk9lekZySE5VdEEyR2xmWG9IUE1rZHRFM3hTYjVwbFVxMGpUWDQ2cVpLaTBVXzRRTlhraXRnQ0lvMVZuZ29GOEd3aE52MVhDNlRkdGFpZ3RkZVJJUERYTkY4TUhUa0tfU2JHTDNGN1pHeHVxMGFiUUk?oc=5",
     "description": "Kalyan Jewellers India Shares Fall 2.19%, Company Declares Final Dividend of Rs 2.50 Per Share Moneycontrol.com",
     "published": "2026-08-12T07:00:38+00:00",
     "source": "Moneycontrol.com",
@@ -934,11 +831,11 @@
     "score": 6
   },
   {
-    "title": "Sensex Falls for Second Day - TradingView",
+    "title": "Sensex Falls for Second Day - tradingview.com",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTFhpLWRYRXJocmpubHZ0ek05dk9rSFZJbjl6azhTQzlsRkVPeGNkWjB1aEE2MVZrWWR6TFJHLXZfWmNnOU1nUUUtOWQ5ZXRrVFFNemhIbmJRZGhLMXpzRTA3bDBiWnV0Tk1mbUs2SjVPYkVOdVlvc1ZXRG00VnZObkQ1RU4?oc=5",
-    "description": "Sensex Falls for Second Day TradingView",
+    "description": "Sensex Falls for Second Day tradingview.com",
     "published": "2026-08-12T04:39:00+00:00",
-    "source": "TradingView",
+    "source": "tradingview.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -976,11 +873,11 @@
     "score": 6
   },
   {
-    "title": "Quick Wrap: Nifty FMCG Index falls 1.17% - Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORXd2Qi11T3hzUE5YVFplTkZNZnNkVEdGQXpYX0cxaTVzVXZvQkF6b1hibnEtYkkwZ1p2WVJaMldVbG9nbGNhQU1oNHRCR2lrbkdDNnNacHJWMzJMOTlQXzg1VTZYRmVZbGkyQVYxUXlUaExiQ29LdzlId3VnUUtDUmFJdWFjMlQ0UWx2Y2IwRnRUWWRvSW5ncjdXT3VYVzIxbi10dDlsSFNyVHA4YmhCQkwyZlNNWGN1Q2FXR9IBwgFBVV95cUxQc3JINUppOHhzSkVubmhJTFZfbFlHRzdhY1F2NG4tdTV4dWhrSnc1S2htd21vbUgxY0NEVHZMV0dYajljQlo4ZWtOaEJfQ3lCZkZaZF9zaGF3M2RobVNKX2F5eXVKR2l5QS0zMEFHVHItWTM3dGo2MU5JbHdDUk96R0dlV21hV3VTOW1aVk9CdmZ4ekMxX25iNTk1bGlCdm0yeTF0YUtnRkVQS0prMzdkU1BEajN0X2RpZDdKM253M2JaQQ?oc=5",
-    "description": "Quick Wrap: Nifty FMCG Index falls 1.17% Business Standard",
-    "published": "2026-08-11T11:34:10+00:00",
-    "source": "Business Standard",
+    "title": "Wipro Stock Falls as Nifty 50 Exit Looms - GuruFocus",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPNVpjcDAwM29jWkJpM2dZaFJ3ZjVObnd6TV9jZFJ4M3B6UmdSUGUxZzhXQ1l5NGNiLVp3cW9LbW95dFQtZDJGWGstejd6Z09RS0NGN05FclJhNG1zUkg2amFDZWtpaS1yWTVuM0NJZERzTEs3TUxoX0Q3OXBmVXh5Z1UzV2k3UQ?oc=5",
+    "description": "Wipro Stock Falls as Nifty 50 Exit Looms GuruFocus",
+    "published": "2026-08-11T18:32:42+00:00",
+    "source": "GuruFocus",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -990,11 +887,11 @@
     "score": 6
   },
   {
-    "title": "Nifty 50 Falls at Close, Ending Session in Negative Territory - businessupturn.com",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSi0zX0pMMEVOMXN2YjVYQmNPcEdRWkVfZUtSNFVUNXMxaEdBZHpPbFo3RjJRNHR2Q3RHOUJUdVVPMHR3SS1NZ0FsOHZDMDlUTDYxampyQXFGejlQeFNHWEdpWXRuOGlUWTc1RkZkakw5WldrVGJ1OXFzSzNBWFcwVkxxd2ZQV3NsdjdYVWdfa0JzN2pfT2dnemEtemZQUDJVQWxiUldHV2YzNjgzSUpN?oc=5",
-    "description": "Nifty 50 Falls at Close, Ending Session in Negative Territory businessupturn.com",
-    "published": "2026-08-11T09:59:46+00:00",
-    "source": "businessupturn.com",
+    "title": "FIIs buy Indian stocks for third straight day; DIIs return as buyers as Sensex falls 388 points - CNBC TV18",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQUnFrdE53QlJ5YkVISWNFQzRMZHlyNlY3SWdMVUNJY3p2UWNhTmFCeXRuWUpkWG9vcEZxNkY1U3h0RTNDQ2xuRGl6X3MzcFVUN0gtX0tFZExTdTdhVXFQSVRyUjVPaFVqaXE0bW41RjBYcEtRbkFKTmx0NDFqdjFzOE14LU81YnZ2czVNbjFVNWt2MUZjeEluV1NiWDduTVVjczJPLXV1OWxjaXM0TXNabWJ0V2JVdEZoRVJpRC14SEZqb2NWRkp2dU5vRHNnWkYwbVpCWUlsakNSeDTSAdsBQVVfeXFMUFJxa3ROd0JSeWJFSEljRUM0TGR5cjZWN0lnTFVDSWN6dlFjYU5hQnl0bllKZFhvb3BGcTZGNVN4dEUzQ0NsbkRpel9zM3BVVDdILV9LRWRMU3U3YVVxUElUclI1T2hVamlxNG1uNUYwWHBLUW5BSk5sdDQxanYxczhNeC1PNWJ2dnM1TW4xVTVrdjFGY3hJbldTYlg3bk1VY3MyTy11dTlsY2lzNE1zWm1idFdiVXRGaEVSaUQteEhGam9jVkZKdnVOb0RzZ1pGMG1aQllJbGpDUng0?oc=5",
+    "description": "FIIs buy Indian stocks for third straight day; DIIs return as buyers as Sensex falls 388 points CNBC TV18",
+    "published": "2026-08-11T15:11:16+00:00",
+    "source": "CNBC TV18",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1004,10 +901,10 @@
     "score": 6
   },
   {
-    "title": "MFs pull back: Stakes cut in 12 smallcap stocks after two quarters of buying; stocks fall up to 40% - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOdUZ6cXppTHJDTnRmWVZ3NTFqTHVmLW9kMXBnZUhvemJua1Vrcmt4RUN1RFlQZldwdUZ2aG9wQ0VnWTNOUXRUVTJPYWxzWXpkY014azRQQWsxTUI4cjZ2a3o3SFBvZGRua05YWGNESTBUN0RpWWJTcVo4MnBPODBzY00tZE9YS2xWVjNueWlxWmo4N19IeEtVU2g2NURGQ21HS0ZreDV6V1FqOWZZT2RIRVB4OXdOWWp1NDEtX0QwRHJnRVlMV2M0T3VocmdDcE5DdVBwOF9KN0NleUNQS1gzSmI0QzZUUnd0a1piR1NMT2J4NURXTGhDZkVKUHBvbVRYaktuWGh1WjF5cGo1c0dSX1RPVjk?oc=5",
-    "description": "MFs pull back: Stakes cut in 12 smallcap stocks after two quarters of buying; stocks fall up to 40% The Economic Times",
-    "published": "2026-08-11T09:38:57+00:00",
+    "title": "KEC International - MFs pull back: Stakes cut in 12 smallcap stocks after two quarters of buying; stocks fall up to 40% - The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQQU9ueFY1a3Q5eDB6ME43azE4ZGFKUlBjTXlhM2FfdVpTUmhlWDJPcXE5cmZPM2dSVnNpcHRkZ0J3c1BMdV9xckZIQkxqYW9IbXlETGE3LWdMVWFPUTdEZXlWTk9vdzRpMDVacmdha0JBZ3IxR1BBczhTWXlwZ2kxbXFhT0RDQklUWXRGbk1nVUxIei1uYVhBZjhKeXRxRGpRc01TamJKVVJPb1M0akxDeUFTRzVGY1VsU1djRGRfb19KaVRucDA2SGNBZndZazRhU19uRmtiM3U0eW9IWDQ3ZV90dVhhWU0wNkowaTJEOU4tV0o1Z0g4VjkwVXo5VjhXdEoxakdSWGFPZWpTYXJocEo5S0Q?oc=5",
+    "description": "KEC International - MFs pull back: Stakes cut in 12 smallcap stocks after two quarters of buying; stocks fall up to 40% The Economic Times",
+    "published": "2026-08-11T13:09:30+00:00",
     "source": "The Economic Times",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -1018,44 +915,31 @@
     "score": 6
   },
   {
-    "title": "BSE SENSEX: Index Falls 455 Points to 78,499.17 as Financials Weigh, but Weekly Gains Hold - BBN Times",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMGYzcGIwRkpUTUNIdWtkeXQyT0VjR2pLVGVlZHFlZXQ3d0FjTTJNYUctS21qaGV0eGJoUC1BQm1XN2ppbnJnV0hyaVMwRXctajc3WlBlYkk5dWd4RTRzc1k3NWt5WHNVaDNKTzN3VTdVTDUzeVpjYWJkVU51MG0tU0NEZGV4aEx2WjAzeER3T3B0QS05N1NTOVJtSVZOeTJpTGdUTlFOel85cFl0ZmppNEM2MTJBZW9sMXlhcXJDaHg?oc=5",
-    "description": "BSE SENSEX: Index Falls 455 Points to 78,499.17 as Financials Weigh, but Weekly Gains Hold BBN Times",
-    "published": "2026-08-11T09:20:23+00:00",
-    "source": "BBN Times",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 6
-  },
-  {
-    "title": "Smallcap, midcap mutual funds see rise in inflows; largecap funds witness first outflow in 30 months - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNQjc0bWlmWWV1SVJaY2ZldDJRUHlWd1Uxal96bTVZazdJaDhVSVFTUE1uUFFnalc0d3dmWXE1SGxua1Y0czJBU3ItYTRlZ2tiS2R6UVVhZzhHQzF1dEF4MjVMamtLMUpodTVJV1RqSjN4Zl9QVFpvUFlUMVhsQUFSTGoycjBrTnVuSExvaWFaNWhYVTk3Z2xjNVRkS2NFQVRhTEt3Z1AxRkxubEFybUI2b0sxS21BcW5MSWx4V3VaVEllMUtlZS1tQXp4YzZuWTJzOF9tMEl2QldzcUNIRWpwYkVLWW02REkxREVpVVNUSk5MVm5uU2FfcUpiMjbSAfwBQVVfeXFMTUI3NG1pZllldUlSWmNmZXQyUVB5VndVMWpfem01WWs3SWg4VUlRU1BNblBRZ2pXNHd3ZllxNUhsbmtWNHMyQVNyLWE0ZWdrYktkelFVYWc4R0MxdXRBeDI1TGprSzFKaHU1SVdUakozeGZfUFRab1BZVDFYbEFBUkxqMnIwa051bkhMb2lhWjVoWFU5N2dsYzVUZEtjRUFUYUxLd2dQMUZMbmxBcm1CNm9LMUttQXFuTElseFd1WlRJZTFLZWUtbUF6eGM2blkyczhfbTBJdkJXc3FDSEVqcGJFS1ltNkRJMURFaVVTVEpOTFZublNhX3FKYjI2?oc=5",
-    "description": "Smallcap, midcap mutual funds see rise in inflows; largecap funds witness first outflow in 30 months The Economic Times",
-    "published": "2026-08-11T10:11:24+00:00",
-    "source": "The Economic Times",
+    "title": "Investing in mutual funds? Four ways to effectively manage risk for the right investment strategy - The Times of India",
+    "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPaUtlUjZ5VUtZcGw0TDFaOHpCcDJUbVBOdmdpTGRfSmpVUWEwaGlLX0JWdnNXTGxyWEdUWElqOEZuNTlzTXZlRlJGR0VwbVNVZTFibXB0TEFmZUdRN00tc1FaT29meHdhaXpwVzI3NWZSUElCamRsYUZGcFdmaGtwQ2ItbzlORmR5bFVRQW5yMi13M3JVa01UbkRHZ1NUN3hvRjd4cHdYSGQ4RGc2OXRyV0p6eHpBcHBDUlViOThrMXNpSVFUUFY2MXh3RWtKQlUwZmQycklZTFRsN0FrT29VNUtGUjVyeEVBSTFaR1JCSE1UU1laNGszdmswdkdXMDhETGJWUDlDU1R2NlBOZVdj0gGUAkFVX3lxTE1Ibmc1Wl94LUozUk5oSUJXNFJFeVVjWWJNRkhTdGdZV3pKYlpGOVJlU0U2THRVZWFzVExuTjV0djd0OHVVa1oxTTA4UmlNdEZ6LXBWaVdtNG9nbU1vdFNtNFhxaGlsQVJKTTRJTzlGY3hNd0owUFhRLVJtdTMtQjdDY2FfNHhiWTd6VTBFSnQ3cjRSV2hVWmF3VzBnNU50SjhKaVVDS1NBc0tIZEUxVXp2TVo4YkVvOXN5R0FUd2l6czlIOGcwcHlnWW5JX3QtaDlqQWlDQ3JXVU9IYkIwOVBJUXQ0N1Jkd2tlc1ZKb2hNZ1dfTDJ5UmZPZHA2QWh3dXViVU5CQ3BhTGRHU284Z29aZHVhaA?oc=5",
+    "description": "Investing in mutual funds? Four ways to effectively manage risk for the right investment strategy The Times of India",
+    "published": "2026-08-12T10:56:00+00:00",
+    "source": "The Times of India",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
-    "score": 5
+    "score": 4
   },
   {
-    "title": "Mutual fund industry sees Rs 2.35 lakh crore net inflow in July; AUM rises to Rs 85.76 lakh crore: AMFI - DD India",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOX24tTjMzc0lWMjNUaUVDUmI2UXdPcWw0dGRuZEkteTVzbFJFM0F5TThzSzBHZThVQkFFX0x5UUdaMTZyTGdWT2hNZ3hHYzBPQVJPWmtaTjZUVXFwTzZlZEM2cUJIMFJQRFV3S1ctME9KellnendpRjBSVnJGM2NMbURUekZOWElXZUhqUVBPMks5VmR3ZGR4aUJVSVVrVlZTcUZMX3JiOUhPeF83dGRfUjRxY2dfRm5Ydkw1S2xaWmFyZEVVSUhtMnlVWnk?oc=5",
-    "description": "Mutual fund industry sees Rs 2.35 lakh crore net inflow in July; AUM rises to Rs 85.76 lakh crore: AMFI DD India",
-    "published": "2026-08-11T09:16:17+00:00",
-    "source": "DD India",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "title": "Sensex, Nifty extend losses for 2nd day as firm oil prices weigh on sentiment - The Hans India",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOYURiY2x5OXh6MFdHQVVoSzBXNTBTWEdEZDgtYTlWcUktRHdhN014SzVqcnhmUkJpd1JUTVNIbVZqRzF5Z0tzWTRhWUxfdXcxWUY3eWFZWjN6T2NkOGwyT18xTm1SLW5scU42ZmlNQktiNFI5cUNpVlQzbUdTMTR0SVc4UkJQNzJydmFqTnJLR2FSNFhpR1lyWm5IdFRGUFJaN1pJQ0ZIRTBlRDIwcHZMSWF1X0xpclRjcVlFUTFBcUd3Y0FoQjFsTElTX1BQZnpSMmJj0gHYAUFVX3lxTE9nNzNDMjdBdUJoQjFqaFRTenNBVG5tOGJDUFZjSTZ2OE1aNWRMZ2lRcmp4bjBfTXVLMUp2YlduNXgxRTVwZ18wWWdhbGE1WGlYNExMamVfTF9wYndVUWJGbXZQNHBmT1VmZG1Ec2hENHFuUFdONHJydUhudkRITGlvZFpLcXRZM1FpdXhyOG9tTWl3amR6N2xUTmxITjZ6TWRoRTdhMk9tdlBQLVlzWTNhbjQzazF1YkVTTEpScjB3V0UzT0FxU0V1bUR2d01nY0hhQzJaX3lZaw?oc=5",
+    "description": "Sensex, Nifty extend losses for 2nd day as firm oil prices weigh on sentiment The Hans India",
+    "published": "2026-08-12T10:37:40+00:00",
+    "source": "The Hans India",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market"
+      "India market",
+      "macro / flows"
     ],
-    "score": 5
+    "score": 4
   },
   {
     "title": "Geopolitical Crisis And Market Volatility: Should SIP Investors Continue, Pause Or Increase Investments? - Outlook Money",
@@ -1097,11 +981,11 @@
     "score": 4
   },
   {
-    "title": "Equity Mutual Fund investments decline 15% to `24,697 crore in July - MillenniumPost",
+    "title": "Equity Mutual Fund investments decline 15% to `24,697 crore in July - millenniumpost.in",
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOMTlHZ004c0J2ZF9iblFGc051d3FtQUVZeDBhLUptMlVvQnUxQThDS0FVcWlkNTNnZHBrNWJsUm15VExmOEoyamtQTXRHc0ItS2hoRHpCUFVER01uVkxlQkhwbHFUQWVkelJXc29TOHJxb0J1aURfYzV3WWROV0VHM2lRdGdBMnBTRUFhdndrcl9OYThXT1pBS0dlTGFBbHc3NUJ2Rm1hcjFmc09fX3JnM0h6QzLSAbQBQVVfeXFMTjE5R2dNOHNCdmRfYm5RRnNOdXdxbUFFWXgwYS1KbTJVb0J1MUE4Q0tBVXFpZDUzZ2RwazVibFJteVRMZjhKMmprUE10R3NCLUtoaER6QlBVREdNblZMZUJIcGxxVEFlZHpSV3NvUzhycW9CdWlEX2M1d1lkTldFRzNpUXRnQTJwU0VBYXZ3a3JfTmE4V09aQUtHZUxhQWx3NzVCdkZtYXIxZnNPX19yZzNIekMy?oc=5",
-    "description": "Equity Mutual Fund investments decline 15% to `24,697 crore in July MillenniumPost",
+    "description": "Equity Mutual Fund investments decline 15% to `24,697 crore in July millenniumpost.in",
     "published": "2026-08-11T17:53:23+00:00",
-    "source": "MillenniumPost",
+    "source": "millenniumpost.in",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1110,125 +994,69 @@
     "score": 4
   },
   {
-    "title": "Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows - livemint.com",
-    "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNUnFMM1lVM1M4WERoME1vR2lmWWY4SkJEb3M5ZWRLa0lUYkU1RzQza29CV2pKQmdwbEQ1NWNMdkJYbWRiYjRYMDlEUERjTjR5NFQ5bmNpUkdWZmxXYzlBZGFXUEZBMjUwLVhlMlJwTGdSMTNZTlN2S3N4OENBRWh5TkNtdDJ2OXlubWhSWGc0S2pyeVloRWtsSFhkcHBzSS1XWHdJUDRvVVhXQ0Z5SjAzM2Jqb3dORS1sX3c4b0QxaUFFS21LTG9iOFJPUzZScW5xMzhmVDFteWRNZEhXMXhZSXFvaF9BcVZUb3l4b081TFpOLVRwcllpWlFR0gH_AUFVX3lxTFBxN0lCd09ORktBY2Mzc1FMeDdMOGlzTnh5RnBpQnhWMnlDNE5FeGIwd3R6eHN0NjdYdlJYRXN6dEFXSzBJMDdMa1BuelU1T0JkVU9MV3RMOXJ6NU1DMTNwZG9KR0d3LUlRWGxVaVRnT2lzVVJhdVFTT282ck9uWUFfMEYyei1HRVdoZHNvUlRVMTNOY05WQ3dhdVEyX3ZXTHVKM09fOXN4THhvemFKSkV5T3VRc3dzWlU1NDBCdzJtcjVzbWtwNjdSZ1BWc3V0T2NPX1kxd2tFY01qT09BWjJjOTFCWTdzbHlicTU1ODBuSXh2VEpDUlMtNDVJSGdtSQ?oc=5",
-    "description": "Expert view: Market stable due to strong SIP inflows; time to dump stories and focus on cash flows livemint.com",
-    "published": "2026-08-11T11:34:25+00:00",
-    "source": "livemint.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "macro / flows"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Where to eat & sip this month in Delhi NCR - Luxebook India",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE81SjZiVmMyZU9CWDcxZ3NTV0VKd1pZSW1zMzQ4MnBFSFRaZ3ltQWJrMXpEUzNSd3BpRzBtQVhZbHExQnBaOExPOERHNjdSODRHdjUzd01wVlRheklIMXZkd25ucmFoZUFrN2dFc1dn?oc=5",
-    "description": "Where to eat & sip this month in Delhi NCR Luxebook India",
-    "published": "2026-08-11T11:05:07+00:00",
-    "source": "Luxebook India",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "title": "Bulls fight back at close; CAS lifts Nifty above 24,400, Sensex recovers over 450 points but ends lower - Fortune India",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVcxSjRsQnQwRUxlaWhqekhhaFF6WFhFTElFNVdmeWItcHVTZ2t3bjljMUJRU2RGT25rWVFzZGRkWVEtaEN3aWRzTUtiQ25xVHJRaFNfNU1IbG1odFhHOTRES3JfRXV0dklnWm1lM1hWTkh0SUZ5M2xydzQtZFh5cWhvYlltRjg3a1BabElkYVZ0eWw3VDF5dG1Pb2FEVGJMMWg5dUNpMGVWT0k0eEFwQmF2WEV5b1YxNDBSakpTbVNwd2djQmUyN1VBcDVTTURhX1Q0TnhodUFWQ1Zz0gHqAUFVX3lxTFBsaDJIa0U0OTJEcjlXaTg3M2Y5cmxNYms3VlpWOHh0Qk1fN1BCMndHNkQ3M0xvcXZIU21zNGZaN05UNDFZc3hXRmkxWGMwdUdLQkprU1NuajlxRWVSeDhJYXc1UWtrOWExVEhHaWc0d0ZTbXpuQjBnS1hEZ3pTdVJoWjJpbENNUW5iMjJrZDIyTHBmUkxJVC12NHQ4NXhGWTIwd2pDZXFQZXZIeGQ3RFAtU0VHMTFONmQyQWY0X3pGWTZ0WHRiMXFjcGxHMXFQQ2hpYVBMdlJxeWQyeC04RTk3RjFLN19USHRDZw?oc=5",
+    "description": "Bulls fight back at close; CAS lifts Nifty above 24,400, Sensex recovers over 450 points but ends lower Fortune India",
+    "published": "2026-08-12T10:51:11+00:00",
+    "source": "Fortune India",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
-    "score": 4
+    "score": 3
   },
   {
-    "title": "30%+ mutual fund returns: What six big winners reveal about the market’s hottest themes? - financialexpress.com",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNUlo1dXdCcGRlbzV5NFc3MHhuLVhaV2VIaVlETm80ZmhhcjlxdGdDenJ4MTVET2FINWJsUjZjT0NSVUhMc1pTWlRNa1lLdnRwQnhnV09zYVYteGdWbUhvNkFGZHNieDk5cUo4Y2tUemdRbldUVlZiXzRldGI2ZFQ4VzJ0LTNUY1VTamlUVGtxeVRMcGhfY3NrQ0RMVkVTbm1OWHVDQkNKbXp0OUNmcUV5TU90MVRzdk1vZ1lyYVFzcFBFZ2ttQlU3UkF0QW5MQXhxdmhrcnVoRUpaNWd2S3FmQnFYb9IB4wFBVV95cUxNUlo1dXdCcGRlbzV5NFc3MHhuLVhaV2VIaVlETm80ZmhhcjlxdGdDenJ4MTVET2FINWJsUjZjT0NSVUhMc1pTWlRNa1lLdnRwQnhnV09zYVYteGdWbUhvNkFGZHNieDk5cUo4Y2tUemdRbldUVlZiXzRldGI2ZFQ4VzJ0LTNUY1VTamlUVGtxeVRMcGhfY3NrQ0RMVkVTbm1OWHVDQkNKbXp0OUNmcUV5TU90MVRzdk1vZ1lyYVFzcFBFZ2ttQlU3UkF0QW5MQXhxdmhrcnVoRUpaNWd2S3FmQnFYbw?oc=5",
-    "description": "30%+ mutual fund returns: What six big winners reveal about the market’s hottest themes? financialexpress.com",
-    "published": "2026-08-11T10:44:08+00:00",
-    "source": "financialexpress.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 4
-  },
-  {
-    "title": "AMFI data key highlights: Small-cap flows surge as large-caps see first outflow in 30 months, debt funds... - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZGJVbkJ3TGg4ZHVDZ3hLLUhfeElDY1dOVXkxbnJwUWItMksya2c5WTRFSmVEV3ltRU42b3l5LW5PMklHUl93Rk1ydlhvNWpIWlVkQnVvZ2hYVTE3Y2tBWWxrbmpwVEJzSDhzSmZpTjhYbDBJeFRYNTFzNWRqSUF0NEJ2VEh0UmpWWGI1eEtrckpTa0lxNnNZNU9lTUE1bFUwcXplcWJIbnJFX1ZqMl9MMnE2M3lMdW1kNTBETkxGdVNjRndPM1M4dVF3NDhrY0ZZRXdCSXVzcThuaG5DbW0xY1pndkxKUXJ6emZyX21n0gHzAUFVX3lxTE1LOHNSWlRxUmE0a1RISnJPZmxyVW5KcFFSVzFSYUJaQlJ5SVo1LUFjaTJGbHJ3UGw5LUlqZjBUSWVBTm5PU2FIX3hpNXRwWm1CMzNIQ21FaVlDcDRmSldJaWx1RE9qTjRIdS1FS1hhSmlGM0F1czgtaU54ZXJEWXBHNFBYbjExU2RPa2tHLWJGZ09lTXYtT0hrNTdXeVE4QUdqSzB3LWtka2NpblV1S1lRelZMb0l1ZV8tdGVoc21MVGxKRnRqdXZXeld4eVJ4OWlnMVk4azk0cVppS093RV9OUFdIYnc2RmJYd2dWYWJmbG9wZw?oc=5",
-    "description": "AMFI data key highlights: Small-cap flows surge as large-caps see first outflow in 30 months, debt funds... Moneycontrol.com",
-    "published": "2026-08-11T10:42:06+00:00",
+    "title": "Tube Investments of India Shares Rise 2.12%; Stock Among Top Gainers on Nifty Midcap 150 - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPQVA2THRYYTJ3RHVCVHdKZ3cxMXhVVGdBNnJPT0VYTFRoMmhHX0t5LXNvdkRObWlfUko1WGRWQTdGUkRqZWJWdlZwVWFqcW1yS3hiMGljUGRaMTc1bmdkbGdaY2lKMXJ3elRJaThKTjRGVjFib19TTUVUNHMtQ3NOWndBN3ZmVTJVSVNlVlA0ZjhtNWRCQXNDX3BwVm5RVFk1ZFAwcmJRaE1fdDluWjR3a3ZCekc0S1pUVnN3MHczQXZxMEVKZlpMb2h2bGk3bUZoM1FUTC0yVXBaRTlSSjhueTdKOExvelZNcktpbjNZZjBnZ2tTMnlV0gH8AUFVX3lxTFBEUVZSWkEyYThBY0dkTURFczV6WE9CbVZRSHA1dEc5QzN3UVAxUGNmS21FUVIwSENwdW1KVm9pSzQ0VENGWGRReUtZTHhJbHo2TUVrWjRUeG5PSVNLc1BZNjQydXV2Smo3OVo4SG1UTVZXbm5OUGdOSkt6eXhRdlFtMGRWS21tbHNwRVpoVjFmcXRwM0VYR2Q4RmVaRVVRdThFUnhXdGc4T0d5a25oOWREQk9BbHBmajNfQW56bkR2T3J5dVRtQmgyR1dfdmtFTDhRdmJtSldnNTBlcDd2eGFTMHN4TGY2X18zZVJGXzZmWTJSVTZDS1huNnQ3LQ?oc=5",
+    "description": "Tube Investments of India Shares Rise 2.12%; Stock Among Top Gainers on Nifty Midcap 150 Moneycontrol.com",
+    "published": "2026-08-12T10:24:44+00:00",
     "source": "Moneycontrol.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "macro / flows"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Mutual Fund Inflows Surge as Debt Adds Rs 1.88 Lakh Crore, Small-Caps Lead - NiftyTrader",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CeDRhYmtNczQxekFWT1BCYVVQOEpvN1VELW9Sa21sSy14X3RtOEpXRHk1Vmh2U3hnRWNnUmJrRFcyRXRwRjMzT3p0cFpvUUJpYTMyT1RBSWdNZEUzSUZ3b1pXeUh4TzVtMm5SUVF4bnZaTUR3eGZSUw?oc=5",
-    "description": "Mutual Fund Inflows Surge as Debt Adds Rs 1.88 Lakh Crore, Small-Caps Lead NiftyTrader",
-    "published": "2026-08-11T10:34:34+00:00",
-    "source": "NiftyTrader",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 4
-  },
-  {
-    "title": "SIP for Financial Freedom: 7 mutual fund portfolio mistakes to avoid - Zee Business",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR3VhWDFvM2lJYlRsN3pTNmI2RjhOWEpwbjhqV3RqdlFiZ2ZWc1JCZ2NkNzJnMXBhWTM4T3k0bkNySXY2eDRTZFAzM3hIdGdQNjRLcU9mX3Y2dXh4OVp1T0ZDdVlvenVGNGpVanNkaXhDaUI4bTVieG5wdXdzY2NHOW5qN2FlSmVOMUVQNEwyVllHdU14eUUxUlFlY3o2b1FQYWlOS2dPUzI0TVlyYUpOMENySUVtWDBBVEdUUTVXM0c?oc=5",
-    "description": "SIP for Financial Freedom: 7 mutual fund portfolio mistakes to avoid Zee Business",
-    "published": "2026-08-11T10:22:00+00:00",
-    "source": "Zee Business",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Mutual Fund Inflow July 2026: ₹2.35 लाख करोड़ का रिकॉर्ड निवेश, AUM ₹85.76 लाख करोड़ - Business Remedies",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVUh0ZjFqVjVQU0laVHprTFMxMXg2VGJZQ2YtWWwwcjdjZm14akF3eDdza2VHWjI2THNmODJTMWtUc1ZEWUw1UGw3TTBsZ0xLSVd6YlZDOEFTcnJSdmlYNmM4QU1HWTk0eFhMb3RBTmRXdUxGZC1tTEZFbXY1YklzaG5jY0U4dWdqdHk5NWtn?oc=5",
-    "description": "Mutual Fund Inflow July 2026: ₹2.35 लाख करोड़ का रिकॉर्ड निवेश, AUM ₹85.76 लाख करोड़ Business Remedies",
-    "published": "2026-08-11T09:47:45+00:00",
-    "source": "Business Remedies",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 4
-  },
-  {
-    "title": "Mutual Fund: Equity schemes shrink 15% month-on-month in July, stellar show by debt funds - News9live",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3JFUVkwN0NqQkc5dkhTSHM5Y21QVEdBbi1jdm1LNTFuMEo2X2YyRVB1Rk1KMzVQMTlMRm84T3RMZWw3cngtMHNvLVNhZHlfOHFHLXRzZ194MDFWVWdfYU5VMHFGSXVOUkVaNlc4ZWdyWXUyOHBFMmNXNmU0OXFXLWdKR1labE9HVGY2UVRycXFtY2J0dmdVWkFZOTNESDd4U1Uzc0NyLThUWUowbFNVdV93a1ZnV1hDeGEwVU5LME1wZzFCdmVaSy1lQUpFc1dzLTk2cNIB2gFBVV95cUxNM0NzZ0I2cUlPNktjVEtnci04MUZESDV4eU04d1VEd0lud2JyVTR2TTVudzFWWnVxR1c5NWVLTmVNdVNhcFh0bWpTazhDc0s4dzFwY1lXdV9zUFUwRWV5ZW5mUldLSEtsd1NLamNfaTJrUVFORElyLXlYSl9vck02ZWJBYmI5VU5WelNpUFVqQjJzQ1lIZW5keEhvc0RtVmNaSFRzWjRFenZoZUo4QXJCWkVsbEdEYnNFOHk2ZEQ4UFFPZ2c2RzhUVUtYRkw0WEdkZTdoVUVQOTRQdw?oc=5",
-    "description": "Mutual Fund: Equity schemes shrink 15% month-on-month in July, stellar show by debt funds News9live",
-    "published": "2026-08-11T09:34:56+00:00",
-    "source": "News9live",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 4
-  },
-  {
-    "title": "SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volatility: AMFi Data - The Tribune",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUjhIZFJKekEzNV9JcTk1Tmx6RWFZQW9aa0Z5aUtnSkY3ODJDai1PSkRFVVA3RFhpZURicHJhVTE0d1R3dk1udGRLd0VYTDlnel96NVh4MHdwMVdYbzRwSEpvd0kxbHBYU0xNRUMycHhPN0dwVUlvS3FtODJ3R0tDUU9PSmlsY1pLQTdvaHhxYTRDTFZJb092MjRCOVExeXRKbTc1TTRRSlZtbVJDck9RUlpPdDZSUHBnS0NGdDQ0OTJZLTdLa0ZqOFh2OTlRUWRrU2xvbkxLb9IB1wFBVV95cUxQUjhIZFJKekEzNV9JcTk1Tmx6RWFZQW9aa0Z5aUtnSkY3ODJDai1PSkRFVVA3RFhpZURicHJhVTE0d1R3dk1udGRLd0VYTDlnel96NVh4MHdwMVdYbzRwSEpvd0kxbHBYU0xNRUMycHhPN0dwVUlvS3FtODJ3R0tDUU9PSmlsY1pLQTdvaHhxYTRDTFZJb092MjRCOVExeXRKbTc1TTRRSlZtbVJDck9RUlpPdDZSUHBnS0NGdDQ0OTJZLTdLa0ZqOFh2OTlRUWRrU2xvbkxLbw?oc=5",
-    "description": "SIP inflows hit four-month high at Rs 31,961 crore in July, despite market volatility: AMFi Data The Tribune",
-    "published": "2026-08-11T09:33:15+00:00",
-    "source": "The Tribune",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "market selling"
+      "India market"
     ],
-    "score": 4
+    "score": 3
+  },
+  {
+    "title": "Nifty India FPI 150: How the new NSE index tracks foreign investibility - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQlhMRVVYZjNqMkJLQUtkZTZLeEFnZng3NWp4YXo4V1VveHFMVnh5bnlXc292aGpwdGdxblBNSXQ3Qzc2d1pYWHBxNjBMZG1ZaEZzUUVKNk1nVlpHSDBPMGs5bFZzVW44anV5Z2NJVzNqdHZIRmltRmFfWDhRVEhPSUQzN3Joa0E0VHFVR3NScG9FYWpYekwzdmtJNU81UlRLYXN0Rm1LS09LME9oSllCeUhGV012Nm9lTWFUcWxGVVhCMlgyNDBhcUVoMTNEZ05pOTAxOHE2MENmUzJWUGM3VDlBY0LSAeoBQVVfeXFMT2JqdDJPNk9oa2RuMUdUem1QcS15R2dYVUtRVlNDcV9mLTJjSXVOWVQ2QUdtQmkxMFI5UTNWUHVDUS1DZ2NCVVNEX3RxQk9ULXVlS1BCTGhXaEZ3UFRXekFRMDVuOUdpMEh6MkxKblpVLXVpVlFrTF84QzgyNXNhSGFadjNwRjJnaHpXNkxOdnJQUVFKYTluZENSRF9JdlRONjZXUkVZNGdLckd5WWo2REpSSDl2RXJwQWkzT2JweG5Pdl82Ynp2MFg5U2Q2c1MtX2tDa2lvZU9xNWdSd1BQckxyUk1fQk9QWF9B?oc=5",
+    "description": "Nifty India FPI 150: How the new NSE index tracks foreign investibility Business Standard",
+    "published": "2026-08-12T10:11:20+00:00",
+    "source": "Business Standard",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 3
+  },
+  {
+    "title": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market: Chairman Pandey - thehindubusinessline.com",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTFhNcGtsNzVSb2hiaGd1dENaZnFYV0hsZlpIMmdiNjJVVW91dlRHckI0YlByY3R4V3hsT1VSM0kwSV9YMEQyTUNYejdYZXE2aTk4NWhDMXR6RXJqdWJiQ2xPbzVjcXlUNDRNUG9rT0R0eVA3cUR2TzA1QzYxek9oeXZSUGN1R3A1TTJmQnpDM3RyM2tFUG1XOEd6amNEUWRtSkpNc2w2VF81aDdwZWQ1N05CSGZhc3p2RDBOM2k1T0dxZ2tNaHNFanlub3Vud0E2VFVlazJWWGM0OTRpY0tnbtIB5wFBVV95cUxNZUMxTm5YaS1ocXFNWEhwTkVyYkhyT3FvQXdrVnRxRUQ2dUw0WG9hNjNsa1RRYUVObGVmb0hVd0F3SndzdGZvQ0pfb0UyVnNxQ0RHeVMwVTFMbGgtaG44RjdWY3NMMjBlX0JEUVZfTnlvckhNN0IyU2RDUjBPOXpZRmZ1VVhYa2M2LW1faDdGNGpyOHlYSldwNmpuUEFjUU95N21ORlNreUcxYWduNXFlQXNJSzdBWGRreDdkOTByUHNVVjYxUGgwR1pZdTQ3amlvMzJHbTg4RFl3RjFERTlTWVRQYXp5SXM?oc=5",
+    "description": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market: Chairman Pandey thehindubusinessline.com",
+    "published": "2026-08-12T10:07:35+00:00",
+    "source": "thehindubusinessline.com",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [],
+    "score": 3
+  },
+  {
+    "title": "4 Stocks Jump Up to 5% After Mutual Funds, FIIs and Promoters Bought and Sold Shares - Trade Brains",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLTFSeTdiWVZLM3M2aElST3FzVVFwZUJ0a3gzRTVjWWpHS0RhcWpULXJ3QXhNMW05NDZuR2NLVDRTbmMzeTFybm9mWkxYYnNJRDhLOXZpVHNYR0NJMjNQcVc5MmdwMmxtWTBQUVFZT3pMa05EbVN1ZGNKZmVFSVlnazlZTnRvbnM0YUtGZjVSVWZQZ28zTDk1SE0taG1lYUo4REZsR09DakpOZw?oc=5",
+    "description": "4 Stocks Jump Up to 5% After Mutual Funds, FIIs and Promoters Bought and Sold Shares Trade Brains",
+    "published": "2026-08-12T08:19:00+00:00",
+    "source": "Trade Brains",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [],
+    "score": 3
   },
   {
     "title": "Business News | SEBI Eyes FPIs, Mutual Funds to Deepen Commodity Derivatives Market: Chairman Pandey - LatestLY",
-    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONm05THlsVE5JdXJ5aldlOTRXMlRHRnljeS1sSUpXY29NMGRudVpCSmJPMzQ3aGtjUFpXMmVmenFUT29zM1NjOFJCZU02UjJ4WlJwVzlDbVhQZjhMeklZdlRIek81TXduc2praDFvVl9DZWFWc25IZFdwRnhXTTBpODVOdy1BSHAxTlJXbTNsTS1FX3hWTVIwRXhhS0gxNC1aLUEwdWc0VFNIZ1U4MzI4bm1Jc3huZTZ3a3ItXzVGcmFTV2xyZ1VSZElyMG5DRjBOR2Z0UVV0V2M2TklCTTVV0gHkAUFVX3lxTE9kcDRJLXJTODNOVWhMeHN2QlU0elh3akdtTnJHVkdDWjY4QVVOUEp3cENsVlZZbG1Nd1JTWDEwUEJ1dG9jNzVYbG1UOHk4YUY1VWdyNDhPTDhJRlFVQnlGUjlPNHQ4Z0plaWd6aDY1TE1meERVczMxV2p1U1pPQW5icnM0VWU2OU1vQUVoUDN5bllENEo3cTdoN3ZYWThFU2UyZkVrQlBlaEJWWmZUNGhyazJxaUw5QVRsVUR0clRyU0ptdVgwNk5jYlYtMGVza2swVVpJMXhta0RpZEY1SEduaDVFaA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZHA0SS1yUzgzTlVoTHhzdkJVNHpYd2pHbU5yR1ZHQ1o2OEFVTlBKd3BDbFZWWWxtTXdSU1gxMFBCdXRvYzc1WGxtVDh5OGFGNVVncjQ4T0w4SUZRVUJ5RlI5TzR0OGdKZWlnemg2NUxNZnhEVXMzMVdqdVNaT0FuYnJzNFVlNjlNb0FFaFAzeW5ZRDRKN3E3aDd2WFk4RVNlMmZFa0JQZWhCVlpmVDRocmsycWlMOUFUbFVEdHJUclNKbXVYMDZOY2JWLTBlc2trMFVaSTF4bWtEaWRGNUhHbmg1RWjSAeQBQVVfeXFMT2RwNEktclM4M05VaEx4c3ZCVTR6WHdqR21OckdWR0NaNjhBVU5QSndwQ2xWVllsbU13UlNYMTBQQnV0b2M3NVhsbVQ4eThhRjVVZ3I0OE9MOElGUVVCeUZSOU80dDhnSmVpZ3poNjVMTWZ4RFVzMzFXanVTWk9BbmJyczRVZTY5TW9BRWhQM3luWUQ0SjdxN2g3dlhZOEVTZTJmRWtCUGVoQlZaZlQ0aHJrMnFpTDlBVGxVRHRyVHJTSm11WDA2TmNiVi0wZXNrazBVWkkxeG1rRGlkRjVIR25oNUVo?oc=5",
     "description": "Business News | SEBI Eyes FPIs, Mutual Funds to Deepen Commodity Derivatives Market: Chairman Pandey LatestLY",
     "published": "2026-08-12T07:44:22+00:00",
     "source": "LatestLY",
@@ -1252,19 +1080,8 @@
     "score": 3
   },
   {
-    "title": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market - Asianet Newsable",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbERxbTNKbGxIci1Zcnpfa09kRThFcU1ZWUVIcE9MWnB5NjR1YXZ0c3BNYVAyMy14cTNMX1BCMkZHdUN6S2FPeVR2UjA1bmt1Q0VnUzFyaXp3NVR4VWVoZUZJRElxcGVTQjVyYUYxZUVZdzVnci1mRnRNUm5WV05LV2ZtdFJHTnY5ZFh3ay1LSDNTd0xud0ZsOUlqdHU2c19qQkZVc1NuSWgyRW1IRkZzaE95bFV0SFlDNERHQlROVTg4eG5vVUU4?oc=5",
-    "description": "SEBI eyes FPIs, mutual funds to deepen commodity derivatives market Asianet Newsable",
-    "published": "2026-08-12T07:30:31+00:00",
-    "source": "Asianet Newsable",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
     "title": "Nifty India FPI 150 futures and options launched: All you need to know - Business Today",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbGFueE1xSFhEd2QtcTFKVEI5aGo1aUhoRnM0QXhVQ3ZIS1daRkQ5cnZpa25GUkdWZ3VNamF1dF9Jdm5qUUYzYldyc0tlMjVzd3JIZlMyNFNDYURrV0pBQTVYc0htSFNHMkhleXB0NU1jSVh2eFl0RXZEM0NPaGFSbE80c25ZUWlNQjhXSlZ1QlAybHpBX0tzM2hoWldBZHNXYXhXTjlEdFBMM0ZPWW92Uk9lajlZTkVTSW1yRGliUGp6MWcwcUJieldfdkhONXVzUjNz0gHYAUFVX3lxTE9TVi1icHZDNDZsNVc1NlJ4R2MtSTJLOWxTWlNVN3J5TnlkUGlrTV9zU21DOWc2YXFpZTNNR013TTZkVTRMaGtuay1IWHVEcE1XaEJYQjZSZHBlZlJYQml0dGMtY0ZrdmFDY3IxZlp5WEtCaTlpQ01lZlk0WWlydzZGQXRETHdkUWhvZ1RYQnE4VGM3NVF4dmstS2lkcDdrNXF3akZfRWlqTTJRSGR1YW9PRk1LcUpnX1BjeHoyM0Y2RWkzVU9VQ2NVbXdHQzVmVURsRlhNdFhFOA?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPU1YtYnB2QzQ2bDVXNTZSeEdjLUkySzlsU1pTVTdyeU55ZFBpa01fc1NtQzlnNmFxaWUzTUdNd002ZFU0TGhrbmstSFh1RHBNV2hCWEI2UmRwZWZSWEJpdHRjLWNGa3ZhQ2NyMWZaeVhLQmk5aUNNZWZZNFlpcnc2RkF0REx3ZFFob2dUWEJxOFRjNzVReHZrLUtpZHA3azVxd2pGX0Vpak0yUUhkdWFvT0ZNS3FKZ19QY3h6MjNGNkVpM1VPVUNjVW13R0M1ZlVEbEZYTXRYRTjSAdgBQVVfeXFMT1NWLWJwdkM0Nmw1VzU2UnhHYy1JMks5bFNaU1U3cnlOeWRQaWtNX3NTbUM5ZzZhcWllM01HTXdNNmRVNExoa25rLUhYdURwTVdoQlhCNlJkcGVmUlhCaXR0Yy1jRmt2YUNjcjFmWnlYS0JpOWlDTWVmWTRZaXJ3NkZBdERMd2RRaG9nVFhCcThUYzc1UXh2ay1LaWRwN2s1cXdqRl9FaWpNMlFIZHVhb09GTUtxSmdfUGN4ejIzRjZFaTNVT1VDY1Vtd0dDNWZVRGxGWE10WEU4?oc=5",
     "description": "Nifty India FPI 150 futures and options launched: All you need to know Business Today",
     "published": "2026-08-12T07:27:23+00:00",
     "source": "Business Today",
@@ -1281,6 +1098,17 @@
     "description": "SIP Assets Constitute 21.2% Of MF Industry's AUM fintechbiznews.com",
     "published": "2026-08-12T05:53:19+00:00",
     "source": "fintechbiznews.com",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [],
+    "score": 3
+  },
+  {
+    "title": "3 Best-Performing Mutual Funds With High Holdings in NTPC, Adani Power & Tata Power in 2026 - Trade Brains",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWXpUenRDSUxNeFFySDdFZmdJVVFqSEJhbUVINUJfV1c1NWVCelJteW11cEpqUjRNSXdYdlo5a0lFbVVHbndqZTlqVDVKYlRWcXJUWFlTXzM3cXFUMWdvcDRpNUpaQTNsMDZ5bTIzSW5FNEwzZHE0Rmd4ODRqTFdidmxPNUY4ei12NWV6UWlURnl5WDVwLUFLRlQ4Uk1sSEp3QmJWckJ1Nl9HNzVMcjJqRUZ3emYtV29KREE?oc=5",
+    "description": "3 Best-Performing Mutual Funds With High Holdings in NTPC, Adani Power & Tata Power in 2026 Trade Brains",
+    "published": "2026-08-12T05:29:05+00:00",
+    "source": "Trade Brains",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [],
@@ -1312,11 +1140,22 @@
     "score": 3
   },
   {
-    "title": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - Goodreturns",
+    "title": "Large-cap mutual funds see first monthly outflow in over 2.6 years - Cafemutual",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWGNTaEpVbnRtVTB3MnBKTDVMYVlXcVF6VWFtS2RheTd5d2x6VnlVajQ0WGNaNEYyZ0pucGZiLUdpUFNoUnRXVG5iZFZhMEFwLU54UGxMRnBhWFhRdkFZMVpORHlIV18yTWE1OWlqTlJrcjVWdFBxbkxxdHZMTEVrLXRrdjR0Z09qMlB0YVNhNk1Ca1RJUXdwSTlUOUR5VldaV2Y0QzgtWlpGU3lpQjVV?oc=5",
+    "description": "Large-cap mutual funds see first monthly outflow in over 2.6 years Cafemutual",
+    "published": "2026-08-12T03:19:42+00:00",
+    "source": "Cafemutual",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [],
+    "score": 3
+  },
+  {
+    "title": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows - goodreturns.in",
     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNN2JzQUJabDhtVHRIaHQxMktTVVFtd0lWWmtTR1ZwLWN3dlVnS0tEQVZyVVhZWEtIWUNIZm9pQVdqbV9JNkR6RW9YLUNsWFVLMXJSMXlHdkxjTkdESk5YXzM1eDFHZ1BFc2psSHJjY0V3eGhfTEFrYVMxZU1HbG9PTjA0QUh1QUFDTmwtTjhfTGNMY1VVdzFzanNRU0RVUm9lTEphNVJKRlpZOHFfaTNIX09XVC1Fd2VHdWl1VzAxcVFKb0QwREgyRnNCQnZhQWhtRnVMaXlJWlBPeFVsUlE?oc=5",
-    "description": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows Goodreturns",
+    "description": "Stock Market Outlook Today, June 8: Sensex, Nifty Likely to Trade Range-Bound Amid RBI Pause and FII Outflows goodreturns.in",
     "published": "2026-08-12T02:29:07+00:00",
-    "source": "Goodreturns",
+    "source": "goodreturns.in",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1338,11 +1177,11 @@
     "score": 3
   },
   {
-    "title": "Why Is Nvidia (NASDAQ:NVDA) in Focus as AI Earnings Week Unfolds? - kalkinemedia.com",
+    "title": "Why Is Nvidia (NASDAQ:NVDA) in Focus as AI Earnings Week Unfolds? - Kalkine Media",
     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQR1A3T3hTdkFMMVZ1VlZPUGg4X1dweldvVG0xR1FQVm11TnVINEJYMUVoTW5MQVNmc2Eya2lvVFl2SnlIa3l2WUxobnBzSjZQOFVXX0ZELVZjMVdtekUtdzNrakZHT2pvVFF0dkVKRmh6WU1IcklBQmNSbmlWYzZoTG1Dam9IX3FVd0l2LTc4UmxZRWZnR3J0Sm5fQlRTZUF4R3VtU0FmaVFRSXc4RDJIZDIyY2lCekpWUEJmSw?oc=5",
-    "description": "Why Is Nvidia (NASDAQ:NVDA) in Focus as AI Earnings Week Unfolds? kalkinemedia.com",
+    "description": "Why Is Nvidia (NASDAQ:NVDA) in Focus as AI Earnings Week Unfolds? Kalkine Media",
     "published": "2026-08-11T18:10:00+00:00",
-    "source": "kalkinemedia.com",
+    "source": "Kalkine Media",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1363,11 +1202,11 @@
     "score": 3
   },
   {
-    "title": "Large-cap mutual funds see first monthly outflow in over 2.6 years - BusinessLine",
+    "title": "Large-cap mutual funds see first monthly outflow in over 2.6 years - thehindubusinessline.com",
     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPaGpNMDFLQUctZWxUUHZMSHRFQ3VrZ2FEbE5pSHFjUThpV3pOa3VCM3B3MHlTeVRwdEoxTEY2MER4dXBzTnNtVm9ycUFWLWVkcmFqRkUtNTg5WU5PT25zVWgzRmhlSGVmNkJSM1c1ZEhYaDBwR24tR3dxVnJONmt6NmpoU1dsd1pfRFlyRkdfeTZjWnk3ajFtekRDZTNWMEJGSFdWZDJCWkVlREtjSWozNnlCRUdhVkJLeDVLZFhqeWNiQ1RrRWw5M1dB0gHQAUFVX3lxTE1pTTNhS0JNTDRkVzZmWFlPZmt0ejJDNWhzMjVTZHhjeVp2VV9QbVd6bEZzY3BZZzhrSjhRVnM1NG9XbVY5ck1ERWRvcW1CM18tenBnRllkWmJKamdpcmhZaVJPVlBXa2JmQm1YSzBZcDNHejdkSTJEQ3Fma21uNHpHTWItQzdwbG9pN2JmMExCdEcyX0prZks2X0RUQXloSjhSN1A4bEtoNE83VVd1ZzdZekpieUtFaEpxOW4ycDhNN25Wd2tKMDhXNmJWaV9YNGc?oc=5",
-    "description": "Large-cap mutual funds see first monthly outflow in over 2.6 years BusinessLine",
+    "description": "Large-cap mutual funds see first monthly outflow in over 2.6 years thehindubusinessline.com",
     "published": "2026-08-11T14:30:27+00:00",
-    "source": "BusinessLine",
+    "source": "thehindubusinessline.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [],
@@ -1407,136 +1246,69 @@
     "score": 3
   },
   {
-    "title": "India Market Rally: FPI Money Returns As Mid & Small Caps Outperform On Strong Earnings - Business Today",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNc2RYZGl1WVJ3MExfZURJOE9aNWlldVhreGFGQ09va3JJMEY3NlVMczBlYm81TlY5RFBuTFI2TENOTGJpbDlmS2J6bHVncGg5OVJSNjFUeU1kZ2lzZkYwTGwwMHJCb3ZrUjFNenQ1ZDFCQjU0WVJyRFlxUFdpNUFtVnNTOFJLeHNOdFE1ZlN2cFF6MXktb0c2RFBsQ3I0ZmRkZWlUSW1xLW9pM0FHWHU2YUJsV1d2eEY4dDZnbWQxeXVBakFrQ1VDZ01mbVlVS01xazVVZXRLR1ZGVkZqN29iT0hibmVpZXVGMFhkLdIB8gFBVV95cUxQZ1ROTXhYZGM1Qkg5YVpPSEN0b2pISy1TdGdINWMzSnJUM01vLUJ4Rzk4cFlvWFZSZlZFaHk2QnVIUjRjUmpSTGtFbkdldTZfVmZOS3pJRHFOWXVrUlpSRldhcy11ckdiWl9XSVR1RVJadXUwdC15ampYejVBWS1aWURQdlI4X09MUzByX0xMYVpVTElzSnFpWTJkUy1KREFpekZKSUtoTDhWLWlUWGVkZHIxSFpFd0ZseTdhanJibXA0WmFuQzFSZ1dzRF91VHc0Yk5zYTFmbGZSWXItYXZ1c0NPUjhubjVGdlg5RjFtNjJkZw?oc=5",
-    "description": "India Market Rally: FPI Money Returns As Mid & Small Caps Outperform On Strong Earnings Business Today",
-    "published": "2026-08-11T11:21:47+00:00",
-    "source": "Business Today",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "title": "Nikkei 225 Rises To 67,524 As Weak Yen And AI Chip Rally Push Japanese Stocks Higher - International Business Times Australia",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFRtcDM1N2JhcHNTR1gySExPVWJFcU5PZEw0QS04VV9SZUNfNHhGRGQ5Mml3ZGxWUEdFMWVhVWFiR2lhUlZtOFgydVBPWHlxZEZfUEFIVHdzaFBfaGZLX0NLcXRxZEl1TjdEZVJrWVFqTWxrOHlPRHdpcEx3TDJIVlMtR3luWFU?oc=5",
+    "description": "Nikkei 225 Rises To 67,524 As Weak Yen And AI Chip Rally Push Japanese Stocks Higher International Business Times Australia",
+    "published": "2026-08-12T11:02:04+00:00",
+    "source": "International Business Times Australia",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market",
-      "macro / flows"
+      "AI / tech risk"
     ],
-    "score": 3
+    "score": 2
   },
   {
-    "title": "SIP inflows hit four-month high at Rs 31,961 crore in July - newsarenaindia.com",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZWIzTjI5ZVVsbnEtLVhDV1JidEVfaEdCLUZEZ1dBR3NFUG82cHl4ekstV01UM2RYVXZQTlVUY0RVcEhWTWJxMDJFbndJVGxxMldSMkxtVTNtR2stQmpDLVVUVWNzU2JJUGdvVkRNeXZ2YlBXdTZUODJJTHB4SmVQc3RZU19iR0RkRVBkckg1Q2o0cjNzRDhraDdpQkN3dFk3?oc=5",
-    "description": "SIP inflows hit four-month high at Rs 31,961 crore in July newsarenaindia.com",
-    "published": "2026-08-11T11:14:52+00:00",
-    "source": "newsarenaindia.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
+    "title": "Sensex, Nifty 50 extend losses for second consecutive session; 5 key factors behind stock market downtrend explained - livemint.com",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxObmNnaF9RWXJkZUNzY3FDWlVqQUFxR1RUTllFX21DWkFraUNhcDJrazB3VFhuWlRoSlFrLWNmUkt2LWpHejdVMkYwX09DVDgxQ1NmU3dnV1BDYjMtWk9xTXY4dWxYRGhRemhQRXhFZDlKamRpWmFQeFBpcndFNXcxZlBjOE43Q2ZxMUczNzNCcGdkRGZSelpXajdHNVNDaFBQU2EzOXFVLXBHbEFZVTNqdkw3SDJmdUR3Rkx6UFJxZUY1U1Q2OFFQeHJJUk1nWFBlUHV2NGR2bXNaSjFHbDVmSHFHZVhZcGl5UWlhUldTN2NlZ3I3TG1sdUFUZ2hlT3NIN1BkTzZua0dtMVhBVXh5c2lfZ9IBmAJBVV95cUxNMld4YlprNF9GanB1QzR5WWhpU2hjeVNCb09PNUF1MnJZWjJxUkt1bldFMUtQRl9GdFFRLVEtVTI4OHNJaWktWEhKWWU4VDVGUzVYNlNHeVZCbnJJSGhFVGpwWGxoNko1dG53cHdoNGxWNFY5VVJTSUlIY3VfWUJmTi1MbmxKeUhsZnpRWmwyUEVzS3lvRWlPQU91WGxfQXIyeW85T2VNWWd5WWN4cFFEdTZOa3JOaERYU01CYUFEQU9fNmdyMEtScWEwMkhRZDd2UWFkWGR6OUlNMHNkSmtXaW1UUzB4ZEJfTjJwT0RqYzdLSDdpalhvdmJsZGJleGZaMWZyNk1yYW80d0JOaEFBNHhXbTAyVjJo?oc=5",
+    "description": "Sensex, Nifty 50 extend losses for second consecutive session; 5 key factors behind stock market downtrend explained livemint.com",
+    "published": "2026-08-12T10:17:10+00:00",
+    "source": "livemint.com",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 2
   },
   {
-    "title": "Rs 2.53 lakh crore wiped out: Sensex down 388 points, Nifty slips to close at 24,472 - India.com",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQLTlOWEpWQWxPdzVrblA5eWJWYUxpbEt2YkZwY3Z5ZjVwZlVyaHY5N1FLSkZ1UUc0UWlzZnJHS3V6QVJPM0hSWFVxSklna3ZUSVc2NmtvNFVMSldsOGhGWWV0MHZ3Wll3cFRLMWV4Y0RWMHZSelh4b2xxTk1LWWtkZ0NDVE82WjJZRGY4eWlBWkU4RVlqQ2dmRjJSSnQ3Z1dpOUhiSWlxZWdJVFJVdEtnZGlRQTV4SG85MFFwZ1otWFUwSjDSAcMBQVVfeXFMUC05TlhKVkFsT3c1a25QOXliVmFMaWxLdmJGcGN2eWY1cGZVcmh2OTdRS0pGdVFHNFFpc2ZyR0t1ekFSTzNIUlhVcUpJZ2t2VElXNjZrbzRVTEpXbDhoRllldDB2d1pZd3BUSzFleGNEVjB2UnpYeG9scU5NS1lrZGdDQ1RPNloyWURmOHlpQVpFOEVZakNnZkYyUkp0N2dXaTlIYklpcWVnSVRSVXRLZ2RpUUE1eEhvOTBRcGdaLVhVMEow?oc=5",
-    "description": "Rs 2.53 lakh crore wiped out: Sensex down 388 points, Nifty slips to close at 24,472 India.com",
-    "published": "2026-08-11T10:57:59+00:00",
-    "source": "India.com",
+    "title": "Embassy Office Parks REIT joins Nifty 500, sole REIT in Midcap 150 - scanx.trade",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYjBKZXBwcTRva09pN3lHNGFsYndjTldNVWJCY3BkX2ljTF9qdW4zSkNsdks2UnZCaXNfR1dqUVd6dkhieV9aVWV0ZjJTRlRxUUpMR3h4U0owOXlTRHFFcjJCUHAwZFpxMFFYMS1ydFpTSTNTTnpmMzNma0RaVm81SGk3dVZBYW1oc0tCYUdaYml4X0RXY0tIRG5UOGNrMERSajJUU2xyMFBUTThOUkRHazc4dGI4Z2phd1J0OHo2NHhram1PQ2c?oc=5",
+    "description": "Embassy Office Parks REIT joins Nifty 500, sole REIT in Midcap 150 scanx.trade",
+    "published": "2026-08-12T10:13:37+00:00",
+    "source": "scanx.trade",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
-    "score": 3
+    "score": 2
   },
   {
-    "title": "ai market data midcap select life high fii buying metals - Zee Business",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMnZiSGstUWh2THlPcDloSTl1WTgzZ3pkRkhDTEpJSmNSdDIwMkhOd3ptSHlvMHFjTFF6UUZYS2pEVm1ERml3ajJtWm10Y19PVXFRbllhSGJ2UHJhSDNtMEtrT01iMGlBdm5vQ3I5WlpQbWRlWUxNdjRRQlVRWmhVSmpjZ05vanc4d0l0QWkxWVJRUW1adFlGcDhxMkxGSXQ0LVhiYzd6MlZmMnlab3VncmVR?oc=5",
-    "description": "ai market data midcap select life high fii buying metals Zee Business",
-    "published": "2026-08-11T10:39:01+00:00",
-    "source": "Zee Business",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "India market"
-    ],
-    "score": 3
-  },
-  {
-    "title": "Equity mutual funds inflow down by 15%, marginal increase in SIP in July - News On AIR",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmdibVJLUDMzdmZRbFdPX0NnLWZCcFd0ZHIzX3dKVzRlak1GeDc3RWhnSEhCLS0td2E4Wk5tZjBCNXZ0NFlLRFprUmQtZmQ5T1U0VVl4MUVuZ2JXSHZQOThDN1N2LVBvNnNPWFo4NWFCS1VJNkowZi1OU3FYQ1NoWFZxTmdWUVRlSGhmOFZMMzdSWjd4a2VkbXZ2U0E?oc=5",
-    "description": "Equity mutual funds inflow down by 15%, marginal increase in SIP in July News On AIR",
-    "published": "2026-08-11T10:21:34+00:00",
-    "source": "News On AIR",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
-    "title": "Surging Crude Oil Prices Push Sensex Down by 388 Points - streamlinefeed.co.ke",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNVUZFam9KNHVQLTktb0ZFUktkV01LZE16QWV0MG02cUczU1VPejZDSEhPUS1NS0RRQktRRVBwbzBkaWE2bm53bDFQNGp2aFVvTVNmNWxfUklFUlN0NkY4ZUdMbkZoUzg2bjRmNmYwdVZ6UTNZblMyRWpsTHVBdDlDN1luNGMyQjAxZ0ZFZWJiTWFaeDQ?oc=5",
-    "description": "Surging Crude Oil Prices Push Sensex Down by 388 Points streamlinefeed.co.ke",
-    "published": "2026-08-11T10:09:47+00:00",
-    "source": "streamlinefeed.co.ke",
+    "title": "Why is market falling today? N Chandra’s exit among 3 factors behind 550-pt Sensex slide; Nifty below 24,3 - The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOWTRzSjhGMl9taHZJdDZlYXZsUWk3aHNIZVJsbkhEa3NtMkNkZXNxMGFuZzhOLXI5TmJtWGR6M1ZpYWtibTQxNVo0OVotME9kYkJ0QWNNQmdoeTMtdjRpN2h0NWNXRnJDdlBuRk5CbGloeGhkM1ZPVXhUV0xTTHVFRlVQWFpoLThod3hXSjR4ZkY3dWM4bVA4Zlp6REZIX2pXWUNWU2lRbVI1T2puN2t0aWVHbUE0ejlJY2dudC1jbnR5OGowa1p0c1Z5a2I4M25zNklJN05DUndxeU9Rd2JYRDkyYWZ1ck9ZVzEzenp0eVbSAfYBQVVfeXFMUDBOdlBPWGowcEFVRjBKV1BsRmdNX1R2NUNWaDBlQVFqSWFvb3BPYUJkU05GblFuaXotcHpfUkZZRFFjak9XdHR0OGlqdExlRFQtTGluSzZfVGdGVndaNEdFanREVWRQZDdDcWo3RkJUVVkxSXNPRFRlSWZhSTJvUm9EUmRJdW9UTFFYa3hYdVhUVEZsVm91a01YTnRpZnZPZ25BWGJhLV9LRTJDSTl4aDJQWkJ0eTNKa2l6QWdoZE80NXo2d2IwNm5sNGhpbndtUVlJU2V0TlF4RThIZE9RcHZ6U3BtbFh1cUZlRy1TUXlWdGcxMW5B?oc=5",
+    "description": "Why is market falling today? N Chandra’s exit among 3 factors behind 550-pt Sensex slide; Nifty below 24,3 The Economic Times",
+    "published": "2026-08-12T08:27:21+00:00",
+    "source": "The Economic Times",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market",
-      "macro / flows"
+      "India market"
     ],
-    "score": 3
+    "score": 2
   },
   {
-    "title": "2 years vs 10 years: What investors lose by stopping SIPs early and why staying invested matters - livemint.com",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYjdaMkE2NGROOGZpalk0dVR1aGtZMVFvMGljTG1BN3AwZDgyT0hCVkxjTzQ5WWdXVUVlVTRGa01WNGlLTmk1Y0xDckUxSXBXc01wdW1oWmpDX0E4cWlHNmVUbTBOOUQ4MWZwZ1hKUTJnbEYwTENKaUphYV9SSWRmc1ZzX0tVN0ZZU2t0ZWpoZWJDNUUtNUloa3E3LTdFTGk0M1RpcEJtSTdhX0hjbE5RQ0RGX01KUGV0UzRROTlSRFFVbmZnbEhVLXN5T2M3R3g5cTRnT1Q2eW05anBtS0JnRXlFXzlYaTg0X0xrTDhaZWNfSnlPLWfSAfsBQVVfeXFMTmszcFJvaXViQWcyNVVfYWtBSjJodmlGUE5EbEVNYzE2ZnpJWDlwWFJEVXlzOGVCSTRmQ3hiRjJ0QjJfcEZSLVRXSjBmaFh3V1l5LThpTFNmV2NCbXd3ZXMtOUVMcjFlTERqNHpQckNsS3ZMMnNZQURXU1VWSDh0Rkh2bG5RS1NvMzU4RUxlZG5wcmduWFg0cWhCNGFaaDBzbldMVkpUbzdibkU2NVRtenQwNTB5STBQODJfVU0zNjRoYWNCNEZTQnFrLUlkNDlwNEQ1eWxtVW90YWtkajc4YkEybFozV3NlUXpXNXpwNWdLaDhPb19UcHJ5NHc?oc=5",
-    "description": "2 years vs 10 years: What investors lose by stopping SIPs early and why staying invested matters livemint.com",
-    "published": "2026-08-11T10:00:39+00:00",
-    "source": "livemint.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
-    "title": "SIP inflows hit 4-month high of Rs 31,961 crore in July 2026 - Asianet Newsable",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbFRfY0ZMSVcwbjNPSGFDdVRSNi00bFFraEZmV0JIaFJrd2twS001Q050WTVGVlBLUEw3MHpFd2Y1SzdjUG82TUdKeHdFT2Y1R19oUTJqNDhyeDVpaDBRLWNEV2RzSkMxLTRka0lvaGdfZ3pWQ0hOendLcHN1UTNxTERic243N0xHWGcxbktrckpsR2RKSmFUZUVhWlA4TjVzSDVTaGlRUDdPenZXcXRma2JhY0ZBSl9GVllTOTNqc9IBxAFBVV95cUxOSWV1R09HZDVFdDhWbThCVWRwUEVnYzRGdUhxakVNc01WQ1RlQmNndDZnM3VEOGxabVdNSFA1d1BoOTRkUEpjRWIzaXJwaDE2ejkzdUNBNkxnVGs3RTdwYVlFNVM2RmRjenlUUGdvS3JTMjNWZkd1NWFpamxWZVljSjFjSlhpZFF3enR5SU4tdC16ZDgxNzJFUWlYR2ppMUxoZUQ0UHl1MEtPTXZJc3I3QndxcEEtbV9aSncxcHRpdUZKT1Iz?oc=5",
-    "description": "SIP inflows hit 4-month high of Rs 31,961 crore in July 2026 Asianet Newsable",
-    "published": "2026-08-11T10:00:29+00:00",
-    "source": "Asianet Newsable",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
-    "title": "SIP inflows surge 12% to Rs 31,961 crore in July - Zee News",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQeDQ2MVFmX2E2WEdaTkdzMWc4QWpZTC1lTV9iS1h3aXNTcm43NFFDZzhrVHlBS1hKVjNBSE43VTF6aEg3REQ3RnowTF9tbUQ2c3RDQmF4Rm5YZGdFeGp6VlpVbFBGeDBOWm84MlZYZmhneXU4ODQ2eTFkR0hHbmdVb3BRcnN0elBBLXFxWXd6X0FsS0dxZG4zRtIBngFBVV95cUxPazZqRmczZ0xoN3dtX0hiaWxfcUpzMXRCWVdNU3JlbnJ1NFozXzV4NWFmcERhdHJYRmJJR21Ia3F6MktlSmJJWmZPX0RmYlJmSHZhbmZqaWhiYUVCaG82djRQTFB1aW90cE9jQVdlazVSSUcyRTdWQm8wekRtSUlHWmkydUEtY2FsMW10M2N1cTE0WUFHZ2JiRi1YWVNrQQ?oc=5",
-    "description": "SIP inflows surge 12% to Rs 31,961 crore in July Zee News",
-    "published": "2026-08-11T09:59:39+00:00",
-    "source": "Zee News",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
-    "title": "AMFI Data July 2026 Out: Mid cap mutual funds attract Rs 6,192 cr inflow; check 4 schemes with over 20% CAGR in 5 years - Do you hold? - ET Now",
-    "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPY3ZyMVEtRWo2QTVaMm9zUkJRcjBodk44RkdhQUNFOXNSdFNIVkl2OGFkLXRsWGVDWmVfS3JfWnRONmxaNFFoLUx3YnhyTXNEcnRFMVptc1pjMC0yaGNJSHRlMHdUdHh4SEo2TVFONS1ZZ2dDQzNWVUdKVU1ZOHdQU3ZoemFUUHBxVTNTQUlXelhnN1AtTXFRd2plallfd0JzWjRpR0w4UzJlVXlwbXJ4Qnh3ckwxN0VlaGlOQXJad3VIbGJrX0Fod0JRdzkzNkY0SHg1M1hxbGVZM29kcUdfbTFqTFp3dkEyRFZKaDFuWlFfeXZEdXB2Y3ppdzFVVHc2bGxEcEljMml5ekpPUW9lTEdwTnltMVHSAZwCQVVfeXFMTnF5WWhMNWR6ZlcwLVRUbkg4UjRaQkdlMnpRM1hJM045Szh6SDVHbGVRYnlKR3hVNzRkRndHcHNNVHhySTdRZThqWlRwendMMkNXN2Z4VVJoY3JHLVplYlZ3NUFBOTZ6Y0dOODVEUnNZZTRpWnhYXzNqTWJEemtvMmxHQTdObEh2RjQ3ZGoybC02RHhkQ18xSlFMQ2N4VXVwMEcxNlhOX3JZUENoOTdsTWZpMGpSeHQxTk9PcExuc25xS3pNY3FfN3NJSkQzTm15M2RWY05lU2hQaVlDbC1WQUhZdkFzRF9aSHJlZ3JZOEVFcG9xZy1OZlhqWUxwTGhMekk3UWtxQWtzZkJXcEsxWU9Ra1J5Q0tncHQyLXI?oc=5",
-    "description": "AMFI Data July 2026 Out: Mid cap mutual funds attract Rs 6,192 cr inflow; check 4 schemes with over 20% CAGR in 5 years - Do you hold? ET Now",
-    "published": "2026-08-11T09:28:36+00:00",
-    "source": "ET Now",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
-    "title": "AMCs’ Views On AMFI Data - fintechbiznews.com",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DVlB5bFdsbm5keVIwd0Rpb0J6VXdWUnZ5YUpROGdGNkJWVlRTa0I1Rkp2eXFUdERaNTNUS09xUFQtQTNGN1o0SnVlR1Fha19jSUpaZ2lYUS1NelpJUjJYeXN0TzV3enNnSGxtZnJEM253S0JpdU5FNjRUb00?oc=5",
-    "description": "AMCs’ Views On AMFI Data fintechbiznews.com",
-    "published": "2026-08-11T09:27:41+00:00",
-    "source": "fintechbiznews.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
+    "title": "Sensex, Nifty trade lower ahead of CPI data; European mrkt decline - Dailyhunt",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPWTh3dGFxQnVIOHBMOHJPTlpJdkptWmhvdU85aTJKQ0sxOGdJYUxiektuNTdDSDdzQWtMWFY5NWN4TTlCYUJpMFd4VDFQX011SW4xMW9NT2FHWDA0bTNBbDBrZXN4SFlMT2d4aDNBdU9ubWloV0ZzeGVST3MyNjBEZUFiOUowTXBfcEFmeTA4NUV1NUpYUFJjNEpyS1dNMG9SVXRjbkNTRW9nVzZ0MVVLVy1VSHREc2VsdFhFUW5RclV5eU1CcFVXdHE2T1ZPMU03RkRSUmNtRVVNWTNNdU53djRFUHVVSEU?oc=5",
+    "description": "Sensex, Nifty trade lower ahead of CPI data; European mrkt decline Dailyhunt",
+    "published": "2026-08-12T08:25:36+00:00",
+    "source": "Dailyhunt",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 2
   },
   {
     "title": "Sensex, Nifty trade lower ahead of CPI data; European mrkt decline - Business Standard",
@@ -1553,7 +1325,7 @@
   },
   {
     "title": "Sensex tumbles 600 points as Chandrasekaran's exit hits Tata stocks, TCS down 5% - India Today",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNR2FiQV9PS2tEODFyOUhsTmZYdEVXM3hoTFRucThoSENUdklWNnNXNWxtQmVZVHhWOVJxSDZkMlBjeTN0VDY5Q0J5YlBaOFZsYnIxcGRhd3RIYUtPZlZWTFNVMDRiMUVBWEYtNEtVSGE1ZzFlNnZ2WkxtQjcwNnZVbU1HOUw4TTdNZUtIM2VZSjMtMmx1R1FPdU1OaDM1RndnTnU4WEgybEpjd2JUZDVhYmtrbmhkRW1EcHFDb3BrWXRIQjIxMDllZEdGV1JfTURzOExzUGRHTXZISWZMdjZ4YVFUd0FnT3pq0gHuAUFVX3lxTE5hbnUxaWJXMU05OHpCS1hYaklMeXlGT2E0bnJib0hXMnY2UHNRQUZtc0VTVFQxWHVxWUxiNTZsODNrbUZiNmlFaXFabkZGM1M1cnRBX0hfTWNqbXFBNDFPQ1VXQU9na1RPT2otTVYyV3RiU0pFQlBQZjFZVkRuMHZoTXRRdUZ5MmVnT1FyN2hwZmYyelg5c0hsZjV1RGlZSkgwUWN3cndwOUJQVk5GNGJ1N0EtaExrOUFQWTVocUxmcVZJV1BVV21xaVBBeWlwS3owWEpNV2EybVZTeUZTQ3hZcC12bF9TaFNlcW9JZHc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOYW51MWliVzFNOTh6QktYWGpJTHl5Rk9hNG5yYm9IVzJ2NlBzUUFGbXNFU1RUMVh1cVlMYjU2bDgza21GYjZpRWlxWm5GRjNTNXJ0QV9IX01jam1xQTQxT0NVV0FPZ2tUT09qLU1WMld0YlNKRUJQUGYxWVZEbjB2aE10UXVGeTJlZ09RcjdocGZmMnpYOXNIbGY1dURpWUpIMFFjd3J3cDlCUFZORjRidTdBLWhMazlBUFk1aHFMZnFWSVdQVVdtcWlQQXlpcEt6MFhKTVdhMm1WU3lGU0N4WXAtdmxfU2hTZXFvSWR30gHuAUFVX3lxTE5hbnUxaWJXMU05OHpCS1hYaklMeXlGT2E0bnJib0hXMnY2UHNRQUZtc0VTVFQxWHVxWUxiNTZsODNrbUZiNmlFaXFabkZGM1M1cnRBX0hfTWNqbXFBNDFPQ1VXQU9na1RPT2otTVYyV3RiU0pFQlBQZjFZVkRuMHZoTXRRdUZ5MmVnT1FyN2hwZmYyelg5c0hsZjV1RGlZSkgwUWN3cndwOUJQVk5GNGJ1N0EtaExrOUFQWTVocUxmcVZJV1BVV21xaVBBeWlwS3owWEpNV2EybVZTeUZTQ3hZcC12bF9TaFNlcW9JZHc?oc=5",
     "description": "Sensex tumbles 600 points as Chandrasekaran's exit hits Tata stocks, TCS down 5% India Today",
     "published": "2026-08-12T07:14:41+00:00",
     "source": "India Today",
@@ -1643,9 +1415,9 @@
     "score": 2
   },
   {
-    "title": "Sensex down 650 pts, Nifty below 24,300: Tata Sons chairman's resignation among key reasons behind market... - Moneycontrol.com",
+    "title": "Sensex down 450 pts, Nifty below 24,350: Tata Sons chairman's resignation among key reasons behind market... - Moneycontrol.com",
     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbnM1alh1U1R6c2E0RUV6MW1abEM3aUVrRHp6LTVaSEN2N2pETEhPZzM1RWQ4SDdGZlFITTZ6OU5xb1NWeVQydWRPbEY5dkYzRXdENGpLQ1dDSTRqOHpUUVJXVUxOdFlSZExmV1lSYUlzLTlXYlRRaXFvdXVJeTlrUzd3V2dvRG50Ui14dmEycWJXWmJzdW0wLUFlVF9JN2VydHVuVkwtamYzZ203RUFoVFZvN2pMNU5qZUtSSlpDNHRqd1hnM1lFeFhROVB2T3JqSTJEMjdTU0FEY1VRVmlrb2Y0YXptRTlsRWV5WFFyZmXSAfYBQVVfeXFMTU9OV1kwRW80dGY1MnN6Q2lqSG1laDc2cjlZejRVZlZ5eWNBbWs4WWRveUx2X0hvV3o2dFczMU1vZnlwdFJzbTVoUDV0TVlObC1zSENEeVVrWldWd3ZmSkxDSGM2MkUwUkhBeWtPcEZpV0dHMlhCZmoyWXBVaktOaEtSeTVxMkk0blQyajVHb0JDOWRhc1lUSEpEaVpUZldNbmo4cDFXY1RjREUyU2FTdE9UdnNxRC1VaFYxVkhiN196cnJ6clMwTGlBTHNMN2VaZVEweGx6Z2F0YU11ZE1tUjZxT1djWkllVHVjdk5pZmFHUFVDMlZn?oc=5",
-    "description": "Sensex down 650 pts, Nifty below 24,300: Tata Sons chairman's resignation among key reasons behind market... Moneycontrol.com",
+    "description": "Sensex down 450 pts, Nifty below 24,350: Tata Sons chairman's resignation among key reasons behind market... Moneycontrol.com",
     "published": "2026-08-12T04:40:18+00:00",
     "source": "Moneycontrol.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
@@ -1696,16 +1468,15 @@
     "score": 2
   },
   {
-    "title": "CoreWeave’s Forecast Is Key to Stopping Another Earnings Selloff - Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdHJGM3BlMEFCc25DeTQ5SVlZOEZDSkc3R05lMHZLdGhyWGtReGxvX2ZWZmZLcVVSdFZQRFNILTZGM1lrdG1pbXBCRmdad2ZJcGRRc1BuNkc2dkNPWFFkLTdUby1Vc2s1TmJKYk5sdFZicklwZS0zUkl2am1hUlMwakt0YV9WZzRBOGM2RVJvTTAwTkFlR1NlWmhuM2xvWW1CaVhIMjY5T1pNbUtpakdXTHlQMlhsdw?oc=5",
-    "description": "CoreWeave’s Forecast Is Key to Stopping Another Earnings Selloff Bloomberg.com",
-    "published": "2026-08-11T17:24:05+00:00",
-    "source": "Bloomberg.com",
+    "title": "U.S. Stocks Fall for Third Straight Day, Dow Drops 184 Points as Middle East Peace Hopes Fade; Amazon and Alphabet Sold Off - finance.biggo.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NMlhsdWZCeUxoRXNvME9lUlcwMW1wUHRlbXZvN2RUSmk0WEgxbEVtdWhKNklyQVVseEJ4X19Kci1femMwWkRybThXalJBc0dFX3lUQVRRZl9xcHZyUlhLNjlaTTdGREJfb1MxbUJ6MFFaRmpXd3c?oc=5",
+    "description": "U.S. Stocks Fall for Third Straight Day, Dow Drops 184 Points as Middle East Peace Hopes Fade; Amazon and Alphabet Sold Off finance.biggo.com",
+    "published": "2026-08-11T21:25:00+00:00",
+    "source": "finance.biggo.com",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "market selling",
-      "macro / flows"
+      "market selling"
     ],
     "score": 2
   },
@@ -1737,48 +1508,99 @@
     "score": 2
   },
   {
-    "title": "Sensex closes down 388 points, Nifty slips below 24,500; Eternal gains, Axis Bank sees big dent - financialexpress.com",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNVVpTb3pCekhUYkh0Mks4SDV4V0taaV84cHBQazVMcU1QeVFMS1pndnZlN19yWEJzN3BONWVuUHFFU2l2ajVtMUdaV2xNaXUwV09xRkl1QmVMSUpEeXh2bm1jdjVEZ21PVmNHTzhWZ3hYd1VDdkwwTXV2bFVPZFFuRFFfalZwU2VzNnV6MU5GNTFnM0JMX3BRYlR3SUZUZ210TUNMQkl4Y21pMHpaR3MzNVpMMGVSQjN4dmdIYTI0TktnaWRubzJ2cVBUUExxcHktZ1JjdVpnZGZhSlVmaDEyTW1SMWZ5aHhuLWZNZmotbmtycWtJMjZxeTBUQkduX1ZrUDNr0gGKAkFVX3lxTFBfUVpKWmhrQVZlMDFFMklTMWhyQXAzenFySlpxVzMyMF9Pejg3bkExVWpJb0NVNlppS2I3YkhFTnBkd1pHeFI3OXN0SFBLeTNVbUh0N2N3cm85Y3RkUWQzYlR1dzZBNmlxZkg4RmF0RHEtVWN4RnlfbDVaWjN5a3RrcUFPcm1xSjNYUEN2TUQxQW5MSXcwRFZiWEVicHplR19kY3hFYzJMV3NMQ2VKQ0hjVFY3aEdvTU8yWDFSM0swVlpweDk5dG1vQ1BMQThrSVctRmFjSkdUT2dDcERQMmcxUUFRRnBtcnBMNGtpNlhQN093bWFfXzdBS0Nab3UtVGRoYU9RQkNxMW1n?oc=5",
-    "description": "Sensex closes down 388 points, Nifty slips below 24,500; Eternal gains, Axis Bank sees big dent financialexpress.com",
-    "published": "2026-08-11T10:13:57+00:00",
-    "source": "financialexpress.com",
+    "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 12, 2026 - Liquide Blog",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNaUlZQlVUeDhZemt3cUhtdWx1Y0RhMHRZa3NzSkhnUXhic3F2bmtzZ0FhZGV1aTlmN0xNOWVJY3pYczBlcmw1R0IwZVM4bjEtQm5Ma29fM0Q3bFVXbG5FMVoyQ25VMVdLdk5jZC14ajNEdlliUW9jc1NNbmh4dFNlN29pZGxkeUNRZzVsOGdBZ2JuOUJ4dkM2RzJCbmRsV3dab2ladjRnS01UVGJWcS12WXpRczNGY0RnTHVQRkxScXhPLTQ1ZnpEZWZCY3Y0MGRqUkRaRE4xRTFGSlFZNElfOXVDNXVWQmUteFE?oc=5",
+    "description": "Share Market Today: Nifty 50, Bank Nifty | Aug 12, 2026 Liquide Blog",
+    "published": "2026-08-12T11:21:54+00:00",
+    "source": "Liquide Blog",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
-    "score": 2
+    "score": 1
   },
   {
-    "title": "Stock Market Closing Today: Sensex ends 388 pts lower, Nifty near 24,470 - Metal, FMCG decline, IT marginally up - ET Now",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUWVUQy1MRGFVQWJPV1RQYmd1T1dLdGVDWVpSZ3VJYXNPd0N0UWhjamliU1dkYlRaeTVUdlltZE5lODFZU3gwcUptdW9Sc1RnTUtkOEZSNFp3UU9Uam82Y25zRkhtcHlLdWpKU3pUWjRLODNTdjhMd2t2S3dZUFFHMS0ydDRWSDk1a0F0Qm9WRXB5RVFxYlhGa0hOeDFoTFJDNmRHOUg5VEY1UXBkcnBEdVdRckJtVXQyUTVlSmRpdzU5UVk4bl8xQ0Zib0k0QnVhOEFqckQwMkh1WWl0STBOajkwcUFFZHRsWFZrUkln0gHzAUFVX3lxTE1IRFlsc2NfRGRLUE9RbVBSdlFYbmprRXZ2UmljRkpuV045c3dlOVVaOVhGcjdyS08xY3ZDNTNzTGlCdDhTMEFuUFBaekozWUlmSWdlNEZPSkl4dnZ6OG1vVFFiNjI5Y2dmMl9PS25SdUI2VEdxRkhkNVllQ2ZCa2JOeGp4ckc2ZGM2Q1pDRE5HczczVHlmVUFRd1k0d3hhSHVkbDdVdFlqR3AwalRxUFZyY0ZsRkZzc1hlUzdfUTRLbEttWDdpMVJET1IxRk51bEpNTWlqS3czZXEyQ09nVjlyZHR6R01xcmRwNEY5YTJzdWlyOA?oc=5",
-    "description": "Stock Market Closing Today: Sensex ends 388 pts lower, Nifty near 24,470 - Metal, FMCG decline, IT marginally up ET Now",
-    "published": "2026-08-11T10:08:04+00:00",
-    "source": "ET Now",
+    "title": "Small-cap infra stock under ₹100 jumps 3%, showing resilience against stock market sell-off - livemint.com",
+    "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOdkdzWkhqaXcwQkN5ZnZvN2NFYWtDSUgwTlo3Yi01dDB1WHpZWnBKVzhjSkdiQVZuaXMyUWpZVVVvcy00TnF2TFlMel9TWWVqNUdnZ21nWHJDa1kwbDNxWW9KWHVXNlRkdWszSEI3cWFNSDdOeUl5a0xJNy1HOHl1NWkwLUx4VVJrLUstMnN2Wnp4UFY1cXdyYmRjZk1aZlhES2t5Mm9XVVYtaVhLRlM5M2hZT3FxejFTRDhKeVBBcFR3b0gtYWRNOWJWY2ZxcXRFTm5NNGhPRjJyZXF1SGtjWlJQekRjY3V6NjUtQ0VjbDV0T2g1cXBndUN3eGxocDNLSFltNdIBigJBVV95cUxQSWo0T0gtVGhkUlUtLVdkc09jb1NuMTJOREVPNkxhNmlUczdFYUJZMWNZU21YRjZzT3B4YWpRU0t0c2RnQjNxMFRGVW1jSDNpU2t3NUlBeElkQjNfd0QwYnJ2UlBsNzZ2VUx2a09sVWRJaVFmZnpyQVhMeXJHbmpWRWNsc2dLd0JCNkdTUXlOSG9PZkRJZXNUTFZOaHBibTNOTllmYzA0ejJvVHNSMVE0Nml3RnlXQTZHejA2eXFOSGM2VHItYk0yaGsxbUNMRXRJSDkwbWFPMm9NamZvSUtsUFpKWXEzVFlGSXJwNk9sSGkxOHlmcEplZWE3TTNlcDZ4WUt1WHByMnlZdw?oc=5",
+    "description": "Small-cap infra stock under ₹100 jumps 3%, showing resilience against stock market sell-off livemint.com",
+    "published": "2026-08-12T10:07:21+00:00",
+    "source": "livemint.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market"
+      "market selling"
     ],
-    "score": 2
+    "score": 1
   },
   {
-    "title": "Oil India shares rally 7% as brokerages turn bullish after Q1 results - Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU1VfYUNPbGJkSzk2OUlJMFplVUdjUDZ1SW1RbWwwS0VLdlJkYnFBZl9SdWZabE9pTGJtS2w1ejBrTEdHaGVYT3FiTDRyd3NZaWhta3pjYkNTeElYamljS09NNVpCMmhLYjJiS2NWZkVOSjZwa1haT0R4OWxPbEdTejBTR1dDSllneDl4dzhERHZlMUladGNIcWNwZWxwUHdPMlhJZDNtN25uMlpFRERRVkt0S1hZUEhOMTFHdTEzRVkxUjR1djExNWdDQVpQR0RB0gHWAUFVX3lxTFBiWDlSckx6RmVmLUU1NEMxdzBkZlVsRW9aaExOS2NxSXpZbGJHX0N1TUpaQWw5WXhFTmxnQ1JWVlFHQXRPZGRQOGtWQXJKV3BVQk9WV2NvQmh1NlVzNFlhUmU5YkhoMnpaUDM5ZnFMMTdXZ2dHTE9zQ2YzTFFPS2Z2V05KaXVfczdFZU5SMkIzbXFjMUpnemlmUHhzOVY4Wk5qRWVNZGoxbUxWeXZxazRsNEtWZG1zSXpHNFBnODlsTmlxY21MTUZOR0tobXRjTVQzMnZsQ0E?oc=5",
-    "description": "Oil India shares rally 7% as brokerages turn bullish after Q1 results Business Standard",
-    "published": "2026-08-11T09:50:10+00:00",
+    "title": "How a company can grow 200% and still get demoted from India's large caps - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUkpQTEhkZXJrUnloYzR3TEZyUEI2S2VLTlB5WGRHYTlZM1ZqaHQ2VGhIYzVlMVo3RXlIN2Z3VXlUMEZKcU83MjI2SjBmQXpWOG9uY0NjSDIxZXdqbEdyZG9kaWtKVUpaWDZzTnpfcDBUSkkyNmZZN1hEVkNXYl9VMXUxNXV5MWlOSTZvbVNUMlJZZU5YcUhnNnBDenNMVzUwSlplOFIxRGxBOTJPV0pGV0trU0l1di1EQnRoVlhRdVRNUlNnS045cHU1ZlV0QlU3NWlZU29HTGZid9IB3wFBVV95cUxQQ3RCNE5qbVRVZFVMQkctTWNWVzJxZGdjRk1RMU85ZmQ4dnRRTXRTSF9HYkY0U0M0cFpyQzQ5cFppYmNyRVZrU0RuQW9QNVlLWlF4Yi1PNTh0ZDdJbkRxUU81R3Nhd3BQTEU0X3hWZllrVXhKb2ZxS1JxRmFOY3JNNmVINjJJc1JUNlZhZ2JJYzJ0ajdzZE1XT1hORkpCVUFldGtSRXJWN3dFYzk2TmtBcko0TnZadEJwTE9WOF9ud2V6cThIWjhHR2pNei05YnJFTVlJYW5aWUhyMXJoQ29N?oc=5",
+    "description": "How a company can grow 200% and still get demoted from India's large caps Business Standard",
+    "published": "2026-08-12T10:00:19+00:00",
     "source": "Business Standard",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Kospi Correction Sends Department Store Stocks Plunging Over 40% as 'Wealth Effect' Hopes Fade - finance.biggo.com",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBEQkwyOEszbzRhTmZneUlJa2d3QTh2dWFfSk5ndE5WWmludTZIUVU2RzU2bXEzcWs1Q3hQc3M4T0Uyb1ZmeUJFZTZzQkQzVXI1NnNPcnVoN2ZienY1WVg5UTNJTGxfNzRqVTlpZV9XYmZrU2lZZGc?oc=5",
+    "description": "Kospi Correction Sends Department Store Stocks Plunging Over 40% as 'Wealth Effect' Hopes Fade finance.biggo.com",
+    "published": "2026-08-12T09:35:00+00:00",
+    "source": "finance.biggo.com",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Equity MF Inflows Fall 15% In July - rediff.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNYUJBc3lIaTN0ZHltTjY0RG1LdzVmRU5OMC00bFVud3hrTTdFckdXWUpKSjdjNXI2bHc5Q2czMXBSNTQyamdVZmRjM0FsNmdGOFVkZjY2b0oyc0dOWHZRWG8tQUFhYjRFWGRxN1puM1d1ZFZDZm1hdVdtRnlLSHpoNTJJRHVic1AzMDd0di130gGQAUFVX3lxTE8yZlljZkhCMDhqd0U4OXF6bTBJb1RHbU5Nb3BQM3AxaFVid0djNG15YktKWUtESTg0aHp4OWdXNjYyalBBM1NuOTlESjhLUWRPY2p0WVh3MkZJYWdNYzlMYnp5VmUtWEtYc3J3Wl8xUmx2a0ExdmlDLVVNb2NjdGdHQ21hRTI0LXVXX1Z3TnRDUA?oc=5",
+    "description": "Equity MF Inflows Fall 15% In July rediff.com",
+    "published": "2026-08-12T09:34:23+00:00",
+    "source": "rediff.com",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market",
-      "macro / flows"
+      "market selling"
     ],
-    "score": 2
+    "score": 1
+  },
+  {
+    "title": "Hospital stocks trade weak: Max Healthcare, Fortis, Apollo fall up to 7% - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUG1CYzlsU0RnYlFJMWxVbE5SZTI1djRKWHRTNEZOTHdyMzhqTWZPanNXcVJnZFFpQWRTOFliR2xPUFg4ZWo3dWpnNDdOQ2tNa3A4R19BeHpENDdoSEh4NS1iUlItajdzTGZwQVd6dkZzUWxUU25PN1hyRksxYmk4X0MxY0NNekRKYU9BeU1CVEpGNmtieVhpby1MbVgxWktWYzlEY2lCSjBDXzluQ0paaEd1eHI0dnVpb1lQZnVVa1pqZDZUbE0tNG5rOUYtWlFl0gHWAUFVX3lxTE9zTllZbTNjMVhJRXJUUzVQUkQzQU9STnJmVHoyOWNVR1hfZVhFOC1pX1pDZGRHMVFKamVQTXZqWEhFN0hhVC14bk02U2NkRENwR2psRktYR2RDVWFSUnZzRFFUWWdIZFJsRnFEemRVYlJnQUpUOHBqSEFacFBWRU92YWNiREZGVWdLY3RuT0JCWnE4dWVxT3VBRElBcldRNFRQajJhZFNMTHdpOGxXVEFHNWZKelRnV3Z5ZjV5VC1JSFFCeVdjY3o2NUxXZFp6UWVGX0tKd1E?oc=5",
+    "description": "Hospital stocks trade weak: Max Healthcare, Fortis, Apollo fall up to 7% Business Standard",
+    "published": "2026-08-12T09:15:35+00:00",
+    "source": "Business Standard",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Market outlook: What is preventing Nifty from hitting record high? Amit Goel answers - Business Today",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNOTBudmloVnpnWlZMU3V4YS1TaDNFV1ByRkFJUUc4NURIVDdMRUxFTW5idDJPcHEtLThtR0ZONVdLUXBlZEk0ZVVmbUlkdVo4aTRqRUFrSXU0bnRoNjBrOHp1OXFQS1ljUkF1X0QxUHgzX2hWcHZiY1FKdWlya1pMbFI0Y19sYXBKSVYzdmJvS1VMbFlmLURlOGlOVmsxRVpoRlpoQ0RtaEZWeHpTUzItSDVoQmNOdDVONHE4clYzb0JYb25OdVlUSDJqZWlvdEU5UFBOdzdFaWluYk9uM21tRWNYQ0HSAeoBQVVfeXFMUEVxZFlsY2ZyWnp5Rjh6R0ZPWkF6N3l1a2lEMjNERmd6MGk0MDdIMEM3ODNiTWRseGR3Vmk4X2VrWDc5ekhPNjhuVm8yeGlBd1c2N3NZdjRmLVlLRHk4bHJuODZhWk1VaHpjQjNrcVVOZ1l6dkhldzlGVVR6dFg0LUhsTFA4N3pTWmRvUmZNUmZaSlNhdlBpcGplSktGUVVoLWloV19Mb1I1cElKOF9pRXM4SXBiZ0F6bU9GbnhBOUtYckU1YnVoUk8yVHBmSzMxSzJGLVEwcnB6d19pX2hyMExOSFdNUEpGYWhR?oc=5",
+    "description": "Market outlook: What is preventing Nifty from hitting record high? Amit Goel answers Business Today",
+    "published": "2026-08-12T09:08:56+00:00",
+    "source": "Business Today",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
   },
   {
     "title": "SEBI Reviews Commodity Derivatives Position Limits, Margins; Eyes FPI Access, Market Efficiency - CNBC TV18",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSkZDd3VRcmJJSXJ4THVQdnV6Tm1ubDVfY1FfSjFwSEd0SGZYcjhiZWFmTllIYW9BdmRkS2Q4b09Na3JhWnFIal9qd2VJeVB1eWd5R0dKa2I0Nm1jdWVfWmstRFB1Zm9IeHdoT0NpVHRRVVo3dHl5cHpJdWFFbkZMX3hMLW1NemF3VFg4N3JmT2FXQlhnWlJ6N21ud2MtdElZNDEzZ2xta09iY3pfZmd5eGNKMFLSAbQBQVVfeXFMT0pGQ3d1UXJiSUlyeEx1UHZ1ek5tbmw1X2NRX0oxcEhHdEhmWHI4YmVhZk5ZSGFvQXZkZEtkOG9PTWtyYVpxSGpfandlSXlQdXlneUdHSmtiNDZtY3VlX1prLURQdWZvSHh3aE9DaVR0UVVaN3R5eXB6SXVhRW5GTF94TC1tTXphd1RYODdyZk9hV0JYZ1pSejdtbndjLXRJWTQxM2dsbWtPYmN6X2ZneXhjSjBS?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPaERwYnNvU1ZMMmxJdTVMRTJQQWhtaGNnWmpOMGtNTXNtYjJKQWUtVkhqTlBPU284MjlWcmNJX0d6aDczWExoYVRxZWx4aHBGZWhRSzduZHhNYWkwdHNrUVk3Z3M1S1dNbVJPX3dQZkczX3d4dy14NWRwMzlmUzNxU2dMY3Q3cmJPb0F0aktyeGQzU1R0bGJzQ054VEFJc0JjbjNjRzYyWkU0OWpwUzhj0gG0AUFVX3lxTE9KRkN3dVFyYklJcnhMdVB2dXpObW5sNV9jUV9KMXBIR3RIZlhyOGJlYWZOWUhhb0F2ZGRLZDhvT01rcmFacUhqX2p3ZUl5UHV5Z3lHR0prYjQ2bWN1ZV9aay1EUHVmb0h4d2hPQ2lUdFFVWjd0eXlwekl1YUVuRkxfeEwtbU16YXdUWDg3cmZPYVdCWGdaUno3bW53Yy10SVk0MTNnbG1rT2Jjel9mZ3l4Y0owUg?oc=5",
     "description": "SEBI Reviews Commodity Derivatives Position Limits, Margins; Eyes FPI Access, Market Efficiency CNBC TV18",
     "published": "2026-08-12T08:34:49+00:00",
     "source": "CNBC TV18",
@@ -1790,13 +1612,13 @@
     "score": 1
   },
   {
-    "title": "Container Corporation of India shares gain 2.03% - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYzFWd1pMYTdFUm94XzRCVm4xV2poN0ZPcWhubTc4NDRKcGJiX1pPOXBnNzZPN1U1YjZVLUhTV1NOVnhIcGgwSmwybDdPb0c5S0k4V0hMcUI0cEF4eWdvLTdCXy1mcy1xMUlnN09zZ0pOSFJVVU9xTGtrY1p2Zk8xaG8tVE0zYndzZG95eTBaMXd2Q1JhSEU1dXVnVkpfZGhVZldhdGZCNmM1VHVrc2pwdThtaXVxN0hIQy1GTmFsaE5leTJfR1FkdtIByAFBVV95cUxQYzFWd1pMYTdFUm94XzRCVm4xV2poN0ZPcWhubTc4NDRKcGJiX1pPOXBnNzZPN1U1YjZVLUhTV1NOVnhIcGgwSmwybDdPb0c5S0k4V0hMcUI0cEF4eWdvLTdCXy1mcy1xMUlnN09zZ0pOSFJVVU9xTGtrY1p2Zk8xaG8tVE0zYndzZG95eTBaMXd2Q1JhSEU1dXVnVkpfZGhVZldhdGZCNmM1VHVrc2pwdThtaXVxN0hIQy1GTmFsaE5leTJfR1Fkdg?oc=5",
-    "description": "Container Corporation of India shares gain 2.03% Moneycontrol.com",
-    "published": "2026-08-12T07:45:14+00:00",
-    "source": "Moneycontrol.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "title": "India hasn't lagged global markets this much in 17 years: What Atul Suri expects next - CNBC TV18",
+    "link": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxQRU0tN0dLTG8tWVdCaVVUMzBla1k1NnozY3NwZjNadXNkOGJOVVJYUG50TERZRjhadWVVN2NjUDBwVFZRQ3NqS3o2VE9VYlBsRm9CUktOU2ZBdXZHMC1fd1FnTW05V0RBUXZYX1NJZ3VYVmpwZTdSc2FBRWhrV3M0SWdNOXpETm5zMHI4eFpmODhfTXVIdEZvbjljSzlzSXhnUFMtcVVqMFd2UXNqcXppcllpaVVvNUpCdEREd09za3NRNEt1VUhuRkIxUG4ybklmYzFVU3Ztb2ZHWGduclp0M2M1X3lPUFJ2RTNJXzhBSWJKay05elZNdnhPS2dadWhLOXhFUGJqSGNIaTNzVlhBR0JjVUNUcW95aDVUYm1IZk9CRFdDR0c4QUotQ1FuWS1yQVdMelYyNFc4MVQ4MnV6OTROb3JNRDJiWnUxaEE1cHlPeUhzQnQ1M0RMMzB6N2w30gHmAkFVX3lxTE1pQ0kyMlVzRXVMcWZJMml4RjFyb05lZmlCVVRJQ0pyYnBHRm9xTmtBclA3ZzJXSFBPWVpQdE81Y1NGWno3eWNITTlrOHBybmxHSzdEUTdBcE5kWm93dlB6N3RRX09yaHZWSVRVMDhyYzJQSlAxemNxT3hDMnFOZ2p2WTZ6eEZiMlRJdWVGV00zOThGSF9naXlVVDk4aTVtWnB3NGFJVXNPaTllVmUzSHRUd25MM2V5OXZfc0lBRnRZMnJpSVRROHZ2bTBiWkpsU25Zc2R0cGRHMlhXZHo0WWdiUXlwaUNGRDdBQnd6bnB2dkFERU1hbHJUYm1nLVJwbXJkbTJKMGZtTXZyQ2FYZGt5OEtqbF9PaVZiT1NKX2dZVHFNYXlTVWJIenc1d3pVSDZzRGNpczU4c295Y0tKeldRQnMwbThOQVFtRC04LWNqajBwaGJMNTB4WW91X1pyVy1uUElBd2c?oc=5",
+    "description": "India hasn't lagged global markets this much in 17 years: What Atul Suri expects next CNBC TV18",
+    "published": "2026-08-12T08:08:44+00:00",
+    "source": "CNBC TV18",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
@@ -1816,15 +1638,54 @@
     "score": 1
   },
   {
-    "title": "SEBI Overhauls Commodity Market Rules: FPI Access and Margin Changes - Whalesbook",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdE1Lb2xSNHRDTnZybnJmZjhFNHBCNmlkTnpoaF85N3FvSmxic3hyeDlBV2RrdE4yeVBjT1RkZnVZajRkSkltNnE3el9oa05iMlpOeS1OZV95d2ZBM1d0UVZxalV3RHY3Tnl1aDJZNGQwaEpiX1hsZ19KRy1LUEFCRFFGTHk0Y2VzVUxuTTZ0b2huWHJhVURod2JHdE9hcDM3UVFpeHFZeDlQWWpvd1MxMWh1czZnb0JOLTE1S1V6Yk5OTUUzMlphVHpTRlhlQlc0T2JvOEV6TWN5eXp2aXc?oc=5",
-    "description": "SEBI Overhauls Commodity Market Rules: FPI Access and Margin Changes Whalesbook",
-    "published": "2026-08-12T06:56:56+00:00",
-    "source": "Whalesbook",
+    "title": "Sensex tumbles 614 pts; realty shares decline - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaG13X0YtVkZSWlVJNGJWUGV5WmloT2FJYlg1TTFDWW1ObWt3R1dEamRZMGZyVWc2QzRweG5TNUlUQXIyVjcyMTcxMXQ4RFFoanpGRU9NdmpfWGhFRGhlenpoUS11WTlXRmtrRF9wUzRhVWRLSGpkSmxlZElFVWdINkhQX0FXTG1fV3Q2WHNaYlRjdWVWRDNGZnZtQWZWaEpXT3FRdlZHUlBSYTdjQnlpYmhmM2dQQkE1WFVoR0FmODd0WC130gHKAUFVX3lxTE83a3ViaE1tTndmQ1o5a1V5QklIek1jQnN3RVJOdWM2aDM1SHlraVhOd2dLclRWZ2pKV295RTBKU3Z3dm55RkFnMWpLUkJHc08xeDF0MmxrRVM0aDJBQWYtdjhKaHRQYnVuY3o3Z0ZMYkZvOVgwVTZldjhseFh4SzJXaklITHhHS2FKS0lsODhVaHdNbmZMUFVNRVo3UlJLNm45ajdYUXQ0eXdUc3ducVNNRl9YbzFMT1dvZXB1YXpUTjJLVmpvZmxsUmc?oc=5",
+    "description": "Sensex tumbles 614 pts; realty shares decline Business Standard",
+    "published": "2026-08-12T07:21:19+00:00",
+    "source": "Business Standard",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal - Investment Week",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mZHNUUnlOeExDV2hSRjhxWEs0blpwaGhqUzIzQ054d1JaTnNIcGZWbkhtTDVwZFdwUXM5ekRkX2Z5UFJEWW5uMGtRSzVnd2NwZDFRUWZnYm9JWHFlTUptZzJGSHdKOS1oTEJxOUk0bFRWdw?oc=5",
+    "description": "Market Movers blog: Oil prices in limbo as US and Iran demand compensation in peace deal Investment Week",
+    "published": "2026-08-12T07:16:51+00:00",
+    "source": "Investment Week",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "macro / flows"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Value, contra fund flows weaken, but experts say the case for value investing remains - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNFIzcVM3anNnZDYycnR3RGpyRTVwRXRrTmNGTmI1RUtTajc2V1lkbzVOaXJMcjUxRW8zcHlxVjE2bjctc0VaLTJzdXNLZ09sSVNSWkdjb1lDdDk1eklfbHFOdXF4NXBXU010WWg0SUM0cVRnZUtYMWl1QmdpQmlVVDVmUE80cnpPZ3l2UDNNbG9CeFJCelpCX0NFOWQzbTRjekp6M3hTYVNjSWtxdWY1cGtrWnR3LWw1UGRNRWhpY29aVUhCU0czdEQzd2dBSGdUUWJIVkl2MzBzLUZXbWpiRXg0UGtOem_SAecBQVVfeXFMUDRSM3FTN2pzZ2Q2MnJ0d0RqckU1cEV0a05jRk5iNUVLU2o3NldZZG81TmlyTHI1MUVvM3B5cVYxNm43LXNFWi0yc3VzS2dPbElTUlpHY29ZQ3Q5NXpJX2xxTnVxeDVwV1NNdFloNElDNHFUZ2VLWDFpdUJnaUJpVVQ1ZlBPNHJ6T2d5dlAzTWxvQnhSQnpaQl9DRTlkM200Y3pKejN4U2FTY0lrcXVmNXBra1p0dy1sNVBkTUVoaWNvWlVIQlNHM3REM3dnQUhnVFFiSFZJdjMwcy1GV21qYkV4NFBrTnpv?oc=5",
+    "description": "Value, contra fund flows weaken, but experts say the case for value investing remains Moneycontrol.com",
+    "published": "2026-08-12T07:14:26+00:00",
+    "source": "Moneycontrol.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market"
+      "macro / flows"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Hexaware Technologies Shares Fall 2.07% - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQc0RLRm9zeEpwbEIyNkdiZjVpVWdzYWJPbnZVZThnd1NnMnJ3ZjRrczlzUXN3MGZXa2VjXzh5S0d6SGVoQk5MMzJOSnBLbG9yMThJOXpHYWdVT1lwWXhXZ2hpM2RJbFJwRHBSS19sN2JYSWM4RVNxZXltZklRaW13c29EX2p0ZFZ3YnhYSVZYSG1uYW96QW5xcE9HOHlKcGtPQ29xTzN6MHMybkJObGJ1RFU5RHY2SW5WUFZ5UdIBvAFBVV95cUxQc0RLRm9zeEpwbEIyNkdiZjVpVWdzYWJPbnZVZThnd1NnMnJ3ZjRrczlzUXN3MGZXa2VjXzh5S0d6SGVoQk5MMzJOSnBLbG9yMThJOXpHYWdVT1lwWXhXZ2hpM2RJbFJwRHBSS19sN2JYSWM4RVNxZXltZklRaW13c29EX2p0ZFZ3YnhYSVZYSG1uYW96QW5xcE9HOHlKcGtPQ29xTzN6MHMybkJObGJ1RFU5RHY2SW5WUFZ5UQ?oc=5",
+    "description": "Hexaware Technologies Shares Fall 2.07% Moneycontrol.com",
+    "published": "2026-08-12T06:51:44+00:00",
+    "source": "Moneycontrol.com",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
     ],
     "score": 1
   },
@@ -1894,19 +1755,6 @@
     "score": 1
   },
   {
-    "title": "Markets Trade Lower In Early Deals Amid Rising Crude Prices, Geopolitical Tensions - Ommcom News",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOWhiQ2VqaWJzcC0tNHc2aWpZM0hPN3Uxd1RwdkdSb2FzMm52YW1OLVNXNGhDV2RXMnBxSGI2ZG5hMjhELWhUTmEzZHV6TUdJUGNZMWhDQzBiQ2RrRTRsRVY4NU5uTmtqM0RJdUlnYldfS0ZURGktaFpmTEpYa09qdlZNUVRiREU3cklQZ1FEU1ZTU3BaY1hpOXN5Q2lQUElHV1FZUFVuVW1FZDhzb3pYbWZ5QTRNeDBOMDVB?oc=5",
-    "description": "Markets Trade Lower In Early Deals Amid Rising Crude Prices, Geopolitical Tensions Ommcom News",
-    "published": "2026-08-12T04:45:23+00:00",
-    "source": "Ommcom News",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "macro / flows"
-    ],
-    "score": 1
-  },
-  {
     "title": "Godrej Consumer Products Ltd Falls 10% - Business Standard",
     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZzBvTmhscVFvZE1Xc3phLUhnVjB6YVdoZndBTjdkZGpQZENveGE3aHNXOGQyMnFqSFRIdFMwRW13WGtWTWZ1TEdOdjFlUjZoR0Zkb285a1ZKSld1eEM3Z0dIWkY4ekhqVklzeU85c3VfM09VcFM4U2p0cy1VQ3UyUEVRcHZwYndPZFA2b0t6MjhMZ19jWDlCOFZIZDA0TllicHB2WnBqZ29WaWU5YVhZcDY2Z1FfaktDYk800gHAAUFVX3lxTE5NSmlPNjNfYmtQNnpTN0gzYVdWcUJpV2M4a3pMcDRsejNRRFlzUGJibHcteVdWOGVxRjlOaHFYSEo3Y0RUUG9FSGtjek1fQWFnU25jRmRzTmJzZUF4amJlNnlqMXdhYlRLY29RR2tlRkczSTBrMGg5QnFoaE5PT1hjQUFQZk9EOUd6ZUU4b25LUzRfN3I0dTJ5Qk5Nd0VXSWVKdUZPcndhRXN5c0NBVjUwd3ZqdkxfQ0YtNkd6YV9UZw?oc=5",
     "description": "Godrej Consumer Products Ltd Falls 10% Business Standard",
@@ -1959,15 +1807,15 @@
     "score": 1
   },
   {
-    "title": "MCX upgraded: JPMorgan moves to Overweight with Rs 3,500 target as FPI entry set to drive volumes - businessupturn.com",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNExkLUllUVVFMEx0dmxLcDhidUVqVTZSUXRPZTNHekZZQ0dSUjh3QTAzUjFMX1d5M0J6SU1WNEN2S2F4SXl1LUhZSHV4RWczMTRUVFNoQmVhZm9BNldUd293MkQ0cDROcjZUYTk1enA1Z2M3LW55NHZwRy1HYW5OMV9yeF8yZjZOS2lKeVFXakVrRWtJTW5RV2lJbkFOUGxjRS1MSXdVQmNqWVhMdGFBVFBfT2ZUbHgyN25WckhmYmMtN0VfYlNtVkd4eHNxYUtaU251RU83VlJ3RGFPR2wyV1F1cjNBb0JnYTRlXw?oc=5",
-    "description": "MCX upgraded: JPMorgan moves to Overweight with Rs 3,500 target as FPI entry set to drive volumes businessupturn.com",
-    "published": "2026-08-12T03:49:10+00:00",
-    "source": "businessupturn.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "title": "Gold ETF inflows fall 55% to Rs 1,559 crore in July - Dailyhunt",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRHp4VTFtWW5YWlpiZ2dBRnBrcmJEMFY3aDlwc3V5NEFHWjFjTE96M25MNF9TWWo0RFBCSGg5RFhMWGw2SC1KeEN1Tmh6MDNHNkx5UjduNTBmMVFfQ2FBZjEyQ1BlbnpGV0dsR2Y5QXNncHllWS1SQncwWVR5OUxEZk5SNUcwQjRhYmJyX2pwcW4zSWdxZHpycXlCcjRSNjBnNDVpQmhYMDJXNk9YVUxlQ0pnWDJ5RWRHbGJnM2FkVXVTWUY5UkRNTGtUZ0xoX052NXBicWdmSQ?oc=5",
+    "description": "Gold ETF inflows fall 55% to Rs 1,559 crore in July Dailyhunt",
+    "published": "2026-08-12T03:54:07+00:00",
+    "source": "Dailyhunt",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market"
+      "market selling"
     ],
     "score": 1
   },
@@ -2063,11 +1911,11 @@
     "score": 1
   },
   {
-    "title": "Which Sectors or Companies Offer Greater Recovery Resilience After the Slump Caused by Intensified AI Bubble Concerns? - tradingkey.com",
+    "title": "Which Sectors or Companies Offer Greater Recovery Resilience After the Slump Caused by Intensified AI Bubble Concerns? - TradingKey",
     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQdG1xRDl5cEZVQXBCNjZ6ckZtTEk0ajZhY2hzdlJsT3N1b0VUeUluUVdzRUFxZXVQTUEtbjduZ01UTEtXbkhlUkU0Zm80YlJXczZ1dlFLSS1YdEo4UWVnOGo2eWRDeF94dnoxUWFseDBVMl9NQXRuS213TUo2OFBoRFd0UW5pdUtXMjRidkFuWkFFcmlyaFNXX2dfeUtndDlBb1U4M3Q5dHdPaFdkZUVUSlFGdHQtNXgtaUlQdTFpalNwQlpLb3UtNDlhbHNGX1R1WG9mNEdXQWo0aUF6OGpIekhfM09JZVp4RV9ES3ZFR1BzdV9mUS0xa0lxWQ?oc=5",
-    "description": "Which Sectors or Companies Offer Greater Recovery Resilience After the Slump Caused by Intensified AI Bubble Concerns? tradingkey.com",
+    "description": "Which Sectors or Companies Offer Greater Recovery Resilience After the Slump Caused by Intensified AI Bubble Concerns? TradingKey",
     "published": "2026-08-11T22:52:22+00:00",
-    "source": "tradingkey.com",
+    "source": "TradingKey",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -2076,24 +1924,11 @@
     "score": 1
   },
   {
-    "title": "360 ONE WAM Shares Dip 2% Amidst Broader Market Volatility - Whalesbook",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaVB1Sk1ZVWt4LU1RUllSYy1OVUZRMUxFYzdDZUVNRlFHdS1CZG9LdkNCLUc4bEIybF9Qb1k0eHVTSjJaVGt5MGdRX2pMN2dTSnlvQjQ1eWhQS3dtTHphOEpBQ1ZWUVExeFNORTNoSVdNWXZtY0szQnI5ME5QR2FOWmV6WXY3b3dIUGtHdVlrWjhwdHRCX2k2YjBZNWxtdW4tOFhsUEk2VFRWVjFqYVZLaGtPT2tHZTVsWWtKTFpjVzJiOHNheUdlUjlqR3NWQjlIS3hhSUZKOGtzUXM0?oc=5",
-    "description": "360 ONE WAM Shares Dip 2% Amidst Broader Market Volatility Whalesbook",
-    "published": "2026-08-11T20:39:50+00:00",
-    "source": "Whalesbook",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Esab India Ltd Forms Death Cross, Signalling Potential Bearish Trend - MarketsMojo",
+    "title": "Esab India Ltd Forms Death Cross, Signalling Potential Bearish Trend - Markets Mojo",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQOUVJZWxnUmQ2cnJuUzkweFUtbmlmelpTQTlkR3dVQkNNZXdiMm9kWEdGXzl6OXdvWkxrTkp5OFd1R3RBNHBoSzRUcVNWUVNTaXVQMHpELU5jdGt2amhlZjZQY0xMQkF4YUxJWGhCNnVLWlItUXR6UDI5UHJESlNNdmctSTJjM0p1dW1RTnI4QmRZTWJRYnpkRnpoSlZpd2NON0NOeGRETWtsVWVLSjluMkl1WkFkaVFpajgtV3ZvalZFR0U?oc=5",
-    "description": "Esab India Ltd Forms Death Cross, Signalling Potential Bearish Trend MarketsMojo",
+    "description": "Esab India Ltd Forms Death Cross, Signalling Potential Bearish Trend Markets Mojo",
     "published": "2026-08-11T20:36:57+00:00",
-    "source": "MarketsMojo",
+    "source": "Markets Mojo",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -2141,6 +1976,19 @@
     "score": 1
   },
   {
+    "title": "NOW, TEAM, DUOL Stocks Hit 52-Week Lows: What's Driving The Selloff? - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQlAzWG1QR0NockJuRTNtWjFuNjFlZXhJTFpRaTFFaFNzRWs5R05Bd1FVSEY2d0tkUEdRUWdzVTE0RU43MndUdjB1LUdBNzd4eUE1cmR5REZoZDdXUkZoVElkdmZkT1JCcGNuUTRveWNMS2E1SU1xT0pRMFNLOUFxOHpTQWZIS2VDOUJoVHNad2o0Nmk4WWZmRWU5SllRczlzcGxaZVg4ZmhXOHJfb2lPWS1mT0hvZjlZd084WDJQU0lkTnR6NVUw?oc=5",
+    "description": "NOW, TEAM, DUOL Stocks Hit 52-Week Lows: What's Driving The Selloff? Stocktwits",
+    "published": "2026-08-11T20:01:17+00:00",
+    "source": "Stocktwits",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
+    ],
+    "score": 1
+  },
+  {
     "title": "U.S. stocks fall after Iran says Strait of Hormuz will remain shut - Fortune",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQR3Y1RzZTX293QWRhbGNYVExoUDZFblM3aTB0MDJZSlZQV3oxT29oZWRfcmtHc2VKeE82NFp1SFpSeGgxZnhVdFhkcEV6Y1QxV3FaOUpDd1ExcTNGMFFWTEl4My1NOGZjTGdRRW1oUG1KQnZraVlzdG83bi01RmkwZTZQOFJhc3h5dTBIODZXOVZaRS1FekdDN2ZGTkNjdw?oc=5",
     "description": "U.S. stocks fall after Iran says Strait of Hormuz will remain shut Fortune",
@@ -2180,6 +2028,19 @@
     "score": 1
   },
   {
+    "title": "क्यों गिरता है Dow Jones तो गिरता है Sensex भी असली राज़ जानिए Habs (sf4zEF7cXH) - Mshale",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB0cDZmN3d6LXBXc19vOHh4SV9PemVyTmhQUDZjaWxnd0hzTklQd2pmbmhwN3Jhd1REYnBQdDdFSDhXM0swME55RmVEc3lsYmI5TTlWc0lEQy13OE0?oc=5",
+    "description": "क्यों गिरता है Dow Jones तो गिरता है Sensex भी असली राज़ जानिए Habs (sf4zEF7cXH) Mshale",
+    "published": "2026-08-11T17:43:02+00:00",
+    "source": "Mshale",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
     "title": "Business News | SEBI Proposes Wider FPI Participation in Non-agri Commodity Derivatives - LatestLY",
     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVjVUUGY3SmpMVnBweUFDc19SQk56UnVVSHpPMmRFYUVjOG52emxJRkFrUTFna3pQX3RMN25ENER3WGZiQ0ZBSEVSelhhZ2xZTWdZc3owaU5FRXVpMGZqMlcxQTQyZkp0eXBjZC1DeEwzTHFpRU05cHJwdWFpY0VrZjBRODVKUmRILU9qcUp6RHpGV0wzcGVrTkx2dFB0cE1va3NHbWRRamdXeWxxR0RZWWhVTG9SR0l2WlhoVDBBVnhVTllPT1FhaXZzMi1xNEZCS2JPM0130gHWAUFVX3lxTE9WNVRQZjdKakxWcHB5QUNzX1JCTnpSdVVIek8yZEVhRWM4bnZ6bElGQWtRMWdrelBfdEw3bkQ0RHdYZmJDRkFIRVJ6WGFnbFlNZ1lzejBpTkVFdWkwZmoyVzFBNDJmSnR5cGNkLUN4TDNMcWlFTTlwcnB1YWljRWtmMFE4NUpSZEgtT2pxSnpEekZXTDNwZWtOTHZ0UHRwTW9rc0dtZFFqZ1d5bHFHRFlZaFVMb1JHSXZaWGhUMEFWeFVOWU9PUWFpdnMyLXE0RkJLYk8zTXc?oc=5",
     "description": "Business News | SEBI Proposes Wider FPI Participation in Non-agri Commodity Derivatives LatestLY",
@@ -2193,6 +2054,19 @@
     "score": 1
   },
   {
+    "title": "The All-World ETF's Record Chase Intersects With Nvidia's $500 Billion Ambition - AD HOC NEWS",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMktudFFvNERaVDhFcTQza0Jva0dIZElPdEVKSkw1ampfQjU1cXJHLURmZzJjbFJKNk5oWGt1OUNuVFBTNzU4bnlOSkw2c1VWY0VTWnVIc2Y5TF9zSEozenhfZC04aElWOTNCZzRzT3M1b0RuVi1wUFlaUzA4ZTJ5VDM3c2JrMl9oSXhJVHBva2pXM0M2YWJ4UURCOXN1SGduMGl0YjJtVU1lU2I0V3daYjlPMFNBdnpHV1p6SnpnWmF4cGlFWXRJUFNuM3pvRVFBQmNYWTNhZDk?oc=5",
+    "description": "The All-World ETF's Record Chase Intersects With Nvidia's $500 Billion Ambition AD HOC NEWS",
+    "published": "2026-08-11T15:02:10+00:00",
+    "source": "AD HOC NEWS",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk"
+    ],
+    "score": 1
+  },
+  {
     "title": "Sebi proposes wider FPI access to non-agri commodity derivatives - livemint.com",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWDVnWnFmenIxU2lmRVMyN0FOSE8xeHUwM0ZTSHp1S0gyUVhzc2RRWGV6TUY4Z2lOaE9hNjZQeVhPRUUtVDh1MnJuVFFPLTdkd1pHNzFCUzd1c2pRQVdubG1xSXBCRndzdTZKdmIwRW0tWDFTcjljTXNfUGtjVEMtR2w2M0JSVE5UcWpsLWFjemxpZWRkR2J1Rlh5cEtKay1zX3Y4THh2dy1vRmJaT2xaN0VkZXVPTWNBeGl4SlhBa1pqNEhFS1FYNkplNHRiUUXSAdQBQVVfeXFMTS1PcGY4T1Z5bUJpSTJLbXhYUWRyaGhHZFBOdlRObjA0MHU3dmwtYUxkSVo5Y21hT0ZGVlBTOWhKc0lTeXdsQVlHbnBjZzBSTHBOZmRla1AyN3pWSm1HNXh0aWNfbWdLRklSQ3lqMkx0VVhSVTdkNmh6MU1pVG1Fc2JLSUpRYTVFeFlGSURDMk4tejVVbVVKNEp3MjhyOGdiNW93cnpZc2xVQXhfMWhjT1FwSUFiVWxRUk05ckZQNlo5cmxkMklJV2RJOUtaU2NoVjdXeEw?oc=5",
     "description": "Sebi proposes wider FPI access to non-agri commodity derivatives livemint.com",
@@ -2202,6 +2076,19 @@
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
+    ],
+    "score": 1
+  },
+  {
+    "title": "LivePerson corrects release urging shareholders to back SoundHound AI merger vote - Bitget",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBlQU1JaU96Q2o2bXdUNmVFeTZrUjBWbTBKWFE3Wkw3ckFmOG01ajBGQ0ZmY3hhWTNFdjdvenE2akZvM2JnRlNTS2hHbVhXNzBDQjdjVUhhcFYwLWgyRDh6dDlIWdIBY0FVX3lxTFBlQU1JaU96Q2o2bXdUNmVFeTZrUjBWbTBKWFE3Wkw3ckFmOG01ajBGQ0ZmY3hhWTNFdjdvenE2akZvM2JnRlNTS2hHbVhXNzBDQjdjVUhhcFYwLWgyRDh6dDlIWQ?oc=5",
+    "description": "LivePerson corrects release urging shareholders to back SoundHound AI merger vote Bitget",
+    "published": "2026-08-11T14:00:56+00:00",
+    "source": "Bitget",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk"
     ],
     "score": 1
   },
@@ -2250,136 +2137,6 @@
     "description": "Sebi proposes wider FPI access to non-agri commodity derivatives Business Standard",
     "published": "2026-08-11T12:14:04+00:00",
     "source": "Business Standard",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Share Market Today: Nifty 50, Bank Nifty | Aug 11, 2026 - Liquide Blog",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQakJ1aHpUZ2tSanVkU05oRkNSTkQzN0FsSDc2UGsxMjJFbE5ZVUtQMmtFUGs3WmRMbzN2XzE3Q0JtSVM2ZW1LbVctZklLSE9EWjhNY1RaSXNjanpFVjliRFU5SUxJX1NFa3pzV25CQklzU3ljRlN1aTU0VFdWRDZiNVVnWWY3TWE0YllmdVpyc21ZRjdQMkhmNEhfUG5EblJ0OXZBLWpVaHhFZDBuVDJDdEdseWxjY2FSVl8ydnd5SEpHZm1vWmVYOFVIRzFhNkM5Y3lVMUE5cm9HYWpMLXJfbUxfVmg?oc=5",
-    "description": "Share Market Today: Nifty 50, Bank Nifty | Aug 11, 2026 Liquide Blog",
-    "published": "2026-08-11T11:31:06+00:00",
-    "source": "Liquide Blog",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "India Funds Move ₹139.6 Billion Into Small and Mid Caps, While Large Caps Register First Outflow Since 2023 - TechStock²",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMHFlbGVrVDRlc1RoZHFFOWQta0w0a29mTTUtNVB0OFRfY2E4V0pmT3g2OEZmZXFrbUlQNm04S19vM1M3Y0ZreF9wOEN6aEJDdzNfZVpjM3RObTNYNGNXeWhXUW1BZkV2VkN4enRyU0h0X0d2c3A2Q3ZGcDNHUVFfbFZoend6M3dPejNWcGpQQ2hkZHZia3R6MXFTT2ZNLS1Sa1VqWktnS1dORjFNVmFlZllXRXB2LVR0QzBNX21wOHZCeFZtaUo0?oc=5",
-    "description": "India Funds Move ₹139.6 Billion Into Small and Mid Caps, While Large Caps Register First Outflow Since 2023 TechStock²",
-    "published": "2026-08-11T11:27:32+00:00",
-    "source": "TechStock²",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Top gainers and losers, Aug 11: Tata Consumer Products, Max Health fall 3%, Dr. Reddy’s up 4%; check list - Upstox",
-    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNMWJaWEFhOVpJbEY3d3VRcWEzUmdad1dOWnJPSlZQcHRtNHJKQW4zUU05cl9PVElnTHNzbW1QeFlhWVhkRUpsS1JpVXhVV2tzX3VyZUk5T3FmMFpqS2lUT1ptOXpQaTZ4eVFYUTBfM01lSXAzSVJJZVpoT25Oc0l6dHpyUlFsYXYyMG85dHB2SlIzSThxbkNNYWpHSW5rYTV6TGUySmtmU3hNeUY1aHViWjRoQUkwQnJvRDV1ZXFocmlvc25RT1g3RURQdUZJaGtIQ3lPdlBVLVkzeUNtVm1KcjBoLThENk5ibG44Yg?oc=5",
-    "description": "Top gainers and losers, Aug 11: Tata Consumer Products, Max Health fall 3%, Dr. Reddy’s up 4%; check list Upstox",
-    "published": "2026-08-11T10:52:39+00:00",
-    "source": "Upstox",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
-    ],
-    "score": 1
-  },
-  {
-    "title": "AI Tech Panic Drags Bitcoin Below $65K - Yellow.com",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNk5LUE9KVEpLY0s2bkRaV2Rfd0JzSl9JQV9mTU5QZWZmR0pZcnl6c3h4bHRiVEVNSUNWc1psT285RlBPSTFQaDYyNmhEZFJnZ1RtVjlDTGFHRllGa204RFllMEJTM0lIRFNUbWhiNElzQmRFQlMydWVxTlhZWEFVeXhnMDlaWUlI?oc=5",
-    "description": "AI Tech Panic Drags Bitcoin Below $65K Yellow.com",
-    "published": "2026-08-11T10:48:04+00:00",
-    "source": "Yellow.com",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk"
-    ],
-    "score": 1
-  },
-  {
-    "title": "FII Selling Alert! These 10 Stocks Saw The Biggest Foreign Investor Exit In Q1 FY27 - Business Today",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPQjF3eDBzOXBIUWVaU2VuVDJELXpCTTdsd1JDMnptNEYyWnAtb2ozRFNiV3dITjNSSjE4ZnJtRVlXcGczSGZPd2JOdWRiMHdJNDhFT3RhTW1PcUQ5OXJILUYxcVRWcTF5LWdiczZ2QmJNS25McXVOdTdfUlVmTGg4ZVlUMk9DSmRXcU9VdUE0YS01a2xKS3dWejVPZWQwWTZFWWhRVEhtV3NhYmdMN1lzOXcxTVAxaFZSTlhiREg5VlhWNEJLMGFpOTc4X0VVOFVaRVM1TnNhSjZPSjBDSW9VUw?oc=5",
-    "description": "FII Selling Alert! These 10 Stocks Saw The Biggest Foreign Investor Exit In Q1 FY27 Business Today",
-    "published": "2026-08-11T10:44:05+00:00",
-    "source": "Business Today",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Nifty ends below 24,500 level amid weekly F&O expiry - Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQ1NsZ0ZESTF6dkNLR1p3WTdjaG5YTmYzc3dnNTEtNHkzRi1hUklhcDQ1SUdlaWlOSWVLaWhuc3FXYTR2MzR6TFhmbmEtbUNiTkYxak50OV95Z0oxV1pZei12UVFUWWwzaS1WX0dhQ2lfR2JpR1ZMWEFHYTR4TVRHNHBHLVZwVS1MWENWZzNHSS1rR1NJcnh4b2JGaEtJQm9YTlMyb2JORkdBODhkenhGQ092LUM4RFVPMXV4RUlFaXBoQWI1RTJndUJZcktuQknSAdQBQVVfeXFMUERfWjNGRkdhdENJb3JVR3hJZzREU3Vsb1JlcUlDMGNCeXk3X3F3X1lFbEZBOGVZTkpDMm9zRXVDbkV4R0pqc3dVSVM3cEdBLUk3UmtTQnhwTEROVUxvNVFsOFRWamhtQ2FJaVhPNVFNMEdFU3laMFNObk1ickNFUVNLYzJ1aS1hWjJpNnlNZk1uLVNBZ2hITmloaGZkbjJJWlgySVQ2UTJZWU9kcEVhMWRmS3VfZHR5VENvY2J5ck1kcVk5bDdjQjB6NGtJYVBDd2k3LW0?oc=5",
-    "description": "Nifty ends below 24,500 level amid weekly F&O expiry Business Standard",
-    "published": "2026-08-11T10:34:02+00:00",
-    "source": "Business Standard",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "From market correction to record highs, what should investors focus on now? - The Globe and Mail",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQMGdUWXgtUWVMVWhyN2FhRTRlTFQyWWpsdEpyMV9xTk5PS3IyRDNMbFMwbnpLMjZuSEZFTXlLRHRXVmNRRmpYMmJOYkNDNUdQTy00ZmIxMHZXaElRNFk3b2p5UHEwR2lTaTdfaE9DYlVSalRzbFVleDcwUHVYVEJqSmNGdGRveDNDNkV3WUxkay1LN29CWEVhdWtwWGJUdGluaGx1RnU2THg1TlZTOG00cHlwa1V1aVN1U3BVeg?oc=5",
-    "description": "From market correction to record highs, what should investors focus on now? The Globe and Mail",
-    "published": "2026-08-11T09:30:00+00:00",
-    "source": "The Globe and Mail",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
-    ],
-    "score": 1
-  },
-  {
-    "title": "The Korean Stock Exchange's Correction Opens Opportunities for Foreign Funds to Enter Indonesia - Kompas.id",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQRE9FTjM4cXRRS0N2N01pRWVJMmRUMExrU1ZlaUtPWmh6N2k5UWFvbWtzaElFWkRxandHZFRfdExKd3BYSXoxc0tIdmkxcGJwZDhUZXg4Y3U1bXNMTUxPeDNweHFXZ1ZNbkV0akhORS1jdUFMYy1oZkNoNS1rTlhwbXoxTVhvb2N4bWxUa2dFTWtKMWcxUkNNREwycUw3RUM4emlJWHkxUy1NVkpBUmtBdUpnVDhWVjNqZXRSV0g1NFRpZjg?oc=5",
-    "description": "The Korean Stock Exchange's Correction Opens Opportunities for Foreign Funds to Enter Indonesia Kompas.id",
-    "published": "2026-08-11T09:08:07+00:00",
-    "source": "Kompas.id",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Staying invested through market swings delivered far higher returns: Report - The Hans India",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaklaenk3eEN1c3lFRFpXWFpGTzNPS0llVmYyTjZTR1E1UjIySjZHQndBQjJxLVJwTEstN0NWckNJU29IMHdRT1gyeFRUbzV4STkzYXM2ckVaM0dEOFIwNmo3RkY0NlRUYVFhOXRhX3RNOE1GM3VZcTlkMHh4SGMtTzhVU2Z1eUZmQkJOb2s0cFF5TW44UlJ6WWlzYlNtQ0laMzItd19GMG1oeUVPV1Nnd2g3VDBJUWc4LVRGTWVxek81d9IBwgFBVV95cUxPaklaenk3eEN1c3lFRFpXWFpGTzNPS0llVmYyTjZTR1E1UjIySjZHQndBQjJxLVJwTEstN0NWckNJU29IMHdRT1gyeFRUbzV4STkzYXM2ckVaM0dEOFIwNmo3RkY0NlRUYVFhOXRhX3RNOE1GM3VZcTlkMHh4SGMtTzhVU2Z1eUZmQkJOb2s0cFF5TW44UlJ6WWlzYlNtQ0laMzItd19GMG1oeUVPV1Nnd2g3VDBJUWc4LVRGTWVxek81dw?oc=5",
-    "description": "Staying invested through market swings delivered far higher returns: Report The Hans India",
-    "published": "2026-08-11T09:04:28+00:00",
-    "source": "The Hans India",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "How Bank Nifty Helps Investors Understand Banking Sector Performance - CAclubindia",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNzZ1RFdmQTNtZ0xRRjRJUENGVDJkbUluSmVqQlQzQ0c4QXVUc0xUM1lxZEhvVFhOVy1QR04wMnlrTzJYejFkc2VyZzJGZDdXNTZEU3ZCejZkb2V4SC1ES1l5ZGxMclg5ZGtzeEVrQnE1Z2w2eW5IcVRfUEVLM29GR3FUQmZUeGlKdTdQenN0TkFkbkNGWFh3TWlkM1Ywa2FoVGJTbWM2Mm85Y0M4TEpVdWN6MzNMUQ?oc=5",
-    "description": "How Bank Nifty Helps Investors Understand Banking Sector Performance CAclubindia",
-    "published": "2026-08-11T08:54:00+00:00",
-    "source": "CAclubindia",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
