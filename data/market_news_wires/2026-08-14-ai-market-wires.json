@@ -14,11 +14,11 @@
     "score": 10
   },
   {
-    "title": "Sensex, Nifty fall in early trade as crude, FII selling weigh - Telangana Today",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMDdnR3ByZ1h6d0JxOUJ0VVluX0ZZTW83Q0Fya3NROFRfUVVWMDZOT2lhWXZvS3lkY1dWLVhQVEN2WGFKR2x2MzZZR25DREVQMDZpSWlEVDFUTlJycE1meUMtZ3RqR18zVlRIOTNlVFRjby03TlI4T0d5a1QzUU1tOEZ2SVlSZEtFSTZIOHlqRQ?oc=5",
-    "description": "Sensex, Nifty fall in early trade as crude, FII selling weigh Telangana Today",
-    "published": "2026-08-14T05:17:41+00:00",
-    "source": "Telangana Today",
+    "title": "Sensex, Nifty fall in early trade as crude, FII selling weigh - cfo.economictimes.indiatimes.com",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQXQwdW9RZUszVmdtc2M0dVBTcWlmWHBpMXNLU1Z4emJBWGoybk1LUUNmWC1Wa2JIeHgzMVhkY3J1SjV5bG40M0k1MU1rbnJCZlBKV040dWJPMjNlbF9MZ3FkU0QwSUhuTUJDVzJIdC1lSzlTM21NUC1lclFibmdRTUxGNVNjUGhBRHNZMlAza2NUZ0RhdXdmX25rc25aZ0tDOEtDUlJTcjFHVXZ6emphanBrZEQwSzVqdjU40gG7AUFVX3lxTFBBdDB1b1FlSzNWZ21zYzR1UFNxaWZYcGkxc0tTVnh6YkFYajJuTUtRQ2ZYLVZrYkh4eDMxWGRjcnVKNXlsbjQzSTUxTWtuckJmUEpXTjR1Yk8yM2VsX0xncWRTRDBJSG5NQkNXMkh0LWVLOVMzbU1QLWVyUWJuZ1FNTEY1U2NQaEFEc1kyUDNrY1RnRGF1d2ZfbmtzblpnS0M4S0NSUlNyMUdVdnp6amFqcGtkRDBLNWp2NTg?oc=5",
+    "description": "Sensex, Nifty fall in early trade as crude, FII selling weigh cfo.economictimes.indiatimes.com",
+    "published": "2026-08-14T05:26:56+00:00",
+    "source": "cfo.economictimes.indiatimes.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -236,6 +236,20 @@
     "description": "Sensex falls 300 points, Nifty below 24,350. Here’s why analysts see range-bound trade The Economic Times",
     "published": "2026-08-14T03:58:57+00:00",
     "source": "The Economic Times",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Top losers among Nifty 50 stocks in midday trades today, March 10: Infosys drops 1.7%, TCS falls 1.0%, Bharti Airtel down 0.9% - Business Upturn",
+    "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxObUtfZ3hkb1JFQjlsU29venR0NS1YaGs1ZVVNU295RGpSRURGVVY2MzZsUm4wVEQzdlF2cERQdlhOLVhjbGRBeXAwMXZ0TnB1U2lWLUFaQ1NjaC1rdGpWei01dkNZNW5DOHNEbVBUOVhrWjI1cVdTNHlOZkRWUHE4MG9fQ1ZST2tlR0dLUEM0Q2hHUm5yZk9fTGxuTF85V1lJbXJva05zcFoxbFR6ZHVWZmRfZmJ1TXFJRUxJNkVPODFLaVdtdkJQVmdyOEhNQWpLT09ueUVhc055a0pNbkE1WWEyTXM0eWYzOW9ka1pRUmV3SlFNVWNfUUtmdk8?oc=5",
+    "description": "Top losers among Nifty 50 stocks in midday trades today, March 10: Infosys drops 1.7%, TCS falls 1.0%, Bharti Airtel down 0.9% Business Upturn",
+    "published": "2026-08-13T21:41:16+00:00",
+    "source": "Business Upturn",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -468,11 +482,11 @@
     "score": 5
   },
   {
-    "title": "Small & Midcap Mutual Funds Now Account For 30% Of Equity Folios - Whalesbook",
-    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaTlydmNTRXlybmhheVZrZWFVY3h6SW14YXg4a18xdVZBV3hFdjlybUF6VTNqSWJkamUxSzJzcXFjN1hDd3VudVpiUTV1S2Q5azl1QWhDTGhvOWJlb1F0dk1fNzBQcklNMzFZcnNjY2RWZGxhaFdvbUZONmtwVzRTckxMUm5Gc1ZJQ3dibm5BSHVFbmJiYTEzZEJVbjhrSmtvcXBSaUVXa19yYXhMaHFpYTQtdFRNOGhtUXlPRk5BLXBQZ0xRTGRiYnRPNGNuZE5hNjFSaHhLNHdsSTI5NWJ0c0NGWDk?oc=5",
-    "description": "Small & Midcap Mutual Funds Now Account For 30% Of Equity Folios Whalesbook",
-    "published": "2026-08-13T20:47:52+00:00",
-    "source": "Whalesbook",
+    "title": "JioBlackRock Mutual Fund files draft with Sebi for balanced advantage fund - The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOSE14R1E0dE90YUg4U2RGUFB6aTZqdXR3bTFmaXh3Rzg2V1NydW5yNFlLa3lyRU9yWHdHMFYtQ1hSRjRiYVNPU3YwRlZsVkZlSUNEZEdjVURXMjd4QWhYS1NXVnJVSnhreDRaYk1adlBzbThhT0FienZLVTEwU21iY0ZKRHZRU09HX3Z3R1N4X2swTm1JdUtXdk9mbEFSVEMzMUowZWJpQUhTX2V0RkFBWWI0b1RzdDRTN2dfOFZBQTFnenBFQUk1REJwU0g3OEZrbktqXzczYWtMeFXSAdsBQVVfeXFMTkhNeEdRNHRPdGFIOFNkRlBQemk2anV0d20xZml4d0c4NldTcnVucjRZS2t5ckVPclh3RzBWLUNYUkY0YmFTT1N2MEZWbFZGZUlDRGRHY1VEVzI3eEFoWEtTV1ZyVUp4a3g0WmJNWnZQc204YU9BYnp2S1UxMFNtYmNGSkR2UVNPR192d0dTeF9rME5tSXVLV3ZPZmxBUlRDMzFKMGViaUFIU19ldEZBQVliNG9Uc3Q0UzdnXzhWQUExZ3pwRUFJNURCcFNINzhGa25Lal83M2FrTHhV?oc=5",
+    "description": "JioBlackRock Mutual Fund files draft with Sebi for balanced advantage fund The Economic Times",
+    "published": "2026-08-14T06:12:19+00:00",
+    "source": "The Economic Times",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -481,11 +495,24 @@
     "score": 4
   },
   {
-    "title": "mutual fund masterclass july amfi data large cap outflow itr tips - Zee Business",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPVzRmUE9hRXNkLVRuVDRsbWNfTnZDWkM4Rm1oNUxyUkdVamFCNnQ4VGNBcURPSVhlY0ZpZmx1c3JXU0hXZXczZ3NpNGJ3bmRqb1l0YTNqY19KYUdodWUwWGR2NzJuS3dQNkdvSDRYQkQ4NnRaelBjdEYtT2RlaHJRVmlBVF9EbVVkN3NTLS1SSFgydW9ydHVDd0x1ekJkZTRGQ3dOQ1hFQjZ5TnFwWk5GZ2lSMFhEanNXQVRuaDRB?oc=5",
-    "description": "mutual fund masterclass july amfi data large cap outflow itr tips Zee Business",
-    "published": "2026-08-13T10:09:01+00:00",
-    "source": "Zee Business",
+    "title": "Invesco Mutual Fund to Resume SIP, STP & IDCW Installments in 3 International Funds From August 18: Check the Funds - Trade Brains",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQOGdra2paQ1kwWkZ4b2swcXIwMTVXQnlDc2g2N3g2U01RXzFiZ2x3T3A4U1dRLWZ6U21LR2pIbFJSSlp3a3Z2TjNqLWc1aXJqTWRuQWhZMkJvVzN0S3JBUm1UZ2xZYUdTY3lsdzlJejRzMHlRclV6aDJ3M3htN251cC1YRnF1S3kwQ0l6dVdTWXBSQWptX2NEeDBBdUpLSUxzM2V0N3N3UkN3RF9pSFp4Um9MNmIydnhEdks2cWl4aHBmZlZEVGE0Y2FGSzBnbS1wbWp2RmtDcVQ?oc=5",
+    "description": "Invesco Mutual Fund to Resume SIP, STP & IDCW Installments in 3 International Funds From August 18: Check the Funds Trade Brains",
+    "published": "2026-08-14T05:41:42+00:00",
+    "source": "Trade Brains",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 4
+  },
+  {
+    "title": "Small & Midcap Mutual Funds Now Account For 30% Of Equity Folios - Whalesbook",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaTlydmNTRXlybmhheVZrZWFVY3h6SW14YXg4a18xdVZBV3hFdjlybUF6VTNqSWJkamUxSzJzcXFjN1hDd3VudVpiUTV1S2Q5azl1QWhDTGhvOWJlb1F0dk1fNzBQcklNMzFZcnNjY2RWZGxhaFdvbUZONmtwVzRTckxMUm5Gc1ZJQ3dibm5BSHVFbmJiYTEzZEJVbjhrSmtvcXBSaUVXa19yYXhMaHFpYTQtdFRNOGhtUXlPRk5BLXBQZ0xRTGRiYnRPNGNuZE5hNjFSaHhLNHdsSTI5NWJ0c0NGWDk?oc=5",
+    "description": "Small & Midcap Mutual Funds Now Account For 30% Of Equity Folios Whalesbook",
+    "published": "2026-08-13T20:47:52+00:00",
+    "source": "Whalesbook",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -921,19 +948,6 @@
     "score": 2
   },
   {
-    "title": "Sensex slips 250 points, Nifty below 24,400; Tata Motors PV cracks 4% - financialexpress.com",
-    "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPT3hLa3V6TzRKS0RKZVZ1N1JDdzNOQmV3cEV5RDV5a3Q5UWNGR29IOW5lNzhHVTREcjFTdmZJSGNmZjUxcVNfUkpTWVJNVmRJSWFOa00xaG5yTEQ1NVpZRnJsMDJ2Q1YyRFJrRmpIcHgwU2U3OEo4X0ZKbmVvZXFURm02S0xyanEySHkzWTNLNU1JRFJmZUxTenZwNGkxeFh6UDFKcmxnN3d6TVBZblF0UnhCRUxnM3Jxa0NLbl9XZmNBamt0NUtkRmxONTFMTVBlQ3IyVXRpbDZ6ckRKTUhXSkhrczY1Q2pJME80TzhucllsWm81dmloVF8xOHdWbC1MZzdR0gGKAkFVX3lxTE8tYS05aVVyQ3JHNmhGTXI0THBQRW92U2lDb2w5a1NqYU52WFNVZzZERElpZTVabVFTUEtMV2NWTm5TbXJYQ3p0OXpweTRjMnlxYm85ZmtLTUZZc2FBRFhoR3hPVDNNVC1MY3FLZmRsYVduX1BFZmt0YUJWZHNVZFUxSFgxeURjZFQxY2hWWnQyeU55WFpTV1JQRlFuSlpxZnFUZUNCOHAtdlg4ZnpacktVejVOS0lPM3l1V2tMbG9UdlFCNC05V2xKMm5HOW1BcW1QNzdOYnQ1T1I3aVR6TG9jckhWVUFuTFRpcFd3WjB3U1ZxV0c3WGpoaVo3R3hUTWVLU2N6bVZ6MlR3?oc=5",
-    "description": "Sensex slips 250 points, Nifty below 24,400; Tata Motors PV cracks 4% financialexpress.com",
-    "published": "2026-08-14T03:52:46+00:00",
-    "source": "financialexpress.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 2
-  },
-  {
     "title": "Korea’s AI trade is surging again — can chip stocks extend the rebound? - Mitrade",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9kdUc2UWUwTWR5M1FXMkZyaV9NRFFMNkZuekNwZkdwUDM3RkNTZ1RWd2FGUFRlQzhBaWhoZmFTUU1PMmF5RkFzTjJ5SUQtZDZXUFF2SlJTbGFiZHNRMndSY0hmRDFpdjM2M1p1RjhJYmEydWZYc0xhRm52bVBtTU0?oc=5",
     "description": "Korea’s AI trade is surging again — can chip stocks extend the rebound? Mitrade",
@@ -1054,19 +1068,6 @@
     "score": 2
   },
   {
-    "title": "Mirae asset nifty india new age consumption etf detail page, NAV, Rating, Fund Return, Performance - Business Today",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbmNLYno0bDhkcVJFVFpSZmNlTjBxQklOa3gwZk9JbWNkN1BiZG5Qc2cxbWNqYW9GWWpuZXF4UWszX1IwNmhpeDJvX1FRMUxzcWpyQWNGOThTSU1NQzFqQ0dndEVRTTktQWtybkN5bmhQWjRqTVpUa1V1R2R0NktaMnRlam9IQVlpSXRnbjN3WWFlZlFaUUQwZHZTalE0VjNjTGNKalozWmExSFU?oc=5",
-    "description": "Mirae asset nifty india new age consumption etf detail page, NAV, Rating, Fund Return, Performance Business Today",
-    "published": "2026-08-13T12:02:34+00:00",
-    "source": "Business Today",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 2
-  },
-  {
     "title": "Sensex gains, Nifty slides as broader market outperforms - Business Standard",
     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOTGJDWm9oaEg0YnE1UTBveVJnbzZTbGJzOFlrMFhSdDRzLVlla2l2cE50MW8wZ3Y0TDdFTDBfaWlJamtPczgxQnk4cWJKeHBwdUVsR3NGbVhKSGtXLXptenExSnZvbUtvanI4ZENaeGlTckY1NTU4Z2gzczE4b09aN0ZtWmo4OEoySDJlNnRGajlHMmtpNTFpR18wUHNxXzhvVElESDJDeFkzbE9iYS0tbGNfdzRJSFQxT1dsRkQyVUhaR1lQNHdJUEs2cEw4VlpkMF9xb3ZMcXDSAdgBQVVfeXFMTkxiQ1pvaGhINGJxNVEwb3lSZ282U2xiczhZazBYUnQ0cy1ZZWtpdnBOdDFvMGd2NEw3RUwwX2lpSWprT3M4MUJ5OHFiSnhwcHVFbEdzRm1YSkhrVy16bXpxMUp2b21Lb2pyOGRDWnhpU3JGNTU1OGdoM3MxOG9PWjdGbVpqODhKMkgyZTZ0Rmo5RzJraTUxaUdfMFBzcV84b1RJREgyQ3hZM2xPYmEtLWxjX3c0SUhUMU9XbEZEMlVIWkdZUDR3SVBLNnBMOFZaZDBfcW92THFw?oc=5",
     "description": "Sensex gains, Nifty slides as broader market outperforms Business Standard",
@@ -1133,11 +1134,11 @@
     "score": 1
   },
   {
-    "title": "KOSPI heads for best week since June as heavyweight chip stocks rebound - Investing.com South Africa",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNYTlZMVB1dVdzVEJfbGcyVnE3d2gxV3RhYngtZUdCd2JzTG5ndk0yTmtJZm96NzhYd0NDZHFLTXVKZUk4UnRKZEVJLUZHemNKZXE1UENESUNlSlZ2RlVYeU1UZ3Zoc1JQRlZRNlNVeW1FZHFNUW5xcHd4RmNQc05lQjVWZy1IQVFZa09tNEo1eVdnR2JSdGRWMms0cEN0SjB6MU1PdndVUjN0T2pXYkZwMGx1ZzR1MXVrc0ZDNUdHUk5oRTlDbzZlNU1GeHhIT0JuVDJPRGhB?oc=5",
-    "description": "KOSPI heads for best week since June as heavyweight chip stocks rebound Investing.com South Africa",
-    "published": "2026-08-14T06:54:02+00:00",
-    "source": "Investing.com South Africa",
+    "title": "KOSPI heads for best week since June as heavyweight chip stocks rebound - Investing.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRTFaRm1ieWU5NEFLRUlTWGxWQ2FQSjdwWWs0RnBpc1BnNktkZ0JwcXJ6YW9kakxuVFQ0WVh2MUhxMVMzdG5DVWVLVWpCa1JJMU9FQjRNeHAtY3E0WHcyNk1QdDFiVDN1dVFzZ3lXLUlTd255enZQTlhhaTRKVGM3RFdHeWFvWTYyS3RmSGhtYk9YdldfMFREdFhDdFltT0RldVlPQTRjbE1BMWw4R1AtZXZPNldvQ2UzemoxY24tTTJ6M01HelNz?oc=5",
+    "description": "KOSPI heads for best week since June as heavyweight chip stocks rebound Investing.com",
+    "published": "2026-08-14T06:31:35+00:00",
+    "source": "Investing.com",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1367,19 +1368,6 @@
     "score": 1
   },
   {
-    "title": "KAITO AI crashes 19% in 24 hours, wiping out Ju... - Pluang",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcGZCbFVjQmJoM3VZbk1IUXhrVHhMNnA1MTZwRlowZFZFdlpUVEdSWUFZZ29ucklrb1gzbXlNWEJBLWFTWlQyRjB4T25wbHZhSEtPWHlFRktOOWI5TEZnNlc2VU4zYmNBUGIxTmhqRXB0NWtvdnhHYWFSMG9GM09PbUZuSGY?oc=5",
-    "description": "KAITO AI crashes 19% in 24 hours, wiping out Ju... Pluang",
-    "published": "2026-08-14T03:27:41+00:00",
-    "source": "Pluang",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk"
-    ],
-    "score": 1
-  },
-  {
     "title": "KOSPI Reclaims 7,000 Mark on US Inflation Relief; Semiconductor Stocks Lead Rally - finance.biggo.com",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9DNmpvN0xiczRIelF4SHV1cjRfR2pIMXVyQm1aRVdaQjA5RlNkc0djcGJ4WThSbHFPNTdCMVc1OVJhamdRMC1qRHd2RzBjdmJiY0R3b1JtS2FQbjM2Y0xlQk5rYy1zZ2I5MXNhamNTeU9DNmNMSkE?oc=5",
     "description": "KOSPI Reclaims 7,000 Mark on US Inflation Relief; Semiconductor Stocks Lead Rally finance.biggo.com",
@@ -1510,6 +1498,19 @@
     "score": 1
   },
   {
+    "title": "Nifty At 24,400: Can Markets Break Out Next Week? Analysts Decode The Road Ahead | Business News - ET Now",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVWt0cmRzd2pXQ2tvTFl3d2M1cC1GQzBpTm9KTHoyQ0g0dmZ0c055a09SeHFieWtGdEk5YmwtbktjN0pJT2M3a0otTWNJbFVDaTlsMmNsMGtBaXVFa3V4QW5hM181VlU2M0U3N2Q0X0U2akR0aGsxN2lNY0w4bUV0RnpVRzNBQUh1VmtVOXFDMV9zUGtEb0N6NmRPX2hOQ2I5MlBCMVVjWXFFOTFYWkYyTndB0gGyAUFVX3lxTFBVa3RyZHN3aldDa29MWXd3YzVwLUZDMGlOb0pMejJDSDR2ZnRzTnlrT1J4cWJ5a0Z0STlibC1uS2M3SklPYzdrSi1NY0lsVUNpOWwyY2wwa0FpdUVrdXhBbmEzXzVWVTYzRTc3ZDRfRTZqRHRoazE3aU1jTDhtRXRGelVHM0FBSHVWa1U5cUMxX3NQa0RvQ3o2ZE9faE5DYjkyUEIxVWNZcUU5MVhaRjJOd0E?oc=5",
+    "description": "Nifty At 24,400: Can Markets Break Out Next Week? Analysts Decode The Road Ahead | Business News ET Now",
+    "published": "2026-08-13T15:08:45+00:00",
+    "source": "ET Now",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
     "title": "Nifty Metal Prediction for Tomorrow, 14 August 2026: Base - Univest",
     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQX3BPVFJUTXhiWXpqS245QmtjN1pNR2g4OVAwNkZscU4xVW54Q2ZQdzYzejF3Qkx4RnFhNjZORE43d0tnYjNENkdHQzhYNU9xdmNLQlN6WHVFWVlWUlJOZDk2bGVKR1ZTZjFtb0ZHS3NFUDdNbmtBTUdCNXRjVk95dg?oc=5",
     "description": "Nifty Metal Prediction for Tomorrow, 14 August 2026: Base Univest",
@@ -1558,6 +1559,19 @@
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "AI / tech risk"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Element Fleet Management Stock Faces Fresh Pressure as Bearish Momentum Raises Correction Risk — August 12, 2026 - kalkine.ca",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQOHZoVjk0dGZlVXNtOGNHSWtveXBOWmdZMGFTTE5tSklLemEzdmhtb3JTOE9qWUR5N3N6NXRTZnRZSU1hVUpMQTJ2YWs5ZHdsZTJGbDhnOTYwcVhPU2tKT19fZkhNVzJCeFp3X0gwTW9vekpQVTk5V2s4azViVWJTbFlFcGZJRWUwSVBVaXZrYmdOdHhjWVktRkNNYUNfWGRXRnUwd2VTU1RWc0tTWEl3VW9abENhU3czVGpJR2h5R2JOWldZX2ZnOW1iZGY1XzU2X1NmeE5GdGFZVm8w?oc=5",
+    "description": "Element Fleet Management Stock Faces Fresh Pressure as Bearish Momentum Raises Correction Risk — August 12, 2026 kalkine.ca",
+    "published": "2026-08-13T11:28:00+00:00",
+    "source": "kalkine.ca",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
     ],
     "score": 1
   },
