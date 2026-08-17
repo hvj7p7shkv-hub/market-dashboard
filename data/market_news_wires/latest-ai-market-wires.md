@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-17 05:51
+Generated: 2026-08-17 05:54
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -476,7 +476,17 @@ Nifty may face hurdle at 24,600 in next week, Sensex at 78,500-78,800: Analysts 
 
 Indian Markets Brace For Volatile Week, Fed Minutes & Crude Oil In Focus freepressjournal.in
 
-### 48. Oil prices hold steady as Strait of Hormuz traffic slows amid stalled Iran-US talks - IBTimes India
+### 48. IT stocks today, August 17: Infosys falls over 2%, TCS and HCL Tech decline as BSE IT index drops 1.6% - Business Upturn
+
+- Source: Business Upturn
+- Published: 2026-08-17T05:49:19+00:00
+- Themes: market selling
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPXzNFRWpOOWlYQ1A5Q2lQRlJxQW02Qm1UdkVydGNiVFZGdjA5dVZxaVE1aWwzU2RrV3JuamQ3S2hPU2FqU1E0b1Z2eUdEbjJHQ0FjYTU0eUNOeGVPQVo0Q1AtNGpGMTJaemd1ekxnX2RCUHZNMmlEaEE4azlRN0RxcVhZZmQzY19Zei12dGZYZ01nSkl3dDVXOXJINGpvNUlZZHc2cDBkZkF6T2cwN1R5MUZKWEVqOUpmTmlNcHJHcHFRcmJOc25id012N1B5Mkw2OGpyNTFKQTRwT3pzSktF?oc=5
+
+IT stocks today, August 17: Infosys falls over 2%, TCS and HCL Tech decline as BSE IT index drops 1.6% Business Upturn
+
+### 49. Oil prices hold steady as Strait of Hormuz traffic slows amid stalled Iran-US talks - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-08-17T05:42:13+00:00
@@ -486,7 +496,7 @@ Indian Markets Brace For Volatile Week, Fed Minutes & Crude Oil In Focus freepre
 
 Oil prices hold steady as Strait of Hormuz traffic slows amid stalled Iran-US talks IBTimes India
 
-### 49. Cochin Shipyard Share Price: Stock Falls 4% After Q1 Profit Slumps 19% YoY; Kotak Maintains 'Sell' - NDTV Profit
+### 50. Cochin Shipyard Share Price: Stock Falls 4% After Q1 Profit Slumps 19% YoY; Kotak Maintains 'Sell' - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-08-17T04:46:34+00:00
@@ -496,7 +506,7 @@ Oil prices hold steady as Strait of Hormuz traffic slows amid stalled Iran-US ta
 
 Cochin Shipyard Share Price: Stock Falls 4% After Q1 Profit Slumps 19% YoY; Kotak Maintains 'Sell' NDTV Profit
 
-### 50. Stock Market Decline: Crude Oil Prices & Geopolitical Tensions - Rediff MoneyWiz
+### 51. Stock Market Decline: Crude Oil Prices & Geopolitical Tensions - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-08-17T04:32:27+00:00
@@ -506,7 +516,7 @@ Cochin Shipyard Share Price: Stock Falls 4% After Q1 Profit Slumps 19% YoY; Kota
 
 Stock Market Decline: Crude Oil Prices & Geopolitical Tensions Rediff MoneyWiz
 
-### 51. Should India be worried about the ‘AI bubble’? - scroll.in
+### 52. Should India be worried about the ‘AI bubble’? - scroll.in
 
 - Source: scroll.in
 - Published: 2026-08-17T03:30:00+00:00
@@ -516,7 +526,7 @@ Stock Market Decline: Crude Oil Prices & Geopolitical Tensions Rediff MoneyWiz
 
 Should India be worried about the ‘AI bubble’? scroll.in
 
-### 52. NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 17 - Upstox
+### 53. NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 17 - Upstox
 
 - Source: Upstox
 - Published: 2026-08-17T03:07:36+00:00
@@ -526,7 +536,7 @@ Should India be worried about the ‘AI bubble’? scroll.in
 
 NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 17 Upstox
 
-### 53. Small, midcap valuations backed by strong earnings growth: Ramesh Mantri - Business Standard
+### 54. Small, midcap valuations backed by strong earnings growth: Ramesh Mantri - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-17T02:31:18+00:00
@@ -536,7 +546,7 @@ NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before
 
 Small, midcap valuations backed by strong earnings growth: Ramesh Mantri Business Standard
 
-### 54. Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Continue to Cool - BBN Times
+### 55. Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Continue to Cool - BBN Times
 
 - Source: BBN Times
 - Published: 2026-08-16T18:14:59+00:00
@@ -546,7 +556,7 @@ Small, midcap valuations backed by strong earnings growth: Ramesh Mantri Busines
 
 Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Continue to Cool BBN Times
 
-### 55. Dalal Street Bloodbath: Rs 6.7 Lakh Crore Wiped Out As Sensex Crashes 1200 Pts; Nifty Ends Below 25,500 - Goodreturns
+### 56. Dalal Street Bloodbath: Rs 6.7 Lakh Crore Wiped Out As Sensex Crashes 1200 Pts; Nifty Ends Below 25,500 - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-08-16T09:09:32+00:00
@@ -556,7 +566,7 @@ Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Conti
 
 Dalal Street Bloodbath: Rs 6.7 Lakh Crore Wiped Out As Sensex Crashes 1200 Pts; Nifty Ends Below 25,500 Goodreturns
 
-### 56. SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips - AOL.com
+### 57. SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips - AOL.com
 
 - Source: AOL.com
 - Published: 2026-08-16T07:21:51+00:00
@@ -566,7 +576,7 @@ Dalal Street Bloodbath: Rs 6.7 Lakh Crore Wiped Out As Sensex Crashes 1200 Pts; 
 
 SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips AOL.com
 
-### 57. Banking sector stocks today, August 17: J&K Bank falls over 3%, SBI, PNB and Bank of Baroda decline - Business Upturn
+### 58. Banking sector stocks today, August 17: J&K Bank falls over 3%, SBI, PNB and Bank of Baroda decline - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-08-17T05:39:15+00:00
@@ -575,16 +585,6 @@ SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Mic
 - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxObXJ1M2NUOE5Zel85dW9JcVFmU3pRY00yeTBvZ2FiV2JQanlaeFVFRmhWWmNHXzREaURSNTdSb2huWnFWTnpNM1hneVI0RUdrUk1TTTVqQmZSdlp5RE1IZGI0eG5Nc1U4Mk5yQWdaNVpyT0h1WkN2bVhocV9RSWJiWHItaVQ5dnVXVTFQWWNhTGRsSENMWTQwVFQzX0EtMjZJSlhWMzh4ekt0OW9rdXFVclRYbThvNFhZcGZXOGRiakFvUFBJWDg4SnVIcGdLSW0tbzN6QnZtZ0ZPZUE?oc=5
 
 Banking sector stocks today, August 17: J&K Bank falls over 3%, SBI, PNB and Bank of Baroda decline Business Upturn
-
-### 58. Pharma sector stocks today, August 17: Ipca Labs jumps 6%, Orchid Pharma falls nearly 7%, J.B. Chemicals down 3.87% - Business Upturn
-
-- Source: Business Upturn
-- Published: 2026-08-17T05:34:14+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWnBvZ1JSS05lRnlPZ1JDOVNUaDJHVDhiRERYNGlDZlFrRFcydkRKZmRnbExBWEd4czc3N2RpLXQ5VzBQb1p4dFZESWlzeVQ2VjFlVzdDODNYdlpMRVFYZHpqU3ZBN3JSUXhhSGFvWjF6ZlVQeTktZEwzbEhmTE5FTWF3QVVWRldKMVV2ek40REhTVVRkYTZVaU42RkpGQlFDLXpoV1B3WUpvZURIUFZEejVkTUpxbDBpSjJNLWE2aWgzVkRnQUJYdHo5eVkwbGVfRURuMUhBUC1GV1VNT3ZGS2JvbWJucktnQ0cxUg?oc=5
-
-Pharma sector stocks today, August 17: Ipca Labs jumps 6%, Orchid Pharma falls nearly 7%, J.B. Chemicals down 3.87% Business Upturn
 
 ### 59. Mesoblast Shares Jump 8.82% on ASX as Biotech Rebounds From Friday's Sharp Selloff Tied to State Street Filing - International Business Times Australia
 
@@ -676,17 +676,7 @@ Stock Target: Smallcap Stock to Buy Now With 59% Upside, Recommended by PL Capit
 
 ASX 200 Slides for Fourth Straight Session as Earnings Season Heats Up and Wall Street Pulls Back From Highs International Business Times Australia
 
-### 68. Nifty 50 Inches Lower at the Open as Indian Equities Edge Into the Red - Business Upturn
-
-- Source: Business Upturn
-- Published: 2026-08-17T03:44:20+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNYU52U2JaRm5keklOZmNwc1pzejc0RnRfcU9GNGZZdzh6bkl5cTBzdHl5U3hBT0NfMFgwMGFGUFM5b1BVaFYxT2kxZE1Xb2l3cFUzOTYzY05WTDBMV1pJOEtXa0VHVTdsSTJkd040MU1NUnN3VklNV3owNEotejE2RWNta29PdVBEbVVPTHU0MGFYTTAtRUxId2FYRVNRZjhaUnVYNUg2bXV3ZkZkWk9ZbnFQZW9zbGZqWi1UMw?oc=5
-
-Nifty 50 Inches Lower at the Open as Indian Equities Edge Into the Red Business Upturn
-
-### 69. Stock recommendations for 17 August from MarketSmith India - TradingView
+### 68. Stock recommendations for 17 August from MarketSmith India - TradingView
 
 - Source: TradingView
 - Published: 2026-08-17T03:36:00+00:00
@@ -696,7 +686,7 @@ Nifty 50 Inches Lower at the Open as Indian Equities Edge Into the Red Business 
 
 Stock recommendations for 17 August from MarketSmith India TradingView
 
-### 70. Asian Stocks Stall as Oil Risk Grows: Is the Rally Over? - Mitrade
+### 69. Asian Stocks Stall as Oil Risk Grows: Is the Rally Over? - Mitrade
 
 - Source: Mitrade
 - Published: 2026-08-17T03:32:45+00:00
@@ -706,7 +696,7 @@ Stock recommendations for 17 August from MarketSmith India TradingView
 
 Asian Stocks Stall as Oil Risk Grows: Is the Rally Over? Mitrade
 
-### 71. Stocks to buy for short term: BDL, Bata India among 3 shares Anand Rathi's Jigar Patel recommends for the next 1-2 weeks - livemint.com
+### 70. Stocks to buy for short term: BDL, Bata India among 3 shares Anand Rathi's Jigar Patel recommends for the next 1-2 weeks - livemint.com
 
 - Source: livemint.com
 - Published: 2026-08-17T03:13:49+00:00
@@ -716,7 +706,7 @@ Asian Stocks Stall as Oil Risk Grows: Is the Rally Over? Mitrade
 
 Stocks to buy for short term: BDL, Bata India among 3 shares Anand Rathi's Jigar Patel recommends for the next 1-2 weeks livemint.com
 
-### 72. Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guide market sentiment this... - Moneycontrol.com
+### 71. Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guide market sentiment this... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T03:01:57+00:00
@@ -726,7 +716,7 @@ Stocks to buy for short term: BDL, Bata India among 3 shares Anand Rathi's Jigar
 
 Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guide market sentiment this... Moneycontrol.com
 
-### 73. Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guide market sentiment this week - TradingView
+### 72. Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guide market sentiment this week - TradingView
 
 - Source: TradingView
 - Published: 2026-08-17T03:01:00+00:00
@@ -736,7 +726,7 @@ Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guid
 
 Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guide market sentiment this week TradingView
 
-### 74. Alibaba to sell gaming arm for US$1.5bil in boost to AI pivot - Free Malaysia Today
+### 73. Alibaba to sell gaming arm for US$1.5bil in boost to AI pivot - Free Malaysia Today
 
 - Source: Free Malaysia Today
 - Published: 2026-08-17T02:28:00+00:00
@@ -746,7 +736,7 @@ Moneycontrol Pro Market Outlook | Geopolitical uncertainty and oil surge to guid
 
 Alibaba to sell gaming arm for US$1.5bil in boost to AI pivot Free Malaysia Today
 
-### 75. Could Thrive Tribe Technologies (ASX:1TT) Strengthen Capital Flexibility After Its Placement Correction? - Kalkine Media
+### 74. Could Thrive Tribe Technologies (ASX:1TT) Strengthen Capital Flexibility After Its Placement Correction? - Kalkine Media
 
 - Source: Kalkine Media
 - Published: 2026-08-17T01:18:00+00:00
@@ -756,7 +746,7 @@ Alibaba to sell gaming arm for US$1.5bil in boost to AI pivot Free Malaysia Toda
 
 Could Thrive Tribe Technologies (ASX:1TT) Strengthen Capital Flexibility After Its Placement Correction? Kalkine Media
 
-### 76. Daily Voice: Until earnings catch up with valuations, market ceiling is arithmetic, not geopolitical, says... - Moneycontrol.com
+### 75. Daily Voice: Until earnings catch up with valuations, market ceiling is arithmetic, not geopolitical, says... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T01:11:03+00:00
@@ -766,7 +756,7 @@ Could Thrive Tribe Technologies (ASX:1TT) Strengthen Capital Flexibility After I
 
 Daily Voice: Until earnings catch up with valuations, market ceiling is arithmetic, not geopolitical, says... Moneycontrol.com
 
-### 77. FPIs pour Rs 16,621-cr in first half of August - The Hans India
+### 76. FPIs pour Rs 16,621-cr in first half of August - The Hans India
 
 - Source: The Hans India
 - Published: 2026-08-16T17:51:42+00:00
@@ -776,7 +766,7 @@ Daily Voice: Until earnings catch up with valuations, market ceiling is arithmet
 
 FPIs pour Rs 16,621-cr in first half of August The Hans India
 
-### 78. Silver Price Forecast: AI Boom Puts $100 Back in Sight - FXEmpire
+### 77. Silver Price Forecast: AI Boom Puts $100 Back in Sight - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-08-16T16:00:00+00:00
@@ -786,7 +776,7 @@ FPIs pour Rs 16,621-cr in first half of August The Hans India
 
 Silver Price Forecast: AI Boom Puts $100 Back in Sight FXEmpire
 
-### 79. FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August - The Times of India
+### 78. FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August - The Times of India
 
 - Source: The Times of India
 - Published: 2026-08-16T15:38:00+00:00
@@ -796,7 +786,7 @@ Silver Price Forecast: AI Boom Puts $100 Back in Sight FXEmpire
 
 FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August The Times of India
 
-### 80. MercadoLibre's Billion-Dollar Revenue Milestone Arrives With a Profit Problem - ad-hoc-news.de
+### 79. MercadoLibre's Billion-Dollar Revenue Milestone Arrives With a Profit Problem - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-08-16T15:32:49+00:00
@@ -805,3 +795,13 @@ FPIs turn buyers again, pump Rs 16,621 crore into Indian equities in August The 
 - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPMnBZbWpLSEZlLU1IdlhzZVZXa1NVSmtKOWhUZFVxVmZ3SXo1ek1GZ0syTzhMWkJlUXlCNDdfTk1Wa0NHRXhMVDZidlVROHFycXFQQ25aVzV5UUJ0LV9nMjdPOFNfMjdRU0FMSmhueV9jNFQ5RTJSbUtYUU5tY0RoM3pSQ2s4dzEtY0ZKcVVyeC1VRE1oY001M1E0RU5lSmdXM1M2aEpOOW9qdFdRa1VlaDZaM3dOclRSLWN3VVA4UXZ4RlVfYl94Q1dnZll1Y2Jnd3JHR0dxeGQ?oc=5
 
 MercadoLibre's Billion-Dollar Revenue Milestone Arrives With a Profit Problem ad-hoc-news.de
+
+### 80. From ₹1 lakh to ₹34 lakh in Nifty 100 over two decades: What the 2008 and Covid crashes teach investors - livemint.com
+
+- Source: livemint.com
+- Published: 2026-08-16T14:27:08+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNNUFBRGxMa2xBYWd5OVJpNlBxQ0puUVM1WlNxVzlTR29LWkxwblc1N0RsWXVfZ2NRbG9PbXpjNll5SEFhY2haYmdxajl4Mk0xWmNrOG1LZ0JVTERNbVNjV0QxT3loU1d1UGV2dFBTTDc0eFBiTXIyaFpEMkRwa3JDbkI2QVBheTlXcGVtc0VOUXRtNlQwWE5RbHZCeGhLcXJJTWlER1IwUXdoZk9qUEM3TGpnU01oQ0ZLblJ5T29WczRwbDBmZ3Z6elAtQUdCQldmNTF6eVl5elNVUktNa25yS2xOcmMwYXlJTXJNZlBPZEkzaUIweXlid1lHN0jSAYICQVVfeXFMUDhsTDdDTmoxVVB1aDFoZ3ZwSzJxREFLOUJ4dnZDSDQtZXg0MlM4cnJuRFNQVzRidmNUNkR2OFIxNEpMR0RRcElyaVZQREM4dUVMb1ZpTzh1WE5tT2lodFBlU1ZJYUpvWmRHR0xmb01UYlBlR3V3ZUZvUE1qdHFfMGpjeFBOdnJjQzFrSGNwSW1Cc0dkZ2tGV3dRWXVpNTd6SjUwMmJFNjhaOEhxM194NWUxUk9DZ0g0TzJLemJjbnBFU0NtRU4tM3JfRTlEV1FwNXZ6THlwd05wUmZEX1NpdU1ZVmszTTBQMkRDQU9KSWIwbDk3Vm1tY3JmenBPZzJ6bE1R?oc=5
+
+From ₹1 lakh to ₹34 lakh in Nifty 100 over two decades: What the 2008 and Covid crashes teach investors livemint.com
