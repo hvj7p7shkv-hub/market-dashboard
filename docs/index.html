@@ -331,6 +331,8 @@
       h1 { font-size: 20px; line-height: 1.2; }
       main { padding: 12px 12px 28px; gap: 12px; }
       .grid, .two-col, .three-col, .metric-grid { grid-template-columns: 1fr; }
+      #marketHealthPanel { order: -2; }
+      #narrative { order: -1; }
       .topbar { grid-template-columns: 1fr; }
       .header-actions { display: grid; grid-template-columns: 1fr 1fr; justify-content: stretch; }
       .stance, .refresh-panel { min-width: 0; padding: 8px 10px; box-shadow: none; }
@@ -374,7 +376,7 @@
   </header>
   <main>
     <section class="grid" id="narrative"></section>
-    <section class="panel">
+    <section class="panel" id="marketHealthPanel">
       <div class="section-title">
         <h2 class="title-with-info">Market Health + Leadership Deployment <button type="button" class="info-button" data-help="Combines broad Nifty 500 health with the number and quality of genuine leaders to guide how much capital may be deployed." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span id="researchAsOf">Fixed current Nifty 500</span>
