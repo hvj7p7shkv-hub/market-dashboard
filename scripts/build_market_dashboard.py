@@ -998,6 +998,9 @@ def nifty500_file_market_date(path: Path) -> str:
 
 
 def find_latest_nifty500_rotation() -> Path | None:
+    explicit_latest = NIFTY500_ROTATION_DIR / "latest-nifty500-rotation.csv"
+    if explicit_latest.exists():
+        return explicit_latest
     candidates = list(NIFTY500_ROTATION_DIR.glob("*nifty500-rotation.csv"))
     if not candidates:
         return None

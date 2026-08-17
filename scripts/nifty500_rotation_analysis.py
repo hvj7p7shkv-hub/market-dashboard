@@ -733,6 +733,8 @@ def main() -> int:
             f"({coverage:.0%}); rotation snapshot was not overwritten. Universe CSV: {universe_path}"
         )
     data.to_csv(output, index=False)
+    latest_output = args.output_dir / "latest-nifty500-rotation.csv"
+    data.to_csv(latest_output, index=False)
     if args.breadth_leadership_output:
         args.breadth_leadership_output.parent.mkdir(parents=True, exist_ok=True)
         current_snapshot = breadth_leadership_payload(data, expected_count, benchmark_ticker)
@@ -746,6 +748,7 @@ def main() -> int:
     print(f"Excluded date mismatches: {date_mismatch_count}")
     print(f"Universe CSV: {universe_path}")
     print(f"Rotation CSV: {output}")
+    print(f"Latest rotation CSV: {latest_output}")
     if args.breadth_leadership_output:
         print(f"Market health snapshot: {args.breadth_leadership_output}")
     return 0
