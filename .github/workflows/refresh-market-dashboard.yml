@@ -72,6 +72,7 @@ jobs:
           python scripts/nifty500_rotation_analysis.py
           --period 1y
           --output-dir data/nifty500_rotation
+          --breadth-leadership-output data/market_dashboard/breadth_leadership_snapshot.json
           --universe-csv data/nifty500_universe/ind_nifty500list.csv
           --min-coverage 0.85
 

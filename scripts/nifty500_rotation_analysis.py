@@ -10,6 +10,7 @@ import argparse
 import contextlib
 import datetime as dt
 import io
+import json
 import math
 import os
 import re
@@ -264,6 +265,25 @@ def clean_volume(frame: pd.DataFrame, close_index: pd.Index) -> pd.Series:
     return volume.reindex(close_index).fillna(0).astype(float)
 
 
+def supertrend_bullish(frame: pd.DataFrame, close: pd.Series, length: int = 20, multiplier: float = 2.5) -> bool:
+    high = get_series(frame, "High").reindex(close.index).astype(float)
+    low = get_series(frame, "Low").reindex(close.index).astype(float)
+    if high.isna().any() or low.isna().any() or len(close) < length + 2:
+        return False
+    tr = pd.concat([(high - low), (high - close.shift()).abs(), (low - close.shift()).abs()], axis=1).max(axis=1)
+    atr = tr.ewm(alpha=1 / length, adjust=False, min_periods=length).mean()
+    upper = ((high + low) / 2 + multiplier * atr).to_numpy()
+    lower = ((high + low) / 2 - multiplier * atr).to_numpy()
+    values = close.to_numpy()
+    final_upper, final_lower = upper.copy(), lower.copy()
+    bullish = [False] * len(close)
+    for index in range(1, len(close)):
+        final_upper[index] = upper[index] if upper[index] < final_upper[index - 1] or values[index - 1] > final_upper[index - 1] else final_upper[index - 1]
+        final_lower[index] = lower[index] if lower[index] > final_lower[index - 1] or values[index - 1] < final_lower[index - 1] else final_lower[index - 1]
+        bullish[index] = values[index] > (final_lower[index] if bullish[index - 1] else final_upper[index])
+    return bool(bullish[-1])
+
+
 def extract_ticker_frame(downloaded: pd.DataFrame, ticker: str, single_ticker: bool) -> pd.DataFrame:
     if downloaded.empty:
         return pd.DataFrame()
@@ -477,8 +497,19 @@ def analyse(
         avg_volume_20 = latest_rolling(volume, 20)
         turnover_proxy = latest * latest_volume
         sma_20 = latest_rolling(close, 20)
+        sma_10 = latest_rolling(close, 10)
         sma_50 = latest_rolling(close, 50)
+        sma_100 = latest_rolling(close, 100)
         sma_200 = latest_rolling(close, 200)
+        sma_200_previous = float(close.rolling(200).mean().iloc[-21]) if len(close) >= 220 else None
+        high_20 = float(close.rolling(20).max().iloc[-1])
+        all_time_high = float(close.max())
+        rs_20_series = ratio.pct_change(20, fill_method=None) * 100 if has_benchmark else pd.Series(dtype=float)
+        rs_acceleration = (
+            float(rs_20_series.iloc[-1] - rs_20_series.iloc[-21])
+            if len(rs_20_series.dropna()) >= 21 and pd.notna(rs_20_series.iloc[-21])
+            else None
+        )
         rs_sma_50 = latest_rolling(ratio, 50) if has_benchmark else None
         rsi_now = float(rsi_series.iloc[-1]) if not rsi_series.empty else None
         rsi_5d_ago = float(rsi_series.iloc[-6]) if len(rsi_series) >= 6 else None
@@ -502,11 +533,19 @@ def analyse(
             "turnover_proxy": round_value(turnover_proxy, 2),
             "rsi_14": round_value(rsi_now),
             "rsi_5d_ago": round_value(rsi_5d_ago),
+            "above_sma_10": bool(sma_10 and latest > sma_10),
             "above_sma_20": bool(sma_20 and latest > sma_20),
             "above_sma_50": bool(sma_50 and latest > sma_50),
+            "above_sma_100": bool(sma_100 and latest > sma_100) if sma_100 else None,
             "above_sma_200": bool(sma_200 and latest > sma_200) if sma_200 else None,
             "distance_sma_20_pct": round_value((latest / sma_20 - 1) * 100) if sma_20 else None,
             "distance_sma_50_pct": round_value((latest / sma_50 - 1) * 100) if sma_50 else None,
+            "ma200_roc20_pct": round_value((sma_200 / sma_200_previous - 1) * 100) if sma_200 and sma_200_previous else None,
+            "supertrend_bullish": supertrend_bullish(frame, close),
+            "new_high20": bool(latest >= high_20),
+            "within_3pct_ath": bool(latest >= all_time_high * 0.97),
+            "at_ath": bool(latest >= all_time_high * 0.999),
+            "rs_acceleration_pct": round_value(rs_acceleration),
             "rs_ratio": round_value(float(ratio.iloc[-1]), 8) if has_benchmark and len(ratio) else None,
             "rs_ratio_sma_50": round_value(rs_sma_50, 8),
             "rs_distance_sma_50_pct": round_value((float(ratio.iloc[-1]) / rs_sma_50 - 1) * 100)
@@ -517,6 +556,13 @@ def analyse(
             if has_benchmark and len(ratio)
             else None,
         }
+        row["trend_raw"] = (
+            float(bool(row["above_sma_50"]))
+            + float(bool(sma_50 and sma_200 and sma_50 > sma_200))
+            + float(bool(row["ma200_roc20_pct"] is not None and row["ma200_roc20_pct"] > 0))
+        ) / 3
+        row["breakout_raw"] = (float(row["new_high20"]) + float(row["within_3pct_ath"])) / 2
+        row["volume_raw"] = row["volume_ratio_20d"]
         if scan_setups is not None:
             row.update(scan_setups(frame))
         row["rotation_signal"] = signal_for(row)
@@ -535,6 +581,72 @@ def analyse(
     return data.reset_index(drop=True), benchmark_ticker, benchmark_date
 
 
+def breadth_leadership_payload(data: pd.DataFrame, expected_count: int, benchmark_ticker: str) -> dict[str, object]:
+    eligible = data[data["downloaded"].fillna(False).astype(bool)].copy()
+    eligible["woe"] = (
+        eligible[["above_sma_10", "above_sma_20", "supertrend_bullish"]].fillna(False).astype(bool).sum(axis=1)
+        + (pd.to_numeric(eligible["rsi_14"], errors="coerce") >= 50)
+    )
+    eligible["constructive"] = eligible["woe"] >= 3
+    eligible["sector_rs"] = eligible.groupby("sector")["rs_return_20d_pct"].transform("mean")
+    factors = {
+        "stock_rs": "rs_return_20d_pct",
+        "rs_acceleration": "rs_acceleration_pct",
+        "sector_theme_rs": "sector_rs",
+        "ath_new_high": None,
+        "trend_structure": "trend_raw",
+        "breakout_base_quality": "breakout_raw",
+        "volume_confirmation": "volume_raw",
+    }
+    eligible["ath_new_high_raw"] = eligible["within_3pct_ath"].astype(float) + eligible["new_high20"].astype(float)
+    for name, column in factors.items():
+        source = eligible["ath_new_high_raw"] if column is None else pd.to_numeric(eligible[column], errors="coerce")
+        eligible[f"{name}_percentile"] = source.rank(pct=True, method="average") * 100
+    rank_columns = [f"{name}_percentile" for name in factors]
+    eligible["leader_score"] = eligible[rank_columns].mean(axis=1)
+    eligible = eligible.sort_values("leader_score", ascending=False).reset_index(drop=True)
+    eligible["rank"] = range(1, len(eligible) + 1)
+    eligible["portfolio_rule"] = eligible["rank"].map(lambda rank: "Enter / hold" if rank <= 40 else "Hold if owned" if rank <= 60 else "Outside")
+    eligible["exceptional"] = (eligible["leader_score"] >= 85) & (eligible["woe"] >= 3) & (eligible["within_3pct_ath"] | eligible["new_high20"])
+    eligible["emerging"] = (eligible["leader_score"] >= 75) & (pd.to_numeric(eligible["rs_acceleration_pct"], errors="coerce") > 0) & (eligible["woe"] >= 3)
+    breadth: dict[str, object] = {}
+    for window in (50, 100, 200):
+        column = f"above_sma_{window}"
+        values = eligible[column].dropna()
+        breadth[f"above_sma{window}_pct"] = round(float(values.astype(bool).mean() * 100), 2) if len(values) else None
+        breadth[f"above_sma{window}_eligible"] = int(len(values))
+    breadth.update({
+        "ma200_rising_pct": round(float((pd.to_numeric(eligible["ma200_roc20_pct"], errors="coerce") > 0).mean() * 100), 2),
+        "ma200_roc20_avg_pct": round(float(pd.to_numeric(eligible["ma200_roc20_pct"], errors="coerce").mean()), 2),
+        "new_high20_pct": round(float(eligible["new_high20"].mean() * 100), 2),
+        "at_ath_pct": round(float(eligible["at_ath"].mean() * 100), 2),
+        "within_3pct_ath_pct": round(float(eligible["within_3pct_ath"].mean() * 100), 2),
+        "momentum20_avg_pct": round(float(pd.to_numeric(eligible["return_20d_pct"], errors="coerce").mean()), 2),
+        "momentum20_dispersion_pct": round(float(pd.to_numeric(eligible["return_20d_pct"], errors="coerce").std()), 2),
+        "equilibrium_pct": 50.0, "oversold_zone_pct": 15.0, "overbought_zone_pct": 85.0,
+    })
+    constructive_pct = round(float(eligible["constructive"].mean() * 100), 2)
+    exceptional_count = int(eligible["exceptional"].sum())
+    emerging_count = int(eligible["emerging"].sum())
+    weak_market = (breadth["above_sma50_pct"] or 0) < 50 or constructive_pct < 45
+    broad_healthy = (breadth["above_sma50_pct"] or 0) >= 60 and (breadth["above_sma200_pct"] or 0) >= 55 and constructive_pct >= 60
+    if weak_market and exceptional_count == 0: deployment = "Cash / defensive"
+    elif weak_market: deployment = "Concentrated partial exposure"
+    elif broad_healthy and exceptional_count + emerging_count >= 20: deployment = "Broad/full exposure eligible"
+    elif exceptional_count + emerging_count >= 10: deployment = "Progressively increase exposure"
+    else: deployment = "Selective partial exposure"
+    records = lambda frame: json.loads(frame.to_json(orient="records"))
+    as_of_date = str(eligible["last_date"].max()) if len(eligible) else ""
+    return {
+        "as_of_date": as_of_date,
+        "universe": {"definition": "Fixed current Nifty 500", "expected": expected_count, "analysed": len(eligible), "source": "latest live rotation download"},
+        "market_health": {"woe_constructive_pct": constructive_pct, "woe_3_or_4_count": int(eligible["constructive"].sum()), "deployment_posture": deployment},
+        "breadth": breadth,
+        "leadership": {"exceptional_count": exceptional_count, "emerging_count": emerging_count, "ath_or_near_ath_count": int(eligible["within_3pct_ath"].sum()), "rs_positive_count": int((pd.to_numeric(eligible["rs_return_20d_pct"], errors="coerce") > 0).sum()), "top40_enter": records(eligible.head(40)), "top60_hold": records(eligible.head(60)), "exceptional": records(eligible[eligible["exceptional"]].head(25)), "emerging": records(eligible[eligible["emerging"]].head(25))},
+        "methodology": {"woe": ["Close > SMA10", "Close > SMA20", "Supertrend(20,2.5) bullish", "RSI14 >= 50"], "constructive_threshold": "WOE >= 3/4", "leader_model": "Cross-sectional percentile ranks, equal average; Top 40 enter / Top 60 remain; equal weight; weekly review.", "benchmark_ticker": benchmark_ticker},
+    }
+
+
 def main() -> int:
     parser = argparse.ArgumentParser(description="Analyse Nifty 500 stock rotation.")
     parser.add_argument("--index", default=DEFAULT_INDEX, help="NSE index name. Default: NIFTY 500.")
@@ -546,6 +658,12 @@ def main() -> int:
         help="Comma-separated Yahoo benchmark fallbacks.",
     )
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument(
+        "--breadth-leadership-output",
+        type=Path,
+        default=None,
+        help="Optional current Market Health + Leadership JSON generated from this same live download.",
+    )
     parser.add_argument(
         "--universe-csv",
         type=Path,
@@ -615,6 +733,12 @@ def main() -> int:
             f"({coverage:.0%}); rotation snapshot was not overwritten. Universe CSV: {universe_path}"
         )
     data.to_csv(output, index=False)
+    if args.breadth_leadership_output:
+        args.breadth_leadership_output.parent.mkdir(parents=True, exist_ok=True)
+        current_snapshot = breadth_leadership_payload(data, expected_count, benchmark_ticker)
+        args.breadth_leadership_output.write_text(
+            json.dumps(current_snapshot, indent=2, ensure_ascii=False), encoding="utf-8"
+        )
     print(f"Nifty 500 constituents: {expected_count}")
     print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
     print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
@@ -622,6 +746,8 @@ def main() -> int:
     print(f"Excluded date mismatches: {date_mismatch_count}")
     print(f"Universe CSV: {universe_path}")
     print(f"Rotation CSV: {output}")
+    if args.breadth_leadership_output:
+        print(f"Market health snapshot: {args.breadth_leadership_output}")
     return 0
 
 
