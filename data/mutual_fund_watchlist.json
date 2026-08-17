@@ -1,34 +1,42 @@
 [
   {
-    "label": "HDFC Nifty 500 Index",
-    "query": "HDFC Nifty 500 Index Fund Direct Growth"
+    "label": "HDFC BSE 500 Index",
+    "query": "HDFC BSE 500 Index Fund Growth Option Direct Plan",
+    "scheme_code": "151728"
   },
   {
     "label": "HDFC Nifty 500 Multicap 50:25:25",
-    "query": "HDFC Nifty 500 Multicap 50:25:25 Index Fund Direct Growth"
+    "query": "HDFC NIFTY500 Multicap 50:25:25 Index Fund Direct Plan",
+    "scheme_code": "152778"
   },
   {
     "label": "Motilal Oswal Nifty 500 Index",
-    "query": "Motilal Oswal Nifty 500 Index Fund Direct Growth"
+    "query": "Motilal Oswal Nifty 500 Index Fund Direct Plan",
+    "scheme_code": "147625"
   },
   {
     "label": "ICICI Prudential Nifty 500 Index",
-    "query": "ICICI Prudential Nifty 500 Index Fund Direct Growth"
+    "query": "ICICI Prudential Nifty 500 Index Fund Direct Plan Growth",
+    "scheme_code": "153161"
   },
   {
     "label": "Nippon India Nifty 500 Equal Weight",
-    "query": "Nippon India Nifty 500 Equal Weight Index Fund Direct Growth"
+    "query": "Nippon India Nifty 500 Equal Weight Index Fund Direct Plan Growth Option",
+    "scheme_code": "152842"
   },
   {
     "label": "HDFC Flexi Cap",
-    "query": "HDFC Flexi Cap Fund Direct Growth"
+    "query": "HDFC Flexi Cap Fund Growth Option Direct Plan",
+    "scheme_code": "118955"
   },
   {
-    "label": "HDFC Mid-Cap Opportunities",
-    "query": "HDFC Mid-Cap Opportunities Fund Direct Growth"
+    "label": "HDFC Mid Cap",
+    "query": "HDFC Mid Cap Fund Growth Option Direct Plan",
+    "scheme_code": "118989"
   },
   {
     "label": "HDFC Small Cap",
-    "query": "HDFC Small Cap Fund Direct Growth"
+    "query": "HDFC Small Cap Fund Growth Option Direct Plan",
+    "scheme_code": "130503"
   }
 ]

@@ -30,6 +30,8 @@ MUTUAL_FUND_NAV_DIR = DATA_ROOT / "mutual_fund_navs"
 NIFTY50_ROTATION_DIR = DATA_ROOT / "nifty50_rotation"
 NIFTY500_ROTATION_DIR = DATA_ROOT / "nifty500_rotation"
 BEAR_DASHBOARD_NOTES_DIR = DATA_ROOT / "bear_dashboard_notes"
+LIVE_MARKET_SNAPSHOT = DATA_ROOT / "live_market" / "latest-live-market-snapshot.json"
+BREADTH_LEADERSHIP_SNAPSHOT = DEFAULT_OUTPUT_DIR / "breadth_leadership_snapshot.json"
 
 os.environ.setdefault("MPLCONFIGDIR", str(ROOT / "work" / "matplotlib"))
 warnings.filterwarnings("ignore", message="urllib3 v2 only supports OpenSSL")
@@ -81,6 +83,53 @@ def clean_number(value):
         return None
 
 
+def load_live_market_snapshot(path: Path | None) -> dict[str, object]:
+    if path is None or not path.exists():
+        return {}
+    try:
+        payload = json.loads(path.read_text(encoding="utf-8"))
+    except (OSError, json.JSONDecodeError):
+        return {}
+    return payload if isinstance(payload, dict) else {}
+
+
+def merge_breadth_layers(
+    eod_layer: dict[str, object],
+    live_layer: dict[str, object] | None,
+) -> dict[str, object]:
+    """Keep EOD structure metrics while replacing participation with live data."""
+    merged = dict(eod_layer or {})
+    eod_summary = dict(merged.get("summary") or {})
+    eod_as_of = str(eod_summary.get("as_of_date") or "")
+    live_layer = live_layer or {}
+    live_summary = dict(live_layer.get("summary") or {})
+    live_as_of = str(live_summary.get("as_of_date") or "")
+    if live_as_of and eod_as_of and live_as_of < eod_as_of:
+        eod_summary["technical_as_of_date"] = eod_as_of
+        eod_summary["breadth_layer"] = "EOD cache (newer than live snapshot)"
+        merged["summary"] = eod_summary
+        merged["alerts"] = []
+        return merged
+    if not live_summary:
+        eod_summary["technical_as_of_date"] = eod_as_of
+        eod_summary["breadth_layer"] = "EOD fallback"
+        merged["summary"] = eod_summary
+        merged["alerts"] = []
+        return merged
+
+    eod_summary.update(live_summary)
+    eod_summary["advance_decline_ratio"] = live_summary.get("ad_ratio")
+    eod_summary["technical_as_of_date"] = eod_as_of
+    eod_summary["breadth_as_of_timestamp"] = live_summary.get("as_of_timestamp", "")
+    eod_summary["breadth_layer"] = "Live/delayed"
+    merged["summary"] = eod_summary
+    merged["sector_breadth"] = live_layer.get("sector_breadth") or merged.get("sector_breadth") or []
+    merged["alerts"] = live_layer.get("alerts") or []
+    merged["live_leaders"] = live_layer.get("leaders") or []
+    merged["live_laggards"] = live_layer.get("laggards") or []
+    return merged
+
+
 def pct_return(series: pd.Series, days: int):
     clean = series.dropna()
     if len(clean) <= days:
@@ -123,8 +172,41 @@ def usable_index_rows(indices: list[dict[str, object]]) -> list[dict[str, object
     return [
         row
         for row in indices
-        if not row.get("is_stale") and not row.get("is_outlier")
+        if not row.get("is_stale")
     ]
+
+
+def align_index_dates_with_region(indices: list[dict[str, object]]) -> dict[str, str]:
+    """Exclude an older quote when peers from the same region have a newer session."""
+    reference_dates: dict[str, str] = {}
+    for row in indices:
+        region = str(row.get("region") or "Other")
+        last_date = str(row.get("last_date") or "")
+        if last_date and last_date > reference_dates.get(region, ""):
+            reference_dates[region] = last_date
+    for row in indices:
+        region = str(row.get("region") or "Other")
+        last_date = str(row.get("last_date") or "")
+        reference_date = reference_dates.get(region, "")
+        row["region_reference_date"] = reference_date
+        if last_date and reference_date and last_date < reference_date:
+            row["is_stale"] = True
+            note = f"older than the {region} session ({reference_date})"
+            existing = str(row.get("data_note") or "").strip()
+            row["data_note"] = "; ".join(part for part in [existing, note] if part)
+    return reference_dates
+
+
+def india_reference_date(indices: list[dict[str, object]]) -> str:
+    for row in indices:
+        if row.get("ticker") == "^NSEI" and row.get("last_date"):
+            return str(row["last_date"])
+    india_dates = [
+        str(row.get("last_date"))
+        for row in indices
+        if row.get("region") in {"India", "India Sectors"} and row.get("last_date")
+    ]
+    return max(india_dates) if india_dates else ""
 
 
 def find_latest_wires() -> Path | None:
@@ -191,7 +273,26 @@ def latest_wire_slice(wires: list[dict[str, object]]) -> tuple[str, list[dict[st
 
 def title_contains(row: dict[str, object], terms: list[str]) -> bool:
     text = f"{row.get('title', '')} {row.get('description', '')}".lower()
-    return any(term in text for term in terms)
+    return any(re.search(rf"\b{re.escape(term.lower())}\b", text) for term in terms)
+
+
+def unique_wires(wires: list[dict[str, object]]) -> list[dict[str, object]]:
+    """Keep the newest copy of syndicated headlines without hiding the raw wire list."""
+    seen: set[str] = set()
+    rows: list[dict[str, object]] = []
+    for row in sorted(wires, key=lambda item: str(item.get("published", "")), reverse=True):
+        key = re.sub(r"[^a-z0-9]+", " ", str(row.get("title", "")).lower()).strip()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        rows.append(row)
+    return rows
+
+
+def wire_stamp(row: dict[str, object]) -> str:
+    published = str(row.get("published", "")).strip()
+    match = re.match(r"(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})", published)
+    return f"{match.group(1)} {match.group(2)}" if match else published[:16]
 
 
 def sample_title(wires: list[dict[str, object]], terms: list[str]) -> str:
@@ -203,7 +304,7 @@ def sample_title(wires: list[dict[str, object]], terms: list[str]) -> str:
 
 def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]:
     latest_date, latest_wires = latest_wire_slice(wires)
-    scoped_wires = latest_wires or wires
+    scoped_wires = unique_wires(latest_wires or wires)
     counts = market_theme_counts(scoped_wires)
     top_titles = " ".join(str(row.get("title", "")).lower() for row in scoped_wires[:40])
     asia_ai = any(term in top_titles for term in ["kospi", "nikkei", "chip", "semiconductor", "ai"])
@@ -215,10 +316,24 @@ def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]
     )
     items = []
     date_text = f" for {latest_date}" if latest_date else ""
+    if scoped_wires:
+        newest = scoped_wires[0]
+        source = str(newest.get("source", "")).strip()
+        source_text = f" · {source}" if source else ""
+        items.append(
+            {
+                "label": f"Newest Wire · {wire_stamp(newest)}",
+                "title": str(newest.get("title", "")).strip(),
+                "text": (
+                    f"Latest dated headline{source_text}. Today's unique wire set contains "
+                    f"{len(scoped_wires)} headlines; the cards below are recalculated from this same set."
+                ),
+            }
+        )
     if india_relief and asia_ai:
         items.append(
             {
-                "label": "Latest Wire Bias",
+                "label": f"Wire Bias · {latest_date}" if latest_date else "Wire Bias",
                 "title": "India relief, global AI overhang",
                 "text": (
                     f"The latest wire slice{date_text} has {counts['India market']} India-market wires, "
@@ -230,7 +345,7 @@ def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]
     elif india_relief:
         items.append(
             {
-                "label": "Latest Wire Bias",
+                "label": f"Wire Bias · {latest_date}" if latest_date else "Wire Bias",
                 "title": "India relief is leading the tape",
                 "text": (
                     f"The latest wire slice{date_text} is being led by India recovery language, with "
@@ -241,7 +356,7 @@ def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]
     elif counts["market selling"] or counts["AI / tech risk"]:
         items.append(
             {
-                "label": "Latest Wire Bias",
+                "label": f"Wire Bias · {latest_date}" if latest_date else "Wire Bias",
                 "title": "Risk-off still dominates the wires",
                 "text": (
                     f"The latest wire slice{date_text} has {counts['market selling']} selling/risk wires and "
@@ -253,7 +368,7 @@ def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]
         title = sample_title(scoped_wires, ["kospi", "nikkei", "chip", "semiconductor", "ai"])
         items.append(
             {
-                "label": "Dominant Wire",
+                "label": f"AI / Chips · {latest_date}" if latest_date else "AI / Chips",
                 "title": "Asian AI and chip risk-off",
                 "text": f"AI/chip-linked selling is still the key external risk cluster. Representative wire: {title}",
             }
@@ -262,7 +377,7 @@ def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]
         title = sample_title(scoped_wires, ["crude", "oil", "brent"])
         items.append(
             {
-                "label": "India Trigger",
+                "label": f"India Trigger · {latest_date}" if latest_date else "India Trigger",
                 "title": "Crude is the local swing factor",
                 "text": f"Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: {title}",
             }
@@ -271,7 +386,7 @@ def narrative_from_wires(wires: list[dict[str, object]]) -> list[dict[str, str]]
         title = sample_title(scoped_wires, ["fii", "fpi", "flows", "rupee"])
         items.append(
             {
-                "label": "Flows",
+                "label": f"Flows · {latest_date}" if latest_date else "Flows",
                 "title": "Foreign-flow and risk appetite lens",
                 "text": f"Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: {title}",
             }
@@ -295,18 +410,57 @@ def download_index_history(period: str, max_stale_days: int, outlier_pct: float)
     for region, name, ticker in INDEX_TICKERS:
         try:
             with contextlib.redirect_stdout(io.StringIO()), contextlib.redirect_stderr(io.StringIO()):
-                data = yf.download(ticker, period=period, auto_adjust=False, progress=False, timeout=25)
-            if data.empty:
+                daily = yf.download(ticker, period=period, auto_adjust=False, progress=False, timeout=25)
+                intraday = yf.download(
+                    ticker,
+                    period="5d",
+                    interval="5m",
+                    auto_adjust=False,
+                    progress=False,
+                    timeout=25,
+                )
+            if daily.empty:
                 continue
-            close = yf_series(data, "Close")
-            if close.empty:
-                close = yf_series(data, "Adj Close")
-            if close.empty:
+            raw_close = yf_series(daily, "Close")
+            adjusted_close = yf_series(daily, "Adj Close")
+            if adjusted_close.empty:
+                adjusted_close = raw_close.copy()
+            intraday_close = yf_series(intraday, "Close")
+            if raw_close.empty or adjusted_close.empty:
                 continue
-            last_date = close.index[-1].date()
+
+            quote_type = "Yahoo daily-close fallback"
+            if not intraday_close.empty:
+                quote_timestamp = pd.Timestamp(intraday_close.index[-1])
+                last_date = quote_timestamp.date()
+                last = float(intraday_close.iloc[-1])
+                previous_candidates = [
+                    float(value)
+                    for index, value in raw_close.items()
+                    if pd.Timestamp(index).date() < last_date
+                ]
+                previous = previous_candidates[-1] if previous_candidates else math.nan
+                quote_type = "Yahoo 5-minute quote"
+            else:
+                quote_timestamp = pd.Timestamp(raw_close.index[-1])
+                last_date = quote_timestamp.date()
+                last = float(raw_close.iloc[-1])
+                previous = float(raw_close.iloc[-2]) if len(raw_close) >= 2 else math.nan
+
+            # EOD indicators use adjusted closes and exclude the quote session.
+            # That keeps corporate actions from looking like technical breaks
+            # and prevents partial intraday bars from rewriting rankings.
+            technical_close = adjusted_close[
+                [pd.Timestamp(index).date() < last_date for index in adjusted_close.index]
+            ]
+            if technical_close.empty:
+                technical_close = adjusted_close.iloc[:-1] if len(adjusted_close) > 1 else adjusted_close
+            if technical_close.empty:
+                continue
+            technical_last = float(technical_close.iloc[-1])
+            technical_date = pd.Timestamp(technical_close.index[-1]).date()
             stale_days = max((today - last_date).days, 0)
-            last = float(close.iloc[-1])
-            return_1d = pct_return(close, 1)
+            return_1d = (last / previous - 1) * 100 if math.isfinite(previous) and previous > 0 else None
             is_stale = stale_days > max_stale_days
             is_outlier = return_1d is not None and abs(return_1d) >= outlier_pct
             notes = []
@@ -319,24 +473,31 @@ def download_index_history(period: str, max_stale_days: int, outlier_pct: float)
                 "name": name,
                 "ticker": ticker,
                 "last_date": last_date.isoformat(),
+                "quote_timestamp": str(quote_timestamp),
+                "quote_type": quote_type,
+                "technical_as_of_date": technical_date.isoformat(),
+                "previous_close": round(previous, 2) if math.isfinite(previous) else None,
                 "last": round(last, 2),
                 "return_1d_pct": return_1d,
-                "return_5d_pct": pct_return(close, 5),
-                "return_20d_pct": pct_return(close, 20),
-                "rsi_14": round(float(rsi(close).iloc[-1]), 2),
+                "return_5d_pct": pct_return(technical_close, 5),
+                "return_20d_pct": pct_return(technical_close, 20),
+                "rsi_14": round(float(rsi(technical_close).iloc[-1]), 2),
                 "stale_days": stale_days,
                 "is_stale": is_stale,
                 "is_outlier": is_outlier,
                 "data_note": "; ".join(notes),
             }
             for window in (20, 50, 200):
-                ma = close.rolling(window).mean().iloc[-1]
+                ma = technical_close.rolling(window).mean().iloc[-1]
                 row[f"sma_{window}"] = None if math.isnan(ma) else round(float(ma), 2)
-                row[f"distance_sma_{window}_pct"] = None if math.isnan(ma) else round((last / float(ma) - 1) * 100, 2)
-                row[f"above_sma_{window}"] = None if math.isnan(ma) else bool(last > float(ma))
+                row[f"distance_sma_{window}_pct"] = (
+                    None if math.isnan(ma) else round((technical_last / float(ma) - 1) * 100, 2)
+                )
+                row[f"above_sma_{window}"] = None if math.isnan(ma) else bool(technical_last > float(ma))
             rows.append(row)
         except Exception:
             continue
+    align_index_dates_with_region(rows)
     return rows
 
 
@@ -400,7 +561,12 @@ def load_india_breadth_universe(path: Path, limit: int) -> list[tuple[str, str, 
     return rows
 
 
-def download_india_breadth(path: Path, limit: int, period: str = "3mo") -> dict[str, object]:
+def download_india_breadth(
+    path: Path,
+    limit: int,
+    period: str = "3mo",
+    expected_date: str = "",
+) -> dict[str, object]:
     universe = load_india_breadth_universe(path, limit)
     if yf is None or not universe:
         return {"summary": {}, "leaders": [], "laggards": [], "sector_breadth": [], "source_count": len(universe)}
@@ -413,7 +579,7 @@ def download_india_breadth(path: Path, limit: int, period: str = "3mo") -> dict[
                 continue
             if isinstance(data.columns, pd.MultiIndex):
                 data.columns = data.columns.get_level_values(0)
-            close = data["Adj Close"] if "Adj Close" in data else data["Close"]
+            close = data["Close"] if "Close" in data else data["Adj Close"]
             close = close.dropna().astype(float)
             volume = data["Volume"].reindex(close.index).fillna(0).astype(float) if "Volume" in data else pd.Series(0, index=close.index)
             if len(close) < 25:
@@ -429,6 +595,7 @@ def download_india_breadth(path: Path, limit: int, period: str = "3mo") -> dict[
                     "symbol": symbol,
                     "ticker": ticker,
                     "sector": sector,
+                    "last_date": close.index[-1].date().isoformat(),
                     "last": round(last, 2),
                     "return_1d_pct": round(ret_1d, 2),
                     "return_5d_pct": pct_return(close, 5),
@@ -442,6 +609,13 @@ def download_india_breadth(path: Path, limit: int, period: str = "3mo") -> dict[
             )
         except Exception:
             continue
+
+    raw_downloaded_count = len(rows)
+    date_counts = pd.Series([row["last_date"] for row in rows], dtype=str).value_counts().to_dict()
+    as_of_date = expected_date or (str(max(date_counts, key=date_counts.get)) if date_counts else "")
+    mismatched_date_count = sum(1 for row in rows if as_of_date and row.get("last_date") != as_of_date)
+    if as_of_date:
+        rows = [row for row in rows if row.get("last_date") == as_of_date]
 
     total = len(rows)
     advancers = [row for row in rows if (row.get("return_1d_pct") or 0) > 0]
@@ -474,6 +648,12 @@ def download_india_breadth(path: Path, limit: int, period: str = "3mo") -> dict[
         "summary": {
             "source_count": len(universe),
             "downloaded_count": total,
+            "raw_downloaded_count": raw_downloaded_count,
+            "as_of_date": as_of_date,
+            "expected_date": expected_date,
+            "date_aligned": bool(as_of_date and (not expected_date or as_of_date == expected_date)),
+            "date_counts": date_counts,
+            "excluded_date_mismatch": mismatched_date_count,
             "advancers": len(advancers),
             "decliners": len(decliners),
             "unchanged": total - len(advancers) - len(decliners),
@@ -549,10 +729,12 @@ def summarize_nifty500_breadth(data: pd.DataFrame, source_count: int) -> dict[st
             "above_50dma_pct": None,
             "above_200dma_pct": None,
             "sector_breadth": [],
+            "as_of_date": "",
         }
 
     rows = data.to_dict(orient="records")
     total = len(rows)
+    eligible_200 = [row for row in rows if clean_number(row.get("above_sma_200")) is not None]
     advancers = [row for row in rows if (clean_number(row.get("return_1d_pct")) or 0) > 0]
     decliners = [row for row in rows if (clean_number(row.get("return_1d_pct")) or 0) < 0]
     high_volume_decliners = [
@@ -613,6 +795,8 @@ def summarize_nifty500_breadth(data: pd.DataFrame, source_count: int) -> dict[st
             reverse=True,
         )
 
+    dates = [str(value) for value in data.get("last_date", pd.Series(dtype=str)).dropna() if str(value)]
+    as_of_date = max(set(dates), key=dates.count) if dates else ""
     return {
         "source_count": source_count,
         "downloaded_count": total,
@@ -636,12 +820,14 @@ def summarize_nifty500_breadth(data: pd.DataFrame, source_count: int) -> dict[st
         if total
         else None,
         "above_200dma_pct": round(
-            sum(1 for row in rows if boolish(row.get("above_sma_200"))) / total * 100,
+            sum(1 for row in eligible_200 if boolish(row.get("above_sma_200"))) / len(eligible_200) * 100,
             1,
         )
-        if total
+        if eligible_200
         else None,
+        "above_200dma_eligible": len(eligible_200),
         "sector_breadth": sector_rows[:15],
+        "as_of_date": as_of_date,
     }
 
 
@@ -803,12 +989,22 @@ def load_nifty50_rotation(path: Path | None, limit: int) -> dict[str, object]:
     }
 
 
+def nifty500_file_market_date(path: Path) -> str:
+    try:
+        dates = pd.read_csv(path, usecols=["last_date"])["last_date"].dropna().astype(str)
+    except Exception:
+        return ""
+    return str(dates.value_counts().index[0]) if not dates.empty else ""
+
+
 def find_latest_nifty500_rotation() -> Path | None:
-    candidates = sorted(NIFTY500_ROTATION_DIR.glob("*nifty500-rotation.csv"), key=lambda path: path.stat().st_mtime, reverse=True)
-    return candidates[0] if candidates else None
+    candidates = list(NIFTY500_ROTATION_DIR.glob("*nifty500-rotation.csv"))
+    if not candidates:
+        return None
+    return max(candidates, key=lambda path: (nifty500_file_market_date(path), path.stat().st_mtime))
 
 
-def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
+def load_nifty500_rotation(path: Path | None, limit: int, expected_date: str = "") -> dict[str, object]:
     empty = {
         "leaders": [],
         "composite_leaders": [],
@@ -825,6 +1021,9 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
         "coverage_pct": None,
         "benchmark_ticker": "",
         "summary": {},
+        "as_of_date": "",
+        "expected_date": expected_date,
+        "date_aligned": False,
     }
     if path is None or not path.exists():
         return empty
@@ -833,16 +1032,33 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
         empty["source_file"] = str(path)
         return empty
     data = data.where(pd.notna(data), None)
-    downloaded = (
+    raw_downloaded = (
         data[data["downloaded"].astype(str).str.lower().isin(["true", "1"])]
         if "downloaded" in data
         else data
     )
+    date_counts = (
+        raw_downloaded["last_date"].dropna().astype(str).value_counts().to_dict()
+        if "last_date" in raw_downloaded
+        else {}
+    )
+    as_of_date = expected_date or (str(max(date_counts, key=date_counts.get)) if date_counts else "")
+    downloaded = (
+        raw_downloaded[raw_downloaded["last_date"].astype(str) == as_of_date]
+        if as_of_date and "last_date" in raw_downloaded
+        else raw_downloaded
+    )
+    mismatched_date_count = int(len(raw_downloaded) - len(downloaded))
     downloaded_count = int(len(downloaded))
     total_count = int(len(data))
     coverage_pct = round(downloaded_count / total_count * 100, 1) if total_count else None
     summary = summarize_nifty500_breadth(downloaded, total_count)
     summary["coverage_pct"] = coverage_pct
+    summary["raw_downloaded_count"] = int(len(raw_downloaded))
+    summary["date_counts"] = date_counts
+    summary["excluded_date_mismatch"] = mismatched_date_count
+    summary["expected_date"] = expected_date
+    summary["date_aligned"] = bool(as_of_date and (not expected_date or as_of_date == expected_date))
 
     def sorted_frame(frame: pd.DataFrame, columns: list[str], ascending: list[bool]) -> pd.DataFrame:
         available = [column for column in columns if column in frame.columns]
@@ -931,6 +1147,9 @@ def load_nifty500_rotation(path: Path | None, limit: int) -> dict[str, object]:
         "coverage_pct": coverage_pct,
         "benchmark_ticker": benchmark_ticker,
         "summary": summary,
+        "as_of_date": as_of_date,
+        "expected_date": expected_date,
+        "date_aligned": bool(as_of_date and (not expected_date or as_of_date == expected_date)),
     }
 
 
@@ -965,6 +1184,7 @@ def load_bear_dashboard_notes(path: Path | None, limit: int, include_note_text: 
         if include_note_text:
             item["note"] = note.get("note", "")
         cleaned.append(item)
+    cleaned.sort(key=lambda item: str(item.get("modified", "")), reverse=True)
     return {
         "tag": payload.get("tag", ""),
         "generated_at": payload.get("generated_at", ""),
@@ -1100,6 +1320,8 @@ def html_page(payload: dict[str, object]) -> str:
     }}
     .stance b {{ display: block; font-size: 18px; }}
     main {{
+      width: 100%;
+      box-sizing: border-box;
       max-width: 1480px;
       margin: 0 auto;
       padding: 18px 28px 40px;
@@ -1112,6 +1334,9 @@ def html_page(payload: dict[str, object]) -> str:
       gap: 14px;
     }}
     .panel {{
+      min-width: 0;
+      max-width: 100%;
+      overflow-x: auto;
       background: var(--panel);
       border: 1px solid var(--line);
       border-radius: 8px;
@@ -1130,6 +1355,23 @@ def html_page(payload: dict[str, object]) -> str:
     }}
     .section-title h2 {{ margin: 0; font-size: 18px; }}
     .section-title span {{ color: var(--muted); font-size: 12px; }}
+    .title-with-info {{ display: inline-flex; align-items: center; gap: 7px; }}
+    .info-button {{
+      width: 19px; height: 19px; min-height: 19px; flex: 0 0 19px;
+      display: inline-grid; place-items: center; padding: 0;
+      border: 1px solid #b9c2b6; border-radius: 50%; background: #fff;
+      color: var(--muted); font-size: 12px; font-weight: 800; line-height: 1;
+    }}
+    .info-button:hover, .info-button:focus-visible, .info-button[aria-expanded="true"] {{
+      border-color: var(--blue); color: var(--blue); background: #f4f8fc; outline: none;
+    }}
+    .info-popover {{
+      position: fixed; z-index: 100; width: min(330px, calc(100vw - 24px));
+      padding: 12px 13px; border: 1px solid #cfd7cc; border-radius: 8px;
+      background: #fff; color: var(--ink); box-shadow: 0 8px 24px rgba(30, 45, 35, .18);
+      font-size: 13px; font-weight: 500; line-height: 1.45;
+    }}
+    .info-popover[hidden] {{ display: none; }}
     table {{ width: 100%; border-collapse: collapse; }}
     th, td {{ padding: 10px 12px; border-bottom: 1px solid #edf0ec; text-align: left; vertical-align: top; }}
     th {{ color: var(--muted); font-size: 12px; font-weight: 650; background: #fbfcfa; position: sticky; top: 86px; }}
@@ -1208,6 +1450,7 @@ def html_page(payload: dict[str, object]) -> str:
     .detail-cell {{ padding: 0; }}
     .detail-wrap {{ padding: 12px 16px 16px 48px; }}
     .detail-wrap table {{ background: #fff; border: 1px solid #e7ebe6; border-radius: 8px; overflow: hidden; }}
+    .detail-wrap table th {{ position: static; }}
     .detail-heading {{ color: var(--muted); font-size: 12px; margin-bottom: 8px; }}
     .wire-list {{ display: grid; gap: 10px; padding: 12px 16px 16px; }}
     .wire {{
@@ -1221,7 +1464,7 @@ def html_page(payload: dict[str, object]) -> str:
     }}
     .wire a {{ color: #174f7a; text-decoration: none; font-weight: 650; }}
     .wire a:hover {{ text-decoration: underline; }}
-    .source {{ color: var(--muted); font-size: 12px; }}
+    .source {{ color: var(--muted); font-size: 12px; overflow-wrap: anywhere; }}
     .data-warning {{ color: var(--red); font-weight: 700; }}
     .score {{ font-variant-numeric: tabular-nums; color: var(--muted); }}
     .note-browser {{ display: grid; grid-template-columns: 320px 1fr; gap: 0; }}
@@ -1372,7 +1615,14 @@ def html_page(payload: dict[str, object]) -> str:
     <section class="grid" id="narrative"></section>
     <section class="panel">
       <div class="section-title">
-        <h2>Global Equity Breadth</h2>
+        <h2 class="title-with-info">Market Health + Leadership Deployment <button type="button" class="info-button" data-help="Combines broad Nifty 500 health with the number and quality of genuine leaders to guide how much capital may be deployed." aria-label="Explain this section" aria-expanded="false">i</button></h2>
+        <span id="researchAsOf">Fixed current Nifty 500</span>
+      </div>
+      <div id="breadthLeadership"></div>
+    </section>
+    <section class="panel">
+      <div class="section-title">
+        <h2 class="title-with-info">Global Equity Breadth <button type="button" class="info-button" data-help="Groups valid global indices by region. Returns, advancing versus declining indices, and moving-average participation show whether strength is broad or narrow." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span>Region-wise index map</span>
       </div>
       <div id="regionalBreadth"></div>
@@ -1380,21 +1630,21 @@ def html_page(payload: dict[str, object]) -> str:
     <section class="three-col">
       <div class="panel">
         <div class="section-title">
-          <h2>Global Leaders</h2>
+          <h2 class="title-with-info">Global Leaders <button type="button" class="info-button" data-help="The strongest valid global indices ranked by their latest one-day percentage move." aria-label="Explain this section" aria-expanded="false">i</button></h2>
           <span>1-day move</span>
         </div>
         <div id="globalLeaders"></div>
       </div>
       <div class="panel">
         <div class="section-title">
-          <h2>Global Laggards</h2>
+          <h2 class="title-with-info">Global Laggards <button type="button" class="info-button" data-help="The weakest valid global indices ranked by their latest one-day percentage move." aria-label="Explain this section" aria-expanded="false">i</button></h2>
           <span>1-day move</span>
         </div>
         <div id="globalLaggards"></div>
       </div>
       <div class="panel">
         <div class="section-title">
-          <h2>India Breadth + Volume</h2>
+          <h2 class="title-with-info">India Breadth + Volume <button type="button" class="info-button" data-help="Shows how widely stocks participate in the Indian market move and whether unusual volume confirms that move." aria-label="Explain this section" aria-expanded="false">i</button></h2>
           <span>52W technical screen universe</span>
         </div>
         <div id="indiaBreadth"></div>
@@ -1402,28 +1652,28 @@ def html_page(payload: dict[str, object]) -> str:
     </section>
     <section class="panel">
       <div class="section-title">
-        <h2>Mutual Fund NAV Monitor</h2>
+        <h2 class="title-with-info">Mutual Fund NAV Monitor <button type="button" class="info-button" data-help="Tracks selected AMFI mutual-fund NAVs across short and medium horizons. These are end-of-day fund returns, not intraday prices." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span>AMFI NAV movement</span>
       </div>
       <div id="mutualFundNavs"></div>
     </section>
     <section class="panel">
       <div class="section-title">
-        <h2>Nifty 50 Rotation</h2>
+        <h2 class="title-with-info">Nifty 50 Rotation <button type="button" class="info-button" data-help="Ranks Nifty 50 stocks using relative strength, trend, RSI and volume to identify strengthening, extended, weakening and mean-reversion groups." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span>Relative strength, volume, RSI</span>
       </div>
       <div id="nifty50Rotation"></div>
     </section>
     <section class="panel">
       <div class="section-title">
-        <h2>Nifty 500 Breadth + Rotation</h2>
+        <h2 class="title-with-info">Nifty 500 Breadth + Rotation <button type="button" class="info-button" data-help="Measures participation across the fixed Nifty 500 universe and identifies stocks and sectors gaining or losing relative strength." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span>Full universe participation</span>
       </div>
       <div id="nifty500Rotation"></div>
     </section>
     <section class="panel">
       <div class="section-title">
-        <h2>Nifty 500 52-Week Highs</h2>
+        <h2 class="title-with-info">Nifty 500 52-Week Highs <button type="button" class="info-button" data-help="Separates fresh highs, near-high continuation candidates and laggards. More high-quality new highs generally indicate expanding leadership." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span>Technical leaders, highs, and laggards</span>
       </div>
       <div id="nseHighs"></div>
@@ -1431,14 +1681,14 @@ def html_page(payload: dict[str, object]) -> str:
     <section class="two-col">
       <div class="panel">
         <div class="section-title">
-          <h2>Market Technicals</h2>
+          <h2 class="title-with-info">Market Technicals <button type="button" class="info-button" data-help="Shows each index's recent return, placement versus its 20-day and 50-day averages, and 14-day RSI." aria-label="Explain this section" aria-expanded="false">i</button></h2>
           <span>Index placement</span>
         </div>
         <div id="indices"></div>
       </div>
       <div class="panel">
         <div class="section-title">
-          <h2>Leadership Watchlist</h2>
+          <h2 class="title-with-info">Leadership Watchlist <button type="button" class="info-button" data-help="A focused list of stocks showing strong relative strength and proximity to 52-week highs. It is a research watchlist, not an automatic buy list." aria-label="Explain this section" aria-expanded="false">i</button></h2>
           <span>52-week-high screen</span>
         </div>
         <div id="leaders"></div>
@@ -1446,14 +1696,14 @@ def html_page(payload: dict[str, object]) -> str:
     </section>
     <section class="panel">
       <div class="section-title">
-        <h2>Bear Watchlist Notes</h2>
+        <h2 class="title-with-info">Bear Watchlist Notes <button type="button" class="info-button" data-help="Your locally stored Bear research notes and attached charts, ordered by most recently modified." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span id="bearNoteCount"></span>
       </div>
       <div id="bearNotes"></div>
     </section>
     <section class="panel">
       <div class="section-title">
-        <h2>News Wires</h2>
+        <h2 class="title-with-info">News Wires <button type="button" class="info-button" data-help="Current market headlines grouped by theme. They provide context for price and breadth signals but do not independently determine exposure." aria-label="Explain this section" aria-expanded="false">i</button></h2>
         <span id="wireCount"></span>
       </div>
       <div class="wire-controls">
@@ -1470,6 +1720,7 @@ def html_page(payload: dict[str, object]) -> str:
     <button id="imageModalClose">Close</button>
     <img id="imageModalImg" alt="Expanded chart image">
   </div>
+  <div class="info-popover" id="infoPopover" role="tooltip" hidden></div>
   <script>
     /* DASHBOARD_PAYLOAD_START */
     const payload = {data_json};
@@ -1506,6 +1757,14 @@ def html_page(payload: dict[str, object]) -> str:
       }}
       status.textContent = 'Checking for newer data...';
       try {{
+        if (forceReload) {{
+          status.textContent = 'Refreshing wires and Bear notes...';
+          try {{
+            await fetch('/api/refresh', {{ method: 'POST', cache: 'no-store' }});
+          }} catch (refreshError) {{
+            // Static/GitHub hosting has no local refresh endpoint; reload the latest published payload.
+          }}
+        }}
         const response = await fetch(`market_dashboard_data.json?refresh=${{Date.now()}}`, {{ cache: 'no-store' }});
         if (!response.ok) throw new Error(`HTTP ${{response.status}}`);
         const latest = await response.json();
@@ -1529,6 +1788,73 @@ def html_page(payload: dict[str, object]) -> str:
     const cls = value => value === null || value === undefined || Number.isNaN(Number(value)) ? 'flat' : Number(value) > 0 ? 'pos' : Number(value) < 0 ? 'neg' : 'flat';
     const shortDate = value => (value || '').slice(0, 10);
     const esc = value => String(value ?? '').replace(/[&<>"']/g, char => ({{'&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;'}}[char]));
+    const infoPopover = document.getElementById('infoPopover');
+    let activeInfoButton = null;
+    function closeInfo() {{
+      infoPopover.hidden = true;
+      if (activeInfoButton) activeInfoButton.setAttribute('aria-expanded', 'false');
+      activeInfoButton = null;
+    }}
+    function openInfo(button) {{
+      if (activeInfoButton === button && !infoPopover.hidden) {{ closeInfo(); return; }}
+      closeInfo();
+      activeInfoButton = button;
+      button.setAttribute('aria-expanded', 'true');
+      infoPopover.textContent = button.dataset.help || '';
+      infoPopover.hidden = false;
+      const rect = button.getBoundingClientRect();
+      const width = Math.min(330, window.innerWidth - 24);
+      const left = Math.min(Math.max(12, rect.left), window.innerWidth - width - 12);
+      infoPopover.style.left = `${{left}}px`;
+      infoPopover.style.top = `${{Math.min(rect.bottom + 8, window.innerHeight - infoPopover.offsetHeight - 12)}}px`;
+    }}
+    document.addEventListener('click', event => {{
+      const button = event.target.closest('.info-button');
+      if (button) {{ event.stopPropagation(); openInfo(button); }} else if (!event.target.closest('#infoPopover')) closeInfo();
+    }});
+    document.addEventListener('keydown', event => {{ if (event.key === 'Escape') closeInfo(); }});
+    window.addEventListener('scroll', closeInfo, {{ passive: true }});
+    const metricHelp = {{
+      'Market WOE constructive': 'Percentage of stocks scoring at least 3 of 4: close above SMA10, close above SMA20, bullish Supertrend (20, 2.5), and RSI14 at or above 50.',
+      'Above SMA50': 'Percentage of the fixed Nifty 500 universe closing above its 50-day simple moving average. Around 50% is breadth equilibrium.',
+      'Above SMA100': 'Percentage of the fixed universe above its 100-day simple moving average; a medium-term participation measure.',
+      'Above SMA200': 'Percentage above the 200-day simple moving average; a long-term measure of market health.',
+      'MA200 rising': 'Percentage of stocks whose 200-day moving average is rising, showing whether long-term trends are improving.',
+      '20D new highs': 'Percentage of stocks making a new 20-trading-day high, used to detect fresh leadership.',
+      'Momentum average': 'Cross-sectional average 20-day stock return. Positive values mean the typical stock has upward momentum.',
+      'Momentum dispersion': 'Spread of 20-day returns across stocks. High dispersion means winners and losers are separating more widely.',
+      'Exceptional leaders': 'Stocks passing the strongest combined leadership-quality conditions, even if broad market breadth is weak.',
+      'Emerging leaders': 'Stocks whose relative strength and setup quality are improving but have not yet reached exceptional-leader status.',
+      'Near ATH': 'Number of stocks at or close to their all-time high, a sign of durable price leadership.',
+      'Positive RS vs Nifty': 'Number of stocks outperforming the Nifty benchmark over the model’s relative-strength window.'
+    }};
+    const research = payload.breadth_leadership || {{}};
+    const rb = research.breadth || {{}};
+    const rh = research.market_health || {{}};
+    const rl = research.leadership || {{}};
+    document.getElementById('researchAsOf').textContent = research.as_of_date ? `Fixed Nifty 500 · ${{research.as_of_date}}` : 'Fixed current Nifty 500';
+    const researchMetrics = [
+      ['Market WOE constructive', pct(rh.woe_constructive_pct)],
+      ['Above SMA50', pct(rb.above_sma50_pct)], ['Above SMA100', pct(rb.above_sma100_pct)], ['Above SMA200', pct(rb.above_sma200_pct)],
+      ['MA200 rising', pct(rb.ma200_rising_pct)], ['20D new highs', pct(rb.new_high20_pct)],
+      ['Momentum average', pct(rb.momentum20_avg_pct)], ['Momentum dispersion', pct(rb.momentum20_dispersion_pct)],
+      ['Exceptional leaders', rl.exceptional_count ?? 0], ['Emerging leaders', rl.emerging_count ?? 0],
+      ['Near ATH', rl.ath_or_near_ath_count ?? 0], ['Positive RS vs Nifty', rl.rs_positive_count ?? 0]
+    ].map(([label,value]) => `<div class="metric"><span class="eyebrow title-with-info">${{label}}<button type="button" class="info-button" data-help="${{esc(metricHelp[label] || '')}}" aria-label="Explain ${{esc(label)}}" aria-expanded="false">i</button></span><b>${{value}}</b></div>`).join('');
+    const researchLeaderRows = (rl.top40_enter || []).slice(0,15).map(row => `<tr>
+      <td><strong>${{esc(row.symbol)}}</strong><div class="source">${{esc(row.sector)}}</div></td><td class="num">${{row.rank}}</td>
+      <td class="num">${{Number(row.leader_score || 0).toFixed(1)}}</td><td class="num ${{cls(row.rs20_pct)}}">${{pct(row.rs20_pct)}}</td>
+      <td class="num ${{cls(row.rs_acceleration_pct)}}">${{pct(row.rs_acceleration_pct)}}</td><td class="num">${{row.woe}}/4</td>
+      <td>${{row.within_3pct_ath ? '<span class="pill leader">Near ATH</span>' : row.new_high20 ? '<span class="pill leader">20D high</span>' : ''}}</td>
+      <td><span class="pill ${{row.exceptional ? 'leader' : row.emerging ? 'watch' : 'neutral'}}">${{row.exceptional ? 'Exceptional' : row.emerging ? 'Emerging' : 'Leader'}}</span></td></tr>`).join('');
+    document.getElementById('breadthLeadership').innerHTML = research.as_of_date ? `
+      <div class="metric-grid">${{researchMetrics}}</div>
+      <div class="empty" style="margin:12px 16px;"><strong>Deployment posture: ${{esc(rh.deployment_posture || '')}}</strong><br>
+      Breadth equilibrium is 50%; oversold/overbought reference zones are 15%/85%. WOE is constructive at 3 of 4. Leadership uses equal-weight cross-sectional percentile ranks, weekly Top 40 entry / Top 60 retention.</div>
+      <div style="padding:0 16px 16px"><div class="detail-heading">RS, ATH and emerging leadership</div>
+      <table><thead><tr><th>Stock</th><th class="num">Rank</th><th class="num">Score</th><th class="num">RS 20D</th><th class="num">RS accel</th><th class="num">WOE</th><th>High status</th><th>Quality</th></tr></thead><tbody>${{researchLeaderRows}}</tbody></table></div>
+      <div class="two-col" style="padding:0 16px 16px"><div class="empty"><strong>Three drawdowns remain distinct</strong><br>Peak-to-trough NAV drawdown; Entry-Capital Drawdown measured from each deployment point; intra-trade drawdown measured within each open position.</div><div class="empty"><strong>Exposure ladder</strong><br>Weak + no leaders → cash · weak + exceptional leaders → concentrated partial exposure · expanding leadership → progressive exposure · broad health + strong leadership → full exposure eligible.</div></div>`
+      : '<div class="empty">Build the fixed-universe breadth and leadership snapshot to populate this section.</div>';
     const normalizeRef = value => decodeURIComponent(String(value || '').trim());
     const imageModal = document.getElementById('imageModal');
     const imageModalImg = document.getElementById('imageModalImg');
@@ -1539,6 +1865,10 @@ def html_page(payload: dict[str, object]) -> str:
     function openImageModal(src) {{
       imageModalImg.src = src;
       imageModal.classList.add('open');
+    }}
+    function versionedBearAsset(path) {{
+      const version = encodeURIComponent(String((payload.bear_watchlist_notes || {{}}).generated_at || payload.generated_at || 'current'));
+      return `${{path}}${{String(path).includes('?') ? '&' : '?'}}v=${{version}}`;
     }}
     function renderNoteContent(note, fullTextEnabled) {{
       const text = fullTextEnabled ? String(note.note || '') : String(note.excerpt || 'Full note text was not embedded in this dashboard build.');
@@ -1553,7 +1883,8 @@ def html_page(payload: dict[str, object]) -> str:
           if (!image) image = images[imageCursor];
           if (image && image.asset_path) {{
             imageCursor = images.indexOf(image) + 1;
-            blocks.push(`<img class="note-image" src="${{esc(image.asset_path)}}" alt="${{esc(note.title || 'Bear note image')}}" data-fullsrc="${{esc(image.asset_path)}}">`);
+            const imagePath = versionedBearAsset(image.asset_path);
+            blocks.push(`<img class="note-image" src="${{esc(imagePath)}}" alt="${{esc(note.title || 'Bear note image')}}" data-fullsrc="${{esc(imagePath)}}">`);
           }} else {{
             blocks.push(`<p>${{esc(line)}}</p>`);
           }}
@@ -1570,7 +1901,10 @@ def html_page(payload: dict[str, object]) -> str:
         }}
       }}
       if (!blocks.length && images.length) {{
-        images.forEach(image => blocks.push(`<img class="note-image" src="${{esc(image.asset_path)}}" alt="${{esc(note.title || 'Bear note image')}}" data-fullsrc="${{esc(image.asset_path)}}">`));
+        images.forEach(image => {{
+          const imagePath = versionedBearAsset(image.asset_path);
+          blocks.push(`<img class="note-image" src="${{esc(imagePath)}}" alt="${{esc(note.title || 'Bear note image')}}" data-fullsrc="${{esc(imagePath)}}">`);
+        }});
       }}
       return `<div class="note-content">${{blocks.join('')}}</div>`;
     }}
@@ -1581,6 +1915,8 @@ def html_page(payload: dict[str, object]) -> str:
     if (quality.index_stale) qualityParts.push(`stale indices ${{quality.index_stale}}`);
     if (quality.index_outliers) qualityParts.push(`outlier indices ${{quality.index_outliers}}`);
     if (quality.breadth_expected) qualityParts.push(`India breadth ${{quality.breadth_downloaded}}/${{quality.breadth_expected}}`);
+    if (quality.india_market_date) qualityParts.push(`India session ${{quality.india_market_date}}`);
+    if (quality.nifty500_expected) qualityParts.push(`Nifty 500 ${{quality.nifty500_downloaded}}/${{quality.nifty500_expected}}`);
     const coverageText = qualityParts.length ? ` | Coverage: ${{qualityParts.join(', ')}}` : '';
     document.getElementById('generated').textContent = `Generated ${{payload.generated_at}} from ${{payload.wire_file || 'wire data'}}${{coverageText}}`;
     document.getElementById('stance').textContent = payload.posture.stance;
@@ -1680,7 +2016,9 @@ def html_page(payload: dict[str, object]) -> str:
       ['Above 20DMA', pct(breadthSummary.above_20dma_pct)],
       ['Above 50DMA', pct(breadthSummary.above_50dma_pct)],
       ['Downloaded', `${{breadthSummary.downloaded_count ?? 0}} / ${{breadthSummary.source_count ?? 0}}`],
-      ['Down turnover share', pct(breadthSummary.down_turnover_share_pct)]
+      ['Down turnover share', pct(breadthSummary.down_turnover_share_pct)],
+      ['Live breadth as of', breadthSummary.breadth_as_of_timestamp || breadthSummary.as_of_date || 'Unavailable'],
+      ['EOD technicals as of', breadthSummary.technical_as_of_date || 'Unavailable']
     ];
     const breadthMetricHtml = breadthMetrics.map(([label, value]) => `
       <div class="metric"><span class="eyebrow">${{label}}</span><b>${{value}}</b></div>`).join('');
@@ -1691,13 +2029,22 @@ def html_page(payload: dict[str, object]) -> str:
         <td class="num ${{cls(row.average_1d_pct)}}">${{pct(row.average_1d_pct)}}</td>
         <td class="num">${{row.average_volume_ratio_20d ?? ''}}</td>
       </tr>`).join('');
+    const breadthAlertRows = (breadth.alerts || []).map(row => `
+      <tr>
+        <td><strong>${{row.symbol || row.name || ''}}</strong><div class="source">${{row.sector || ''}}</div></td>
+        <td class="num">${{row.ltp ?? ''}}</td>
+        <td class="num ${{cls(row.day_move_pct)}}">${{pct(row.day_move_pct)}}</td>
+        <td class="num">${{row.volume_ratio_20d == null ? '' : Number(row.volume_ratio_20d).toFixed(2) + 'x'}}</td>
+        <td>${{row.alert || ''}}</td>
+      </tr>`).join('');
     document.getElementById('indiaBreadth').innerHTML = breadthSummary.downloaded_count ? `
-      <div class="empty" style="padding:0 0 12px;">This is the current ranked technical-screen universe from <code>technical_ranked_summary.csv</code>, not the full Nifty 500. It downloaded ${{breadthSummary.downloaded_count ?? 0}} of ${{breadthSummary.source_count ?? 0}} stocks and measures market participation using advances/declines, turnover proxy, moving-average placement, and volume pressure.</div>
+      <div class="empty" style="padding:0 0 12px;">This is the ranked technical-screen universe, not the full Nifty 500. Advances/declines, LTP, turnover pressure, and volume are from the latest live/delayed snapshot. Moving-average placement remains fixed to the last completed EOD technical session.</div>
       <div class="metric-grid">${{breadthMetricHtml}}</div>
       <table>
         <thead><tr><th>Sector</th><th class="num">A/D</th><th class="num">Avg 1D</th><th class="num">Vol/20D</th></tr></thead>
         <tbody>${{sectorRows}}</tbody>
-      </table>` : '<div class="empty">India breadth and volume will populate after rebuilding from Terminal with network access. Current universe is the technical-ranked stock list.</div>';
+      </table>
+      ${{breadthAlertRows ? `<div class="detail-heading" style="padding:16px 16px 0;">Intraday exceptions</div><table><thead><tr><th>Stock</th><th class="num">LTP</th><th class="num">Move</th><th class="num">Vol/20D</th><th>Alert</th></tr></thead><tbody>${{breadthAlertRows}}</tbody></table>` : ''}}` : '<div class="empty">India breadth and volume will populate after the live-market refresh succeeds. The EOD technical file is retained separately.</div>';
 
     const mutualFunds = payload.mutual_fund_navs || {{}};
     const fundRows = (mutualFunds.funds || []).map(row => `
@@ -1801,7 +2148,9 @@ def html_page(payload: dict[str, object]) -> str:
       ['Above 50DMA', pct(rotation500Summary.above_50dma_pct)],
       ['Above 200DMA', pct(rotation500Summary.above_200dma_pct)],
       ['Downloaded', `${{rotation500Summary.downloaded_count ?? rotation500.downloaded_count ?? 0}} / ${{rotation500Summary.source_count ?? rotation500.count ?? 0}}`],
-      ['Down turnover share', pct(rotation500Summary.down_turnover_share_pct)]
+      ['Down turnover share', pct(rotation500Summary.down_turnover_share_pct)],
+      ['Breadth as of', rotation500Summary.breadth_as_of_timestamp || rotation500Summary.as_of_date || 'Unavailable'],
+      ['EOD technicals as of', rotation500Summary.technical_as_of_date || rotation500.as_of_date || 'Unavailable']
     ];
     const rotation500BreadthHtml = rotation500BreadthMetrics.map(([label, value]) => `
       <div class="metric"><span class="eyebrow">${{label}}</span><b>${{value}}</b></div>`).join('');
@@ -1820,13 +2169,22 @@ def html_page(payload: dict[str, object]) -> str:
     const rotation500LaggardRows = rotationRows(rotation500.laggards);
     const rotation500MeanRows = rotationRows(rotation500.mean_reversion);
     const rotation500RiskRows = rotationRows(rotation500.risk_review);
+    const rotation500AlertRows = (rotation500.alerts || []).map(row => `
+      <tr>
+        <td><strong>${{row.symbol || row.name || ''}}</strong><div class="source">${{row.sector || ''}}</div></td>
+        <td class="num">${{row.ltp ?? ''}}</td>
+        <td class="num ${{cls(row.day_move_pct)}}">${{pct(row.day_move_pct)}}</td>
+        <td class="num">${{row.volume_ratio_20d == null ? '' : Number(row.volume_ratio_20d).toFixed(2) + 'x'}}</td>
+        <td>${{row.alert || ''}}</td>
+      </tr>`).join('');
     document.getElementById('nifty500Rotation').innerHTML = rotation500.source_file ? `
       <div class="metric-grid">
         ${{rotation500BreadthHtml}}
       </div>
       <div class="empty" style="margin: 12px 16px;">
-        This is the full Nifty 500 downloaded universe, not the 52-week-high watchlist. The tables below keep the ideas separate: true RS leaders are strengthening versus ${{rotation500.benchmark_ticker || 'the benchmark'}}, setup candidates are near chart decision zones, and mean-reversion bounces are oversold recoveries.
+        This is the fixed current Nifty 500 universe. Participation, volume, RS, RSI, and moving averages use the cache through ${{rotation500Summary.as_of_date || rotation500.as_of_date || 'the latest completed session'}}. Data layer: ${{rotation500Summary.breadth_layer || 'EOD cache'}}. True RS leaders are strengthening versus ${{rotation500.benchmark_ticker || 'the benchmark'}}.
       </div>
+      ${{rotation500AlertRows ? `<div style="padding:0 16px 12px;"><div class="detail-heading">Intraday exceptions</div><table><thead><tr><th>Stock</th><th class="num">LTP</th><th class="num">Move</th><th class="num">Vol/20D</th><th>Alert</th></tr></thead><tbody>${{rotation500AlertRows}}</tbody></table></div>` : ''}}
       <div style="padding: 0 16px 12px;">
         <div class="detail-heading">Nifty 500 sector breadth</div>
         ${{rotation500SectorRows ? `<table><thead><tr><th>Sector</th><th class="num">A/D</th><th class="num">Avg 1D</th><th class="num">Above 50DMA</th><th class="num">Vol/20D</th></tr></thead><tbody>${{rotation500SectorRows}}</tbody></table>` : '<div class="empty">Sector breadth will appear after the next Nifty 500 refresh includes sector data.</div>'}}
@@ -2125,6 +2483,12 @@ def main() -> int:
         help="Minimum share of configured global indices that must download before replacing the dashboard.",
     )
     parser.add_argument(
+        "--min-valid-index-coverage",
+        type=float,
+        default=0.60,
+        help="Minimum share of configured indices that must pass date and outlier checks.",
+    )
+    parser.add_argument(
         "--max-index-stale-days",
         type=int,
         default=3,
@@ -2142,7 +2506,24 @@ def main() -> int:
         default=0.70,
         help="Minimum share of the Indian breadth universe that must download before replacing the dashboard.",
     )
+    parser.add_argument(
+        "--min-nifty500-coverage",
+        type=float,
+        default=0.70,
+        help="Minimum same-session Nifty 500 coverage required before replacing the dashboard.",
+    )
+    parser.add_argument(
+        "--require-aligned-market-date",
+        action="store_true",
+        help="Refuse to publish if Indian breadth datasets do not match the Nifty 50 market date.",
+    )
     parser.add_argument("--bear-notes", type=Path, default=None, help="Bear dashboard-notes JSON to include.")
+    parser.add_argument(
+        "--live-market-snapshot",
+        type=Path,
+        default=LIVE_MARKET_SNAPSHOT,
+        help="Live/delayed breadth, LTP, turnover, and alert snapshot.",
+    )
     parser.add_argument("--bear-notes-limit", type=int, default=80, help="Number of Bear watchlist notes to show.")
     parser.add_argument(
         "--include-bear-note-text",
@@ -2158,15 +2539,33 @@ def main() -> int:
     index_expected = len(INDEX_TICKERS)
     index_coverage = len(indices) / index_expected if index_expected else 0.0
     valid_indices = usable_index_rows(indices)
+    valid_index_coverage = len(valid_indices) / index_expected if index_expected else 0.0
     stale_indices = [row for row in indices if row.get("is_stale")]
     outlier_indices = [row for row in indices if row.get("is_outlier")]
+    india_market_date = india_reference_date(indices)
     if index_coverage < args.min_index_coverage:
         raise SystemExit(
             f"Index download coverage was {len(indices)}/{index_expected} "
             f"({index_coverage:.0%}); dashboard was not overwritten."
         )
+    if valid_index_coverage < args.min_valid_index_coverage:
+        raise SystemExit(
+            f"Valid index coverage was {len(valid_indices)}/{index_expected} "
+            f"({valid_index_coverage:.0%}) after date/outlier checks; dashboard was not overwritten."
+        )
+    if args.require_aligned_market_date and not india_market_date:
+        raise SystemExit("Nifty 50 market date was unavailable; dashboard was not overwritten.")
     leaders = load_leaders(TECHNICAL_SUMMARY, args.leaders)
-    india_breadth = download_india_breadth(TECHNICAL_SUMMARY, args.india_breadth_limit)
+    live_market = load_live_market_snapshot(args.live_market_snapshot)
+    india_breadth_eod = download_india_breadth(
+        TECHNICAL_SUMMARY,
+        args.india_breadth_limit,
+        expected_date="",
+    )
+    india_breadth = merge_breadth_layers(
+        india_breadth_eod,
+        live_market.get("tracked_screen") if live_market else None,
+    )
     breadth_summary = india_breadth.get("summary", {})
     breadth_expected = int(breadth_summary.get("source_count") or 0)
     breadth_downloaded = int(breadth_summary.get("downloaded_count") or 0)
@@ -2179,13 +2578,33 @@ def main() -> int:
     nse_highs = load_nse_highs(find_latest_nse_highs(), args.highs_limit)
     mutual_fund_navs = load_mutual_fund_navs(find_latest_mutual_fund_navs(), args.funds_limit)
     nifty50_rotation = load_nifty50_rotation(find_latest_nifty50_rotation(), args.rotation_limit)
-    nifty500_rotation = load_nifty500_rotation(find_latest_nifty500_rotation(), args.nifty500_rotation_limit)
+    nifty500_rotation_eod = load_nifty500_rotation(
+        find_latest_nifty500_rotation(),
+        args.nifty500_rotation_limit,
+        expected_date="",
+    )
+    nifty500_rotation = merge_breadth_layers(
+        nifty500_rotation_eod,
+        live_market.get("nifty500") if live_market else None,
+    )
+    nifty500_summary = nifty500_rotation.get("summary", {})
+    nifty500_expected = int(nifty500_summary.get("source_count") or nifty500_rotation.get("count") or 0)
+    nifty500_downloaded = int(
+        nifty500_summary.get("downloaded_count") or nifty500_rotation.get("downloaded_count") or 0
+    )
+    nifty500_coverage = nifty500_downloaded / nifty500_expected if nifty500_expected else 0.0
+    if args.require_aligned_market_date and nifty500_coverage < args.min_nifty500_coverage:
+        raise SystemExit(
+            f"Same-session Nifty 500 coverage was {nifty500_downloaded}/{nifty500_expected} "
+            f"({nifty500_coverage:.0%}) for {india_market_date}; dashboard was not overwritten."
+        )
     bear_notes_path = args.bear_notes or find_latest_bear_dashboard_notes()
     bear_watchlist_notes = load_bear_dashboard_notes(
         bear_notes_path,
         args.bear_notes_limit,
         args.include_bear_note_text,
     )
+    breadth_leadership = load_live_market_snapshot(BREADTH_LEADERSHIP_SNAPSHOT)
     payload = {
         "generated_at": dt.datetime.now(dt.timezone(dt.timedelta(hours=5, minutes=30))).strftime("%Y-%m-%d %H:%M IST"),
         "wire_file": wire_path.name if wire_path else "",
@@ -2196,9 +2615,18 @@ def main() -> int:
             "index_outliers": len(outlier_indices),
             "index_expected": index_expected,
             "index_coverage_pct": round(index_coverage * 100, 1),
+            "index_valid_coverage_pct": round(valid_index_coverage * 100, 1),
             "breadth_downloaded": breadth_downloaded,
             "breadth_expected": breadth_expected,
             "breadth_coverage_pct": round(breadth_coverage * 100, 1),
+            "india_market_date": india_market_date,
+            "breadth_as_of_date": breadth_summary.get("as_of_date", ""),
+            "breadth_date_mismatches": breadth_summary.get("excluded_date_mismatch", 0),
+            "nifty500_downloaded": nifty500_downloaded,
+            "nifty500_expected": nifty500_expected,
+            "nifty500_coverage_pct": round(nifty500_coverage * 100, 1),
+            "nifty500_as_of_date": nifty500_summary.get("as_of_date", ""),
+            "nifty500_date_mismatches": nifty500_summary.get("excluded_date_mismatch", 0),
         },
         "posture": market_posture(indices, wires),
         "narrative": narrative_from_wires(wires),
@@ -2210,6 +2638,8 @@ def main() -> int:
         "mutual_fund_navs": mutual_fund_navs,
         "nifty50_rotation": nifty50_rotation,
         "nifty500_rotation": nifty500_rotation,
+        "breadth_leadership": breadth_leadership,
+        "live_market": live_market,
         "bear_watchlist_notes": bear_watchlist_notes,
         "leaders": leaders,
         "wires": wires,

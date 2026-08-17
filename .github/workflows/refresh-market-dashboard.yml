@@ -68,10 +68,21 @@ jobs:
         run: python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation
 
       - name: Refresh Nifty 500 rotation
-        run: |
-          if ! python scripts/nifty500_rotation_analysis.py --period 1y --output-dir data/nifty500_rotation --universe-csv data/nifty500_universe/ind_nifty500list.csv --min-coverage 0.60; then
-            echo "::notice::Nifty 500 rotation could not be refreshed. The dashboard will use the latest available broad-market rotation snapshot."
-          fi
+        run: >-
+          python scripts/nifty500_rotation_analysis.py
+          --period 1y
+          --output-dir data/nifty500_rotation
+          --universe-csv data/nifty500_universe/ind_nifty500list.csv
+          --min-coverage 0.85
+
+      - name: Refresh live breadth and volume
+        run: >-
+          python scripts/live_market_snapshot.py
+          --tracked-universe data/batch_52w_technical/technical_ranked_summary.csv
+          --nifty500-universe data/nifty500_universe/ind_nifty500list.csv
+          --output data/live_market/latest-live-market-snapshot.json
+          --min-screen-coverage 0.70
+          --min-nifty500-coverage 0.70
 
       - name: Build dashboard snapshot
         run: >-
@@ -81,9 +92,13 @@ jobs:
           --india-breadth-limit 120
           --nifty500-rotation-limit 15
           --min-index-coverage 0.70
+          --min-valid-index-coverage 0.60
           --max-index-stale-days 3
           --index-outlier-pct 12
           --min-breadth-coverage 0.70
+          --min-nifty500-coverage 0.85
+          --live-market-snapshot data/live_market/latest-live-market-snapshot.json
+          --require-aligned-market-date
           --include-bear-note-text
           --bear-notes data/bear_dashboard_notes/latest-bear-watchlist-notes.json
 

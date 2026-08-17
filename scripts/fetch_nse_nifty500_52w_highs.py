@@ -196,10 +196,19 @@ def get_series(frame: pd.DataFrame, column: str) -> pd.Series:
     return pd.to_numeric(series, errors="coerce").dropna()
 
 
-def clean_close(frame: pd.DataFrame) -> pd.Series:
+def adjusted_close(frame: pd.DataFrame) -> pd.Series:
+    # Use adjusted closes for historical/EOD comparisons so corporate actions
+    # do not create false 52-week or momentum readings.
+    close = get_series(frame, "Adj Close")
+    if close.empty:
+        close = get_series(frame, "Close")
+    return close.astype(float)
+
+
+def raw_close(frame: pd.DataFrame) -> pd.Series:
     close = get_series(frame, "Close")
     if close.empty:
-        close = get_series(frame, "Adj Close")
+        close = adjusted_close(frame)
     return close.astype(float)
 
 
@@ -260,11 +269,12 @@ def compute_yahoo_rows(universe: pd.DataFrame, near_pct: float, period: str, chu
     for ticker in tickers:
         meta = lookup.get(ticker, {})
         frame = history.get(ticker, pd.DataFrame())
-        close = clean_close(frame)
+        close = raw_close(frame)
+        adjusted = adjusted_close(frame)
         high = get_series(frame, "High")
         low = get_series(frame, "Low")
         volume = get_series(frame, "Volume")
-        if len(close) < 20:
+        if len(close) < 20 or len(adjusted) < 20:
             continue
         high = high.reindex(close.index).dropna()
         low = low.reindex(close.index).dropna()

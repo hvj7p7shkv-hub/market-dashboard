@@ -1,7 +1,7 @@
 {
   "tag": "stocks/watchlist",
-  "generated_at": "2026-08-03 00:59",
-  "count": 39,
+  "generated_at": "2026-08-17 20:33",
+  "count": 51,
   "notes": [
     {
       "id": "F5D9DFBB-81D7-47A6-91C5-59B848F152B0",
@@ -292,21 +292,27 @@
     {
       "id": "E1BF4684-DA26-4568-A76C-11485EBE46E9",
       "title": "Gabriel",
-      "modified": "2026-07-21T08:51:31.723749Z",
+      "modified": "2026-08-03T11:13:17.652699Z",
       "bear_link": "bear://x-callback-url/open-note?id=E1BF4684-DA26-4568-A76C-11485EBE46E9",
-      "excerpt": "# Gabriel ## Observation - 2026-07-21 Stock: Gabriel India Action: Watching Observation: Looks like the stock is already in the middle of a strong uptrend and will need to wait to get an entry in the stock. --- ![](gabriel-india-strong-uptrend-2026-07-21.png) #stocks/watchlist/g...",
-      "note": "# Gabriel \n## Observation - 2026-07-21\n\nStock: Gabriel India\n\nAction: Watching\n\nObservation:\nLooks like the stock is already in the middle of a strong uptrend and will need to wait to get an entry in the stock.\n\n---\n\n![](gabriel-india-strong-uptrend-2026-07-21.png)\n\n#stocks/watchlist/gabriel\nLast updated - 15 july 2026\nstock looks good for the rally in the coming days. Has done well on the day when the overall markets were flat and the broader markets were still coming to terms with the restart of the hostilities between the US and Iran. \n![](image.png)",
+      "excerpt": "# Gabriel 3rd august 2026 Link to section [[3rd august market updates/Gabriel]] ![](image%202.png) - - - ## Observation - 2026-07-21 Stock: Gabriel India Action: Watching Observation: Looks like the stock is already in the middle of a strong uptrend and will need to wait to get...",
+      "note": "# Gabriel \n3rd august 2026 Link to section [[3rd august market updates/Gabriel]]\n![](image%202.png)\n- - -\n## Observation - 2026-07-21\n\nStock: Gabriel India\n\nAction: Watching\n\nObservation:\nLooks like the stock is already in the middle of a strong uptrend and will need to wait to get an entry in the stock.\n\n---\n\n![](gabriel-india-strong-uptrend-2026-07-21.png)\n\n#stocks/watchlist/gabriel\nLast updated - 15 july 2026\nstock looks good for the rally in the coming days. Has done well on the day when the overall markets were flat and the broader markets were still coming to terms with the restart of the hostilities between the US and Iran. \n![](image.png)",
       "images": [
+        {
+          "original_ref": "image 2.png",
+          "filename": "image 2.png",
+          "asset_path": "assets/gabriel-01-image-2-png.png",
+          "source_extension": "png"
+        },
         {
           "original_ref": "gabriel-india-strong-uptrend-2026-07-21.png",
           "filename": "gabriel-india-strong-uptrend-2026-07-21.png",
-          "asset_path": "assets/gabriel-01-gabriel-india-strong-uptrend-2026-07-21-png.png",
+          "asset_path": "assets/gabriel-02-gabriel-india-strong-uptrend-2026-07-21-png.png",
           "source_extension": "png"
         },
         {
           "original_ref": "image.png",
           "filename": "image.png",
-          "asset_path": "assets/gabriel-02-image-png.png",
+          "asset_path": "assets/gabriel-03-image-png.png",
           "source_extension": "png"
         }
       ],
@@ -410,10 +416,10 @@
     {
       "id": "DAA58978-8BCF-4B09-B588-C95BD362B90D",
       "title": "Karnataka Bank",
-      "modified": "2026-07-30T09:48:31.476349Z",
+      "modified": "2026-08-12T09:04:28.220432Z",
       "bear_link": "bear://x-callback-url/open-note?id=DAA58978-8BCF-4B09-B588-C95BD362B90D",
-      "excerpt": "# Karnataka Bank ## 2026-07-30 Action: Watching Observation: Breakout from resistance into all-time-high territory. The move is supported by a clear volume spike on the breakout, which strengthens the quality of the move. Watching for follow-through or a controlled retest of the...",
-      "note": "# Karnataka Bank\n## 2026-07-30\n\nAction: Watching\n\nObservation:\nBreakout from resistance into all-time-high territory. The move is supported by a clear volume spike on the breakout, which strengthens the quality of the move. Watching for follow-through or a controlled retest of the breakout zone before considering action.\n\n---\n\n#stocks/watchlist #stocks/watchlist/karnatakabank\n\n![](karnataka-bank-breakout-2026-07-30.jpg)",
+      "excerpt": "# Karnataka Bank #stocks #stocks/watchlist #stocks/watchlist/karnatakabank --- ## 2026-08-12 Action: Bought Observation: Continued strong uptrend — price has extended well above the July breakout zone, currently trading around ₹311.40 (+2.82% today), clear of the ₹285.90 and ₹21...",
+      "note": "# Karnataka Bank\n\n#stocks #stocks/watchlist #stocks/watchlist/karnatakabank\n\n---\n\n## 2026-08-12\n\nAction: Bought\n\nObservation:\nContinued strong uptrend — price has extended well above the July breakout zone, currently trading around ₹311.40 (+2.82% today), clear of the ₹285.90 and ₹219.82 resistance levels visible on the chart. No signs of a meaningful pullback since the original breakout; trend remains intact with steady higher highs.\n\nBought in personal portfolio at the current price today.\n\n---\n\n## 2026-07-30\n\nAction: Watching\n\nObservation:\nBreakout from resistance into all-time-high territory. The move is supported by a clear volume spike on the breakout, which strengthens the quality of the move. Watching for follow-through or a controlled retest of the breakout zone before considering action.\n\n![](karnataka-bank-breakout-2026-07-30.jpg)",
       "images": [
         {
           "original_ref": "karnataka-bank-breakout-2026-07-30.jpg",
@@ -484,15 +490,21 @@
     {
       "id": "2D398766-484D-4B3E-9AE8-7C3E788BA0EF",
       "title": "Sky gold",
-      "modified": "2026-07-02T15:01:42.914773Z",
+      "modified": "2026-08-03T11:48:38.569613Z",
       "bear_link": "bear://x-callback-url/open-note?id=2D398766-484D-4B3E-9AE8-7C3E788BA0EF",
-      "excerpt": "# Sky gold #stocks/watchlist/skygold Last updated 2nd july 2026 ![](0bb712a31c8fe543edd220e6316252769d0d8878.png)",
-      "note": "# Sky gold \n\n#stocks/watchlist/skygold\n\nLast updated 2nd july 2026 \n\n![](0bb712a31c8fe543edd220e6316252769d0d8878.png)",
+      "excerpt": "# Sky gold #stocks/watchlist/skygold ## 3 Aug 2026 ![](image%20copy%202.png) - - - Last updated 2nd july 2026 ![](0bb712a31c8fe543edd220e6316252769d0d8878.png)",
+      "note": "# Sky gold \n\n#stocks/watchlist/skygold\n\n\n## 3 Aug 2026\n![](image%20copy%202.png)\n\n\n- - -\nLast updated 2nd july 2026 \n\n![](0bb712a31c8fe543edd220e6316252769d0d8878.png)",
       "images": [
+        {
+          "original_ref": "image copy 2.png",
+          "filename": "image copy 2.png",
+          "asset_path": "assets/sky-gold-01-image-copy-2-png.png",
+          "source_extension": "png"
+        },
         {
           "original_ref": "0bb712a31c8fe543edd220e6316252769d0d8878.png",
           "filename": "0bb712a31c8fe543edd220e6316252769d0d8878.png",
-          "asset_path": "assets/sky-gold-01-0bb712a31c8fe543edd220e6316252769d0d8878-png.png",
+          "asset_path": "assets/sky-gold-02-0bb712a31c8fe543edd220e6316252769d0d8878-png.png",
           "source_extension": "png"
         }
       ],
@@ -622,7 +634,7 @@
     {
       "id": "3256577A-8AB9-4A5D-96A8-8B5A5746225F",
       "title": "Indusindbank",
-      "modified": "2026-07-18T14:32:58.444584Z",
+      "modified": "2026-08-07T12:41:39.258204Z",
       "bear_link": "bear://x-callback-url/open-note?id=3256577A-8AB9-4A5D-96A8-8B5A5746225F",
       "excerpt": "# Indusindbank Update - 2026-07-18 Breakout from resistance and now forming a flag pattern which it is breaking out from. Earnings date is close by, which can add volatility. Stock has broken out from the resistance zones and is now forming a consolidation flag pattern which is...",
       "note": "# Indusindbank\n\nUpdate - 2026-07-18\n\nBreakout from resistance and now forming a flag pattern which it is breaking out from. Earnings date is close by, which can add volatility.\n\n\nStock has broken out from the resistance zones and is now forming a consolidation flag pattern which is a good sign, as over the last couple of days a lot of the banking stocks have struggled due to the crude price rally on account of the US-Iran hostilities. The fact that this stock has been going well and just consolidating rather than falling sharply shows the investor interest in the stock and the coming days are likely to result in a good rally in the stock. \n\n#stocks/watchlist/indusindbank",
@@ -841,15 +853,21 @@
     {
       "id": "12952061-18CB-4BB0-AEAA-E0B247300A0C",
       "title": "ujjivan small finance bank",
-      "modified": "2026-08-02T18:34:19.232423Z",
+      "modified": "2026-08-14T12:36:51.520531Z",
       "bear_link": "bear://x-callback-url/open-note?id=12952061-18CB-4BB0-AEAA-E0B247300A0C",
-      "excerpt": "# ujjivan small finance bank ## Technical review - 2 Aug 2026 Technical status: Constructive volume-backed breakout Observation: The stock has broken above the resistance area near 67 with a visible expansion in volume and is consolidating above the breakout. That combination su...",
-      "note": "# ujjivan small finance bank\n## Technical review - 2 Aug 2026\n\nTechnical status: Constructive volume-backed breakout\n\nObservation:\nThe stock has broken above the resistance area near 67 with a visible expansion in volume and is consolidating above the breakout. That combination supports the current structure.\n\nWhat to watch:\nContinuation above the consolidation range would confirm renewed momentum. A sustained move back below the breakout area would suggest the market has not accepted the higher level.\n\nScope: Chart-based technical observation, not a recommendation.\n\n#stocks/watchlist #stocks/watchlist/ujjivansmallfinancebank\n\n2 Aug 2026\n ![](image.png)",
+      "excerpt": "# ujjivan small finance bank #stocks #stocks/watchlist #stocks/watchlist/ujjivansmallfinancebank --- ## 2026-08-12 Action: Watching — potential client-copy inclusion today Observation: Flag pattern appears to be maturing on the daily chart, price consolidating just below the ₹72...",
+      "note": "# ujjivan small finance bank\n\n#stocks #stocks/watchlist #stocks/watchlist/ujjivansmallfinancebank\n\n---\n\n## 2026-08-12\n\nAction: Watching — potential client-copy inclusion today\n\nObservation:\nFlag pattern appears to be maturing on the daily chart, price consolidating just below the ₹72.38 recent high after the breakout above the ₹67.67/66.95 resistance zone. Structure looks like it may be setting up for a breakout soon. Considering including this one in today's final client copy.\n\n![](ujjivan_sfb_20260814.png)\n\n---\n\n## 2026-08-02\n\nTechnical status: Constructive volume-backed breakout\n\nObservation:\nThe stock has broken above the resistance area near 67 with a visible expansion in volume and is consolidating above the breakout. That combination supports the current structure.\n\nWhat to watch:\nContinuation above the consolidation range would confirm renewed momentum. A sustained move back below the breakout area would suggest the market has not accepted the higher level.\n\nScope: Chart-based technical observation, not a recommendation.\n\n![](image.png)",
       "images": [
+        {
+          "original_ref": "ujjivan_sfb_20260814.png",
+          "filename": "ujjivan_sfb_20260814.png",
+          "asset_path": "assets/ujjivan-small-finance-bank-01-ujjivan-sfb-20260814-png.png",
+          "source_extension": "png"
+        },
         {
           "original_ref": "image.png",
           "filename": "image.png",
-          "asset_path": "assets/ujjivan-small-finance-bank-01-image-png.png",
+          "asset_path": "assets/ujjivan-small-finance-bank-02-image-png.png",
           "source_extension": "png"
         }
       ],
@@ -901,6 +919,269 @@
         "stocks",
         "stocks/watchlist",
         "stocks/watchlist/indianipponelectricals"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "4EAAB28D-CF87-4F47-A200-22C98A55B9B1",
+      "title": "Chennai Petroleum",
+      "modified": "2026-08-14T12:01:38.917958Z",
+      "bear_link": "bear://x-callback-url/open-note?id=4EAAB28D-CF87-4F47-A200-22C98A55B9B1",
+      "excerpt": "# Chennai Petroleum 3 Aug 2026 ![](image.png) [[Stock Watchlist Index]] #stocks #stocks/watchlist #stocks/watchlist/chennaipetroleum",
+      "note": "# Chennai Petroleum\n3 Aug 2026\n![](image.png)\n[[Stock Watchlist Index]]\n#stocks #stocks/watchlist #stocks/watchlist/chennaipetroleum",
+      "images": [
+        {
+          "original_ref": "image.png",
+          "filename": "image.png",
+          "asset_path": "assets/chennai-petroleum-01-image-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/chennaipetroleum"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "C4D183B6-8375-425A-B0D8-0F89D1F6CFD0",
+      "title": "Craftsman Automation",
+      "modified": "2026-08-03T11:37:03.550880Z",
+      "bear_link": "bear://x-callback-url/open-note?id=C4D183B6-8375-425A-B0D8-0F89D1F6CFD0",
+      "excerpt": "# Craftsman Automation #stocks/watchlist/craftsmanautomation 3 Aug 2026 ![](image%20copy.png)",
+      "note": "# Craftsman Automation\n#stocks/watchlist/craftsmanautomation \n3 Aug 2026\n![](image%20copy.png)",
+      "images": [
+        {
+          "original_ref": "image copy.png",
+          "filename": "image copy.png",
+          "asset_path": "assets/craftsman-automation-01-image-copy-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/craftsmanautomation"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "71AD4AD2-473B-45C7-A5A5-2B97C573B2F4",
+      "title": "Redington Limited",
+      "modified": "2026-08-03T11:41:30.325395Z",
+      "bear_link": "bear://x-callback-url/open-note?id=71AD4AD2-473B-45C7-A5A5-2B97C573B2F4",
+      "excerpt": "# Redington Limited #stocks/watchlist/redington 3 Aug 2026 ![](image%20copy%202.png)",
+      "note": "# Redington Limited\n#stocks/watchlist/redington\n3 Aug 2026\n![](image%20copy%202.png)",
+      "images": [
+        {
+          "original_ref": "image copy 2.png",
+          "filename": "image copy 2.png",
+          "asset_path": "assets/redington-limited-01-image-copy-2-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/redington"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "CB498959-ACA2-499D-ADE6-583ED43BA4C5",
+      "title": "pearl global",
+      "modified": "2026-08-03T11:54:00.597144Z",
+      "bear_link": "bear://x-callback-url/open-note?id=CB498959-ACA2-499D-ADE6-583ED43BA4C5",
+      "excerpt": "# pearl global #stocks/watchlist/pgil 3 Aug 2026 ![](image%203%20copy.png)",
+      "note": "# pearl global\n#stocks/watchlist/pgil\n\n3 Aug 2026\n\n![](image%203%20copy.png)",
+      "images": [
+        {
+          "original_ref": "image 3 copy.png",
+          "filename": "image 3 copy.png",
+          "asset_path": "assets/pearl-global-01-image-3-copy-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/pgil"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "0539BD54-6560-4AEE-BDCF-10AC01E2C4B9",
+      "title": "Panama Petrochem",
+      "modified": "2026-08-12T09:55:43.089898Z",
+      "bear_link": "bear://x-callback-url/open-note?id=0539BD54-6560-4AEE-BDCF-10AC01E2C4B9",
+      "excerpt": "# Panama Petrochem Broke out to a fresh all-time high (₹528.85, +4.76% on the week) after retesting the 2018 swing high (~₹238) as support in early 2026 and rallying off it. Prior swing high (~₹455–512) also cleared. Notably large volume spike at the recent low/breakout — bigges...",
+      "note": "# Panama Petrochem\n\nBroke out to a fresh all-time high (₹528.85, +4.76% on the week) after retesting the 2018 swing high (~₹238) as support in early 2026 and rallying off it. Prior swing high (~₹455–512) also cleared. Notably large volume spike at the recent low/breakout — biggest since 2017. Weekly chart, NSE, as of 10 Aug 2026.\n\n[[Stock Watchlist Index]]\n\n\n![](clip_20260811_155130.png)\n![](panama_petrochem_embed.png)\n\n#stocks #stocks/watchlist #stocks/watchlist/panamapetrochem",
+      "images": [
+        {
+          "original_ref": "clip_20260811_155130.png",
+          "filename": "clip_20260811_155130.png",
+          "asset_path": "assets/panama-petrochem-01-clip-20260811-155130-png.png",
+          "source_extension": "png"
+        },
+        {
+          "original_ref": "panama_petrochem_embed.png",
+          "filename": "panama_petrochem_embed.png",
+          "asset_path": "assets/panama-petrochem-02-panama-petrochem-embed-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/panamapetrochem"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "D1C7D59F-CB3C-42AA-BA1B-C5D6CFDD736F",
+      "title": "Bosch",
+      "modified": "2026-08-12T10:22:20.782760Z",
+      "bear_link": "bear://x-callback-url/open-note?id=D1C7D59F-CB3C-42AA-BA1B-C5D6CFDD736F",
+      "excerpt": "# Bosch #stocks #stocks/watchlist #stocks/watchlist/bosch --- ## 2026-08-12 Action: Watching Observation: Weekly chart. Broke out to a fresh all-time high (₹46,480, +8.22% on the week) after a multi-month base between ~₹35,190 and ₹41,555. Prior swing high (₹41,555) and the roun...",
+      "note": "# Bosch\n\n\n#stocks #stocks/watchlist #stocks/watchlist/bosch\n\n---\n\n## 2026-08-12\n\nAction: Watching\n\nObservation:\nWeekly chart. Broke out to a fresh all-time high (₹46,480, +8.22% on the week) after a multi-month base between ~₹35,190 and ₹41,555. Prior swing high (₹41,555) and the round-number ₹41,000 level cleared cleanly. Long multi-year structure: a rising channel through 2024, a pullback/base into 2025 that held the ₹28,390–30,970 zone as support, then a strong recovery back above ₹41,555 resistance and now extending to new highs.\n![](Bosch_latest_chart.png)",
+      "images": [
+        {
+          "original_ref": "Bosch_latest_chart.png",
+          "filename": "Bosch_latest_chart.png",
+          "asset_path": "assets/bosch-01-bosch-latest-chart-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/bosch"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "D9F21B87-C069-4461-B64E-F458A33032E0",
+      "title": "Pricol",
+      "modified": "2026-08-14T12:09:24.150560Z",
+      "bear_link": "bear://x-callback-url/open-note?id=D9F21B87-C069-4461-B64E-F458A33032E0",
+      "excerpt": "# Pricol #stocks #stocks/watchlist #stocks/watchlist/pricol --- ## 2026-08-14 Action: Watching Observation: Daily chart. Trading at a fresh all-time high (₹787.95, +3.00% today) after breaking out of a multi-month rising wedge/ascending triangle structure that had been forming s...",
+      "note": "# Pricol\n\n\n#stocks #stocks/watchlist #stocks/watchlist/pricol\n\n---\n\n## 2026-08-14\n\nAction: Watching\n\nObservation:\nDaily chart. Trading at a fresh all-time high (₹787.95, +3.00% today) after breaking out of a multi-month rising wedge/ascending triangle structure that had been forming since roughly February 2026 (support trendline from ~₹502 rising to ~₹611, resistance trendline from ~₹634 down to ~₹611, converging around the ₹600–620 zone). Sharp breakout move from ~₹611 resistance straight to new highs with strong follow-through, minimal pause.\n![](pricol_20260814.png)",
+      "images": [
+        {
+          "original_ref": "pricol_20260814.png",
+          "filename": "pricol_20260814.png",
+          "asset_path": "assets/pricol-01-pricol-20260814-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/pricol"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "6F251617-D2E9-4406-98DF-71B94B4017DD",
+      "title": "Vedant Fashions",
+      "modified": "2026-08-14T12:09:41.201587Z",
+      "bear_link": "bear://x-callback-url/open-note?id=6F251617-D2E9-4406-98DF-71B94B4017DD",
+      "excerpt": "# Vedant Fashions #stocks #stocks/watchlist #stocks/watchlist/vedantfashions --- ## 2026-08-14 Action: Watching Observation: Daily chart. Sharp breakout from a multi-month base/flag around the ₹374–440 zone, with a large volume spike and a strong impulsive move to ₹528.75 (+1.10...",
+      "note": "# Vedant Fashions\n\n\n#stocks #stocks/watchlist #stocks/watchlist/vedantfashions\n\n---\n\n## 2026-08-14\n\nAction: Watching\n\nObservation:\nDaily chart. Sharp breakout from a multi-month base/flag around the ₹374–440 zone, with a large volume spike and a strong impulsive move to ₹528.75 (+1.10% today). Stock had been in a prolonged downtrend from ~₹920 highs (early 2025) down to a low near ₹323 (March 2026), followed by a choppy basing/consolidation phase into August. Currently no clear overhead resistance immediately above on the near-term chart. Zooming out to the longer-term structure (2022–2026), the prior multi-year downtrend has clear structural levels at ₹722, ₹887 and ₹1,316.8. Realistic near-term price target: ₹722 — the first meaningful structural resistance zone above current price.\n![](vedant_fashions_20260814.png)",
+      "images": [
+        {
+          "original_ref": "vedant_fashions_20260814.png",
+          "filename": "vedant_fashions_20260814.png",
+          "asset_path": "assets/vedant-fashions-01-vedant-fashions-20260814-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/vedantfashions"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "4C4C39ED-2201-4C62-9E7F-F50D4381848B",
+      "title": "KDDL",
+      "modified": "2026-08-17T12:21:08.176907Z",
+      "bear_link": "bear://x-callback-url/open-note?id=4C4C39ED-2201-4C62-9E7F-F50D4381848B",
+      "excerpt": "# KDDL #stocks #stocks/watchlist #stocks/watchlist/kddl --- ## 2026-08-17 Action: Watching Observation: Daily chart. Fresh all-time high (₹4,084.6) — sharp new breakout from a multi-month consolidation. Prior structure: broke a gap around ₹2,600 in mid-2026, ran up to a ₹3,000–3...",
+      "note": "# KDDL\n\n\n#stocks #stocks/watchlist #stocks/watchlist/kddl\n\n---\n\n## 2026-08-17\n\nAction: Watching\n\nObservation:\nDaily chart. Fresh all-time high (₹4,084.6) — sharp new breakout from a multi-month consolidation. Prior structure: broke a gap around ₹2,600 in mid-2026, ran up to a ₹3,000–3,400 range, consolidated there for several weeks, then broke out again to fresh highs with a strong impulsive move above ₹3,600 resistance straight to ~₹4,000+. Longer-term context: stock had been range-bound between roughly ₹2,000 and ₹3,600 since 2023, so this is a genuine structural breakout above the multi-year range, not just a local high.\n\n\n![](kddl_20260817.png)",
+      "images": [
+        {
+          "original_ref": "kddl_20260817.png",
+          "filename": "kddl_20260817.png",
+          "asset_path": "assets/kddl-01-kddl-20260817-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/kddl"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "EBE1C847-3A47-4A66-93EC-F13A63BAA813",
+      "title": "Man Industries",
+      "modified": "2026-08-17T12:21:17.819776Z",
+      "bear_link": "bear://x-callback-url/open-note?id=EBE1C847-3A47-4A66-93EC-F13A63BAA813",
+      "excerpt": "# Man Industries #stocks #stocks/watchlist #stocks/watchlist/manindustries --- ## 2026-08-17 Action: Watching Observation: Daily chart. Fresh all-time high (₹630.35, +5.15% today) after clearing the ₹458.70 resistance level decisively — that level had capped multiple prior rally...",
+      "note": "# Man Industries\n\n\n#stocks #stocks/watchlist #stocks/watchlist/manindustries\n\n---\n\n## 2026-08-17\n\nAction: Watching\n\nObservation:\nDaily chart. Fresh all-time high (₹630.35, +5.15% today) after clearing the ₹458.70 resistance level decisively — that level had capped multiple prior rally attempts since 2024. Stock has been volatile and range-bound between roughly ₹200 and ₹460 since 2024, with a sharp base/consolidation around ₹280–295 in early-to-mid 2025 followed by a strong recovery. Current move is a clean breakout above the multi-year resistance zone (₹458.70) with continued follow-through to new highs, not just a local spike.\n![](man_industries_20260817.png)",
+      "images": [
+        {
+          "original_ref": "man_industries_20260817.png",
+          "filename": "man_industries_20260817.png",
+          "asset_path": "assets/man-industries-01-man-industries-20260817-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/manindustries"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "E7AE110D-3155-464E-A2F1-342E2881A1AC",
+      "title": "NRB Bearings",
+      "modified": "2026-08-17T12:21:23.583147Z",
+      "bear_link": "bear://x-callback-url/open-note?id=E7AE110D-3155-464E-A2F1-342E2881A1AC",
+      "excerpt": "# NRB Bearings #stocks #stocks/watchlist #stocks/watchlist/nrbbearings --- ## 2026-08-17 Action: Watching Observation: Daily chart. Fresh all-time high (₹484.05, +5.48% today) — clean breakout from a multi-month consolidation. Stock spent most of 2025 range-bound between roughly...",
+      "note": "# NRB Bearings\n\n\n#stocks #stocks/watchlist #stocks/watchlist/nrbbearings\n\n---\n\n## 2026-08-17\n\nAction: Watching\n\nObservation:\nDaily chart. Fresh all-time high (₹484.05, +5.48% today) — clean breakout from a multi-month consolidation. Stock spent most of 2025 range-bound between roughly ₹245 and ₹340, with several failed attempts to break higher, before a strong impulsive move in April–May 2026 cleared ₹340 and then ₹390 resistance in succession. Since then it's been in a steady uptrend making higher highs, with today's move extending further into fresh all-time-high territory. Clean structural breakout with no major overhead resistance historically above current levels.\n![](nrb_bearings_20260817.png)",
+      "images": [
+        {
+          "original_ref": "nrb_bearings_20260817.png",
+          "filename": "nrb_bearings_20260817.png",
+          "asset_path": "assets/nrb-bearings-01-nrb-bearings-20260817-png.png",
+          "source_extension": "png"
+        }
+      ],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/nrbbearings"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "A0CF4AD2-CA2F-4F3F-95D3-D9CB7CBB4D49",
+      "title": "Deep Industries",
+      "modified": "2026-08-17T11:34:37.474271Z",
+      "bear_link": "bear://x-callback-url/open-note?id=A0CF4AD2-CA2F-4F3F-95D3-D9CB7CBB4D49",
+      "excerpt": "# Deep Industries #stocks #stocks/watchlist #stocks/watchlist/deepindustries --- ## 2026-08-17 Action: Watching Observation: Daily chart. Breakout to fresh all-time high (₹680.70, +1.79% today) after clearing the ₹619.20 resistance level, which had capped the stock since a prior...",
+      "note": "# Deep Industries\n\n\n#stocks #stocks/watchlist #stocks/watchlist/deepindustries\n\n---\n\n## 2026-08-17\n\nAction: Watching\n\nObservation:\nDaily chart. Breakout to fresh all-time high (₹680.70, +1.79% today) after clearing the ₹619.20 resistance level, which had capped the stock since a prior swing high around Nov 2024. Stock had a strong run from ~₹240 (early 2024) up to ~₹619 by Nov 2024, then spent all of 2025 in a broad, choppy correction down to ~₹360 (March 2026) before recovering back to retest the ₹619 level and now breaking above it decisively with strong follow-through. Clean structural breakout above a ~21-month resistance zone.",
+      "images": [],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/deepindustries"
       ],
       "listed_in_index": true
     }

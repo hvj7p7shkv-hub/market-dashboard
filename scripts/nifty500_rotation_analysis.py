@@ -17,6 +17,7 @@ import time
 import warnings
 from pathlib import Path
 from urllib.parse import quote
+from zoneinfo import ZoneInfo
 
 warnings.filterwarnings("ignore", message="urllib3 v2 only supports OpenSSL")
 
@@ -30,6 +31,7 @@ DEFAULT_BENCHMARK = "^CRSLDX"
 DEFAULT_BENCHMARK_FALLBACKS = ["^CNX500", "^NSEI", "^NSEMDCP50"]
 BASE_URL = "https://www.nseindia.com"
 NIFTY500_CONSTITUENT_URL = "https://www.niftyindices.com/IndexConstituent/ind_nifty500list.csv"
+MARKET_TIMEZONE = ZoneInfo("Asia/Kolkata")
 
 os.environ.setdefault("MPLCONFIGDIR", str(ROOT / "work" / "matplotlib"))
 
@@ -235,10 +237,24 @@ def get_series(frame: pd.DataFrame, column: str) -> pd.Series:
 
 
 def clean_close(frame: pd.DataFrame) -> pd.Series:
+    # This is the completed-session technical layer. Adjusted history keeps
+    # corporate actions from manufacturing false RS and momentum moves.
     close = get_series(frame, "Adj Close")
     if close.empty:
         close = get_series(frame, "Close")
-    return close.astype(float)
+    close = close.astype(float).dropna().sort_index()
+    if close.empty:
+        return close
+
+    now = dt.datetime.now(MARKET_TIMEZONE)
+    latest = pd.Timestamp(close.index[-1])
+    if latest.tzinfo is None:
+        latest = latest.tz_localize(MARKET_TIMEZONE)
+    else:
+        latest = latest.tz_convert(MARKET_TIMEZONE)
+    if latest.date() == now.date() and now.time() < dt.time(15, 40):
+        close = close.iloc[:-1]
+    return close
 
 
 def clean_volume(frame: pd.DataFrame, close_index: pd.Index) -> pd.Series:
@@ -272,25 +288,43 @@ def yfinance_download(tickers: list[str], period: str) -> pd.DataFrame:
             group_by="ticker",
             auto_adjust=False,
             progress=False,
-            threads=True,
+            threads=False,
             timeout=40,
         )
 
 
 def download_history(tickers: list[str], period: str, chunk_size: int) -> dict[str, pd.DataFrame]:
+    # Yahoo's multi-ticker batch endpoint is unreliable even without
+    # threading and silently drops a subset of symbols. Individual
+    # single-ticker requests are far more reliable, so download one at a
+    # time instead of batching.
     history: dict[str, pd.DataFrame] = {}
-    for start in range(0, len(tickers), chunk_size):
-        chunk = tickers[start : start + chunk_size]
-        downloaded = yfinance_download(chunk, period)
-        for ticker in chunk:
-            history[ticker] = extract_ticker_frame(downloaded, ticker, single_ticker=len(chunk) == 1)
-        time.sleep(0.2)
+    for ticker in tickers:
+        frame = yfinance_download([ticker], period)
+        history[ticker] = extract_ticker_frame(frame, ticker, single_ticker=True)
+        time.sleep(0.5)
+
+    failed = [ticker for ticker, frame in history.items() if len(clean_close(frame)) < 70]
+    for delay in (2.0, 5.0):
+        if not failed:
+            break
+        still_failed = []
+        for ticker in failed:
+            time.sleep(delay)
+            retry_frame = yfinance_download([ticker], period)
+            retry_frame = extract_ticker_frame(retry_frame, ticker, single_ticker=True)
+            if len(clean_close(retry_frame)) >= 70:
+                history[ticker] = retry_frame
+            else:
+                still_failed.append(ticker)
+        failed = still_failed
     return history
 
 
-def download_benchmark(preferred: str, fallbacks: list[str], period: str) -> tuple[str, pd.Series]:
+def download_benchmark(preferred: str, fallbacks: list[str], period: str) -> tuple[str, pd.Series, str]:
     candidates = [preferred, *fallbacks]
     seen: set[str] = set()
+    available: list[tuple[str, pd.Series, str]] = []
     for ticker in candidates:
         ticker = ticker.strip()
         if not ticker or ticker in seen:
@@ -300,12 +334,17 @@ def download_benchmark(preferred: str, fallbacks: list[str], period: str) -> tup
         frame = extract_ticker_frame(frame, ticker, single_ticker=True)
         close = clean_close(frame)
         if len(close) >= 70:
-            return ticker, close
+            available.append((ticker, close, close.index[-1].date().isoformat()))
+    if available:
+        # Some Yahoo index symbols update later than others. Use the freshest
+        # valid benchmark, preserving the configured order when dates tie.
+        latest_date = max(item[2] for item in available)
+        return next(item for item in available if item[2] == latest_date)
     print(
         "Benchmark data was not available for any of "
         f"{', '.join(seen)}. Continuing with market-breadth metrics only."
     )
-    return "", pd.Series(dtype=float)
+    return "", pd.Series(dtype=float), ""
 
 
 def signal_for(row: dict[str, object]) -> str:
@@ -378,10 +417,14 @@ def analyse(
     benchmark: str,
     benchmark_fallbacks: list[str],
     chunk_size: int,
-) -> tuple[pd.DataFrame, str]:
+) -> tuple[pd.DataFrame, str, str]:
     if yf is None:
         raise SystemExit("yfinance is not installed.")
-    benchmark_ticker, benchmark_close = download_benchmark(benchmark, benchmark_fallbacks, period)
+    benchmark_ticker, benchmark_close, benchmark_date = download_benchmark(
+        benchmark,
+        benchmark_fallbacks,
+        period,
+    )
     has_benchmark = not benchmark_close.empty
     tickers = universe["ticker"].dropna().astype(str).tolist()
     history = download_history(tickers, period, chunk_size)
@@ -489,7 +532,7 @@ def analyse(
             ascending=[False, False, False, False],
             na_position="last",
         )
-    return data.reset_index(drop=True), benchmark_ticker
+    return data.reset_index(drop=True), benchmark_ticker, benchmark_date
 
 
 def main() -> int:
@@ -526,15 +569,31 @@ def main() -> int:
         raise SystemExit(str(exc)) from exc
     if args.limit and args.limit > 0:
         universe = universe.head(args.limit).copy()
-    stamp = dt.date.today().isoformat()
-    universe_path = args.output_dir / f"{stamp}-nifty500-universe.csv"
+    run_stamp = dt.date.today().isoformat()
+    universe_path = args.output_dir / f"{run_stamp}-nifty500-universe.csv"
     universe.to_csv(universe_path, index=False)
     fallbacks = [item.strip() for item in args.benchmark_fallbacks.split(",") if item.strip()]
-    data, benchmark_ticker = analyse(universe, args.period, args.benchmark, fallbacks, args.chunk_size)
+    data, benchmark_ticker, benchmark_date = analyse(
+        universe,
+        args.period,
+        args.benchmark,
+        fallbacks,
+        args.chunk_size,
+    )
+    date_mismatch_count = 0
+    if benchmark_date and "last_date" in data and "downloaded" in data:
+        downloaded_mask = data["downloaded"].fillna(False).astype(bool)
+        mismatch_mask = downloaded_mask & (data["last_date"].astype(str) != benchmark_date)
+        date_mismatch_count = int(mismatch_mask.sum())
+        data.loc[mismatch_mask, "downloaded"] = False
+        data.loc[mismatch_mask, "download_note"] = data.loc[mismatch_mask, "last_date"].map(
+            lambda value: f"Quote date {value} did not match benchmark session {benchmark_date}"
+        )
     downloaded_count = int(data.get("downloaded", pd.Series(dtype=bool)).fillna(False).astype(bool).sum())
     expected_count = len(universe)
     coverage = downloaded_count / expected_count if expected_count else 0.0
-    output = args.output_dir / f"{stamp}-nifty500-rotation.csv"
+    market_stamp = benchmark_date or run_stamp
+    output = args.output_dir / f"{market_stamp}-nifty500-rotation.csv"
     if coverage < args.min_coverage:
         existing_snapshots = list(args.output_dir.glob("*-nifty500-rotation.csv"))
         if downloaded_count > 0 and not existing_snapshots:
@@ -546,6 +605,8 @@ def main() -> int:
             print(f"Nifty 500 constituents: {expected_count}")
             print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
             print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
+            print(f"Benchmark session: {benchmark_date or 'unavailable'}")
+            print(f"Excluded date mismatches: {date_mismatch_count}")
             print(f"Universe CSV: {universe_path}")
             print(f"Rotation CSV: {output}")
             return 0
@@ -557,6 +618,8 @@ def main() -> int:
     print(f"Nifty 500 constituents: {expected_count}")
     print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
     print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
+    print(f"Benchmark session: {benchmark_date or 'unavailable'}")
+    print(f"Excluded date mismatches: {date_mismatch_count}")
     print(f"Universe CSV: {universe_path}")
     print(f"Rotation CSV: {output}")
     return 0

@@ -41,7 +41,11 @@ def load_watchlist(path: Path) -> list[dict[str, str]]:
         if isinstance(item, str):
             rows.append({"label": item, "query": item})
         elif isinstance(item, dict) and item.get("query"):
-            rows.append({"label": str(item.get("label") or item["query"]), "query": str(item["query"])})
+            rows.append({
+                "label": str(item.get("label") or item["query"]),
+                "query": str(item["query"]),
+                "scheme_code": str(item.get("scheme_code") or "").strip(),
+            })
     return rows
 
 
@@ -83,9 +87,12 @@ def parse_nav_text(text: str) -> pd.DataFrame:
     return data.dropna(subset=["scheme_code", "scheme_name", "nav"])
 
 
-def match_scheme(nav_all: pd.DataFrame, query: str) -> pd.Series | None:
+def match_scheme(nav_all: pd.DataFrame, query: str, scheme_code: str = "") -> pd.Series | None:
     if nav_all.empty:
         return None
+    if scheme_code:
+        pinned = nav_all[nav_all["scheme_code"].astype(str) == str(scheme_code)]
+        return pinned.iloc[0] if len(pinned) == 1 else None
     query_norm = normalize(query)
     scheme_norm = nav_all["scheme_name"].map(normalize)
     exact = nav_all[scheme_norm == query_norm]
@@ -150,7 +157,7 @@ def main() -> int:
 
     rows = []
     for item in watchlist:
-        matched = match_scheme(nav_all, item["query"])
+        matched = match_scheme(nav_all, item["query"], item.get("scheme_code", ""))
         if matched is None:
             rows.append({"label": item["label"], "query": item["query"], "matched": False})
             continue

@@ -14,12 +14,14 @@ import math
 import os
 import warnings
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 import pandas as pd
 
 ROOT = Path(os.environ.get("MARKET_DASHBOARD_ROOT", Path(__file__).resolve().parents[1]))
 DEFAULT_OUTPUT_DIR = ROOT / "outputs" / "nifty50_rotation"
 DEFAULT_BENCHMARK = "^NSEI"
+MARKET_TIMEZONE = ZoneInfo("Asia/Kolkata")
 
 os.environ.setdefault("MPLCONFIGDIR", str(ROOT / "work" / "matplotlib"))
 warnings.filterwarnings("ignore", message="urllib3 v2 only supports OpenSSL")
@@ -105,7 +107,14 @@ def clean_close(data: pd.DataFrame) -> pd.Series:
     if isinstance(data.columns, pd.MultiIndex):
         data.columns = data.columns.get_level_values(0)
     close = data["Adj Close"] if "Adj Close" in data else data["Close"]
-    return close.dropna().astype(float)
+    close = close.dropna().astype(float).sort_index()
+    if close.empty:
+        return close
+    now = dt.datetime.now(MARKET_TIMEZONE)
+    latest_date = pd.Timestamp(close.index[-1]).date()
+    if latest_date == now.date() and now.time() < dt.time(15, 40):
+        close = close.iloc[:-1]
+    return close
 
 
 def download_one(ticker: str, period: str) -> pd.DataFrame:
