@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-17 19:14
+Generated: 2026-08-17 19:25
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -56,7 +56,17 @@ Nifty falls for 5th day; Sensex drops 281 points amid rising crude oil prices Th
 
 Nifty falls for 5th day; Sensex drops 281 points amid rising crude oil prices Deccan Herald
 
-### 6. Will Mutual Fund SIP inflows stay strong despite market volatility? | On the beat podcast | Part 04 - BusinessLine
+### 6. Sensex drops 281 points, Nifty falls for 5th straight day amid rising oil prices - MillenniumPost
+
+- Source: MillenniumPost
+- Published: 2026-08-17T19:00:24+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPV2lpU1dBd3BhMlJ5RWJya1BCVWFhR2J0V3NGdjNvVV90eXBYUmx2alBobFhOXzNDMkhldUR1akZrUGxiOEV4SWZlSmxRdm9JckRTN0NrcnVKYUNHdVIwWTRwNmhBQ1B6RW5EYzBRXy1GYmktdS1PRkdzVFNaXzNNNkVXaW1XczhFWjVRRm1FaUI4d01od3RGd0MzTVRDQVhDSGxSbUMzSmJkdnpQNUFtSjBPcmtWNy1YaEtNRXc5S29PdVnSAcgBQVVfeXFMTm5ZVTJOSWpLOEpwYVJsRlhFWXpsalI5ZnVDX1dOYUpYY2RYaWFqSXFFR3JMaldac3NOeEJuMG5sV05yaEMxMGNkOENuQzhuZXNiaDVrQk82WEpheTJhMDg0OVppZWkxS0NQa0FYZDVXVy1YVzZNeVBaQ0FUQUNWeXozQ052andBRzBtX0VfUmlRbVdpbVVOVVNkQk9taXMxaEJvOWxQMld6UWhRRmd2bUh2c0U4a3RheGZjT1ZtRUpzaWs5OHpkOW4?oc=5
+
+Sensex drops 281 points, Nifty falls for 5th straight day amid rising oil prices MillenniumPost
+
+### 7. Will Mutual Fund SIP inflows stay strong despite market volatility? | On the beat podcast | Part 04 - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-08-17T18:29:50+00:00
@@ -66,7 +76,7 @@ Nifty falls for 5th day; Sensex drops 281 points amid rising crude oil prices De
 
 Will Mutual Fund SIP inflows stay strong despite market volatility? | On the beat podcast | Part 04 BusinessLine
 
-### 7. Sensex drops 281 pts, Nifty falls for 5th day amid rising oil prices - metroindia.net
+### 8. Sensex drops 281 pts, Nifty falls for 5th day amid rising oil prices - metroindia.net
 
 - Source: metroindia.net
 - Published: 2026-08-17T16:54:24+00:00
@@ -76,7 +86,7 @@ Will Mutual Fund SIP inflows stay strong despite market volatility? | On the bea
 
 Sensex drops 281 pts, Nifty falls for 5th day amid rising oil prices metroindia.net
 
-### 8. Top 10@10 | Nifty falls for fifth day, DIIs counter FII selling, and India Inc ends earnings season on a high - LinkedIn
+### 9. Top 10@10 | Nifty falls for fifth day, DIIs counter FII selling, and India Inc ends earnings season on a high - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-08-17T16:30:05+00:00
@@ -86,7 +96,7 @@ Sensex drops 281 pts, Nifty falls for 5th day amid rising oil prices metroindia.
 
 Top 10@10 | Nifty falls for fifth day, DIIs counter FII selling, and India Inc ends earnings season on a high LinkedIn
 
-### 9. Sensex falls 520 points, Nifty down 137 as Iran war weighs on sentiment | Rupee fell 17 paise to 95.59 against dollar | Inshorts - Inshorts
+### 10. Sensex falls 520 points, Nifty down 137 as Iran war weighs on sentiment | Rupee fell 17 paise to 95.59 against dollar | Inshorts - Inshorts
 
 - Source: Inshorts
 - Published: 2026-08-17T06:33:24+00:00
@@ -96,7 +106,7 @@ Top 10@10 | Nifty falls for fifth day, DIIs counter FII selling, and India Inc e
 
 Sensex falls 520 points, Nifty down 137 as Iran war weighs on sentiment | Rupee fell 17 paise to 95.59 against dollar | Inshorts Inshorts
 
-### 10. Nifty 50 Falls 0.46%, Sensex Drops 0.60% as Crude Stays Near $89 - Dalal Street Investment Journal
+### 11. Nifty 50 Falls 0.46%, Sensex Drops 0.60% as Crude Stays Near $89 - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-17T05:23:21+00:00
@@ -106,7 +116,7 @@ Sensex falls 520 points, Nifty down 137 as Iran war weighs on sentiment | Rupee 
 
 Nifty 50 Falls 0.46%, Sensex Drops 0.60% as Crude Stays Near $89 Dalal Street Investment Journal
 
-### 11. Stock Market News: Markets decline in early trade amid rising crude oil prices, Sensex falls 285 points to 77 - India.com
+### 12. Stock Market News: Markets decline in early trade amid rising crude oil prices, Sensex falls 285 points to 77 - India.com
 
 - Source: India.com
 - Published: 2026-08-17T05:18:03+00:00
@@ -116,7 +126,7 @@ Nifty 50 Falls 0.46%, Sensex Drops 0.60% as Crude Stays Near $89 Dalal Street In
 
 Stock Market News: Markets decline in early trade amid rising crude oil prices, Sensex falls 285 points to 77 India.com
 
-### 12. Sensex, Nifty Open Lower as US-Iran War Uncertainty;Nifty Falls 22 Points, Sensex Drops Over 100 Points - IBTimes India
+### 13. Sensex, Nifty Open Lower as US-Iran War Uncertainty;Nifty Falls 22 Points, Sensex Drops Over 100 Points - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-08-17T05:16:57+00:00
@@ -126,7 +136,7 @@ Stock Market News: Markets decline in early trade amid rising crude oil prices, 
 
 Sensex, Nifty Open Lower as US-Iran War Uncertainty;Nifty Falls 22 Points, Sensex Drops Over 100 Points IBTimes India
 
-### 13. Sensex falls 300 pts, Nifty below 24,300: Elevated crude oil prices among key factors behind market decline - TradingView
+### 14. Sensex falls 300 pts, Nifty below 24,300: Elevated crude oil prices among key factors behind market decline - TradingView
 
 - Source: TradingView
 - Published: 2026-08-17T04:12:00+00:00
@@ -136,7 +146,7 @@ Sensex, Nifty Open Lower as US-Iran War Uncertainty;Nifty Falls 22 Points, Sense
 
 Sensex falls 300 pts, Nifty below 24,300: Elevated crude oil prices among key factors behind market decline TradingView
 
-### 14. Stock Market Today: Sensex Falls 281 Pts, Nifty Below 24,300; Midcap Stocks Gain - APAC Media
+### 15. Stock Market Today: Sensex Falls 281 Pts, Nifty Below 24,300; Midcap Stocks Gain - APAC Media
 
 - Source: APAC Media
 - Published: 2026-08-17T11:46:26+00:00
@@ -146,7 +156,7 @@ Sensex falls 300 pts, Nifty below 24,300: Elevated crude oil prices among key fa
 
 Stock Market Today: Sensex Falls 281 Pts, Nifty Below 24,300; Midcap Stocks Gain APAC Media
 
-### 15. Nifty falls for 5th day as Sensex drops 281 points - NewsBytes
+### 16. Nifty falls for 5th day as Sensex drops 281 points - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-08-17T10:50:37+00:00
@@ -156,7 +166,7 @@ Stock Market Today: Sensex Falls 281 Pts, Nifty Below 24,300; Midcap Stocks Gain
 
 Nifty falls for 5th day as Sensex drops 281 points NewsBytes
 
-### 16. Markets Mixed As Crude Nears $90; Sensex Falls 281 Points, Nifty Rises - outlookbusiness.com
+### 17. Markets Mixed As Crude Nears $90; Sensex Falls 281 Points, Nifty Rises - outlookbusiness.com
 
 - Source: outlookbusiness.com
 - Published: 2026-08-17T10:30:16+00:00
@@ -166,7 +176,7 @@ Nifty falls for 5th day as Sensex drops 281 points NewsBytes
 
 Markets Mixed As Crude Nears $90; Sensex Falls 281 Points, Nifty Rises outlookbusiness.com
 
-### 17. Sensex Falls 432 Points, Nifty Slips as Markets Open Lower Amid West Asia Tensions, Rising Oil Prices - Hindusthan Samachar English
+### 18. Sensex Falls 432 Points, Nifty Slips as Markets Open Lower Amid West Asia Tensions, Rising Oil Prices - Hindusthan Samachar English
 
 - Source: Hindusthan Samachar English
 - Published: 2026-08-17T07:18:58+00:00
@@ -176,7 +186,7 @@ Markets Mixed As Crude Nears $90; Sensex Falls 281 Points, Nifty Rises outlookbu
 
 Sensex Falls 432 Points, Nifty Slips as Markets Open Lower Amid West Asia Tensions, Rising Oil Prices Hindusthan Samachar English
 
-### 18. Stock Market Today (August 17): Sensex, Nifty Fall as Geopolitical Tensions, High Crude Prices Weigh on Market; Key Drivers, Market Outlook And What Investors Should Know - The Sunday Guardian
+### 19. Stock Market Today (August 17): Sensex, Nifty Fall as Geopolitical Tensions, High Crude Prices Weigh on Market; Key Drivers, Market Outlook And What Investors Should Know - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-08-17T05:20:19+00:00
@@ -186,7 +196,7 @@ Sensex Falls 432 Points, Nifty Slips as Markets Open Lower Amid West Asia Tensio
 
 Stock Market Today (August 17): Sensex, Nifty Fall as Geopolitical Tensions, High Crude Prices Weigh on Market; Key Drivers, Market Outlook And What Investors Should Know The Sunday Guardian
 
-### 19. Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, elevated crude prices - ChiniMandi
+### 20. Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, elevated crude prices - ChiniMandi
 
 - Source: ChiniMandi
 - Published: 2026-08-17T04:32:50+00:00
@@ -196,7 +206,7 @@ Stock Market Today (August 17): Sensex, Nifty Fall as Geopolitical Tensions, Hig
 
 Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, elevated crude prices ChiniMandi
 
-### 20. Sensex Drops 300 Points As Iran War Fuels Crude Concerns; India VIX Jumps 2% - outlookbusiness.com
+### 21. Sensex Drops 300 Points As Iran War Fuels Crude Concerns; India VIX Jumps 2% - outlookbusiness.com
 
 - Source: outlookbusiness.com
 - Published: 2026-08-17T04:31:03+00:00
@@ -206,7 +216,7 @@ Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 ami
 
 Sensex Drops 300 Points As Iran War Fuels Crude Concerns; India VIX Jumps 2% outlookbusiness.com
 
-### 21. Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, elevated crude prices - Big News Network.com
+### 22. Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, elevated crude prices - Big News Network.com
 
 - Source: Big News Network.com
 - Published: 2026-08-17T03:59:00+00:00
@@ -216,7 +226,7 @@ Sensex Drops 300 Points As Iran War Fuels Crude Concerns; India VIX Jumps 2% out
 
 Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions, elevated crude prices Big News Network.com
 
-### 22. Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market; What Caused Today’s Sell-Off - Goodreturns
+### 23. Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market; What Caused Today’s Sell-Off - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-08-16T23:53:46+00:00
@@ -226,7 +236,7 @@ Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 ami
 
 Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market; What Caused Today’s Sell-Off Goodreturns
 
-### 23. SanDisk Stock Slides as Memory-Chip Selloff Tests AI Rally - Beijing Times
+### 24. SanDisk Stock Slides as Memory-Chip Selloff Tests AI Rally - Beijing Times
 
 - Source: Beijing Times
 - Published: 2026-08-16T22:09:58+00:00
@@ -236,7 +246,17 @@ Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market
 
 SanDisk Stock Slides as Memory-Chip Selloff Tests AI Rally Beijing Times
 
-### 24. NIFTY50 falls for a fifth straight session, SENSEX drops 281 points dragged by IT stocks - Dailyhunt
+### 25. SoundHound AI faces persistent selloff: Can SOUN avoid deeper losses? - Traders Union
+
+- Source: Traders Union
+- Published: 2026-08-17T17:55:32+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxObGs5SzJYOFdYUDV2bEhjSUNHcFJ2N1hpQTA1RTNxWWp4QzgwU2xQWEFSX3llNkptTVpKV2daR2puZFExUExwVE91bl9jaGdxVkRTalpYZ3JJRExGdzc2UVNrWk1HTFE3WmdxWVhNXzJBb1J3RzVmTXlsNlVHa0g5d2hCdDZZWVRjT2dZc3dB?oc=5
+
+SoundHound AI faces persistent selloff: Can SOUN avoid deeper losses? Traders Union
+
+### 26. NIFTY50 falls for a fifth straight session, SENSEX drops 281 points dragged by IT stocks - Dailyhunt
 
 - Source: Dailyhunt
 - Published: 2026-08-17T14:11:56+00:00
@@ -246,7 +266,7 @@ SanDisk Stock Slides as Memory-Chip Selloff Tests AI Rally Beijing Times
 
 NIFTY50 falls for a fifth straight session, SENSEX drops 281 points dragged by IT stocks Dailyhunt
 
-### 25. The AI Rally Will ‘Likely’ Lead To a Market Correction, An ECB Post Warns - International Business Times
+### 27. The AI Rally Will ‘Likely’ Lead To a Market Correction, An ECB Post Warns - International Business Times
 
 - Source: International Business Times
 - Published: 2026-08-17T13:39:47+00:00
@@ -256,7 +276,7 @@ NIFTY50 falls for a fifth straight session, SENSEX drops 281 points dragged by I
 
 The AI Rally Will ‘Likely’ Lead To a Market Correction, An ECB Post Warns International Business Times
 
-### 26. ECB: Correction in US AI stocks could have severe consequences for the euro area - Moomoo
+### 28. ECB: Correction in US AI stocks could have severe consequences for the euro area - Moomoo
 
 - Source: Moomoo
 - Published: 2026-08-17T12:58:35+00:00
@@ -266,7 +286,7 @@ The AI Rally Will ‘Likely’ Lead To a Market Correction, An ECB Post Warns In
 
 ECB: Correction in US AI stocks could have severe consequences for the euro area Moomoo
 
-### 27. AI rally set to trigger stock market correction, ECB researchers warn - Irish Examiner
+### 29. AI rally set to trigger stock market correction, ECB researchers warn - Irish Examiner
 
 - Source: Irish Examiner
 - Published: 2026-08-17T12:52:00+00:00
@@ -276,7 +296,7 @@ ECB: Correction in US AI stocks could have severe consequences for the euro area
 
 AI rally set to trigger stock market correction, ECB researchers warn Irish Examiner
 
-### 28. Sensex falls 281 points, Nifty ends lower amid IT stock selling - Telangana Today
+### 30. Sensex falls 281 points, Nifty ends lower amid IT stock selling - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-08-17T12:42:47+00:00
@@ -286,7 +306,7 @@ AI rally set to trigger stock market correction, ECB researchers warn Irish Exam
 
 Sensex falls 281 points, Nifty ends lower amid IT stock selling Telangana Today
 
-### 29. NVDA, GOOGL, AAPL: Why a Sharp AI Selloff Is Likely, According to ECB Researchers - tipranks.com
+### 31. NVDA, GOOGL, AAPL: Why a Sharp AI Selloff Is Likely, According to ECB Researchers - tipranks.com
 
 - Source: tipranks.com
 - Published: 2026-08-17T12:41:56+00:00
@@ -296,7 +316,7 @@ Sensex falls 281 points, Nifty ends lower amid IT stock selling Telangana Today
 
 NVDA, GOOGL, AAPL: Why a Sharp AI Selloff Is Likely, According to ECB Researchers tipranks.com
 
-### 30. India's Nifty 50 falls for fifth session on Mideast worries - Reuters
+### 32. India's Nifty 50 falls for fifth session on Mideast worries - Reuters
 
 - Source: Reuters
 - Published: 2026-08-17T11:09:55+00:00
@@ -306,7 +326,7 @@ NVDA, GOOGL, AAPL: Why a Sharp AI Selloff Is Likely, According to ECB Researcher
 
 India's Nifty 50 falls for fifth session on Mideast worries Reuters
 
-### 31. India's Nifty 50 falls for fifth session on Mideast worries - TradingView
+### 33. India's Nifty 50 falls for fifth session on Mideast worries - TradingView
 
 - Source: TradingView
 - Published: 2026-08-17T11:09:35+00:00
@@ -316,7 +336,7 @@ India's Nifty 50 falls for fifth session on Mideast worries Reuters
 
 India's Nifty 50 falls for fifth session on Mideast worries TradingView
 
-### 32. ECB Warns of U.S. AI Stock Bubble, Risk of Contagion to Europe in a Correction - finance.biggo.com
+### 34. ECB Warns of U.S. AI Stock Bubble, Risk of Contagion to Europe in a Correction - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-08-17T11:05:00+00:00
@@ -326,7 +346,7 @@ India's Nifty 50 falls for fifth session on Mideast worries TradingView
 
 ECB Warns of U.S. AI Stock Bubble, Risk of Contagion to Europe in a Correction finance.biggo.com
 
-### 33. OpenTune is a FREE open-source AI pitch correction tool for vocals - Bedroom Producers Blog
+### 35. OpenTune is a FREE open-source AI pitch correction tool for vocals - Bedroom Producers Blog
 
 - Source: Bedroom Producers Blog
 - Published: 2026-08-17T11:00:07+00:00
@@ -336,7 +356,7 @@ ECB Warns of U.S. AI Stock Bubble, Risk of Contagion to Europe in a Correction f
 
 OpenTune is a FREE open-source AI pitch correction tool for vocals Bedroom Producers Blog
 
-### 34. AI Rally Set to Trigger Stock-Market Correction, ECB Blog Says - Bloomberg.com
+### 36. AI Rally Set to Trigger Stock-Market Correction, ECB Blog Says - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-08-17T10:38:43+00:00
@@ -346,7 +366,7 @@ OpenTune is a FREE open-source AI pitch correction tool for vocals Bedroom Produ
 
 AI Rally Set to Trigger Stock-Market Correction, ECB Blog Says Bloomberg.com
 
-### 35. India's Nifty 50 falls for fifth session on Mideast worries - Yahoo Finance Singapore
+### 37. India's Nifty 50 falls for fifth session on Mideast worries - Yahoo Finance Singapore
 
 - Source: Yahoo Finance Singapore
 - Published: 2026-08-17T10:35:23+00:00
@@ -356,7 +376,7 @@ AI Rally Set to Trigger Stock-Market Correction, ECB Blog Says Bloomberg.com
 
 India's Nifty 50 falls for fifth session on Mideast worries Yahoo Finance Singapore
 
-### 36. Closing Bell: Nifty 50 Falls for 5th Straight Session as Iran Tensions Keep Crude Elevated - Dalal Street Investment Journal
+### 38. Closing Bell: Nifty 50 Falls for 5th Straight Session as Iran Tensions Keep Crude Elevated - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-17T10:33:45+00:00
@@ -366,7 +386,7 @@ India's Nifty 50 falls for fifth session on Mideast worries Yahoo Finance Singap
 
 Closing Bell: Nifty 50 Falls for 5th Straight Session as Iran Tensions Keep Crude Elevated Dalal Street Investment Journal
 
-### 37. Sensex Falls 281 Points, Nifty Slips Below 24,300 After Volatile Trade - Free Press Journal
+### 39. Sensex Falls 281 Points, Nifty Slips Below 24,300 After Volatile Trade - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-08-17T10:32:03+00:00
@@ -376,7 +396,7 @@ Closing Bell: Nifty 50 Falls for 5th Straight Session as Iran Tensions Keep Crud
 
 Sensex Falls 281 Points, Nifty Slips Below 24,300 After Volatile Trade Free Press Journal
 
-### 38. Sensex falls 281 points, Nifty 50 ends at 24,288; mid, small-caps outperform - livemint.com
+### 40. Sensex falls 281 points, Nifty 50 ends at 24,288; mid, small-caps outperform - livemint.com
 
 - Source: livemint.com
 - Published: 2026-08-17T10:29:20+00:00
@@ -386,7 +406,7 @@ Sensex Falls 281 Points, Nifty Slips Below 24,300 After Volatile Trade Free Pres
 
 Sensex falls 281 points, Nifty 50 ends at 24,288; mid, small-caps outperform livemint.com
 
-### 39. Market Close: Sensex Falls 281 Points, Nifty Ends Below 24,300; IT, FMCG Stocks Drag - News18
+### 41. Market Close: Sensex Falls 281 Points, Nifty Ends Below 24,300; IT, FMCG Stocks Drag - News18
 
 - Source: News18
 - Published: 2026-08-17T10:16:08+00:00
@@ -396,7 +416,7 @@ Sensex falls 281 points, Nifty 50 ends at 24,288; mid, small-caps outperform liv
 
 Market Close: Sensex Falls 281 Points, Nifty Ends Below 24,300; IT, FMCG Stocks Drag News18
 
-### 40. Stock Market Closing Today: Sensex falls 281 pts, Nifty below 24,300; IT, FMCG indices slip over 1% - ET Now
+### 42. Stock Market Closing Today: Sensex falls 281 pts, Nifty below 24,300; IT, FMCG indices slip over 1% - ET Now
 
 - Source: ET Now
 - Published: 2026-08-17T10:08:26+00:00
@@ -406,7 +426,7 @@ Market Close: Sensex Falls 281 Points, Nifty Ends Below 24,300; IT, FMCG Stocks 
 
 Stock Market Closing Today: Sensex falls 281 pts, Nifty below 24,300; IT, FMCG indices slip over 1% ET Now
 
-### 41. Sensex falls 281 points, Nifty closes below 24,300; IT stocks drag, Tata Steel bucks trend - financialexpress.com
+### 43. Sensex falls 281 points, Nifty closes below 24,300; IT stocks drag, Tata Steel bucks trend - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-08-17T10:06:21+00:00
@@ -416,7 +436,7 @@ Stock Market Closing Today: Sensex falls 281 pts, Nifty below 24,300; IT, FMCG i
 
 Sensex falls 281 points, Nifty closes below 24,300; IT stocks drag, Tata Steel bucks trend financialexpress.com
 
-### 42. Closing Bell: Nifty falls for 5th straight session; Sensex down 281 pts, BSE mcap loses Rs 1.66 lakh crore in a week - Zee Business
+### 44. Closing Bell: Nifty falls for 5th straight session; Sensex down 281 pts, BSE mcap loses Rs 1.66 lakh crore in a week - Zee Business
 
 - Source: Zee Business
 - Published: 2026-08-17T10:04:52+00:00
@@ -426,7 +446,7 @@ Sensex falls 281 points, Nifty closes below 24,300; IT stocks drag, Tata Steel b
 
 Closing Bell: Nifty falls for 5th straight session; Sensex down 281 pts, BSE mcap loses Rs 1.66 lakh crore in a week Zee Business
 
-### 43. AI market correction is coming, ECB blog predicts - Reuters
+### 45. AI market correction is coming, ECB blog predicts - Reuters
 
 - Source: Reuters
 - Published: 2026-08-17T09:18:51+00:00
@@ -436,7 +456,7 @@ Closing Bell: Nifty falls for 5th straight session; Sensex down 281 pts, BSE mca
 
 AI market correction is coming, ECB blog predicts Reuters
 
-### 44. ECB warns of elevated AI-driven tech stock valuations, potential correction risks - Crypto Briefing
+### 46. ECB warns of elevated AI-driven tech stock valuations, potential correction risks - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-08-17T09:11:04+00:00
@@ -446,7 +466,7 @@ AI market correction is coming, ECB blog predicts Reuters
 
 ECB warns of elevated AI-driven tech stock valuations, potential correction risks Crypto Briefing
 
-### 45. AI market correction is coming, ECB blog predicts - The Lufkin Daily News
+### 47. AI market correction is coming, ECB blog predicts - The Lufkin Daily News
 
 - Source: The Lufkin Daily News
 - Published: 2026-08-17T09:02:24+00:00
@@ -456,7 +476,7 @@ ECB warns of elevated AI-driven tech stock valuations, potential correction risk
 
 AI market correction is coming, ECB blog predicts The Lufkin Daily News
 
-### 46. AI market correction is coming, ECB blog predicts - TradingView
+### 48. AI market correction is coming, ECB blog predicts - TradingView
 
 - Source: TradingView
 - Published: 2026-08-17T09:00:00+00:00
@@ -466,7 +486,7 @@ AI market correction is coming, ECB blog predicts The Lufkin Daily News
 
 AI market correction is coming, ECB blog predicts TradingView
 
-### 47. Indian Benchmark Indices Recover From Day’s Low; Nifty 50 Down 0.11%, Sensex Falls 0.23% - Dalal Street Investment Journal
+### 49. Indian Benchmark Indices Recover From Day’s Low; Nifty 50 Down 0.11%, Sensex Falls 0.23% - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-17T08:58:40+00:00
@@ -476,7 +496,7 @@ AI market correction is coming, ECB blog predicts TradingView
 
 Indian Benchmark Indices Recover From Day’s Low; Nifty 50 Down 0.11%, Sensex Falls 0.23% Dalal Street Investment Journal
 
-### 48. NMDC Shares Fall 2.30% to Rs 82.46; Stock Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
+### 50. NMDC Shares Fall 2.30% to Rs 82.46; Stock Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T08:06:28+00:00
@@ -486,7 +506,7 @@ Indian Benchmark Indices Recover From Day’s Low; Nifty 50 Down 0.11%, Sensex F
 
 NMDC Shares Fall 2.30% to Rs 82.46; Stock Among Top Losers on Nifty Midcap 150 Moneycontrol.com
 
-### 49. Oil India among top 5 midcap stocks that saw highest mutual fund selling in July - The Economic Times
+### 51. Oil India among top 5 midcap stocks that saw highest mutual fund selling in July - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-17T08:05:22+00:00
@@ -496,7 +516,7 @@ NMDC Shares Fall 2.30% to Rs 82.46; Stock Among Top Losers on Nifty Midcap 150 M
 
 Oil India among top 5 midcap stocks that saw highest mutual fund selling in July The Economic Times
 
-### 50. Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51% Amid Uncertain Geopolitical Situation-What Investors Should Know - The Sunday Guardian
+### 52. Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51% Amid Uncertain Geopolitical Situation-What Investors Should Know - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-08-17T05:58:24+00:00
@@ -506,7 +526,7 @@ Oil India among top 5 midcap stocks that saw highest mutual fund selling in July
 
 Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51% Amid Uncertain Geopolitical Situation-What Investors Should Know The Sunday Guardian
 
-### 51. Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade - National Herald
+### 53. Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade - National Herald
 
 - Source: National Herald
 - Published: 2026-08-17T05:52:43+00:00
@@ -516,7 +536,7 @@ Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51%
 
 Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade National Herald
 
-### 52. Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 points Amid Mixed Global Cues - Analytics Insight
+### 54. Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 points Amid Mixed Global Cues - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-08-17T05:06:50+00:00
@@ -526,7 +546,7 @@ Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade National
 
 Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 points Amid Mixed Global Cues Analytics Insight
 
-### 53. Sensex Falls 295 Points, Nifty Below 24,350 as Iran-US Tensions Hit Sentiment - The National Bulletin
+### 55. Sensex Falls 295 Points, Nifty Below 24,350 as Iran-US Tensions Hit Sentiment - The National Bulletin
 
 - Source: The National Bulletin
 - Published: 2026-08-17T04:56:15+00:00
@@ -536,7 +556,7 @@ Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 po
 
 Sensex Falls 295 Points, Nifty Below 24,350 as Iran-US Tensions Hit Sentiment The National Bulletin
 
-### 54. Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions,... - lokmattimes.com
+### 56. Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions,... - lokmattimes.com
 
 - Source: lokmattimes.com
 - Published: 2026-08-17T04:38:30+00:00
@@ -546,17 +566,17 @@ Sensex Falls 295 Points, Nifty Below 24,350 as Iran-US Tensions Hit Sentiment Th
 
 Indian equities open lower, Sensex falls over 300 points, Nifty below 24,300 amid geopolitical tensions,... lokmattimes.com
 
-### 55. Gift Nifty falls 34 points, signals muted start for markets as Iran-US tensions keep oil prices elevated - MSN
+### 57. Gift Nifty falls 34 points, signals muted start for markets as Iran-US tensions keep oil prices elevated - msn.com
 
-- Source: MSN
+- Source: msn.com
 - Published: 2026-08-17T04:16:08+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxQQXR2cVNkZGp1T1p4ak8wNEE1RHMtMGhZcXhXVWNqMmEzOTVBWmxoYThsMTV6MzhnR2ZHZ3plSUlzZTdQRGl6dXgxdjBOYXRSOXVsMFNvakRwVk9RYmkyM2t1SmtwbndqMnp3UU5PZlVzdjFRWFhXekZ5c25RWUpGajd5bWtkSUxOeVluZThQa3ZIQXdhZ3ZaVm1wQ0FjaDIzQy1JN2ZnLTNNWHlXcU9HcmxwdHUxTWgyX3RnaVJhNVFSczg5c3EyQ0VoMUVpVjhLZlJoSEhQOUNlRXNwcUNzZ0txb1VPaHZUdTdfUzVGSXdsd1B0X05CQ0gwaVNLVTU2ZUxpMDB6djJ2cGpfYjVMMVhn?oc=5
 
-Gift Nifty falls 34 points, signals muted start for markets as Iran-US tensions keep oil prices elevated MSN
+Gift Nifty falls 34 points, signals muted start for markets as Iran-US tensions keep oil prices elevated msn.com
 
-### 56. Why did stock market fall today? Sensex slides 281 pts, Nifty closes below 24,300. 5 factors behind the de - The Economic Times
+### 58. Why did stock market fall today? Sensex slides 281 pts, Nifty closes below 24,300. 5 factors behind the de - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-17T04:04:53+00:00
@@ -566,7 +586,7 @@ Gift Nifty falls 34 points, signals muted start for markets as Iran-US tensions 
 
 Why did stock market fall today? Sensex slides 281 pts, Nifty closes below 24,300. 5 factors behind the de The Economic Times
 
-### 57. Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On Sentiment - News18
+### 59. Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On Sentiment - News18
 
 - Source: News18
 - Published: 2026-08-17T04:01:32+00:00
@@ -576,7 +596,7 @@ Why did stock market fall today? Sensex slides 281 pts, Nifty closes below 24,30
 
 Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On Sentiment News18
 
-### 58. Indian shares fall as crude remains at elevated levels - Reuters
+### 60. Indian shares fall as crude remains at elevated levels - Reuters
 
 - Source: Reuters
 - Published: 2026-08-17T02:21:00+00:00
@@ -586,7 +606,7 @@ Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On S
 
 Indian shares fall as crude remains at elevated levels Reuters
 
-### 59. Gift Nifty Falls 34 Points, Signals Muted Start For Markets As Iran-US Tensions Keep Oil Prices Elevated - News18
+### 61. Gift Nifty Falls 34 Points, Signals Muted Start For Markets As Iran-US Tensions Keep Oil Prices Elevated - News18
 
 - Source: News18
 - Published: 2026-08-17T02:18:13+00:00
@@ -596,7 +616,7 @@ Indian shares fall as crude remains at elevated levels Reuters
 
 Gift Nifty Falls 34 Points, Signals Muted Start For Markets As Iran-US Tensions Keep Oil Prices Elevated News18
 
-### 60. Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The Selloff Ruth Chris (6pKsYcyyPD) - Mshale
+### 62. Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The Selloff Ruth Chris (6pKsYcyyPD) - Mshale
 
 - Source: Mshale
 - Published: 2026-08-16T23:50:13+00:00
@@ -606,7 +626,7 @@ Gift Nifty Falls 34 Points, Signals Muted Start For Markets As Iran-US Tensions 
 
 Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The Selloff Ruth Chris (6pKsYcyyPD) Mshale
 
-### 61. Nifty Falls for 5th Day to 24,288 as Geopolitical Fears Rise - Whalesbook
+### 63. Nifty Falls for 5th Day to 24,288 as Geopolitical Fears Rise - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-17T17:53:18+00:00
@@ -616,7 +636,7 @@ Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The S
 
 Nifty Falls for 5th Day to 24,288 as Geopolitical Fears Rise Whalesbook
 
-### 62. FPI Stakes Fall to 17-Year Low as Domestic Funds Dominate - Whalesbook
+### 64. FPI Stakes Fall to 17-Year Low as Domestic Funds Dominate - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-17T14:23:15+00:00
@@ -626,7 +646,7 @@ Nifty Falls for 5th Day to 24,288 as Geopolitical Fears Rise Whalesbook
 
 FPI Stakes Fall to 17-Year Low as Domestic Funds Dominate Whalesbook
 
-### 63. FII ownership falls to 17-year low as domestic investors strengthen grip - Business Standard
+### 65. FII ownership falls to 17-year low as domestic investors strengthen grip - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-17T14:06:17+00:00
@@ -636,7 +656,7 @@ FPI Stakes Fall to 17-Year Low as Domestic Funds Dominate Whalesbook
 
 FII ownership falls to 17-year low as domestic investors strengthen grip Business Standard
 
-### 64. Quick Wrap: Nifty IT Index falls 1.75% - Business Standard
+### 66. Quick Wrap: Nifty IT Index falls 1.75% - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-17T11:46:01+00:00
@@ -646,7 +666,7 @@ FII ownership falls to 17-year low as domestic investors strengthen grip Busines
 
 Quick Wrap: Nifty IT Index falls 1.75% Business Standard
 
-### 65. Nifty falls for 5th day - Rediff
+### 67. Nifty falls for 5th day - Rediff
 
 - Source: Rediff
 - Published: 2026-08-17T11:42:00+00:00
@@ -656,7 +676,7 @@ Quick Wrap: Nifty IT Index falls 1.75% Business Standard
 
 Nifty falls for 5th day Rediff
 
-### 66. Nifty IT Falls on Profit-Booking and Geopolitical Tensions - Whalesbook
+### 68. Nifty IT Falls on Profit-Booking and Geopolitical Tensions - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-17T10:55:02+00:00
@@ -666,7 +686,7 @@ Nifty falls for 5th day Rediff
 
 Nifty IT Falls on Profit-Booking and Geopolitical Tensions Whalesbook
 
-### 67. Sensex Falls for 2nd Day - TradingView
+### 69. Sensex Falls for 2nd Day - TradingView
 
 - Source: TradingView
 - Published: 2026-08-17T10:20:48+00:00
@@ -676,7 +696,7 @@ Nifty IT Falls on Profit-Booking and Geopolitical Tensions Whalesbook
 
 Sensex Falls for 2nd Day TradingView
 
-### 68. IT Stocks Today: Nifty IT falls 1.65%; Infosys, TCS, HCL Tech among top losers — What is Goldman Sachs saying? - Zee Business
+### 70. IT Stocks Today: Nifty IT falls 1.65%; Infosys, TCS, HCL Tech among top losers — What is Goldman Sachs saying? - Zee Business
 
 - Source: Zee Business
 - Published: 2026-08-17T09:24:00+00:00
@@ -686,7 +706,7 @@ Sensex Falls for 2nd Day TradingView
 
 IT Stocks Today: Nifty IT falls 1.65%; Infosys, TCS, HCL Tech among top losers — What is Goldman Sachs saying? Zee Business
 
-### 69. SENSEX drops over 300 points, NIFTY50 hovers around 24,300 SBI, L&T top drags - Dailyhunt
+### 71. SENSEX drops over 300 points, NIFTY50 hovers around 24,300 SBI, L&T top drags - Dailyhunt
 
 - Source: Dailyhunt
 - Published: 2026-08-17T09:22:50+00:00
@@ -696,7 +716,7 @@ IT Stocks Today: Nifty IT falls 1.65%; Infosys, TCS, HCL Tech among top losers �
 
 SENSEX drops over 300 points, NIFTY50 hovers around 24,300 SBI, L&T top drags Dailyhunt
 
-### 70. Nifty 50 Falls 0.33% as West Asia Tensions Weigh; Urea Prices Plunge 60% - Dalal Street Investment Journal
+### 72. Nifty 50 Falls 0.33% as West Asia Tensions Weigh; Urea Prices Plunge 60% - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-17T07:28:41+00:00
@@ -706,7 +726,7 @@ SENSEX drops over 300 points, NIFTY50 hovers around 24,300 SBI, L&T top drags Da
 
 Nifty 50 Falls 0.33% as West Asia Tensions Weigh; Urea Prices Plunge 60% Dalal Street Investment Journal
 
-### 71. Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin concerns outweigh strong AC... - Moneycontrol.com
+### 73. Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin concerns outweigh strong AC... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T04:50:57+00:00
@@ -716,7 +736,7 @@ Nifty 50 Falls 0.33% as West Asia Tensions Weigh; Urea Prices Plunge 60% Dalal S
 
 Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin concerns outweigh strong AC... Moneycontrol.com
 
-### 72. Stock Market Crash? Sensex Falls Over 300 Points, Global Tensions Trigger Selling Pressure, What Happens Next? - Dynamite News
+### 74. Stock Market Crash? Sensex Falls Over 300 Points, Global Tensions Trigger Selling Pressure, What Happens Next? - Dynamite News
 
 - Source: Dynamite News
 - Published: 2026-08-17T04:48:37+00:00
@@ -726,7 +746,7 @@ Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin con
 
 Stock Market Crash? Sensex Falls Over 300 Points, Global Tensions Trigger Selling Pressure, What Happens Next? Dynamite News
 
-### 73. Shares Extend Losing Streak To Fifth Session; Sensex Falls 281 Pts - BW Businessworld
+### 75. Shares Extend Losing Streak To Fifth Session; Sensex Falls 281 Pts - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-08-17T03:30:05+00:00
@@ -736,7 +756,7 @@ Stock Market Crash? Sensex Falls Over 300 Points, Global Tensions Trigger Sellin
 
 Shares Extend Losing Streak To Fifth Session; Sensex Falls 281 Pts BW Businessworld
 
-### 74. Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast | Part 01 - BusinessLine
+### 76. Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast | Part 01 - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-08-17T16:59:49+00:00
@@ -746,7 +766,7 @@ Shares Extend Losing Streak To Fifth Session; Sensex Falls 281 Pts BW Businesswo
 
 Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On the beat podcast | Part 01 BusinessLine
 
-### 75. India Mutual Fund AUM Hits Record ₹85.76 Lakh Crore in July - Whalesbook
+### 77. India Mutual Fund AUM Hits Record ₹85.76 Lakh Crore in July - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-17T16:58:05+00:00
@@ -756,7 +776,7 @@ Crude oil, rupee & FPI outflows: Why experts say India is still resilient | On t
 
 India Mutual Fund AUM Hits Record ₹85.76 Lakh Crore in July Whalesbook
 
-### 76. India’s mutual fund industry grows! Assets under management hit new record of Rs 85.76 lakh crore - The Times of India
+### 78. India’s mutual fund industry grows! Assets under management hit new record of Rs 85.76 lakh crore - The Times of India
 
 - Source: The Times of India
 - Published: 2026-08-17T16:30:00+00:00
@@ -766,7 +786,7 @@ India Mutual Fund AUM Hits Record ₹85.76 Lakh Crore in July Whalesbook
 
 India’s mutual fund industry grows! Assets under management hit new record of Rs 85.76 lakh crore The Times of India
 
-### 77. Nippon India Mutual Fund launches an income plus arbitrage fund of funds; details here - livemint.com
+### 79. Nippon India Mutual Fund launches an income plus arbitrage fund of funds; details here - livemint.com
 
 - Source: livemint.com
 - Published: 2026-08-17T11:14:50+00:00
@@ -776,7 +796,7 @@ India’s mutual fund industry grows! Assets under management hit new record of 
 
 Nippon India Mutual Fund launches an income plus arbitrage fund of funds; details here livemint.com
 
-### 78. Your mutual fund has a cost you may not notice. Here's who gets a cut - India Today
+### 80. Your mutual fund has a cost you may not notice. Here's who gets a cut - India Today
 
 - Source: India Today
 - Published: 2026-08-17T09:38:12+00:00
@@ -785,23 +805,3 @@ Nippon India Mutual Fund launches an income plus arbitrage fund of funds; detail
 - Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTXlKN1R4N2ItM05RRDFhQjFxMWZLLXpEUnBITmZ4cmgydk9feTY2d0tSWk5fRzlEX3B4TmJjbHJPd2RvSGNnZ1dSNFBXZWZKanZDc1ZrY3VVSUhHaU9ZY2ctbGJXcDJmU0p0aGI5eVJ2Q0ZYaTlzdWdpLTcxOTRLUFNycXRodjl2bmFxSHdjVnA5aXdSaG5BSmF5bmVpdE9QMl9wS1ctWE1lS3lBVnlmS08yU2tPVlpSd05GaDhoYTNfWVE3Y2pDRmFfZWZlc1RVelUyRW9zQmpOc1BEMlNBdGtOZ1puQdIB5gFBVV95cUxNTXlKN1R4N2ItM05RRDFhQjFxMWZLLXpEUnBITmZ4cmgydk9feTY2d0tSWk5fRzlEX3B4TmJjbHJPd2RvSGNnZ1dSNFBXZWZKanZDc1ZrY3VVSUhHaU9ZY2ctbGJXcDJmU0p0aGI5eVJ2Q0ZYaTlzdWdpLTcxOTRLUFNycXRodjl2bmFxSHdjVnA5aXdSaG5BSmF5bmVpdE9QMl9wS1ctWE1lS3lBVnlmS08yU2tPVlpSd05GaDhoYTNfWVE3Y2pDRmFfZWZlc1RVelUyRW9zQmpOc1BEMlNBdGtOZ1puQQ?oc=5
 
 Your mutual fund has a cost you may not notice. Here's who gets a cut India Today
-
-### 79. Jio BlackRock AMC launches regular mutual fund plans available via distributors - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-08-17T15:41:07+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOd1ZJR3NCcmRnMkVPWFphSmM1LUc5a3ZSbEd5Q3pHa3VuLTJOTmJBX3Z1bTRVTDRpdkZNVl9ldEhKNHVfbFotMFpEZTlCUndidjdKN2h2dlR1LTlndHdkZ0F3LUdOMkhsLTZIc0V2LU51NlhMajI4eHpWTjBELUxuN1NJTEVKUWNlVE1oN3N6c3d3UFJhQWtGcWp6Z2xNOWVDZE5kSHZUNGZXUTlJYjMzWmMwYnFTX3pJcFRocWtrdFhBZm5jblp3ZnQ4RTh1d1VoYldkM3o0Ul9RR2lud0Z3WXJB0gHiAUFVX3lxTE53VklHc0JyZGcyRU9YWmFKYzUtRzlrdlJsR3lDekdrdW4tMk5OYkFfdnVtNFVMNGl2Rk1WX2V0SEo0dV9sWi0wWkRlOUJSd2J2N0o3aHZ2VHUtOWd0d2RnQXctR04ySGwtNkhzRXYtTnU2WExqMjh4elZOMEQtTG43U0lMRUpRY2VUTWg3c3pzd3dQUmFBa0ZxanpnbE05ZUNkTmRIdlQ0ZldROUliMzNaYzBicVNfeklwVGhxa2t0WEFmbmNuWndmdDhFOHV3VWhiV2QzejRSX1FHaW53RndZckE?oc=5
-
-Jio BlackRock AMC launches regular mutual fund plans available via distributors The Economic Times
-
-### 80. Sebi makes mutual fund registration simpler with one application form - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-08-17T14:08:26+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMEU2YlJGblo4QmE2cGN6UGhscm5hVGktZWQ0bHlKUW1yR3pRSFJWNThaSDBKRkdQRS1mVTBFd05Db25sUHRzZXdkbndBU3cxSGszbl9oNzA2T2VCZFN6enhtT3FsdUozTHRoMlZILUFlTXZxRENQVGNCNGo2a1poMHZFMFU4TUY4SV9XQUFjTV9keEVxYlRaVXlJZzctVG50b3hlZExGSkRQRVk0OTdPZG91MkQ3T01xdWZ4X1R6ZThpcUtFcjlCaGd4cEl5V29rZzZoVdIB1AFBVV95cUxQMEU2YlJGblo4QmE2cGN6UGhscm5hVGktZWQ0bHlKUW1yR3pRSFJWNThaSDBKRkdQRS1mVTBFd05Db25sUHRzZXdkbndBU3cxSGszbl9oNzA2T2VCZFN6enhtT3FsdUozTHRoMlZILUFlTXZxRENQVGNCNGo2a1poMHZFMFU4TUY4SV9XQUFjTV9keEVxYlRaVXlJZzctVG50b3hlZExGSkRQRVk0OTdPZG91MkQ3T01xdWZ4X1R6ZThpcUtFcjlCaGd4cEl5V29rZzZoVQ?oc=5
-
-Sebi makes mutual fund registration simpler with one application form The Economic Times
