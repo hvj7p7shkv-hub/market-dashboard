@@ -1578,14 +1578,26 @@ def html_page(payload: dict[str, object]) -> str:
     .metric b {{ display: block; font-size: 20px; margin-top: 4px; font-variant-numeric: tabular-nums; }}
     .empty {{ padding: 16px; color: var(--muted); }}
     @media (max-width: 980px) {{
+      header {{ position: static; padding: 14px 16px 12px; }}
+      h1 {{ font-size: 20px; line-height: 1.2; }}
+      main {{ padding: 12px 12px 28px; gap: 12px; }}
       .grid, .two-col, .three-col, .metric-grid {{ grid-template-columns: 1fr; }}
       .topbar {{ grid-template-columns: 1fr; }}
-      .header-actions {{ justify-content: stretch; }}
-      .stance, .refresh-panel {{ min-width: 0; flex: 1 1 220px; }}
+      .header-actions {{ display: grid; grid-template-columns: 1fr 1fr; justify-content: stretch; }}
+      .stance, .refresh-panel {{ min-width: 0; padding: 8px 10px; box-shadow: none; }}
+      .stance b {{ font-size: 15px; }}
+      .refresh-panel b {{ font-size: 13px; }}
+      .refresh-panel button {{ min-height: 30px; margin-top: 6px; }}
       th {{ position: static; }}
       .wire {{ grid-template-columns: 1fr; }}
       .note-browser {{ grid-template-columns: 1fr; }}
       .note-list {{ border-right: 0; border-bottom: 1px solid #edf0ec; max-height: 320px; }}
+    }}
+    @media (max-width: 560px) {{
+      .header-actions {{ grid-template-columns: 1fr; }}
+      .refresh-panel, .stance {{ width: 100%; }}
+      .section-title {{ align-items: flex-start; padding: 12px 12px 0; }}
+      .section-title h2 {{ font-size: 16px; }}
     }}
   </style>
 </head>

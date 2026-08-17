@@ -1,7 +1,7 @@
 {
   "tag": "stocks/watchlist",
-  "generated_at": "2026-08-17 20:33",
-  "count": 51,
+  "generated_at": "2026-08-17 22:57",
+  "count": 52,
   "notes": [
     {
       "id": "F5D9DFBB-81D7-47A6-91C5-59B848F152B0",
@@ -1173,15 +1173,37 @@
     {
       "id": "A0CF4AD2-CA2F-4F3F-95D3-D9CB7CBB4D49",
       "title": "Deep Industries",
-      "modified": "2026-08-17T11:34:37.474271Z",
+      "modified": "2026-08-17T15:23:31.869001Z",
       "bear_link": "bear://x-callback-url/open-note?id=A0CF4AD2-CA2F-4F3F-95D3-D9CB7CBB4D49",
       "excerpt": "# Deep Industries #stocks #stocks/watchlist #stocks/watchlist/deepindustries --- ## 2026-08-17 Action: Watching Observation: Daily chart. Breakout to fresh all-time high (₹680.70, +1.79% today) after clearing the ₹619.20 resistance level, which had capped the stock since a prior...",
-      "note": "# Deep Industries\n\n\n#stocks #stocks/watchlist #stocks/watchlist/deepindustries\n\n---\n\n## 2026-08-17\n\nAction: Watching\n\nObservation:\nDaily chart. Breakout to fresh all-time high (₹680.70, +1.79% today) after clearing the ₹619.20 resistance level, which had capped the stock since a prior swing high around Nov 2024. Stock had a strong run from ~₹240 (early 2024) up to ~₹619 by Nov 2024, then spent all of 2025 in a broad, choppy correction down to ~₹360 (March 2026) before recovering back to retest the ₹619 level and now breaking above it decisively with strong follow-through. Clean structural breakout above a ~21-month resistance zone.",
-      "images": [],
+      "note": "# Deep Industries\n\n\n#stocks #stocks/watchlist #stocks/watchlist/deepindustries\n\n---\n\n## 2026-08-17\n\nAction: Watching\n\nObservation:\nDaily chart. Breakout to fresh all-time high (₹680.70, +1.79% today) after clearing the ₹619.20 resistance level, which had capped the stock since a prior swing high around Nov 2024. Stock had a strong run from ~₹240 (early 2024) up to ~₹619 by Nov 2024, then spent all of 2025 in a broad, choppy correction down to ~₹360 (March 2026) before recovering back to retest the ₹619 level and now breaking above it decisively with strong follow-through. Clean structural breakout above a ~21-month resistance zone.\n![](deep_industries_20260817.png)",
+      "images": [
+        {
+          "original_ref": "deep_industries_20260817.png",
+          "filename": "deep_industries_20260817.png",
+          "asset_path": "assets/deep-industries-01-deep-industries-20260817-png.png",
+          "source_extension": "png"
+        }
+      ],
       "tags": [
         "stocks",
         "stocks/watchlist",
         "stocks/watchlist/deepindustries"
+      ],
+      "listed_in_index": true
+    },
+    {
+      "id": "DC9A9907-E9D2-4B2E-8F77-231A61AE4314",
+      "title": "Ramkrishna Forgings",
+      "modified": "2026-08-17T15:28:16.021949Z",
+      "bear_link": "bear://x-callback-url/open-note?id=DC9A9907-E9D2-4B2E-8F77-231A61AE4314",
+      "excerpt": "# Ramkrishna Forgings #stocks #stocks/watchlist #stocks/watchlist/ramkrishnaforgings --- ## 2026-08-17 Action: Watching Observation: Daily chart. Strong breakout to ₹755.00 (+3.06% today) after clearing the ₹633.70 resistance level in early August — roughly +19% in two weeks pos...",
+      "note": "# Ramkrishna Forgings\n\n#stocks #stocks/watchlist #stocks/watchlist/ramkrishnaforgings\n\n---\n\n## 2026-08-17\n\nAction: Watching\n\nObservation:\nDaily chart. Strong breakout to ₹755.00 (+3.06% today) after clearing the ₹633.70 resistance level in early August — roughly +19% in two weeks post-breakout. Correction from initial read: this is not an all-time high. Zooming out, the stock peaked near ₹1,080 in late 2024/early 2025, then spent all of 2025 in a deep correction down to ~₹460 (March-April 2026) before recovering. Next meaningful resistance above current price is ₹837.15 (a level tested multiple times through 2024–2025) — that's the realistic near-term target, not fresh all-time-high territory. Below that, the ₹1,080 prior high remains the larger structural ceiling.",
+      "images": [],
+      "tags": [
+        "stocks",
+        "stocks/watchlist",
+        "stocks/watchlist/ramkrishnaforgings"
       ],
       "listed_in_index": true
     }
