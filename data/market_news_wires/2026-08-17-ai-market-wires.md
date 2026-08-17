@@ -1,20 +1,20 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-17 08:09
+Generated: 2026-08-17 10:06
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. Nifty 50 Falls 0.46%, Sensex Drops 0.60% as Crude Stays Near $89 - Dalal Street Investment Journal
+### 1. Sensex falls 520 points, Nifty down 137 as Iran war weighs on sentiment | Rupee fell 17 paise to 95.59 against dollar | Inshorts - Inshorts
 
-- Source: Dalal Street Investment Journal
-- Published: 2026-08-17T05:23:21+00:00
+- Source: Inshorts
+- Published: 2026-08-17T06:33:24+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNZ2tJQUJFZmUxb0NlcVdEVUpzMWZ6ak1WdTk3MXZucUFFcklQdUdzNzQ5bWtlZk5CSzM5OU9vajNoUXNGLWhNRlJKbVNKX3BkaGlJbzhjdno1VjdfNVQ1VUx0Sm9RTDFLeVdVMFhJSHo2bl9nbzV6ZUxRY29scExIaHl2M3VoNFZXWFVRR1lyR0hHLXQ5cXdHa1FCMXBURjdHTGhYSFdMRFR0amM?oc=5
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQTnNWclFvNEZoSVFkSUgtQTRnQlZuLWFLY3hPUHR3aWV1NVhmZERZUXFZT1I4WjltbHltRjNLUi1kWDd2VEgzdW1FMkpEN05zTFJaRDN4VV9FREZjQ0FBUk5NTFNlVWpnajBOMTB6Z0hqczFfNlhCVktOeFBqQkJJMFFLN2NlbGVyNWxYWjBES3ktaDdycTlLa1FkZWVyUnpkN3FOQWt6MWlCci1iMERXRTc3WUg4Q2hiREHSAboBQVVfeXFMUE5zVnJRbzRGaElRZElILUE0Z0JWbi1hS2N4T1B0d2lldTVYZmREWVFxWU9SOFo5bWx5bUYzS1ItZFg3dlRIM3VtRTJKRDdOc0xSWkQzeFVfRURGY0NBQVJOTUxTZVVqZ2owTjEwemdIanMxXzZYQlZLTnhQakJCSTBRSzdjZWxlcjVsWFowREt5LWg3cnE5S2tRZGVlclJ6ZDdxTkFrejFpQnItYjBEV0U3N1lIOENoYkRB?oc=5
 
-Nifty 50 Falls 0.46%, Sensex Drops 0.60% as Crude Stays Near $89 Dalal Street Investment Journal
+Sensex falls 520 points, Nifty down 137 as Iran war weighs on sentiment | Rupee fell 17 paise to 95.59 against dollar | Inshorts Inshorts
 
 ### 2. Stock Market News: Markets decline in early trade amid rising crude oil prices, Sensex falls 285 points to 77 - India.com
 
@@ -86,17 +86,7 @@ Sensex Drops 300 Points As Iran War Fuels Crude Concerns; India VIX Jumps 2% out
 
 Sensex falls over 300 pts, Nifty below 24,300 as oil hits $90; IT, PSU stocks lead the slide The Economic Times
 
-### 9. Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market; What Caused Today’s Sell-Off - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-08-16T23:53:46+00:00
-- Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPX3ZmRkVpVmRWXy1uRzBtcUh2YzRIYkNiSU5NdV94VHBKZ3RwTVBUQU1Nd29xSDNZLWgtMjZCVmtjLWNUMnhCNkJaZUFYMlI4dzBTWDVtdmFhMFpBRUlTWnlsR3M0eW9CeWNGU0c3RlpWNThoRVB0U0JBRFR5ZE13MW1FR05iNEJ5Y3BTdjdRcE5LS2tLVWJobGdUal9tMHFVSWZuNGlLYUpseUszS09pcnR3c2dDZl9qOE9RTE8yQ0hEdDFycmtyMHhQOFNYM2lpX193XzNMR3Y?oc=5
-
-Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market; What Caused Today’s Sell-Off Goodreturns
-
-### 10. SanDisk Stock Slides as Memory-Chip Selloff Tests AI Rally - Beijing Times
+### 9. SanDisk Stock Slides as Memory-Chip Selloff Tests AI Rally - Beijing Times
 
 - Source: Beijing Times
 - Published: 2026-08-16T22:09:58+00:00
@@ -106,17 +96,77 @@ Sensex, Nifty Slide Again as Global Trade Tensions, FII Selling Spook The Market
 
 SanDisk Stock Slides as Memory-Chip Selloff Tests AI Rally Beijing Times
 
-### 11. Oil India among top 5 midcap stocks that saw highest mutual fund selling in July - The Economic Times
+### 10. Sensex Falls 432 Points, Nifty Slips as Markets Open Lower Amid West Asia Tensions, Rising Oil Prices - Hindusthan Samachar English
+
+- Source: Hindusthan Samachar English
+- Published: 2026-08-16T19:30:00+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPSXdnSkxTM1NtLVFCMWRFbTFOdzQ0MXFDdHdUSjlVQUxWMTdzZ2R5OFVySHBoeWI4UHFfVXBaWU1EcXRScUIzdXM2Z2c3NFBvdmFMdUVMaUtEdzJNV3ZfNzllejFsTFdiLXlpWkRodl9xNGJZQm8yazFyQ25xUTFaR0RIdDR3M1k2VXdjSmVvdw?oc=5
+
+Sensex Falls 432 Points, Nifty Slips as Markets Open Lower Amid West Asia Tensions, Rising Oil Prices Hindusthan Samachar English
+
+### 11. AI market correction is coming, ECB blog predicts - Reuters
+
+- Source: Reuters
+- Published: 2026-08-17T09:18:51+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5
+
+AI market correction is coming, ECB blog predicts Reuters
+
+### 12. ECB warns of elevated AI-driven tech stock valuations, potential correction risks - Crypto Briefing
+
+- Source: Crypto Briefing
+- Published: 2026-08-17T09:11:04+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNM01RV1lNbDAzc29qY19PWXBxN3VxZ3NmdU56d09pc3JQVVdqeHRCTEd6cU5CTXZabk9OTXNLU1Uta3VTVDRfZ0JUbGcyWkdjc3BWbk0tTENnLUVxVmcyQ1dvZzhMaHlMc1RRSEVsQmoyQjFXU0VKNjRKalRZUFB3ejVmbnl3RkdRUlh5Q1lxU2VWR1pBUmM5cWFlZHVuNzZ5ZzlDY2ROU25rUnpL?oc=5
+
+ECB warns of elevated AI-driven tech stock valuations, potential correction risks Crypto Briefing
+
+### 13. AI market correction is coming, ECB blog predicts - TradingView
+
+- Source: TradingView
+- Published: 2026-08-17T09:00:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOc0NJbWU0VjVlaGw3eTV3WjlkNVhvWmVycjlFNVk5dnhMV2IwSDZQZG0zZ1FZWi0ycWpCZmQ5Y3BROWtfYXgzSW5ELXRabzZTd2pSQTRZX3hDQmlvMHd5SERVTkhMZmtEc0xjM21Eb042U3E5WjdGbXBBZ0R3N05lTVNZX2xGeExrN2pVTFdweV83OVhlbEtUR2M0QnVMN2N4bzc1ZjFDdWRCWFJPdktkRk5QM0pLS1QwaXc?oc=5
+
+AI market correction is coming, ECB blog predicts TradingView
+
+### 14. Indian Benchmark Indices Recover From Day’s Low; Nifty 50 Down 0.11%, Sensex Falls 0.23% - Dalal Street Investment Journal
+
+- Source: Dalal Street Investment Journal
+- Published: 2026-08-17T08:58:40+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQeVJ1UUJkMnd6MTdFUVBJMGRaSTFiODA0dG9jYzIxZjJaWWdYcGdGWUN3Q25VbDhTNTJoRE5fN081cVVfRU93czlmaVJJRUJMRDJiRWtmN0tkQjJ2cGJkcFp0eUdQQ0dfeFJ1LTZGMTdZU3U2UEg0ekhIMlBwa01waDdnZjIyZFNlZFpOSk5wX01tU3lRazFSZU41bDZGUlRXb01nR1ZQX19pRERoN0NUYjhDMlJTVktnWXQzeWZsT0NhUFJHcVhVVTd3?oc=5
+
+Indian Benchmark Indices Recover From Day’s Low; Nifty 50 Down 0.11%, Sensex Falls 0.23% Dalal Street Investment Journal
+
+### 15. NMDC Shares Fall 2.30% to Rs 82.46; Stock Among Top Losers on Nifty Midcap 150 - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-17T08:06:28+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWFU3NnRfamhFU0NPSE12WjFMeXBBSW5DNWVTVmQzV29VUVVieVJldkR1cFdYMnlvek02aFU4aFo0RE1GLW1DWGN1SDQ1bWJReFJUNVNqWkkzVEs0dGVVZlo0cDNfU2hIejBmZ1ZIQlNYQXJyeXhramVqOTVSYUQ4UE1KTGNSVlI2cE9mclpmeDc1RDluYXNQTEkzbGRtWndWVTd5Q2FzdFlnNVFfU2N5a2NtUzM1RVdIM0ltQ0lMR2FILVZEV19oV2pQdmxxMjRVYndhTWpSYldqUnFlcURyVXJKb0YxTHk0aHfSAe8BQVVfeXFMTjhRejVoTl83VEhHY01rX2RieWQ0eG5BWVl3VVVKWWpQT0xTcnM0ak1xYWdDeXZ2MnZYQkJudEZKd2p5YV9WaldKRWxIRWQwZG5vcGFOUkI0Ry0wZEdNeTJ1TEVBNnE0b1hhMjRsLU5XTHBTNTRBTFJWWF9jdEc0OUJCRHllcS15S1hzWndZb3lyRWgzUTlKTkRvYjRyd2UxcmQyMXNnbE5MZGc2MkloZ0JEOUxDd1NtMTFZT0Q3MDE2dENsR0NiUDlQd01yZWV1eXNwSk13OGMxVjlIRHFDM3htQnhPekxWLVdWaUdvcmc?oc=5
+
+NMDC Shares Fall 2.30% to Rs 82.46; Stock Among Top Losers on Nifty Midcap 150 Moneycontrol.com
+
+### 16. Oil India among top 5 midcap stocks that saw highest mutual fund selling in July - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-08-17T07:29:14+00:00
+- Published: 2026-08-17T07:17:14+00:00
 - Themes: India market, macro / flows
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPc0JBQm56X2N3QXZENURxUUhpZldONXViUWIzZDFnYUdEbXY2SUNiS0VrYXZ1Wl9WTEpvazVkUFVqTi1icVVrNDNWLXg3cDktb3JDVmY5RGdZRHpBbXFEbG5tSXlBVjl5ZmMwTFhNc2dtWHpNbFlnSi11dVVMaGhEUHVMUmVvLS04T1FPanhHQ3BXemxwQzZaN3NZN1EtWVF6ZFN0VllrOEhaSml2cU1CT2Z5M2VaLWJINFhjbjdBNE5Jb2paLUxtY2I1Mk9WU0ltb1NQSjhYM0o2Szk4?oc=5
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUFV0WGZPQ1BiY3gwWGstTjlTMUFYcklKcTNmX2FZeGptTFpOVnVMUjVBc09lOUQwMDdDbnlxaEE4NXRvc1lScGM1THlOQ2Mzc2FiQTVaZHlkTkt5TEF4MTN5LXRTWWRuWG9kWWNLWFR1SE1ob05KNTA0UVRNamtsWVpjbVlwOWRLUWxxVmc4WDFIR00zV1p1cHY3OUdTem1Yd3BOZlZlTWxxX1FCRS1jeS1wSTd4TEFkWmktbUx2WFl3RExPcERkVldGTV8zUDJoeHBzVFJXVHpDWHNpazZMUlZJQ3V5VkhO?oc=5
 
 Oil India among top 5 midcap stocks that saw highest mutual fund selling in July The Economic Times
 
-### 12. Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51% Amid Uncertain Geopolitical Situation-What Investors Should Know - The Sunday Guardian
+### 17. Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51% Amid Uncertain Geopolitical Situation-What Investors Should Know - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-08-17T05:58:24+00:00
@@ -126,7 +176,7 @@ Oil India among top 5 midcap stocks that saw highest mutual fund selling in July
 
 Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51% Amid Uncertain Geopolitical Situation-What Investors Should Know The Sunday Guardian
 
-### 13. Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade - National Herald
+### 18. Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade - National Herald
 
 - Source: National Herald
 - Published: 2026-08-17T05:52:43+00:00
@@ -136,7 +186,7 @@ Why Is Indian Stock Market Down Today? BSE Sensex Falls 0.63%, Nifty Slips 0.51%
 
 Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade National Herald
 
-### 14. Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 points Amid Mixed Global Cues - Analytics Insight
+### 19. Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 points Amid Mixed Global Cues - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-08-17T05:06:50+00:00
@@ -146,7 +196,7 @@ Sensex falls nearly 285 points, Nifty slips below 24,300 in early trade National
 
 Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 points Amid Mixed Global Cues Analytics Insight
 
-### 15. Sensex Falls 295 Points, Nifty Below 24,350 as Iran-US Tensions Hit Sentiment - The National Bulletin
+### 20. Sensex Falls 295 Points, Nifty Below 24,350 as Iran-US Tensions Hit Sentiment - The National Bulletin
 
 - Source: The National Bulletin
 - Published: 2026-08-17T04:56:15+00:00
@@ -156,27 +206,7 @@ Stock Market Update: Nifty 50 Opens 22.5 points Lower, Sensex Declines 116.33 po
 
 Sensex Falls 295 Points, Nifty Below 24,350 as Iran-US Tensions Hit Sentiment The National Bulletin
 
-### 16. Sensex falls more than 300 points: Trading at 77,700, Nifty also falls 50 points; Heavy selling in IT and b... - Bhaskar English
-
-- Source: Bhaskar English
-- Published: 2026-08-17T04:20:03+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW85dWNrTUVnalJCMjBzS0xUYzBaei0ySHdQWWFqRXJjZUtuUnpZUmxLbFRHSlluSFdOclpEQUpoSXBXWkljc0k0XzVvUmpJc0pWS1Y0bS15UnppaFRScnc3b3ZYM2dOanRWSTJVdE8wS09hLThnRWxqY1pRWnlmNzdXcS0taktSUlBJdEtrYnhWT0Vrdm03TFhDRGMtNE9GbmlhR2JGM2dVRzdqY0JEa2VFYS13dDd2S1I5ak5qc9IBxAFBVV95cUxQMGxiWmRGd1A1V2N6NFVoOE5jT2o3RWhNMF9yVDV1WE1QRkdIVC1LbThLS2lCNnIzRmFGR1BDMnZHQTVSUEtkZEFUSjRIaUl0ZXlhS1pFTFM4VjJVTEtSWUFId09RMXdKRlRlZERJZ3ZweUZXb3FEN3dmUWd6QkR6WWttTmdwbFdBRVRRekhDNmttbWZzd1ZGWjJIVXBaTmYwWnFNUVctV21CNkNWYmJyNFViMXV1Mm90OE5vOUFmLTN1VFpl?oc=5
-
-Sensex falls more than 300 points: Trading at 77,700, Nifty also falls 50 points; Heavy selling in IT and b... Bhaskar English
-
-### 17. Indian shares fall as crude remains at elevated levels - marketscreener.com
-
-- Source: marketscreener.com
-- Published: 2026-08-17T04:15:24+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZDFMd05uUzV6NzFSRmROdjYtc0poa05oeDhPYTJ6RVl2Yk5LaXUyRkVocFVqdTZRRmFYZVNwSTJFZ3R3bnhUdDFaMlVYWUtWUFA2WUxLVmRLT09WaENDajVYM2g1MEI1bXJDUVZNb0ZXZHVCVnFVWmMya19GNUhKSGtLcFpZTzZBWVdYcVZNSlZVU1IxcXYzWXQ4Tl9ERDRmM3EtTkhBQ0p4Zmc?oc=5
-
-Indian shares fall as crude remains at elevated levels marketscreener.com
-
-### 18. Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On Sentiment - News18
+### 21. Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On Sentiment - News18
 
 - Source: News18
 - Published: 2026-08-17T04:01:32+00:00
@@ -186,7 +216,7 @@ Indian shares fall as crude remains at elevated levels marketscreener.com
 
 Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On Sentiment News18
 
-### 19. Gift Nifty Falls 34 Points, Signals Muted Start For Markets As Iran-US Tensions Keep Oil Prices Elevated - News18
+### 22. Gift Nifty Falls 34 Points, Signals Muted Start For Markets As Iran-US Tensions Keep Oil Prices Elevated - News18
 
 - Source: News18
 - Published: 2026-08-17T02:18:13+00:00
@@ -196,17 +226,7 @@ Sensex Falls 295 Points, Nifty Opens Below 24,350 As Iran-US Tensions Weigh On S
 
 Gift Nifty Falls 34 Points, Signals Muted Start For Markets As Iran-US Tensions Keep Oil Prices Elevated News18
 
-### 20. The bull market is back, and so is the market's appetite for risk! As the semiconductor sector leads a resurgence that reignites the stock market's primary uptrend, FOMO could trigger significant volatility. - Moomoo
-
-- Source: Moomoo
-- Published: 2026-08-17T00:03:18+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxQUUJwTm53bl9ybUdnNmpfZ2VGVmdoSFR4MHZIRFE2YlhTbzNoQlhjNWJrT3BkNXpvWGZZTUMyUGNzR2hUdDFJamtzYy1YM29DZVJUTElsbGhRNFpQNjZZcTRmY1gyOFdNejRYRU54RjdHbXZ4MVRXZ3hhMGtVZG8tMDFuYU9kbXBDQTJZUXNuRQ?oc=5
-
-The bull market is back, and so is the market's appetite for risk! As the semiconductor sector leads a resurgence that reignites the stock market's primary uptrend, FOMO could trigger significant volatility. Moomoo
-
-### 21. Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The Selloff Ruth Chris (6pKsYcyyPD) - Mshale
+### 23. Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The Selloff Ruth Chris (6pKsYcyyPD) - Mshale
 
 - Source: Mshale
 - Published: 2026-08-16T23:50:13+00:00
@@ -216,7 +236,7 @@ The bull market is back, and so is the market's appetite for risk! As the semico
 
 Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The Selloff Ruth Chris (6pKsYcyyPD) Mshale
 
-### 22. Markets End Lower As Rising Crude Triggers Profit-Booking; Sensex Falls Nearly 400 Pts - BW Businessworld
+### 24. Markets End Lower As Rising Crude Triggers Profit-Booking; Sensex Falls Nearly 400 Pts - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-08-16T17:16:36+00:00
@@ -226,7 +246,7 @@ Cathie Wood Is Going ALL IN - 3 AI Stocks She Is Buying Aggressively After The S
 
 Markets End Lower As Rising Crude Triggers Profit-Booking; Sensex Falls Nearly 400 Pts BW Businessworld
 
-### 23. Analyst Sets $20 Street-High Target On SoundHound AI (NASDAQ: SOUN), Projecting 167% Upside After Year-Long Selloff - foreignpolicyjournal.com
+### 25. Analyst Sets $20 Street-High Target On SoundHound AI (NASDAQ: SOUN), Projecting 167% Upside After Year-Long Selloff - foreignpolicyjournal.com
 
 - Source: foreignpolicyjournal.com
 - Published: 2026-08-16T14:29:00+00:00
@@ -236,7 +256,7 @@ Markets End Lower As Rising Crude Triggers Profit-Booking; Sensex Falls Nearly 4
 
 Analyst Sets $20 Street-High Target On SoundHound AI (NASDAQ: SOUN), Projecting 167% Upside After Year-Long Selloff foreignpolicyjournal.com
 
-### 24. AI Stocks See Sharp Correction: BofA Names 16 Oversold Buys, Oracle Down Over 50% From Peak - finance.biggo.com
+### 26. AI Stocks See Sharp Correction: BofA Names 16 Oversold Buys, Oracle Down Over 50% From Peak - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-08-16T10:35:00+00:00
@@ -246,47 +266,37 @@ Analyst Sets $20 Street-High Target On SoundHound AI (NASDAQ: SOUN), Projecting 
 
 AI Stocks See Sharp Correction: BofA Names 16 Oversold Buys, Oracle Down Over 50% From Peak finance.biggo.com
 
-### 25. IT stocks fall: TCS, Infosys, Mphasis, others drag Nifty IT down 2%; check key factors behind today's drop - Upstox
+### 27. Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin concerns outweigh strong AC... - Moneycontrol.com
 
-- Source: Upstox
-- Published: 2026-08-17T06:25:27+00:00
+- Source: Moneycontrol.com
+- Published: 2026-08-17T04:50:57+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMkp1SzRrXzl5VXVtZUVEaFY2Y0FrZWYyTDJuc3lQNXBSQWg2eVBxbGpPbVA1VlFmdGxSUmY4cnkyZDEwNmJSUkxGbUVwMlhIMDZlbmNmN2Itc2hyVjhxQ3VtNDI4Wlp2Vk9kRzVONl81WU5qd20wQmFGSFg0U2dZNzBfZjlBRG5pMFVvNzJGUGJGdmpiSE5kczRyZE1Wd2xnZWxQaVhCRXZJZWlNRVBCaUl4YVhlQmI0ZGN4Y3dmNXZNaWdlSmQ3ckJXNXFNUndYeWRJbWl6cGhtczh5S3VoSTNHam5Ccno0c2VlUXNuU2g?oc=5
+- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNM1BjSnF5cFF2MXA2MXkta1RPb3hEUHJUU19JU2VVMXBXU2xCUnBKblN1TGZKb0VCRWhoSG1xNWhJVktJWUtiTlFRNlcxUGNFSWhWYWRXTk95U2N5LWx3OHBFMmMteHpVNmtIT0hzd3F2MldVTHREZVc0bkpjNnZ0MjZzbXR3bVFJWnpCSzZEZnVfN2lFaVdSaWFQOENLVTE4MGZNTW8xdnliTTEzT05KRThLdXltTDdJYU5oX2dUalJOSkQ0U3h1RGt4TDZUQm9aUkpFWk5fLTJoR3hWWDgyWUdsNE1uWXZJRXNfeUtXa9IB9AFBVV95cUxNajktRGcwMy1qQk5Fd3Q3ZEJJU1VpX1laR3ZGYlZ3dWhRZzR5d182ektEOXZHc0thcTFvQUtndjJvTmRjeWRqbklQMW1PN2t3VEdscElaVXRDajI2QlY0TlNfc1N2RUIzNTdKOHVGT3NNcXpXaVU4R3d4ME5Hdmp2QWNobk13bEdBX0I0TjFKeG0wUjNWcVpEal9UcjM3eHRvMVIwOTVnOEVicEdBUkMyT210ekJreno3NFZ4TERVLVZ2eC1sVGpnX3UzdXFzbkFVMGNBMGQ4Y0xKWVBfQU5BSTRPa0NmQUFicDB2bk1EWTRsWW83?oc=5
 
-IT stocks fall: TCS, Infosys, Mphasis, others drag Nifty IT down 2%; check key factors behind today's drop Upstox
+Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin concerns outweigh strong AC... Moneycontrol.com
 
-### 26. Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin concerns outweigh strong AC growth - TradingView
-
-- Source: TradingView
-- Published: 2026-08-17T04:50:00+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxQd3ZCWE5LejBmdFpVN2dMSDNmOEtMVU9VLXNRb2ZSeGNWWEp4N3YydkdRUFNicXNRNkU1bk9rV0dxb3RvOVo3ZkM5amVTUV94SkFrMVNqOXRlRV9nc1phWEdVRm51U0Z3TDE4NnBrNmpXSFFCaEdPS3g4SGhONjNYR0doQWNfbHdnM016ZmhjeER5TzZFVGtzX0JHYmtyR19KdDRwaFRjQkgtNXlsZTdfRzdoNXlWeWVqQjkxeU1kNGNXV2ExbzlsN09QNml0YmdKVWFYWlo0bmo1RlVjQjBGOFVqa1BmRHFGTG5VUzY2NUZ4R3FLS2NPZTlTNkVCdlUz?oc=5
-
-Voltas stock falls 4% after Q1, top midcap loser; brokerages split as margin concerns outweigh strong AC growth TradingView
-
-### 27. Stock Market Crash? Sensex Falls Over 300 Points, Global Tensions Trigger Selling Pressure, What Happens Next? - Dynamite News
+### 28. Stock Market Crash? Sensex Falls Over 300 Points, Global Tensions Trigger Selling Pressure, What Happens Next? - Dynamite News
 
 - Source: Dynamite News
 - Published: 2026-08-17T04:48:37+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxOVVprLUFnNEVlVVMxdXFPUGxlV240U2ZHNUg4VzBCRHBXT1o5S2lTUG90dkxHTkdIeVBwY0Q1UkhQNGZ4QnhNaElXdDVSdkVZTjE0Q0VSZ1dXLUNnWHNyUUVmYnZLdU55dzhrNmtvMk5ReUVuN3g2ZWNxb3RralhVNlY4ZkZqVGhNWlRJRVh1TnV4bjN1UW9hcEluaWFVQ0VSbUJqcXFCUGJCWFVfNHU3M1laV01YZUYyTGQyYUlRamVIY1hDaENLT3RESmtGMFRTR1RVZEZ5dzM2RDZv0gHiAUFVX3lxTE9NbndhWXdqbFZHRi1TdVJGbS1tSDhkSVpub3UtSlpWWVVtdVoycXBfVUJaNFZvUUhrZFFjcmM5NHVEV2VhVERmVDFEVlNWVE9HbnZJX0RYdmFSMlIyVU5hMEs2c0kyNmZGTkMzdjN3VGFpSHN2YTdTcHNhSHZuMWRNdXY2S1E0Y01zaDBXRzRNRW0zR19CbFI3Qlk1aGJfT2pEMlJ1RFM4Ulg3NjRlQ2tTdWNJQzl1dW40d2VJUjJMbXZ4R0dTZi0ydEtaZUp0ajY4RkV2blQya1VoN0pEajZLbEE?oc=5
+- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTW53YVl3amxWR0YtU3VSRm0tbUg4ZElabm91LUpaVllVbXVaMnFwX1VCWjRWb1FIa2RRY3JjOTR1RFdlYVREZlQxRFZTVlRPR252SV9EWHZhUjJSMlVOYTBLNnNJMjZmRk5DM3Yzd1RhaUhzdmE3U3BzYUh2bjFkTXV2NktRNGNNc2gwV0c0TUVtM0dfQmxSN0JZNWhiX09qRDJSdURTOFJYNzY0ZUNrU3VjSUM5dXVuNHdlSVIyTG12eEdHU2YtMnRLWmVKdGo2OEZFdm5UMmtVaDdKRGo2S2xB0gHiAUFVX3lxTE9NbndhWXdqbFZHRi1TdVJGbS1tSDhkSVpub3UtSlpWWVVtdVoycXBfVUJaNFZvUUhrZFFjcmM5NHVEV2VhVERmVDFEVlNWVE9HbnZJX0RYdmFSMlIyVU5hMEs2c0kyNmZGTkMzdjN3VGFpSHN2YTdTcHNhSHZuMWRNdXY2S1E0Y01zaDBXRzRNRW0zR19CbFI3Qlk1aGJfT2pEMlJ1RFM4Ulg3NjRlQ2tTdWNJQzl1dW40d2VJUjJMbXZ4R0dTZi0ydEtaZUp0ajY4RkV2blQya1VoN0pEajZLbEE?oc=5
 
 Stock Market Crash? Sensex Falls Over 300 Points, Global Tensions Trigger Selling Pressure, What Happens Next? Dynamite News
 
-### 28. Week Ahead On D-Street: US Fed Minutes, FPI Inflows, Crude Oil Prices, US-Iran Conflict To Drive Sensex, Nifty - NDTV Profit
+### 29. Your mutual fund has a cost you may not notice. Here's who gets a cut - India Today
 
-- Source: NDTV Profit
-- Published: 2026-08-16T08:17:41+00:00
-- Themes: India market, macro / flows
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMll2NmRPaGJZRHVCdS1IYzdrU0I5ZDRjZWFBeTVGcGdQVTlDbUdnelE1b1Nta3hfVm92YTljNGh6X1BUWE9JbFY2UlJWQ3RJYWNhRjhEa1dqX0dfM3hEQ0hIUnFxX00zYVVBV2NmdVYwUnJBY1FOMUpkRVJaMVZ1bEQ2UzlUMnd5amhKN0FSdk5md0V6OW44TEQ2N0piVVFkbERrVnJMbmhNNFpTNmtfZGg3TmtKQVZFT1AzREJTNEtKV0lFeVpKaVhSaUJDeE1kRXhB0gHbAUFVX3lxTE0wMFFRakhyRDVROTlET0psQnl3MGZnVUpLY25ETXVEMjQ1NXJSVkVXWTBzZlpvT3BnVjd2VGo1VW9QaTFqb1p4OUF3NVE3aE1idnctRzM3R1N5OVItdzhxWjZHM29KTkt0QV9RXzFpXzloTGFXSFhJd1plWlJUeGxLaWVUa0lUdW1uNGoxYkpLX0cwcUVzdl83eFgweTdHc3M2NFZNYVNuNTlvbXRsNFo1bU9vcHpmcE5DNjdRS2JtM1R6aE1GZWdkSk91YnNmZVMxaTJFRURPZFM3OA?oc=5
+- Source: India Today
+- Published: 2026-08-17T09:38:12+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxNTXlKN1R4N2ItM05RRDFhQjFxMWZLLXpEUnBITmZ4cmgydk9feTY2d0tSWk5fRzlEX3B4TmJjbHJPd2RvSGNnZ1dSNFBXZWZKanZDc1ZrY3VVSUhHaU9ZY2ctbGJXcDJmU0p0aGI5eVJ2Q0ZYaTlzdWdpLTcxOTRLUFNycXRodjl2bmFxSHdjVnA5aXdSaG5BSmF5bmVpdE9QMl9wS1ctWE1lS3lBVnlmS08yU2tPVlpSd05GaDhoYTNfWVE3Y2pDRmFfZWZlc1RVelUyRW9zQmpOc1BEMlNBdGtOZ1puQdIB5gFBVV95cUxNTXlKN1R4N2ItM05RRDFhQjFxMWZLLXpEUnBITmZ4cmgydk9feTY2d0tSWk5fRzlEX3B4TmJjbHJPd2RvSGNnZ1dSNFBXZWZKanZDc1ZrY3VVSUhHaU9ZY2ctbGJXcDJmU0p0aGI5eVJ2Q0ZYaTlzdWdpLTcxOTRLUFNycXRodjl2bmFxSHdjVnA5aXdSaG5BSmF5bmVpdE9QMl9wS1ctWE1lS3lBVnlmS08yU2tPVlpSd05GaDhoYTNfWVE3Y2pDRmFfZWZlc1RVelUyRW9zQmpOc1BEMlNBdGtOZ1puQQ?oc=5
 
-Week Ahead On D-Street: US Fed Minutes, FPI Inflows, Crude Oil Prices, US-Iran Conflict To Drive Sensex, Nifty NDTV Profit
+Your mutual fund has a cost you may not notice. Here's who gets a cut India Today
 
-### 29. Mutual funds raise IT bets as AI fears ease, sector sees sharp rebound - Moneycontrol.com
+### 30. Mutual funds raise IT bets as AI fears ease, sector sees sharp rebound - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T04:30:31+00:00
@@ -296,7 +306,7 @@ Week Ahead On D-Street: US Fed Minutes, FPI Inflows, Crude Oil Prices, US-Iran C
 
 Mutual funds raise IT bets as AI fears ease, sector sees sharp rebound Moneycontrol.com
 
-### 30. Sensex down 300 pts, Nifty near 24,300: Elevated crude oil prices among key factors behind market decline - Moneycontrol.com
+### 31. Sensex down 300 pts, Nifty near 24,300: Elevated crude oil prices among key factors behind market decline - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T04:12:50+00:00
@@ -306,7 +316,7 @@ Mutual funds raise IT bets as AI fears ease, sector sees sharp rebound Moneycont
 
 Sensex down 300 pts, Nifty near 24,300: Elevated crude oil prices among key factors behind market decline Moneycontrol.com
 
-### 31. SIP success is less about timing, more about time - The Hans India
+### 32. SIP success is less about timing, more about time - The Hans India
 
 - Source: The Hans India
 - Published: 2026-08-16T19:19:59+00:00
@@ -316,7 +326,7 @@ Sensex down 300 pts, Nifty near 24,300: Elevated crude oil prices among key fact
 
 SIP success is less about timing, more about time The Hans India
 
-### 32. Best Infrastructure Mutual Funds in India - Business Upturn
+### 33. Best Infrastructure Mutual Funds in India - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-08-16T12:50:33+00:00
@@ -326,47 +336,47 @@ SIP success is less about timing, more about time The Hans India
 
 Best Infrastructure Mutual Funds in India Business Upturn
 
-### 33. Swiggy to Delhivery: 5 stocks where mutual funds raised stakes in Q1 FY27 - Upstox
+### 34. Swiggy to Delhivery: 5 stocks where mutual funds raised stakes in Q1 FY27 - upstox.com
 
-- Source: Upstox
+- Source: upstox.com
 - Published: 2026-08-17T07:45:13+00:00
 - Themes: 
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxObExoT2UyRlRxRDh4am5zdHFrNmZjMHEzUFlObzZQRmdlNmpGTktRbFZEc3JOVFlaUFNUREhKeWRxMV9qOUlGZHpPM3EzMEZyQTdGUUV3UjRDd1cxcGt5a0dSai1BSUttczFiQ0NKcVZTSkdtM1BXZXJpZzhHU2dZRGpxZEs0eTFIbTRZaUFSOFhwOWhwajJWMDd4N2ZfaXRrS09iXzhnckwxeDlKZU5JdWZUOFVXZ09fY3ZaV2JSODF5R3JoMkFhcWhhejU?oc=5
 
-Swiggy to Delhivery: 5 stocks where mutual funds raised stakes in Q1 FY27 Upstox
+Swiggy to Delhivery: 5 stocks where mutual funds raised stakes in Q1 FY27 upstox.com
 
-### 34. Stocks vs mutual funds: What’s better if you don’t have time to invest? | Investment tips - Business Standard
+### 35. Stocks vs mutual funds: What’s better if you don’t have time to invest? | Investment tips - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-17T07:32:00+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOcEJOcXc3MlRaLXZhNGpEeU52TFFhWWN3WnozUHBrRFF5RzYzLWg1YzdmeWJDbEZ6TTRadjV5aGFJeERJem4waGpCUDVqMFhSLWhuTDdvRHpKUmVzQ3NCTzVKX2pJMk5VY3I4dUh4bDBTYXBfRUlIVzhLQnNZTkZsZUpEc2FEZlFfR3BjQjZZUVJnSFllM09pOFNBQTV2Vlk0Nnhnd1hOaGFjbGNmVFlqamdJU0hicVpDMzIteDBlbWRjWmVzMnU2cDVDVjh4WU9yTkpQSVR5ZWk5V1gzUnFXUE95YV9XQdIB6wFBVV95cUxNQlZLaW1wNzN0ZjZzMjJxTU11VjZKaE1PSUU0MWZJeTNyMl90VnhGQ18ySzlBUGpqWl9YUG5GRGlpOVJsVklTY0VoOTdMRHpIZkxvZnpoc0UyTjFLSk1zOFg3b3dnVmtrcXFFNTNOZ3l0UndXZjdDa1VuYUtQVmF5ZlJKSE1XdFlZd0VhV243YzZ4Ung4OWUyeHhYZXlPcVJqTGUwVGM2b3o0SkxWTlpmN0xGSkxIQ2J4NHNRQUJjckJPdGZVSHhaTGwyZ3pFT1FKOEh2Z2xIUXFlQ0hYak5QLUJYXzJkSEtONzgw?oc=5
+- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxNQlZLaW1wNzN0ZjZzMjJxTU11VjZKaE1PSUU0MWZJeTNyMl90VnhGQ18ySzlBUGpqWl9YUG5GRGlpOVJsVklTY0VoOTdMRHpIZkxvZnpoc0UyTjFLSk1zOFg3b3dnVmtrcXFFNTNOZ3l0UndXZjdDa1VuYUtQVmF5ZlJKSE1XdFlZd0VhV243YzZ4Ung4OWUyeHhYZXlPcVJqTGUwVGM2b3o0SkxWTlpmN0xGSkxIQ2J4NHNRQUJjckJPdGZVSHhaTGwyZ3pFT1FKOEh2Z2xIUXFlQ0hYak5QLUJYXzJkSEtONzgw0gHrAUFVX3lxTE1CVktpbXA3M3RmNnMyMnFNTXVWNkpoTU9JRTQxZkl5M3IyX3RWeEZDXzJLOUFQampaX1hQbkZEaWk5UmxWSVNjRWg5N0xEekhmTG9memhzRTJOMUtKTXM4WDdvd2dWa2txcUU1M05neXRSd1dmN0NrVW5hS1BWYXlmUkpITVd0WVl3RWFXbjdjNnhSeDg5ZTJ4eFhleU9xUmpMZTBUYzZvejRKTFZOWmY3TEZKTEhDYng0c1FBQmNyQk90ZlVIeFpMbDJnekVPUUo4SHZnbEhRcWVDSFhqTlAtQlhfMmRIS043ODA?oc=5
 
 Stocks vs mutual funds: What’s better if you don’t have time to invest? | Investment tips Business Standard
 
-### 35. ai market data nifty bank nifty fii dii dow jones cash volume - Zee Business
+### 36. ai market data nifty bank nifty fii dii dow jones cash volume - zeebiz.com
 
-- Source: Zee Business
+- Source: zeebiz.com
 - Published: 2026-08-17T07:06:01+00:00
 - Themes: AI / tech risk, India market
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZzZEOUNOUVFHLVNuT3JBMF9WZUU5ckJBdjd0bmJWX3BYcFdxeGdQLWEwVWkyVGtweGhYeXQ5ai12RWxxd1JqTjMtS2I0NEd2cTgxSjNfY2dtbGNjX2FOTUVkLTZvb1hXMS1zWF96eUNJQjVvUlM5X2VVdU5qQjB3LVhnQUpHaWhGcUJvT255NlZLMGxPeFhLYXYwVG5zdXA2dnFycHVONG5hYkRYNm9rb1lRWm53R1ln?oc=5
 
-ai market data nifty bank nifty fii dii dow jones cash volume Zee Business
+ai market data nifty bank nifty fii dii dow jones cash volume zeebiz.com
 
-### 36. India Short-Tenor Bond Yields Climb on Early Dollar Window Close - bloomberg.com
+### 37. India Short-Tenor Bond Yields Climb on Early Dollar Window Close - Bloomberg.com
 
-- Source: bloomberg.com
+- Source: Bloomberg.com
 - Published: 2026-08-17T05:44:00+00:00
 - Themes: India market, macro / flows
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOSG90RVNONTZGUU9Ka0JBRjBicElyZzd2d3NTVjZlWThuS0QtUV9idWJud0JjNmNyUzVab25qSlFCaUZRTnRwc3Zhc3lWNGRkcEpVeU5XaVNrVkNSNFRNRDFzTWZRMVBybUg5V1lDZjdmUmNubzYtRTB2b1lzTnFmNjRpcHpoN1laNWdEN0ZDMFQ3WTlaaVNxZWRadzRLazJLZVhOMUNYWmM2eHJMd0l4U2o0c1lNZw?oc=5
 
-India Short-Tenor Bond Yields Climb on Early Dollar Window Close bloomberg.com
+India Short-Tenor Bond Yields Climb on Early Dollar Window Close Bloomberg.com
 
-### 37. Best aggressive hybrid mutual funds to invest in August 2026 - The Economic Times
+### 38. Best aggressive hybrid mutual funds to invest in August 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-17T04:56:46+00:00
@@ -376,17 +386,17 @@ India Short-Tenor Bond Yields Climb on Early Dollar Window Close bloomberg.com
 
 Best aggressive hybrid mutual funds to invest in August 2026 The Economic Times
 
-### 38. Sensex, Nifty decline as rising crude prices and West Asia tensions weigh on investor sentiment - mid-day.com
+### 39. Sensex, Nifty decline as rising crude prices and West Asia tensions weigh on investor sentiment - Mid-Day
 
-- Source: mid-day.com
+- Source: Mid-Day
 - Published: 2026-08-17T04:42:00+00:00
 - Themes: India market, macro / flows
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPMnZueU52M2I2N3lxdGg2YXlGU2stQ0ZWdlNacmFpTllzWXNyQUVMVTJuR0NmcS1HcGRnS3l2TldpbXpla0ZBX2hkQmUzbFcyWFJHUF91Sk4tUmJDVVNOM0lBVDNBWkYtb3J2ZnlJQm5mMlBPZklQY2FHcWh2eEhKOVF4dWM2TnRmdThpSFU3d1U0LXd6RFEtbXNGMk1nQTJsNUhlbUJfa0FXNFptcnhURXBETENEVWF1SFpKUWxXMFRFSEFLVkxQR1Npa2w0b1M2Q0FWYnJMSHdZRWpSTGduU1VaV0ViY3RKbldsdU5B0gHzAUFVX3lxTE03cFRLZWkyUzhnUzQtdzB3LWtKd1NyMTQyWDRKeVplbzFGWnlzZ2xrVjN3Y3dGczQxMmczSTAweXpUb210bTloazZkNHM1M1N4QTFTNk14ZFFwSEdHY0UwTFV0c0VORVd6eGRsMXZFbkJMd3p3SXZxLUJuR215eW9hUTFnclgxUFA5WlRYVE40U1RUaUQ5NjlfRUg5TmdERjBYUmNsTTZGZzIweFE2NFhYYXE1TG5GTFlHNlZ2S2toWjhSWnFwaHVkNXhzeXpUMGV2a3FuWDU3bGpXTXNiWDMxRWwwaENXZ0t6YnJqTm5rc3NHMA?oc=5
 
-Sensex, Nifty decline as rising crude prices and West Asia tensions weigh on investor sentiment mid-day.com
+Sensex, Nifty decline as rising crude prices and West Asia tensions weigh on investor sentiment Mid-Day
 
-### 39. Centrum Broking: India Needs Macro Stability To Keep FII Flows - Whalesbook
+### 40. Centrum Broking: India Needs Macro Stability To Keep FII Flows - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-17T04:12:03+00:00
@@ -396,17 +406,17 @@ Sensex, Nifty decline as rising crude prices and West Asia tensions weigh on inv
 
 Centrum Broking: India Needs Macro Stability To Keep FII Flows Whalesbook
 
-### 40. India competing for FII flows since 12 mths: Jignesh Desai, Centrum Broking - Business Standard
+### 41. 'India has been competing for FII flows since 12 mths, but has been losing' - Business Standard
 
 - Source: Business Standard
-- Published: 2026-08-17T04:00:13+00:00
+- Published: 2026-08-17T04:00:54+00:00
 - Themes: India market, macro / flows
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOTU1Id09UU1BNeXlHUVJEekF3aEdQb0JpWU5PWV9MYUpYZnVnM2FVNUdIUUlkV3Z5TUxudDNibTdnbWV0RXo1THlXMkItT2pDekhrTURzM1Qxb2FtaU5Xb2llRmUyc0lUVkY0ZlJlQkdkaGtmWHpYVzgtX2FEeVNZSmI1Wk5UZEJhbmdXaFJLeE51ZFptcV9BS05iZ0pQcDcxbEtYajMwVGVKblFaMW9jMFRzMGJHMEFRd29CY1dMUWlyWklENDNnMmFXY2JrSy1aN0Y1U2JQQdIB3AFBVV95cUxQRVZlZXM3RTVTVXI2TmpxSGM1RTFTNXVJSGNwbVFQOEQxVGx1VjVNaFhmRFItUW9TZlJBMVlvRWtQenhBaDhTLXJac1FhZXpFZVZaM24zdXJqVHVtUUF5ZWJLNnlzcmpLZGk0VUpFWE14THY5dVVNNnljT3UtVkd3V29VZ29UUkpGNGxoZ0hfVlZydlNyR0hfc2pHcHB5d09NeDJ3Um9fdmlJSzdBMWJlTTVXQUdBMGlfd0g2WDVXR2h5bEJNVElvaWNwX2JvbkpRb1Fnb2c5R3gtamR4?oc=5
 
-India competing for FII flows since 12 mths: Jignesh Desai, Centrum Broking Business Standard
+'India has been competing for FII flows since 12 mths, but has been losing' Business Standard
 
-### 41. One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade? - The Economic Times
+### 42. One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-17T03:33:19+00:00
@@ -416,7 +426,7 @@ India competing for FII flows since 12 mths: Jignesh Desai, Centrum Broking Busi
 
 One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade? The Economic Times
 
-### 42. One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade? - The Economic Times
+### 43. One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-17T03:33:00+00:00
@@ -426,7 +436,7 @@ One common stock across 6 top performing mutual funds: Is MCX a signal or a crow
 
 One common stock across 6 top performing mutual funds: Is MCX a signal or a crowded trade? The Economic Times
 
-### 43. Top Mutual Funds Shift Holdings: July 2026 Trade Trends - Whalesbook
+### 44. Top Mutual Funds Shift Holdings: July 2026 Trade Trends - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-17T02:28:02+00:00
@@ -435,16 +445,6 @@ One common stock across 6 top performing mutual funds: Is MCX a signal or a crow
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPcjB1THMyd0NCM29NQVFLTU5ZeEdoWnF2OUNDSHc2amlSUFBnTmNKaU0yUEtNSU1wbzhLYVRFcFNQODI3ODFoemtHUk1jUl96N2h5aWdzNzBnR1UzTlVZLVVaX3hzckx3MHFVTEF5d0QwZzh5S29lWWFLaHFjSDBhczlFM2xxOGZzRTJlZUxxb2JYR0Y1Y1Noa2xOVnBSbzBaNjF2Q0dOOE5DSWVkWG0xazZaWFkwRXJsUFlGNllZZllKclp0dndjaDJidzk?oc=5
 
 Top Mutual Funds Shift Holdings: July 2026 Trade Trends Whalesbook
-
-### 44. Equity mutual funds inflow down by 15%, marginal increase in SIP in July - News On AIR
-
-- Source: News On AIR
-- Published: 2026-08-16T18:43:49+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOMmdibVJLUDMzdmZRbFdPX0NnLWZCcFd0ZHIzX3dKVzRlak1GeDc3RWhnSEhCLS0td2E4Wk5tZjBCNXZ0NFlLRFprUmQtZmQ5T1U0VVl4MUVuZ2JXSHZQOThDN1N2LVBvNnNPWFo4NWFCS1VJNkowZi1OU3FYQ1NoWFZxTmdWUVRlSGhmOFZMMzdSWjd4a2VkbXZ2U0E?oc=5
-
-Equity mutual funds inflow down by 15%, marginal increase in SIP in July News On AIR
 
 ### 45. Equity MF redemptions jump nearly 40% despite strong SIP inflows - BusinessLine
 
@@ -496,27 +496,37 @@ Sensex, Nifty End Lower as Investors Await RBI Rate Decision INDIA New England N
 
 Where Is Investor Capital Moving Across Canada and Global ETFs, Mutual Funds, Bonds and Thematic Strategies? kalkine.ca
 
-### 50. Nifty may face hurdle at 24,600 in next week, Sensex at 78,500-78,800: Analysts - The Hans India
+### 50. Bank of America Says the AI Memory Boom Isn't Over: Why It Sees Micron's Earnings Exploding 34% a Year - 24/7 Wall St.
 
-- Source: The Hans India
-- Published: 2026-08-16T09:24:59+00:00
-- Themes: India market
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTWZGVEM5ZFl5ZDdPREFiRnlQZV90NThmaDZoVnY0elEwSTRULWtkWnJ1N3A5MXNwT0hScXkwMWNOa2Q3Q296QTJmTllyanpoRnplWVJRbThIQ1ByYnk1cWNSOGxzemdsakZWbDFzWkhqb2RvT3YyNFhjWFZuVDl0MFI5ZlBZQU9vdlZzQ2xVZ2YzUGFURjVxOGxzWmE0TkN5MzNQYWFWTlpLd1VOenVjOXd4MDk0WVo5dE5hSVdSR19MUdIBwgFBVV95cUxQTWZGVEM5ZFl5ZDdPREFiRnlQZV90NThmaDZoVnY0elEwSTRULWtkWnJ1N3A5MXNwT0hScXkwMWNOa2Q3Q296QTJmTllyanpoRnplWVJRbThIQ1ByYnk1cWNSOGxzemdsakZWbDFzWkhqb2RvT3YyNFhjWFZuVDl0MFI5ZlBZQU9vdlZzQ2xVZ2YzUGFURjVxOGxzWmE0TkN5MzNQYWFWTlpLd1VOenVjOXd4MDk0WVo5dE5hSVdSR19MUQ?oc=5
+- Source: 24/7 Wall St.
+- Published: 2026-08-17T09:56:30+00:00
+- Themes: AI / tech risk, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOZ2s4Qy1ZSlJUQ1dCbWVxQktYd2RPVkZ1UlpEcjBpU1BRRzNuUTJNNDVWMGJoRmw4SUpyUVY2NjNOZXRFVi1KeTlOTHUxMXhHd2dMT3ZNNmwyOGF1d1BTR0VEdkp6T20yc3l0amJvWWltS0Y4TzRFcjZPY1ZrSjhEZVNWN0VyMnRXNVM4UmlzeHg0LUxkZDRSOVV4cElrYmJ4bmV1bmJUc1g4MUFCQjJYelFDeWgzY1lJQzlSZE9ld2tCRWVtTzluRUtDaF9MZFJ6RkM3SC1kX3BHdw?oc=5
 
-Nifty may face hurdle at 24,600 in next week, Sensex at 78,500-78,800: Analysts The Hans India
+Bank of America Says the AI Memory Boom Isn't Over: Why It Sees Micron's Earnings Exploding 34% a Year 24/7 Wall St.
 
-### 51. Why Is Stock Market Falling Today? Sensex Down 428 Points, Nifty Below 24,300; 5 Key Reasons Behind Decline - Goodreturns
+### 51. Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Continue to Cool - BBN Times
 
-- Source: Goodreturns
+- Source: BBN Times
+- Published: 2026-08-17T08:21:49+00:00
+- Themes: AI / tech risk
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcU1oTkNuakVYUGRPNVV6VDd2eHZ3bnBTc2F4U2EtcFRSYzRKN2xzOXZpbnU4NnJLeENFVFlPRGJoekdPS1U1UE9DWEpMWkZyMlBjbTJNTDFzakN5bkswRlc3WmdkRE9wMWk5bTJUekR1MG9iRUpsaERNcGx1bWRsdnJSRlVSeVZPMGQwYmNhd29IdkpkaFByV3pBSktVbXpnNlQ5akJraEVPdEdZMXFmUlNhN0hIMDFfSzlLbjFGdWtmcmlRWUs3Ug?oc=5
+
+Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Continue to Cool BBN Times
+
+### 52. Why Is Stock Market Falling Today? Sensex Down 428 Points, Nifty Below 24,300; 5 Key Reasons Behind Decline - goodreturns.in
+
+- Source: goodreturns.in
 - Published: 2026-08-17T07:16:20+00:00
 - Themes: India market
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPaE1KZERYLWtLaVRxTy1ndUhiUXBDc3NCMnlMR0VFa2NDa2s3b1IyYkV0MUR2SG9JQkkzeTNxWmczSUZQTjJuOHFmcWo5ZUdDSWowSmVOSkFMa3ZVOVVXWG1MSmd6MXZpODdVb1lqQ0dsN29WMkJreTJMa21HclZzVXRKdGxFT3dWRlU2d29nZ24tcW9oYkJqaEI5NmVZODByVVhFRDdGSEVrNnNBaTJWczZhM2ZBYlN5dS1hV3BsaUptakczN0VxRE82NHFRbExkTk1HM2lNYW5Kb3M?oc=5
 
-Why Is Stock Market Falling Today? Sensex Down 428 Points, Nifty Below 24,300; 5 Key Reasons Behind Decline Goodreturns
+Why Is Stock Market Falling Today? Sensex Down 428 Points, Nifty Below 24,300; 5 Key Reasons Behind Decline goodreturns.in
 
-### 52. Oil India Q1 Profit Jumps 91% Despite Market Caution - Whalesbook
+### 53. Oil India Q1 Profit Jumps 91% Despite Market Caution - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-08-17T05:52:54+00:00
@@ -526,7 +536,7 @@ Why Is Stock Market Falling Today? Sensex Down 428 Points, Nifty Below 24,300; 5
 
 Oil India Q1 Profit Jumps 91% Despite Market Caution Whalesbook
 
-### 53. IT stocks today, August 17: Infosys falls over 2%, TCS and HCL Tech decline as BSE IT index drops 1.6% - Business Upturn
+### 54. IT stocks today, August 17: Infosys falls over 2%, TCS and HCL Tech decline as BSE IT index drops 1.6% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-08-17T05:49:19+00:00
@@ -536,7 +546,7 @@ Oil India Q1 Profit Jumps 91% Despite Market Caution Whalesbook
 
 IT stocks today, August 17: Infosys falls over 2%, TCS and HCL Tech decline as BSE IT index drops 1.6% Business Upturn
 
-### 54. Oil prices hold steady as Strait of Hormuz traffic slows amid stalled Iran-US talks - IBTimes India
+### 55. Oil prices hold steady as Strait of Hormuz traffic slows amid stalled Iran-US talks - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-08-17T05:42:13+00:00
@@ -546,17 +556,17 @@ IT stocks today, August 17: Infosys falls over 2%, TCS and HCL Tech decline as B
 
 Oil prices hold steady as Strait of Hormuz traffic slows amid stalled Iran-US talks IBTimes India
 
-### 55. Cochin Shipyard Share Price: Stock Falls 4% After Q1 Profit Slumps 19% YoY; Kotak Maintains 'Sell' - NDTV Profit
+### 56. Sensex sinks over 300 points to trade at 77,700: Nifty slips to 24,300; IT, banking stocks drag; 2 IPOs ope... - Bhaskar English
 
-- Source: NDTV Profit
-- Published: 2026-08-17T04:46:34+00:00
-- Themes: market selling
+- Source: Bhaskar English
+- Published: 2026-08-17T04:20:03+00:00
+- Themes: India market
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNMGwyenZTWjRneFJPZUlWM0FiLU15MmxhNDMwY0FsckotbnI1NlZ1dXBOTWtXTXRWa0dYS0JHYmtLTHh1Q0tEU21pT3dpWnp3X3JXMTZnSlVsaTF2MlhFOUxPbWt0WWpGalpTYkZqWWp3bzRNSXU0M0VYM2YxNHh6Z1FUWlFfOE4yY2txYkFXTlhZZHN4WVV3c2N0bVB4eDJGM29vQm1qYVBHNldRc1cxSlRDQ25YMEp5azRnVS1hWFhDWlN3eHQxekxDeWNRZ09jNC03YXZHVXJMTUtmRXk5WWVFTEMwdmvSAe8BQVVfeXFMTXduTktocTQyNk1ING1CMG5Dd0l2N0xSejJtUHJDdGpqZHJnUTd1UE1IWDJiOVVzQVdEdVA3MWl2SGZlSmlLdVhJVmpac0tGSlQxdUY4TUpaMHZXQzVGM1BKQmVWXzZjb1I5V1NfQk1lcGtCZC1mR19sbHZoakVSTEVuMzRUaTUtT291cmk5T0tiR2xlajgxTjBzcDMxMks2SlhDWXc2cVhjOUlUWGxLUGk2M0FxTVd4YUMxTG5Jc0xTYjd1MVRZQ0NLWDBZUk5yUVRUbFNIcTNHQk9iOUxJTW5FMHNWSmtBeXV1aDRRMTg?oc=5
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPbW85dWNrTUVnalJCMjBzS0xUYzBaei0ySHdQWWFqRXJjZUtuUnpZUmxLbFRHSlluSFdOclpEQUpoSXBXWkljc0k0XzVvUmpJc0pWS1Y0bS15UnppaFRScnc3b3ZYM2dOanRWSTJVdE8wS09hLThnRWxqY1pRWnlmNzdXcS0taktSUlBJdEtrYnhWT0Vrdm03TFhDRGMtNE9GbmlhR2JGM2dVRzdqY0JEa2VFYS13dDd2S1I5ak5qc9IBxAFBVV95cUxQMGxiWmRGd1A1V2N6NFVoOE5jT2o3RWhNMF9yVDV1WE1QRkdIVC1LbThLS2lCNnIzRmFGR1BDMnZHQTVSUEtkZEFUSjRIaUl0ZXlhS1pFTFM4VjJVTEtSWUFId09RMXdKRlRlZERJZ3ZweUZXb3FEN3dmUWd6QkR6WWttTmdwbFdBRVRRekhDNmttbWZzd1ZGWjJIVXBaTmYwWnFNUVctV21CNkNWYmJyNFViMXV1Mm90OE5vOUFmLTN1VFpl?oc=5
 
-Cochin Shipyard Share Price: Stock Falls 4% After Q1 Profit Slumps 19% YoY; Kotak Maintains 'Sell' NDTV Profit
+Sensex sinks over 300 points to trade at 77,700: Nifty slips to 24,300; IT, banking stocks drag; 2 IPOs ope... Bhaskar English
 
-### 56. Should India be worried about the ‘AI bubble’? - Scroll.in
+### 57. Should India be worried about the ‘AI bubble’? - Scroll.in
 
 - Source: Scroll.in
 - Published: 2026-08-17T03:30:00+00:00
@@ -566,47 +576,67 @@ Cochin Shipyard Share Price: Stock Falls 4% After Q1 Profit Slumps 19% YoY; Kota
 
 Should India be worried about the ‘AI bubble’? Scroll.in
 
-### 57. NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 17 - Upstox
+### 58. NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 17 - upstox.com
 
-- Source: Upstox
+- Source: upstox.com
 - Published: 2026-08-17T03:07:36+00:00
 - Themes: India market
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxOcTVUN01EZjNTam1kVF9ubzFYVWJBMFE1UzI1czFrWDNJRFZXYnYyWklfRElFM2N4Q2VCNnpDa2JEMkVWMkdhbkE1c2tzZnJMMzFlNUdnZTA3ODd0bkdSZ1doX2FNMGZzR2RwUGJ4Nm04d1A3dlJZZXBXekNzNjhTSzdqLTNLMTk1S0ZoSlRVNE9sRkJra1ZpaDdfa2V3bW1KZGFqbFFDZXA3YVduLTVEaGRDNlJUZzhmQm52N2hMRDR2VW9yaHRJWU5YODFUVEpiZkttQ2JralB3T3BGaEdDSkxLejlYdmlSSmtXX1pJV252Y1VN?oc=5
 
-NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 17 Upstox
+NIFTY50, SENSEX today: Wall Street cues, FII activity, key things to know before markets open on August 17 upstox.com
 
-### 58. Small, midcap valuations backed by strong earnings growth: Ramesh Mantri - Business Standard
+### 59. Small, midcap valuations backed by strong earnings growth: Ramesh Mantri - Business Standard
 
 - Source: Business Standard
-- Published: 2026-08-17T02:31:18+00:00
+- Published: 2026-08-16T16:52:40+00:00
 - Themes: India market, macro / flows
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPVGZNLXFWT2wtVVJ3YnpuTGZtaWJzMWVTMUtsTFU2TWxYUFcyUjR3WVF2c1NKcFkxdDh4b0Z3OXlNdTZ2V090eHZfdElqZVZ2UUN6dW5HNGdDeko0TjhJYlRKaThZQ3VkRGJTcndLQU5iRHNkRHB5SlZwanBFQUFXRWNrblg1dkwxdkRnTUg4LWxhdTc0Tm1Wa0JmWW5kMG9jSGN1NmItQmFNdW5iaGlXR0VKMlZRaEdDQndpajZhb3NhSmR0WG4xUUlaMFgwdnhScWZWZnJlRlZFT0HSAeABQVVfeXFMTmlYcld3eWw5QU14WWZmYkpHU1haQWF0MDh3UGR3ekNTcEpiSE00aWFRM1Jra3hvX3VSRy0yTXZUZG14WUc3MUFsekxjb0VBN3Ffb0lCaW9EVEFOanU2M25ha0dOZFpEdVZoMlNmRUhXdXBJUl9ZUjJoeExyZzNJVmNRLTZSc3lFeW5HNTRNVk5fVEt5WWF5Rm5kZzhOZHBGeTZsVy1GdDBoZHpEamNJejNoSnF1a2R6aU14VXp5VWY0ZGtHNHNNT1Z6UWlES3VGcVFyaENXT01JcHhXcnhfU1o?oc=5
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaVhyV3d5bDlBTXhZZmZiSkdTWFpBYXQwOHdQZHd6Q1NwSmJITTRpYVEzUmtreG9fdVJHLTJNdlRkbXhZRzcxQWx6TGNvRUE3cV9vSUJpb0RUQU5qdTYzbmFrR05kWkR1VmgyU2ZFSFd1cElSX1lSMmh4THJnM0lWY1EtNlJzeUV5bkc1NE1WTl9US3lZYXlGbmRnOE5kcEZ5NmxXLUZ0MGhkekRqY0l6M2hKcXVrZHppTXhVenlVZjRka0c0c01PVnpRaURLdUZxUXJoQ1dPTUlweFdyeF9TWtIB4AFBVV95cUxOaVhyV3d5bDlBTXhZZmZiSkdTWFpBYXQwOHdQZHd6Q1NwSmJITTRpYVEzUmtreG9fdVJHLTJNdlRkbXhZRzcxQWx6TGNvRUE3cV9vSUJpb0RUQU5qdTYzbmFrR05kWkR1VmgyU2ZFSFd1cElSX1lSMmh4THJnM0lWY1EtNlJzeUV5bkc1NE1WTl9US3lZYXlGbmRnOE5kcEZ5NmxXLUZ0MGhkekRqY0l6M2hKcXVrZHppTXhVenlVZjRka0c0c01PVnpRaURLdUZxUXJoQ1dPTUlweFdyeF9TWg?oc=5
 
 Small, midcap valuations backed by strong earnings growth: Ramesh Mantri Business Standard
 
-### 59. Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Continue to Cool - BBN Times
+### 60. Siemens Energy India Shares Rise 2% on Positive Market Sentiment - Moneycontrol.com
 
-- Source: BBN Times
-- Published: 2026-08-16T18:14:59+00:00
-- Themes: AI / tech risk
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcU1oTkNuakVYUGRPNVV6VDd2eHZ3bnBTc2F4U2EtcFRSYzRKN2xzOXZpbnU4NnJLeENFVFlPRGJoekdPS1U1UE9DWEpMWkZyMlBjbTJNTDFzakN5bkswRlc3WmdkRE9wMWk5bTJUekR1MG9iRUpsaERNcGx1bWRsdnJSRlVSeVZPMGQwYmNhd29IdkpkaFByV3pBSktVbXpnNlQ5akJraEVPdEdZMXFmUlNhN0hIMDFfSzlLbjFGdWtmcmlRWUs3Ug?oc=5
-
-Nikkei 225: Tokyo Benchmark Slips 0.12% to 65,606.71 as AI and Chip Stocks Continue to Cool BBN Times
-
-### 60. Dalal Street Bloodbath: Rs 6.7 Lakh Crore Wiped Out As Sensex Crashes 1200 Pts; Nifty Ends Below 25,500 - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-08-16T09:09:32+00:00
+- Source: Moneycontrol.com
+- Published: 2026-08-17T09:11:15+00:00
 - Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxPejQzY2c0dVpBR1F1RzNPanp0RUEzX0RBMUZ5VWUzREFxWVhzR0lhOFBHa0ZNRHYybl9weW5KSUVTYmJBVk55ZUR4TG4zcGpRWGFzTkdIUDc3WWRCVlNZZHJzZDBpaUk0VVI2b0ZSSWMtS3J3TlVjNVF0S3hJZkFrVlJfSDRmV1FPX2Z5MmZGVzdVRUpKd0ZzY3htNXBxY3I5c041OTBrQmlfd0F6TWZLZklGaWFydXJhQlhYUzJsRVlERzFrUVBTcHZDblREdFlDQkV5SXJHRGg4Xzg?oc=5
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPczRlMWxoenZGb0p3T01oX2J0SlppZ1hFdkZCLVJTLTJwaTBVOFpPTVhVM1cxUHFtR1VHV1AxMGpJQWtBbDNYNnNCdkxOcmZwRlU4Q01aXzgtbDZyRXBObUhUUmFpaEhXSW5vaXhsUkF2YmZ4Uk5XNm5ON0JVVjFxWnBoRGpRQXFpcHZSVlE1U1R1SC13b0hxTUVydm9lTUdFa2hrd3FlQUc1NllnT1pPTG5yWWF4Z0U5NVZ2VkE1Wm5qMTRONFh2YllPWmFjZG1ZUU9iQ1VVb25NV19UUmfSAd4BQVVfeXFMT3M0ZTFsaHp2Rm9Kd09NaF9idEpaaWdYRXZGQi1SUy0ycGkwVThaT01YVTNXMVBxbUdVR1dQMTBqSUFrQWwzWDZzQnZMTnJmcEZVOENNWl84LWw2ckVwTm1IVFJhaWhIV0lub2l4bFJBdmJmeFJOVzZuTjdCVVYxcVpwaERqUUFxaXB2UlZRNVNUdUgtd29IcU1FcnZvZU1HRWtoa3dxZUFHNTZZZ09aT0xucllheGdFOTVWdlZBNVpuajE0TjRYdmJZT1phY2RtWVFPYkNVVW9uTVdfVFJn?oc=5
 
-Dalal Street Bloodbath: Rs 6.7 Lakh Crore Wiped Out As Sensex Crashes 1200 Pts; Nifty Ends Below 25,500 Goodreturns
+Siemens Energy India Shares Rise 2% on Positive Market Sentiment Moneycontrol.com
 
-### 61. QpiAI opens 'Asia's largest' quantum chip foundry, targets 10,000-qubit processors - Dailyhunt
+### 61. India Inc shows resilience despite external economic shocks - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-17T09:11:07+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOTDh6NGlkQzVDb1NqSExWaG5nQ2xlWW5XR2Nvek1rR1MxMFdBWklPMEJYOVpmamJaM2Y0SW02VVZFOG9nUkZfblBocDZXT2Nra3RsbVIyUGYtT2ItSVYwM1oySXhiZ05ieVNTdXN4aUNpalJ1Y3VzYVp2QzlOeGxKc3d2TXRCdXRlWmRqZzlhSXQ4elFEYmQ1SUdwc1l2TmJ5QmpsMlZIZmp3MmN6M182LVYwdVV5UWh1Q2pB0gG7AUFVX3lxTE5MOHo0aWRDNUNvU2pITFZobmdDbGVZbldHY296TWtHUzEwV0FaSU8wQlg5WmZqYlozZjRJbTZVVkU4b2dSRl9uUGhwNldPY2trdGxtUjJQZi1PYi1JVjAzWjJJeGJnTmJ5U1N1c3hpQ2lqUnVjdXNhWnZDOU54bEpzd3ZNdEJ1dGVaZGpnOWFJdDh6UURiZDVJR3BzWXZOYnlCamwyVkhmancyY3ozXzYtVjB1VXlRaHVDakE?oc=5
+
+India Inc shows resilience despite external economic shocks Moneycontrol.com
+
+### 62. The AI boom: rational enthusiasm or the next dot-com bubble? - Zprávy Kurzy.cz
+
+- Source: Zprávy Kurzy.cz
+- Published: 2026-08-17T09:00:00+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxNdGFDWDd6V1RMQm5GS0V6X3RHMVkwTmwtNDlydjVSejliRFgzQU1sN0lQOWM3THFGVklfcHlnUzJPTWhtV0dJUERUZ25wS1JpVTRBRFM2cHRXalFTczdXYUtWNVU2SlZXRlBrbHg5QWkxTTNodmVwYXJEQjduM1lLaENzdkprbjhqVkdMSTk0WFhZV1N2?oc=5
+
+The AI boom: rational enthusiasm or the next dot-com bubble? Zprávy Kurzy.cz
+
+### 63. Hold LG Electronics India; target of Rs 1723: Prabhudas Lilladher - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-17T08:36:12+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQWHVaeEUzS2xiOE1aNFZwR2lqVFhvNzdfOW13TWFsdFhiRldLUUtHM2kxaEYwWDRzTjNRc1d6bXZ0RTdfTC1US3FqTnV3ZUJLVWRadnlCalh2cDVNb0JIYjhieHl6WEVldjVoTUE5Vl9NcEw2MWJxQ2dadUV1N1RMVVBYWHJwVTVIYnpWUFpxTll6dHo1c0NVNkdaRGNKSFE2TU9WOG5MVFpVUWw1RVR3OV9hb2tMMkhjTWlDc0RONzI5NEZMbHg1OW01SdIBywFBVV95cUxQWHVaeEUzS2xiOE1aNFZwR2lqVFhvNzdfOW13TWFsdFhiRldLUUtHM2kxaEYwWDRzTjNRc1d6bXZ0RTdfTC1US3FqTnV3ZUJLVWRadnlCalh2cDVNb0JIYjhieHl6WEVldjVoTUE5Vl9NcEw2MWJxQ2dadUV1N1RMVVBYWHJwVTVIYnpWUFpxTll6dHo1c0NVNkdaRGNKSFE2TU9WOG5MVFpVUWw1RVR3OV9hb2tMMkhjTWlDc0RONzI5NEZMbHg1OW01SQ?oc=5
+
+Hold LG Electronics India; target of Rs 1723: Prabhudas Lilladher Moneycontrol.com
+
+### 64. QpiAI opens 'Asia's largest' quantum chip foundry, targets 10,000-qubit processors - Dailyhunt
 
 - Source: Dailyhunt
 - Published: 2026-08-17T07:46:28+00:00
@@ -616,7 +646,37 @@ Dalal Street Bloodbath: Rs 6.7 Lakh Crore Wiped Out As Sensex Crashes 1200 Pts; 
 
 QpiAI opens 'Asia's largest' quantum chip foundry, targets 10,000-qubit processors Dailyhunt
 
-### 62. FPIs reverse course on India: Is the worst of the selling over? - Firstpost
+### 65. Info Edge India shares gain 2.06% to Rs 1,370.70 - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-08-17T07:41:58+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQal9Qd196Y3B0X3BUMTJVemJlZXRkaDAwOHFYN2NiSHFPU2p5NXBBR0dZUDBTazhfQk5CVlZZZzRsLUZkeEFFNFlTNkV2ZWM0cG9TMGxXVGR6blh0dDdJeW42MDhCVzY3eWhmanhCTTM2OTduUTdsYS15aFBkN3N4ak01aXMtY2pzUjFvU01STjkxc041UVZjQmxEbFRUS1VKdUNnRExNU3JWSDJNQW1SWUd6RHI2b1k0cDJzaXVWZUNjanBnUWdwS9IByAFBVV95cUxQal9Qd196Y3B0X3BUMTJVemJlZXRkaDAwOHFYN2NiSHFPU2p5NXBBR0dZUDBTazhfQk5CVlZZZzRsLUZkeEFFNFlTNkV2ZWM0cG9TMGxXVGR6blh0dDdJeW42MDhCVzY3eWhmanhCTTM2OTduUTdsYS15aFBkN3N4ak01aXMtY2pzUjFvU01STjkxc041UVZjQmxEbFRUS1VKdUNnRExNU3JWSDJNQW1SWUd6RHI2b1k0cDJzaXVWZUNjanBnUWdwSw?oc=5
+
+Info Edge India shares gain 2.06% to Rs 1,370.70 Moneycontrol.com
+
+### 66. Nippon India Launches Income Plus Arbitrage Omni Fund of Fund - Whalesbook
+
+- Source: Whalesbook
+- Published: 2026-08-17T07:36:57+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTV9XNFppaGNRc3dZakp0OFJWd2dMYk5VMmw4X2s5NzZwcE5YWnh0LVBNU09kdnQteG1TZGdScDJjVUlyTUNvcFpRX0o4aHExM2s4WV9mdGlNYlVSZjBpMzhKRkhPVWlzRE5IVEFZUWNsZUFRX2ZuYTFnMTg5V1VlX0ZXdW1VN250clBORkVZeDVQZHhKZDhHZzBvOVR0UjVpSkFzVHAySmhDenBQdmhaclMxcGZGSmp1OG9OOVlCNFNWb1E1NFNwcVFTRVRZQ25DdHBQUWdR?oc=5
+
+Nippon India Launches Income Plus Arbitrage Omni Fund of Fund Whalesbook
+
+### 67. Global Market: AI investment story shifts from spending to picking the winners - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-08-17T07:31:50+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQSXpjUHJZbW5DZjhWSFN1TUlPb25HZjBaeUwtV2EyV0ZaaVdoVFNMaGJmWlpMZHhvVUdncHpjSHlRZHZiYko5STRCUEFSSEYwZVVsbTg2bHlTSHl2a2xVZE1WUDY3R09Lc09keEUtUFNWUklYZUZ4cjU4bm1ydFY2ZHRnZjRONUppRm1kcWVaeXBrNDB2cTItcmQ2UmIzbHNLWkNQS1lIN0ZTQzB5NXg4V0R5dGhfMjAtMTJkSjdPNTNxMU5qS1M5T3lKdnR6SHpoVFB0X2xtbmVRc09ldW5MS0IxMTdFRjNWWGfSAe8BQVVfeXFMTnZ6V01ocnNZN3ZJZU9Sdk02RHJYMEVWc2R6NHlJbW1qV05UQlA4X0dlYVpIUFVTa1dTaTNObzZRMTdERllfRGljZndkU2RfMldJQXJZWVFMU09uLXE4d0lJY2M4dTRQczR0eW51Y1pHWXpZVXgtZzhfc3hCb2dtQ3hMaDZXQnFHcjQ4ZkhaajAwX2RyNDJKSEZ5MHFhRnp3NkRVeno3YUUtcWxmYXRSVV81VXZHYU9zQnRJOXJERUt4WGpRZ05PREwyNlROTEZCRHZKTnRta3RRRHNlMjVvZFBCTkQ1a2s2Y0xpaGFzWEE?oc=5
+
+Global Market: AI investment story shifts from spending to picking the winners The Economic Times
+
+### 68. FPIs reverse course on India: Is the worst of the selling over? - Firstpost
 
 - Source: Firstpost
 - Published: 2026-08-17T07:06:03+00:00
@@ -626,7 +686,7 @@ QpiAI opens 'Asia's largest' quantum chip foundry, targets 10,000-qubit processo
 
 FPIs reverse course on India: Is the worst of the selling over? Firstpost
 
-### 63. Casa Aire Wellness Expands Hyperpigmentation Correction Treatments in Dubai From AED 250 as Year-Round UV Makes Melasma One of the City's Most Treated Skin Concerns in 2026 - The Manila Times
+### 69. Casa Aire Wellness Expands Hyperpigmentation Correction Treatments in Dubai From AED 250 as Year-Round UV Makes Melasma One of the City's Most Treated Skin Concerns in 2026 - The Manila Times
 
 - Source: The Manila Times
 - Published: 2026-08-17T06:52:55+00:00
@@ -636,17 +696,17 @@ FPIs reverse course on India: Is the worst of the selling over? Firstpost
 
 Casa Aire Wellness Expands Hyperpigmentation Correction Treatments in Dubai From AED 250 as Year-Round UV Makes Melasma One of the City's Most Treated Skin Concerns in 2026 The Manila Times
 
-### 64. Energy sector stocks today, August 17: K.P. Energy falls 3.52%, Gujarat Gas down 2.11%, Suzlon Energy up 2.11% - Business Upturn
+### 70. Energy sector stocks today, August 17: K.P. Energy falls 3.52%, Gujarat Gas down 2.11%, Suzlon Energy up 2.11% - Business Upturn
 
 - Source: Business Upturn
-- Published: 2026-08-17T06:49:50+00:00
+- Published: 2026-08-17T06:49:39+00:00
 - Themes: market selling
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPc3dvSXgzR01ubjVweHp2VmRZTmtlYjQ2N2lwd19Zb2tYX3U1VkkxYW5RQUtJc284c1ZEMXFaZnBRcGxnR2pKQkVYWmVwQm1pemJmQktOdXhWVE9hSFdZaTJZVW1MNWswdUNhRy1ZVmRock1vRlZwVWpIcWVjTjdqdTA2eWRGTEI3NlZSZXlqem1Pemc?oc=5
+- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPT0tSbWRhaWRtQjFCb2ViOW5ENFU2YVhBLTRiSU9VY0NIZjVfVFBzcEN5VmZFYzFpUnpBZGtxYXZXMEVKLWp0d3JzX21PLWQwbnNZMXpkUG4ydURRbGwtZlpvdFBQOHdSZTczQkYyX0plNXA5UXRteHRicFJ4Q1JMRldFeWtzTzgzSWVXMU9B?oc=5
 
 Energy sector stocks today, August 17: K.P. Energy falls 3.52%, Gujarat Gas down 2.11%, Suzlon Energy up 2.11% Business Upturn
 
-### 65. Proactively identifying issues, correcting them in students' interest: NTA on re-exam in 3 UGC-NET... - The Hans India
+### 71. Proactively identifying issues, correcting them in students' interest: NTA on re-exam in 3 UGC-NET... - The Hans India
 
 - Source: The Hans India
 - Published: 2026-08-17T06:22:40+00:00
@@ -656,7 +716,7 @@ Energy sector stocks today, August 17: K.P. Energy falls 3.52%, Gujarat Gas down
 
 Proactively identifying issues, correcting them in students' interest: NTA on re-exam in 3 UGC-NET... The Hans India
 
-### 66. LG Electronics India: Premiumisation, exports to drive growth; Nomura raises target price - Moneycontrol.com
+### 72. LG Electronics India: Premiumisation, exports to drive growth; Nomura raises target price - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T06:15:57+00:00
@@ -666,27 +726,17 @@ Proactively identifying issues, correcting them in students' interest: NTA on re
 
 LG Electronics India: Premiumisation, exports to drive growth; Nomura raises target price Moneycontrol.com
 
-### 67. Jane Street Posts $15 Billion Loss in July Amid AI Stock Rout - finance.biggo.com
+### 73. Solar Stock In Focus: This Smallcap Stock Jumped 10% In Trade Today — Here's Why - NDTV Profit
 
-- Source: finance.biggo.com
-- Published: 2026-08-17T06:10:03+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE40bXBrSzk2WG5iejNod2t4a1g4Qmtfa0lCNWR6cTFoMjVSZ2IyRVVuTWhSbkFocWJsWjdyd0Z2eUlhcUwzakxsRE45M0JkNVBKTVlFVWtEOVRkSFFZOFdUakktWm83dXpiVEM3WWF4NXUybkthSWc?oc=5
-
-Jane Street Posts $15 Billion Loss in July Amid AI Stock Rout finance.biggo.com
-
-### 68. Deepak Builders & Engineers India Ltd Locks at Lower Circuit With 4.64% Loss — Sellers Queue, No Buyers in Sight - MarketsMojo
-
-- Source: MarketsMojo
-- Published: 2026-08-17T06:02:36+00:00
+- Source: NDTV Profit
+- Published: 2026-08-17T06:09:41+00:00
 - Themes: India market
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2NDR1RZaEZMektfSEJrZi1sN1Ztb1M1bEJUSC1YSlpNQ3lSQ25XNnNLV1JBTjJjWVlkUDBQZW0zQW1FR0w3WllvUW5mQ29zSl9Kd3dpLXJidHpRY3c3bnhNWU9lemNNRGpoN2lTX1dDbDBGUmlBa2o3SWx1Nk5VMVdUbkdBN0VJU2RGMFNSNjREWkhObFpNZEJrMkhHWkhpWHo4UDBFa1JMdnJFM1FrS2RVUTJSdWxZbTRndk1wR080VWpzV0Vtb1NRWXU0c0JHSG5lSVlnZw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPWjRjclU4RU83RHMwMEFjT1ZZYi1VTEhUaUhnaHZEUzFSRjdRZV9Xd2lFS3BTNnVNcm4zWUJlOFc0VjFCZkNEdkRXSElYNlBzS2YxZVBLcnlwMkdkLWN6TmpybC15MUw0ZFZFUEoyendOV2JjeC16ZWhYbTFFUHpRanpiMHkxM0UxX18xX0VlbXV4eVNQQVRJUXVnN0YySTVob3lUMTZ2NzFpUE9INFczTWpEdUZwZnYzVzBnY0lBX0cyWEhqNC1lUUZsb9IB0wFBVV95cUxPcHJ6WHZnOHp5Tm5rR3VFSFhqUmZKQXJHSlQ2RXgyYTlJbzhvTlpxcUNQcDFGc2lPN1liZnBTRk16cldiSXhxZGRicFJDMjdfZHZHdkQ1aEpjTVpSVEJSZnFfWEZlLUhFSTMwczcyX3I2aXdKLXN2eVI3SDlyVFdGbWptb2Q0azFjbEZ1RFYxRHBvbHZxX29rZ2h5T1dKdnBXS09QMW5vV2VOTmswY3dXYVNraGdEd1BjM3d3Z2NBT2hDR1d0MDd4UzQ2R0FEY0JOU1E0?oc=5
 
-Deepak Builders & Engineers India Ltd Locks at Lower Circuit With 4.64% Loss — Sellers Queue, No Buyers in Sight MarketsMojo
+Solar Stock In Focus: This Smallcap Stock Jumped 10% In Trade Today — Here's Why NDTV Profit
 
-### 69. BSE falls 4% as Jefferies downgrades stock to 'underperform', cuts target price by 16% - Moneycontrol.com
+### 74. BSE falls 4% as Jefferies downgrades stock to 'underperform', cuts target price by 16% - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-17T05:58:10+00:00
@@ -696,7 +746,7 @@ Deepak Builders & Engineers India Ltd Locks at Lower Circuit With 4.64% Loss —
 
 BSE falls 4% as Jefferies downgrades stock to 'underperform', cuts target price by 16% Moneycontrol.com
 
-### 70. NVIDIA HOLDERS PAY ATTENTION TO THIS Debt (rM1ZrDlgqF) - Mshale
+### 75. NVIDIA HOLDERS PAY ATTENTION TO THIS Debt (rM1ZrDlgqF) - Mshale
 
 - Source: Mshale
 - Published: 2026-08-17T05:49:58+00:00
@@ -706,7 +756,7 @@ BSE falls 4% as Jefferies downgrades stock to 'underperform', cuts target price 
 
 NVIDIA HOLDERS PAY ATTENTION TO THIS Debt (rM1ZrDlgqF) Mshale
 
-### 71. Mesoblast Shares Jump 8.82% on ASX as Biotech Rebounds From Friday's Sharp Selloff Tied to State Street Filing - International Business Times Australia
+### 76. Mesoblast Shares Jump 8.82% on ASX as Biotech Rebounds From Friday's Sharp Selloff Tied to State Street Filing - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-08-17T05:32:33+00:00
@@ -716,27 +766,7 @@ NVIDIA HOLDERS PAY ATTENTION TO THIS Debt (rM1ZrDlgqF) Mshale
 
 Mesoblast Shares Jump 8.82% on ASX as Biotech Rebounds From Friday's Sharp Selloff Tied to State Street Filing International Business Times Australia
 
-### 72. Mahindra Holidays & Resorts India Ltd is Rated Strong Sell - MarketsMojo
-
-- Source: MarketsMojo
-- Published: 2026-08-17T05:32:30+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlZPb2NkdjJEMHkxSFNuNWJlVWJlVnROa1V2ZEZSU1VTR2dpT3hkUEZsNm5BeFMzWU5sMWJ5S083V2RGR0liRDBSLTRWRDM1YlR3VlZEVTVWS0tFNkVWa01YZEJqYVBZWXlGRlZHNHNGU3dYWXZpMkxIOW5VWWstX0tUeHFqUnpMYVcweV92SmJ6bnJMdldQUXhOTEQxRnlPbzJpNUoxcF9kemlaOGdBRHFVV0N6LWE5aXc?oc=5
-
-Mahindra Holidays & Resorts India Ltd is Rated Strong Sell MarketsMojo
-
-### 73. Hang Seng: Bullish flag emerges ahead of Shein IPO, Baidu and Alibaba earnings - Invezz
-
-- Source: Invezz
-- Published: 2026-08-17T05:13:11+00:00
-- Themes: macro / flows
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxPYUxtQWNwUEZaSHg0eFZVaTJMNkhmSDJXTG1KbUFTZVMydDFsLWlGaXpvMFctdkRYNzhkN0tTb3hzWHY2cVo4cTlGMTVHLVlwM3JQdjB0YnB6SVBYbElPTThEMHRHcTVXVWtjU1FqbXhqb0tNNUFXeTc0emd5N25UTWpnWXllT05uY2xCMF8zRmdsT3hSSnZ5b0k2RkkwQkpIYXNCeHZNbUhnbmJ0TGxNV1NpV0RDN1NVemc?oc=5
-
-Hang Seng: Bullish flag emerges ahead of Shein IPO, Baidu and Alibaba earnings Invezz
-
-### 74. Pepper Futures Price | NCDEX Pepper Futures expiring on 18-sep-2026 - India Infoline
+### 77. Pepper Futures Price | NCDEX Pepper Futures expiring on 18-sep-2026 - India Infoline
 
 - Source: India Infoline
 - Published: 2026-08-17T04:32:00+00:00
@@ -746,7 +776,7 @@ Hang Seng: Bullish flag emerges ahead of Shein IPO, Baidu and Alibaba earnings I
 
 Pepper Futures Price | NCDEX Pepper Futures expiring on 18-sep-2026 India Infoline
 
-### 75. Tokenisation stocks fall as SEC delays rules - grafa.com
+### 78. Tokenisation stocks fall as SEC delays rules - grafa.com
 
 - Source: grafa.com
 - Published: 2026-08-17T04:31:59+00:00
@@ -756,7 +786,7 @@ Pepper Futures Price | NCDEX Pepper Futures expiring on 18-sep-2026 India Infoli
 
 Tokenisation stocks fall as SEC delays rules grafa.com
 
-### 76. Are We in an AI Bubble? Valuations, Capex and the Risks Ahead - equiti.com
+### 79. Are We in an AI Bubble? Valuations, Capex and the Risks Ahead - equiti.com
 
 - Source: equiti.com
 - Published: 2026-08-17T04:29:01+00:00
@@ -766,17 +796,7 @@ Tokenisation stocks fall as SEC delays rules grafa.com
 
 Are We in an AI Bubble? Valuations, Capex and the Risks Ahead equiti.com
 
-### 77. Solana's Correction To $50 May Fuel Next Big Rally - Yellow.com
-
-- Source: Yellow.com
-- Published: 2026-08-17T04:22:19+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVZmV3NTbkh4T2RVdjFXakIwZmRQeXIydktmb0IxRFRsTnJqdmZVM3Y3RUp1NUQ2aXJzRHJhMThYX3lWYTZhUHNFUmxNOGtJaEpWYnNYclZlbFAtWnBCdlBodl9JOHJFRE5FaUZ1VWRfcEx2Vy1NVWJ2bnRkOERwRA?oc=5
-
-Solana's Correction To $50 May Fuel Next Big Rally Yellow.com
-
-### 78. South Korea's KOSPI Surges to Three-Week High as Chip Stocks Rally and Wall Street Hits Fresh Record - International Business Times Australia
+### 80. South Korea's KOSPI Surges to Three-Week High as Chip Stocks Rally and Wall Street Hits Fresh Record - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-08-17T04:11:53+00:00
@@ -785,23 +805,3 @@ Solana's Correction To $50 May Fuel Next Big Rally Yellow.com
 - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNkhFVG1tT202M1pPZUkxZXlVMXprcGgzWEJFMEpuSGF5eDNTZW1lMllDaEloYTJVYXFVNmZkU3BZMHdrbmtROTd2OTlTS25walNSX1hQaHVKSlZBZElaX0c3ZWhoTkEySTg1RDE3WjFSdUFZZ3VFckpvY0lYUE5kZGlCREJ5YWpVTWxJ?oc=5
 
 South Korea's KOSPI Surges to Three-Week High as Chip Stocks Rally and Wall Street Hits Fresh Record International Business Times Australia
-
-### 79. BSE Share Price Falls As Jefferies Downgrades Stock, Cuts Target Price — Check Potential Upside - NDTV Profit
-
-- Source: NDTV Profit
-- Published: 2026-08-17T04:11:36+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQbUl2dFRWejZhVWxYYk5fNk9HbW1hT0psTmVGM0pqY3c0cUQxQzBrQlFfZ1o0UE9MODBkTVNfVENJZk9oMGdOZkgxNzNHakxDTzFxVTYwQkE5WHlyMXJSWU1lVFo5TXYwTXcxUGVZUkVOTXFHNERJTkV5UGpWSmNxdDFKX2ZFdXRDWDRCSkNybnozWWhfbTJPRWRjNHVLaWxzT0VMNXRYTm1lM3FUWkY3clBXZC1BVV9aOS1fOEo2dGs2Z2Z3WTJ3OWEzMkdVSV9feEHSAdoBQVVfeXFMUDNqc3JMam5NQ2tSRWt1TmlVeThDTzE0Vy03RFhiOWI1cEJ6eExGYjhJcXN1OUl4Q0JQTWM4VnVtYkU0SVNTUGRNX09nWUROa2RjNExCb1B4Snc2VGg3RUNlaFZyLWl2NkhrN1Q1eU1kUVJqbnJiTFpHSWkxR2VqMmZ5VXRMQ0NoejNOdWxMR1ZqZDhtWmdXV0FzWFlfMThDVGdIMHlqMHY4RUlPWWk4eUxmTHRfbjVDNUN3MTlRWW02RnZJTUZYRUxzS2pYTHkyOEZWQ0tBWWRKOXc?oc=5
-
-BSE Share Price Falls As Jefferies Downgrades Stock, Cuts Target Price — Check Potential Upside NDTV Profit
-
-### 80. Stock Target: Smallcap Stock to Buy Now With 59% Upside, Recommended by PL Capital - Trade Brains
-
-- Source: Trade Brains
-- Published: 2026-08-17T04:06:00+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQdE5iWFEzVDRxMmdyNTl0WGE0M2Jsci15QkVrRmFqS2hOZ2FpNk13WjlmM3Z6QzFfZ3JLeXZZMmJxbE9VdzQxbmE2d1N0VUNQRUtLYmk4amQzUFVwbGZHOEdqblBPeVBaSmhyaEszRE91d0NrUldVOHI4Nlhxck4tdXhaQ1pXMVFCVlNpcTdHZ0s0RDE1TW84S19aMG5RT0RxNy1MOGhR?oc=5
-
-Stock Target: Smallcap Stock to Buy Now With 59% Upside, Recommended by PL Capital Trade Brains
