@@ -734,13 +734,30 @@ def main() -> int:
         )
     data.to_csv(output, index=False)
     latest_output = args.output_dir / "latest-nifty500-rotation.csv"
-    data.to_csv(latest_output, index=False)
+    existing_latest_date = ""
+    if latest_output.exists():
+        try:
+            existing_dates = pd.read_csv(latest_output, usecols=["last_date"])["last_date"].dropna().astype(str)
+            existing_latest_date = str(existing_dates.mode().iloc[0]) if not existing_dates.empty else ""
+        except Exception:
+            existing_latest_date = ""
+    current_latest_date = str(data.loc[data["downloaded"].fillna(False).astype(bool), "last_date"].max())
+    may_replace_current = not existing_latest_date or current_latest_date >= existing_latest_date
+    if may_replace_current:
+        data.to_csv(latest_output, index=False)
     if args.breadth_leadership_output:
         args.breadth_leadership_output.parent.mkdir(parents=True, exist_ok=True)
         current_snapshot = breadth_leadership_payload(data, expected_count, benchmark_ticker)
-        args.breadth_leadership_output.write_text(
-            json.dumps(current_snapshot, indent=2, ensure_ascii=False), encoding="utf-8"
-        )
+        existing_snapshot_date = ""
+        if args.breadth_leadership_output.exists():
+            try:
+                existing_snapshot_date = str(json.loads(args.breadth_leadership_output.read_text()).get("as_of_date", ""))
+            except Exception:
+                existing_snapshot_date = ""
+        if not existing_snapshot_date or current_snapshot["as_of_date"] >= existing_snapshot_date:
+            args.breadth_leadership_output.write_text(
+                json.dumps(current_snapshot, indent=2, ensure_ascii=False), encoding="utf-8"
+            )
     print(f"Nifty 500 constituents: {expected_count}")
     print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
     print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
@@ -749,6 +766,8 @@ def main() -> int:
     print(f"Universe CSV: {universe_path}")
     print(f"Rotation CSV: {output}")
     print(f"Latest rotation CSV: {latest_output}")
+    if not may_replace_current:
+        print(f"Preserved newer current rotation dated {existing_latest_date}; download was dated {current_latest_date}.")
     if args.breadth_leadership_output:
         print(f"Market health snapshot: {args.breadth_leadership_output}")
     return 0
