@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-08-19 09:09
+Generated: 2026-08-19 10:14
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,17 +26,37 @@ Stock Market Big Update: Sensex tanks 493 points; Nifty falls for 6th day as cru
 
 Nvidia, AMD, SK Hynix, Samsung Shares Crash Amid Tech Stocks Selloff On Rising Bond Yields, Surging Crude Oil Prices NDTV Profit
 
-### 3. Western Digital stock drops after AI memory selloff but remains far above its post-earnings low - AD HOC NEWS
+### 3. Nikkei Drops 3.2% as AI Selloff and Bond Yields Hit Tokyo - News On Japan
 
-- Source: AD HOC NEWS
+- Source: News On Japan
+- Published: 2026-08-19T09:17:21+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiVEFVX3lxTE9LRDVJQUV6MWdIWWtNT0NpSHE5YnE0YTJNZWVKTm9pbGFvWTA1dEtMeXFFQlEtUk5hWlBLX1NMZklRTDVXVW8zMHlVS1lQejEtM05qaA?oc=5
+
+Nikkei Drops 3.2% as AI Selloff and Bond Yields Hit Tokyo News On Japan
+
+### 4. Sensex Falls Over 300 Points, Nifty Near 24,050 as Crude and Global Sell-Off Weigh - Dalal Street Investment Journal
+
+- Source: Dalal Street Investment Journal
+- Published: 2026-08-19T09:10:56+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNVkx2RGJCT1JNOVN3aU1PU3ZEX21uV2JzOFZaUXNYODBNZWh5ZUg3b2stQXV1dHF3Q3g0WDB0TTdhMEppOERzQVRkeE41OURrV3pPQ09qemJJaFdtdnRHMjF6OEFjVVNRNE93OWhsenV5OWV3YWVPWlVfYmpaSWc2YWlrNnZzNWhWaHl5OWtPV01EWkFaMGtYZUtsbXFMOTF0Y1hPVkc4aXVGNm00V1R2dkEtOFNBUGRqZDQxbEdpekViV09QM0ZGVw?oc=5
+
+Sensex Falls Over 300 Points, Nifty Near 24,050 as Crude and Global Sell-Off Weigh Dalal Street Investment Journal
+
+### 5. Western Digital stock drops after AI memory selloff but remains far above its post-earnings low - ad-hoc-news.de
+
+- Source: ad-hoc-news.de
 - Published: 2026-08-19T07:28:54+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYjVNbmllbkQwSTVtNlRwdVRKaEQ4cEs0YzVOdlJDTkVTWFZlaFZfdXNkTWFfckxlVDV5Ny1fSUpONFYxcDZjZFlkTXdvQkxZSTJNbHBHRDdMRDZPQnM2YWpCYzdTZDBXOWREUVVONjhrQ01BTEY2aHllZkdwdVh0UU0tZDRXbldVdjEwNTU3OXVYbFdYRG82bE1EUm9YQVplazlMUEhZUUcwcHpXSjF0YXlwRi1oTEVkNnBjOXdUY3poWGJGeWRaYjR4eGlqd1RSaHc?oc=5
 
-Western Digital stock drops after AI memory selloff but remains far above its post-earnings low AD HOC NEWS
+Western Digital stock drops after AI memory selloff but remains far above its post-earnings low ad-hoc-news.de
 
-### 4. Indian Markets Fall: Sensex, Nifty Down Amid Rising Crude Oil - Rediff MoneyWiz
+### 6. Indian Markets Fall: Sensex, Nifty Down Amid Rising Crude Oil - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-08-19T04:42:07+00:00
@@ -46,7 +66,7 @@ Western Digital stock drops after AI memory selloff but remains far above its po
 
 Indian Markets Fall: Sensex, Nifty Down Amid Rising Crude Oil Rediff MoneyWiz
 
-### 5. Sensex falls nearly 230 points, Nifty loses over 80 points in early trade amid higher crude, US Treasury yields - Mid-Day
+### 7. Sensex falls nearly 230 points, Nifty loses over 80 points in early trade amid higher crude, US Treasury yields - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-08-19T04:37:00+00:00
@@ -56,7 +76,7 @@ Indian Markets Fall: Sensex, Nifty Down Amid Rising Crude Oil Rediff MoneyWiz
 
 Sensex falls nearly 230 points, Nifty loses over 80 points in early trade amid higher crude, US Treasury yields Mid-Day
 
-### 6. US Stocks Fall on Chip Selloff; Micron Drops 7%, SK Hynix ADR and Sandisk Tumble 9% - bloomingbit
+### 8. US Stocks Fall on Chip Selloff; Micron Drops 7%, SK Hynix ADR and Sandisk Tumble 9% - bloomingbit
 
 - Source: bloomingbit
 - Published: 2026-08-18T23:52:41+00:00
@@ -66,7 +86,7 @@ Sensex falls nearly 230 points, Nifty loses over 80 points in early trade amid h
 
 US Stocks Fall on Chip Selloff; Micron Drops 7%, SK Hynix ADR and Sandisk Tumble 9% bloomingbit
 
-### 7. New York Stocks Fall for Third Straight Session; Nasdaq Drops 1.3% on Semiconductor Selloff - finance.biggo.com
+### 9. New York Stocks Fall for Third Straight Session; Nasdaq Drops 1.3% on Semiconductor Selloff - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-08-18T22:25:00+00:00
@@ -76,7 +96,7 @@ US Stocks Fall on Chip Selloff; Micron Drops 7%, SK Hynix ADR and Sandisk Tumble
 
 New York Stocks Fall for Third Straight Session; Nasdaq Drops 1.3% on Semiconductor Selloff finance.biggo.com
 
-### 8. Tech selloff pulls Wall Street to two-week lows as oil and yields climb - The Standard (HK)
+### 10. Tech selloff pulls Wall Street to two-week lows as oil and yields climb - The Standard (HK)
 
 - Source: The Standard (HK)
 - Published: 2026-08-18T21:47:33+00:00
@@ -86,7 +106,7 @@ New York Stocks Fall for Third Straight Session; Nasdaq Drops 1.3% on Semiconduc
 
 Tech selloff pulls Wall Street to two-week lows as oil and yields climb The Standard (HK)
 
-### 9. US Stocks Fall as Rising Bond Yields and Oil Prices Pressure AI Tech Shares - Analytics Insight
+### 11. US Stocks Fall as Rising Bond Yields and Oil Prices Pressure AI Tech Shares - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-08-18T17:53:28+00:00
@@ -96,7 +116,7 @@ Tech selloff pulls Wall Street to two-week lows as oil and yields climb The Stan
 
 US Stocks Fall as Rising Bond Yields and Oil Prices Pressure AI Tech Shares Analytics Insight
 
-### 10. Aug 18: Nifty Falls for 6th Session as Brent Crude Surges Past $91 amid US-Iran Tensions; Sensex Drops 492 Pts - The Indian Awaaz
+### 12. Aug 18: Nifty Falls for 6th Session as Brent Crude Surges Past $91 amid US-Iran Tensions; Sensex Drops 492 Pts - The Indian Awaaz
 
 - Source: The Indian Awaaz
 - Published: 2026-08-18T17:28:00+00:00
@@ -106,7 +126,7 @@ US Stocks Fall as Rising Bond Yields and Oil Prices Pressure AI Tech Shares Anal
 
 Aug 18: Nifty Falls for 6th Session as Brent Crude Surges Past $91 amid US-Iran Tensions; Sensex Drops 492 Pts The Indian Awaaz
 
-### 11. OpenAI Teen Chatbot, Tech Selloff, and Oil Spike - StartupHub.ai
+### 13. OpenAI Teen Chatbot, Tech Selloff, and Oil Spike - StartupHub.ai
 
 - Source: StartupHub.ai
 - Published: 2026-08-18T17:07:56+00:00
@@ -116,7 +136,7 @@ Aug 18: Nifty Falls for 6th Session as Brent Crude Surges Past $91 amid US-Iran 
 
 OpenAI Teen Chatbot, Tech Selloff, and Oil Spike StartupHub.ai
 
-### 12. Why Nvidia, Micron and Broadcom Stocks Are Crashing Today: AI Chip Selloff Explained - Stocks Down Under
+### 14. Why Nvidia, Micron and Broadcom Stocks Are Crashing Today: AI Chip Selloff Explained - Stocks Down Under
 
 - Source: Stocks Down Under
 - Published: 2026-08-18T17:02:08+00:00
@@ -126,7 +146,7 @@ OpenAI Teen Chatbot, Tech Selloff, and Oil Spike StartupHub.ai
 
 Why Nvidia, Micron and Broadcom Stocks Are Crashing Today: AI Chip Selloff Explained Stocks Down Under
 
-### 13. Sensex Falls 493 Points, Nifty Drops 133 Points Amid Global Tensions - INDIA New England News
+### 15. Sensex Falls 493 Points, Nifty Drops 133 Points Amid Global Tensions - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-08-18T15:11:30+00:00
@@ -136,7 +156,7 @@ Why Nvidia, Micron and Broadcom Stocks Are Crashing Today: AI Chip Selloff Expla
 
 Sensex Falls 493 Points, Nifty Drops 133 Points Amid Global Tensions INDIA New England News
 
-### 14. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - bfsi.economictimes.indiatimes.com
+### 16. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - bfsi.economictimes.indiatimes.com
 
 - Source: bfsi.economictimes.indiatimes.com
 - Published: 2026-08-18T13:32:27+00:00
@@ -146,7 +166,7 @@ Sensex Falls 493 Points, Nifty Drops 133 Points Amid Global Tensions INDIA New E
 
 Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel bfsi.economictimes.indiatimes.com
 
-### 15. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to $91/barrel - The Hindu
+### 17. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to $91/barrel - The Hindu
 
 - Source: The Hindu
 - Published: 2026-08-18T12:01:42+00:00
@@ -156,7 +176,7 @@ Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/ba
 
 Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to $91/barrel The Hindu
 
-### 16. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - Deccan Herald
+### 18. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - Deccan Herald
 
 - Source: Deccan Herald
 - Published: 2026-08-18T11:34:21+00:00
@@ -166,17 +186,17 @@ Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to $91/barre
 
 Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel Deccan Herald
 
-### 17. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - Daily Excelsior
+### 19. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - dailyexcelsior.com
 
-- Source: Daily Excelsior
+- Source: dailyexcelsior.com
 - Published: 2026-08-18T11:31:34+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNVUFiMEl4dTU2M0ZNb1l4RU1MMWJsTGFYcVdVb2RvX3ZxVmdxNjZCaE05QV96Y3NlM3czQnhBZGJZaDM1Nm96QUFRbFFTYjRvbGVJM1FCVC10a2hRdlZVcmlhVHA3Sm1HRHRlQ0d1NGxMZXlpUURGZ1FaMmw0bEpDdkkzdnRYOF9tem1STmxSdVRqWXBOVGRwWnNyTTlsYkM3eENDWVNCODNiX0wtUVYxQUhnd3RQOXh3R2fSAboBQVVfeXFMTVVBYjBJeHU1NjNGTW9ZeEVNTDFibExhWHFXVW9kb192cVZncTY2QmhNOUFfemNzZTN3M0J4QWRiWWgzNTZvekFBUWxRU2I0b2xlSTNRQlQtdGtoUXZWVXJpYVRwN0ptR0R0ZUNHdTRsTGV5aVFERmdRWjJsNGxKQ3ZJM3Z0WDhfbXptUk5sUnVUallwTlRkcFpzck05bGJDN3hDQ1lTQjgzYl9MLVFWMUFIZ3d0UDl4d0dn?oc=5
 
-Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel Daily Excelsior
+Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel dailyexcelsior.com
 
-### 18. Sensex plummets 493 points; Nifty falls for sixth day as crude oil prices hover above USD 91 per barrel - Mid-Day
+### 20. Sensex plummets 493 points; Nifty falls for sixth day as crude oil prices hover above USD 91 per barrel - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-08-18T11:17:00+00:00
@@ -186,7 +206,7 @@ Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/ba
 
 Sensex plummets 493 points; Nifty falls for sixth day as crude oil prices hover above USD 91 per barrel Mid-Day
 
-### 19. Sensex tanks 493 points, Nifty falls for 6th day as crude oil jumps to $91/barrel - Rediff
+### 21. Sensex tanks 493 points, Nifty falls for 6th day as crude oil jumps to $91/barrel - Rediff
 
 - Source: Rediff
 - Published: 2026-08-18T11:08:00+00:00
@@ -196,7 +216,7 @@ Sensex plummets 493 points; Nifty falls for sixth day as crude oil prices hover 
 
 Sensex tanks 493 points, Nifty falls for 6th day as crude oil jumps to $91/barrel Rediff
 
-### 20. Sensex, Nifty Fall as High Crude Oil, Global Cues Spook Investors - Asianet Newsable
+### 22. Sensex, Nifty Fall as High Crude Oil, Global Cues Spook Investors - Asianet Newsable
 
 - Source: Asianet Newsable
 - Published: 2026-08-18T11:00:27+00:00
@@ -206,17 +226,7 @@ Sensex tanks 493 points, Nifty falls for 6th day as crude oil jumps to $91/barre
 
 Sensex, Nifty Fall as High Crude Oil, Global Cues Spook Investors Asianet Newsable
 
-### 21. Markets extend losing streak; Sensex falls 493 points, Nifty ends at 24,155 amid higher crude prices - Fortune India
-
-- Source: Fortune India
-- Published: 2026-08-18T11:00:07+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSlFuMHdGbXBUU2NRVTVnNEtWVzAzcUlIWENxRVdwWkhCb2NoWV9URzk3UVQxY2sxUEV1d3UzeVFhZlRCTzNzMGpDYXBMWDAwS3RSQkRUdDBYNmhldFJsWGNQZzZ5U1hwMEZlSG1wejB6NnZlcTdla21xbjNzc0RmRlgtM3JZUURWbGVybHFJaHg3RUtKUHVoU2d4RE9KckNqdzVwazBvVVhVVWRXT0tibW9NMDNHZmUtOVVRbXNLMnkyS3ktM0x1OFFUU1VvZ3B4SGphaWlUOWfSAeYBQVVfeXFMUE95eGFjU3RnSjFaNzNvQUtDdGtZSDd3ZnB6QU5PaG1Kclg3Zy02YzU2S3pFNVNzVFd0R3pMNTU0S0o2WFpBSFlrcDZuc09DdVlJeElwS0toUlJkYVJrNWU4TTNuU3BlLVhkMW9kRHFuc0NuTHpnWVh2b3NTbFZVR0pnOHpfeEhZTEM1R0g0ZG9Yb1pXWV9TMHZ2TmlZX0FZbFVXMVFFSmNIRlJEbE4tRDJOSHBubk53NmRtV2ZxWkpYLU44RS15eWpuSjZrMG1pVXhqWU9uZllQUi1tSHJZaC1aN0c5a0E?oc=5
-
-Markets extend losing streak; Sensex falls 493 points, Nifty ends at 24,155 amid higher crude prices Fortune India
-
-### 22. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - DT Next
+### 23. Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel - DT Next
 
 - Source: DT Next
 - Published: 2026-08-18T10:47:00+00:00
@@ -226,7 +236,7 @@ Markets extend losing streak; Sensex falls 493 points, Nifty ends at 24,155 amid
 
 Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/barrel DT Next
 
-### 23. Closing Bell: Nifty 50 Falls 0.55% for 6th Straight Session; Sensex Drops 493 Points as Brent Crude Tops $91 per barrel - Dalal Street Investment Journal
+### 24. Closing Bell: Nifty 50 Falls 0.55% for 6th Straight Session; Sensex Drops 493 Points as Brent Crude Tops $91 per barrel - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-08-18T10:38:58+00:00
@@ -236,7 +246,7 @@ Sensex tanks 493 points; Nifty falls for 6th day as crude oil jumps to USD 91/ba
 
 Closing Bell: Nifty 50 Falls 0.55% for 6th Straight Session; Sensex Drops 493 Points as Brent Crude Tops $91 per barrel Dalal Street Investment Journal
 
-### 24. Sensex falls over 300 pts; Nifty hovers below 24,300 as Brent crude climbs to USD 91/bbl - India's News.Net
+### 25. Sensex falls over 300 pts; Nifty hovers below 24,300 as Brent crude climbs to USD 91/bbl - India's News.Net
 
 - Source: India's News.Net
 - Published: 2026-08-18T10:29:00+00:00
@@ -245,16 +255,6 @@ Closing Bell: Nifty 50 Falls 0.55% for 6th Straight Session; Sensex Drops 493 Po
 - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOc1o3N3VYWXgzc0d6Y1FBUzA2eTZPTHBlYWhCbF9RZFN2TlF1bzNmaVNSQVFnR3BvU0I0Ukd5YUIyQTBHZGJ4RF9lZ2M1a0wwVllEU2ltTjJ3ZlRJdUdyZUhxUmNSYWRyZjV3bzJPY0VFdnI2Z1EyTTNWaVJQWXRuZ2tJRXhtYVBVT000OEZ3MmJCUDZvLUZ6bkZaLUZuRWk2SE1DT2FsajMwUHNITmxSTzdZWUd2ZHRmSUNsSGxPcXF1c1VUbGc?oc=5
 
 Sensex falls over 300 pts; Nifty hovers below 24,300 as Brent crude climbs to USD 91/bbl India's News.Net
-
-### 25. Sensex falls 493 points, Nifty slips for 6th day as crude, IT stocks drag - India Today
-
-- Source: India Today
-- Published: 2026-08-18T10:07:01+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxQaEVCUTdsd3VBTF9FMWdkRmN0T0pNWERoVVRCSEg2MzNhOFFxRWRfSXI0eE5abnlQVFoxdHF3MDBCeHZwWmhZRW5HSlNzRXI3cEtiRU16RmZCUXNBbG52VThDZTdMYmlzNGhzaEF2SE8yYTZBVHhTb1lwRnFjdXhhUnE0SnY2aktrdEpHS2hRRXl1cTRvNHJQWnhCY3ZRLXNXMDVOdUtvVVY4Um1DcDBvVmFDZUszZFdGcm5uNGJxLTRtNHpSV2xva1dvMTlqdWVPbFhnT1B1X0k0aW92WWFLZ3FtejF5TXJITmpBdm9tNjM5MmQ5RUE0VNIB_gFBVV95cUxNZFhBQ2JLN2Qwbk05d2FqS1l0ZXplRTNGWlhiM2hFRm01TGREMUdJZElmb2oxRFByWXM2U1QxaldaemtIelRITnlrZXJIel8xSnNlR3FMUm1WcmlrNjYtemJqM2hXSmxtYUxHbzQ3N29Sc0dBMkl6TWQtcExfbU40N1dJQkNvWHJGRkxWMlVLTE9ha1c1M1F4ODE1QWZLOHVvTjlxRXRwdm8tVmsydjZQSHFiZVg2TURpd2J0UWpRLVRZMEJJNXc0cXhtcmdHTUJJdEV5UjZKV016RFlvRWJpR09QV0xtd29wbUwyTDZrYkUwLTV6X0NQcVVJNzdFdw?oc=5
-
-Sensex falls 493 points, Nifty slips for 6th day as crude, IT stocks drag India Today
 
 ### 26. KOSPI Plunges 5.8% as Sell Sidecar Triggered Amid Global Chip Selloff and Surging Bond Yields Worldwide - International Business Times Australia
 
@@ -366,7 +366,17 @@ Nikkei Plunges Sharply, Briefly Falls to 65,000 Range as U.S. Semiconductor Sell
 
 Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets The Economic Times
 
-### 37. Tech selloff weighs down Wall Street as bond yields climb - Reuters
+### 37. Watch AI: SK Hynix Plans $29 Billion Share Buyback Amid Chip Selloff - bloomberg.com
+
+- Source: bloomberg.com
+- Published: 2026-08-19T00:00:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxOSjFoTFFwYk1VbzVHUExYLXp6R1VYUWZQTnFCdFI4bDB5RTJzQ094NlNYTV8zVGFPZm4zLUhmSGU5UVRLVDRuVVNzYldUZjdNTUdfUVVHdEdRMU9XdWtPUkdfWTVsRThQMUtrdGp3OS1nT2lyN0s0NGNiRWxUOXQxblJwLWFtdHRicTE2Z1J1Rk1TZzAtTEtsR2xn?oc=5
+
+Watch AI: SK Hynix Plans $29 Billion Share Buyback Amid Chip Selloff bloomberg.com
+
+### 38. Tech selloff weighs down Wall Street as bond yields climb - Reuters
 
 - Source: Reuters
 - Published: 2026-08-18T22:58:54+00:00
@@ -376,7 +386,7 @@ Nifty falls for sixth straight session; oil surge, CAS volatility rattle markets
 
 Tech selloff weighs down Wall Street as bond yields climb Reuters
 
-### 38. Morning Wrap: ASX 200 eyes sixth day of losses as AI selloff and bond yields hit Wall Street - Market Index
+### 39. Morning Wrap: ASX 200 eyes sixth day of losses as AI selloff and bond yields hit Wall Street - Market Index
 
 - Source: Market Index
 - Published: 2026-08-18T22:58:07+00:00
@@ -386,7 +396,17 @@ Tech selloff weighs down Wall Street as bond yields climb Reuters
 
 Morning Wrap: ASX 200 eyes sixth day of losses as AI selloff and bond yields hit Wall Street Market Index
 
-### 39. US stocks: Tech selloff weighs down Wall Street as bond yields climb - The Business Times
+### 40. Tech Selloff Weighs on Wall Street as Bond Yields Climb Amid Middle East Tensions - Dividend Cut Risk - Vinanet
+
+- Source: Vinanet
+- Published: 2026-08-18T22:17:08+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOVHYyT2Zxa2NRRGVybUtYOXJNUkF4ejNTSUNHRHNwTjJIbk5HUWo3djFVSWNVUWpqSV9DTHFKNDVMVGpOdzdxNS1CLXliTU4zc2puS3BTY2dHRTZzRFkwd2dWVVE0LVVqQUc5alF1bnlkdjBrd1NiZWJLajllNG9DbE92SWpyUXBnN1B0d0JlaWNKdkNVOTBrcl82YjNlOEZ0SmZJWFJMR0lvRWZXZDhNVVBQaTNlWm1OeWEzRjJmazk?oc=5
+
+Tech Selloff Weighs on Wall Street as Bond Yields Climb Amid Middle East Tensions - Dividend Cut Risk Vinanet
+
+### 41. US stocks: Tech selloff weighs down Wall Street as bond yields climb - The Business Times
 
 - Source: The Business Times
 - Published: 2026-08-18T21:45:00+00:00
@@ -396,7 +416,7 @@ Morning Wrap: ASX 200 eyes sixth day of losses as AI selloff and bond yields hit
 
 US stocks: Tech selloff weighs down Wall Street as bond yields climb The Business Times
 
-### 40. Gold, Silver Drop on High Yields, AI Stock Selloff | August 18, 2026 - News and Statistics - IndexBox
+### 42. Gold, Silver Drop on High Yields, AI Stock Selloff | August 18, 2026 - News and Statistics - IndexBox
 
 - Source: IndexBox
 - Published: 2026-08-18T21:20:00+00:00
@@ -406,7 +426,7 @@ US stocks: Tech selloff weighs down Wall Street as bond yields climb The Busines
 
 Gold, Silver Drop on High Yields, AI Stock Selloff | August 18, 2026 - News and Statistics IndexBox
 
-### 41. Space stocks fall amid AI hardware selloff desp... - pluang.com
+### 43. Space stocks fall amid AI hardware selloff desp... - pluang.com
 
 - Source: pluang.com
 - Published: 2026-08-18T20:51:04+00:00
@@ -416,7 +436,7 @@ Gold, Silver Drop on High Yields, AI Stock Selloff | August 18, 2026 - News and 
 
 Space stocks fall amid AI hardware selloff desp... pluang.com
 
-### 42. AMD Stock Fails to Hold $500 Again as Rising Yields Trigger Semiconductor Selloff - FXLeaders
+### 44. AMD Stock Fails to Hold $500 Again as Rising Yields Trigger Semiconductor Selloff - FXLeaders
 
 - Source: FXLeaders
 - Published: 2026-08-18T20:32:40+00:00
@@ -426,7 +446,7 @@ Space stocks fall amid AI hardware selloff desp... pluang.com
 
 AMD Stock Fails to Hold $500 Again as Rising Yields Trigger Semiconductor Selloff FXLeaders
 
-### 43. Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street - CryptoRank
+### 45. Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street - CryptoRank
 
 - Source: CryptoRank
 - Published: 2026-08-18T19:23:36+00:00
@@ -436,7 +456,7 @@ AMD Stock Fails to Hold $500 Again as Rising Yields Trigger Semiconductor Sellof
 
 Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street CryptoRank
 
-### 44. Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street - Coinpaper
+### 46. Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-08-18T18:57:22+00:00
@@ -446,7 +466,7 @@ Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall St
 
 Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall Street Coinpaper
 
-### 45. Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Ra - GuruFocus
+### 47. Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Ra - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-08-18T18:13:09+00:00
@@ -456,7 +476,7 @@ Stock Market Today: S&P 500 Falls as Chip Rout, Treasury Yields Pressure Wall St
 
 Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Ra GuruFocus
 
-### 46. BSE SENSEX: Mumbai Benchmark Falls 0.49% to 78,154.25 as Crude Oil Rally Weighs on Sentiment - BBN Times
+### 48. BSE SENSEX: Mumbai Benchmark Falls 0.49% to 78,154.25 as Crude Oil Rally Weighs on Sentiment - BBN Times
 
 - Source: BBN Times
 - Published: 2026-08-18T15:34:59+00:00
@@ -466,7 +486,7 @@ Nvidia, AMD, Micron Lead Chip Stocks Selloff as Iran Tensions Ra GuruFocus
 
 BSE SENSEX: Mumbai Benchmark Falls 0.49% to 78,154.25 as Crude Oil Rally Weighs on Sentiment BBN Times
 
-### 47. Intel Drops as Chip Stocks Sell Off on AI Spending Worries - Quiver Quantitative
+### 49. Intel Drops as Chip Stocks Sell Off on AI Spending Worries - Quiver Quantitative
 
 - Source: Quiver Quantitative
 - Published: 2026-08-18T14:53:00+00:00
@@ -476,7 +496,7 @@ BSE SENSEX: Mumbai Benchmark Falls 0.49% to 78,154.25 as Crude Oil Rally Weighs 
 
 Intel Drops as Chip Stocks Sell Off on AI Spending Worries Quiver Quantitative
 
-### 48. AI, chip stocks fall, broader market sees red amid US-Iran tensions - Seeking Alpha
+### 50. AI, chip stocks fall, broader market sees red amid US-Iran tensions - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-08-18T14:23:04+00:00
@@ -486,7 +506,7 @@ Intel Drops as Chip Stocks Sell Off on AI Spending Worries Quiver Quantitative
 
 AI, chip stocks fall, broader market sees red amid US-Iran tensions Seeking Alpha
 
-### 49. Pinterest Shares Rise 2.4% as Stock Continues Rebound From Post-Earnings Selloff Amid Its AI-Driven Ad Push - International Business Times Australia
+### 51. Pinterest Shares Rise 2.4% as Stock Continues Rebound From Post-Earnings Selloff Amid Its AI-Driven Ad Push - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-08-18T14:18:05+00:00
@@ -496,7 +516,7 @@ AI, chip stocks fall, broader market sees red amid US-Iran tensions Seeking Alph
 
 Pinterest Shares Rise 2.4% as Stock Continues Rebound From Post-Earnings Selloff Amid Its AI-Driven Ad Push International Business Times Australia
 
-### 50. Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons - IndiaIPO
+### 52. Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-08-18T11:10:28+00:00
@@ -506,7 +526,17 @@ Pinterest Shares Rise 2.4% as Stock Continues Rebound From Post-Earnings Selloff
 
 Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons IndiaIPO
 
-### 51. Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield - Dailyhunt
+### 53. Markets extend losing streak; Sensex falls 493 points, Nifty ends at 24,155 amid higher crude prices - fortuneindia.com
+
+- Source: fortuneindia.com
+- Published: 2026-08-18T11:00:07+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSlFuMHdGbXBUU2NRVTVnNEtWVzAzcUlIWENxRVdwWkhCb2NoWV9URzk3UVQxY2sxUEV1d3UzeVFhZlRCTzNzMGpDYXBMWDAwS3RSQkRUdDBYNmhldFJsWGNQZzZ5U1hwMEZlSG1wejB6NnZlcTdla21xbjNzc0RmRlgtM3JZUURWbGVybHFJaHg3RUtKUHVoU2d4RE9KckNqdzVwazBvVVhVVWRXT0tibW9NMDNHZmUtOVVRbXNLMnkyS3ktM0x1OFFUU1VvZ3B4SGphaWlUOWfSAeYBQVVfeXFMUE95eGFjU3RnSjFaNzNvQUtDdGtZSDd3ZnB6QU5PaG1Kclg3Zy02YzU2S3pFNVNzVFd0R3pMNTU0S0o2WFpBSFlrcDZuc09DdVlJeElwS0toUlJkYVJrNWU4TTNuU3BlLVhkMW9kRHFuc0NuTHpnWVh2b3NTbFZVR0pnOHpfeEhZTEM1R0g0ZG9Yb1pXWV9TMHZ2TmlZX0FZbFVXMVFFSmNIRlJEbE4tRDJOSHBubk53NmRtV2ZxWkpYLU44RS15eWpuSjZrMG1pVXhqWU9uZllQUi1tSHJZaC1aN0c5a0E?oc=5
+
+Markets extend losing streak; Sensex falls 493 points, Nifty ends at 24,155 amid higher crude prices fortuneindia.com
+
+### 54. Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield - Dailyhunt
 
 - Source: Dailyhunt
 - Published: 2026-08-18T10:57:29+00:00
@@ -516,7 +546,7 @@ Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 k
 
 Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield Dailyhunt
 
-### 52. Sensex plunges 493 points, Nifty falls 133 points amid global tensions - IBTimes India
+### 55. Sensex plunges 493 points, Nifty falls 133 points amid global tensions - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-08-18T10:52:55+00:00
@@ -526,7 +556,7 @@ Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and
 
 Sensex plunges 493 points, Nifty falls 133 points amid global tensions IBTimes India
 
-### 53. Sensex plunges 493 points, Nifty falls 133 points amid global tensions - The Hans India
+### 56. Sensex plunges 493 points, Nifty falls 133 points amid global tensions - The Hans India
 
 - Source: The Hans India
 - Published: 2026-08-18T10:45:36+00:00
@@ -536,7 +566,7 @@ Sensex plunges 493 points, Nifty falls 133 points amid global tensions IBTimes I
 
 Sensex plunges 493 points, Nifty falls 133 points amid global tensions The Hans India
 
-### 54. Nasdaq Futures Plunge as Rising Bond Yields Drive Chip Selloff - Barchart.com
+### 57. Nasdaq Futures Plunge as Rising Bond Yields Drive Chip Selloff - Barchart.com
 
 - Source: Barchart.com
 - Published: 2026-08-18T10:44:54+00:00
@@ -546,7 +576,7 @@ Sensex plunges 493 points, Nifty falls 133 points amid global tensions The Hans 
 
 Nasdaq Futures Plunge as Rising Bond Yields Drive Chip Selloff Barchart.com
 
-### 55. Markets extend losing streak to 6th consecutive session as Sensex falls 492 points, Nifty ends near 24,150 - India TV News
+### 58. Markets extend losing streak to 6th consecutive session as Sensex falls 492 points, Nifty ends near 24,150 - India TV News
 
 - Source: India TV News
 - Published: 2026-08-18T10:39:46+00:00
@@ -556,7 +586,7 @@ Nasdaq Futures Plunge as Rising Bond Yields Drive Chip Selloff Barchart.com
 
 Markets extend losing streak to 6th consecutive session as Sensex falls 492 points, Nifty ends near 24,150 India TV News
 
-### 56. Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield - The Tribune
+### 59. Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield - The Tribune
 
 - Source: The Tribune
 - Published: 2026-08-18T10:38:36+00:00
@@ -566,17 +596,17 @@ Markets extend losing streak to 6th consecutive session as Sensex falls 492 poin
 
 Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield The Tribune
 
-### 57. Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield - ANI News
+### 60. Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield - aninews.in
 
-- Source: ANI News
+- Source: aninews.in
 - Published: 2026-08-18T10:36:00+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPUlp3a1MtRWd1UlpYYklWMmkzc1l5blZqaE5ZQ0Z4NHdLQklndXBBTVpGd3hDZ2E1QkU2WkxWNURTbC0tcVQyeGRQQjNuQzN0aDBPVG5kal9Hcnk5bWktR3NWeU04cHh4c1g0ckFwMnNBMlhJOEhhTllseHdnNUR2ZFlxb0tDRkJnUnNqOF80VHVrM1prRC1CUGlHMkdLSTJtNFFzenhrM1JOVkZLdlluX1FOSFYzM1NWRzRzSlU0aHhwdGdURUpyVUdzUEtrVGhHUFlkY2V0cGhCQXRMYWVzeENNRmVTQQ?oc=5
 
-Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield ANI News
+Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and rising US bond yield aninews.in
 
-### 58. Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons - CNBC TV18 - LinkedIn
+### 61. Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons - CNBC TV18 - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-08-18T10:19:56+00:00
@@ -586,7 +616,7 @@ Nifty ends 133 points lower, Sensex falls 493 points due to high crude price and
 
 Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons - CNBC TV18 LinkedIn
 
-### 59. Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons - cnbctv18.com
+### 62. Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons - cnbctv18.com
 
 - Source: cnbctv18.com
 - Published: 2026-08-18T10:18:02+00:00
@@ -596,17 +626,27 @@ Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 k
 
 Stock market fall explained: Sensex drops 493 points, Nifty below 24,200 — 6 key reasons cnbctv18.com
 
-### 60. AI market correction is coming, ECB blog predicts - RTE.ie
+### 63. AI boom could expose euro area to US stock market correction, ECB economists warn - Business Review
+
+- Source: Business Review
+- Published: 2026-08-19T09:29:52+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZUNGSDJDc1RnSWxuWWw0Tng0ZWctQm5LbERxcTNpRTNqNmx5VktHNFpyWk1yRWxqR1pnUVB0czBMZFRaTWFEQklJLUpfRVBnczc2WjNrQkE2V0pqVm01QjRCYzBXY0VJdTU4c19nRnlzbmZWNlRsMDFlbEZ0LVZRQ3l3a3NYUXI2RjJiU0VNYTJMMUZ6VDF4Qm1QX3hpQmRIaVN5TThNUVltVHJua21XUlloODVwUFk5YmJfSnRSNHk2bVo3aS05dzhjbFdBZjU2?oc=5
+
+AI boom could expose euro area to US stock market correction, ECB economists warn Business Review
+
+### 64. AI market correction is coming, ECB blog predicts - RTE.ie
 
 - Source: RTE.ie
-- Published: 2026-08-19T09:00:56+00:00
+- Published: 2026-08-19T09:09:44+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOclA2cnNsT0YwVHU5Mmt1Y3FkMVB4SHhTNjZoeFJqZ2hkS1F2V2FMWnRyWGM3ZFVqUGxMQ0pwQ1dTOHdQMGlhU1ZWQVVPcmVsVDNOZXNIcU9PbU1rLXFpeEoybzZlaUlOWmZDRnp0STU4LXFNV1hYQUJpbjhzTnBxcktCbmw4Tld0RzNrTUJoTVdqNEZaa1JaUU1RMFdnSDNsUUE?oc=5
 
 AI market correction is coming, ECB blog predicts RTE.ie
 
-### 61. Sensex Today: BSE Index Falls Over 300 Points as Oil Nears $92, Geopolitical Risks Rise; What Investors Should Watch - The Sunday Guardian
+### 65. Sensex Today: BSE Index Falls Over 300 Points as Oil Nears $92, Geopolitical Risks Rise; What Investors Should Watch - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-08-19T07:39:14+00:00
@@ -616,7 +656,7 @@ AI market correction is coming, ECB blog predicts RTE.ie
 
 Sensex Today: BSE Index Falls Over 300 Points as Oil Nears $92, Geopolitical Risks Rise; What Investors Should Watch The Sunday Guardian
 
-### 62. Paytm, RailTel, HG Infra, Zaggle Prepaid among buzzing stocks as SENSEX falls over 300 pts; NIFTY trades below 24,100 - Upstox
+### 66. Paytm, RailTel, HG Infra, Zaggle Prepaid among buzzing stocks as SENSEX falls over 300 pts; NIFTY trades below 24,100 - Upstox
 
 - Source: Upstox
 - Published: 2026-08-19T07:28:27+00:00
@@ -626,7 +666,7 @@ Sensex Today: BSE Index Falls Over 300 Points as Oil Nears $92, Geopolitical Ris
 
 Paytm, RailTel, HG Infra, Zaggle Prepaid among buzzing stocks as SENSEX falls over 300 pts; NIFTY trades below 24,100 Upstox
 
-### 63. The ECB economists warn of a correction in the stock markets fueled by the artificial intelligence boom. - Informat.ro
+### 67. The ECB economists warn of a correction in the stock markets fueled by the artificial intelligence boom. - Informat.ro
 
 - Source: Informat.ro
 - Published: 2026-08-19T07:06:34+00:00
@@ -636,7 +676,7 @@ Paytm, RailTel, HG Infra, Zaggle Prepaid among buzzing stocks as SENSEX falls ov
 
 The ECB economists warn of a correction in the stock markets fueled by the artificial intelligence boom. Informat.ro
 
-### 64. ASX Technology Stocks Fall: WiseTech, Life360 and NEXTDC Under Pressure on Wednesday - Kalkine
+### 68. ASX Technology Stocks Fall: WiseTech, Life360 and NEXTDC Under Pressure on Wednesday - Kalkine
 
 - Source: Kalkine
 - Published: 2026-08-19T06:15:00+00:00
@@ -646,7 +686,7 @@ The ECB economists warn of a correction in the stock markets fueled by the artif
 
 ASX Technology Stocks Fall: WiseTech, Life360 and NEXTDC Under Pressure on Wednesday Kalkine
 
-### 65. Sensex falls 200 points, Nifty slips below 24,100 - Awaz The Voice
+### 69. Sensex falls 200 points, Nifty slips below 24,100 - Awaz The Voice
 
 - Source: Awaz The Voice
 - Published: 2026-08-19T05:33:15+00:00
@@ -656,7 +696,7 @@ ASX Technology Stocks Fall: WiseTech, Life360 and NEXTDC Under Pressure on Wedne
 
 Sensex falls 200 points, Nifty slips below 24,100 Awaz The Voice
 
-### 66. Taiwan Stocks Plunge Nearly 1,000 Points at Open as Philadelphia Semiconductor Index Rout Triggers Memory Sector Sell-Off - finance.biggo.com
+### 70. Taiwan Stocks Plunge Nearly 1,000 Points at Open as Philadelphia Semiconductor Index Rout Triggers Memory Sector Sell-Off - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-08-19T04:36:00+00:00
@@ -666,7 +706,7 @@ Sensex falls 200 points, Nifty slips below 24,100 Awaz The Voice
 
 Taiwan Stocks Plunge Nearly 1,000 Points at Open as Philadelphia Semiconductor Index Rout Triggers Memory Sector Sell-Off finance.biggo.com
 
-### 67. Asian shares slide, South Korea's Kospi down 5.2% as AI stocks fall - Business Standard
+### 71. Asian shares slide, South Korea's Kospi down 5.2% as AI stocks fall - Business Standard
 
 - Source: Business Standard
 - Published: 2026-08-19T04:18:21+00:00
@@ -676,7 +716,7 @@ Taiwan Stocks Plunge Nearly 1,000 Points at Open as Philadelphia Semiconductor I
 
 Asian shares slide, South Korea's Kospi down 5.2% as AI stocks fall Business Standard
 
-### 68. Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com
+### 72. Asian stocks slump as chip selloff deepens; KOSPI plunges 5% - Investing.com
 
 - Source: Investing.com
 - Published: 2026-08-19T04:09:03+00:00
@@ -686,7 +726,7 @@ Asian shares slide, South Korea's Kospi down 5.2% as AI stocks fall Business Sta
 
 Asian stocks slump as chip selloff deepens; KOSPI plunges 5% Investing.com
 
-### 69. Nifty50 outlook: GIFT Nifty flat, crude and global sell-off in focus - Business Upturn
+### 73. Nifty50 outlook: GIFT Nifty flat, crude and global sell-off in focus - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-08-19T04:03:43+00:00
@@ -696,7 +736,7 @@ Asian stocks slump as chip selloff deepens; KOSPI plunges 5% Investing.com
 
 Nifty50 outlook: GIFT Nifty flat, crude and global sell-off in focus Business Upturn
 
-### 70. Sensex falls 100 points, Nifty below 23,150 as market bleeds for 7th session. What lies ahead? - The Economic Times
+### 74. Sensex falls 300 points, Nifty below 23,100 as market bleeds for 7th session. What lies ahead? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-08-19T03:59:39+00:00
@@ -704,9 +744,9 @@ Nifty50 outlook: GIFT Nifty flat, crude and global sell-off in focus Business Up
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdF90dXlQSGZSZkVMdzJLd2R0cVJVdEVJaDRBQVdLOWRjU24zSGJRd09aT2dyMDhQM1hFM0xXS2MtLUt0Tlpwb2FoSlFJWmRVV3Q0Z1FDUklMSTB2dUEwdEM1QUFvbWdFQUFnb2pBcHlCZ1dWSk9pSnl1dzltV0NZc1VuTzRGeGJKQ2pwSUdkakppeUxGTkhsa1A3dWN3a2JwWmJKR3JmVmpVZlNfZzgxWS02MHVieEZBYzREc3dTZXlWOVF1MVI5X0sxNWJ3akoya01hZllva1NKSWw3ZHZ1Q1lUMFJLb2RxMTdIZHdMdDl5cWU3akJV0gH8AUFVX3lxTE45YlZ1enRfV3NvdTA0aXppRjFsblU0SzJPM3Z3al9zYnJPVHBid0pjbU9ONTNBRjZjYjBiZFBCT1VKSHpQS0hzWUNLVF9CS1JxRHBHNVFPMWZla1V3MWdLZWR2Q0ZCcVVlVnBFY2swTEx4Mm5YYWRhZFlFbnAtZWhVVDhhZlRXa3NCTWhxUWUxOHNKc0dGdU5sdEF0RmVod3VYMWU4RFpPbGx0TlVER2s5UHdCUDRhanJZUklaMHQyT1phSGVrWGdyZEZzb0h1NUxmS3ZFTHBRRndqZlZ4VnZIeHh6aUQtM2VPWGRkZ1EzVldfX28zMXZQLVBfcA?oc=5
 
-Sensex falls 100 points, Nifty below 23,150 as market bleeds for 7th session. What lies ahead? The Economic Times
+Sensex falls 300 points, Nifty below 23,100 as market bleeds for 7th session. What lies ahead? The Economic Times
 
-### 71. Stock Market Today: Sensex Falls 115 Points, Nifty At 24,119 - Times Now
+### 75. Stock Market Today: Sensex Falls 115 Points, Nifty At 24,119 - Times Now
 
 - Source: Times Now
 - Published: 2026-08-19T03:53:12+00:00
@@ -716,7 +756,7 @@ Sensex falls 100 points, Nifty below 23,150 as market bleeds for 7th session. Wh
 
 Stock Market Today: Sensex Falls 115 Points, Nifty At 24,119 Times Now
 
-### 72. Nifty ends 133 points lower, Sensex falls 493 points | The Business Guardian - newspaper - Magzter
+### 76. Nifty ends 133 points lower, Sensex falls 493 points | The Business Guardian - newspaper - Magzter
 
 - Source: Magzter
 - Published: 2026-08-19T03:42:18+00:00
@@ -726,7 +766,7 @@ Stock Market Today: Sensex Falls 115 Points, Nifty At 24,119 Times Now
 
 Nifty ends 133 points lower, Sensex falls 493 points | The Business Guardian - newspaper Magzter
 
-### 73. South Korea’s Kospi Suffers Major Slide as Global Semiconductor Selloff Hammers Tech Giants - kaohoon international
+### 77. South Korea’s Kospi Suffers Major Slide as Global Semiconductor Selloff Hammers Tech Giants - kaohoon international
 
 - Source: kaohoon international
 - Published: 2026-08-19T02:44:43+00:00
@@ -736,7 +776,7 @@ Nifty ends 133 points lower, Sensex falls 493 points | The Business Guardian - n
 
 South Korea’s Kospi Suffers Major Slide as Global Semiconductor Selloff Hammers Tech Giants kaohoon international
 
-### 74. Live: Is Nifty set for 7th straight day of fall? Oil above $90/bbl | Opening Bell - Moneycontrol.com
+### 78. Live: Is Nifty set for 7th straight day of fall? Oil above $90/bbl | Opening Bell - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-08-19T02:41:45+00:00
@@ -746,7 +786,7 @@ South Korea’s Kospi Suffers Major Slide as Global Semiconductor Selloff Hammer
 
 Live: Is Nifty set for 7th straight day of fall? Oil above $90/bbl | Opening Bell Moneycontrol.com
 
-### 75. Will Sensex, Nifty fall for another day? GIFT Nifty signals caution as global cues worsen - newsdrum.in
+### 79. Will Sensex, Nifty fall for another day? GIFT Nifty signals caution as global cues worsen - newsdrum.in
 
 - Source: newsdrum.in
 - Published: 2026-08-19T02:38:47+00:00
@@ -756,7 +796,7 @@ Live: Is Nifty set for 7th straight day of fall? Oil above $90/bbl | Opening Bel
 
 Will Sensex, Nifty fall for another day? GIFT Nifty signals caution as global cues worsen newsdrum.in
 
-### 76. Asian stocks slide as semiconductor selloff deepens - Communications Today
+### 80. Asian stocks slide as semiconductor selloff deepens - Communications Today
 
 - Source: Communications Today
 - Published: 2026-08-19T02:34:54+00:00
@@ -765,43 +805,3 @@ Will Sensex, Nifty fall for another day? GIFT Nifty signals caution as global cu
 - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOc2VlbjluTE5OaHdGMXZCQzdwT2ZuaDNubWJGbE1xc1JMMmJkYlMyYlZVdVRTcXlRMGNId0o5TnNiQ2toQk94WFh5R3FYaDRKNF9KMEVFOWdOa2hQS0Uwd015c3dvSVVRcVhocnVlemJNYmdwRFlBdkpDMHY1c3RSRkxkWGd6dnFpano5NlBWUUNqSkky?oc=5
 
 Asian stocks slide as semiconductor selloff deepens Communications Today
-
-### 77. Philadelphia Semiconductor Index Plunges Nearly 5%, Triggering Selloff as Taiwan Stocks Tumble Nearly 1,000 Points, Breaching 45,000 - finance.biggo.com
-
-- Source: finance.biggo.com
-- Published: 2026-08-19T01:43:50+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9KNy00bk9rQ2N1b2VQaHhNN2QzR3FYQmlPU3l2LTNiSE1tLV9xb1lHMnNCX21LMlNiSlBlX3NlV3ZFYm5xb0gtWnp3dy1MWF9iaVFDd29NLWFQbjlreDVXblpmOXdLbDVQSHR6VmZibVdaOS1sZXc?oc=5
-
-Philadelphia Semiconductor Index Plunges Nearly 5%, Triggering Selloff as Taiwan Stocks Tumble Nearly 1,000 Points, Breaching 45,000 finance.biggo.com
-
-### 78. Closing Bell: Nifty below 24,200, Sensex falls 493 pts; IT stocks major drag - IndiaIPO
-
-- Source: IndiaIPO
-- Published: 2026-08-19T01:38:34+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTc4djQtb2taWktNbVViT2NyT1dGVWl6YlZJYkM4ZmpGYm4yQWoxb1JwVGtBdVNpNGxBUnNnajFyTnNNNTdkSENFWndDcjRTZG9tLUNyQ0ZRRG8zOXVUMGdETnRPUWIyZko3T1ZEQmxxcGFXYXhPV0d4RzR2cXgzOVB3MHpacl95ckp6R1NhcEdHT29kRC1qM3VKcVZTQ3Jzd2xuWWtMSUtSWFNO?oc=5
-
-Closing Bell: Nifty below 24,200, Sensex falls 493 pts; IT stocks major drag IndiaIPO
-
-### 79. Stock Market Today: Gift Nifty To Tech Stocks Selloff — Five Key Factors That May Drive Sensex, Nifty 50 on August 19 - NDTV Profit
-
-- Source: NDTV Profit
-- Published: 2026-08-19T01:26:43+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTGZXUHk3LTZ0OWpDWFpRZ2RKcHMwMm9YODUyU1dtX3VGLUFHWkpHcjFiOXhfbVl1TmFMVEIwSlotLVNNRFpDN3JsdmdPdWVFQTgwcEVLV19CLXNEQVltaGRYejZrNGdxSlNzVEg4eU5QVy1ZMEUtN0pWdm50T3M5ckZSQkhXMGdwZmFEbVoxUzVXYWhBb3RCNzJ3emZ3ZzVGNEkyZzlkTnRfa0RZY0VaOFBZem1KM0lZTTVyT0RwN3gxUG5temxnY2NuY0lkZm4yV2hubEZBeDhWLWVGRnJ1VEZneVJsNnl5T0xySNIB9AFBVV95cUxPdFg2dElnR0dwb1gwRjFndHhtTkdVc211QTE5Y3IxeWdEZTNEUEdrZzBCX2k2T1RudjVGOTRCb2FmMEtjOUZrQmZiOVlFT042YUNYaWsyQmpLOWNsblVXdlNLQ3EwMWNUaTZURkk3VGVQMkdCMFA0YV9yYjBRc1lERHhpaGsxbDMtSXAyZk90TzcyUHpBZFVselNFQWZ1MUdQQy0xRTdCYlBiejB1MFBBa3M3Sk5BV0hnQldIaWhzOEcyZDVReWNsaWVvYVVRWDRGUmZLYkp4am9ucGp4ZWpoU1h0MXowX2Q4c2tfbUVjTXp5N0Vy?oc=5
-
-Stock Market Today: Gift Nifty To Tech Stocks Selloff — Five Key Factors That May Drive Sensex, Nifty 50 on August 19 NDTV Profit
-
-### 80. Asian stocks tumble as chip selloff deepens; Kospi sinks over 6% - cnbctv18.com
-
-- Source: cnbctv18.com
-- Published: 2026-08-19T01:15:30+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNYU5EbFFDYmhBNTRTUWJJdmpkZ1pjSTlBc0lxRlZYTnJTTW1rOXB6bmRESTBHUXRZSDlPa21DbjhMVEFVRUZGdm1wYW1sLVZqa1hoY3VIcF9XalJqLUFILXJiMHY4bDNRNElpRzNFVmYxSENLckNCbjZEOGMwQWZzeHk2OTVqSlZtVkNXYVpwU0d4bExJMDdLWWVhaGZOWEdlVHd6WUUtczV6N01FWFc1Z1JnMDVVZzdfOUNSdTFLbDNkN1EtZmYzQ0FseS1BYU1NUDZlTFhCY3Y2SG9SZXdJV0ZQY9IB4wFBVV95cUxNYU5EbFFDYmhBNTRTUWJJdmpkZ1pjSTlBc0lxRlZYTnJTTW1rOXB6bmRESTBHUXRZSDlPa21DbjhMVEFVRUZGdm1wYW1sLVZqa1hoY3VIcF9XalJqLUFILXJiMHY4bDNRNElpRzNFVmYxSENLckNCbjZEOGMwQWZzeHk2OTVqSlZtVkNXYVpwU0d4bExJMDdLWWVhaGZOWEdlVHd6WUUtczV6N01FWFc1Z1JnMDVVZzdfOUNSdTFLbDNkN1EtZmYzQ0FseS1BYU1NUDZlTFhCY3Y2SG9SZXdJV0ZQYw?oc=5
-
-Asian stocks tumble as chip selloff deepens; Kospi sinks over 6% cnbctv18.com
