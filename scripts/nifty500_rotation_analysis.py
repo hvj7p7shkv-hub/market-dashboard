@@ -431,6 +431,28 @@ def round_value(value, digits: int = 2):
     return round(float(value), digits)
 
 
+def aligned_market_date(data: pd.DataFrame, benchmark_date: str, min_coverage: float) -> str:
+    """Choose the session represented by the broad constituent download.
+
+    Yahoo can publish the benchmark's current-session daily bar before it publishes
+    daily bars for the NSE constituents. Treating the newer benchmark date as the
+    only valid date temporarily invalidates almost the entire universe during market
+    hours. Prefer the modal constituent session when it independently meets the
+    configured coverage threshold; relative-strength calculations already use only
+    overlapping stock and benchmark dates.
+    """
+    if data.empty or "last_date" not in data or "downloaded" not in data:
+        return benchmark_date
+    downloaded = data.loc[data["downloaded"].fillna(False).astype(bool), "last_date"].dropna().astype(str)
+    if downloaded.empty:
+        return benchmark_date
+    counts = downloaded.value_counts()
+    modal_date = str(counts.index[0])
+    expected_count = len(data)
+    modal_coverage = int(counts.iloc[0]) / expected_count if expected_count else 0.0
+    return modal_date if modal_coverage >= min_coverage else benchmark_date
+
+
 def analyse(
     universe: pd.DataFrame,
     period: str,
@@ -698,19 +720,20 @@ def main() -> int:
         fallbacks,
         args.chunk_size,
     )
+    effective_market_date = aligned_market_date(data, benchmark_date, args.min_coverage)
     date_mismatch_count = 0
-    if benchmark_date and "last_date" in data and "downloaded" in data:
+    if effective_market_date and "last_date" in data and "downloaded" in data:
         downloaded_mask = data["downloaded"].fillna(False).astype(bool)
-        mismatch_mask = downloaded_mask & (data["last_date"].astype(str) != benchmark_date)
+        mismatch_mask = downloaded_mask & (data["last_date"].astype(str) != effective_market_date)
         date_mismatch_count = int(mismatch_mask.sum())
         data.loc[mismatch_mask, "downloaded"] = False
         data.loc[mismatch_mask, "download_note"] = data.loc[mismatch_mask, "last_date"].map(
-            lambda value: f"Quote date {value} did not match benchmark session {benchmark_date}"
+            lambda value: f"Quote date {value} did not match aligned market session {effective_market_date}"
         )
     downloaded_count = int(data.get("downloaded", pd.Series(dtype=bool)).fillna(False).astype(bool).sum())
     expected_count = len(universe)
     coverage = downloaded_count / expected_count if expected_count else 0.0
-    market_stamp = benchmark_date or run_stamp
+    market_stamp = effective_market_date or benchmark_date or run_stamp
     output = args.output_dir / f"{market_stamp}-nifty500-rotation.csv"
     if coverage < args.min_coverage:
         existing_snapshots = list(args.output_dir.glob("*-nifty500-rotation.csv"))
@@ -724,6 +747,7 @@ def main() -> int:
             print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
             print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
             print(f"Benchmark session: {benchmark_date or 'unavailable'}")
+            print(f"Aligned market session: {effective_market_date or 'unavailable'}")
             print(f"Excluded date mismatches: {date_mismatch_count}")
             print(f"Universe CSV: {universe_path}")
             print(f"Rotation CSV: {output}")
@@ -762,6 +786,7 @@ def main() -> int:
     print(f"Nifty 500 rotation coverage: {downloaded_count}/{expected_count}")
     print(f"Benchmark used: {benchmark_ticker or 'unavailable'}")
     print(f"Benchmark session: {benchmark_date or 'unavailable'}")
+    print(f"Aligned market session: {effective_market_date or 'unavailable'}")
     print(f"Excluded date mismatches: {date_mismatch_count}")
     print(f"Universe CSV: {universe_path}")
     print(f"Rotation CSV: {output}")
