@@ -258,6 +258,15 @@ def main() -> int:
     rows = [row for row in rows if row["score"] > 0]
     rows.sort(key=lambda item: (int(item.get("score", 0)), str(item.get("published", ""))), reverse=True)
 
+    if not rows:
+        print("Fetched relevant wires: 0")
+        print("No wire files were written; preserving the last populated snapshot.", file=sys.stderr)
+        if errors:
+            print("Feeds with errors:", file=sys.stderr)
+            for error in errors:
+                print(f"- {error}", file=sys.stderr)
+        return 1
+
     stamp = dt.date.today().isoformat()
     csv_path = args.output_dir / f"{stamp}-ai-market-wires.csv"
     json_path = args.output_dir / f"{stamp}-ai-market-wires.json"
@@ -279,7 +288,7 @@ def main() -> int:
         print("Feeds with errors:", file=sys.stderr)
         for error in errors:
             print(f"- {error}", file=sys.stderr)
-    return 0 if rows else 1
+    return 0
 
 
 if __name__ == "__main__":

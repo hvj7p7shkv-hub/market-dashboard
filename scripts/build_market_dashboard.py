@@ -210,8 +210,16 @@ def india_reference_date(indices: list[dict[str, object]]) -> str:
 
 
 def find_latest_wires() -> Path | None:
-    candidates = sorted(WIRES_DIR.glob("*ai-market-wires*.csv"), key=lambda path: path.stat().st_mtime, reverse=True)
-    return candidates[0] if candidates else None
+    candidates = sorted(WIRES_DIR.glob("*ai-market-wires*.csv"), key=lambda path: path.name, reverse=True)
+    for path in candidates:
+        try:
+            with path.open(encoding="utf-8") as handle:
+                next(handle, None)  # header
+                if any(line.strip() for line in handle):
+                    return path
+        except OSError:
+            continue
+    return None
 
 
 def load_wires(path: Path | None, today_only: bool) -> list[dict[str, object]]:
