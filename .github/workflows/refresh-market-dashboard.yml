@@ -11,11 +11,10 @@ on:
       - "requirements-market-dashboard.txt"
       - ".github/workflows/refresh-market-dashboard.yml"
   schedule:
-    # GitHub cron uses UTC. Run from 09:23 IST through the 15:33 close snapshot
-    # on weekdays, offset from round clock times to reduce scheduler delays.
-    - cron: "53 3 * * 1-5"
-    - cron: "3,13,23,33,43,53 4-9 * * 1-5"
-    - cron: "3 10 * * 1-5"
+    # GitHub cron uses UTC. Hourly at :47 past on weekdays, ~09:17 IST through
+    # 16:17 IST (covers the session plus a settled post-close snapshot).
+    # Offset from :00 to avoid GitHub's congested top-of-hour scheduler.
+    - cron: "47 3-10 * * 1-5"
 
 permissions:
   contents: write
