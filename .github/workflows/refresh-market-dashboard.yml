@@ -113,5 +113,9 @@ jobs:
             echo "Dashboard is already current."
           else
             git commit -m "Auto-refresh market dashboard"
-            git push
+            # A manual/configuration commit can land while this long refresh is
+            # running. Rebase the generated snapshot before pushing so a benign
+            # concurrent update does not discard an otherwise valid refresh.
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
