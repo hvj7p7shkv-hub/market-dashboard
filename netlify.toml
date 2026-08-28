@@ -1,6 +1,0 @@
-# Hosting migrated from GitHub Pages to Netlify (2026-08).
-# GitHub Actions refreshes the data and commits the prebuilt static site;
-# Netlify auto-deploys every push to main. No build step is required.
-[build]
-  publish = "docs"
-  command = ""
