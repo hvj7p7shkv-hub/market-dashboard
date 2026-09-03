@@ -63,15 +63,21 @@ jobs:
             echo "::notice::Nifty 500 highs could not be refreshed. The dashboard will use the latest available highs snapshot."
           fi
 
+      - name: Refresh NSE bhavcopy price history
+        run: |
+          if ! python scripts/nse_price_history.py --data-dir data/nse_prices --lookback-days 430; then
+            echo "::notice::NSE bhavcopy price history could not be fully refreshed. Rotation will use the latest committed price store."
+          fi
+
       - name: Refresh Nifty 50 rotation
         run: |
-          if ! python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation; then
+          if ! python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation --price-source bhavcopy --price-data-dir data/nse_prices; then
             echo "::notice::Nifty 50 rotation could not be refreshed. The dashboard will use the latest available rotation snapshot."
           fi
 
       - name: Refresh Nifty 500 rotation
         run: |
-          if ! python scripts/nifty500_rotation_analysis.py --period 1y --output-dir data/nifty500_rotation --breadth-leadership-output data/market_dashboard/breadth_leadership_snapshot.json --universe-csv data/nifty500_universe/ind_nifty500list.csv --min-coverage 0.85; then
+          if ! python scripts/nifty500_rotation_analysis.py --period 1y --output-dir data/nifty500_rotation --breadth-leadership-output data/market_dashboard/breadth_leadership_snapshot.json --universe-csv data/nifty500_universe/ind_nifty500list.csv --price-source bhavcopy --price-data-dir data/nse_prices --min-coverage 0.85; then
             echo "::notice::Nifty 500 rotation could not be refreshed. The dashboard will use the latest available rotation snapshot."
           fi
 

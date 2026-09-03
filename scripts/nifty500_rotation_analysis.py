@@ -42,6 +42,11 @@ except Exception:  # pragma: no cover - runtime dependency
     yf = None
 
 try:
+    import nse_price_history
+except Exception:  # pragma: no cover - optional local helper
+    nse_price_history = None
+
+try:
     from setup_pattern_detection import scan_setups
 except Exception:  # pragma: no cover - optional local helper
     scan_setups = None
@@ -453,23 +458,68 @@ def aligned_market_date(data: pd.DataFrame, benchmark_date: str, min_coverage: f
     return modal_date if modal_coverage >= min_coverage else benchmark_date
 
 
+def load_price_history(
+    tickers: list[str],
+    benchmark: str,
+    benchmark_fallbacks: list[str],
+    period: str,
+    chunk_size: int,
+    price_source: str,
+    price_data_dir: Path,
+) -> tuple[dict[str, pd.DataFrame], str, pd.Series, str]:
+    """Return (per-ticker history, benchmark_ticker, benchmark_close, benchmark_date).
+
+    ``bhavcopy`` reads the exchange-official NSE bhavcopy store maintained by
+    ``nse_price_history`` and only falls back to Yahoo for the handful of names
+    the store is still missing. ``yahoo`` is the original all-Yahoo path.
+    """
+    if price_source == "bhavcopy" and nse_price_history is not None:
+        frames = nse_price_history.load_frames(
+            price_data_dir, months=15, tickers=[*tickers, benchmark, *benchmark_fallbacks]
+        )
+        history = {t: frames.get(t, pd.DataFrame()) for t in tickers}
+        missing = [t for t in tickers if len(clean_close(history.get(t, pd.DataFrame()))) < 70]
+        if yf is not None and 0 < len(missing) <= max(50, len(tickers) // 3):
+            for ticker in missing:
+                history[ticker] = extract_ticker_frame(
+                    yfinance_download([ticker], period), ticker, single_ticker=True
+                )
+                time.sleep(0.3)
+        for candidate in (benchmark, *benchmark_fallbacks):
+            bench_frame = frames.get(candidate.strip(), pd.DataFrame())
+            bench_close = clean_close(bench_frame)
+            if len(bench_close) >= 70:
+                return history, candidate.strip(), bench_close, bench_close.index[-1].date().isoformat()
+        # store lacked the index level - fall through to Yahoo for the benchmark only
+        b_ticker, b_close, b_date = download_benchmark(benchmark, benchmark_fallbacks, period)
+        return history, b_ticker, b_close, b_date
+
+    if yf is None:
+        raise SystemExit("yfinance is not installed.")
+    b_ticker, b_close, b_date = download_benchmark(benchmark, benchmark_fallbacks, period)
+    return download_history(tickers, period, chunk_size), b_ticker, b_close, b_date
+
+
 def analyse(
     universe: pd.DataFrame,
     period: str,
     benchmark: str,
     benchmark_fallbacks: list[str],
     chunk_size: int,
+    price_source: str = "yahoo",
+    price_data_dir: Path | None = None,
 ) -> tuple[pd.DataFrame, str, str]:
-    if yf is None:
-        raise SystemExit("yfinance is not installed.")
-    benchmark_ticker, benchmark_close, benchmark_date = download_benchmark(
+    tickers = universe["ticker"].dropna().astype(str).tolist()
+    history, benchmark_ticker, benchmark_close, benchmark_date = load_price_history(
+        tickers,
         benchmark,
         benchmark_fallbacks,
         period,
+        chunk_size,
+        price_source,
+        price_data_dir or Path("data/nse_prices"),
     )
     has_benchmark = not benchmark_close.empty
-    tickers = universe["ticker"].dropna().astype(str).tolist()
-    history = download_history(tickers, period, chunk_size)
     rows: list[dict[str, object]] = []
     lookup = universe.set_index("ticker").to_dict(orient="index")
     for ticker in tickers:
@@ -695,6 +745,18 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=0, help="Optional constituent limit for smoke tests.")
     parser.add_argument("--chunk-size", type=int, default=80, help="Yahoo download batch size.")
     parser.add_argument(
+        "--price-source",
+        choices=("bhavcopy", "yahoo"),
+        default="bhavcopy",
+        help="bhavcopy: exchange-official NSE bhavcopy store (default). yahoo: legacy Yahoo download.",
+    )
+    parser.add_argument(
+        "--price-data-dir",
+        type=Path,
+        default=ROOT / "data" / "nse_prices",
+        help="Location of the NSE bhavcopy price store maintained by nse_price_history.py.",
+    )
+    parser.add_argument(
         "--min-coverage",
         type=float,
         default=0.65,
@@ -713,12 +775,18 @@ def main() -> int:
     universe_path = args.output_dir / f"{run_stamp}-nifty500-universe.csv"
     universe.to_csv(universe_path, index=False)
     fallbacks = [item.strip() for item in args.benchmark_fallbacks.split(",") if item.strip()]
+    price_source = args.price_source
+    if price_source == "bhavcopy" and nse_price_history is None:
+        print("nse_price_history helper unavailable; falling back to Yahoo price source.")
+        price_source = "yahoo"
     data, benchmark_ticker, benchmark_date = analyse(
         universe,
         args.period,
         args.benchmark,
         fallbacks,
         args.chunk_size,
+        price_source,
+        args.price_data_dir,
     )
     effective_market_date = aligned_market_date(data, benchmark_date, args.min_coverage)
     date_mismatch_count = 0

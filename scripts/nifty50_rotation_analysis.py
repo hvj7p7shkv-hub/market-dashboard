@@ -31,6 +31,11 @@ try:
 except Exception:  # pragma: no cover - runtime dependency
     yf = None
 
+try:
+    import nse_price_history
+except Exception:  # pragma: no cover - optional local helper
+    nse_price_history = None
+
 
 NIFTY50 = [
     ("ADANIENT", "Adani Enterprises", "ADANIENT.NS"),
@@ -173,14 +178,32 @@ def score_row(row: dict[str, object]) -> float:
     return round(score, 2)
 
 
-def analyse(period: str, benchmark: str) -> pd.DataFrame:
-    benchmark_data = download_one(benchmark, period)
+def _price_loader(period: str, price_source: str, price_data_dir: Path):
+    """Return a callable ticker -> OHLCV DataFrame for the chosen source."""
+    if price_source == "bhavcopy" and nse_price_history is not None:
+        want = [t for _, _, t in NIFTY50] + [DEFAULT_BENCHMARK, "^NSEI"]
+        frames = nse_price_history.load_frames(price_data_dir, months=15, tickers=want)
+
+        def _load(ticker: str) -> pd.DataFrame:
+            frame = frames.get(ticker, pd.DataFrame())
+            if len(clean_close(frame)) < 70 and yf is not None:
+                frame = download_one(ticker, period)
+            return frame
+
+        return _load
+    return lambda ticker: download_one(ticker, period)
+
+
+def analyse(period: str, benchmark: str, price_source: str = "yahoo",
+            price_data_dir: Path | None = None) -> pd.DataFrame:
+    load = _price_loader(period, price_source, price_data_dir or Path("data/nse_prices"))
+    benchmark_data = load(benchmark)
     benchmark_close = clean_close(benchmark_data)
     if benchmark_close.empty:
         raise SystemExit(f"No benchmark data downloaded for {benchmark}.")
     rows = []
     for symbol, name, ticker in NIFTY50:
-        data = download_one(ticker, period)
+        data = load(ticker)
         if data.empty:
             rows.append({"symbol": symbol, "name": name, "ticker": ticker, "downloaded": False})
             continue
@@ -242,6 +265,8 @@ def main() -> int:
     parser.add_argument("--period", default="1y")
     parser.add_argument("--benchmark", default=DEFAULT_BENCHMARK)
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
+    parser.add_argument("--price-source", choices=("bhavcopy", "yahoo"), default="bhavcopy")
+    parser.add_argument("--price-data-dir", type=Path, default=ROOT / "data" / "nse_prices")
     parser.add_argument(
         "--min-coverage",
         type=float,
@@ -251,7 +276,11 @@ def main() -> int:
     args = parser.parse_args()
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
-    data = analyse(args.period, args.benchmark)
+    price_source = args.price_source
+    if price_source == "bhavcopy" and nse_price_history is None:
+        print("nse_price_history helper unavailable; falling back to Yahoo price source.")
+        price_source = "yahoo"
+    data = analyse(args.period, args.benchmark, price_source, args.price_data_dir)
     downloaded_count = int(data.get("downloaded", pd.Series(dtype=bool)).fillna(False).astype(bool).sum())
     expected_count = len(NIFTY50)
     coverage = downloaded_count / expected_count if expected_count else 0.0
