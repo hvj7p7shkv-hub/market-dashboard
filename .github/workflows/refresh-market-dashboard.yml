@@ -64,16 +64,16 @@ jobs:
           fi
 
       - name: Refresh Nifty 50 rotation
-        run: python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation
+        run: |
+          if ! python scripts/nifty50_rotation_analysis.py --period 1y --output-dir data/nifty50_rotation; then
+            echo "::notice::Nifty 50 rotation could not be refreshed. The dashboard will use the latest available rotation snapshot."
+          fi
 
       - name: Refresh Nifty 500 rotation
-        run: >-
-          python scripts/nifty500_rotation_analysis.py
-          --period 1y
-          --output-dir data/nifty500_rotation
-          --breadth-leadership-output data/market_dashboard/breadth_leadership_snapshot.json
-          --universe-csv data/nifty500_universe/ind_nifty500list.csv
-          --min-coverage 0.85
+        run: |
+          if ! python scripts/nifty500_rotation_analysis.py --period 1y --output-dir data/nifty500_rotation --breadth-leadership-output data/market_dashboard/breadth_leadership_snapshot.json --universe-csv data/nifty500_universe/ind_nifty500list.csv --min-coverage 0.85; then
+            echo "::notice::Nifty 500 rotation could not be refreshed. The dashboard will use the latest available rotation snapshot."
+          fi
 
       - name: Refresh live breadth and volume
         run: >-
@@ -112,9 +112,6 @@ jobs:
             echo "Dashboard is already current."
           else
             git commit -m "Auto-refresh market dashboard"
-            # A manual/configuration commit can land while this long refresh is
-            # running. Rebase the generated snapshot before pushing so a benign
-            # concurrent update does not discard an otherwise valid refresh.
             git pull --rebase origin main
             git push origin HEAD:main
           fi
