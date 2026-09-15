@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-15 12:30
+Generated: 2026-09-15 14:29
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -22,7 +22,7 @@ Sensex falls 778 points, Nifty drops 280 points amid broad market sell-off IBTim
 - Published: 2026-09-15T11:31:23+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOem5HSjhleTNFTnVQM3lQYWdvalZwUzg0eEJDcU1xTlIzanRJdGVJclEwQ2tKZ1U1ZzV6RmQtRFpyZ1BlOXBtNDJyNi1MYUZOV3A5TTllSVhZZUNMNzNqNElxeEpCZEp5djd6WTU3RktHMGo2QmpBTTlsYlRuMmk3aWI5X2gxN1QwSHVZMExvemh2Sm5Zbmp5eHhKMWNqTXdIcDlBLUlIM2ZhUkZMcnkwdWxkQlZHYkhkY3V1Y1hPTDFkdENzbUtwYk9YamPSAdIBQVVfeXFMUGN0RTVmbTVfbS1DbGdpVzg3M1hfMjRRZVltbEFOb2pqTjhPN0gwM3d6RE04UjdTZXZBajVoandROTBhYk04MVZQNXA1NnFTa2tiM2pWX1EzUTVNR3RWMWNKSEFBTHlwT0ZWbFBoQlREd2REQXdFWVVyc0F5NFpjU0stZDlNTXZ6VGZfTVJ2QXhFUmdUMW4yUDc2WVF4b01KN0ExY2ZUQ2dHTG9uZUliXzREenBibnhWWFlsc3R0MjdOc1pyRUR2U0hwU0IxOVdwWC1n?oc=5
+- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQY3RFNWZtNV9tLUNsZ2lXODczWF8yNFFlWW1sQU5vampOOE83SDAzd3pETThSN1NldkFqNWhqd1E5MGFiTTgxVlA1cDU2cVNra2IzalZfUTNRNU1HdFYxY0pIQUFMeXBPRlZsUGhCVER3ZERBd0VZVXJzQXk0WmNTSy1kOU1NdnpUZl9NUnZBeEVSZ1QxbjJQNzZZUXhvTUo3QTFjZlRDZ0dMb25lSWJfNER6cGJueFZYWWxzdHQyN05zWnJFRHZTSHBTQjE5V3BYLWfSAdIBQVVfeXFMUGN0RTVmbTVfbS1DbGdpVzg3M1hfMjRRZVltbEFOb2pqTjhPN0gwM3d6RE04UjdTZXZBajVoandROTBhYk04MVZQNXA1NnFTa2tiM2pWX1EzUTVNR3RWMWNKSEFBTHlwT0ZWbFBoQlREd2REQXdFWVVyc0F5NFpjU0stZDlNTXZ6VGZfTVJ2QXhFUmdUMW4yUDc2WVF4b01KN0ExY2ZUQ2dHTG9uZUliXzREenBibnhWWFlsc3R0MjdOc1pyRUR2U0hwU0IxOVdwWC1n?oc=5
 
 Sensex falls 778 pts, Nifty down 280 as rising crude oil spooks markets Asianet Newsable
 
@@ -32,7 +32,7 @@ Sensex falls 778 pts, Nifty down 280 as rising crude oil spooks markets Asianet 
 - Published: 2026-09-15T11:23:28+00:00
 - Themes: market selling, India market
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOSjhFT3VHTUN1R0JhVl9oWTJud3FNTWhucjNCR21VZWFmcFBmQnRtTkNDU1ZuQVZQSGd2WVNUUUlvRDVYUm5wUnVaWGEwdmlLQWsyeHJUdmpwVDNtdWZkVDEwX1hodVYwUXh1QU8xLVA3NUJpNGdNbFg0eGJaUGZLVVYycUFwdVBRTlUxS1hCN1kzTXNtQlVfek9Zbk5pYTUzTjA2UHd6bnQtbE5wMldhb3lJWHg5cTRRRzlGMtIBwgFBVV95cUxNeTAxTV9yVXdTQ2h2cVk5c0N5TTR5UnM5NEtJQl9iTEd6UUFjWGx3TE1YOVpBV3RhdGpSNEJDT1pia3RjRm5EemlYWWpxeTJqQV9kcVFzSTZiWWFXR2VVNjBham9PdHdMeGV4WXlkQzRSWm9FSnRRVEtETzl5ZUdMTkZrdGUtRG52cmZ0THZsTkg1U091UEtnWGxpRHkzVGIzUFZ2VWJZSkk0YWxNcnFfQWVHNXpVMXRPS0JvQWp0TjR3QQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeTAxTV9yVXdTQ2h2cVk5c0N5TTR5UnM5NEtJQl9iTEd6UUFjWGx3TE1YOVpBV3RhdGpSNEJDT1pia3RjRm5EemlYWWpxeTJqQV9kcVFzSTZiWWFXR2VVNjBham9PdHdMeGV4WXlkQzRSWm9FSnRRVEtETzl5ZUdMTkZrdGUtRG52cmZ0THZsTkg1U091UEtnWGxpRHkzVGIzUFZ2VWJZSkk0YWxNcnFfQWVHNXpVMXRPS0JvQWp0TjR3QdIBwgFBVV95cUxNeTAxTV9yVXdTQ2h2cVk5c0N5TTR5UnM5NEtJQl9iTEd6UUFjWGx3TE1YOVpBV3RhdGpSNEJDT1pia3RjRm5EemlYWWpxeTJqQV9kcVFzSTZiWWFXR2VVNjBham9PdHdMeGV4WXlkQzRSWm9FSnRRVEtETzl5ZUdMTkZrdGUtRG52cmZ0THZsTkg1U091UEtnWGxpRHkzVGIzUFZ2VWJZSkk0YWxNcnFfQWVHNXpVMXRPS0JvQWp0TjR3QQ?oc=5
 
 Sensex falls 778 points, Nifty drops 280 points amid broad market sell-off Zee News
 
@@ -42,11 +42,21 @@ Sensex falls 778 points, Nifty drops 280 points amid broad market sell-off Zee N
 - Published: 2026-09-15T10:47:34+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUXRFUnhKcTBMUEpJaU0wR2NwYjhOanZEZWNMd3J6UFdKdG1FNzQ1LVVQTkR5TWFDdktpRW9KcnptSzFsUWdFUldQT2xXOHUtTDg3bWZwZk9mYTdKWk4xMUIwbUpOczI5bm5wY0Znc1lKVnkyRGlPLVAtQVpBM09Hc3VqRTlwd2RMd3RfdEY1OGUtYnM4elExcEJjbTVMUW9CM05GMmJ2amdTVVk0UVl2dm80b2JhZFY5N21r0gG_AUFVX3lxTE5xbDFWdE5BVjhlcC1hdW92ZmJzRE1CREVrS0FZNjJpQ0hKdk9hbjdlcEQ3bTllOFlNWTJSWkJrVnhpVmZOMDk4MDFKM190VmN6MkVoekktbmYxVHpPRFlSM01ISU5reXoxX1IyaVpicEpfUGNNWEZDRENRTGhOaG5QcGw2eGlGN0JXTThUTWhLcUVVdXN4SFRadXlrNGpmUHRlRkROWlVTUWt4YmVLYWVuVlFxZWRDSTJHNXZ4cWx3?oc=5
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOcWwxVnROQVY4ZXAtYXVvdmZic0RNQkRFa0tBWTYyaUNISnZPYW43ZXBEN205ZThZTVkyUlpCa1Z4aVZmTjA5ODAxSjNfdFZjejJFaHpJLW5mMVR6T0RZUjNNSElOa3l6MV9SMmlaYnBKX1BjTVhGQ0RDUUxoTmhuUHBsNnhpRjdCV004VE1oS3FFVXVzeEhUWnV5azRqZlB0ZUZETlpVU1FreGJlS2FlblZRcWVkQ0kyRzV2eHFsd9IBvwFBVV95cUxOcWwxVnROQVY4ZXAtYXVvdmZic0RNQkRFa0tBWTYyaUNISnZPYW43ZXBEN205ZThZTVkyUlpCa1Z4aVZmTjA5ODAxSjNfdFZjejJFaHpJLW5mMVR6T0RZUjNNSElOa3l6MV9SMmlaYnBKX1BjTVhGQ0RDUUxoTmhuUHBsNnhpRjdCV004VE1oS3FFVXVzeEhUWnV5azRqZlB0ZUZETlpVU1FreGJlS2FlblZRcWVkQ0kyRzV2eHFsdw?oc=5
 
 Sensex, Nifty fall over 1% as crude, global yields weigh on investor sentiment The Tribune
 
-### 5. Micron, Nvidia and Other Chip Stocks Fall After Tech Leaders Call for an AI Slowdown. Here's What to Know. - moomoo.com
+### 5. Stock Market Today: Sensex Falls 778 Points, Nifty Drops 280 Points Amid Broad Market Sell-Off - LatestLY
+
+- Source: LatestLY
+- Published: 2026-09-15T10:44:59+00:00
+- Themes: market selling, India market
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPV2NCVmhVSDRUelkxcl83WGJPSVQyeDBUR0ZXT3JzeGRQUXJMY20zdks2d3B1MmJ2ZVdoTWFCTFBsMjB6Q2hTSzlfcHZhQUlKNnh3QVdnQk1yQW9fM2lCS2cyTXlDMk0xUWNIV195aUdlYnUwdmJOZnhpQ0pVY0d6V1pmZFVpS3VTc09RZWpqcWF3eHV4Mm1lU3otTUJfSlF4VzZLRDU3TU5uYXZzTlpuNUxUV1FrLU1PWTNhaXBlRnR1SVJVMlFJVDJicnktcUVIT2s1aVNmT2HSAd4BQVVfeXFMTUdTbDJIa1BuTVNXSlNuT3FNRVIxanRhR1BmSzRiTkwwMk02UzhtWnAxX3AzXzlTMm50eUdURWkzdzN4RWd0b0hSUGVTRjNzQ2xzMVB6TzNzcWUxQk9VbHY5dGEyYnNFSG9vdUs0TVpkak10SXdWNE53RXhMNzlEMUdadXpiZmVxRkVtWHFhYklweWtHamh6dnFYVVNXYXVXRV9GOGRHUjVBb1Bia3Vza0g5UTRMUFV1QzdxbG45NllpTDIxZExtOTFHRTFCM2NPVjZ4S21XWklCYzNKWDJ3?oc=5
+
+Stock Market Today: Sensex Falls 778 Points, Nifty Drops 280 Points Amid Broad Market Sell-Off LatestLY
+
+### 6. Micron, Nvidia and Other Chip Stocks Fall After Tech Leaders Call for an AI Slowdown. Here's What to Know. - moomoo.com
 
 - Source: moomoo.com
 - Published: 2026-09-15T01:26:44+00:00
@@ -56,7 +66,7 @@ Sensex, Nifty fall over 1% as crude, global yields weigh on investor sentiment T
 
 Micron, Nvidia and Other Chip Stocks Fall After Tech Leaders Call for an AI Slowdown. Here's What to Know. moomoo.com
 
-### 6. Australian Dollar gets caught between AI selloff and 5% US yields - FXStreet
+### 7. Australian Dollar gets caught between AI selloff and 5% US yields - FXStreet
 
 - Source: FXStreet
 - Published: 2026-09-14T22:46:21+00:00
@@ -66,7 +76,7 @@ Micron, Nvidia and Other Chip Stocks Fall After Tech Leaders Call for an AI Slow
 
 Australian Dollar gets caught between AI selloff and 5% US yields FXStreet
 
-### 7. Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know. - MarketWatch
+### 8. Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know. - MarketWatch
 
 - Source: MarketWatch
 - Published: 2026-09-14T20:56:00+00:00
@@ -76,17 +86,17 @@ Australian Dollar gets caught between AI selloff and 5% US yields FXStreet
 
 Micron, Nvidia and other chip stocks fall after tech leaders call for an AI slowdown. Here’s what to know. MarketWatch
 
-### 8. Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices - TradingView
+### 9. Schneider Electric stock falls sharply amid AI infrastructure selloff - ad-hoc-news.de
 
-- Source: TradingView
-- Published: 2026-09-14T14:10:07+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxOelVxUzJhRFJSVUdrdlRMd2dxVHhQcDc5dDRHMG4tRkZtMlZlc0RXQUdVQkd1enVSOHdQRWdEeGY4S20wcHNRTmJUS3B4QWdNRVRTTnpFdlZiTktQenVaYTY5UlFiaW12WVlQLWdiSXkzV1dvaEN3b0ZRMDg5RFlPb2NlMjF1S3pMSU4zUVFZdmpmenpVY3ZnWGZIZkdUY2FDcGR1amVHUmVTdVFVZkVuNmtyOWV2ZWdwMk93?oc=5
+- Source: ad-hoc-news.de
+- Published: 2026-09-15T13:08:46+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWxBYy1QYy1iTlh2a1phRkZwUDBCcXNtQUdOOEdaWkFXdWRyNTFEdnNQaEtFendlTk82YXVwR1Zmb3V4WkFSNmhmRUpkNUZwMGV0NnNleERaYUhHZHRTUTVTUmRnVXlsX0x3SVBkQ0lIV3NiMlFkZ3BnNFlqUXhiamFKWlhxSndJd1o4Sm5saWo5bHliVlk0a0Rsam5LczBUaVdCOXFaUmUwOGlDSVJ2Vm5VcEtaMzZIUHhvOUNNOURvNWw1enBsTGRkeV8?oc=5
 
-Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices TradingView
+Schneider Electric stock falls sharply amid AI infrastructure selloff ad-hoc-news.de
 
-### 9. US Stocks Resist Bond Selloff as AI Bets and Earnings Support Markets | Ukraine news - #Mezha - Межа. Новини України.
+### 10. US Stocks Resist Bond Selloff as AI Bets and Earnings Support Markets | Ukraine news - #Mezha - Межа. Новини України.
 
 - Source: Межа. Новини України.
 - Published: 2026-09-15T12:22:28+00:00
@@ -96,37 +106,47 @@ Stocks Fall on AI Slowdown Fears and Rising Crude Oil Prices TradingView
 
 US Stocks Resist Bond Selloff as AI Bets and Earnings Support Markets | Ukraine news - #Mezha Межа. Новини України.
 
-### 10. AI chip sell-off overblown: Zero GPU slowdown after Anthropic essay, analyst says - Investing.com
+### 11. AI chip sell-off overblown: Zero GPU slowdown after Anthropic essay, analyst says - Investing.com
 
 - Source: Investing.com
-- Published: 2026-09-15T11:43:09+00:00
+- Published: 2026-09-15T11:44:49+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPSmg1d1JSQjRSOVp6ZW1VNDRsdmtoUmRPcExiSUdHZThzNmhwMzhkYTlnUUNJZmhUT2QzVE94WEVRcE1aN2dtc0VUWG1zMEJHZVZJOHYzLTg1dTVDUkpWakFiNzE2cm40UW5Oemt1bUdZV0Z0WER1WmJXcDV5c09HRnYwTzZBTHlHNHZxa19GVXhlUWRFdnBBRndNQmZfeF92M0dmb0lYdTh1V0x6YW9yLTMxUmo5dVNQRDg3aEZjajU3YlZGNF9mN0RRUXdTam9f?oc=5
 
 AI chip sell-off overblown: Zero GPU slowdown after Anthropic essay, analyst says Investing.com
 
-### 11. Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily - Barron's
+### 12. Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily - barrons.com
 
-- Source: Barron's
+- Source: barrons.com
 - Published: 2026-09-15T11:39:00+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOc280Tm81MnZOTTZ3TWh2Q05XdHZNRE12dGc3Q2RtSVFoODNfOWRoNkliX1BfZndvajlJQlMxMjlMVDhDTEc4TkdObFdnQzVaTDlXa3NVcFlZX0UyMFU1eEUxeUZJblVFTk50Y0FadllEQlZYMTFXYS1jcTd6NU5XVg?oc=5
 
-Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily Barron's
+Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily barrons.com
 
-### 12. Closing Bell: Sensex Falls 1,433 Points From Day's High, Nifty Ends Below 23,150 Amid Broad-Based Sell-Off - news18.com
+### 13. Sensex falls 778 points, Nifty drops 280 points for second straight session | More than 160 stocks touched 52-week low | Inshorts - Inshorts
 
-- Source: news18.com
+- Source: Inshorts
+- Published: 2026-09-15T11:02:16+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOOTdCOGQ5TGtTVUN2ZG1ZbzhxVTAyaGVnMDFnUFVrTVV1TDV6VnQtV2NyRmhjYXM0QWl1d2RDTjVUVFBhQVptZVZCNGE3MEF3U0hXakNxcmFNejN3YzQwRC16Q3BCRkZJc1N5WGtZTTN0Y2xZQVpYYXdrWUNjQkJNOW1fc01UcFlMYmJTaTkwV09idVdMdTJHXzFqX2h0Sk00YW84YjljSFZhNGd4UUNJLUZ0Tkg1dnpwN0HSAb8BQVVfeXFMT2tyUTNHbHQ1MzFkWHZCX3AzNkloSEd0dW1RX1dSOE5YcVhNWDM2SWFIMlBHN1lSNVdSM0QwMnZLZVJFcDl1Q3RBUDdwQXFLY3FuNFVqQ2ZQUVY3ZEc2aFkwNmEwWDExTVJyaG02cHdGalZxaTFOeERhOHYzY011eEt0eXJ0RDNDV3NMZlBERm1ZM2FwZkpwbjExdVpTQVJneXJWSjBHYnZURlVkQWRDWlFPX1l3Q2lBd2xueGo1YUE?oc=5
+
+Sensex falls 778 points, Nifty drops 280 points for second straight session | More than 160 stocks touched 52-week low | Inshorts Inshorts
+
+### 14. Closing Bell: Sensex Falls 1,433 Points From Day's High, Nifty Ends Below 23,150 Amid Broad-Based Sell-Off - News18
+
+- Source: News18
 - Published: 2026-09-15T10:27:56+00:00
 - Themes: market selling, India market
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVmJVQ2hzS0t5X1NfcE04WElqa1RKbFAyd1RTbVBiSl9KNTJpU3c5MllqNTJEYzg2bUJod0RwamgzekQ4VmxNeURjMGZwWEJ0ZTEtVEpGamd3VlVjdWhWZFRmTzRha0d4RThiUWUwTU5UeUdvVXQ2RjBmMUZHQUFha1NtaDZyU3RxeDQyblRqSVUyNFBKYmZYdWNIMGJsQlNhMDRVVmJCRWRXcXduejFnLW5RRGVhVkRJRkNYVHNqSkdQd2E2MWk2ZnJxeDAyU2xuV0h1YjJoVEgycWtCNXNwQW1qeXJPUHNvVENwbndfOTHSAfABQVVfeXFMTVZiVUNoc0tLeV9TX3BNOFhJamtUSmxQMndUU21QYkpfSjUyaVN3OTJZajUyRGM4Nm1CaHdEcGpoM3pEOFZsTXlEYzBmcFhCdGUxLVRKRmpnd1ZVY3VoVmRUZk80YWtHeEU4YlFlME1OVHlHb1V0NkYwZjFGR0FBYWtTbWg2clN0cXg0Mm5UaklVMjRQSmJmWHVjSDBibEJTYTA0VVZiQkVkV3F3bnoxZy1uUURlYVZESUZDWFRzakpHUHdhNjFpNmZycXgwMlNsbldIdWIyaFRIMnFrQjVzcEFtanlyT1Bzb1RDcG53Xzkx?oc=5
 
-Closing Bell: Sensex Falls 1,433 Points From Day's High, Nifty Ends Below 23,150 Amid Broad-Based Sell-Off news18.com
+Closing Bell: Sensex Falls 1,433 Points From Day's High, Nifty Ends Below 23,150 Amid Broad-Based Sell-Off News18
 
-### 13. Nvidia and AI Stocks Fall as Industry Warns on AI Spending - European Business Magazine
+### 15. Nvidia and AI Stocks Fall as Industry Warns on AI Spending - European Business Magazine
 
 - Source: European Business Magazine
 - Published: 2026-09-15T08:49:34+00:00
@@ -136,7 +156,7 @@ Closing Bell: Sensex Falls 1,433 Points From Day's High, Nifty Ends Below 23,150
 
 Nvidia and AI Stocks Fall as Industry Warns on AI Spending European Business Magazine
 
-### 14. Marvell Technology stock falls as AI selloff erases part of its 2026 rally - ad-hoc-news.de
+### 16. Marvell Technology stock falls as AI selloff erases part of its 2026 rally - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-09-15T08:12:21+00:00
@@ -146,7 +166,17 @@ Nvidia and AI Stocks Fall as Industry Warns on AI Spending European Business Mag
 
 Marvell Technology stock falls as AI selloff erases part of its 2026 rally ad-hoc-news.de
 
-### 15. Asian stocks slip as chip selloff, bond rout add to AI slowdown fears - CNBC TV18
+### 17. IXIC: Nasdaq Futures Steady After AI-Led Tech Selloff. Doomsday Prospects Real or Not? - TradingView
+
+- Source: TradingView
+- Published: 2026-09-15T05:19:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQkc5WnFkMGhGLTJPU2VhU0lmYmRLNV9iSExSejg4OHpkMGdpU2VEV0t0b09zRFF2TVBPWVU0YTVadzktYzV4dzRYWmt6Z3UtYkxhMnJFNHVwcDhSQUxTLWJ3OC10WjBOOF83eTYzRU94ak1lWDByTmhmSlhOTEZ5VHBBQWQ3UXhwbkFyZXJGVWp1UnJGQk91OFpKdlBqc3Vtc3BTQjFZYmpTZXlBU3VaTjAwNFhNSmc3X2VLVlJIWVhhOElsanN1UUpnYm9rRXVzMko5M0VFQnpPYUFBV3c?oc=5
+
+IXIC: Nasdaq Futures Steady After AI-Led Tech Selloff. Doomsday Prospects Real or Not? TradingView
+
+### 18. Asian stocks slip as chip selloff, bond rout add to AI slowdown fears - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-09-15T01:16:11+00:00
@@ -156,7 +186,7 @@ Marvell Technology stock falls as AI selloff erases part of its 2026 rally ad-ho
 
 Asian stocks slip as chip selloff, bond rout add to AI slowdown fears CNBC TV18
 
-### 16. Nikkei Average Opens 425 Yen Lower as Semiconductor Selloff and Elevated Oil Prices Weigh - finance.biggo.com
+### 19. Nikkei Average Opens 425 Yen Lower as Semiconductor Selloff and Elevated Oil Prices Weigh - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-09-15T00:35:00+00:00
@@ -166,7 +196,7 @@ Asian stocks slip as chip selloff, bond rout add to AI slowdown fears CNBC TV18
 
 Nikkei Average Opens 425 Yen Lower as Semiconductor Selloff and Elevated Oil Prices Weigh finance.biggo.com
 
-### 17. Watch Trump Opposes AI Guardrails Amid Chip Selloff - Bloomberg.com
+### 20. Watch Trump Opposes AI Guardrails Amid Chip Selloff - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-09-15T00:00:00+00:00
@@ -176,7 +206,7 @@ Nikkei Average Opens 425 Yen Lower as Semiconductor Selloff and Elevated Oil Pri
 
 Watch Trump Opposes AI Guardrails Amid Chip Selloff Bloomberg.com
 
-### 18. AI slowdown calls prompt chip selloff - Semafor
+### 21. AI slowdown calls prompt chip selloff - Semafor
 
 - Source: Semafor
 - Published: 2026-09-14T22:35:00+00:00
@@ -186,7 +216,7 @@ Watch Trump Opposes AI Guardrails Amid Chip Selloff Bloomberg.com
 
 AI slowdown calls prompt chip selloff Semafor
 
-### 19. US stocks fall on AI fears as bond yields rise - gbcode.rthk.hk
+### 22. US stocks fall on AI fears as bond yields rise - gbcode.rthk.hk
 
 - Source: gbcode.rthk.hk
 - Published: 2026-09-14T22:14:00+00:00
@@ -196,7 +226,17 @@ AI slowdown calls prompt chip selloff Semafor
 
 US stocks fall on AI fears as bond yields rise gbcode.rthk.hk
 
-### 20. Chip Stocks Fall After AI Leaders Call for Development Slowdown - Bloomberg.com
+### 23. KLA Corporation stock falls over 6 percent as AI jitters hit chip sector - ad-hoc-news.de
+
+- Source: ad-hoc-news.de
+- Published: 2026-09-14T21:43:34+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM05NUmpYcUxKa0JaRl95dmdwQ2dxWlh0MGYzZFVrZHFNZ1Y2aDU3RTg4WktSZFViTlZFOGM5Mnk3Uml3YWI2UENSSlp4Q1NZaEx6RjVHLVBscjF1YXR4TmQ1YnlQLUppdUZnbndiTnpzZXVuT3YxdW5WQlZWOE9FX3lob2o2Y0pJVnI3MTZqaHhTZnN2VXFDbDlaQ0dWa2djT1J6Ym9kM3hWc0pOQWc2bE5JUUtNX19kdUdyV1hKSnJMZS1BNkdRTlVqQVpEWl9G?oc=5
+
+KLA Corporation stock falls over 6 percent as AI jitters hit chip sector ad-hoc-news.de
+
+### 24. Chip Stocks Fall After AI Leaders Call for Development Slowdown - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-09-14T21:39:53+00:00
@@ -206,7 +246,7 @@ US stocks fall on AI fears as bond yields rise gbcode.rthk.hk
 
 Chip Stocks Fall After AI Leaders Call for Development Slowdown Bloomberg.com
 
-### 21. U.S. Stocks Fall on Fears AI Companies, Fed Will Slam the Brakes - WSJ
+### 25. U.S. Stocks Fall on Fears AI Companies, Fed Will Slam the Brakes - WSJ
 
 - Source: WSJ
 - Published: 2026-09-14T21:12:00+00:00
@@ -216,7 +256,7 @@ Chip Stocks Fall After AI Leaders Call for Development Slowdown Bloomberg.com
 
 U.S. Stocks Fall on Fears AI Companies, Fed Will Slam the Brakes WSJ
 
-### 22. Dell Stock Tumbles 5% as Fresh AI Warning Sparks Tech Selloff - TradingView
+### 26. Dell Stock Tumbles 5% as Fresh AI Warning Sparks Tech Selloff - TradingView
 
 - Source: TradingView
 - Published: 2026-09-14T18:59:58+00:00
@@ -226,7 +266,7 @@ U.S. Stocks Fall on Fears AI Companies, Fed Will Slam the Brakes WSJ
 
 Dell Stock Tumbles 5% as Fresh AI Warning Sparks Tech Selloff TradingView
 
-### 23. AI Slowdown Warnings and Oil Shock Trigger Broad Selloff in U.S. Stocks - finance.biggo.com
+### 27. AI Slowdown Warnings and Oil Shock Trigger Broad Selloff in U.S. Stocks - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-09-14T18:35:00+00:00
@@ -236,7 +276,7 @@ Dell Stock Tumbles 5% as Fresh AI Warning Sparks Tech Selloff TradingView
 
 AI Slowdown Warnings and Oil Shock Trigger Broad Selloff in U.S. Stocks finance.biggo.com
 
-### 24. European Stocks Decline Amid Oil Price Surge and AI Sell-off - GuruFocus
+### 28. European Stocks Decline Amid Oil Price Surge and AI Sell-off - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-09-14T18:04:09+00:00
@@ -246,7 +286,7 @@ AI Slowdown Warnings and Oil Shock Trigger Broad Selloff in U.S. Stocks finance.
 
 European Stocks Decline Amid Oil Price Surge and AI Sell-off GuruFocus
 
-### 25. Watch Stocks Fall on AI Jitters and Rising Oil Prices - Bloomberg.com
+### 29. Watch Stocks Fall on AI Jitters and Rising Oil Prices - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-09-14T16:47:11+00:00
@@ -256,7 +296,7 @@ European Stocks Decline Amid Oil Price Surge and AI Sell-off GuruFocus
 
 Watch Stocks Fall on AI Jitters and Rising Oil Prices Bloomberg.com
 
-### 26. AI chip stocks fall sharply after warnings on A... - Pluang
+### 30. AI chip stocks fall sharply after warnings on A... - Pluang
 
 - Source: Pluang
 - Published: 2026-09-14T16:38:35+00:00
@@ -266,7 +306,7 @@ Watch Stocks Fall on AI Jitters and Rising Oil Prices Bloomberg.com
 
 AI chip stocks fall sharply after warnings on A... Pluang
 
-### 27. Goldman Sachs stock selloff deepens as AI earnings growth depends on limited buyers - Traders Union
+### 31. Goldman Sachs stock selloff deepens as AI earnings growth depends on limited buyers - Traders Union
 
 - Source: Traders Union
 - Published: 2026-09-14T16:24:28+00:00
@@ -276,7 +316,7 @@ AI chip stocks fall sharply after warnings on A... Pluang
 
 Goldman Sachs stock selloff deepens as AI earnings growth depends on limited buyers Traders Union
 
-### 28. S&P 500, Nasdaq fall on AI slowdown fears, oil price surge - qz.com
+### 32. S&P 500, Nasdaq fall on AI slowdown fears, oil price surge - qz.com
 
 - Source: qz.com
 - Published: 2026-09-14T16:23:45+00:00
@@ -286,17 +326,17 @@ Goldman Sachs stock selloff deepens as AI earnings growth depends on limited buy
 
 S&P 500, Nasdaq fall on AI slowdown fears, oil price surge qz.com
 
-### 29. The tech selloff is about more than AI slowdown fears - Livemint
+### 33. The tech selloff is about more than AI slowdown fears - livemint.com
 
-- Source: Livemint
+- Source: livemint.com
 - Published: 2026-09-14T15:15:59+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNOVMzY2lueHNqY1ItRjZfUTJmclhfMlpaUlBLQTZCel9BQnpVZ2RtN3FUVlJTeTc2NUhseG8xS0tPeGRqLTRueTNXZ2dDWGhHVm9qM1U1MXFIbGNQZmFwY2FqMnRNcjJ1MjRDVEpEWWJKU3Z0N1RLUkhHSFNFTDFkaFFmaVhGZ1pMZmluQUdZQ2huX2xuRFZuTWZFMkwzYy04MDlBbFZBeW_SAa4BQVVfeXFMTVhLYm1sWEJ0NlJ2M0R2Qmc3RE4zRS1VOWZ3LVZkR3hMNElzemRGWmkzR0xpVlBJMmN1RzNYMHM5UmRPSlBOLUY2YUx1bTg5bnZxWk14dDcyQWl5ZFhFNF91b2I4SGFjTHZ0a1g3RnRJYlZFWFN3aHJhRVFrY3VKSmVrc1dWZnV0TUVsSlpramtaVTdkaC1pNzhQLVNuMHRCUXp3b3o1dnVtUXRSeXNB?oc=5
 
-The tech selloff is about more than AI slowdown fears Livemint
+The tech selloff is about more than AI slowdown fears livemint.com
 
-### 30. Chip equipment stocks fall sharply as AI develo... - Pluang
+### 34. Chip equipment stocks fall sharply as AI develo... - Pluang
 
 - Source: Pluang
 - Published: 2026-09-14T15:07:12+00:00
@@ -306,77 +346,17 @@ The tech selloff is about more than AI slowdown fears Livemint
 
 Chip equipment stocks fall sharply as AI develo... Pluang
 
-### 31. US open: Stocks fall as AI IPO doubts grow, oil surges past $108 - Sharecast.com
+### 35. US stocks fall as AI slowdown concerns mount, oil prices rise - IndiaIPO
 
-- Source: Sharecast.com
-- Published: 2026-09-14T14:47:44+00:00
+- Source: IndiaIPO
+- Published: 2026-09-14T14:59:58+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxONXVfNnhCV0lGT2NmMjBnX0xiWVp1MWVIenhxS3EwTVRxYWFWazlsUnduZkxSRTVJTFNGODk4Y0lfX3NCRGRkMmNPSnNXd0ctMkZtVkJRa1M3X2loLTFvdk85SGJtNXBUQzkzRDdrVTYyaWZpM0RuV2xVZU9RVXpnUVpMNjNzVlU4UUoxbUtwbjgybHlCNFEzWHEwN0FvS0tnR3IyenJpNFJPNGRJX2R6VDZOdElqaFU4aUpNYXZXdDE0Zw?oc=5
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxORGhfUUk5OFRJTC1TTVRIMV9LZmVRNWdCN29VRUtGZWhrNFpucG02bHlNdjFLVUlFd0x1bHVSZlNPNWpFWUhHNTg0bnhaeEVxZlNTNkRLeDRjRWdqbVp3aXRDOUxyNmI5M3FuU3k5dlpjSHVlbmhsMlhHRGpxVjU2MnBuVHF6NkdocHpkcjhjbnVfcXM1V25yemc3OVk?oc=5
 
-US open: Stocks fall as AI IPO doubts grow, oil surges past $108 Sharecast.com
+US stocks fall as AI slowdown concerns mount, oil prices rise IndiaIPO
 
-### 32. US stocks fall as AI slowdown concerns mount, oil prices rise - CNBC TV18
-
-- Source: CNBC TV18
-- Published: 2026-09-14T14:29:31+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUENSeE1BSVNIMkdIMm41czVGQW0yZWUyLVJnVk93SHZLRFpST1I3cTZWc0E2aHhPY1U2dTBpYzNaU0JseXZnd3BJNWlSMEc2cFduUDQydjNmSnBuV0t5cTF6eUtyUzRobkhNbHJacV90b2ZScGw4T3dkd2gtbXFSb2Y4enluQUMzZUl0a0laWlVhS0hRaEE4WFRDZ2o5NmdBcG1PM01IOFJZeWNLMzJUQy1XVmZjci15TkpB0gHAAUFVX3lxTE1FOFFCWkZCNVhYWkE3bmljb2M1NHFkMDVaSm1tczJzdWlVdzU4ZGpDYzFlWkZ5Ui1EazdVMk1keHJubGpFZGJ2SDF0alBOMDZ6M2x6WkR4Z2NDOXlGYVRKeDNKcU96d2xDSEFYS2Z2bDM4aVZIMW5kUk9qekZFZnZ6Z2Y5QUc2VmduclVlZ25iSkQzM2U1N1VrejZQbVlqLURoX2lkVTJNMi1ENGFfWjlnMTMxUlc4VXJudWQzcG0wbg?oc=5
-
-US stocks fall as AI slowdown concerns mount, oil prices rise CNBC TV18
-
-### 33. The Tech Selloff Is About More Than AI Slowdown Fears - Barron's
-
-- Source: Barron's
-- Published: 2026-09-14T13:53:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQU1BXYW5hLS00TVhQRnhseF9wOVFwdGxWZDJkRUx1Y3l5UDRsM3c3emk1Nk1MZmo2UU0zdDQ0cGY2UkhWR05NRlBPNm0yR1dtb2lwRlZzSjRCRHI3RmQ2YVc5eWY2X3FBN2JxS3FDbUxXMG15SndSWXBuZjVBVll1RVViTVhRSXlzYnA1RFlERVFlS013QUE?oc=5
-
-The Tech Selloff Is About More Than AI Slowdown Fears Barron's
-
-### 34. Chip stocks fall as AI pacing call sparks profi... - Pluang
-
-- Source: Pluang
-- Published: 2026-09-14T13:46:07+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxOV3M1Q29PeEVOSVBjR1ZTQWlIMmxsaFE1OTE5dVlUdmtweDJMN2JXNWQxNlhjRnFKUXVmRkVrNmo2THZMbHlRT1VENWRsQlZyWTN5Z3FiY1BjY1gtVDJDaktaRFZpcWJsR2t1Q1B1c2JOb0hVWHJweHh5cUUyVy01QWZ2ZzJmVmpSM0IzaC1PczF1SHBoU19lUFQwa283TVo4cUNYS05qZGFiOTBIRGE4?oc=5
-
-Chip stocks fall as AI pacing call sparks profi... Pluang
-
-### 35. Memory Stocks Lead AI Selloff as Anthropic and OpenAI Chiefs Urge Slower Development: Micron and SanDisk Sink 6%, SK Hynix Drops 7% - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-09-14T13:18:13+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPY1Jnb251OXgzNFJSd3gtSm4zeFozYy0tNVVETUs3aUF0N1dXekdQU29xVzZkVjg2WUhfalZYODA2MEZUNDRCRFQwNDNaU3hZMmViVUZGMVpZLXQ1RDl1Qm1vNUU4bnNsVkpMNkdDbEEzUlJrZG9HWTg2Q192MG82RmVBdFUyT2dNZVpoV3MxUWpsQU9FWGZmRHF3?oc=5
-
-Memory Stocks Lead AI Selloff as Anthropic and OpenAI Chiefs Urge Slower Development: Micron and SanDisk Sink 6%, SK Hynix Drops 7% Yahoo Finance
-
-### 36. Watch Stocks Fall as AI Slowdown Fears, Oil Jitters Hit Sentiment - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-09-14T13:03:27+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQeWowdFl0eUx2QTN5bV9kVTVhNmxrcU9ZcEh5NUNESXJNN0VNZmVSdVpBSVVzemtVQU5Kd0NaZElLQkd2WF9vR0hia0JYbzBrNHgwdWxvU2UxOEwwbkV4QVpwOEltS3ltYi1PdlF0QTNfTmk1bDJqa0szc1NOMk8zUHJnejdBR2RlQU5tVEwzRTJqYzFKVndhUmdSS1JVNXJmREZGTGNqeE9jeGM?oc=5
-
-Watch Stocks Fall as AI Slowdown Fears, Oil Jitters Hit Sentiment Bloomberg.com
-
-### 37. AI slowdown trade hits Nvidia, SoftBank, SK Hynix as global tech stocks fall up to 10% - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-09-14T12:52:33+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxOY1N1YVotMWtlQ1FhVHhPQ29ENzBUTWE1cFB4Slp3LVZIczNJRjNrbXFFeExqRXR0Z3JBUVlwV2FnejVaeUU4OWFKeXFHOThKeDVfZlhwelpZaktPblBBUU9Ndm1sS1Jqb18tNEpScDJOOGlWRGs0eHpGUldYMGE2ZGhiU3NuTmVPR2NHNS1aeURhRkw2alhRb3FvZ180SjNRY01SWVVFUlNZd1JUWnJ2cnJHd1JIVFlDb2dzZmhra2h2dC13SXdrX2F5blYzeVZnNTlYeDM0TzJtTjZmYk5FVUxYMkNMOUhzVlpqQ2JLSzZHV3VIYkhndWFHTmFLU2FaTlU40gGIAkFVX3lxTFBXYnFoX2RXOTNFTndieXJfYnJ3elpaSUNVRmk2c3VKTUdxNjJlZVRYQjhZOFN3T1k0U1ZNNWNBX1dDb0xYamVpWk5MRy1vYnBkUVl3MXFfNGtuMkc3T0xNMlE0VkhzNllCdUhCLWdLZ1BqZmcxOUFtVUZuQXhCYUNpRDR4Mkk0V09pZi1mMC1lSldWVUJjbms2Rnh5dl96cWoyaE1YdlYwUkpRbGczWG0zblA3NWx2Wk9xaVRkMU50WVZiRHBiSVREeFRzcW5VejZhODgzSi1jQUMwZnJVWlBsSG5kMkhOdWYzekZBeFBtYlJrb2ZhRURfMU5PSndFa1dOYjUxeTd4NA?oc=5
-
-AI slowdown trade hits Nvidia, SoftBank, SK Hynix as global tech stocks fall up to 10% The Economic Times
-
-### 38. Data center REIT stocks fall on AI slowdown fea... - Pluang
+### 36. Data center REIT stocks fall on AI slowdown fea... - Pluang
 
 - Source: Pluang
 - Published: 2026-09-15T12:14:49+00:00
@@ -386,7 +366,7 @@ AI slowdown trade hits Nvidia, SoftBank, SK Hynix as global tech stocks fall up 
 
 Data center REIT stocks fall on AI slowdown fea... Pluang
 
-### 39. AI selloff sinks chipmakers after Anthropic CEO urges slower development - Benefits and Pensions Monitor
+### 37. AI selloff sinks chipmakers after Anthropic CEO urges slower development - Benefits and Pensions Monitor
 
 - Source: Benefits and Pensions Monitor
 - Published: 2026-09-15T11:34:41+00:00
@@ -396,17 +376,7 @@ Data center REIT stocks fall on AI slowdown fea... Pluang
 
 AI selloff sinks chipmakers after Anthropic CEO urges slower development Benefits and Pensions Monitor
 
-### 40. Sensex tumbles 778 points; Nifty briefly slips below 22,900 amid CAS volatility; what's ahead? - Business Today
-
-- Source: Business Today
-- Published: 2026-09-15T11:10:52+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSER1bXhLOWkyVFBNaTROMXR1Z2t4RzRWOEVkcVZRdnhPN0dfOVpVbE4zTlNzYzFpM083T1JiV0VEM1ZZekJnaVFVR1paRVpidEtjbGw1LUIzS1ZmcG9oOFRldkdOMFpuWGZHUEVHSkdibkk4cktCb3hiQnJLaFBnOEtUS2FaNzZlYVpCZV9wMGJ0Y1lBZXMyNGotUnZ5dG5hWnJxekF5SkF2NjB1cnMyQ1VCSEhtT0xnM3J0V21rQmk2N3BYLW9STms2Rk91SUpqWmF0U0pYYjJHNVIxQkh5dVowX3pUWE5OSWwyU3NR0gHzAUFVX3lxTE5qRDJGdUNkdGJlSlFuVnkwZnNIeVNobkdCb0EwSVBFRHY2aUw1MHZEcUNiMlZHcWFoY1hFNk00S0RhM0ZxSk4wRlJzTHZtWE9kSVY2WWtOYW1IOWQzQ3F0Q3hoendLV28xckZlemdSODc5RW53d1RNZFI5dFVfMkRfcFhOb0txak9LXzV4dXJJQUVsUHdVbkxwMlFBNVNoNTdNa2IwLUhoQnAyZ0JaX1R3amdXVzctWm5fNW5CTDJtc2ExX0htc0xwUkN5Z1NRNm9IdFVhY2JUNnlva3g0bGJlWFI0VnhCd0JXQnFwcEI0RXNzdw?oc=5
-
-Sensex tumbles 778 points; Nifty briefly slips below 22,900 amid CAS volatility; what's ahead? Business Today
-
-### 41. Sensex Falls 778; Nifty at Five‑Month Low - HDFC Sky
+### 38. Sensex Falls 778; Nifty at Five‑Month Low - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-15T11:03:53+00:00
@@ -416,7 +386,7 @@ Sensex tumbles 778 points; Nifty briefly slips below 22,900 amid CAS volatility;
 
 Sensex Falls 778; Nifty at Five‑Month Low HDFC Sky
 
-### 42. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - IndiaIPO
+### 39. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-09-15T10:44:58+00:00
@@ -426,7 +396,7 @@ Sensex Falls 778; Nifty at Five‑Month Low HDFC Sky
 
 Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall IndiaIPO
 
-### 43. Fortune Tech: AI stocks fall, Mustafa Suleyman speaks, OpenAI’s California compliance - Fortune
+### 40. Fortune Tech: AI stocks fall, Mustafa Suleyman speaks, OpenAI’s California compliance - Fortune
 
 - Source: Fortune
 - Published: 2026-09-15T10:39:00+00:00
@@ -436,7 +406,7 @@ Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons
 
 Fortune Tech: AI stocks fall, Mustafa Suleyman speaks, OpenAI’s California compliance Fortune
 
-### 44. Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 - Free Press Journal
+### 41. Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-15T10:39:00+00:00
@@ -446,7 +416,7 @@ Fortune Tech: AI stocks fall, Mustafa Suleyman speaks, OpenAI’s California com
 
 Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 Free Press Journal
 
-### 45. Lopsided Tech Bets Get Hit in AI Stock Selloff - Bloomberg.com
+### 42. Lopsided Tech Bets Get Hit in AI Stock Selloff - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-09-15T10:16:29+00:00
@@ -456,7 +426,7 @@ Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 Free Press Journ
 
 Lopsided Tech Bets Get Hit in AI Stock Selloff Bloomberg.com
 
-### 46. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18 - LinkedIn
+### 43. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18 - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-09-15T10:15:22+00:00
@@ -466,17 +436,17 @@ Lopsided Tech Bets Get Hit in AI Stock Selloff Bloomberg.com
 
 Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18 LinkedIn
 
-### 47. Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, Nifty ends below 23,150; Factors that led the sell-off - ET Now
+### 44. Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, Nifty ends below 23,150; Factors that led the sell-off - etnownews.com
 
-- Source: ET Now
+- Source: etnownews.com
 - Published: 2026-09-15T10:09:23+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxPV3BjYy1Sb0RPMDIydnZRek9HUU5PWnBFVTJWb056UXQ2YWphbHdobE8zR3pxaU5VRlVOOF9RVFZLczEzSUdKamtzUjBDZlRMMnVha1hyaVB1TXJ5UkVLaGNfYmctekpmWWFTbW1pYmZMWVZ0MWdVTnhZWTZEVldMVm9PQnhFNDFLb1FTZlMwOU1Md19qR0J1UTgxOWtLNDlST0hNbVZ2a1NtUU9VNjA5MXBZSl9PZkI0S2J2NEZ1YXNVdlBWMFNJQmpGSnVaYzZlemtSdFlzdklnclRiOFQwTXhJSGhQOGhVU3BaVl9EczVtT3lDMGExeFRKd0E2X2U5Qld5MXB0NjdfVUHSAZACQVVfeXFMTWNvUTlfN2pNVFBmX0VmbTU0T3htLWd3bFJVcHpmb3dHcXgtNDkwcnlrR09wZlBZRTYzWkFMeWNuWUZ0TEZjLWVBenZIdTRqOVlVaGNncEpsRFcxbVRZTEVsT0ZKWHVNcTVDaXEtOV96SEZPalFPQVVaOXFKVElrYnRaTDdZYUpxcUxISUp1OTRIeTRqN1JCQnJIOVV3RjFxX0tKMjB3dUkzcWxLVWN3ZXhKVmZybDhmX2ZfLW80UFNoV1VlcS1yYzhpaUp2MUt3LW5DTWNHNTRqR1JXOFl5TVIxNERsbHV4V0l3ZjFoc0t5emg2b3phN1pqR3NCT094OUVjQ2VXMERuRHpCV0V0Mmo?oc=5
 
-Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, Nifty ends below 23,150; Factors that led the sell-off ET Now
+Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, Nifty ends below 23,150; Factors that led the sell-off etnownews.com
 
-### 48. India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox
+### 45. India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox
 
 - Source: Upstox
 - Published: 2026-09-15T09:49:03+00:00
@@ -486,7 +456,7 @@ Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, N
 
 India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday Upstox
 
-### 49. AI stocks fall as tech leaders call for slower development - Riviera Radio
+### 46. AI stocks fall as tech leaders call for slower development - Riviera Radio
 
 - Source: Riviera Radio
 - Published: 2026-09-15T09:45:19+00:00
@@ -496,7 +466,7 @@ India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers beh
 
 AI stocks fall as tech leaders call for slower development Riviera Radio
 
-### 50. Taiwan shares close lower as tech stocks fall on AI concerns - Focus Taiwan
+### 47. Taiwan shares close lower as tech stocks fall on AI concerns - Focus Taiwan
 
 - Source: Focus Taiwan
 - Published: 2026-09-15T08:33:00+00:00
@@ -506,17 +476,17 @@ AI stocks fall as tech leaders call for slower development Riviera Radio
 
 Taiwan shares close lower as tech stocks fall on AI concerns Focus Taiwan
 
-### 51. Sensex, Nifty today: Why is stock market down today? Top 3 factors driving the selloff explained - Livemint
+### 48. Sensex, Nifty today: Why is stock market down today? Top 3 factors driving the selloff explained - livemint.com
 
-- Source: Livemint
+- Source: livemint.com
 - Published: 2026-09-15T08:25:43+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNcXpTN2Z6dDBCazRaU05fLUJpdFVlNEhnTlVoWUdkajN2OVhNWVFYTzhjZ1RlUXNXZm5OTWVVMkRJUXVfcF9udi1qVE9kZHlEOTRiYWI2RU1ZbEVsQ2VaZDdXb3F6aG9qSkw4WVBfbUs3anhKX3d5ZDBZeHpvSVdUSEJxZVJhanI5RGkza3JzLWRRQUpCWkQ3WExuaU43djJNY3pMdnJfTm9wSWVVMDRkQlBvR0RrZklaYkotYzJLRU04aERmajh4SXM1OG9BNU52SVUzTnNwNjdZSnd0QWtpbGxCNkFKUlJBUTV2aGF0eUVlN0oyRlHSAfsBQVVfeXFMUHllLVQ3NlFYd2pkalotOFV4Wmxza2FYcDNTRXFONmNFc2VHWlY3QzFVbkRmREZRNGFrTEdPdHRUckpvamg3VzZ6djMyT0JEbkptYUFMV0xzMVNzbVhySW8xNV9wYnJBV2p1UmRHY1BsX1I2UjI1bk03dnpVVVdxTlRRMmExbTFuY1FaNmFXNnRFMVpwRjRhTWctM1NlQzNJWEh5ZF9ZNzdUR0xqZUVXR2xJakV1UG5PdDEyNFVlaWdqVEFOMEFKY1R2QUZRRXc3YTlhUEZqZEl0X05UdHZzQUpNNEh4a2FqVzE3S1ZaWjJOdHNvY3lrUWd3QmM?oc=5
 
-Sensex, Nifty today: Why is stock market down today? Top 3 factors driving the selloff explained Livemint
+Sensex, Nifty today: Why is stock market down today? Top 3 factors driving the selloff explained livemint.com
 
-### 52. HCLTech, HDFC Bank, HFCL among buzzing stocks as SENSEX falls nearly 300 pts; NIFTY trades below 23,300 - Upstox
+### 49. HCLTech, HDFC Bank, HFCL among buzzing stocks as SENSEX falls nearly 300 pts; NIFTY trades below 23,300 - Upstox
 
 - Source: Upstox
 - Published: 2026-09-15T07:56:51+00:00
@@ -526,17 +496,17 @@ Sensex, Nifty today: Why is stock market down today? Top 3 factors driving the s
 
 HCLTech, HDFC Bank, HFCL among buzzing stocks as SENSEX falls nearly 300 pts; NIFTY trades below 23,300 Upstox
 
-### 53. Microsoft stock gains 2%: Why MSFT is rising amid AI selloff - The Economic Times
+### 50. Microsoft stock gains 2%: Why MSFT is rising amid AI selloff - economictimes.indiatimes.com
 
-- Source: The Economic Times
+- Source: economictimes.indiatimes.com
 - Published: 2026-09-15T07:07:02+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbFdZWGJUXy1JbTZXYk0yZndiYlp0d25acVh0a1VRU2VTSDhzUTFBQjAteW83UUVEcG9RT2pCUC1hX3RBOEFmVWlOYTFzRHltLXhyOGdZZk1QNThaRlZfSGxtNy1GUVRXd3hERlVXN09CdUdYUzh0eHJxREVjZXhQaFU1ZW41b3p3cGRGZHByWVlRUlhCc0RZY3N6MWYyWlRwOTM2U0FLNU9qOUJEN0ZwT2dLVFAwYTNNbUVqZldURDNMUnVsdHlrdm1mU0tyU3A5WG1fN3RLM0hTZ1pUSW1LZmpqSmVCTmxXVUpj?oc=5
 
-Microsoft stock gains 2%: Why MSFT is rising amid AI selloff The Economic Times
+Microsoft stock gains 2%: Why MSFT is rising amid AI selloff economictimes.indiatimes.com
 
-### 54. Sensex Today | Stock Market Live: Nifty below 23,350, Sensex falls 100 pts; IT surges 4%, realty plu - IndiaIPO
+### 51. Sensex Today | Stock Market Live: Nifty below 23,350, Sensex falls 100 pts; IT surges 4%, realty plu - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-09-15T06:47:51+00:00
@@ -546,17 +516,17 @@ Microsoft stock gains 2%: Why MSFT is rising amid AI selloff The Economic Times
 
 Sensex Today | Stock Market Live: Nifty below 23,350, Sensex falls 100 pts; IT surges 4%, realty plu IndiaIPO
 
-### 55. AI-driven asset rally prone to correction, ECB’s Vujcic warns - The Edge Malaysia
+### 52. AI-driven asset rally prone to correction, ECB’s Vujcic warns - The Edge Malaysia
 
 - Source: The Edge Malaysia
 - Published: 2026-09-15T06:47:28+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YeFJMZWtYZEFqeThhcGU0OWxtVzh3ZGV0bUZrQ2FBcE9BQlplNmsxYm01ZXBvRElnd0RHMHFGYUpkQTRpWEhKSnpfVEs3SUJNUDlZ?oc=5
+- Link: https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JYWZfbmlSekxuVzl1cER3dGlXME9SNTJaNWI0MU9LN1VJdTN0dmdlMVlmamhUU2lEVk5Sazg4bTROdGowRVcwcUJFQXZ4THdj?oc=5
 
 AI-driven asset rally prone to correction, ECB’s Vujcic warns The Edge Malaysia
 
-### 56. AI-driven asset rally prone to correction, ECB’s Vujcic warns - The Edge Singapore
+### 53. AI-driven asset rally prone to correction, ECB’s Vujcic warns - The Edge Singapore
 
 - Source: The Edge Singapore
 - Published: 2026-09-15T06:42:00+00:00
@@ -566,7 +536,7 @@ AI-driven asset rally prone to correction, ECB’s Vujcic warns The Edge Malaysi
 
 AI-driven asset rally prone to correction, ECB’s Vujcic warns The Edge Singapore
 
-### 57. AI-Driven Market Valuations Face Correction Risks, Warns ECB's V - GuruFocus
+### 54. AI-Driven Market Valuations Face Correction Risks, Warns ECB's V - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-09-15T05:23:46+00:00
@@ -576,7 +546,7 @@ AI-driven asset rally prone to correction, ECB’s Vujcic warns The Edge Singapo
 
 AI-Driven Market Valuations Face Correction Risks, Warns ECB's V GuruFocus
 
-### 58. Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff - The Economic Times
+### 55. Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-15T05:12:37+00:00
@@ -586,7 +556,7 @@ AI-Driven Market Valuations Face Correction Risks, Warns ECB's V GuruFocus
 
 Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff The Economic Times
 
-### 59. Nifty Extends Correction Amid Weak Global Cues - Religare Broking - Investment Guru India
+### 56. Nifty Extends Correction Amid Weak Global Cues - Religare Broking - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-09-15T05:10:27+00:00
@@ -596,7 +566,7 @@ Global Market: Japan’s Nikkei rises 1% as SoftBank rebounds from AI selloff Th
 
 Nifty Extends Correction Amid Weak Global Cues - Religare Broking Investment Guru India
 
-### 60. Nifty Down 200 Points from Day’s High, Trades Near Day’s Low; Smallcap Index Falls Nearly 1% - Dalal Street Investment Journal
+### 57. Nifty Down 200 Points from Day’s High, Trades Near Day’s Low; Smallcap Index Falls Nearly 1% - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-09-15T04:48:30+00:00
@@ -606,7 +576,7 @@ Nifty Extends Correction Amid Weak Global Cues - Religare Broking Investment Gur
 
 Nifty Down 200 Points from Day’s High, Trades Near Day’s Low; Smallcap Index Falls Nearly 1% Dalal Street Investment Journal
 
-### 61. AI-Driven Asset Rally Prone to Correction, ECB’s Vujcic Warns - Bloomberg.com
+### 58. AI-Driven Asset Rally Prone to Correction, ECB’s Vujcic Warns - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-09-15T04:18:00+00:00
@@ -616,17 +586,27 @@ Nifty Down 200 Points from Day’s High, Trades Near Day’s Low; Smallcap Index
 
 AI-Driven Asset Rally Prone to Correction, ECB’s Vujcic Warns Bloomberg.com
 
-### 62. Japan's Nikkei rises as SoftBank rebounds from AI-led selloff - klsescreener.com
+### 59. Market Update: Sensex Plunges 1,200 Points From Day's High, Nifty Falls Below 23,250 As Selling Intensifies - News18
 
-- Source: klsescreener.com
+- Source: News18
+- Published: 2026-09-15T04:03:15+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPU0laU3oydUpZUENnUlNZeHYyNkxtWi1ncTAtNjR1bnBPbzA0VEcyMjNrSzAyblN0Y2FFWW1MYlFqd1NWZlBzVjBoNURRLUlMSEhDaGI5b1ZvS1g4UDQ5REFkZ0tLS2FybGY2S2pqUHFqdWJOczdFMkVJZk9oczZ4OXlPZHdqakRMbmRXQXk3UjZHSlBLNXUydUVBVXhyb196c2JYcGdXYXd4aUtnclJxUzRWSC1nOWhaV2pYblQ0QWRMVk9GMlNibDN0WnZuSDTSAdQBQVVfeXFMUFBUOXJRZmd2SHRDRzdCNHNIdXVqNHk0UlV6NjN1N0VOZ19xYXVIbm9VcldZeTBTbl9nc0VxVkRVdFJSeEVpeS1WU1JFdE91a2ZVTUFfNENSbi1MRWtDLTY2WGZtYW9tR0JqU2o2RFgzWEdDZU1IcG5qVVJtY2xnSXdCc0wxanc0aS1ranJ4ODQtNjJHdk1OaXdEZnIwUHpScmJHS25tbENNV18tbWRsaHg4RlZIR0ZiMzdXc2wzdkVLZW5SUjVjTXc5M0wwU2dWenhTYXo?oc=5
+
+Market Update: Sensex Plunges 1,200 Points From Day's High, Nifty Falls Below 23,250 As Selling Intensifies News18
+
+### 60. Japan's Nikkei rises as SoftBank rebounds from AI-led selloff - KLSE Screener
+
+- Source: KLSE Screener
 - Published: 2026-09-15T03:57:33+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0pPei1LMkN5a0kyd29xNEJUSmZYNXlxd29OMzJYUWRPMlVNeUxYUVY0Z1dLUEt5cHpITEl5VndRYWQ5a2lzLU5seWQzempFM2xtNmZVZFpNb0FMTmJSVWdXSGFkekt5dlB3dzlOdFBXZ3JLTk1pakttU05jdzlfTDItQ2dkNEJFWldNRlE0N0RYZjJpRFVNMTN3LWltWFhTdWxWTndHMzlBQlRrZW9EQg?oc=5
 
-Japan's Nikkei rises as SoftBank rebounds from AI-led selloff klsescreener.com
+Japan's Nikkei rises as SoftBank rebounds from AI-led selloff KLSE Screener
 
-### 63. Japan's Nikkei rises as SoftBank rebounds from AI-led selloff - The Star
+### 61. Japan's Nikkei rises as SoftBank rebounds from AI-led selloff - The Star
 
 - Source: The Star
 - Published: 2026-09-15T03:37:00+00:00
@@ -636,7 +616,7 @@ Japan's Nikkei rises as SoftBank rebounds from AI-led selloff klsescreener.com
 
 Japan's Nikkei rises as SoftBank rebounds from AI-led selloff The Star
 
-### 64. Tuesday papers: AI stocks fall after bosses back call to slow its development - Citywire
+### 62. Tuesday papers: AI stocks fall after bosses back call to slow its development - Citywire
 
 - Source: Citywire
 - Published: 2026-09-15T03:22:30+00:00
@@ -646,17 +626,17 @@ Japan's Nikkei rises as SoftBank rebounds from AI-led selloff The Star
 
 Tuesday papers: AI stocks fall after bosses back call to slow its development Citywire
 
-### 65. Japan's Nikkei rises as SoftBank rebounds from AI-led selloff - TradingView
+### 63. Japan's Nikkei rises as SoftBank rebounds from AI-led selloff - marketscreener.com
 
-- Source: TradingView
-- Published: 2026-09-15T03:04:00+00:00
+- Source: marketscreener.com
+- Published: 2026-09-15T03:05:31+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxONURSZW43Z3U3S1hYMURPMDNVeTBFUW5ucEJabi1iTWdDcUdaNlIzNVZYOE5KbjRuaTh5SFR3OXVtMVZUdldWc29nTkJuRnZ6RFhlUkNzYTlRNC1UcVNLNlhVR0hqVktHOHJLcnE3X3V0ZGhuXzlEUlBYbVdMa2Vjd2txM2tCWFlzazY5emtBRnhCa0g2V2oxRGNYdThLUlNpcHYtWDRWRWVYWVg2OG1CdXNUSHd1cjJiaXBBeTYwQ21wYWxFelh1X3phdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNV01FaWtuOUI1WWxHTVhDeTZhdVpKTDJ0WnFRTTQzTnY3eVJCZXBHSnpNUXgzS1l6UzJxZmhjLVVyRjd4OXlRWTBXdTdlQnhUcmZfUlZYdXhXMFBLSjlXd2xJRGJxSWs3NE4tVjNuX1BrN25kZF9tSDlFY2VJQnp3NnNIcWY4a1VvODVWMGhZZmM4SVNDZjBkNmZFcks3bXBnMTZwYXcxUzl5a1REa2k5Tkppcy0?oc=5
 
-Japan's Nikkei rises as SoftBank rebounds from AI-led selloff TradingView
+Japan's Nikkei rises as SoftBank rebounds from AI-led selloff marketscreener.com
 
-### 66. Chipmaker selloff drags stocks lower as AI restraint calls grow - Communications Today
+### 64. Chipmaker selloff drags stocks lower as AI restraint calls grow - Communications Today
 
 - Source: Communications Today
 - Published: 2026-09-15T02:44:51+00:00
@@ -666,7 +646,7 @@ Japan's Nikkei rises as SoftBank rebounds from AI-led selloff TradingView
 
 Chipmaker selloff drags stocks lower as AI restraint calls grow Communications Today
 
-### 67. South Korea, Japan stocks fall as Asian stocks edge lower on AI woes - The Business Times
+### 65. South Korea, Japan stocks fall as Asian stocks edge lower on AI woes - The Business Times
 
 - Source: The Business Times
 - Published: 2026-09-15T00:48:00+00:00
@@ -676,7 +656,7 @@ Chipmaker selloff drags stocks lower as AI restraint calls grow Communications T
 
 South Korea, Japan stocks fall as Asian stocks edge lower on AI woes The Business Times
 
-### 68. Asian stocks to fall on AI, key US yield tops 5% - The Edge Singapore
+### 66. Asian stocks to fall on AI, key US yield tops 5% - The Edge Singapore
 
 - Source: The Edge Singapore
 - Published: 2026-09-14T23:49:50+00:00
@@ -686,17 +666,17 @@ South Korea, Japan stocks fall as Asian stocks edge lower on AI woes The Busines
 
 Asian stocks to fall on AI, key US yield tops 5% The Edge Singapore
 
-### 69. US stocks fall as AI slowdown worries hit chipmakers - theedgemalaysia.com
+### 67. US stocks fall as AI slowdown worries hit chipmakers - The Edge Malaysia
 
-- Source: theedgemalaysia.com
+- Source: The Edge Malaysia
 - Published: 2026-09-14T23:37:36+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiUEFVX3lxTE40YXFwTndSQ0hBM1lOaTVaYy1KSGFLTEk2STYzYVYyUmJiMW9reGtUQ2VETjVRZklUODM2bGpCdnZkMGZ3Qnh5b2IwVmljcVVh?oc=5
 
-US stocks fall as AI slowdown worries hit chipmakers theedgemalaysia.com
+US stocks fall as AI slowdown worries hit chipmakers The Edge Malaysia
 
-### 70. US stocks fall as AI slowdown worries hit chipmakers - The Edge Malaysia
+### 68. US stocks fall as AI slowdown worries hit chipmakers - The Edge Malaysia
 
 - Source: The Edge Malaysia
 - Published: 2026-09-14T23:37:36+00:00
@@ -706,7 +686,7 @@ US stocks fall as AI slowdown worries hit chipmakers theedgemalaysia.com
 
 US stocks fall as AI slowdown worries hit chipmakers The Edge Malaysia
 
-### 71. AVGO, ORCL and MU: comparing three AI infrastructure stocks after a sector selloff - Investing.com
+### 69. AVGO, ORCL and MU: comparing three AI infrastructure stocks after a sector selloff - Investing.com
 
 - Source: Investing.com
 - Published: 2026-09-14T23:03:57+00:00
@@ -716,7 +696,7 @@ US stocks fall as AI slowdown worries hit chipmakers The Edge Malaysia
 
 AVGO, ORCL and MU: comparing three AI infrastructure stocks after a sector selloff Investing.com
 
-### 72. Tech stock selloff after AI leaders call for slowdown in development - CBS News
+### 70. Tech stock selloff after AI leaders call for slowdown in development - CBS News
 
 - Source: CBS News
 - Published: 2026-09-14T22:36:00+00:00
@@ -726,7 +706,7 @@ AVGO, ORCL and MU: comparing three AI infrastructure stocks after a sector sello
 
 Tech stock selloff after AI leaders call for slowdown in development CBS News
 
-### 73. AI CEOs Call for Slower Frontier Development as Stocks Fall - BankInfoSecurity
+### 71. AI CEOs Call for Slower Frontier Development as Stocks Fall - BankInfoSecurity
 
 - Source: BankInfoSecurity
 - Published: 2026-09-14T22:14:36+00:00
@@ -735,6 +715,26 @@ Tech stock selloff after AI leaders call for slowdown in development CBS News
 - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNcjlRRXFTYzExQ2JDYmlOTjEtRG5sSlRDVWlWaW1aanI5alhuMXNjcldtSnNxZ1ZESklLaU5CNG0xdG5vUHBXQjVVWTMzbDJHRkRDQ3pHU1J4NUI4eVFrRmNSdkEtRU1MTlFRRnZXeVE5TER4ZmhXUEctanhQR3AxU204WXMtc25wX0tvUmNfNmdlbXVOWGJkNjlEaGRESjc2Z2c?oc=5
 
 AI CEOs Call for Slower Frontier Development as Stocks Fall BankInfoSecurity
+
+### 72. Tech stocks fall on AI slowdown alert: Industry bosses at loggerheads with Trump over safety fears - This is Money
+
+- Source: This is Money
+- Published: 2026-09-14T21:00:46+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxONFJIbC1lLTd2blFXWXZOd00wYzFNRkYxWENmNlFpWXFGak9uaGlPUlVCbEFob0hjMFBZaEt3WHNOeHdJZGNUWENrSjByLXhyWHBCTjNDOTU4SXRwT0ZRTjEwWWF1Vnk2UG9qM0RsOGhORk92a3hIeFpUemZpWWlUMmpwZV9QSjNoQndjc19iREkzc0pzTUlhNklvd0tqcE5KSW9qN2ZSczRHWkRFZ3JFWVJYeUI4NmVnNGlPdGlLdHd6OVlqRWNSQWdLRmJ5QnVid0FVRHFyOUdpbF9ULXVaVA?oc=5
+
+Tech stocks fall on AI slowdown alert: Industry bosses at loggerheads with Trump over safety fears This is Money
+
+### 73. Hong Kong Stock Exchange Today: Hang Seng Index Defies Global AI Selloff to Close 0.45% Higher at 24,917.60 - BBN Times
+
+- Source: BBN Times
+- Published: 2026-09-14T20:32:24+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNekFmVGFtclA3Zk9NLWNIM3RaaDdtbnBiSkRpSXE4NTJKUlRqcHQxRVlDamZKN0xXYU5iVWQzQ1VDR05xdF9pQ0VXV01zVlloaTdLUTZGTUZVVFBtQ1RkNXFPTjU0S2NiU1ljMlAtbFNhZEJEMEFFWE12WlhudnpEdXU5bnJUVjlrcUNoamhpMXlhUzV0NTY3cFEyZWY2Mm0yWlBjLXI3WjVwMVNZcTdpRkZPeTFWaU1LT2V1NFAtd1VqQ3hDcmd5M1Nxa3ZaMlB4OFh4ai1uYw?oc=5
+
+Hong Kong Stock Exchange Today: Hang Seng Index Defies Global AI Selloff to Close 0.45% Higher at 24,917.60 BBN Times
 
 ### 74. Microsoft Drafts AI Rules Requiring Models To Accept Correction, Shutdown - BW Businessworld
 
@@ -786,15 +786,15 @@ Global AI stocks fall as industry chiefs call for slowing development TradingVie
 
 Nasdaq Recovers 296 Points as Monday’s AI Selloff Narrows TechStock²
 
-### 79. Global AI stocks fall as industry chiefs call for slowing development - Livemint
+### 79. Global AI stocks fall as industry chiefs call for slowing development - livemint.com
 
-- Source: Livemint
+- Source: livemint.com
 - Published: 2026-09-14T18:31:14+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQUjRvdi1UQ3RRZlF6MmlGS3NYUl9HS0FxeWZNdTJzaGp4Z1c1OG9udy1uOEh3eGVIZHNNT1FzXzMwYVR1ZnZBQlhBRTU0UVNzZDU1XzBtUmV1ajRDRlo5RVI3NDhXb0lkWTZ3bkhGUDV2ckF5V2VUN3RDajhwSHRVRnRSZXF3NFpPTE8yV1NSbUtja19ETjRWMS03ejBnWHNVMDBfRzBzSjBoNlZNU1J1RkxxUFo1M0pxUjhnSFBn0gHDAUFVX3lxTE84S1hkMDZNbS02Y0xqc3FYVy0yS2RYcHVaYm1WNC03X01NeHFsTWI4QzNSVVdjc0JOeGJmYWpBN1ZJZi16WnVjQ3JqdDRYVFFzaXNNay0yUmZRYzRkdUNGVVFUR2VOWnMyMldBVVRpWnVWQ1NrTENIYlZnV0wtRDNPWGptc3JWMmlHNHFzampkUDZLdXZuMDFzeEh4d3c2UmxqbGxDMm9BcnBSU0g1ekZIX0NTa2paOWZ2d0hMeHd4MzBLOA?oc=5
 
-Global AI stocks fall as industry chiefs call for slowing development Livemint
+Global AI stocks fall as industry chiefs call for slowing development livemint.com
 
 ### 80. Tech stocks fall after calls for AI development to slow - Yahoo Finance UK
 
