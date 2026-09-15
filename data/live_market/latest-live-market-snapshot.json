@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T17:40:37+05:30",
+  "generated_at": "2026-09-15T18:03:11+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -90,8 +90,8 @@
         "count": 13,
         "advancers": 2,
         "decliners": 11,
-        "average_1d_pct": -3.059,
-        "average_volume_ratio_20d": 0.775
+        "average_1d_pct": -3.131,
+        "average_volume_ratio_20d": 0.776
       },
       {
         "sector": "Technology services",
@@ -1378,13 +1378,13 @@
         "ticker": "BOSCHLTD.NS",
         "name": "Bosch Limited",
         "sector": "Producer manufacturing",
-        "ltp": 47525.0,
+        "ltp": 47070.0,
         "previous_close": 48385.0,
-        "day_move_pct": -1.7774,
-        "session_volume": 28614.0,
+        "day_move_pct": -2.7178,
+        "session_volume": 29319.0,
         "average_volume_20d": 38206.0,
-        "volume_ratio_20d": 0.749,
-        "turnover_proxy": 1359880350.0,
+        "volume_ratio_20d": 0.767,
+        "turnover_proxy": 1380045330.0,
         "quote_date": "2026-09-15",
         "quote_timestamp": "2026-09-15 15:10 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -1766,6 +1766,14 @@
         "average_volume_ratio_20d": 3.815
       },
       {
+        "sector": "Textiles",
+        "count": 5,
+        "advancers": 1,
+        "decliners": 4,
+        "average_1d_pct": -1.634,
+        "average_volume_ratio_20d": 0.624
+      },
+      {
         "sector": "Oil Gas & Consumable Fuels",
         "count": 17,
         "advancers": 2,
@@ -1782,14 +1790,6 @@
         "average_volume_ratio_20d": 1.608
       },
       {
-        "sector": "Textiles",
-        "count": 5,
-        "advancers": 1,
-        "decliners": 4,
-        "average_1d_pct": -1.685,
-        "average_volume_ratio_20d": 0.629
-      },
-      {
         "sector": "Construction",
         "count": 13,
         "advancers": 1,
@@ -1802,7 +1802,7 @@
         "count": 38,
         "advancers": 4,
         "decliners": 34,
-        "average_1d_pct": -2.071,
+        "average_1d_pct": -2.096,
         "average_volume_ratio_20d": 0.812
       },
       {
@@ -4168,13 +4168,13 @@
         "ticker": "BOSCHLTD.NS",
         "name": "Bosch Ltd.",
         "sector": "Automobile and Auto Components",
-        "ltp": 47525.0,
+        "ltp": 47070.0,
         "previous_close": 48385.0,
-        "day_move_pct": -1.7774,
-        "session_volume": 28614.0,
+        "day_move_pct": -2.7178,
+        "session_volume": 29319.0,
         "average_volume_20d": 38206.0,
-        "volume_ratio_20d": 0.749,
-        "turnover_proxy": 1359880350.0,
+        "volume_ratio_20d": 0.767,
+        "turnover_proxy": 1380045330.0,
         "quote_date": "2026-09-15",
         "quote_timestamp": "2026-09-15 15:10 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -8792,13 +8792,13 @@
         "ticker": "PAGEIND.NS",
         "name": "Page Industries Ltd.",
         "sector": "Textiles",
-        "ltp": 34580.0,
+        "ltp": 34670.0,
         "previous_close": 35365.0,
-        "day_move_pct": -2.2197,
-        "session_volume": 11971.0,
+        "day_move_pct": -1.9652,
+        "session_volume": 11315.0,
         "average_volume_20d": 24599.0,
-        "volume_ratio_20d": 0.487,
-        "turnover_proxy": 413957180.0,
+        "volume_ratio_20d": 0.46,
+        "turnover_proxy": 392291050.0,
         "quote_date": "2026-09-15",
         "quote_timestamp": "2026-09-15 15:15 IST",
         "quote_type": "Yahoo 5-minute quote",
