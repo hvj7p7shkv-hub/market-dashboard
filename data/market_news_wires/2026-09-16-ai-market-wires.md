@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-16 08:51
+Generated: 2026-09-16 09:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -46,7 +46,17 @@ Sensex falls 778 points, Nifty drops 280 points amid broad market sell-off IBTim
 
 Sensex falls 778 points, Nifty drops 280 points amid broad market sell-off The Hans India
 
-### 5. Indian shares seen opening higher after selloff; higher oil, Fed caution to cap gains - Investment Guru India
+### 5. Sensex, Nifty fall over 1% as crude, global yields weigh on investor sentiment - bignewsnetwork.com
+
+- Source: bignewsnetwork.com
+- Published: 2026-09-16T07:17:00+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPLWhSbWszNVV3MVRUemxRUTBDaWhOVGwwYnRoSVlPcnJyb3lUZFBRblcyalprVGNLNlZXalVIZDZNUFZ5VGZWdHNULU1vQjZtcmNVUUhmRlhsTEZHUmRQLWx6aVdyNi1yRUNFZ2lxcTYteW5vNGIxSjdrUzRvVE1oYVNfUW9hcl9IZEtRUmJQdFc4UUZxZldBVXM3YjA0Vk5zal9KWG8wZkpCem1oR2FsVXRHRkFDREtCUThoZ0lR?oc=5
+
+Sensex, Nifty fall over 1% as crude, global yields weigh on investor sentiment bignewsnetwork.com
+
+### 6. Indian shares seen opening higher after selloff; higher oil, Fed caution to cap gains - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-09-16T03:21:13+00:00
@@ -56,7 +66,7 @@ Sensex falls 778 points, Nifty drops 280 points amid broad market sell-off The H
 
 Indian shares seen opening higher after selloff; higher oil, Fed caution to cap gains Investment Guru India
 
-### 6. Nifty Falls 1.2% as Crude Oil and Bond Yields Spike - Whalesbook
+### 7. Nifty Falls 1.2% as Crude Oil and Bond Yields Spike - Whalesbook
 
 - Source: Whalesbook
 - Published: 2026-09-15T23:43:29+00:00
@@ -66,7 +76,7 @@ Indian shares seen opening higher after selloff; higher oil, Fed caution to cap 
 
 Nifty Falls 1.2% as Crude Oil and Bond Yields Spike Whalesbook
 
-### 7. Sensex falls 778 pts, Nifty down 280 as rising crude oil spooks markets - Asianet Newsable
+### 8. Sensex falls 778 pts, Nifty down 280 as rising crude oil spooks markets - Asianet Newsable
 
 - Source: Asianet Newsable
 - Published: 2026-09-15T11:31:23+00:00
@@ -76,25 +86,15 @@ Nifty Falls 1.2% as Crude Oil and Bond Yields Spike Whalesbook
 
 Sensex falls 778 pts, Nifty down 280 as rising crude oil spooks markets Asianet Newsable
 
-### 8. Sensex, Nifty fall over 1% as crude, global yields weigh on investor sentiment - The Tribune
+### 9. Nifty Smallcap 100 Extends Fall For Fifth Day As Selloff Deepens - BW Businessworld
 
-- Source: The Tribune
-- Published: 2026-09-15T10:47:34+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxONHVrMjQ5bk1rUGdWNTRVNTJCSktuU1g1TU8zOHJCSG92OGY0NHhaVHRaVGZDbVYwS2ZHdjhUcC1qVC1PWEV0cDlwandFUkEyVFFFckpuMlRrWkUtcW8xMGEzMXI3SWNmRFN3RDZMalBsdlYtQVVBVmZpMENhMGh1cDBnMVdzTlNsR1djazdCMEVRRmxtcDdRQnkzNFVZU1QxMHhYVXNJLU4xZUhuTjJVdzc0OGFiWGViMVZRdWh3YmRzN2JWVS1vLXYzck1BenZKMUs4U3VWQ3FXMknSAdsBQVVfeXFMTjR1azI0OW5Na1BnVjU0VTUyQkpLblNYNU1PMzhyQkhvdjhmNDR4WlR0WlRmQ21WMEtmR3Y4VHAtalQtT1hFdHA5cGp3RVJBMlRRRXJKbjJUa1pFLXFvMTBhMzFyN0ljZkRTd0Q2TGpQbHZWLUFVQVZmaTBDYTBodXAwZzFXc05TbEdXY2s3QjBFUUZsbXA3UUJ5MzRVWVNUMTB4WFVzSS1OMWVIbk4yVXc3NDhhYlhlYjFWUXVod2JkczdiVlUtby12M3JNQXp2SjFLOFN1VkNxVzJJ?oc=5
-
-Sensex, Nifty fall over 1% as crude, global yields weigh on investor sentiment The Tribune
-
-### 9. Nifty Smallcap 100 Extends Fall For Fifth Day As Selloff Deepens - businessworld.in
-
-- Source: businessworld.in
+- Source: BW Businessworld
 - Published: 2026-09-16T08:08:42+00:00
 - Themes: market selling, India market
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1pONlFKWnp4aHFyZzIzNEpxMjdrZFlnWWR2TTU3cEFhdjJGUUl2RUxwYUlkVkVqY3FBNTJMV3c3cUZqODVXdVV0aUpPcWtFUkxhNjdFYVNBUTFmYkltelRPY2k5S213MWFwdXZ5U09POTVidjd3aExsc2U1QXduaHpPNEo0ZVVLM0J0V1FOY1NRVjhPNE1RanZ3c2FkZXd2alBleUhhRjFRakdX?oc=5
 
-Nifty Smallcap 100 Extends Fall For Fifth Day As Selloff Deepens businessworld.in
+Nifty Smallcap 100 Extends Fall For Fifth Day As Selloff Deepens BW Businessworld
 
 ### 10. Nifty Smallcap 100 Falls 5th Straight Day Amid FII Exit - Whalesbook
 
@@ -136,15 +136,15 @@ Indian shares tad higher after selloff; elevated oil, Fed caution cap gains Trad
 
 Nifty Extends Correction, Falls Over 1% - Religare Broking Investment Guru India
 
-### 14. Indian shares tad higher after selloff; elevated oil, Fed caution cap gains - Reuters
+### 14. Indian shares tad higher after selloff; elevated oil, Fed caution cap gains - reuters.com
 
-- Source: Reuters
+- Source: reuters.com
 - Published: 2026-09-16T02:32:00+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQTGZwNnhJd2VnRFVFRzkxTlFVSl9CM2NDVXduY3V6c21DMnFjNThSTkR2OFFTNUR6aVdabVBybkZ0TEVCTS1yR0p5YlZCYlR6dTl2NnhVRnRvcVJPeXU1NWFNVWNESW8yRld2c1JLanJsdXh2d1V1R0lId2RuQXU0cUVIb1g4RW1rMUJHZ1hSMGM1Y2JXTnhnLURBTkRKNlFzM3JqVmlZU21xRXlReG5GdG5sMFhCX0czb2ZNSmlsT0ZKX3lfNVVn?oc=5
 
-Indian shares tad higher after selloff; elevated oil, Fed caution cap gains Reuters
+Indian shares tad higher after selloff; elevated oil, Fed caution cap gains reuters.com
 
 ### 15. Morning Wrap | U.S. Stocks Fall on AI Concerns and Oil Surge; Singapore Bond Issuance Hits Record - Moomoo
 
@@ -256,15 +256,15 @@ US Stocks Resist Bond Selloff as AI Bets and Earnings Support Markets | Ukraine 
 
 AI chip sell-off overblown: Zero GPU slowdown after Anthropic essay, analyst says Investing.com
 
-### 26. Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily - barrons.com
+### 26. Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily - Barron's
 
-- Source: barrons.com
+- Source: Barron's
 - Published: 2026-09-15T11:39:00+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOWXlnRENNMUt3QXM1M2htNmc4ZG1nQlIyLW1McXM5SnBoM2Y4LU5qYTBzSE00SlFDbGFESEVwaTZ2ajNEdVNianFzaFdaR2NDeHkwNkg5QTFEM2RWclRzbjVSeVZPTjlNLW03cTNFUjRoQlFsQVdKbkVZbmVvSU4yV0lOS1JmTjBSY2gtOGxUc1dmMVVicENoSGtlYUxqZw?oc=5
 
-Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily barrons.com
+Stocks Selloff, AI Fears Bond Yields, Crypto Vote | September 15 Barron’s Daily Barron's
 
 ### 27. Closing Bell: Sensex Falls 1,433 Points From Day's High, Nifty Ends Below 23,150 Amid Broad-Based Sell-Off - News18
 
@@ -366,15 +366,15 @@ Share Markets Continue To Rally As Asian Peers Fall Behind, Sensex Soars 300 Poi
 
 Nifty Auto Today: Falls 2.01% on Broad Selloff Univest
 
-### 37. Too soon to call AI selloff a buying opportunity, strategist says - Reuters
+### 37. Too soon to call AI selloff a buying opportunity, strategist says - reuters.com
 
-- Source: Reuters
+- Source: reuters.com
 - Published: 2026-09-16T01:47:59+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15dFdDeDJ1b2tiMGd0c21SdGhsWlRocThYbnRQZU9Va0FmOVV0eVJ4WlotWmRqUDdwb2ZJMXRGc19vMVJVZHJ4blRRckxrb3hDWGJVZjlpaUlRT3ZZb3hRcExDNGw2bk0?oc=5
 
-Too soon to call AI selloff a buying opportunity, strategist says Reuters
+Too soon to call AI selloff a buying opportunity, strategist says reuters.com
 
 ### 38. Global AI stocks fall as industry chiefs call for slowing development - The Business Standard
 
@@ -386,17 +386,7 @@ Too soon to call AI selloff a buying opportunity, strategist says Reuters
 
 Global AI stocks fall as industry chiefs call for slowing development The Business Standard
 
-### 39. Artificial intelligence stocks fall following warnings - Inspenet
-
-- Source: Inspenet
-- Published: 2026-09-15T23:20:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE90OF9YdnZjSlpxVm1od0tSZnR2dDZKSTh1TEU2emFpeVJldmtRU1N1UEZWN2Rud2FPYVEwc3FyWmVJZU9TQ0lPZ0NOUTluZDlLVHZiQ1FRaTVwUHpYT2p4bGI2Y2JsX2Zyb2pRV00ycWpBM0htT05RVg?oc=5
-
-Artificial intelligence stocks fall following warnings Inspenet
-
-### 40. US Stock Market Falls Amid AI Growth Concerns Impacting Chips - RS Web Solutions
+### 39. US Stock Market Falls Amid AI Growth Concerns Impacting Chips - RS Web Solutions
 
 - Source: RS Web Solutions
 - Published: 2026-09-15T20:00:00+00:00
@@ -406,17 +396,17 @@ Artificial intelligence stocks fall following warnings Inspenet
 
 US Stock Market Falls Amid AI Growth Concerns Impacting Chips RS Web Solutions
 
-### 41. Arm Surges as the AI Selloff Tests Its Royalty Machine - Yahoo Finance
+### 40. Arm Surges as the AI Selloff Tests Its Royalty Machine - finance.yahoo.com
 
-- Source: Yahoo Finance
+- Source: finance.yahoo.com
 - Published: 2026-09-15T19:29:16+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOUVV3ZjZXOTUzRzZ4TmRTbnFseEM0c2c4RDdQeTNVZHc2MXFadFItUGFROFZOWlU4ekFQZEVwU2xjcm9tV1oyZ0tpVTJIcWZVTGV4bFc2WmRTbGlVeTdTNnB5dDJBemNZZHowMUY2cWRZWWxPMUllQVV2X3JHN2Z5ekVUbjRVZjhoZGhLQ1RieGFxUmtDYUE?oc=5
 
-Arm Surges as the AI Selloff Tests Its Royalty Machine Yahoo Finance
+Arm Surges as the AI Selloff Tests Its Royalty Machine finance.yahoo.com
 
-### 42. DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ - Stocktwits
+### 41. DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-15T19:19:39+00:00
@@ -426,17 +416,17 @@ Arm Surges as the AI Selloff Tests Its Royalty Machine Yahoo Finance
 
 DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ Stocktwits
 
-### 43. Micron (NASDAQ:MU) Stock Tries to Bounce After AI Sell-Off as New 512GB Server Memory Module Debuts - stocksdownunder.com
+### 42. Micron (NASDAQ:MU) Stock Tries to Bounce After AI Sell-Off as New 512GB Server Memory Module Debuts - Stocks Down Under
 
-- Source: stocksdownunder.com
+- Source: Stocks Down Under
 - Published: 2026-09-15T19:17:39+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE5WS3E4LTBhWVFEbnZIbFh4Vi1DREZjbWVtVkxDbnNJMVRCcHVCQlQwdks3RThSclloRmFvZnkxUmx1UUtGLUlQcVNITTk5QlhCT2w1aXNLSXpsLWE1LVctbXFYSEpnY0NEV2thaV9nWlpjSWRaZjRfUUQ0MFM?oc=5
 
-Micron (NASDAQ:MU) Stock Tries to Bounce After AI Sell-Off as New 512GB Server Memory Module Debuts stocksdownunder.com
+Micron (NASDAQ:MU) Stock Tries to Bounce After AI Sell-Off as New 512GB Server Memory Module Debuts Stocks Down Under
 
-### 44. Nasdaq, S&P 500 Futures Sink As AI Stocks Extend Selloff: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus - Stocktwits
+### 43. Nasdaq, S&P 500 Futures Sink As AI Stocks Extend Selloff: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-15T17:40:56+00:00
@@ -446,17 +436,17 @@ Micron (NASDAQ:MU) Stock Tries to Bounce After AI Sell-Off as New 512GB Server M
 
 Nasdaq, S&P 500 Futures Sink As AI Stocks Extend Selloff: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus Stocktwits
 
-### 45. AI Selloff Is ‘Panic,’ Meta May Be The Best Stock To Buy, Joseph Carlson Says - Yahoo Finance
+### 44. AI Selloff Is ‘Panic,’ Meta May Be The Best Stock To Buy, Joseph Carlson Says - finance.yahoo.com
 
-- Source: Yahoo Finance
+- Source: finance.yahoo.com
 - Published: 2026-09-15T17:30:31+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPWHpiSGhMZ213WndJX2EzcmZTd2tfYW5rdUFDakdzekl6UEdRTHA4YXNJRnEtVmlhamRGcG5YdFlkYmV5U1FTRExmWjBNSTgzc0JBX0Z6anRhYllFLTNHM21OQ3d6TVdFeHBiemxlUkxiaTlXeXZQb01IUURsOFE1R0dyUTkwT1ZJQTJYdkxRTzlxZDVO?oc=5
 
-AI Selloff Is ‘Panic,’ Meta May Be The Best Stock To Buy, Joseph Carlson Says Yahoo Finance
+AI Selloff Is ‘Panic,’ Meta May Be The Best Stock To Buy, Joseph Carlson Says finance.yahoo.com
 
-### 46. Trade Setup For Sept 16: Nifty Support Falls To 22,800 As Surging Oil Threatens Bear Attack | Check Key Levels - NDTV Profit
+### 45. Trade Setup For Sept 16: Nifty Support Falls To 22,800 As Surging Oil Threatens Bear Attack | Check Key Levels - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-09-15T16:19:28+00:00
@@ -466,7 +456,7 @@ AI Selloff Is ‘Panic,’ Meta May Be The Best Stock To Buy, Joseph Carlson Say
 
 Trade Setup For Sept 16: Nifty Support Falls To 22,800 As Surging Oil Threatens Bear Attack | Check Key Levels NDTV Profit
 
-### 47. U.S. stocks fall as 10-year yield hits highest since 2007, oil prices resume surge - Investing.com India
+### 46. U.S. stocks fall as 10-year yield hits highest since 2007, oil prices resume surge - Investing.com India
 
 - Source: Investing.com India
 - Published: 2026-09-15T15:35:29+00:00
@@ -476,7 +466,7 @@ Trade Setup For Sept 16: Nifty Support Falls To 22,800 As Surging Oil Threatens 
 
 U.S. stocks fall as 10-year yield hits highest since 2007, oil prices resume surge Investing.com India
 
-### 48. Sensex tumbles 778 points; Nifty briefly slips below 22,900 amid CAS volatility; what's ahead? - BusinessToday - IndiaIPO
+### 47. Sensex tumbles 778 points; Nifty briefly slips below 22,900 amid CAS volatility; what's ahead? - BusinessToday - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-09-15T14:40:39+00:00
@@ -486,17 +476,17 @@ U.S. stocks fall as 10-year yield hits highest since 2007, oil prices resume sur
 
 Sensex tumbles 778 points; Nifty briefly slips below 22,900 amid CAS volatility; what's ahead? - BusinessToday IndiaIPO
 
-### 49. Stocks fall as US 10yr yield hits highest since 2007 and Trump calls AI fears a ‘hoax’ - London Business News
+### 48. Stocks fall as US 10yr yield hits highest since 2007 and Trump calls AI fears a ‘hoax’ - londonlovesbusiness.com
 
-- Source: London Business News
+- Source: londonlovesbusiness.com
 - Published: 2026-09-15T12:43:26+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRlpoaFh6ajVLVW9Cc0NPSVRIT2RwaTFKbjVXMGVmMVVhTDhSMVdHQnBpTGYwN1Y1Y2QwS3ZjdUFlUzlOOGtUWngtOW5YTFBWZkJJV0pMay1PaVVvOVVES0pzZ3JoTG92NXN3X1RvNFBpU2toejJTOThIR3FjblJjNF9FTk9jWkp0WS01QTFaaFlIN29JR2VQSXF2ekQ4amdOVS1wVEdDSzRocm5QR0VMcmZ1NkJEYW5f?oc=5
 
-Stocks fall as US 10yr yield hits highest since 2007 and Trump calls AI fears a ‘hoax’ London Business News
+Stocks fall as US 10yr yield hits highest since 2007 and Trump calls AI fears a ‘hoax’ londonlovesbusiness.com
 
-### 50. Data center REIT stocks fall on AI slowdown fea... - Pluang
+### 49. Data center REIT stocks fall on AI slowdown fea... - Pluang
 
 - Source: Pluang
 - Published: 2026-09-15T12:14:49+00:00
@@ -506,7 +496,7 @@ Stocks fall as US 10yr yield hits highest since 2007 and Trump calls AI fears a 
 
 Data center REIT stocks fall on AI slowdown fea... Pluang
 
-### 51. AI selloff sinks chipmakers after Anthropic CEO urges slower development - Benefits and Pensions Monitor
+### 50. AI selloff sinks chipmakers after Anthropic CEO urges slower development - Benefits and Pensions Monitor
 
 - Source: Benefits and Pensions Monitor
 - Published: 2026-09-15T11:34:41+00:00
@@ -516,17 +506,17 @@ Data center REIT stocks fall on AI slowdown fea... Pluang
 
 AI selloff sinks chipmakers after Anthropic CEO urges slower development Benefits and Pensions Monitor
 
-### 52. Sensex Falls 778; Nifty at Five‑Month Low - HDFC Sky
+### 51. Sensex Falls 778; Nifty at Five‑Month Low - hdfcsky.com
 
-- Source: HDFC Sky
+- Source: hdfcsky.com
 - Published: 2026-09-15T11:03:53+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNnR2UTFUeXlOZS1rVWhSNU52djZiRUpzY3JGVTU5NTdkRlRpRVRJdDdwanZEVURJek5MZ29EUEs2NHVfYUJhc09WY1Z2NlFwYnJ4YVc3UHloUmx5ZWt0Y3NvZ25iMGNvUWg4X0RqNFJCczZKVHFTRHprMGhHSjBLWjdqaU8zeGI5TE9iYlRIcDVqRzk4SXJaN2pyU0Y0a0RnWHFwVERyb1RSZ1J2M0c3QnVqb282a3JHMG1ybDRPVWJfN3pFbVN0UlN0Tnhnc280RXlpa1hoSmpXUQ?oc=5
 
-Sensex Falls 778; Nifty at Five‑Month Low HDFC Sky
+Sensex Falls 778; Nifty at Five‑Month Low hdfcsky.com
 
-### 53. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - IndiaIPO
+### 52. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-09-15T10:44:58+00:00
@@ -536,27 +526,27 @@ Sensex Falls 778; Nifty at Five‑Month Low HDFC Sky
 
 Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall IndiaIPO
 
-### 54. Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 - freepressjournal.in
+### 53. Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 - Free Press Journal
 
-- Source: freepressjournal.in
+- Source: Free Press Journal
 - Published: 2026-09-15T10:39:00+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHg0VXJRbUlnU3FTSURrZzJFbjlHOE12OU93b2tFOFg0NXlOVjJzMzJBeFcxTC1CdHJScFdkSTZ5b0RuMGhGYVotX2ZqWEVzUU1Vd09CQVpOS3JlbTloamJaS29xSDJvcHYwOTIxeGwtdmFRalJhckVhbTI5dkg2QUZWRzhqYVlyWG5iQzMzR2Z2WHZzcFl3dk5iNjdVNHV1Y2pCZ9IBqgFBVV95cUxQd1FMN21iZnZWRm5VVXFNY0JTV1ZTRG5wQWhDMDF6T3B3Mk01THc4ZDNBMFh2Q0JoTlV2YThZc0lDRl9FQUhCaUNURUpqdGVJdVlHSUMyOFQ1Mjl1YnQxaFhJNzZScEFCR2ZSV3pwTDdzQXNmS1ROTUFwbTczbXFSWEw1V0JVT2EwSHI5NEVGZ2RyalRkbjZJU3kydXpUYkV5aXlqN3pUSWp5Zw?oc=5
 
-Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 freepressjournal.in
+Sensex Crashes 778 Points, Nifty Slumps 280 Points Below 23,200 Free Press Journal
 
-### 55. Lopsided Tech Bets Get Hit in AI Stock Selloff - Bloomberg.com
+### 54. Lopsided Tech Bets Get Hit in AI Stock Selloff - bloomberg.com
 
-- Source: Bloomberg.com
+- Source: bloomberg.com
 - Published: 2026-09-15T10:16:29+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPUDZqTWk5dDNOS2M4cjJhQWpIV3gwd0c5QVg1YkhGNEVMTDdFR3VpY1dpVmthcFktbGxqMDNyQWRzMDhnMlZPVzRhYWtUSEJfMHJ4QlRSeEhvMjRVOHRNN0haWUVMMUxoNDE3VWxJclRWNWxPckxPcFRsLXJYdTJXR3BuRDZad25aZ2M5ZFg1VGMwanBVdzFldEQxcUFkeWVvM0E?oc=5
 
-Lopsided Tech Bets Get Hit in AI Stock Selloff Bloomberg.com
+Lopsided Tech Bets Get Hit in AI Stock Selloff bloomberg.com
 
-### 56. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18 - LinkedIn
+### 55. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18 - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-09-15T10:15:22+00:00
@@ -566,7 +556,7 @@ Lopsided Tech Bets Get Hit in AI Stock Selloff Bloomberg.com
 
 Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18 LinkedIn
 
-### 57. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18
+### 56. Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-09-15T10:12:34+00:00
@@ -576,7 +566,7 @@ Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons
 
 Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons behind the fall CNBC TV18
 
-### 58. Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, Nifty ends below 23,150; Factors that led the sell-off - ET Now
+### 57. Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, Nifty ends below 23,150; Factors that led the sell-off - ET Now
 
 - Source: ET Now
 - Published: 2026-09-15T10:09:23+00:00
@@ -586,7 +576,7 @@ Market falls for 3rd straight day, Nifty at lowest levels in 5 months: 5 reasons
 
 Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, Nifty ends below 23,150; Factors that led the sell-off ET Now
 
-### 59. India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox
+### 58. India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday - Upstox
 
 - Source: Upstox
 - Published: 2026-09-15T09:49:03+00:00
@@ -596,7 +586,7 @@ Stock Market Closing Today, Sep 15: Bear grips D-street! Sensex slips 778 pts, N
 
 India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers behind market fall on Tuesday Upstox
 
-### 60. AI stocks fall as tech leaders call for slower development - Riviera Radio
+### 59. AI stocks fall as tech leaders call for slower development - Riviera Radio
 
 - Source: Riviera Radio
 - Published: 2026-09-15T09:45:19+00:00
@@ -606,7 +596,7 @@ India VIX jumps over 10% as SENSEX, NIFTY50 decline; here are 5 key triggers beh
 
 AI stocks fall as tech leaders call for slower development Riviera Radio
 
-### 61. Tuesday papers: AI stocks fall after bosses back call to slow its development - Citywire
+### 60. Tuesday papers: AI stocks fall after bosses back call to slow its development - Citywire
 
 - Source: Citywire
 - Published: 2026-09-15T09:43:19+00:00
@@ -616,7 +606,7 @@ AI stocks fall as tech leaders call for slower development Riviera Radio
 
 Tuesday papers: AI stocks fall after bosses back call to slow its development Citywire
 
-### 62. India’s Stock Market Falls For 15 Consecutive Days - Watcher Guru
+### 61. India’s Stock Market Falls For 15 Consecutive Days - Watcher Guru
 
 - Source: Watcher Guru
 - Published: 2026-09-16T07:03:34+00:00
@@ -626,25 +616,35 @@ Tuesday papers: AI stocks fall after bosses back call to slow its development Ci
 
 India’s Stock Market Falls For 15 Consecutive Days Watcher Guru
 
-### 63. Nifty 50 top losers today, September 15: BEL falls 5%; Shriram Finance, Adani Enterprises drop over 4% - businessupturn.com
+### 62. Nifty 50 Falls at Open as Indian Equities Start Session on the Back Foot - Business Upturn
 
-- Source: businessupturn.com
+- Source: Business Upturn
+- Published: 2026-09-16T03:41:36+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxONnBmbVg2bGk2dC1SajlFMERhZXMtN1Z2WkVyNktvRk1XbExqMGJpcjI0QWdHSkVNQ2hraEhsRFhnaGMxY0pyeEk5NnRud0ZhMUdSNDVxQXlTWTBLeTBZNy0wdlJ5Y0F0Y2lmUlMtWWNzQTVTOHZUSjJEVUlRTlRBYjJ1THlocldnQi1NY1l0TnVLZ3duS2xnRlZjRVR0Q1RqMFotd05NOXFCQzdObkpFaGNxbV9JSC1mYjBGR2dzdWVYZw?oc=5
+
+Nifty 50 Falls at Open as Indian Equities Start Session on the Back Foot Business Upturn
+
+### 63. Nifty 50 top losers today, September 15: BEL falls 5%; Shriram Finance, Adani Enterprises drop over 4% - Business Upturn
+
+- Source: Business Upturn
 - Published: 2026-09-15T16:26:12+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQXzRmeTVuX2hvbmc5YWlWbEJzNmNza3dld3hZVDRqYUR6ZXp2NGREaGpwcU1kNUJyRGRxUVNqSVQxb3lSUDVBdm1IcjRDNVR5b2dEaE52NERGeGlqbGFwWnEwc2kyMFlITVhEcHNJVUNiejZvc2pNYmVTY3g3SzRLMUxSTlNoT0NRWXNDUkFSZVA0LTl3NnYyYTZOaFoyTGxaeC1wSzctNHp4QVp1bWxNdHhWY1duM1c2aWRCTEZUaWQ5Y1haeDU2cnNQVjJJeUhmUmIzUEt1MGVackhpX1E?oc=5
 
-Nifty 50 top losers today, September 15: BEL falls 5%; Shriram Finance, Adani Enterprises drop over 4% businessupturn.com
+Nifty 50 top losers today, September 15: BEL falls 5%; Shriram Finance, Adani Enterprises drop over 4% Business Upturn
 
-### 64. 5 Factors Behind Nifty Volatility: What Drives Index Swings - Value Research
+### 64. 5 Factors Behind Nifty Volatility: What Drives Index Swings - valueresearchonline.com
 
-- Source: Value Research
+- Source: valueresearchonline.com
 - Published: 2026-09-15T13:02:49+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkpMTEYyRXBzZXpPeDJuYkVMSG1MaFktcFFXVEZIUE44alhySVVxZHdJTER4UGl1d01jT0k4amVYMHpVQmlPM2owTEVIWmxrQUxpZGJMNmtOWUJGam1zbmxsUVU4eEp1QTJpaHVXQldaTEVTNThOOXc4Um4wMVNiQlJQTGl0MmpuUGVzSVpEdDRlaUprdHNTckZlUDNDeWs2WmpUUVlDMA?oc=5
 
-5 Factors Behind Nifty Volatility: What Drives Index Swings Value Research
+5 Factors Behind Nifty Volatility: What Drives Index Swings valueresearchonline.com
 
 ### 65. Nifty Falls 1.19% to 23,118; Jewellery Sector Crashes 6.3% - scanx.trade
 
@@ -656,15 +656,15 @@ Nifty 50 top losers today, September 15: BEL falls 5%; Shriram Finance, Adani En
 
 Nifty Falls 1.19% to 23,118; Jewellery Sector Crashes 6.3% scanx.trade
 
-### 66. Nifty 50 Falls Nearly 1% at Close as Indian Equities Retreat - businessupturn.com
+### 66. Nifty 50 Falls Nearly 1% at Close as Indian Equities Retreat - Business Upturn
 
-- Source: businessupturn.com
+- Source: Business Upturn
 - Published: 2026-09-15T09:55:34+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQWmlrbFAzODMtSzdPMDhBUFF1TTdzcWVxdFJiVVF4ODlIMzRONlQzdUJmT0NPWUs5Z3h6cUhoRUhsekJJNmI0Y1VxTTIwMTBhWDdkVkxuMnhYVW9wa01KTDhrWXp5aEI5bFo2Z2xEM1kwanhEcnJCck1OX3VuYVlrcWJoQ3BpR1RPNW93bFI5ZDdHWC02TUR6aVU3Ulg1Y2VEUWtaM282aERVdWpwNHRBSg?oc=5
 
-Nifty 50 Falls Nearly 1% at Close as Indian Equities Retreat businessupturn.com
+Nifty 50 Falls Nearly 1% at Close as Indian Equities Retreat Business Upturn
 
 ### 67. FIIs cut stakes in 14 smallcap stocks after 2 quarters of buying; shares fall up to 55% - The Economic Times
 
@@ -696,7 +696,17 @@ Stock Market Crash: Sensex Falls Over 1,200 Points From Day's High — Three Rea
 
 Stock Market Today, September 16: GIFT Nifty signals muted start - US yields, crude oil, FII selling among 8 key triggers ET Now
 
-### 70. SEBI is said to ease arbitrage mutual fund rules to aid closing auction session - livemint.com
+### 70. UPI AutoPay: Will you now pay extra for OTT, SIP and bill payments? What new MDR rules say | India News - Hindustan Times
+
+- Source: Hindustan Times
+- Published: 2026-09-16T08:47:01+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQd0xHVUlYSW5aQnI4dlJoUGZ4dlV2Sm9JRDZkNmN1XzREVGZIdEROV3dRei0wUWhlbzZCTHFhYWhXeGFaUVZsMUFkYkxuNms3TnBZQW1nUk1vQVJZM25xOFE5M3dIVEhJOU95RGlueWhRME85WW9na20xOXRiM0VPS1ZZazFQZWZhd0ZXNEY3dnFtcHlrNnY1MXNha0haVENfUWYyR1NKRHVfS3p1T3haY05Kbm1TMFNqZzlEYkdpc2lEZnV1NldUMC15SFhyV2xnbDQ5RVFNUGZPZXBQcnEtRGU3NljSAeoBQVVfeXFMTzNwZFc5dDlhb3pWeFBVR2Jvd0g2QS04RmRrYkJFNHE3MEtoMUxhQVpCSkxIRmlDTkZFM0daVUFhQXo1aTE0MUhWZUFNbUdxWWhzQkctRWdpOW10MEhXU1E3NjlyQzcyQWt1OGdqNnphb2hjZjBROExEQzY1bG1jYl9wcy1UUUJfSlpZZTlydDFWaXY4M3RtcEE1ZEV6eUJkeXFSVl93ZDgyU0NfU25MQlFLODBJZVh2WnAyVGNpNkg3SEtTM1VzdGdkVTRjTEJJbkVMcFpOX0pQb2xfZFRmT1lXcUdQSUNCM1ZB?oc=5
+
+UPI AutoPay: Will you now pay extra for OTT, SIP and bill payments? What new MDR rules say | India News Hindustan Times
+
+### 71. SEBI is said to ease arbitrage mutual fund rules to aid closing auction session - livemint.com
 
 - Source: livemint.com
 - Published: 2026-09-16T07:15:34+00:00
@@ -706,7 +716,7 @@ Stock Market Today, September 16: GIFT Nifty signals muted start - US yields, cr
 
 SEBI is said to ease arbitrage mutual fund rules to aid closing auction session livemint.com
 
-### 71. Mutual funds bear brunt of today’s DSE correction - The Business Standard
+### 72. Mutual funds bear brunt of today’s DSE correction - The Business Standard
 
 - Source: The Business Standard
 - Published: 2026-09-16T05:52:31+00:00
@@ -716,7 +726,7 @@ SEBI is said to ease arbitrage mutual fund rules to aid closing auction session 
 
 Mutual funds bear brunt of today’s DSE correction The Business Standard
 
-### 72. Here are the stocks India's Mutual Funds bought and sold in August - CNBC TV18 - LinkedIn
+### 73. Here are the stocks India's Mutual Funds bought and sold in August - CNBC TV18 - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-09-16T05:38:53+00:00
@@ -726,7 +736,17 @@ Mutual funds bear brunt of today’s DSE correction The Business Standard
 
 Here are the stocks India's Mutual Funds bought and sold in August - CNBC TV18 LinkedIn
 
-### 73. UPI MDR from October 15: Will your mutual fund SIP, insurance premium or OTT AutoPay get costlier? - livemint.com
+### 74. Here are the stocks India's Mutual Funds bought and sold in August - CNBC TV18
+
+- Source: CNBC TV18
+- Published: 2026-09-16T05:30:22+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQN1VMcUNRd3hXRy1iLXpXTFFGUjR6akt0T1lubGdyMVdhU0lpTVRQWEF2SkdsaGhtbVBVamxOVHBtRWdra0YzU2JsSXhHLU9XcEU3WmNvcmp1amktNmZfUVV2SU5ZaElpcnJZR2w5dkpFM051MHQ0QkN1NmN3UlRaVXR4dUVBSk1xb3RISFdyQXFlOVJKWVp4aEg2dHNLVjR4VHZMd3k1ZUQ3TENwYklYOHlVUXR1dEU2SDh4c2RvSmZ6RGxYN1NsN1dKamJkejk0NUFv0gHYAUFVX3lxTFA5RG1GTUFrT2N0LUVDZmVqSE5HTklWLXkxX0RDcW1BbnJaYmJ6dm11M3Zka1BnanFtNDkwNHFNM2lLSldDTXlyZmkzNURpOTh1V0tzTmkyTE9wT3M2MGQ1SUowSzFTdmJZWFVpQmVxVWNxSTVfeHloRV9CeUhqRElvdFlfcmVkeXFTdU1iR2NCTzhyNEtlbXlFbDVjUWpNUzVxQmR6NDZfNVEtTi1KaVRoRmxhVkZGMzN5UDRxLW9tZnVTb1hpT3FVaXpPNzdnajN4VXc1TE9wdQ?oc=5
+
+Here are the stocks India's Mutual Funds bought and sold in August CNBC TV18
+
+### 75. UPI MDR from October 15: Will your mutual fund SIP, insurance premium or OTT AutoPay get costlier? - livemint.com
 
 - Source: livemint.com
 - Published: 2026-09-16T03:26:41+00:00
@@ -736,7 +756,7 @@ Here are the stocks India's Mutual Funds bought and sold in August - CNBC TV18 L
 
 UPI MDR from October 15: Will your mutual fund SIP, insurance premium or OTT AutoPay get costlier? livemint.com
 
-### 74. Same mutual fund category, different capital gains tax? How a scheme's portfolio can change your tax bill - livemint.com
+### 76. Same mutual fund category, different capital gains tax? How a scheme's portfolio can change your tax bill - livemint.com
 
 - Source: livemint.com
 - Published: 2026-09-15T18:24:51+00:00
@@ -746,7 +766,7 @@ UPI MDR from October 15: Will your mutual fund SIP, insurance premium or OTT Aut
 
 Same mutual fund category, different capital gains tax? How a scheme's portfolio can change your tax bill livemint.com
 
-### 75. Rising crude oil, yields sour Nifty; expiry auction adds the sting - Business Standard
+### 77. Rising crude oil, yields sour Nifty; expiry auction adds the sting - Business Standard
 
 - Source: Business Standard
 - Published: 2026-09-15T17:14:40+00:00
@@ -756,7 +776,7 @@ Same mutual fund category, different capital gains tax? How a scheme's portfolio
 
 Rising crude oil, yields sour Nifty; expiry auction adds the sting Business Standard
 
-### 76. ‘Flight to safety’: FPIs pull Rs 5,109 crore from Indian bonds as US yields rise, crude puts pressure on rupee - Telegraph India
+### 78. ‘Flight to safety’: FPIs pull Rs 5,109 crore from Indian bonds as US yields rise, crude puts pressure on rupee - Telegraph India
 
 - Source: Telegraph India
 - Published: 2026-09-15T15:21:13+00:00
@@ -766,7 +786,7 @@ Rising crude oil, yields sour Nifty; expiry auction adds the sting Business Stan
 
 ‘Flight to safety’: FPIs pull Rs 5,109 crore from Indian bonds as US yields rise, crude puts pressure on rupee Telegraph India
 
-### 77. Stock Market Falls As Crude Oil Nears $110 & Weak Rupee | Stock Market News - Business Today
+### 79. Stock Market Falls As Crude Oil Nears $110 & Weak Rupee | Stock Market News - Business Today
 
 - Source: Business Today
 - Published: 2026-09-15T11:20:52+00:00
@@ -776,32 +796,12 @@ Rising crude oil, yields sour Nifty; expiry auction adds the sting Business Stan
 
 Stock Market Falls As Crude Oil Nears $110 & Weak Rupee | Stock Market News Business Today
 
-### 78. smöoy India Introduces Three New Smoothies, Bringing More Flavour, Freshness and Personalisation to Every Sip - businessnewsthisweek.com
+### 80. Sensex Today: BSE Sensex Rises Over 380 Points As Oil, Fed Decision Remain In Focus-What Should Investors Watch - The Sunday Guardian
 
-- Source: businessnewsthisweek.com
-- Published: 2026-09-15T08:57:37+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOWFBza1FCWng1cHRldkphTlFSOUtCQjMyeTAwMkJCQVJCVkJJTktxanpxeEVUMVdZbmhvZHI4am9fZXpOd2RiSDZsa0psT1V6dHVxY0Yzd2c5dkFpcXNodHZlckgzbXhyNWY3a05sbVNDTGplWk1Gbl92ZmItbkxZZzJaTHJSck9vOU1BcXMtSkQ5SlNnSEkxU2Q1aE1VY3Nhb2FyNGdWeVkxRDVoN1JyQzNIdjN0ZzJFcXR0aUg3SVdfa1pKa29vQXNFaDU1MjYzS3VhcVl0WEFhdDN6UEpLcmZwVWQ?oc=5
-
-smöoy India Introduces Three New Smoothies, Bringing More Flavour, Freshness and Personalisation to Every Sip businessnewsthisweek.com
-
-### 79. UPI MDR from Oct 15: Will your SIP, automated insurance payments cost more? - Business Standard
-
-- Source: Business Standard
-- Published: 2026-09-16T07:48:59+00:00
-- Themes: 
+- Source: The Sunday Guardian
+- Published: 2026-09-16T07:44:58+00:00
+- Themes: India market, macro / flows
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPLVV6dldCSEFkRXZ4SEp1WHdjd2NhSTRRZktyNjd6YnFWUUJyUmFhSkJuTGlyRGpVY0hUY19ralFSZzJhQzZaaWo0eC1qSzE3cS0ySWpzUU1pMG5XNlQ3Q1ExTWw0ZzMtUEFYYnVHS3RSczJNZUFPellBb2N3SWhIRkx5MnREQ25BZHBlQ0ZocjB2UnBhTXh4STl2UjdmNGhDT0Rzc0hmbVVOWm9OOHAyTEc0YzFiNTdlek9MTGdlNDVhaW1YSWlmSEIwM1d2a3EyQ0JQY0ZWUnNJSjBGNHFweER2MVVsQdIB6wFBVV95cUxNSGh2LXlHRzNsSDM0a08wUTZ4cFpPRUotWHI2Mi1yTzkwcHVfbkUxZkt4cXFCVm5tcWE0d3M4T0otXzh2TjFnZHd2T09zUjBfTzI2WlQ1OTBDeVdhVUFDQ0tZeVFyVG5fQVZUbnhzRVo3Z3JtT2hMUnZwUGNBSVdfSklvM2xXcjlGTzNkSThpcEpGUnpCdlBISVdONmoyTG80YUhnZm41aVR5cTRtV1JpcV9KaV91Y1BFV3hJN3l4elI2OEhybU50dEIwRmpOMXdZbHNjQXdJbk8wVnF6QUdFMG1RTnM3Rks0WlZz?oc=5
+- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxORnAxZTBickRqbUNXMUZodU1oYmwtenBYaURWVTlqT3pOeVFUeVVOY25CUW9YSS1Jak9JanRkQTFFYmVFNFp2OFZWRDh1OEtJX3NmeXhXSE1UaEtTQ0I2NkZvbnVzMXFlX0Y2cm9HX2VkRDRldVA1TTlSX0NYVGFyZmRjbzJmVDgyQkZuSmowNUJ2MmJPMUFiRmR2cjN0T2R0TWFoU25BUHA5M3NqX0dBdXdPamFWN3BxWmVXOHh1V0pZNTlac3FnMkFqWjUwbDNKOHNNR3pCMFVENEt4TzJ3WnZnVmtJUGRka1NzRnRWN3MxWnPSAfMBQVVfeXFMTkZwMWUwYnJEam1DVzFGaHVNaGJsLXpwWGlEVlU5ak96TnlRVHlVTmNuQlFvWEktSWpPSWp0ZEExRWJlRTRadjhWVkQ4dThLSV9zZnl4V0hNVGhLU0NCNjZGb251czFxZV9GNnJvR19lZEQ0ZXVQNU05Ul9DWFRhcmZkY28yZlQ4MkJGbkpqMDVCdjJiTzFBYkZkdnIzdE9kdE1haFNuQVBwOTNzal9HQXV3T2phVjdwcVplVzh4dVdKWTU5WnNxZzJBalo1MGwzSjhzTUd6QjBVRDRLeE8yd1p2Z1ZrSVBkZGtTc0Z0VjdzMVpz?oc=5
 
-UPI MDR from Oct 15: Will your SIP, automated insurance payments cost more? Business Standard
-
-### 80. Indian stock market today: Nifty hits 23,281, Sensex gains 500 points; FMCG, banking stocks lead - IBTimes India
-
-- Source: IBTimes India
-- Published: 2026-09-16T06:48:01+00:00
-- Themes: India market
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPakR5MXRmNmtBdWFUYXgzZERiWVVBMERyd2hiNTBLampQVWd0amh0Ql93XzN6eklsT1FsdG8wUEk2NS1Yall2U3ZMVmUxNUxFYTFXQmlER004cmI3RHp6WHF6R0NDWUZHbUV6dGpVVFF3aTFkSXc1cXRYMWpHcml0VmI4RXk1bjR1MGxYSTlseEJGQ0ZQeWlSRHp2MUk2UGZDWngxbGZWRnFvRURKNF8wVlNSWWVtTXBPYlJwdklpWG92UQ?oc=5
-
-Indian stock market today: Nifty hits 23,281, Sensex gains 500 points; FMCG, banking stocks lead IBTimes India
+Sensex Today: BSE Sensex Rises Over 380 Points As Oil, Fed Decision Remain In Focus-What Should Investors Watch The Sunday Guardian
