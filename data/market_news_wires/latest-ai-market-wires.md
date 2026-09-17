@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-17 08:56
+Generated: 2026-09-17 09:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -86,15 +86,15 @@ Nifty, Sensex Rebound After Recent Sell-Off, Fed Decision in Focus – Wednesday
 
 INDIA STOCKS-Indian shares edge higher after selloff; oil, US rate worries cap gains bfsi.economictimes.indiatimes.com
 
-### 9. Sensex, Nifty snap two-session fall; US Fed outcome in focus for market cues - businesstoday.in
+### 9. Sensex, Nifty snap two-session fall; US Fed outcome in focus for market cues - Business Today
 
-- Source: businesstoday.in
+- Source: Business Today
 - Published: 2026-09-16T11:13:50+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWlZzM0ZpcC1QTHpHR1UwcklLREdKNTlLeUVqYVdkTVdEUVJPV3dyZGdCVS1XUVc1RkstM0V1a080d0JTV045OWZJT0lQOXRMYXk2Mjdsb1VZNjdUVWlfTXVfb29peEVaNTNXRkRhY0wzeUx4d3NHTE92OS16ZkxyMkpJNFA0eWNNd0pTdlI2U1pxSkNiYkVPbERzLXhPNlFfQnBtZUNQaFo2ekQ3dU9DemNYWC1FX3BKdE04SDdqNFFEVWxEUEM4WnZwUXkwbGpmV2ppMXcxYThDQdIB3wFBVV95cUxNelpUYUJ2TUpIQ09jRE1PRTZSNGJyLUtxdEsxTGZtV0R5YkxqckJmREY4azh1TE9lZXBHLUc2RXhldlppOV9OYzlVSkdKQ1NQcllfTkxoem5QTk9hOTJraU9fek1DY19GSkppTGpJVUtHNkZJZXRpS1p5ME5TaE91dlotM2FmNUhiNGN0MnNFY3Y3eVhSUTNMUmQ5ZnRzNXM2QXZmNjh2V1dnQ3dNVEctUm1YVjU0bE5ZQlFXTDFyN0g4dkpSbk5FbU1tNXpOT2wtQTY4TVNnY0FKMWhFYm9Z?oc=5
 
-Sensex, Nifty snap two-session fall; US Fed outcome in focus for market cues businesstoday.in
+Sensex, Nifty snap two-session fall; US Fed outcome in focus for market cues Business Today
 
 ### 10. Nifty Smallcap 100 Extends Fall For Fifth Day As Selloff Deepens - TradingView
 
@@ -146,15 +146,15 @@ Sensex falls 350 pts from day's high, Nifty near 23,200: Key factors behind mark
 
 India VIX Falls 4.71% to 12.55 as Nifty Opens Flat HDFC Sky
 
-### 15. Nifty Midcap 150 falls over 20% once every 4.2 years: Abakkus study - businesstoday.in
+### 15. Nifty Midcap 150 falls over 20% once every 4.2 years: Abakkus study - Business Today
 
-- Source: businesstoday.in
+- Source: Business Today
 - Published: 2026-09-17T00:05:01+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNNjI4NW1sazJQVlNZd1U5OUhvSlFyWm90N3l0X3hqZmZKazVtSUYxbFBYSy1xQ0VwTUFMMzliaTU2UXFzbVktUXZDTzlwdmJ1YVV1TzcyRnlTVTZsN0FDV3Etb0VFRWl3ZXlscVZ5ZFk3VC05T3lzc2hXWlhqd1JFNElHYkV5OVdoWjcyWUx0SzRxZ0h6bWFaT09Hd3JBb2tlUkZvLWxVMjhYRTQtVnE3dEo5eWRNOWJ1dkphRXVhaTJURGtQV2w3bjFVMA?oc=5
 
-Nifty Midcap 150 falls over 20% once every 4.2 years: Abakkus study businesstoday.in
+Nifty Midcap 150 falls over 20% once every 4.2 years: Abakkus study Business Today
 
 ### 16. Broadcom-Linked AI Selloff Hits Samsung, SK Hynix Stocks In Korea: DRAM Eyes Second Day In Red - Stocktwits
 
@@ -566,15 +566,15 @@ SIP returns in last 3 yrs remain lacklustre even as inflows hit new high Trading
 
 Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News economictimes.indiatimes.com
 
-### 57. Indian Markets At A Crucial Juncture: Nifty, Crude, Fed & Smallcaps | Jaipuria - businesstoday.in
+### 57. Indian Markets At A Crucial Juncture: Nifty, Crude, Fed & Smallcaps | Jaipuria - Business Today
 
-- Source: businesstoday.in
+- Source: Business Today
 - Published: 2026-09-16T12:33:46+00:00
 - Themes: India market, macro / flows
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNTE5qYzRJSVdUUzJxcWJ2ZjY4WTh5Y1pQdTh1SS0yejUzTHlwbEJVZ21INVp1QllmVXFQVElJeHZPc01POW5Kc2g5WFJlemI5Vk5fTVFaOUhndm9BRUVPNDZZT2RYanlnRlowXzZWT1B1cHlfd0RHVG9DSFNRd25wZFhUZE1YNUw5WmVlYkx6VF96UEczS0lyQmlCOURKN3FTRmpmTENNSzhxMFFNckxIMFZQOVNrWVMzMXVtN1gwajZlVnBxVEhMQkdaNHhRa21IWUlWLWlhWHZ6XzMtMm1DStIB4AFBVV95cUxNTE5qYzRJSVdUUzJxcWJ2ZjY4WTh5Y1pQdTh1SS0yejUzTHlwbEJVZ21INVp1QllmVXFQVElJeHZPc01POW5Kc2g5WFJlemI5Vk5fTVFaOUhndm9BRUVPNDZZT2RYanlnRlowXzZWT1B1cHlfd0RHVG9DSFNRd25wZFhUZE1YNUw5WmVlYkx6VF96UEczS0lyQmlCOURKN3FTRmpmTENNSzhxMFFNckxIMFZQOVNrWVMzMXVtN1gwajZlVnBxVEhMQkdaNHhRa21IWUlWLWlhWHZ6XzMtMm1DSg?oc=5
 
-Indian Markets At A Crucial Juncture: Nifty, Crude, Fed & Smallcaps | Jaipuria businesstoday.in
+Indian Markets At A Crucial Juncture: Nifty, Crude, Fed & Smallcaps | Jaipuria Business Today
 
 ### 58. 3 Healthcare Stocks Where Mutual Funds Increased Their Stake - Trade Brains
 
@@ -586,15 +586,15 @@ Indian Markets At A Crucial Juncture: Nifty, Crude, Fed & Smallcaps | Jaipuria b
 
 3 Healthcare Stocks Where Mutual Funds Increased Their Stake Trade Brains
 
-### 59. Nippon India Nifty Smallcap 250 Index Fund Direct Growth Review 2026: NAV, Returns, Portfolio & Should You Invest? - Univest
+### 59. Sensex, Nifty end higher after 2-day slide; UPI-linked stocks rally, IT drags - India Today
 
-- Source: Univest
-- Published: 2026-09-16T11:01:00+00:00
+- Source: India Today
+- Published: 2026-09-16T10:04:24+00:00
 - Themes: India market
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPd25fSXNyQ2JMcTN2VUxXMlI2bFJSdWVCMU5hekNrVHFiQUgzV2dOT0pCS3J3N3Vscjk2dUFNSjdCZGJRZXhCQVhEdUlWVlFXdnRhZVpBUWY4MjBFbzIxZHdFaU9qeFFtaUJzTFpVc0lZVFV3R1J5Mk9oV3NqU0U3Rllac0E2eE9Ja3FnRFJuYzV5RlpZTjIzTg?oc=5
+- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPWjgtN1lHOGpoUXEzMVotUFFJUjRxT0dMVTB4MDdUTmZxZnFFejdRZTNqd3hDTXMyQU5KZmJySEpOaDhZRTJLdi1LWVlWeUdRdUlmVnV3NXNYNmNrRWlMdGhPaENNT1NiTXBONFVhODFfV1FveGRlY2NNN0g1aXIzd1NiSUhFOXJRY3FVSC0tVVVmOXhSc0s3Y3l4dHA2eEpuc2w5UHBhNFQ0WENXRk9hTmV3RlNxZW5qUEpHSERSeFJuVXU4LXA1ejNoUlpQb2lpQ1Zjb0d4N3o4dDhadWlr0gHkAUFVX3lxTE13VlRObVVUY3RVMXdWWWFKS0Q5RTVMeU5HbUJUckFBNGN6bHFCczduSWxpa2IxcVptUWxTWkp4cUpmaW5LRzVqTThyd0piX0ZRMVQ3bDdpaXBzTVY4czZDQVR2bFdnT0d2MU9JSXhia29LVWVERGRnWTJvY2QtU2VURU11VWM5ODFvWmtQaTFGWGg5a3lHQTlzQVZQcU85UXZ2cGdmYUVxd2sxMDdPbUVsazhMbGZhSUZ6cFNnYWY0eG5FREw4d0JUTjhYVmY2a2ZzbTB3ME5lZmh1d29ra3dob05xQw?oc=5
 
-Nippon India Nifty Smallcap 250 Index Fund Direct Growth Review 2026: NAV, Returns, Portfolio & Should You Invest? Univest
+Sensex, Nifty end higher after 2-day slide; UPI-linked stocks rally, IT drags India Today
 
 ### 60. ICICI Bank, HDFC Bank, and RIL among 8 stocks owned by 600 mutual funds in August - economictimes.indiatimes.com
 
@@ -796,12 +796,12 @@ Taking Stock: Market snaps 2-day losing streak; Nifty above 23,200, Sensex gains
 
 Nifty Gains 99 Points, Sensex Adds 332; Consumer Durables Lead Rally scanx.trade
 
-### 80. India Glycols Ltd Hits Intraday Low Amid Price Pressure on 17 Sep 2026 - MarketsMojo
+### 80. Zuckerberg Backs Nvidia Huang, Splits AI CEOs [2026] - tech-insider.org
 
-- Source: MarketsMojo
-- Published: 2026-09-17T08:05:26+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPdVVpY0tmU0VzSFdhbHJDVUtRM25makJZMWo1MDZjWTlNc3E2Y0xEX0tGZFl6Y0ZzZm9KeV81MFBDRlhkM3JGcTAyQ0VEX1dXTHhfb2k0NFVJTHJoTk1yUVVuZ0s3bDVMSVYwb0hfc3REbGRlOXdreVN2OXJOMmRyelFvRlBMYzRONzZ1UzBPZU83OHJPTnQ2VG40dmI4TE1JU1kwQzBRcUZ0SzZ3MWRsZERWZHRnXzZ3cU41MkhHMEg5REZTU2pn?oc=5
+- Source: tech-insider.org
+- Published: 2026-09-16T09:48:37+00:00
+- Themes: AI / tech risk
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTFAxZ3RIMEVCb1dhOU1TR3VFMHpuVXN4MlVHZmhoQ0FqQnctWGEzX1diYmdMNjNjVWxRMzZETDBiNjV5SmhrQ2x1SmJfTHJvdzA1REpJcjBsbDNnYU1PUW51Y2ttT2JVWHJJZ0ItTkR5cHp6Nm96?oc=5
 
-India Glycols Ltd Hits Intraday Low Amid Price Pressure on 17 Sep 2026 MarketsMojo
+Zuckerberg Backs Nvidia Huang, Splits AI CEOs [2026] tech-insider.org
