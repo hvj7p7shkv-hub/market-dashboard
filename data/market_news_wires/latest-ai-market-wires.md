@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-20 03:38
+Generated: 2026-09-20 04:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,17 +16,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 BSE SENSEX Today: Sensex Falls to 76,132.81 as Crude Oil Surge and Fed Fears Hit IT Stocks BBN Times
 
-### 2. Sensex Falls 417 Points as Oil Prices Raise Inflation Concerns; Rupee Strengthens - INDIA New England News
-
-- Source: INDIA New England News
-- Published: 2026-09-19T14:45:46+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVlkT0tLR3NfMDRtQ2tZTGlCanBocDFVMk95d0tNWHplUlNEbGIxTlRrTWd4YV81M2JUNlF6aG81SVNqQUlzbFdfeWhic3BoRlpoeG1hNXZmWEJiOXRFMUpybEt2X3hxTGFiS3Z1S2dmSUxjcl9IS1BJTGZlZ2tTVHVTT0pyQURnaEVseVFSSEdiUFZfeHE0bEVRUkNwTEFsQ2pzMElrTGtnMlZfeGc?oc=5
-
-Sensex Falls 417 Points as Oil Prices Raise Inflation Concerns; Rupee Strengthens INDIA New England News
-
-### 3. SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment - BBN Times
+### 2. SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment - BBN Times
 
 - Source: BBN Times
 - Published: 2026-09-20T03:08:08+00:00
@@ -36,7 +26,7 @@ Sensex Falls 417 Points as Oil Prices Raise Inflation Concerns; Rupee Strengthen
 
 SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment BBN Times
 
-### 4. Singapore Stocks Fall 0.7% As AI Fears Trigger Midweek Selloff - businesstoday.com.my
+### 3. Singapore Stocks Fall 0.7% As AI Fears Trigger Midweek Selloff - businesstoday.com.my
 
 - Source: businesstoday.com.my
 - Published: 2026-09-20T02:49:00+00:00
@@ -46,7 +36,7 @@ SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Sellof
 
 Singapore Stocks Fall 0.7% As AI Fears Trigger Midweek Selloff businesstoday.com.my
 
-### 5. Market weekly wrap: SENSEX, NIFTY50 fall for 6th straight week; oil prices, US Fed, Tata Sons, among key triggers - Upstox
+### 4. Market weekly wrap: SENSEX, NIFTY50 fall for 6th straight week; oil prices, US Fed, Tata Sons, among key triggers - Upstox
 
 - Source: Upstox
 - Published: 2026-09-19T04:24:53+00:00
@@ -56,7 +46,7 @@ Singapore Stocks Fall 0.7% As AI Fears Trigger Midweek Selloff businesstoday.com
 
 Market weekly wrap: SENSEX, NIFTY50 fall for 6th straight week; oil prices, US Fed, Tata Sons, among key triggers Upstox
 
-### 6. FET Drops 7.12% Amid AI-Sector Pump and Exploit - CoinMarketCap
+### 5. FET Drops 7.12% Amid AI-Sector Pump and Exploit - CoinMarketCap
 
 - Source: CoinMarketCap
 - Published: 2026-09-20T03:05:00+00:00
@@ -65,6 +55,16 @@ Market weekly wrap: SENSEX, NIFTY50 fall for 6th straight week; oil prices, US F
 - Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5rRmI4VmVzQmtGMEU4NFR0ZVdLcDRtbDBPQVlsdER1bFQ4Zk9xZnNaTFd4MFFQaVNHRkFvQVhxclp2ZjhYUXZXeG83VU5yem5GX3hPQks3Q1dQT2ZwTWF4ZksxSFdEQkFxNGdXN3BQU2I?oc=5
 
 FET Drops 7.12% Amid AI-Sector Pump and Exploit CoinMarketCap
+
+### 6. Cybersecurity Stocks Jump As Anthropic CEO’s AI Slowdown Call Sharpens Focus On Cyber Risks – CRWD, PANW, FTNT Buck Market Selloff - Stocktwits
+
+- Source: Stocktwits
+- Published: 2026-09-19T19:46:06+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxNQjgtR0xqdk5RTzAyZktUME5iaklNRmYwRlNaWmJpTVltcW1NeWF2clQzU002d3dRMlhST0pxcTM1ZXZacmkxc0ZIT3ctMWhsLWJwUzlIRllBbUItOGNqU2NPbDBEc3dqQVRBM21KQURoZlJuaEUwU2VzX1B3M2tPUWh3YWt0SnpxdGx1UGFFY2psQVNmam1OM2p0cXE3N1pnZWVyclQ1bHd1SWFBUnBFdkFjUzFNalRSamZSRmFZczI3WWs5T3paa3h5LVNGdm1yLTlGdWlfLThmbXltaE1vR19rRy01Q0lhMmNZb0hfNk1zaHVsNHpZb0FXWnhKamZXSVZuTkR3bHJsUVl5bVBTZHlXVlJBbkVBNkE?oc=5
+
+Cybersecurity Stocks Jump As Anthropic CEO’s AI Slowdown Call Sharpens Focus On Cyber Risks – CRWD, PANW, FTNT Buck Market Selloff Stocktwits
 
 ### 7. Goldman Sachs' Mueller-Glissman Reportedly Calls Tech Selloff ‘A Healthy Sign’: ‘Probably Not A Bad Idea To See A Bit Of Consolidation’ - Stocktwits
 
@@ -156,17 +156,7 @@ Defence Stocks: HSBC Sees Huge Upside Potential in These 7 Stocks Despite Nifty 
 
 Nifty 50 Falls 0.22% To Extend Six-Week Losing Streak; What’s Weighing On Markets Times Now
 
-### 16. DGFT Digital System raises Questions over Exporter Access and Error Correction - India Shipping News
-
-- Source: India Shipping News
-- Published: 2026-09-19T04:03:58+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNc2Rhc3NydDd3dW1zNEUwSVF0eUlBMDdYOTNoZFI1bDhURkhkVXk1aXk0dDNfa0ljOEtJbTlJT2xGellYZ0tVY1JvZ29zSVJySjZ3c0h0Y0JRTVkwb0tqRTZHa0xCaTZuYl9ZaThWTmdLRVdqNWVBVE4xUFh6X0ZmWVkxRllSVThlaWpxUm9CX2lWY2xfeXF0NFhkVjBsdHpxelVCek5ucHJnQXE5QUc3bTd3S2R0dw?oc=5
-
-DGFT Digital System raises Questions over Exporter Access and Error Correction India Shipping News
-
-### 17. IIFL Finance and GMDC among top 5 smallcap stocks that saw highest mutual fund selling in August - The Economic Times
+### 16. IIFL Finance and GMDC among top 5 smallcap stocks that saw highest mutual fund selling in August - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T06:14:43+00:00
@@ -176,17 +166,7 @@ DGFT Digital System raises Questions over Exporter Access and Error Correction I
 
 IIFL Finance and GMDC among top 5 smallcap stocks that saw highest mutual fund selling in August The Economic Times
 
-### 18. Indian Stock Market Outlook Next Week, September 21-25: Sensex, Nifty May Find Support; Crude, FII in Focus - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-09-19T11:35:23+00:00
-- Themes: India market, macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZjFYa3JlZjM1azhfaTJtemJ4ZzVjRTc4R3p4WHJ0M1NFY25Jc21OQnlPRDhWbGJTRnZRd2x5VFdXdHJWNHNNM0RlV3Q3Ym9xWlZXeVRZZFlQQ3RFb0gwVk50aGkxdldfWldxcmRodU5VQUVZdW1QMHc5VGdUWm1lUDJ3LVpPdzVUbTk3bGFLYk80SlBiUEhNazA3b1lzT2lzbmI0cUliZ0UzMkhTV1ktTnRIdTdZMWpiQW95UkI1MjVBNzJSWE92ZGN3cHF3cWZSYUZyYjNhRQ?oc=5
-
-Indian Stock Market Outlook Next Week, September 21-25: Sensex, Nifty May Find Support; Crude, FII in Focus Goodreturns
-
-### 19. CAMS - Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times
+### 17. CAMS - Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T09:59:21+00:00
@@ -196,7 +176,7 @@ Indian Stock Market Outlook Next Week, September 21-25: Sensex, Nifty May Find S
 
 CAMS - Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August The Economic Times
 
-### 20. Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times
+### 18. Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T09:32:35+00:00
@@ -206,7 +186,7 @@ CAMS - Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in Aug
 
 Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August The Economic Times
 
-### 21. Hyderabad drives 87 pc of Telangana’s mutual fund assets: AMFI - The Siasat Daily
+### 19. Hyderabad drives 87 pc of Telangana’s mutual fund assets: AMFI - The Siasat Daily
 
 - Source: The Siasat Daily
 - Published: 2026-09-19T09:32:32+00:00
@@ -216,7 +196,7 @@ Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August The
 
 Hyderabad drives 87 pc of Telangana’s mutual fund assets: AMFI The Siasat Daily
 
-### 22. Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times
+### 20. Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T09:31:28+00:00
@@ -226,7 +206,7 @@ Hyderabad drives 87 pc of Telangana’s mutual fund assets: AMFI The Siasat Dail
 
 Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August The Economic Times
 
-### 23. Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as auto, railways and tech slide - The Economic Times
+### 21. Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as auto, railways and tech slide - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T08:16:58+00:00
@@ -236,7 +216,7 @@ Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August The
 
 Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as auto, railways and tech slide The Economic Times
 
-### 24. Best Mutual Funds in India: Top 5 Mid Cap Mutual Funds With More than 20% Returns in 5 Yrs - Goodreturns
+### 22. Best Mutual Funds in India: Top 5 Mid Cap Mutual Funds With More than 20% Returns in 5 Yrs - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-09-19T07:57:31+00:00
@@ -246,7 +226,7 @@ Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as aut
 
 Best Mutual Funds in India: Top 5 Mid Cap Mutual Funds With More than 20% Returns in 5 Yrs Goodreturns
 
-### 25. JioBlackRock Mutual Fund files draft document with Sebi for income plus arbitrage omni FoF - The Economic Times
+### 23. JioBlackRock Mutual Fund files draft document with Sebi for income plus arbitrage omni FoF - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T07:20:38+00:00
@@ -256,7 +236,7 @@ Best Mutual Funds in India: Top 5 Mid Cap Mutual Funds With More than 20% Return
 
 JioBlackRock Mutual Fund files draft document with Sebi for income plus arbitrage omni FoF The Economic Times
 
-### 26. Flexi cap mutual fund: 10 schemes that delivered negative returns in 1 year - Do you hold? - ET Now
+### 24. Flexi cap mutual fund: 10 schemes that delivered negative returns in 1 year - Do you hold? - ET Now
 
 - Source: ET Now
 - Published: 2026-09-19T05:11:48+00:00
@@ -266,7 +246,7 @@ JioBlackRock Mutual Fund files draft document with Sebi for income plus arbitrag
 
 Flexi cap mutual fund: 10 schemes that delivered negative returns in 1 year - Do you hold? ET Now
 
-### 27. Small steps, Big crypto goals: Crypto SIP in India goes mainstream - SunCrypto
+### 25. Small steps, Big crypto goals: Crypto SIP in India goes mainstream - SunCrypto
 
 - Source: SunCrypto
 - Published: 2026-09-19T04:21:18+00:00
@@ -276,7 +256,7 @@ Flexi cap mutual fund: 10 schemes that delivered negative returns in 1 year - Do
 
 Small steps, Big crypto goals: Crypto SIP in India goes mainstream SunCrypto
 
-### 28. Sensex, Nifty Close Lower as IT, Banking Stocks Limit Losses - INDIA New England News
+### 26. Sensex, Nifty Close Lower as IT, Banking Stocks Limit Losses - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-09-19T23:09:19+00:00
@@ -286,7 +266,7 @@ Small steps, Big crypto goals: Crypto SIP in India goes mainstream SunCrypto
 
 Sensex, Nifty Close Lower as IT, Banking Stocks Limit Losses INDIA New England News
 
-### 29. 10 promising new mutual funds and the test they had to pass - Value Research
+### 27. 10 promising new mutual funds and the test they had to pass - Value Research
 
 - Source: Value Research
 - Published: 2026-09-19T18:30:40+00:00
@@ -296,7 +276,7 @@ Sensex, Nifty Close Lower as IT, Banking Stocks Limit Losses INDIA New England N
 
 10 promising new mutual funds and the test they had to pass Value Research
 
-### 30. Don’t sip that tea very hot - financialexpress.com
+### 28. Don’t sip that tea very hot - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-19T15:59:05+00:00
@@ -306,7 +286,7 @@ Sensex, Nifty Close Lower as IT, Banking Stocks Limit Losses INDIA New England N
 
 Don’t sip that tea very hot financialexpress.com
 
-### 31. India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and Bitcoin React? - CryptoRank
+### 29. India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and Bitcoin React? - CryptoRank
 
 - Source: CryptoRank
 - Published: 2026-09-19T15:25:49+00:00
@@ -316,7 +296,7 @@ Don’t sip that tea very hot financialexpress.com
 
 India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and Bitcoin React? CryptoRank
 
-### 32. India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and Bitcoin React? - Bitget
+### 30. India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and Bitcoin React? - Bitget
 
 - Source: Bitget
 - Published: 2026-09-19T11:25:41+00:00
@@ -326,17 +306,7 @@ India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and
 
 India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and Bitcoin React? Bitget
 
-### 33. Zerodha Nifty Smallcap 100 Etf | Stock Share Price Live - MarketSmith India
-
-- Source: MarketSmith India
-- Published: 2026-09-19T06:43:48+00:00
-- Themes: India market
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE1iRGtYd3V0V2hWdG9qdTE4Qnd3WmszRm9XSGhMdTNvOS1VZ3BHdVZHU1BDTWVBWlFHcEtkVXBtdmE0RDJIWnc1d09IVkI3dHZReFZYTlRtWFdWdGVjcFJoRDVMZVNPZGdyczZoakNJUVc0NXJH?oc=5
-
-Zerodha Nifty Smallcap 100 Etf | Stock Share Price Live MarketSmith India
-
-### 34. BSE SENSEX Today: Indian Benchmark Tumbles 1.04% to 74,003.82 as Oil Surge Rattles Investors - BBN Times
+### 31. BSE SENSEX Today: Indian Benchmark Tumbles 1.04% to 74,003.82 as Oil Surge Rattles Investors - BBN Times
 
 - Source: BBN Times
 - Published: 2026-09-20T01:58:59+00:00
@@ -346,17 +316,7 @@ Zerodha Nifty Smallcap 100 Etf | Stock Share Price Live MarketSmith India
 
 BSE SENSEX Today: Indian Benchmark Tumbles 1.04% to 74,003.82 as Oil Surge Rattles Investors BBN Times
 
-### 35. Nippon India Nifty 500 Quality 50 Index Fund(G)-Direct Plan - Univest
-
-- Source: Univest
-- Published: 2026-09-20T00:27:54+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQcUVmMDhTSjNwX3RBemZpVThOTmRkOGxaaFkyQjBWY3JZU2ZfMjBjZTc3UGhpbW1MdUdLYnRnaEVkNmZ3QlFGczgtdFVycE1qX1ExZklEbl8ycVAyRE1oX3BUYmV0LTdXdjRBWHdRbm16SUw5X3pyeXlDYzZsc3I5TXlQc21hWDdEMkEyNW9RM0FBcDd1?oc=5
-
-Nippon India Nifty 500 Quality 50 Index Fund(G)-Direct Plan Univest
-
-### 36. Broadcom (AVGO) Stock May Trade At A Discount On Fresh AI Chip News - simplywall.st
+### 32. Broadcom (AVGO) Stock May Trade At A Discount On Fresh AI Chip News - simplywall.st
 
 - Source: simplywall.st
 - Published: 2026-09-19T23:31:26+00:00
@@ -366,27 +326,27 @@ Nippon India Nifty 500 Quality 50 Index Fund(G)-Direct Plan Univest
 
 Broadcom (AVGO) Stock May Trade At A Discount On Fresh AI Chip News simplywall.st
 
-### 37. Citi expects hawkish Fed to slow non-AI economy - Investing.com
+### 33. Citi expects hawkish Fed to slow non-AI economy By Investing.com - Investing.com South Africa
 
-- Source: Investing.com
-- Published: 2026-09-19T19:49:52+00:00
+- Source: Investing.com South Africa
+- Published: 2026-09-19T19:52:53+00:00
 - Themes: AI / tech risk, macro / flows
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQQTVOV1RIMVlrbXB0cG1CQW5fTngxd21sWGxQRTZSUjlmdHNlc3hpWUxrR3BHQ281Qk8xUGhLVndYeGZMTWNMR0Qyb3I4NjVIWmdlVFl2ak5oczVZODBVR0h6TUJYX0QtY09VYnJfQ0s0V0R0bFNzX0MzOG9lbEdUQkJ2U25KTTdkMGMtMUpoQ1pzeUxqSDkzdVJhTXVrdEU?oc=5
+- Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPVms3eTNNWnl2NHBSMnlFaGRpWHphZThSZkFVQUxLQ1JVSFIyRWwyd2FuZHJEVDF2X1gzSWUtVkp5RzVWX19LbzYzVUVnMm94bm9GdUduSE5qMXRySXpOa0JkTF9BVnppckllNzdsR25zRUV2QjhhQUI2RGZDbGdWdGlmemVLMTNYNXBvZjdWem43M2R5ZEoxZXBiaGRfZw?oc=5
 
-Citi expects hawkish Fed to slow non-AI economy Investing.com
+Citi expects hawkish Fed to slow non-AI economy By Investing.com Investing.com South Africa
 
-### 38. Chip Stocks Tumble After AI Leaders Call for Slowdown in Development - wsj.com
+### 34. Chip Stocks Tumble After AI Leaders Call for Slowdown in Development - WSJ
 
-- Source: wsj.com
+- Source: WSJ
 - Published: 2026-09-19T16:21:56+00:00
 - Themes: AI / tech risk
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPQVFfTFh3cE5sYkNrbDF2TFB0LWRVRmJDWU5LWW5oaE8wTEFEYXB6eTY4aUlCOG5CREtJYkNYaDhpeU92d0lMUU94cjJlSEg2RkFVWlNlM08yS3dTTVZxVlp4UldfVzJFNFg5c1lNZFFPbVR1aXNrTTZjYVptanRVYm9RSlVMQkJZTl9COG1XdWpQUlBfaWpGaFZkdC05TWV6djFRYk04cjR5YzIt?oc=5
 
-Chip Stocks Tumble After AI Leaders Call for Slowdown in Development wsj.com
+Chip Stocks Tumble After AI Leaders Call for Slowdown in Development WSJ
 
-### 39. Nifty, Sensex trail fixed deposits in 3-year bull market test - BusinessLine
+### 35. Nifty, Sensex trail fixed deposits in 3-year bull market test - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-09-19T15:57:24+00:00
@@ -396,7 +356,7 @@ Chip Stocks Tumble After AI Leaders Call for Slowdown in Development wsj.com
 
 Nifty, Sensex trail fixed deposits in 3-year bull market test BusinessLine
 
-### 40. onsemi’s SiC Rebound Shows Why AI Data Centers Are Its Next Growth Engine - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter
+### 36. onsemi’s SiC Rebound Shows Why AI Data Centers Are Its Next Growth Engine - Dr. Robert Castellano's Semiconductor Deep Dive Newsletter
 
 - Source: Dr. Robert Castellano's Semiconductor Deep Dive Newsletter
 - Published: 2026-09-19T14:46:05+00:00
@@ -406,7 +366,7 @@ Nifty, Sensex trail fixed deposits in 3-year bull market test BusinessLine
 
 onsemi’s SiC Rebound Shows Why AI Data Centers Are Its Next Growth Engine Dr. Robert Castellano's Semiconductor Deep Dive Newsletter
 
-### 41. Emperador stock falls amid broader Manila market selloff - AD HOC NEWS
+### 37. Emperador stock falls amid broader Manila market selloff - AD HOC NEWS
 
 - Source: AD HOC NEWS
 - Published: 2026-09-19T14:31:46+00:00
@@ -416,7 +376,7 @@ onsemi’s SiC Rebound Shows Why AI Data Centers Are Its Next Growth Engine Dr. 
 
 Emperador stock falls amid broader Manila market selloff AD HOC NEWS
 
-### 42. UTI Nifty Midcap 150 Quality 50 Index Fund(G)-Direct Plan - Univest
+### 38. UTI Nifty Midcap 150 Quality 50 Index Fund(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-19T13:33:51+00:00
@@ -426,17 +386,17 @@ Emperador stock falls amid broader Manila market selloff AD HOC NEWS
 
 UTI Nifty Midcap 150 Quality 50 Index Fund(G)-Direct Plan Univest
 
-### 43. Mirae asset nifty smallcap 250 momentum quality 100 etf detail page, NAV, Rating, Fund Return, Performance - businesstoday.in
+### 39. Mirae asset nifty smallcap 250 momentum quality 100 etf detail page, NAV, Rating, Fund Return, Performance - Business Today
 
-- Source: businesstoday.in
+- Source: Business Today
 - Published: 2026-09-19T12:52:41+00:00
 - Themes: India market
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGROMGdFb1VLdGlYVjVMdjB3TU8zOE55TnJwNEtYV1RGSEdnRTBoQkNFRl83QVRaMUZyOTJ5QndmZE93eVdkczl4UnFyTnVKWXFhYmRqckowZks2eDc1Y2dlZFpqV3ZzRmtxdjhFRVJZUmxacXAwU0FIU1ZJYWZIXy1iOE9wcjR2YXlCbFNPLWZ4RzNRaWY5QWQxS2diMzVOSF85aS1xcVFyZkR4SmFycUlIYm1Mdw?oc=5
 
-Mirae asset nifty smallcap 250 momentum quality 100 etf detail page, NAV, Rating, Fund Return, Performance businesstoday.in
+Mirae asset nifty smallcap 250 momentum quality 100 etf detail page, NAV, Rating, Fund Return, Performance Business Today
 
-### 44. Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next? - TradingKey
+### 40. Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next? - TradingKey
 
 - Source: TradingKey
 - Published: 2026-09-19T12:30:36+00:00
@@ -446,7 +406,7 @@ Mirae asset nifty smallcap 250 momentum quality 100 etf detail page, NAV, Rating
 
 Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next? TradingKey
 
-### 45. Telefonica stock falls after Morgan Stanley cuts price target amid sector selloff - AD HOC NEWS
+### 41. Telefonica stock falls after Morgan Stanley cuts price target amid sector selloff - AD HOC NEWS
 
 - Source: AD HOC NEWS
 - Published: 2026-09-19T11:33:51+00:00
@@ -456,7 +416,7 @@ Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next
 
 Telefonica stock falls after Morgan Stanley cuts price target amid sector selloff AD HOC NEWS
 
-### 46. Inbursa stock drops in Mexican selloff as IPC index extends losses - AD HOC NEWS
+### 42. Inbursa stock drops in Mexican selloff as IPC index extends losses - AD HOC NEWS
 
 - Source: AD HOC NEWS
 - Published: 2026-09-19T11:15:37+00:00
@@ -466,7 +426,7 @@ Telefonica stock falls after Morgan Stanley cuts price target amid sector sellof
 
 Inbursa stock drops in Mexican selloff as IPC index extends losses AD HOC NEWS
 
-### 47. Sensex Today | Stock Market Highlights: Sensex slips into red after CAS, Nifty gains 75 pts; smallca - IndiaIPO
+### 43. Sensex Today | Stock Market Highlights: Sensex slips into red after CAS, Nifty gains 75 pts; smallca - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-09-19T10:10:37+00:00
@@ -476,7 +436,7 @@ Inbursa stock drops in Mexican selloff as IPC index extends losses AD HOC NEWS
 
 Sensex Today | Stock Market Highlights: Sensex slips into red after CAS, Nifty gains 75 pts; smallca IndiaIPO
 
-### 48. Mirae Asset Nifty India Manufacturing ETF FoF(G)-Direct Plan - Univest
+### 44. Mirae Asset Nifty India Manufacturing ETF FoF(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-19T10:01:07+00:00
@@ -486,7 +446,7 @@ Sensex Today | Stock Market Highlights: Sensex slips into red after CAS, Nifty g
 
 Mirae Asset Nifty India Manufacturing ETF FoF(G)-Direct Plan Univest
 
-### 49. Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still Seen - cedarnews.net
+### 45. Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still Seen - cedarnews.net
 
 - Source: cedarnews.net
 - Published: 2026-09-19T09:48:36+00:00
@@ -496,7 +456,7 @@ Mirae Asset Nifty India Manufacturing ETF FoF(G)-Direct Plan Univest
 
 Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still Seen cedarnews.net
 
-### 50. Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still Seen - Dalal Street Investment Journal
+### 46. Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still Seen - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-09-19T09:41:03+00:00
@@ -506,7 +466,7 @@ Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still 
 
 Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still Seen Dalal Street Investment Journal
 
-### 51. S&P 500 Close Today: 7,619.98, Down 0.48% as AI Safety Warnings and Oil Surge Rattle Wall Street - BBN Times
+### 47. S&P 500 Close Today: 7,619.98, Down 0.48% as AI Safety Warnings and Oil Surge Rattle Wall Street - BBN Times
 
 - Source: BBN Times
 - Published: 2026-09-19T09:40:26+00:00
@@ -516,7 +476,7 @@ Domestic Investors Come to the Rescue After Fed Rate Hike, but Correction Still 
 
 S&P 500 Close Today: 7,619.98, Down 0.48% as AI Safety Warnings and Oil Surge Rattle Wall Street BBN Times
 
-### 52. Nippon India BSE Sensex Next 30 Index Fund(G)-Direct Plan - Univest
+### 48. Nippon India BSE Sensex Next 30 Index Fund(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-19T09:38:58+00:00
@@ -526,7 +486,7 @@ S&P 500 Close Today: 7,619.98, Down 0.48% as AI Safety Warnings and Oil Surge Ra
 
 Nippon India BSE Sensex Next 30 Index Fund(G)-Direct Plan Univest
 
-### 53. Mercedes-Benz Group stock falls as autos selloff meets Berenberg target cut - AD HOC NEWS
+### 49. Mercedes-Benz Group stock falls as autos selloff meets Berenberg target cut - AD HOC NEWS
 
 - Source: AD HOC NEWS
 - Published: 2026-09-19T09:38:40+00:00
@@ -536,7 +496,7 @@ Nippon India BSE Sensex Next 30 Index Fund(G)-Direct Plan Univest
 
 Mercedes-Benz Group stock falls as autos selloff meets Berenberg target cut AD HOC NEWS
 
-### 54. Invesco India Smallcap Fund(G)-Direct Plan - Univest
+### 50. Invesco India Smallcap Fund(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-19T09:08:23+00:00
@@ -546,7 +506,7 @@ Mercedes-Benz Group stock falls as autos selloff meets Berenberg target cut AD H
 
 Invesco India Smallcap Fund(G)-Direct Plan Univest
 
-### 55. Mirae Asset Nifty India New Age Consumption ETF FoF(G)-Direct Plan - Univest
+### 51. Mirae Asset Nifty India New Age Consumption ETF FoF(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-19T08:42:41+00:00
@@ -556,17 +516,7 @@ Invesco India Smallcap Fund(G)-Direct Plan Univest
 
 Mirae Asset Nifty India New Age Consumption ETF FoF(G)-Direct Plan Univest
 
-### 56. Sensex, Nifty close on mixed note amid selling in IT, Tata group shares - Metro Vaartha
-
-- Source: Metro Vaartha
-- Published: 2026-09-19T08:20:13+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPWEtmTkdxLXRQM2w5Sk9OX1M4TnZBcy1vNGFxUGRSTXBTNUdhVVZidUxSa2tZdEpxY1FZZjAyWExKeURuRWhzWVpsNVdCWi14VUpvWGlqQkNoWE1NcFU3RTlCbDRXZHNwdWpid2xTUDB1SUpEeG5UTjZtYXFiSFhicVhuU0FHOGNMM3pOM2NfMmRELW9xYXFoZWhscFVPTVRZM2FPeUcwTWR0Z0NTcTMtSXlucW1Xd1ZUMEtHM2Y2czRsZTMyalHSAcYBQVVfeXFMT1hLZk5HcS10UDNsOUpPTl9TOE52QXMtbzRhcVBkUk1wUzVHYVVWYnVMUmtrWXRKcWNRWWYwMlhMSnlEbkVoc1labDVXQloteFVKb1hpakJDaFhNTXBVN0U5Qmw0V2RzcHVqYndsU1AwdUlKRHhuVE42bWFxYkhYYnFYblNBRzhjTDN6TjNjXzJkRC1vcWFxaGVobHBVT01UWTNhT3lHME1kdGdDU3EzLUl5bnFtV3dWVDBLRzNmNnM0bGUzMmpR?oc=5
-
-Sensex, Nifty close on mixed note amid selling in IT, Tata group shares Metro Vaartha
-
-### 57. Nippon India Nifty Realty Index Fund(G)-Direct Plan - Univest
+### 52. Nippon India Nifty Realty Index Fund(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-19T07:53:58+00:00
@@ -576,7 +526,7 @@ Sensex, Nifty close on mixed note amid selling in IT, Tata group shares Metro Va
 
 Nippon India Nifty Realty Index Fund(G)-Direct Plan Univest
 
-### 58. Nifty Gains 0.31% on Friday as Crude Eases, But Sixth Weekly Loss Continues - HDFC Sky
+### 53. Nifty Gains 0.31% on Friday as Crude Eases, But Sixth Weekly Loss Continues - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-19T07:39:41+00:00
@@ -586,7 +536,7 @@ Nippon India Nifty Realty Index Fund(G)-Direct Plan Univest
 
 Nifty Gains 0.31% on Friday as Crude Eases, But Sixth Weekly Loss Continues HDFC Sky
 
-### 59. Smallcap Stocks Up 31% vs Nifty 5%: Why Largecaps Are Back in Focus - NiftyTrader
+### 54. Smallcap Stocks Up 31% vs Nifty 5%: Why Largecaps Are Back in Focus - NiftyTrader
 
 - Source: NiftyTrader
 - Published: 2026-09-19T04:56:34+00:00
@@ -596,7 +546,7 @@ Nifty Gains 0.31% on Friday as Crude Eases, But Sixth Weekly Loss Continues HDFC
 
 Smallcap Stocks Up 31% vs Nifty 5%: Why Largecaps Are Back in Focus NiftyTrader
 
-### 60. Europe's STOXX600 falls as autos, telecoms lead broad sell-off - The Economic Times
+### 55. Europe's STOXX600 falls as autos, telecoms lead broad sell-off - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T04:20:51+00:00
@@ -606,7 +556,17 @@ Smallcap Stocks Up 31% vs Nifty 5%: Why Largecaps Are Back in Focus NiftyTrader
 
 Europe's STOXX600 falls as autos, telecoms lead broad sell-off The Economic Times
 
-### 61. 3 AI Stocks With P E Under 28 To Watch - simplywall.st
+### 56. Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-09-20T03:53:00+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMimAJBVV95cUxPaGVkYXdxQjFoMi1ucDFRZDhNMEtEdG5iZzhVQ0hGRVJFXzZfTFRNT0xlNG1DbFNsX1M4enh2VXlIV3g5WGR0TWo5VVpmUk5aN2tPOXBQRWtFVFp3ZGxKY1BsRTd6SDdJLW56bjFQS1lUMWFidDlDd0l1UzhENER5cnZHRVNkT0J1OHFwRDNndDlNMkw2OHJiMXFMV01oWXJTVi1mQkJZWUduUkpiLWVfbkZMbExfZmdwRmtrWUZEVEd3VTA4UTJSR1JaTzJqcC0wa3FDY2I2YzVDdWRWUG1abVFyelJtUzlpWkhTVERkSmtmVERTWVh1SnZxTlRPd1Z1bUVjLWJubGRoeHBOdVFKZDh4RGd1OWpf0gGYAkFVX3lxTE9oZWRhd3FCMWgyLW5wMVFkOE0wS0R0bmJnOFVDSEZFUkVfNl9MVE1PTGU0bUNsU2xfUzh6eHZVeUhXeDlYZHRNajlVWmZSTlo3a085cFBFa0VUWndkbEpjUGxFN3pIN0ktbnpuMVBLWVQxYWJ0OUN3SXVTOEQ0RHlydkdFU2RPQnU4cXBEM2d0OU0yTDY4cmIxcUxXTWhZclNWLWZCQllZR25SSmItZV9uRkxsTF9mZ3BGa2tZRkRUR3dVMDhRMlJHUlpPMmpwLTBrcUNjYjZjNUN1ZFZQbVptUXJ6Um1TOWlaSFNURGRKa2ZURFNZWHVKdnFOVE93VnVtRWMtYm5sZGh4cE51UUpkOHhEZ3U5al8?oc=5
+
+Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street The Economic Times
+
+### 57. 3 AI Stocks With P E Under 28 To Watch - simplywall.st
 
 - Source: simplywall.st
 - Published: 2026-09-20T02:54:17+00:00
@@ -616,7 +576,17 @@ Europe's STOXX600 falls as autos, telecoms lead broad sell-off The Economic Time
 
 3 AI Stocks With P E Under 28 To Watch simplywall.st
 
-### 62. FTSE 100 Today: London Blue Chips Slip 0.37% to 10,658.13 Ahead of Fed Rate Decision - BBN Times
+### 58. Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge - BBN Times
+
+- Source: BBN Times
+- Published: 2026-09-20T02:15:57+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFhXeDNaMFBJV2VIOVRoZEx6SG1XMU5waVZYQ3UySmN1WVJtUlJOVXNVNUF5ZS1QSkVrSXlTWUtTdVdZanpJakZleWFFU2hhNnJuMURVaVhkNGNuVHh0U0RpNUI2bG12OHliT09rVEFkb293Z1hvTWk1emNwR0dIYTlXSmoyRy00ZEhsLTVKMHBOZXRWMWh1dm96T29nejVfYnVmOUdDU05Bb3FkTDQ2b2RtZlNuZUROUzhlZHJnQndyZmxMX0Q3QmdGOFl0NUM1UFE?oc=5
+
+Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge BBN Times
+
+### 59. FTSE 100 Today: London Blue Chips Slip 0.37% to 10,658.13 Ahead of Fed Rate Decision - BBN Times
 
 - Source: BBN Times
 - Published: 2026-09-20T01:49:50+00:00
@@ -626,27 +596,27 @@ Europe's STOXX600 falls as autos, telecoms lead broad sell-off The Economic Time
 
 FTSE 100 Today: London Blue Chips Slip 0.37% to 10,658.13 Ahead of Fed Rate Decision BBN Times
 
-### 63. Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge - BBN Times
+### 60. Nippon India Innovation Fund(G)-Direct Plan - Univest
 
-- Source: BBN Times
-- Published: 2026-09-20T01:16:51+00:00
-- Themes: macro / flows
+- Source: Univest
+- Published: 2026-09-20T01:45:53+00:00
+- Themes: India market
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFhXeDNaMFBJV2VIOVRoZEx6SG1XMU5waVZYQ3UySmN1WVJtUlJOVXNVNUF5ZS1QSkVrSXlTWUtTdVdZanpJakZleWFFU2hhNnJuMURVaVhkNGNuVHh0U0RpNUI2bG12OHliT09rVEFkb293Z1hvTWk1emNwR0dIYTlXSmoyRy00ZEhsLTVKMHBOZXRWMWh1dm96T29nejVfYnVmOUdDU05Bb3FkTDQ2b2RtZlNuZUROUzhlZHJnQndyZmxMX0Q3QmdGOFl0NUM1UFE?oc=5
+- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTFBSekx6bjFSemZ2Tk9LUmgtZ25iR3BYZ0JRX3RRSGVwOUQ2YjJfNW9HNUxTQW9hSEE0azhvSEwwcUR1bmxsa1UtZ2xuY1VLajQ0d0NDZVhCd1JoRTh3VmJ4QU9mUThGc2haSEs5VkRCZ05kWTNFWnA2YmswS2FlM1U?oc=5
 
-Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge BBN Times
+Nippon India Innovation Fund(G)-Direct Plan Univest
 
-### 64. Quant, Helios, Motilal Oswal: Midcap funds aren’t built the same; here’s how portfolios differ - businesstoday.in
+### 61. Quant, Helios, Motilal Oswal: Midcap funds aren’t built the same; here’s how portfolios differ - Business Today
 
-- Source: businesstoday.in
+- Source: Business Today
 - Published: 2026-09-20T01:05:02+00:00
 - Themes: India market
 - Score: 1
 - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxQVjVDa2VOQ3d1S3FIMFo2NDNwRjdQVUJPNWsyMFRUMTZkeWxnTll3OHVDZzg0SjlEZ3ZjQ1BiMzBVeXVyc0hkNXB0TWk0STZ0OVJHZGxmVDBwN0d0REYzU1hmeU5tMkZKcndENmdiVzdpZWIyQXJIaUZFV3FVX2pSdUw0ZXo0RWVKZWt4X3dfNzRlX1FJTlhzWnNoSnZpdkx4eHhDci1FV3ZoU0ZwWDFSWlQ5blRFenUzbm9ibUdvX3hrMzlIX0J0LWtMRkNObERLd1duS2F1ZFkwT1o1VmFBYWFkYWhBWGppdVE?oc=5
 
-Quant, Helios, Motilal Oswal: Midcap funds aren’t built the same; here’s how portfolios differ businesstoday.in
+Quant, Helios, Motilal Oswal: Midcap funds aren’t built the same; here’s how portfolios differ Business Today
 
-### 65. Nasdaq Today: Closes Nearly Flat at 25,978.42 as Tech Shrugs Off Fed Hike - BBN Times
+### 62. Nasdaq Today: Closes Nearly Flat at 25,978.42 as Tech Shrugs Off Fed Hike - BBN Times
 
 - Source: BBN Times
 - Published: 2026-09-19T21:57:28+00:00
@@ -656,7 +626,17 @@ Quant, Helios, Motilal Oswal: Midcap funds aren’t built the same; here’s how
 
 Nasdaq Today: Closes Nearly Flat at 25,978.42 as Tech Shrugs Off Fed Hike BBN Times
 
-### 66. Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & asset allocation - The Economic Times
+### 63. Trump Says US Already Has The Power To Rein In AI Firms – ‘There Is A Sick Conspiracy Going On Against AI And Data Centers’ - Stocktwits
+
+- Source: Stocktwits
+- Published: 2026-09-19T19:59:30+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxPZmJ5REUwM1RoM0xjSVZ4Qm9tSHRwdGk2N2RYUkdmWkVCTzI4V2djb3JWaVYxQkZyeXhmY1VsMVd6ak5WRHJwYVNkdUVpbmd5aU8zQkIxNDMtWC1RMzV2UkZRckZqNjRhVlhlanBFckV2T1o1UExXZG1SUG9Tbm00QWlGMFIwUkktLUxOQThmT0VKb0NuQUo4MWZybm5WbFdrTEZQWGNyUEJuQ0F4V1RybUVwM2tJempSQzNacVBSZFRPZVFEcVdnS3VNckd4NmhWZlpNcjhjMHowV09uX2dmMzd6NFpiUW5WaEs0ZXZZWVh1MmJsdWh2QzZzNlNFbC1DVG5aZzdGNzZLbWQyM3c3SQ?oc=5
+
+Trump Says US Already Has The Power To Rein In AI Firms – ‘There Is A Sick Conspiracy Going On Against AI And Data Centers’ Stocktwits
+
+### 64. Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & asset allocation - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T19:31:12+00:00
@@ -666,7 +646,7 @@ Nasdaq Today: Closes Nearly Flat at 25,978.42 as Tech Shrugs Off Fed Hike BBN Ti
 
 Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & asset allocation The Economic Times
 
-### 67. Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation - The Economic Times
+### 65. Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-19T18:58:54+00:00
@@ -676,7 +656,7 @@ Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & 
 
 Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation The Economic Times
 
-### 68. Crypto Update: Bitcoin Breaks $81K as Stocks Fall and Pepeto Staking Hits 162% APY - TechBullion
+### 66. Crypto Update: Bitcoin Breaks $81K as Stocks Fall and Pepeto Staking Hits 162% APY - TechBullion
 
 - Source: TechBullion
 - Published: 2026-09-19T18:40:28+00:00
@@ -686,7 +666,7 @@ Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV,
 
 Crypto Update: Bitcoin Breaks $81K as Stocks Fall and Pepeto Staking Hits 162% APY TechBullion
 
-### 69. SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week - Stocktwits
+### 67. SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-19T18:39:24+00:00
@@ -696,17 +676,7 @@ Crypto Update: Bitcoin Breaks $81K as Stocks Fall and Pepeto Staking Hits 162% A
 
 SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week Stocktwits
 
-### 70. NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-09-19T18:26:35+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGJEaW5SMTYzdjdpbkF3cm5ZcDNIUDd4M2tqXzZtQjFzN1NRSDBweG5KZ1RTaTUySHVPSUFSTHFlb3pqZWJPWFZFVjRpRGt3cGctaDJORmNTWlEyMllYQWQ2aTRTb280STNCRC0xVkN5cEdwVUdxdm9saXk5dlB1amNQWlYyUjV2em53UXZ6R0pnN0JTdVAxMkRyX21naGtHb1d3Zkkzakl0RHM5TUJLMXg2bW1ZWUdKV2hfNTJob2o3Nl9raGdldVZ2V0RJdmVpZF9SNGp5R01MQWZoa3FZ?oc=5
-
-NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside Stocktwits
-
-### 71. How KiwiSaver would cope with the prospect of an AI bubble bursting - thepost.co.nz
+### 68. How KiwiSaver would cope with the prospect of an AI bubble bursting - thepost.co.nz
 
 - Source: thepost.co.nz
 - Published: 2026-09-19T16:00:00+00:00
@@ -716,7 +686,7 @@ NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Up
 
 How KiwiSaver would cope with the prospect of an AI bubble bursting thepost.co.nz
 
-### 72. Investors Borrowed $1.45 Trillion to Buy Stocks. Is the Market One Correction Away From a Margin-Call Avalanche? - 24/7 Wall St.
+### 69. Investors Borrowed $1.45 Trillion to Buy Stocks. Is the Market One Correction Away From a Margin-Call Avalanche? - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-09-19T15:54:00+00:00
@@ -726,7 +696,17 @@ How KiwiSaver would cope with the prospect of an AI bubble bursting thepost.co.n
 
 Investors Borrowed $1.45 Trillion to Buy Stocks. Is the Market One Correction Away From a Margin-Call Avalanche? 24/7 Wall St.
 
-### 73. What Happens to Your Money If AI Stocks Crash? Analysts Just Mapped the Fallout - Memeburn
+### 70. Intel (INTC) Q2 Earnings Thursday; Up 163% YTD, Options Price 15% Swing - TradingKey
+
+- Source: TradingKey
+- Published: 2026-09-19T15:00:23+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPWHBrX2ZDYjRVWU5aZkFGZTZmdVR2NkRacGYxYlJINmc0ejNHdFlIUmc3c3QweTNvc2RkZ011TDdLcUhJU3lqSTNjdnVkbWM0N25id2JYMjZMY2lFcjFOWS1UeGpkUWpuS1RyN0VyaTRfdS1JdlQtTXZwSzhxa3ZkMGFNMWlIdzJWSWNRSnJ4dk9HZWJ3WE12UGx6UUYtR1hBaDd0OW1FRFQ1MGtwdDMtbTBHUXBnTVZYOFN5QkRSNnZULWhFd0pWOUNQOVNEZw?oc=5
+
+Intel (INTC) Q2 Earnings Thursday; Up 163% YTD, Options Price 15% Swing TradingKey
+
+### 71. What Happens to Your Money If AI Stocks Crash? Analysts Just Mapped the Fallout - Memeburn
 
 - Source: Memeburn
 - Published: 2026-09-19T14:51:48+00:00
@@ -736,7 +716,7 @@ Investors Borrowed $1.45 Trillion to Buy Stocks. Is the Market One Correction Aw
 
 What Happens to Your Money If AI Stocks Crash? Analysts Just Mapped the Fallout Memeburn
 
-### 74. Fabrinet poised for growth with AI-driven deman... - Pluang
+### 72. Fabrinet poised for growth with AI-driven deman... - Pluang
 
 - Source: Pluang
 - Published: 2026-09-19T14:22:57+00:00
@@ -746,7 +726,7 @@ What Happens to Your Money If AI Stocks Crash? Analysts Just Mapped the Fallout 
 
 Fabrinet poised for growth with AI-driven deman... Pluang
 
-### 75. BLOX: A Crypto Rebound Meets A Hawkish Fed (NYSEARCA:BLOX) - Seeking Alpha
+### 73. BLOX: A Crypto Rebound Meets A Hawkish Fed (NYSEARCA:BLOX) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-09-19T14:21:03+00:00
@@ -756,7 +736,7 @@ Fabrinet poised for growth with AI-driven deman... Pluang
 
 BLOX: A Crypto Rebound Meets A Hawkish Fed (NYSEARCA:BLOX) Seeking Alpha
 
-### 76. Jubin Nautiyal Says ‘Samjho Na’ Captures the Innocence of Love - INDIA New England News
+### 74. Jubin Nautiyal Says ‘Samjho Na’ Captures the Innocence of Love - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-09-19T14:17:38+00:00
@@ -766,7 +746,7 @@ BLOX: A Crypto Rebound Meets A Hawkish Fed (NYSEARCA:BLOX) Seeking Alpha
 
 Jubin Nautiyal Says ‘Samjho Na’ Captures the Innocence of Love INDIA New England News
 
-### 77. India Financial Stability: Stronger Since the 2008 Crisis - urbanacres.in
+### 75. India Financial Stability: Stronger Since the 2008 Crisis - urbanacres.in
 
 - Source: urbanacres.in
 - Published: 2026-09-19T13:21:24+00:00
@@ -776,7 +756,7 @@ Jubin Nautiyal Says ‘Samjho Na’ Captures the Innocence of Love INDIA New Eng
 
 India Financial Stability: Stronger Since the 2008 Crisis urbanacres.in
 
-### 78. Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? - TradingKey
+### 76. Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? - TradingKey
 
 - Source: TradingKey
 - Published: 2026-09-19T13:10:05+00:00
@@ -786,7 +766,7 @@ India Financial Stability: Stronger Since the 2008 Crisis urbanacres.in
 
 Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? TradingKey
 
-### 79. Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Intel (NASDAQ:I - Benzinga
+### 77. Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Intel (NASDAQ:I - Benzinga
 
 - Source: Benzinga
 - Published: 2026-09-19T12:30:24+00:00
@@ -796,7 +776,7 @@ Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buyin
 
 Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About This Week - Intel (NASDAQ:I Benzinga
 
-### 80. 18 years after the 2008 financial meltdown: How a crisis born in US reshaped India - The Times of India
+### 78. 18 years after the 2008 financial meltdown: How a crisis born in US reshaped India - The Times of India
 
 - Source: The Times of India
 - Published: 2026-09-19T11:55:00+00:00
@@ -805,3 +785,23 @@ Intel, Apple, Nvidia and More: 5 Stocks Investors Couldn't Stop Buzzing About Th
 - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNalZCaVM0MWRKU2dlMThXSEVUV3gybXpyUExSQ2l4V0ZJY19hYkJCWVVnSmFzY081MERDbHdKV2hXYVlQbFRoYndqZVY1eTdzdHNUTEVabzNxbE5HQ2dJbDd6ZkZfb0hrSEJKNkZhOVYzSXd2SEY4dEpFeE9SdF9iTUFqV1d3VmpPZWlSNmp5cS0zMFFydHdzX3Ezb3RvTEFPekRrTHFMWlJZRVY3bHlaaXBsU2sweEk5bVp6SlhtMERpSWhtSmVUd2RadTNWV05YQVpsOHpSODQ5Nzd1UVU5Tlp0dmxmSngxeVZOSTZGYnZXSTZIT0RhbHdNSQ?oc=5
 
 18 years after the 2008 financial meltdown: How a crisis born in US reshaped India The Times of India
+
+### 79. Invesco India Overnight Fund(G)-Direct Plan - Univest
+
+- Source: Univest
+- Published: 2026-09-19T11:22:31+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE16RWJ3Wm5venlnUzlpdGdyRHNBZTlWaWVFVWhoVEYtUjZwUVc0cWd6bGw4QUJTMXpSNE9JSUhlcVVyZFRYNDN2aXo1bWxidVVWQWxJTGJaZ2FDeVNHWDZOLWRqT0NhZ3licmdJX1FtV0dScVRZTjBFOUN6ZUtDQXM?oc=5
+
+Invesco India Overnight Fund(G)-Direct Plan Univest
+
+### 80. Researchers Build Colour Codes With Polynomial Error Correction - Quantum Zeitgeist
+
+- Source: Quantum Zeitgeist
+- Published: 2026-09-19T10:59:29+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmcyNG8yVVI3OC10LXc4bVdpamNfNFV0czdsLUlmaUF3eURFRDc3T3hhSnFGZ3lxbk9YUlJuSTJwTndhenVzckh0ZDVMT01TeHBSY1Y1RnBrUkFsWVpTVGdma05ILW42Z2YyQmhxR29YTGNJUGNIcjhhZ2w2LW1uc2hiaEVsMGU4ZXhycXdR?oc=5
+
+Researchers Build Colour Codes With Polynomial Error Correction Quantum Zeitgeist
