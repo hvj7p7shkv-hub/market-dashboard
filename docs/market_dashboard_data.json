@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20 15:40 IST",
+  "generated_at": "2026-09-20 16:11 IST",
   "wire_file": "2026-09-20-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,30 +23,30 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "38",
-    "wire_total_count": "118",
+    "wire_count": "40",
+    "wire_total_count": "117",
     "wire_scope_date": "2026-09-20",
     "ai_wire_count": "5",
     "selling_wire_count": "8",
-    "india_wire_count": "24",
+    "india_wire_count": "26",
     "weak_index_count": "16",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-09-20 10:02",
-      "title": "SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment - BBN Times",
-      "text": "Latest dated headline · BBN Times. Today's unique wire set contains 38 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-09-20 10:16",
+      "title": "Nifty At 23000 What Happens If This Crucial Support Breaks - Free Press Journal",
+      "text": "Latest dated headline · Free Press Journal. Today's unique wire set contains 40 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-09-20",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-09-20 has 24 India-market wires, 8 selling/risk wires, and 5 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-09-20 has 26 India-market wires, 8 selling/risk wires, and 5 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-09-20",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment - BBN Times"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge - BBN Times"
     },
     {
       "label": "India Trigger · 2026-09-20",
@@ -23439,7 +23439,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-09-20T15:40:35+05:30",
+    "generated_at": "2026-09-20T16:10:53+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35942,6 +35942,15 @@
       "description": "BSE SENSEX Today: Sensex Falls to 76,132.81 as Crude Oil Surge and Fed Fears Hit IT Stocks BBN Times"
     },
     {
+      "published": "2026-09-19T14:45:46+00:00",
+      "score": 9.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "INDIA New England News",
+      "title": "Sensex Falls 417 Points as Oil Prices Raise Inflation Concerns; Rupee Strengthens - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVlkT0tLR3NfMDRtQ2tZTGlCanBocDFVMk95d0tNWHplUlNEbGIxTlRrTWd4YV81M2JUNlF6aG81SVNqQUlzbFdfeWhic3BoRlpoeG1hNXZmWEJiOXRFMUpybEt2X3hxTGFiS3Z1S2dmSUxjcl9IS1BJTGZlZ2tTVHVTT0pyQURnaEVseVFSSEdiUFZfeHE0bEVRUkNwTEFsQ2pzMElrTGtnMlZfeGc?oc=5",
+      "description": "Sensex Falls 417 Points as Oil Prices Raise Inflation Concerns; Rupee Strengthens INDIA New England News"
+    },
+    {
       "published": "2026-09-20T10:02:56+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
@@ -36032,24 +36041,6 @@
       "description": "Micron Stock Price Drops 10%—Why the AI Memory Bull Case Still Looks Intact TradingKey"
     },
     {
-      "published": "2026-09-19T10:19:58+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "The Economic Times",
-      "title": "Course correction? How the last 10 days changed the way we see AI - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmNGbXA4anVMQjJwUTN2am9sWDRpbUdLVFdTdXZDU3VPU1V0QnJsVjIyaXgzSXdCei16RXdTOEtBVkFrUTFRc1VZQ1dkTHNOWkxjUTA4TkprX3k4dGwxaDQxXy1rYWc2ei1UWEFVdldOTElzRWNLdmE3LUV6WE1Fa2tDQ1d2dkJ0czJyX3hyZUNTaUl5LTJrcEN1WGNUVzZGSHJISVFyTFNCZ0E3dmRlM2JXOHZVMlR3RkN6OFg0SjhHaXYzRWRGODZmMTl1UdIB0wFBVV95cUxPdk9RLXFHS2pWS1V6MUtLMXhOY19kU0p5TzZVTjFrZDlHTzduQzV2R29ZZlFDU1ZOWTctRGluN3RqV0xpVzhGaFFYcmYtT2tLeUtobG15LUJfTmVoaEZJSDBwcHZpUGpWOEtYTkJNZDZ6WS1IOW1nWmJtNzhhdlF2UGhEQWRRVVdBeHNlTllVMG50WXJpcnQ1aGlFamZqWTVmSVA4LXRoUGFvQS03aGYzUHRfRU1YM2FVVmtTMVNidVI4blVHbE8yaVhxNHJKUFFuYlo0?oc=5",
-      "description": "Course correction? How the last 10 days changed the way we see AI The Economic Times"
-    },
-    {
-      "published": "2026-09-19T10:17:16+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Magzter",
-      "title": "NVIDIA’S NEW SOFTWARE TACKLES QUANTUM COMPUTING’S ERROR-CORRECTION CHALLENGE - Magzter",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQcjhvV29iQVlWMVUzRTAyOFhBSF9Oam45Q3Vkb1FmQVdmSlNvR3MxZWhYb1VLcUM1LS1HanJCcHM1aTZETlJqM2NFTVV3UldPS2dYMHNFODFWYm1vQWFubXdvT2QzMnc5N3hnVHUtZjJWUkJ3ZmI3SHptRDI5cE9TTmlnWXRWajc3clB1NWdNY2xwdFc2eGNwa01qdFo4S2laYWt6VHFQX2JWUWxtUkMzbVVJRkJfbHAydl9oX1dnS05lSFh5ZVozZ1dR?oc=5",
-      "description": "NVIDIA’S NEW SOFTWARE TACKLES QUANTUM COMPUTING’S ERROR-CORRECTION CHALLENGE Magzter"
-    },
-    {
       "published": "2026-09-19T14:50:38+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -36057,15 +36048,6 @@
       "title": "India Wealth Management Market Set for $436 Billion — What Emkay’s 14% AUM Fall Signals - NiftyTrader",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYUJWQk01a0VLSG1JRm9TTGxyYTMtMWMxSGxTUTNhazh6aHpoUVpIeVlHQjYxZzN3Nmh2ZTFnbE5vNE1IY2V0YS1NTENUMTNqeUllSEdmWm5pOVQzTDEyMGJzR2JRRzFZNGdTeURnTGc1SWJaOWdBMWVlNV9yZXduRVBFM1A?oc=5",
       "description": "India Wealth Management Market Set for $436 Billion — What Emkay’s 14% AUM Fall Signals NiftyTrader"
-    },
-    {
-      "published": "2026-09-20T09:07:02+00:00",
-      "score": 5.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Free Press Journal",
-      "title": "Stock Market Next Week: US-Iran Tensions, Crude Oil And 100% US Tariff Threat To Keep Sensex, Nifty On Edge - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVFh3T0p2M183SFV2Y0tQLWI4aEgyaWZIMlNQMk1jNVpKZUZqV2VSY2x4RzNzU0FrZ2F6VXhlRURoVklGUS1IVVJCT0s1STVtYXdHX25yM2hnMHdZdHdNYVl3djJoRDFyTHR2bkN4UTJ4eEQtd3NwVnlNcmplcEVIRWUteHhBRG8tRWpYR1dhY1BVV3R4UFlYY2hVMkRDMWRfSXJBSlVwTmJUWnF0WmRoeDVFYzNzc3lKSGZ2cDhER295cDVpcWdOUm1QcnlyVk5lTENKN2VjVHpJem1l0gHiAUFVX3lxTE5HTlRGTkJDc0xGT1JUWHh1WEVieXlfb25lUkR2cXRyVS1HZ3kwNzBnUGNBZzU5c3BkY04zODVCTUZVR0FwVXdFLXVfaFcxeWJMcVc0MmhxNDFZM3BGTTlzMU8tR002blY4S3hnNF82VDFqVFlOZUQwdDBRVnFIODVsMDdBZURMUlVGQ2Y3UDBSZ3V6Y2VfZWxzc1NUYjZVWVRicllYcEg0d2dKTWRXZlBUQ0FBckxFN05ERm9qNVV4c19wZEFMSzk0MmhDc3NfR0xDSTBNLUhmM1d0bVFQM0VpVHc?oc=5",
-      "description": "Stock Market Next Week: US-Iran Tensions, Crude Oil And 100% US Tariff Threat To Keep Sensex, Nifty On Edge Free Press Journal"
     },
     {
       "published": "2026-09-20T07:51:56+00:00",
@@ -36086,6 +36068,15 @@
       "description": "US-Iran tensions, crude oil, tariffs, FII flows likely to drive stock market next week The Hans India"
     },
     {
+      "published": "2026-09-20T08:21:00+00:00",
+      "score": 4.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "DT Next",
+      "title": "US-Iran tensions, crude oil, tariffs, FII flows likely to drive stock market next week - DT Next",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNYTRvRGdFNGRHZU9hSXlObE9Nb2JRQ2Rvd1dqYzd3NFpnOEp4ZE1LWGFqUjNoMXdVMWNoaThobVZSak8xaXJfSXZucmpoaXNDNWdMNm9jb3BHU1JvSXpXdkRFYnAteEYtNGlVRFhiTFFObjVNQ1Q3X3l0UlhYM3JvSC0wcXZPYm5TTVYtWElOQzlCSWFfeFl6SnZQX3pVNnRsdlZNNVFtWDFnN3JvVFp1SzhLZjBVZUZ3ckptMDhZdW8zMExFTjJRZ9IByAFBVV95cUxNYTRvRGdFNGRHZU9hSXlObE9Nb2JRQ2Rvd1dqYzd3NFpnOEp4ZE1LWGFqUjNoMXdVMWNoaThobVZSak8xaXJfSXZucmpoaXNDNWdMNm9jb3BHU1JvSXpXdkRFYnAteEYtNGlVRFhiTFFObjVNQ1Q3X3l0UlhYM3JvSC0wcXZPYm5TTVYtWElOQzlCSWFfeFl6SnZQX3pVNnRsdlZNNVFtWDFnN3JvVFp1SzhLZjBVZUZ3ckptMDhZdW8zMExFTjJRZw?oc=5",
+      "description": "US-Iran tensions, crude oil, tariffs, FII flows likely to drive stock market next week DT Next"
+    },
+    {
       "published": "2026-09-20T04:26:21+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -36102,15 +36093,6 @@
       "title": "HDFC Flexi Cap and Franklin India Mid Cap among 7 mutual funds that multiplied investors' wealth over 21x in 20 years - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNjhFR2N4SW9MZDhwMGFWemVGUi1HTXlWbEFqWUUwQXNkcjNlZ2MyRkF3M2xLcEZ3SWRRMmVUenFTNGs1dmxYUk83UW8tM3IyQURfa1E3ZlN5a29LeV91OUJtZER4M0hHVnVLSnFkbFBmSnFrVU96U1IwWXpJZ1JBWVBWaXduVlZTMzNGVENBczFwN0FyX3Izdjl5UlE0Z0JMc25SaTlHaU9wSEp4ZjhNSlpmR2piVzctVTdTNER6OERYZmtwOHl3Q0dlanlBbXllZWhYcFN6YU9rQ1N5RTl0OUxsYmUxTjRaM3Vsdk45WmdpdENPY1c1TVplOFBtVlpyWTNSRDdPY1pDNVNZVDJtY2ljTDNSRFlp?oc=5",
       "description": "HDFC Flexi Cap and Franklin India Mid Cap among 7 mutual funds that multiplied investors' wealth over 21x in 20 years The Economic Times"
-    },
-    {
-      "published": "2026-09-20T09:24:09+00:00",
-      "score": 3.0,
-      "themes": "['India market']",
-      "source": "The Hans India",
-      "title": "Nifty’s 23,000-23,100 zone critical support, Sensex may face resistance at 74,600: Analysts - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQc09qVHhmU1JQWUFVOTdBOFI3S0NPbWRpQ29SVndsNUdNTjlLNTByUmtPNXRQSEVyTGUxeWRDWDVJX3NfV05aeXZmaVRPUXp0bkQ0QW1oM3NrVXhlZEpnUjhqdy05d1lhejNlbDJFQU5LdHhZeFV5clZQaUVOS2RDaHRJZm85N3B4ZWM1Q0ZGZlo1ZW9YNzl5dXNfMHJMVDUwQzZvS05FSDQxcHJ3bTFqMUR5RHVRUkk3ZWVKcWhDb25WQzZ4UUVoMg?oc=5",
-      "description": "Nifty’s 23,000-23,100 zone critical support, Sensex may face resistance at 74,600: Analysts The Hans India"
     },
     {
       "published": "2026-09-20T08:15:22+00:00",
@@ -36161,10 +36143,10 @@
       "published": "2026-09-20T02:49:20+00:00",
       "score": 3.0,
       "themes": "[]",
-      "source": "Bhaskar English",
-      "title": "Major portion is in bank accounts; investment in equity mutual funds gathers pace - Bhaskar English",
+      "source": "bhaskarenglish.in",
+      "title": "Major portion is in bank accounts; investment in equity mutual funds gathers pace - bhaskarenglish.in",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPdkNrejhENEVwOTdpeHJwY0ZTRmtrd2plalZMUFZfZElhYjcwSG9pOXJra2JuV2V1T2J4cTF4N1Y3WkRDOVFOZGRzSWVnZ25oUlQ2YUtIU280NjAtR3NkVGFjTEpobHRoOTRJOUtKZHdnMzFTM25Sd3A3RHlkV3hab18zeTFKWHl4QXFrQ284UXp5Q0FRa2FVTHo4LTVVOGtUc1FoTGFsZk9QY0g2RTFhdFczY2JBWDU5MkoxT0pZeUxsUWdmYzNPUXoyNA?oc=5",
-      "description": "Major portion is in bank accounts; investment in equity mutual funds gathers pace Bhaskar English"
+      "description": "Major portion is in bank accounts; investment in equity mutual funds gathers pace bhaskarenglish.in"
     },
     {
       "published": "2026-09-19T23:09:19+00:00",
@@ -36174,6 +36156,15 @@
       "title": "Sensex, Nifty Close Lower as IT, Banking Stocks Limit Losses - INDIA New England News",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQclpjZ21IS3RMRlVmcXBxdDlwa0NlaktuWnZnd3cyUWZmTmlETFNlN3hmR3VJVVhOVGVRNXNaNFJjNkpKT0lmZWlHMWhUZzFUSWdiMUh4Si1SeXhhUFNJYTNVY01QM3pLdk1lWVNuN05WSTFRUm82RVZhUmhGelc1SldKUkhTNXBmZFVoN0pEenI?oc=5",
       "description": "Sensex, Nifty Close Lower as IT, Banking Stocks Limit Losses INDIA New England News"
+    },
+    {
+      "published": "2026-09-19T19:51:10+00:00",
+      "score": 3.0,
+      "themes": "['AI / tech risk', 'India market', 'macro / flows']",
+      "source": "Investing.com India",
+      "title": "Citi expects hawkish Fed to slow non-AI economy By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSFpiSEdiTHpnUkdGTUN2bTF5aWhCeWFlMHB4VVdKdXotVlRHdU1VOE1OQjhaQnVjaE5UM2N4ekNXUld4Nlllei1SV2txRFZWVXJFUlBwUVJoRjUtZVM5UEh0LU4wVVh4TnFUZHNMNDNVNFNyamN2OW02TlZNWWhjZXJMME41VVVKeHNuWXhfWWJsOUVKbkwyY3cwbE1BZw?oc=5",
+      "description": "Citi expects hawkish Fed to slow non-AI economy By Investing.com Investing.com India"
     },
     {
       "published": "2026-09-19T18:30:40+00:00",
@@ -36212,6 +36203,15 @@
       "description": "India Under Pressure as Trump Signs Russia Sanctions Law: Will Nifty, Rupee, and Bitcoin React? Bitget"
     },
     {
+      "published": "2026-09-20T09:22:50+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "thehawk.in",
+      "title": "Nifty’s 23,000-23,100 zone critical support, Sensex may face resistance at 74,600: Analysts - thehawk.in",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNjNkTGNUektDMkk1a3lKWnBCZGVBem9KY1ZUOUNFWFlVcktPUm02Z1QwVjdIUlV1SnNiYXUzOHRwV0F0OWtfdlg0SW1TSW00U3J1VXlhZExlQUpWS0FjdHJheFctZGlPTlRLLU1sN0NtTzdMSXBkY1pHTXB4VGluakVVclhXVFY2U1l3alFFUEM5bmk4MUpiTFZlZlQtNzlTSEQtLW1lUVdvdmFxV240RHAxaEl5WlFhYm9FNWctekpqRV9XSHN4MklqVFBKcTg?oc=5",
+      "description": "Nifty’s 23,000-23,100 zone critical support, Sensex may face resistance at 74,600: Analysts thehawk.in"
+    },
+    {
       "published": "2026-09-20T08:33:00+00:00",
       "score": 2.0,
       "themes": "['India market', 'macro / flows']",
@@ -36237,15 +36237,6 @@
       "title": "Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdEw3Um0zUy0zWTMtMTJkZ0FIMm11S3d5bEJXREFCVTVJUTJHSzZ0T3J5d1ZKTmZfTW1BR1BBMTJOVkI1ODMwamF0NFN6QUJiamc3YjVOcUZhUWU0TzRyaXNqY202ZzlkWXhIRmpiV2JvZEg2b1A1VXdZZF8xNWg1OEVLb3gtWDNPTnA0dnJqa1JYWEpBaEhHcXBjeldiOHpOR0x1NWROcVdPT3hHRlU5anlRVFVUUVROVGFZSDZyTHJjYkc3WUZvbGpSQUZya0xaUzZDZFphbGhFems?oc=5",
       "description": "Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore Goodreturns"
-    },
-    {
-      "published": "2026-09-20T04:31:34+00:00",
-      "score": 2.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Mangalorean.com",
-      "title": "FPI selling reaches Rs 23,676 crore this month amid high crude prices, global liquidity concerns - Mangalorean.com",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWXJJTzJOa0s0akNxbWR3dlNyT0lPTDhVaTU0T0d2TFNmN2hIc0RkeGFjU0NtaENiazlsdG9MV250c1NXWU1DeENkbjF6b1hITVhWXzI0WXVwc21GajBudmdCaWFDUGV4LUZYSUEwUE5FTE85Y3daZ3lnSDk4ak1zalJLdXRlaXpucjdLTWZVbzVnMHJKb1NqQjUtS1FhS1RHZ2JOSUpzNkhiRlZHX1NMQm50cGpjY0RVZjhiMTZJc1TSAcgBQVVfeXFMT3dqZ2NsQ2duYm9NWlQ4MVRNVmVzb2Q2UUQxR1dKRGVOUmNXeHhidERsMEVhcWhmV2ljNGRkZ1J1N3lqUnVzNzJPdmNLV3J6QU05YnRGandIQ05OemxqT0pwQks0VEZYMUQ0SFNFQWV6QXBGckpaS0FBeWlsOG5NZE9NaTVldHRYUHRHdHl0ZXQ4MElPVlkyclF1Z1hTWlJZYVR3LTJtTnNGV1ZGRlBHeWY1Qjl4b1lCZnBfQVBlbnZwXzVFRGEzaGw?oc=5",
-      "description": "FPI selling reaches Rs 23,676 crore this month amid high crude prices, global liquidity concerns Mangalorean.com"
     },
     {
       "published": "2026-09-20T00:39:31+00:00",
@@ -36338,6 +36329,15 @@
       "description": "Axis Nifty India Defence Index Fund(G)-Direct Plan Univest"
     },
     {
+      "published": "2026-09-19T12:52:41+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Business Today",
+      "title": "Mirae asset nifty smallcap 250 momentum quality 100 etf detail page, NAV, Rating, Fund Return, Performance - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNMGROMGdFb1VLdGlYVjVMdjB3TU8zOE55TnJwNEtYV1RGSEdnRTBoQkNFRl83QVRaMUZyOTJ5QndmZE93eVdkczl4UnFyTnVKWXFhYmRqckowZks2eDc1Y2dlZFpqV3ZzRmtxdjhFRVJZUmxacXAwU0FIU1ZJYWZIXy1iOE9wcjR2YXlCbFNPLWZ4RzNRaWY5QWQxS2diMzVOSF85aS1xcVFyZkR4SmFycUlIYm1Mdw?oc=5",
+      "description": "Mirae asset nifty smallcap 250 momentum quality 100 etf detail page, NAV, Rating, Fund Return, Performance Business Today"
+    },
+    {
       "published": "2026-09-19T12:30:36+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
@@ -36365,22 +36365,31 @@
       "description": "Inbursa stock drops in Mexican selloff as IPC index extends losses AD HOC NEWS"
     },
     {
-      "published": "2026-09-19T10:10:37+00:00",
-      "score": 2.0,
+      "published": "2026-09-20T10:16:47+00:00",
+      "score": 1.0,
       "themes": "['India market']",
-      "source": "IndiaIPO",
-      "title": "Sensex Today | Stock Market Highlights: Sensex slips into red after CAS, Nifty gains 75 pts; smallca - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNR01PQm02aU9MXzd2RGlOZlBueVN0YWQ4YWh3enFfWHd2TEZkei1DM3dibWY4UmVNY3U5d0FzV0dIbFJBSTdVVXhSSk8xRE5LRWs1TnFacFVCQzRjRlpBdE8tMmQtSUlXYmFDd2NmWE0tRnpRSjhabF9Cc3RXYVh3elk1cjlPLUpyQm9heEFmV3pXTFd3bU5tRzhCajUwa0EwX185LVdYMk16bTFGR1BHbENFZTZiSm13RDFXQnFVVEx6MW5NX0c0aU9XYw?oc=5",
-      "description": "Sensex Today | Stock Market Highlights: Sensex slips into red after CAS, Nifty gains 75 pts; smallca IndiaIPO"
+      "source": "Free Press Journal",
+      "title": "Nifty At 23000 What Happens If This Crucial Support Breaks - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSG5uTURyZlRFdkc2WXBMUmZBUGhoekRITVBtV1ZWbFZWTkNHaWZWZzc5bkJBbHFOTm1KR29Oc1BXWDFWOUkzNFBoQ0tLdGlsWEdXNV9oQlVLMDFIR1gwY3lNZGRsRF9oR3dvVUJ3YjRXUGpRbmRxMUR3MzhVVmM0aWs4N2NXSFVvMXZYXzdHNzFvSXBZUzdsWnRXdUxFZjJQ0gGmAUFVX3lxTFAzX2l0V2Vaa3lDZmFsN2w2VWhmLUg5Z3VvY1RTX245aVB3c0l5aDV5ZjR1Z3ZHUDNudzFWMmRPUHRLUUZJOXdiSnZvWG9INUY3R3dfcnl1ZFNiVldmODdDSnZOZm9LR05pWXZhaUlLRWhHVmtFNEU1SlhBZnJQUW91VERNWnNMWUIyNnlkbUx4UWZtM1ZLYzdfU2x0ek45Qm91RnAzY2c?oc=5",
+      "description": "Nifty At 23000 What Happens If This Crucial Support Breaks Free Press Journal"
     },
     {
-      "published": "2026-09-20T08:47:20+00:00",
+      "published": "2026-09-20T10:08:55+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "BBN Times",
+      "title": "Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFhXeDNaMFBJV2VIOVRoZEx6SG1XMU5waVZYQ3UySmN1WVJtUlJOVXNVNUF5ZS1QSkVrSXlTWUtTdVdZanpJakZleWFFU2hhNnJuMURVaVhkNGNuVHh0U0RpNUI2bG12OHliT09rVEFkb293Z1hvTWk1emNwR0dIYTlXSmoyRy00ZEhsLTVKMHBOZXRWMWh1dm96T29nejVfYnVmOUdDU05Bb3FkTDQ2b2RtZlNuZUROUzhlZHJnQndyZmxMX0Q3QmdGOFl0NUM1UFE?oc=5",
+      "description": "Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge BBN Times"
+    },
+    {
+      "published": "2026-09-20T09:50:17+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
       "source": "조선일보",
-      "title": "Government Recommends Disclosing AI Tool Use in Research Papers - 조선일보",
+      "title": "South Korea Recommends AI Use Disclosure in Research Papers - 조선일보",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQTQwdU9ZRW1qVHlrQVRhTlNtVVp2QkxOcWxybmFoWXQ3S2JyLWlwV1RTeEI1RGNwVlV2aTF4WFNic243NjJiTGxGaWQ0eUk2U3lqc1o2bm84M0xaalVZX25YdXFEUWpzOVgwUXNDeXgxdlhJRWRPRnM1ZW5tSnhvOWd5cnRiUEhq?oc=5",
-      "description": "Government Recommends Disclosing AI Tool Use in Research Papers 조선일보"
+      "description": "South Korea Recommends AI Use Disclosure in Research Papers 조선일보"
     },
     {
       "published": "2026-09-20T08:45:48+00:00",
@@ -36401,13 +36410,13 @@
       "description": "Rs 23,000 crore outflows! Is the September FII rout indicating a worse end to 2026? The Economic Times"
     },
     {
-      "published": "2026-09-20T07:11:23+00:00",
+      "published": "2026-09-20T08:25:20+00:00",
       "score": 1.0,
-      "themes": "['macro / flows']",
-      "source": "BBN Times",
-      "title": "Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge - BBN Times",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNcFhXeDNaMFBJV2VIOVRoZEx6SG1XMU5waVZYQ3UySmN1WVJtUlJOVXNVNUF5ZS1QSkVrSXlTWUtTdVdZanpJakZleWFFU2hhNnJuMURVaVhkNGNuVHh0U0RpNUI2bG12OHliT09rVEFkb293Z1hvTWk1emNwR0dIYTlXSmoyRy00ZEhsLTVKMHBOZXRWMWh1dm96T29nejVfYnVmOUdDU05Bb3FkTDQ2b2RtZlNuZUROUzhlZHJnQndyZmxMX0Q3QmdGOFl0NUM1UFE?oc=5",
-      "description": "Nikkei 225 Today: Tokyo Benchmark Holds Nearly Flat at 63,484.10 as Yen and Global Yields Diverge BBN Times"
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "Navi Large & Midcap Fund(G)-Direct Plan - Univest",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBaTjlyUy1lMDFNc0FlWFRqZ0RONDlWS2xoVGdHWS1aVGZrb3ZtcmtBclBnVDh3NlNLNko5TGZRSlNXTVdZM1lSTy1tSzVieUNucTZnaThtZkVsbWpmejRVUktLX3hPdDhkaHBpbEZVaUE0SmtHaGxF?oc=5",
+      "description": "Navi Large & Midcap Fund(G)-Direct Plan Univest"
     },
     {
       "published": "2026-09-20T06:23:46+00:00",
@@ -36509,6 +36518,15 @@
       "description": "Crypto Equities HOOD, COIN, MSTR Slide With Broader Market After Oil Hits Five-Week High Stocktwits"
     },
     {
+      "published": "2026-09-20T00:08:48+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "PGIM India Aggressive Hybrid Equity Fund(G)-Direct Plan - Univest",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeGkyZlhDMjQyYjVlSkdfdXdUZ2J0WVo2SDhQOWVuVXF4b0ZvYklDcU5NUUQ3d2dYY0ctcG1ibmNtNXh6VUFRWkZwYTFZSzFsTzdNNUszb3BVOTFHc0NlQVUyVTBJR2xhSm1uVEp6MUFEZG1rNFEzc3NWd3hUSTR6ajlqMTQ2QjgwSWl1UVFKdw?oc=5",
+      "description": "PGIM India Aggressive Hybrid Equity Fund(G)-Direct Plan Univest"
+    },
+    {
       "published": "2026-09-20T00:02:13+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -36516,6 +36534,15 @@
       "title": "CMPS Stock Defies Market Selloff After Compass Pathways Psilocybin Trial Success Pointing To 2027 Launch - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYUxjWnk1MElCNkNCclFPcmFybHIzR3dUOG9VS1I2ZDJqTmJoNklJdVk5N1FLTmZYaVBucGE4U2E3Zl9WZm9UNHdidTIya3V5MEhtTWdrRTZCc2FLQ2dYbFJKQnVLbVRQU0hQa3dzQXhzZ1cweHVPemZOdlJERG9OZ3pGdF9HZTlpN1VEQVFkM25TSmtUX3hTdmJWZk1UcWttY0lkR2h5QXdQZFV4cjBuTHkwTHJVbU9vWnhGdUJJRHFvV0E0QVpTbUYyV0RUYVZteXhzR2JRVVlpWmNDNnJsMkNtaGtnZEdZb1c1eTVhbFhuUWlheVpvemlTNmQ?oc=5",
       "description": "CMPS Stock Defies Market Selloff After Compass Pathways Psilocybin Trial Success Pointing To 2027 Launch Stocktwits"
+    },
+    {
+      "published": "2026-09-19T23:53:57+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "Bank of India Large & Mid Cap Fund(G)-Direct Plan - Univest",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1hfYkFlMExZRUhRVVFRTDdFNzNhYTlsUW96ZlRqNHkyaWVRZWVfeHNuaEFLeGJPcU1FdGh3dFpYUmNsdlk1dXh4RktQdEJYdFAtUksteVp2eHdWbmt4Wk9JazRReXNEbUszS09yWDdPRnNEVnNwWXN3MWpSVjYxWEdfVUU?oc=5",
+      "description": "Bank of India Large & Mid Cap Fund(G)-Direct Plan Univest"
     },
     {
       "published": "2026-09-19T23:46:56+00:00",
@@ -36561,6 +36588,15 @@
       "title": "Why Did CRWD, OKTA, NET, PANW And Other Cyber Security Stocks Fall Today? - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZVl6dzN2SnpGRzlRc0U2NVZxdHhNS1hzSnkxajdQMjloTUw5LWoydl95czQ2YVIwaFVCQXBuMU1Hcm9vT1I5OFRKdy05RDhrNm9GU0RtU2ltbnBvby1RVWpCX2VaNWwxb291OWJmOFIyNlhMM3VXNGcwV2NnR25BQ0hjOGFGTC1CUloxc3BobDdicU4xV3NFb1MzVldMaEV4dEhOV1hfZnBMV1c2cC1wVDZZUDFPaFJxNGlDYjlrQ1M?oc=5",
       "description": "Why Did CRWD, OKTA, NET, PANW And Other Cyber Security Stocks Fall Today? Stocktwits"
+    },
+    {
+      "published": "2026-09-19T22:29:57+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "BBN Times",
+      "title": "FTSE 100: London Falls 1.45% to 10,659.13 as Banks and Telecoms Drag - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOSFFoVFRFdnZkb2t4S3kybjhubGc5aXl2dGhHQXpMdjhuSW90RERKQUtPdXZYUWsyLU1XaUoteG9JMUdibkhob1VSY090c0FEZUlWdGZnWklxY3A0ekVTNTRpVDRFaWNocTlSWkhDdmtKVzgxcm81Nl9TR1drdFRqdmVOYmJtU0VFTGxBTE1KTi0xN0lmcmpEcXdKQ01OeFFyUzVZU3lSc1ZUUQ?oc=5",
+      "description": "FTSE 100: London Falls 1.45% to 10,659.13 as Banks and Telecoms Drag BBN Times"
     },
     {
       "published": "2026-09-19T22:29:31+00:00",
@@ -36617,15 +36653,6 @@
       "description": "Nasdaq Today: Closes Nearly Flat at 25,978.42 as Tech Shrugs Off Fed Hike BBN Times"
     },
     {
-      "published": "2026-09-19T21:37:03+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Nippon India Ultra Short Term Fund-IDCW Weekly (₹ 1,091.69) - NAV, Reviews & asset allocation - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTRlWElmSVJDTHJGbkV2STRqZW1TeF9TbVVRZmNMYVo1VDREdU9ZN1FfU3A4S0xwNlN0MDFBWjQ3YVRNanlHQzlzZkdrUjB6bDNKSFBrY2JPaktHYlNsSjlKR09ScDdrYUdQYjJkblBiTFBiYUltbmNzMzY3S3lHeUVTSzJyTkZJNTFRdVduOFZwamlWbF9r?oc=5",
-      "description": "Nippon India Ultra Short Term Fund-IDCW Weekly (₹ 1,091.69) - NAV, Reviews & asset allocation The Economic Times"
-    },
-    {
       "published": "2026-09-19T20:20:08+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -36633,6 +36660,15 @@
       "title": "Why Did CRM, FOXA, GLND Stocks Fall To 52-Week Lows On Tuesday? - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc1BQUG5nV0JCWmJ0LWVfYTg5NWpfZ0pTVk1Ob0tIYjFCaUJNMXY0dzBxYnozNXFsRlh1QTVTR3hwb3V0V0NXdEdTSlgxNER1LVlEN0FfWTJ0WWc3dVBRLVFzTWo1eE5Gb212OVdfLWlJODM0b0JKOHFoTTdkRHA1RElYSjRsUkNUU1plSUFoVTNkVzhBMWZUcFBxWC12X1FkVW9oQmYzOFkxWUl0LVc5RnJlbw?oc=5",
       "description": "Why Did CRM, FOXA, GLND Stocks Fall To 52-Week Lows On Tuesday? Stocktwits"
+    },
+    {
+      "published": "2026-09-19T20:12:54+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Stocktwits",
+      "title": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUZQWmFQeUFjSDJCUkRQUlEzLWwyN0hhMWUtRGdNNHNTcVkwUVRHUEpUZXAxUG5zS2YzQ0FERTdtTXM0SnE4NjM1QndheV85a3NZUEFBT3FBVzEzV3RUTG5id3ltZ3hWX1NTdWtQdWkwdmlGckZuTzNiM18tV0dhNzhhUjZUTHoxbUZrQ2RsSDdJUTBlUXViSmNtNjIwaHBWS1lRYzNwMlI4cGFKOFdzN2hnUEdxUk9pWXVVeHhXa1Q?oc=5",
+      "description": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst Stocktwits"
     },
     {
       "published": "2026-09-19T20:12:30+00:00",
@@ -36651,6 +36687,15 @@
       "title": "Trump Says US Already Has The Power To Rein In AI Firms – ‘There Is A Sick Conspiracy Going On Against AI And Data Centers’ - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPZmJ5REUwM1RoM0xjSVZ4Qm9tSHRwdGk2N2RYUkdmWkVCTzI4V2djb3JWaVYxQkZyeXhmY1VsMVd6ak5WRHJwYVNkdUVpbmd5aU8zQkIxNDMtWC1RMzV2UkZRckZqNjRhVlhlanBFckV2T1o1UExXZG1SUG9Tbm00QWlGMFIwUkktLUxOQThmT0VKb0NuQUo4MWZybm5WbFdrTEZQWGNyUEJuQ0F4V1RybUVwM2tJempSQzNacVBSZFRPZVFEcVdnS3VNckd4NmhWZlpNcjhjMHowV09uX2dmMzd6NFpiUW5WaEs0ZXZZWVh1MmJsdWh2QzZzNlNFbC1DVG5aZzdGNzZLbWQyM3c3SQ?oc=5",
       "description": "Trump Says US Already Has The Power To Rein In AI Firms – ‘There Is A Sick Conspiracy Going On Against AI And Data Centers’ Stocktwits"
+    },
+    {
+      "published": "2026-09-19T19:31:47+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Invesco India Ultra Short to Short Term Fund Direct-IDCW Weekly (₹ 1,205.66) - NAV, Reviews & asset allocation - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDY0WmtYZVd3S1VJeXdvVTdETHZaVjNseTh3Sl9FbkUyV0J4LVMwYm1qdXozSzRfWFdGYXZ4NHVkbndBblJZWHpQTmNvMTRkS2VNYVhTTk5YbW04U2hYRGdlbDE4clIyUjNITjhHa2RERmFiZUhEQmF0X3VNWkpnOFJkSHBpcDdpcG1udnpZQ0gtcWRRMUswTDdZTUNUd3Z5MUJjVnVzVXl6aS1qeUVDSkE0ekd5QQ?oc=5",
+      "description": "Invesco India Ultra Short to Short Term Fund Direct-IDCW Weekly (₹ 1,205.66) - NAV, Reviews & asset allocation The Economic Times"
     },
     {
       "published": "2026-09-19T19:31:12+00:00",
@@ -36680,6 +36725,15 @@
       "description": "Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation The Economic Times"
     },
     {
+      "published": "2026-09-19T18:54:53+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Nippon India Ultra Short Term Fund Direct-IDCW Quarterly (₹ 1,032.19) - NAV, Reviews & asset allocation - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPY0Y4TjJCc1RUS2xQb2ROTEZmQnVyTWh6QTcxMkdJWWhwUDd5cjlqZlExZi04T0NjY21wQ1JEUVByRVJpUGZVSE1WazB6SUZwR0JEUGVkR1JhWDFaRjRnMldyNF9WUjU3WEVkQk1ISXEwQlEyanI5Rm1DYzVjVzd3eEE0RkwxWTNjYW5FaWh0Zld2OXNqdE84V19KMkpUV3RjX2RwZ0QzcHg?oc=5",
+      "description": "Nippon India Ultra Short Term Fund Direct-IDCW Quarterly (₹ 1,032.19) - NAV, Reviews & asset allocation The Economic Times"
+    },
+    {
       "published": "2026-09-19T18:40:28+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -36696,33 +36750,6 @@
       "title": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGRiTXRzcl91M2JFU091Q0R5U0hfRUFWUlV0cGN6VVRUNnBnTGtNcUlrV3A4THYwbUV4U3c3UG1jeW5Xb1JKSGlkbThjdDRoVWlxYUNKVjhMV0x0S19SSjdzR21nZUc3ME85NmhrbXVwVzJLdEMxU1VQT3A3T2hEYlVCWEF5ZjVZV2piZWVjcy1jamtfbHdxZFhsU0R2Wkp1TGVzWWxxOVZ2MTRaMzNDV3VETURtVUFXa3UzcEZpelJja1lKYXN3WmM1MGJLU29IRzh4dUJOOXFZYVlkWTU2ZU9keXl0dVRCRlZhUWJVUGFublBjMUd2NS0xcjh6RDg0di01ZU40SFpJQ3M?oc=5",
       "description": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week Stocktwits"
-    },
-    {
-      "published": "2026-09-19T18:26:35+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Stocktwits",
-      "title": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGJEaW5SMTYzdjdpbkF3cm5ZcDNIUDd4M2tqXzZtQjFzN1NRSDBweG5KZ1RTaTUySHVPSUFSTHFlb3pqZWJPWFZFVjRpRGt3cGctaDJORmNTWlEyMllYQWQ2aTRTb280STNCRC0xVkN5cEdwVUdxdm9saXk5dlB1amNQWlYyUjV2em53UXZ6R0pnN0JTdVAxMkRyX21naGtHb1d3Zkkzakl0RHM5TUJLMXg2bW1ZWUdKV2hfNTJob2o3Nl9raGdldVZ2V0RJdmVpZF9SNGp5R01MQWZoa3FZ?oc=5",
-      "description": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside Stocktwits"
-    },
-    {
-      "published": "2026-09-19T17:58:42+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "Franklin India Aggressive Hybrid Fund(G)-Direct Plan - Univest",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjJkdGg5b2w5Y3RLbXMzS2lERWp2TDNqcTMzR1FFNk9OZktWdHFRVzZ2VDd6VFFfeURVWEhhYUZxRHFIN01xal9JbzdKcVp6RzJoYkdvMzlRY0M4VXdrX2l2RGEwZERnYnI2Z1ZYVFZtNEZlRFJUNHY1ZlQ4eS1lbDR0ZUNmUUNuYTJN?oc=5",
-      "description": "Franklin India Aggressive Hybrid Fund(G)-Direct Plan Univest"
-    },
-    {
-      "published": "2026-09-19T17:50:27+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "DSP India T.I.G.E.R Fund(G)-Direct Plan - Univest",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA5VHdXV1oyNmJMSmNoNmlYcDU4MzVUUXRnblY2R05HV1k1NnI1ZWFOdk1fbFEtUU02NEZrRWhSU3N3d3o1eFRiQmlIcHQ1QzR2SUt5WDRrekdMdlViamR4UnlOQ3hQSVRyQUpNZzdFcF9ZQVlyRENZVjRR?oc=5",
-      "description": "DSP India T.I.G.E.R Fund(G)-Direct Plan Univest"
     },
     {
       "published": "2026-09-19T16:31:26+00:00",
@@ -36752,15 +36779,6 @@
       "description": "Investors Borrowed $1.45 Trillion to Buy Stocks. Is the Market One Correction Away From a Margin-Call Avalanche? 24/7 Wall St."
     },
     {
-      "published": "2026-09-19T15:47:46+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "Franklin India Multi Cap Fund(G)-Direct Plan - Univest",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPT1YxMHBQMW9FTTFiSXpJdFdUaVZvbU1fX1pHMzJCeVFpaUUxUWI4MnREUjhDUTdPSmZONTFUWFRLaVNQOUxPUzRhdFJCNV9FWjZuTDY1clV0MFNZUHRGeUtvT2Iyd1dSMk55ZzhZRDlSTWwzT3UxT0J6U19mcGVNcw?oc=5",
-      "description": "Franklin India Multi Cap Fund(G)-Direct Plan Univest"
-    },
-    {
       "published": "2026-09-19T15:00:23+00:00",
       "score": 1.0,
       "themes": "['macro / flows']",
@@ -36788,13 +36806,13 @@
       "description": "BLOX: A Crypto Rebound Meets A Hawkish Fed (NYSEARCA:BLOX) Seeking Alpha"
     },
     {
-      "published": "2026-09-19T14:17:38+00:00",
+      "published": "2026-09-19T13:53:22+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "INDIA New England News",
-      "title": "Jubin Nautiyal Says ‘Samjho Na’ Captures the Innocence of Love - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjFTZUtCX296dkJTbXk4MWt1WF9kWC00R0pITC1fMWNVb2tZQ3FadUtxb2ZLVFRsTWpJUkZxYmpzOGdOMUl5eXJFWjRZcEg1REVvdzVwc2s5SExNX2RXeWJxU0JoNVBVLWMwS0pKWUZpQk1PQzZrNmhBeGFFYkFUaXZmR1lnb0hjZFlHOTdyYW1LaW8?oc=5",
-      "description": "Jubin Nautiyal Says ‘Samjho Na’ Captures the Innocence of Love INDIA New England News"
+      "source": "Univest",
+      "title": "Nippon India Liquid Fund(G)-Direct Plan - Univest",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rTk5faDhYOVllazBmbnFBZXI4cFF5elBpQ21DcTJCZlk0S3BhVjU3Y2ZoZ1lwclVKRThJLVJualM3X01ZQ3h3UzQ2dC02Z25qTzlJVWM3UmpETGxaTTQ5Z3ZMVGZxajBHQ1k4YnhObEtiOXZ2bWdnOVN3?oc=5",
+      "description": "Nippon India Liquid Fund(G)-Direct Plan Univest"
     },
     {
       "published": "2026-09-19T13:38:13+00:00",
@@ -36869,6 +36887,15 @@
       "description": "Axis India Manufacturing Fund(G)-Direct Plan Univest"
     },
     {
+      "published": "2026-09-19T12:25:03+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "PGIM India Equity Savings Fund(G)-Direct Plan - Univest",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQRDF1UFlWMXIweG5UdTJPR3hvQXdQbEtUc1hqQjQ2c0c0SlVTYnhHX3h4d2YtQU5yMlFTdlNUTXlSZWZaV0lzam00dXVYbFdtcHZNcFZBUGRKQm9lZDVqYnJQMDR3UEo2YVhhZVNma3ktWFVFUmxXbzRXRmtkTGVkVnF3?oc=5",
+      "description": "PGIM India Equity Savings Fund(G)-Direct Plan Univest"
+    },
+    {
       "published": "2026-09-19T12:19:58+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -36887,15 +36914,6 @@
       "description": "18 years after the 2008 financial meltdown: How a crisis born in US reshaped India The Times of India"
     },
     {
-      "published": "2026-09-19T11:25:20+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "Franklin India Small Cap Fund(G)-Direct Plan - Univest",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNM29hb3BIVFd4Um1BdThEM1N0OGM2NEEtZDNpaFE1T1hwd1p2R2t2aW5RUklhOVpUdzZheXhBQllQZURJREk5R3RKSGdhYmFkc2o2eFR5NlAxcFFTeWJyeGs5Y09tTVJlMlRkUHhyRHNNWnRSZW1Bd3FkWk9WcXBwWA?oc=5",
-      "description": "Franklin India Small Cap Fund(G)-Direct Plan Univest"
-    },
-    {
       "published": "2026-09-19T11:22:31+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -36905,13 +36923,22 @@
       "description": "Invesco India Overnight Fund(G)-Direct Plan Univest"
     },
     {
+      "published": "2026-09-19T11:02:06+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "Nippon India Money Market Fund(G)-Direct Plan - Univest",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOWm9JcV8wcmNRZWZhQXNGVEJQOXpfbGpCTVhxQV95MzE1SU41Nk83WHloUFhmdFVDSnFaLWRheV9lNkMxRmYtVFFYalkwdDVhUmR5bklZcDRWbjg4bG1HQWdLZEZIXzE4YnVFTUF3dG5CQVI4NE4wSVc5NjVuZWJYRmtn?oc=5",
+      "description": "Nippon India Money Market Fund(G)-Direct Plan Univest"
+    },
+    {
       "published": "2026-09-19T10:59:29+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "quantumzeitgeist.com",
-      "title": "Researchers Build Colour Codes With Polynomial Error Correction - quantumzeitgeist.com",
+      "source": "Quantum Zeitgeist",
+      "title": "Researchers Build Colour Codes With Polynomial Error Correction - Quantum Zeitgeist",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmcyNG8yVVI3OC10LXc4bVdpamNfNFV0czdsLUlmaUF3eURFRDc3T3hhSnFGZ3lxbk9YUlJuSTJwTndhenVzckh0ZDVMT01TeHBSY1Y1RnBrUkFsWVpTVGdma05ILW42Z2YyQmhxR29YTGNJUGNIcjhhZ2w2LW1uc2hiaEVsMGU4ZXhycXdR?oc=5",
-      "description": "Researchers Build Colour Codes With Polynomial Error Correction quantumzeitgeist.com"
+      "description": "Researchers Build Colour Codes With Polynomial Error Correction Quantum Zeitgeist"
     },
     {
       "published": "2026-09-19T10:57:19+00:00",
@@ -36957,42 +36984,6 @@
       "title": "India’s wealth management market set to grow 2.5 times to $436 billion by 2034: Emkay Wealth - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOV0hfbkhzMURXMEVpSk1CUWlHaWVnZE5QVVF5ZE1ZNW5CQnhvSzBIRU9IU3BLamo0Yk40cnNPZ0RDMHgwcGRzUEJJbF9zNkR4UFRfZ1lpc21iV0QtbjBweklkRVRGWEVYLW5abWYxMS1nV1R5WjRTM2dQcDV5QjBBWWdCN0YyWktqX0ZIVjViYTlOQzl0QzNaMzFUcTgwcnV6VkgycXdCWTZNeFVHOU5qYUhZS3g2N0lTUDR3c0xhdXRtVk9hbGtETUxfSWU3Nnl5aG9fU1NPdkx6Mk0xVG1BTURNb0pHNERNM0tXZFJOQ3DSAfABQVVfeXFMTldIX25IczFEVzBFaUpNQlFpR2llZ2ROUFVReWRNWTVuQkJ4b0swSEVPSFNwS2pqNGJONHJzT2dEQzB4MHBkc1BCSWxfczZEeFBUX2dZaXNtYldELW4wcHpJZEVURlhFWC1uWm1mMTEtZ1dUeVo0UzNnUHA1eUIwQVlnQjdGMlpLal9GSFY1YmE5TkM5dEMzWjMxVHE4MHJ1elZIMnF3Qlk2TXhVRzlOamFIWUt4NjdJU1A0d3NMYXV0bVZPYWxrRE1MX0llNzZ5eWhvX1NTT3ZMejJNMVRtQU1ETW9KRzRETTNLV2RSTkNw?oc=5",
       "description": "India’s wealth management market set to grow 2.5 times to $436 billion by 2034: Emkay Wealth Moneycontrol.com"
-    },
-    {
-      "published": "2026-09-19T10:33:18+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone? - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlVybnc5dkl4b2M1Mmp2SjdSbU5tZmVsOGZxQXROWG9MT1ZTRUZsZURYNms2NUxpTkxZa3dHN182ekFQQjlRV1hIRjVEZWN0bnpkaVQxd3Bpa1ZjSDlsRFphZWRDTV9uLWV0aVRmQnFyYnlUNFFrVGxaXzhGREdiT1pQdUlqaU1idC04VjktYkNia2Znel9SQ2tneGxDcnpkSWZaQy1NY0tsZW05ZjJqaUFVNTgzaDBJOHFjWVA1WFA4VW1EMkNTcWlFUUF4aHNSYnZz0gHYAUFVX3lxTE5YTVVGanNNems4TWhwYkkyY3lwOExqWjJNRjlLQ3ZaNmVyNk1Ma1pSM0NhSVkzX1kyYWQwUVQ5blV2d3FCUS03WEtZd2ZNYlczR3ppZXA1ei16Y3dtWFRBbExnYl84aEZHSHhIdkpKWG0yemJPODc2VFFzYThMM09zdl95eURWNFVhQkNZcGNfLW5YdDJkaHZUbHFJWEd4dlVQTE1ZTG9KSUJja2dndlBORS1VUk1FdVM2THlyal9HQVFTbE1kV0dpcEhsMDZLSVJUblhKdlUwdQ?oc=5",
-      "description": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone? The Economic Times"
-    },
-    {
-      "published": "2026-09-19T10:17:40+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "Invesco India Focused Fund(G)-Direct Plan - Univest",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE02cUVnRVVacTBDVFYtcVZlVVh6WkFCNXI5RlZNNVd5UWt5d2NYVUhiZmgwdGplbmJId0VtUUJQblpxUHRSSUFjVFRtd2VFZlBpVmpxRHpyZGJaLXQ0TU50OFZKT0Exd25fdmxucnBnbjFpcjkyM2JCaGtJdjI?oc=5",
-      "description": "Invesco India Focused Fund(G)-Direct Plan Univest"
-    },
-    {
-      "published": "2026-09-19T10:17:18+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "Franklin India Balanced Advantage Fund(G)-Direct Plan - Univest",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONzFZT3hORG1mSWtLd2RiMkdVQVpxOUxZM1ZLN2ZyZzliRzN0Tm01QUpVZGxTYzNWajNGem1Kem9kUEVLRWlWVzg1a2hqTndBN05lX29KalREbnl3Yl9XbDh6bkp5cTZaUzNOeGFFZDJ5bUlfUjJMMmd4MEN6dG5EVVk3ZU5VVllkcnl3Rg?oc=5",
-      "description": "Franklin India Balanced Advantage Fund(G)-Direct Plan Univest"
-    },
-    {
-      "published": "2026-09-19T10:17:06+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "PGIM India Overnight Fund(G)-Direct Plan - Univest",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBNSmZUWEdlNV9FOUVTMmE4Zl8yZWJ5SkZ1bmRYdFV1ai1ZNzJXbjZPa29seWtIeW15UmhsdEFVckhZY0FUaTdoekxBRnlyTWRYbHhQb2MwMTM2VkZJaUo5dkdYa1p5RVRqNUYwVEZ6NmVLQW9pYllGR3RPVQ?oc=5",
-      "description": "PGIM India Overnight Fund(G)-Direct Plan Univest"
     }
   ]
 }
