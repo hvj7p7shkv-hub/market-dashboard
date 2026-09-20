@@ -172,11 +172,11 @@
     "score": 7
   },
   {
-    "title": "Course correction? How the last 10 days changed the way we see AI - The Economic Times",
+    "title": "Course correction? How the last 10 days changed the way we see AI - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNmNGbXA4anVMQjJwUTN2am9sWDRpbUdLVFdTdXZDU3VPU1V0QnJsVjIyaXgzSXdCei16RXdTOEtBVkFrUTFRc1VZQ1dkTHNOWkxjUTA4TkprX3k4dGwxaDQxXy1rYWc2ei1UWEFVdldOTElzRWNLdmE3LUV6WE1Fa2tDQ1d2dkJ0czJyX3hyZUNTaUl5LTJrcEN1WGNUVzZGSHJISVFyTFNCZ0E3dmRlM2JXOHZVMlR3RkN6OFg0SjhHaXYzRWRGODZmMTl1UdIB0wFBVV95cUxPdk9RLXFHS2pWS1V6MUtLMXhOY19kU0p5TzZVTjFrZDlHTzduQzV2R29ZZlFDU1ZOWTctRGluN3RqV0xpVzhGaFFYcmYtT2tLeUtobG15LUJfTmVoaEZJSDBwcHZpUGpWOEtYTkJNZDZ6WS1IOW1nWmJtNzhhdlF2UGhEQWRRVVdBeHNlTllVMG50WXJpcnQ1aGlFamZqWTVmSVA4LXRoUGFvQS03aGYzUHRfRU1YM2FVVmtTMVNidVI4blVHbE8yaVhxNHJKUFFuYlo0?oc=5",
-    "description": "Course correction? How the last 10 days changed the way we see AI The Economic Times",
+    "description": "Course correction? How the last 10 days changed the way we see AI economictimes.com",
     "published": "2026-09-19T10:19:58+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -256,10 +256,23 @@
     "score": 5
   },
   {
-    "title": "Piramal Finance - Lupin and Radico among 5 midcap stocks sold by mutual funds in August - The Economic Times",
+    "title": "Piramal Finance - Lupin and Radico among 5 midcap stocks sold by mutual funds in August - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd0dycjNDR3owcFVIVVFib2dNdVpHdFplMUdVSk5LQ0Ita2xlZmNnQTFVUDVnbUFGdkxxNnVxOE1YWUQ5cWRDQm1LMUI0NEhxR3VWaUFpbHpXR2JWZno2cmhIWDVrSjBVOFJjbWt3ZEdsOWlYZ2dKek00WUhTd1VhYWhXd0ZuZzNuU2x2elE1ZXhHeDkweTJZTUFzRFdGZzU5LVhuTHlSR21fWmJtSXdJNG5OLVc0VGpJVGV4VHUzYWNQcWsyalVvVHlPWXFUOVdzb3VFMUt2Q1pxTUJSWFBDUHVwOA?oc=5",
-    "description": "Piramal Finance - Lupin and Radico among 5 midcap stocks sold by mutual funds in August The Economic Times",
+    "description": "Piramal Finance - Lupin and Radico among 5 midcap stocks sold by mutual funds in August economictimes.com",
     "published": "2026-09-20T05:02:22+00:00",
+    "source": "economictimes.com",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 4
+  },
+  {
+    "title": "Lupin and Radico among 5 midcap stocks sold by mutual funds in August - The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeGllMnA1eXFTWEM5TjJqcjNPUWstVy11c2RjSG1ubjlrbFdtTEUyYUZoN3ZsMzVBRnljVFh5ZDZCb2xrcUFLRWdtbkJDWC03TWkzM3RNLVZPa1ZGVTVkYjJ5SzJ1NFFIS29NaG1BTFh1MGxxUFlsNTU4UFdCX1Foa0NvaGpQV3pkWFVNOGNER1J2VVN1cjllZDNBQTZqUFE5cUliODEzS1UzekN4OVlOT0JZREIxRXM3ajF5OTJuUGtETTR0RkVqWDVHbTVwMENmRXRMLWd2NVN3UQ?oc=5",
+    "description": "Lupin and Radico among 5 midcap stocks sold by mutual funds in August The Economic Times",
+    "published": "2026-09-20T04:26:21+00:00",
     "source": "The Economic Times",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -269,24 +282,11 @@
     "score": 4
   },
   {
-    "title": "Lupin and Radico among 5 midcap stocks sold by mutual funds in August - economictimes.indiatimes.com",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeGllMnA1eXFTWEM5TjJqcjNPUWstVy11c2RjSG1ubjlrbFdtTEUyYUZoN3ZsMzVBRnljVFh5ZDZCb2xrcUFLRWdtbkJDWC03TWkzM3RNLVZPa1ZGVTVkYjJ5SzJ1NFFIS29NaG1BTFh1MGxxUFlsNTU4UFdCX1Foa0NvaGpQV3pkWFVNOGNER1J2VVN1cjllZDNBQTZqUFE5cUliODEzS1UzekN4OVlOT0JZREIxRXM3ajF5OTJuUGtETTR0RkVqWDVHbTVwMENmRXRMLWd2NVN3UQ?oc=5",
-    "description": "Lupin and Radico among 5 midcap stocks sold by mutual funds in August economictimes.indiatimes.com",
-    "published": "2026-09-20T04:26:21+00:00",
-    "source": "economictimes.indiatimes.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 4
-  },
-  {
-    "title": "HDFC Flexi Cap and Franklin India Mid Cap among 7 mutual funds that multiplied investors' wealth over 21x in 20 years - economictimes.indiatimes.com",
+    "title": "HDFC Flexi Cap and Franklin India Mid Cap among 7 mutual funds that multiplied investors' wealth over 21x in 20 years - The Economic Times",
     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNjhFR2N4SW9MZDhwMGFWemVGUi1HTXlWbEFqWUUwQXNkcjNlZ2MyRkF3M2xLcEZ3SWRRMmVUenFTNGs1dmxYUk83UW8tM3IyQURfa1E3ZlN5a29LeV91OUJtZER4M0hHVnVLSnFkbFBmSnFrVU96U1IwWXpJZ1JBWVBWaXduVlZTMzNGVENBczFwN0FyX3Izdjl5UlE0Z0JMc25SaTlHaU9wSEp4ZjhNSlpmR2piVzctVTdTNER6OERYZmtwOHl3Q0dlanlBbXllZWhYcFN6YU9rQ1N5RTl0OUxsYmUxTjRaM3Vsdk45WmdpdENPY1c1TVplOFBtVlpyWTNSRDdPY1pDNVNZVDJtY2ljTDNSRFlp?oc=5",
-    "description": "HDFC Flexi Cap and Franklin India Mid Cap among 7 mutual funds that multiplied investors' wealth over 21x in 20 years economictimes.indiatimes.com",
+    "description": "HDFC Flexi Cap and Franklin India Mid Cap among 7 mutual funds that multiplied investors' wealth over 21x in 20 years The Economic Times",
     "published": "2026-09-20T04:16:26+00:00",
-    "source": "economictimes.indiatimes.com",
+    "source": "The Economic Times",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -295,11 +295,11 @@
     "score": 4
   },
   {
-    "title": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - economictimes.indiatimes.com",
+    "title": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times",
     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOT0NzaFJzclBkaEdfV1FqNGN3Q0lXTjdHZ19UMHplTzlPYnl4UVFvYk1SZXFtaEZsS3lpcFJ3QUtBMzBoYXZaZ3hIdjFCRFAyY21wdVhIWGNqa1ZVR2dSbFRzcW1QV09NaWx3Xzlqa1ZEc1RkdUgyZktrYmJmR3l6RTR3ZXpFSXFBLXpaU0N1NDhWQUlMNUpXUEhDQ3VxNVNMeWxJRnZmbkgyeTZsUndJUG9QUFlCOVM5bHpfeWRVblZDOWV5WFRNemctb281RDhvMElET25RLUVmN2ozUTZZYWxIOA?oc=5",
-    "description": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August economictimes.indiatimes.com",
+    "description": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August The Economic Times",
     "published": "2026-09-19T09:32:35+00:00",
-    "source": "economictimes.indiatimes.com",
+    "source": "The Economic Times",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -321,11 +321,11 @@
     "score": 4
   },
   {
-    "title": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - economictimes.indiatimes.com",
+    "title": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August - The Economic Times",
     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZ2kyc1A3ZEg5NlgzMmNOY1NCemFKM1E5dHpYN0NGc2t2XzZDSWFTU0xpWDFRQjJ1Nk0yZ1pNQ2VTSms1ZW1fZjNhLTFKVGtMMjVONHlkR1EtNE1CZDNqbEFZRGNLNmVLLVNWaFBtUmVub19GZkpLWXliWHA5QTZHTk41LUVvU3RSNmIzcUlGTlByQUdyX29rdzJHeXNYdE5EUGxVUUluaE5kOXZXcFZFSFlMVEZDSVBleUs5U0xTZzZjeTVZQUxjV1Jfb2d5N3FPaUYtOXJiX1VpaUV1dUVzV01zWWwxMkJfV2lpM01wX0VwUEN6?oc=5",
-    "description": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August economictimes.indiatimes.com",
+    "description": "Gland Pharma and CAMS among 5 smallcap stocks sold by mutual funds in August The Economic Times",
     "published": "2026-09-19T09:31:28+00:00",
-    "source": "economictimes.indiatimes.com",
+    "source": "The Economic Times",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -334,26 +334,13 @@
     "score": 4
   },
   {
-    "title": "Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as auto, railways and tech slide - The Economic Times",
+    "title": "Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as auto, railways and tech slide - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQSzRaV2pJWmp6YU1ZVHQ2VGVkWmI1N0QxOEZiTnpUcngtNjE4T3NIRDN5SDRZQjZuYjRJNFlZR2NOcEw3bTBiOU45SW9Xa2Z5S19VWWI2NE1FcE0xNXdvRkN1dWhRSmRBWE03WTRvSU1tLXNmbVl6SWVobUFSVTN0MWpiSGwyQXVFaFF3eVladEVoOUc0SUFnV29WbzJOMTBkRUtqUFRHYkViNGlEY3FWbEZxekpZeVByZmZ2S0hXdmNnc3FMYWVLQk9wb2g1azZfazQzalEycl9EMXVxZmx5aHU0bW9kVjZDNTZOdFVac3lzU1ZfUm44eC1fdlJ5eVhkTHhCMmQyZ0VZV1nSAYsCQVVfeXFMUEs0WldqSVpqemFNWVR0NlRlZFpiNTdEMThGYk56VHJ4LTYxOE9zSEQzeUg0WUI2bmI0STRZWUdjTnBMN20wYjlOOUlvV2tmeUtfVVliNjRNRXBNMTV3b0ZDdXVoUUpkQVhNN1k0b0lNbS1zZm1ZekllaG1BUlUzdDFqYkhsMkF1RWhRd3lZWnRFaDlHNElBZ1dvVm8yTjEwZEVLalBUR2JFYjRpRGNxVmxGcXpKWXlQcmZmdktIV3ZjZ3NxTGFlS0JPcG9oNWs2X2s0M2pRMnJfRDF1cWZseWh1NG1vZFY2QzU2TnRVWnN5c1NWX1JuOHgtX3ZSeXlYZEx4QjJkMmdFWVdZ?oc=5",
-    "description": "Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as auto, railways and tech slide The Economic Times",
+    "description": "Only 2 of 23 mutual fund themes gained in August; IPO, defence stay green as auto, railways and tech slide economictimes.com",
     "published": "2026-09-19T08:16:58+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 4
-  },
-  {
-    "title": "JioBlackRock Mutual Fund files draft document with Sebi for income plus arbitrage omni FoF - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQXzBHRF84cE9kaHVjUmIxZWRWV3pHbnR6bGFzNEJ3S0NJMHlVcnpqNDQ4ekMweFJPbG8yclVUeDBybnZNeEtOMnduUkZsbGdkZVp3Rm50b0g2YUFVSTRESEZMLVRwVkhyZXZzc0xTekRkYlk3M2hyODA5bER2Wi0yUUpyd1VkQUJ6SURaa0ViNWhGUFlmVjM3c2sxLW9iV2JFQ1JVTkZCNFQwOUVhNDlDcllrYzFVelZCbTZONkZSczJxelc3ZDV3WTVXRUVyTHk0X0J5T0JXQ2FsdXdhSDIxRVJ4dU9OaFVoMld0NlE5Q0nSAfABQVVfeXFMUF8wR0RfOHBPZGh1Y1JiMWVkVld6R250emxhczRCd0tDSTB5VXJ6ajQ0OHpDMHhST2xvMnJVVHgwcm52TXhLTjJ3blJGbGxnZGVad0ZudG9INmFBVUk0REhGTC1UcFZIcmV2c3NMU3pEZGJZNzNocjgwOWxEdlotMlFKcndVZEFCeklEWmtFYjVoRlBZZlYzN3NrMS1vYldiRUNSVU5GQjRUMDlFYTQ5Q3JZa2MxVXpWQm02TjZGUnMycXpXN2Q1d1k1V0VFckx5NF9CeU9CV0NhbHV3YUgyMUVSeHVPTmhVaDJXdDZROUNJ?oc=5",
-    "description": "JioBlackRock Mutual Fund files draft document with Sebi for income plus arbitrage omni FoF The Economic Times",
-    "published": "2026-09-19T07:20:38+00:00",
-    "source": "The Economic Times",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
@@ -387,11 +374,11 @@
     "score": 3
   },
   {
-    "title": "Oil India - 10 midcap stocks post highest quarterly profit in 10 quarters - The Economic Times",
+    "title": "Oil India - 10 midcap stocks post highest quarterly profit in 10 quarters - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQZDEzX1VPU2dfeko4QjNyRDRrMUdwX00zYmttOXE4RmRsSlY4cmRNa3RLTTlSZHNvWDZtNXduT3pPeHRqQzMxcHVxU04tODhMOUFRRDAxenp1Unl1SlFyeDltSldrdXlWdk9hVzdSdWc4WThEWFo5dFNrQ2t6Nk5WLXNXaFM2MHJiTTVqaWRlcXAtc3U2Nm85R2x5RmVOaXFJMkpxQW95ek11d19QV1FWYWZwOW1TUWQ4bUQzaXNPai1rbUoxSzdzUjVDdWpPVW5ic1FuRHVLQmhPbVE?oc=5",
-    "description": "Oil India - 10 midcap stocks post highest quarterly profit in 10 quarters The Economic Times",
+    "description": "Oil India - 10 midcap stocks post highest quarterly profit in 10 quarters economictimes.com",
     "published": "2026-09-20T04:34:08+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -510,20 +497,6 @@
     "source": "bbntimes.com",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market",
-      "macro / flows"
-    ],
-    "score": 2
-  },
-  {
-    "title": "FPI selling reaches Rs 23,676 crore this month amid high crude prices, global liquidity concerns - Social News XYZ",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNF9YRGZ2eFUwa3ZvMmxOX2NGdGlMcktnS2h3RTZMQzI4T3U3U1VoZXhsaFZoY010ZlVucE1XRnBhbDlocmN2NlBGZ3V2RWVHeWlsVS1kcms4TVFVMWk0U0EyM0JUR2ZQaGJZaklzMlVhdzhGb0dmQ1VDUXp6VFVNSXFrMVRIWXZXN0VKeDh2TWNRX2NpZGtZNkgzb0J3WWRFMm5KX0NXYUpPcmFsd3QzLWhlVjRNdWUxcnBhdEZVb1lJQlJuM3NhTkpEZjFCdw?oc=5",
-    "description": "FPI selling reaches Rs 23,676 crore this month amid high crude prices, global liquidity concerns Social News XYZ",
-    "published": "2026-09-20T03:24:22+00:00",
-    "source": "Social News XYZ",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market",
       "macro / flows"
@@ -849,11 +822,11 @@
     "score": 2
   },
   {
-    "title": "Invesco India Ultra Short Term Fund Regular-IDCW Monthly (₹ 1,013.98) - NAV, Reviews & asset allocation - The Economic Times",
+    "title": "Invesco India Ultra Short Term Fund Regular-IDCW Monthly (₹ 1,013.98) - NAV, Reviews & asset allocation - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQOElBV2FCSzhySE8tSWRGMXRaNS1FMUNfYWhFdWczZ0JlSUtidEJJYUdkQWRERDBXZHhZSjJwVEdTTndjbHlrSEtkcmZrcGhoWFQ5alh1eE5nWHVKdFB1eVVRaFphM0N3eXFiYlpGTVgtZ2JqSTNUOGVzLXR3Vjg4UWxkZDFKMU9Jd3VGdUVjVXlna3NnY19qSlBjQUlmNmNlWEVLV2ZKZi1EVTA?oc=5",
-    "description": "Invesco India Ultra Short Term Fund Regular-IDCW Monthly (₹ 1,013.98) - NAV, Reviews & asset allocation The Economic Times",
+    "description": "Invesco India Ultra Short Term Fund Regular-IDCW Monthly (₹ 1,013.98) - NAV, Reviews & asset allocation economictimes.com",
     "published": "2026-09-20T05:14:58+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -875,11 +848,11 @@
     "score": 1
   },
   {
-    "title": "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street - The Economic Times",
+    "title": "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaGVkYXdxQjFoMi1ucDFRZDhNMEtEdG5iZzhVQ0hGRVJFXzZfTFRNT0xlNG1DbFNsX1M4enh2VXlIV3g5WGR0TWo5VVpmUk5aN2tPOXBQRWtFVFp3ZGxKY1BsRTd6SDdJLW56bjFQS1lUMWFidDlDd0l1UzhENER5cnZHRVNkT0J1OHFwRDNndDlNMkw2OHJiMXFMV01oWXJTVi1mQkJZWUduUkpiLWVfbkZMbExfZmdwRmtrWUZEVEd3VTA4UTJSR1JaTzJqcC0wa3FDY2I2YzVDdWRWUG1abVFyelJtUzlpWkhTVERkSmtmVERTWVh1SnZxTlRPd1Z1bUVjLWJubGRoeHBOdVFKZDh4RGd1OWpf0gGYAkFVX3lxTE9oZWRhd3FCMWgyLW5wMVFkOE0wS0R0bmJnOFVDSEZFUkVfNl9MVE1PTGU0bUNsU2xfUzh6eHZVeUhXeDlYZHRNajlVWmZSTlo3a085cFBFa0VUWndkbEpjUGxFN3pIN0ktbnpuMVBLWVQxYWJ0OUN3SXVTOEQ0RHlydkdFU2RPQnU4cXBEM2d0OU0yTDY4cmIxcUxXTWhZclNWLWZCQllZR25SSmItZV9uRkxsTF9mZ3BGa2tZRkRUR3dVMDhRMlJHUlpPMmpwLTBrcUNjYjZjNUN1ZFZQbVptUXJ6Um1TOWlaSFNURGRKa2ZURFNZWHVKdnFOVE93VnVtRWMtYm5sZGh4cE51UUpkOHhEZ3U5al8?oc=5",
-    "description": "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street The Economic Times",
+    "description": "Will Nifty extend gains to 4th session on Monday? US sanctions on Russia among factors to decide D-Street economictimes.com",
     "published": "2026-09-20T03:53:00+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -992,11 +965,11 @@
     "score": 1
   },
   {
-    "title": "Nippon India Ultra Short Term Fund-IDCW Weekly (₹ 1,091.69) - NAV, Reviews & asset allocation - The Economic Times",
+    "title": "Nippon India Ultra Short Term Fund-IDCW Weekly (₹ 1,091.69) - NAV, Reviews & asset allocation - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSTRlWElmSVJDTHJGbkV2STRqZW1TeF9TbVVRZmNMYVo1VDREdU9ZN1FfU3A4S0xwNlN0MDFBWjQ3YVRNanlHQzlzZkdrUjB6bDNKSFBrY2JPaktHYlNsSjlKR09ScDdrYUdQYjJkblBiTFBiYUltbmNzMzY3S3lHeUVTSzJyTkZJNTFRdVduOFZwamlWbF9r?oc=5",
-    "description": "Nippon India Ultra Short Term Fund-IDCW Weekly (₹ 1,091.69) - NAV, Reviews & asset allocation The Economic Times",
+    "description": "Nippon India Ultra Short Term Fund-IDCW Weekly (₹ 1,091.69) - NAV, Reviews & asset allocation economictimes.com",
     "published": "2026-09-19T21:37:03+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1031,11 +1004,11 @@
     "score": 1
   },
   {
-    "title": "Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & asset allocation - The Economic Times",
+    "title": "Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & asset allocation - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPejBHcVduTzFVVFBQaWJjdF9sRTNaN2hJZXhQLWVVNjhLTWh0c0hNUjJSZ2c5MmpWbkZvRDRUNEYzcjRYQWZpOUF2NUVxN1VzaWxCQ2kwc003UWQ2cmtMdm1oUkhvZWhlTzNTYzY0cUkybmhERGFFRV84NjJzVHNnZDQyZEM5ZERNSmNvWU9ZWk1iWFZRLXhIZVdB?oc=5",
-    "description": "Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & asset allocation The Economic Times",
+    "description": "Nippon India Medium to Long Term Fund ( Quarterly) (₹ 13.23) - NAV, Reviews & asset allocation economictimes.com",
     "published": "2026-09-19T19:31:12+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1044,11 +1017,11 @@
     "score": 1
   },
   {
-    "title": "Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation - The Economic Times",
+    "title": "Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNG1oNEdacXZnZ3R3cVp6QVZvRTU4amhYb29VY0lkWUdIeEdYR3Y3S0lVYldCMDJZb3JRY2RLdVNqZEctbHF6SjZwSFhBaUt0VTBRdVpJMWVwRTZtbExzcWR6RV9tMWNzMVhPaXRqV1JVSlNTbDBBYklfR3FYN2V3TVVjV1c5YXpMNUs4a2JfQ0tqblROYlhjU1VmUVNPcEIwNUNwR1M3bVVYLWZYTXR3S2xB?oc=5",
-    "description": "Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation The Economic Times",
+    "description": "Nippon India Floating Interest Rates Fund Direct-IDCW Monthly (₹ 11.33) - NAV, Reviews & asset allocation economictimes.com",
     "published": "2026-09-19T18:58:54+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1083,6 +1056,19 @@
     "score": 1
   },
   {
+    "title": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMGJEaW5SMTYzdjdpbkF3cm5ZcDNIUDd4M2tqXzZtQjFzN1NRSDBweG5KZ1RTaTUySHVPSUFSTHFlb3pqZWJPWFZFVjRpRGt3cGctaDJORmNTWlEyMllYQWQ2aTRTb280STNCRC0xVkN5cEdwVUdxdm9saXk5dlB1amNQWlYyUjV2em53UXZ6R0pnN0JTdVAxMkRyX21naGtHb1d3Zkkzakl0RHM5TUJLMXg2bW1ZWUdKV2hfNTJob2o3Nl9raGdldVZ2V0RJdmVpZF9SNGp5R01MQWZoa3FZ?oc=5",
+    "description": "NBIS Stock Jumps Overnight As Nvidia Reveals Over 9% Stake, Analyst Sees More Upside Stocktwits",
+    "published": "2026-09-19T18:26:35+00:00",
+    "source": "Stocktwits",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk"
+    ],
+    "score": 1
+  },
+  {
     "title": "Franklin India Aggressive Hybrid Fund(G)-Direct Plan - Univest",
     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcjJkdGg5b2w5Y3RLbXMzS2lERWp2TDNqcTMzR1FFNk9OZktWdHFRVzZ2VDd6VFFfeURVWEhhYUZxRHFIN01xal9JbzdKcVp6RzJoYkdvMzlRY0M4VXdrX2l2RGEwZERnYnI2Z1ZYVFZtNEZlRFJUNHY1ZlQ4eS1lbDR0ZUNmUUNuYTJN?oc=5",
     "description": "Franklin India Aggressive Hybrid Fund(G)-Direct Plan Univest",
@@ -1105,19 +1091,6 @@
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "How KiwiSaver would cope with the prospect of an AI bubble bursting - thepost.co.nz",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOMS1qcWFidGFIbi1FUktXUXU5dnlOWW41bEhQXzF2cWMzVnVnaXh6eUwtU2YxOTgzY2N5LXZBZEc3d2gxaHNST3VuSVZxVHMxUWpJZXQyZjZncHNBQmliNEpIclM5cmNsX1RBRnQwVFB0QTVoalpzdkZmaW5pVGh3cjVzcklUUjlBdTJuQi1IRlBxdmQzZ1pUcFA3OHo3Zw?oc=5",
-    "description": "How KiwiSaver would cope with the prospect of an AI bubble bursting thepost.co.nz",
-    "published": "2026-09-19T16:00:00+00:00",
-    "source": "thepost.co.nz",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk"
     ],
     "score": 1
   },
@@ -1187,19 +1160,6 @@
     "score": 1
   },
   {
-    "title": "Fabrinet poised for growth with AI-driven deman... - Pluang",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNDRrbDV1YmVnc2FTaHo2VzMzWVpRSmVjbzMwYWFSbVBLSjhVNnZJYl9HelBIM1d0RGRXTDkwRDgyMW5YOUc0NFN0Z280RW15YW4zSWY1eEhzSE43SGp5ZWZRVVROdE43c3FSbVQ4ZVltTGRDMFktMzF6VEN5ekRZZVAwMUZtYW5MT1c2VUR1Nl9Kb1VYUU5n?oc=5",
-    "description": "Fabrinet poised for growth with AI-driven deman... Pluang",
-    "published": "2026-09-19T14:22:57+00:00",
-    "source": "Pluang",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk"
-    ],
-    "score": 1
-  },
-  {
     "title": "BLOX: A Crypto Rebound Meets A Hawkish Fed (NYSEARCA:BLOX) - Seeking Alpha",
     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRGJ5T2N6YlJQbXRPVXNhNVRLdVVmU3lZU0VDV3NUcG81eXg2TWFMb19BRXo4NjRna2MwU2gtRkg1TEFER29XSGlQZ2tBbmN4UndUaW51OG8zYTl2N0lVd3ZJWDRGeXoySU9ZMFlKdXpKMzFFcEh0N3VTYWhJZFJXWWVGUnBkczY3aHA1NlNBRmN3eFVIWGZoYmNjdmxHLXJJbWJZ?oc=5",
     "description": "BLOX: A Crypto Rebound Meets A Hawkish Fed (NYSEARCA:BLOX) Seeking Alpha",
@@ -1220,6 +1180,19 @@
     "source": "INDIA New England News",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Nippon India Liquid Fund(G)-Direct Plan - Univest",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1rTk5faDhYOVllazBmbnFBZXI4cFF5elBpQ21DcTJCZlk0S3BhVjU3Y2ZoZ1lwclVKRThJLVJualM3X01ZQ3h3UzQ2dC02Z25qTzlJVWM3UmpETGxaTTQ5Z3ZMVGZxajBHQ1k4YnhObEtiOXZ2bWdnOVN3?oc=5",
+    "description": "Nippon India Liquid Fund(G)-Direct Plan Univest",
+    "published": "2026-09-19T13:53:22+00:00",
+    "source": "Univest",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
@@ -1369,11 +1342,11 @@
     "score": 1
   },
   {
-    "title": "Researchers Build Colour Codes With Polynomial Error Correction - quantumzeitgeist.com",
+    "title": "Researchers Build Colour Codes With Polynomial Error Correction - Quantum Zeitgeist",
     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQmcyNG8yVVI3OC10LXc4bVdpamNfNFV0czdsLUlmaUF3eURFRDc3T3hhSnFGZ3lxbk9YUlJuSTJwTndhenVzckh0ZDVMT01TeHBSY1Y1RnBrUkFsWVpTVGdma05ILW42Z2YyQmhxR29YTGNJUGNIcjhhZ2w2LW1uc2hiaEVsMGU4ZXhycXdR?oc=5",
-    "description": "Researchers Build Colour Codes With Polynomial Error Correction quantumzeitgeist.com",
+    "description": "Researchers Build Colour Codes With Polynomial Error Correction Quantum Zeitgeist",
     "published": "2026-09-19T10:59:29+00:00",
-    "source": "quantumzeitgeist.com",
+    "source": "Quantum Zeitgeist",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1421,11 +1394,11 @@
     "score": 1
   },
   {
-    "title": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone? - The Economic Times",
+    "title": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone? - economictimes.com",
     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSlVybnc5dkl4b2M1Mmp2SjdSbU5tZmVsOGZxQXROWG9MT1ZTRUZsZURYNms2NUxpTkxZa3dHN182ekFQQjlRV1hIRjVEZWN0bnpkaVQxd3Bpa1ZjSDlsRFphZWRDTV9uLWV0aVRmQnFyYnlUNFFrVGxaXzhGREdiT1pQdUlqaU1idC04VjktYkNia2Znel9SQ2tneGxDcnpkSWZaQy1NY0tsZW05ZjJqaUFVNTgzaDBJOHFjWVA1WFA4VW1EMkNTcWlFUUF4aHNSYnZz0gHYAUFVX3lxTE5YTVVGanNNems4TWhwYkkyY3lwOExqWjJNRjlLQ3ZaNmVyNk1Ma1pSM0NhSVkzX1kyYWQwUVQ5blV2d3FCUS03WEtZd2ZNYlczR3ppZXA1ei16Y3dtWFRBbExnYl84aEZHSHhIdkpKWG0yemJPODc2VFFzYThMM09zdl95eURWNFVhQkNZcGNfLW5YdDJkaHZUbHFJWEd4dlVQTE1ZTG9KSUJja2dndlBORS1VUk1FdVM2THlyal9HQVFTbE1kV0dpcEhsMDZLSVJUblhKdlUwdQ?oc=5",
-    "description": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone? The Economic Times",
+    "description": "Dalal Street Week Ahead: Can Nifty defend the 23,000 support zone? economictimes.com",
     "published": "2026-09-19T10:33:18+00:00",
-    "source": "The Economic Times",
+    "source": "economictimes.com",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1538,10 +1511,36 @@
     "score": 1
   },
   {
+    "title": "Motilal Oswal Nifty Capital Market Index Fund(G)-Direct Plan - Univest",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUVZqSTRSUEFjMi1PZ0tqdzNMbXNsenB4OTNnOFh6cmh3aHNRWUtIdXB2eUYyc0l0VS0zVmM1RWhRcGYxbHlFblVLaUw1TFFrcGE0RmxoV0lzS2laYVJpMXhHdERybUxnWmQ0TFhWTmMxSDUyU0EzamhvYllwZWdmbW5UMHlDZnY5RnVxN21PdlJsR3drZ3c?oc=5",
+    "description": "Motilal Oswal Nifty Capital Market Index Fund(G)-Direct Plan Univest",
+    "published": "2026-09-19T09:32:24+00:00",
+    "source": "Univest",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
     "title": "Tata Digital India Fund(G)-Direct Plan - Univest",
     "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5TeExyNk5GWklCOXMyR1FvMElxN0V6c0V6TmtqVG5zS2Uta2J2SGE0dmtoMFl1Zk9xMVBnSF81clpiQmh5eTVaMmZSaGFyRGhBeEthT05WX0ZINmQyakpFdnFZcGZHYUc0b0M2XzFzZFBJVGlBTWxoQw?oc=5",
     "description": "Tata Digital India Fund(G)-Direct Plan Univest",
     "published": "2026-09-19T09:22:56+00:00",
+    "source": "Univest",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Invesco India Ultra Short Term Fund(G)-Direct Plan - Univest",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNU1d0VGZzUjhVMjYya0JQUHltN3d4czdpWi10Vl8zejd5VWtMNTVjd3pQTl9wZzlTQlUyUDYtSWdCTy1jVGRKYWtTLTB2b1dROUhyajQzbjZBeGF1ejZXeVpZSGFnM21yUmN1QUxacXBXZkRpLWNQS1ltc3pfQXdvVEh1dHh4bFV4?oc=5",
+    "description": "Invesco India Ultra Short Term Fund(G)-Direct Plan Univest",
+    "published": "2026-09-19T09:20:55+00:00",
     "source": "Univest",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -1701,45 +1700,6 @@
     "source": "Univest",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Franklin India Opportunities Fund(G)-Direct Plan - Univest",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTG5HallVZ3REeENIV2d1WExlcU8xUFdrZEtXdzBRS25OYUg2X0k4UWFBRDBia3RHOWEzaUZOYW00Wk9sX3ByOW5JQzEwZWZxLThzR0lyU09XQy1YZEpWYWtQMWZKQ1dkZGlndXFrT1RkU3l4SXRUUkQ4cGRTYWxuMlY1cWdyZw?oc=5",
-    "description": "Franklin India Opportunities Fund(G)-Direct Plan Univest",
-    "published": "2026-09-19T07:27:30+00:00",
-    "source": "Univest",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Franklin India Floating Interest Rates Fund(G)-Direct Plan - Univest",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOUp5R3lWdFRvN2d2VHFnU0JHd25LUDE1NEVqdTNhN2JmMnNJZTN0X2c4dmRiTXNKV3BGdFo5dTRPYmY0My1rcGRpbXFaWUhnR0E4NzdOeS1JTkVPWFVrV05mSkJxZ25kdThfLW9TRTMtQzI1bUlnTTlGZjlvVjd5TF9XYlNkYmNHNDhWQ3FCVDlFVms?oc=5",
-    "description": "Franklin India Floating Interest Rates Fund(G)-Direct Plan Univest",
-    "published": "2026-09-19T07:13:23+00:00",
-    "source": "Univest",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "F&O Talk: 23,050 key Nifty support; Sudeep Shah outlines Tata stocks strategy, names 5 picks - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPZHg0R0Y5cVRmbUhIZnEyZ0M0MUZkTHpMZVV5b2QxczZoU2ZLS2hBQkZHaGViRzBFbktVUjlVd29MeEJFTFRTcEtfSWRDZ3VMa1BobEZJT1pCQlJJUzJNRThfd3dJelhWWmNEbzBEMVFPdW1UZXk5dWRSeUItX2ZIaW0zcjdfemVfTE5RUzZGSzhoWHlGVlZtTF83dmVPSnVQUV9yYkIwMC0yVUdUYmt6ZkVuS1lOZUxwM3B0ODN5YkR0U2RlMkZ2UGJ0UnV3bnZ1MnlyR3lBRzlfMGdsUlZfcjhCWlpTNWR5VWpRRS1ralozXzDSAfgBQVVfeXFMTW5TUHhFMlRxNnAxTm9hRk9ORGhjTHFPU0htZmlZZDl3RTR0VFU3c1JzQmdSY3dwR2JNZDNPUUhTRnBpTl84Tkp1d0hyOEd1YmkzVk9iZDg4S2hZSzI5bTY4bl9uUVVoeU45ZGNCbU4xcmRXaVJ4SjVibUxlQkJxdE1CaDMyZlJ4anRMX0thVDRjRHZPR0ZhQ293N0llRGFHQ2tIeHI2QlUzaDYzWWJ0MkVYZmVRd1RzR19YZ29MblV2Z1B2ZnNkUlJZUUs2Z1doNUxiZU1FN1FZOUNzVW00M1ZWX0RrLXRJMzFGOHBFVUZWRE9vd05Xb20?oc=5",
-    "description": "F&O Talk: 23,050 key Nifty support; Sudeep Shah outlines Tata stocks strategy, names 5 picks The Economic Times",
-    "published": "2026-09-19T07:09:02+00:00",
-    "source": "The Economic Times",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
