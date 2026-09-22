@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-22 03:38
+Generated: 2026-09-22 04:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -46,15 +46,15 @@ Sensex, Nifty post early gains over correction in crude prices The Hans India
 
 Sensex, Nifty post early gains over correction in crude prices The Hans India
 
-### 5. SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment - BBN Times
+### 5. SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment - bbntimes.com
 
-- Source: BBN Times
+- Source: bbntimes.com
 - Published: 2026-09-22T02:12:20+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRVNkWmozbEwxTmtTeERTZ05nNGN4VTBsYlZvcGRzZjVyVllORU5fdVZBRFNkckhHN2JhQUZuV2QxaFcybXE4RTR1WTlENTlFc3FpS2RNSXA5UUZhTzYtR1RSVWNIR3NuZ2VWY0M1Y05qR1BZLW5CZ2VnbFYzaDlBMVhkaFNpNjFkS29lZWx0U1ctVjktMjhtbDJKLVh3UF9KZ082bWZaU0VzSVd5Nm1ja05oYUEtZWlmb1hhNGItWkdQZ08xMFZWWWNMXzJ5eDQ5X2Q3a1ZzRHY2MHJWcklfXzJ2elFXdkMt?oc=5
 
-SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment BBN Times
+SSE Composite Today: Shanghai Shares Track Regional Weakness as Global AI Selloff and Oil Spike Weigh on Sentiment bbntimes.com
 
 ### 6. Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff - Stocktwits
 
@@ -96,15 +96,15 @@ Is the AI Build-Out Still on Track, and What Is the Semiconductor Selloff Tellin
 
 I Keep Buying Nvidia Over and Over Despite China Concerns, Despite The Tech Selloff 24/7 Wall St.
 
-### 10. Sensex, Nifty post early gains over correction in crude prices - lokmattimes.com
+### 10. Sensex Jumps 420 Points, Nifty Gains as Crude Prices Fall - HDFC Sky
 
-- Source: lokmattimes.com
-- Published: 2026-09-21T04:17:43+00:00
+- Source: HDFC Sky
+- Published: 2026-09-21T04:35:54+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQWVhIN3ZUSXRKci11d3JTSlJkT1BZS2pHVkNiV05WRXNtd0hhOWFwd0x4NDNxVnZEZWxUZGNCdVdwYmZzWGdzUVRYcUE2dUNhYnlNbXIxOU5waGhBUG5VTGJBN2t5NFhwWTl2TU5Ra2FoRmZ6NGRWbzhtZkNWNmFLTndiYmc1d1Y4eVlydnU1TDlnM2lCdW5hM2M2N0VLbndaYlQ5cXhB0gGrAUFVX3lxTE5VQ0IzbkVWbU9vNXdXTTlDWElvMGhVeWZUZFN4UklxaUMycmY1ZXh2R25oTzBuWWRrZ0FxT1A0dU9jUDBabkUwNDlsOFNyNGl0ZlpWSnZJWmFiWE5HcWFkWU82Y0Q1dFNpV2ZLOUV4VnA4eklNY19Sa25FdUR4ODM0QjdmTVM3WF9OUEk2M3JBVkt0Nkh1dVBSeTlBUEJHdVJqX2ttSjFjaGppYw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNM3BsYlVwemQ4RGNvNzNLWU5qZzRZdWxrWUR2ZlhiMFhvbGFyYXdhTjZiMUFpd3NrR0gxUzhJUFV3NHdqeEx0cTR2V3RMT2MzM3JFTkpEYTE2SlVMa2xOWGs1ZnhjNEZuR0xfaXg5NndnVFZtVV9UcGdzcGFrQ3dZUzhCdW9rUjBHVG9VNUFfakJXaS0tZUdFZXpqRGt5ejlUS0xVdmpERE9KMTZlLXBSN1licWpTdjdaeDBB?oc=5
 
-Sensex, Nifty post early gains over correction in crude prices lokmattimes.com
+Sensex Jumps 420 Points, Nifty Gains as Crude Prices Fall HDFC Sky
 
 ### 11. Sensex, Nifty Rebound After Six Weekly Falls: Can The Stock Market Recovery Last? - outlookmoney.com
 
@@ -116,7 +116,17 @@ Sensex, Nifty post early gains over correction in crude prices lokmattimes.com
 
 Sensex, Nifty Rebound After Six Weekly Falls: Can The Stock Market Recovery Last? outlookmoney.com
 
-### 12. The Tech Selloff Is Only Strengthening My Belief In Alphabet - 24/7 Wall St.
+### 12. The Tech Selloff Is Only Strengthening My Belief In Alphabet - AOL.ca
+
+- Source: AOL.ca
+- Published: 2026-09-21T11:17:59+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPSk9aeUlnc0E5TXVMalRaWWFJdzVUS0ZnN0xoYTJFZXdkQ0FHbVVuLTNkMFVSeExCUVFzVklvMUZ6SG9NR0lYaUg3YUpWVF9XLWhqWXRaVUQ3Z3k3Sko5WUROWU4tUEw1QUI3VEkzb2tpQ1plZ2JibGNXWUszU3hCY2RBT1VZVkQ3?oc=5
+
+The Tech Selloff Is Only Strengthening My Belief In Alphabet AOL.ca
+
+### 13. The Tech Selloff Is Only Strengthening My Belief In Alphabet - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-09-21T11:17:00+00:00
@@ -126,17 +136,17 @@ Sensex, Nifty Rebound After Six Weekly Falls: Can The Stock Market Recovery Last
 
 The Tech Selloff Is Only Strengthening My Belief In Alphabet 24/7 Wall St.
 
-### 13. Nifty 50 top losers today: Bharti Airtel falls 3.3%, Adani Ports down 2%, Bajaj Finance drops 1.8% - businessupturn.com
+### 14. Nifty 50 top losers today: Bharti Airtel falls 3.3%, Adani Ports down 2%, Bajaj Finance drops 1.8% - Business Upturn
 
-- Source: businessupturn.com
+- Source: Business Upturn
 - Published: 2026-09-21T10:34:55+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWkVFZ1h6bUN3Y2ZZeGZjWXJZRDJFNFVoWDhjckt4d01pSThZZWZXM1lmdGx3SXdwQVpDaVNxYllpSTVlc1NGanNsWVJ0Q2VYa3JMTDZTQklzYVhadHYweDhCMHktU2tUODQxVWZEQUxjWVpTYWNSQ2hiM0lhamtVUzlKTFZSV2xTX3JEMzdXSnpjWmF2TEM1bmpMZW9aYXIwTWpPcXViMzBPMkJWeG12YjIzMFFpQnYtNllESHoxUjlBQTNSTFNiNW83VGlLeXNiNndZeHdmUUY?oc=5
 
-Nifty 50 top losers today: Bharti Airtel falls 3.3%, Adani Ports down 2%, Bajaj Finance drops 1.8% businessupturn.com
+Nifty 50 top losers today: Bharti Airtel falls 3.3%, Adani Ports down 2%, Bajaj Finance drops 1.8% Business Upturn
 
-### 14. AI slowdown call triggers sell-off in NASDAQ 100, chipmakers decline - Crypto Briefing
+### 15. AI slowdown call triggers sell-off in NASDAQ 100, chipmakers decline - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-09-21T10:30:21+00:00
@@ -146,7 +156,7 @@ Nifty 50 top losers today: Bharti Airtel falls 3.3%, Adani Ports down 2%, Bajaj 
 
 AI slowdown call triggers sell-off in NASDAQ 100, chipmakers decline Crypto Briefing
 
-### 15. Is CRWD Stock The Safe Haven In AI-Driven Software Selloff? Wall Street Eyes Big Upside - Stocktwits
+### 16. Is CRWD Stock The Safe Haven In AI-Driven Software Selloff? Wall Street Eyes Big Upside - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-21T09:46:05+00:00
@@ -156,7 +166,7 @@ AI slowdown call triggers sell-off in NASDAQ 100, chipmakers decline Crypto Brie
 
 Is CRWD Stock The Safe Haven In AI-Driven Software Selloff? Wall Street Eyes Big Upside Stocktwits
 
-### 16. ECB’s Panetta warns of correction risk on optimistic AI valuations - Crypto Briefing
+### 17. ECB’s Panetta warns of correction risk on optimistic AI valuations - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-09-21T08:25:18+00:00
@@ -166,27 +176,27 @@ Is CRWD Stock The Safe Haven In AI-Driven Software Selloff? Wall Street Eyes Big
 
 ECB’s Panetta warns of correction risk on optimistic AI valuations Crypto Briefing
 
-### 17. ECB’s Panetta Warns of Correction Risk on Optimistic AI Pricing - Bloomberg
+### 18. ECB’s Panetta Warns of Correction Risk on Optimistic AI Pricing - Bloomberg.com
 
-- Source: Bloomberg
+- Source: Bloomberg.com
 - Published: 2026-09-21T08:12:50+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQdXdEZXFPVzB0eWRteS1NS1d1bGJ0RHZLOXVaQlRFY0YyQkxhSGYxa1NSUHFMWUFKbzNLRmN1Njg0OEotUXJra01hRXNtSFJtYVNrRFk4MEg1eG5wVm5jTmF6ai1MRkl4LWlOX2FRRXJxbXQzbFpYSWVlM1ROdTdUTTFPT2NsS3FtQVpORVJic3hsclR2dGV0RzAzUDFGWTVjckd0NnJjSG5jQjFsTG1ZRmpB?oc=5
 
-ECB’s Panetta Warns of Correction Risk on Optimistic AI Pricing Bloomberg
+ECB’s Panetta Warns of Correction Risk on Optimistic AI Pricing Bloomberg.com
 
-### 18. Toronto Stock Exchange Today: TSX Edges to a Marginal Gain as Energy Strength Fully Offsets US-Led AI Selloff - BBN Times
+### 19. Toronto Stock Exchange Today: TSX Edges to a Marginal Gain as Energy Strength Fully Offsets US-Led AI Selloff - bbntimes.com
 
-- Source: BBN Times
+- Source: bbntimes.com
 - Published: 2026-09-21T07:56:17+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOcEo5dkxqZUlTZDBRdjgtMWRRTUo3SE9qb09sRWNHdUYxNWFQZHl6d2dYalkxS0VTeXdFRkRqdFJFdUl0VmoxeE5GZk9SUkM1R1hmdkpwb0w3RzdWc0VrU085dUdUS0g4N0ZQekF0QjV6Zl9oSVBEd2F3bVVlRnNMNDE2dXlqejRCS0l1QmZuR2xJV2RNTXFjNGRHeVhuUlJ2cmVVMkU1aTZjdkVDWXJObktqUm5NQlFUNVF2d3dfV1dsaDRWQ3NXNnEwMmdZWXZQYjdEMzRSSlJZWXQ2ekRiSUFn?oc=5
 
-Toronto Stock Exchange Today: TSX Edges to a Marginal Gain as Energy Strength Fully Offsets US-Led AI Selloff BBN Times
+Toronto Stock Exchange Today: TSX Edges to a Marginal Gain as Energy Strength Fully Offsets US-Led AI Selloff bbntimes.com
 
-### 19. European Regulator Flags Correction Risks as AI Valuations Outpace Economic Reality - streamlinefeed.co.ke
+### 20. European Regulator Flags Correction Risks as AI Valuations Outpace Economic Reality - streamlinefeed.co.ke
 
 - Source: streamlinefeed.co.ke
 - Published: 2026-09-21T07:08:19+00:00
@@ -196,17 +206,17 @@ Toronto Stock Exchange Today: TSX Edges to a Marginal Gain as Energy Strength Fu
 
 European Regulator Flags Correction Risks as AI Valuations Outpace Economic Reality streamlinefeed.co.ke
 
-### 20. Energy sector stocks today, September 21: MRPL jumps 1.55%, Oil India rises 1.01%; Deep Industries falls 2.28% - businessupturn.com
+### 21. Energy sector stocks today, September 21: MRPL jumps 1.55%, Oil India rises 1.01%; Deep Industries falls 2.28% - Business Upturn
 
-- Source: businessupturn.com
+- Source: Business Upturn
 - Published: 2026-09-21T06:54:34+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxPRTBnM3p2OENYeUFBWEc4ZkZFMk1YYWwxR2FJQXB1MnN6dE5qUUxoZnpQZXdtUk1OMmtaMVktQUxUR0c4UVI2MW1UbXRUS2ZMN1BSLXM2U3NhSGxTSHM4a2lib09ZRDY5X2ZSdmthTURvaEFFRFVLbUcweUQ1WnpqVW15MGp0LTVEWXNfRmZJY0g0bXRuTlA4OV9uUkdpdVd2THlycXFORmZEc05MNTNncHB4SHFkQXdCWXIwZE5jajVWMkxpdExMZTZSMEpHUS1PNG5NVFNqSkRzWFllN2lnZko2RGpkRGM?oc=5
 
-Energy sector stocks today, September 21: MRPL jumps 1.55%, Oil India rises 1.01%; Deep Industries falls 2.28% businessupturn.com
+Energy sector stocks today, September 21: MRPL jumps 1.55%, Oil India rises 1.01%; Deep Industries falls 2.28% Business Upturn
 
-### 21. European regulator warns of market correction risk as AI valuations stay elevated - Cyprus Mail
+### 22. European regulator warns of market correction risk as AI valuations stay elevated - Cyprus Mail
 
 - Source: Cyprus Mail
 - Published: 2026-09-21T05:00:00+00:00
@@ -216,7 +226,7 @@ Energy sector stocks today, September 21: MRPL jumps 1.55%, Oil India rises 1.01
 
 European regulator warns of market correction risk as AI valuations stay elevated Cyprus Mail
 
-### 22. Markets post early gains over correction in crude prices; Sensex jumps 411 points - Zee News
+### 23. Markets post early gains over correction in crude prices; Sensex jumps 411 points - Zee News
 
 - Source: Zee News
 - Published: 2026-09-21T04:08:54+00:00
@@ -226,7 +236,7 @@ European regulator warns of market correction risk as AI valuations stay elevate
 
 Markets post early gains over correction in crude prices; Sensex jumps 411 points Zee News
 
-### 23. Nifty IT Today: Index Falls 0.69% in Early Trade - Univest
+### 24. Nifty IT Today: Index Falls 0.69% in Early Trade - Univest
 
 - Source: Univest
 - Published: 2026-09-22T00:18:18+00:00
@@ -236,7 +246,7 @@ Markets post early gains over correction in crude prices; Sensex jumps 411 point
 
 Nifty IT Today: Index Falls 0.69% in Early Trade Univest
 
-### 24. Can AI Help the Mutual Fund Industry Expand Beyond India's Top Cities? - Kalkine India
+### 25. Can AI Help the Mutual Fund Industry Expand Beyond India's Top Cities? - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-09-21T12:33:00+00:00
@@ -246,7 +256,7 @@ Nifty IT Today: Index Falls 0.69% in Early Trade Univest
 
 Can AI Help the Mutual Fund Industry Expand Beyond India's Top Cities? Kalkine India
 
-### 25. Bharti Airtel stock falls as telecom heavyweight lags Nifty - AD HOC NEWS
+### 26. Bharti Airtel stock falls as telecom heavyweight lags Nifty - AD HOC NEWS
 
 - Source: AD HOC NEWS
 - Published: 2026-09-21T10:59:13+00:00
@@ -256,7 +266,7 @@ Can AI Help the Mutual Fund Industry Expand Beyond India's Top Cities? Kalkine I
 
 Bharti Airtel stock falls as telecom heavyweight lags Nifty AD HOC NEWS
 
-### 26. Nifty IT Share Price Today: Falls 0.7% on H-1B Visa Fee - Univest
+### 27. Nifty IT Share Price Today: Falls 0.7% on H-1B Visa Fee - Univest
 
 - Source: Univest
 - Published: 2026-09-21T10:27:00+00:00
@@ -266,17 +276,17 @@ Bharti Airtel stock falls as telecom heavyweight lags Nifty AD HOC NEWS
 
 Nifty IT Share Price Today: Falls 0.7% on H-1B Visa Fee Univest
 
-### 27. Auto sector stocks today, September 21: Hyundai Motor India falls 2.24%, Ather Energy down 1.95%; Hero MotoCorp jumps 1.84% - businessupturn.com
+### 28. Auto sector stocks today, September 21: Hyundai Motor India falls 2.24%, Ather Energy down 1.95%; Hero MotoCorp jumps 1.84% - Business Upturn
 
-- Source: businessupturn.com
+- Source: Business Upturn
 - Published: 2026-09-21T08:40:19+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNUlFmX3g1TnFFVWpLUHRlc3dybVQwZEV4eTBZclpfb0NoUWVKdElNLW5zQWRoVzFVc00xcXExS0lVNVBnTi1WT19sR2RXNnJIU1R0NG54RUY2cjlSQVlIdms3UjBzbXVYTjBFQmdKSHVJNkV5SHRYUjdDdFZjTjM0NDJRaTVtelhyd2NZWDY0NjJBeFhYNTh0YTM3WjJGZHJWZFA2ZmpBUDhkTXNvNmptNmNnTlFBZHBfa0ZYU3pvaS1JeUdlemN4cE9SS3QybTBQYWw0OGVOelZ4cV9rTGRjc05XWmNUOHh6STJPYlJqVENUTC15WXk3bA?oc=5
 
-Auto sector stocks today, September 21: Hyundai Motor India falls 2.24%, Ather Energy down 1.95%; Hero MotoCorp jumps 1.84% businessupturn.com
+Auto sector stocks today, September 21: Hyundai Motor India falls 2.24%, Ather Energy down 1.95%; Hero MotoCorp jumps 1.84% Business Upturn
 
-### 28. Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr - Business Standard
+### 29. Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr - Business Standard
 
 - Source: Business Standard
 - Published: 2026-09-21T07:00:58+00:00
@@ -286,7 +296,7 @@ Auto sector stocks today, September 21: Hyundai Motor India falls 2.24%, Ather E
 
 Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr Business Standard
 
-### 29. Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr - Business Standard
+### 30. Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr - Business Standard
 
 - Source: Business Standard
 - Published: 2026-09-21T07:00:52+00:00
@@ -296,7 +306,7 @@ Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr Bus
 
 Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr Business Standard
 
-### 30. Trump renews $100,000 fee on H-1B visas: Nifty IT under pressure, sectoral index falls 0.7% - Moneycontrol.com
+### 31. Trump renews $100,000 fee on H-1B visas: Nifty IT under pressure, sectoral index falls 0.7% - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-21T06:07:51+00:00
@@ -306,7 +316,7 @@ Nifty's 6-week losing run: 9 stocks fall 10-14%; 6 defy trend, add ₹73K cr Bus
 
 Trump renews $100,000 fee on H-1B visas: Nifty IT under pressure, sectoral index falls 0.7% Moneycontrol.com
 
-### 31. Equity participation rises among women investors and B30 cities amid steady mutual fund flows : ICRA Analy - The Economic Times
+### 32. Equity participation rises among women investors and B30 cities amid steady mutual fund flows : ICRA Analy - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-21T10:16:01+00:00
@@ -316,7 +326,7 @@ Trump renews $100,000 fee on H-1B visas: Nifty IT under pressure, sectoral index
 
 Equity participation rises among women investors and B30 cities amid steady mutual fund flows : ICRA Analy The Economic Times
 
-### 32. Sensex down over 10,800 points in 2026. Should mutual fund investors stay invested, increase SIPs or wait - The Economic Times
+### 33. Sensex down over 10,800 points in 2026. Should mutual fund investors stay invested, increase SIPs or wait - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-21T05:18:42+00:00
@@ -326,7 +336,7 @@ Equity participation rises among women investors and B30 cities amid steady mutu
 
 Sensex down over 10,800 points in 2026. Should mutual fund investors stay invested, increase SIPs or wait The Economic Times
 
-### 33. Sensex down over 10,800 points in 2026. Should mutual fund investors stay invested, increase SIPs or wait - The Economic Times
+### 34. Sensex down over 10,800 points in 2026. Should mutual fund investors stay invested, increase SIPs or wait - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-21T05:18:42+00:00
@@ -336,17 +346,17 @@ Sensex down over 10,800 points in 2026. Should mutual fund investors stay invest
 
 Sensex down over 10,800 points in 2026. Should mutual fund investors stay invested, increase SIPs or wait The Economic Times
 
-### 34. Rupee opens higher at 95.81 against dollar; oil prices, FPI flows in focus - CNBC TV18
+### 35. GIFT Nifty points to lower start; oil prices, FII flows in focus - Business Standard
 
-- Source: CNBC TV18
-- Published: 2026-09-21T03:57:51+00:00
+- Source: Business Standard
+- Published: 2026-09-22T03:34:01+00:00
 - Themes: India market, macro / flows
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPcXYtUlhLUFZabUZpbWQ4U3NuYlM2R0RGeXNNVXEyZ0JXLXNsQWFldUR5UmtwcDNoRnVpemIyVGRxU25aNXRIb3FPYUdCdXhic1VlT3lnbkM2TWNBRnhnTGU5dEJ2dElLUWJOWEJ0bE11TzRwelhCaE1WTUQ0Y3JXSDlubEpHelVCOWl3OE1VeWN5NzBSRklPZGZTS0QwVGpGRU5ISFRVeGhKUy1nODlmaWp30gG3AUFVX3lxTE1wVkUxX25zUGlndjNKZHVZQUpEZlJCZ2M2VTMtWEtleXFwLWxzTzJKQy1NODdwcGVjeUxfMkN5TDNleUJ4bTlJZ21tclBCQVZhaVVSY1dTZlo0QkJ1MVExQUR1R1kzQjQxVkdsemhybS1lWjNQek11TWFlZE94VEF2WnBXb0EzekdZZ1oxQ3NBMUFlV2REbFVDb3ZwU2JVQ0tadmx4Unl6eTd2aV83Z1pqbzdnbzFPVQ?oc=5
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPYk1ST1U2ZTRjNy0yMDRxLWhySV9zUWlNV1Rvaks5R09FUVBXdl90eVM2U0Z4Q192dndUNjZnS2NUNkgzamwxYjZ5Z0ZzV0EtaVF3bC1ySWljWmp3ekQzU21EaGk3NXBKRFJiWWROOXpVZmlIaVZ3RnZaWkNQS0tqa0R6NWM3ZzlpNUloVXROSDN5OF91QTdDTlpCREVtbzBMRnYzWTJfdHZnY3BrVGFKdWN4MEJlQ1REMGMzVDVIUGFYU1BDb2p1Z05vWVVpX0x2c1FIZlpjSFFfdEdB0gHiAUFVX3lxTFBNRUZyN0M3djhOaUNsa294cGZod0VqM2xPSU9DcFlvY2J0NTB2X3h1VlVJcmVqZ1AxLUc2QmFkRWdKNFU4ZVV0d2VuVHY4V0t1dVB5WnItWTNQdkhSUWhVQXljVzVUMEoweUZROEpBWWpIYnhkcHN5X2tJa09xMnFXR1Z4U19wWnlwa05nSlJvQTJqZFpsM1Z2NkxhOE9CRmpBR1FBcWgxbjlwRUNtQXpTQkNKNy1uRDFod2gxaXhDNlpodDFvckdSMnYyYlZHaEVHU3dEa09HU01YRTRhanlCdlE?oc=5
 
-Rupee opens higher at 95.81 against dollar; oil prices, FPI flows in focus CNBC TV18
+GIFT Nifty points to lower start; oil prices, FII flows in focus Business Standard
 
-### 35. Invested in Nifty 50 index mutual funds? Here's why you should consider REITs to diversify your portfolio - Livemint
+### 36. Invested in Nifty 50 index mutual funds? Here's why you should consider REITs to diversify your portfolio - Livemint
 
 - Source: Livemint
 - Published: 2026-09-21T13:22:38+00:00
@@ -356,7 +366,7 @@ Rupee opens higher at 95.81 against dollar; oil prices, FPI flows in focus CNBC 
 
 Invested in Nifty 50 index mutual funds? Here's why you should consider REITs to diversify your portfolio Livemint
 
-### 36. Sensex, Nifty rise for fourth straight session as easing crude oil prices lift sentiment - tradingview.com
+### 37. Sensex, Nifty rise for fourth straight session as easing crude oil prices lift sentiment - tradingview.com
 
 - Source: tradingview.com
 - Published: 2026-09-21T12:21:02+00:00
@@ -366,7 +376,7 @@ Invested in Nifty 50 index mutual funds? Here's why you should consider REITs to
 
 Sensex, Nifty rise for fourth straight session as easing crude oil prices lift sentiment tradingview.com
 
-### 37. Sensex Jumps 564 Pts, Nifty Rallies on Easing Oil, FII Inflows - Rediff MoneyWiz
+### 38. Sensex Jumps 564 Pts, Nifty Rallies on Easing Oil, FII Inflows - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-09-21T10:38:42+00:00
@@ -376,27 +386,27 @@ Sensex, Nifty rise for fourth straight session as easing crude oil prices lift s
 
 Sensex Jumps 564 Pts, Nifty Rallies on Easing Oil, FII Inflows Rediff MoneyWiz
 
-### 38. AMFI rejig: IRFC, Vedanta shares may move to midcap list, SBI Funds' largecap entry likely - businesstoday.in
+### 39. AMFI rejig: IRFC, Vedanta shares may move to midcap list, SBI Funds' largecap entry likely - Business Today
 
-- Source: businesstoday.in
+- Source: Business Today
 - Published: 2026-09-21T08:48:40+00:00
 - Themes: India market
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWUQtemtOWC1DZXRSSkVkYVhYWTYwaDVyQ3dJU2huNnhPQnZ5TjNHYlFneTVJQkZIY0tueGhJR3VuVktwVnF0dVBNQWF3YzFUMWdvcDdjZUZ2QlNGX0MxUWpOazhLQzA4WTlrUmlvQ2R1NUUzOThScFhvSHdWbWYzM1kzN3hmR0pLOHBTSGItV2tzbTNqSmhoM1NydnZVY1lRakUwcVhBaEVxcFdvemxQUW85TXNKVkZ5QnBjSDNwNHZKdkhiTEpXMlFnREJIVGxlVE1lc2llWG1aUTduTXA2bXA1SVhzVG9ad1HSAe8BQVVfeXFMTjRyOU9zejh3VlBKQlRGa0QyMXFwYWtteEdpMEI4aDJZakVuZnd2S0RIMFR1bnBYNjBLX050VnREdFhqczktazdhd2NnSDd4VERNaF8xc0FBeDlaODZlRWo1OWtBZHZjZklUY2hXQlAyZ1B5Yzh4UGpaOTdCOVh3Zm5WeGZPTTl0TWJVUnIyYURRM1d2NUJsc2dEeEZHcjZhb1BCMkV1MXdhbTRjZkdwLUlLeGxIMzJlZ3B6OURDSmh4Nng5MDB0YWFocHdkaWh6VWlVdnJzOHRrdkpJTzZ1dHI2RURJR0xfZ2JURjJLV0E?oc=5
 
-AMFI rejig: IRFC, Vedanta shares may move to midcap list, SBI Funds' largecap entry likely businesstoday.in
+AMFI rejig: IRFC, Vedanta shares may move to midcap list, SBI Funds' largecap entry likely Business Today
 
-### 39. From SIPs to Small Caps: Sandeep Bagla of TRUST MF on India’s Changing Investor Mindset - Ahmedabad Mirror
+### 40. From SIPs to Small Caps: Sandeep Bagla of TRUST MF on India’s Changing Investor Mindset - ahmedabadmirror.com
 
-- Source: Ahmedabad Mirror
+- Source: ahmedabadmirror.com
 - Published: 2026-09-21T06:44:42+00:00
 - Themes: India market
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPa0xPLS1OQjVUcDZGYW1sNmJTdEtPRjNxWEQtcDM3MnkwdnJwQU9rNGQ5UjMzdjM3a1NJSEtxNnZ5OXphcXMtWWFnVDEybkJZRzlsNUNRQVNPTkgwSHNBbzRSTURtYkZCTmk0ZzlqRklBV20tZnhhZGM0RkVrT3lYTjdQM1VNbjY2QUZkbjZpVzA2bXZwSWN6Q2xkbEc2Qi1nVEE1U0ZkQlRIVWNBVG9JQkVLeWtXLS1zVHlGdjFkYW5tWTE1Q2doaFM3WQ?oc=5
 
-From SIPs to Small Caps: Sandeep Bagla of TRUST MF on India’s Changing Investor Mindset Ahmedabad Mirror
+From SIPs to Small Caps: Sandeep Bagla of TRUST MF on India’s Changing Investor Mindset ahmedabadmirror.com
 
-### 40. Sensex Today: BSE Index Gains as FII Buying, Lower Crude Oil Support Market Sentiment, NSE IPO in Focus – What Investors Should Know - The Sunday Guardian
+### 41. Sensex Today: BSE Index Gains as FII Buying, Lower Crude Oil Support Market Sentiment, NSE IPO in Focus – What Investors Should Know - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-09-21T06:24:52+00:00
@@ -405,16 +415,6 @@ From SIPs to Small Caps: Sandeep Bagla of TRUST MF on India’s Changing Investo
 - Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxQcnZzME93T1d2cFFabDVySFZscjZSMWM3UjgyQzRpaEdMMzZOQlNncDN5R0V6REdZd2hGcU5RRFAtU2dad1MyYkZVaHlFQ1ZQSGx0YWlRSVlNbWZINUxzSVp5VkVwVmlGc3ktS1REZXRLdm1kc0d6YkFPT2N1amN5R1RiRDA3dTd5MXI0UVhjTl96T3lKdDB0d3QyUkNGel84anZPMVF4cWhkTlF2T29uamZ2MXFxbFdPV3dvOGw3RlJFSDJFQUt3LWlLUmtYYzFOZjUtS1h2SVd6YXlHTnk0S0h4R1gtQ1NLbkROTUF3dDdydEMwOEJiZU1KZFIzTk1KVnBQbGtjU0FUR3fSAYsCQVVfeXFMUHJ2czBPd09XdnBRWmw1ckhWbHI2UjFjN1I4MkM0aWhHTDM2TkJTZ3AzeUdFekRHWXdoRnFOUURQLVNnWndTMmJGVWh5RUNWUEhsdGFpUUlZTW1mSDVMc0laeVZFcFZpRnN5LUtURGV0S3ZtZHNHemJBT09jdWpjeUdUYkQwN3U3eTFyNFFYY05fek95SnQwdHd0MlJDRnpfOGp2TzFReHFoZE5Rdk9vbmpmdjFxcWxXT1d3bzhsN0ZSRUgyRUFLdy1pS1JrWGMxTmY1LUtYdklXemF5R055NEtIeEdYLUNTS25ETk1Bd3Q3cnRDMDhCYmVNSmRSM05NSlZwUGxrY1NBVEd3?oc=5
 
 Sensex Today: BSE Index Gains as FII Buying, Lower Crude Oil Support Market Sentiment, NSE IPO in Focus – What Investors Should Know The Sunday Guardian
-
-### 41. Sensex gains 700 pts, Nifty above 23,450: Easing crude oil prices among key factors behind market rise - tradingview.com
-
-- Source: tradingview.com
-- Published: 2026-09-21T04:01:00+00:00
-- Themes: India market, macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNRG1udXhQbWJsQXh5UERsTmhuZnZLSXU1cFBtaGpOR3FKZllxN2wyd2VrdTBLOUlnWGNhUUpUQWFKeU01ZFJORVFTU0FqcGFZdHA1dzJ2ZWd2UnUwZDJFYVNLNkxMVk5OTkZxQ3h0Q1UzajJsZzhEd3M0Mnh6d3lCWFVrc2dYbjFaMmJHNDJKRzFQUEp0OUFDdG1HbHpGZEh3MTUzMWNKM25raURrWm5WN2RkdlFVeTdwR1cwX1BXZmMxTzJtMGgzdkVrYWtRZUJiZmtMbXNPQzBHSzZWaUhGaXpyQjBMMHJ2aUprVjdObmRLUHFTaWc?oc=5
-
-Sensex gains 700 pts, Nifty above 23,450: Easing crude oil prices among key factors behind market rise tradingview.com
 
 ### 42. NIFTY INDIA FPI 150 Share Price | NIFTY INDIA FPI 150 Index | NIFTY INDIA FPI 150 Today - Livemint
 
@@ -436,7 +436,17 @@ NIFTY INDIA FPI 150 Share Price | NIFTY INDIA FPI 150 Index | NIFTY INDIA FPI 15
 
 Morgan Stanley shifts $10 billion in municipal bond mutual funds to ETFs The Economic Times
 
-### 44. Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; check 1-year returns - Livemint
+### 44. Best Mutual Funds to Invest in 2026 – Live Returns, Updated Daily - Myinvestmentideas
+
+- Source: Myinvestmentideas
+- Published: 2026-09-21T20:21:05+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RnRaTlJBSWxFVDdNZXJPcVB1VGF4M0h3ajhDYWZlZjFncWdMazFVX2hLRUp4amtsWThkSHdNVXpQYUp2NXZHU2JDU0szQTBlY2gtVTFyQ1dJS3h1MkpxcW5DcVY?oc=5
+
+Best Mutual Funds to Invest in 2026 – Live Returns, Updated Daily Myinvestmentideas
+
+### 45. Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; check 1-year returns - Livemint
 
 - Source: Livemint
 - Published: 2026-09-21T19:35:53+00:00
@@ -446,7 +456,7 @@ Morgan Stanley shifts $10 billion in municipal bond mutual funds to ETFs The Eco
 
 Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; check 1-year returns Livemint
 
-### 45. Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; check 1-year returns - Livemint
+### 46. Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; check 1-year returns - Livemint
 
 - Source: Livemint
 - Published: 2026-09-21T19:35:53+00:00
@@ -456,7 +466,7 @@ Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; 
 
 Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; check 1-year returns Livemint
 
-### 46. UPI MDR on mutual funds: Experts explain how investors could bear the charge and its impact on returns - Livemint
+### 47. UPI MDR on mutual funds: Experts explain how investors could bear the charge and its impact on returns - Livemint
 
 - Source: Livemint
 - Published: 2026-09-21T18:29:36+00:00
@@ -466,7 +476,7 @@ Small-cap mutual funds: How large- and mid-cap exposure differs across schemes; 
 
 UPI MDR on mutual funds: Experts explain how investors could bear the charge and its impact on returns Livemint
 
-### 47. Sip and shop your way through downtown Monroe Sept. 23 - Monroe Evening News
+### 48. Sip and shop your way through downtown Monroe Sept. 23 - Monroe Evening News
 
 - Source: Monroe Evening News
 - Published: 2026-09-21T17:21:00+00:00
@@ -476,7 +486,7 @@ UPI MDR on mutual funds: Experts explain how investors could bear the charge and
 
 Sip and shop your way through downtown Monroe Sept. 23 Monroe Evening News
 
-### 48. Indian Stock Market Remains Calm Despite Global Turmoil, FII Selling and Rupee Risks: What Is Keeping India VIX Low? - Trade Brains
+### 49. Indian Stock Market Remains Calm Despite Global Turmoil, FII Selling and Rupee Risks: What Is Keeping India VIX Low? - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-09-21T15:31:37+00:00
@@ -486,7 +496,7 @@ Sip and shop your way through downtown Monroe Sept. 23 Monroe Evening News
 
 Indian Stock Market Remains Calm Despite Global Turmoil, FII Selling and Rupee Risks: What Is Keeping India VIX Low? Trade Brains
 
-### 49. Income plus arbitrage mutual funds: ICICI Pru tops 1-year returns at over 6%; know the portfolio mix - Livemint
+### 50. Income plus arbitrage mutual funds: ICICI Pru tops 1-year returns at over 6%; know the portfolio mix - Livemint
 
 - Source: Livemint
 - Published: 2026-09-21T12:17:04+00:00
@@ -496,7 +506,7 @@ Indian Stock Market Remains Calm Despite Global Turmoil, FII Selling and Rupee R
 
 Income plus arbitrage mutual funds: ICICI Pru tops 1-year returns at over 6%; know the portfolio mix Livemint
 
-### 50. Global central bank tightening, high crude to restrain FII inflows to India: Kotak Securities - bfsi.economictimes.indiatimes.com
+### 51. Global central bank tightening, high crude to restrain FII inflows to India: Kotak Securities - bfsi.economictimes.indiatimes.com
 
 - Source: bfsi.economictimes.indiatimes.com
 - Published: 2026-09-21T11:49:04+00:00
@@ -506,7 +516,7 @@ Income plus arbitrage mutual funds: ICICI Pru tops 1-year returns at over 6%; kn
 
 Global central bank tightening, high crude to restrain FII inflows to India: Kotak Securities bfsi.economictimes.indiatimes.com
 
-### 51. Sensex Jumps 564 Points, Nifty Rallies on Easing Oil Prices, Foreign Fund Inflows - Rediff
+### 52. Sensex Jumps 564 Points, Nifty Rallies on Easing Oil Prices, Foreign Fund Inflows - Rediff
 
 - Source: Rediff
 - Published: 2026-09-21T11:34:30+00:00
@@ -516,7 +526,7 @@ Global central bank tightening, high crude to restrain FII inflows to India: Kot
 
 Sensex Jumps 564 Points, Nifty Rallies on Easing Oil Prices, Foreign Fund Inflows Rediff
 
-### 52. 3 Indian Asset Management Stocks Riding The Shift To Mutual Funds - simplywall.st
+### 53. 3 Indian Asset Management Stocks Riding The Shift To Mutual Funds - simplywall.st
 
 - Source: simplywall.st
 - Published: 2026-09-21T11:32:26+00:00
@@ -526,7 +536,7 @@ Sensex Jumps 564 Points, Nifty Rallies on Easing Oil Prices, Foreign Fund Inflow
 
 3 Indian Asset Management Stocks Riding The Shift To Mutual Funds simplywall.st
 
-### 53. Sensex ends 564 points higher, Nifty settles above 23,400 amid easing concerns around energy costs - India TV News
+### 54. Sensex ends 564 points higher, Nifty settles above 23,400 amid easing concerns around energy costs - India TV News
 
 - Source: India TV News
 - Published: 2026-09-21T10:24:58+00:00
@@ -536,7 +546,7 @@ Sensex Jumps 564 Points, Nifty Rallies on Easing Oil Prices, Foreign Fund Inflow
 
 Sensex ends 564 points higher, Nifty settles above 23,400 amid easing concerns around energy costs India TV News
 
-### 54. ₹10,000 SIP grows to ₹15.42 lakh in 8 years as Baroda BNP Paribas BAF crosses ₹5,000 crore AUM - Upstox
+### 55. ₹10,000 SIP grows to ₹15.42 lakh in 8 years as Baroda BNP Paribas BAF crosses ₹5,000 crore AUM - Upstox
 
 - Source: Upstox
 - Published: 2026-09-21T10:03:33+00:00
@@ -546,7 +556,7 @@ Sensex ends 564 points higher, Nifty settles above 23,400 amid easing concerns a
 
 ₹10,000 SIP grows to ₹15.42 lakh in 8 years as Baroda BNP Paribas BAF crosses ₹5,000 crore AUM Upstox
 
-### 55. Sensex, Nifty jump: 3 reasons why stock market is rising despite West Asia tensions - India Today
+### 56. Sensex, Nifty jump: 3 reasons why stock market is rising despite West Asia tensions - India Today
 
 - Source: India Today
 - Published: 2026-09-21T08:56:49+00:00
@@ -556,7 +566,7 @@ Sensex ends 564 points higher, Nifty settles above 23,400 amid easing concerns a
 
 Sensex, Nifty jump: 3 reasons why stock market is rising despite West Asia tensions India Today
 
-### 56. S&P500 Forecast: SPX falls as higher oil prices & treasury yields drag - stonex.com
+### 57. S&P500 Forecast: SPX falls as higher oil prices & treasury yields drag - stonex.com
 
 - Source: stonex.com
 - Published: 2026-09-21T08:27:17+00:00
@@ -566,7 +576,7 @@ Sensex, Nifty jump: 3 reasons why stock market is rising despite West Asia tensi
 
 S&P500 Forecast: SPX falls as higher oil prices & treasury yields drag stonex.com
 
-### 57. ICICI Bank and Eternal among top 5 largecap stocks sold by mutual funds in August. Check details - The Economic Times
+### 58. ICICI Bank and Eternal among top 5 largecap stocks sold by mutual funds in August. Check details - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-21T08:17:08+00:00
@@ -576,7 +586,7 @@ S&P500 Forecast: SPX falls as higher oil prices & treasury yields drag stonex.co
 
 ICICI Bank and Eternal among top 5 largecap stocks sold by mutual funds in August. Check details The Economic Times
 
-### 58. SIP giving poor returns? DSP’s Sahil Kapoor on when to stay, pause or exit - Moneycontrol.com
+### 59. SIP giving poor returns? DSP’s Sahil Kapoor on when to stay, pause or exit - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-21T06:32:13+00:00
@@ -586,7 +596,7 @@ ICICI Bank and Eternal among top 5 largecap stocks sold by mutual funds in Augus
 
 SIP giving poor returns? DSP’s Sahil Kapoor on when to stay, pause or exit Moneycontrol.com
 
-### 59. Your SIP calculator says Rs 1 crore. Your actual corpus could be different - Moneycontrol.com
+### 60. Your SIP calculator says Rs 1 crore. Your actual corpus could be different - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-21T06:17:50+00:00
@@ -596,7 +606,7 @@ SIP giving poor returns? DSP’s Sahil Kapoor on when to stay, pause or exit Mon
 
 Your SIP calculator says Rs 1 crore. Your actual corpus could be different Moneycontrol.com
 
-### 60. Stock Market Today: Sensex Jumps 400 Points As Crude Cools, Nifty Holds Above 23,360 - NewsX
+### 61. Stock Market Today: Sensex Jumps 400 Points As Crude Cools, Nifty Holds Above 23,360 - NewsX
 
 - Source: NewsX
 - Published: 2026-09-21T05:31:37+00:00
@@ -606,7 +616,7 @@ Your SIP calculator says Rs 1 crore. Your actual corpus could be different Money
 
 Stock Market Today: Sensex Jumps 400 Points As Crude Cools, Nifty Holds Above 23,360 NewsX
 
-### 61. Equity mutual funds that upgraded from 3 stars to 4 stars: Do you hold? LIST inside - ET Now
+### 62. Equity mutual funds that upgraded from 3 stars to 4 stars: Do you hold? LIST inside - ET Now
 
 - Source: ET Now
 - Published: 2026-09-21T05:16:17+00:00
@@ -616,7 +626,7 @@ Stock Market Today: Sensex Jumps 400 Points As Crude Cools, Nifty Holds Above 23
 
 Equity mutual funds that upgraded from 3 stars to 4 stars: Do you hold? LIST inside ET Now
 
-### 62. Sensex Up 493 Points: Ease In Crude Prices, FPI Inflow And Positive Global Cues Fuel Sentiment - The Daily Jagran
+### 63. Sensex Up 493 Points: Ease In Crude Prices, FPI Inflow And Positive Global Cues Fuel Sentiment - The Daily Jagran
 
 - Source: The Daily Jagran
 - Published: 2026-09-21T04:48:00+00:00
@@ -626,7 +636,7 @@ Equity mutual funds that upgraded from 3 stars to 4 stars: Do you hold? LIST ins
 
 Sensex Up 493 Points: Ease In Crude Prices, FPI Inflow And Positive Global Cues Fuel Sentiment The Daily Jagran
 
-### 63. Sensex, Nifty Begin On A Strong Note As Easing Crude Prices Fuel Fresh Buying - Free Press Journal
+### 64. Sensex, Nifty Begin On A Strong Note As Easing Crude Prices Fuel Fresh Buying - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-21T04:26:33+00:00
@@ -636,7 +646,7 @@ Sensex Up 493 Points: Ease In Crude Prices, FPI Inflow And Positive Global Cues 
 
 Sensex, Nifty Begin On A Strong Note As Easing Crude Prices Fuel Fresh Buying Free Press Journal
 
-### 64. Best banking & PSU mutual funds to invest in September 2026 - The Economic Times
+### 65. Best banking & PSU mutual funds to invest in September 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-21T04:13:38+00:00
@@ -646,17 +656,27 @@ Sensex, Nifty Begin On A Strong Note As Easing Crude Prices Fuel Fresh Buying Fr
 
 Best banking & PSU mutual funds to invest in September 2026 The Economic Times
 
-### 65. Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil Surge and Rate Fears - BBN Times
+### 66. BSE SENSEX Today: Indian Benchmark Tumbles 1.04% to 74,003.82 as Oil Surge Rattles Investors - bbntimes.com
 
-- Source: BBN Times
+- Source: bbntimes.com
+- Published: 2026-09-22T02:08:16+00:00
+- Themes: India market, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPUUtIZ1VjSHpkdkpzSjlJUFc1Z1NpYUYtdzl2ZVhlMUIwQ1VQR1NXQ0F1REY0cnJkZF9kQ1JLNHA5Y2ZGNjRWc2x0eHBSOEo3ZUx2bU5LZzhHNDFURERSZzV4VlFrSENPRzFzU1FIMmRrdjdxVV9RMmg1TFdubGdLdFFyTkRWSC1QcWUyZmlvU0lqT0RGYW1fZkhmeDZ4M3JzZEVJNUJtWmo4YjNaSXFSTlVmUEY4UUpySVR3S0lVdTdsYjVRVHh6QlRR?oc=5
+
+BSE SENSEX Today: Indian Benchmark Tumbles 1.04% to 74,003.82 as Oil Surge Rattles Investors bbntimes.com
+
+### 67. Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil Surge and Rate Fears - bbntimes.com
+
+- Source: bbntimes.com
 - Published: 2026-09-22T01:06:46+00:00
 - Themes: market selling, macro / flows
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNNk9TZGhqTUI1RGVQX3ktQ2w5cjdsVVVtMERWWnpJUGFOeXlic0g4OG5WdERTZlZTNGUwZVlRQkNGbk5La2tPRFdmaFE2S3E4b2djNVVCcl9Jel9SV1hSVEU0NzN1YjBmN1BBT0JXcENpZEM4UnN0djdhMVA3RlJvck1uSlc2d19VaFVoYjlvY3E5bUlnMWZ5dE1OMHFVRFBtb2pCWkhfQUZCdVhfTnFyNmZpMnU2ajNUZXZWdFJ1YUFZdWxKNWhOWlJqRmpsUQ?oc=5
 
-Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil Surge and Rate Fears BBN Times
+Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil Surge and Rate Fears bbntimes.com
 
-### 66. Invesco India Smallcap Fund(G)-Direct Plan - Univest
+### 68. Invesco India Smallcap Fund(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-21T23:36:01+00:00
@@ -666,7 +686,7 @@ Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil 
 
 Invesco India Smallcap Fund(G)-Direct Plan Univest
 
-### 67. Wall Street rallies as AI optimism reignites, Treasury yields retreat - Free Malaysia Today
+### 69. Wall Street rallies as AI optimism reignites, Treasury yields retreat - Free Malaysia Today
 
 - Source: Free Malaysia Today
 - Published: 2026-09-21T23:16:44+00:00
@@ -676,7 +696,7 @@ Invesco India Smallcap Fund(G)-Direct Plan Univest
 
 Wall Street rallies as AI optimism reignites, Treasury yields retreat Free Malaysia Today
 
-### 68. Invesco India Nifty Chemical Index Fund - Direct Plan Fund info - The Economic Times
+### 70. Invesco India Nifty Chemical Index Fund - Direct Plan Fund info - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-21T22:07:37+00:00
@@ -686,7 +706,17 @@ Wall Street rallies as AI optimism reignites, Treasury yields retreat Free Malay
 
 Invesco India Nifty Chemical Index Fund - Direct Plan Fund info The Economic Times
 
-### 69. Stocks end higher as Brent crude falls below $101 - financialexpress.com
+### 71. Trade Setup For Sept 22: Nifty Bulls Eye 23,550 Breakout As Sub-$100 Oil Flips Sentiment | Check Key Levels - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-09-21T17:15:45+00:00
+- Themes: India market, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSXdVX3pwSFl0MWhFYTBTUHpDempSZE5tQTBBSUVrMWlwRmF1UmMzV3NrVHFJNHdOa3J4MWEzVFp1Z2Rab1pLS2ZtT0ZwZ1c0RUF0VWZiTXJxNHhoMkE4TWZVajZEODZnYllwVU1IN285U1VTalVvbU1zZWZOMktjUkF3ZUxrbkUycEl6U1FzaTZIQUJ3bWpDVzdHWFl6VXJaZm1lU3YwTHRrNEwzLXRVWHlRQ290dlpKa3AySzV5Nm1ZLUk4R09pdGVCcGk5TVM0N2ZyLUlNTlhpdk1XeFd4Q9IB6AFBVV95cUxNa2UyN0xZaXBsZGdiSHNKZUUxbzJHODVQdHRGTXg4SXQtV0VFQUNSVmhhNjJ3eVE3TjFjUXozaHRfWHlTMHZvclE4Wi16UnVsMk1rWi0yeUwtUTMwekZhbE5mNXdHTVFUcjRpTWs2aVphVV96UGhvbTktcDU3dnhUb05wX2VVa1VZRUQ0QkRhTi1lYnpsa0tub3h2TlFQUWhQblJyYXduQldvdmpsaTB0TWFNYjFyV2JHTXYwLTE5dkdrajJEbWVlZmFjM2t4MWpWM2pUYXFZWFJzSmhCUWlIYWNlanNLb2tS?oc=5
+
+Trade Setup For Sept 22: Nifty Bulls Eye 23,550 Breakout As Sub-$100 Oil Flips Sentiment | Check Key Levels NDTV Profit
+
+### 72. Stocks end higher as Brent crude falls below $101 - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-21T15:40:30+00:00
@@ -696,7 +726,7 @@ Invesco India Nifty Chemical Index Fund - Direct Plan Fund info The Economic Tim
 
 Stocks end higher as Brent crude falls below $101 financialexpress.com
 
-### 70. Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk - Yahoo Finance
+### 73. Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-21T14:50:45+00:00
@@ -706,7 +736,7 @@ Stocks end higher as Brent crude falls below $101 financialexpress.com
 
 Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI doomsday talk Yahoo Finance
 
-### 71. AI Regulation Fears Rattle Chip Stocks Before Recovery As Investors Eye PCE Data And Bitcoin ETF Surge - foreignpolicyjournal.com
+### 74. AI Regulation Fears Rattle Chip Stocks Before Recovery As Investors Eye PCE Data And Bitcoin ETF Surge - foreignpolicyjournal.com
 
 - Source: foreignpolicyjournal.com
 - Published: 2026-09-21T13:19:00+00:00
@@ -716,7 +746,7 @@ Tech stocks today: Oura files IPO paperwork, Nvidia's Huang pushes back on AI do
 
 AI Regulation Fears Rattle Chip Stocks Before Recovery As Investors Eye PCE Data And Bitcoin ETF Surge foreignpolicyjournal.com
 
-### 72. US stock market today: S&P 500, Nasdaq futures rise up to 1% as oil falls; Trump-Xi summit in focus - Livemint
+### 75. US stock market today: S&P 500, Nasdaq futures rise up to 1% as oil falls; Trump-Xi summit in focus - Livemint
 
 - Source: Livemint
 - Published: 2026-09-21T11:58:47+00:00
@@ -726,7 +756,7 @@ AI Regulation Fears Rattle Chip Stocks Before Recovery As Investors Eye PCE Data
 
 US stock market today: S&P 500, Nasdaq futures rise up to 1% as oil falls; Trump-Xi summit in focus Livemint
 
-### 73. India’s earnings breadth widens, valuations improve: Report - The Hans India
+### 76. India’s earnings breadth widens, valuations improve: Report - The Hans India
 
 - Source: The Hans India
 - Published: 2026-09-21T11:39:22+00:00
@@ -736,7 +766,7 @@ US stock market today: S&P 500, Nasdaq futures rise up to 1% as oil falls; Trump
 
 India’s earnings breadth widens, valuations improve: Report The Hans India
 
-### 74. AI Stocks Rally as South Korea Reports Record Semiconductor Exports - CryptoRank
+### 77. AI Stocks Rally as South Korea Reports Record Semiconductor Exports - CryptoRank
 
 - Source: CryptoRank
 - Published: 2026-09-21T11:32:35+00:00
@@ -746,17 +776,17 @@ India’s earnings breadth widens, valuations improve: Report The Hans India
 
 AI Stocks Rally as South Korea Reports Record Semiconductor Exports CryptoRank
 
-### 75. AI Stocks Rally as South Korea Reports Record Semiconductor Exports - coinpaper.com
+### 78. AI Stocks Rally as South Korea Reports Record Semiconductor Exports - Coinpaper
 
-- Source: coinpaper.com
+- Source: Coinpaper
 - Published: 2026-09-21T11:32:06+00:00
 - Themes: AI / tech risk
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOemRUd1M5bmZaYldzN1F0OVoyWkg2SG9Ua05Cay1hUVVNM0RzdmEzV0tyQWE3ZGlpamR6dHFFTm43ZHJRMzN3TVBNOFBpWkJkQVNHNDRlQzFrcnpOSVR6VlVESUI5U21ydjFyWlhVcjhsQy1CbVR5Zk9neG5kVmpfcE5XSGdHSmR0QmU2elp1Y0N3ZVNLMDEtdGNjYw?oc=5
 
-AI Stocks Rally as South Korea Reports Record Semiconductor Exports coinpaper.com
+AI Stocks Rally as South Korea Reports Record Semiconductor Exports Coinpaper
 
-### 76. The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B - Stocktwits
+### 79. The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-21T07:11:47+00:00
@@ -766,7 +796,7 @@ AI Stocks Rally as South Korea Reports Record Semiconductor Exports coinpaper.co
 
 The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B Stocktwits
 
-### 77. India vs Brazil vs Thailand: Which Market Is Attracting More FII Money in 2026 And Why? - Trade Brains
+### 80. India vs Brazil vs Thailand: Which Market Is Attracting More FII Money in 2026 And Why? - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-09-21T05:25:25+00:00
@@ -775,33 +805,3 @@ The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Cr
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNdkFtTmRVdWdJbW1HclF3dGxfbWxJNFBRWnpFUEVaU3I4TllNNXJsMDVFWF8yclhndVg4ZThONDY0R3ZfbXhZeHBJbVhFRU9GT3JUa2JSQWRCU0RlNlpnUHh4bmNoVWxMSzd5TUhLVjA2VkpJX2ZBUGJ5aV94Z21ScUlsRUZMVFdvbXB1M0h5Xy1rVzEzNGxHSUtCVFh5YVVpYVRkS0FJbC1GQjh3cllTM1V0V0ZBUnlKOU1rZEdxQ2I1TjlsMkNMTnVTTzg?oc=5
 
 India vs Brazil vs Thailand: Which Market Is Attracting More FII Money in 2026 And Why? Trade Brains
-
-### 78. Brent Crude Falls Below $102 As West Asia Diplomacy Hopes Ease Supply Concerns - Free Press Journal
-
-- Source: Free Press Journal
-- Published: 2026-09-21T05:04:44+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOb2czT2lRaWlTVlQtRWNnYlFvQTFHTHhGOTVqdHIzNXZobDJhUUlSOVE3ZndNc3h0cTJEdEdRbGZsYzNfRTJUeks4S3I5NlFtUkVjY3V0U3ZvZ3Z4Smc5UC1YdS1oaktKLWZKVGFyZEpueGhxNTExSExMd2JjWklJVnVPaEpzQzVlQnpzaGpiZE8tN0FjU2JzUUk5amZhal9uNGFlSm1DeGNZM0t5ek1OUDI0Zk1SbVYxeWfSAb8BQVVfeXFMTUg0bHZWTUFmNWlRZGd5Ql9BY3ZlYVl2ZEowVV92NTdfUE9iaXo4Yzluc0N5WE9LdlNWRllFNVdCMmNWcnp6aEk1X0VGd0lIVDZtLVhBZFVJVkZISTU5cTMzZ1lGQVdZOEJvMnd0VXB1QmdCeWw5dVYzelBxT0JaOUZRYnl6NkxRdXVFT2FpcG14c1otLWVja092anBCMkRmNGoyMjExVGF3RERxVDVpd0JUcXF6UEtONUtDZmMtSHc?oc=5
-
-Brent Crude Falls Below $102 As West Asia Diplomacy Hopes Ease Supply Concerns Free Press Journal
-
-### 79. Why Adani Total Gas lost 5%, Adani Ports fell 2% despite gains on Sensex, Nifty | Check how other Adani stocks performed - Livemint
-
-- Source: Livemint
-- Published: 2026-09-21T04:28:25+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxOMkF2TkFnNEE3cnJwRHU5Um9zTmtIc19fN1pqWEFsa3dCbjhEZ3QwVnlIMFpXSGVVRmVjRnRUSi1PTTFqdGtjbExHWHRxbHNIRmhCaGNKRm9jYXJGZlhhcEhhZG80OHZ0WThBaU9pZ0NidUp3a3F6bTVsaEg3dWpIZDExVjVKNlNReGo2QnVFU2plYjl0ZmF2RUdQTF95Vkk2NnRoRTh2SlpZUVhpS1VnZDlNWFdCanh5OWF3TTV6OHJpT3FoamI4czJ1MThOcm1RWXV2SDRDR0xHZjV1Vm1VRVE1Ty1aMzNmTFB4TkdlSjFkbXh0aUstUHAxYk40M3Z2cGdYdTV4SFpfbmI1MWJnc1R30gGXAkFVX3lxTE1TRnVWenFoUkR6eXIwOHFRYW1ldnJTLUFGUm5MUTJUbkl5a1dJS05pVGJ6S3M4MUNwR1BLMlBDYWljOGwwSG5hYU4wOGNHdEU2ZnNkZmk3QTduVHowZTM1ZW1ETEhoR2k3bVFtai15aEMzQktRVTNwVjdlNHpnZEYxTHd3cHJxaTkyaUR3N280TFBZeVN4ai1YbzlrcXNHWlNLN3dvaUxkbDZiUmVEc0xLY2laY09WTFFUQWJXNHBvRDdpaXdmNFhhV2lGUWlDX3lYN3ZOb3ozRmdpOGpLWWVBZEk2eXpKVlZ3UHh5TDREMTBqRDREX2Q5dEE1SXRVYjJCSmo1NFBpV0xWNnc5Vk8zRE9rWm11MA?oc=5
-
-Why Adani Total Gas lost 5%, Adani Ports fell 2% despite gains on Sensex, Nifty | Check how other Adani stocks performed Livemint
-
-### 80. Markets Today: Sensex Opens 324 Points Higher, Nifty Holds 23,300; SMIDs Remain Mixed - News18
-
-- Source: News18
-- Published: 2026-09-21T03:54:19+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQRnBMR3Z4eEgyVzAxdE9wNG9jRWRxN3pCeUV4X1Y1MXAwNFAyaldqX0RDVG4xSGdGWVVQQnJiMHpUYk5zWFBVNHRkR1Q5WGdPZUJZMDlldi1XS3FrOHplTGg2b09kZkRLcHpBMkxaNFRKM1ZoUnNmTGE0c3k2aDdEWktPLTBoblM4d2tWQWZrQXlwa0JxWU1jdlVRNjBxRHZVRTVpSkdlLTB5d1gzZUFWOGpfWlM5S2pyeUhiY041LWctWUs0NkdVa244ZlVJTWNlUEx2MGN30gHWAUFVX3lxTFBGcExHdnh4SDJXMDF0T3A0b2NFZHE3ekJ5RXhfVjUxcDA0UDJqV2pfRENUbjFIZ0ZZVVBCcmIwelRiTnNYUFU0dGRHVDlYZ09lQlkwOWV2LVdLcWs4emVMaDZvT2RmREtwekEyTFo0VEozVmhSc2ZMYTRzeTZoN0RaS08tMGhuUzh3a1ZBZmtBeXBrQnFZTWN2VVE2MHFEdlVFNWlKR2UtMHl3WDNlQVY4al9aUzlLanJ5SGJjTjUtZy1ZSzQ2R1VrbjhmVUlNY2VQTHYwY3c?oc=5
-
-Markets Today: Sensex Opens 324 Points Higher, Nifty Holds 23,300; SMIDs Remain Mixed News18
