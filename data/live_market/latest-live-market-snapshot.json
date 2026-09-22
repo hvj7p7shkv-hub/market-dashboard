@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T08:41:07+05:30",
+  "generated_at": "2026-09-22T09:10:25+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
