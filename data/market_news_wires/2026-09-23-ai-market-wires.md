@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-23 03:38
+Generated: 2026-09-23 04:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -76,15 +76,15 @@ Is The AI Build-Out Still On Track, And What Is The Semiconductor Selloff Tellin
 
 Nifty falls 85 points, Sensex slips 330 points as IT stocks drag markets, easing crude limits losses Public TV English
 
-### 8. Nifty falls 85 points, Sensex slips 330 points as IT stocks drag markets, easing crude limits losses - ANI News
+### 8. Nifty falls 85 points, Sensex slips 330 points as IT stocks drag markets, easing crude limits losses - aninews.in
 
-- Source: ANI News
+- Source: aninews.in
 - Published: 2026-09-22T10:24:00+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSm15TkwwQlJXX2Jrand2bkUzTzJTVVVSMHpiYTlzN1RpRS16c3otYm5ER2RLTnpLTUJGV0d1VDRiS3BxRnFaN0lhTmdfSmJzN1VhZ2pNVW9peUQ0TjhjLVRfbFhtQWs2TUh2TkhTbXJMbE9qRGpTTW1QR1R4a0hNc1M1QWhadWRDVmpsQUhhUTVNaWxPMmRFbGlWN2pyVU01MmI3R3EzRjBQYXN3akFBendrMnpFTjNWcVNmbzFUc1NZQVZJRl95ams5ZDBtYmc3dU5IMGlvMHVmc2Z5VnJISGo2MA?oc=5
 
-Nifty falls 85 points, Sensex slips 330 points as IT stocks drag markets, easing crude limits losses ANI News
+Nifty falls 85 points, Sensex slips 330 points as IT stocks drag markets, easing crude limits losses aninews.in
 
 ### 9. CAS chaos: Nifty’s indicative price drops 1% in seconds to fall below 23,150 on F&O expiry day, Sensex clo - The Economic Times
 
@@ -266,15 +266,15 @@ Stock Markets Decline Sharply As Sensex Falls Over 320 Points, Nifty Tests 23,40
 
 Closing Bell: Rs 1 lakh crore m-cap wiped out as Sensex falls 330 points, Nifty below 23,350 - Check top losers Zee Business
 
-### 27. Sensex falls 600 points from day’s high, Nifty snaps four-day gain - Free Press Kashmir
+### 27. Sensex falls 600 points from day’s high, Nifty snaps four-day gain - freepresskashmir.news
 
-- Source: Free Press Kashmir
+- Source: freepresskashmir.news
 - Published: 2026-09-22T09:22:55+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNN0VsNmEtdjhiWS1JZzduNG16TlFaNXE0NHhZM1dKSmI1OUZ3RGU5aWhvSEhWeXRqZ0lQSkdBU0drc2NmNnY0TnFZaUxYLUhpd2ZhWHZDRy01UHVBNm1tenJEREZzaWU4bE83Zi11c2VCQWdiZVlWcnlET3dtbWlxRTk0ellDdEpiUEdUTW9XUU1WWl82LWk5c1VyZDNiUFl0cUI5T05tZDBuanFGRkFB0gGvAUFVX3lxTE03RWw2YS12OGJZLUlnN240bXpOUVo1cTQ0eFkzV0pKYjU5RndEZTlpaG9ISFZ5dGpnSVBKR0FTR2tzY2Y2djROcVlpTFgtSGl3ZmFYdkNHLTVQdUE2bW16ckRERnNpZThsTzdmLXVzZUJBZ2JlWVZyeURPd21taXFFOTR6WUN0SmJQR1RNb1dRTVZaXzYtaTlzVXJkM2JQWXRxQjlPTm1kMG5qcUZGQUE?oc=5
 
-Sensex falls 600 points from day’s high, Nifty snaps four-day gain Free Press Kashmir
+Sensex falls 600 points from day’s high, Nifty snaps four-day gain freepresskashmir.news
 
 ### 28. Sensex Falls 225 Points, Nifty 50 Slips 62 Points as IT Stocks Drag Market Lower - Dalal Street Investment Journal
 
@@ -296,17 +296,7 @@ Sensex Falls 225 Points, Nifty 50 Slips 62 Points as IT Stocks Drag Market Lower
 
 Sensex falls 600 pts from day’s high, Nifty snaps 4-day gain to trade below 23,300; key factors TradingView
 
-### 30. Market Today: Sensex Falls 293 Points From Day's High; Nifty Slips Below 23,400 As IT Stocks Drag - News18
-
-- Source: News18
-- Published: 2026-09-22T04:01:17+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxNTGJxZ2Z5M1ptVFF3Vy1zb1d0T0FnNm8xZWNXdWdWZE9XSzBPVjZmcWpMRDZqQTJfUXV5Mk44Zkh2ZmdkOWtNRW45TXk0bzFLVjFPczdBQkUyRXJwX1Z2aXVqVHlXNmdCeG1XakNPVUdINDdHejBDZlNEM1NFcEYzNzBRa1QwMlFybDdhUk05T0RtdW9WNzQwZ2hhY3VpU1FQQ1ZMdTFYOEhkQWY0a0FfMW1BWmdZRGM3SUFldU1wR2lPeWZxT2Z5cnI3RGJ3S3puSGxUdExwdVBFeXZj0gHiAUFVX3lxTE41QTRiaExMVDJ0LWg1enBkMFl5a1RMZUtRVWlrLWxIZlliWTM2U0d2YURyc0R5V3o4NC1ER0tiWTY2ZEZud2Y4QkxmMXBXYzg2bFV3OHJseGJHdGlJOXpENmJJSGpOUDBKb2pKMHlZT0hrdU1aZW52WThIbllGY2VvZjdEd0JwcXRNTUdRRFp0RklaT2F6Z1g1NnRXbzZRMlhiQmh4bkthaU1MX3M4OFFGZVB0V2w0US03cGxtYm4zYjFmV2diM3dfT1pnQ1Nzd2QzSGFMejgxYVpYdUtObXFDakE?oc=5
-
-Market Today: Sensex Falls 293 Points From Day's High; Nifty Slips Below 23,400 As IT Stocks Drag News18
-
-### 31. Sensex drops 330 pts on selling in IT stocks - MillenniumPost
+### 30. Sensex drops 330 pts on selling in IT stocks - MillenniumPost
 
 - Source: MillenniumPost
 - Published: 2026-09-22T19:20:21+00:00
@@ -316,7 +306,7 @@ Market Today: Sensex Falls 293 Points From Day's High; Nifty Slips Below 23,400 
 
 Sensex drops 330 pts on selling in IT stocks MillenniumPost
 
-### 32. Bank of Baroda stock rises 0.31 percent as Nifty falls - AD HOC NEWS
+### 31. Bank of Baroda stock rises 0.31 percent as Nifty falls - AD HOC NEWS
 
 - Source: AD HOC NEWS
 - Published: 2026-09-22T14:48:14+00:00
@@ -326,7 +316,7 @@ Sensex drops 330 pts on selling in IT stocks MillenniumPost
 
 Bank of Baroda stock rises 0.31 percent as Nifty falls AD HOC NEWS
 
-### 33. Nifty 50 Snaps Four-Day Winning Streak, Falls 0.36% to 23,329 as IT Stocks Heavily Weigh on the Index - International Business Times Australia
+### 32. Nifty 50 Snaps Four-Day Winning Streak, Falls 0.36% to 23,329 as IT Stocks Heavily Weigh on the Index - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-09-22T12:07:18+00:00
@@ -336,17 +326,17 @@ Bank of Baroda stock rises 0.31 percent as Nifty falls AD HOC NEWS
 
 Nifty 50 Snaps Four-Day Winning Streak, Falls 0.36% to 23,329 as IT Stocks Heavily Weigh on the Index International Business Times Australia
 
-### 34. Top gainers and losers, September 22: Tata Consumer Products falls 2%, Coal India jumps 3%, Eternal up 2%; check list - Upstox
+### 33. Top gainers and losers, September 22: Tata Consumer Products falls 2%, Coal India jumps 3%, Eternal up 2%; check list - upstox.com
 
-- Source: Upstox
+- Source: upstox.com
 - Published: 2026-09-22T11:14:01+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxOYVU3d1Fob3plMzZFNEp6SHJiZzlFZFAyTmpaVGZCTjFWRy15X1N3b01GRjlzdkNKcnIxdVRMX1JRMDliQTUyMUFpVFFOWmNQbXFhMUQxZ1ZHeEN5X0k1YVJrS1lHNmhacnozUllGdlNSUXNULUtwLVJRVEpUU2xpTnZGV0V3QW5iSnd4d0Y3dGFOZmlnN2Jwcm40SzBMc19FQTJKSE0yX25mRUdzaWg5ektYdWZnTWQ2MEQ3MjQ3QkF2clMyUzIzdDFtUUxVSklpX2sxR1F5TGpEQWNieGRrb2Y4eDJfUGRBUkdrQ3htWmYzcFdjdy1GRnFtMmI?oc=5
 
-Top gainers and losers, September 22: Tata Consumer Products falls 2%, Coal India jumps 3%, Eternal up 2%; check list Upstox
+Top gainers and losers, September 22: Tata Consumer Products falls 2%, Coal India jumps 3%, Eternal up 2%; check list upstox.com
 
-### 35. BSE SENSEX Today: Indian Markets Shut for Ganesh Chaturthi After Friday's Sharp Selloff to 74,781.76 - BBN Times
+### 34. BSE SENSEX Today: Indian Markets Shut for Ganesh Chaturthi After Friday's Sharp Selloff to 74,781.76 - BBN Times
 
 - Source: BBN Times
 - Published: 2026-09-22T05:19:21+00:00
@@ -356,7 +346,7 @@ Top gainers and losers, September 22: Tata Consumer Products falls 2%, Coal Indi
 
 BSE SENSEX Today: Indian Markets Shut for Ganesh Chaturthi After Friday's Sharp Selloff to 74,781.76 BBN Times
 
-### 36. Mindteck (India) Ltd Falls 5.27% - Business Standard
+### 35. Mindteck (India) Ltd Falls 5.27% - Business Standard
 
 - Source: Business Standard
 - Published: 2026-09-22T04:20:22+00:00
@@ -366,7 +356,7 @@ BSE SENSEX Today: Indian Markets Shut for Ganesh Chaturthi After Friday's Sharp 
 
 Mindteck (India) Ltd Falls 5.27% Business Standard
 
-### 37. Mutual funds clock record Rs 87 lakh crore AUM; SIP flows peak at Rs 32,297 crore - The Times of India
+### 36. Mutual funds clock record Rs 87 lakh crore AUM; SIP flows peak at Rs 32,297 crore - The Times of India
 
 - Source: The Times of India
 - Published: 2026-09-22T10:23:00+00:00
@@ -376,7 +366,7 @@ Mindteck (India) Ltd Falls 5.27% Business Standard
 
 Mutual funds clock record Rs 87 lakh crore AUM; SIP flows peak at Rs 32,297 crore The Times of India
 
-### 38. AI in Mutual Funds: Technology’s Role in Expanding Financial Access - Kalkine India
+### 37. AI in Mutual Funds: Technology’s Role in Expanding Financial Access - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-09-22T08:31:00+00:00
@@ -386,7 +376,7 @@ Mutual funds clock record Rs 87 lakh crore AUM; SIP flows peak at Rs 32,297 cror
 
 AI in Mutual Funds: Technology’s Role in Expanding Financial Access Kalkine India
 
-### 39. US equity mutual funds record largest underweight in AI equities - Crypto Briefing
+### 38. US equity mutual funds record largest underweight in AI equities - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-09-22T21:32:34+00:00
@@ -396,7 +386,7 @@ AI in Mutual Funds: Technology’s Role in Expanding Financial Access Kalkine In
 
 US equity mutual funds record largest underweight in AI equities Crypto Briefing
 
-### 40. Invesco India Mid Cap and Quant Small Cap among 5 equity funds that deliver over 24% SIP returns in 10 years - The Economic Times
+### 39. Invesco India Mid Cap and Quant Small Cap among 5 equity funds that deliver over 24% SIP returns in 10 years - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-22T18:45:46+00:00
@@ -406,7 +396,7 @@ US equity mutual funds record largest underweight in AI equities Crypto Briefing
 
 Invesco India Mid Cap and Quant Small Cap among 5 equity funds that deliver over 24% SIP returns in 10 years The Economic Times
 
-### 41. Best Indian Trading App for Equity, F&O & Mutual Funds - First India
+### 40. Best Indian Trading App for Equity, F&O & Mutual Funds - First India
 
 - Source: First India
 - Published: 2026-09-22T18:26:02+00:00
@@ -416,7 +406,7 @@ Invesco India Mid Cap and Quant Small Cap among 5 equity funds that deliver over
 
 Best Indian Trading App for Equity, F&O & Mutual Funds First India
 
-### 42. Indian households' savings mix shifts: Mutual funds and equity gain, insurance flows weaken — what it means - Livemint
+### 41. Indian households' savings mix shifts: Mutual funds and equity gain, insurance flows weaken — what it means - Livemint
 
 - Source: Livemint
 - Published: 2026-09-22T17:45:27+00:00
@@ -426,7 +416,7 @@ Best Indian Trading App for Equity, F&O & Mutual Funds First India
 
 Indian households' savings mix shifts: Mutual funds and equity gain, insurance flows weaken — what it means Livemint
 
-### 43. Mutual Fund AUM crosses ₹87 lakh crore in Aug; SIP accounts top 10 crore - Whispers in the Corridors
+### 42. Mutual Fund AUM crosses ₹87 lakh crore in Aug; SIP accounts top 10 crore - Whispers in the Corridors
 
 - Source: Whispers in the Corridors
 - Published: 2026-09-22T17:33:51+00:00
@@ -436,7 +426,7 @@ Indian households' savings mix shifts: Mutual funds and equity gain, insurance f
 
 Mutual Fund AUM crosses ₹87 lakh crore in Aug; SIP accounts top 10 crore Whispers in the Corridors
 
-### 44. SIPs tighten grip on equity flows - financialexpress.com
+### 43. SIPs tighten grip on equity flows - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-22T14:30:57+00:00
@@ -446,7 +436,7 @@ Mutual Fund AUM crosses ₹87 lakh crore in Aug; SIP accounts top 10 crore Whisp
 
 SIPs tighten grip on equity flows financialexpress.com
 
-### 45. Why mutual funds are avoiding big trades in India's new closing auction session - Livemint
+### 44. Why mutual funds are avoiding big trades in India's new closing auction session - Livemint
 
 - Source: Livemint
 - Published: 2026-09-22T12:57:52+00:00
@@ -456,7 +446,7 @@ SIPs tighten grip on equity flows financialexpress.com
 
 Why mutual funds are avoiding big trades in India's new closing auction session Livemint
 
-### 46. Crypto SIP App/Platform in India in 2026 - The Hans India
+### 45. Crypto SIP App/Platform in India in 2026 - The Hans India
 
 - Source: The Hans India
 - Published: 2026-09-22T12:09:30+00:00
@@ -466,7 +456,7 @@ Why mutual funds are avoiding big trades in India's new closing auction session 
 
 Crypto SIP App/Platform in India in 2026 The Hans India
 
-### 47. 4 Top-Ranked Mutual Funds to Invest in as Market Volatility Continues - Yahoo Finance
+### 46. 4 Top-Ranked Mutual Funds to Invest in as Market Volatility Continues - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-22T12:07:00+00:00
@@ -476,7 +466,7 @@ Crypto SIP App/Platform in India in 2026 The Hans India
 
 4 Top-Ranked Mutual Funds to Invest in as Market Volatility Continues Yahoo Finance
 
-### 48. Bandhan Small Cap and ITI Small Cap among 5 smallcap mutual funds delivering over 22% annualised returns in 3 years - The Economic Times
+### 47. Bandhan Small Cap and ITI Small Cap among 5 smallcap mutual funds delivering over 22% annualised returns in 3 years - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-22T09:55:13+00:00
@@ -486,7 +476,7 @@ Crypto SIP App/Platform in India in 2026 The Hans India
 
 Bandhan Small Cap and ITI Small Cap among 5 smallcap mutual funds delivering over 22% annualised returns in 3 years The Economic Times
 
-### 49. Best Smallcap Funds for SIP - Equitymaster
+### 48. Best Smallcap Funds for SIP - Equitymaster
 
 - Source: Equitymaster
 - Published: 2026-09-22T04:29:39+00:00
@@ -496,7 +486,7 @@ Bandhan Small Cap and ITI Small Cap among 5 smallcap mutual funds delivering ove
 
 Best Smallcap Funds for SIP Equitymaster
 
-### 50. SIP underperforming? When should you wait, review or exit? Union AMC CEO Rajkamal Tiwari explains - Moneycontrol.com
+### 49. SIP underperforming? When should you wait, review or exit? Union AMC CEO Rajkamal Tiwari explains - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-23T02:21:04+00:00
@@ -505,6 +495,16 @@ Best Smallcap Funds for SIP Equitymaster
 - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPSWZlazJ0ZGVINXVyRWstbmlPSDBPUmhLaEl3dThFakM1eGo3dVVDREFDNWZyYmlTaDV3eUs1NnpXa2ltMUs3d05GRW1qbWdVcnpyVHVkTjJ0T3JEZXFpQkdEQ1RWSGkwVHZaZ1RPUkFMUWQwOU1vRGxMdVJ2UFp3ZHRnODZXZjdaNEVtckFwV2pRdjl3S0NMeS1KYmNrTXBoa3RHamtheHA2Z1lDTkhvNWUzZXRYZ25HeUpITlNaYUFZSjFYUnUwVVJDSnBubmFDUHl5T1pGeHNQem9oRl9vbFNZREJHNjVjMVNmMkZmYmlkMFlodnl1MGtQR2I?oc=5
 
 SIP underperforming? When should you wait, review or exit? Union AMC CEO Rajkamal Tiwari explains Moneycontrol.com
+
+### 50. UPI for mutual funds: Benefits, limits and impact of new MDR explained - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-09-23T02:05:49+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbjcwWWJ1OUQ4cnQxcTNnZURoOTEzZ290N2VqcEpadVZ0QWRxWVgwWEhCRkY1Zi12dWduNUJKYmpPX29NQTZXdWZwRFB1blBRQ0RnckpUQkxyU3ZRT0NGWVA0Z0V0dHR5NUt0QUFnTkdKU1NNLXR4dlByNkxZV2IwckphcGYzZXJldjJPZWFyLVV4YTJCZy1oY2ltdE5vYWtvQ1owWXlpdlFhZkQ4SjhiZGFScTVUeFkwdE8wVEU2eTlxU242VFpFRUlVb2g4WVpQVk9HQ1RFZERpZEdGLWVyeFVRaGszalJUUDQzNFVvUXjSAfABQVVfeXFMT243MFlidTlEOHJ0MXEzZ2VEaDkxM2dvdDdlanBKWnVWdEFkcVlYMFhIQkZGNWYtdnVnbjVCSmJqT19vTUE2V3VmcERQdW5QUUNEZ3JKVEJMclN2UU9DRllQNGdFdHR0eTVLdEFBZ05HSlNTTS10eHZQcjZMWVdiMHJKYXBmM2VyZXYyT2Vhci1VeGEyQmctaGNpbXROb2Frb0NaMFl5aXZRYWZEOEo4YmRhUnE1VHhZMHRPMFRFNnk5cVNuNlRaRUVJVW9oOFlaUFZPR0NURWREaWRHRi1lcnhVUWhrM2pSVFA0MzRVb1F4?oc=5
+
+UPI for mutual funds: Benefits, limits and impact of new MDR explained The Economic Times
 
 ### 51. Sensex, Nifty 50 prediction today: How Asian markets, crude will impact Indian markets? Gift Nifty, Kospi, Taiwan signal - Livemint
 
@@ -616,27 +616,7 @@ Why the Nifty Struggled in 2025: Earnings, Valuations & FPI Outflows HDFC Sky
 
 No-cost EMIs backed by mutual funds: a new fintech category is rewriting the rules of consumer lending The Tribune
 
-### 62. Best corporate bond mutual funds to invest in September 2026 - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-09-22T04:03:25+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPc3JBNE5pU1JWZUd4ekNZaTJyREZ5NS1KY014SEpXaFVDdzFLem01czNZTWJUQmw5dTB2RWkyaWRYVFRhdFdxTEpzMTRZOUFSZUh2NUdrSFFDUThIUklTbXQyaWNhN19SMVRhVEpwTlVzYUk5TW9yMUk0dFJ3VS1xS3MzZUtVVFZ6YU1mU1F3Q1BpeUdKdnZDY1RFQ0xjTUFXbURPMTFKZGlhOTVSY0NuMkx1LVVuRTdKUEdIektQampmQ3dGdjlOaHdn0gHKAUFVX3lxTE9zckE0TmlTUlZlR3h6Q1lpMnJERnk1LUpjTXhISldoVUN3MUt6bTVzM1lNYlRCbDl1MHZFaTJpZFhUVGF0V3FMSnMxNFk5QVJlSHY1R2tIUUNROEhSSVNtdDJpY2E3X1IxVGFUSnBOVXNhSTlNb3IxSTR0UndVLXFLczNlS1VUVnphTWZTUXdDUGl5R0p2dkNjVEVDTGNNQVdtRE8xMUpkaWE5NVJjQ24yTHUtVW5FN0pQR0h6S1BqamZDd0Z2OU5od2c?oc=5
-
-Best corporate bond mutual funds to invest in September 2026 The Economic Times
-
-### 63. Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil Surge and Rate Fears - BBN Times
-
-- Source: BBN Times
-- Published: 2026-09-23T00:09:42+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxNNk9TZGhqTUI1RGVQX3ktQ2w5cjdsVVVtMERWWnpJUGFOeXlic0g4OG5WdERTZlZTNGUwZVlRQkNGbk5La2tPRFdmaFE2S3E4b2djNVVCcl9Jel9SV1hSVEU0NzN1YjBmN1BBT0JXcENpZEM4UnN0djdhMVA3RlJvck1uSlc2d19VaFVoYjlvY3E5bUlnMWZ5dE1OMHFVRFBtb2pCWkhfQUZCdVhfTnFyNmZpMnU2ajNUZXZWdFJ1YUFZdWxKNWhOWlJqRmpsUQ?oc=5
-
-Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil Surge and Rate Fears BBN Times
-
-### 64. The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B - Stocktwits
+### 62. The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-22T23:58:40+00:00
@@ -646,7 +626,7 @@ Hong Kong Stock Exchange Today: Hang Seng Index Falls 1.00% to 24,667.24 on Oil 
 
 The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Creator Worth $35B Stocktwits
 
-### 65. Global Market: China stocks rebound on AI, chip rally; Hong Kong shares slip - The Economic Times
+### 63. Global Market: China stocks rebound on AI, chip rally; Hong Kong shares slip - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-22T23:09:13+00:00
@@ -656,7 +636,7 @@ The Chinese AI Model That Wiped Hundreds Of Billions Off Nvidia Just Made Its Cr
 
 Global Market: China stocks rebound on AI, chip rally; Hong Kong shares slip The Economic Times
 
-### 66. Invesco India Midcap Fund(G)-Direct Plan - Univest
+### 64. Invesco India Midcap Fund(G)-Direct Plan - Univest
 
 - Source: Univest
 - Published: 2026-09-22T21:32:11+00:00
@@ -666,7 +646,7 @@ Global Market: China stocks rebound on AI, chip rally; Hong Kong shares slip The
 
 Invesco India Midcap Fund(G)-Direct Plan Univest
 
-### 67. Chip Stocks Tumble After AI Leaders Call for Slowdown in Development - WSJ
+### 65. Chip Stocks Tumble After AI Leaders Call for Slowdown in Development - WSJ
 
 - Source: WSJ
 - Published: 2026-09-22T15:50:05+00:00
@@ -676,7 +656,7 @@ Invesco India Midcap Fund(G)-Direct Plan Univest
 
 Chip Stocks Tumble After AI Leaders Call for Slowdown in Development WSJ
 
-### 68. Nifty Ends Four-Day Winning Streak as IT, Financial Stocks Weigh on Markets - INDIA New England News
+### 66. Nifty Ends Four-Day Winning Streak as IT, Financial Stocks Weigh on Markets - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-09-22T15:39:20+00:00
@@ -686,7 +666,7 @@ Chip Stocks Tumble After AI Leaders Call for Slowdown in Development WSJ
 
 Nifty Ends Four-Day Winning Streak as IT, Financial Stocks Weigh on Markets INDIA New England News
 
-### 69. Market Rally Fizzles Out: Sensex, Nifty End Lower; Rs.2.37 Lakh Crore Lost - Hindusthan Samachar English
+### 67. Market Rally Fizzles Out: Sensex, Nifty End Lower; Rs.2.37 Lakh Crore Lost - Hindusthan Samachar English
 
 - Source: Hindusthan Samachar English
 - Published: 2026-09-22T12:31:55+00:00
@@ -696,7 +676,7 @@ Nifty Ends Four-Day Winning Streak as IT, Financial Stocks Weigh on Markets INDI
 
 Market Rally Fizzles Out: Sensex, Nifty End Lower; Rs.2.37 Lakh Crore Lost Hindusthan Samachar English
 
-### 70. Sensex settles 330 pts lower; Nifty ends below 23,350 - Business Standard
+### 68. Sensex settles 330 pts lower; Nifty ends below 23,350 - Business Standard
 
 - Source: Business Standard
 - Published: 2026-09-22T10:34:12+00:00
@@ -706,7 +686,7 @@ Market Rally Fizzles Out: Sensex, Nifty End Lower; Rs.2.37 Lakh Crore Lost Hindu
 
 Sensex settles 330 pts lower; Nifty ends below 23,350 Business Standard
 
-### 71. Taking Stock: Market snaps 4-day winning streak; Nifty below 23,350, Sensex down 330 pts - TradingView
+### 69. Taking Stock: Market snaps 4-day winning streak; Nifty below 23,350, Sensex down 330 pts - TradingView
 
 - Source: TradingView
 - Published: 2026-09-22T10:21:56+00:00
@@ -716,7 +696,7 @@ Sensex settles 330 pts lower; Nifty ends below 23,350 Business Standard
 
 Taking Stock: Market snaps 4-day winning streak; Nifty below 23,350, Sensex down 330 pts TradingView
 
-### 72. FII comeback unlikely in large numbers even after AI trade peaks: Bernstein - Moneycontrol.com
+### 70. FII comeback unlikely in large numbers even after AI trade peaks: Bernstein - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-22T08:38:09+00:00
@@ -726,7 +706,7 @@ Taking Stock: Market snaps 4-day winning streak; Nifty below 23,350, Sensex down
 
 FII comeback unlikely in large numbers even after AI trade peaks: Bernstein Moneycontrol.com
 
-### 73. Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation - The Times of India
+### 71. Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation - The Times of India
 
 - Source: The Times of India
 - Published: 2026-09-22T08:16:00+00:00
@@ -736,7 +716,7 @@ FII comeback unlikely in large numbers even after AI trade peaks: Bernstein Mone
 
 Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation The Times of India
 
-### 74. Sensex down 400 pts from day's high, Nifty near 23,350: Selling in IT shares among key factors behind markets turning red - TradingView
+### 72. Sensex down 400 pts from day's high, Nifty near 23,350: Selling in IT shares among key factors behind markets turning red - TradingView
 
 - Source: TradingView
 - Published: 2026-09-22T05:25:00+00:00
@@ -746,7 +726,7 @@ Nasdaq hits record high as AI stocks rally; AMD crosses $1 trillion valuation Th
 
 Sensex down 400 pts from day's high, Nifty near 23,350: Selling in IT shares among key factors behind markets turning red TradingView
 
-### 75. Markets Outlook: Oil, Tariffs, Rate Hikes & FII Selling To Keep Upside In Check - Business Today
+### 73. Markets Outlook: Oil, Tariffs, Rate Hikes & FII Selling To Keep Upside In Check - Business Today
 
 - Source: Business Today
 - Published: 2026-09-22T05:24:48+00:00
@@ -756,7 +736,17 @@ Sensex down 400 pts from day's high, Nifty near 23,350: Selling in IT shares amo
 
 Markets Outlook: Oil, Tariffs, Rate Hikes & FII Selling To Keep Upside In Check Business Today
 
-### 76. INDIA VIX Stock Price, India VIX Market Indices, India VIX Price, Stock Performance & Comparison - Moneycontrol.com
+### 74. SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pandey - Zee News
+
+- Source: Zee News
+- Published: 2026-09-23T03:21:43+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFJMeWw5LWlzN0tPVzNGVXZYREE4UUZUMTdXUFRkX1o5eUd0bkU3WHdXXzNFV3NLM214dFRNb1Y5T0hsRlpMSHpxY0NqdnRyTFhrQkxTNGlkSEFKdlplWmlUNDE2NXNhVHNfTV9OZkdCNjdpWXdtSFR3WkJONUY0SVE3Qld5ZDBpNnlYTy1UQmJ1RmFoUW12eHlwUW4tdXZacmVVRk5NYUZDX0k1U2NEajZSWUp0Wk4tUGdHd2RHQWZGTVFSa3hn0gHMAUFVX3lxTE9rdE56ODUzU293aERJRlFjUXRjRzhGZzZmc3MtNXJQamJKb3R0dkZyb2VxMXBEWXJIMFFzbTJYdGtENUE3MXVCaEM5SkZLOGc3TXZyTjY1ei1zYzlSV1p4cXlzT3F0UWJzY2FFVFNqOWlSel9peXVOMUxIRkRDaHlVVWhna0ZfVFFIaXhxMlplSF8yU2xjUWNfSzAxdTNGNGpXZnItY09vaHlfVlJzSkxGSlR1N3hJSmRTZWhRTEczV0pVSWRCMUVvRmpHTQ?oc=5
+
+SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pandey Zee News
+
+### 75. INDIA VIX Stock Price, India VIX Market Indices, India VIX Price, Stock Performance & Comparison - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-22T23:39:11+00:00
@@ -766,17 +756,7 @@ Markets Outlook: Oil, Tariffs, Rate Hikes & FII Selling To Keep Upside In Check 
 
 INDIA VIX Stock Price, India VIX Market Indices, India VIX Price, Stock Performance & Comparison Moneycontrol.com
 
-### 77. SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pandey - thehawk.in
-
-- Source: thehawk.in
-- Published: 2026-09-22T23:02:51+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxPR21Sb1NCMzd4TW5UeHBxd1M5QmNxbnJQSXhFZ2dDQzFtcXphUkJJUlhmNk5ZRHFGWDVoOWNOaVRvX2RMbEx1Znc2d1RhRVRpMUlUT3czcGx6MVpLSWgydmJNR2txWGc1Q2VrY2Q0TWhiRzNVSld0cllLei1rTG1VN0NvLUlJWGR0ZktfZEJCdmh6YjJIMGR6REExZWtROUVwTjV6SFNUTUNCUloxdXQ1V1BaMUhBTDRzMnp5alVHMjNtR3hENW1GcU1B?oc=5
-
-SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pandey thehawk.in
-
-### 78. Invesco India Medium Term Fund Direct-IDCW Quarterly (₹ 1,033.33) - NAV, Reviews & asset allocation - The Economic Times
+### 76. Invesco India Medium Term Fund Direct-IDCW Quarterly (₹ 1,033.33) - NAV, Reviews & asset allocation - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-22T20:56:48+00:00
@@ -786,7 +766,7 @@ SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pan
 
 Invesco India Medium Term Fund Direct-IDCW Quarterly (₹ 1,033.33) - NAV, Reviews & asset allocation The Economic Times
 
-### 79. Nifty IT Today: Down 0.86% at 28,582.10 - Univest
+### 77. Nifty IT Today: Down 0.86% at 28,582.10 - Univest
 
 - Source: Univest
 - Published: 2026-09-22T19:43:31+00:00
@@ -796,7 +776,7 @@ Invesco India Medium Term Fund Direct-IDCW Quarterly (₹ 1,033.33) - NAV, Revie
 
 Nifty IT Today: Down 0.86% at 28,582.10 Univest
 
-### 80. SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pandey - lokmattimes.com
+### 78. SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pandey - lokmattimes.com
 
 - Source: lokmattimes.com
 - Published: 2026-09-22T19:25:09+00:00
@@ -805,3 +785,23 @@ Nifty IT Today: Down 0.86% at 28,582.10 Univest
 - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOSjlfNkVsb2Z6TGNlYkdPOGs2M2c0djUtWmk3SzhhbmdaYW5Rb0F5SmN1UmJBZ3l2b2I1QW1wOGIwbU1ERTB5VzVmSWo0Y29ReHM5ZHNBOG1zZ2ZvV1hxWmxjT0J6S09wU3ppckJWay00MkRmZUZ1cHkwR2sxUU1Uc2JQZ1VnVVlzOE9tODFvWVJoLUI2TUpleGFZaHJEQUdLQWxfWW45eWdHSWJEaWtZQmdfZDFKMzIzZF9wOTBUZzdPUlQyZFHSAcYBQVVfeXFMTko5XzZFbG9mekxjZWJHTzhrNjNnNHY1LVppN0s4YW5nWmFuUW9BeUpjdVJiQWd5dm9iNUFtcDhiMG1NREUweVc1ZklqNGNvUXhzOWRzQThtc2dmb1dYcVpsY09CektPcFN6aXJCVmstNDJEZmVGdXB5MEdrMVFNVHNiUGdVZ1VZczhPbTgxb1lSaC1CNk1KZXhhWWhyREFHS0FsX1luOXlnR0liRGlrWUJnX2QxSjMyM2RfcDkwVGc3T1JUMmRR?oc=5
 
 SEBI plans easier FPI onboarding, wider commodity market access: Tuhin Kanta Pandey lokmattimes.com
+
+### 79. Invesco India Banking and PSU Debt Fund Direct-IDCW Daily (₹ 1,062.86) - NAV, Reviews & asset allocation - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-09-22T18:48:15+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPWVkySlRTZncyU01mOHI3aE1jbm1lREtkVVg0WlFyYXliaVlPbmNIV1BZQjAtb2N0Vk52b0VJb3RaNU5ueEVBeUZBTVdIZ01ZZ0dwT3VqazhrakdERHkwazByTXpfWUxXSm5Ga242TnZ1d1B3MVA1VTJWSTRTQWdHYUMxWnJWQWFvaHBQTjdMUS0yd1FxYnpNVTNkcFJlaS1GRzBjeG5iSDRyZkRQQUVz?oc=5
+
+Invesco India Banking and PSU Debt Fund Direct-IDCW Daily (₹ 1,062.86) - NAV, Reviews & asset allocation The Economic Times
+
+### 80. Nifty IT Today: Down 0.80% in Early Trade - Univest
+
+- Source: Univest
+- Published: 2026-09-22T18:24:55+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE43Nm5zbXJ0dFFWY0FJY01odHk4T0dLSjAyWkRMaTdxanF0MkxKUmFkWUh4QlB6ZF95VUNmY0xSR1p3NENmUTBEZGVpbDByUGZtWWZsRWZha3BMSEJnTkhWSFdhX1JDX3FW?oc=5
+
+Nifty IT Today: Down 0.80% in Early Trade Univest
