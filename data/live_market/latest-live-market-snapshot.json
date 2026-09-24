@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T16:10:04+05:30",
+  "generated_at": "2026-09-24T18:04:07+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -1639,8 +1639,8 @@
       "decliners": 428,
       "unchanged": 1,
       "ad_ratio": 0.16,
-      "up_turnover_share_pct": 14.7,
-      "down_turnover_share_pct": 85.3,
+      "up_turnover_share_pct": 14.8,
+      "down_turnover_share_pct": 85.2,
       "high_volume_decliners": 50,
       "intraday_quotes": 499,
       "daily_fallbacks": 0,
@@ -1679,7 +1679,7 @@
         "advancers": 1,
         "decliners": 4,
         "average_1d_pct": -0.712,
-        "average_volume_ratio_20d": 0.977
+        "average_volume_ratio_20d": 0.98
       },
       {
         "sector": "Realty",
@@ -1710,8 +1710,8 @@
         "count": 26,
         "advancers": 5,
         "decliners": 21,
-        "average_1d_pct": -1.12,
-        "average_volume_ratio_20d": 0.68
+        "average_1d_pct": -1.103,
+        "average_volume_ratio_20d": 0.679
       },
       {
         "sector": "Media Entertainment & Publication",
@@ -8710,10 +8710,10 @@
         "ltp": 37500.0,
         "previous_close": 37340.0,
         "day_move_pct": 0.4285,
-        "session_volume": 15469.0,
+        "session_volume": 15803.0,
         "average_volume_20d": 19961.0,
-        "volume_ratio_20d": 0.775,
-        "turnover_proxy": 580087500.0,
+        "volume_ratio_20d": 0.792,
+        "turnover_proxy": 592612500.0,
         "quote_date": "2026-09-24",
         "quote_timestamp": "2026-09-24 15:10 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -9659,13 +9659,13 @@
         "ticker": "SOLARINDS.NS",
         "name": "Solar Industries India Ltd.",
         "sector": "Chemicals",
-        "ltp": 19480.0,
+        "ltp": 19570.0,
         "previous_close": 19730.0,
-        "day_move_pct": -1.2671,
-        "session_volume": 110078.0,
+        "day_move_pct": -0.8109,
+        "session_volume": 108674.0,
         "average_volume_20d": 259335.0,
-        "volume_ratio_20d": 0.424,
-        "turnover_proxy": 2144319440.0,
+        "volume_ratio_20d": 0.419,
+        "turnover_proxy": 2126750180.0,
         "quote_date": "2026-09-24",
         "quote_timestamp": "2026-09-24 15:10 IST",
         "quote_type": "Yahoo 5-minute quote",
