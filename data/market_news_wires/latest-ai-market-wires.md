@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-24 06:38
+Generated: 2026-09-24 07:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -9,10 +9,10 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 ### 1. Sensex stuck for 2 years: What a ‘time correction’ means for your SIP and investments - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-09-24T06:29:52+00:00
+- Published: 2026-09-24T06:56:15+00:00
 - Themes: market selling, India market
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxPZEJrdUpFSm9lZFI3ZDNWVVhMVHBpMDBFWVg3cWZ6bV9UcXJBQjFnWWVMTmRidThmQUNId1ZvMExIV2ZUN1l2S08tRGc1RkNqRWxTVmlvLUw4a3p5OGhwcmhCUlJVTkxfQVU4MUR0Q1Y2cTRlZzF0OThGZ0l4RFl1REM5bDc5WGRXd1BrMmtTN3Y1eU5fYTgxVjc3VTNJQ2x6Y01rVlZlTEx4ZGZ6cGZlaTFnQ095RTV0elpvS2R5MlZvSklIU19zX3FzWTk2WVpzMTg1OGo0UnUyUUZpT21QdHln?oc=5
+- Link: https://news.google.com/rss/articles/CBMiuAJBVV95cUxPSWVBTTJkVlR6OFdsanQ2RGF6MnFLQ3JHZE0wb1poSWFLUGVOUVpqQjZEa2tpTkZWd2hDdXpnSHN0T2hOQVJ3TEM5UTc1VVBJV3pJMXRBSG5DOWFPZWZuUHBXRGI3NFBaeFBqZ2d6dUtNQWVUSE5ZLU5MbkswNGRCeGlDMHpLVXRZSlJ2d0Njal9PVWhab2ZkN1NMV1FpellIOFg4RTdrMUUwWE5odVFxbDZXSWU4cFliajdMalBORzk5bmJFa1BRcWRCMUMxdV8wSWt3emhobGY4a2Q1SklmVXFOWndFWlppT0FGUDlqOG5GbktQWk9ESGJLd0NTb3AtTkJrZk9UVHF0X1JLSWo0N1RIcmdaMkxiaFoyLTNTQjQtbmNxalNBakxGeFBERTZxWHY4dXZLQm4?oc=5
 
 Sensex stuck for 2 years: What a ‘time correction’ means for your SIP and investments The Economic Times
 
@@ -26,15 +26,15 @@ Sensex stuck for 2 years: What a ‘time correction’ means for your SIP and in
 
 Indian Stock Market Falls: Nifty Down 1% as Crude Oil and Bond Yields Surge Business Today
 
-### 3. Sensex, Nifty fall 0.8% as rising crude, US bond yields rattle markets - thehindubusinessline.com
+### 3. Sensex, Nifty fall 0.8% as rising crude, US bond yields rattle markets - BusinessLine
 
-- Source: thehindubusinessline.com
+- Source: BusinessLine
 - Published: 2026-09-24T04:24:16+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxPZFpLb3ZXeEppVlE2VGtnMEg0cWRSaUpvS2NxYXpuNnVORnVHS0ZlSkVXc24xZEtReVJVY3JiU0h2RURMLWV5bm1zSWJwVUNwbktOdzQ5N3BNR3Y0MTliVlU1RUZnZnRPLUJ4WkFfNnNVc2lFNzVnd0FXUk9nX3dVMU9NbUpFV0tFanpLbjc0UmU5aDJJS1A0VldMMXlnamV5RUlKcFFTZ0E2cWl1OEtJc2pkY25zNEsxaGFzUU9OR1ZfYVlzd3VzbU1UWUxlVlNDZWg2V0dFRG9qSmNUS0JZRFFJMkhfLUtWM3hwMWljWGg0QdIB-AFBVV95cUxNRUJoUzdUSTk3dWhob3V2bDlGMEZOZVFJVWdfSGkyVTF1a1BVcWVDel95eGJMRmEydTR6M1FnZzNVWWYwSDJoZVZya1BQSjVsYzhsR1RMaWIxZTZuNzFZUHBoWGNfQ3BtUW83eDNCZ0dpN05CQzFTQTk1VTB5eG5rM1FTME8xSG5GZl96U2N1QWtaU0lfMkNjTnhwVGtiYjlzUVRCTUNRMXBjLTZNbE9sMHBQVll2QkwwSXV6ZVpwbmhza3E2MUFydXNIa3dsXzV5RnlIUFFtbkc5V21pRk9wVHI0NWUtTktHOTZneHFFTjhoOElvR3BnOQ?oc=5
 
-Sensex, Nifty fall 0.8% as rising crude, US bond yields rattle markets thehindubusinessline.com
+Sensex, Nifty fall 0.8% as rising crude, US bond yields rattle markets BusinessLine
 
 ### 4. Market Today: Sensex Falls Over 550 Points, Nifty Below 23,250 As Global Bond Yields, Crude Prices Weigh - News18
 
@@ -79,10 +79,10 @@ Metal sector stocks fall today, September 24: Hindalco declines 1.72%, Vedanta s
 ### 8. Sensex falls over 630 points, Nifty slips below 23,250 as oil stays above $100 - PSU Watch
 
 - Source: PSU Watch
-- Published: 2026-09-24T05:07:02+00:00
+- Published: 2026-09-24T05:01:57+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPLUxub2Z1LXZad29fS1RrNjQyRHg3TDlsVVR0X0RTck5pN0wwbEptNjZ0cmQydDFnUmdWM21NRUs1a05qZFJQTDRNUVh4RDNxUkRJdmgzV0xQLVFnN3czN0dhamUyLVBhN01IZlBLajV4WFZ5TzZNNkZRS0dtaG5FT21wMDdmbHdYM29HcGdLc0pRSERaMEF2OGF4R3lOV0xGc2UwWTZHamdRZTJsLXNYR2tNTFl3VjFObDBTc0JTbnNYazZWRFMwUE1INzhMd9IBzgFBVV95cUxPLUxub2Z1LXZad29fS1RrNjQyRHg3TDlsVVR0X0RTck5pN0wwbEptNjZ0cmQydDFnUmdWM21NRUs1a05qZFJQTDRNUVh4RDNxUkRJdmgzV0xQLVFnN3czN0dhamUyLVBhN01IZlBLajV4WFZ5TzZNNkZRS0dtaG5FT21wMDdmbHdYM29HcGdLc0pRSERaMEF2OGF4R3lOV0xGc2UwWTZHamdRZTJsLXNYR2tNTFl3VjFObDBTc0JTbnNYazZWRFMwUE1INzhMdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZmRXa3VUaXhsMHNsVHRGdWZwcjRsYnY0ZEVHY3RWR2p2dUpnRmVTcXl6N19XbENVSlRLVXFDZzZkS3EzTnc3Wi1admoxa2pCRktRRi1vMDVFcmg3bG9BUXBzeVRFN1R2YWFwczMxT2hXVjZ4alhRbXlqcXhQN1dlamd0UkRlaXI4bTB6dmNzd2VqeE4yS1FLQ20xMW0ycXdHcDhNVFF4Mkh2aW1INl9VblIwQ3U5cVJzdEU3eC1iSVnSAc4BQVVfeXFMTy1Mbm9mdS12WndvX0tUazY0MkR4N0w5bFVUdF9EU3JOaTdMMGxKbTY2dHJkMnQxZ1JnVjNtTUVLNWtOamRSUEw0TVFYeEQzcVJESXZoM1dMUC1RZzd3MzdHYWplMi1QYTdNSGZQS2o1eFhWeU82TTZGUUtHbWhuRU9tcDA3Zmx3WDNvR3BnS3NKUUhEWjBBdjhheEd5TldMRnNlMFk2R2pnUWUybC1zWEdrTUxZd1YxTmwwU3NCU25zWGs2VkRTMFBNSDc4THc?oc=5
 
 Sensex falls over 630 points, Nifty slips below 23,250 as oil stays above $100 PSU Watch
 
@@ -96,15 +96,15 @@ Sensex falls over 630 points, Nifty slips below 23,250 as oil stays above $100 P
 
 Stock Market Crash: Nifty Falls Near 23,200, Sensex Slumps Over 650 Points — Three Reasons Why NDTV Profit
 
-### 10. Markets Open Lower As Crude Oil Crosses $100; Sensex Falls 600 Points - oneindia.com
+### 10. Markets Open Lower As Crude Oil Crosses $100; Sensex Falls 600 Points - Oneindia
 
-- Source: oneindia.com
+- Source: Oneindia
 - Published: 2026-09-24T04:11:36+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQckNpTUVoVEdkQTBnN3Bpd1lGS21nVDg4Y3I3X1Z1VWV2ZXZ3Si1jeFFHaV9uRkJwWVdkM1VaZUhyM2QwRm5QY1BzNVFaT3V0cXZvRW5Vc3huT3ZqWXNIS2dMd3BhNU1VY2hpWDBnS3FBdUpSdkRZQ1U3bmxBZTNvVzE0WXVDajh1bkVzSVpEbUtWc25KUzE2ZFlmUUl1S0VmdU5iTUtTZXZEZnl2NU5zZmpDQ0JvU2t6TkdLSA?oc=5
 
-Markets Open Lower As Crude Oil Crosses $100; Sensex Falls 600 Points oneindia.com
+Markets Open Lower As Crude Oil Crosses $100; Sensex Falls 600 Points Oneindia
 
 ### 11. GIFT Nifty crashes nearly 200 pts, signals gap-down start for Sensex, Nifty; US selloff, rising yields... - Moneycontrol.com
 
@@ -116,15 +116,15 @@ Markets Open Lower As Crude Oil Crosses $100; Sensex Falls 600 Points oneindia.c
 
 GIFT Nifty crashes nearly 200 pts, signals gap-down start for Sensex, Nifty; US selloff, rising yields... Moneycontrol.com
 
-### 12. Indian Stock Market Crash: Sensex Falls 5,035 Pts, Nifty Drops 1,453 Pts From Peak; Can Budget Revive Bulls? - goodreturns.in
+### 12. Indian Stock Market Crash: Sensex Falls 5,035 Pts, Nifty Drops 1,453 Pts From Peak; Can Budget Revive Bulls? - Goodreturns
 
-- Source: goodreturns.in
+- Source: Goodreturns
 - Published: 2026-09-24T01:56:09+00:00
 - Themes: market selling, India market
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNaTRicEdpc2xjWnRrZGlDQmVHYUhyYlk5bE5VeU9FSWtwWEQ2MzFWMGtmeDJ3NFo2R0dEX3cwblVQemxEWFp0U3dwalVQTnFWOGlWb08zbGNVSlYyQzUtM244eWJPeGFXTHZMMm9RdVlHaTJqb0NJeFNiekM0TmxJbnhRSl82YWFUNlpyaWR0Q0NsMEVkb05jQXVOQTI1Vlpmb1FCZzVrcjcybUpJX1NON3dMRUVDbE9jV2FHQXd1OU1FRll5Rm40NVpkYmdlZTVpUFZ1b2dEb1VXU3FKaWc?oc=5
 
-Indian Stock Market Crash: Sensex Falls 5,035 Pts, Nifty Drops 1,453 Pts From Peak; Can Budget Revive Bulls? goodreturns.in
+Indian Stock Market Crash: Sensex Falls 5,035 Pts, Nifty Drops 1,453 Pts From Peak; Can Budget Revive Bulls? Goodreturns
 
 ### 13. Xiaomi stock falls 3.75 percent as buybacks meet tech selloff - AD HOC NEWS
 
@@ -136,7 +136,17 @@ Indian Stock Market Crash: Sensex Falls 5,035 Pts, Nifty Drops 1,453 Pts From Pe
 
 Xiaomi stock falls 3.75 percent as buybacks meet tech selloff AD HOC NEWS
 
-### 14. Sensex falls over 650 points: Factors behind today's market selloff - NewsBytes
+### 14. [Sensex Today] Share Market LIVE Updates: Sensex falls 659 points, Nifty slips to 23234 amid rising US bond yield; Bajaj Finance, Axis Bank biggest laggards - News24Online
+
+- Source: News24Online
+- Published: 2026-09-24T06:03:17+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMioAJBVV95cUxQS095N3g1ZlJMbkV6MWlMX0I5Y2dWbklhRzNEYUFDZmEwMFcwS1VPallDVnlwQ2NXa3VhenVQRkxpODdjXzNTaU9HRzE3amN3X0VIbC05TGFQR1J6V2ZiR0V0amlSb2l4VTQ0cEU0SFdmWkRSRmh0YUlBLUJRTkQzeTZoQkFBTzVCMmc1bVBzeXFhQmlGS0pESU1SQnR0b0tUQ2MtaElpMU9Fd2VxS280U1pIcjdQOElveHhrSHFKWVVpRlRUdDctLURXSjgxMk5yWVIxc0UwMGdLQW5kLTJ1UmktUFcycFY2bzExT1U0UVJ4VWE1cWdhSTA2REtCcWJOWHpwVXlGVm1SRW9JbWNVbGhPUjcydE9DYVNNVlhfOW3SAaACQVVfeXFMUEtPeTd4NWZSTG5FejFpTF9COWNnVm5JYUczRGFBQ2ZhMDBXMEtVT2pZQ1Z5cENjV2t1YXp1UEZMaTg3Y18zU2lPR0cxN2pjd19FSGwtOUxhUEdSeldmYkdFdGppUm9peFU0NHBFNEhXZlpEUkZodGFJQS1CUU5EM3k2aEJBQU81QjJnNW1Qc3lxYUJpRktKRElNUkJ0dG9LVENjLWhJaTFPRXdlcUtvNFNaSHI3UDhJb3h4a0hxSllVaUZUVHQ3LS1EV0o4MTJOcllSMXNFMDBnS0FuZC0ydVJpLVBXMnBWNm8xMU9VNFFSeFVhNXFnYUkwNkRLQnFiTlh6cFV5RlZtUkVvSW1jVWxoT1I3MnRPQ2FTTVZYXzlt?oc=5
+
+[Sensex Today] Share Market LIVE Updates: Sensex falls 659 points, Nifty slips to 23234 amid rising US bond yield; Bajaj Finance, Axis Bank biggest laggards News24Online
+
+### 15. Sensex falls over 650 points: Factors behind today's market selloff - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-09-24T05:37:56+00:00
@@ -145,16 +155,6 @@ Xiaomi stock falls 3.75 percent as buybacks meet tech selloff AD HOC NEWS
 - Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPOXE2SUQ2VFZjSW1nNjFETDNGXzBPZ241NGhEQmhiaVFIMXZYR0dJRWNVS2VwYkdhSkptQmJHcWVuWC0td0pqTE5oWVBKbzljR1VLcHpEci0wTFI0WlZNZ0JOcHU2amFtcTFKcFQ2QzlVcm5WNGtIRk5feHJVU1JNa0xSNDN5bGR1Mm10Z1RWNmYzb2tfUTI0cmY4V3VjMTNpdGh3di00THVaQV9XcUZraTdpUmV3dw?oc=5
 
 Sensex falls over 650 points: Factors behind today's market selloff NewsBytes
-
-### 15. PSU stocks crash today, September 24: HUDCO falls 2.82%, Engineers India down 2.47%, RVNL drops 1.47% - Business Upturn
-
-- Source: Business Upturn
-- Published: 2026-09-24T05:27:55+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQRlEzdnZQeGJfT3lpMGxtQi0yU0hoTTM5WVVOUzRkWGVPX2dqaUxVQm51cUdMQVRURGUxS2VqSlNhdFdwTnJ3UlpWMGsyNWlhYVVEZEFENVBMVHM5bldzNDVfQ3EtMEFjUFZMTHVSSUdkY2R6bUdRMlMyaWE0UkdnMktJakRFSjR0alZBV0RqTXFfdUZ3cThBa1VjVTZveGxkWnNHLXV6aDdIdzF1dTBWeGNPRjc5RF9HYUFMd2tBU2lCc0VFRjBKa0hmZFprZ3JqYkNSOVFrcmVXV28?oc=5
-
-PSU stocks crash today, September 24: HUDCO falls 2.82%, Engineers India down 2.47%, RVNL drops 1.47% Business Upturn
 
 ### 16. Nifty 50 Today Live: Nifty Opens In Red As HDFC Life Plunges 7% After IRDAI Proposal, Bajaj Finance Drops 4% And Axis Bank 3.5%; Check Top Losers And Key Reasons Behind Market Fall - sundayguardianlive.com
 
@@ -176,15 +176,15 @@ Nifty 50 Today Live: Nifty Opens In Red As HDFC Life Plunges 7% After IRDAI Prop
 
 Sensex Falls 528 Points; Nifty Slips Below 23,300 HDFC Sky
 
-### 18. Sensex falls 600 points as Iran tensions lift crude; Xi-Trump talks add to market focus - english.mathrubhumi.com
+### 18. Sensex falls 600 points as Iran tensions lift crude; Xi-Trump talks add to market focus - Mathrubhumi English
 
-- Source: english.mathrubhumi.com
+- Source: Mathrubhumi English
 - Published: 2026-09-24T04:20:28+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQRGNVWVd2cU9ibWxaYkJ0WU1xZHNlWGEteGxnaG9qdWhjQTJGbkQ3dUxxQXUzWWR4dEhKRV9iZ0xKWWFDdFFGYXVLSWsySENGeksyWFc5d2F2UTNkZzRJLUJjRHpJU0hpT054MGtrR1o3VjZSNjZkZmpJMHFNZGcyN3dRVl9ZNTNmUXoyREVlMHdrM2JnZFJJVkRWWFhYTE5sN3lYTXY0RXYyTS1zX2RJN3pmNVYxNWhSWGdjN1BubGlOU2pfLURsSHh0empaV0NrYmVTddIB2gFBVV95cUxOUTBKQzlGczliUW16dFhsZUJONFpQNEs2RU5NZlY4cFZ1NGstLV95ZDJxTnpzS3Y2VGp0ZzJTcnFlRjN1WGg4NWdnNmY1VUpMUnNQZGNCbG5nNG5iY2dJcTdZSmotNE9EMl9xX3hGTmxGbk5CWHJJYzYxcy1fMy1WRms0UUFSUXUxWDNCZDZrMTc5THBPek1XblJFblNHdkM5OHpWUlktRWZ0Nk03NVR2aFk3WWZCZi1DMFpRUGswV3lsNnhjTDFnUmlaWkgycWVKMVYxeTM5TzVUdw?oc=5
 
-Sensex falls 600 points as Iran tensions lift crude; Xi-Trump talks add to market focus english.mathrubhumi.com
+Sensex falls 600 points as Iran tensions lift crude; Xi-Trump talks add to market focus Mathrubhumi English
 
 ### 19. Sensex, Nifty fall sharply at open; here's what's weighing on market; NSE listing in focus - Business Today
 
@@ -266,25 +266,25 @@ Alphabet stock falls 3% as Meta’s Muse AI raises competition TradingView
 
 IonQ advances real-time error correction and announces NVIDIA integration Scientific Computing World
 
-### 27. Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on Dalal Street - DD News
+### 27. Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on Dalal Street - ddnews.gov.in
 
-- Source: DD News
+- Source: ddnews.gov.in
 - Published: 2026-09-23T11:32:42+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGlwR1FLaHFGVFIya2xQS042d2hLZmRCV0hENEoyRDZDeFdETkpuVlYtSVlwY2hYM1BLNEZaNVozb0JoV2ktMDdPTUVJQS04SFlVRkNmOXcwUDlpOGk0Wmw0QS0tT3gxX1B0ZjZwNThPV3ROeS1KRkdxSmJYRkJOUThrbEhtOTFudFAzSzBQRktJRERqTEZ2NGxxTndYN3FKWVJubS1GTm9jR2ZLNGtLM2hUTmw?oc=5
 
-Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on Dalal Street DD News
+Sensex falls over 560 points, Nifty slips to 24,052; US-Iran conflict weigh on Dalal Street ddnews.gov.in
 
-### 28. Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? - goodreturns.in
+### 28. Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? - Goodreturns
 
-- Source: goodreturns.in
+- Source: Goodreturns
 - Published: 2026-09-23T10:34:53+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmFBckJVVWt1UVVHT25qaENybTU0UDFGRFU1cnpaYUhnMWR5T3ZDRERydk5tcWtHeDFXMFpOTVRkZHctOF9VUzlWejRTa2V1Sm5GWHdFcUVQVTBNNjYwTW5sdzNLQXZtb1dPSUpvcmtjVEoxMkhTNVFNcVBjOFgxU1FQc2EwbGo3MXVmdU9fLVY0QzN5V091cVhsd0xyOFVyRnVWYk0wcWtrRDFOa29neGVlY2VJd0lZM2g5cjJKV2FGa0Jhd3hzX3RDWlgxNDJHSlZUY0lVVQ?oc=5
 
-Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? goodreturns.in
+Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? Goodreturns
 
 ### 29. Mini Diamonds (India) Ltd Falls to 52-Week Low of Rs 4.1 as Sell-Off Deepens - MarketsMojo
 
@@ -296,25 +296,25 @@ Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock M
 
 Mini Diamonds (India) Ltd Falls to 52-Week Low of Rs 4.1 as Sell-Off Deepens MarketsMojo
 
-### 30. Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks - Reuters
+### 30. Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks - reuters.com
 
-- Source: Reuters
+- Source: reuters.com
 - Published: 2026-09-23T07:57:25+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQXlPVWFzejJKbzBBSVA5ZFhMbUdTZ0VVS1RZVXBpMlJRZC1Lak9aNmdldDEwdVZ1RGlPMjlUUFdFSGdocFlTbVpjLTFLcXJsN2VqTFhVZ1d0YmYwLTBUNG9tUHVmWEs2Q1E3em4za29OcHo3MFk2Q0twV3M5WFB4Q2ppeW9LVnd3SzJ2SHhLN1N6MTI4YVU0dDBuS0htU3R5SW9maHVnR2NDUFlManVqYTRidGZiYzVv?oc=5
 
-Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks Reuters
+Indian shares fall as IT drags; oil slides ahead of potential US-Iran talks reuters.com
 
-### 31. Sensex falls 330 pts, Nifty snaps rally - ahmedabadmirror.com
+### 31. Sensex falls 330 pts, Nifty snaps rally - Ahmedabad Mirror
 
-- Source: ahmedabadmirror.com
+- Source: Ahmedabad Mirror
 - Published: 2026-09-23T07:42:17+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPcXptZzVVU1lQYnJOU3hFZnFrQUNQWFdmdzYtN1NObkpmcWJ4OEMzN2htUG5hR25fVHpmeTJjdkU1bF92TWJyLXQyanVOeUVuSXY4RFJMbmpkQlFWcWJSbUlyVEhzQkQ2LUtGVmZzZ3F5bE5xZFQtZWlTdFNUak5OdU90S1ZSdUx5MWYyZA?oc=5
 
-Sensex falls 330 pts, Nifty snaps rally ahmedabadmirror.com
+Sensex falls 330 pts, Nifty snaps rally Ahmedabad Mirror
 
 ### 32. Chinese AI Stocks Fall on Report of DeepSeek, Moonshot Probe - Bloomberg.com
 
@@ -376,15 +376,15 @@ Why did Sensex fall nearly 600 points at open as HDFC Life plunged 7%? newsdrum.
 
 Why are Nifty stocks falling today? HDFC Life crashes 7%, Bajaj Finance, Axis Bank lead financial-sector selloff Business Upturn
 
-### 38. Stock Market Today (September 24): Sensex Falls Over 500 Points, Brent Above $102; Iran Says 'Won’t Be Bullied - timesnownews.com
+### 38. Stock Market Today (September 24): Sensex Falls Over 500 Points, Brent Above $102; Iran Says 'Won’t Be Bullied - Times Now
 
-- Source: timesnownews.com
+- Source: Times Now
 - Published: 2026-09-24T04:03:51+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMipgJBVV95cUxQUG9GTGd3dzVpUUNXMV9BLXVhcmV4RUk4XzA5bnBaOTQtUFN5bnVmVGpGTzJjSGFBOEd0RDFmQXZmMFY3NGprMjV1ckgyMHZHN1J2UGVRdm9GekY3U3d2ZTlEN1hfRUNpanVhdmlGSjdUTVBkUVpjQW5oRjVNdERMZE9NYlI4TDc4eGVXNnRIdi1KZVBWbElsZGFuSzNlZUp0ZldEbDE4dnNLSXRJaG00VDdka29kdjdLc1MxSGcybFhMVVBBb0JDX2psbnh6VFdWNEFNQV9Ucjdka3psamRUbVBnWXJjcEFqRmxIT195amhMVWYtUGJUbjFfWDl4bVIwVTgtRjZEbmRzemQ2RkFsUWlFVW94alZ5NUpyYXdhT2xxUlBsNUHSAaYCQVVfeXFMUFBvRkxnd3c1aVFDVzFfQS11YXJleEVJOF8wOW5wWjk0LVBTeW51ZlRqRk8yY0hhQThHdEQxZkF2ZjBWNzRqazI1dXJIMjB2RzdSdlBlUXZvRnpGN1N3dmU5RDdYX0VDaWp1YXZpRko3VE1QZFFaY0FuaEY1TXRETGRPTWJSOEw3OHhlVzZ0SHYtSmVQVmxJbGRhbkszZWVKdGZXRGwxOHZzS0l0SWhtNFQ3ZGtvZHY3S3NTMUhnMmxYTFVQQW9CQ19qbG54elRXVjRBTUFfVHI3ZGt6bGpkVG1QZ1lyY3BBakZsSE9feWpoTFVmLVBiVG4xX1g5eG1SMFU4LUY2RG5kc3pkNkZBbFFpRVVveGpWeTVKcmF3YU9scVJQbDVB?oc=5
 
-Stock Market Today (September 24): Sensex Falls Over 500 Points, Brent Above $102; Iran Says 'Won’t Be Bullied timesnownews.com
+Stock Market Today (September 24): Sensex Falls Over 500 Points, Brent Above $102; Iran Says 'Won’t Be Bullied Times Now
 
 ### 39. Sensex Slips 0.8% as Market Breadth Weakens; IT Sector Shines Amid Broad Declines - MarketsMojo
 
@@ -396,17 +396,7 @@ Stock Market Today (September 24): Sensex Falls Over 500 Points, Brent Above $10
 
 Sensex Slips 0.8% as Market Breadth Weakens; IT Sector Shines Amid Broad Declines MarketsMojo
 
-### 40. Stock Market LIVE: GIFT Nifty down over 100 points; Asia markets mixed on global bond selloff - business-standard.com
-
-- Source: business-standard.com
-- Published: 2026-09-24T02:24:31+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUXQ1RmhXZzdmRmZMWHU1STQzd3Zma2U1M1U3eEI5blBrd0tCbmdtamtPbXpkZFNoN2g1WnVBM2pOZk01X3hHTk5LSlJVTFZSYTh3VUo2UGg4OXV3NmJQQ1RnMzFFWkR1SjMtSTBCdmJKakNHemR5aHUtQWxKVFFabXFZVmg5ajYxOGRlSVVmZm01QzZUTk9LTWoxVTFlV1I4ZXFRY2dlNUJYRWZuS2ZmaWdURFdIMWpZZFM5NDVSRXhDYnlyelowdkxJVzdqeVQyNGRsUWdhWEpBcU4xQmZEemNES2dSZzNydGo0UW12dVlqUkF3RVNOd9IB_gFBVV95cUxNUTJEd1pMVTJWNU9mU29vaVFMdHZvZUpSV2JiYWQyaFNHVEpXWF85ckd0TzBVQkZ2QVM3RE5NNmpUWGNieThYS1hEc05DdDc0a2hlS1NuSEoxWGhDUVBUeUNyTG5jWWZYQ0ZZS1p0SjdtbU1iTWNaMFFhMFl6LUlMZlEzaVhGVU9kNng2VjRMV0lFWmxZZUhtZ3NzZkxqSFdoR2JqWi1FUDRRaG8tbDBFd0tWR29DY1BCSzFOVVpwQjBvY2U2VXBSc3VmSVlSOGtnSU0yOXVyM2cwSVM1YlU5aGdWTUZTZmNCLS12QjV1S0ZoX3hPQjJyOU9UbjN5Zw?oc=5
-
-Stock Market LIVE: GIFT Nifty down over 100 points; Asia markets mixed on global bond selloff business-standard.com
-
-### 41. Pre-Market Update: D-Street Set for Weak Opening as GIFT Nifty Falls Nearly 200 Points; NSE Listing in Focus - Dalal Street Investment Journal
+### 40. Pre-Market Update: D-Street Set for Weak Opening as GIFT Nifty Falls Nearly 200 Points; NSE Listing in Focus - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-09-24T02:17:07+00:00
@@ -416,7 +406,7 @@ Stock Market LIVE: GIFT Nifty down over 100 points; Asia markets mixed on global
 
 Pre-Market Update: D-Street Set for Weak Opening as GIFT Nifty Falls Nearly 200 Points; NSE Listing in Focus Dalal Street Investment Journal
 
-### 42. Fairfax India Holdings Stock Slides as Market Volatility Weighs on Sentiment: Is TSX:FIH.U Facing Further Downside Pressure? - kalkine.ca
+### 41. Fairfax India Holdings Stock Slides as Market Volatility Weighs on Sentiment: Is TSX:FIH.U Facing Further Downside Pressure? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-09-23T18:01:00+00:00
@@ -426,37 +416,27 @@ Pre-Market Update: D-Street Set for Weak Opening as GIFT Nifty Falls Nearly 200 
 
 Fairfax India Holdings Stock Slides as Market Volatility Weighs on Sentiment: Is TSX:FIH.U Facing Further Downside Pressure? kalkine.ca
 
-### 43. SIP Math Behind India's Mutual Fund Mismatch: Are Investors Chasing the Wrong Returns? - goodreturns.in
+### 42. Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exposure in August 2026 - The Economic Times
 
-- Source: goodreturns.in
+- Source: The Economic Times
+- Published: 2026-09-23T08:05:40+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQWEZLRnBGdEV1WlpaZmU3VkRBU0JkeEZKUnlvQW1JdkxQUks1NHljSUZqY1g3MDJUWVBmc29IUUREMnN4Wm40TGVuekhGNXZaTFZ5dWhkWVFTQnhkT2RXSG8zTVNYQ2k0b2diZFpGdGJucDNFWml1bDM1RTRJeE9STERuZks1TmJzMnMtNjh2RUNSaE95N0VoRXk5b01lbmlTWjc2R1hNMWQwZnFnVW5wM0g3dzdYV2FOWGctT1dYS0p4cmFHb25vYm5fbloyQW5iZWVsdmlOVHh4OFh5Rk9oa3k4WW1TNm5MQ28tYjZKelZFaEsyb2FJNHdzSkpfXzZrcGxmQV9VUDQwdkJUVjFEMWlQWVE2MmRBcENuag?oc=5
+
+Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exposure in August 2026 The Economic Times
+
+### 43. SIP Math Behind India's Mutual Fund Mismatch: Are Investors Chasing the Wrong Returns? - Goodreturns
+
+- Source: Goodreturns
 - Published: 2026-09-23T07:18:14+00:00
 - Themes: India market
 - Score: 5
 - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNcTRDSFpIeHlxSG1odEI0b0VQWjBQTE5tSWlIUWdabC1URVFtYXFSMFdZNldlZ2s2VXBMYUs3R0REZkhMRXBNN1J0UjdhQWg4SGY2MnBTbmszUkdsX1NSbHI3UklKWjE0U3dzTUtkOG1EdHZqUElQRm9jTUtRMnZXV0Q2cmVGeC14SENDNDhUc2UxNFJtMzlhN3BUN0w4SUluM3JkWVNxaHpUbEtMUmRZc2Q2UGRDQ3RyM0Z1NnRCTXJuX0pWal81RldCUlNJeXRtcnpmWkFScw?oc=5
 
-SIP Math Behind India's Mutual Fund Mismatch: Are Investors Chasing the Wrong Returns? goodreturns.in
+SIP Math Behind India's Mutual Fund Mismatch: Are Investors Chasing the Wrong Returns? Goodreturns
 
-### 44. Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exposure in August 2026 - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-09-23T06:45:39+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPa2I1VFhnSDFLNllvUXM3WXlQWDZwOXZrd1BEbjFZZFRYZldhTVZCb280dVRLSEdHSzBicHlqeFMzRmFFS04yc0x3QXRDdGV1MEEydTNDaHk2WFRzeXRCUmV6Q0pRYks2UkwxVW90SEVqUmhfd2RGTDVlYVNKOXR3Mnc4akwzaWZwdVZtYkJzZmZsZ0lTR0ZTSUtsdVEzMlFPcnU4Q0Nua0dZXzRqUlZvTHQxNHY1SEM0WGFrWTJSMkVsRkhsRmJDWXMySlB3TFd4V0p1MmtRNmt3a3VzY0piZERzSGtVQWw2Rk10bTZycXBtQkY4WV9oZjllOHBqYlFLUGk5Ui1wZnZTWFB4?oc=5
-
-Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exposure in August 2026 The Economic Times
-
-### 45. Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exposure in August 2026 - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-09-23T06:44:32+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMiowJBVV95cUxQb19HcjU0TXE1cURoNlJNUWY3MW0wV1pQR0h5Q3BJT3MtOHRKUzlNbXZuYjMyRGl2VEI3a1RFb0dJRUNoelFwTUtEYlJ5QkptbTNEV2RFX1JuaXF3M2ZNRlpFaWFwMnFlR0R4czJQWUlDTGg1VkRFaEFpLVhiVWVDTE15YkZjQkN2UzBwR2JiQ1paVjdXRXAwZndDa2lsRDFuSnhKUG4ycVNDNHRwbjU1VUlKN0w4akNZVXJ0TlhYS29ETGxrc1JscUJSV2loWlJTaHNSLVVaSVljODl0cDRXczZKZjRsQ1FERGZoOUJpTW8yZ1FlaVNiaXQzb2lGTE5xMkVFVmRhYktZVzlQLXdoX2p1aEZKNGVPWVlrRDY0c0JRXzQ?oc=5
-
-Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exposure in August 2026 The Economic Times
-
-### 46. ‘Large IPOs will not affect secondary-market inflows’: Anand Vardarajan, CEO & MD, Tata Mutual Fund - financialexpress.com
+### 44. ‘Large IPOs will not affect secondary-market inflows’: Anand Vardarajan, CEO & MD, Tata Mutual Fund - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-24T02:20:08+00:00
@@ -466,7 +446,7 @@ Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exp
 
 ‘Large IPOs will not affect secondary-market inflows’: Anand Vardarajan, CEO & MD, Tata Mutual Fund financialexpress.com
 
-### 47. Sensex, Nifty Rebound as Oil Prices Stabilize; Metal Stocks Lead Gains - INDIA New England News
+### 45. Sensex, Nifty Rebound as Oil Prices Stabilize; Metal Stocks Lead Gains - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-09-23T15:10:21+00:00
@@ -476,7 +456,7 @@ Helios Mid Cap among top 5 midcap mutual funds with highest mid and smallcap exp
 
 Sensex, Nifty Rebound as Oil Prices Stabilize; Metal Stocks Lead Gains INDIA New England News
 
-### 48. Sip Mumbai’s Favourite Cutting Chai On Your Next International Air India Flight! - curlytales.com
+### 46. Sip Mumbai’s Favourite Cutting Chai On Your Next International Air India Flight! - curlytales.com
 
 - Source: curlytales.com
 - Published: 2026-09-23T12:55:33+00:00
@@ -486,7 +466,7 @@ Sensex, Nifty Rebound as Oil Prices Stabilize; Metal Stocks Lead Gains INDIA New
 
 Sip Mumbai’s Favourite Cutting Chai On Your Next International Air India Flight! curlytales.com
 
-### 49. 4 J.P. Morgan Mutual Funds to Navigate the Current Volatility - TradingView
+### 47. 4 J.P. Morgan Mutual Funds to Navigate the Current Volatility - TradingView
 
 - Source: TradingView
 - Published: 2026-09-23T12:16:00+00:00
@@ -496,17 +476,17 @@ Sip Mumbai’s Favourite Cutting Chai On Your Next International Air India Fligh
 
 4 J.P. Morgan Mutual Funds to Navigate the Current Volatility TradingView
 
-### 50. Mutual funds vs direct stocks: Expert explains which one is actually for you, check details - India TV News
+### 48. Mutual funds vs direct stocks: Expert explains which one is actually for you, check details - India TV News
 
 - Source: India TV News
 - Published: 2026-09-23T11:37:12+00:00
 - Themes: India market
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMzJUalUwUUVablZiZ3c1U1ZvelM0U01pOEZTODFFOTlteGUtSVB1ZDMzeTVHYjdqNjd3NldzZVlTLWYwVG5ORHBDV2lJVUF1NGx4WXR1bFExclo4OGlxcnVINHVqcTNPTUJCTFJQaGpuS0sxYTFEUU9wN3N1RElNMkE3OVdpOUFqOGpFVEpTcVB0cExZTFEyaHQydXdMcEEyZHJWU3cwMFlfWVhodFJlSE1PNUNkcnBCSzBBUWc2a3lBbVhrc3JPRDZSa3lQYmxUTUYtZ3laLWVpOGxaUGJ1Nm8wWkx4cGhsQWhwRHc2MngtZ0V2N2pIRVFR0gH6AUFVX3lxTE0zMlRqVTBRRVpuVmJndzVTVm96UzRTTWk4RlM4MUU5OW14ZS1JUHVkMzN5NUdiN2o2N3c2V3NlWVMtZjBUbk5EcENXaUlVQXU0bHhZdHVsUTFyWjg4aXFydUg0dWpxM09NQkJMUlBoam5LSzFhMURRT3A3c3VESU0yQTc5V2k5QWo4akVUSlNxUHRwTFlMUTJodDJ1d0xwQTJkclZTdzAwWV9ZWGh0UmVITU81Q2RycEJLMEFRZzZreUFtWGtzck9ENlJreVBibFRNRi1neVotZWk4bFpQYnU2bzBaTHhwaGxBaHBEdzYyeC1nRXY3akhFUVE?oc=5
+- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxPQW9HT2o4aVhDUVZ6UnlKMmVyVXQ2amF5S3h6aTFZNjdzOGh5OUxWbUs3STcybmZQU2R0MDRFVDY1OTZETUc5dmV3Y1UyRTZLUXBWR1ZSTHNDUXZIU2hqRlh2blZDZDRzSEg1Zmo0bGFSQVJuM0UwQmJJOU5wLVV2QnNzRldnWUJpUmdKR1VDVVl6VGRmQXgtNU1CeDZtYmVhQVo1R1V2Z0x5cFloUWNyd0ZzYXNHVWFnWjQ3Q2dvX2VIajBFVmRJVTBJM3dJSVh3dmhMQkFmb2ttVXd4Q3RhUHViZld5MEJHdWxmcnRBWllUV2Qz0gH6AUFVX3lxTE0zMlRqVTBRRVpuVmJndzVTVm96UzRTTWk4RlM4MUU5OW14ZS1JUHVkMzN5NUdiN2o2N3c2V3NlWVMtZjBUbk5EcENXaUlVQXU0bHhZdHVsUTFyWjg4aXFydUg0dWpxM09NQkJMUlBoam5LSzFhMURRT3A3c3VESU0yQTc5V2k5QWo4akVUSlNxUHRwTFlMUTJodDJ1d0xwQTJkclZTdzAwWV9ZWGh0UmVITU81Q2RycEJLMEFRZzZreUFtWGtzck9ENlJreVBibFRNRi1neVotZWk4bFpQYnU2bzBaTHhwaGxBaHBEdzYyeC1nRXY3akhFUVE?oc=5
 
 Mutual funds vs direct stocks: Expert explains which one is actually for you, check details India TV News
 
-### 51. NFO Alert: Tata Mutual Fund announces launch of Titanium Active Asset Allocator Long-Short Fund - The Economic Times
+### 49. NFO Alert: Tata Mutual Fund announces launch of Titanium Active Asset Allocator Long-Short Fund - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-23T07:26:31+00:00
@@ -516,7 +496,7 @@ Mutual funds vs direct stocks: Expert explains which one is actually for you, ch
 
 NFO Alert: Tata Mutual Fund announces launch of Titanium Active Asset Allocator Long-Short Fund The Economic Times
 
-### 52. Rupee Loses Ground Against The US Dollar, Falls 11 Paise To ₹95.84 in Early Trade - Free Press Journal
+### 50. Rupee Loses Ground Against The US Dollar, Falls 11 Paise To ₹95.84 in Early Trade - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-24T04:36:42+00:00
@@ -526,7 +506,7 @@ NFO Alert: Tata Mutual Fund announces launch of Titanium Active Asset Allocator 
 
 Rupee Loses Ground Against The US Dollar, Falls 11 Paise To ₹95.84 in Early Trade Free Press Journal
 
-### 53. Banking sector stocks fall sharply today, September 24: IndusInd Bank declines 4.39%, RBL Bank down 3.76%, IDFC First Bank falls 3.65% - Business Upturn
+### 51. Banking sector stocks fall sharply today, September 24: IndusInd Bank declines 4.39%, RBL Bank down 3.76%, IDFC First Bank falls 3.65% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-24T04:32:37+00:00
@@ -536,7 +516,7 @@ Rupee Loses Ground Against The US Dollar, Falls 11 Paise To ₹95.84 in Early Tr
 
 Banking sector stocks fall sharply today, September 24: IndusInd Bank declines 4.39%, RBL Bank down 3.76%, IDFC First Bank falls 3.65% Business Upturn
 
-### 54. Sensex down 700 pts, Nifty below 23,200: Rising bond yields among key factors behind market decline - TradingView
+### 52. Sensex down 700 pts, Nifty below 23,200: Rising bond yields among key factors behind market decline - TradingView
 
 - Source: TradingView
 - Published: 2026-09-24T03:56:00+00:00
@@ -546,7 +526,7 @@ Banking sector stocks fall sharply today, September 24: IndusInd Bank declines 4
 
 Sensex down 700 pts, Nifty below 23,200: Rising bond yields among key factors behind market decline TradingView
 
-### 55. Rakesh Jhunjhunwala’s stock-picking partner is bringing his playbook to mutual funds - financialexpress.com
+### 53. Rakesh Jhunjhunwala’s stock-picking partner is bringing his playbook to mutual funds - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-23T23:55:00+00:00
@@ -556,7 +536,7 @@ Sensex down 700 pts, Nifty below 23,200: Rising bond yields among key factors be
 
 Rakesh Jhunjhunwala’s stock-picking partner is bringing his playbook to mutual funds financialexpress.com
 
-### 56. US Stocks fall as oil, bond yields rise - 香港電台新聞網
+### 54. US Stocks fall as oil, bond yields rise - 香港電台新聞網
 
 - Source: 香港電台新聞網
 - Published: 2026-09-23T23:05:00+00:00
@@ -566,7 +546,7 @@ Rakesh Jhunjhunwala’s stock-picking partner is bringing his playbook to mutual
 
 US Stocks fall as oil, bond yields rise 香港電台新聞網
 
-### 57. AMFI’s Venkat N Chalasani to be keynote speaker at Pitch BFSI Summit 2026 - Exchange4Media
+### 55. AMFI’s Venkat N Chalasani to be keynote speaker at Pitch BFSI Summit 2026 - Exchange4Media
 
 - Source: Exchange4Media
 - Published: 2026-09-23T19:13:12+00:00
@@ -576,7 +556,7 @@ US Stocks fall as oil, bond yields rise 香港電台新聞網
 
 AMFI’s Venkat N Chalasani to be keynote speaker at Pitch BFSI Summit 2026 Exchange4Media
 
-### 58. Ethiopia Clears Path for Mutual Funds, ETFs and REITs as Long-Awaited CIS Directive Takes Effect - StockMarket.et
+### 56. Ethiopia Clears Path for Mutual Funds, ETFs and REITs as Long-Awaited CIS Directive Takes Effect - StockMarket.et
 
 - Source: StockMarket.et
 - Published: 2026-09-23T17:09:49+00:00
@@ -586,7 +566,7 @@ AMFI’s Venkat N Chalasani to be keynote speaker at Pitch BFSI Summit 2026 Exch
 
 Ethiopia Clears Path for Mutual Funds, ETFs and REITs as Long-Awaited CIS Directive Takes Effect StockMarket.et
 
-### 59. Best Mutual Funds: News, Performance Reports And Investing Ideas - Investor's Business Daily
+### 57. Best Mutual Funds: News, Performance Reports And Investing Ideas - Investor's Business Daily
 
 - Source: Investor's Business Daily
 - Published: 2026-09-23T16:24:00+00:00
@@ -596,27 +576,17 @@ Ethiopia Clears Path for Mutual Funds, ETFs and REITs as Long-Awaited CIS Direct
 
 Best Mutual Funds: News, Performance Reports And Investing Ideas Investor's Business Daily
 
-### 60. Alpha in Mutual Funds: What It Is and Why Most Funds Miss It - Value Research
+### 58. Alpha in Mutual Funds: What It Is and Why Most Funds Miss It - valueresearchonline.com
 
-- Source: Value Research
+- Source: valueresearchonline.com
 - Published: 2026-09-23T14:22:39+00:00
 - Themes: 
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeXJNVV9XR3ZYa21HVUZkdUlhRXl6X3JOR3J0QlZJM0FUSnZPbVNEUXV6ZHBiQk56LThJN1NaeklwdnRPNjRyZHR2M2JabDRxUnNGYkhrSFBPb3czWDRKbENGSHFDNzVOQUhXcFNfdlUxR2l4MllrbjlQU3FNZ21MU0ZvcjlsS09DWGZGa05wUFVRNXFDeWd5Y3RCMFVqSW5xZnNLaldUSXk?oc=5
 
-Alpha in Mutual Funds: What It Is and Why Most Funds Miss It Value Research
+Alpha in Mutual Funds: What It Is and Why Most Funds Miss It valueresearchonline.com
 
-### 61. Paisabazaar Expands Financial Marketplace with Mutual Funds, Introduces Daily SIP for Accessible Investing - bfsi.economictimes.indiatimes.com
-
-- Source: bfsi.economictimes.indiatimes.com
-- Published: 2026-09-23T11:37:49+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxPZk9RQXdLdTNsZTBBVUoteUNoWmZrSFFwTl8wQlhiTmx4aDQ1Z1VodXlwWXN2NU1PQzIwVjZRMklnLUtqMWxHZHFUQkVmby1pdUFfb0tsdndvd0hWRmZONmVsV1ZIZE1Na2h2N1ZzQWU4SE5jc1loc1piZGNlUWwxQ0xQX3Y4VTlkbVZvbXVqX2lKUXJfNnNQbG9DQzd6S2xhdHlqZGRFcnFjZFpyZklXd2lPd1A2ZWNtbjdlZUtMaTlyZC1kbjJJaGtxR2pGSGRfRkdmSkhZUGJKZ2NvYjNtZjJZMi1ONjJ6NDJBSVBSUUl3S2trWlhGT2NwZHZyd21WVlpobNIBhAJBVV95cUxPZk9RQXdLdTNsZTBBVUoteUNoWmZrSFFwTl8wQlhiTmx4aDQ1Z1VodXlwWXN2NU1PQzIwVjZRMklnLUtqMWxHZHFUQkVmby1pdUFfb0tsdndvd0hWRmZONmVsV1ZIZE1Na2h2N1ZzQWU4SE5jc1loc1piZGNlUWwxQ0xQX3Y4VTlkbVZvbXVqX2lKUXJfNnNQbG9DQzd6S2xhdHlqZGRFcnFjZFpyZklXd2lPd1A2ZWNtbjdlZUtMaTlyZC1kbjJJaGtxR2pGSGRfRkdmSkhZUGJKZ2NvYjNtZjJZMi1ONjJ6NDJBSVBSUUl3S2trWlhGT2NwZHZyd21WVlpobA?oc=5
-
-Paisabazaar Expands Financial Marketplace with Mutual Funds, Introduces Daily SIP for Accessible Investing bfsi.economictimes.indiatimes.com
-
-### 62. Softer crude oil, strong growth cues lift Sensex 299 points; IT remains weak - newsdrum.in
+### 59. Softer crude oil, strong growth cues lift Sensex 299 points; IT remains weak - newsdrum.in
 
 - Source: newsdrum.in
 - Published: 2026-09-23T11:26:54+00:00
@@ -626,17 +596,7 @@ Paisabazaar Expands Financial Marketplace with Mutual Funds, Introduces Daily SI
 
 Softer crude oil, strong growth cues lift Sensex 299 points; IT remains weak newsdrum.in
 
-### 63. ₹10,000 monthly SIP for 3 years: This multi-asset fund has delivered over 14% annualised return - CNBC TV18
-
-- Source: CNBC TV18
-- Published: 2026-09-23T09:55:37+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQYkI2UExvVS02QWxjcGpUazVwTlg3Wi14aDRCaTlXZGJlMng1UmZXSFR2aW0xeHZDR2RPc2lqT3BTbS1pSFR6T2RqMk5TcExuVGlSWnVMcmpmZmN2VkRaOC1wXzN3MEIxT2ZKcW5RNGs1bkw5Mk9NdG51Nm81YVF3UjNobERiNUMxeXRVNzBZTWs0VFVneU4wZ2ZFcjhyTExIQ3FBQWloZnF2YlQ0eTNJQlRreG9sZGdFTGJZZUFKVTkzLWgwVjZr0gHMAUFVX3lxTFBfTWlZdDRsNUdXa0R6WF92d01EWkJ1cHA0N3hYeTNaWnltT2JVeHhWWEh1Vm1wMlJjRVpoX0pPSVBIRnNvME9UUFc4RUZ1NnNXUzZiRnpfenBHMkJISzMzOHFVUEV4bWVqbHZNaHp4QTdWNjVKYmJIQ3FQQ0VldEpxUGZJbld2dUpnNFE5dVlRdEQwVm1McVRVZ1B2SFJXZHJFMlZWeVpOd0dfa3J2OWMwSmFsM1REU1FhMVBDNnRWajV2S1ZfanVFazZ3cw?oc=5
-
-₹10,000 monthly SIP for 3 years: This multi-asset fund has delivered over 14% annualised return CNBC TV18
-
-### 64. Paisabazaar Expands Financial Marketplace with Mutual Funds, Introduces Daily SIP for Accessible Investing - ThePrint
+### 60. Paisabazaar Expands Financial Marketplace with Mutual Funds, Introduces Daily SIP for Accessible Investing - ThePrint
 
 - Source: ThePrint
 - Published: 2026-09-23T08:31:09+00:00
@@ -646,7 +606,7 @@ Softer crude oil, strong growth cues lift Sensex 299 points; IT remains weak new
 
 Paisabazaar Expands Financial Marketplace with Mutual Funds, Introduces Daily SIP for Accessible Investing ThePrint
 
-### 65. Yields, Earnings and the AI debate - JPM's Sanjay Mookim on what next for Indian stocks - Moneycontrol.com
+### 61. Yields, Earnings and the AI debate - JPM's Sanjay Mookim on what next for Indian stocks - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-23T08:30:48+00:00
@@ -656,7 +616,27 @@ Paisabazaar Expands Financial Marketplace with Mutual Funds, Introduces Daily SI
 
 Yields, Earnings and the AI debate - JPM's Sanjay Mookim on what next for Indian stocks Moneycontrol.com
 
-### 66. 12 equity mutual funds deliver over 70% absolute return in 3 and 5 years. Were they added in your portfoli - The Economic Times
+### 62. Your Money: Patience can pay when SIP returns disappoint | Business News - Hindustan Times
+
+- Source: Hindustan Times
+- Published: 2026-09-23T07:34:13+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNUDV0TGEwaXRTTFpjNlBkYTB2MjE0YlAzcDNaUUdqWEVzQXZzSjZzUEU5cWJqd3ZRQTk4aFZGWktoLU5YekhSekxzR3NFOTcweWJGaDd1RXdka0NBVXR6bW55LV9ZTmJBcnRNTHd5TnpPRXFoOUdjTmI0UlprUDFVNFRDdHlPRXNZclczMDlqdW1fLTJyN1o1QUdjdC1TRWxYTjY0ZkFmbGxtLTVrQkJLdkpZOXZRNnI1Rk9lVtIBvAFBVV95cUxNUDV0TGEwaXRTTFpjNlBkYTB2MjE0YlAzcDNaUUdqWEVzQXZzSjZzUEU5cWJqd3ZRQTk4aFZGWktoLU5YekhSekxzR3NFOTcweWJGaDd1RXdka0NBVXR6bW55LV9ZTmJBcnRNTHd5TnpPRXFoOUdjTmI0UlprUDFVNFRDdHlPRXNZclczMDlqdW1fLTJyN1o1QUdjdC1TRWxYTjY0ZkFmbGxtLTVrQkJLdkpZOXZRNnI1Rk9lVg?oc=5
+
+Your Money: Patience can pay when SIP returns disappoint | Business News Hindustan Times
+
+### 63. 12 equity mutual funds deliver over 70% absolute return in 3 and 5 years. Were they added in your portfoli - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-09-23T07:12:32+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxPMENUaDFXWUxxeDlIdUNYUzVGQXNTak9vUEZWNzIyOUNzTWVSaG5yb2NlQ3FqWjJseEl6dzRDQkM2ZVE2OHpUczFaUnFuQVRBMjk3LWxQc3I1QmsweDJoV1ZDQ085U2NBejc2SmgxakVsdERjWUd6RzduOHRPOVViUXhKMmtONGtGSHphcnhDQ2NFRTNZRXlnRG1lM0JIVF9MRXk1di1ZMExNU0lHMVJ6ZlVxVEZac1NvS082TDhjU3BaQUs4Mlk3c0daRmtxTjlmTnFwWnZha3JsWFFFR21IRVVTUzhsOTFCWkVQWklLaVptdTNSZWNLbnhfRm81Tkk50gGGAkFVX3lxTE00YkVYT0U2ZHk3R1lZNUU5NkN4dmJUSVZLVTZ6d3l4Yk9TalhjbXJ4QmNXem1wVVhzOExYQVNieGRaTXRfRDBtRDhTeVRSaFZwS2RpY0VtOHJuMUh0YW9kb0NmSkN6ZXZ4ZG5xRmRvMmotNGpJRVZtVDQ4bTdmbGtWU1Bta2VZbmpjb2VuZi1vRGZqUnA1eHVWNEFXUWV0Z1JBTjBxRzhsMGJSX1pQSmVDeGp4SzgxS1FqdWd5bjdwREI3NG5LMC13N01KckNaYUI2Uk8yMjVQeXJ1U2lJMzZBQXBBWlhsWUJrd2lnbWNfTFV0cklkYlhjTW1mOEQ0LUdiSUlmdGc?oc=5
+
+12 equity mutual funds deliver over 70% absolute return in 3 and 5 years. Were they added in your portfoli The Economic Times
+
+### 64. 12 equity mutual funds deliver over 70% absolute return in 3 and 5 years. Were they added in your portfoli - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-23T07:12:32+00:00
@@ -666,37 +646,7 @@ Yields, Earnings and the AI debate - JPM's Sanjay Mookim on what next for Indian
 
 12 equity mutual funds deliver over 70% absolute return in 3 and 5 years. Were they added in your portfoli The Economic Times
 
-### 67. 12 equity mutual funds deliver over 70% absolute return in 3 and 5 years. Were they added in your portfoli - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-09-23T07:05:56+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPeDhDWk9PSDhDVkdHX251Q2dSX0dISFQ4X2M1c1pWQzE4MG5rakhyWW5ZTlZsTl9aMklUbHRGZ3JFZVRWcHB3MWw2QURiUzBOVi12ekROTjl6ZFdlRW5xQWNCWWRfUTFXdjROdmVXMlRnc0twcEN5XzVLY1dwcXZPV2RsQlBZbXluUjNmUHBnLXhpVFJOdG15SzZ6akFlYnpCTWFBeGJQcmo0SlQxVHV1YmFXRlh6YVdoYjJoM0tPZkJmblFGYW51aVRzQ2VUNE5LMWstRnJVc3pxZTc4Xy1VakZNcVV4LTY2UWhHanp0QUpFckp4cnBkTm93YUZ2RXUzSXN2dUtOWjYxTHY30gGGAkFVX3lxTE00YkVYT0U2ZHk3R1lZNUU5NkN4dmJUSVZLVTZ6d3l4Yk9TalhjbXJ4QmNXem1wVVhzOExYQVNieGRaTXRfRDBtRDhTeVRSaFZwS2RpY0VtOHJuMUh0YW9kb0NmSkN6ZXZ4ZG5xRmRvMmotNGpJRVZtVDQ4bTdmbGtWU1Bta2VZbmpjb2VuZi1vRGZqUnA1eHVWNEFXUWV0Z1JBTjBxRzhsMGJSX1pQSmVDeGp4SzgxS1FqdWd5bjdwREI3NG5LMC13N01KckNaYUI2Uk8yMjVQeXJ1U2lJMzZBQXBBWlhsWUJrd2lnbWNfTFV0cklkYlhjTW1mOEQ0LUdiSUlmdGc?oc=5
-
-12 equity mutual funds deliver over 70% absolute return in 3 and 5 years. Were they added in your portfoli The Economic Times
-
-### 68. Your Money: Patience can pay when SIP returns disappoint | Hindustan Times - Hindustan Times
-
-- Source: Hindustan Times
-- Published: 2026-09-23T06:58:03+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNZTNHcFFGa3hhNUV0VEdfS2swcGVZZUc1UjdRR0RSRWl5b2dmMjg2V2IwcnNGLVU0OVFhQWdGZWVxSkNTTlNuMEpKR1RIY2RNSGFtV0xVbnJpQTJ6dVk5OHR3ZGRWaDQ5djJ3c05CVDQ1NUU5dFY0NEtWZ1R5UkVoU3I1MnQwSmtHblptaFlxeWlCZWhDbEhHenpqeEFBOUEzS0JSWE9XX1VzWXAtbmozTjVlUHFKejlPbFFiUVBlQXptN2RCblRFcEY5a9IBywFBVV95cUxNZTNHcFFGa3hhNUV0VEdfS2swcGVZZUc1UjdRR0RSRWl5b2dmMjg2V2IwcnNGLVU0OVFhQWdGZWVxSkNTTlNuMEpKR1RIY2RNSGFtV0xVbnJpQTJ6dVk5OHR3ZGRWaDQ5djJ3c05CVDQ1NUU5dFY0NEtWZ1R5UkVoU3I1MnQwSmtHblptaFlxeWlCZWhDbEhHenpqeEFBOUEzS0JSWE9XX1VzWXAtbmozTjVlUHFKejlPbFFiUVBlQXptN2RCblRFcEY5aw?oc=5
-
-Your Money: Patience can pay when SIP returns disappoint | Hindustan Times Hindustan Times
-
-### 69. Two years of SIP and still in loss? Don't judge the investment too soon - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-09-23T06:55:57+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPNkdNRDdqWGdZWjJKRkV6TWtyalljLVZOUHVDMV9GSHNiNjgxZmstV3QtMGtmVmhGRzI0eHFrUjJ4d3o3ZWxhNFU2SUJZYVdaS0FqaUlESTY5SDZqVExzanpLQWNWcHpZdWZQUnlZRnBRV1o3enc5bDJYM1dSUEdMSnhCVkFEbERHUUZjbGctVy1Yb1A4UFdPcWtSUDJMVEJMaHZ0MVFjYTVmRFBjR3NKVllWSTFLbkpHcVZvMFotdHU5VTR1Ym5qbVVacmV3a3VSWER2TkNsUV9ZeS1n0gHiAUFVX3lxTE5YQ1JheFJNU3BvcjFFbW50Z3ZXZmJEVjJGSDB3eTdWVFRnZTNSQk9ZUVVkMG5KX2p1NU5yTzhTeHdUNFBrNWEzVWh4cnM4RWp2X29fTHNTT3N2N28tTl9ucHlfYTk5SGdFQi1rSVdKaF9pYVZxRXR3NHl0STFIdzZUc0ZQWm1NUTZxWV81anhoMDRPYTNhaW1WN3Q4RDZseXlQT1p3M2RzblpKV3hYT1h1LUpnaGJiMkdJZ0tXSW0xU0tXV1lGQXI5N205LUNfZkp3NXVtUU1lTTA0VVp6el9LTWc?oc=5
-
-Two years of SIP and still in loss? Don't judge the investment too soon Moneycontrol.com
-
-### 70. ONDO Drops 3.21% Amid Broader Crypto Market Correction - CoinMarketCap
+### 65. ONDO Drops 3.21% Amid Broader Crypto Market Correction - CoinMarketCap
 
 - Source: CoinMarketCap
 - Published: 2026-09-24T05:24:00+00:00
@@ -706,7 +656,7 @@ Two years of SIP and still in loss? Don't judge the investment too soon Moneycon
 
 ONDO Drops 3.21% Amid Broader Crypto Market Correction CoinMarketCap
 
-### 71. Adani Group stocks today, September 24: Adani Energy Solutions falls 2.09%, Adani Power declines 1.39%, Adani Enterprises down 1.17% - Business Upturn
+### 66. Adani Group stocks today, September 24: Adani Energy Solutions falls 2.09%, Adani Power declines 1.39%, Adani Enterprises down 1.17% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-24T05:07:37+00:00
@@ -716,7 +666,7 @@ ONDO Drops 3.21% Amid Broader Crypto Market Correction CoinMarketCap
 
 Adani Group stocks today, September 24: Adani Energy Solutions falls 2.09%, Adani Power declines 1.39%, Adani Enterprises down 1.17% Business Upturn
 
-### 72. Sensex down 700 points: Why is stock market falling today? - India Today
+### 67. Sensex down 700 points: Why is stock market falling today? - India Today
 
 - Source: India Today
 - Published: 2026-09-24T04:44:56+00:00
@@ -726,17 +676,27 @@ Adani Group stocks today, September 24: Adani Energy Solutions falls 2.09%, Adan
 
 Sensex down 700 points: Why is stock market falling today? India Today
 
-### 73. IDFC First Bank Ltd Falls 3.53%, BSE BANKEX index Drops 1.12% - business-standard.com
+### 68. Sensex down 600 points: Why is stock market falling today? - India Today
 
-- Source: business-standard.com
+- Source: India Today
+- Published: 2026-09-24T04:44:56+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQVBxdmNST3ctcEY4Zmo4eWZxcU1HZGhKR0JzYXZtV08zSEZDaWpDLThsbnQzNlZjQmhRTW5EUWUwT3Y2MW54anI0WkFEQUpMLWkzNnV4YmVJYXl0Y2NVeUVnbUlLQ2NmZi01ZTNUbTZqNFduLWdZa3BKS2lTdXF6S0JrcGltMjZKT19lQUptQjNiQzVXS1JwTEoyaDEzSXVKaFROSkxhdUgyVnZHUjZOQnl6a2VDcE1fMF9ZNERGQ0tFbm1hbGc2N2pXb0ZSV3AwTGZTekZpUnktY1pkemdDYWxrand0TTdBNkJTVzdmS3VDM0tJaXJST9IB-AFBVV95cUxNQVBxdmNST3ctcEY4Zmo4eWZxcU1HZGhKR0JzYXZtV08zSEZDaWpDLThsbnQzNlZjQmhRTW5EUWUwT3Y2MW54anI0WkFEQUpMLWkzNnV4YmVJYXl0Y2NVeUVnbUlLQ2NmZi01ZTNUbTZqNFduLWdZa3BKS2lTdXF6S0JrcGltMjZKT19lQUptQjNiQzVXS1JwTEoyaDEzSXVKaFROSkxhdUgyVnZHUjZOQnl6a2VDcE1fMF9ZNERGQ0tFbm1hbGc2N2pXb0ZSV3AwTGZTekZpUnktY1pkemdDYWxrand0TTdBNkJTVzdmS3VDM0tJaXJSTw?oc=5
+
+Sensex down 600 points: Why is stock market falling today? India Today
+
+### 69. IDFC First Bank Ltd Falls 3.53%, BSE BANKEX index Drops 1.12% - Business Standard
+
+- Source: Business Standard
 - Published: 2026-09-24T04:34:01+00:00
 - Themes: market selling
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzdOSWtxUnpGcXhoV1dHZjlLcnJYdkZMSmU0b3VxZ0lkbGY1V0ZaRms1eHh2RVpsZl9RS3IyOEVqeWRXMzBwZUsxdGVIZktIaHByVlhHcnVXSVVFcVRITDI3VTVhazY0M2ZtbWVpRmpHeHVNTjB1MkY3R1RlSm83MXZ0VDRPbUNNRm9tNDJFQnZZMDN1YlA4bzZmVEZ4VWI1RHB3RXo0SUt5UkRhVFVNQjMxTUpTRS12TTdud3hDZ1JEcm8wcnFxWDlXLVRCVWw5YVlWUTV4VdIB3AFBVV95cUxNaWtKaERzQVVmeVptMTlrYnktWUJiNWNFd3pIdDk1QUpNWVE0dGFvNzhwUnlsc2UwYlBEQ3VVc3pEQkhJeGRYZG0tR25fVnhmMGNFNUZ5QlkxNTVmS0FRbjhQUHoxQUdIS1I0ZHU5bWZqUG5nUC03d3F6ZW1mampFZEFwdVlDS2hOWll4QWxlck1SWjY5Y3FiQ2Z0YnVVbnUzMDYwYjZKaGdCQ2ljQ3pxNnFJaXlteGZqU01rUnk3WTNuN2pKNTZFeVpidWt3X2tkdjNGX2pGVzhwR0dU?oc=5
 
-IDFC First Bank Ltd Falls 3.53%, BSE BANKEX index Drops 1.12% business-standard.com
+IDFC First Bank Ltd Falls 3.53%, BSE BANKEX index Drops 1.12% Business Standard
 
-### 74. Why is market falling today? Sensex tumbles over 700 points, Nifty below 23,200. 5 factors behind Rs 4 lak - The Economic Times
+### 70. Why is market falling today? Sensex tumbles over 700 points, Nifty below 23,200. 5 factors behind Rs 4 lak - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-24T04:09:39+00:00
@@ -746,7 +706,17 @@ IDFC First Bank Ltd Falls 3.53%, BSE BANKEX index Drops 1.12% business-standard.
 
 Why is market falling today? Sensex tumbles over 700 points, Nifty below 23,200. 5 factors behind Rs 4 lak The Economic Times
 
-### 75. Stock Market Today: Treasury Selloff Sends 10-Year Yield Above 5.1% as Oil Rebounds - Eurasia Business News
+### 71. D-Street Bloodbath: Sensex Plummets 893 Pts, Nifty Slides Below 23,850 on Global Rout - The Indian Awaaz
+
+- Source: The Indian Awaaz
+- Published: 2026-09-24T03:28:00+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNMklLNFlQYTdqR1I4SDNMNWxnODhNVkJaSGFYLU9sYlpsdkhrN1VDQWNPZlJzVzUyM0FSZUdTM3hYaHI4UDIzZ0lKMDFfUlM5LVdGemF6UjkxNWhFSG5FZWxJV3pRWkZTbVlHTHliN3lTUmtidHZSSjVRbEVzUHR1U21wWnA5MnFmN3pIeG9TQlA4OHFyNldoM1BCdzdSamlRM0tDaFY1SzA5Mk1SWlBJ?oc=5
+
+D-Street Bloodbath: Sensex Plummets 893 Pts, Nifty Slides Below 23,850 on Global Rout The Indian Awaaz
+
+### 72. Stock Market Today: Treasury Selloff Sends 10-Year Yield Above 5.1% as Oil Rebounds - Eurasia Business News
 
 - Source: Eurasia Business News
 - Published: 2026-09-23T22:56:48+00:00
@@ -756,7 +726,7 @@ Why is market falling today? Sensex tumbles over 700 points, Nifty below 23,200.
 
 Stock Market Today: Treasury Selloff Sends 10-Year Yield Above 5.1% as Oil Rebounds Eurasia Business News
 
-### 76. Closing Bell: Nifty at 23,450, Sensex rises 299 pts; mid, smallcaps rally - IndiaIPO
+### 73. Closing Bell: Nifty at 23,450, Sensex rises 299 pts; mid, smallcaps rally - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-09-23T22:08:25+00:00
@@ -766,7 +736,7 @@ Stock Market Today: Treasury Selloff Sends 10-Year Yield Above 5.1% as Oil Rebou
 
 Closing Bell: Nifty at 23,450, Sensex rises 299 pts; mid, smallcaps rally IndiaIPO
 
-### 77. Why Wall Street Is Buying Navan’s Post-Earnings Selloff - Barron's
+### 74. Why Wall Street Is Buying Navan’s Post-Earnings Selloff - Barron's
 
 - Source: Barron's
 - Published: 2026-09-23T21:58:43+00:00
@@ -776,7 +746,7 @@ Closing Bell: Nifty at 23,450, Sensex rises 299 pts; mid, smallcaps rally IndiaI
 
 Why Wall Street Is Buying Navan’s Post-Earnings Selloff Barron's
 
-### 78. US Stocks Fall, Nasdaq Drops 1.13%; Tech Shares Lead Decline, Software Stocks Buck Trend; SpaceX Drops Over 4% - TradingKey
+### 75. US Stocks Fall, Nasdaq Drops 1.13%; Tech Shares Lead Decline, Software Stocks Buck Trend; SpaceX Drops Over 4% - TradingKey
 
 - Source: TradingKey
 - Published: 2026-09-23T20:19:16+00:00
@@ -786,7 +756,7 @@ Why Wall Street Is Buying Navan’s Post-Earnings Selloff Barron's
 
 US Stocks Fall, Nasdaq Drops 1.13%; Tech Shares Lead Decline, Software Stocks Buck Trend; SpaceX Drops Over 4% TradingKey
 
-### 79. US Stocks Fall as Yields Hit Multi-Decade Highs - TradingView
+### 76. US Stocks Fall as Yields Hit Multi-Decade Highs - TradingView
 
 - Source: TradingView
 - Published: 2026-09-23T20:07:32+00:00
@@ -796,7 +766,7 @@ US Stocks Fall, Nasdaq Drops 1.13%; Tech Shares Lead Decline, Software Stocks Bu
 
 US Stocks Fall as Yields Hit Multi-Decade Highs TradingView
 
-### 80. Oil India’s premium over ONGC looks stretched as mid-cap bias drives outperformance: Kotak - Moneycontrol.com
+### 77. Oil India’s premium over ONGC looks stretched as mid-cap bias drives outperformance: Kotak - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-23T16:14:59+00:00
@@ -805,3 +775,33 @@ US Stocks Fall as Yields Hit Multi-Decade Highs TradingView
 - Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxQcG9ZYlVTOVRsdTYxQWEzU2RmMXdTU0VEYl81VHpuRGo4RjBZRTV3UkMzdXF5amUtUlNmc2VEbG44QWZqWTJDeUJEZkhjdGdQU1NkcnVsRlpFUHZHZnh2T0xJNmpRTVpsaG1QVWxUWXFrdUJqd0dKbTY3MWluNE1BdUFpTmJuSVJrVGVpM082NldzWnJ4aG1RUTdIMm1CQVBlLVhRdFkwYUlBLV9NVmpSY3dPUS1iVUFUd1dJRzlldGRCdnF0eUxqRlBneVdHSHozOEV2RW8wcllfMUtnaVR1WHBBSGrSAeQBQVVfeXFMUHBvWWJVUzlUbHU2MUFhM1NkZjF3U1NFRGJfNVR6bkRqOEYwWUU1d1JDM3VxeWplLVJTZnNlRGxuOEFmalkyQ3lCRGZIY3RnUFNTZHJ1bEZaRVB2R2Z4dk9MSTZqUU1abGhtUFVsVFlxa3VCandHSm02NzFpbjRNQXVBaU5ibklSa1RlaTNPNjZXc1pyeGhtUVE3SDJtQkFQZS1YUXRZMGFJQS1fTVZqUmN3T1EtYlVBVHdXSUc5ZXRkQnZxdHlMakZQZ3lXR0h6MzhFdkVvMHJZXzFLZ2lUdVhwQUhq?oc=5
 
 Oil India’s premium over ONGC looks stretched as mid-cap bias drives outperformance: Kotak Moneycontrol.com
+
+### 78. WLFI Drops 3.69 Points Over 13 Hours Amid Ongoing Selloff - CoinMarketCap
+
+- Source: CoinMarketCap
+- Published: 2026-09-23T15:06:00+00:00
+- Themes: market selling
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTFAyV09RWDNlM3RSeHREcFBnTXctOXBaT0M2U0RjMUZpTVJVcmJHWnNGY2gyTnFJN3FKRU4wY2FpdjRMbUFaTEZoTG1zTXIydDdob1BSM3hoUUJ6WHFzZkdnYjdjcjhwaks3cXJpQ0dHTmo?oc=5
+
+WLFI Drops 3.69 Points Over 13 Hours Amid Ongoing Selloff CoinMarketCap
+
+### 79. U.S. Stocks Fall in Intraday Trading as Nasdaq Drops 1.02% - tokenpost.com
+
+- Source: tokenpost.com
+- Published: 2026-09-23T14:23:59+00:00
+- Themes: market selling
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTFBlWXUwZW9fdjdUTTRBZmhNbkVHS3laT0piNzlRbkotVnNzZXZZRFdud210SU96M1NZczlZSnVVZ2hHcW5sZVpfSHo4M3NiZ1Z6N1dicjY3eTRodw?oc=5
+
+U.S. Stocks Fall in Intraday Trading as Nasdaq Drops 1.02% tokenpost.com
+
+### 80. Sensex settles 299 pts higher; Nifty ends above 23,400 level - Business Standard
+
+- Source: Business Standard
+- Published: 2026-09-23T10:34:01+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZE9FUWZyek9lVHd5UmdQZHNCaUZySnl1a1piMUJhRVROSHI0QnRIcXdCcmhIT3lsczR0bUx6WndxNUNqcF9jakszQ1dHd2hzT0JpbVp3VC1vZnhtMUhjeGluTUNSb01qOW9GUzhoVUpGQ1Z0MDY3NnloSExpTG9VYmtwc2NLR0JuTWNwNFptRlctcUF4bmJCUGxTSU04NlU2bjdEZ3JCR3dnNUpxYzNnZGV6bVZISWZBeFJ5cklKUEMyQ3hFdXpYOVZaNU9FTTdUU1FSMDhJSnE4VDZQSDdPd1JTWlZfN2ZT0gHoAUFVX3lxTFBkT0VRZnJ6T2VUd3lSZ1Bkc0JpRnJKeXVrWmIxQmFFVE5IcjRCdEhxd0JyaEhPeWxzNHRtTHpad3E1Q2pwX2NqSzNDV0d3aHNPQmltWndULW9meG0xSGN4aW5NQ1JvTWo5b0ZTOGhVSkZDVnQwNjc2eWhITGlMb1Via3BzY0tHQm5NY3A0Wm1GVy1xQXhuYkJQbFNJTTg2VTZuN0RnckJHd2c1SnFjM2dkZXptVkhJZkF4UnlySUpQQzJDeEV1elg5Vlo1T0VNN1RTUVIwOElKcThUNlBIN093UlNaVl83ZlM?oc=5
+
+Sensex settles 299 pts higher; Nifty ends above 23,400 level Business Standard
