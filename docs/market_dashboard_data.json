@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 08:40 IST",
+  "generated_at": "2026-09-27 09:10 IST",
   "wire_file": "2026-09-27-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,10 +23,10 @@
   },
   "posture": {
     "stance": "Mixed",
-    "wire_count": "3",
-    "wire_total_count": "84",
+    "wire_count": "5",
+    "wire_total_count": "80",
     "wire_scope_date": "2026-09-27",
-    "ai_wire_count": "2",
+    "ai_wire_count": "3",
     "selling_wire_count": "0",
     "india_wire_count": "1",
     "weak_index_count": "12",
@@ -34,19 +34,24 @@
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-09-27 02:14",
-      "title": "Amit Shah to flag off India’s first LNG-powered train, inaugurate Rs 1,542-crore rail projects in... - Moneycontrol.com",
-      "text": "Latest dated headline · Moneycontrol.com. Today's unique wire set contains 3 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-09-27 03:00",
+      "title": "Retailizing Mutual Funds to Deepen Bangladesh's Capital Market - The Business Standard",
+      "text": "Latest dated headline · The Business Standard. Today's unique wire set contains 5 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-09-27",
       "title": "Risk-off still dominates the wires",
-      "text": "The latest wire slice for 2026-09-27 has 0 selling/risk wires and 2 AI/tech-risk wires, so the bias remains defensive."
+      "text": "The latest wire slice for 2026-09-27 has 0 selling/risk wires and 3 AI/tech-risk wires, so the bias remains defensive."
     },
     {
       "label": "AI / Chips · 2026-09-27",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: China consumer stocks near decade lows as investors pile into AI - Yahoo Finance"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: China consumer stocks near decade lows as investors pile into AI By Investing.com - Investing.com"
+    },
+    {
+      "label": "Funds",
+      "title": "Mutual fund participation is still visible",
+      "text": "Fund-related wires are active, but this dashboard should be read for category dispersion rather than a single fund-flow signal."
     }
   ],
   "indices": [
@@ -22452,7 +22457,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-09-27T08:40:40+05:30",
+    "generated_at": "2026-09-27T09:10:48+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34771,10 +34776,10 @@
       "published": "2026-09-26T07:50:05+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "bbntimes.com",
-      "title": "BSE SENSEX Plunges to 73,580.54 in Steepest Fall in 10 Weeks as IRDAI Proposals Hit Financials - bbntimes.com",
+      "source": "BBN Times",
+      "title": "BSE SENSEX Plunges to 73,580.54 in Steepest Fall in 10 Weeks as IRDAI Proposals Hit Financials - BBN Times",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdndCcUxtYS1YV2tyenF1cXJkdllLVDNfVURMbEMxWnFld2JNQnVhelExU0V4VF90N1RycTNZUVQ4U1hucXVyc2d3bWpCbktEelBPR3A1Q0Q4QmF1ZExldGQzWlhyOHh2T0U3OXVScU00ZFJOV2lYNDVXQm1FYXlXeC1GamtPZG1NbDlkcS1zNElaOTlQTzJiTHVuTXdXTDVVTXRVcUdGNjdlcUhjbEZrbmp2eWpaVU5MeUYwOGIyM0l3ZHVNTU1iMQ?oc=5",
-      "description": "BSE SENSEX Plunges to 73,580.54 in Steepest Fall in 10 Weeks as IRDAI Proposals Hit Financials bbntimes.com"
+      "description": "BSE SENSEX Plunges to 73,580.54 in Steepest Fall in 10 Weeks as IRDAI Proposals Hit Financials BBN Times"
     },
     {
       "published": "2026-09-26T05:30:08+00:00",
@@ -34820,6 +34825,15 @@
       "title": "Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQODRLLUprOVVHcHA0RWQ4SEZLOEdJRDVLUUF1aWV1anpzQllhUUs0YUtwdm9KRi1ORTl0VXE4aXNfSWZKcVN5eHpUaGFweGpOWlBUa2k1blNXMzRkdXRHM1paeVFTM18zNE5fNE81UnhLZV9mVjkzWVdFQ3NHTVhjeVpjQ0N5MVk2UkVGUVIxV0dNUFgwdUJTWU5nU3o4TlhyM3M5R0o3anFzS3JjdlNmRGNqbjE0aFFnU2ZUbTJpcTd4NlJZeXZfUHpKRS1xWmFRTFNBTDU3QVZWMldjejJWa3RRdnF2bnBhTEMtMXR4S1dtZHNkM0hLVg?oc=5",
       "description": "Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details The Economic Times"
+    },
+    {
+      "published": "2026-09-27T03:00:00+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "The Business Standard",
+      "title": "Retailizing Mutual Funds to Deepen Bangladesh's Capital Market - The Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekVxSXZKN0hITTBUby1QMDlMdHFZVDJtVUY3cWdqOTJXLXNOc1RjRXRGb3lfYnJKaElkVW5uTkM2Q3ZJVkhXalJDZFBrdnc4cnVhNU1temdmd3drVzFqS0owMFdyUFg1dWFEUC1rSDZiNXVISmZVUHlzVjNhSldZWVpYNUh6a0pZN0ZmdGQ0NGxoOE83d3ZmdmZWTmpseVc4YWFwZE5ZQVhULXI5ZWc?oc=5",
+      "description": "Retailizing Mutual Funds to Deepen Bangladesh's Capital Market The Business Standard"
     },
     {
       "published": "2026-09-26T16:00:53+00:00",
@@ -34876,24 +34890,6 @@
       "description": "Dalal Street Ends September 21–25 Week in the Red as Oil, Bond Yields Trigger Sharp Sell-Off businessnewsthisweek.com"
     },
     {
-      "published": "2026-09-26T03:30:38+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Trade Brains",
-      "title": "Up to 20.62% 1-Year Return: Aditya Birla Sun Life Reopens 3 International Mutual Funds for Fresh Investment - Check Details - Trade Brains",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNOEd0OGtYMHY2czM1V0ZJNnNMMlNQemlvMXhRQXBURXBld2lUYUctQVVsMWc3OTJvYjRJRUxjRS1sM0VSalNGSmRoOVhIOS1NZU94X1pEVXpGSV9kWmJYNGdVaEF4WW54VTVIcXl5QW5NTFRpVmFVWGVvWHV2a0pib3hGblFNeUMyZjJMVGxHNkg4d0huZF9tNnVkVWxTaDZ4UWdtR3RZc3NUcGRjbERkZWtJZjFyZXdUT0VGOUVHbUltdzJIRzFLcFViYVVTS1pUdVlVV1dZaGZTaEVGMk5KcmlxYjFLd09zME5RZw?oc=5",
-      "description": "Up to 20.62% 1-Year Return: Aditya Birla Sun Life Reopens 3 International Mutual Funds for Fresh Investment - Check Details Trade Brains"
-    },
-    {
-      "published": "2026-09-26T03:25:51+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Rediff",
-      "title": "Rout in PB Fintech stock deals Rs 11,000 crore blow to mutual funds - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOOWlDUmhrcTlhNC01QTRqTHY1bEVoX1EwR0t4SU4xY3VLYUZfcmxFZkp3NEU5RmJ2cFBaVGRrWmFrbVVFcnRfOUxiM1kzLXdieElNUkUtNXI4M0VmVy00dnBNM1pVMDdHV1NGa2d0MVFYeUVydVU0YUh1TEZNMUJwVXVXci1iSWdVVEo2bm1FdFdoVHVoR1FCYWhaMXdWbXQ4NWRsTUhqTkU0YmN2WlVycDJwTmFKc1pEWmlGSjBWZ3pyYlhtbGlWX3dWb0tUbHhQOUplOVdabV92RUR5T2ozNFZUa3E?oc=5",
-      "description": "Rout in PB Fintech stock deals Rs 11,000 crore blow to mutual funds Rediff"
-    },
-    {
       "published": "2026-09-26T19:03:52+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
@@ -34906,10 +34902,10 @@
       "published": "2026-09-26T17:28:45+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
-      "source": "stocktwits.com",
-      "title": "AVGO Stock Extends Post-Earnings Selloff: Analysts, Retail Expect Strong Rebound - stocktwits.com",
+      "source": "Stocktwits",
+      "title": "AVGO Stock Extends Post-Earnings Selloff: Analysts, Retail Expect Strong Rebound - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNMTBRb2lSSW9EalRsT3lpaERfNzNyN0lnWHlxb2dpMUdDWkxlZERqYVNnRHJUbjhaZTZGYzBHWkhLR1U1WVNmeEdObzIxczE5VzE5dUxmNllDUlpvcFQtdUp6Ti1HR3FxNnZFVVZ1UTZuaXBIdEcyelpYYmxnNU5sVHQtenFSM0tWRW45Z0RzdlhQNWNqdGJyeWlTbW1YdF9HcER0aHBTX0I0N3QwbGpuWXUzZVoxdFdaekwzLWlCNl9CLXQ1VThpa1I2TW1OcFk3aHd4aVhEbzRxUQ?oc=5",
-      "description": "AVGO Stock Extends Post-Earnings Selloff: Analysts, Retail Expect Strong Rebound stocktwits.com"
+      "description": "AVGO Stock Extends Post-Earnings Selloff: Analysts, Retail Expect Strong Rebound Stocktwits"
     },
     {
       "published": "2026-09-26T16:44:21+00:00",
@@ -35029,22 +35025,31 @@
       "description": "Amit Shah to flag off India’s first LNG-powered train, inaugurate Rs 1,542-crore rail projects in... Moneycontrol.com"
     },
     {
-      "published": "2026-09-27T01:03:00+00:00",
+      "published": "2026-09-27T00:40:38+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "Yahoo Finance",
-      "title": "China consumer stocks near decade lows as investors pile into AI - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcTdIVmNLcXlpeEotdWZ2SUNBekxWRnFXUDh1Y3lpZzJMYkI1TTRmcmk1MjdCbmtldVFnV1NScXVKelpKbjBlSjdHRlMyVWs0TVpuMVBMN3RfUDlTUkhVUl90MGIyYndEcHJGV2p2LUM3dFNDRUhpaDdHQ0UwT2dpSzhtVkVrS2VnN2c3cG1QYVFTU19vMXFkell1ejIyclE?oc=5",
-      "description": "China consumer stocks near decade lows as investors pile into AI Yahoo Finance"
+      "source": "Investing.com",
+      "title": "China consumer stocks near decade lows as investors pile into AI By Investing.com - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPeU0zcW1Uc1VCUVlnOVBUZkpwNTN0QUgxR1JMUW5BN0VEUzIxdTZ1QUE1c0puTjl2ek9FU0REOW8zWGlSRUN2RVZveFQ3Q0ItdWNlWTNIRDY5eFo1TjR6R1RTVkVsVUV6MTF3Qm5RQkw0SWVEcWNWTURHQUxiS3JReGRHSG9QQ3VaZG15WFAwNV91X3lKRkpYX192aVdIdV8xNW1MVmhYektIT0thRUtqbFphdUM0MUJNOEVmdWpn?oc=5",
+      "description": "China consumer stocks near decade lows as investors pile into AI By Investing.com Investing.com"
+    },
+    {
+      "published": "2026-09-27T00:37:35+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Moneycontrol.com",
+      "title": "China consumer stocks hit 10-year lows as AI boom fuels market divide - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOOHJXQTdRaU9nbkRqM2RuM2NrNkZOcV9ESGNJV1R2Tk4teFMxeTViZlRpNE9VclZGM1ZYM0hoSkhUWlRFTi1ubVFUY01uQ3RUVDBqMWQ5MnFoMlR5ZDFZSGp5YkVDTUtiRVhlTTJMWFlwVFdBeG5JaGsyR3RMSk5fZ1lXeVZKX2tyWW5kU0NSRGRQRHZwNHg2RUttT2dQLS1NY0FXWjlWaTNYdHd4eEVmaG9nSlFtUnptbDNKVzZmLWVMZjFvdTNWNkh30gHKAUFVX3lxTE44cldBN1FpT2duRGozZG4zY2s2Rk5xX0RIY0lXVHZOTi14UzF5NWJmVGk0T1VyVkYzVlgzSGhKSFRaVEVOLW5tUVRjTW5DdFRUMGoxZDkycWgyVHlkMVlIanliRUNNS2JFWGVNMkxYWXBUV0F4bkloazJHdExKTl9nWVd5Vkpfa3JZbmRTQ1JEZFBEdnA0eDZFS21PZ1AtLU1jQVdaOVZpM1h0d3h4RWZob2dKUW1Sem1sM0pXNmYtZUxmMW91M1Y2SHc?oc=5",
+      "description": "China consumer stocks hit 10-year lows as AI boom fuels market divide Moneycontrol.com"
     },
     {
       "published": "2026-09-27T00:00:00+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "Bloomberg",
-      "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight - Bloomberg",
+      "source": "Bloomberg.com",
+      "title": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZldHZF9yQXljZXQ2UlBXaHF6cXNEWk9DOWxVZWlvR2pfV2ZvamNzeUtoR1ZOelJ6aE1QbkVHclJVRmZJYXRqOWNkWXNyZ2thQnAxZXpScE5OWThZQWl3Q1JJRlZQaGpiOHRWajdvVUFJbkRPYUtqMFkyS1ZWX1RNUXVNQWNVVnlJd3BMNzRleXB1bkhvSF9JTk1fRDhWTGdmeTRCbjAwT2VwWUd5R3htd25BcHQ?oc=5",
-      "description": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight Bloomberg"
+      "description": "China’s Consumer Stocks Face Lost Decade as AI Steals Spotlight Bloomberg.com"
     },
     {
       "published": "2026-09-26T23:05:14+00:00",
@@ -35074,15 +35079,6 @@
       "description": "The AI Bull Has Met the Price of Money The Dark Side Of The Boom"
     },
     {
-      "published": "2026-09-26T17:53:56+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Yahoo Finance",
-      "title": "IonQ (IONQ) Just Landed Nvidia Less Than 2 Years After Jensen Huang’s 30-Year Quantum Warning - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRmx1Q2ZJai1lMGl0SXU5MUFxMm50M1ExcTNIaFJSWU0wc0lEVVc5TXJiZllNNHFuRWxKY2xxX0RnQXlTeUVEVmwtQ2NjZ0dqX0lNR3ZIVUlPTkNjWnYxcXFlYjlNQ25zdFlRdEpRSHVBSTJDWk1SX3BWTnJ4UmRIbDNWWWRaR1prTE5jbnA4MzJVSWVhNEp3?oc=5",
-      "description": "IonQ (IONQ) Just Landed Nvidia Less Than 2 Years After Jensen Huang’s 30-Year Quantum Warning Yahoo Finance"
-    },
-    {
       "published": "2026-09-26T17:49:34+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -35090,6 +35086,15 @@
       "title": "'Zero tolerance on terrorism': Jaishankar says India will exercise its right to defend itself at UNGA - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMG94Q3AteWpKWWUtR2l0bjlDNlNiaTdBNVZtUjdfaVp0REVzcl9idVlIZzFKY0ctVTZzMjJpZWRranBRMDY2blBZWXhEcEIxa01OcENid05FelBOZEhhTFVUTnkzWWx1M2tIYUU1NlpJSVJnNFNGWUdUQmJfYW9BSHN1ejNuMG15d2U3YW9JY2NDeUU0cGw4VGhTdXNxU2d4ZGRwUUhBdzFGZDB6MHdkbHhRSjBqdnhqVjNuLWpYaUx4UFozOE9VdmlRWmRRcDlSX3V5enlCYXdlUHpFQTVudnEwZFRoR1V5NTVmVNIB7AFBVV95cUxOMG94Q3AteWpKWWUtR2l0bjlDNlNiaTdBNVZtUjdfaVp0REVzcl9idVlIZzFKY0ctVTZzMjJpZWRranBRMDY2blBZWXhEcEIxa01OcENid05FelBOZEhhTFVUTnkzWWx1M2tIYUU1NlpJSVJnNFNGWUdUQmJfYW9BSHN1ejNuMG15d2U3YW9JY2NDeUU0cGw4VGhTdXNxU2d4ZGRwUUhBdzFGZDB6MHdkbHhRSjBqdnhqVjNuLWpYaUx4UFozOE9VdmlRWmRRcDlSX3V5enlCYXdlUHpFQTVudnEwZFRoR1V5NTVmVA?oc=5",
       "description": "'Zero tolerance on terrorism': Jaishankar says India will exercise its right to defend itself at UNGA Moneycontrol.com"
+    },
+    {
+      "published": "2026-09-26T17:49:02+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Stocktwits",
+      "title": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHpueUl2V3JaZUhDaElyaDdlTzFYSDkwS0ZfSkxfYm1oRkxHTm1LdE9IeGtYNFRMUEpMODdqdkZEcHZ4dlJoLXNrZW9iTjJFa2gwbkJXRVZjUmhXRDNYbVFJSGJjOFFEZDZGX29ISW9jb3pwX2VxZDlCNmVldVRkM2hUZXNVc3FQOU9pZHlPMW04UUJub0dBNzNiUkQzQm1iSjRfUnpHWjgzSHYzMnk2aEgybXBTOFlROF9jSFI2N3hKbFVrQjFPdkxNRGs3VXM?oc=5",
+      "description": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' Stocktwits"
     },
     {
       "published": "2026-09-26T17:25:40+00:00",
@@ -35113,19 +35118,10 @@
       "published": "2026-09-26T17:07:22+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "stocktwits.com",
-      "title": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst - stocktwits.com",
+      "source": "Stocktwits",
+      "title": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUZQWmFQeUFjSDJCUkRQUlEzLWwyN0hhMWUtRGdNNHNTcVkwUVRHUEpUZXAxUG5zS2YzQ0FERTdtTXM0SnE4NjM1QndheV85a3NZUEFBT3FBVzEzV3RUTG5id3ltZ3hWX1NTdWtQdWkwdmlGckZuTzNiM18tV0dhNzhhUjZUTHoxbUZrQ2RsSDdJUTBlUXViSmNtNjIwaHBWS1lRYzNwMlI4cGFKOFdzN2hnUEdxUk9pWXVVeHhXa1Q?oc=5",
-      "description": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst stocktwits.com"
-    },
-    {
-      "published": "2026-09-26T16:43:32+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "KuCoin",
-      "title": "Nvidia and Apple Hit 15% of S&P 500 — Surpassing 1999 Dot-Com Peak - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUjlKLTRmZlRCS3d1XzlFNUVTV1ZiN0k5TkFTb3lscXpSVHRrd09KTE1pQ3NZbEtULW92X2FsUmdIM19ySnh3UDc4dnVfX1g4ZFlFV1FJVU5Tamo1dUU1aS1Ocm5JQy1KRzUyampwSGY5MmQ5VFYtdXJBU3lDVGtiQVhINlNieDJEdzhyRWNWQ0s5UHNCc2U4eHpQVDVrUQ?oc=5",
-      "description": "Nvidia and Apple Hit 15% of S&P 500 — Surpassing 1999 Dot-Com Peak KuCoin"
+      "description": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst Stocktwits"
     },
     {
       "published": "2026-09-26T16:00:21+00:00",
@@ -35134,15 +35130,6 @@
       "source": "TradingView",
       "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMjRWNGhxNjZDM2tfdkNQbkNvVnQzMWJIY3ZLVG8tOXVSektBNFVDbDZuVktPSTdCZ0FjWGlJc1AxblBiekw5UXhhR0Nub3lESERHVFpSb0F2ZTBRVExITWZYTlE0VF9qTHpTSlhSVTBhU040YVNYbkUzMzBieE5CWTBqNzJjMjU4djlWM21qajVoLXZyS0g2WTdJYzVGQnU2ZTAtM0pFTzNLLVhocHFGRzYyTFBMZlhvTHpHTmYxYTN3Zi1MeUc2YkUzMExDdEFDUTYwQWNGX1llVXM?oc=5",
-      "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology TradingView"
-    },
-    {
-      "published": "2026-09-26T16:00:21+00:00",
-      "score": 1.0,
-      "themes": "['macro / flows']",
-      "source": "TradingView",
-      "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS1RuellCaWY5NUdmMENVV2g4clZEVjd6VUl0bUJGXzZzbWFTbU81eG1wN282WVExel9XRk5tWW5tb080OGV5MHlUWnFUN3ZCN1hkc3p2emIycW5KcHNJcHJHMVE5dVFaTmdHMGs2RGdiNFB1SmJoWEtmUm04T2EtRl9WcGpzcWFtUE1OTmx0SUpQR0xwQVJEcGI5cUxpeldJZnYyYmVTRHltS0VlalF6bnF0MGFwVUVkdkF3YVhzWHY3cXhJdktLN0dYZnl4aThHVHgtQ0NOV2lKUQ?oc=5",
       "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology TradingView"
     },
     {
@@ -35194,19 +35181,19 @@
       "published": "2026-09-26T13:51:13+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "LinkedIn",
-      "title": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul - LinkedIn",
+      "source": "linkedin.com",
+      "title": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul - linkedin.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUdYckd5Y2pPQUg1MHZTaHlTT1ZXWTdmTGxwSWlMcE9NQm1vNE15dk9qS25VanFnTzk3c0FHTEpwaGcxXzhmekh2dUNLM2s5Zy1USHBjMHRfakhvYndNanZrV19NZVFMY1hjOHZsektLSVZoS2tTNkdzMEJTeExiS3ZVbDVRWTNWVjZ3MWVmSzhnZDVvT2d2YnEwZGJLRUp3QXhxTDVfSUc5TTdvTXIw?oc=5",
-      "description": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul LinkedIn"
+      "description": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul linkedin.com"
     },
     {
       "published": "2026-09-26T13:00:00+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "Bloomberg",
-      "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback - Bloomberg",
+      "source": "Bloomberg.com",
+      "title": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWXVoVUxnbVRWNlVLbFMtQlpVRG16LVdXaUJXUHZmTU9YWG9lQjAxcmpUT28tbzdfTHFEbDdmenljaFZyZFExNF92dnFDbTA4a1pGandBZ2pzakRBQ28tMFdodzFJYzVDZzFzSmk5T3d1U19xOWplZ2RtMGxyR1NOZkR6c0pQeVFBT0ctVkhJdDNYcUdtMzlfMVJ5enZzemVLU0hyS1Z4R1RmT0FhTlNoVS1nOGs?oc=5",
-      "description": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback Bloomberg"
+      "description": "McDonald’s Selloff Hits 30% as Big Mac Inflation Spurs Pushback Bloomberg.com"
     },
     {
       "published": "2026-09-26T12:58:25+00:00",
@@ -35392,10 +35379,10 @@
       "published": "2026-09-26T08:39:57+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "FXLeaders",
-      "title": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? - FXLeaders",
+      "source": "fxleaders.com",
+      "title": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? - fxleaders.com",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUVNeUZhNEpBRks2ak5HblRWVTBLY3k0dGZ1TmpsVkpmZ1NVODJYeFY4cDU0cU1MUXpRdXlqUjRoMmNOTGtfTmM3RTJzZWhfOHhVTGVjMjRJLUNfN1FoOVFXOHByblozZkpPcUdUT1lMc2ViaDBTcWloX3RkSDhCSUlLWGRQNWJPVGdiY3RiTWJZdS0wU3NvdjdtdXJ5OHRydzNUTQ?oc=5",
-      "description": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? FXLeaders"
+      "description": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? fxleaders.com"
     },
     {
       "published": "2026-09-26T08:36:05+00:00",
@@ -35437,10 +35424,10 @@
       "published": "2026-09-26T07:08:52+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "stocktwits.com",
-      "title": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week - stocktwits.com",
+      "source": "Stocktwits",
+      "title": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGRiTXRzcl91M2JFU091Q0R5U0hfRUFWUlV0cGN6VVRUNnBnTGtNcUlrV3A4THYwbUV4U3c3UG1jeW5Xb1JKSGlkbThjdDRoVWlxYUNKVjhMV0x0S19SSjdzR21nZUc3ME85NmhrbXVwVzJLdEMxU1VQT3A3T2hEYlVCWEF5ZjVZV2piZWVjcy1jamtfbHdxZFhsU0R2Wkp1TGVzWWxxOVZ2MTRaMzNDV3VETURtVUFXa3UzcEZpelJja1lKYXN3WmM1MGJLU29IRzh4dUJOOXFZYVlkWTU2ZU9keXl0dVRCRlZhUWJVUGFublBjMUd2NS0xcjh6RDg0di01ZU40SFpJQ3M?oc=5",
-      "description": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week stocktwits.com"
+      "description": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week Stocktwits"
     },
     {
       "published": "2026-09-26T06:51:00+00:00",
@@ -35495,24 +35482,6 @@
       "title": "India's Equity Indices on a Losing Streak for Seventh Straight Week - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQM0lOTFpRZV9pdTJ6MXlXbmJqYnUzb2ZOdlRzR3pjS2tBVnJtbWtTanNhblA4UERSOFNDQk9Kemo3Vjk1dmo1Q3NFSmx1NFpubnNockRmaXN3RUJjbTlHblA2T1VKZzVkd1Z2SHR3Tnd4VmZzVTkyUHNDLXdyU0xUMERSN0ZRTkRsUEYyQUtHdlhtVTFYZG1xSmFfenlkNmhJWW50RGQxaWRLZ1ZId1ppUElwM3hMY1UzSUttdUhueHBOQQ?oc=5",
       "description": "India's Equity Indices on a Losing Streak for Seventh Straight Week TradingView"
-    },
-    {
-      "published": "2026-09-26T03:31:32+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Investment Guru India",
-      "title": "Market Commentary (closing) for 25th September 2026 by Bajaj Broking - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSVJNQWhTUnZRVFNjQTRVY3d1bFF3ZzlUNVFfbEh2SXdqV1lXLWRHUGdLZW5iaENpOUJMdTR5WWszZG5NcGtIck8zcTlwTGtYck5UZW5MRkxDa0tmWlJEQ3pnaFpRWVVlOWtXc0FnQk9EUU1Ja2JZd2ljS3JUaEh0ejZNUzZUUHNCbmlhaVpMTnJKTWEzZTFaWGNlMDBEd3VBZWY2NmRCQldPS3dDTE85RWt1Y0FaU0dzT3Jj?oc=5",
-      "description": "Market Commentary (closing) for 25th September 2026 by Bajaj Broking Investment Guru India"
-    },
-    {
-      "published": "2026-09-26T03:19:53+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "'Hypocritical homilies': India slams Shehbaz Sharif's UN rhetoric, warns 'terrorism by Pak will have... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNeko4OFQya2I5QmhIelc4ZGdsUkpoajA0R2NYV1pvdmFFS0pZbnk4eS1lQVc1ZV9DU2VST0ZyazNiRkRiZTFwVHFGbnBOV196Um9zVVQtNzR4RU1UX0ZISmp1Y3VhWGE5SWVrYllrcWREMGVQdlBVeWxZN0JkVW1CTkNJT3I3amk3OGIxeUhZd0VHeVhKMnYxbXFLYlZ6dFk4Q0U2Y2tLSUQzVVJqbmNYT3BOSEx3SktSZDZmZzl6Q3o4LVlwYl9jbDdPY1BzSThLU29aTXlyWFhHNlFTWGFKTEpuOUtDbWZtTDU4ekRINEk3NVhzeFFLT1ZR0gH6AUFVX3lxTE16Sjg4VDJrYjlCaEh6VzhkZ2xSSmhqMDRHY1hXWm92YUVLSllueTh5LWVBVzVlX0NTZVJPRnJrM2JGRGJlMXBUcUZucE5XX3pSb3NVVC03NHhFTVRfRkhKanVjdWFYYTlJZWtiWWtxZEQwZVB2UFV5bFk3QmRVbUJOQ0lPcjdqaTc4YjF5SFl3RUd5WEoydjFtcUtiVnp0WThDRTZja0tJRDNVUmpuY1hPcE5ITHdKS1JkNmZnOXpDejgtWXBiX2NsN09jUHNJOEtTb1pNeXJYWEc2UVNYYUpMSm45S0NtZm1MNTh6REg0STc1WHN4UUtPVlE?oc=5",
-      "description": "'Hypocritical homilies': India slams Shehbaz Sharif's UN rhetoric, warns 'terrorism by Pak will have... Moneycontrol.com"
     }
   ]
 }
