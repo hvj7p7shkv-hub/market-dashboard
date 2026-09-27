@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 12:12 IST",
+  "generated_at": "2026-09-27 12:40 IST",
   "wire_file": "2026-09-27-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -22,26 +22,26 @@
     "nifty500_date_mismatches": 0
   },
   "posture": {
-    "stance": "India relief, AI overhang",
-    "wire_count": "12",
-    "wire_total_count": "70",
+    "stance": "Mixed",
+    "wire_count": "13",
+    "wire_total_count": "67",
     "wire_scope_date": "2026-09-27",
-    "ai_wire_count": "5",
-    "selling_wire_count": "1",
-    "india_wire_count": "4",
+    "ai_wire_count": "4",
+    "selling_wire_count": "2",
+    "india_wire_count": "5",
     "weak_index_count": "12",
     "valid_index_count": "23"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-09-27 06:24",
-      "title": "Will Nifty, Sensex tumble on Monday? 5 factors which will drive D-Street action this week - The Economic Times",
-      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 12 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-09-27 06:47",
+      "title": "Is Comcast (CMCSA) Undervalued Following Its Broadband Expansion And Recent Selloff? - simplywall.st",
+      "text": "Latest dated headline · simplywall.st. Today's unique wire set contains 13 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-09-27",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-09-27 has 4 India-market wires, 1 selling/risk wires, and 5 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-09-27 has 5 India-market wires, 2 selling/risk wires, and 4 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-09-27",
@@ -3620,7 +3620,7 @@
     "near_count": 13,
     "technical_leaders_count": 13,
     "technical_overlay_count": 3,
-    "total_count": 500
+    "total_count": 499
   },
   "mutual_fund_navs": {
     "funds": [
@@ -22457,7 +22457,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-09-27T12:11:34+05:30",
+    "generated_at": "2026-09-27T12:40:26+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34782,6 +34782,15 @@
       "description": "BSE SENSEX Plunges to 73,580.54 in Steepest Fall in 10 Weeks as IRDAI Proposals Hit Financials BBN Times"
     },
     {
+      "published": "2026-09-27T06:03:51+00:00",
+      "score": 5.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "Social News XYZ",
+      "title": "Crude oil, global yields, FII flows among key factors to drive stock market next week - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQZnk1azlDRUQzSEloYWo2UjhZR2RKU3NIR1ktcWhKV041NnRpaUJUZ29VczZ2M2RzQ1RrdTdQQWtwU0lNYmExMEpsNzVRa2R1QTNoS3hWOFZ5eExrSXFNOWg2b2hvdmo3NXNsdDJnWDlxdnFUa2Q2VWhieFd0cE93dkZ5b3ozV0RiRk44b19jdlRMWUpibDVnZVNqZkw3U0cza0JYRXBlUUZCNVB4ZWpWbGJYanJCd0o2NmNmY2pNOA?oc=5",
+      "description": "Crude oil, global yields, FII flows among key factors to drive stock market next week Social News XYZ"
+    },
+    {
       "published": "2026-09-26T09:40:25+00:00",
       "score": 5.0,
       "themes": "['India market']",
@@ -34789,15 +34798,6 @@
       "title": "Smallcap funds - Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQblBpdTVKUllUbjZhekVGNTRuWlNlblZXamVxQm1POHdjdUxLaGZnTzdJWmVmTXlJN1Zhc3NLZjJxaGkyWTdaSS11SW5KYnAtaDRsYWNObG1od0tQYUUxTUJKazM1WXRhSWNCREpxMkRWMFhCLXVLVjAzazF5ZGNOU0VJcUh4ZVc3Y1R3QklJaURsTkhfRVVNN2dKQ01kOEJ4WHp4VThKZjBGWHZTVnRkUzYwZUFLeE5KVXdnT1NzNlR0QTRVYzYzeVhQQWRNeGc5Nk1HOWZIS3BCSGNwMmtHQl9BNDVMeUlnQmhWc3JaYVQ5YzVrY043dGtWT0RLM21K?oc=5",
       "description": "Smallcap funds - Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details The Economic Times"
-    },
-    {
-      "published": "2026-09-26T12:28:55+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Flexicap funds - Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNT1g3b1ZpU3pjbkFvWG5LNkQyM2xfTGVwWHZEZ2hjSERXRTduQ0RibWVHYmpLd09aX1NHZnd2a1llb05POEdlUDZRVDdJeTRhLWFBM1RWVEd4NjVEQTZmWm1ZSkdBYVRuR21xeVhZblJ3NlhUV1hjVUlrRzdjMkkwdFI3SFYwczA4YnAxN1JFaUZtSW1MdG85cERsUHFPYmNEd1lWX3QwYmdHZ3BuNVVIZEtpc1pISVJwUGFCcGZubFU5Zm13aEcxUWRnV0FfODQwdTU3b3BjdFE5UzNOVUtOYmY4R21NQS1YOG5SRlhhcE1VNTVDdUZkdlJBcXNwMW82?oc=5",
-      "description": "Flexicap funds - Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details The Economic Times"
     },
     {
       "published": "2026-09-26T08:34:46+00:00",
@@ -34809,6 +34809,24 @@
       "description": "Sensex, Nifty Decline for 7th Week as Crude Prices, Bond Yields Rise BizzBuzz"
     },
     {
+      "published": "2026-09-26T08:02:15+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQODRLLUprOVVHcHA0RWQ4SEZLOEdJRDVLUUF1aWV1anpzQllhUUs0YUtwdm9KRi1ORTl0VXE4aXNfSWZKcVN5eHpUaGFweGpOWlBUa2k1blNXMzRkdXRHM1paeVFTM18zNE5fNE81UnhLZV9mVjkzWVdFQ3NHTVhjeVpjQ0N5MVk2UkVGUVIxV0dNUFgwdUJTWU5nU3o4TlhyM3M5R0o3anFzS3JjdlNmRGNqbjE0aFFnU2ZUbTJpcTd4NlJZeXZfUHpKRS1xWmFRTFNBTDU3QVZWMldjejJWa3RRdnF2bnBhTEMtMXR4S1dtZHNkM0hLVg?oc=5",
+      "description": "Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details The Economic Times"
+    },
+    {
+      "published": "2026-09-27T05:43:41+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "The Economic Times",
+      "title": "Equity mutual funds lose up to 13% in a week; sectoral and thematic funds lead the decline. Check top 10 losers - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiogJBVV95cUxQNzFmXzNxUGFSV2FtNnZndHZhQVhzR0FuR2ttUTFRbzRGM1kybkJETEt3YzRwVDFrM2NKckpnZXpjRmxsTUJ1WE02SmtBNGY5UzlvTkNWZ29Za3RpdkZ0Y0RUTl84b1JlNXg3RC1KVWNselF6bXVlUXc5TnM4UGxPZTZ1RFNYQXktbEZ5SVJEUnhOeGVyQ1diSVQwQnpiNEVmVjlRbllNV1hfdWlaOU9DNkNzODZMa3hhRDJ0aUNNeXBWLWxjemlsc0NxUThBWWlYaVFBQzRsNzdFOHhuRGxBWDk5YkFpdGhoQVY5cHNUcEsxeXFCZlVqODlEWGJhTS1TT1Q1M3RKN3k3R3R5dndlU2laUzhtWm9rQlMwSVBNYnZGdw?oc=5",
+      "description": "Equity mutual funds lose up to 13% in a week; sectoral and thematic funds lead the decline. Check top 10 losers The Economic Times"
+    },
+    {
       "published": "2026-09-27T05:15:00+00:00",
       "score": 3.0,
       "themes": "[]",
@@ -34816,15 +34834,6 @@
       "title": "Retailizing Mutual Funds to Deepen Bangladesh's Capital Market - The Business Standard",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPTFZ5Q2p2OUpoTGhRTTdLTDZqeXJNM3hIbHZkSkpMVjk5d05MMUJlSU05aWhMZWtkdC0zX1NfS0Nqa2w0SkMySGJjNUttdGx6eHNXbFBFVkZsWk1reS12SXliZS1VOGxPQXFPRWh0MW1KSTU3WWwwVVdnWVNYemxSZzN5UEpkTVJCeDA1dGprUnY5Y3hxQ0dGTmFoOGk5WkRkRnhWNU1DbnM?oc=5",
       "description": "Retailizing Mutual Funds to Deepen Bangladesh's Capital Market The Business Standard"
-    },
-    {
-      "published": "2026-09-27T05:13:17+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "The Economic Times",
-      "title": "Equity mutual funds lose up to 13% in a week; sectoral and thematic funds lead the decline. Check top 10 losers - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPV3pwX3JCOXd5bXZ5bUxfODQyR2tmTEgzd19qOTNvMC14QkhJbjNPeXQ0dEVyRzkxR1p5QVpCd3lob015em1VX3FzQ3FubXIzd3B0cFoweEM2WDh0RG5lODB0ZUxiVWFTLWhLN1hCcmZhdFlvQmRzTkxCSjhWempZdnlHcXFndTVxdVg4VjgxVWxuaDBaMURPM2NYOURGTlJOYTJ2ZC02c1RTT2dRSlQtWFFLMDRpVVVVcXExVk10eXFYeEEtVy1wanFQcnpELXFDcFBjeGdqcjl5TUZDZHF5OGl3ZUF1eWJpTjVJekstazBkTlRIVXBFa2VzZkJTRmJpNk4wWTBmc0ZrcFRtYnc?oc=5",
-      "description": "Equity mutual funds lose up to 13% in a week; sectoral and thematic funds lead the decline. Check top 10 losers The Economic Times"
     },
     {
       "published": "2026-09-27T05:11:17+00:00",
@@ -34926,6 +34935,15 @@
       "description": "Real Estate Stocks Fall as Treasury Yields Push Investors Toward Technology tokenpost.com"
     },
     {
+      "published": "2026-09-26T17:34:28+00:00",
+      "score": 2.0,
+      "themes": "['market selling', 'macro / flows']",
+      "source": "TradingKey",
+      "title": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdTlMLTNTNDhGakt6NDFKT2dkS1pWOC04UUVnU1pHcFFmSE4xNkVUbUZCMm9rTUFqMmJmOXR1NGp1bFJlUUI0dUl5eUlmV0dVd1JlZWptZEo4dGdGak1YU0YtNFFZRFpJVk81R2VJQjNsZnhMRWM3WmFxNlhOUnMyVEczZVlJRUs0MWd1MnhISmZFdUdCYzVYZ3hBRnN3VXpEYXVQOXFaMlJGU0pSbWNVWTZIT3YwRWhaWlIyMlp0T1hBNXA3RjdydnZ2TXQwU0hX?oc=5",
+      "description": "Broadcom Stock Forecast: Why Did AVGO Fall After $13.5B Earnings and What's Next? TradingKey"
+    },
+    {
       "published": "2026-09-26T17:28:45+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
@@ -34965,19 +34983,10 @@
       "published": "2026-09-26T11:20:28+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
-      "source": "energynow.com",
-      "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - energynow.com",
+      "source": "EnergyNow.com",
+      "title": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa1F2NVZ4NG9Xb3pPZEdDWnljbkkyTVI5NVhhT2JQS0M1RFFENzMxd3lRSFNVd2c4TGFkblNZNExTMC1NRWVjVEV6Z2dRcVA3cHR6VFh3ejNZNUtoOTF6OW51Q1UyV2F4QzFRTHA3N19GNHFwZ1lseDMwaTlTWkdHNVBlT2pvTVVYR2F6SE5ZTndpb1ZhYXc?oc=5",
-      "description": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says energynow.com"
-    },
-    {
-      "published": "2026-09-26T10:47:00+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "The Times of India",
-      "title": "Why FIIs may not return to Indian stocks even after AI boom fades - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1lxcFNrdjBxc19YSWFoOWh6X3VJSzVLb0FLaXRXYlF0N0dzakRfb3FGMkFGdVVfcEVVelJXTkktOU45clJROHAtekxDNUNwTjc3OEVUZkJ6MFFwbmxxNWVDaEd1YXpRcFFGandXcHZ4R29NRlVrM0c2WEVJcFV2a2dzdldtcVhMNFFUb1c3N0JsMFpMVnNtei1IalpMNTZNMi1iZ3hyQUdKRklmUDMwcThPZ0ZxU1BYQmpDOTNIOGxXcFM1WEVPOWhkWmdhTnJHTS1vY2h2VEhjeWx2ZzRQQjRDSXJDZ9IB6wFBVV95cUxQTGtQQndySmJNZEltOFNSTUdkMndLa3Z4VzZnaWphWk1jbXgxVGl4N2syTFpaZVg2ekhKSDg0Y0VtNmRudUNIYnFVeXVraEdSaEdxc0Z0X291dEpEY1kwa012RVpWVWRCaGwtckRVcFN3M2pybWZLcEJIdG9zRFYxaGJLdDVXRFhwUE5BVXR3eUZDOXZJbU1sd21lRlNWX2hnTVZ0UmtOc3lva1plenNTZkZ4dGZ5R3NHaXNQWlY2aFVWMl9hQ0pTdUE0SGlweHZrNVNpSk5NbXFHRWJDQVhHVGhSUTk0cHBSMURB?oc=5",
-      "description": "Why FIIs may not return to Indian stocks even after AI boom fades The Times of India"
+      "description": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says EnergyNow.com"
     },
     {
       "published": "2026-09-26T09:15:01+00:00",
@@ -34998,13 +35007,13 @@
       "description": "Indian Markets Extend Losing Streak to 7 Weeks as Crude, FPI Selling Weigh on Sentiment Dalal Street Investment Journal"
     },
     {
-      "published": "2026-09-26T06:51:00+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "The Indian Awaaz",
-      "title": "D-Street Bloodbath: Sensex Plummets 893 Pts, Nifty Slides Below 23,850 on Global Rout - The Indian Awaaz",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMklLNFlQYTdqR1I4SDNMNWxnODhNVkJaSGFYLU9sYlpsdkhrN1VDQWNPZlJzVzUyM0FSZUdTM3hYaHI4UDIzZ0lKMDFfUlM5LVdGemF6UjkxNWhFSG5FZWxJV3pRWkZTbVlHTHliN3lTUmtidHZSSjVRbEVzUHR1U21wWnA5MnFmN3pIeG9TQlA4OHFyNldoM1BCdzdSamlRM0tDaFY1SzA5Mk1SWlBJ?oc=5",
-      "description": "D-Street Bloodbath: Sensex Plummets 893 Pts, Nifty Slides Below 23,850 on Global Rout The Indian Awaaz"
+      "published": "2026-09-27T06:47:08+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "simplywall.st",
+      "title": "Is Comcast (CMCSA) Undervalued Following Its Broadband Expansion And Recent Selloff? - simplywall.st",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeEliRkU5dnRfRmpCejFORmFnRlpnenNxbzB3cFE5ZnRDWFZSc1NrZXY0UHI2QlF2amVlSmlUZjRWTlZ3MEo4X3Vtb0R4S09nVTZqbFRrcTlKdW4zSFhsWUNMeTZ6cTEwM1JFbkRKTlJQVzhmOW1OSWE0MTEwRlh4RDRlUHBtVVJONktBVUxtSVhLWld6TEtQUGR1OWRESnNvZ1FjTHEwT0ZjM1VCaE5hVWlIWE9SdEllamk0c05kdHFYZGRl0gHKAUFVX3lxTE9SNThjcEg3Q3pZeTZnOFJXeG5laS04SEJNQlBhNEE5TGlSNmE1UlNRamlFZXU4V2NXcC1ERi1xcjl1aXZlZElQRk9ZYVV4QVFCbFBMYk5xVU1KbklwcnhpbmdhQ2o4cVVYV2s1Ylp2VjlTM2ZfMlNuY2RRM0xHaUN3a2lGZGUxdzZNOGR1bzl5dWdZamNrXzRLTGZWWVQxX2o2Z1RsNGVVNzE3UGt3U0lxLVl3QVo4ajNwa1UwMTBwZ1JLTEt3UGVrWnc?oc=5",
+      "description": "Is Comcast (CMCSA) Undervalued Following Its Broadband Expansion And Recent Selloff? simplywall.st"
     },
     {
       "published": "2026-09-27T06:13:38+00:00",
@@ -35014,15 +35023,6 @@
       "title": "Week ahead: Oil prices, US 10-Year Treasury yield and NIFTY50 monthly expiry in focus - Dailyhunt",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUjV6UmYtc0xkbXIyS1RjVlZBclNmNnA1REtGNHlkRkFBV080Wnl6LWl5TUNDVkpBQzc2b1M1RkZZaXFKTjYwNHl5QUV5SWhpMkp2OWFBS01VN21SRW1wYllEMlc3WUtpeEV6bjN5cWdkc0xEdUtfZUxtdjRQQmVNdWZKY3c1dlQ2ejlRZHZfYkE0aS15SFF0R0V2Nmx1cTlMc1d4UlV3aXhwakJPeUdwNVA1UWlQRmtsY0RvbTRNM2JnaEhpeGlMcmI2SmtWRG1PX0RCOGhyWHcxU19BcHhaTDRnYkFHTDlYRmRFaTlvQ1BOVW1WeGc?oc=5",
       "description": "Week ahead: Oil prices, US 10-Year Treasury yield and NIFTY50 monthly expiry in focus Dailyhunt"
-    },
-    {
-      "published": "2026-09-27T04:35:39+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "convergence-now.com",
-      "title": "AI Safety vs AI Race: From Jacob Coxon to Trump’s AI Force — Where Is This Story Heading? - convergence-now.com",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOLWFycDhEdVNmUEFQTlRlcmItYVpmVEZJaDExMHViSENlejBDY3BfUGNUbjBYMkRSY2NCUHVuQjFYZFRnczRXaHVoYjNLVkdoa1hBUk9xZnBoMmViZlVUUl9iMkZrLVRuYldQRmVTUnRZMlNKZ29ReE9EcFI5UWlQOUlPZWhMSDRlbzZrWUV0eTNEQ3BfY3pYTVBjM0lFbjdsS0VkeUlYUjRubzFORzZBbFpyR0wzRWIzVkEyUGExeU9WZEl0LVE?oc=5",
-      "description": "AI Safety vs AI Race: From Jacob Coxon to Trump’s AI Force — Where Is This Story Heading? convergence-now.com"
     },
     {
       "published": "2026-09-27T02:09:01+00:00",
@@ -35061,13 +35061,31 @@
       "description": "KCGI CEO Sees Market Slump as Revaluation, Stresses Korean AI Manufacturing Role 조선일보"
     },
     {
+      "published": "2026-09-26T21:43:35+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Stocktwits",
+      "title": "SNDK Stock Plunges Over 30% In 3 Days Amid Semiconductor Rout – Retail Traders Debate Whether $1,000 Will Hold - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMC1zSFJycEgwLXVjdUg1SFRTMUwtTHJsTWdfZHRobGR2bWRaNVl1Zmo0ZVdBMFQ3WllWeFljRTV5eFJfVjNONms1NDE0MU1Yb1dfejlQaEU4VTdJQmNiYlBDdHlXZWJSZVZmRm5nd2VKQ2NrckRrbTA1R0gxYzlxbGloR0xDRVR0ZHhfeTJqVDBEN3JnX3o5cnRaUGl0dm5zMi04ZW1TbFFsRmlPWURzYU9KVlVQamJqMEZMd2lWamlNSktVbVB2cQ?oc=5",
+      "description": "SNDK Stock Plunges Over 30% In 3 Days Amid Semiconductor Rout – Retail Traders Debate Whether $1,000 Will Hold Stocktwits"
+    },
+    {
       "published": "2026-09-26T21:31:02+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "The Dark Side Of The Boom",
-      "title": "The AI Bull Has Met the Price of Money - The Dark Side Of The Boom",
+      "source": "thedarksideoftheboom.substack.com",
+      "title": "The AI Bull Has Met the Price of Money - thedarksideoftheboom.substack.com",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWjNOd0ptZUNNaElGOFR2eXpfcUtIM2MtRkdoV1dHY25yNDNiSnM1dzRnSnFzLXdjWWJMX3RCREtHSVV6THB4S3F5Ykd0cmZ5WWhHMXFlU1gxcFBzMzY2aVAtanRacFdlNmNrZnpVODdJOVRISzlGS1AzMjV4RUQ5N1hR?oc=5",
-      "description": "The AI Bull Has Met the Price of Money The Dark Side Of The Boom"
+      "description": "The AI Bull Has Met the Price of Money thedarksideoftheboom.substack.com"
+    },
+    {
+      "published": "2026-09-26T21:15:13+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Stocktwits",
+      "title": "PHAT Stock Clocks Worst Day In Over 1.5 Years — What Sparked The Selloff? - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGVVMkZOdUE4NDZMLU1YWlN3QTNQTWZSN1ZULTdONXQzaXpzbXhrY2RiSXpUZm9EV29FRDVKaXpIcUdvSEh5WEFSZzAxUkdYektZcGNLLUZ2SE5IZC10ZHNIcUoxeHBpV19kVzdmMEw4M3JzNjVkeTRYejcycjFKZmtBc2JsdFpZNVp1dllYQk15OVE0ZUJiMmFNbEgyT3hJUjB0U05uV1ItOGRPTHVDYVpaT0NHV3dMNjVqTG8xeGtueWdtUlVCeFMydjI0ajg?oc=5",
+      "description": "PHAT Stock Clocks Worst Day In Over 1.5 Years — What Sparked The Selloff? Stocktwits"
     },
     {
       "published": "2026-09-26T20:47:18+00:00",
@@ -35079,15 +35097,6 @@
       "description": "Can Verizon And Charter Win Over Wall Street? Here’s What Analysts Expect From Q2 Earnings Today Stocktwits"
     },
     {
-      "published": "2026-09-26T17:49:34+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "'Zero tolerance on terrorism': Jaishankar says India will exercise its right to defend itself at UNGA - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOMG94Q3AteWpKWWUtR2l0bjlDNlNiaTdBNVZtUjdfaVp0REVzcl9idVlIZzFKY0ctVTZzMjJpZWRranBRMDY2blBZWXhEcEIxa01OcENid05FelBOZEhhTFVUTnkzWWx1M2tIYUU1NlpJSVJnNFNGWUdUQmJfYW9BSHN1ejNuMG15d2U3YW9JY2NDeUU0cGw4VGhTdXNxU2d4ZGRwUUhBdzFGZDB6MHdkbHhRSjBqdnhqVjNuLWpYaUx4UFozOE9VdmlRWmRRcDlSX3V5enlCYXdlUHpFQTVudnEwZFRoR1V5NTVmVNIB7AFBVV95cUxOMG94Q3AteWpKWWUtR2l0bjlDNlNiaTdBNVZtUjdfaVp0REVzcl9idVlIZzFKY0ctVTZzMjJpZWRranBRMDY2blBZWXhEcEIxa01OcENid05FelBOZEhhTFVUTnkzWWx1M2tIYUU1NlpJSVJnNFNGWUdUQmJfYW9BSHN1ejNuMG15d2U3YW9JY2NDeUU0cGw4VGhTdXNxU2d4ZGRwUUhBdzFGZDB6MHdkbHhRSjBqdnhqVjNuLWpYaUx4UFozOE9VdmlRWmRRcDlSX3V5enlCYXdlUHpFQTVudnEwZFRoR1V5NTVmVA?oc=5",
-      "description": "'Zero tolerance on terrorism': Jaishankar says India will exercise its right to defend itself at UNGA Moneycontrol.com"
-    },
-    {
       "published": "2026-09-26T17:49:02+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35095,6 +35104,15 @@
       "title": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHpueUl2V3JaZUhDaElyaDdlTzFYSDkwS0ZfSkxfYm1oRkxHTm1LdE9IeGtYNFRMUEpMODdqdkZEcHZ4dlJoLXNrZW9iTjJFa2gwbkJXRVZjUmhXRDNYbVFJSGJjOFFEZDZGX29ISW9jb3pwX2VxZDlCNmVldVRkM2hUZXNVc3FQOU9pZHlPMW04UUJub0dBNzNiUkQzQm1iSjRfUnpHWjgzSHYzMnk2aEgybXBTOFlROF9jSFI2N3hKbFVrQjFPdkxNRGs3VXM?oc=5",
       "description": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' Stocktwits"
+    },
+    {
+      "published": "2026-09-26T17:15:14+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Alice Blue",
+      "title": "Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan IDCW Payout - Alice Blue",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNNW1vcTNTU2d6bGpWNzUzdktuUVA3dGFwM2tnTFg4dnBBOHRiUTZXQlVLZmFXMnhER3F3T1ktb014OU9PSlFSTGJTZlZpX3p3d3VjV3ZoZW9mVTNVOGh6UVlLcTUtWG5COXJnZmJYSzBWdUFLWGJaNnNjSENFRzJndlpwTnBUQk1DTGZCbmkzRU1zOEhUVk13NXozbDN2TC1BYkRlaTdyWjhYRndxU041ZVdaaUpTZzAtVnpaaHF3MU9HT1RhaXFVbkQ2RlAzSU0?oc=5",
+      "description": "Invesco India - Invesco Global Consumer Trends Fund of Fund - Regular Plan IDCW Payout Alice Blue"
     },
     {
       "published": "2026-09-26T17:07:22+00:00",
@@ -35111,26 +35129,26 @@
       "themes": "['macro / flows']",
       "source": "TradingView",
       "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQS1RuellCaWY5NUdmMENVV2g4clZEVjd6VUl0bUJGXzZzbWFTbU81eG1wN282WVExel9XRk5tWW5tb080OGV5MHlUWnFUN3ZCN1hkc3p2emIycW5KcHNJcHJHMVE5dVFaTmdHMGs2RGdiNFB1SmJoWEtmUm04T2EtRl9WcGpzcWFtUE1OTmx0SUpQR0xwQVJEcGI5cUxpeldJZnYyYmVTRHltS0VlalF6bnF0MGFwVUVkdkF3YVhzWHY3cXhJdktLN0dYZnl4aThHVHgtQ0NOV2lKUQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMjRWNGhxNjZDM2tfdkNQbkNvVnQzMWJIY3ZLVG8tOXVSektBNFVDbDZuVktPSTdCZ0FjWGlJc1AxblBiekw5UXhhR0Nub3lESERHVFpSb0F2ZTBRVExITWZYTlE0VF9qTHpTSlhSVTBhU040YVNYbkUzMzBieE5CWTBqNzJjMjU4djlWM21qajVoLXZyS0g2WTdJYzVGQnU2ZTAtM0pFTzNLLVhocHFGRzYyTFBMZlhvTHpHTmYxYTN3Zi1MeUc2YkUzMExDdEFDUTYwQWNGX1llVXM?oc=5",
       "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology TradingView"
     },
     {
-      "published": "2026-09-26T15:38:03+00:00",
+      "published": "2026-09-26T16:00:21+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "TradingView",
+      "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNR3M1cmJWWVZIdV8tbzEyUFpkTkFnTTVwN2Z5czgxUVN6cUc2Y0NqSVg2b1ltb29sWFlZcDBaX2RHQ0dHS3J5Z3E4NU9pR0VNSWxkaGk4MnRzbFlMd20xS2hZdlBrM3AyZlBjSFJoVEZLLTlmMU5zSHdjMmQ5aTFhQ1FDM243UWtqeWhVMHRoZDJCUjgtVkZtbVZzNEZUVng3S1h3ZndDVmNYc3BUU3gzcGxKaDJreURxOU1oTHYyelhqT0V6RzFTZ211NUJ3ZlRDQV84S0FkajUtQQ?oc=5",
+      "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology TradingView"
+    },
+    {
+      "published": "2026-09-26T15:38:01+00:00",
       "score": 1.0,
       "themes": "['India market']",
       "source": "Alice Blue",
-      "title": "Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan Growth - Alice Blue",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaHdxU0NaNDVGZVFMbk8zUWtTRTRUalNkSjhjbnJIWmZ0SzMzYW81RF9hdHdDT3VPQVJhaDY3QTZxalpnNUZabDYzUjhxSUFRZkFsYXJwRTh4UTgxeHYyZDBON25XVkJjaG5reTJnTXdpSWJocGJLdkpVQUh2c0dfMDI0MmFod1N6M2tlSnRTMUpmbnIwa2p1ODI4LWVkeHFqQWJDeFkwOEIwQ0xyTWdUWUVGSXlOTm1xUWRqblBMMVFId1Bm?oc=5",
-      "description": "Invesco India - Invesco Pan European Equity Fund of Fund - Regular Plan Growth Alice Blue"
-    },
-    {
-      "published": "2026-09-26T15:12:12+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Shehbaz Sharif at UNGA: What Pakistan PM said about India, Kashmir, Indus Waters Treaty - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOcVlmTWpqQ2ptaHNYbV9uaVZYS0FqV0w1ZnBhSXJORXJ6T0h2SGU5ajBVYkFGZzhIN1NEeEhLYmdKeEpoMUU3ME1OUkZVVjFQRmtXZWJ4Y3BfYmxLSG5xalBwNmdZZGx4Y2UzZU5jYlRrb2dEZ0RYWUpBZXF3UE1OdzdrbVFWXzRWaUtoVzc3M19XOExGbG9ZaGE0LXFPamNJbDZlME00RUlGcV9RdDFlNHlRY3c2eWZRaWN0eFpnbzZMVzB1ZHE4TDNFeDdlMWRsaEVzemFZam9KS3BYS0HSAd4BQVVfeXFMTnFZZk1qakNqbWhzWG1fbmlWWEtBaldMNWZwYUlyTkVyek9IdkhlOWowVWJBRmc4SDdTRHhIS2JnSnhKaDFFNzBNTlJGVVYxUEZrV2VieGNwX2JsS0hucWpQcDZnWWRseGNlM2VOY2JUa29nRGdEWFlKQWVxd1BNTnc3a21RVl80VmlLaFc3NzNfVzhMRmxvWWhhNC1xT2pjSWw2ZTBNNEVJRnFfUXQxZTR5UWN3NnlmUWljdHhaZ282TFcwdWRxOEwzRXg3ZTFkbGhFc3phWWpvSktwWEtB?oc=5",
-      "description": "Shehbaz Sharif at UNGA: What Pakistan PM said about India, Kashmir, Indus Waters Treaty Moneycontrol.com"
+      "title": "Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan IDCW Payout - Alice Blue",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNMFFvczFnX2xkMEJRVlIyV1hDV1BfMXlhLUJtOXpoM3NpdV9oc2Q3TENycDVGTFBNamExOFh6VHg2QjctNUJ3T3JNQlRFTUxseUxnODV1Wm9kQjBXVUdxcW14dFBUMU1NNjV2UmRfRklwOVp1dmNnaXhRLXFyMW9jWF9XRnRUWXVJU2h4QTZuSUtGWFBZZF90YlZkR0JIblpnbFNPcTlvbThzeTA1bGFoX2EzbmNTenoyWW1WWHB1WUtDanBiRjFfaHVsUDY?oc=5",
+      "description": "Invesco India - Invesco Global Equity Income Fund of Fund - Regular Plan IDCW Payout Alice Blue"
     },
     {
       "published": "2026-09-26T15:01:46+00:00",
@@ -35208,10 +35226,19 @@
       "published": "2026-09-26T11:08:42+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "quantumzeitgeist.com",
-      "title": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts - quantumzeitgeist.com",
+      "source": "Quantum Zeitgeist",
+      "title": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts - Quantum Zeitgeist",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WR29EV2VBNzhCQ1Q5YmtWZlJvejl1emVYXzU3bDVGblhCeG1pZDFEWVJPb1B4SzNUY213aEhaQVRieTdfbTgtZGJ5aTVFNDVNZUZCTmV0NXF4dktWcUdhU0xNanYybUxWLWNkM3UxUERuZlhMQlE?oc=5",
-      "description": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts quantumzeitgeist.com"
+      "description": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts Quantum Zeitgeist"
+    },
+    {
+      "published": "2026-09-26T10:47:00+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "timesofindia.indiatimes.com",
+      "title": "Why FIIs may not return to Indian stocks even after AI boom fades - timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1lxcFNrdjBxc19YSWFoOWh6X3VJSzVLb0FLaXRXYlF0N0dzakRfb3FGMkFGdVVfcEVVelJXTkktOU45clJROHAtekxDNUNwTjc3OEVUZkJ6MFFwbmxxNWVDaEd1YXpRcFFGandXcHZ4R29NRlVrM0c2WEVJcFV2a2dzdldtcVhMNFFUb1c3N0JsMFpMVnNtei1IalpMNTZNMi1iZ3hyQUdKRklmUDMwcThPZ0ZxU1BYQmpDOTNIOGxXcFM1WEVPOWhkWmdhTnJHTS1vY2h2VEhjeWx2ZzRQQjRDSXJDZ9IB6wFBVV95cUxQTGtQQndySmJNZEltOFNSTUdkMndLa3Z4VzZnaWphWk1jbXgxVGl4N2syTFpaZVg2ekhKSDg0Y0VtNmRudUNIYnFVeXVraEdSaEdxc0Z0X291dEpEY1kwa012RVpWVWRCaGwtckRVcFN3M2pybWZLcEJIdG9zRFYxaGJLdDVXRFhwUE5BVXR3eUZDOXZJbU1sd21lRlNWX2hnTVZ0UmtOc3lva1plenNTZkZ4dGZ5R3NHaXNQWlY2aFVWMl9hQ0pTdUE0SGlweHZrNVNpSk5NbXFHRWJDQVhHVGhSUTk0cHBSMURB?oc=5",
+      "description": "Why FIIs may not return to Indian stocks even after AI boom fades timesofindia.indiatimes.com"
     },
     {
       "published": "2026-09-26T10:38:34+00:00",
@@ -35223,22 +35250,13 @@
       "description": "The Week in Numbers: Global bond selloff deepens, VW crisis worsens Reuters"
     },
     {
-      "published": "2026-09-26T10:21:21+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "India-China trade has a Vietnam twist, says FM Sitharaman as she flags market-access barriers - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNRFFSNjFqcmd5TkhOZE1CUjlmaWlZdlJxbTVYSDBUazRlWDRNTHhTU3BCVkR4ZERIX3NTZUZzVUtpZ2JlZGpmbERfMWpxbHl3NDJCTkdjOTJkR1Q4LWRwZXZBaUFGTUdyZld1eFhRcmlBbHBPWW5CeHdTZnlrWVYwWXVBak0xZVhUVEZ0c0k0RzNjNzVNVl9HRkRWa1NVVVRLbEw2YjZxTGFObnRMcGh0UkVjVU04NHVDdkFSZENOTnIxNlBnMmJ0YTc0M1VQaXMzMHhycG5zbFZ0MVhLZ0I3dklqX3JiSWlu0gHoAUFVX3lxTE1EUVI2MWpyZ3lOSE5kTUJSOWZpaVl2UnFtNVhIMFRrNGVYNE1MeFNTcEJWRHhkREhfc1NlRnNVS2lnYmVkamZsRF8xanFseXc0MkJOR2M5MmRHVDgtZHBldkFpQUZNR3JmV3V4WFFyaUFscE9ZbkJ4d1NmeWtZVjBZdUFqTTFlWFRURnRzSTRHM2M3NU1WX0dGRFZrU1VVVEtsTDZiNnFMYU5udExwaHRSRWNVTTg0dUN2QVJkQ05OcjE2UGcyYnRhNzQzVVBpczMweHJwbnNsVnQxWEtnQjd2SWpfcmJJaW4?oc=5",
-      "description": "India-China trade has a Vietnam twist, says FM Sitharaman as she flags market-access barriers Moneycontrol.com"
-    },
-    {
       "published": "2026-09-26T09:59:54+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "Univest",
-      "title": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers - Univest",
+      "source": "univest.in",
+      "title": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers - univest.in",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fd2g4dGdDejI1My1SYTVYeXJhaUJJMm5Tcm5SUk9oS0lWZ2JnRk56YnhkeTZtbVJJaFNkWDVsb2dEbWhOVzF4QmVzNl9mTWhIcmZmT1ZraUZ5V0JTaGlNRmJFa0thaVFSRS1ha3lJSFZPZw?oc=5",
-      "description": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers Univest"
+      "description": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers univest.in"
     },
     {
       "published": "2026-09-26T09:45:59+00:00",
@@ -35322,24 +35340,6 @@
       "description": "ETF Investors Alert! BSE Warns Of Sharp Correction Risk In International Funds Dynamite News"
     },
     {
-      "published": "2026-09-26T08:22:16+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Times of India",
-      "title": "Today’s Platinum Price in Arcot – Live Platinum Rate per Gram & Kg | 26 September 2026 - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTlubFBGVFpFY19iQlVEVWY1WUt4OGdSNFhrSHFmeUVhZmtDbkhvNG1QX1prNG5PTVcxRVU5Ukt1ZmdzNE5sV2dsNFVROHNXMWYtTEdrWnZ6Rnd4U2xiSWJTVmNVZEZKRnRJWkJBU2h5OE1pR0h2OXNacTNndElYU2tBLUdGTDlwOVkzNGZmV3V5bEU?oc=5",
-      "description": "Today’s Platinum Price in Arcot – Live Platinum Rate per Gram & Kg | 26 September 2026 The Times of India"
-    },
-    {
-      "published": "2026-09-26T08:17:02+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Virat Kohli: 'Last World Cup for India, motivation is to leave everything out there' - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTWpNa1RuazVvMFNXMWM1akx3TG9seVoxWWQ3aEJMbmdBMlpmYzR5TWJEODdqSk50Ujh5czZLUVRsVm1rdlY1UkJFN2lPMjRCakdJM2tUdmVDcVFnYjVWeVFBQjByejlqLXU5dUhYa01Ec3pMa29TSm13RnBMeXNsdG1QZ0RGU2JMazJGRGZMcjFhM2thaE5ESnd2VDdfeThwNGFzc0JieDNMbzFabFhxOWFpLVhyTjI2aG4zLVRBcWJtOEN4eVctZW5fY1BDM2FSM2xyOExxdjdteEw0MkRSVmVyOWLSAeQBQVVfeXFMTk1qTWtUbms1bzBTVzFjNWpMd0xvbHlaMVlkN2hCTG5nQTJaZmM0eU1iRDg3akpOdFI4eXM2S1FUbFZta3ZWNVJCRTdpTzI0QmpHSTNrVHZlQ3FRZ2I1VnlRQUIwcno5ai11OXVIWGtNRHN6TGtvU0ptd0ZwTHlzbHRtUGdERlNiTGsyRkRmTHIxYTNrYWhOREp3dlQ3X3k4cDRhc3NCYngzTG8xWmxYcTlhaS1Yck4yNmhuMy1UQXFibThDeHlXLWVuX2NQQzNhUjNscjhMcXY3bXhMNDJEUlZlcjli?oc=5",
-      "description": "Virat Kohli: 'Last World Cup for India, motivation is to leave everything out there' Moneycontrol.com"
-    },
-    {
       "published": "2026-09-26T07:41:20+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35365,33 +35365,6 @@
       "title": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNGRiTXRzcl91M2JFU091Q0R5U0hfRUFWUlV0cGN6VVRUNnBnTGtNcUlrV3A4THYwbUV4U3c3UG1jeW5Xb1JKSGlkbThjdDRoVWlxYUNKVjhMV0x0S19SSjdzR21nZUc3ME85NmhrbXVwVzJLdEMxU1VQT3A3T2hEYlVCWEF5ZjVZV2piZWVjcy1jamtfbHdxZFhsU0R2Wkp1TGVzWWxxOVZ2MTRaMzNDV3VETURtVUFXa3UzcEZpelJja1lKYXN3WmM1MGJLU29IRzh4dUJOOXFZYVlkWTU2ZU9keXl0dVRCRlZhUWJVUGFublBjMUd2NS0xcjh6RDg0di01ZU40SFpJQ3M?oc=5",
       "description": "SNDK, WDC, MU: US Memory Stocks Rebound Overnight After Anthropic-Driven Selloff; Traders Eye Samsung Results Next Week Stocktwits"
-    },
-    {
-      "published": "2026-09-26T06:51:00+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Samco",
-      "title": "Top 14 Pharma Stocks To Buy In India September 2026 - Samco",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmxaNUxpT2wtdzdBOEMwZ18tbzhmM3NVOXN1RXlaTy1wR1N2SmZRb0RKSlZPSUpvRnhxaTlHQnBpYXV5X2RhNHNlYnEtYjctblphSkpUbWJHRDRoRWZwY3ZXMmMwRlBYZWR2TFhMcUhHU0lOd19VVmY4a0pxYUF2djNyOWp0TE9Rc0E?oc=5",
-      "description": "Top 14 Pharma Stocks To Buy In India September 2026 Samco"
-    },
-    {
-      "published": "2026-09-26T06:45:38+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Menafn",
-      "title": "India Needs Competitive Industries To Attract Fiis Back: Bernstein - Menafn",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeU00c3RNYUd5Mnk4aUtFckR5S1h1eThwMW9fcTB6SS1FaldGYkczZ005N0ZmclliRjRvNTNBZE1aQVU3RDJaTjhieDdtT0Jua2RqTTYwRnhtdFI1STdZUGRPRU9md0FHYjVVMzNzMjBfYmhiYm9BeTIzSkozcXBmZmk3TlA5MWhUNmRjaFpWNUxGaWRsbzNhZHNYWQ?oc=5",
-      "description": "India Needs Competitive Industries To Attract Fiis Back: Bernstein Menafn"
-    },
-    {
-      "published": "2026-09-26T06:38:53+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Rediff",
-      "title": "Longest Nifty Losing Streak Since Covid - Rediff",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPelFYdkJyS1ZkU1FWLXRsUUhfRE9PM3NuMjUycGRMeW03LUVyRl9HcFBEb2RXbXE0VDgzcGd5OUxhZk5JZUoxRmY0RDhYZVAxcWIwWExnQjllcVlIdWdxeUlMOHBxRm41bkJ6eXNRdlM1RnFwWXB3VVZBREJhR2VVaFE2dzBqSlNwbldUNVdKc1VCdzBGaUHSAZgBQVVfeXFMTXNQRXBIbVBiT25XamlYN2hLRjVLcUZVcHFfMGZnLWFVUm1kRXdpLXBxRFZlbWJtUElEVjVHSmh5RThqeEZES2xrTVEzbUNhWTQ4bUlKakFWbV9VS3V2RmZXMXdsWGVJTTN1dG0xU0VQZXhGRlV3SmJYRGhsVlNTQ2tHbXFwZlFaampZa2FMbTlCSDMyMm9uX3M?oc=5",
-      "description": "Longest Nifty Losing Streak Since Covid Rediff"
     }
   ]
 }
