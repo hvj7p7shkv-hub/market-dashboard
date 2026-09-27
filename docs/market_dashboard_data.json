@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 13:41 IST",
+  "generated_at": "2026-09-27 14:10 IST",
   "wire_file": "2026-09-27-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,12 +23,12 @@
   },
   "posture": {
     "stance": "Mixed",
-    "wire_count": "18",
-    "wire_total_count": "69",
+    "wire_count": "19",
+    "wire_total_count": "66",
     "wire_scope_date": "2026-09-27",
     "ai_wire_count": "4",
     "selling_wire_count": "2",
-    "india_wire_count": "7",
+    "india_wire_count": "8",
     "weak_index_count": "12",
     "valid_index_count": "23"
   },
@@ -36,12 +36,12 @@
     {
       "label": "Newest Wire · 2026-09-27 07:47",
       "title": "What will drive the stock market next week? Crude oil, global yields in focus - Mathrubhumi English",
-      "text": "Latest dated headline · Mathrubhumi English. Today's unique wire set contains 18 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · Mathrubhumi English. Today's unique wire set contains 19 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-09-27",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-09-27 has 7 India-market wires, 2 selling/risk wires, and 4 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-09-27 has 8 India-market wires, 2 selling/risk wires, and 4 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-09-27",
@@ -22457,7 +22457,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-09-27T13:41:28+05:30",
+    "generated_at": "2026-09-27T14:10:35+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34809,15 +34809,6 @@
       "description": "Flexicap funds - Mutual fund SIPs did better than lumpsum across 5 equity categories in 2 years. Check details The Economic Times"
     },
     {
-      "published": "2026-09-26T08:34:46+00:00",
-      "score": 4.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "BizzBuzz",
-      "title": "Sensex, Nifty Decline for 7th Week as Crude Prices, Bond Yields Rise - BizzBuzz",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQd0pSUUNqWXdjQVhkTV82X09scmdEZ1dqVFd3WWw0RTQyWlN6OW1LYzlJU2NUN0doOXRRQnd6cDJFSnRWaUxrcVc2NW5iZHNiZVU4ZlBDYTRfYzV4VVAzaHJFZS12ckVyLVJ1MjVKa291LUFNSW9kTzJ4U1ZyRmRWaTF5LU1TWlJwYkJLWVZyNkp4VlY2aWozbzVQS0NueEVXMDg5MFoxMW5MWFlKQmoyNndwbGp4Z2NqZnfSAboBQVVfeXFMUHdKUlFDall3Y0FYZE1fNl9PbHJnRGdXalRXd1lsNEU0MlpTejltS2M5SVNjVDdHaDl0UUJ3enAyRUp0VmlMa3FXNjVuYmRzYmVVOGZQQ2E0X2M1eFVQM2hyRWUtdnJFci1SdTI1SmtvdS1BTUlvZE8yeFNWckZkVmkxeS1NU1pScGJCS1lWcjZKeFZWNmlqM281UEtDbnhFVzA4OTBaMTFuTFhZSkJqMjZ3cGxqeGdjamZ3?oc=5",
-      "description": "Sensex, Nifty Decline for 7th Week as Crude Prices, Bond Yields Rise BizzBuzz"
-    },
-    {
       "published": "2026-09-27T07:47:52+00:00",
       "score": 3.0,
       "themes": "['macro / flows']",
@@ -34893,10 +34884,10 @@
       "published": "2026-09-26T16:00:53+00:00",
       "score": 3.0,
       "themes": "[]",
-      "source": "thehindubusinessline.com",
-      "title": "The Quiet Inflation Fighters: How Debt Mutual Funds Protected Purchasing Power - thehindubusinessline.com",
+      "source": "BusinessLine",
+      "title": "The Quiet Inflation Fighters: How Debt Mutual Funds Protected Purchasing Power - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWWFNam1qU3dIbXRDazk5eHU0M01nMG9DVVFLODNFUTk4Q2Nvd0JzTjJpVWFsMVhUZzh5ZGJyaGVxN2JSeUFaUHhDWnBnY2l2Z1VnOS1IeGkwdjNqX295RXdOdGZ1TWpyNS1nZWpZYnlKdEpfQlJfVW11ZmduUmpTUThuWlpud19pN3RnVjFKLVVwTGZZVTNuakppamp0UFJ1R3o4V3pBYWl3R3V0M3d4YVYyVnRuNHIzM3VudEdfRXhjLXJvQjluMGpUN2dIX1paY2YwLWFmWnZyZzVFZGtxZWdlZGZyRTVQQnfSAfABQVVfeXFMT2JXcTNNU3VCLW42OUNPVGxUc0ZkQzA1S0tfdGhFYjB6bEYxRURrU1kwOHhubE5FX1N1dGtqb3F0MTJXRW83NDZ5Q00tc0lkaGUxcFdwZzdsaWw1WnBYUUU0a09ISHU2VF9ESGVsdXBRZDNpaC1VbFBIZGwwMmJESVg2cFE0ekxITXZBYkZzVURJWC02NWs3bVgzNHBnbEFOQlVTQm1uMXhueDd4anlqRlZoTTVRWVRETURCb3BNUTl4T0FfM1hxeGRJUDBnUmhoQmNnTkRiZWVsblRTM0RKNkRQVTBhYVlSTlVQTWRQTE5j?oc=5",
-      "description": "The Quiet Inflation Fighters: How Debt Mutual Funds Protected Purchasing Power thehindubusinessline.com"
+      "description": "The Quiet Inflation Fighters: How Debt Mutual Funds Protected Purchasing Power BusinessLine"
     },
     {
       "published": "2026-09-26T09:34:44+00:00",
@@ -34915,15 +34906,6 @@
       "title": "Small Cap Mutual Funds: 4 low-cost schemes that delivered over 15% CAGR in 3 & 5 years - ET Now",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQSTdPQ04xVThJMW9TR21HNzMwSEZDN2NKM3lNMlBPbGJFZmU2ZE95NFl5OVJ5UVNhMjhRTE9VM3RZbE01X2VqY2pfNXVrOFhPX2lKdHNSWDZRUlRNNGJfWC1hb3VLVUhPQTU2Wjk1b2xYdHBIakN6UEhUVjNHY3NjTkVUMy0zZG4wQS1fVlB5dEVURkhOcmljenJvSHJKUGVDVV9UaElHYWtleW45aDVsMWNRVS1JNTJyTlo1V1dLOHMyQTVQamRMUjJfUFhETnRTNC1QcWI0YmpBSnBNbkpvdm4yeUFrTnNtV0pN0gHrAUFVX3lxTFBJN09DTjFVOEkxb1NHbUc3MzBIRkM3Y0ozeU0yUE9sYkVmZTZkT3k0WXk5UnlRU2EyOFFMT1UzdFlsTTVfZWpjal81dWs4WE9faUp0c1JYNlFSVE00Yl9YLWFvdUtVSE9BNTZaOTVvbFh0cEhqQ3pQSFRWM0djc2NORVQzLTNkbjBBLV9WUHl0RVRGSE5yaWN6cm9IckpQZUNVX1RoSUdha2V5bjloNWwxY1FVLUk1MnJOWjVXV0s4czJBNVBqZExSMl9QWEROdFM0LVBxYjRiakFKcE1uSm92bjJ5QWtOc21XSk0?oc=5",
       "description": "Small Cap Mutual Funds: 4 low-cost schemes that delivered over 15% CAGR in 3 & 5 years ET Now"
-    },
-    {
-      "published": "2026-09-26T08:33:06+00:00",
-      "score": 3.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Markets extend 7-week losing streak as crude, yields and FII selling weigh - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNbmxYcjQ3bFBtM1ZSWERpbWJRX1I1NGpkX1pLS1otajhMVnhZNHFBaF85LVM2dXE3N3djUmNyNFVWX3lOX2xIbG1JZ05SbHdIUHphcW9GU2lBSjVIX2k3SGdDSl9mSXVST1Q1eEUwWGN5SmNsdnNEOTBrWUh4WmlCVDlSZEJrVGl2MG9TRk56Y2tKZjNMZHhyLVZIOTRNSWNJekozTWNIOHd0V2dYTy1tdzUyMVNIX1liUHppNTEzMnpMTEZHYzJacU9fS1BNM0Y2bWJ3VDdnNDPSAd4BQVVfeXFMTzRmNkRETzB2Z2g2RV91QjVSX195eFFpU3RBX2EybS1tM19TZmJ0ejB5X0NXd1FIb3pHY2xRZ0dZOGowc25CX1lUM0ZRRTB2dnZZYkJLd2VOYXowMl9LNk1uQno5WjJkbDlDZzhnWnpQZUM0VGRrd1dVMXJJblVKb1ExMjRSd3dKMlZNa1hTc1RPckNNaXFBS2ZKOXJET09lSHNlYmVoUUc3M2dES09QWWhrbUUtVzR3RTlCNVl2NnBCRVNKZU9KeGMwUVBiTks4U1VnMlhmM1JzYlBhaEZB?oc=5",
-      "description": "Markets extend 7-week losing streak as crude, yields and FII selling weigh Moneycontrol.com"
     },
     {
       "published": "2026-09-27T06:24:00+00:00",
@@ -34983,10 +34965,10 @@
       "published": "2026-09-26T15:41:48+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
-      "source": "thehindubusinessline.com",
-      "title": "FPI equity withdrawals cyclical, money may return as AI boom peaks: NSE MD & CEO Ashish Chauhan - thehindubusinessline.com",
+      "source": "BusinessLine",
+      "title": "FPI equity withdrawals cyclical, money may return as AI boom peaks: NSE MD & CEO Ashish Chauhan - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOTk50YlNNSFJhMXFObUtnUk9lX1FhZ1FmNm4tYUNFU19Tdlc0VkxJZTh3Q21NVlZFUmQ2cnd1TVctSmFQeDNVTTQ0bDlfRGVxVnpoajhJcl9BbElxWVZ2Smc4Ym9MdlBxSVFIWEFrRW0zcDJkTEVsYjYzc0t1TTQxRnljMkl6MmJRQ0VwbjdoeVJ2LTBKaXpmY3F6VmlCN3l3eU9faWpaUUU5ZGI0Mm9WTWdwVl9QaWpFLVJGS28tRVdrSkhoeTRvSkNjTFJVOEZ4R1BhSnUycXlCa19DU2R2T0hJRGRsdWQ5RUhyag?oc=5",
-      "description": "FPI equity withdrawals cyclical, money may return as AI boom peaks: NSE MD & CEO Ashish Chauhan thehindubusinessline.com"
+      "description": "FPI equity withdrawals cyclical, money may return as AI boom peaks: NSE MD & CEO Ashish Chauhan BusinessLine"
     },
     {
       "published": "2026-09-26T12:44:23+00:00",
@@ -35016,15 +34998,6 @@
       "description": "US Crude Stocks Fall as Refiners Step Up Processing, EIA Says EnergyNow.com"
     },
     {
-      "published": "2026-09-26T10:47:00+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "The Times of India",
-      "title": "Why FIIs may not return to Indian stocks even after AI boom fades - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1lxcFNrdjBxc19YSWFoOWh6X3VJSzVLb0FLaXRXYlF0N0dzakRfb3FGMkFGdVVfcEVVelJXTkktOU45clJROHAtekxDNUNwTjc3OEVUZkJ6MFFwbmxxNWVDaEd1YXpRcFFGandXcHZ4R29NRlVrM0c2WEVJcFV2a2dzdldtcVhMNFFUb1c3N0JsMFpMVnNtei1IalpMNTZNMi1iZ3hyQUdKRklmUDMwcThPZ0ZxU1BYQmpDOTNIOGxXcFM1WEVPOWhkWmdhTnJHTS1vY2h2VEhjeWx2ZzRQQjRDSXJDZ9IB6wFBVV95cUxQTGtQQndySmJNZEltOFNSTUdkMndLa3Z4VzZnaWphWk1jbXgxVGl4N2syTFpaZVg2ekhKSDg0Y0VtNmRudUNIYnFVeXVraEdSaEdxc0Z0X291dEpEY1kwa012RVpWVWRCaGwtckRVcFN3M2pybWZLcEJIdG9zRFYxaGJLdDVXRFhwUE5BVXR3eUZDOXZJbU1sd21lRlNWX2hnTVZ0UmtOc3lva1plenNTZkZ4dGZ5R3NHaXNQWlY2aFVWMl9hQ0pTdUE0SGlweHZrNVNpSk5NbXFHRWJDQVhHVGhSUTk0cHBSMURB?oc=5",
-      "description": "Why FIIs may not return to Indian stocks even after AI boom fades The Times of India"
-    },
-    {
       "published": "2026-09-26T09:15:01+00:00",
       "score": 2.0,
       "themes": "['macro / flows']",
@@ -35032,15 +35005,6 @@
       "title": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbm8wM0RSWWRXc1Bzc3daeEpaNnFwZW55Y1FBT19TQUdxYXdrZ2FJeDJGd1EwQk9BbFJTZ2xKNV9Gd1BadEFlZExtZWlxdUZEZHh1RkRIU1lMNEJVR3hkZ2VKWnNGWUVLa1Fha29hcWcyNVR6dEdydjluNGxlN1YybHFabnUzRWdzMTFSWThkNWRRX0NXQ055dWl2dXN3cGw2RUJxSHAyTTFWMnNOeXZ4S0xGQXFjRmhub1lHeVQyRUhUdEpFSGEwM2U1MEFnbExtV1JPRUVNRmV2dUNfZ1BiblROc2IzLVNPclpNRtIB-gFBVV95cUxOT2FRblV0ZG5vNUh2QTZGeldJa2FuRF8xSmRWYUQ4a1NLblFyUmtJNTRCdHB3NENTZUZhdi1Ha1g4aTV6cy1POUl0Njl3bzZNdE1ZRk43bWQwRXZvNGxncTdBaWg3cDNUMHcyRVp3d2ZKRmljNXZwQktjUTZnV3NpWldYMmNoV0ZJSjZONVJjNEQ3d2ZLWXlVREFsd1VFbFdob0xydFJ5dHpFdGIzeERrQU5kcXBubmVLd2RZODE2Skd0Yk92bFNnWG1qUjNnZWRSR2YwaWIxLU91ZHBzTlJVb0twSW5pUnYxb3E1WEJFTWdmQ0tzeVhaZjRR?oc=5",
       "description": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide The New Indian Express"
-    },
-    {
-      "published": "2026-09-26T08:09:05+00:00",
-      "score": 2.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Dalal Street Investment Journal",
-      "title": "Indian Markets Extend Losing Streak to 7 Weeks as Crude, FPI Selling Weigh on Sentiment - Dalal Street Investment Journal",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOTGlNdGhIUTctU1JOaktpaXpqYVV4eFQwXzZicWN2ZFFuazV6cjJ4VlBydGVJR0V4WElVX0drT04weEpjcWthcnlnVUhMY0tCY3hiRzQ3TFdwU3NtSktPdXktQ3o0MVFOZGN6U0E3M2pVUWRwU2pYZWtNamZCaFh3blFaUEc2V3dGQ051WEtxUlItcm5ZWE1lMmkyLXpDWktRMlQwLVNlclV0SEl6Qm1YQkpwOVBHTm4tbTdYMk14Wm5ZdW1remM4ZE1LaUlhZ1lI?oc=5",
-      "description": "Indian Markets Extend Losing Streak to 7 Weeks as Crude, FPI Selling Weigh on Sentiment Dalal Street Investment Journal"
     },
     {
       "published": "2026-09-27T07:17:36+00:00",
@@ -35068,6 +35032,15 @@
       "title": "Week ahead: Oil prices, US 10-Year Treasury yield and NIFTY50 monthly expiry in focus - Dailyhunt",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPUjV6UmYtc0xkbXIyS1RjVlZBclNmNnA1REtGNHlkRkFBV080Wnl6LWl5TUNDVkpBQzc2b1M1RkZZaXFKTjYwNHl5QUV5SWhpMkp2OWFBS01VN21SRW1wYllEMlc3WUtpeEV6bjN5cWdkc0xEdUtfZUxtdjRQQmVNdWZKY3c1dlQ2ejlRZHZfYkE0aS15SFF0R0V2Nmx1cTlMc1d4UlV3aXhwakJPeUdwNVA1UWlQRmtsY0RvbTRNM2JnaEhpeGlMcmI2SmtWRG1PX0RCOGhyWHcxU19BcHhaTDRnYkFHTDlYRmRFaTlvQ1BOVW1WeGc?oc=5",
       "description": "Week ahead: Oil prices, US 10-Year Treasury yield and NIFTY50 monthly expiry in focus Dailyhunt"
+    },
+    {
+      "published": "2026-09-27T05:57:37+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "Nifty Media Prediction for Tomorrow: 28 Sept 2026 - Univest",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOTWx5Y1lYMUFRVzdIemFvS0xXYWN4al9CNXo0MWxpYkllM2hKS0VZT1RubW9VeWhkbExIR2tEVE55RzNZTG1LV05yNzBiTXRUWmhpbVpfRTZwYVNWYnNHaTBndmJ2UEhXeDhXdGZocENlX2pfMV82cDh5VGNIZGhPaUxIQ3hEcGNvSmZ4czZn?oc=5",
+      "description": "Nifty Media Prediction for Tomorrow: 28 Sept 2026 Univest"
     },
     {
       "published": "2026-09-27T02:09:01+00:00",
@@ -35167,6 +35140,15 @@
       "title": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHpueUl2V3JaZUhDaElyaDdlTzFYSDkwS0ZfSkxfYm1oRkxHTm1LdE9IeGtYNFRMUEpMODdqdkZEcHZ4dlJoLXNrZW9iTjJFa2gwbkJXRVZjUmhXRDNYbVFJSGJjOFFEZDZGX29ISW9jb3pwX2VxZDlCNmVldVRkM2hUZXNVc3FQOU9pZHlPMW04UUJub0dBNzNiUkQzQm1iSjRfUnpHWjgzSHYzMnk2aEgybXBTOFlROF9jSFI2N3hKbFVrQjFPdkxNRGs3VXM?oc=5",
       "description": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' Stocktwits"
+    },
+    {
+      "published": "2026-09-26T17:07:22+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Stocktwits",
+      "title": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUUZQWmFQeUFjSDJCUkRQUlEzLWwyN0hhMWUtRGdNNHNTcVkwUVRHUEpUZXAxUG5zS2YzQ0FERTdtTXM0SnE4NjM1QndheV85a3NZUEFBT3FBVzEzV3RUTG5id3ltZ3hWX1NTdWtQdWkwdmlGckZuTzNiM18tV0dhNzhhUjZUTHoxbUZrQ2RsSDdJUTBlUXViSmNtNjIwaHBWS1lRYzNwMlI4cGFKOFdzN2hnUEdxUk9pWXVVeHhXa1Q?oc=5",
+      "description": "CRWV, NBIS Stocks Climb – Nvidia’s $250B OpenAI Guarantee Is A ‘Constructive’ Signal, Says Analyst Stocktwits"
     },
     {
       "published": "2026-09-26T16:00:21+00:00",
@@ -35271,10 +35253,19 @@
       "published": "2026-09-26T11:08:42+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "quantumzeitgeist.com",
-      "title": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts - quantumzeitgeist.com",
+      "source": "Quantum Zeitgeist",
+      "title": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts - Quantum Zeitgeist",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WR29EV2VBNzhCQ1Q5YmtWZlJvejl1emVYXzU3bDVGblhCeG1pZDFEWVJPb1B4SzNUY213aEhaQVRieTdfbTgtZGJ5aTVFNDVNZUZCTmV0NXF4dktWcUdhU0xNanYybUxWLWNkM3UxUERuZlhMQlE?oc=5",
-      "description": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts quantumzeitgeist.com"
+      "description": "QC Design’s Meridian AI Designs Quantum Circuits Better Than Experts Quantum Zeitgeist"
+    },
+    {
+      "published": "2026-09-26T10:47:00+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "timesofindia.indiatimes.com",
+      "title": "Why FIIs may not return to Indian stocks even after AI boom fades - timesofindia.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNY1lxcFNrdjBxc19YSWFoOWh6X3VJSzVLb0FLaXRXYlF0N0dzakRfb3FGMkFGdVVfcEVVelJXTkktOU45clJROHAtekxDNUNwTjc3OEVUZkJ6MFFwbmxxNWVDaEd1YXpRcFFGandXcHZ4R29NRlVrM0c2WEVJcFV2a2dzdldtcVhMNFFUb1c3N0JsMFpMVnNtei1IalpMNTZNMi1iZ3hyQUdKRklmUDMwcThPZ0ZxU1BYQmpDOTNIOGxXcFM1WEVPOWhkWmdhTnJHTS1vY2h2VEhjeWx2ZzRQQjRDSXJDZ9IB6wFBVV95cUxQTGtQQndySmJNZEltOFNSTUdkMndLa3Z4VzZnaWphWk1jbXgxVGl4N2syTFpaZVg2ekhKSDg0Y0VtNmRudUNIYnFVeXVraEdSaEdxc0Z0X291dEpEY1kwa012RVpWVWRCaGwtckRVcFN3M2pybWZLcEJIdG9zRFYxaGJLdDVXRFhwUE5BVXR3eUZDOXZJbU1sd21lRlNWX2hnTVZ0UmtOc3lva1plenNTZkZ4dGZ5R3NHaXNQWlY2aFVWMl9hQ0pTdUE0SGlweHZrNVNpSk5NbXFHRWJDQVhHVGhSUTk0cHBSMURB?oc=5",
+      "description": "Why FIIs may not return to Indian stocks even after AI boom fades timesofindia.indiatimes.com"
     },
     {
       "published": "2026-09-26T10:38:34+00:00",
@@ -35365,24 +35356,6 @@
       "title": "Nifty at key 23,000 support: Can bulls trigger a technical rebound? - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYktmdFdoaVRnZVJ5X1hnUld2Vm5kT3R6V29pNmFHQ2NqRThQbXIxYl9zRzNnUkZzblotTEhBWmJJWVZJWWE5bThTSlB5a1d1STJQVktlazlsVV9UOEs0X1hwLThkYjdlN08tRlV6dnp4WTBaUGgzYWVyTmJHbXRQeU1nQ2hEZVlyR2tNX3FCQnJDdUxwVEQ3NnlndWlfbjRhbUNNdUJIR09vdHBqVkY1SzdiMlRGX1BRUUN2Zm1CaUZyUGE2NjFwZHg4TzdXU3lhUlBNddIB2gFBVV95cUxPV0tJTU1oejhva0ZGWVV6Vm9yZWUxNjFGc2VBR3VEVTlrQllaWGtCSUxSVFJUc2dGc0Q2a2xHWWRnd3FrQ3VGQXFiN3FGdk9qUlNvQ3BaWElidnp2Zy1YajIxQm9ORWNnaDJNWGZYS1gydEJ3SUtRV2xEVEhnVFJBY2EwSTRhYWZ3QkNSNF9wQ3pSNzJjVVM4YUdIZFppZmE0UU1FVDV3b2EtRVJ3MXoyODBwdzZkbURNX0NFYjJQV2Z4WGt2ekpmNk1LUTZqMkhCV1oxNGdueEJRdw?oc=5",
       "description": "Nifty at key 23,000 support: Can bulls trigger a technical rebound? The Economic Times"
-    },
-    {
-      "published": "2026-09-26T08:36:05+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Dynamite News",
-      "title": "ETF Investors Alert! BSE Warns Of Sharp Correction Risk In International Funds - Dynamite News",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOVJLcVZkeF85b2dkemplUEUwYUJueHZJUVVBbDltR0NiUEg4eVBSbkZnUWZvcEhKSllJVlE3bTl0eUFZS2dwSi1MblJGU0lFZHE0VmdsLURXSjFGcGFkeEpNVk5iNnptbFcxUy1Cck13OC10SXAtTE9IbWN5eDRqdWtQUFQxdVR2Qmx5ckszaHNtLXJGSjRrOGZ3b0k0TUZnX1IxbHhnMVVMc3lHaEl6cG1ZS1h3Z9IBuwFBVV95cUxPVm1ZUGpLbHdMS0huVjhrRERMXzlwUTFGbDFEazN3Y0V3bnNyd0xTQnFxMmt4TFlvNjhpUUVmRXg1MTdsZGo4ME40bzZRV2N4SV9VX0tNUHhSTXJEMmZrdjFuXzJ5TmdaVnFJZnFwVWtteE1qdk9Qb3piaEdDOWN5RkdJc1phNVQ2VF9US19wVnRUdmhSQlltUmJDZGhKVS1BbTBodWhjSnNUb1ZySkswOGhBREdDMmFIQUlz?oc=5",
-      "description": "ETF Investors Alert! BSE Warns Of Sharp Correction Risk In International Funds Dynamite News"
-    },
-    {
-      "published": "2026-09-26T08:22:16+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Times of India",
-      "title": "Today’s Platinum Price in Arcot – Live Platinum Rate per Gram & Kg | 26 September 2026 - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRTlubFBGVFpFY19iQlVEVWY1WUt4OGdSNFhrSHFmeUVhZmtDbkhvNG1QX1prNG5PTVcxRVU5Ukt1ZmdzNE5sV2dsNFVROHNXMWYtTEdrWnZ6Rnd4U2xiSWJTVmNVZEZKRnRJWkJBU2h5OE1pR0h2OXNacTNndElYU2tBLUdGTDlwOVkzNGZmV3V5bEU?oc=5",
-      "description": "Today’s Platinum Price in Arcot – Live Platinum Rate per Gram & Kg | 26 September 2026 The Times of India"
     }
   ]
 }
