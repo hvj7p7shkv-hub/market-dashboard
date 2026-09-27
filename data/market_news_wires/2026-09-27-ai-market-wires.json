@@ -1,20 +1,5 @@
 [
   {
-    "title": "Nifty, Sensex fall for 7th straight week amid rising crude prices, bond yields - IBTimes India",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXljS2lJMkFpaml6eFlpbWlabVU3cURURE5TZnduZG11ZGpuV2JfZ3A4S25XTmJESGdXalhNdzdmcnB2YVNQbElVZTVLU3Z3Ykh1ZHVwb0ZfYURYbXV6dnp2Rl9UR1AyNnppM0FMYnRacWFxcXFNSjN6UC13Y0ZtYVhkaFI5YWc5VGhBYVdXSTV5cWVETzJIS0d3RXZnOXlldE9pUy1yWVg?oc=5",
-    "description": "Nifty, Sensex fall for 7th straight week amid rising crude prices, bond yields IBTimes India",
-    "published": "2026-09-26T06:00:29+00:00",
-    "source": "IBTimes India",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 10
-  },
-  {
     "title": "BSE SENSEX Plunges to 73,580.54 in Steepest Fall in 10 Weeks as IRDAI Proposals Hit Financials - BBN Times",
     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdndCcUxtYS1YV2tyenF1cXJkdllLVDNfVURMbEMxWnFld2JNQnVhelExU0V4VF90N1RycTNZUVQ4U1hucXVyc2d3bWpCbktEelBPR3A1Q0Q4QmF1ZExldGQzWlhyOHh2T0U3OXVScU00ZFJOV2lYNDVXQm1FYXlXeC1GamtPZG1NbDlkcS1zNElaOTlQTzJiTHVuTXdXTDVVTXRVcUdGNjdlcUhjbEZrbmp2eWpaVU5MeUYwOGIyM0l3ZHVNTU1iMQ?oc=5",
     "description": "BSE SENSEX Plunges to 73,580.54 in Steepest Fall in 10 Weeks as IRDAI Proposals Hit Financials BBN Times",
@@ -199,6 +184,20 @@
     "score": 2
   },
   {
+    "title": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff — Analyst Says Shares Are ‘Attractively Priced’ Now - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRl9kUWgxNkUwaTFDWS1DdGpfVEs5RzBBSm9KekxsZXRnZElWclF4YWFtb1N4V0w3MGVnQ3pUTzlQZ0NuOWxoRE1CR3JsSGwyRXYycUdRNkc5V09UaGVvTUV0dC0zSkNoY0tETjVwb2s2Wll0cWhENHNDZlI0TXBPVVdVWEp1TFdUY3M0S2VzVVMyX21obG95YjlvSXZSMk5zY3l5MFNTend5b013X3pQenRMQjlFelYtREFLcFJoSUs?oc=5",
+    "description": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff — Analyst Says Shares Are ‘Attractively Priced’ Now Stocktwits",
+    "published": "2026-09-26T19:36:27+00:00",
+    "source": "Stocktwits",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "macro / flows"
+    ],
+    "score": 2
+  },
+  {
     "title": "Real Estate Stocks Fall as Treasury Yields Push Investors Toward Technology - tokenpost.com",
     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kNGcyaXAwazF2ZXcyell5RlJZeVYzUkFYQjJvelp3enVJTmJuLVpSOGYtNzdudEtVcy11a0x6ZlNkajFuS1lidC1BNk5lZkx3TEdzQVMwLTJTdw?oc=5",
     "description": "Real Estate Stocks Fall as Treasury Yields Push Investors Toward Technology tokenpost.com",
@@ -255,11 +254,11 @@
     "score": 2
   },
   {
-    "title": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed - ad-hoc-news.de",
+    "title": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed - AD HOC NEWS",
     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEJYM2NETl9TTnpDMTZ5Z0JXT2ZxUWtjU0R4ZU1ScVR5WHItZmt0U3BZMTRsb25ncGJMWnMwYVBrN0hPYXBtblVTLTJ2LURPUXBKS0N1OWFYaTZMRTlSczVlZjVEZzI3UkZCM18tNjlOMzlCT3FXWVcwVFlCaDh3a2NldzdELTlGUjhGTll0cG5OcW5QcVFEcVBYcWlwNjVrMTFuMTI0cEpLWV9pNE9rRW5HNHFIVlduMUZtOVdYZFJybzZFaVF2QjdFdG1kMUZTNG03bHVOMVZQZw?oc=5",
-    "description": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed ad-hoc-news.de",
+    "description": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed AD HOC NEWS",
     "published": "2026-09-26T12:41:15+00:00",
-    "source": "ad-hoc-news.de",
+    "source": "AD HOC NEWS",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -310,11 +309,11 @@
     "score": 2
   },
   {
-    "title": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide - newindianexpress.com",
+    "title": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide - The New Indian Express",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbm8wM0RSWWRXc1Bzc3daeEpaNnFwZW55Y1FBT19TQUdxYXdrZ2FJeDJGd1EwQk9BbFJTZ2xKNV9Gd1BadEFlZExtZWlxdUZEZHh1RkRIU1lMNEJVR3hkZ2VKWnNGWUVLa1Fha29hcWcyNVR6dEdydjluNGxlN1YybHFabnUzRWdzMTFSWThkNWRRX0NXQ055dWl2dXN3cGw2RUJxSHAyTTFWMnNOeXZ4S0xGQXFjRmhub1lHeVQyRUhUdEpFSGEwM2U1MEFnbExtV1JPRUVNRmV2dUNfZ1BiblROc2IzLVNPclpNRtIB-gFBVV95cUxOT2FRblV0ZG5vNUh2QTZGeldJa2FuRF8xSmRWYUQ4a1NLblFyUmtJNTRCdHB3NENTZUZhdi1Ha1g4aTV6cy1POUl0Njl3bzZNdE1ZRk43bWQwRXZvNGxncTdBaWg3cDNUMHcyRVp3d2ZKRmljNXZwQktjUTZnV3NpWldYMmNoV0ZJSjZONVJjNEQ3d2ZLWXlVREFsd1VFbFdob0xydFJ5dHpFdGIzeERrQU5kcXBubmVLd2RZODE2Skd0Yk92bFNnWG1qUjNnZWRSR2YwaWIxLU91ZHBzTlJVb0twSW5pUnYxb3E1WEJFTWdmQ0tzeVhaZjRR?oc=5",
-    "description": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide newindianexpress.com",
+    "description": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide The New Indian Express",
     "published": "2026-09-26T09:15:01+00:00",
-    "source": "newindianexpress.com",
+    "source": "The New Indian Express",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -345,6 +344,20 @@
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
+      "India market"
+    ],
+    "score": 2
+  },
+  {
+    "title": "From AI models to agents: Sarvam’s Kumar, Emergent’s Jha map India’s next five years - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObEIxSGFGYkxVYkV5VXV4OVh1YnBrSDJSck1DNGtwTEtQdjk0ejRrYjc1VzM0WGt6Q2Fqb2E5NDhfOUVFbFphZ1R6aURRVE1DcWlIZ284dTdSZU1odzBQWXpmbEFhSXFGUFlBQ3pPYi1mZnNmQWhYT3F3YTFiWDh6NkNfSUFSQ3dHT19OU1dJM2tSekFYX19MTXlhSThSQlJjcFdzcWp2NklCb1ZXZ0lxUk9fSmItQUpmUDh5Q2JYVGJUbVRrcjE4VEwyYWZoQ2VKblFzR2NFS25TZ0U4VzN3dzN0WFBRZ9IB5gFBVV95cUxObEIxSGFGYkxVYkV5VXV4OVh1YnBrSDJSck1DNGtwTEtQdjk0ejRrYjc1VzM0WGt6Q2Fqb2E5NDhfOUVFbFphZ1R6aURRVE1DcWlIZ284dTdSZU1odzBQWXpmbEFhSXFGUFlBQ3pPYi1mZnNmQWhYT3F3YTFiWDh6NkNfSUFSQ3dHT19OU1dJM2tSekFYX19MTXlhSThSQlJjcFdzcWp2NklCb1ZXZ0lxUk9fSmItQUpmUDh5Q2JYVGJUbVRrcjE4VEwyYWZoQ2VKblFzR2NFS25TZ0U4VzN3dzN0WFBRZw?oc=5",
+    "description": "From AI models to agents: Sarvam’s Kumar, Emergent’s Jha map India’s next five years Moneycontrol.com",
+    "published": "2026-09-26T06:22:27+00:00",
+    "source": "Moneycontrol.com",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
       "India market"
     ],
     "score": 2
@@ -428,6 +441,19 @@
     "score": 1
   },
   {
+    "title": "Can Verizon And Charter Win Over Wall Street? Here’s What Analysts Expect From Q2 Earnings Today - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTV92emt4WnZWSWVUV2VCRUtkZXZyeUpCY0dpMjhJUWlvQ0s3QkRfdmxWeW1jczR4dmUwU2M4SFJ1ZXF0dzZjRnJOa3NxRE5COFFFT2tHbDZwSnhZajdONEVNaHRZajl4VXh5bmhidU02SVN2NmJUT0tkSHFtb082UDdfZXE2R1E5MWw4ZTBwMkVvN0xDVzJXZU9TZzB3Q0NFQUJjMzRCUklGVXk0VE9wOVdiZDVwVGs3LTJGZy1PYzRyam9EZWxQd21JSUs4RVIxc045eFcwbnYzNkJwUzhEd2s4T0pKZUxUanpwdUNmdlk?oc=5",
+    "description": "Can Verizon And Charter Win Over Wall Street? Here’s What Analysts Expect From Q2 Earnings Today Stocktwits",
+    "published": "2026-09-26T20:47:18+00:00",
+    "source": "Stocktwits",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "macro / flows"
+    ],
+    "score": 1
+  },
+  {
     "title": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' - Stocktwits",
     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOZHpueUl2V3JaZUhDaElyaDdlTzFYSDkwS0ZfSkxfYm1oRkxHTm1LdE9IeGtYNFRMUEpMODdqdkZEcHZ4dlJoLXNrZW9iTjJFa2gwbkJXRVZjUmhXRDNYbVFJSGJjOFFEZDZGX29ISW9jb3pwX2VxZDlCNmVldVRkM2hUZXNVc3FQOU9pZHlPMW04UUJub0dBNzNiUkQzQm1iSjRfUnpHWjgzSHYzMnk2aEgybXBTOFlROF9jSFI2N3hKbFVrQjFPdkxNRGs3VXM?oc=5",
     "description": "AMD Stock Slips Despite Wave Of Price Target Hikes – Retail Traders Say Chip Rally Is 'Starting To Look Exhausted' Stocktwits",
@@ -467,11 +493,11 @@
     "score": 1
   },
   {
-    "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - tradingview.com",
+    "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - TradingView",
     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMjRWNGhxNjZDM2tfdkNQbkNvVnQzMWJIY3ZLVG8tOXVSektBNFVDbDZuVktPSTdCZ0FjWGlJc1AxblBiekw5UXhhR0Nub3lESERHVFpSb0F2ZTBRVExITWZYTlE0VF9qTHpTSlhSVTBhU040YVNYbkUzMzBieE5CWTBqNzJjMjU4djlWM21qajVoLXZyS0g2WTdJYzVGQnU2ZTAtM0pFTzNLLVhocHFGRzYyTFBMZlhvTHpHTmYxYTN3Zi1MeUc2YkUzMExDdEFDUTYwQWNGX1llVXM?oc=5",
-    "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology tradingview.com",
+    "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology TradingView",
     "published": "2026-09-26T16:00:21+00:00",
-    "source": "tradingview.com",
+    "source": "TradingView",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -545,11 +571,11 @@
     "score": 1
   },
   {
-    "title": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul - linkedin.com",
+    "title": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul - LinkedIn",
     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUdYckd5Y2pPQUg1MHZTaHlTT1ZXWTdmTGxwSWlMcE9NQm1vNE15dk9qS25VanFnTzk3c0FHTEpwaGcxXzhmekh2dUNLM2s5Zy1USHBjMHRfakhvYndNanZrV19NZVFMY1hjOHZsektLSVZoS2tTNkdzMEJTeExiS3ZVbDVRWTNWVjZ3MWVmSzhnZDVvT2d2YnEwZGJLRUp3QXhxTDVfSUc5TTdvTXIw?oc=5",
-    "description": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul linkedin.com",
+    "description": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul LinkedIn",
     "published": "2026-09-26T13:51:13+00:00",
-    "source": "linkedin.com",
+    "source": "LinkedIn",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -649,11 +675,11 @@
     "score": 1
   },
   {
-    "title": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers - univest.in",
+    "title": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers - Univest",
     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fd2g4dGdDejI1My1SYTVYeXJhaUJJMm5Tcm5SUk9oS0lWZ2JnRk56YnhkeTZtbVJJaFNkWDVsb2dEbWhOVzF4QmVzNl9mTWhIcmZmT1ZraUZ5V0JTaGlNRmJFa0thaVFSRS1ha3lJSFZPZw?oc=5",
-    "description": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers univest.in",
+    "description": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers Univest",
     "published": "2026-09-26T09:59:54+00:00",
-    "source": "univest.in",
+    "source": "Univest",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -740,19 +766,6 @@
     "score": 1
   },
   {
-    "title": "FIIs remain net sellers for sixth week, offload ₹11,490 crore; DIIs buy ₹16,398 crore - Fortune India",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjJJYTBGN2g2TXJKdnhRcHAxNUg0NWpMNThGVHB2UkVtTFdnMjkxSmk5UEl0YzVPNnVoMk1jV0VWM1pWeVZ3aGd1V2E2Tk5UVmZmOHNyY3pKbWtpNk5oQXUxOURuSlhpR1B3YnNPZ2pRbWY3TW1PRWZBVnZzcW5vLTFXclBkTlIzdUNvMmZQaFctOHVIZzhseFhWQ21KUW5nQTVXMEJfSHBndlNxZ0xuOWktRW1Xd3Z0RVFzdE5Ed3VhNy0yTDgyYnlUWGZEZ9IBzgFBVV95cUxNSjJJYTBGN2g2TXJKdnhRcHAxNUg0NWpMNThGVHB2UkVtTFdnMjkxSmk5UEl0YzVPNnVoMk1jV0VWM1pWeVZ3aGd1V2E2Tk5UVmZmOHNyY3pKbWtpNk5oQXUxOURuSlhpR1B3YnNPZ2pRbWY3TW1PRWZBVnZzcW5vLTFXclBkTlIzdUNvMmZQaFctOHVIZzhseFhWQ21KUW5nQTVXMEJfSHBndlNxZ0xuOWktRW1Xd3Z0RVFzdE5Ed3VhNy0yTDgyYnlUWGZEZw?oc=5",
-    "description": "FIIs remain net sellers for sixth week, offload ₹11,490 crore; DIIs buy ₹16,398 crore Fortune India",
-    "published": "2026-09-26T08:57:49+00:00",
-    "source": "Fortune India",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
     "title": "Nifty at key 23,000 support: Can bulls trigger a technical rebound? - The Economic Times",
     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYktmdFdoaVRnZVJ5X1hnUld2Vm5kT3R6V29pNmFHQ2NqRThQbXIxYl9zRzNnUkZzblotTEhBWmJJWVZJWWE5bThTSlB5a1d1STJQVktlazlsVV9UOEs0X1hwLThkYjdlN08tRlV6dnp4WTBaUGgzYWVyTmJHbXRQeU1nQ2hEZVlyR2tNX3FCQnJDdUxwVEQ3NnlndWlfbjRhbUNNdUJIR09vdHBqVkY1SzdiMlRGX1BRUUN2Zm1CaUZyUGE2NjFwZHg4TzdXU3lhUlBNddIB2gFBVV95cUxPV0tJTU1oejhva0ZGWVV6Vm9yZWUxNjFGc2VBR3VEVTlrQllaWGtCSUxSVFJUc2dGc0Q2a2xHWWRnd3FrQ3VGQXFiN3FGdk9qUlNvQ3BaWElidnp2Zy1YajIxQm9ORWNnaDJNWGZYS1gydEJ3SUtRV2xEVEhnVFJBY2EwSTRhYWZ3QkNSNF9wQ3pSNzJjVVM4YUdIZFppZmE0UU1FVDV3b2EtRVJ3MXoyODBwdzZkbURNX0NFYjJQV2Z4WGt2ekpmNk1LUTZqMkhCV1oxNGdueEJRdw?oc=5",
     "description": "Nifty at key 23,000 support: Can bulls trigger a technical rebound? The Economic Times",
@@ -762,19 +775,6 @@
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? - FXLeaders",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUVNeUZhNEpBRks2ak5HblRWVTBLY3k0dGZ1TmpsVkpmZ1NVODJYeFY4cDU0cU1MUXpRdXlqUjRoMmNOTGtfTmM3RTJzZWhfOHhVTGVjMjRJLUNfN1FoOVFXOHByblozZkpPcUdUT1lMc2ViaDBTcWloX3RkSDhCSUlLWGRQNWJPVGdiY3RiTWJZdS0wU3NvdjdtdXJ5OHRydzNUTQ?oc=5",
-    "description": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? FXLeaders",
-    "published": "2026-09-26T08:39:57+00:00",
-    "source": "FXLeaders",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk"
     ],
     "score": 1
   },
@@ -890,19 +890,6 @@
     "source": "ANI News",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull o - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFU5RDBkUHRUb3Z1LXpQbHJIbk1YX3oxcVROOTViSkpKTVowVFAxTGJOZFR2RUxyOGVick84MXhYY3Y2aDZQcVB4QTdGQ1dmSDhzMzVNbnR4ZVZoTjJvX1U1VHluRE1CdndhMTFNejhnalB4OV85QVlESG9vN0R1UzlqMmZDak5xVFNMVjBWdG45MDlKQUxTN050akJmb0NtRXA1OXp5czB3VmFZWlBNbm1HQ0cxa0h3SVRmZExnaGJUTmQybDBoMTVHSWc1R1VFMmhDcF95clhXUmhWWG9EUWg4LXBqcVJ1dUl1YUlaUy1xV0lMU1ZWQmRpOEFRa2VhSkVkdzQtUE85YmY3b2lYUkR5ZlRPLWtQaXl2Vmtn0gGjAkFVX3lxTE9tblVCZlhhV0cwYnlzVUNaelYtYXhRUWtRN2dyX3hISVZvOEJYSFNCZFdpYzlkSnlXams4QUM5alhyYUQ4ZFJnVy0tTjU0c2V0akFSeFoxb3dtODI2SDhockdaQTFTRlhjbTFZV05GUXRyNDh5SFFKT2NPWTBpVUhrY2VnSVRNM0lnTjBUZ1dDN1hyOHVHV2RZa1QxNVFhN1haV2JfYUVndFkydXRYWkRfRHJPd0pFWDd2cGxNVzFfTFdOVmRYTmxxRkhQdWxFV2FsTkRHelNGMk9EOXJUWDhCYnNWako2aEVaYVZoMUJoT0s4QkQ4LTVfa1QzX2gxZ2lSNDZUaGtVY19jZmF6cGY1elppQ1pFZnlZYTI1TE8xeHZUUQ?oc=5",
-    "description": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull o The Economic Times",
-    "published": "2026-09-26T05:46:59+00:00",
-    "source": "The Economic Times",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],

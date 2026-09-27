@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27 11:10 IST",
+  "generated_at": "2026-09-27 11:40 IST",
   "wire_file": "2026-09-27-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -24,7 +24,7 @@
   "posture": {
     "stance": "India relief, AI overhang",
     "wire_count": "11",
-    "wire_total_count": "69",
+    "wire_total_count": "68",
     "wire_scope_date": "2026-09-27",
     "ai_wire_count": "5",
     "selling_wire_count": "1",
@@ -22457,7 +22457,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-09-27T11:10:10+05:30",
+    "generated_at": "2026-09-27T11:40:39+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34764,15 +34764,6 @@
   ],
   "wires": [
     {
-      "published": "2026-09-26T06:00:29+00:00",
-      "score": 10.0,
-      "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "IBTimes India",
-      "title": "Nifty, Sensex fall for 7th straight week amid rising crude prices, bond yields - IBTimes India",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWXljS2lJMkFpaml6eFlpbWlabVU3cURURE5TZnduZG11ZGpuV2JfZ3A4S25XTmJESGdXalhNdzdmcnB2YVNQbElVZTVLU3Z3Ykh1ZHVwb0ZfYURYbXV6dnp2Rl9UR1AyNnppM0FMYnRacWFxcXFNSjN6UC13Y0ZtYVhkaFI5YWc5VGhBYVdXSTV5cWVETzJIS0d3RXZnOXlldE9pUy1yWVg?oc=5",
-      "description": "Nifty, Sensex fall for 7th straight week amid rising crude prices, bond yields IBTimes India"
-    },
-    {
       "published": "2026-09-26T07:50:05+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -34899,6 +34890,15 @@
       "description": "Why Did AI Semiconductors Surge After the Fed’s Rate Hike? Sahm"
     },
     {
+      "published": "2026-09-26T19:36:27+00:00",
+      "score": 2.0,
+      "themes": "['market selling', 'macro / flows']",
+      "source": "Stocktwits",
+      "title": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff — Analyst Says Shares Are ‘Attractively Priced’ Now - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRl9kUWgxNkUwaTFDWS1DdGpfVEs5RzBBSm9KekxsZXRnZElWclF4YWFtb1N4V0w3MGVnQ3pUTzlQZ0NuOWxoRE1CR3JsSGwyRXYycUdRNkc5V09UaGVvTUV0dC0zSkNoY0tETjVwb2s2Wll0cWhENHNDZlI0TXBPVVdVWEp1TFdUY3M0S2VzVVMyX21obG95YjlvSXZSMk5zY3l5MFNTend5b013X3pQenRMQjlFelYtREFLcFJoSUs?oc=5",
+      "description": "META Stock Outperformed GOOG, TSLA In July Despite Earnings Selloff — Analyst Says Shares Are ‘Attractively Priced’ Now Stocktwits"
+    },
+    {
       "published": "2026-09-26T19:03:52+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
@@ -34938,10 +34938,10 @@
       "published": "2026-09-26T12:41:15+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk']",
-      "source": "ad-hoc-news.de",
-      "title": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed - ad-hoc-news.de",
+      "source": "AD HOC NEWS",
+      "title": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed - AD HOC NEWS",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQNEJYM2NETl9TTnpDMTZ5Z0JXT2ZxUWtjU0R4ZU1ScVR5WHItZmt0U3BZMTRsb25ncGJMWnMwYVBrN0hPYXBtblVTLTJ2LURPUXBKS0N1OWFYaTZMRTlSczVlZjVEZzI3UkZCM18tNjlOMzlCT3FXWVcwVFlCaDh3a2NldzdELTlGUjhGTll0cG5OcW5QcVFEcVBYcWlwNjVrMTFuMTI0cEpLWV9pNE9rRW5HNHFIVlduMUZtOVdYZFJybzZFaVF2QjdFdG1kMUZTNG03bHVOMVZQZw?oc=5",
-      "description": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed ad-hoc-news.de"
+      "description": "BlackRock's Chip ETF Grew Its Share Count Even as Semiconductor Stocks Whipsawed AD HOC NEWS"
     },
     {
       "published": "2026-09-26T11:49:00+00:00",
@@ -34974,10 +34974,10 @@
       "published": "2026-09-26T09:15:01+00:00",
       "score": 2.0,
       "themes": "['macro / flows']",
-      "source": "newindianexpress.com",
-      "title": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide - newindianexpress.com",
+      "source": "The New Indian Express",
+      "title": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide - The New Indian Express",
       "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbm8wM0RSWWRXc1Bzc3daeEpaNnFwZW55Y1FBT19TQUdxYXdrZ2FJeDJGd1EwQk9BbFJTZ2xKNV9Gd1BadEFlZExtZWlxdUZEZHh1RkRIU1lMNEJVR3hkZ2VKWnNGWUVLa1Fha29hcWcyNVR6dEdydjluNGxlN1YybHFabnUzRWdzMTFSWThkNWRRX0NXQ055dWl2dXN3cGw2RUJxSHAyTTFWMnNOeXZ4S0xGQXFjRmhub1lHeVQyRUhUdEpFSGEwM2U1MEFnbExtV1JPRUVNRmV2dUNfZ1BiblROc2IzLVNPclpNRtIB-gFBVV95cUxOT2FRblV0ZG5vNUh2QTZGeldJa2FuRF8xSmRWYUQ4a1NLblFyUmtJNTRCdHB3NENTZUZhdi1Ha1g4aTV6cy1POUl0Njl3bzZNdE1ZRk43bWQwRXZvNGxncTdBaWg3cDNUMHcyRVp3d2ZKRmljNXZwQktjUTZnV3NpWldYMmNoV0ZJSjZONVJjNEQ3d2ZLWXlVREFsd1VFbFdob0xydFJ5dHpFdGIzeERrQU5kcXBubmVLd2RZODE2Skd0Yk92bFNnWG1qUjNnZWRSR2YwaWIxLU91ZHBzTlJVb0twSW5pUnYxb3E1WEJFTWdmQ0tzeVhaZjRR?oc=5",
-      "description": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide newindianexpress.com"
+      "description": "Weekly Review| Indian markets under pressure: Oil, outflows and global yields extend the seven-week slide The New Indian Express"
     },
     {
       "published": "2026-09-26T08:09:05+00:00",
@@ -34996,6 +34996,15 @@
       "title": "D-Street Bloodbath: Sensex Plummets 893 Pts, Nifty Slides Below 23,850 on Global Rout - The Indian Awaaz",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMklLNFlQYTdqR1I4SDNMNWxnODhNVkJaSGFYLU9sYlpsdkhrN1VDQWNPZlJzVzUyM0FSZUdTM3hYaHI4UDIzZ0lKMDFfUlM5LVdGemF6UjkxNWhFSG5FZWxJV3pRWkZTbVlHTHliN3lTUmtidHZSSjVRbEVzUHR1U21wWnA5MnFmN3pIeG9TQlA4OHFyNldoM1BCdzdSamlRM0tDaFY1SzA5Mk1SWlBJ?oc=5",
       "description": "D-Street Bloodbath: Sensex Plummets 893 Pts, Nifty Slides Below 23,850 on Global Rout The Indian Awaaz"
+    },
+    {
+      "published": "2026-09-26T06:22:27+00:00",
+      "score": 2.0,
+      "themes": "['AI / tech risk', 'India market']",
+      "source": "Moneycontrol.com",
+      "title": "From AI models to agents: Sarvam’s Kumar, Emergent’s Jha map India’s next five years - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObEIxSGFGYkxVYkV5VXV4OVh1YnBrSDJSck1DNGtwTEtQdjk0ejRrYjc1VzM0WGt6Q2Fqb2E5NDhfOUVFbFphZ1R6aURRVE1DcWlIZ284dTdSZU1odzBQWXpmbEFhSXFGUFlBQ3pPYi1mZnNmQWhYT3F3YTFiWDh6NkNfSUFSQ3dHT19OU1dJM2tSekFYX19MTXlhSThSQlJjcFdzcWp2NklCb1ZXZ0lxUk9fSmItQUpmUDh5Q2JYVGJUbVRrcjE4VEwyYWZoQ2VKblFzR2NFS25TZ0U4VzN3dzN0WFBRZ9IB5gFBVV95cUxObEIxSGFGYkxVYkV5VXV4OVh1YnBrSDJSck1DNGtwTEtQdjk0ejRrYjc1VzM0WGt6Q2Fqb2E5NDhfOUVFbFphZ1R6aURRVE1DcWlIZ284dTdSZU1odzBQWXpmbEFhSXFGUFlBQ3pPYi1mZnNmQWhYT3F3YTFiWDh6NkNfSUFSQ3dHT19OU1dJM2tSekFYX19MTXlhSThSQlJjcFdzcWp2NklCb1ZXZ0lxUk9fSmItQUpmUDh5Q2JYVGJUbVRrcjE4VEwyYWZoQ2VKblFzR2NFS25TZ0U4VzN3dzN0WFBRZw?oc=5",
+      "description": "From AI models to agents: Sarvam’s Kumar, Emergent’s Jha map India’s next five years Moneycontrol.com"
     },
     {
       "published": "2026-09-27T04:35:39+00:00",
@@ -35052,6 +35061,15 @@
       "description": "The AI Bull Has Met the Price of Money thedarksideoftheboom.substack.com"
     },
     {
+      "published": "2026-09-26T20:47:18+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "Stocktwits",
+      "title": "Can Verizon And Charter Win Over Wall Street? Here’s What Analysts Expect From Q2 Earnings Today - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTV92emt4WnZWSWVUV2VCRUtkZXZyeUpCY0dpMjhJUWlvQ0s3QkRfdmxWeW1jczR4dmUwU2M4SFJ1ZXF0dzZjRnJOa3NxRE5COFFFT2tHbDZwSnhZajdONEVNaHRZajl4VXh5bmhidU02SVN2NmJUT0tkSHFtb082UDdfZXE2R1E5MWw4ZTBwMkVvN0xDVzJXZU9TZzB3Q0NFQUJjMzRCUklGVXk0VE9wOVdiZDVwVGs3LTJGZy1PYzRyam9EZWxQd21JSUs4RVIxc045eFcwbnYzNkJwUzhEd2s4T0pKZUxUanpwdUNmdlk?oc=5",
+      "description": "Can Verizon And Charter Win Over Wall Street? Here’s What Analysts Expect From Q2 Earnings Today Stocktwits"
+    },
+    {
       "published": "2026-09-26T17:49:02+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35082,10 +35100,10 @@
       "published": "2026-09-26T16:00:21+00:00",
       "score": 1.0,
       "themes": "['macro / flows']",
-      "source": "tradingview.com",
-      "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - tradingview.com",
+      "source": "TradingView",
+      "title": "Real estate stocks slump amid rising bond yields, sector rotation into technology - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPMjRWNGhxNjZDM2tfdkNQbkNvVnQzMWJIY3ZLVG8tOXVSektBNFVDbDZuVktPSTdCZ0FjWGlJc1AxblBiekw5UXhhR0Nub3lESERHVFpSb0F2ZTBRVExITWZYTlE0VF9qTHpTSlhSVTBhU040YVNYbkUzMzBieE5CWTBqNzJjMjU4djlWM21qajVoLXZyS0g2WTdJYzVGQnU2ZTAtM0pFTzNLLVhocHFGRzYyTFBMZlhvTHpHTmYxYTN3Zi1MeUc2YkUzMExDdEFDUTYwQWNGX1llVXM?oc=5",
-      "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology tradingview.com"
+      "description": "Real estate stocks slump amid rising bond yields, sector rotation into technology TradingView"
     },
     {
       "published": "2026-09-26T15:38:01+00:00",
@@ -35136,10 +35154,10 @@
       "published": "2026-09-26T13:51:13+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "linkedin.com",
-      "title": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul - linkedin.com",
+      "source": "LinkedIn",
+      "title": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul - LinkedIn",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUdYckd5Y2pPQUg1MHZTaHlTT1ZXWTdmTGxwSWlMcE9NQm1vNE15dk9qS25VanFnTzk3c0FHTEpwaGcxXzhmekh2dUNLM2s5Zy1USHBjMHRfakhvYndNanZrV19NZVFMY1hjOHZsektLSVZoS2tTNkdzMEJTeExiS3ZVbDVRWTNWVjZ3MWVmSzhnZDVvT2d2YnEwZGJLRUp3QXhxTDVfSUc5TTdvTXIw?oc=5",
-      "description": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul linkedin.com"
+      "description": "🚦 Indian Markets Stuck In A Jam! But who's responsible for the traffic? 🤔 A Bernstein note argues that India’s large caps are stuck in a bygone economic era. But here's the BIG question: 🇮🇳 Is The Market’s Fate Really In India’s Hands? 🌍 Or are global cues pul LinkedIn"
     },
     {
       "published": "2026-09-26T13:00:00+00:00",
@@ -35208,10 +35226,10 @@
       "published": "2026-09-26T09:59:54+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "univest.in",
-      "title": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers - univest.in",
+      "source": "Univest",
+      "title": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers - Univest",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fd2g4dGdDejI1My1SYTVYeXJhaUJJMm5Tcm5SUk9oS0lWZ2JnRk56YnhkeTZtbVJJaFNkWDVsb2dEbWhOVzF4QmVzNl9mTWhIcmZmT1ZraUZ5V0JTaGlNRmJFa0thaVFSRS1ha3lJSFZPZw?oc=5",
-      "description": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers univest.in"
+      "description": "Nifty Mid Select Today: Price, Breadth, Gainers & Losers Univest"
     },
     {
       "published": "2026-09-26T09:45:59+00:00",
@@ -35268,15 +35286,6 @@
       "description": "Nifty Bank Live | NSE Nifty Bank Index Today - S&P CNX Nifty Bank The Economic Times"
     },
     {
-      "published": "2026-09-26T08:57:49+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Fortune India",
-      "title": "FIIs remain net sellers for sixth week, offload ₹11,490 crore; DIIs buy ₹16,398 crore - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSjJJYTBGN2g2TXJKdnhRcHAxNUg0NWpMNThGVHB2UkVtTFdnMjkxSmk5UEl0YzVPNnVoMk1jV0VWM1pWeVZ3aGd1V2E2Tk5UVmZmOHNyY3pKbWtpNk5oQXUxOURuSlhpR1B3YnNPZ2pRbWY3TW1PRWZBVnZzcW5vLTFXclBkTlIzdUNvMmZQaFctOHVIZzhseFhWQ21KUW5nQTVXMEJfSHBndlNxZ0xuOWktRW1Xd3Z0RVFzdE5Ed3VhNy0yTDgyYnlUWGZEZ9IBzgFBVV95cUxNSjJJYTBGN2g2TXJKdnhRcHAxNUg0NWpMNThGVHB2UkVtTFdnMjkxSmk5UEl0YzVPNnVoMk1jV0VWM1pWeVZ3aGd1V2E2Tk5UVmZmOHNyY3pKbWtpNk5oQXUxOURuSlhpR1B3YnNPZ2pRbWY3TW1PRWZBVnZzcW5vLTFXclBkTlIzdUNvMmZQaFctOHVIZzhseFhWQ21KUW5nQTVXMEJfSHBndlNxZ0xuOWktRW1Xd3Z0RVFzdE5Ed3VhNy0yTDgyYnlUWGZEZw?oc=5",
-      "description": "FIIs remain net sellers for sixth week, offload ₹11,490 crore; DIIs buy ₹16,398 crore Fortune India"
-    },
-    {
       "published": "2026-09-26T08:51:07+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -35284,15 +35293,6 @@
       "title": "Nifty at key 23,000 support: Can bulls trigger a technical rebound? - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYktmdFdoaVRnZVJ5X1hnUld2Vm5kT3R6V29pNmFHQ2NqRThQbXIxYl9zRzNnUkZzblotTEhBWmJJWVZJWWE5bThTSlB5a1d1STJQVktlazlsVV9UOEs0X1hwLThkYjdlN08tRlV6dnp4WTBaUGgzYWVyTmJHbXRQeU1nQ2hEZVlyR2tNX3FCQnJDdUxwVEQ3NnlndWlfbjRhbUNNdUJIR09vdHBqVkY1SzdiMlRGX1BRUUN2Zm1CaUZyUGE2NjFwZHg4TzdXU3lhUlBNddIB2gFBVV95cUxPV0tJTU1oejhva0ZGWVV6Vm9yZWUxNjFGc2VBR3VEVTlrQllaWGtCSUxSVFJUc2dGc0Q2a2xHWWRnd3FrQ3VGQXFiN3FGdk9qUlNvQ3BaWElidnp2Zy1YajIxQm9ORWNnaDJNWGZYS1gydEJ3SUtRV2xEVEhnVFJBY2EwSTRhYWZ3QkNSNF9wQ3pSNzJjVVM4YUdIZFppZmE0UU1FVDV3b2EtRVJ3MXoyODBwdzZkbURNX0NFYjJQV2Z4WGt2ekpmNk1LUTZqMkhCV1oxNGdueEJRdw?oc=5",
       "description": "Nifty at key 23,000 support: Can bulls trigger a technical rebound? The Economic Times"
-    },
-    {
-      "published": "2026-09-26T08:39:57+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "FXLeaders",
-      "title": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? - FXLeaders",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMUVNeUZhNEpBRks2ak5HblRWVTBLY3k0dGZ1TmpsVkpmZ1NVODJYeFY4cDU0cU1MUXpRdXlqUjRoMmNOTGtfTmM3RTJzZWhfOHhVTGVjMjRJLUNfN1FoOVFXOHByblozZkpPcUdUT1lMc2ViaDBTcWloX3RkSDhCSUlLWGRQNWJPVGdiY3RiTWJZdS0wU3NvdjdtdXJ5OHRydzNUTQ?oc=5",
-      "description": "Texas Instruments Stock Forecast: Can AI Demand Push TXN Above $279 Next Week? FXLeaders"
     },
     {
       "published": "2026-09-26T08:36:05+00:00",
@@ -35374,15 +35374,6 @@
       "title": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein - ANI News",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVl5RlBJSFVSV1JjSEhyUEdobUNOTnIxU3JmVi1RVko3alV4TWJFWEgtbWRpeFY5bXJyOS02eVBfdEtUUE1tYUNJMjlZeDRvSFFKQjh3U3NuTkFoX2NzT2FyVlJydWs1eGtGWUJyVFZCNWRIQ3ZDWXJEWlNCV2lNTUVqbl9zYUlOeS01Rm9sazNmRkVnSFZ5b0xldzlaRjVlNUIyTGIyT3RoQjJ0V3BheFpGVUxySE9HbWo5Y01GZzR1RzIxRnQ0X2Z3cGtfbUFkUGFJ?oc=5",
       "description": "FIIs unlikely to return in large numbers without new growth engines in India: Bernstein ANI News"
-    },
-    {
-      "published": "2026-09-26T05:46:59+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull o - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQTFU5RDBkUHRUb3Z1LXpQbHJIbk1YX3oxcVROOTViSkpKTVowVFAxTGJOZFR2RUxyOGVick84MXhYY3Y2aDZQcVB4QTdGQ1dmSDhzMzVNbnR4ZVZoTjJvX1U1VHluRE1CdndhMTFNejhnalB4OV85QVlESG9vN0R1UzlqMmZDak5xVFNMVjBWdG45MDlKQUxTN050akJmb0NtRXA1OXp5czB3VmFZWlBNbm1HQ0cxa0h3SVRmZExnaGJUTmQybDBoMTVHSWc1R1VFMmhDcF95clhXUmhWWG9EUWg4LXBqcVJ1dUl1YUlaUy1xV0lMU1ZWQmRpOEFRa2VhSkVkdzQtUE85YmY3b2lYUkR5ZlRPLWtQaXl2Vmtn0gGjAkFVX3lxTE9tblVCZlhhV0cwYnlzVUNaelYtYXhRUWtRN2dyX3hISVZvOEJYSFNCZFdpYzlkSnlXams4QUM5alhyYUQ4ZFJnVy0tTjU0c2V0akFSeFoxb3dtODI2SDhockdaQTFTRlhjbTFZV05GUXRyNDh5SFFKT2NPWTBpVUhrY2VnSVRNM0lnTjBUZ1dDN1hyOHVHV2RZa1QxNVFhN1haV2JfYUVndFkydXRYWkRfRHJPd0pFWDd2cGxNVzFfTFdOVmRYTmxxRkhQdWxFV2FsTkRHelNGMk9EOXJUWDhCYnNWako2aEVaYVZoMUJoT0s4QkQ4LTVfa1QzX2gxZ2lSNDZUaGtVY19jZmF6cGY1elppQ1pFZnlZYTI1TE8xeHZUUQ?oc=5",
-      "description": "Nifty logs 7th straight weekly loss for the first time in 6 years: Time to be fearful, or can bulls pull o The Economic Times"
     }
   ]
 }
