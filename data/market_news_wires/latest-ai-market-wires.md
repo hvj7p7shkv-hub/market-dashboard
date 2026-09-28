@@ -1,22 +1,32 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-28 07:38
+Generated: 2026-09-28 08:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. Sensex Falls Over 1,000 Points, Nifty Drops Below 22,900 As Oil Prices And Global Yields Hit Markets - Free Press Journal
+### 1. Nifty 50, Sensex Trade Lower as Oil Prices Rise; MidCap and SmallCap Indices Fall Over 1% - Dalal Street Investment Journal
+
+- Source: Dalal Street Investment Journal
+- Published: 2026-09-28T07:44:35+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 10
+- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxONlRvM1Z5bjNvOTI0a0hXdnFPWnpXRHZPbFBVVFJPWTRHa0lYYVhVc1czeU9SUVN2ZlBiQ3dyZDhET29ucDhTeURtZUVLbFNfRVdXaHQtS3M5Q2hycGxfY3BLZ0EweEpuUjhUalczd3pqQlRib1JyNVZpVnJ6ZkdiS2J5bmMyYXdZeHozUWdJVkg1aW15RkdIWEVyOFI0SUhYLXZHQ0dqRUlBWVVFZkI5cUJXVjUzeENIYWJwWWZLc0pSTi1veDc5RHFJZ2VrQzZf?oc=5
+
+Nifty 50, Sensex Trade Lower as Oil Prices Rise; MidCap and SmallCap Indices Fall Over 1% Dalal Street Investment Journal
+
+### 2. Sensex Falls Over 1,000 Points, Nifty Drops Below 22,900 As Oil Prices And Global Yields Hit Markets - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-28T06:05:05+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 10
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNUzFnQnE4aEFxQXI2dFNFMXRzM0YzdlBuZWZwV2Q4dU02QV83MkpvTDZIU1laLW9TU0sweTQ2T2tkbjdnX0oyQWlzNkJ0RHhMVVN1LUJUcjJoYnJTRkZldW8xQ1Y5azl2OXZjMjZ5OUlSeldabGpZa2puNnZvWkVOUzl5MDNDZ3NGMmFSb2F6ZGtrbmY2eEtsWFkzXzhwYUJQQk9WUWdpckg3ZkxOLTZtY2xDT1RUOUtKX2JGZ0lSM0ZaTlFXcHVrU19GZnBHM2tCSy0xZdIB2gFBVV95cUxPUTRYVE50Z2tSS01UZ3hwRU1FSy0zUGlnOVlWS1BaODY4VG9aOG9XTmphdm0zLThwSEdtZDhYakFhTl9jUllsVjBrNVlwcnRHOWJWUjY0UWFWSkhsOF95X1NtU3JKX2dUcm8yaDdWRnZSanFIa0hvZ1QtWExZcVpXVmw4MUVuRE4zUFU2cXFucEFJMHVSM29GSi1EV21taWNrWFZfc2dac2tFU28xRDdfaHZ2YnczeV9XdHloTHA2bndHaWVkM2JUQ2s4NGFWRkE3azRzQUxpTEZwdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPUTRYVE50Z2tSS01UZ3hwRU1FSy0zUGlnOVlWS1BaODY4VG9aOG9XTmphdm0zLThwSEdtZDhYakFhTl9jUllsVjBrNVlwcnRHOWJWUjY0UWFWSkhsOF95X1NtU3JKX2dUcm8yaDdWRnZSanFIa0hvZ1QtWExZcVpXVmw4MUVuRE4zUFU2cXFucEFJMHVSM29GSi1EV21taWNrWFZfc2dac2tFU28xRDdfaHZ2YnczeV9XdHloTHA2bndHaWVkM2JUQ2s4NGFWRkE3azRzQUxpTEZwd9IB2gFBVV95cUxPUTRYVE50Z2tSS01UZ3hwRU1FSy0zUGlnOVlWS1BaODY4VG9aOG9XTmphdm0zLThwSEdtZDhYakFhTl9jUllsVjBrNVlwcnRHOWJWUjY0UWFWSkhsOF95X1NtU3JKX2dUcm8yaDdWRnZSanFIa0hvZ1QtWExZcVpXVmw4MUVuRE4zUFU2cXFucEFJMHVSM29GSi1EV21taWNrWFZfc2dac2tFU28xRDdfaHZ2YnczeV9XdHloTHA2bndHaWVkM2JUQ2s4NGFWRkE3azRzQUxpTEZwdw?oc=5
 
 Sensex Falls Over 1,000 Points, Nifty Drops Below 22,900 As Oil Prices And Global Yields Hit Markets Free Press Journal
 
-### 2. India Stock Market Live Updates Today: Why Is Sensex Falling Over 900 Points? Nifty Slips Below 23,000 As Crude Crosses $100; Check 5 Key Reasons Behind The Sell-Off - The Sunday Guardian
+### 3. India Stock Market Live Updates Today: Why Is Sensex Falling Over 900 Points? Nifty Slips Below 23,000 As Crude Crosses $100; Check 5 Key Reasons Behind The Sell-Off - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-09-28T05:58:17+00:00
@@ -26,7 +36,7 @@ Sensex Falls Over 1,000 Points, Nifty Drops Below 22,900 As Oil Prices And Globa
 
 India Stock Market Live Updates Today: Why Is Sensex Falling Over 900 Points? Nifty Slips Below 23,000 As Crude Crosses $100; Check 5 Key Reasons Behind The Sell-Off The Sunday Guardian
 
-### 3. Nifty Sensex drops 1% each as Iran US Conflict and FII Outflows raise concern - India Infoline
+### 4. Nifty Sensex drops 1% each as Iran US Conflict and FII Outflows raise concern - India Infoline
 
 - Source: India Infoline
 - Published: 2026-09-28T05:42:47+00:00
@@ -36,7 +46,7 @@ India Stock Market Live Updates Today: Why Is Sensex Falling Over 900 Points? Ni
 
 Nifty Sensex drops 1% each as Iran US Conflict and FII Outflows raise concern India Infoline
 
-### 4. Chinese stocks hit one-year low as tech selloff deepens on Nvidia chip, US sanctions reports - Moneycontrol.com
+### 5. Chinese stocks hit one-year low as tech selloff deepens on Nvidia chip, US sanctions reports - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-28T05:01:22+00:00
@@ -46,7 +56,7 @@ Nifty Sensex drops 1% each as Iran US Conflict and FII Outflows raise concern In
 
 Chinese stocks hit one-year low as tech selloff deepens on Nvidia chip, US sanctions reports Moneycontrol.com
 
-### 5. 28 September, 2026 Stock Market Updates: Sensex drops 161 points, Nifty below 23,100 as brent crude surges - India TV News
+### 6. 28 September, 2026 Stock Market Updates: Sensex drops 161 points, Nifty below 23,100 as brent crude surges - India TV News
 
 - Source: India TV News
 - Published: 2026-09-28T03:55:49+00:00
@@ -56,7 +66,7 @@ Chinese stocks hit one-year low as tech selloff deepens on Nvidia chip, US sanct
 
 28 September, 2026 Stock Market Updates: Sensex drops 161 points, Nifty below 23,100 as brent crude surges India TV News
 
-### 6. Stock Market: NSE Nifty50 trades below 22,900, Nifty Bank falls 1,000 points, BSE Sensex tumbles over 1,000 p - India.com
+### 7. Stock Market: NSE Nifty50 trades below 22,900, Nifty Bank falls 1,000 points, BSE Sensex tumbles over 1,000 p - India.com
 
 - Source: India.com
 - Published: 2026-09-28T06:34:00+00:00
@@ -66,7 +76,7 @@ Chinese stocks hit one-year low as tech selloff deepens on Nvidia chip, US sanct
 
 Stock Market: NSE Nifty50 trades below 22,900, Nifty Bank falls 1,000 points, BSE Sensex tumbles over 1,000 p India.com
 
-### 7. Sensex Falls 900 Points as Crude, FPI Selling Weigh on Markets - Business Viewpoint Magazine
+### 8. Sensex Falls 900 Points as Crude, FPI Selling Weigh on Markets - Business Viewpoint Magazine
 
 - Source: Business Viewpoint Magazine
 - Published: 2026-09-28T06:01:25+00:00
@@ -76,7 +86,7 @@ Stock Market: NSE Nifty50 trades below 22,900, Nifty Bank falls 1,000 points, BS
 
 Sensex Falls 900 Points as Crude, FPI Selling Weigh on Markets Business Viewpoint Magazine
 
-### 8. Nifty breaks below 23,000, Sensex tumbles 665 points as oil climbs, expiry volatility looms - KalingaTV
+### 9. Nifty breaks below 23,000, Sensex tumbles 665 points as oil climbs, expiry volatility looms - KalingaTV
 
 - Source: KalingaTV
 - Published: 2026-09-28T05:51:29+00:00
@@ -86,7 +96,7 @@ Sensex Falls 900 Points as Crude, FPI Selling Weigh on Markets Business Viewpoin
 
 Nifty breaks below 23,000, Sensex tumbles 665 points as oil climbs, expiry volatility looms KalingaTV
 
-### 9. Asian stocks slip as oil prices rise, India's NIFTY falls below 23,000 - FXStreet
+### 10. Asian stocks slip as oil prices rise, India's NIFTY falls below 23,000 - FXStreet
 
 - Source: FXStreet
 - Published: 2026-09-28T05:24:07+00:00
@@ -96,7 +106,7 @@ Nifty breaks below 23,000, Sensex tumbles 665 points as oil climbs, expiry volat
 
 Asian stocks slip as oil prices rise, India's NIFTY falls below 23,000 FXStreet
 
-### 10. GIFT Nifty falls, signals weak start for Sensex, Nifty; oil rebounds above $106 on US-Iran tensions - Moneycontrol.com
+### 11. GIFT Nifty falls, signals weak start for Sensex, Nifty; oil rebounds above $106 on US-Iran tensions - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-28T02:45:10+00:00
@@ -106,7 +116,27 @@ Asian stocks slip as oil prices rise, India's NIFTY falls below 23,000 FXStreet
 
 GIFT Nifty falls, signals weak start for Sensex, Nifty; oil rebounds above $106 on US-Iran tensions Moneycontrol.com
 
-### 11. AI bubble bursts? Fitch warns market correction could tip US into recession - Firstpost
+### 12. AI-driven market correction could push US into recession, global growth below 1%: Fitch - ChiniMandi
+
+- Source: ChiniMandi
+- Published: 2026-09-28T08:02:36+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNQmlvWkE4QzNFM1R2YVVUdVFpWXBPSFRKcjBuQVNLQWlZUTBOTjJOVjNMOVFHcHpNaDkyV1g2MnJsbGVvWXpNaTBQM0haSUVnTGJQV3hSVEVjb1I3dXkzNFZwR0FQbHctOU4zVEZ1ekY4WndBbTJXUk1zNG5PSzNmOXJPNEFpZEZma0FPemFqeTlFVzdhVTZnWnNzVHRGX0FSc1RJM1FPc25zeVVQb2twOTFR?oc=5
+
+AI-driven market correction could push US into recession, global growth below 1%: Fitch ChiniMandi
+
+### 13. PB Fintech, Zydus Life, PC Jeweller among buzzing stocks as SENSEX tanks over 900 pts; NIFTY falls 1.3% - upstox.com
+
+- Source: upstox.com
+- Published: 2026-09-28T07:44:06+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxORzhOSDhiTEJhWjJNUmoxeDV4dW5QZWpMU2xEMkk1aUFTSXphejBSWW5DLXhIYTJyb0JHRWp3SHZWQkxDa0pOdzJaLWd0YWNPSFZlUnpQaG9hQmNtR1NfOXlYOGUzajlMdzdiUjJDV19GeXN3SW1JZ1JMX0E2Z1VmaWtQWkswQUI2WERlNnB5bS1uTi1ZVzUwM2pEamNadHpzWnBGUU1Wbm5TWUhuT0d4ODJPU2tUbWJfMF8zeEZ0UlZPX3FpdWVFNkJFRUxVV1cxN0tfZFZIWlNOblVQWmdJZkRhM1RpbEhQVTVWNUNVWQ?oc=5
+
+PB Fintech, Zydus Life, PC Jeweller among buzzing stocks as SENSEX tanks over 900 pts; NIFTY falls 1.3% upstox.com
+
+### 14. AI bubble bursts? Fitch warns market correction could tip US into recession - Firstpost
 
 - Source: Firstpost
 - Published: 2026-09-28T06:38:20+00:00
@@ -116,7 +146,7 @@ GIFT Nifty falls, signals weak start for Sensex, Nifty; oil rebounds above $106 
 
 AI bubble bursts? Fitch warns market correction could tip US into recession Firstpost
 
-### 12. Sensex Falls 1,000 Points, Nifty Below 23,000 - english.dainikjagranmpcg.com
+### 15. Sensex Falls 1,000 Points, Nifty Below 23,000 - english.dainikjagranmpcg.com
 
 - Source: english.dainikjagranmpcg.com
 - Published: 2026-09-28T05:41:24+00:00
@@ -126,7 +156,7 @@ AI bubble bursts? Fitch warns market correction could tip US into recession Firs
 
 Sensex Falls 1,000 Points, Nifty Below 23,000 english.dainikjagranmpcg.com
 
-### 13. Sensex Tumbles 730 Points, Nifty Falls 231 Points In Early Trade - Deccan Chronicle
+### 16. Sensex Tumbles 730 Points, Nifty Falls 231 Points In Early Trade - Deccan Chronicle
 
 - Source: Deccan Chronicle
 - Published: 2026-09-28T05:28:21+00:00
@@ -136,7 +166,7 @@ Sensex Falls 1,000 Points, Nifty Below 23,000 english.dainikjagranmpcg.com
 
 Sensex Tumbles 730 Points, Nifty Falls 231 Points In Early Trade Deccan Chronicle
 
-### 14. Stock market crash today: BSE Sensex crashes over 1,000 points, Nifty50 below 22,850 - top reasons for fall - The Times of India
+### 17. Stock market crash today: BSE Sensex crashes over 1,000 points, Nifty50 below 22,850 - top reasons for fall - The Times of India
 
 - Source: The Times of India
 - Published: 2026-09-28T05:18:00+00:00
@@ -146,7 +176,7 @@ Sensex Tumbles 730 Points, Nifty Falls 231 Points In Early Trade Deccan Chronicl
 
 Stock market crash today: BSE Sensex crashes over 1,000 points, Nifty50 below 22,850 - top reasons for fall The Times of India
 
-### 15. India VIX Jumps 14% as Nifty Falls Below 23,000 - HDFC Sky
+### 18. India VIX Jumps 14% as Nifty Falls Below 23,000 - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-28T05:12:54+00:00
@@ -156,7 +186,7 @@ Stock market crash today: BSE Sensex crashes over 1,000 points, Nifty50 below 22
 
 India VIX Jumps 14% as Nifty Falls Below 23,000 HDFC Sky
 
-### 16. Sensex falls 900 points, Nifty slips below 23,000 | Sensex has dipped over 14% so far this year | Inshorts - Inshorts
+### 19. Sensex falls 900 points, Nifty slips below 23,000 | Sensex has dipped over 14% so far this year | Inshorts - Inshorts
 
 - Source: Inshorts
 - Published: 2026-09-28T05:07:59+00:00
@@ -166,7 +196,7 @@ India VIX Jumps 14% as Nifty Falls Below 23,000 HDFC Sky
 
 Sensex falls 900 points, Nifty slips below 23,000 | Sensex has dipped over 14% so far this year | Inshorts Inshorts
 
-### 17. PSU stocks down today, September 28: MRPL falls 4.45%, Bank of Maharashtra down 3.48%, Bank of India drops 3.33% - Business Upturn
+### 20. PSU stocks down today, September 28: MRPL falls 4.45%, Bank of Maharashtra down 3.48%, Bank of India drops 3.33% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-28T05:00:32+00:00
@@ -176,7 +206,7 @@ Sensex falls 900 points, Nifty slips below 23,000 | Sensex has dipped over 14% s
 
 PSU stocks down today, September 28: MRPL falls 4.45%, Bank of Maharashtra down 3.48%, Bank of India drops 3.33% Business Upturn
 
-### 18. Sensex Falls 588 Points, Nifty Slips Below 23,000 - HDFC Sky
+### 21. Sensex Falls 588 Points, Nifty Slips Below 23,000 - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-28T04:57:55+00:00
@@ -186,7 +216,7 @@ PSU stocks down today, September 28: MRPL falls 4.45%, Bank of Maharashtra down 
 
 Sensex Falls 588 Points, Nifty Slips Below 23,000 HDFC Sky
 
-### 19. Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid global uncertainties - Mid-Day
+### 22. Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid global uncertainties - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-09-28T04:46:00+00:00
@@ -196,7 +226,7 @@ Sensex Falls 588 Points, Nifty Slips Below 23,000 HDFC Sky
 
 Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid global uncertainties Mid-Day
 
-### 20. Stock Market Today: Sensex Falls 900 Points, Nifty Below 22,900 - INDToday
+### 23. Stock Market Today: Sensex Falls 900 Points, Nifty Below 22,900 - INDToday
 
 - Source: INDToday
 - Published: 2026-09-28T04:44:07+00:00
@@ -206,7 +236,17 @@ Sensex tanks 856 points, Nifty falls nearly 275 points in early trade amid globa
 
 Stock Market Today: Sensex Falls 900 Points, Nifty Below 22,900 INDToday
 
-### 21. Stock Market Today: Sensex falls over 450 points; Nifty nears 23,000; Metal, Bank stocks drag - Zee Business
+### 24. Why is market down today: Sensex, Nifty fall in Monday trade - Top 3 factors behind plunge - livemint.com
+
+- Source: livemint.com
+- Published: 2026-09-28T04:25:31+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb2JZRzNjNjBpV29mRkZobTRsNWJaVExQeWMxZmw0WjYzZnhCNktBQm5Hdmw0U3NrVGlrYm9abFZwRlZvendEZldPMlNlVGtqVFZ0ZC1rclZGci1yb3BjbVJ1YUlta1VYM3pBMl9kbXh1VjA4ZmtURl85S0Z4OTR0cDFyWXdkU1FiZ1JVdEZ4eVBPSUtJMk9RMnFJQUpxdjRiNmNHQzdmbnRwbGNjZUFJZkVXYV9yc3p3SlF2TDFkWk8tT3hnNkZPc1JTb3c1dkZ0MS12S09LWE9vaWV0SUhOOVpGUmRrZkJxbW9XQdIB8gFBVV95cUxNVVJKdDl3emc1ZEJXb2ROY3hadnZaaXlhZEtTZmZ1RjZFNFE1VVdJTnNxVFJFRWRlaTZaUGl3ckg2dzRfY2ZXTWxvS0dWVV9ibktOOGlsWjVmVDQ4YUN3aVlLaXA1anJ6YmdNRUM4UzRrZTJxWkE5UERZbmZJR2ZHQ3phMlg2bldoWDhBT2U4bVY4SnF2c1JiQkVHdXVVSGMwTVFJVG1GckhxdURSdkpMdUpfSUNQOWo5VjNxS3FEeGRNVzZiX0UzUVozR3JXMHduVzF0S2xnMVdhYVFaNEJmOHZvZGhfbkNmY2lMYlU2Y19wdw?oc=5
+
+Why is market down today: Sensex, Nifty fall in Monday trade - Top 3 factors behind plunge livemint.com
+
+### 25. Stock Market Today: Sensex falls over 450 points; Nifty nears 23,000; Metal, Bank stocks drag - Zee Business
 
 - Source: Zee Business
 - Published: 2026-09-28T03:49:58+00:00
@@ -216,7 +256,7 @@ Stock Market Today: Sensex Falls 900 Points, Nifty Below 22,900 INDToday
 
 Stock Market Today: Sensex falls over 450 points; Nifty nears 23,000; Metal, Bank stocks drag Zee Business
 
-### 22. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
+### 26. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-27T19:23:51+00:00
@@ -226,17 +266,37 @@ Stock Market Today: Sensex falls over 450 points; Nifty nears 23,000; Metal, Ban
 
 NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms Stocktwits
 
-### 23. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
+### 27. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - goodreturns.in
 
-- Source: Goodreturns
+- Source: goodreturns.in
 - Published: 2026-09-27T13:36:10+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5
 
-Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? Goodreturns
+Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? goodreturns.in
 
-### 24. Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward, Says Motilal Oswal; ICICI, SBI, Adani Ent, Among Top Nifty Stock Picks - NDTV Profit
+### 28. FIIs cut stake in 12 smallcap stocks over 2 quarters; shares fall up to 50% in CY26 - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-09-28T08:00:42+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQSW5UNVZuQXNQWU9sX0VoS1VQT2pmU0prUk13WDdHbG1lV3JKT1NfcXlONWpSTFBxU2FLV0pKS0lCNDJTaVVJcjJ1eFJONnlqN1p1NmctX2hjOE9xelVOcmtNMjRXMTRudzNIY0lvekFMTkZxcEo3aW5UVGRuWU9aTXBwUmRVTHIwMWplcXpld0xNMVZ4R2pqODZGdHd6ZGNyV0xKUHFpc1otaXJ6czRPQkJuU1ZiRkk1VnRKNS1hbzlUSnhoMDh3ZGRNRjM2UDh1MGRCM2h0SXV4ekpyeDRNamJzOWhGcUE3?oc=5
+
+FIIs cut stake in 12 smallcap stocks over 2 quarters; shares fall up to 50% in CY26 The Economic Times
+
+### 29. Sensex falls over 1,000 points despite 7.8% GDP growth - NewsBytes
+
+- Source: NewsBytes
+- Published: 2026-09-28T07:41:22+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQajBvVnVlTWY3TFhwUkwxRmo0S3R2dWhIOUppREVDc0R1eWFoQVV4bUNjWGkzT3NRN2h3djhfS1lQTVdQWWh4ZEo4ZTY2YnVLb3FCY0tjb3Z5eU9wOWZxMUdOU2owT3phd29xdmpiMmxpUjhnQ2N1WTFMSDBIaXFMcUZJbWRDeFFvNnJ5OUZhXzJEQ2I2N1ljNHJ6NF9LOUJR?oc=5
+
+Sensex falls over 1,000 points despite 7.8% GDP growth NewsBytes
+
+### 30. Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward, Says Motilal Oswal; ICICI, SBI, Adani Ent, Among Top Nifty Stock Picks - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-09-28T06:59:45+00:00
@@ -246,7 +306,7 @@ Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts
 
 Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward, Says Motilal Oswal; ICICI, SBI, Adani Ent, Among Top Nifty Stock Picks NDTV Profit
 
-### 25. Video | Nifty Valuations Cool Down After Sharp Correction: Motilal Oswal - NDTV Profit
+### 31. Video | Nifty Valuations Cool Down After Sharp Correction: Motilal Oswal - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-09-28T06:47:06+00:00
@@ -256,7 +316,7 @@ Market Strategy: Sharp Fall From 2024 Peak Boosts Risk-Reward, Says Motilal Oswa
 
 Video | Nifty Valuations Cool Down After Sharp Correction: Motilal Oswal NDTV Profit
 
-### 26. Nifty Prediction Today – September 28, 2026: Nifty 50 Futures: Bearish; more fall is on the cards - BusinessLine
+### 32. Nifty Prediction Today – September 28, 2026: Nifty 50 Futures: Bearish; more fall is on the cards - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-09-28T05:06:00+00:00
@@ -266,17 +326,17 @@ Video | Nifty Valuations Cool Down After Sharp Correction: Motilal Oswal NDTV Pr
 
 Nifty Prediction Today – September 28, 2026: Nifty 50 Futures: Bearish; more fall is on the cards BusinessLine
 
-### 27. Tata Teleservices surges 7%, Physicswallah falls up to 4% at Nifty 500 market open - CNBC TV18
+### 33. Tata Teleservices surges 7%, Physicswallah falls up to 4% at Nifty 500 market open - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-09-28T04:27:03+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRGhscEdyRjVxY3lIemtUb1hVWHlTVHpZaFBpV2gtdUJZdGZHQWF2bWQwU3Q3TEhMWkVTMkctUkJOS3lUTktDT2dHUDB2cGp3T19wQnJlMkV2Tlh5ZkRHdDBIVnlBLThXZkIxYTdESUdGZTZfVHdfXzk4ZDk3Ynk1SzFRX24xYnJrdFg3TjMweUdSMkxtTGFDbkVDTEEyeF9EeUw0c1BBRzM1cjJERnJUWlVsOWJKVS15QWJDeF85WkxKOF9NTGczQm9sd3NJUnFZV2pILVZKR3dILXBiMWpVc2RtQ2tWX1VKVjlhZHFiMnRhd9IB8gFBVV95cUxPRGhscEdyRjVxY3lIemtUb1hVWHlTVHpZaFBpV2gtdUJZdGZHQWF2bWQwU3Q3TEhMWkVTMkctUkJOS3lUTktDT2dHUDB2cGp3T19wQnJlMkV2Tlh5ZkRHdDBIVnlBLThXZkIxYTdESUdGZTZfVHdfXzk4ZDk3Ynk1SzFRX24xYnJrdFg3TjMweUdSMkxtTGFDbkVDTEEyeF9EeUw0c1BBRzM1cjJERnJUWlVsOWJKVS15QWJDeF85WkxKOF9NTGczQm9sd3NJUnFZV2pILVZKR3dILXBiMWpVc2RtQ2tWX1VKVjlhZHFiMnRhdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSUFvQmMtVEFCWmhqcnhfMnlEUndackg1bnFhQk5NRmEwcXU4eFVjZEtFY0RHTUlXbDhsZXNDelpNRFZxY3lwOTdLNHB0T2N1cDVMRTdiY2VsQS1LRkJfcDkybldFUnppQWE3RVNocUpGYUZXaTNvdWFfTllndW5HcFBuZFVGTGNlQV9mcUtWWkprYmJtTEQzYVBfZzhyQXJ0Q0NjTmFHa1IwOVU4cUxCa0ktM3JiUmtZajJFTHZCeFJRUWRmSV8yelpsMUlOSWsxaUVQNEdRa016VlRDbUtPLWNrVzRmY25feWt3bQ?oc=5
 
 Tata Teleservices surges 7%, Physicswallah falls up to 4% at Nifty 500 market open CNBC TV18
 
-### 28. The Gyanesh Kumar Controversy: Accountability or Managed Correction? - IBTimes India
+### 34. The Gyanesh Kumar Controversy: Accountability or Managed Correction? - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-09-27T10:42:54+00:00
@@ -286,17 +346,37 @@ Tata Teleservices surges 7%, Physicswallah falls up to 4% at Nifty 500 market op
 
 The Gyanesh Kumar Controversy: Accountability or Managed Correction? IBTimes India
 
-### 29. Markets: Sensex tanks 1,248 pts, Nifty below 23,100 as US bond yields, crude oil surge - The Indian Awaaz
+### 35. September Slump: SENSEX, NIFTY crash 5% as FII selling and crude oil spike rattle markets - upstox.com
 
-- Source: The Indian Awaaz
+- Source: upstox.com
+- Published: 2026-09-28T07:36:26+00:00
+- Themes: India market, macro / flows
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxONU5xeDQyaGZ0M2JBemJwU0REcWJxYkZWN1hxM2d1VHZBOGh2X3gwR3plbk90RlZMLWtWZV9jek1KR2lsTDB4d09oQlJzRTNadHgyUEY4bHhFbGp6eVhOWDhqLUtQWkpIUldLLU1EbUoyU1VfYmNaOVdqWnJzREo0Mjh3bU5wTTZPN081MmVFY0liRzQzVEtZRWFVMURCaTJZX0twZzRZWVJHVV9KaEl2LUNFZzBpdmt0RFM1OXZoLXVKQmt3WmlDSGR6VHZFMWdiV2dWcklYVWxuTXdFbXc?oc=5
+
+September Slump: SENSEX, NIFTY crash 5% as FII selling and crude oil spike rattle markets upstox.com
+
+### 36. Markets: Sensex tanks 1,248 pts, Nifty below 23,100 as US bond yields, crude oil surge - theindianawaaz.com
+
+- Source: theindianawaaz.com
 - Published: 2026-09-27T19:51:00+00:00
 - Themes: India market, macro / flows
 - Score: 5
 - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjZGVmhqZlhCQW1BSWt3ZERhZUpLa1RmaVpMZEFNUXlWYTFBN0tldVR6cmE1dlFSSGpfQUY2Vlo5aUxzLTZCbHRPeW9Pa1NrVFVCMm9rMnhidVBGeFRTenBOOUlMeVhJZFNRS0p4a2FhTmVvaGE1Wjd0dU12bHVYRllwUjFlODJraXNsNTBJVVNmLVJCRENmQ1B5OHdoZWVVU0g3ejFXZEJCcnNfcUE?oc=5
 
-Markets: Sensex tanks 1,248 pts, Nifty below 23,100 as US bond yields, crude oil surge The Indian Awaaz
+Markets: Sensex tanks 1,248 pts, Nifty below 23,100 as US bond yields, crude oil surge theindianawaaz.com
 
-### 30. Crude oil, global yields, FII flows among key factors to drive stock market next week - DT Next
+### 37. Indian stock market to be impacted by crude oil, global yields, FII flows next week - Zee News
+
+- Source: Zee News
+- Published: 2026-09-27T08:38:52+00:00
+- Themes: India market, macro / flows
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPcWhsSC0tMUtuSV9KaGhxNjRSSDROd3ROeUtYbnV0djd0RnE1WmQzX0hRUWo5bHRiM0RKem1lRXc5UENWM2x5M1MxU3NCd2JROTRnUVhLaXJmYmRYanFKSnpxVEZ4bmVuMFY3a2J3Q3RQRWk3Vmptc2J4VEpPWUtKaVo5VWt4WFY0Nm5pTU9qZkhfNnFQSGJEeWg4R2xyNkkwN0lZZkhlcUxFR3l6bmRsaGpiQXNLcnhQQmZpVGppamZORE9YNVU2cWEwMFfSAcwBQVVfeXFMT3FobEgtLTFLbklfSmhocTY0Ukg0Tnd0TnlLWG51dHY3dEZxNVpkM19IUVFqOWx0YjNESnptZUV3OVBDVjNseTNTMVNzQndiUTk0Z1FYS2lyZmJkWGpxSkp6cVRGeG5lbjBWN2tid0N0UEVpN1ZqbXNieFRKT1lLSmlaOVVreFhWNDZuaU1PamZIXzZxUEhiRHloOEdscjZJMDdJWWZIZXFMRUd5em5kbGhqYkFzS3J4UEJmaVRqaWpmTkRPWDVVNnFhMDBX?oc=5
+
+Indian stock market to be impacted by crude oil, global yields, FII flows next week Zee News
+
+### 38. Crude oil, global yields, FII flows among key factors to drive stock market next week - DT Next
 
 - Source: DT Next
 - Published: 2026-09-27T08:35:00+00:00
@@ -306,17 +386,27 @@ Markets: Sensex tanks 1,248 pts, Nifty below 23,100 as US bond yields, crude oil
 
 Crude oil, global yields, FII flows among key factors to drive stock market next week DT Next
 
-### 31. HSBC Mutual Fund launches #StayDiSIPlined campaign to promote consistency in SIP investing - IMPACT Magazine
+### 39. Sip the comfort of ‘cutting chai’ on your next international flight with Air India - livemint.com
 
-- Source: IMPACT Magazine
+- Source: livemint.com
+- Published: 2026-09-28T07:58:27+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOemZDMVdWVk9vUzcyUEtsM3V5WVVIMF83U0hQN09OMkR6Q1pmYWhZY0ZlVTJ5VktSb2J1YzNGNGRUc0Q1bTZPU211ZU1abndGRnpjVjNlTEI1T2gtOHpxWDEzWDU1VFdtUERJWUFmOGRuSUk3dGNuRWhZOThwZDFMd2ZMRmpkOXpvMjY3VG9PY25lQVBlNWtIUjdpRlRoX1VEMDRsLUNxblYzNXJGMThqakVDM2owd0pqQnVjR0NuUXFvc3pOQUhIODJidV9CNm_SAdQBQVVfeXFMTmszMi04cTQ2S0p2S2ZBV3locXp0eC1CZTY4aWJrR05mcGhVTndPTGlHZERxTldwOGlidENLNE9uV1BpcGpVVVlZUHJycTY1d0hPTjJtWjE5VlBmUWpfX0pYaVZTSnBLX3JxcFpLVGxfWVdhZElacjFwN0k1TDY4aFRabmt2bVh5elJKWjlxa1gtaVpaTnN0ZmtqOU9kRFNlbmlmVW1jdmZLc2plTFpqZmpPQU5kNUdSeXNfWlNqSWdOZzhweEZvQXN6Q24tVmY4c2ZfcGQ?oc=5
+
+Sip the comfort of ‘cutting chai’ on your next international flight with Air India livemint.com
+
+### 40. HSBC Mutual Fund launches #StayDiSIPlined campaign to promote consistency in SIP investing - impactonnet.com
+
+- Source: impactonnet.com
 - Published: 2026-09-28T07:31:02+00:00
 - Themes: India market
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVTF1LTBONURpN1BFR2hYNWdBcUtpZFFTeGJ2dFZWZmx4c0hjS21Va2pCMkhLMF9xcUxQd3g5UFNVXzNuRzZJRWxodDFUM1JxQUZwdEJPN2o1OF9CSms3VDRkWUVXNDltV2NoYTJiU2Z3WHhGSC1MeVVUQ1RuOENxdEN5YW9nampndGxpZlhmNjdYZFgzWUVwV3VDRTlrVjI2OWwtZHZrR0pxQVE3bnhwYUZUcGVnZlZRdW00WTNPX1dqdEdvZ1FxTUNTMURMY2NCRTNYQUVVN2JjMnVhVEE?oc=5
 
-HSBC Mutual Fund launches #StayDiSIPlined campaign to promote consistency in SIP investing IMPACT Magazine
+HSBC Mutual Fund launches #StayDiSIPlined campaign to promote consistency in SIP investing impactonnet.com
 
-### 32. Auto sector stocks fall today, September 28: SML Mahindra declines 3.83%, Escorts Kubota drops 2.94%, Tata Motors PV falls 2.07% - Business Upturn
+### 41. Auto sector stocks fall today, September 28: SML Mahindra declines 3.83%, Escorts Kubota drops 2.94%, Tata Motors PV falls 2.07% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-28T06:00:35+00:00
@@ -326,7 +416,7 @@ HSBC Mutual Fund launches #StayDiSIPlined campaign to promote consistency in SIP
 
 Auto sector stocks fall today, September 28: SML Mahindra declines 3.83%, Escorts Kubota drops 2.94%, Tata Motors PV falls 2.07% Business Upturn
 
-### 33. HSBC Mutual Fund launches #StayDiSIPlined Campaign to promote consistent SIP investing - MediaNews4U
+### 42. HSBC Mutual Fund launches #StayDiSIPlined Campaign to promote consistent SIP investing - MediaNews4U
 
 - Source: MediaNews4U
 - Published: 2026-09-28T06:00:35+00:00
@@ -336,17 +426,17 @@ Auto sector stocks fall today, September 28: SML Mahindra declines 3.83%, Escort
 
 HSBC Mutual Fund launches #StayDiSIPlined Campaign to promote consistent SIP investing MediaNews4U
 
-### 34. 7 aggressive hybrid funds delivered 12%+ 5-year SIP returns; Bank of India led with 16.5% - Livemint
+### 43. 7 aggressive hybrid funds delivered 12%+ 5-year SIP returns; Bank of India led with 16.5% - livemint.com
 
-- Source: Livemint
+- Source: livemint.com
 - Published: 2026-09-28T05:12:30+00:00
 - Themes: India market
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNOW9fV2pZYmdSUlhvVmtIeTN1OFJ0QzM0bDRBX2lfRFhDSHpqTlpFUnU3MVZIX0h3T2RXbWs0Tk56ZUp1NXlkNlNucUZXQzNXUU4zZGd2bjRQVWVKbWZQUzFUYk5jY1lkVWp6TUltTUpwVkpHSE1KTDQxYkU5TVEwN1lFTGU2WXFWOWI2WVdXNUVUTTlRNzJ4VU1MLUdrZG1DcW1XZHhQN2VPNHFZX2VDMkhIenpaNGhrQmliSW55MU1XU3JhSzcwWUp3WUR1TkFTRmRreUZ6N1hBMFlBVVNBNUNsZ0pGbnfSAewBQVVfeXFMTUdsN2hOcDE5VVNNVlZXLUxfbXJmSzBYMS1YcXFDcWRoWG1RRVc2NFdOeHJ5cXRjVlJvTUtMVXV5X000RXpsNEYxM0hKYU1PUVJnWVRHVS1IVHIwODVHSXQtemRhVFp3a1RKNnAyaUl3Nm5qaXpwNmVBZzZNYVFXNWRrLV9pNE1adUU5MVhzZmh6WThhemNsWjYtXzByblpqRjdrOTVRYkkxaXN0MjhZWW1MNl9GNGNZRlhlV01kaWc1QnV3ZkZGd2xhSVptQkpOX0ZVa3hvUVRzWVV6djZ5WW1RdkZCeG1VOFdidzk?oc=5
 
-7 aggressive hybrid funds delivered 12%+ 5-year SIP returns; Bank of India led with 16.5% Livemint
+7 aggressive hybrid funds delivered 12%+ 5-year SIP returns; Bank of India led with 16.5% livemint.com
 
-### 35. New mutual fund launch: ICICI Prudential Contra Fund NFO opens today; Check dates, minimum investment and key details - ET Now
+### 44. New mutual fund launch: ICICI Prudential Contra Fund NFO opens today; Check dates, minimum investment and key details - ET Now
 
 - Source: ET Now
 - Published: 2026-09-28T04:21:33+00:00
@@ -356,7 +446,7 @@ HSBC Mutual Fund launches #StayDiSIPlined Campaign to promote consistent SIP inv
 
 New mutual fund launch: ICICI Prudential Contra Fund NFO opens today; Check dates, minimum investment and key details ET Now
 
-### 36. Sensex, Nifty open lower as rising crude, global risks hit sentiment - India Today
+### 45. Sensex, Nifty open lower as rising crude, global risks hit sentiment - India Today
 
 - Source: India Today
 - Published: 2026-09-28T03:48:57+00:00
@@ -366,7 +456,7 @@ New mutual fund launch: ICICI Prudential Contra Fund NFO opens today; Check date
 
 Sensex, Nifty open lower as rising crude, global risks hit sentiment India Today
 
-### 37. ETMarkets PMS Talk | From mutual funds to PMS: Brijesh Ved on where PRIM fits in India's evolving wealth l - The Economic Times
+### 46. ETMarkets PMS Talk | From mutual funds to PMS: Brijesh Ved on where PRIM fits in India's evolving wealth l - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-28T03:22:23+00:00
@@ -376,7 +466,7 @@ Sensex, Nifty open lower as rising crude, global risks hit sentiment India Today
 
 ETMarkets PMS Talk | From mutual funds to PMS: Brijesh Ved on where PRIM fits in India's evolving wealth l The Economic Times
 
-### 38. Stock Market Today: Gift Nifty, FPI Outflows To Oil Prices — Five Key Factors For Sensex, Nifty 50 On September 28 - NDTV Profit
+### 47. Stock Market Today: Gift Nifty, FPI Outflows To Oil Prices — Five Key Factors For Sensex, Nifty 50 On September 28 - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-09-28T01:58:40+00:00
@@ -386,17 +476,7 @@ ETMarkets PMS Talk | From mutual funds to PMS: Brijesh Ved on where PRIM fits in
 
 Stock Market Today: Gift Nifty, FPI Outflows To Oil Prices — Five Key Factors For Sensex, Nifty 50 On September 28 NDTV Profit
 
-### 39. SIP Inflows Reach Record Rs 32,297 Crore in August 2026 - Kalkine India
-
-- Source: Kalkine India
-- Published: 2026-09-27T16:01:00+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWE1PczYzNXhJRlRqSHJDbkRsOGQxemE4b05xVDlVUWxucElXbXR6cDF5emY0NUlacDRwbDRINDItSjBTMXZfZlN1clMtWVJOaV9EQnZCLWtLWXlNaU0zcGFFU1lPbEMyOXNoVElaLW9BUlBDLS1qS2tROVN1Z2JUTTZLTm5oZGtZOVhla0ItNlpaSmE4bUFXc3RVUmdDRnNGUWZfbDF2bFNVbkhtTkoyRVNmeWw0MHlHTTln?oc=5
-
-SIP Inflows Reach Record Rs 32,297 Crore in August 2026 Kalkine India
-
-### 40. 19 equity mutual funds deliver over 15% CAGR in 3,5, and 7 year horizons. Are there any included in your p - The Economic Times
+### 48. 19 equity mutual funds deliver over 15% CAGR in 3,5, and 7 year horizons. Are there any included in your p - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-28T07:11:23+00:00
@@ -406,7 +486,7 @@ SIP Inflows Reach Record Rs 32,297 Crore in August 2026 Kalkine India
 
 19 equity mutual funds deliver over 15% CAGR in 3,5, and 7 year horizons. Are there any included in your p The Economic Times
 
-### 41. ai market data nifty bank nifty fii selling gold silver - Zee Business
+### 49. ai market data nifty bank nifty fii selling gold silver - Zee Business
 
 - Source: Zee Business
 - Published: 2026-09-28T07:00:01+00:00
@@ -416,7 +496,7 @@ SIP Inflows Reach Record Rs 32,297 Crore in August 2026 Kalkine India
 
 ai market data nifty bank nifty fii selling gold silver Zee Business
 
-### 42. Top 9 Equity Mutual Funds Deliver Over 30% Return On SIP Investments In 1 Year! Check Details - Business Today
+### 50. Top 9 Equity Mutual Funds Deliver Over 30% Return On SIP Investments In 1 Year! Check Details - Business Today
 
 - Source: Business Today
 - Published: 2026-09-28T06:10:25+00:00
@@ -426,7 +506,7 @@ ai market data nifty bank nifty fii selling gold silver Zee Business
 
 Top 9 Equity Mutual Funds Deliver Over 30% Return On SIP Investments In 1 Year! Check Details Business Today
 
-### 43. Sensex, Nifty plunge over 1%; investors lose Rs 6 lakh crore as Brent crude crosses $107 - Business Today
+### 51. Sensex, Nifty plunge over 1%; investors lose Rs 6 lakh crore as Brent crude crosses $107 - Business Today
 
 - Source: Business Today
 - Published: 2026-09-28T05:58:20+00:00
@@ -436,7 +516,7 @@ Top 9 Equity Mutual Funds Deliver Over 30% Return On SIP Investments In 1 Year! 
 
 Sensex, Nifty plunge over 1%; investors lose Rs 6 lakh crore as Brent crude crosses $107 Business Today
 
-### 44. Metal sector stocks fall sharply today, September 28: NALCO drops 2.96%, Vedanta down 1.90%, Hindustan Zinc falls 1.76% - Business Upturn
+### 52. Metal sector stocks fall sharply today, September 28: NALCO drops 2.96%, Vedanta down 1.90%, Hindustan Zinc falls 1.76% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-28T05:05:32+00:00
@@ -446,7 +526,7 @@ Sensex, Nifty plunge over 1%; investors lose Rs 6 lakh crore as Brent crude cros
 
 Metal sector stocks fall sharply today, September 28: NALCO drops 2.96%, Vedanta down 1.90%, Hindustan Zinc falls 1.76% Business Upturn
 
-### 45. Rupee Starts The Day On A Weaker Note, Falls 20 Paise To 95.95 Against US Dollar - Free Press Journal
+### 53. Rupee Starts The Day On A Weaker Note, Falls 20 Paise To 95.95 Against US Dollar - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-28T04:57:35+00:00
@@ -456,7 +536,7 @@ Metal sector stocks fall sharply today, September 28: NALCO drops 2.96%, Vedanta
 
 Rupee Starts The Day On A Weaker Note, Falls 20 Paise To 95.95 Against US Dollar Free Press Journal
 
-### 46. Best medium duration mutual funds to invest in September 2026 - The Economic Times
+### 54. Best medium duration mutual funds to invest in September 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-28T04:14:14+00:00
@@ -466,7 +546,7 @@ Rupee Starts The Day On A Weaker Note, Falls 20 Paise To 95.95 Against US Dollar
 
 Best medium duration mutual funds to invest in September 2026 The Economic Times
 
-### 47. 22 Equity Mutual Funds That Lost 10% to 24% in 1 Year – Sep 2026 Update - Myinvestmentideas
+### 55. 22 Equity Mutual Funds That Lost 10% to 24% in 1 Year – Sep 2026 Update - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-09-28T04:10:29+00:00
@@ -476,7 +556,7 @@ Best medium duration mutual funds to invest in September 2026 The Economic Times
 
 22 Equity Mutual Funds That Lost 10% to 24% in 1 Year – Sep 2026 Update Myinvestmentideas
 
-### 48. Sensex down over 1,000 pts, Nifty near 22,800: Rebound in crude prices among key factors behind market... - Moneycontrol.com
+### 56. Sensex down over 1,000 pts, Nifty near 22,800: Rebound in crude prices among key factors behind market... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-28T04:07:02+00:00
@@ -486,7 +566,7 @@ Best medium duration mutual funds to invest in September 2026 The Economic Times
 
 Sensex down over 1,000 pts, Nifty near 22,800: Rebound in crude prices among key factors behind market... Moneycontrol.com
 
-### 49. AI gap not FPI driver: Experts point to broader emerging-market outflows and tariffs - Telegraph India
+### 57. AI gap not FPI driver: Experts point to broader emerging-market outflows and tariffs - Telegraph India
 
 - Source: Telegraph India
 - Published: 2026-09-28T03:52:35+00:00
@@ -496,7 +576,7 @@ Sensex down over 1,000 pts, Nifty near 22,800: Rebound in crude prices among key
 
 AI gap not FPI driver: Experts point to broader emerging-market outflows and tariffs Telegraph India
 
-### 50. Asian Stocks Fall as Oil Rises and US Yields Climb Amid Iran Uncertainty - Межа. Новини України.
+### 58. Asian Stocks Fall as Oil Rises and US Yields Climb Amid Iran Uncertainty - Межа. Новини України.
 
 - Source: Межа. Новини України.
 - Published: 2026-09-28T03:20:51+00:00
@@ -506,7 +586,7 @@ AI gap not FPI driver: Experts point to broader emerging-market outflows and tar
 
 Asian Stocks Fall as Oil Rises and US Yields Climb Amid Iran Uncertainty Межа. Новини України.
 
-### 51. A data-driven analysis of mutual funds vs. PMS - The Hindu
+### 59. A data-driven analysis of mutual funds vs. PMS - The Hindu
 
 - Source: The Hindu
 - Published: 2026-09-28T00:35:00+00:00
@@ -516,17 +596,27 @@ Asian Stocks Fall as Oil Rises and US Yields Climb Amid Iran Uncertainty Меж�
 
 A data-driven analysis of mutual funds vs. PMS The Hindu
 
-### 52. Manufacturing mutual funds: Top scheme delivered over 23% in 1 year—did this stellar return come with higher risk? - Livemint
+### 60. Manufacturing mutual funds: Top scheme delivered over 23% in 1 year—did this stellar return come with higher risk? - livemint.com
 
-- Source: Livemint
+- Source: livemint.com
 - Published: 2026-09-27T17:56:41+00:00
 - Themes: 
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxPT19DTmhnM1FRYXE5a05BVDhSbFR6WThyTnhPX0NnTjE0U2N4QWxuaUQ4bmVqcW5YSDN4ZHBRSDF2WVdkUGVESjl1Yk1aaDdHalFXMVFuMjVSVnBLX2tIN3YyMkJCQTJ1NjUwVGJsdkNoUU1mSnRkRi1XRHJfYnQ5aGZsN3VVRjZtMl8zUkJrdkp4RmJGM2t6c0hSWEFYUjFWVTdvZzBYUFlZSlNJU1dyTVJnWHVGMzRmN0lYN2ZHRW43SjBzWjBEcWwyd2wyTDlyYmhNcnJLT3pZRlI3YkM1R1RXV0NZeUVMWjVuTFZHM21mYTc4QjBaMWVQcmpqOERjbkZfenRGRktrLWfSAZACQVVfeXFMT1NBaUd0NkNaNUVWNHZ0TDNIUU9HMkhNOWV1clVrYmdzUm5GZ2gzNVFpN0tNcFZTbXo4SE9ETFlIWnkxdzFwVlVEQ01XeVNGRVpTRndqWVUzZV9RNzYtNTNuRnduazQ4NkJmS2Zua0NRZF9aNmN2bEVySXhvWjJ2TzFLUERxNjIzdzQxeWdHd0oxYWNpa0FNWjdneU1nblN2UnRmRmNkOFFfb2xnRFBaVFNEMFRVbkYxcU52ZThPeFE3eWlpWm4yR2M1eTZGd09uQXR3U1RiWGR3ZVJkRVN5YUtOamhNWGJFMmIyZmlGNjVsVDRTOEd3UnhFTkR1OEFQM3BMM0w1Y19ESlBIT1dHbE0?oc=5
 
-Manufacturing mutual funds: Top scheme delivered over 23% in 1 year—did this stellar return come with higher risk? Livemint
+Manufacturing mutual funds: Top scheme delivered over 23% in 1 year—did this stellar return come with higher risk? livemint.com
 
-### 53. Retailizing Mutual Funds to Deepen Bangladesh's Capital Market - The Business Standard
+### 61. SIP Inflows Reach Record Rs 32,297 Crore in August 2026 - kalkine.co.in
+
+- Source: kalkine.co.in
+- Published: 2026-09-27T16:01:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWE1PczYzNXhJRlRqSHJDbkRsOGQxemE4b05xVDlVUWxucElXbXR6cDF5emY0NUlacDRwbDRINDItSjBTMXZfZlN1clMtWVJOaV9EQnZCLWtLWXlNaU0zcGFFU1lPbEMyOXNoVElaLW9BUlBDLS1qS2tROVN1Z2JUTTZLTm5oZGtZOVhla0ItNlpaSmE4bUFXc3RVUmdDRnNGUWZfbDF2bFNVbkhtTkoyRVNmeWw0MHlHTTln?oc=5
+
+SIP Inflows Reach Record Rs 32,297 Crore in August 2026 kalkine.co.in
+
+### 62. Retailizing Mutual Funds to Deepen Bangladesh's Capital Market - The Business Standard
 
 - Source: The Business Standard
 - Published: 2026-09-27T14:43:34+00:00
@@ -536,7 +626,7 @@ Manufacturing mutual funds: Top scheme delivered over 23% in 1 year—did this s
 
 Retailizing Mutual Funds to Deepen Bangladesh's Capital Market The Business Standard
 
-### 54. Sensex Near 74,000 and Nifty Above 23,300 Key to Recovery Momentum - IBTimes India
+### 63. Sensex Near 74,000 and Nifty Above 23,300 Key to Recovery Momentum - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-09-27T12:54:48+00:00
@@ -546,7 +636,7 @@ Retailizing Mutual Funds to Deepen Bangladesh's Capital Market The Business Stan
 
 Sensex Near 74,000 and Nifty Above 23,300 Key to Recovery Momentum IBTimes India
 
-### 55. SBI Flexicap among 5 flexi-cap mutual funds that delivered single-digit returns in 3 years. Check details - The Economic Times
+### 64. SBI Flexicap among 5 flexi-cap mutual funds that delivered single-digit returns in 3 years. Check details - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-09-27T12:36:09+00:00
@@ -556,7 +646,7 @@ Sensex Near 74,000 and Nifty Above 23,300 Key to Recovery Momentum IBTimes India
 
 SBI Flexicap among 5 flexi-cap mutual funds that delivered single-digit returns in 3 years. Check details The Economic Times
 
-### 56. Quote on FPI flows from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 65. Quote on FPI flows from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-09-27T10:55:49+00:00
@@ -566,27 +656,17 @@ SBI Flexicap among 5 flexi-cap mutual funds that delivered single-digit returns 
 
 Quote on FPI flows from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 57. New fund offers: 6 mutual funds and 1 SIF will open for subscription this week. Check dates and details - The Economic Times
+### 66. Indian Stock Market Outlook Next Week, Sept 28 - Oct 1: Sensex, Nifty May Remain Volatile Amid FII Selling - goodreturns.in
 
-- Source: The Economic Times
-- Published: 2026-09-27T10:42:37+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxQbnhnN0lfNlpQMnZjUTRLMmlSVDRSWnlnaDFJS2pNaG1LRXljR19xZG9LS0V4N2o3QmtUYUNWemRIUTBEbzlBMlA2TnJEMnl5QkNHU09nSlNERXRjb2tyRkFxZTFpMGloU1VRM3dNVFdCMm9IQkotdWlnWVJCR2VjN1UyckNvUFNMMmxNd3BwLXRnUVZsM1ZMM2M5X2tnemZjWnRITDk3N3pMNWdQWkZpMFNyS1NkS05ReW4tUFJmZXJiekZNZHlpUW1TQjd4dnVvS2NCb2NzZ1pBbXpfaGNrT1B2cVJwMnhVUmpNX2xSOUZRQVdXNEhvY3NPSnRjSnpfRzdQWTVVTi13bjMzNVk4ellGZTNmdw?oc=5
-
-New fund offers: 6 mutual funds and 1 SIF will open for subscription this week. Check dates and details The Economic Times
-
-### 58. Indian Stock Market Outlook Next Week, Sept 28 - Oct 1: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns
-
-- Source: Goodreturns
+- Source: goodreturns.in
 - Published: 2026-09-27T09:53:19+00:00
 - Themes: India market
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWGpITmxKdzRuNlFjYS1hTDFXTEFfR0ZxbWxBTnhmc2t1MzBPQWVJemhZRDJwRlRJME1ZeXpEQkxtWUp5Q01ocm5mdFQ1RHNVVHA1cmxlbm1tbkQ2VExDV010MExXajNMaHg2VFFuV3Q0NEVpM2liUkZoS1ZDY3BpRXlqc2RLZktSNHhwWHJPa2Zsa3FkZllmcFpzMXYwdEphMjNJMVMyY0xfRjd6bUdaUUVmc3NzYjVncHRXQXdkazlONHF2MEpOVUxuSi13dktNSDNWU2ZfYw?oc=5
 
-Indian Stock Market Outlook Next Week, Sept 28 - Oct 1: Sensex, Nifty May Remain Volatile Amid FII Selling Goodreturns
+Indian Stock Market Outlook Next Week, Sept 28 - Oct 1: Sensex, Nifty May Remain Volatile Amid FII Selling goodreturns.in
 
-### 59. Flexi Cap vs Multi Cap Mutual Funds: Top 3 schemes compared on 5-year CAGR - Which category delivered higher returns? - ET Now
+### 67. Flexi Cap vs Multi Cap Mutual Funds: Top 3 schemes compared on 5-year CAGR - Which category delivered higher returns? - ET Now
 
 - Source: ET Now
 - Published: 2026-09-27T09:17:04+00:00
@@ -596,27 +676,17 @@ Indian Stock Market Outlook Next Week, Sept 28 - Oct 1: Sensex, Nifty May Remain
 
 Flexi Cap vs Multi Cap Mutual Funds: Top 3 schemes compared on 5-year CAGR - Which category delivered higher returns? ET Now
 
-### 60. What will drive the stock market next week? Crude oil, global yields in focus - Mathrubhumi English
+### 68. New fund offers: 6 mutual funds and 1 SIF will open for subscription this week. Check dates and details - The Economic Times
 
-- Source: Mathrubhumi English
-- Published: 2026-09-27T07:47:52+00:00
-- Themes: macro / flows
+- Source: The Economic Times
+- Published: 2026-09-27T08:43:30+00:00
+- Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxONTZnRU5QWDYxbXlYQXFzTU1oOVJyZEd4cVVoZ3lwY25qSHhlZklqelpwQlliWDRnWWVXSkdpdGhmaHNfMmRBbWQtRFNOUGcySF9hdkphSkRRdDNZTFZVVTVXMVRUYVktajNEd1p1MmdEamI2ZWRkcF9ScHMxc29pZEFCTlRpeW42d1lENG9QQXZDd0JOY1Y3V1kyX0JPbm9Od0pQOQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxONGIxaGtzdzRRamhfVGxEUjNqRXlmeXhiT1dsb1U2RExhUHhYOWhmVVlxQ2xqZHYtNmk5anV1YVY0aGZIMGxZUERGb21ZVWpLcGU3MVNPNTF1SUFyanZmX241eWNzT2FTbkFkNkhIejJvRTZkMnpsSzR2eFowcFE4Q1BHVDJpQjBkR2tRM09KNVZRVmJTRjZQaFgtX2p0anVIazZUY1Z6S0pybkxJZUVXZFVMZ3B4TjAtUGx2SnNEWkVDWHF1TWM1XzRJa3FsMUJ6WmdwVmFOdmtFUGNwYVJmVlZxcEEzQkFabS1pOVVMQ09VYUwyMU5LLUctclJianFId1hYNw?oc=5
 
-What will drive the stock market next week? Crude oil, global yields in focus Mathrubhumi English
+New fund offers: 6 mutual funds and 1 SIF will open for subscription this week. Check dates and details The Economic Times
 
-### 61. What will drive the stock market next week? Crude oil, global yields in focus - Mathrubhumi English
-
-- Source: Mathrubhumi English
-- Published: 2026-09-27T07:47:52+00:00
-- Themes: macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQUd1ZUVZQWtJTE5fZHNqSzVGUldMaEtGX1F6VGtLRjg0NER1U3duRHlqRzhveHJLd3NYSzNzSnU4UGo5dkx6YnY0QmVwbzAyZkk0MTJtdkJIN05pVnEwcFJ2bUVZNEYxUG15WDBnSWpiaHpZR1oxbGpLWVNicm9FNUtxU01wMF9HRlByMm5yNEp5WHhnamt0U0VYZ0k0bXRPSExLaUplN3JBUdIBqgFBVV95cUxPQUd1ZUVZQWtJTE5fZHNqSzVGUldMaEtGX1F6VGtLRjg0NER1U3duRHlqRzhveHJLd3NYSzNzSnU4UGo5dkx6YnY0QmVwbzAyZkk0MTJtdkJIN05pVnEwcFJ2bUVZNEYxUG15WDBnSWpiaHpZR1oxbGpLWVNicm9FNUtxU01wMF9HRlByMm5yNEp5WHhnamt0U0VYZ0k0bXRPSExLaUplN3JBUQ?oc=5
-
-What will drive the stock market next week? Crude oil, global yields in focus Mathrubhumi English
-
-### 62. Crude Shock Sends Sensex Down 1,000 Points As Markets Near Six-Month Lows - outlookbusiness.com
+### 69. Crude Shock Sends Sensex Down 1,000 Points As Markets Near Six-Month Lows - outlookbusiness.com
 
 - Source: outlookbusiness.com
 - Published: 2026-09-28T07:02:38+00:00
@@ -626,7 +696,7 @@ What will drive the stock market next week? Crude oil, global yields in focus Ma
 
 Crude Shock Sends Sensex Down 1,000 Points As Markets Near Six-Month Lows outlookbusiness.com
 
-### 63. Why are Sensex, Nifty falling today? 6 key triggers behind Rs 6 lakh crore wipeout in equities - Zee Business
+### 70. Why are Sensex, Nifty falling today? 6 key triggers behind Rs 6 lakh crore wipeout in equities - Zee Business
 
 - Source: Zee Business
 - Published: 2026-09-28T06:52:47+00:00
@@ -636,7 +706,7 @@ Crude Shock Sends Sensex Down 1,000 Points As Markets Near Six-Month Lows outloo
 
 Why are Sensex, Nifty falling today? 6 key triggers behind Rs 6 lakh crore wipeout in equities Zee Business
 
-### 64. FPJ Quick Take At 12 PM: Bloodbath In Sensex, Nifty & LPU Mall Looted; Your Daily Noon Guide To Top News - Free Press Journal
+### 71. FPJ Quick Take At 12 PM: Bloodbath In Sensex, Nifty & LPU Mall Looted; Your Daily Noon Guide To Top News - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-28T06:30:23+00:00
@@ -646,7 +716,17 @@ Why are Sensex, Nifty falling today? 6 key triggers behind Rs 6 lakh crore wipeo
 
 FPJ Quick Take At 12 PM: Bloodbath In Sensex, Nifty & LPU Mall Looted; Your Daily Noon Guide To Top News Free Press Journal
 
-### 65. NSE Stocks Cracks 2%, Falls Below IPO Issue Price Amid Broader Market Selloff - Free Press Journal
+### 72. RBI’s FPI KYC Change May Make India Onboarding Easier For Foreign Investors - Outlook Money
+
+- Source: Outlook Money
+- Published: 2026-09-28T05:34:15+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPREI3b291aksxRmg2ZnJOQW9iMTBuZ2pydUFYWGpfOGN0QmM3UnhaRU96ay1ULUdEcm1ka0RCR29oLXlWYkI2NzVKUUtEUGlSWkdoREVYZ3h0Mk5OckV4cDhHcEVMbGFOVHVMZm5MRDlKSmd6SkpINW94elNGUnhTYzJacTV1c0l5M25kSS05di1tMlF2anUwV2lQZV9ER1BURzdtTWozcUROdURKemRWT0RFS2RhaHQ3Y1JyVmF30gG-AUFVX3lxTE9EQjdvb3VqSzFGaDZmck5Bb2IxMG5nanJ1QVhYal84Y3RCYzdSeFpFT3prLVQtR0RybWRrREJHb2gteVZiQjY3NUpRS0RQaVJaR2hERVhneHQyTk5yRXhwOEdwRUxsYU5UdUxmbkxEOUpKZ3pKSkg1b3h6U0ZSeFNjMlpxNXVzSXkzbmRJLTl2LW0yUXZqdTBXaVBlX0RHUFRHN21NajNxRE51REp6ZFZPREVLZGFodDdjUnJWYXc?oc=5
+
+RBI’s FPI KYC Change May Make India Onboarding Easier For Foreign Investors Outlook Money
+
+### 73. NSE Stocks Cracks 2%, Falls Below IPO Issue Price Amid Broader Market Selloff - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-28T05:33:40+00:00
@@ -656,7 +736,7 @@ FPJ Quick Take At 12 PM: Bloodbath In Sensex, Nifty & LPU Mall Looted; Your Dail
 
 NSE Stocks Cracks 2%, Falls Below IPO Issue Price Amid Broader Market Selloff Free Press Journal
 
-### 66. Sensex Tumbles 1,000 Points, Nifty Below 22,900: Why Is Stock Market Falling Today? - Outlook Money
+### 74. Sensex Tumbles 1,000 Points, Nifty Below 22,900: Why Is Stock Market Falling Today? - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-09-28T05:30:23+00:00
@@ -666,7 +746,7 @@ NSE Stocks Cracks 2%, Falls Below IPO Issue Price Amid Broader Market Selloff Fr
 
 Sensex Tumbles 1,000 Points, Nifty Below 22,900: Why Is Stock Market Falling Today? Outlook Money
 
-### 67. Stock market down today: 3 reasons why Sensex, Nifty fell on Sep 28; check top draggers - ET Now
+### 75. Stock market down today: 3 reasons why Sensex, Nifty fell on Sep 28; check top draggers - ET Now
 
 - Source: ET Now
 - Published: 2026-09-28T05:23:16+00:00
@@ -676,7 +756,7 @@ Sensex Tumbles 1,000 Points, Nifty Below 22,900: Why Is Stock Market Falling Tod
 
 Stock market down today: 3 reasons why Sensex, Nifty fell on Sep 28; check top draggers ET Now
 
-### 68. Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause - Yahoo Finance
+### 76. Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-28T05:13:00+00:00
@@ -686,7 +766,7 @@ Stock market down today: 3 reasons why Sensex, Nifty fell on Sep 28; check top d
 
 Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause Yahoo Finance
 
-### 69. Stock Market Update: Nifty 50 Opened 0.33% Lower, Sensex Declined 160.91 Points - Analytics Insight
+### 77. Stock Market Update: Nifty 50 Opened 0.33% Lower, Sensex Declined 160.91 Points - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-09-28T05:10:28+00:00
@@ -696,7 +776,7 @@ Asia stocks slip as oil, yields rise; chipmakers hit by OpenAI pause Yahoo Finan
 
 Stock Market Update: Nifty 50 Opened 0.33% Lower, Sensex Declined 160.91 Points Analytics Insight
 
-### 70. Defence sector stocks decline today, September 28: Garden Reach falls 2.54%, BEML drops 2.12%, Mazagon Dock down 1.92% - Business Upturn
+### 78. Defence sector stocks decline today, September 28: Garden Reach falls 2.54%, BEML drops 2.12%, Mazagon Dock down 1.92% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-28T05:00:32+00:00
@@ -706,7 +786,7 @@ Stock Market Update: Nifty 50 Opened 0.33% Lower, Sensex Declined 160.91 Points 
 
 Defence sector stocks decline today, September 28: Garden Reach falls 2.54%, BEML drops 2.12%, Mazagon Dock down 1.92% Business Upturn
 
-### 71. Sensex down by over 900 points, Nifty also sharply low: Why is market down today? | Business News - Hindustan Times
+### 79. Sensex down by over 900 points, Nifty also sharply low: Why is market down today? | Business News - Hindustan Times
 
 - Source: Hindustan Times
 - Published: 2026-09-28T04:45:12+00:00
@@ -716,7 +796,7 @@ Defence sector stocks decline today, September 28: Garden Reach falls 2.54%, BEM
 
 Sensex down by over 900 points, Nifty also sharply low: Why is market down today? | Business News Hindustan Times
 
-### 72. 5 reasons why the market is falling today: Nifty cracks 1%, Sensex slides 900 points - financialexpress.com
+### 80. 5 reasons why the market is falling today: Nifty cracks 1%, Sensex slides 900 points - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-28T04:37:30+00:00
@@ -725,83 +805,3 @@ Sensex down by over 900 points, Nifty also sharply low: Why is market down today
 - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOejhtVHIwOFdqdkxCLTE1TUtQSk5JLXJUZmlzdTNIX05leE4yYm9FX3ZCdW9TZmpzZ0dfLTJ0WHVEOEJIZVBCcTNlTVNvQmVMNkZGN0FJYUpBS09zRFR5ZW1HblExdzNrTm1qWDZMaGlSLTE5aHlRSEpzVkx4LU9wU21hWHB2X2tFZ0tyOEZvMEd3eDZyTUJHZnpKZnBEbHhlRmE0RzhwUGhKcUlwMVp2dkF4dmtycmlieE12dmJWVWQzNHNSb3BTeFNGUHBPVFRE0gHQAUFVX3lxTE56OG1UcjA4V2p2TEItMTVNS1BKTkktclRmaXN1M0hfTmV4TjJib0VfdkJ1b1NmanNnR18tMnRYdUQ4QkhlUEJxM2VNU29CZUw2RkY3QUlhSkFLT3NEVHllbUduUTF3M2tObWpYNkxoaVItMTloeVFISnNWTHgtT3BTbWFYcHZfa0VnS3I4Rm8wR3d4NnJNQkdmekpmcERseGVGYTRHOHBQaEpxSXAxWnZ2QXh2a3JyaWJ4TXZ2YlZVZDM0c1JvcFN4U0ZQcE9UVEQ?oc=5
 
 5 reasons why the market is falling today: Nifty cracks 1%, Sensex slides 900 points financialexpress.com
-
-### 73. Pharma sector stocks today, September 28: Sudeep Pharma falls 2.12%, Alembic Pharma down 1.90%, Biocon declines 1.62% - Business Upturn
-
-- Source: Business Upturn
-- Published: 2026-09-28T04:20:32+00:00
-- Themes: market selling
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNNWo2VDdHaW4xQTZaTW9qM21lYUtKQkVtR2ZBcml4YlVwVTF6RmIwX0hXQlBVbndNN250bXdlSFczWHRlcHNYLXJhamlqeUNMWkRoTmthZkh4QzVFZFpCQUE1S3o3andkQ0hZUDVlUDFrR0tNQXo2cDUtV0hZenpvMkFOUjlZM3J4OFV2aHN0N19ucDI2TVlDWVhpVGN3MmlHOHZXUUs4RUpQR2dsSU5xOGtqQjlVMW9haDJYdWtmQWdGZW1ESFFqTFNMLTZVV3lRTUtqN2pMQVJwdnJmanlzR2pubmhESHZadGhFUHN2eEZ3WVFuN2c?oc=5
-
-Pharma sector stocks today, September 28: Sudeep Pharma falls 2.12%, Alembic Pharma down 1.90%, Biocon declines 1.62% Business Upturn
-
-### 74. Sensex, Nifty open lower as global headwinds weigh on sentiment - bfsi.economictimes.indiatimes.com
-
-- Source: bfsi.economictimes.indiatimes.com
-- Published: 2026-09-28T04:19:16+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaVlhUW1LcDE0YVJrbFAtcWRKT1B6eDY0MEpOVkJhRk83UmxoaWhNTnZOcWhwYmlpOHpBUUZMT05Ja1VoaDJZVjJtamVVUi1pS2djQ3hIeXB4a1BERDhkRDBRaGd1ZTFVMTIxR2hQdzhKaVUtZFpEUmhLdTVCMGd0UzJLNUpwZVFCdlFwRWhOOVJBTm5nTGRvbHlfUEYwMnE5ZFVWSDZGNWxGb2JJV1dNUVhFbW1fU283OUZfMm1iUjXSAcYBQVVfeXFMTVVEMmNLamRfLV9kSDBvOURCZGZlaHNCYmxQYTdxZTR4a2VDdDZwRnVQc25nN0JpVlEzaDd2NzhjU00zSF9kSkhMaGFiRUg3Qm1UNHRXZjZPS0ZvS2Q2VUVtSTlPYTZpNzU4MVRvQk5PeGtBckpfcFdNZTRXaUtRZU0zLTR6anozbkg0SnBKaFI2cUIyOUgxb3BkNzd0OWwyT3NXWnprd3FsZjgzQV85UWUtbGEzQ2M4ZXNPT0VfUmY2c05YNFFB?oc=5
-
-Sensex, Nifty open lower as global headwinds weigh on sentiment bfsi.economictimes.indiatimes.com
-
-### 75. Sensex, Nifty Open Lower As Global Headwinds Weigh On Sentiment - Ommcom News
-
-- Source: Ommcom News
-- Published: 2026-09-28T04:18:06+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNblV6RDRoaGxRS0gtNVZUVy1Db1lWWDFiTnpUVTBTam1iME1ucEFQdjdCTGNNM0tTWEVpcDNQUXdoaXpuWGphUVVaT1I1bmVCQkN5Tjh2VEZxQUxBN2Q3Sy1pMTcwYnhha2RuYlVkLXlhZ0pZWVVqOE1ZSk9XQTlrS2RPT0l6ZzZSYm1Gd0hOZGZoaVlVYWlxaV80eHZqTDJNZGc?oc=5
-
-Sensex, Nifty Open Lower As Global Headwinds Weigh On Sentiment Ommcom News
-
-### 76. Sensex crashes 900 points, investors lose Rs 6 lakh crore: Why are markets falling? - India Today
-
-- Source: India Today
-- Published: 2026-09-28T04:17:18+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNDl1aHc2VHYtR3lHdGJnY2oxdXpXX0tNN29FU0dnYnZTX1hrRWFzOFBzSk5KTWc1RTFJOFdmT3VVMEFmOXNDcXhKbHdBMVUtR0kzclhZVDRLSDRHcnljSTF6UG40ak5SQmMtN2lzRG9QSkRNUzFidmRkSnc2aHRLanVnTURTNU9DcUZXU21kWVhoVUlacHhSa2lYT2tPMUJ6NUxkWjJ1V0xpYndCQU11S2djSjZ4aXpHdHpXRTZpRDlnZFZNNk9PU1hycldaa2w5Ylg1Ull2SXU2SlIwbDVrdG1RZUJaN1JpVjRUT0Jn0gHzAUFVX3lxTFBtcU5GS1BLNVRSQ1BWekxLUmhQaFFhMlZLV3RIcjk3M0RBVkpwU19mcmNLZ3I3UXQxdFY0WHBIMmw3SUtkeTdwN1RFa3RfbzB6bkNGSzJwZWtZN2dDS3E0a04zZEFid2pXVm9xejFDbUpLeG9hWGlfQ2p4NWZtakVWUmxLMEdteDBkVFFLLTlGWHVid2ZNYmh1cHdsS2R6UjFFUzlQNXdUX3VqSlRKY014bU1mcGlxZ2VGbGtxZWlDbHRZTnVZcm55NE5zaE1ra0lUVjlTNTZaQjhQbEJLOV9yWkxSSWwxZ2FacHBnaV85SzhfWQ?oc=5
-
-Sensex crashes 900 points, investors lose Rs 6 lakh crore: Why are markets falling? India Today
-
-### 77. Sensex And Nifty Slip At The Opening Bell, Global Headwinds Keep Investors On Edge - Free Press Journal
-
-- Source: Free Press Journal
-- Published: 2026-09-28T04:12:58+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNYjNPNnpxM2JBa0pvaVhjdGtwWHoxUGJ4VDJBY3pJWms1TllBQkZoQ1VhNG10X0hyai02dWtSaEc2c3AzSXFmMzROWTd6NElIbTJCOVJhTkRsQ0VQVmZURjh1SHBpQ01SdmJmUTNqMzU0QlBOVlZ6NlpvTGs2Y21RU2xwaEgweHJtWkluU21zQTZyZ0JhMUlURkVNbkw0NFV6NXdWM1ZINGtzR2RpZXZNRUVuY3ZhTXBQZG9kcklnbnZNUHhq0gHEAUFVX3lxTE1iM082enEzYkFrSm9pWGN0a3BYejFQYnhUMkFjeklaazVOWUFCRmhDVWE0bXRfSHJqLTZ1a1JoRzZzcDNJcWYzNE5ZN3o0SUhtMkI5UmFORGxDRVBWZlRGOHVIcGlDTVJ2YmZRM2ozNTRCUE5WVno2Wm9MazZjbVFTbHBoSDB4cm1aSW5TbXNBNnJnQmExSVRGRU1uTDQ0VXo1d1YzVkg0a3NHZGlldk1FRW5jdmFNcFBkb2RySWdudk1QeGo?oc=5
-
-Sensex And Nifty Slip At The Opening Bell, Global Headwinds Keep Investors On Edge Free Press Journal
-
-### 78. Sensex tanks 900 pts intraday; Nifty below 22,900: what's behind mkt crash? - Business Standard
-
-- Source: Business Standard
-- Published: 2026-09-28T04:11:42+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNWUItS2dqMFByNUlUcXdPMUdQSHZxX3VTYU1PcEdaWnFaOUo1MnhrQWQ4MTBmaWM2eDY5WURsaFpId1RnLVFJRTdadERxTDVKc0J0UkkwRDM4V0g2WDMtclZ4eEtxY3NCVTV5SV9tQnhEZUR2aHJ4N1Q3VzFLbF9Rb1ZadHN5Vk9tOEE3THlxQVViN0tfZnB1bl9aQU0xRjFZc1dqS3RKVWpLUVM3UkV4aUYzOVNaMDlBbEM3bS0ydnltemJ4TEFOZWt4OHNOcnNNdG5DaE5GVVRHUdIB2gFBVV95cUxNWUItS2dqMFByNUlUcXdPMUdQSHZxX3VTYU1PcEdaWnFaOUo1MnhrQWQ4MTBmaWM2eDY5WURsaFpId1RnLVFJRTdadERxTDVKc0J0UkkwRDM4V0g2WDMtclZ4eEtxY3NCVTV5SV9tQnhEZUR2aHJ4N1Q3VzFLbF9Rb1ZadHN5Vk9tOEE3THlxQVViN0tfZnB1bl9aQU0xRjFZc1dqS3RKVWpLUVM3UkV4aUYzOVNaMDlBbEM3bS0ydnltemJ4TEFOZWt4OHNOcnNNdG5DaE5GVVRHUQ?oc=5
-
-Sensex tanks 900 pts intraday; Nifty below 22,900: what's behind mkt crash? Business Standard
-
-### 79. Why is market falling today? Sensex tumbles over 1,000 points, Nifty below 22,850. 6 key factors behind Rs - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-09-28T04:08:10+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxQZi1NX0ZnR1pnWl9lLURWQW9uazJudU5adU43UVVWdG9BV1A5WTZaN2RPZ3NSWHl5bTlCZlA4ODkzcDRoc3JWVEtyRk1NbGx4MDQ5X3NGZ2ZHVW9MWnFTV0F4U3ZSWVA5S3BtbzdtZFRLT2JVOXJjZjUtNENidWtZai1JaTJPc0VQVE9mdDE2VGhBNXByZnZ3ZEtVdm5ZRkFvUXd4UGdfZjJTcFFRcHkwcmo3d0p0Vy0yZXNkV3RXV3ZFcTRLTlBUNGRrNXNGMGVpUXFKMDJzUndJWXpqWnpGSkFIRVJ4Q0MzQUJVOHMwT0Z6X3R3aHZ0YzU3TmN1RDZVQmNzWWNZbkF1YVJ3YlV2Tndac1N3Z9IBmwJBVV95cUxQcExWMGJPZG5EOW5QWXdrOGFGVWpSNnA2bjNYYnlRbGdhSG13ei1YYXExbjZPZlkweGtvRDJ4QmtZcFNJbmthU2xJNWxnV3hVYjh4SDRzU2k1cTQwcG9BS0VCOTlQcUpuS3FzREFhbXRIWVVYQVZRZEdHSE9HUVRWYTAtUFFWX2M1RmZXVXhKUzd5RmtuWjBhTi1wSXZfVXBWWHRCOTV3VGFRQ1NKeXQ1WU54dlBQZmpteFlFa3JrYlRkYnRoUWJsMVJZM1RlMnFWVVZGRmNUWExEUzZJUHRCcGpmMl8xU0Y3QmRBMTdESW85NTA3LVRGODFGakpiY2lIUlV2bVJLMWhaUVNqRl9HMmhsSEU0VFNGa3lR?oc=5
-
-Why is market falling today? Sensex tumbles over 1,000 points, Nifty below 22,850. 6 key factors behind Rs The Economic Times
-
-### 80. Sensex cracks 900 points: Nifty plunges 279 points with heavier selling in banking and FMCG shares - Bhaskar English
-
-- Source: Bhaskar English
-- Published: 2026-09-28T04:00:18+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQb3BnUjdzZEFTX1hjeUxNYVBoMVJEajFXNUdBWXpuNGpqZ1Rmd3N0aC1xNlhMN2tDYkVlVmxZNzBRZjE4V1dkM18tVXdSU2VFbE9qbnFhVkFLdnlFalJZX1FFaDV0elJucFN0S2tWYWxxZGpENzV4cDMwU3NoYi04UVhlYlFEMENiR21mNXRZeFRqcFpTbDNFYUpTang1SXB4MVZ2SXJEdUc4QjRrSTBoRHptTGlTbHBmRFZNcGtHZ3TSAcYBQVVfeXFMT0QwQlRpeWgwZ3JMX2FOUVdmZXI2ZEp6cjRzYktnX3lSRkw5aEFlMTVzZGVDdzVMbUtyaGROOE9ZZG1ZUFgzZmRaNU9OZXFjNkticWxxaWdrMnRNUHpjSUo1QllUMEIwQS14THpUSDZ3RFZOc25YTTdpT3BfbjdzVk9OWEk1V2JZclpNMGVlNF9QWk9IMWo5ZkM3bDEybkVuX1RFRUQtOUF1TXBveW96WVhPY1VHUmpEVVZTTUFkd29oOVhmSnNB?oc=5
-
-Sensex cracks 900 points: Nifty plunges 279 points with heavier selling in banking and FMCG shares Bhaskar English
