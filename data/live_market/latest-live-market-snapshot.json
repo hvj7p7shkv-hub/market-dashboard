@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T23:49:32+05:30",
+  "generated_at": "2026-09-29T08:40:45+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -1582,20 +1582,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 499,
-      "coverage_pct": 99.8,
+      "downloaded_count": 500,
+      "coverage_pct": 100.0,
       "advancers": 68,
-      "decliners": 431,
+      "decliners": 432,
       "unchanged": 0,
       "ad_ratio": 0.16,
-      "up_turnover_share_pct": 16.6,
-      "down_turnover_share_pct": 83.4,
+      "up_turnover_share_pct": 16.5,
+      "down_turnover_share_pct": 83.5,
       "high_volume_decliners": 23,
       "intraday_quotes": 499,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-09-28",
       "as_of_timestamp": "2026-09-28 15:25 IST",
-      "stale_rows_excluded": 1
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -1688,11 +1688,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
+        "count": 63,
         "advancers": 7,
-        "decliners": 55,
+        "decliners": 56,
         "average_1d_pct": -1.771,
-        "average_volume_ratio_20d": 0.737
+        "average_volume_ratio_20d": 0.731
       },
       {
         "sector": "Services",
@@ -5844,6 +5844,23 @@
         "quote_date": "2026-09-28",
         "quote_timestamp": "2026-09-28 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 240.0,
+        "previous_close": 244.35,
+        "day_move_pct": -1.7802,
+        "session_volume": 670735.0,
+        "average_volume_20d": 1853255.0,
+        "volume_ratio_20d": 0.362,
+        "turnover_proxy": 160976400.0,
+        "quote_date": "2026-09-28",
+        "quote_timestamp": "2026-09-28 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
