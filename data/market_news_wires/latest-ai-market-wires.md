@@ -1,12 +1,22 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-09-29 08:38
+Generated: 2026-09-29 09:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. Nasdaq Today LIVE: Index Slides 1.18% as Oil Prices Surges, Treasury Yields Hit, Nvidia Bucks Tech Selloff After Fed Rate Hike Wall Street Amid Gold-Silver Crash | Check What Investors Should Watch - The Sunday Guardian
+### 1. AI-driven market correction could push US into recession, global growth below 1%: Fitch - India's News.Net
+
+- Source: India's News.Net
+- Published: 2026-09-28T12:06:00+00:00
+- Themes: AI / tech risk, market selling, India market
+- Score: 12
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlNjb2J4N0JOdG5STlJHb3hGMGtYb2NRenVNdHgxdmlHbzBEUzktZ01meHI5WHJJT1l5emxEWkkzbVZ2STBrczdOOE9NNE9USTNaYldLOWwwd1E4SHZ1NW43enU0X0lZNVczUmY1NW9oTnZ1RUVCcEdaVnp4ZWUxQzNPUFJGd0U4RXlvMU9BUENLRy01ZWJLYU1jOVhxeTk1RHBYSVpLSGM5NTQ5Sl9xVU1CdkNWVjhiV0pJTDZwdTN5b29C?oc=5
+
+AI-driven market correction could push US into recession, global growth below 1%: Fitch India's News.Net
+
+### 2. Nasdaq Today LIVE: Index Slides 1.18% as Oil Prices Surges, Treasury Yields Hit, Nvidia Bucks Tech Selloff After Fed Rate Hike Wall Street Amid Gold-Silver Crash | Check What Investors Should Watch - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-09-28T15:42:09+00:00
@@ -16,7 +26,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Nasdaq Today LIVE: Index Slides 1.18% as Oil Prices Surges, Treasury Yields Hit, Nvidia Bucks Tech Selloff After Fed Rate Hike Wall Street Amid Gold-Silver Crash | Check What Investors Should Watch The Sunday Guardian
 
-### 2. US Stocks Fall as Dow Drops Nearly 350 Points; AI Hardware Stocks Sold Off, Memory and Chip Shares Lead Losses; Nvidia Bucks Trend to Gain 1.6% - TradingKey
+### 3. US Stocks Fall as Dow Drops Nearly 350 Points; AI Hardware Stocks Sold Off, Memory and Chip Shares Lead Losses; Nvidia Bucks Trend to Gain 1.6% - TradingKey
 
 - Source: TradingKey
 - Published: 2026-09-28T20:18:52+00:00
@@ -26,7 +36,7 @@ Nasdaq Today LIVE: Index Slides 1.18% as Oil Prices Surges, Treasury Yields Hit,
 
 US Stocks Fall as Dow Drops Nearly 350 Points; AI Hardware Stocks Sold Off, Memory and Chip Shares Lead Losses; Nvidia Bucks Trend to Gain 1.6% TradingKey
 
-### 3. Sensex Declines 700 Points, Nifty Falls Below 22,600 and Then Recovers; Here Are the Key Reasons Behind the Fall and Recovery - Trade Brains
+### 4. Sensex Declines 700 Points, Nifty Falls Below 22,600 and Then Recovers; Here Are the Key Reasons Behind the Fall and Recovery - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-09-29T07:14:27+00:00
@@ -36,7 +46,7 @@ US Stocks Fall as Dow Drops Nearly 350 Points; AI Hardware Stocks Sold Off, Memo
 
 Sensex Declines 700 Points, Nifty Falls Below 22,600 and Then Recovers; Here Are the Key Reasons Behind the Fall and Recovery Trade Brains
 
-### 4. Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as Rising Oil Prices and FII Selling Weigh on Sentiment - The Sunday Guardian
+### 5. Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as Rising Oil Prices and FII Selling Weigh on Sentiment - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-09-29T05:15:16+00:00
@@ -46,7 +56,7 @@ Sensex Declines 700 Points, Nifty Falls Below 22,600 and Then Recovers; Here Are
 
 Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as Rising Oil Prices and FII Selling Weigh on Sentiment The Sunday Guardian
 
-### 5. Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day - Yahoo Finance
+### 6. Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-28T17:07:21+00:00
@@ -56,7 +66,7 @@ Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as Rising Oil Prices a
 
 Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend: Chart of the Day Yahoo Finance
 
-### 6. Intel Drops 4% on Oil-Driven Rate Fears, NVIDIA Rises 3% on Record $150B Buyback; Taiwan Semiconductor Slips - 24/7 Wall St.
+### 7. Intel Drops 4% on Oil-Driven Rate Fears, NVIDIA Rises 3% on Record $150B Buyback; Taiwan Semiconductor Slips - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-09-28T14:33:00+00:00
@@ -66,7 +76,7 @@ Chip stocks fall as AI breach fuels safety concerns, but Nvidia bucks the trend:
 
 Intel Drops 4% on Oil-Driven Rate Fears, NVIDIA Rises 3% on Record $150B Buyback; Taiwan Semiconductor Slips 24/7 Wall St.
 
-### 7. Nifty 50 Today: Index Falls to Near Six-Month Low as Crude Oil Surges Above $107; Check Key Stocks, Top Gainers, Losers and Market Outlook - The Sunday Guardian
+### 8. Nifty 50 Today: Index Falls to Near Six-Month Low as Crude Oil Surges Above $107; Check Key Stocks, Top Gainers, Losers and Market Outlook - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-09-29T08:14:10+00:00
@@ -76,7 +86,7 @@ Intel Drops 4% on Oil-Driven Rate Fears, NVIDIA Rises 3% on Record $150B Buyback
 
 Nifty 50 Today: Index Falls to Near Six-Month Low as Crude Oil Surges Above $107; Check Key Stocks, Top Gainers, Losers and Market Outlook The Sunday Guardian
 
-### 8. Sensex down 622.71 points, Nifty falls 184.85 amid oil prices - NewsBytes
+### 9. Sensex down 622.71 points, Nifty falls 184.85 amid oil prices - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-09-29T05:56:05+00:00
@@ -86,17 +96,17 @@ Nifty 50 Today: Index Falls to Near Six-Month Low as Crude Oil Surges Above $107
 
 Sensex down 622.71 points, Nifty falls 184.85 amid oil prices NewsBytes
 
-### 9. Sensex, Nifty cautious amid selloff, high crude, weak global cues - Asianet Newsable
+### 10. Sensex, Nifty cautious amid selloff, high crude, weak global cues - newsable.asianetnews.com
 
-- Source: Asianet Newsable
+- Source: newsable.asianetnews.com
 - Published: 2026-09-29T05:01:14+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNVmE5YlZqbEJhU01XbE9wRlQxMnhUcEJCY0RUSXdpWVIwVzBVWGZjYkw2cHJWcF85TDFfRlAxdFl2TzlxSWlzZzI2Rk5Id3hLQ3dvaU9nR0gyWmJfY0RIdnB0X2JhU3NQWElWODJYUFl3Vkh3UUVOWm5xOF9RVXA3WWtkOU1iVmwzNGlxNnpJLXBkYXlpdzVvUF9qNXpuenZ3c282aG1YeklST0pyRmFVYzZ1UllmZko2MG5aWGJReG11MG5pZUZF0gHHAUFVX3lxTE1WYTliVmpsQmFTTVdsT3BGVDEyeFRwQkJjRFRJd2lZUjBXMFVYZmNiTDZwclZwXzlMMV9GUDF0WXZPOXFJaXNnMjZGTkh3eEtDd29pT2dHSDJaYl9jREh2cHRfYmFTc1BYSVY4MlhQWXdWSHdRRU5abnE4X1FVcDdZa2Q5TWJWbDM0aXE2ekktcGRheWl3NW9QX2o1em56dndzbzZobVh6SVJPSnJGYVVjNnVSWWZmSjYwblpYYlF4bXUwbmllRkU?oc=5
 
-Sensex, Nifty cautious amid selloff, high crude, weak global cues Asianet Newsable
+Sensex, Nifty cautious amid selloff, high crude, weak global cues newsable.asianetnews.com
 
-### 10. No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; what’s dragging the market? - Fortune India
+### 11. No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; what’s dragging the market? - Fortune India
 
 - Source: Fortune India
 - Published: 2026-09-29T04:21:35+00:00
@@ -106,7 +116,7 @@ Sensex, Nifty cautious amid selloff, high crude, weak global cues Asianet Newsab
 
 No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; what’s dragging the market? Fortune India
 
-### 11. No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; what’s dragging the market? - Fortune India
+### 12. No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; what’s dragging the market? - Fortune India
 
 - Source: Fortune India
 - Published: 2026-09-29T04:21:35+00:00
@@ -116,7 +126,7 @@ No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; wha
 
 No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; what’s dragging the market? Fortune India
 
-### 12. 29 September, 2026 Stock Market Updates: Sensex, Nifty open in red a day after sharp correction - India TV News
+### 13. 29 September, 2026 Stock Market Updates: Sensex, Nifty open in red a day after sharp correction - India TV News
 
 - Source: India TV News
 - Published: 2026-09-29T03:55:11+00:00
@@ -126,37 +136,37 @@ No respite after Monday blues: Sensex slumps 568 points, Nifty below 22,650; wha
 
 29 September, 2026 Stock Market Updates: Sensex, Nifty open in red a day after sharp correction India TV News
 
-### 13. Stocks Fall And Yields Keep Climbing As Geopolitical Tensions And AI Concerns Dominate The Agenda - International Business Times
+### 14. US Stocks Fall as Dow Drops 347 Points, Nvidia Rises - Markets.com
 
-- Source: International Business Times
-- Published: 2026-09-28T20:03:16+00:00
-- Themes: AI / tech risk, market selling, macro / flows
+- Source: Markets.com
+- Published: 2026-09-28T16:06:00+00:00
+- Themes: AI / tech risk, market selling
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPcDNHeVRsODVUNG4tSEFwUjFrY1UxQmc4WU1MdE91NHdzc1ZoeHBsaVB5eEd4YkFwNEx4bkk4c3NuODVRNTljdXdiTXA3RlZXY3hKenlSOWVSS2JZNk83RnFTYVFEcGlfeXBNbmFTNlBydnBKM2VHaV9WSGsyMGRPOTNqMWgyYnUxdjhpdnVlTkw4VG9oVnZ4amZMVERqZkNSMlo1azZTNi1pencwc1paa0s4SFc?oc=5
+- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE5uSjVtMzBJSjg3ZzlBOGpoWTBhY2RaTkttWGhxY3UyZUpjNjZnVDlIbmdOaTFoci1TUkEzYTZ2Y2xZSkY3dS1nb0FmVkRwelJIVTFpT1gtcUxya2xEa3U5WE1NXzlveVg4LUZPelhYbU9KSDl6cHlDS3RsLUw2Zzg?oc=5
 
-Stocks Fall And Yields Keep Climbing As Geopolitical Tensions And AI Concerns Dominate The Agenda International Business Times
+US Stocks Fall as Dow Drops 347 Points, Nvidia Rises Markets.com
 
-### 14. Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% - AOL.com
+### 15. Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% - aol.com
 
-- Source: AOL.com
+- Source: aol.com
 - Published: 2026-09-28T15:51:29+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1wNzRFVUhtLVAyZDFEVUVwRGJzVGw1ZWpLcFBMSjB6YVEtV0o4UGtMWlZOLXZiSkNwSUIteVBVMWdoM2NBSFhhUU9Jd252eEVSWWR3djh1cU15d0ZuM0hNaFdtSmwxUnp2aC15R2ZjS1B0MWhrTzlN?oc=5
 
-Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% AOL.com
+Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% aol.com
 
-### 15. Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% - AOL.ca
+### 16. Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% - aol.ca
 
-- Source: AOL.ca
+- Source: aol.ca
 - Published: 2026-09-28T15:51:29+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5WU0xOUjZ3OVpGQTBpWW5DMFZiLXBNbjQwbDIwOUxwM3psd2FKdlZQYkdyYVpuQjhqb2tRTjA5LWVkYm5lUnBGR3lBMU5IelpHQTJnM29iOVV0cUI5S0hSdHQzbVQ5a1dFdkVlNWtFS1puMUU2Ymc?oc=5
 
-Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% AOL.ca
+Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% aol.ca
 
-### 16. Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% - 24/7 Wall St.
+### 17. Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-09-28T15:51:00+00:00
@@ -166,7 +176,7 @@ Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% AOL.c
 
 Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% 24/7 Wall St.
 
-### 17. Nifty Falls Below 23,000 as Rising Oil Prices Weigh on Indian Shares - Analytics Insight
+### 18. Nifty Falls Below 23,000 as Rising Oil Prices Weigh on Indian Shares - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-09-28T15:13:19+00:00
@@ -176,7 +186,7 @@ Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5% 24/7 
 
 Nifty Falls Below 23,000 as Rising Oil Prices Weigh on Indian Shares Analytics Insight
 
-### 18. Intel Shares Slide 5.6% as AI Chip Selloff and Profit-Taking Hit Turnaround Rally After Month-Long 40% Run - International Business Times Australia
+### 19. Intel Shares Slide 5.6% as AI Chip Selloff and Profit-Taking Hit Turnaround Rally After Month-Long 40% Run - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-09-28T14:48:36+00:00
@@ -186,7 +196,7 @@ Nifty Falls Below 23,000 as Rising Oil Prices Weigh on Indian Shares Analytics I
 
 Intel Shares Slide 5.6% as AI Chip Selloff and Profit-Taking Hit Turnaround Rally After Month-Long 40% Run International Business Times Australia
 
-### 19. China Stocks Hit 13-Month Low as Tech Selloff Deepens on Oil, Rate Worries - IndexBox
+### 20. China Stocks Hit 13-Month Low as Tech Selloff Deepens on Oil, Rate Worries - IndexBox
 
 - Source: IndexBox
 - Published: 2026-09-28T13:02:23+00:00
@@ -196,7 +206,7 @@ Intel Shares Slide 5.6% as AI Chip Selloff and Profit-Taking Hit Turnaround Rall
 
 China Stocks Hit 13-Month Low as Tech Selloff Deepens on Oil, Rate Worries IndexBox
 
-### 20. Sensex crashes 1,124 points, Nifty falls 1.56% as crude surges above $107 - Editorji
+### 21. Sensex crashes 1,124 points, Nifty falls 1.56% as crude surges above $107 - Editorji
 
 - Source: Editorji
 - Published: 2026-09-28T11:51:10+00:00
@@ -206,7 +216,7 @@ China Stocks Hit 13-Month Low as Tech Selloff Deepens on Oil, Rate Worries Index
 
 Sensex crashes 1,124 points, Nifty falls 1.56% as crude surges above $107 Editorji
 
-### 21. Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107 - lokmattimes.com
+### 22. Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107 - lokmattimes.com
 
 - Source: lokmattimes.com
 - Published: 2026-09-28T10:44:01+00:00
@@ -216,7 +226,7 @@ Sensex crashes 1,124 points, Nifty falls 1.56% as crude surges above $107 Editor
 
 Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107 lokmattimes.com
 
-### 22. Investors lose ₹8.77 lakh crore as Sensex plunges over 1,100 points; Nifty slips below 23,000 - here’s what triggered the sell-off - Fortune India
+### 23. Investors lose ₹8.77 lakh crore as Sensex plunges over 1,100 points; Nifty slips below 23,000 - here’s what triggered the sell-off - Fortune India
 
 - Source: Fortune India
 - Published: 2026-09-28T10:33:13+00:00
@@ -226,7 +236,7 @@ Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD
 
 Investors lose ₹8.77 lakh crore as Sensex plunges over 1,100 points; Nifty slips below 23,000 - here’s what triggered the sell-off Fortune India
 
-### 23. Crude Above $107 Adds To Market Jitters, Sensex Plunges 1,124 Points As Nifty Drops 1.56% And PSU Banks Sink - Free Press Journal
+### 24. Crude Above $107 Adds To Market Jitters, Sensex Plunges 1,124 Points As Nifty Drops 1.56% And PSU Banks Sink - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-09-28T10:31:03+00:00
@@ -236,17 +246,17 @@ Investors lose ₹8.77 lakh crore as Sensex plunges over 1,100 points; Nifty sli
 
 Crude Above $107 Adds To Market Jitters, Sensex Plunges 1,124 Points As Nifty Drops 1.56% And PSU Banks Sink Free Press Journal
 
-### 24. Nifty falls 1.56 pc, Sensex tanks 1,124 points as PSU banks plunge, crude tops $107 - Public TV English
+### 25. Nifty falls 1.56 pc, Sensex tanks 1,124 points as PSU banks plunge, crude tops $107 - english.publictv.in
 
-- Source: Public TV English
+- Source: english.publictv.in
 - Published: 2026-09-28T10:26:56+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNelktVTFyeXFkS3dYdXQ5SUhtbEs4ZWk1MDcxaFhQX3N4V3dELVZ6UEdlQm5xTlE2VEUwNjhLT190NG9lU0V1T2J0dENka1Y3ODdpb1NOSWJRbHBOZFVzZVVwQVRfV3RxQ0l0c0c0YkcxSzM5N3pQTDZVSGF0UHFTWkJ4RGowS1Y2eW1ZbEwzaEFuZHpUTzM3c2xBbGRLU1R3ZDh4WGw0UERJWC1D?oc=5
 
-Nifty falls 1.56 pc, Sensex tanks 1,124 points as PSU banks plunge, crude tops $107 Public TV English
+Nifty falls 1.56 pc, Sensex tanks 1,124 points as PSU banks plunge, crude tops $107 english.publictv.in
 
-### 25. Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107 - ANI News
+### 26. Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107 - ANI News
 
 - Source: ANI News
 - Published: 2026-09-28T10:16:00+00:00
@@ -256,17 +266,27 @@ Nifty falls 1.56 pc, Sensex tanks 1,124 points as PSU banks plunge, crude tops $
 
 Nifty falls 1.56%, Sensex tanks 1,124 points as PSU banks plunge, crude tops USD 107 ANI News
 
-### 26. Nifty Falls As Oil, IPO Boom Drain Liquidity: What Lies Ahead For Markets? - Business Today
+### 27. Coforge, Azad Eng, NCC, AXISCADE among buzzing stocks as SENSEX falls 400 pts; NIFTY trades below 22,700 - Upstox
 
-- Source: Business Today
+- Source: Upstox
+- Published: 2026-09-29T08:01:27+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQZXlGMjFOV3dZOHkxemx1LVgtSkktb0VNUEczdnBGdlZfb3cxckdDR3hDSEZkZXNtOEdxTVN2Z2pWd01sQlk4Mlc0bXdpN1RPcS1oSnFuM19EeVZlNTRBRXdlazZIdkFpdGhBR3JfUjdNYS13aGlCYk12dElaUXIwS0NpTjFmZGlhUHFzZ3VzNjRPbmhlcnRCVXdhTHg1ZUpnaDBSRHNFT0RWMldWN294R1JvR1djbzRZYmIxUUh6OGdlOFNpN0t2bEJEcGVfdzZadWZLdmphcVNlcnpRbTBEblRLejk0WTRtZnNKWUpTRkI?oc=5
+
+Coforge, Azad Eng, NCC, AXISCADE among buzzing stocks as SENSEX falls 400 pts; NIFTY trades below 22,700 Upstox
+
+### 28. Nifty Falls As Oil, IPO Boom Drain Liquidity: What Lies Ahead For Markets? - businesstoday.in
+
+- Source: businesstoday.in
 - Published: 2026-09-29T07:51:55+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYmt0YXdnYm1HRk1LbTJsSW15SG56OWpfb3hUQWVrX3FyOU02c3cwMHFoZWlIQ1dha3J0Z0w5ME1sX1FfajdWUWZ3aERzeTNBUWpkdjcxSTZNTkpvcXJMOWJRVEd1SW43TXNLRHFMaXNDVk9rTDBRUWlxREhwTlBWRXd1UFZsWFgtMWhPX3lwVHE0Skd3N1ppUVhueGdtOFkxVnlvU0Jhc0d4RFFRWXVkZUVmaFNOVmNaX1lwdFROYUZJcF92ei1JQlVaSXVjd0ltSHd6MUpFM2l2NVnSAeABQVVfeXFMTzJPWVlsNnZvT3MwN3M0UUJGQUw2ZmRWYk1KMWpUVmJXcjlDWnFCY21YNDBpVUk3WnVfRzJhbXc4Nk1UMGQ1d3hBWGRydWtKSlg0QUZNUTRXTVVTT1JYM3UzVkdwUk5sT2xpTVEycE5kUUlkdkw4cDBwMnlERDdsVlRzdVlGSjlMbHZWSExUVGlJaVZxZVlJWWo4WDM4dEFVNVhRdDhKZ0dlMFo4SzV5WTczWWhFNmw2VGxnXzg4ZGgxRHN1SW9BRGtXZjRkQlF4LVVKQnBYMTZGcWo1djc1RDc?oc=5
 
-Nifty Falls As Oil, IPO Boom Drain Liquidity: What Lies Ahead For Markets? Business Today
+Nifty Falls As Oil, IPO Boom Drain Liquidity: What Lies Ahead For Markets? businesstoday.in
 
-### 27. Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years - Goodreturns
+### 29. Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-09-29T06:47:26+00:00
@@ -276,7 +296,17 @@ Nifty Falls As Oil, IPO Boom Drain Liquidity: What Lies Ahead For Markets? Busin
 
 Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years Goodreturns
 
-### 28. Indian stock market opens lower; Sensex falls over 600 points, Nifty slips below 22,600 - Punjab Newsline
+### 30. IT Selloff Weighs on Equities as Sensex, Nifty Close Lower - DD News
+
+- Source: DD News
+- Published: 2026-09-29T06:21:21+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTU85YVRYU2dORkFYUzZOcHlxdFQ3eE4wbmpMQTY4RkgtR291V1FtOXFDZ3VlQUdoekdFTnpFNkZnWXhpMDNZZkxxMWlqeWdKQW4ybFRuN3hhLXJUWlg2TVVRZ3E5YmJCTXhVaC1Vc1ZqQVZRXzVyazJOeUJid0xIbXlTVFJrd21RUGs0?oc=5
+
+IT Selloff Weighs on Equities as Sensex, Nifty Close Lower DD News
+
+### 31. Indian stock market opens lower; Sensex falls over 600 points, Nifty slips below 22,600 - Punjab Newsline
 
 - Source: Punjab Newsline
 - Published: 2026-09-29T05:19:44+00:00
@@ -286,7 +316,7 @@ Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs E
 
 Indian stock market opens lower; Sensex falls over 600 points, Nifty slips below 22,600 Punjab Newsline
 
-### 29. India VIX Surges 6.6% to 14.54 as Nifty Falls Below 22,700 - HDFC Sky
+### 32. India VIX Surges 6.6% to 14.54 as Nifty Falls Below 22,700 - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-29T05:12:10+00:00
@@ -296,7 +326,7 @@ Indian stock market opens lower; Sensex falls over 600 points, Nifty slips below
 
 India VIX Surges 6.6% to 14.54 as Nifty Falls Below 22,700 HDFC Sky
 
-### 30. Sensex falls 600 points, trading at 72,100: Nifty also falls 200 points, decline continues for the eighth c... - Bhaskar English
+### 33. Sensex falls 600 points, trading at 72,100: Nifty also falls 200 points, decline continues for the eighth c... - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-09-29T05:09:09+00:00
@@ -306,7 +336,7 @@ India VIX Surges 6.6% to 14.54 as Nifty Falls Below 22,700 HDFC Sky
 
 Sensex falls 600 points, trading at 72,100: Nifty also falls 200 points, decline continues for the eighth c... Bhaskar English
 
-### 31. Sensex Tumbles 503 Points, Nifty Falls 151 Points In Early Trade - Deccan Chronicle
+### 34. Sensex Tumbles 503 Points, Nifty Falls 151 Points In Early Trade - Deccan Chronicle
 
 - Source: Deccan Chronicle
 - Published: 2026-09-29T05:02:52+00:00
@@ -316,7 +346,7 @@ Sensex falls 600 points, trading at 72,100: Nifty also falls 200 points, decline
 
 Sensex Tumbles 503 Points, Nifty Falls 151 Points In Early Trade Deccan Chronicle
 
-### 32. Sensex Falls 400 Points; Nifty Slips Below 22,700 - HDFC Sky
+### 35. Sensex Falls 400 Points; Nifty Slips Below 22,700 - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-29T04:35:44+00:00
@@ -326,7 +356,7 @@ Sensex Tumbles 503 Points, Nifty Falls 151 Points In Early Trade Deccan Chronicl
 
 Sensex Falls 400 Points; Nifty Slips Below 22,700 HDFC Sky
 
-### 33. Nifty Faces Sharp Selling Pressure, Extends Correction - Religare Broking Ltd - Investment Guru India
+### 36. Nifty Faces Sharp Selling Pressure, Extends Correction - Religare Broking Ltd - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-09-29T03:44:13+00:00
@@ -336,7 +366,7 @@ Sensex Falls 400 Points; Nifty Slips Below 22,700 HDFC Sky
 
 Nifty Faces Sharp Selling Pressure, Extends Correction - Religare Broking Ltd Investment Guru India
 
-### 34. Sensex falls 550 points, Nifty below 22,700; HDFC Bank, Kotak Bank under pressure - financialexpress.com
+### 37. Sensex falls 550 points, Nifty below 22,700; HDFC Bank, Kotak Bank under pressure - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-29T01:40:21+00:00
@@ -346,7 +376,7 @@ Nifty Faces Sharp Selling Pressure, Extends Correction - Religare Broking Ltd In
 
 Sensex falls 550 points, Nifty below 22,700; HDFC Bank, Kotak Bank under pressure financialexpress.com
 
-### 35. Today’s Market Recap: U.S. Stocks Fall as Iran Talks Stall; Nvidia Gains 2%, AMD Slides, Boeing Sinks 7% - TradingKey
+### 38. Today’s Market Recap: U.S. Stocks Fall as Iran Talks Stall; Nvidia Gains 2%, AMD Slides, Boeing Sinks 7% - TradingKey
 
 - Source: TradingKey
 - Published: 2026-09-29T00:45:03+00:00
@@ -356,7 +386,7 @@ Sensex falls 550 points, Nifty below 22,700; HDFC Bank, Kotak Bank under pressur
 
 Today’s Market Recap: U.S. Stocks Fall as Iran Talks Stall; Nvidia Gains 2%, AMD Slides, Boeing Sinks 7% TradingKey
 
-### 36. U.S. tech stocks fall as semiconductor, storage, and neocloud sectors decline - KuCoin
+### 39. U.S. tech stocks fall as semiconductor, storage, and neocloud sectors decline - KuCoin
 
 - Source: KuCoin
 - Published: 2026-09-29T00:12:42+00:00
@@ -366,7 +396,7 @@ Today’s Market Recap: U.S. Stocks Fall as Iran Talks Stall; Nvidia Gains 2%, A
 
 U.S. tech stocks fall as semiconductor, storage, and neocloud sectors decline KuCoin
 
-### 37. SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits
+### 40. SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-28T23:21:39+00:00
@@ -376,7 +406,7 @@ U.S. tech stocks fall as semiconductor, storage, and neocloud sectors decline Ku
 
 SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race Stocktwits
 
-### 38. Stocks Fall on Fog of War and Fear of AI: Stock Market Today - Kiplinger
+### 41. Stocks Fall on Fog of War and Fear of AI: Stock Market Today - Kiplinger
 
 - Source: Kiplinger
 - Published: 2026-09-28T20:10:05+00:00
@@ -386,7 +416,7 @@ SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The A
 
 Stocks Fall on Fog of War and Fear of AI: Stock Market Today Kiplinger
 
-### 39. Market Bloodbath: Sensex Falls 1,124 Points, Nifty Sheds 360 Points - The Indian Awaaz
+### 42. Market Bloodbath: Sensex Falls 1,124 Points, Nifty Sheds 360 Points - The Indian Awaaz
 
 - Source: The Indian Awaaz
 - Published: 2026-09-28T19:33:00+00:00
@@ -396,7 +426,7 @@ Stocks Fall on Fog of War and Fear of AI: Stock Market Today Kiplinger
 
 Market Bloodbath: Sensex Falls 1,124 Points, Nifty Sheds 360 Points The Indian Awaaz
 
-### 40. IT Sell-off Drags Sensex and Nifty Lower; Eicher Motors Leads Losers - The Indian Awaaz
+### 43. IT Sell-off Drags Sensex and Nifty Lower; Eicher Motors Leads Losers - The Indian Awaaz
 
 - Source: The Indian Awaaz
 - Published: 2026-09-28T19:33:00+00:00
@@ -406,17 +436,17 @@ Market Bloodbath: Sensex Falls 1,124 Points, Nifty Sheds 360 Points The Indian A
 
 IT Sell-off Drags Sensex and Nifty Lower; Eicher Motors Leads Losers The Indian Awaaz
 
-### 41. Nvidia (NASDAQ:NVDA) Defies the Market Selloff With Its Biggest Buyback Ever, a $150 Billion Boost - Stocks Down Under
+### 44. Nvidia (NASDAQ:NVDA) Defies the Market Selloff With Its Biggest Buyback Ever, a $150 Billion Boost - stocksdownunder.com
 
-- Source: Stocks Down Under
+- Source: stocksdownunder.com
 - Published: 2026-09-28T16:13:40+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE81UlVfYktUX2xRVFZsQlowRjFoUzlCQXJFSFl3V3pMV202bTFMX1A2TjdkVkg3X1RxR19YWGdBQXRtcVBwUk1DWi04N3FGVVJUZUJLTTVXN1lLTGVwRFgtRkMxemtjeXFrZ2dWc0N1aXF5dDJudGc?oc=5
 
-Nvidia (NASDAQ:NVDA) Defies the Market Selloff With Its Biggest Buyback Ever, a $150 Billion Boost Stocks Down Under
+Nvidia (NASDAQ:NVDA) Defies the Market Selloff With Its Biggest Buyback Ever, a $150 Billion Boost stocksdownunder.com
 
-### 42. Arm shares plunge 9% amid chip selloff, pressured by inflation fears and SoftBank's $25B loan tied to its stock. - Pluang
+### 45. Arm shares plunge 9% amid chip selloff, pressured by inflation fears and SoftBank's $25B loan tied to its stock. - Pluang
 
 - Source: Pluang
 - Published: 2026-09-28T16:05:34+00:00
@@ -426,7 +456,7 @@ Nvidia (NASDAQ:NVDA) Defies the Market Selloff With Its Biggest Buyback Ever, a 
 
 Arm shares plunge 9% amid chip selloff, pressured by inflation fears and SoftBank's $25B loan tied to its stock. Pluang
 
-### 43. AMKR Stock Falls Below 200-DMA For First Time In Nearly A Year – B. Riley Says AI Sentiment Pressure Remains A Risk - Stocktwits
+### 46. AMKR Stock Falls Below 200-DMA For First Time In Nearly A Year – B. Riley Says AI Sentiment Pressure Remains A Risk - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-09-28T16:03:03+00:00
@@ -436,7 +466,7 @@ Arm shares plunge 9% amid chip selloff, pressured by inflation fears and SoftBan
 
 AMKR Stock Falls Below 200-DMA For First Time In Nearly A Year – B. Riley Says AI Sentiment Pressure Remains A Risk Stocktwits
 
-### 44. Nifty Metal Today: Falls 1.78% on Broad Selloff - Univest
+### 47. Nifty Metal Today: Falls 1.78% on Broad Selloff - Univest
 
 - Source: Univest
 - Published: 2026-09-28T14:36:13+00:00
@@ -446,7 +476,7 @@ AMKR Stock Falls Below 200-DMA For First Time In Nearly A Year – B. Riley Says
 
 Nifty Metal Today: Falls 1.78% on Broad Selloff Univest
 
-### 45. Fitch warns AI market correction could push US into recession | Tap to know more | Inshorts - Inshorts
+### 48. Fitch warns AI market correction could push US into recession | Tap to know more | Inshorts - Inshorts
 
 - Source: Inshorts
 - Published: 2026-09-28T14:36:03+00:00
@@ -456,27 +486,17 @@ Nifty Metal Today: Falls 1.78% on Broad Selloff Univest
 
 Fitch warns AI market correction could push US into recession | Tap to know more | Inshorts Inshorts
 
-### 46. Nifty Falls: 22,500-22,300 Next? Expert Warns Against Bottom Fishing Amid Sharp Sell-Off - Business Today
+### 49. Nifty Falls: 22,500-22,300 Next? Expert Warns Against Bottom Fishing Amid Sharp Sell-Off - businesstoday.in
 
-- Source: Business Today
+- Source: businesstoday.in
 - Published: 2026-09-28T13:52:21+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxPd19aQXIzZHUxQ09sQzBrWkNWcFpkQkNvUzRoQkZiYzhMMVg5VDdBV0hPeTRlY1ZoU1pOUzBDdlV1T0lRR2ZUckJLZXBYWTlTN3ZZdlNfMEpuWU5HNFVJWVBtNDhKcHZFNzNwYUd4ZGJFRlUxQWltTXM3YS15M1hIdDlmazBRMzRXR0ZyVlQ5Rk5qY29nYmV1cUs4b1V2OGdUb24wWFI2bkx4aldYQjhleFFSVHVlSzJmQkdoRlYwbkNkQVNQekdta3pHaHRtSXJsSm5uXzVISXB2TlVnOHlybG9ERzhtbjFzc3N6TkpFaWxtUdIB8gFBVV95cUxPd19aQXIzZHUxQ09sQzBrWkNWcFpkQkNvUzRoQkZiYzhMMVg5VDdBV0hPeTRlY1ZoU1pOUzBDdlV1T0lRR2ZUckJLZXBYWTlTN3ZZdlNfMEpuWU5HNFVJWVBtNDhKcHZFNzNwYUd4ZGJFRlUxQWltTXM3YS15M1hIdDlmazBRMzRXR0ZyVlQ5Rk5qY29nYmV1cUs4b1V2OGdUb24wWFI2bkx4aldYQjhleFFSVHVlSzJmQkdoRlYwbkNkQVNQekdta3pHaHRtSXJsSm5uXzVISXB2TlVnOHlybG9ERzhtbjFzc3N6TkpFaWxtUQ?oc=5
 
-Nifty Falls: 22,500-22,300 Next? Expert Warns Against Bottom Fishing Amid Sharp Sell-Off Business Today
+Nifty Falls: 22,500-22,300 Next? Expert Warns Against Bottom Fishing Amid Sharp Sell-Off businesstoday.in
 
-### 47. AI-driven market correction could push US into recession, global growth below 1%: Fitch - indiasnews.net
-
-- Source: indiasnews.net
-- Published: 2026-09-28T12:06:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNSlNjb2J4N0JOdG5STlJHb3hGMGtYb2NRenVNdHgxdmlHbzBEUzktZ01meHI5WHJJT1l5emxEWkkzbVZ2STBrczdOOE9NNE9USTNaYldLOWwwd1E4SHZ1NW43enU0X0lZNVczUmY1NW9oTnZ1RUVCcEdaVnp4ZWUxQzNPUFJGd0U4RXlvMU9BUENLRy01ZWJLYU1jOVhxeTk1RHBYSVpLSGM5NTQ5Sl9xVU1CdkNWVjhiV0pJTDZwdTN5b29C?oc=5
-
-AI-driven market correction could push US into recession, global growth below 1%: Fitch indiasnews.net
-
-### 48. Stock Market Closing Today, Sep 28: Bears tighten grip as Sensex falls 1124 pts, Nifty below 22,800; PSU Bank, metal stocks bleed - ET Now
+### 50. Stock Market Closing Today, Sep 28: Bears tighten grip as Sensex falls 1124 pts, Nifty below 22,800; PSU Bank, metal stocks bleed - ET Now
 
 - Source: ET Now
 - Published: 2026-09-28T11:34:42+00:00
@@ -486,7 +506,7 @@ AI-driven market correction could push US into recession, global growth below 1%
 
 Stock Market Closing Today, Sep 28: Bears tighten grip as Sensex falls 1124 pts, Nifty below 22,800; PSU Bank, metal stocks bleed ET Now
 
-### 49. Gold, Silver ETFs fall up to 3.6%: Why precious metals are slipping as US Fed rate fears mount - India.com
+### 51. Gold, Silver ETFs fall up to 3.6%: Why precious metals are slipping as US Fed rate fears mount - India.com
 
 - Source: India.com
 - Published: 2026-09-28T11:29:06+00:00
@@ -496,7 +516,7 @@ Stock Market Closing Today, Sep 28: Bears tighten grip as Sensex falls 1124 pts,
 
 Gold, Silver ETFs fall up to 3.6%: Why precious metals are slipping as US Fed rate fears mount India.com
 
-### 50. Sandisk, Marvell and Other AI Stocks Fall. Blame OpenAI. - Barron's
+### 52. Sandisk, Marvell and Other AI Stocks Fall. Blame OpenAI. - Barron's
 
 - Source: Barron's
 - Published: 2026-09-28T11:27:00+00:00
@@ -506,17 +526,17 @@ Gold, Silver ETFs fall up to 3.6%: Why precious metals are slipping as US Fed ra
 
 Sandisk, Marvell and Other AI Stocks Fall. Blame OpenAI. Barron's
 
-### 51. Nifty May Fall Another 500 Points If Crude Stays High: Sameer Dalal - Business Today
+### 53. Nifty May Fall Another 500 Points If Crude Stays High: Sameer Dalal - businesstoday.in
 
-- Source: Business Today
+- Source: businesstoday.in
 - Published: 2026-09-28T11:23:58+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOWVpza0c5T1V0Vlppd1ZRLWQ4ejVwRmpQWDUxdDVtNzVJRnJsRDhYeE4xM3ZkQ1h5elFiVEdMY0hnTEJHdVJ2VXRsOG1yclBvdFlOMVZNUW81SVRuODVKc1BqcUJVNE9fMlEzUWFIVVFyOWRORUxpU25BR2tyN29QNDNiTVRMUGl5QW5DYzJQamstODhwdVlMS25odVB1aWZkVEVIdmxwLTV5ZkEzbzduQ0NVcEkxSVZkZ0p5N0dKd0xBSFU3MHc1Q0RtNHhQSlhuNkdXStIB2gFBVV95cUxNU3ZJTmtmT2RFZldrTXBwdzRwZHN6NktTTU5uNWlla3FQVXpXdk5sOWhLaUVhbGZuNGY2TjVJUi1sMVNjcmphejlWdjRMMEwza3RGUjl0clBBcXg1VTROcWhMMFVTdlllMm5WV19odlNpcjVvU19DdWMtdUZyZHV0S1QtRkRiMzBJbV9qX2F6SzRRZFpZVk1yRE1vMlVWNEZnNnJaVmRMMGxtWnZTLWdfR0RQMVYtOFpvZHlnaU1kNEpmbFp6RTFMVklBSW9MVU1SdFFqRVBaOTVuZw?oc=5
 
-Nifty May Fall Another 500 Points If Crude Stays High: Sameer Dalal Business Today
+Nifty May Fall Another 500 Points If Crude Stays High: Sameer Dalal businesstoday.in
 
-### 52. India VIX Surges 12% to 13.63 as Nifty Falls Below 23,000 - HDFC Sky
+### 54. India VIX Surges 12% to 13.63 as Nifty Falls Below 23,000 - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-28T11:18:25+00:00
@@ -526,17 +546,17 @@ Nifty May Fall Another 500 Points If Crude Stays High: Sameer Dalal Business Tod
 
 India VIX Surges 12% to 13.63 as Nifty Falls Below 23,000 HDFC Sky
 
-### 53. AI stocks could face correction in next six to eight months: James Iuorio - Fox Business
+### 55. AI stocks could face correction in next six to eight months: James Iuorio - foxbusiness.com
 
-- Source: Fox Business
+- Source: foxbusiness.com
 - Published: 2026-09-28T11:06:32+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MY0t3NUlPX1MyRGhXeFM4UG9mZmdoOXk4WnpzV3dUWnA2U0xGMVVheVlETVlpWUY4YWxPbzVkTE9RZWRqSkVaLVFCN3p0LUMtQzFrUlI1OGZRajg?oc=5
 
-AI stocks could face correction in next six to eight months: James Iuorio Fox Business
+AI stocks could face correction in next six to eight months: James Iuorio foxbusiness.com
 
-### 54. Stock Market Today: Nifty Falls 1.56%, Sensex Tanks 1,124 Points As PSU Banks Plunge - LatestLY
+### 56. Stock Market Today: Nifty Falls 1.56%, Sensex Tanks 1,124 Points As PSU Banks Plunge - LatestLY
 
 - Source: LatestLY
 - Published: 2026-09-28T10:52:23+00:00
@@ -546,7 +566,7 @@ AI stocks could face correction in next six to eight months: James Iuorio Fox Bu
 
 Stock Market Today: Nifty Falls 1.56%, Sensex Tanks 1,124 Points As PSU Banks Plunge LatestLY
 
-### 55. Sensex Falls 1,124 Points, Nifty Slips Below 22,800 - HDFC Sky
+### 57. Sensex Falls 1,124 Points, Nifty Slips Below 22,800 - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-09-28T10:46:07+00:00
@@ -556,7 +576,7 @@ Stock Market Today: Nifty Falls 1.56%, Sensex Tanks 1,124 Points As PSU Banks Pl
 
 Sensex Falls 1,124 Points, Nifty Slips Below 22,800 HDFC Sky
 
-### 56. Global funds halt China selloff as AI, bargains lure - Briefs Finance
+### 58. Global funds halt China selloff as AI, bargains lure - Briefs Finance
 
 - Source: Briefs Finance
 - Published: 2026-09-28T10:26:40+00:00
@@ -566,7 +586,7 @@ Sensex Falls 1,124 Points, Nifty Slips Below 22,800 HDFC Sky
 
 Global funds halt China selloff as AI, bargains lure Briefs Finance
 
-### 57. Nifty IT index falls 1%, extends decline to 8th session; HCLTech, Infosys among top losers: Here's why - Moneycontrol.com
+### 59. Nifty IT index falls 1%, extends decline to 8th session; HCLTech, Infosys among top losers: Here's why - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-09-29T08:10:05+00:00
@@ -576,17 +596,17 @@ Global funds halt China selloff as AI, bargains lure Briefs Finance
 
 Nifty IT index falls 1%, extends decline to 8th session; HCLTech, Infosys among top losers: Here's why Moneycontrol.com
 
-### 58. Nifty trading below 23,000 mark for second day; more correction likely? - Business Today
+### 60. Nifty trading below 23,000 mark for second day; more correction likely? - businesstoday.in
 
-- Source: Business Today
+- Source: businesstoday.in
 - Published: 2026-09-29T06:05:43+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWVN5M2V6aU8wVE5jSWlodjJWZGpJMHFDbW8zT2h2QXI4OXJRVFlCWUk1MEsyOV9ISkJBNFZRLTVwUk93OUpXdV9mSXpMcmFyYy0wZ0Nxa0pLMWtFTTI1ZlVBMU1ObW9fdFRuWGNZZ0lXSG95aFVYN19oRWhBMno4dzAzMk1UTnFVc1htR3lRcXpWZGxXT1RINExqR2NPNy04dmV0SXBySm5wTE9jd0lqQjlmUUFlcHQ0dnJQNFF5LWNhN3FfVUE4ZnpVd0JTX0M2MkHSAdcBQVVfeXFMUF9LUGFIN0xJUTNDVzQycUhqTnhYdlpQQlJZVUpzWXBxWEhRQzd4VUNnQ19odmw1ZWlOaklic0d3WUpFYkphRmhJWi1zY1pyS3ctYkpBckhNVmVrdDZIZF9hUzQ0UldncGpHYzVXZGd1RWhXTEVDOUxMNVNVc2hVd0VzZTFMNFEzMURtRG04RV9La2RTOTFrdVdfTWVGU0xZeXBPeVp2VS1QZ2I3WWRDQkpaWlA2RlFCOUxqR0ZKZ0VGR3d5R0NQODdsVmlNeEVvdTdDcF9ETkU?oc=5
 
-Nifty trading below 23,000 mark for second day; more correction likely? Business Today
+Nifty trading below 23,000 mark for second day; more correction likely? businesstoday.in
 
-### 59. Indian Stock Market Sell-Off: Why Nifty and Bank Nifty Are Falling and What Retail Investors Should Do Now - SMEStreet
+### 61. Indian Stock Market Sell-Off: Why Nifty and Bank Nifty Are Falling and What Retail Investors Should Do Now - SMEStreet
 
 - Source: SMEStreet
 - Published: 2026-09-29T05:55:56+00:00
@@ -596,7 +616,7 @@ Nifty trading below 23,000 mark for second day; more correction likely? Business
 
 Indian Stock Market Sell-Off: Why Nifty and Bank Nifty Are Falling and What Retail Investors Should Do Now SMEStreet
 
-### 60. Nifty At Six-Month Low With 22,600-Level Breached In Trade: What's Driving The Sell-Off? Key Levels To Watch - NDTV Profit
+### 62. Nifty At Six-Month Low With 22,600-Level Breached In Trade: What's Driving The Sell-Off? Key Levels To Watch - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-09-29T05:29:34+00:00
@@ -606,7 +626,7 @@ Indian Stock Market Sell-Off: Why Nifty and Bank Nifty Are Falling and What Reta
 
 Nifty At Six-Month Low With 22,600-Level Breached In Trade: What's Driving The Sell-Off? Key Levels To Watch NDTV Profit
 
-### 61. Nifty Below 22,600: Is Your SIP Losing Due To Oil? How $107 Crude Is Dragging Markets, And What Investors S - News18
+### 63. Nifty Below 22,600: Is Your SIP Losing Due To Oil? How $107 Crude Is Dragging Markets, And What Investors S - News18
 
 - Source: News18
 - Published: 2026-09-29T05:26:58+00:00
@@ -616,7 +636,7 @@ Nifty At Six-Month Low With 22,600-Level Breached In Trade: What's Driving The S
 
 Nifty Below 22,600: Is Your SIP Losing Due To Oil? How $107 Crude Is Dragging Markets, And What Investors S News18
 
-### 62. Sensex falls 600 points a day after 1,000-point drop | US equity futures remained subdued | Inshorts - Inshorts
+### 64. Sensex falls 600 points a day after 1,000-point drop | US equity futures remained subdued | Inshorts - Inshorts
 
 - Source: Inshorts
 - Published: 2026-09-29T04:41:52+00:00
@@ -626,7 +646,7 @@ Nifty Below 22,600: Is Your SIP Losing Due To Oil? How $107 Crude Is Dragging Ma
 
 Sensex falls 600 points a day after 1,000-point drop | US equity futures remained subdued | Inshorts Inshorts
 
-### 63. SENSEX falls over 700 points, NIFTY50 trades below 22,600; RIL, HUL hit fresh 52-week lows - Upstox
+### 65. SENSEX falls over 700 points, NIFTY50 trades below 22,600; RIL, HUL hit fresh 52-week lows - Upstox
 
 - Source: Upstox
 - Published: 2026-09-29T03:59:32+00:00
@@ -636,7 +656,7 @@ Sensex falls 600 points a day after 1,000-point drop | US equity futures remaine
 
 SENSEX falls over 700 points, NIFTY50 trades below 22,600; RIL, HUL hit fresh 52-week lows Upstox
 
-### 64. Nifty falls 1.56% as Brent futures near $108, riskoff mood deepens - Business Standard
+### 66. Nifty falls 1.56% as Brent futures near $108, riskoff mood deepens - Business Standard
 
 - Source: Business Standard
 - Published: 2026-09-28T17:36:53+00:00
@@ -646,7 +666,7 @@ SENSEX falls over 700 points, NIFTY50 trades below 22,600; RIL, HUL hit fresh 52
 
 Nifty falls 1.56% as Brent futures near $108, riskoff mood deepens Business Standard
 
-### 65. Stock Market Crash: Rs 7 lakh crore wiped out in 7 hours; Sensex falls 1,124 points | DNA Explained - Zee News
+### 67. Stock Market Crash: Rs 7 lakh crore wiped out in 7 hours; Sensex falls 1,124 points | DNA Explained - Zee News
 
 - Source: Zee News
 - Published: 2026-09-28T17:29:56+00:00
@@ -656,7 +676,17 @@ Nifty falls 1.56% as Brent futures near $108, riskoff mood deepens Business Stan
 
 Stock Market Crash: Rs 7 lakh crore wiped out in 7 hours; Sensex falls 1,124 points | DNA Explained Zee News
 
-### 66. Sensex crashes 1,124 points: What triggered Monday’s massive market selloff? - Indiablooms
+### 68. Nifty near 23,000: Dharmesh Shah sees potential reversal after 7-week correction - Check stock recommendations - ET Now
+
+- Source: ET Now
+- Published: 2026-09-28T12:48:13+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT1VXM3Jlb2RGWDE5TE44Wms0YmJjMzkwRG1NOVhiSjJEU3lWSGs5NnlyQkx5TkdycWtNWnFfSC1HbFBOM1dXNXVCWFB6Q0RfWmFjbjNxNjJGbXl1aDhxQTMzeVo0MG5IcmpDNHkxSW51TTVlbXZmam00WGhjeHZFemZmcW5tQWtBeHZuOGtqeFU2ZEp2aVZXRkhkZ0k5WkczYTFkVi1HX3k3Z2tDQVhac21sYWhCZzRlaUxmeVcwV3lMWktzbTdRRUl2UVVlZkNVZ2dwRlluMVczYWx2OExCYkFEb29kVS1MUXNRcEtRUdIB9AFBVV95cUxPM0dZeTV0SzZlZ09RamNLSS03YUF5blE5OVdzdWZIN0drbGdocFdycS05Qm5ZZkpNRXNnQ21MWjR2alRmcFRWbm5sNmlRYmFjZ3dseXAwM3dnOS1ZaWR6cEI2OGVsZi1tRWZxVEJ1a00xN2xYdkNWa0d6S3pKU0lfaWZ0ZUJISkU1clR0SzlvTjNBSHlEV1Qtdk5YbnhHTW9XSDB0X3lNSlhjdlJHQnN6TkMxOFVfdzZWc3h3Z042eFkwU1UxYk1iLTk5QmE1YlFvV0lTN1Q4T0dYOGRKQTFsRWRTajVRai0ySm83cWUtN0NmWFht?oc=5
+
+Nifty near 23,000: Dharmesh Shah sees potential reversal after 7-week correction - Check stock recommendations ET Now
+
+### 69. Sensex crashes 1,124 points: What triggered Monday’s massive market selloff? - Indiablooms
 
 - Source: Indiablooms
 - Published: 2026-09-28T11:56:33+00:00
@@ -666,7 +696,7 @@ Stock Market Crash: Rs 7 lakh crore wiped out in 7 hours; Sensex falls 1,124 poi
 
 Sensex crashes 1,124 points: What triggered Monday’s massive market selloff? Indiablooms
 
-### 67. Quick Wrap: Nifty PSU Bank Index falls 3.24%, NIFTY Crashes 1.56% - Business Standard
+### 70. Quick Wrap: Nifty PSU Bank Index falls 3.24%, NIFTY Crashes 1.56% - Business Standard
 
 - Source: Business Standard
 - Published: 2026-09-28T11:46:01+00:00
@@ -676,17 +706,17 @@ Sensex crashes 1,124 points: What triggered Monday’s massive market selloff? I
 
 Quick Wrap: Nifty PSU Bank Index falls 3.24%, NIFTY Crashes 1.56% Business Standard
 
-### 68. Market Fall Ahead? Key Sectors To Watch As Nifty Nears A Potential Buying Opportunity - Business Today
+### 71. Market Fall Ahead? Key Sectors To Watch As Nifty Nears A Potential Buying Opportunity - businesstoday.in
 
-- Source: Business Today
+- Source: businesstoday.in
 - Published: 2026-09-28T11:05:07+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN1Q1X25oQnN2WmxwQUVpR1hNdTd3Q2htRGxTLVhzcHZwblBxOUxwc1l3VkVENlVpeGd4NTlQbTNuUjR1dkxGNFRTcXVrSVhyVEVvWUF2S3U5Rk1NM2pSUEdsZmlzVWU4LXJId3RISURMYUJlLTB0ODNIWVF1Rm8xbS13c3VYWUFlLVRDUDhSTFBZU0xZNXdWM0JYaGRIUWlHLVI3amJ1VzFDTlZHODZJeXJkcENZNG4wcFpMTW4wTGtjRDd0bDhiV0pTN19Oc2pRYVUxQUMtZ0M3QndMVFJnbjhIbDgtTk50cENyNNIB8gFBVV95cUxNWk1Bdm1UNW5TZUNPZDMzQkxjNGRER1N2dVFIYWZBVGZadmtaVkZ3b1lEMzRsa3Z2OG5NZGlJZkFycFZtVGNoYmxiU2FNbkNwbWFNUzJnd19JUDg2UGNwLWdjTHdNQmFQY2FGZ05nRmJqbXZxLWRnM19KZFdUeEIzaVY3M0N6ejlHM0xmMDdtY2tXRzRYNG5od3ljSmZYclJyZmVIbVNza2pqVlZmMkc1UnQtM1ZuUm1CQ1hOYy1kaUxjUUstcXQ4R0NZNWdGRi1Sb1paZ0wtVnZ3bVBzS3ltU0tKQ1RWOU9aWW1lc2NwZmZEUQ?oc=5
 
-Market Fall Ahead? Key Sectors To Watch As Nifty Nears A Potential Buying Opportunity Business Today
+Market Fall Ahead? Key Sectors To Watch As Nifty Nears A Potential Buying Opportunity businesstoday.in
 
-### 69. Closing Bell: Nifty 50 Falls Below 22,800, Extends 7-Week Losing Streak - Dalal Street Investment Journal
+### 72. Closing Bell: Nifty 50 Falls Below 22,800, Extends 7-Week Losing Streak - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-09-28T10:39:09+00:00
@@ -696,17 +726,17 @@ Market Fall Ahead? Key Sectors To Watch As Nifty Nears A Potential Buying Opport
 
 Closing Bell: Nifty 50 Falls Below 22,800, Extends 7-Week Losing Streak Dalal Street Investment Journal
 
-### 70. Stuck during market correction? Siddhartha Khemka on Nifty targets, investing strategy and more - Business Today
+### 73. Stuck during market correction? Siddhartha Khemka on Nifty targets, investing strategy and more - businesstoday.in
 
-- Source: Business Today
+- Source: businesstoday.in
 - Published: 2026-09-28T10:10:53+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPd0x3ZGhpRzN5NUkxRUV1Rzd0TS10eDF5cktNcThieEpTbHdFdjJua2hpQWs4b180VmJrdXpFSHRwRGxmYS1JYmdvUllqcXByb1BKamFPdmhWQVNXWHdkSWplWWctTUtxRDFNT1JHbGJvV0Jkdkxkb3ZLZk9Kel9fbkpQN0hoeWJtZnN2bldFdllXQjVEMG10MnJNVWZqcUtUVkNDemttYkRFRkFLby1WMWMtZGR1ZXRJeDlVNTd1OElQcmd6MFhmU3hmMWNMWXB5ZkY0SDh4dUJRX28zQ2lNT0o3T1RrTlJWemlMZGpiQVhIcjYwTXdRb9IB-AFBVV95cUxPd0x3ZGhpRzN5NUkxRUV1Rzd0TS10eDF5cktNcThieEpTbHdFdjJua2hpQWs4b180VmJrdXpFSHRwRGxmYS1JYmdvUllqcXByb1BKamFPdmhWQVNXWHdkSWplWWctTUtxRDFNT1JHbGJvV0Jkdkxkb3ZLZk9Kel9fbkpQN0hoeWJtZnN2bldFdllXQjVEMG10MnJNVWZqcUtUVkNDemttYkRFRkFLby1WMWMtZGR1ZXRJeDlVNTd1OElQcmd6MFhmU3hmMWNMWXB5ZkY0SDh4dUJRX28zQ2lNT0o3T1RrTlJWemlMZGpiQVhIcjYwTXdRbw?oc=5
 
-Stuck during market correction? Siddhartha Khemka on Nifty targets, investing strategy and more Business Today
+Stuck during market correction? Siddhartha Khemka on Nifty targets, investing strategy and more businesstoday.in
 
-### 71. Nifty 50 top gainers and losers today, September 28: Jio Financial Services falls 3.4%, Adani Enterprises down 3.3%; Dr Reddy’s gains 1.7% - Business Upturn
+### 74. Nifty 50 top gainers and losers today, September 28: Jio Financial Services falls 3.4%, Adani Enterprises down 3.3%; Dr Reddy’s gains 1.7% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-28T10:10:43+00:00
@@ -716,7 +746,7 @@ Stuck during market correction? Siddhartha Khemka on Nifty targets, investing st
 
 Nifty 50 top gainers and losers today, September 28: Jio Financial Services falls 3.4%, Adani Enterprises down 3.3%; Dr Reddy’s gains 1.7% Business Upturn
 
-### 72. Nifty 50 Falls Below 23,000 as Brent Near $107 and Foreign Selling Erase Rs 6 Lakh Crore Value - International Business Times Australia
+### 75. Nifty 50 Falls Below 23,000 as Brent Near $107 and Foreign Selling Erase Rs 6 Lakh Crore Value - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-09-28T09:32:48+00:00
@@ -726,17 +756,17 @@ Nifty 50 top gainers and losers today, September 28: Jio Financial Services fall
 
 Nifty 50 Falls Below 23,000 as Brent Near $107 and Foreign Selling Erase Rs 6 Lakh Crore Value International Business Times Australia
 
-### 73. Aditya Birla Fashion and Retail - FIIs cut stake in 12 smallcap stocks over 2 quarters; shares fall up to 50% in CY26 - The Economic Times
+### 76. Aditya Birla Fashion and Retail - FIIs cut stake in 12 smallcap stocks over 2 quarters; shares fall up to 50% in CY26 - economictimes.com
 
-- Source: The Economic Times
+- Source: economictimes.com
 - Published: 2026-09-28T09:17:15+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxNaW40MmdBVXIxX3EwN3lPUk5TeUZoNnF3c1liWEx6STFDM0RxMGVyUjNrTDRnNEI3eG5YNUFDbTNLWDhXMTRMd0pxbm0tSkJtUnBCZ01GMzdFbzVJUDA1UXFqRW9jMHZwZjB6SXQ3Nm90NGtJOUdCazBjc2dsNUNjbktEblpTVkJxbnBMSVdvcExZZ1VIY250Q1pIenRwLWhaX19BRFNsUzBJM2NxVjdPYUlGSEhXbHRBdHZ0UzA0enhWSXZfVXZGUUliZlprdUlCS3dsRHNZRkJ5TFBTbElVRzBWcjdCczdFRmxFRFQ3OTU2SmlJQTV4UHExSHk5SG9iWFE0aXFCMnQ1TF9DZEE5MExWbw?oc=5
 
-Aditya Birla Fashion and Retail - FIIs cut stake in 12 smallcap stocks over 2 quarters; shares fall up to 50% in CY26 The Economic Times
+Aditya Birla Fashion and Retail - FIIs cut stake in 12 smallcap stocks over 2 quarters; shares fall up to 50% in CY26 economictimes.com
 
-### 74. Share Market Today: Sensex, Nifty Crash As Oil Prices, Weak Rupee and FII Selling Weigh on Markets - Oneindia
+### 77. Share Market Today: Sensex, Nifty Crash As Oil Prices, Weak Rupee and FII Selling Weigh on Markets - Oneindia
 
 - Source: Oneindia
 - Published: 2026-09-29T05:51:13+00:00
@@ -746,7 +776,7 @@ Aditya Birla Fashion and Retail - FIIs cut stake in 12 smallcap stocks over 2 qu
 
 Share Market Today: Sensex, Nifty Crash As Oil Prices, Weak Rupee and FII Selling Weigh on Markets Oneindia
 
-### 75. Why is the stock market falling today? Nifty slips below 22,600 as crude oil, US yields and FII selling hit sentiment - Business Upturn
+### 78. Why is the stock market falling today? Nifty slips below 22,600 as crude oil, US yields and FII selling hit sentiment - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-29T04:21:53+00:00
@@ -756,7 +786,7 @@ Share Market Today: Sensex, Nifty Crash As Oil Prices, Weak Rupee and FII Sellin
 
 Why is the stock market falling today? Nifty slips below 22,600 as crude oil, US yields and FII selling hit sentiment Business Upturn
 
-### 76. Why is Nifty down today? Index breaks 22,600 as crude oil, 19-year-high US yields and FII selling hit markets - Business Upturn
+### 79. Why is Nifty down today? Index breaks 22,600 as crude oil, 19-year-high US yields and FII selling hit markets - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-09-29T04:16:53+00:00
@@ -766,42 +796,12 @@ Why is the stock market falling today? Nifty slips below 22,600 as crude oil, US
 
 Why is Nifty down today? Index breaks 22,600 as crude oil, 19-year-high US yields and FII selling hit markets Business Upturn
 
-### 77. Markets: Sensex tanks 1,248 pts, Nifty below 23,100 as US bond yields, crude oil surge - The Indian Awaaz
+### 80. Why is Nifty down today? Index breaks 22,600 as crude oil, 19-year-high US yields and FII selling hit markets - Business Upturn
 
-- Source: The Indian Awaaz
-- Published: 2026-09-28T19:33:00+00:00
+- Source: Business Upturn
+- Published: 2026-09-29T04:16:33+00:00
 - Themes: India market, macro / flows
 - Score: 5
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQUjZGVmhqZlhCQW1BSWt3ZERhZUpLa1RmaVpMZEFNUXlWYTFBN0tldVR6cmE1dlFSSGpfQUY2Vlo5aUxzLTZCbHRPeW9Pa1NrVFVCMm9rMnhidVBGeFRTenBOOUlMeVhJZFNRS0p4a2FhTmVvaGE1Wjd0dU12bHVYRllwUjFlODJraXNsNTBJVVNmLVJCRENmQ1B5OHdoZWVVU0g3ejFXZEJCcnNfcUE?oc=5
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxOejU1b1BsdFJYRktkX0pENmRjT2FLZ3FNdGE0WEJjVk9sRndYdFVDb2JiWUFoRmxRUnRGeEVzUTNuVFc5eGg2Nm9WTHIxZ0x1emVVRmRpckI4a29RQy0tTGZCcGJ2X3p0cmxiS0M5ZmRtbFpQZFJnV0lXb3NsVklwMlBiZDYwVkNuUTFVN0VxbUxrUG1GSTRodE13RUJRalJSSVBHY2UwYV9YMFZEZV9EUjN6eVRrZHdnS3FRbVNrTkJOdWMyc0dkNzhmSWU2N09PRHBqdzdjb1FnUWEtU3Rud1BSQ3FYXy1TeWlSVg?oc=5
 
-Markets: Sensex tanks 1,248 pts, Nifty below 23,100 as US bond yields, crude oil surge The Indian Awaaz
-
-### 78. 'Americans can love INDIA too': Traveller finds 'clean water' in Himachal, takes sip straight from stream; In - India.com
-
-- Source: India.com
-- Published: 2026-09-29T07:25:53+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxORmN4ZEI3eG5MaWV2WjZ0ckVfeVF0TG81eDFXYXBYMFk2ZnBHTnZwX19uVzVqbWZCNnZ3Qy01NENpLW5oLUNsb3JvVGx2RFFTWnFwY0RhYjZja01KcUZlRjZPTlJkc0J1NWVNak9fZVpEbHN6a21MZmFwaHE5a096VEhwZHZ3akZ0a0Z4MUpSQlNhQmNTVTdYYXpMTElkUGdmZ25fWGlfWlJZWWRfVnlVT3ZMd1JsbFhxMmREVEhUS0hWb0V4c2lMVkswMzFwQzF0d3VDRDE0WDFlUVBwWkJ3MEJrakhzaW9sUUZJRjFRR082WDdCaXJuaU1zTmp2VGFjM09naGxFTzZjWWYxT3dqSXZoUFRvR2dEWjQzM9IBogJBVV95cUxQWUduZ0dDd25lazlGcDhFSm1vUV8xMlJrLUNKXzRiTklQWWYxamZ6RktLeEdQMkk1bFl1emJYSWhPVFFDNV9pdThuSHhXdm0xQl91cmxDUEZaMWNWZVZMLU5NU2xVNzdOb1FfQmJia2xOb2poRzE2Wk1HYjZJRWY5RkNEWmR5OFpHVmZWcHZlclJ1b2dzUVJwSHVBcGl0YTRkaWhRbFJXQTNGaTVBWnhJWktrM3phQjRKaG4zZUtOWmVwa0haTVBULUo2LVk2ZlR3UXk4aG5Yb1Q2QWxYSldsOGJ2NHpDQU5uOXZ1TmlSQlgzZDBRTnFQNVFxRUxlRzI3VC1MbUVIMFlBQUM3MURHN0prRnRGQ3g2cHh2Qjc3bEZsdw?oc=5
-
-'Americans can love INDIA too': Traveller finds 'clean water' in Himachal, takes sip straight from stream; In India.com
-
-### 79. All 36 smallcap mutual funds deliver double digit returns in 6 months. Should investors continue SIPs or wait? - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-09-29T05:27:38+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxQR0VieFVUc25lWTdFZ0NUczdNb1doNW1MSmpJYlE5QllrRHp4aUZHc09wSjF4MGFuMkFYdjFvZHNHZjAtMmdvRF9uODlNdTdCNDFMRHg2bmlYMWdLcUhxMnJ2UXpITUFiUEFsQllycFpNSWY0WFdVcVNhNDNpQ0p3dm5ZbDFJUWk0SHNQUFg5X1pqSEJ3OW84bTFCWGE0SHdDZ2VCN0J5LUhnSm54OXJkcHd6RlNGa1hXSmtRQ2RFT3l4WjNLSnlFRjJKa2JwMHE2QUhJNVU0U2NwTjFkX0hEcXlIa24tUUtPWEI2dVJIdWlmalpQa20tQnBvT1pGbDFFeUx0Rzdmcms4N2xEa2RVNg?oc=5
-
-All 36 smallcap mutual funds deliver double digit returns in 6 months. Should investors continue SIPs or wait? The Economic Times
-
-### 80. Sensex tanks 585 points, Nifty loses over 170 points in early trade amid elevated crude oil prices - Mid-Day
-
-- Source: Mid-Day
-- Published: 2026-09-29T04:55:00+00:00
-- Themes: India market, macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxONHA1andhTXVRcGhfdnN2TWU3Wk00UUMzSlMxLThCd2QwZnI0Z2k0Zjg0MWYweEc2ekZIQ2dIWHplRDQwLWtSNXV1Qm1oN2FwOWh4OS1LcEVzbHd5UGJmb25yQVYxZjdmdDBSTFk5RHFncU1tbUpMVW9ORFoyM0dnZ0FzRXZTNXpsZk9TaFNuYUx4RTB3d2t6MzNRLUttaEJ1Q0NIbXpsTF8wRDNDZVdYOGM0Z0xJNzdnQThYRGkzZmMxQ1VEYnZvMnRDQVF0cVB1bDhTT0NDZk1zb3k3WU1PVnBmZTRpQ3pSS09ZVjAwVW9LS1XSAfgBQVVfeXFMTW5PTEJ2X1AxX1kwR3hYNkNXcHhuSURfVXMwRDJjbzhtSVR1WHQ3SnQwekhuelhKVkQxOHBBMEFNQ2t2cXpWM3lvdEtLSkN1TE9HdU9lZGNVbHdmSkw5ODlhYldXX3kyaS1WZm4xaFdQUFZFMXZCTVFyY2REdFFxOFBEblVDcy14cXpIY1M4bXlaVEFHS3h6cVFMMlBBanNDb2YwSjBYalBXNkl0REUyQTMtME5vU2sxSUo3ejRfVTRydDQ1RExqVnpyU0xIeUlJek44aDFJOXdIUnNta21iZktjYmNQMTJvX0dkcEpCMDZHV2FwRlZiVlM?oc=5
-
-Sensex tanks 585 points, Nifty loses over 170 points in early trade amid elevated crude oil prices Mid-Day
+Why is Nifty down today? Index breaks 22,600 as crude oil, 19-year-high US yields and FII selling hit markets Business Upturn
