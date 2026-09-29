@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:04:03+05:30",
+  "generated_at": "2026-09-29T22:11:17+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -123,7 +123,7 @@
         "advancers": 0,
         "decliners": 1,
         "average_1d_pct": -1.188,
-        "average_volume_ratio_20d": 1.983
+        "average_volume_ratio_20d": 1.982
       },
       {
         "sector": "Consumer durables",
@@ -1755,10 +1755,10 @@
         "ltp": 170.47,
         "previous_close": 172.52,
         "day_move_pct": -1.1883,
-        "session_volume": 23223.0,
+        "session_volume": 23213.0,
         "average_volume_20d": 11712.0,
-        "volume_ratio_20d": 1.983,
-        "turnover_proxy": 3958825.0,
+        "volume_ratio_20d": 1.982,
+        "turnover_proxy": 3957120.0,
         "quote_date": "2026-09-29",
         "quote_timestamp": "2026-09-29 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
