@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30 15:34 IST",
+  "generated_at": "2026-09-30 15:41 IST",
   "wire_file": "2026-09-30-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,12 +23,12 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "62",
-    "wire_total_count": "155",
+    "wire_count": "64",
+    "wire_total_count": "154",
     "wire_scope_date": "2026-09-30",
     "ai_wire_count": "8",
-    "selling_wire_count": "31",
-    "india_wire_count": "44",
+    "selling_wire_count": "32",
+    "india_wire_count": "46",
     "weak_index_count": "12",
     "valid_index_count": "25"
   },
@@ -36,12 +36,12 @@
     {
       "label": "Newest Wire · 2026-09-30 09:59",
       "title": "Nifty 50 Falls on Final Day of September to Close at 22,616 - Business Upturn",
-      "text": "Latest dated headline · Business Upturn. Today's unique wire set contains 62 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · Business Upturn. Today's unique wire set contains 64 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-09-30",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-09-30 has 44 India-market wires, 31 selling/risk wires, and 8 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-09-30 has 46 India-market wires, 32 selling/risk wires, and 8 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-09-30",
@@ -51,7 +51,7 @@
     {
       "label": "India Trigger · 2026-09-30",
       "title": "Crude is the local swing factor",
-      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Sensex Today: Index Gains 100 Points to 72,630; TCS Leads Gains Amid FII Selling, Crude Oil Impact; Check Top Gainers, Losers and Market Outlook - The Sunday Guardian"
+      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Sensex Today: Index Gains 100 Points to 72,630; TCS Leads Gains Amid FII Selling, Crude Oil Impact; Check Top Gainers, Losers and Market Outlook - sundayguardianlive.com"
     }
   ],
   "indices": [
@@ -669,12 +669,12 @@
       "name": "DAX",
       "ticker": "^GDAXI",
       "last_date": "2026-09-30",
-      "quote_timestamp": "2026-09-30 09:45:00+00:00",
+      "quote_timestamp": "2026-09-30 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-09-29",
       "previous_close": 25399.21,
-      "last": 25351.31,
-      "return_1d_pct": -0.18859007369508296,
+      "last": 25370.29,
+      "return_1d_pct": -0.11386918700414528,
       "return_5d_pct": -0.7022937881035918,
       "return_20d_pct": -2.198290462532948,
       "rsi_14": 43.6,
@@ -698,12 +698,12 @@
       "name": "FTSE 100",
       "ticker": "^FTSE",
       "last_date": "2026-09-30",
-      "quote_timestamp": "2026-09-30 09:45:00+00:00",
+      "quote_timestamp": "2026-09-30 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-09-29",
       "previous_close": 10636.7,
-      "last": 10657.92,
-      "return_1d_pct": 0.19949539023249585,
+      "last": 10665.52,
+      "return_1d_pct": 0.27094244839391823,
       "return_5d_pct": -0.6686365779902559,
       "return_20d_pct": -1.4143606363473338,
       "rsi_14": 42.72,
@@ -727,12 +727,12 @@
       "name": "CAC 40",
       "ticker": "^FCHI",
       "last_date": "2026-09-30",
-      "quote_timestamp": "2026-09-30 09:45:00+00:00",
+      "quote_timestamp": "2026-09-30 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-09-29",
       "previous_close": 8035.87,
-      "last": 7997.09,
-      "return_1d_pct": -0.4825895997815466,
+      "last": 7999.52,
+      "return_1d_pct": -0.45234799873759,
       "return_5d_pct": -1.4597345253554606,
       "return_20d_pct": -3.2038582328345,
       "rsi_14": 34.37,
@@ -756,12 +756,12 @@
       "name": "Euro Stoxx 50",
       "ticker": "^STOXX50E",
       "last_date": "2026-09-30",
-      "quote_timestamp": "2026-09-30 09:45:00+00:00",
+      "quote_timestamp": "2026-09-30 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-09-29",
       "previous_close": 6320.26,
-      "last": 6306.38,
-      "return_1d_pct": -0.21960937251330748,
+      "last": 6306.35,
+      "return_1d_pct": -0.22008063726118854,
       "return_5d_pct": -0.07052405588284794,
       "return_20d_pct": -0.7649610297591813,
       "rsi_14": 48.49,
@@ -799,7 +799,7 @@
       "advancers": 1,
       "decliners": 3,
       "advance_decline_ratio": 0.33,
-      "average_1d_pct": -0.17,
+      "average_1d_pct": -0.13,
       "average_5d_pct": -0.73,
       "above_20dma_pct": 25.0,
       "above_50dma_pct": 0.0
@@ -992,12 +992,12 @@
         "name": "CAC 40",
         "ticker": "^FCHI",
         "last_date": "2026-09-30",
-        "quote_timestamp": "2026-09-30 09:45:00+00:00",
+        "quote_timestamp": "2026-09-30 09:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-09-29",
         "previous_close": 8035.87,
-        "last": 7997.09,
-        "return_1d_pct": -0.4825895997815466,
+        "last": 7999.52,
+        "return_1d_pct": -0.45234799873759,
         "return_5d_pct": -1.4597345253554606,
         "return_20d_pct": -3.2038582328345,
         "rsi_14": 34.37,
@@ -1108,12 +1108,12 @@
         "name": "Euro Stoxx 50",
         "ticker": "^STOXX50E",
         "last_date": "2026-09-30",
-        "quote_timestamp": "2026-09-30 09:45:00+00:00",
+        "quote_timestamp": "2026-09-30 09:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-09-29",
         "previous_close": 6320.26,
-        "last": 6306.38,
-        "return_1d_pct": -0.21960937251330748,
+        "last": 6306.35,
+        "return_1d_pct": -0.22008063726118854,
         "return_5d_pct": -0.07052405588284794,
         "return_20d_pct": -0.7649610297591813,
         "rsi_14": 48.49,
@@ -1205,10 +1205,10 @@
         "last": 369.55,
         "return_1d_pct": 3.04,
         "return_5d_pct": 4.054623157527515,
-        "volume": 2404319.0,
-        "avg_volume_20": 1860099.15,
+        "volume": 2404307.0,
+        "avg_volume_20": 1860098.55,
         "volume_ratio_20d": 1.29,
-        "turnover_proxy": 888516057.1004028,
+        "turnover_proxy": 888511622.5005493,
         "above_20dma": true,
         "above_50dma": true
       },
@@ -1220,10 +1220,10 @@
         "last": 2699.0,
         "return_1d_pct": 2.44,
         "return_5d_pct": 0.28983535113131786,
-        "volume": 44089.0,
-        "avg_volume_20": 14064.1,
+        "volume": 44086.0,
+        "avg_volume_20": 14063.95,
         "volume_ratio_20d": 3.13,
-        "turnover_proxy": 118996211.0,
+        "turnover_proxy": 118988114.0,
         "above_20dma": true,
         "above_50dma": false
       },
@@ -1235,10 +1235,10 @@
         "last": 328.6,
         "return_1d_pct": 2.34,
         "return_5d_pct": 1.907270480280121,
-        "volume": 445294.0,
-        "avg_volume_20": 321720.15,
+        "volume": 445280.0,
+        "avg_volume_20": 321719.45,
         "volume_ratio_20d": 1.38,
-        "turnover_proxy": 146323611.1178589,
+        "turnover_proxy": 146319010.71777344,
         "above_20dma": true,
         "above_50dma": true
       },
@@ -1250,10 +1250,10 @@
         "last": 170.63,
         "return_1d_pct": 2.27,
         "return_5d_pct": 1.8625816239575155,
-        "volume": 1417369.0,
-        "avg_volume_20": 990779.2,
+        "volume": 1416807.0,
+        "avg_volume_20": 990751.1,
         "volume_ratio_20d": 1.43,
-        "turnover_proxy": 241845679.39074707,
+        "turnover_proxy": 241749785.32800293,
         "above_20dma": true,
         "above_50dma": true
       },
@@ -1265,10 +1265,10 @@
         "last": 141.91,
         "return_1d_pct": 2.15,
         "return_5d_pct": 0.2543275186083438,
-        "volume": 31903965.0,
-        "avg_volume_20": 12136859.7,
+        "volume": 31900665.0,
+        "avg_volume_20": 12136694.7,
         "volume_ratio_20d": 2.63,
-        "turnover_proxy": 4527491789.985809,
+        "turnover_proxy": 4527023486.973724,
         "above_20dma": true,
         "above_50dma": true
       },
@@ -1280,10 +1280,10 @@
         "last": 324.8,
         "return_1d_pct": 2.09,
         "return_5d_pct": 0.10786733634462475,
-        "volume": 3399072.0,
-        "avg_volume_20": 1620304.6,
+        "volume": 3398072.0,
+        "avg_volume_20": 1620254.6,
         "volume_ratio_20d": 2.1,
-        "turnover_proxy": 1104018544.1074219,
+        "turnover_proxy": 1103693744.119629,
         "above_20dma": false,
         "above_50dma": false
       }
@@ -1312,10 +1312,10 @@
         "last": 574.75,
         "return_1d_pct": -3.7,
         "return_5d_pct": -7.462562776984738,
-        "volume": 134268.0,
-        "avg_volume_20": 91121.2,
+        "volume": 134253.0,
+        "avg_volume_20": 91120.45,
         "volume_ratio_20d": 1.47,
-        "turnover_proxy": 77170533.0,
+        "turnover_proxy": 77161911.75,
         "above_20dma": false,
         "above_50dma": false
       },
@@ -1327,10 +1327,10 @@
         "last": 253.6,
         "return_1d_pct": -3.22,
         "return_5d_pct": -7.462135595824981,
-        "volume": 384612.0,
-        "avg_volume_20": 172710.45,
+        "volume": 384611.0,
+        "avg_volume_20": 172710.4,
         "volume_ratio_20d": 2.23,
-        "turnover_proxy": 97537605.54748535,
+        "turnover_proxy": 97537351.94747925,
         "above_20dma": false,
         "above_50dma": false
       },
@@ -1342,10 +1342,10 @@
         "last": 805.55,
         "return_1d_pct": -2.92,
         "return_5d_pct": 9.92017665674414,
-        "volume": 221248.0,
-        "avg_volume_20": 361411.75,
+        "volume": 221246.0,
+        "avg_volume_20": 361411.65,
         "volume_ratio_20d": 0.61,
-        "turnover_proxy": 178226323.69921875,
+        "turnover_proxy": 178224712.59924316,
         "above_20dma": true,
         "above_50dma": true
       },
@@ -1372,10 +1372,10 @@
         "last": 128.9,
         "return_1d_pct": -2.55,
         "return_5d_pct": -4.241888929482762,
-        "volume": 528662.0,
-        "avg_volume_20": 518869.15,
+        "volume": 528612.0,
+        "avg_volume_20": 518866.65,
         "volume_ratio_20d": 1.02,
-        "turnover_proxy": 68144528.57330322,
+        "turnover_proxy": 68138083.5736084,
         "above_20dma": false,
         "above_50dma": true
       },
@@ -1387,10 +1387,10 @@
         "last": 263.85,
         "return_1d_pct": -2.44,
         "return_5d_pct": -8.194150415135704,
-        "volume": 489757.0,
-        "avg_volume_20": 663869.95,
+        "volume": 489511.0,
+        "avg_volume_20": 663857.65,
         "volume_ratio_20d": 0.74,
-        "turnover_proxy": 129222387.4392395,
+        "turnover_proxy": 129157480.33773804,
         "above_20dma": false,
         "above_50dma": false
       },
@@ -1402,10 +1402,10 @@
         "last": 232.2,
         "return_1d_pct": -2.31,
         "return_5d_pct": 3.0625804718250604,
-        "volume": 383114.0,
-        "avg_volume_20": 222557.95,
+        "volume": 383105.0,
+        "avg_volume_20": 222557.5,
         "volume_ratio_20d": 1.72,
-        "turnover_proxy": 88959069.63082886,
+        "turnover_proxy": 88956979.83085632,
         "above_20dma": true,
         "above_50dma": true
       }
@@ -2085,7 +2085,7 @@
         "distance_from_52w_high_pct": -8.87,
         "fresh_52w_high": true,
         "within_3pct_52w_high": false,
-        "volume": 34672074,
+        "volume": 34672059,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2105,7 +2105,7 @@
         "distance_from_52w_high_pct": -2.24,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 1251536,
+        "volume": 1251534,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2125,7 +2125,7 @@
         "distance_from_52w_high_pct": -2.04,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 3787780,
+        "volume": 3787779,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2145,7 +2145,7 @@
         "distance_from_52w_high_pct": -4.15,
         "fresh_52w_high": true,
         "within_3pct_52w_high": false,
-        "volume": 1493290,
+        "volume": 1493269,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -2187,7 +2187,7 @@
         "distance_from_52w_high_pct": -1.79,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 421263,
+        "volume": 421253,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2207,7 +2207,7 @@
         "distance_from_52w_high_pct": -2.04,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 3787780,
+        "volume": 3787779,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2227,7 +2227,7 @@
         "distance_from_52w_high_pct": -2.24,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 1251536,
+        "volume": 1251534,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2247,7 +2247,7 @@
         "distance_from_52w_high_pct": -2.43,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 3089636,
+        "volume": 3089635,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2267,7 +2267,7 @@
         "distance_from_52w_high_pct": -2.53,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 525991,
+        "volume": 525989,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2287,7 +2287,7 @@
         "distance_from_52w_high_pct": -2.84,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 342903,
+        "volume": 342902,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2307,7 +2307,7 @@
         "distance_from_52w_high_pct": -2.98,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 4204185,
+        "volume": 4204174,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -2519,7 +2519,7 @@
         "distance_from_52w_high_pct": -61.19,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 19087942,
+        "volume": 19087941,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2559,7 +2559,7 @@
         "distance_from_52w_high_pct": -57.75,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 709768,
+        "volume": 709640,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2579,7 +2579,7 @@
         "distance_from_52w_high_pct": -57.05,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 121086,
+        "volume": 121081,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2619,7 +2619,7 @@
         "distance_from_52w_high_pct": -55.1,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 443357,
+        "volume": 443355,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2659,7 +2659,7 @@
         "distance_from_52w_high_pct": -54.4,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 300372,
+        "volume": 300371,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2679,7 +2679,7 @@
         "distance_from_52w_high_pct": -53.82,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2625014,
+        "volume": 2624514,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2699,7 +2699,7 @@
         "distance_from_52w_high_pct": -51.63,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1480136,
+        "volume": 1480045,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2719,7 +2719,7 @@
         "distance_from_52w_high_pct": -50.78,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 923426,
+        "volume": 923416,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2739,7 +2739,7 @@
         "distance_from_52w_high_pct": -50.69,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 456794,
+        "volume": 456793,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2759,7 +2759,7 @@
         "distance_from_52w_high_pct": -50.02,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 59996,
+        "volume": 59995,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2799,7 +2799,7 @@
         "distance_from_52w_high_pct": -49.25,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2517771,
+        "volume": 2517723,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2819,7 +2819,7 @@
         "distance_from_52w_high_pct": -48.65,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 994813,
+        "volume": 994812,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2839,7 +2839,7 @@
         "distance_from_52w_high_pct": -48.31,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 370514,
+        "volume": 370486,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2871,15 +2871,15 @@
         "last_price": 46.32,
         "open": null,
         "day_high": 47.29,
-        "day_low": 46.0,
+        "day_low": 45.97,
         "previous_close": 46.24,
         "change_pct": 0.17,
         "year_high": 88.99,
-        "year_low": 46.0,
+        "year_low": 45.97,
         "distance_from_52w_high_pct": -47.95,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 3804990,
+        "volume": 3804978,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2899,7 +2899,7 @@
         "distance_from_52w_high_pct": -47.66,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 312963,
+        "volume": 312955,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3021,7 +3021,7 @@
         "distance_from_52w_high_pct": -21.78,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2346060,
+        "volume": 2346051,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3041,7 +3041,7 @@
         "distance_from_52w_high_pct": -12.53,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2394220,
+        "volume": 2394153,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3081,7 +3081,7 @@
         "distance_from_52w_high_pct": -6.31,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1718142,
+        "volume": 1718052,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3181,7 +3181,7 @@
         "distance_from_52w_high_pct": -12.14,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 229002,
+        "volume": 229001,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3201,7 +3201,7 @@
         "distance_from_52w_high_pct": -18.37,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 363617,
+        "volume": 363546,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3221,7 +3221,7 @@
         "distance_from_52w_high_pct": -20.96,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 194941,
+        "volume": 194917,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3241,7 +3241,7 @@
         "distance_from_52w_high_pct": -26.23,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 812482,
+        "volume": 811809,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3293,7 +3293,7 @@
         "last_price": 157.48,
         "open": null,
         "day_high": 164.29,
-        "day_low": 156.47,
+        "day_low": 155.85,
         "previous_close": 163.71,
         "change_pct": -3.81,
         "year_high": 183.97,
@@ -3301,7 +3301,7 @@
         "distance_from_52w_high_pct": -14.4,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 3304508,
+        "volume": 3304226,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3321,7 +3321,7 @@
         "distance_from_52w_high_pct": -36.98,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 331521,
+        "volume": 331497,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3341,7 +3341,7 @@
         "distance_from_52w_high_pct": -12.63,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 822056,
+        "volume": 822053,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3361,7 +3361,7 @@
         "distance_from_52w_high_pct": -11.59,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 457704,
+        "volume": 457700,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -10665,7 +10665,7 @@
         "advancers": 10,
         "decliners": 4,
         "average_1d_pct": 0.371,
-        "average_volume_ratio_20d": 1.175
+        "average_volume_ratio_20d": 1.148
       },
       {
         "sector": "Information Technology",
@@ -20569,7 +20569,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-09-30T15:33:58+05:30",
+    "generated_at": "2026-09-30T15:40:57+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -22323,7 +22323,7 @@
           "advancers": 10,
           "decliners": 4,
           "average_1d_pct": 0.371,
-          "average_volume_ratio_20d": 1.175
+          "average_volume_ratio_20d": 1.148
         },
         {
           "sector": "Information Technology",
@@ -24639,10 +24639,10 @@
           "ltp": 4637.0,
           "previous_close": 4576.0,
           "day_move_pct": 1.333,
-          "session_volume": 18437.0,
+          "session_volume": 13686.0,
           "average_volume_20d": 12397.0,
-          "volume_ratio_20d": 1.487,
-          "turnover_proxy": 85492369.0,
+          "volume_ratio_20d": 1.104,
+          "turnover_proxy": 63461982.0,
           "quote_date": "2026-09-30",
           "quote_timestamp": "2026-09-30 15:25 IST",
           "quote_type": "Yahoo 5-minute quote",
@@ -32920,15 +32920,6 @@
       "description": "Sensex rises 130 points, Nifty falls below 22,700 amid cooling oil, rising bond yields. What lies ahead? The Economic Times"
     },
     {
-      "published": "2026-09-29T16:05:42+00:00",
-      "score": 9.0,
-      "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "INDIA New England News",
-      "title": "Sensex, Nifty Fall for Second Straight Session as Oil Prices Pressure Markets - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNERfVy1BLVpPN1NwQVpRaUhFSkptNEhzUkN3MFBIeF9fR29SMk93Ym9uMlBma3lzTWtsV0tiZ3pJYXVFUGlTMC1HWmlzU0lackNFWUt1OFJHYWN0dWdRV3RKY0VwWDRvWjAwaEtHYUZJblcwQW9ZZHkxWENETllhemxwZktHT2FqdFJaWTZtUkx6R2wxdS1qMnB3eHEzcDVSdFp6czQzWm0?oc=5",
-      "description": "Sensex, Nifty Fall for Second Straight Session as Oil Prices Pressure Markets INDIA New England News"
-    },
-    {
       "published": "2026-09-29T12:35:01+00:00",
       "score": 9.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
@@ -32941,10 +32932,10 @@
       "published": "2026-09-29T11:28:24+00:00",
       "score": 9.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "psuwatch.com",
-      "title": "Sensex falls 243 points, Nifty below 22,750 as high oil prices, FII selling weigh - psuwatch.com",
+      "source": "PSU Watch",
+      "title": "Sensex falls 243 points, Nifty below 22,750 as high oil prices, FII selling weigh - PSU Watch",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMUdwWEtTejl6YkpWUlBqSndPUzItRzRsYmlVYWU0VThNeTEzcmM1b1FEdXpicE56Q0ttczA2bnZub2h0NEV3SC1qVEtycXQ0cmd4WnpvX2FGd05jcU1pV0lSZFg1bG8wUk5ZRGZZYWhGQWg5eFVIRS0xTjIyYXY0ejhHZG9sTVNZeDJSYm1jTTgycGs5YV9KSnNUZi1BRDZ0UUpicTR6R1FOYUd1c2xERmRJRk0weC14Ynp6c05SeFEzNjVa0gHSAUFVX3lxTE5WUXdWSVNuU084V094dU5GYkkzbnJFdW9jWHl1Vk83VFJRalJkUkp0dnVCVEtmdUFYcldkbENtTVktazByVFFoZUMtV0dJV1ZBSWowbllwajRoQWFNUVRMVkVkNFU0YmxGdDBFRVZ0Ulk0WXJMSkpLY21zMU9XQnBRWG5TaWNJUkhVUjhCRVFTM2Fka05KanFIeHA5Y3JQUXFiUUQ2SDN4bFZrMTVjcWhnTDNOUDBUVEZZY2RrdXN0Wk5UOGVZMFNJNUkxNFpodTBTdw?oc=5",
-      "description": "Sensex falls 243 points, Nifty below 22,750 as high oil prices, FII selling weigh psuwatch.com"
+      "description": "Sensex falls 243 points, Nifty below 22,750 as high oil prices, FII selling weigh PSU Watch"
     },
     {
       "published": "2026-09-29T10:51:20+00:00",
@@ -32974,13 +32965,22 @@
       "description": "Sensex falls over 20% in dollar terms in 2026 as weak sentiment, rupee drag returns The Economic Times"
     },
     {
+      "published": "2026-09-29T16:05:42+00:00",
+      "score": 8.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "indianewengland.com",
+      "title": "Sensex, Nifty Fall for Second Straight Session as Oil Prices Pressure Markets - indianewengland.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNERfVy1BLVpPN1NwQVpRaUhFSkptNEhzUkN3MFBIeF9fR29SMk93Ym9uMlBma3lzTWtsV0tiZ3pJYXVFUGlTMC1HWmlzU0lackNFWUt1OFJHYWN0dWdRV3RKY0VwWDRvWjAwaEtHYUZJblcwQW9ZZHkxWENETllhemxwZktHT2FqdFJaWTZtUkx6R2wxdS1qMnB3eHEzcDVSdFp6czQzWm0?oc=5",
+      "description": "Sensex, Nifty Fall for Second Straight Session as Oil Prices Pressure Markets indianewengland.com"
+    },
+    {
       "published": "2026-09-29T13:08:04+00:00",
       "score": 8.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "editorji.com",
-      "title": "Sensex falls 243 points, Nifty slips 64 points as foreign outflows and crude prices weigh - editorji.com",
+      "source": "Editorji",
+      "title": "Sensex falls 243 points, Nifty slips 64 points as foreign outflows and crude prices weigh - Editorji",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOXzAzbVdjYmZWZWppUUYydlpaLXp2Z0I5SnJUVEJseWFsM3dtcFdyaUp2VEdFSmxnOFg5NmU1XzN3U1BraWlPQloxVzNLc0o0MnZHLTl1RE8wMC1YSXFnY3U3UmxQQTJiSVppZEFNS3prQXk0OUFiakVHOFJuVWZ1Tms5WFg4ckdBU2lGaDVFeTg3VEthWjJSYk1peGRHU1dxVFlDNll1cDc5QjFBYzJYS3RJYm9PX2lPa2xEZXR6VWlZbFd3djByakp4YThENVJmRzNwMWMwaW9yM0RTUUtGcUFHWdIB6AFBVV95cUxNalFudC1YZHUtMzVhUlJCTl9uUzV6cVVPUHQyZmxoQm83Rm1ueHFTdjZiUkVwREIyeUJMVWlMTXBIeGlMOEVKMU5tOHRfYWtiazNZQ2lNNnhLTnVVWi1PdXNaS3RmTGFacjMxT0MzVFVIbDhjalNYelBmTDJlSGlxWXFXR21GZWVMUVR6ZVU3T0JTSDNGZEVVZWtha0tFT2ZqYnhFSkZfV2JkQWZzNUhiVlNaamRWMmhwTWJzSDY0ekFIWnREMVNJZEpyUVk1elBTR05IM01VYTE1QldNTlNNdnQtOW1PY2R2?oc=5",
-      "description": "Sensex falls 243 points, Nifty slips 64 points as foreign outflows and crude prices weigh editorji.com"
+      "description": "Sensex falls 243 points, Nifty slips 64 points as foreign outflows and crude prices weigh Editorji"
     },
     {
       "published": "2026-09-29T11:34:15+00:00",
@@ -33008,15 +33008,6 @@
       "title": "Sensex Closes At 72,529.07, Nifty Falls 64.05 Points As Oil Prices Extend Market Losing Streak - Free Press Journal",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPUERycXBXTUN2M215WExZd0ZqUU1GQUZNbjdfNi1KVkJLd1RDeU42czZ1TXpDZl9TY29wSjVkMU1iRlptUU5fUTlpejRzTlRYTmpyTURPUG9FUExJc3dKSzF1STdibkdaZjF3dkdSdVJXaTBQcFd3T1JSWjJjcUxBVDExQXFLTDZ0OGNVOFlFVWJBY1kxRjJnZkRIak02aVVSc1BHWVBaNWNmY3k4TVYtRDA3NldJaTBDa2thbHJHOFdtNmVhbEppN2xBZ0lkYXpj0gHQAUFVX3lxTE9QRHJxcFdNQ3YzbXlYTFl3RmpRTUZBRk1uN182LUpWQkt3VEN5TjZzNnVNekNmX1Njb3BKNWQxTWJGWm1RTl9ROWl6NHNOVFhOanJNRE9Qb0VQTElzd0pLMXVJN2JuR1pmMXd2R1J1UldpMFBwV3dPUlJaMmNxTEFUMTFBcUtMNnQ4Y1U4WUVVYkFjWTFGMmdmREhqTTZpVVJzUEdZUFo1Y2ZjeThNVi1EMDc2V0lpMENra2Fsckc4V202ZWFsSmk3bEFnSWRhemM?oc=5",
       "description": "Sensex Closes At 72,529.07, Nifty Falls 64.05 Points As Oil Prices Extend Market Losing Streak Free Press Journal"
-    },
-    {
-      "published": "2026-09-29T10:05:25+00:00",
-      "score": 8.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Zee Business",
-      "title": "Closing Bell: Sensex falls 243 points, Nifty slips below 22,750 — Why did stock market fall today? Key reasons - Zee Business",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQd1kwc3FMcmVvRkZ6SU9Fd1lYdHJUUk9MWlp0ZW10VVVKS3FxRzk0dk1zWmVSb0s0MmFyNThrNGlWYTlhcEFnVkc4cU5TNzR4LUxJNUhqbW1ZdXVndjNqalZ0SThBcm1EZFptdzFWTnRWVGNnSzBwNFRHUElVX3ExcTZOSHBLbDhKWWNtX05zbkhWVUZXbG9CRExHSEJ3ZUM1aHNRNVJHWjlqR3dfTUJadkFNT2NYVkwwRV90TGZjeHpoZ2ZQZHZpRTFualptSlM0ajJfRg?oc=5",
-      "description": "Closing Bell: Sensex falls 243 points, Nifty slips below 22,750 — Why did stock market fall today? Key reasons Zee Business"
     },
     {
       "published": "2026-09-30T09:30:18+00:00",
@@ -33067,10 +33058,10 @@
       "published": "2026-09-30T04:50:58+00:00",
       "score": 7.0,
       "themes": "['market selling', 'India market']",
-      "source": "psuwatch.com",
-      "title": "Sensex, Nifty rebound after two-day fall; IT stocks lead gains - psuwatch.com",
+      "source": "PSU Watch",
+      "title": "Sensex, Nifty rebound after two-day fall; IT stocks lead gains - PSU Watch",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQS3VGWEo1Mkt3NVk0Q3B0ejFzUHotYnpyVGNkVVBxVkp0NThJSGdhdk9zbHJkOTJLZlZrUDE1Z010LThXLW10U3ZBN1ltelo1bXVYSVh3ckRyNnJ6Y1paN29saGZtRnYzd2xJNDRmV3JlZ1BfNVZ2bS0tQzh5ejlDZi1nMlZ2YnE1dDQ0by1LSG1pWEUxSm9TX2RoSndVeWo3S29TV3NQMXJ3d3JN0gG6AUFVX3lxTE9KQzlKUzN1U2UxdkVhdFpnRW1VaGxxdEtpVmN2YzlsVkxTMXdLcnVZdVZiWG42R0FYd05tQmZVQ1BybXF1WnAzSGtEYmMxeWQyaEktTUtEQWUyTHJEcFNmUHVzM2dtSERJYU5RcDd4OEo2TkxhNXcxTlRwVHMwZDRjN1dXSU9SRC14aXJham5RcllYaHVvQUxHVEtieGpSbjBad2FjRXdkbi01cVcxWnpDWkVXVUNwX0h5QQ?oc=5",
-      "description": "Sensex, Nifty rebound after two-day fall; IT stocks lead gains psuwatch.com"
+      "description": "Sensex, Nifty rebound after two-day fall; IT stocks lead gains PSU Watch"
     },
     {
       "published": "2026-09-30T04:43:19+00:00",
@@ -33091,6 +33082,15 @@
       "description": "Wall Street Falls as Yields Jump; Nifty Extends Sharp Slide HDFC Sky"
     },
     {
+      "published": "2026-09-30T03:28:27+00:00",
+      "score": 7.0,
+      "themes": "['market selling', 'India market']",
+      "source": "Fortune India",
+      "title": "Nifty 50 falls 6.7% in September series, worst monthly performance in 25 years: What lies ahead for the market? - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU05ZVHJWMjRpYVdtczBXM3ltUldYUW5tUEJXUE11Z09CVDl0SEpCTWhZUmg0N1QyT0RWTVltalZ1Q2JlNENNZ3RNODFJc0E2eVdUYTlQV0NuX2lZaFgwY2xqbXlfSDNCRWp4THllZk9nV3lQUkhZZTNSWWJVWnppVTZVd2hPb1JwOHJKdjRNWVlKUExCRWdOYXViUTRmR0QwY21LSnhjS3dNeXdCSk9hbWtrLWx4OXFWRDFZU29USFVYejU5UmVNd3NrbmduSF96c1VtNFgtVGg5U0doRlJKUC1TRzjSAfIBQVVfeXFMTU5EcmJ1Z1ZkR2txcDUwWTJjYWZMWmxmV0dNNFBhVzdDbGlDMzVBZnFxNTFwVUtCeWxiMEQtTExSWEpLWTdvbFdyQzJqdjQxd3dyMk81TjE5QmU0SjA2eElUZ3JBWWZINHZfZ2JSajZsM0t1UTlmbjdLZ3V4elJXNlI3M0xFVjZvcEpHaEV2RXBVRkJLOVFDMnpLSDVjN0FrTmRVNFFlSGgzTmhLNjR0MVR1cThWOE5acmlIOWVXTGZoZlFwaFFFV29pRGkzOG5ubGtJTkNUS25nRk1QLVJoeGV0UTFhd2tLVFNna1BiSXBLWmc?oc=5",
+      "description": "Nifty 50 falls 6.7% in September series, worst monthly performance in 25 years: What lies ahead for the market? Fortune India"
+    },
+    {
       "published": "2026-09-30T02:24:25+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -33103,10 +33103,10 @@
       "published": "2026-09-30T00:53:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "아시아경제",
-      "title": "Continued Expectations for AI Investment Even in a Market Correction... How to Secure Investment Capacity Without Margin Calls - 아시아경제",
+      "source": "asiae.co.kr",
+      "title": "Continued Expectations for AI Investment Even in a Market Correction... How to Secure Investment Capacity Without Margin Calls - asiae.co.kr",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBqZWQzQjc4NmdwMzE4NURiMVJ3UFk0UmpsYVVnRUlnb1pVSlkzcDVGaW5oQkJyYl9IdFUwYW16M2d2am9NTGJyY2hCRERid04wUDdWb1pNQmc1SnZmXzNldjhmTUc?oc=5",
-      "description": "Continued Expectations for AI Investment Even in a Market Correction... How to Secure Investment Capacity Without Margin Calls 아시아경제"
+      "description": "Continued Expectations for AI Investment Even in a Market Correction... How to Secure Investment Capacity Without Margin Calls asiae.co.kr"
     },
     {
       "published": "2026-09-29T17:11:06+00:00",
@@ -33271,15 +33271,6 @@
       "description": "Taking Stock: Nifty ends below 22,750 amid expiry day volatility; Sensex sheds 242 pts TradingView"
     },
     {
-      "published": "2026-09-29T10:05:39+00:00",
-      "score": 7.0,
-      "themes": "['market selling', 'India market']",
-      "source": "ABP Live English",
-      "title": "Stock Markets Decline Sharply As Sensex Falls Over 240 Points, Nifty Tests 22,800 - ABP Live English",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlR6dDdheHY5RGVoLTlnLTBvTGpDcTdZeDFWQ3YwMkpMQ2k1ZU1hc1hNd0Fqb09CSzctT01SX2NNU1hkVjJVeW1nYVE3bnZIZFlZX1pMaXB4Yk1NMWdITnNIMDhvRVo4SlQ4MWJQVlpPd2FYMVpIcnVsTHFfMllIaEhJaFBhNTFUSjk3NDI1TU56VkhOYWxRM1dlaTUxYl9ueVhydV9rRUxsbk1PTXJKV0tUamJqZ9IBuwFBVV95cUxPSzliZ21CdGdmMG5XaE9WQzVDbnMtWTZmNm5mQ3ZBTkpxQ01zRXB2dnd6S1NRaFdHRnYwaDhqWTVRT2xra2l6SHJoYnU0UnRqYkdVMlNaOVhjZXlEcVRqMXpkSHl2cTd2dURKYkxQYUxmT2JLSDhPRXM2aC0wV3NkWlFDWUdISTREWTgzOGppSTRnLXZ0SGFULWxhckJuMXc4dmY0c3drUDloNjNjQ21hbl95cVI1Z2ZrclU0?oc=5",
-      "description": "Stock Markets Decline Sharply As Sensex Falls Over 240 Points, Nifty Tests 22,800 ABP Live English"
-    },
-    {
       "published": "2026-09-30T09:59:19+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -33301,10 +33292,10 @@
       "published": "2026-09-30T09:03:23+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "NDTV Profit",
-      "title": "BSE Share Price Falls Nearly 4% Despite Inclusion In Nifty 50 - NDTV Profit",
+      "source": "ndtvprofit.com",
+      "title": "BSE Share Price Falls Nearly 4% Despite Inclusion In Nifty 50 - ndtvprofit.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdzZ3Z082X09KV3hCWTB5SGdLRUt6OWxuenRyOWZ4N1h2WWVHUWxqbUFuOGhMcy1pTjE2VktmUmZ2Qm1QN1JVZzYwTzJzajE1Y1RjU210bElsQ00wUjc0Rk9OOTd1dUVDdkplSzlGb3JtQnBwbE5KZHNpcXIxMGYtUW5YZlhBY0k4RjA4NUxPaXcwVVE2MWdTWHJ6XzM4S21GMWE2WjdmNNIBrwFBVV95cUxNb3JaZVQxamNiY1A2MWtXc2NwN2tFM21GVW5aM3NLSUxqejZ3TVRxZmFnaXZDUUFmS0Z3VlRteTFXWXhhV2w4elpiajRrcUZBVmEyZUxmSndEWG5DQXNJcksxSEVrNEFxMll4NjZRLUhDN2NOdGE1MUlFRmoxbmpsbXJVamZ6T2ZzOEE4dlBHOUVnMTJtdU92RDdSZnNLSTNnemw0WmdaRlBPYTJjdGd3?oc=5",
-      "description": "BSE Share Price Falls Nearly 4% Despite Inclusion In Nifty 50 NDTV Profit"
+      "description": "BSE Share Price Falls Nearly 4% Despite Inclusion In Nifty 50 ndtvprofit.com"
     },
     {
       "published": "2026-09-30T08:20:20+00:00",
@@ -33379,15 +33370,6 @@
       "description": "Nifty 50 Falls at Open on Wednesday as Indian Stocks Slip Business Upturn"
     },
     {
-      "published": "2026-09-30T03:28:27+00:00",
-      "score": 6.0,
-      "themes": "['market selling', 'India market']",
-      "source": "fortuneindia.com",
-      "title": "Nifty 50 falls 6.7% in September series, worst monthly performance in 25 years: What lies ahead for the market? - fortuneindia.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPU05ZVHJWMjRpYVdtczBXM3ltUldYUW5tUEJXUE11Z09CVDl0SEpCTWhZUmg0N1QyT0RWTVltalZ1Q2JlNENNZ3RNODFJc0E2eVdUYTlQV0NuX2lZaFgwY2xqbXlfSDNCRWp4THllZk9nV3lQUkhZZTNSWWJVWnppVTZVd2hPb1JwOHJKdjRNWVlKUExCRWdOYXViUTRmR0QwY21LSnhjS3dNeXdCSk9hbWtrLWx4OXFWRDFZU29USFVYejU5UmVNd3NrbmduSF96c1VtNFgtVGg5U0doRlJKUC1TRzjSAfIBQVVfeXFMTU5EcmJ1Z1ZkR2txcDUwWTJjYWZMWmxmV0dNNFBhVzdDbGlDMzVBZnFxNTFwVUtCeWxiMEQtTExSWEpLWTdvbFdyQzJqdjQxd3dyMk81TjE5QmU0SjA2eElUZ3JBWWZINHZfZ2JSajZsM0t1UTlmbjdLZ3V4elJXNlI3M0xFVjZvcEpHaEV2RXBVRkJLOVFDMnpLSDVjN0FrTmRVNFFlSGgzTmhLNjR0MVR1cThWOE5acmlIOWVXTGZoZlFwaFFFV29pRGkzOG5ubGtJTkNUS25nRk1QLVJoeGV0UTFhd2tLVFNna1BiSXBLWmc?oc=5",
-      "description": "Nifty 50 falls 6.7% in September series, worst monthly performance in 25 years: What lies ahead for the market? fortuneindia.com"
-    },
-    {
       "published": "2026-09-30T02:22:43+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -33404,6 +33386,15 @@
       "title": "Nifty 50 set to log worst September in 8 years as market sell-off deepens - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNRXYxdmJNU2FzQ0syX2NXQl9aVW9ydGJzNFptalRrcDEwQnY4aDdnU0hORkJIQ1BCVUc4eEVsZGQtUW9qUlNQclp4Y2thMjl6cVBDdXhQdno4SDI0dERhWDlxRU9qLWV0ZURPMjR5cnYxcFhPR0hfYzV3TUl0TXpjWXBhQmE4RnV0dnFtbHJkWTdWazN1c2QySWtqWHpYX1JOUVNHMkY1aFlYcjdpc1NfZ1BCRE90UjdKZ0NDR19UQ0xXV29tSWdndUdIMkVRMUdXamVSMdIB2gFBVV95cUxOTkNvVWt3MjlIMmt4QnlNcTl6b0NUSEd0ZmZLdzZTazlJQ29nSHk2QmdGSEJZNHdRWEdKTUZKYVFaNS1aWlNkYmlTeTlZYWV1Umk0dDJDZVFYSWdfTDlDNzh5VkE4djNGWUVJUm1XYkNfNUZYRkJGSGl6MzAxNVVaS0lfMW5Bd3czajdRYjVMNl9qelJnbzFsVmhyeG9BQkprcDhRbDRabHJYM19QNXB5YXBRY3hzbm9EZ0pfV1Jid0U0bUJqdG5rTV9jdXNMZnlrQnR6MHF6bGZSQQ?oc=5",
       "description": "Nifty 50 set to log worst September in 8 years as market sell-off deepens Business Standard"
+    },
+    {
+      "published": "2026-09-29T21:04:21+00:00",
+      "score": 6.0,
+      "themes": "['market selling', 'India market']",
+      "source": "Motilal Oswal",
+      "title": "Nifty falls below 200-week moving average for first time since Covid crash - Motilal Oswal",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5jQmFGcDdRNkE0RjdITUkzU0hLZGd1WnNjY1U1di1mcXBaNm9VRnZCdEIzNnBWNzRBcS1fR1RCMDJBdnJ4UnByel9OcnZLWTNvazZlN2RPUUI?oc=5",
+      "description": "Nifty falls below 200-week moving average for first time since Covid crash Motilal Oswal"
     },
     {
       "published": "2026-09-29T11:47:22+00:00",
@@ -33431,6 +33422,15 @@
       "title": "Sensex Falls 2,700 Points in 4 Days, Rs 14 Lakh Crore Wiped Out; What’s Behind the Crash? - lokmattimes.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWGtKN1Q5RnZ4eWhwUUszRkZka3F5UHFRNEJ0dUZJZXBwNFR6Y1RuVEs3TlBiMG1sQ1NZUDBRaWtjYk50THFwbXczbVZDREZhT3Q0N1hEZG5GT3R1VTgxblBDdHZMOWozd0NvbnJoMWd4d0VjeWROeU9wRGhuQ29kQ1podmxqWDhWRDBpRThjbkJiWV84YlprdGdZZC1FT1E0Ri1GU2tYem9lYV9wV0ZoTHlWdF9DT3hVU0hzUlNsTE1obFQwa2c?oc=5",
       "description": "Sensex Falls 2,700 Points in 4 Days, Rs 14 Lakh Crore Wiped Out; What’s Behind the Crash? lokmattimes.com"
+    },
+    {
+      "published": "2026-09-30T08:15:38+00:00",
+      "score": 5.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "PGIM India Mutual Fund announces reopening of subscription in its Global Select Real Estate Securities FoF - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxNeWc3NHFDb3R3ZVJYdWh0eHBMNDJsa2s5RGlHWks4UGg5OWNxMEM3dy1BV2pmbFNZTkVqZ1dRUDFOY2xtczF6ZUEzQUVjanZSaEhvemFad2tBUVdvdjdZR1kxOGRkdXV6RTh3RU50aWFaTXJ6eFZCZnZyQXJBLUN3blUyM1pNVm9iLUZLTVJnenItWHppUlZLUXZZSU14YTdtRXhiUDlKMHJlWUpHODJfbTRzOEZINU1mYkhTRE00LXdkclV4bzlXUHpoNXJzWVdEZWZRUVNUMlBaNGZiTEdJZXNuZklSa25aZ0VTQ3l5eExMRWt0MDdZaWJyS2pIQnlndFhxWFh30gGGAkFVX3lxTE15Zzc0cUNvdHdlUlh1aHR4cEw0MmxrazlEaUdaSzhQaDk5Y3EwQzd3LUFXamZsU1lORWpnV1FQMU5jbG1zMXplQTNBRWNqdlJoSG96YVp3a0FRV292N1lHWTE4ZGR1dXpFOHdFTnRpYVpNcnp4VkJmdnJBckEtQ3duVTIzWk1Wb2ItRktNUmd6ci1YemlSVktRdllJTXhhN21FeGJQOUowcmVZSkc4Ml9tNHM4Rkg1TWZiSFNETTQtd2RyVXhvOVdQemg1cnNZV0RlZlFRU1QyUFo0ZmJMR0llc25mSVJrblpnRVNDeXl4TExFa3QwN1lpYnJLakhCeWd0WHFYWHc?oc=5",
+      "description": "PGIM India Mutual Fund announces reopening of subscription in its Global Select Real Estate Securities FoF The Economic Times"
     },
     {
       "published": "2026-09-29T15:06:49+00:00",
@@ -33496,13 +33496,22 @@
       "description": "HDFC Flexi Cap Mutual Fund: Rs 10,000 SIP grew to Rs 20.91 crore in 31 years, 18% CAGR since inception, AUM crosses Rs 1 lakh crore - Check top holdings, investment strategy ET Now"
     },
     {
+      "published": "2026-09-30T07:19:33+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "Fortune India",
+      "title": "SIF segment poised to gain traction as investors look beyond traditional mutual funds: Mahindra Manulife CEO - Fortune India",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLWgtZ2thLVk4cEx2MC0yR3VpU2hXYWlwNndVSmJMaUtOMFJqTTRWZTUwSk80bHR1N05xX3ZOSXJBSnJvMUpnMGY5YlA4LUlXRmJxUFQ2WWktMWNRT0NjNExnQXdvWk9XOVoxaTkydFRMcVZndXozVWQ5bFlCbERodW1BazJyZ2hsVHd1dzZFOHVMYi1iZ2hnNnIxN2w2Mi1zbFlOb09ITVFYRkUtM0pzOUpTSXR5RkkxT3VEYU5MM040VExtNFo5dFBvWE9VSEFKODFyOE1jYmZYaDVBZ3RMckNpcW1BY2xzeUtkVk1GUnFKUdIB8gFBVV95cUxNLWgtZ2thLVk4cEx2MC0yR3VpU2hXYWlwNndVSmJMaUtOMFJqTTRWZTUwSk80bHR1N05xX3ZOSXJBSnJvMUpnMGY5YlA4LUlXRmJxUFQ2WWktMWNRT0NjNExnQXdvWk9XOVoxaTkydFRMcVZndXozVWQ5bFlCbERodW1BazJyZ2hsVHd1dzZFOHVMYi1iZ2hnNnIxN2w2Mi1zbFlOb09ITVFYRkUtM0pzOUpTSXR5RkkxT3VEYU5MM040VExtNFo5dFBvWE9VSEFKODFyOE1jYmZYaDVBZ3RMckNpcW1BY2xzeUtkVk1GUnFKUQ?oc=5",
+      "description": "SIF segment poised to gain traction as investors look beyond traditional mutual funds: Mahindra Manulife CEO Fortune India"
+    },
+    {
       "published": "2026-09-30T06:26:50+00:00",
       "score": 4.0,
       "themes": "['India market', 'macro / flows']",
-      "source": "The Sunday Guardian",
-      "title": "Sensex Today: Index Gains 100 Points to 72,630; TCS Leads Gains Amid FII Selling, Crude Oil Impact; Check Top Gainers, Losers and Market Outlook - The Sunday Guardian",
+      "source": "sundayguardianlive.com",
+      "title": "Sensex Today: Index Gains 100 Points to 72,630; TCS Leads Gains Amid FII Selling, Crude Oil Impact; Check Top Gainers, Losers and Market Outlook - sundayguardianlive.com",
       "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPQTdlTGl4U0ZmTmJWS2RXTEVUUDc5dW92RWRqMnZKeWswdDY3eTFlc1l3QWI5UXpNa2NsX0JTR1dONWJ3bzdiZWhYRWlZSy1qT3o3ZnRXQjFtZXJOSG05MF9UQXZDR095bUNwSUFhODl2ZnlvZVhVNFlOOC1BNjl5UGVrTEh2bUpJYkVwWmtNY29pUmh0aGwyQVgwaUQwUE5hZGZnS0dKc2hJY1FpeUM1UXpudFNvbW5sMVROcUF5YzFIYW5yNDlWQ3VxUENsWUt4eVV0TnJ2R2h1Z3NpdERkcEREWnRwWGJ2aU05NTdWOVRJTTV3czRGaHZwR3ZHLVFiU2U1bXZuRy0wdllUaS02cm1BbjfSAZoCQVVfeXFMUHN0S250NnBmWkZCazF4YWtROUtudGRFaTJDZHYydmZVQUVIMEF5NG1lTjdKNDdTZEdHQjd2WjJ0VXctR2NyMjlkZHNjOC1KcFRiSVdsRUNYZjBDcG5QY250UDZrSTh2aWVBcmVmdFNSejNUZE9TR3l2cC14MXNZbGtPX2lBRHM3a255UG1OSkR2RHg2U1o2Tlc0amtwdElBbXJZSi05Mm1COW4xQmY0UzVxeWhGTEdSbW9CNVpBbWQtazdTX3J2OWFiWVJhdmJEWHpyTmRTc2dESG9kbVRyWWNuMTkxWFJ5SlpITkRpaUI4aTZGaXpWdy1MVHpnV21WN3lYRm85emZYVUYyZlY5bktNQzBfdmdvOWxn?oc=5",
-      "description": "Sensex Today: Index Gains 100 Points to 72,630; TCS Leads Gains Amid FII Selling, Crude Oil Impact; Check Top Gainers, Losers and Market Outlook The Sunday Guardian"
+      "description": "Sensex Today: Index Gains 100 Points to 72,630; TCS Leads Gains Amid FII Selling, Crude Oil Impact; Check Top Gainers, Losers and Market Outlook sundayguardianlive.com"
     },
     {
       "published": "2026-09-30T06:11:15+00:00",
@@ -33517,10 +33526,10 @@
       "published": "2026-09-30T05:12:44+00:00",
       "score": 4.0,
       "themes": "['India market']",
-      "source": "The Sunday Guardian",
-      "title": "India Stock Market Today: Why Sensex Holds Gains While Nifty Turns Lower Amid FII Selling Pressure - The Sunday Guardian",
+      "source": "sundayguardianlive.com",
+      "title": "India Stock Market Today: Why Sensex Holds Gains While Nifty Turns Lower Amid FII Selling Pressure - sundayguardianlive.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQMllpM1pzRThJcU1TcG4yVVVjNFo2Y19kbUFOZ25pNlZ6T3U4YlhoVzRLM3BlbkVOMmw3SWg5VDFNUVpzNGNmVndEXy1BYlNONXlxbFc1MENPWWtNUGxxR3lQQTlYWlhfVUlhTXVRTlJDU1F5RHIzUHIxV0JHTDF0Qm8xZ1pGOXAtcTNCLV9rVFJMZmQtTDBGWU50cndpUVlOdkhvTXh1Vlk0dHcyM2FNN3IxcXBRNTVsUE5VVVVqb1QxQ0tFNkc3MER4a2s3NHU1MkoxN2wtUGFGVzdaMmpnUEJmYw?oc=5",
-      "description": "India Stock Market Today: Why Sensex Holds Gains While Nifty Turns Lower Amid FII Selling Pressure The Sunday Guardian"
+      "description": "India Stock Market Today: Why Sensex Holds Gains While Nifty Turns Lower Amid FII Selling Pressure sundayguardianlive.com"
     },
     {
       "published": "2026-09-30T05:04:26+00:00",
@@ -33604,22 +33613,13 @@
       "description": "NFO Alert: Mahindra Manulife Mutual Fund debuts in SIF segment with MSIF Equity Long-Short Fund The Economic Times"
     },
     {
-      "published": "2026-09-30T09:05:15+00:00",
+      "published": "2026-09-30T09:05:13+00:00",
       "score": 3.0,
       "themes": "[]",
       "source": "The Economic Times",
       "title": "HDFC Mid Cap and Quant Small Cap among 16 equity mutual funds deliver over 20% XIRR on SIP investments in - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNOWFibUtYME5JaGhJY0FIUE9famxRWFB1OEhuWjhkMFIxOTJob1ROLW41V0hubk9TcEh3WEw1UjVIaEpVTm1OaUdVZ1lPSVBkNEhSVkk2NGdPQnJ5QTJaa2RBQnAtbjhLMU85Y3dsZVZBSDA2THZGZl9aWWxFdmtHb2ZVRXdfQlFNd1RFMHJrY2FHUDBvMTlVWTVhbEpkWXNyQ2QyZWhKamlid2lMVUdhd0JDRjZIa0ZDTWl4MjdpV2t4NGl1R0NTVkowSVZORm5jZVAxVi1DZEtfbUFoak40bVJBMW5fbi1PNkVCaXgxQWtMdUxzUjNUeVdCbFl4WGhWRE9JM0FYNzk0RHpsQ2tJ0gGPAkFVX3lxTE05YWJtS1gwTkloaEljQUhQT19qbFFYUHU4SG5aOGQwUjE5MmhvVE4tbjVXSG5uT1NwSHdYTDVSNUhoSlVObU5pR1VnWU9JUGQ0SFJWSTY0Z09CcnlBMlprZEFCcC1uOEsxTzljd2xlVkFIMDZMdkZmX1pZbEV2a0dvZlVFd19CUU13VEUwcmtjYUdQMG8xOVVZNWFsSmRZc3JDZDJlaEpqaWJ3aUxVR2F3QkNGNkhrRkNNaXgyN2lXa3g0aXVHQ1NWSjBJVk5GbmNlUDFWLUNkS19tQWhqTjRtUkExbl9uLU82RUJpeDFBa0x1THNSM1R5V0JsWXhYaFZET0kzQVg3OTREemxDa0k?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNVjdwSV8tVUpIN1puVVhnb25ST2U3ZE11MGJ2THlQTWlyZVU2bWdxT0l4cDEyTXhoVW1yRTFmNkt5aWEtZmw0Umt3M0xfYVNkamVaRUZCQWFpVnVHTXdrZ1R5elcySGNBN2ZGdFdxdDJ5c3FJSmtoSWM1S3MwcjMzaHhTMW9yRmZYcENPNmxPTmUtSmJwODk3bDJtZFlDSmt2OGEyMC1fcDdwenZKRGVYdEFkeTBkbjZkQnVRWTRKX0piQUMxaEpNcHNnbnhYYmd4STJVUEpYa0pWdnZpaFZUUTVpSmFfMlJrSV9tZnRBTk1FSlh3MzJRSkFOTElrbU9MSGZsRVUwbzYtUdIBjwJBVV95cUxNOWFibUtYME5JaGhJY0FIUE9famxRWFB1OEhuWjhkMFIxOTJob1ROLW41V0hubk9TcEh3WEw1UjVIaEpVTm1OaUdVZ1lPSVBkNEhSVkk2NGdPQnJ5QTJaa2RBQnAtbjhLMU85Y3dsZVZBSDA2THZGZl9aWWxFdmtHb2ZVRXdfQlFNd1RFMHJrY2FHUDBvMTlVWTVhbEpkWXNyQ2QyZWhKamlid2lMVUdhd0JDRjZIa0ZDTWl4MjdpV2t4NGl1R0NTVkowSVZORm5jZVAxVi1DZEtfbUFoak40bVJBMW5fbi1PNkVCaXgxQWtMdUxzUjNUeVdCbFl4WGhWRE9JM0FYNzk0RHpsQ2tJ?oc=5",
       "description": "HDFC Mid Cap and Quant Small Cap among 16 equity mutual funds deliver over 20% XIRR on SIP investments in The Economic Times"
-    },
-    {
-      "published": "2026-09-30T07:19:33+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "fortuneindia.com",
-      "title": "SIF segment poised to gain traction as investors look beyond traditional mutual funds: Mahindra Manulife CEO - fortuneindia.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNLWgtZ2thLVk4cEx2MC0yR3VpU2hXYWlwNndVSmJMaUtOMFJqTTRWZTUwSk80bHR1N05xX3ZOSXJBSnJvMUpnMGY5YlA4LUlXRmJxUFQ2WWktMWNRT0NjNExnQXdvWk9XOVoxaTkydFRMcVZndXozVWQ5bFlCbERodW1BazJyZ2hsVHd1dzZFOHVMYi1iZ2hnNnIxN2w2Mi1zbFlOb09ITVFYRkUtM0pzOUpTSXR5RkkxT3VEYU5MM040VExtNFo5dFBvWE9VSEFKODFyOE1jYmZYaDVBZ3RMckNpcW1BY2xzeUtkVk1GUnFKUdIB8gFBVV95cUxNLWgtZ2thLVk4cEx2MC0yR3VpU2hXYWlwNndVSmJMaUtOMFJqTTRWZTUwSk80bHR1N05xX3ZOSXJBSnJvMUpnMGY5YlA4LUlXRmJxUFQ2WWktMWNRT0NjNExnQXdvWk9XOVoxaTkydFRMcVZndXozVWQ5bFlCbERodW1BazJyZ2hsVHd1dzZFOHVMYi1iZ2hnNnIxN2w2Mi1zbFlOb09ITVFYRkUtM0pzOUpTSXR5RkkxT3VEYU5MM040VExtNFo5dFBvWE9VSEFKODFyOE1jYmZYaDVBZ3RMckNpcW1BY2xzeUtkVk1GUnFKUQ?oc=5",
-      "description": "SIF segment poised to gain traction as investors look beyond traditional mutual funds: Mahindra Manulife CEO fortuneindia.com"
     },
     {
       "published": "2026-09-30T06:16:21+00:00",
@@ -33656,6 +33656,15 @@
       "title": "The Rs 1 Crore Question: Is A Traditional SIP Still Enough? - Outlook Money",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZnN3NUlwNHRTb21rbVg0U3FTUXZWR05lZ0NleWRsR1dEUl9mMmpMcjZVQjQwcGlDTVBSQUkxR29UdlNIOUFHR01MZ2tKTDJaLXdIcl91NW16bXlIWEE2aUxfTDlyOFBwN1lJRUZyTlMtU0NmZTdjSWtkZEdFVzFZZ0lwRWY0d0ZYTDViaVh4RHZKMHZWd1I0eW9sQkNBeE4zeWlqR2pR0gGzAUFVX3lxTFBfMFVTUDJzVGRQT0praHB1SzBib25lMTlKQ182SUR0QktpelFRLXZBUXRSYlhTZHZ0MVhPM0JFbzFRbVUwLWhYWkQ1RmFicXB1bDhEUzZlU3ZUSk9ibUgzWGUtbE91cHVfUHRod0JTSnM4ZDJQN1Ffd0FDeDhFQVBKa21Va29ZQUpqS2EyUnQyVjZCRjJJY05SQmEycmZWYy05MW5ldjI5b2FUOXlpbzY3TGFr?oc=5",
       "description": "The Rs 1 Crore Question: Is A Traditional SIP Still Enough? Outlook Money"
+    },
+    {
+      "published": "2026-09-30T04:24:18+00:00",
+      "score": 3.0,
+      "themes": "['market selling', 'macro / flows']",
+      "source": "Dalal Street Investment Journal",
+      "title": "Opening Bell: Indian Markets Trade Flat Amid Crude Oil Volatility, U.S.-Iran Tensions Dent Risk Appetite - Dalal Street Investment Journal",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSmdlWXZDTjF1ZURCVUw3ZTZkNUxRZ2tObnFpNVVtSkRHUEhGeXlkY3RWMmdmZ082QXB6QmZIYU9TaERNOEFqSEVYeGp3UDJzcDhuRnhISzZMLTRQbERaRE1NSW9ES0l5aEpNWC1kUmR0aDVGLXlrNUFKQndkeEc0aU5PTnEyeFZadWUyZ1ZndGl0Rll1bGpQeGZmb25UUENQMjgzVmpINmg2Q3ZUQXpuakVWNHgwMnJ4Yzhja29nMDdEd3NwMFdpeVRsX1RncjBhWjdnbkpvM1JmcXpsS1BaVnNLOA?oc=5",
+      "description": "Opening Bell: Indian Markets Trade Flat Amid Crude Oil Volatility, U.S.-Iran Tensions Dent Risk Appetite Dalal Street Investment Journal"
     },
     {
       "published": "2026-09-30T04:22:33+00:00",
@@ -33787,10 +33796,10 @@
       "published": "2026-09-29T11:30:43+00:00",
       "score": 3.0,
       "themes": "['India market', 'macro / flows']",
-      "source": "News Mobile",
-      "title": "Sensex, Nifty End Lower As Oil Prices, Foreign Outflows Weigh On Sentiment - News Mobile",
+      "source": "newsmobile.in",
+      "title": "Sensex, Nifty End Lower As Oil Prices, Foreign Outflows Weigh On Sentiment - newsmobile.in",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOU3RKRDVuQWgtdGhsSG5kUkpCSjlYZlVUMzEtYmFXcnM5NG9xeHFmZFlwZGVoV1pfTlMwd0lLVXZhY3BRN3B5MXNhRFBTLWhvakZzeXFCMDJJMm9rQXl3SWdTdTJWMnZQZGZmZjZMeVc5MjhkMlZhSlJCZ2tXd3ZMeElFMEE2bVhSdldsc1MyNnpVUldPZlhQZnR2UWhPM25fQlZ4WEx0LVg5N0JLbkNKT1hn?oc=5",
-      "description": "Sensex, Nifty End Lower As Oil Prices, Foreign Outflows Weigh On Sentiment News Mobile"
+      "description": "Sensex, Nifty End Lower As Oil Prices, Foreign Outflows Weigh On Sentiment newsmobile.in"
     },
     {
       "published": "2026-09-29T10:49:15+00:00",
@@ -33800,24 +33809,6 @@
       "title": "Sensex, Nifty extend losses for 2nd session as oil prices weigh on sentiment - Zee News",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOQ3JwR3JMVl80azVKU1Z2enhMbkNVTFdObm50Vm9ZUmZNWnBWMUk0dlBvTkhjTndPU3JpbkdOVGg2bWx3eDJHSkt5VXhNUi1tOWRsZEtwYkM5bm9wV2JlOUQ2bFh3X1Mta0FfSHJ6YVNMc0NqNkZuV3hxUzZzdlM3S3hJYkJQempWN0lZTnVrQ3dCLXJhR0ROSTYtQUlTYkkxN3l3a3dabzZtSy1VZ0xjanphbk43anFaRmhQejh2UdIBxAFBVV95cUxOSFgyTkZ3NTUzVVR2TVVnMTFpRmdacjZnVFJocFh4LTRjWmZGR0ZZVjI4SnBtdkRrUUNJVGxrYmppclZ5OHNWMzhveHAwZjdtbE52ZUVyVWFlWXdhdmFLQThRYV9hRFppS2VvSVIxeDRSRk80U25BV3JEU3U1ZEVvSkphdmN1aUVjcnUwZG9jNURMLU5zdi00Y2NHUHlnUFBFN1lTanY2aVhJdXZxZHV3X1hoeWVIOFhJbm1KWGMzVjBoMXli?oc=5",
       "description": "Sensex, Nifty extend losses for 2nd session as oil prices weigh on sentiment Zee News"
-    },
-    {
-      "published": "2026-09-29T10:07:00+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Yahoo Finance",
-      "title": "3 Principal Financial Group Mutual Funds to Keep on Your Radar - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQa2dHX0M5Rk9oN1Frb1RFeUJSMy00WkRsZVB6N3p2ejlOcW1fVC1yU2p2N1RpT3JTWG5wNVdIMklyd2FGNEZVQ2VJbVlOTjl1ZFFNT1dyRDVIeThmSjNabkdMNnlQc2pzYWh6MTloa2hNcGNQXzc3Ml9UMnowMzBpV2szSmk5M2NzdHM4QUcwVnV2UmNnRUFLazJSSVFYc1lW?oc=5",
-      "description": "3 Principal Financial Group Mutual Funds to Keep on Your Radar Yahoo Finance"
-    },
-    {
-      "published": "2026-09-29T10:04:47+00:00",
-      "score": 3.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "India Today",
-      "title": "Markets extend losing streak as crude, bond yields keep markets under pressure - India Today",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNaDQtNVdRWXcydjE3TDZQdlZZX2h0dlhiU1hBREdhQ2NKcTdiaGNxeTR1UXZNRXFiS0JmX25XNFJNSHI4NkFXRXo5dHRsb2I4VjJlN29Hdlowd05fTjN5YmdSV0k2cThBYTdNZkNiUFJITWRtUkRncmFEMDgzV2FremdmRjRqa3owTzBVaVNrTnRpY3ltWTRUUXpiQTh2QjZYUDNCTFBZTVhSSUlYcU1QOVNIV2JXMnBwT3hWbWd2WURFd29xVHpnMXRYRmNGTHZsOGxmRDZlbGPSAd4BQVVfeXFMTzRjQ3ZFSEFWUm5WTkFHajBZYWw5RE9kZERFdzl2NzVnczU5eU5qa290NTFkdXRLcHBVMkU1VHl4Y2RCU2tLSjV4YXZ6SXJKWGVNVERmd0tleUpDNTR4bFdNNmxvbG1xbGJ2WHdKT25wTXNIa3E5WElvWG1ocTlpc25vU2o1cEpoY2NkVmdFS0dXTXE3TmJyUmE5UDBObWpwVjBGYXNCLW1TTzZ0a2hRVmdlTkk5UDdNM0RGT3I1Nkprem0xTHR1VmhZbXY0ZkhpUWhDYlFreGoza2I2cUJR?oc=5",
-      "description": "Markets extend losing streak as crude, bond yields keep markets under pressure India Today"
     },
     {
       "published": "2026-09-30T07:48:29+00:00",
@@ -33958,10 +33949,10 @@
       "published": "2026-09-29T11:12:34+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
-      "source": "deccanherald.com",
-      "title": "Stock markets fall for 2nd day as elevated oil prices, foreign fund outflows weigh - deccanherald.com",
+      "source": "Deccan Herald",
+      "title": "Stock markets fall for 2nd day as elevated oil prices, foreign fund outflows weigh - Deccan Herald",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb1NrNFBodEdhOXFxSDJ0eEs3Y3dJck1qdlI0dmEyNHc0OWItRGpIOVMyRl8zVmJQLVVmZ1hKRGVWNWlmbTMxSlh1Rzh0OVowLU5DOUpLTjRmdUtpYmlkWTJTdW9QWkR5V05iamFwY00yQ2QtZ2hzUk1HUHNoNjUxbjhqQ1p2ejBxelFWSy1WSlVoMGpSM0xiNnlCMUxmSEQ1Rk0ycnlTMFc2LUZuT0FWdG1NRnZWaTNXdnVwaS0tWlIzMUlzeGlLSWJRczU3V3Rf?oc=5",
-      "description": "Stock markets fall for 2nd day as elevated oil prices, foreign fund outflows weigh deccanherald.com"
+      "description": "Stock markets fall for 2nd day as elevated oil prices, foreign fund outflows weigh Deccan Herald"
     },
     {
       "published": "2026-09-29T10:18:23+00:00",
@@ -34093,10 +34084,10 @@
       "published": "2026-09-29T22:17:46+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "BBN Times",
-      "title": "BSE SENSEX Dips to 72,529.07 as Infosys and Wipro Hit 52-Week Lows - BBN Times",
+      "source": "bbntimes.com",
+      "title": "BSE SENSEX Dips to 72,529.07 as Infosys and Wipro Hit 52-Week Lows - bbntimes.com",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQTRZTDRydUQ2Tkt2dXFGNEw0MWdSVF9ZZjJqbWl1bDFiSkdxb0xEc3JOZmc1cDM0cXJPeEs3R0gxVnhQUkZDSXpTUU1kLVNwZ0czTUI0c19vRlFJTi0xN1lxdDlfblB4WGNfRHk4bWVGaWNvSEFVZEJuVy1fY2h2bzJNR2dQSjFDXzdnSXlWcEtYU1UzNGhXR21vT1ZaRm5zRVh1ZkxFYXAtQQ?oc=5",
-      "description": "BSE SENSEX Dips to 72,529.07 as Infosys and Wipro Hit 52-Week Lows BBN Times"
+      "description": "BSE SENSEX Dips to 72,529.07 as Infosys and Wipro Hit 52-Week Lows bbntimes.com"
     },
     {
       "published": "2026-09-29T20:54:26+00:00",
@@ -34201,10 +34192,10 @@
       "published": "2026-09-29T13:32:06+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "quantumzeitgeist.com",
-      "title": "Infleqtion And Riverlane Team Up On Error Correction For UK Quantum Computers - quantumzeitgeist.com",
+      "source": "Quantum Zeitgeist",
+      "title": "Infleqtion And Riverlane Team Up On Error Correction For UK Quantum Computers - Quantum Zeitgeist",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMzNkRUZjUjhKalJmTVpBcDZIM0JqN2VHdWs5ZmgtWEhzX1hXVF9oY3NSWm9Wb0VqcW90SFRBeExGc0liZUZIVWVtbzQxVTYzM21lS2t2YVpEUnZySXJzeGNaT2JjWHhCczhyMi0zWVV6MmptNzdmNjU3RFFKZTItSg?oc=5",
-      "description": "Infleqtion And Riverlane Team Up On Error Correction For UK Quantum Computers quantumzeitgeist.com"
+      "description": "Infleqtion And Riverlane Team Up On Error Correction For UK Quantum Computers Quantum Zeitgeist"
     },
     {
       "published": "2026-09-29T13:10:00+00:00",
@@ -34228,19 +34219,19 @@
       "published": "2026-09-29T13:04:42+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "editorji.com",
-      "title": "India launches anti-dumping probes into 7 Chinese products, including key pharma ingredients - editorji.com",
+      "source": "Editorji",
+      "title": "India launches anti-dumping probes into 7 Chinese products, including key pharma ingredients - Editorji",
       "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVXVKRWlIY0YxVlBZUGR3ZjA0ODctVjR0VmQ2Tm1GNDRzWUpjblY5dmk0ai1IRlhwNWpQeU5KQkFMaVkxaTlubVFSVms5cXZqeEhSeVRPenkxSTBFa2s2RHJMY1VycHJrOGVzMDBZQjA4NWZmbUxyM05FNlM5YTlvd3hSS2YzejQ3clJ0Z3JXSWI4cFVmV1pGckh6VnUxZzVocjZzc0l0c0ZhUjg5VXp5R3FxTEJzbVJ5cWdQdXJTWGVEVklxNEY0OEgzRE5qSE5KOWlaeDN2dGRzSkFU0gHiAUFVX3lxTE5jeFMzanVPWHBkcUp3MmZTTk5HY3kxZVptWDd6QWVmWV9pRHlhcm1na2I1RldWVkJFSmt0UUFTcVdBVHE3LTIyOHZDWHZCOFJ4emZjVHRETHdwT09QWl9SZy1IUkFRSUZZUDRqTkRVTG9XY2hnRHZjcktsVjNjZG1wQkdvNFJEVUk3YmVXMFprV1pqUU5EeDVCMlNsWFdxN0hGalVDMEIxSV93clAyOUJqLTM5NXRTMWpvVHNFa3JBajBRN1UwMVYwY1R3N2VldXBySEIzMWpRUmNKaTNXNUZtRmc?oc=5",
-      "description": "India launches anti-dumping probes into 7 Chinese products, including key pharma ingredients editorji.com"
+      "description": "India launches anti-dumping probes into 7 Chinese products, including key pharma ingredients Editorji"
     },
     {
       "published": "2026-09-29T12:24:37+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "thequantuminsider.com",
-      "title": "Infleqtion and Riverlane Partner on Quantum Error Correction - thequantuminsider.com",
+      "source": "The Quantum Insider",
+      "title": "Infleqtion and Riverlane Partner on Quantum Error Correction - The Quantum Insider",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxORjlJV3VMRnJGc19qRjQzVWxRZVRaVlRQakpISk1iTV9ORVJlV19pam40U2JtVFpkWHp6ZXROYzZveEpVdnNmcjAtTFREZ2xkUmMtYVNoR3Q1czhnaUhQZ2JDbzItN29rVnNmQ0JyUE9uS2VtOVBRRDdaNlhmbnpBZzFKdVRUcEFkMlI4Zmh6cGg?oc=5",
-      "description": "Infleqtion and Riverlane Partner on Quantum Error Correction thequantuminsider.com"
+      "description": "Infleqtion and Riverlane Partner on Quantum Error Correction The Quantum Insider"
     },
     {
       "published": "2026-09-29T12:14:05+00:00",
@@ -34270,6 +34261,15 @@
       "description": "Market wrap: Adani Enterprises, Adani Ports, Titan Company, Wipro top gainers and losers on Nifty and Sens The Economic Times"
     },
     {
+      "published": "2026-09-29T11:10:43+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Business Today",
+      "title": "Rammohan Naidu Reveals How India Will Become The No. 3 Aviation Market In The World - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOX3I4V3B6eS1TSGpFbl9jTjYxMTRtdC1sQ0tJNTlIcjNNdE42SEdzMV9XRGNWdmdjNVpqQmY5eW1pckg1djRqOEh1bng1UDZtaUhhcDE1NVlnSEJMLWZUbG1TX3dNUUdNb2JvYjV0ajcxVHo3dHFndjNBamtpdGc1UHFtaUlQX0F0SjNGY3VnYkZfWTFYaTFlZWgxR3VUTUh5S2JtQVhGNDVkQjY5ejZxaHZzYjdUbFhGVFh1eFJ0Z2Y5S2ljV1RWTHcyamw1cnVRTm1va3Z2WFlmaUNMcFBIcA?oc=5",
+      "description": "Rammohan Naidu Reveals How India Will Become The No. 3 Aviation Market In The World Business Today"
+    },
+    {
       "published": "2026-09-29T10:17:09+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -34277,15 +34277,6 @@
       "title": "Invesco India Ultra Short to Short Term Retail Plan-IDCW Monthly - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNnplaXRfOTFDQ00yblg2SU5xbUJyUi0wNllFUEZlcVFIemsyTUZSSzMzYkwtTnZQUmUydURuX0hsWnlZQTJ4OXZNdzBjWGhtM05CNjlTRVZESm1LcDhpY0pFNF93akVyeXRGR3lxazNDaFVWSEpUWXlzaFRtOVFMSDZGNlJGenNqQXVjMkR5M3V4c2p1VjNaRExfVGtYbFVuVUlKTHlrSnk1MkZLTkJ1aEMtSHJKUQ?oc=5",
       "description": "Invesco India Ultra Short to Short Term Retail Plan-IDCW Monthly The Economic Times"
-    },
-    {
-      "published": "2026-09-29T10:01:57+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "How India Mobile Congress kept pace with India’s digital transformation - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQ2pFVmJMWmxwTkoxWXR4d2RQbDhHdnEtZFlkdHBiaEl3Y094TG9veS1kNC1sRGdtQlgxNWVaRGJJYkZnMkpfZlY0dHFRT2FuSEl4cEVxRG1tV3lEWXFmS0p0aEdZR3hHSUZQS05OSVJNTUtRaTNqUFlBMERrNzBBM0hUZWtxNjUwRExhU1FrMlIxUDc1QVV0SVBiVXRTSmowTnhKSWdSLXEtT182aTh2WEpTNDcwdnJSdDU3MDZnRXc2VThTUkVLVNIByAFBVV95cUxPQ2pFVmJMWmxwTkoxWXR4d2RQbDhHdnEtZFlkdHBiaEl3Y094TG9veS1kNC1sRGdtQlgxNWVaRGJJYkZnMkpfZlY0dHFRT2FuSEl4cEVxRG1tV3lEWXFmS0p0aEdZR3hHSUZQS05OSVJNTUtRaTNqUFlBMERrNzBBM0hUZWtxNjUwRExhU1FrMlIxUDc1QVV0SVBiVXRTSmowTnhKSWdSLXEtT182aTh2WEpTNDcwdnJSdDU3MDZnRXc2VThTUkVLVA?oc=5",
-      "description": "How India Mobile Congress kept pace with India’s digital transformation Moneycontrol.com"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T15:33:58+05:30",
+  "generated_at": "2026-09-30T15:40:57+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -1753,7 +1753,7 @@
         "advancers": 10,
         "decliners": 4,
         "average_1d_pct": 0.371,
-        "average_volume_ratio_20d": 1.175
+        "average_volume_ratio_20d": 1.148
       },
       {
         "sector": "Information Technology",
@@ -4069,10 +4069,10 @@
         "ltp": 4637.0,
         "previous_close": 4576.0,
         "day_move_pct": 1.333,
-        "session_volume": 18437.0,
+        "session_volume": 13686.0,
         "average_volume_20d": 12397.0,
-        "volume_ratio_20d": 1.487,
-        "turnover_proxy": 85492369.0,
+        "volume_ratio_20d": 1.104,
+        "turnover_proxy": 63461982.0,
         "quote_date": "2026-09-30",
         "quote_timestamp": "2026-09-30 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
