@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-01 10:08
+Generated: 2026-10-01 10:29
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,15 +26,15 @@ Nifty After the Sell-Off: Crude, FIIs, Banks & AI | Dharmesh Kant on What's Next
 
 HSBC Mutual Fund launches #StayDiSIPlined campaign to encourage investors to make SIP investing a routine, not a reaction to market volatility Press Trust of India
 
-### 3. Mutual fund investors lose up to 10% in September as Nifty falls. What should investors do? - inkl.com
+### 3. Mutual fund investors lose up to 10% in September as Nifty falls. What should investors do? - inkl
 
-- Source: inkl.com
+- Source: inkl
 - Published: 2026-10-01T05:45:34+00:00
 - Themes: market selling, India market
 - Score: 10
 - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOZTNiYXJlRk43b29VM2t6YWZNaEJ1NWhoWGZsY01VeE4zVXJWSzZOZXZibDdrelFuWDNYb2l3ZHFHUlNYVk12VlFLZlZMUVZrNkF1YU5xYlRCVE9mTWFSUjN5UHlCaWRLT3owWk9Zend2VlJ5WFpsTENqUDNBbTFRLUFNa1RzWkp6YlppLUtmenhENDVyRjN5WG9HX1hJdGRXcmZVM3g2NEI5RmxDYjk4UURnZno?oc=5
 
-Mutual fund investors lose up to 10% in September as Nifty falls. What should investors do? inkl.com
+Mutual fund investors lose up to 10% in September as Nifty falls. What should investors do? inkl
 
 ### 4. Mutual fund investors lose up to 10% in September as Nifty falls. What should investors do? - The Economic Times
 
@@ -96,25 +96,25 @@ Nifty's 5-year CAGR falls below Bank FD returns - Is it time to evaluate 'Mutual
 
 Sensex ends marginally lower, Nifty falls 0.4% as crude, FII selling weigh India Today
 
-### 10. Stock Market Today: Sensex, Nifty Fall As Oil Nears $98, FII Selling, Reliance, JSW Cement In Focus - news.abplive.com
+### 10. Stock Market Today: Sensex, Nifty Fall As Oil Nears $98, FII Selling, Reliance, JSW Cement In Focus - ABP Live English
 
-- Source: news.abplive.com
+- Source: ABP Live English
 - Published: 2026-10-01T08:21:46+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdzg5ZThiV0VDNlVmUUNpV2x6ZGFFT0NLWjZEN0ZubDdFaEtxZktwVF9jOW1Zd19icm1aekFQWFlrYVpDR2ZyUmRvOFdsYmpENTlKZnUwOEdHTHFrcXA0aU1zM1d3MFFpSGFvLUJUTTl4RWQzX3lrakZlcHlHM0JOSlI3OTIxZU03TnBoVnFTalZPWUhFSV9CSEFFVnkybndPRjZVU3VZMThadEJ1TkZvOUlDbHdjcmNH?oc=5
 
-Stock Market Today: Sensex, Nifty Fall As Oil Nears $98, FII Selling, Reliance, JSW Cement In Focus news.abplive.com
+Stock Market Today: Sensex, Nifty Fall As Oil Nears $98, FII Selling, Reliance, JSW Cement In Focus ABP Live English
 
-### 11. Why Is India Stock Market Down Today? Sensex Falls 120 Points, Nifty Drops 40.30 Points; Key Factors & What Investors Should Know - The Sunday Guardian
+### 11. Why Is India Stock Market Down Today? Sensex Falls 120 Points, Nifty Drops 40.30 Points; Key Factors & What Investors Should Know - sundayguardianlive.com
 
-- Source: The Sunday Guardian
+- Source: sundayguardianlive.com
 - Published: 2026-10-01T05:45:33+00:00
 - Themes: market selling, India market
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxQWjQzTV9VTThHRWlWY0VGY1UwRE1XWG0tVUdERVFldDdnR19WYWF6ck41NlJOQlU1X2d1aFJTVGE3eGhKRTU5VkNfamNIMTExNkZzdzZTV0UxYlVkS0FkQUxDemVhc25EaTBva1Y4X2VuOEF5Rm1RMzlNVWpnRG1qRF9vTVdGU1BzNldVdTRRbVBRQXJOVy1RbmlIV1lFTXMzX292M1VqNnlGQmdPZmJBRnNtbEpkelZ5bHhDTzU0RnlhYlBPdTFiX2twbUZ6MnRhdkNBdWxxWXluREM0SEpWMWdRQzFiU0E1bXlIYnhXYzNocU8zSzNZazRRV2ZyR1ZX0gGGAkFVX3lxTE0xMDRWOEEyb3Y1ajlBT0YwajFnUjNKYm0tVjVNYkoyQ2xGNWpSVk94b1B4NnBjdnZEZGtkdjJKb0dRbmlzLVZiVWVRYjNYZFZ4YXdRajF6R1dsWUdrRHZ3a1VoQkN0bDYwd2U5ZFVQa2pDSDF2c0F5UWpYdTF2T1FaUENUemxVa19aOWs0RTRMMGRKS29oeUVxbVVDUzhzYzJoZEFaeTU4b1Y1YWN3RW1qZ2dOS3VaX3IzQUdvR3pzb2VBTmtUbzEwX29GN2hITU5jMGtEMlNXQk45dlhtU0ZwSVl5TXByeGV6NUNYOXQ3ckN1NTByU0QyQVUtWC1qUzUxUEk2ZUE?oc=5
 
-Why Is India Stock Market Down Today? Sensex Falls 120 Points, Nifty Drops 40.30 Points; Key Factors & What Investors Should Know The Sunday Guardian
+Why Is India Stock Market Down Today? Sensex Falls 120 Points, Nifty Drops 40.30 Points; Key Factors & What Investors Should Know sundayguardianlive.com
 
 ### 12. Indian Markets Set For Weak Start As GIFT Nifty Falls 73 Points; Crude Oil, US Yields In Focus - News18
 
@@ -156,15 +156,15 @@ Sensex, Nifty fall for third day on crude prices, FII outflows Rediff
 
 Indian Stock Market falls for fourth straight session; Sensex drops 750 points, Nifty down 260 Punjab Newsline
 
-### 16. Stock Market Falls Sharply on October 1: Sensex Drops Over 950 Points, Nifty Loses 319 Points - connectgujarat.com
+### 16. Stock Market Falls Sharply on October 1: Sensex Drops Over 950 Points, Nifty Loses 319 Points - Connect Gujarat -
 
-- Source: connectgujarat.com
+- Source: Connect Gujarat -
 - Published: 2026-10-01T09:35:16+00:00
 - Themes: market selling, India market
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdUxqTnlOaDNQUnFMLUc5OHpyc0xaZF8zRW1TVHRZT0huRWIxd3F4bXBHMWRPMHptcTVXcy1TQjFaMGR6ZDF5QXdkaFFwSlJxSGljSFl4cDhoR1hQeUYzMEpPeFJQTGp4VWhCMWdHaWNjQ18ybFZoNnhsWWtqZG9MTVR2TXU3aEkweTNmbXd4LUtaTjN1VVItTnhVdk5Jd3pZUXphakh0X01kVF84ZDZTYl9BU25vbXFPcm40?oc=5
 
-Stock Market Falls Sharply on October 1: Sensex Drops Over 950 Points, Nifty Loses 319 Points connectgujarat.com
+Stock Market Falls Sharply on October 1: Sensex Drops Over 950 Points, Nifty Loses 319 Points Connect Gujarat -
 
 ### 17. Sensex Slumps Over 900 Points By 1 PM, Nifty Nears 22,300 As Auto Stocks Lead Sell-Off - Free Press Journal
 
@@ -196,15 +196,15 @@ D-Street sell-off deepens: Sensex, Nifty tumble; here's what's driving the fall 
 
 Nifty Opens Below 22,550, Sensex Falls 287 Points Despite Gains In IT And Private Banks IBTimes India
 
-### 20. India VIX Rises 1.41% as Global Yields, FII Selling Lift Early-Session Volatility - hdfcsky.com
+### 20. India VIX Rises 1.41% as Global Yields, FII Selling Lift Early-Session Volatility - HDFC Sky
 
-- Source: hdfcsky.com
+- Source: HDFC Sky
 - Published: 2026-10-01T05:27:47+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNbWJIN2NZVnJWN1U1d191VkoxaWhpOWRwTWVSQ1FTUHAzRHN2ZEc1dF9ILWR5b1NXTENBQUlNZ3YtMUpiZmtNX2dTaUZ6QUh1ZEVtMjhDcFgwREFBc1dXMGZlaUtDdUxnX2ZaQzg1M0dnYkFGU0o1dk81a2RLc01OeHJLa1dSckllQkpUX2U1cW1POHhSdzJxbkRxQ1lXMjB4WmlUYUxldG9GcWNmTGlKWm5US2FoRnZMLW9XZGhsNjZ0VGIz?oc=5
 
-India VIX Rises 1.41% as Global Yields, FII Selling Lift Early-Session Volatility hdfcsky.com
+India VIX Rises 1.41% as Global Yields, FII Selling Lift Early-Session Volatility HDFC Sky
 
 ### 21. Sensex falls over 200 points, Nifty loses 100 points in early trade amid FII outflows - Mid-Day
 
@@ -276,17 +276,47 @@ Taiwan Stocks Fall 392 Points in Catch-Up Selloff, Losing 5-Day Moving Average; 
 
 Sensex slips 49 points, Nifty falls 96 points as Indian stock markets end lower IBTimes India
 
-### 28. AI Stock Rally Checked by Relentless Treasury Selloff - WSJ
+### 28. Nifty 50 top losers today, October 1: Bajaj Auto falls 7.6%, Maruti Suzuki declines 4.9%, Shriram Finance down 3.8% - businessupturn.com
+
+- Source: businessupturn.com
+- Published: 2026-10-01T10:19:21+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZzVPaEdWWGJ2X1FmdmhYbzdOVHRtSVY1TGVxa2MzS2JKbFh1eFRtbVV5THNDRnNIVWhZZDRLWEw0cHJmMWRLWjRMNnFMRURSZ3FPSWhNQkdZMms4NHo5QTRmTWl2d2RtWGpNdFlSQVBIZXR6N3g1X19TYTNQQzNnRDFhNDVvZ1pzVmNRVmtabUdpai1lc01Ca3BWSkt2S2FpV0I5Q29SQ1FsM2pQajdfYU9pcXlldHlZN1VFSjdveFdQNmpGS0kxelRYenQzcUllZkliTm9FMTBFZnF4bDZwc1ZRVHgwbG5JRlNySGJfb2xwTU0?oc=5
+
+Nifty 50 top losers today, October 1: Bajaj Auto falls 7.6%, Maruti Suzuki declines 4.9%, Shriram Finance down 3.8% businessupturn.com
+
+### 29. Closing Bell: Rs 5 lakh crore mcap wiped out as Sensex falls 571 points; Nifty below 22,450 - Auto, metal stocks top losers - Zee Business
+
+- Source: Zee Business
+- Published: 2026-10-01T10:07:16+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxORTlGU0hINTJyb2RwZUhIdUc0X2xVVzZ3MjFiRFNac1RWQ0VhcUtoYy1hdGxUUGtERWRDVnlORFp1Mk5fakxqdU1MclJPM3VMU1AwTkNBZVlNTDNLM2lQeHg1R19OXzJSRXRVZjJ1enk2WllEZGU0eUtsOExNOUVoZjVzVko1dDQ5RlgxQkNNVW9Za3I2cHh6N0s1NXFLY3ZOcnlNUlpnQnM4Qk5NZXcxVVdxVUdOcHpncGozTjU0SE1KQmxnUzlJaVVfbDJQVEVZU1lyN0w1MUJMOVE0UjBxcUVvQ2JKRkVEbE8wYVFfelFFX3o5WnI4?oc=5
+
+Closing Bell: Rs 5 lakh crore mcap wiped out as Sensex falls 571 points; Nifty below 22,450 - Auto, metal stocks top losers Zee Business
+
+### 30. AI Stock Rally Checked by Relentless Treasury Selloff - WSJ
 
 - Source: WSJ
-- Published: 2026-10-01T08:47:47+00:00
+- Published: 2026-10-01T08:47:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPcnZkOERkMEgyaXA5NUNuN25uUDZzN1NKVnpiWmZuVXRoWFZZNVB5X3J2LWhIUDRscFRuOUZtNFhVRjNVSXFnV1hPQzNWZzBJMmtPa0RhTzdUVWEydS1za181MkQxSE9iZ1M0OWwwalh2M0Y3MlVzZTR1WUxiUFMwMmpIQkdWUVNwaXhhQWc3eDc1aUI0?oc=5
 
 AI Stock Rally Checked by Relentless Treasury Selloff WSJ
 
-### 29. Central bank governor warning of shock to markets from AI boom correction - Business Post
+### 31. Stock Market Crash Today: Sensex and Nifty Fall, 5 Reasons - Univest
+
+- Source: Univest
+- Published: 2026-10-01T08:45:01+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE5LQmRiaVZpN1JrNnM1a2x2bHphelg3UjdkSDhJQzBpT0xMZjZZNW82NkFRaFN2RkNKWHFTVmtoYWxTaGtfeXl1am5NaU92NzMxcUtTbWpFQUZ3SWY0MVJWb0pWRWI3cVpGZDU1SFJVOXJoS1Ex?oc=5
+
+Stock Market Crash Today: Sensex and Nifty Fall, 5 Reasons Univest
+
+### 32. Central bank governor warning of shock to markets from AI boom correction - Business Post
 
 - Source: Business Post
 - Published: 2026-10-01T08:44:17+00:00
@@ -296,7 +326,7 @@ AI Stock Rally Checked by Relentless Treasury Selloff WSJ
 
 Central bank governor warning of shock to markets from AI boom correction Business Post
 
-### 30. Why is market crashing today? Sensex slumps 800 points, Nifty below 22,350. 5 key factors behind Rs 8 lakh - The Economic Times
+### 33. Why is market crashing today? Sensex slumps 800 points, Nifty below 22,350. 5 key factors behind Rs 8 lakh - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-01T07:34:54+00:00
@@ -306,7 +336,7 @@ Central bank governor warning of shock to markets from AI boom correction Busine
 
 Why is market crashing today? Sensex slumps 800 points, Nifty below 22,350. 5 key factors behind Rs 8 lakh The Economic Times
 
-### 31. Stock Market Today: Sensex, Nifty plunge over 1% each; sharp selloff grips Dalal Street - ET Now
+### 34. Stock Market Today: Sensex, Nifty plunge over 1% each; sharp selloff grips Dalal Street - ET Now
 
 - Source: ET Now
 - Published: 2026-10-01T07:29:10+00:00
@@ -316,27 +346,27 @@ Why is market crashing today? Sensex slumps 800 points, Nifty below 22,350. 5 ke
 
 Stock Market Today: Sensex, Nifty plunge over 1% each; sharp selloff grips Dalal Street ET Now
 
-### 32. Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch - The Sunday Guardian
+### 35. Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch - sundayguardianlive.com
 
-- Source: The Sunday Guardian
+- Source: sundayguardianlive.com
 - Published: 2026-10-01T06:53:59+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi1wJBVV95cUxNMGlybEEyS3BnVFJtaDFpaFRseDEzRzdTNWNlblozMEgxNmx4UnhQWUZLUVh2N2loWjJxTDQ1QW1GbFpmRU5LNEhaQkNHVmlQUVpsZ3NiQVZaa1ZvemJObElObWh6dVdFbDVJOEhURHlCVDZHT2lKMFZzUEhkMkRoV2hSUWcxRjZyWkdMZmxSQ0ROQnhOSGlBanhEdDlHNm1mYm9DZDR6RTZHZmQtSDdoNEJUSVNWY0xoVkFhLWdwc01vYjNBd2FkWXRza3UtbTVVbExTV042bl9NVnlJV3J4RmcxYmVVTE5ha0NSbi1ZeDRXMTdzZFpVM1B6TndENm01cnc0WGxsOTRxVFFubWNvOWpXYlBuRUlnMlpIampmcWNvVGlEbzI0aXd3UzFkNTllMlBFTDYxb3h2WFNQMVBvc2tsMjlPbndJd2xjVUVBN3g2SHVVNU9R0gHXAkFVX3lxTE0waXJsQTJLcGdUUm1oMWloVGx4MTNHN1M1Y2VuWjMwSDE2bHhSeFBZRktRWHY3aWhaMnFMNDVBbUZsWmZFTks0SFpCQ0dWaVBRWmxnc2JBVlprVm96Yk5sSU5taHp1V0VsNUk4SFREeUJUNkdPaUowVnNQSGQyRGhXaFJRZzFGNnJaR0xmbFJDRE5CeE5IaUFqeER0OUc2bWZib0NkNHpFNkdmZC1IN2g0QlRJU1ZjTGhWQWEtZ3BzTW9iM0F3YWRZdHNrdS1tNVVsTFNXTjZuX01WeUlXcnhGZzFiZVVMTmFrQ1JuLVl4NFcxN3NkWlUzUHpOd0Q2bTVydzRYbGw5NHFUUW5tY285aldiUG5FSWcyWkhqamZxY29UaURvMjRpd3dTMWQ1OWUyUEVMNjFveHZYU1AxUG9za2wyOU9ud0l3bGNVRUE3eDZIdVU1T1E?oc=5
 
-Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch The Sunday Guardian
+Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch sundayguardianlive.com
 
-### 33. Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch - The Sunday Guardian
+### 36. Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch - sundayguardianlive.com
 
-- Source: The Sunday Guardian
+- Source: sundayguardianlive.com
 - Published: 2026-10-01T06:53:57+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi0gJBVV95cUxQMmQ4eHZtOUNjY0hFT3lFTTROcnlxa3E4dWM0bkdpc3Z6S0ZlY1J0bml4cXo3YmQyNkJ0NU15RDF6YmZCWDBsTDh6RnozSzd3WFlUdWdNd2J4b19mdHdyb3Y2WE8tTkdxWkJ6a2lCU2ZlR2NFbkZta093RVZ1blhSTkpJUU8wSmZjbllzME92N1h6dHNPU0hHRUN2LWc2NUM1TzlHN25FZnRnTlF1NG9Sem5zd1FZanFGdmk1azZMVFd2VlVMT3BkdGpncG0xZXRjRlQtSENmUThKb3JLUWRKZW9MNFZIZ1lDcGhvQ0V2MXVUdFhKX0kwLUJERVduUWJjX2o3cUlzY3pONmRJcmxNMU5ydnhfem5iV3N0eGVGSmI5N0tuRElCOHkyMURkOVV6Y053WlVYUktmWjFobE9QRVd4bkpOVndQbEtBTXJHa1dsdw?oc=5
 
-Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch The Sunday Guardian
+Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Weigh on Markets; Bajaj Auto, M&M Lead Losses While Kotak Mahindra Bank, IT Stocks Gain-What Investors Should Watch sundayguardianlive.com
 
-### 34. $2 billion gone in two days! FIIs accelerate selling as Nifty, Sensex set to fall for 8th week running. Wi - The Economic Times
+### 37. $2 billion gone in two days! FIIs accelerate selling as Nifty, Sensex set to fall for 8th week running. Wi - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-01T06:25:19+00:00
@@ -346,17 +376,17 @@ Sensex Today (October 1): Index Falls 120 Points as FII Selling, Global Cues Wei
 
 $2 billion gone in two days! FIIs accelerate selling as Nifty, Sensex set to fall for 8th week running. Wi The Economic Times
 
-### 35. Metal sector stocks fall today, October 1: Vedanta falls 2.18%, Welspun Corp down 2.60%, Coal India down 1.31% - Business Upturn
+### 38. Metal sector stocks fall today, October 1: Vedanta falls 2.18%, Welspun Corp down 2.60%, Coal India down 1.31% - businessupturn.com
 
-- Source: Business Upturn
+- Source: businessupturn.com
 - Published: 2026-10-01T06:13:41+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQR1dSOHRhNXM5SkpqQkNuR3A1clQyWG04Tkx4bnh0NDlkMHVCejVoWVFILW8ycXNHOEpqUFB6bzdBRW9pekVwUnpxR0UzODdXYXBUdjhGbjNTai1lN3NjdHk4SUpidG5WZFZzVTliNXFUOV8zRnh6Y3BGQnRwS3hXblBSZG1IQmhZQVFiRnhyaGdHRC1Jc0t4OGdMTnpRMVpvZ0J1VEJyU1k2QjYxUUp5NmF2UDZkUGhldzU1T1J2U2lCQUkzZE90YmlhU09YMHluRHBzMDI5OWEtb3VpM0Q1Snl5c0p1RFU?oc=5
 
-Metal sector stocks fall today, October 1: Vedanta falls 2.18%, Welspun Corp down 2.60%, Coal India down 1.31% Business Upturn
+Metal sector stocks fall today, October 1: Vedanta falls 2.18%, Welspun Corp down 2.60%, Coal India down 1.31% businessupturn.com
 
-### 36. Sensex falls over 100 pts, Nifty below 22,550 as market heads for 8th weekly loss, overtaking COVID crash. - The Economic Times
+### 39. Sensex falls over 100 pts, Nifty below 22,550 as market heads for 8th weekly loss, overtaking COVID crash. - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-01T04:47:54+00:00
@@ -366,17 +396,17 @@ Metal sector stocks fall today, October 1: Vedanta falls 2.18%, Welspun Corp dow
 
 Sensex falls over 100 pts, Nifty below 22,550 as market heads for 8th weekly loss, overtaking COVID crash. The Economic Times
 
-### 37. Sensex, Nifty Fall In Early Trade On Continued Foreign Fund Outflows - Deccan Chronicle
+### 40. Sensex, Nifty Fall In Early Trade On Continued Foreign Fund Outflows - deccanchronicle.com
 
-- Source: Deccan Chronicle
+- Source: deccanchronicle.com
 - Published: 2026-10-01T04:46:07+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPUmF3dlplUjZMdy1rZklabXU2WjFjWnhQQzNYUWdpdG9KUm9qelhTejNtTW1lTEs5ejg3R1BDMTFWd0xfejN3cjlVdEVSbzFVa3ZfQy1JMWRVUHd6LWpjQmpYaE45Y0s1S25EbGM4alpHNkpVdHhkYWM4MW9wYlNodjVVOGZ5LVVBMkVTVVhPTFdhRFFSaEEyMmo2bWtUaEp0bHkyRzF2Y2N1VkRLa3VRQ09NQU1oYTNKVFY1VVhOcVprOXN00gHKAUFVX3lxTE5LSUQzU2hOZC0xSG9mcFVtVDZGal9qMi1jT3RaM1pVYTRZNXphX0x4cFVzM2QzR2JNVUhlcXl6OUhtdnI5UXdjaVNyeHJFaUh2WUtocHlubWtuVE5zSXd3cEZpaEVCa1V0YVlHTnhfV25ITTUzN2kwQXRSUDQ0X3BGeDhpU1BxNEt5NzhBQXFjRTB6ZTJSU0NMSWdWSFo3OGljY3Iza3o1V0czSnc1YldHNVpVdk4teU9UUTQtbGNMUmktcDZLdmVSWlE?oc=5
 
-Sensex, Nifty Fall In Early Trade On Continued Foreign Fund Outflows Deccan Chronicle
+Sensex, Nifty Fall In Early Trade On Continued Foreign Fund Outflows deccanchronicle.com
 
-### 38. IQM and Zurich Instruments Launch Real-Time Quantum Error Correction Demonstrator with NVIDIA NVQLink - AZoSensors
+### 41. IQM and Zurich Instruments Launch Real-Time Quantum Error Correction Demonstrator with NVIDIA NVQLink - AZoSensors
 
 - Source: AZoSensors
 - Published: 2026-10-01T04:44:00+00:00
@@ -386,7 +416,7 @@ Sensex, Nifty Fall In Early Trade On Continued Foreign Fund Outflows Deccan Chro
 
 IQM and Zurich Instruments Launch Real-Time Quantum Error Correction Demonstrator with NVIDIA NVQLink AZoSensors
 
-### 39. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
+### 42. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-01T04:40:20+00:00
@@ -396,7 +426,7 @@ IQM and Zurich Instruments Launch Real-Time Quantum Error Correction Demonstrato
 
 Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today Goodreturns
 
-### 40. Nifty Opens Below 22,550, Sensex Falls 287 Points Despite Gains In IT And Private Banks - Free Press Journal
+### 43. Nifty Opens Below 22,550, Sensex Falls 287 Points Despite Gains In IT And Private Banks - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-01T04:31:35+00:00
@@ -406,7 +436,7 @@ Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market 
 
 Nifty Opens Below 22,550, Sensex Falls 287 Points Despite Gains In IT And Private Banks Free Press Journal
 
-### 41. Red at the top, green underneath: Banks, IT cushion Sensex-Nifty opening fall - newsdrum.in
+### 44. Red at the top, green underneath: Banks, IT cushion Sensex-Nifty opening fall - newsdrum.in
 
 - Source: newsdrum.in
 - Published: 2026-10-01T04:15:26+00:00
@@ -416,7 +446,7 @@ Nifty Opens Below 22,550, Sensex Falls 287 Points Despite Gains In IT And Privat
 
 Red at the top, green underneath: Banks, IT cushion Sensex-Nifty opening fall newsdrum.in
 
-### 42. Market Today: Sensex Falls 172 Points, Nifty Opens Below 22,600; Auto, Pharma Drag - News18
+### 45. Market Today: Sensex Falls 172 Points, Nifty Opens Below 22,600; Auto, Pharma Drag - News18
 
 - Source: News18
 - Published: 2026-10-01T03:57:46+00:00
@@ -426,7 +456,7 @@ Red at the top, green underneath: Banks, IT cushion Sensex-Nifty opening fall ne
 
 Market Today: Sensex Falls 172 Points, Nifty Opens Below 22,600; Auto, Pharma Drag News18
 
-### 43. SENSEX drops over 250 points, NIFTY50 falls below 22,550; Auto index falls 3% - Upstox
+### 46. SENSEX drops over 250 points, NIFTY50 falls below 22,550; Auto index falls 3% - Upstox
 
 - Source: Upstox
 - Published: 2026-10-01T03:57:13+00:00
@@ -436,7 +466,7 @@ Market Today: Sensex Falls 172 Points, Nifty Opens Below 22,600; Auto, Pharma Dr
 
 SENSEX drops over 250 points, NIFTY50 falls below 22,550; Auto index falls 3% Upstox
 
-### 44. Morgan Stanley Stocks Fall as AI IPO Prices Below Range - TradingView
+### 47. Morgan Stanley Stocks Fall as AI IPO Prices Below Range - TradingView
 
 - Source: TradingView
 - Published: 2026-09-30T17:50:37+00:00
@@ -446,7 +476,7 @@ SENSEX drops over 250 points, NIFTY50 falls below 22,550; Auto index falls 3% Up
 
 Morgan Stanley Stocks Fall as AI IPO Prices Below Range TradingView
 
-### 45. Morgan Stanley Stocks Fall as AI IPO Prices Below Range - Yahoo Finance
+### 48. Morgan Stanley Stocks Fall as AI IPO Prices Below Range - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-30T17:50:37+00:00
@@ -456,7 +486,7 @@ Morgan Stanley Stocks Fall as AI IPO Prices Below Range TradingView
 
 Morgan Stanley Stocks Fall as AI IPO Prices Below Range Yahoo Finance
 
-### 46. Mastercard Stocks Fall as AI Transactions Gain a Probability Score - Yahoo Finance
+### 49. Mastercard Stocks Fall as AI Transactions Gain a Probability Score - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-30T17:42:00+00:00
@@ -466,7 +496,7 @@ Morgan Stanley Stocks Fall as AI IPO Prices Below Range Yahoo Finance
 
 Mastercard Stocks Fall as AI Transactions Gain a Probability Score Yahoo Finance
 
-### 47. Morgan Stanley Stocks Fall as AI IPO Prices Below Range - GuruFocus
+### 50. Morgan Stanley Stocks Fall as AI IPO Prices Below Range - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-09-30T17:01:21+00:00
@@ -476,7 +506,7 @@ Mastercard Stocks Fall as AI Transactions Gain a Probability Score Yahoo Finance
 
 Morgan Stanley Stocks Fall as AI IPO Prices Below Range GuruFocus
 
-### 48. Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane - GuruFocus
+### 51. Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-09-30T15:47:34+00:00
@@ -486,7 +516,7 @@ Morgan Stanley Stocks Fall as AI IPO Prices Below Range GuruFocus
 
 Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane GuruFocus
 
-### 49. The bank of england is now warning of a major AI correction as the equities market continues to pretend gargantuan amounts of debt no longer matter for AI companies. Meanwhile the credit market is humming a very different tune as credit default swaps conti - Moomoo
+### 52. The bank of england is now warning of a major AI correction as the equities market continues to pretend gargantuan amounts of debt no longer matter for AI companies. Meanwhile the credit market is humming a very different tune as credit default swaps conti - Moomoo
 
 - Source: Moomoo
 - Published: 2026-09-30T15:45:03+00:00
@@ -496,7 +526,7 @@ Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane GuruFocus
 
 The bank of england is now warning of a major AI correction as the equities market continues to pretend gargantuan amounts of debt no longer matter for AI companies. Meanwhile the credit market is humming a very different tune as credit default swaps conti Moomoo
 
-### 50. Oracle Stocks Fall Although Agentic AI Targets Financial-Crime Backlogs - Yahoo Finance
+### 53. Oracle Stocks Fall Although Agentic AI Targets Financial-Crime Backlogs - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-30T15:28:02+00:00
@@ -506,7 +536,7 @@ The bank of england is now warning of a major AI correction as the equities mark
 
 Oracle Stocks Fall Although Agentic AI Targets Financial-Crime Backlogs Yahoo Finance
 
-### 51. Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane - Yahoo Finance
+### 54. Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-09-30T15:20:04+00:00
@@ -516,7 +546,7 @@ Oracle Stocks Fall Although Agentic AI Targets Financial-Crime Backlogs Yahoo Fi
 
 Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane Yahoo Finance
 
-### 52. Bank of England warns AI debt surge raises correction risk in financial markets - Traders Union
+### 55. Bank of England warns AI debt surge raises correction risk in financial markets - Traders Union
 
 - Source: Traders Union
 - Published: 2026-09-30T14:53:30+00:00
@@ -526,17 +556,27 @@ Arm Stocks Fall as BlueField-4 Opens Another AI Royalty Lane Yahoo Finance
 
 Bank of England warns AI debt surge raises correction risk in financial markets Traders Union
 
-### 53. ServiceNow Rises as Investors Reassess Recent Selloff and AI Growth Story - quiverquant.com
+### 56. ServiceNow Rises as Investors Reassess Recent Selloff and AI Growth Story - Moomoo
 
-- Source: quiverquant.com
+- Source: Moomoo
+- Published: 2026-09-30T14:51:01+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQNDE4ZmNxRVJTSktYbm15dmJlQl9uQ09NS1ZwVVFvMkhFaG03T1J5Z0xHV2tTV3pZS3ctRHZuNkU4TmFZUzF1SWEwell3ejdHSFVzeFNRLUQtVG14TXkwa3N3YU4xaTNRMDdUczdENmJkZjU5RTg0TUVoN2Q5bkFyVldReXRwb1BWMWU1eXFkNWFUSGdNV1dkd2RvcVJIMW15OVczVWcxQWtvYmdCc1lXZA?oc=5
+
+ServiceNow Rises as Investors Reassess Recent Selloff and AI Growth Story Moomoo
+
+### 57. ServiceNow Rises as Investors Reassess Recent Selloff and AI Growth Story - Quiver Quantitative
+
+- Source: Quiver Quantitative
 - Published: 2026-09-30T14:51:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZ0pRUUF4S0ttcjFEelZyMU51a0xERUJVQ19GalBrbThIWUVyeG00dmlVX3B4bm9FUVJ6T0pNSXFhYm81OHV6aFMxYmYteloxSnNaRXVfS1RIT1lqYXdqalB4SzJQZGJMckV2UVlZOEFtdEt6ajJQd2VobFFJVEdTSGJmbG1oMWJjaG9zWVVtejFrZDB1akZBeV9TZnFZdF85bnUyUzh5a0NOUQ?oc=5
 
-ServiceNow Rises as Investors Reassess Recent Selloff and AI Growth Story quiverquant.com
+ServiceNow Rises as Investors Reassess Recent Selloff and AI Growth Story Quiver Quantitative
 
-### 54. Oracle Stocks Fall Although Agentic AI Targets Financial-Crime B - GuruFocus
+### 58. Oracle Stocks Fall Although Agentic AI Targets Financial-Crime B - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-09-30T14:37:10+00:00
@@ -546,7 +586,7 @@ ServiceNow Rises as Investors Reassess Recent Selloff and AI Growth Story quiver
 
 Oracle Stocks Fall Although Agentic AI Targets Financial-Crime B GuruFocus
 
-### 55. Bank of England warned that AI valuations remain vulnerable to a sharper correction - qz.com
+### 59. Bank of England warned that AI valuations remain vulnerable to a sharper correction - qz.com
 
 - Source: qz.com
 - Published: 2026-09-30T14:04:35+00:00
@@ -556,17 +596,17 @@ Oracle Stocks Fall Although Agentic AI Targets Financial-Crime B GuruFocus
 
 Bank of England warned that AI valuations remain vulnerable to a sharper correction qz.com
 
-### 56. AI debt surge raises risk of sharp market correction, warns Bank of England - ft.com
+### 60. AI debt surge raises risk of sharp market correction, warns Bank of England - Financial Times
 
-- Source: ft.com
+- Source: Financial Times
 - Published: 2026-09-30T14:02:33+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxQS3RzNmM2WEtmZWt0NzJCa191X1ZoUEJkcXJTaVFyRURyTTZIZ0x0NV85ZFVBY3N3eDR6ZjFLdDA2QzJJcUFhS3NSb25vY3F5clYxbV9ldy0yNU5UaFJzSmljelhFTXVqMjIzeVdlSHQtOFBMRld0dTdFbFYxZGF5T2xOR2o?oc=5
 
-AI debt surge raises risk of sharp market correction, warns Bank of England ft.com
+AI debt surge raises risk of sharp market correction, warns Bank of England Financial Times
 
-### 57. Michael Burry moves up market correction timeline, flags risks in Big Tech AI spending - financialexpress.com
+### 61. Michael Burry moves up market correction timeline, flags risks in Big Tech AI spending - financialexpress.com
 
 - Source: financialexpress.com
 - Published: 2026-09-30T13:48:24+00:00
@@ -576,17 +616,27 @@ AI debt surge raises risk of sharp market correction, warns Bank of England ft.c
 
 Michael Burry moves up market correction timeline, flags risks in Big Tech AI spending financialexpress.com
 
-### 58. Sensex Falls 49 Points, Nifty Slips 96 As Selling Pressure Returns - Editorji
+### 62. Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? - IndiaIPO
 
-- Source: Editorji
+- Source: IndiaIPO
+- Published: 2026-09-30T12:59:57+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPcW9fdklXRnI4T0p4VUhhY2tLRmJqcnVpQUpWYTZOMmZ4Rms2bjFId1Q5X1hsc3ZoRXNnZWhjNERmbEttTXhLYi02WjlHZFVYSDU2c2FMWlV5MDE3VHJhUnlKVnRkRmVjcWxMQ2VnNjduRk93c3NwamVtRk1UaU00RlZXcy1uRDRGWlM2X1lxWnAzaF9NN3FwaFU0bDkyOGR6dWlCVmpJMUtjTmFQeld1eTFjREtPalpPZENIdS1NR1AyLUNW?oc=5
+
+Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? IndiaIPO
+
+### 63. Sensex Falls 49 Points, Nifty Slips 96 As Selling Pressure Returns - editorji.com
+
+- Source: editorji.com
 - Published: 2026-09-30T12:50:59+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPZHhFSmtUeURnUjlSSlJDNDF5dWlraDY1MFZyUXZpYTQ2MldCcko5R1F2QUFwdlBjYzBzaGhnQXh0YjZucFRvc1BqT2N3Tlo5S0FFeHowVl9fbE85Um5rc3hOR3IxN294QjRndldUWUJjV3dYYkJ3UHpPVEVUdk5qQ2k0SUhIdXdxV2pHdmxyaGNJc3JJOXV5ZWQwZnI2bUFvWDVtZ1IxOXNFVVFUQkhXOUp4eGNnVFhDeEZOUXZyMV9wNFpK0gHKAUFVX3lxTE5wLTZPMlNWMHRqYUpEYWNUelFOWjhqTUVQX2FiSWhra0NqbTlSc2FPS2gtS2NQUU1IeW4tMHZIT3dZY3J0U05IQzhDdFBpZDRMQllYSk5ySUxUMldUQkRaLXc0YWoxQnBFdk1lV1FDeUFIOU5OalM2QW56ajBtM2thXzlMc3ppVlI4b3U5VnNXRi1rMVNuU1dXdDhYenNaVnFmeGhnTFNUek5ybHpWXzZGWl9rN0V0TjN2dHRSMXVlVkFhR3RKUDc4TGc?oc=5
 
-Sensex Falls 49 Points, Nifty Slips 96 As Selling Pressure Returns Editorji
+Sensex Falls 49 Points, Nifty Slips 96 As Selling Pressure Returns editorji.com
 
-### 59. Nifty’s Derivatives Expiry Flipped India Into Risk-Off Mode - Finimize
+### 64. Nifty’s Derivatives Expiry Flipped India Into Risk-Off Mode - Finimize
 
 - Source: Finimize
 - Published: 2026-09-30T11:43:19+00:00
@@ -596,7 +646,7 @@ Sensex Falls 49 Points, Nifty Slips 96 As Selling Pressure Returns Editorji
 
 Nifty’s Derivatives Expiry Flipped India Into Risk-Off Mode Finimize
 
-### 60. Bank of England Warns: AI Valuation Correction Could Hit Global Economy and Bond Markets - finance.biggo.com
+### 65. Bank of England Warns: AI Valuation Correction Could Hit Global Economy and Bond Markets - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-09-30T11:25:00+00:00
@@ -606,7 +656,7 @@ Nifty’s Derivatives Expiry Flipped India Into Risk-Off Mode Finimize
 
 Bank of England Warns: AI Valuation Correction Could Hit Global Economy and Bond Markets finance.biggo.com
 
-### 61. Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480 - Hindustan Times
+### 66. Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480 - Hindustan Times
 
 - Source: Hindustan Times
 - Published: 2026-09-30T11:24:55+00:00
@@ -616,7 +666,7 @@ Bank of England Warns: AI Valuation Correction Could Hit Global Economy and Bond
 
 Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480 Hindustan Times
 
-### 62. Sensex slips 49 points, Nifty falls 96 points as market extends losses - Telangana Today
+### 67. Sensex slips 49 points, Nifty falls 96 points as market extends losses - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-09-30T10:51:05+00:00
@@ -626,7 +676,7 @@ Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480 Hin
 
 Sensex slips 49 points, Nifty falls 96 points as market extends losses Telangana Today
 
-### 63. AI valuations could see ‘sharper correction’, Bank of England warns - The Straits Times
+### 68. AI valuations could see ‘sharper correction’, Bank of England warns - The Straits Times
 
 - Source: The Straits Times
 - Published: 2026-09-30T10:51:00+00:00
@@ -636,7 +686,7 @@ Sensex slips 49 points, Nifty falls 96 points as market extends losses Telangana
 
 AI valuations could see ‘sharper correction’, Bank of England warns The Straits Times
 
-### 64. Chinese Tech Stocks Fall to One-Year Low Following Trade and Chip Developments - SuaraGarut.ID
+### 69. Chinese Tech Stocks Fall to One-Year Low Following Trade and Chip Developments - SuaraGarut.ID
 
 - Source: SuaraGarut.ID
 - Published: 2026-09-30T10:48:58+00:00
@@ -646,27 +696,27 @@ AI valuations could see ‘sharper correction’, Bank of England warns The Stra
 
 Chinese Tech Stocks Fall to One-Year Low Following Trade and Chip Developments SuaraGarut.ID
 
-### 65. Taking Stock: Sensex, Nifty end flat amid volatility; metal, pharma stocks drag - TradingView
+### 70. Sensex falls 48 points on late selling - Pioneer Daily
 
-- Source: TradingView
-- Published: 2026-09-30T10:20:17+00:00
+- Source: Pioneer Daily
+- Published: 2026-10-01T10:18:50+00:00
 - Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNVHpMWTNXZmVhSjQ2b3VubGlObEZBendCa2h2UkZTdExxR1FJSTdKaWV2Zkk0QjZaZ2lVYXdRNHZnczBJTEZITVRSVGRFNDEwUm92Qm1HbkxoYjNqQXNqZmNGOHpHUEtaNHFyT1RPSm81Ulg4aXZnODFhbzc1MU84Y2E0TzJxU0RYQW1EakNhQkJkVFpiTV9xbkNxOTV0RzhUbVExcGhUQk02X0pXRjkxVlRDeWV2TlFXVUY2NWdGMk02eEdkc2wyUHltQ0hDdW9PZWlfVA?oc=5
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxQenBtRElJcVdiV2NYWUtaMGI2anNHYS1LbEZneDlBWnYtS2YyRkRRRmNRYjdWUy01T0gxRkRESW05MHpQRFBzZ2tIZXZGWW9SS0t0N0liWmgtaGhNR1N3TXJkWnoyOVNKQkZwTEVCci1mYlRZNnRiRTNpQ1doWVBYMkVZOXU3eEM5OGRDUkI2OXNPQQ?oc=5
 
-Taking Stock: Sensex, Nifty end flat amid volatility; metal, pharma stocks drag TradingView
+Sensex falls 48 points on late selling Pioneer Daily
 
-### 66. Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? - The Economic Times
+### 71. Nifty FMCG falls 6% in six months. Can festive demand trigger a recovery? | Marico, HUL, Tata Consumer among top picks - Livemint
 
-- Source: The Economic Times
-- Published: 2026-09-30T10:13:43+00:00
+- Source: Livemint
+- Published: 2026-10-01T10:17:53+00:00
 - Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMHpBenJHS05VeTR6WDd5LUlFQ0VEVlNSeDVpZVByaEpCQ2JyZXYxY3MwTUkzMFdMVTUwTjUxeTJTeGFORVZWM0ZYQ2tOb2tiTlE2Mm92d24zTkhFNk80c3drQTFVRlEyZ0FfbFg2VmNfcmZRTHVSNVhIVk9OQmMyMFdMTktVNWxRUUx3bXBMaDlYeDlCSlM5Wk9oLW9ub3dROEVlZVM4R1haNmcyZDZ5b2J3NmxmLVgya0FZbmpLcWtfeWZ4WUVmN0hfSi1MdlBZM2puNmNCUjQ0WmRjUUNCWXpiWjlWeER1UzlPYkF6UlNRMVVtN2o00gH8AUFVX3lxTE1tbTIwajF0S0xuUGxWdTJzNUhZTzJ1WkVFMUVOdUFYVTBSblZFYUludkhSdTlTc3JzVlRZVG9hd0Fha0RhMUNadTdvNm1HUlRqa3d3Z0tnTUFIU0VMRFcwa2RRbkw3QV9MUjhPZEE0SE9BN3pGNnA4ZTk5SmF0eEs1enRKWTllS3ZyV2J4OGdQenpOazFRRFptOUl2d3RiMk42aTBQbFZBdXlZaktyR19sRWRtX1pISkY2NnJqTVdTdExzZmFzYXVmNUNzSEJXLXN4NEc0YjZzTHY2azM5YzZ1SWxnenZiMS1FNGtmUnRwWEN6dXMtdGtYekFIcQ?oc=5
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxQRjhRZDUyU2FSQVhIS3lFb0tZbkVXLUpkM3FrOUFZSFRLbnJLZHBSb3g4aHRIMkNyN3E1bzc3S0o1MFdXLXNWX1ZQaGY4UEhOR09RVVRBU0ZFQkhjVk9PbXIwSmN5MDVtd2U0dnNDZ1RJOEpKWE1oLU9GVUVxNVNWNDlJbFZwNi05Q1pZcDJ4SmRpOUFLQkdJTzJwX2NFZzE4WUhVN24zZm9PQWNoQ0Q4TFBvc19QX1ZLWW1zdE9JZEtucFh5Nk1tcGlmTjN0Sy1aTnBQYV9xdW5VakFUMjVNcTQySzlKb1ZfM1FKV09NbExTTTNxWVk3QlNyeTl5b2V2Ql9TamliTThaWnF5QXfSAZMCQVVfeXFMTXI3QldBWXY5VlNuZ1Y0UXZMYjVGeFZ6cVNuRTl6S25Dam11N3JkSGZvbFhKZUQ2M19idnpXdHdQNER3N1NpaUFhWWpKTURRYVA2XzJsdUtsbmxMYnUtZ2Fwc0d2a05TQ05DWkNVbFpEd2NwZXVWeFhSVEpLTUotaTdhakwxY1gzd1NDU2ZkanFGcFJSaVdKc3Zfc2JQRlVlRjVpUUdSUTgwU0tWZUNuU0N4bHg2OE5oVGdRSWRBQmJHdlJHQjNjZ0Y4YTdWSy1uem5fX2hNZjl3MDRVTHVDblpaWnNlUVM1UTl3dU45ck1QY002UVJ6ZThSTU9OSkV6VGh3R3ZNT0l5QTBQUnFGczJjMDA?oc=5
 
-Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. What lies ahead? The Economic Times
+Nifty FMCG falls 6% in six months. Can festive demand trigger a recovery? | Marico, HUL, Tata Consumer among top picks Livemint
 
-### 67. Stock Market Today Live Updates: Sensex Falls Sharply, Nifty50 Slips Below 22,300 Amid Heavy Selling - Devbhoomi News
+### 72. Stock Market Today Live Updates: Sensex Falls Sharply, Nifty50 Slips Below 22,300 Amid Heavy Selling - Devbhoomi News
 
 - Source: Devbhoomi News
 - Published: 2026-10-01T10:00:04+00:00
@@ -676,17 +726,17 @@ Sensex falls 49 points, Nifty ends below 22,650 as market continues to bleed. Wh
 
 Stock Market Today Live Updates: Sensex Falls Sharply, Nifty50 Slips Below 22,300 Amid Heavy Selling Devbhoomi News
 
-### 68. Nifty 50 Falls 1.19% at Thursday Close as Indian Equities Retreat - Business Upturn
+### 73. Nifty 50 Falls 1.19% at Thursday Close as Indian Equities Retreat - businessupturn.com
 
-- Source: Business Upturn
+- Source: businessupturn.com
 - Published: 2026-10-01T09:58:51+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOamtEYjZaS3VyMUVXNGdnQ3JSYy1xZm85UWIxNkFoYzM5a0ZwdlJZR0RHYjlGNHF5cWdHWnJ0VlloaTM2QUlwMzh0NzQ5cmFGOXBlOHU1X0R5ei03QjhwUUdrempqUkRlbW4tcmR0WVZnUkRwWmJQSHlQUE04eXk3WE1xVGQyZU92bDhJRi1hSzByMFBtdUJUQk9OOGI5VmhEa2NLZHVfV0l6aE1pTTU1eGdBSDd5TWZmZ0E?oc=5
 
-Nifty 50 Falls 1.19% at Thursday Close as Indian Equities Retreat Business Upturn
+Nifty 50 Falls 1.19% at Thursday Close as Indian Equities Retreat businessupturn.com
 
-### 69. Sensex to snap 10-year winning streak in 2026? Ambit sees correction ahead - Moneycontrol.com
+### 74. Sensex to snap 10-year winning streak in 2026? Ambit sees correction ahead - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-01T08:34:38+00:00
@@ -696,17 +746,27 @@ Nifty 50 Falls 1.19% at Thursday Close as Indian Equities Retreat Business Uptur
 
 Sensex to snap 10-year winning streak in 2026? Ambit sees correction ahead Moneycontrol.com
 
-### 70. What is dragging Nifty today? M&M, Maruti, Bajaj Auto lead selloff as autos, metals and heavyweights slide - Business Upturn
+### 75. Markets Rally, But Orkla India Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off - MarketsMojo
 
-- Source: Business Upturn
+- Source: MarketsMojo
+- Published: 2026-10-01T08:02:20+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPRGloZlhGVmlBeGFjY3FRWmtNTU80ampoYVhpSGhzbEZRVzBHMWFFMWlhUWhXbWhhWE9ZVEhqdENSbmctY1hWY1F5cF9JZ2swVF9pNXd4U29kWjlHNncydGpBQnNEdEFmTGpnbEVZODc2QWZwMkFTb0Y3ZnFwaHc1bHRlMWw4cTZ0Y3pPa1d6NFRTaWNBZzl2YVc1bHdpam5PZmFWY0NGM1lxUldveXhOWA?oc=5
+
+Markets Rally, But Orkla India Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off MarketsMojo
+
+### 76. What is dragging Nifty today? M&M, Maruti, Bajaj Auto lead selloff as autos, metals and heavyweights slide - businessupturn.com
+
+- Source: businessupturn.com
 - Published: 2026-10-01T07:34:07+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOYTJyT2xvNWhlaGs1cGxHQnVSRkx1d0xXZ29aZm01c1V1NmRMaVVFbnAteUNZd0NweDhjZUZWU0M0aVdyc1FiWkpXMVFZeDZ6a1ZWMHMtSHBjT0dlNWJXbkVzUTBXSjlQd2lrMkRvb2s1Ymk5dDc1Wl9RRW5ac3QxOWUxWG44UldQY2ZvNVplYVluODV1M0duMXRUa05OUWtFWURTYV9CMUhaZ0VSc1pkQ0s3dzZ2WlIxbUE4X2padHV0STNHZEZyR0xQczRLVzdxWGpESVZvc1h2SkVZY1IweW9XcEFaQQ?oc=5
 
-What is dragging Nifty today? M&M, Maruti, Bajaj Auto lead selloff as autos, metals and heavyweights slide Business Upturn
+What is dragging Nifty today? M&M, Maruti, Bajaj Auto lead selloff as autos, metals and heavyweights slide businessupturn.com
 
-### 71. Bajaj Auto, Hero MotoCorp, M&M tumble: Nifty Auto falls over 3% to lead sectoral loss — what’s next for the sector? - Livemint
+### 77. Bajaj Auto, Hero MotoCorp, M&M tumble: Nifty Auto falls over 3% to lead sectoral loss — what’s next for the sector? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-01T06:09:03+00:00
@@ -716,17 +776,17 @@ What is dragging Nifty today? M&M, Maruti, Bajaj Auto lead selloff as autos, met
 
 Bajaj Auto, Hero MotoCorp, M&M tumble: Nifty Auto falls over 3% to lead sectoral loss — what’s next for the sector? Livemint
 
-### 72. Nifty 50 Falls at Open on Thursday - Business Upturn
+### 78. Nifty 50 Falls at Open on Thursday - businessupturn.com
 
-- Source: Business Upturn
+- Source: businessupturn.com
 - Published: 2026-10-01T03:43:35+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxPSjltdHlEWUZ5RTZ5dFlPUXZHUEoxZnJWNUJCdTVYWWFNc254dlRxZElQRnNtTG1xcjZwRkxnejVMdUx5UnRZZDN0cUotRHRpTVFPLWpSVnZUbEFHTUk4NVFvdmhQWVpBeXBzWEdMN2dreWlNbjdRZEEtLTVSZTZmRzREQ1FSNFk0eGE3VQ?oc=5
 
-Nifty 50 Falls at Open on Thursday Business Upturn
+Nifty 50 Falls at Open on Thursday businessupturn.com
 
-### 73. September rout makes history: Nifty posts worst monthly fall in 8 years, worst series drop since 2001 - BusinessLine
+### 79. September rout makes history: Nifty posts worst monthly fall in 8 years, worst series drop since 2001 - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-09-30T14:55:58+00:00
@@ -736,72 +796,12 @@ Nifty 50 Falls at Open on Thursday Business Upturn
 
 September rout makes history: Nifty posts worst monthly fall in 8 years, worst series drop since 2001 BusinessLine
 
-### 74. Nifty 50 Falls on Final Day of September to Close at 22,616 - Business Upturn
+### 80. Nifty 50 Falls on Final Day of September to Close at 22,616 - businessupturn.com
 
-- Source: Business Upturn
+- Source: businessupturn.com
 - Published: 2026-09-30T10:59:06+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxOTDhOb1ZIZG5WUlFiY0Q5V0cwbnIzbWxFNkNxcXpLdTFBenhyTUc4TmtsWjlHcWQwOHlMeG1FVWZQSXV6SVdIRWdER1RDdkRwcy1ub1hkX1cyVUlMa1JRY3NoZGllQ0MtdGQxZjRoa29kSnBveTVDUkVhZWpTazNJaHpxTTFGalkzYlVmLWR4QUdITDJ3V2JaOGRlMGZvUDU1X0o5enRwZGhwWlVlWHc?oc=5
 
-Nifty 50 Falls on Final Day of September to Close at 22,616 Business Upturn
-
-### 75. Closing Bell: Nifty 50 Records Worst September Fall Since 2018; Extends Previous Losses - Dalal Street Investment Journal
-
-- Source: Dalal Street Investment Journal
-- Published: 2026-09-30T10:38:11+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQNGpORE95MU5aaE1VVHduemNwc1YzZFVJY3ZqTS1JamFoUl9HQmJxZHlYSHg2SUVzT0k2NEdQTjZYakd6MEs1RUJWSkt2OFRIdlRiR1JBQm1MUF9qaWlGZEdHQXBEYVlBTEpxdFlvVVBpTDZXa1dZdmJwVDZSZExnVDJmVGNySFZXbTdDdFAzUFU3d3E3bUNIcFVHV0F5X3BhZ0dzVmZKREJkY05ZLS1yYVNCV2Z6dTJVRjEwalB4aXlYQTZnbUhrS0Myc09jdVk?oc=5
-
-Closing Bell: Nifty 50 Records Worst September Fall Since 2018; Extends Previous Losses Dalal Street Investment Journal
-
-### 76. PGIM India CIO Naha is holding up to 20% cash, waiting for a 5%-7% market correction - CNBC TV18
-
-- Source: CNBC TV18
-- Published: 2026-09-30T10:38:07+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMjJncEViTGh2T1lYSEp6VEE3cXpRSk1DMTdPaVZ5RDFWamZjOTFiRmFMTHpwaXh0bDZINmFYNV9xb055bzRoR1hrVXpWazBic1BhNEs5VHNGWkctMFgyR2cyVkM2dUtmYkNxZkZfN091aEdZN0xmV3haVkliUjI1cXZzYkZSak5ySjRGUEdUZTRRcjhiOFVSZUJGck9BMkNlLTU3dklQUXg2UdIBrwFBVV95cUxQdTUyZkFDeGxSSUF0Z1djUjh6QXd6MWx3SnpUYjBzb0Zuc1dqUTlEa19raFlLSWZ5SGpkSjMxUmtfbFd4TW1sOVZLUnB1ci1tbHBRWTRFYnF0bkQzM2N2dlM2RllBVG5TZUFNVkwyWGxYNzJTaTlZWVVPU3Uya2FkWi1lRkRoNHN4NnhId1JOS2NzMjZ1SU95VmEwWlp1SjlZbnRLaDZVX2U1d1BFYU5F?oc=5
-
-PGIM India CIO Naha is holding up to 20% cash, waiting for a 5%-7% market correction CNBC TV18
-
-### 77. Mutual Funds in India: Mutual Funds News, Mutual Fund Investment, SIP, Best and Top Mutual Funds - ET Now
-
-- Source: ET Now
-- Published: 2026-10-01T07:30:27+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMiT0FVX3lxTE5XaGRoVVRGZThUR211cmNGclBPWGFRQlBNTjVCMktfR1B2Rnc0dHYtalJuak1tOVAxNG5paUFjdlBmakVZM2NFVXZGQUxxaEU?oc=5
-
-Mutual Funds in India: Mutual Funds News, Mutual Fund Investment, SIP, Best and Top Mutual Funds ET Now
-
-### 78. Sensex, Nifty open lower as FII selling offsets relief from softer crude - India Today
-
-- Source: India Today
-- Published: 2026-10-01T04:09:29+00:00
-- Themes: India market, macro / flows
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQOXQ3ZE9vS0tTaHZ6TzlYeFgwWk5LdEF3Uk5CRm9DNlpZTHlyRTdQNkQ1WXdvUDFBXzhlak91ZklEdTR1QWtyb0NDVmhoaVU3VmxpNkdwX2hacmtJMzlSS0tjY2FEd2Z5VDhjR3pqQmt4RGwtS3R0ZEJsYk80OUlvenVxdjNBYmRVYmpLak12eEYtOUJtcnJkRmtuNkxwcnJGaXVCZzVlUHlUT0htbHQ5RmZ0eHJsWXNJYXprNjk5NVcxeTBtVzZ6blBXVVdNWkUz0gHWAUFVX3lxTE5waTdRTVFxZGJFV0V4ZENlMExpOUJ2TF9GWDc0SGRfV0JnRno1emxLVHUycDNwNkdBdHdCUm1aQmNLazVXRVpBaTg3N2NBUGp4aE1BSlNJdjZoRjhSZF8waTVmU044ZHRPLURGaUZ1bjNPcTg2YjNYT1dhTmQ5T1VtTUc5TDZKVldfVjRWQUpMTkU2S0NCaXh6andhTU02cEhFbkwyTlpLOXp5cE5LNndQZ2VGYUdhQ1pOZFFDMUNqaUhvQk54RlZCMHlQalRZakRXckFPZkE?oc=5
-
-Sensex, Nifty open lower as FII selling offsets relief from softer crude India Today
-
-### 79. Markets are falling. Are India’s biggest equity mutual funds protecting investors better than their benchmarks? - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-10-01T09:34:01+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxOTWRiSERYbWpGNjdUZnRZTF9RMnpjWFY1TmpVRi14ejZvMmpUakhIb255Y1FHYU83a1BCdTRqV3hlejdxM0Q5eV9TS1FKMWw4WjZXTUl4azVESmhUS09HLUdkWHJPSi0xdmhuVGd2V2Q2bFUxcVRyS2o0UVM5R19VdkxQWlRkQmlzdHRRRU5jX0NDV1B0YWFZN3Iwd3JJSlYwZ1ptWEJiLUotMEVSZEsyMkMxdmxHd0RNUE53eVJTdjN0M2FBZzAza0RCYVhFMEVxcXBxd050ZERfWlpSekVJdjEwckdENHpmMkJyUUFKbmJxMk50dlZjSTF0WVQtZzk1ZDZwNFR5UDR5dmRrTWtlbQ?oc=5
-
-Markets are falling. Are India’s biggest equity mutual funds protecting investors better than their benchmarks? Moneycontrol.com
-
-### 80. Another stock market crash: Nifty, Sensex tank - FII selling, high bond yields, among 5 reasons behind big plunge - Livemint
-
-- Source: Livemint
-- Published: 2026-10-01T07:51:09+00:00
-- Themes: India market, macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQdTNRb3hkb09CSHJoak5QRXhGQmxTZU50RVB6UTZLM2k5UndlM1lHbmliQUgwaXlIelJGZVpUc2F2cUdNUDYtRFd2SngzZFpFZjdsQWN0LWFhVDBuaXlBRDZwb0xGVHpaQUNtSE5NNlVtSzdFa3BrRTdBZkVnVUNKNTluNFBPWnpmNVIzUkQ2RVptelZmZmszS1FtelRDeFNfRTZmaWdMWUZGVnpvSnZlZnhXX05uUTZWZzhfMkVzUE5NUjdaOGNrRmM5eU9sM3BmaENuVkhxd196ODFwdDVRbDNrUF9NU05iNlo2VFUtVkp4Z9IB9wFBVV95cUxNekxXdFZqNlZFVzRMaGRoZEt1UFlranNSS3lDMXBjd1dhUnpyeU1jSGJzOGZVOUh3MXBvZU9aMDN5QTFsNFV1dF9iVXR5Sk1wNTVSVFRzcnF6V19veUY5QjdGNDZGdzZMLTBtNmdWdGc1Z3RJaXgzd3RFd0xyOXF5NmtPNmczVzFwV1d0NEhnRXBUdldoaDBRajA3bjRham9Ldm5nZ01udkd5Snhwd2dvR1BDNThxTktzdDFVbzhxVHFXb1VPemdPRGhMTjVFZl9HRl9TOG9nVE1vUWt3U3JaRG1mQmZlMnNURWhTeHpqNXd1YXBQN21v?oc=5
-
-Another stock market crash: Nifty, Sensex tank - FII selling, high bond yields, among 5 reasons behind big plunge Livemint
+Nifty 50 Falls on Final Day of September to Close at 22,616 businessupturn.com
