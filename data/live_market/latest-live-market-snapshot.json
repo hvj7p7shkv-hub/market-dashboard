@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-09-30T22:04:06+05:30",
+  "generated_at": "2026-10-01T08:40:35+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
-      "advancers": 32,
+      "downloaded_count": 59,
+      "coverage_pct": 98.3,
+      "advancers": 33,
       "decliners": 26,
       "unchanged": 0,
-      "ad_ratio": 1.23,
-      "up_turnover_share_pct": 41.7,
-      "down_turnover_share_pct": 58.3,
+      "ad_ratio": 1.27,
+      "up_turnover_share_pct": 41.8,
+      "down_turnover_share_pct": 58.2,
       "high_volume_decliners": 8,
-      "intraday_quotes": 58,
+      "intraday_quotes": 59,
       "daily_fallbacks": 0,
       "as_of_date": "2026-09-30",
       "as_of_timestamp": "2026-09-30 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 1
     },
     "sector_breadth": [
       {
@@ -86,6 +86,14 @@
         "average_volume_ratio_20d": 0.765
       },
       {
+        "sector": "Utilities",
+        "count": 2,
+        "advancers": 1,
+        "decliners": 1,
+        "average_1d_pct": -0.158,
+        "average_volume_ratio_20d": 0.73
+      },
+      {
         "sector": "Consumer durables",
         "count": 4,
         "advancers": 3,
@@ -100,14 +108,6 @@
         "decliners": 3,
         "average_1d_pct": -0.476,
         "average_volume_ratio_20d": 0.949
-      },
-      {
-        "sector": "Utilities",
-        "count": 1,
-        "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -0.688,
-        "average_volume_ratio_20d": 0.559
       },
       {
         "sector": "Commercial services",
@@ -1493,6 +1493,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 102.41,
+        "previous_close": 102.03,
+        "day_move_pct": 0.3724,
+        "session_volume": 978488.0,
+        "average_volume_20d": 1086038.0,
+        "volume_ratio_20d": 0.901,
+        "turnover_proxy": 100206960.0,
+        "quote_date": "2026-09-30",
+        "quote_timestamp": "2026-09-30 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1667,20 +1684,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 499,
-      "coverage_pct": 99.8,
+      "downloaded_count": 500,
+      "coverage_pct": 100.0,
       "advancers": 255,
-      "decliners": 240,
+      "decliners": 241,
       "unchanged": 4,
       "ad_ratio": 1.06,
       "up_turnover_share_pct": 50.3,
       "down_turnover_share_pct": 49.7,
       "high_volume_decliners": 40,
       "intraday_quotes": 499,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-09-30",
       "as_of_timestamp": "2026-09-30 15:25 IST",
-      "stale_rows_excluded": 1
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -1753,7 +1770,7 @@
         "advancers": 10,
         "decliners": 4,
         "average_1d_pct": 0.527,
-        "average_volume_ratio_20d": 1.168
+        "average_volume_ratio_20d": 1.195
       },
       {
         "sector": "Automobile and Auto Components",
@@ -1797,11 +1814,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
+        "count": 63,
         "advancers": 31,
-        "decliners": 31,
-        "average_1d_pct": -0.035,
-        "average_volume_ratio_20d": 1.519
+        "decliners": 32,
+        "average_1d_pct": -0.039,
+        "average_volume_ratio_20d": 1.507
       },
       {
         "sector": "Consumer Services",
@@ -1840,7 +1857,7 @@
         "count": 48,
         "advancers": 5,
         "decliners": 43,
-        "average_1d_pct": -2.035,
+        "average_1d_pct": -2.019,
         "average_volume_ratio_20d": 1.617
       }
     ],
@@ -4069,10 +4086,10 @@
         "ltp": 4629.0,
         "previous_close": 4576.0,
         "day_move_pct": 1.1582,
-        "session_volume": 13690.0,
+        "session_volume": 18441.0,
         "average_volume_20d": 12397.0,
-        "volume_ratio_20d": 1.104,
-        "turnover_proxy": 63371010.0,
+        "volume_ratio_20d": 1.488,
+        "turnover_proxy": 85363389.0,
         "quote_date": "2026-09-30",
         "quote_timestamp": "2026-09-30 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -5929,6 +5946,23 @@
         "quote_date": "2026-09-30",
         "quote_timestamp": "2026-09-30 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 237.65,
+        "previous_close": 238.25,
+        "day_move_pct": -0.2518,
+        "session_volume": 1339286.0,
+        "average_volume_20d": 1690175.0,
+        "volume_ratio_20d": 0.792,
+        "turnover_proxy": 318281310.0,
+        "quote_date": "2026-09-30",
+        "quote_timestamp": "2026-09-30 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
@@ -8130,11 +8164,11 @@
         "name": "NATCO Pharma Ltd.",
         "sector": "Healthcare",
         "ltp": 826.0,
-        "previous_close": 843.1,
-        "day_move_pct": -2.0282,
+        "previous_close": 836.2338,
+        "day_move_pct": -1.2238,
         "session_volume": 598245.0,
-        "average_volume_20d": 429658.0,
-        "volume_ratio_20d": 1.392,
+        "average_volume_20d": 431199.0,
+        "volume_ratio_20d": 1.387,
         "turnover_proxy": 494150370.0,
         "quote_date": "2026-09-30",
         "quote_timestamp": "2026-09-30 15:25 IST",
