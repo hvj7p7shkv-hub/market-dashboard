@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-01T22:42:16+05:30",
+  "generated_at": "2026-10-02T15:36:49+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
+      "downloaded_count": 60,
+      "coverage_pct": 100.0,
       "advancers": 13,
-      "decliners": 45,
+      "decliners": 47,
       "unchanged": 0,
-      "ad_ratio": 0.29,
-      "up_turnover_share_pct": 20.6,
-      "down_turnover_share_pct": 79.4,
-      "high_volume_decliners": 15,
-      "intraday_quotes": 58,
+      "ad_ratio": 0.28,
+      "up_turnover_share_pct": 20.5,
+      "down_turnover_share_pct": 79.5,
+      "high_volume_decliners": 17,
+      "intraday_quotes": 60,
       "daily_fallbacks": 0,
       "as_of_date": "2026-10-01",
       "as_of_timestamp": "2026-10-01 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -55,11 +55,19 @@
       },
       {
         "sector": "Utilities",
-        "count": 1,
+        "count": 2,
         "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -1.139,
-        "average_volume_ratio_20d": 1.5
+        "decliners": 2,
+        "average_1d_pct": -0.848,
+        "average_volume_ratio_20d": 1.605
+      },
+      {
+        "sector": "Finance",
+        "count": 12,
+        "advancers": 4,
+        "decliners": 8,
+        "average_1d_pct": -1.158,
+        "average_volume_ratio_20d": 1.28
       },
       {
         "sector": "Technology services",
@@ -68,14 +76,6 @@
         "decliners": 2,
         "average_1d_pct": -1.189,
         "average_volume_ratio_20d": 1.071
-      },
-      {
-        "sector": "Finance",
-        "count": 11,
-        "advancers": 4,
-        "decliners": 7,
-        "average_1d_pct": -1.203,
-        "average_volume_ratio_20d": 1.236
       },
       {
         "sector": "Consumer non-durables",
@@ -1493,6 +1493,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 101.84,
+        "previous_close": 102.41,
+        "day_move_pct": -0.5566,
+        "session_volume": 1827847.0,
+        "average_volume_20d": 1069720.0,
+        "volume_ratio_20d": 1.709,
+        "turnover_proxy": 186147932.0,
+        "quote_date": "2026-10-01",
+        "quote_timestamp": "2026-10-01 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1612,6 +1629,23 @@
         "alert": ""
       },
       {
+        "symbol": "INDIGRID",
+        "ticker": "INDIGRID.NS",
+        "name": "IndiGrid Infrastructure Trust",
+        "sector": "Finance",
+        "ltp": 169.85,
+        "previous_close": 170.98,
+        "day_move_pct": -0.6609,
+        "session_volume": 1105943.0,
+        "average_volume_20d": 626680.0,
+        "volume_ratio_20d": 1.765,
+        "turnover_proxy": 187844425.0,
+        "quote_date": "2026-10-01",
+        "quote_timestamp": "2026-10-01 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "ELPROINTL",
         "ticker": "ELPROINTL.NS",
         "name": "Elpro International Ltd",
@@ -1667,20 +1701,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 499,
-      "coverage_pct": 99.8,
-      "advancers": 107,
+      "downloaded_count": 500,
+      "coverage_pct": 100.0,
+      "advancers": 108,
       "decliners": 391,
       "unchanged": 1,
-      "ad_ratio": 0.27,
+      "ad_ratio": 0.28,
       "up_turnover_share_pct": 31.3,
       "down_turnover_share_pct": 68.7,
       "high_volume_decliners": 79,
       "intraday_quotes": 499,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-10-01",
       "as_of_timestamp": "2026-10-01 15:25 IST",
-      "stale_rows_excluded": 1
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -1717,11 +1751,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
-        "advancers": 16,
+        "count": 63,
+        "advancers": 17,
         "decliners": 45,
-        "average_1d_pct": -0.81,
-        "average_volume_ratio_20d": 2.259
+        "average_1d_pct": -0.786,
+        "average_volume_ratio_20d": 2.231
       },
       {
         "sector": "Financial Services",
@@ -5929,6 +5963,23 @@
         "quote_date": "2026-10-01",
         "quote_timestamp": "2026-10-01 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 239.28,
+        "previous_close": 237.65,
+        "day_move_pct": 0.6859,
+        "session_volume": 771383.0,
+        "average_volume_20d": 1706108.0,
+        "volume_ratio_20d": 0.452,
+        "turnover_proxy": 184576523.0,
+        "quote_date": "2026-10-01",
+        "quote_timestamp": "2026-10-01 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
