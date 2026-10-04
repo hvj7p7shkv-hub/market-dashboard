@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 11:40 IST",
+  "generated_at": "2026-10-04 12:10 IST",
   "wire_file": "2026-10-04-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,35 +23,35 @@
   },
   "posture": {
     "stance": "Mixed",
-    "wire_count": "11",
-    "wire_total_count": "85",
+    "wire_count": "14",
+    "wire_total_count": "86",
     "wire_scope_date": "2026-10-04",
-    "ai_wire_count": "3",
-    "selling_wire_count": "1",
-    "india_wire_count": "7",
+    "ai_wire_count": "4",
+    "selling_wire_count": "2",
+    "india_wire_count": "10",
     "weak_index_count": "14",
     "valid_index_count": "24"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-04 05:10",
-      "title": "Planning a lumpsum investment in smallcap mutual funds? Check top 3 leaders and laggards - The Economic Times",
-      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 11 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-04 06:31",
+      "title": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? - economictimes.com",
+      "text": "Latest dated headline · economictimes.com. Today's unique wire set contains 14 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-04",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-04 has 7 India-market wires, 1 selling/risk wires, and 3 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-04 has 10 India-market wires, 2 selling/risk wires, and 4 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-04",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: AI Deal Frenzy Powers Hong Kong Fundraising to Record Summer - bloomberg.com"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: AI valuation correction may bring more capital to India: RBI Governor | Most immediate concern is regarding cyber risk | Inshorts - Inshorts"
     },
     {
-      "label": "Funds",
-      "title": "Mutual fund participation is still visible",
-      "text": "Fund-related wires are active, but this dashboard should be read for category dispersion rather than a single fund-flow signal."
+      "label": "Flows · 2026-10-04",
+      "title": "Foreign-flow and risk appetite lens",
+      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: Rupee seen at 95.30-96.80 in October; global yields, FPI outflows pose risk: Report - The Tribune"
     }
   ],
   "indices": [
@@ -18477,7 +18477,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-04T11:40:11+05:30",
+    "generated_at": "2026-10-04T12:09:50+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -30855,10 +30855,19 @@
       "published": "2026-10-03T07:12:40+00:00",
       "score": 13.0,
       "themes": "['AI / tech risk', 'market selling', 'India market', 'macro / flows']",
-      "source": "TradingView",
-      "title": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor - TradingView",
+      "source": "tradingview.com",
+      "title": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMGxzeGhINUZReHVZQWhvNXhkWm5KT0JDbUNtYVg5R3VuMDljaE1NREhkemtnalBsT3V4dGdrTGtCZVJoZ3NIYUlub0ZST1ZKSldwa1V3YjZhbEpXTWpTeFd4NHJsejdUOXZQQjhtWUFjY2VqVjJpdzdKdzd5ZWg3VjFZdjljNUtkeTkza2NsendISGxBZ0JFR3B1bldWNC03WFlfckJQT24zaEJwc1ZLRUd2WTI3bERiYVZudGh3M3dKUjZYejhCMmJ1UXVUQ0dhWHVGbkZsOXc5VU1EQmpUUXVCS0lkSnZaM0FwUGxpY3BRbGlfYzZnMXBvTQ?oc=5",
-      "description": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor TradingView"
+      "description": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor tradingview.com"
+    },
+    {
+      "published": "2026-10-04T04:17:26+00:00",
+      "score": 12.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market']",
+      "source": "Inshorts",
+      "title": "AI valuation correction may bring more capital to India: RBI Governor | Most immediate concern is regarding cyber risk | Inshorts - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW91QXR2QVVnZWtiXzhjVDlmQ1VnVG50dUMyai05UFRELUxBSFNZV2xGRkxpSWZUaTRZREZqM3NnZjdYUk42Skt3VXlRdnVQdFpEOWF0T3dJcW0tbWF1aEExeVVPb1NyWEVhRS1fNkp3SWtyYkthZi1HcTRMbThiaXJjYjdob0pabDZlbnBKVU84cnFiMDE5TmJpdUYzNXBMTTVPVWZRUFozbE9CbGNlUk5ZbmRvdDTSAbcBQVVfeXFMTUFvdUF0dkFVZ2VrYl84Y1Q5ZkNVZ1RudHVDMmotOVBURC1MQUhTWVdsRkZMaUlmVGk0WURGajNzZ2Y3WFJONkpLd1V5UXZ1UHRaRDlhdE93SXFtLW1hdWhBMXlVT29TclhFYUUtXzZKd0lrcmJLYWYtR3E0TG04YmlyY2I3aG9KWmw2ZW5wSlVPOHJxYjAxOU5iaXVGMzVwTE01T1VmUVBaM2xPQmxjZVJOWW5kb3Q0?oc=5",
+      "description": "AI valuation correction may bring more capital to India: RBI Governor | Most immediate concern is regarding cyber risk | Inshorts Inshorts"
     },
     {
       "published": "2026-10-03T12:18:28+00:00",
@@ -30963,10 +30972,10 @@
       "published": "2026-10-03T14:32:56+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "IndiaIPO",
-      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - IndiaIPO",
+      "source": "indiaipo.in",
+      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - indiaipo.in",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObF9fWlVHNnR1T1Bwbld2RUF0QWpYblhURlZ6ZGR5R2pmVVB5bnhIQ2QzRzZpakV4X3R2MU12bFVFMWplbVAzTU5xaWZPeEJwY1JndTlqV1lFbmJQaXFXX2NET2Jfd08yV2pyb1NzRzdGYjd3b0lzYnZOdEItWWdWSkh1WHZZUEJSVXdPWVgwNmRCUDBRSnZTbEpYYk9meEZKTFJlajJxZTFYcDRnWUxYRw?oc=5",
-      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high IndiaIPO"
+      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high indiaipo.in"
     },
     {
       "published": "2026-10-03T10:57:16+00:00",
@@ -30981,10 +30990,10 @@
       "published": "2026-10-03T09:38:01+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "The Economic Times",
-      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - The Economic Times",
+      "source": "economictimes.com",
+      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOS25kMV9SZ08wTXpLLWJHUHZDWXFoV05OaDBaWFEtWEhNZ21HWE1mSE9lMTJNYWcwTDhQX0N6WlVNdFZmRVhPMVdobnFpWFp5aE1wQmM4R0pxNGZUOTB0TVhfYmx4cVJzbTNUekotbmdlTjFXVXAwekdpazlMeVBYRGRCc1F5MElvcjNrVDZwU25hd2tvVkFDUkZ0elhnVzhBOVJxenh4VnZLX2Q1V2RsV3k3TU5ibmlzQkFNQi1yU21ReEhFTlJjX1ByUUE1UkVCQ1BQT3JSa2htQUJLa3JwcEV3c9IB6AFBVV95cUxQWk5NU0pBcnh2N3Y0eFZqR3JvSExiN2tXMkx6WGx6SHdUSWhZT0lRdXVKMmlMd0k5VUM3dklHZ2JTaEJUbnFnd1hkeHd3dEhMbVRnVFc5eVlrbHdJUVJPOHJtc2s4Vl9ibFZfWUxmQ1hKamZKaUVoZFlyZmdXX3BCR2pCZWxOMGdxSkp4dzY0blN1ZDNnQkx5OEgyRWFiMXMwd1ZOVmMyM3hqMnY5YzdJYTdBWGdNQ2FselNWOU5kLWpEa3BfTnMzV09vODNtZXRmM19uMk9obGRKZTRBR1ZJR29qN2lxSDkx?oc=5",
-      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high The Economic Times"
+      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high economictimes.com"
     },
     {
       "published": "2026-10-03T12:55:00+00:00",
@@ -31017,37 +31026,46 @@
       "published": "2026-10-03T14:30:00+00:00",
       "score": 4.0,
       "themes": "['India market', 'macro / flows']",
-      "source": "The Indian Awaaz",
-      "title": "Sensex, Nifty extend losses for third session as oil, FII selling weigh - The Indian Awaaz",
+      "source": "theindianawaaz.com",
+      "title": "Sensex, Nifty extend losses for third session as oil, FII selling weigh - theindianawaaz.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORHBMamd5dGRTRjdQMzBmSTZndTlkdGxISTJxTy16X0syMTlhQkY2ckx6elJvRUFSdWFjakxmNlNMeUNPR0tMbktGT0pjS2ZJWTZXQ3h1YWI1akpibFFOVGFCWDRJSmZVSmVQRW01ZTNQT2JCdnEtVk9kZDhaMVNQdDUybm1QNm9QQXRHbGJheEd6M0R1eENjR3Z5MmRzZw?oc=5",
-      "description": "Sensex, Nifty extend losses for third session as oil, FII selling weigh The Indian Awaaz"
+      "description": "Sensex, Nifty extend losses for third session as oil, FII selling weigh theindianawaaz.com"
     },
     {
       "published": "2026-10-03T14:15:00+00:00",
       "score": 4.0,
       "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Bank of India Credit Risk among top 5 mutual funds that beat fixed deposits in 3 years with over 10% gains - The Economic Times",
+      "source": "economictimes.com",
+      "title": "Bank of India Credit Risk among top 5 mutual funds that beat fixed deposits in 3 years with over 10% gains - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQZEpCeWtBNWdMVXY5X0dOdVkwRmZmeGUzYjNXTmhMVzlUVTdiMWVfc2Z2enYwNHBLbUJKamY2RmdCMVk1YzhwRGVzNWhWWGZvcmo3dVpwNmo0anc0NUlSaDBzSmwyaGItOV9Ca01sYXRMWklPdl9Kd2NzR2xMOExsZ01tc0w0VV9mcDRjRWxGc1MyNS1pdEJLTEhJOWczWXlLUHc1MXEwOWs4MkJlMHVUSWhWakR2R1RXVmFkbTQ1dEdRZUg4NjVxX3BQMXB4T0E1dTRra0xQMkxyNHQtWjVpUjFXd2VqbF9WbmhGRERLS1VZM0UzN2JHNkFRSm80TTF4d25vQ3BkbU5NX1JPZnNjbzE5U3l5dlRXNWhNejZmdWJydFcyN1ptdENxYlk5TU9Y?oc=5",
-      "description": "Bank of India Credit Risk among top 5 mutual funds that beat fixed deposits in 3 years with over 10% gains The Economic Times"
+      "description": "Bank of India Credit Risk among top 5 mutual funds that beat fixed deposits in 3 years with over 10% gains economictimes.com"
     },
     {
-      "published": "2026-10-03T06:29:20+00:00",
+      "published": "2026-10-03T07:19:00+00:00",
       "score": 4.0,
       "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Quant Mutual Fund says investors should stay agile in portfolio allocation amid market shifts - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZWM4YlVENk1GT2kwR0xmanJjNHFBalFLLWtId1RsR0stQzBtUHZxanhfbGE1UEFQc2RURTY1UVduQm96dTNsdHNtREcyM2ViVS1EOTVRakYxdkNXeEJCRkNrV2pIX29yYnN1QjZyb0FCZG1wcTBzOVMzOHBWQXBSS2c3VWtld3hMZzFIU1kwMnd4Ulp6N0YxU1g1eEkzX1hkZGl2TjEtQUF6ZTU0QjkwRHdYWDRnNTJBWEZNQTZ6X0JVb1J2MW9xR3RBZ1RncTNnWkt1S0k3Z2dHUnFFTk8ybzZUbXQ1V01COXVsZmwzTV9qb2Fj0gH0AUFVX3lxTE5lYzhiVUQ2TUZPaTBHTGZqcmM0cUFqUUsta0h3VGxHSy1DMG1QdnFqeF9sYTVQQVBzZFRFNjVRV25Cb3p1M2x0c21ERzIzZWJVLUQ5NVFqRjF2Q1d4QkJGQ2tXakhfb3Jic3VCNnJvQUJkbXBxMHM5UzM4cFZBcFJLZzdVa2V3eExnMUhTWTAyd3hSWno3RjFTWDV4STNfWGRkaXZOMS1BQXplNTRCOTBEd1hYNGc1MkFYRk1BNnpfQlVvUnYxb3FHdEFnVGdxM2daS3VLSTdnZ0dScUVOTzJvNlRtdDVXTUI5dWxmbDNNX2pvYWM?oc=5",
-      "description": "Quant Mutual Fund says investors should stay agile in portfolio allocation amid market shifts The Economic Times"
+      "source": "economictimes.com",
+      "title": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNT1hfX0xKR1p4cDFWa3QxWTFKXzE1NlJxNjM4cTdZLWZ2V1M5RGNiUE8wM05odUt6N3M5YllVQ3Qxd3hHc19VVEpPY1FxNUdEaEhMdHNDUGVFZ0xJMXBhZVpTOFBac0ljSUdFWF9NNEpBM2Nud0tZT1ZEOTdfWVUzTkF4c0VQTi1PUjR0YlFwRGlmNWl4VXRfYXpuSTVGbW83emVia053c3B6TVRVOTZNWlFfSmZYQnY2b29RQm9KZFJWVm1IWXI2TEVKS3lPekpKNjRiakF3QU5VcUJHU0NVRURkNG91N0Uxell0ejdkQzRUd1pHc1ZzRm9DczNlSFllTVFtT2dWc243QWMxZ2thWjBrdFB1RHVYQlhaQWxhYmk4M1doSG1INg?oc=5",
+      "description": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards economictimes.com"
     },
     {
-      "published": "2026-10-03T06:13:37+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV3hlR1JYazZkekFhdG5RcW1IRDI3QU5GMkRLQ09UQVlDYkRudGFzdHdBbGJXb2Q0UkFIM1lxQ0dRcEctdE9zS2kwcEdKODc0QnpDZkhTZ1d5U2w2UTZMMkxwTC1wZGtjUTlRS3phbHBabWM3UGFNYkd0TFF3bU05dzhKNUpMckRBY1VKM3EyTHppTTI5dk5UZ0QwMk1hTThFcEs1OVM2RUJIZmpjbEhwYUcyVGk2MnJIUGVWUWtoT3pJc256T0Z6dkdkM0RkZXA3b1Q3Qkgzc2tQTmptYUs4dGhkUl9sc2lseEVDWjlfWEkya0JFemhSUFVRdjYyWVZEdHc?oc=5",
-      "description": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards The Economic Times"
+      "published": "2026-10-04T06:22:33+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "The Tribune",
+      "title": "Rupee seen at 95.30-96.80 in October; global yields, FPI outflows pose risk: Report - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWHlkRl9wN3p2SExISzlMTm85ODlVR0Y0RFNaaGdpdnIzTkIxdEtfMHVFbnVFaDNkdlVtcm9CTzhDZC1xSkpxUE5KNWtVWlFzUmtubzY4TVRMNXBZa25XaTdjWlFDbWVSTEQwZVFna2dqY3pJQUFFbFdmRUJjYUFkM2xSR1pPOGpnaWY5d3ZrZDNHN3VEWDJHa2xpSXhsamJqazdaWURyR3doR3RNeDRUcFZpZHRVQjk0YUhwNk5YR1pFd9IBxgFBVV95cUxNeThWRlRTcWstOGVHZmhvLUJxdGVwUkc0VkZ0UnFHaWthTWtiQlUwc0Qwc3lrbU5kRXVMNmVZYzV3V2h3eHFuSVdXT0dTODdER2VWbDQ4ZWJ1VHkzUHpsZXRPbmhXYkQxa1lNdG00WnF5dzZKaGxRR0prQnJ4V0pIMGJaRGlpT25tOERPT2VjRl84ZGM1UjdCdVZ5YlAzTm5CcS1FSkRGSjRhSXIxcl9YaDFvTUVfZG9IRmNyNjJob2pOdm90TVE?oc=5",
+      "description": "Rupee seen at 95.30-96.80 in October; global yields, FPI outflows pose risk: Report The Tribune"
+    },
+    {
+      "published": "2026-10-04T05:58:13+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Myinvestmentideas",
+      "title": "10 Mutual Funds that Outperformed with 21% to 29% Returns Since Last Gandhi Jayanthi - Myinvestmentideas",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFVMLVktQnZITkoxNHJ5ZUJQZEVXZi14MEFZTEpxZm1SUWh4ZzNjU0J0V1ZhQ1Axc1owbGQ3dzhob0haV2FFbXcwQ3psLVQ1akNnTy1TS3lKNXpBMW91QUZjRWU0SWlVVGRHSmNBMDk4a3dzLUdPeFp2Y0FINW1GcTA1LVo1UDZEQ1NzZFdBMlIwX2pFbm5JemkyNW5oUng1NkhadlhGTWRudjUwQ0MxNDM4dw?oc=5",
+      "description": "10 Mutual Funds that Outperformed with 21% to 29% Returns Since Last Gandhi Jayanthi Myinvestmentideas"
     },
     {
       "published": "2026-10-04T04:08:29+00:00",
@@ -31057,15 +31075,6 @@
       "title": "Nifty Outlook for October 5: 8-week losing streak puts focus on RBI policy, earnings and global yields - CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPME9uWnl4OTlzYy0xUEZIVTFLblJidjR3SzltaG5USlVYdWZhWmNjcHlIdmRKeVRNVU1sdk5ZVjNlNGhjTUJ0ME9aZVlQMjJYZ2hjYlo3QnBmVHd3Y1RDYWFVU200R3FSbWQ3eGYwcWs2cTR4OWdFR1oyVnB3R2NxaXJydE8wMmdVQ0pEOGl2NzlLMW5WMVAtUXY2OTFCV1JDRFZ0QnEzdEl4eGRXQWhDN0l4a1l2ZHYzX1o5R2tBUVYzTXpHRXp1RTA5ME80Y3pqbzlfSkhaY0pFd0VmZzFhQjFTZmtJSkHSAewBQVVfeXFMTXRhTUk1N1Q5M1hNbVU3VktBUERHTHpPT0dzUGJXQ3lMSWtXRU9hLUNVQWFoTXY4LVVGTEo1eHdkRGJiRlhoTDJwbGF5THRvYjF5WTVOMlhjUGk4elA0VHhqamppV0NLWmwweEVfX2NFZ1ZVbGlaUE9SMVo3UTZzWkc0Y1pJaHgxRnBCTUFPZ3JRWDNTSHJkVWwzUmNxN1pQNE1LYUItTFhoMGhTVlFvajVuVlhyRTZoQy1qZ2t2SWx1c2xQcWhJaVQwTm0zTms3OC1Mb0dtU0V6OFZ5ZzN6WE54Qk1mbDRLZXFPWS0?oc=5",
       "description": "Nifty Outlook for October 5: 8-week losing streak puts focus on RBI policy, earnings and global yields CNBC TV18"
-    },
-    {
-      "published": "2026-10-04T03:22:30+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Myinvestmentideas",
-      "title": "10 Mutual Funds that Outperformed with 21% to 29% Returns Since Last Gandhi Jayanthi - Myinvestmentideas",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFVMLVktQnZITkoxNHJ5ZUJQZEVXZi14MEFZTEpxZm1SUWh4ZzNjU0J0V1ZhQ1Axc1owbGQ3dzhob0haV2FFbXcwQ3psLVQ1akNnTy1TS3lKNXpBMW91QUZjRWU0SWlVVGRHSmNBMDk4a3dzLUdPeFp2Y0FINW1GcTA1LVo1UDZEQ1NzZFdBMlIwX2pFbm5JemkyNW5oUng1NkhadlhGTWRudjUwQ0MxNDM4dw?oc=5",
-      "description": "10 Mutual Funds that Outperformed with 21% to 29% Returns Since Last Gandhi Jayanthi Myinvestmentideas"
     },
     {
       "published": "2026-10-03T21:03:20+00:00",
@@ -31197,10 +31206,10 @@
       "published": "2026-10-03T14:06:43+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'macro / flows']",
-      "source": "TradingView",
-      "title": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal - TradingView",
+      "source": "tradingview.com",
+      "title": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal - tradingview.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlZlOUliM3RUd2NlU0tHSFJ2LTBYSkFhUmxGU2k0S0xOQ3RZc1ItdUViRG9LWWcwQ3NPblNyYlRwZUQ0WkpjU1BUTTVjOVVEejRSZ1c3bmhkTURhcEZ0VzNhXzJfbERzX2VOOGYxMGNBUWNSOTBxSmljOTM5c2M1dGtzcm96ZHZISzNlOTF1TXRhaUo3RmdMTTdzeTNGQlFZVWpPdzYtS0VmMi1UMnhR?oc=5",
-      "description": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal TradingView"
+      "description": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal tradingview.com"
     },
     {
       "published": "2026-10-03T13:22:00+00:00",
@@ -31257,15 +31266,6 @@
       "description": "Market weekly wrap-up: Sensex, Nifty decline for 8th straight week amid global uncertainties Mid-Day"
     },
     {
-      "published": "2026-10-03T11:10:09+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "lokmattimes.com",
-      "title": "India well placed amid global AI risks, strong fundamentals offer resilience: RBI Governor - lokmattimes.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNUEJDblI5V1pSMXByQ3FZWGoxUXh6SWg3T0F2QWVrdWk1VDFZRzlCSEh4OGNqSnI5UERUMVdpN1ExODRxRHBJMkNtTG95SVUyVGwwUlBkTFlIV1l0SGZrZGY3ekx3UTZwR3dyc3NQaDNkUXdEZ1NsSXdGR1RrSjJtTnB0ekRqOWswYWhiWnVqdElFTzQtT0lTaGowMHdiV085TG15UnZtY2k4c1NHLTYwOVk3dFlzT1NxZW8tQms3UktxUjh5LXZ5Q2RzS040a2_SAc8BQVVfeXFMTVBCQ25SOVdaUjFwckNxWVhqMVF4ekloN09BdkFla3VpNVQxWUc5QkhIeDhjakpyOVBEVDFXaTdRMTg0cURwSTJDbUxveUlVMlRsMFJQZExZSFdZdEhma2RmN3pMd1E2cEd3cnNzUGgzZFF3RGdTbEl3RkdUa0oybU5wdHpEajlrMGFoYlp1anRJRU80LU9JU2hqMDB3YldPOUxteVJ2bWNpOHNTRy02MDlZN3RZc09TcWVvLUJrN1JLcVI4eS12eUNkc0tONGtv?oc=5",
-      "description": "India well placed amid global AI risks, strong fundamentals offer resilience: RBI Governor lokmattimes.com"
-    },
-    {
       "published": "2026-10-03T08:51:14+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
@@ -31278,10 +31278,10 @@
       "published": "2026-10-03T08:24:48+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
-      "source": "Telangana Today",
-      "title": "India can withstand global AI risks on strong fundamentals: RBI Governor - Telangana Today",
+      "source": "telanganatoday.com",
+      "title": "India can withstand global AI risks on strong fundamentals: RBI Governor - telanganatoday.com",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOTI4NXBCc3FWZmluNGM3VkhLN01heUpaLXI2V2lpN3RMOU9PcWlkV0NaU083bDRzWEFyQXpMUW01Y2tNN1V0QU5vSnNxRUpzOG9CcF81RlpFVGZldDRaekt6akhHRTYxcnJBanpiUnlBd1FuWllfTGVDQzAtZWtJZWxIc2ZFYzdaTWxyMGVCSENkQ1phZVhldUZFYlpVcW8?oc=5",
-      "description": "India can withstand global AI risks on strong fundamentals: RBI Governor Telangana Today"
+      "description": "India can withstand global AI risks on strong fundamentals: RBI Governor telanganatoday.com"
     },
     {
       "published": "2026-10-03T07:28:23+00:00",
@@ -31291,6 +31291,15 @@
       "title": "Key Factors Set To Affect Stock Market Next Week: RBI Policy, Q2 Earnings, And FII Outflows In Focus - Outlook Money",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUG9VeTZmNWxFT3Zqd3V5aF9mRTZvZ2RlMkRnZ1ZsOVJGNm9aeFNMNmxHdjNacU9GWVRvalRHNmpONWdNZmJvbV9jTmxPdE5NVldqazNKbjFlZEhDNEpjZFo5dUx0MUdaamd1WDVsMExvM2c3WHIxSkJqc2F0cmFFR3JHR19nTGJUSWNCOFFubGRNTW94WHhEdnlKNVJ2cF9Tc3ByMHFERzlxdmxwekZJMmRZQnJFaHlsQkk1VTBRTjVvTEgxYlJDNzBQWjhDZ9IB2wFBVV95cUxNQjNyeEozajJjSUcwNWZKdmFhVkRaVjd2TWtjS21HMmFhNXA3TjBEZVkzVlA0NUt5R1F2QWpCRG1iUDVpMF9MdllfaHloOFJVLUk2VVNtUlN0R0doUnJrUVhEUE5KSnhPcEQ0UWFPSVU4NXMyaWNENU9pWGw1WnNiSXRMQm13ME1LbzJ3OGl5UDhzUk5LZExXUDBLTm8weTN1b2FuYlZVMXllb185cDcwZG85RHVaTmJKNmVYUG92MVRMQlVnSGQ2MkItOGZSQ0JIU0o0dWx2cVZWd0U?oc=5",
       "description": "Key Factors Set To Affect Stock Market Next Week: RBI Policy, Q2 Earnings, And FII Outflows In Focus Outlook Money"
+    },
+    {
+      "published": "2026-10-04T06:31:33+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "economictimes.com",
+      "title": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbHJEWnVqSWVJWm5ZM0RxQzBtWGl6SXhmWTRDN2wwZ3RSZUtZOWZ0YVpPNDczLUJSQnR6dUlTWDNROFdJUHhYZlFlZWVfVzR3cHhIR0MxWXFadmN4NDZIYTRqLXRCNkRmZGg1U2YxakZDRFphdlA1QWlZZ1E2UldLcEdwU0pTNjhHUEs2YUVuZTI3clgyOThka3B5WGRvVUpQOHRXcUNzaVpkcmM3VDJ1R3FsMmZMaUJ0Z1hQeHlSVW9GY3hlOUN2enREMnlEdUlqQkpmeXM1aXBReVN3OEhHWHFWVnJQZGZWWVZ4UU1JVjg?oc=5",
+      "description": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? economictimes.com"
     },
     {
       "published": "2026-10-04T05:00:47+00:00",
@@ -31332,10 +31341,10 @@
       "published": "2026-10-04T02:12:14+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "Upstox",
-      "title": "HDFC FTSE India Equity ETF Direct growth - Upstox",
+      "source": "upstox.com",
+      "title": "HDFC FTSE India Equity ETF Direct growth - upstox.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HN3NsWndvNnpoMGtFeENHT3hRUzM3Q2ZOS2VKTnRhU1JIQmUzU2tVb0M1VExURk9HSHJLdWNHeHJVN3F0aWNkeVd1S1gzenlUeFZKUTVhVWhFSjVpWTBwOEE0c0lkTVRJQkswcHFCb3FtZFZ2TzFFVEkzZ2tobjg?oc=5",
-      "description": "HDFC FTSE India Equity ETF Direct growth Upstox"
+      "description": "HDFC FTSE India Equity ETF Direct growth upstox.com"
     },
     {
       "published": "2026-10-04T00:13:34+00:00",
@@ -31444,15 +31453,6 @@
       "title": "MRVL Vs AVGO: Which Custom AI Chipmaker Has Bigger Upside Potential? - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2taTXpfcWJBS2w3QWdrZW5qTll4LTk4Y1QyU2NhRGVGWVBMdWxjcnR6MUVGRHgwRTh6UkRFdWNWU1VFTHhaNDlhVnVpMlMtenJWcGNtQlZ3WWZLWG9fZDJubE1lQnZ2b2phZ0txOVhqZWJ3V0ZDT3NERG9taVFfcndiZV9DanJaRDVkSnRjVU5HR3BIUlpIQTllWjZYblptYlNuYlU1Smd6dWx6bEl2ZlE2c3NlMjlPYjhXaENVdVNsZGNxYWNuQWJ3?oc=5",
       "description": "MRVL Vs AVGO: Which Custom AI Chipmaker Has Bigger Upside Potential? Stocktwits"
-    },
-    {
-      "published": "2026-10-03T13:26:54+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Business Today",
-      "title": "Lack of US-India deal will not have an adverse impact on India’s growth, says Panagariya - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTkJvcXhMbXJrcVlpbWhDNHptTzZOWE5IZk5iSFdFaUtSRElUc3duQkE3akRseTVKNTVyWmZybkdLYWdiM2xsODctR1VOc2FObGRza3g1ZXhVOXRYbVRGcGh4MTVDQ2VuZGJPRXIxWjRqdlc3VVNlelBrREdneHJzZ3kwdW5SMjNpRE1kNnoxNUVvMk5YWTFyRFJrSGlZMWtlbkZkcTljeEhIYnFKNjNiMzlabEFWTFFqN0VYZ3hFOXJRbjZ6cDg4MDNBWmIzaWNlUnRaUWxQQWRSSk4tMWQxOWNIeDJfd2tBSHfSAe8BQVVfeXFMTXM3YkVoWGlkRUswSHZBRWlEOUtjczVSTlpxc1UyTkh4U29JTEVUXzBDdHV2ZUxlNE5xQmFuQ19hRVo0ZG5aSmhKenhuaWJfbGs3a0tYZnRuSm44bjZkOFNRVjBCYjBsOHkwV3B0bVRaLV91LTlQZXFPMVJtQVFaemxta3N4eXBfeDNpZkh6ZDNVelRqYkphMHlzeUEzOHJtRkF5bEZDMno4VzY5eWFnMGZYOFRlQ0lfVjJ3cWxnVFVrNktYNTR3VkxBRE9HV0R1S2VuRUUtNjNXaHZ0VGZXM3ZlVmI1LUNWRFp4ZVdPVUU?oc=5",
-      "description": "Lack of US-India deal will not have an adverse impact on India’s growth, says Panagariya Business Today"
     },
     {
       "published": "2026-10-03T13:25:25+00:00",
@@ -31575,10 +31575,10 @@
       "published": "2026-10-03T08:10:48+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Mahindra & Mahindra Financial Services - Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions - The Economic Times",
+      "source": "economictimes.com",
+      "title": "Mahindra & Mahindra Financial Services - Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions - economictimes.com",
       "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNay0xb1RVZlZIMXluOWk4ZW16NTlvS2N6ZkNMRnA5d0FIT0lwQlhXdDJKRjA1Qk40R2Jfd1p6dFBvZ1RTLUJwX1hMY1phZFduUTI1Q1BpdEFSV2t1UmM0OWs3QkZWeVZRbHBBZDJMRHlQb0g0Rk1HVWxMOS1GdmpxR0c5YlBWX3Z6UHRGbWtrT1BoVmlFeXFMNHNibnU0czl0OXAyLXNvZnJVajROMVdlOGhBYWZodFRtalRnaVlxSE5hQ2FzY2VDRE1LQjZEbnRTODI0Q0prSUlTWUc0Tmt5ajYzUlJFaGVfcXZTZ2VCUEZzT3JsREJXTWRYOWpyeE40S3hPX2Jvel9WZw?oc=5",
-      "description": "Mahindra & Mahindra Financial Services - Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions The Economic Times"
+      "description": "Mahindra & Mahindra Financial Services - Concurrent Losers: 14 midcap stocks decline for 5 consecutive sessions economictimes.com"
     },
     {
       "published": "2026-10-03T07:58:55+00:00",
@@ -31588,6 +31588,15 @@
       "title": "FPI investments driven by net returns; working to simplify access: SEBI chief Tuhin Kanta Pandey - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMkx2Q2RGUjVCVFpiekFJTEE0ZlNldklObk5yblRvc2I4czBZU2tKejVXS2F3M2ZaZUtfdkJ0a3VCRmdvNUNpSHU1Ui03YkFlVF92Qm9Wc2RnY3V1NzdTLXJBcUYyTkRhU1RvR1NsQ0hzeDRCU3VxNHh0YlBtWjAtaXBMS0U3NUNxTGJQU3Vyd3JJbTNWSW1md3hDa25BMWtlWG5Zb2dHTFlZekRRVDNYQ0ZsSXFoV3p1LUotRklXSkNDVVk1amRwSy1reVoxN1haZ1BWSi1Dd1RxV3dwVlRzNktTdEtZODcyOE54a25SSzHSAfYBQVVfeXFMTzhqS1J5SEpkSFZlRU9xQzBSTFFQei1BcWRnMVc5Z2dzQVdhZ3dFTFA3M19NZ3Q5cFF6dkVNVTFyNDFXejN3SFh6dktLcHZxbGIxWkVoNkJqY0t6dXVfNV9jc0RCRXcxM2R5UXRya2ZZTDZ2bjFnRWFMcWtXV3M2YTJxWFBhdTZZZ3Q3RTUtemUtR3NQZWNLX01menhfUS1pcDZRX0JVTmpPQ2hPdUxRRVJVaGlYOU1DZ0F5M3p1clBYWW5YZkIzY1NHLW5GdlgwQnJILTlEMTA5Y3pZNGR4NU94SXNYU1pDcHl3bEFvcGJPRmN4SFRR?oc=5",
       "description": "FPI investments driven by net returns; working to simplify access: SEBI chief Tuhin Kanta Pandey Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-03T07:55:00+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "economictimes.com",
+      "title": "F&O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of - economictimes.com",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZlN4c0JmaEc5XzVuaW1HYUp3VEZHcXRsbGt5YzJYT0lzWDBFSV9sdXZta1hheFZ6eGVSWTlsdnBTaXZvN25nSWFKWjBUVUZrbnVsVDlBVlNFcEFvUDYtaE1helI0M2RBUUxNazU1eXVzanVZOUVDaXdWdkYyZkpkRk9PQXliX0dBcjF6RWEzRkdsRl9ydlFzcHdseTdMZ0VnaHJzUldIS2Y2amVhRUh1V1Jub1R6TTA3Vm03NDM1Ni0xVlpyVXI1SjBwT0Y3ajh1SHhqSmstNmx0Y1RqbDZPTVo1dVNUa2p5OWNVQUJIMldyR3M0Ny0xdmxBOV82OWNqMTl5d1hzZDNiazhK0gGMAkFVX3lxTE1mU3hzQmZoRzlfNW5pbUdhSndURkdxdGxsa3ljMlhPSXNYMEVJX2x1dm1rWGF4Vnp4ZVJZOWx2cFNpdm83bmdJYUpaMFRVRmtudWxUOUFWU0VwQW9QNi1oTWF6UjQzZEFRTE1rNTV5dXNqdVk5RUNpd1Z2RjJmSmRGT09BeWJfR0FyMXpFYTNGR2xGX3J2UXNwd2x5N0xnRWdocnNSV0hLZjZqZWFFSHVXUm5vVHpNMDdWbTc0MzU2LTFWWnJVcjVKMHBPRjdqOHVIeGpKay02bHRjVGpsNk9NWjV1U1Rrank5Y1VBQkgyV3JHczQ3LTF2bEE5XzY5Y2oxOXl3WHNkM2JrOEo?oc=5",
+      "description": "F&O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of economictimes.com"
     },
     {
       "published": "2026-10-03T07:30:01+00:00",
