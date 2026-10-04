@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 10:39 IST",
+  "generated_at": "2026-10-04 11:10 IST",
   "wire_file": "2026-10-04-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,35 +23,35 @@
   },
   "posture": {
     "stance": "Mixed",
-    "wire_count": "9",
-    "wire_total_count": "88",
+    "wire_count": "12",
+    "wire_total_count": "90",
     "wire_scope_date": "2026-10-04",
-    "ai_wire_count": "3",
-    "selling_wire_count": "0",
-    "india_wire_count": "7",
+    "ai_wire_count": "4",
+    "selling_wire_count": "2",
+    "india_wire_count": "9",
     "weak_index_count": "14",
     "valid_index_count": "24"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-04 05:00",
-      "title": "Nifty Could See Volatile Recovery, But Trend Remains Bearish: Krishan Of Angel One - BW Businessworld",
-      "text": "Latest dated headline · BW Businessworld. Today's unique wire set contains 9 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-04 05:10",
+      "title": "Planning a lumpsum investment in smallcap mutual funds? Check top 3 leaders and laggards - The Economic Times",
+      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 12 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-04",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-04 has 7 India-market wires, 0 selling/risk wires, and 3 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-04 has 9 India-market wires, 2 selling/risk wires, and 4 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-04",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: AI fever lifts Asia share sales to six-year high - Moneycontrol.com"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: AI valuation correction may bring more capital to India: RBI Governor | Most immediate concern is regarding cyber risk | Inshorts - Inshorts"
     },
     {
       "label": "Flows · 2026-10-04",
       "title": "Foreign-flow and risk appetite lens",
-      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: Nifty Could See Volatile Recovery, But Trend Remains Bearish: Krishan Of Angel One - BW Businessworld"
+      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: Planning a lumpsum investment in smallcap mutual funds? Check top 3 leaders and laggards - The Economic Times"
     }
   ],
   "indices": [
@@ -18477,7 +18477,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-04T10:39:26+05:30",
+    "generated_at": "2026-10-04T11:09:59+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -30861,13 +30861,22 @@
       "description": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor Moneycontrol.com"
     },
     {
+      "published": "2026-10-04T04:17:26+00:00",
+      "score": 12.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market']",
+      "source": "Inshorts",
+      "title": "AI valuation correction may bring more capital to India: RBI Governor | Most immediate concern is regarding cyber risk | Inshorts - Inshorts",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQW91QXR2QVVnZWtiXzhjVDlmQ1VnVG50dUMyai05UFRELUxBSFNZV2xGRkxpSWZUaTRZREZqM3NnZjdYUk42Skt3VXlRdnVQdFpEOWF0T3dJcW0tbWF1aEExeVVPb1NyWEVhRS1fNkp3SWtyYkthZi1HcTRMbThiaXJjYjdob0pabDZlbnBKVU84cnFiMDE5TmJpdUYzNXBMTTVPVWZRUFozbE9CbGNlUk5ZbmRvdDTSAbcBQVVfeXFMTUFvdUF0dkFVZ2VrYl84Y1Q5ZkNVZ1RudHVDMmotOVBURC1MQUhTWVdsRkZMaUlmVGk0WURGajNzZ2Y3WFJONkpLd1V5UXZ1UHRaRDlhdE93SXFtLW1hdWhBMXlVT29TclhFYUUtXzZKd0lrcmJLYWYtR3E0TG04YmlyY2I3aG9KWmw2ZW5wSlVPOHJxYjAxOU5iaXVGMzVwTE01T1VmUVBaM2xPQmxjZVJOWW5kb3Q0?oc=5",
+      "description": "AI valuation correction may bring more capital to India: RBI Governor | Most immediate concern is regarding cyber risk | Inshorts Inshorts"
+    },
+    {
       "published": "2026-10-03T12:18:28+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
-      "source": "Livemint",
-      "title": "Global AI stock correction may benefit India, but RBI Governor flags market risks - Livemint",
+      "source": "livemint.com",
+      "title": "Global AI stock correction may benefit India, but RBI Governor flags market risks - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUF92RVhYLWNVNjVwejZFdHZpcS01ZDRCcXRmUDRfMG1qcUVxQ1hrb2c0MXhaR0ZzS2RZZU91S3ZsTEUyUXBhRkUxWEJsYTlUaEFtdjdmYVdMR1U4Nm03eXFQRjF3UzVMYldFQnNGOWJ1Ty1ka2tiWl81S0JCRm5VZFNHbzBNSVRDRWVSaV9feEU4a0ltanFuajBQcGs3WGFXWXVTUGh3eHNHSm1jdWRDZU5RcU5kVDQtM0F3b05PaW96QmNtRHBhTmhsTTR3TERWQTFCOFFieV9rQVVzcGVBUUV2cnfSAeoBQVVfeXFMTjBFZmxVeFNGcVEyU2FiM2t2UTh3UzRPR3FXemkzYjdraVl3Q09ZcmozTTlfcldhVFNjUTRTbzdoS1NsUjVfTUxScmdJWFo4MFdrVy1uWS1SRFFDYXA4emNoV1VvU1VUbndPY00yVGFMN2lFd1M2X0RieHBEVzdJYUpWR09TU0JESUhmdFVQWG5HMzVneHpzb0E1UHpBR1cwUndNc1ZxYW1fR1dmV3NmQjRLOFl5cFcwUlZseGlyZjJnYnMwa3V0VGxyek8weG0tQTh5ZXlTZGN1STBvY2ZmMWl2Zm9qM3N5LW1n?oc=5",
-      "description": "Global AI stock correction may benefit India, but RBI Governor flags market risks Livemint"
+      "description": "Global AI stock correction may benefit India, but RBI Governor flags market risks livemint.com"
     },
     {
       "published": "2026-10-03T11:00:29+00:00",
@@ -30909,10 +30918,10 @@
       "published": "2026-10-03T15:10:18+00:00",
       "score": 8.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "goodreturns.in",
-      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - goodreturns.in",
+      "source": "Goodreturns",
+      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT212X0ZjSkRPNU9XTTM0UGphZ2RxOE8tS0JKWjhjcHAtUXFvbmtqa0tSamlrY3pZQUV5SG9PWVNKdkkwMHZsOU1MZzRORWhjRmk3RWZ4YjRoUmhQUFQyNldnYzlJWUZldmF1b29QVUY0NEtXc1oxcHJHYXo4ZDg4OFVWNk13aWZlUWlZUlQtb3ZrMnhvRUdudXpyTWlzYkh0cFR2UGlYcVNCOFN3Q2lxV2dFZ18xQ2o0TW9pMHZRSTFDbzRGUTdreWRoWjBUUlVF?oc=5",
-      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War goodreturns.in"
+      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War Goodreturns"
     },
     {
       "published": "2026-10-03T08:58:52+00:00",
@@ -30972,10 +30981,10 @@
       "published": "2026-10-03T14:32:56+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "IndiaIPO",
-      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - IndiaIPO",
+      "source": "indiaipo.in",
+      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - indiaipo.in",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObF9fWlVHNnR1T1Bwbld2RUF0QWpYblhURlZ6ZGR5R2pmVVB5bnhIQ2QzRzZpakV4X3R2MU12bFVFMWplbVAzTU5xaWZPeEJwY1JndTlqV1lFbmJQaXFXX2NET2Jfd08yV2pyb1NzRzdGYjd3b0lzYnZOdEItWWdWSkh1WHZZUEJSVXdPWVgwNmRCUDBRSnZTbEpYYk9meEZKTFJlajJxZTFYcDRnWUxYRw?oc=5",
-      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high IndiaIPO"
+      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high indiaipo.in"
     },
     {
       "published": "2026-10-03T10:57:16+00:00",
@@ -31003,6 +31012,15 @@
       "title": "How women investors are reshaping India’s mutual fund story - The Federal",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUVMxb2h6QVJwUkswbEhhMVBNS01Sa0JET1RuYnJ2VGt1ZkJvUWFGc2l0WmJ6QzdmT0o3eTNWaFYyVkI2OFhLZ0o5eHpmZkx0cWdyTlVGd1ZwZ1Etck5yUVFIS0RMWHkzOThZSkotWktHMnI5Tm41d1RNZ2JfRndBZEZTaGY5UmFRTFhlQWtyNFNpajhxTURPbnJHX3FxcDc3R21Hc1ZncURnNWhrY0Y2QU9COA?oc=5",
       "description": "How women investors are reshaping India’s mutual fund story The Federal"
+    },
+    {
+      "published": "2026-10-04T05:10:03+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Planning a lumpsum investment in smallcap mutual funds? Check top 3 leaders and laggards - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNDVib2RXZXpab1cyUXlkbzBFX1U5OFZ2M3RxcWt4aWZqeUgtZEltdWM0di1tSktsTWJFdXE1YTBZYnAxS0RLdkdCMmY4d093Q2NERS15WXh5ZjUzcWVzRnl2bVZ5RFB0WG9KeW0zSDhZQlpXakFLTHNXZEpPOE1JZEtKMUlkdmxXckQyZDFrLWNZOXVYd2dhSXdLdGkwWGZvcFZjVjVPQWlTaGF6dDBKa19oUUp5WXJ0UVVQZmU5a0pmMHpqSmg3MHh1RERsbEhNcHZOenU5YjZTVktMdUxMa2lHLTBzVHpxWldXYkVxVFVrZw?oc=5",
+      "description": "Planning a lumpsum investment in smallcap mutual funds? Check top 3 leaders and laggards The Economic Times"
     },
     {
       "published": "2026-10-03T17:21:20+00:00",
@@ -31080,10 +31098,10 @@
       "published": "2026-10-03T15:50:31+00:00",
       "score": 3.0,
       "themes": "[]",
-      "source": "goodreturns.in",
-      "title": "Best Mutual Funds In 2026: Top 5 Infrastructure Funds That Delivered Up To 29% Returns In 3 Years - goodreturns.in",
+      "source": "Goodreturns",
+      "title": "Best Mutual Funds In 2026: Top 5 Infrastructure Funds That Delivered Up To 29% Returns In 3 Years - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQV1pObk9ZNkpCa2t5NlpiZEtTQjZPN0NjdlFFNDUta21jSHV0ZzlqOGlyM0xxRUtVWkViMFN5QnhCR09jX056UHQtM3o2UGFFb2poU1htNE9RYm41RjlBM19IdUhaVGdOS2E2QkpZV3JPOFR4UnhWcl9XNE9DM2xhbERfdHl6ekJ5UEttclFZcHRiUVNLZGE1Y2FkTVhlYjZOQ09Gdk92aDFDRUsxVjRHSS1QYnZsQ3pRdEZ6dnMyN2ozUlVNS3dKdUtVbHYzNEE3ZHNEZEpwRDJiWlRWZS1ZVE1YWms5NkU?oc=5",
-      "description": "Best Mutual Funds In 2026: Top 5 Infrastructure Funds That Delivered Up To 29% Returns In 3 Years goodreturns.in"
+      "description": "Best Mutual Funds In 2026: Top 5 Infrastructure Funds That Delivered Up To 29% Returns In 3 Years Goodreturns"
     },
     {
       "published": "2026-10-03T15:43:18+00:00",
@@ -31125,10 +31143,10 @@
       "published": "2026-10-03T11:02:50+00:00",
       "score": 3.0,
       "themes": "['India market']",
-      "source": "goodreturns.in",
-      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - goodreturns.in",
+      "source": "Goodreturns",
+      "title": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOUkZfc2syemoxZXByVTI1ek1maFRlU1gzOHNJWjVrT0RfaTVheGs1LWQzcVdkX19WS3lUTWlBN1c0UDQ2eDVGalk0MWl5Z1YwN3FRU3NfblhfbEdCVHBmOXVXaC15dWxkUUNLUlgyMHdjODFkcThoS0EwTWNMMEN6WGdFbnc5ZV83OW85aTRfMnFsZ1hwNXpPVDhFVTV3V1czbU1idW1MdGh4U25YejFZSWEyb0txSU01WEczcXNNLUlEWWV2SFRGMFZ2V1lqcFVpVlRvZVN4WVlkVEpZMEE?oc=5",
-      "description": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling goodreturns.in"
+      "description": "Indian Stock Market Outlook Next Week, 5 to 9 October 2026: Sensex, Nifty May Remain Volatile Amid FII Selling Goodreturns"
     },
     {
       "published": "2026-10-03T08:45:30+00:00",
@@ -31197,10 +31215,10 @@
       "published": "2026-10-03T14:06:43+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'macro / flows']",
-      "source": "tradingview.com",
-      "title": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal - tradingview.com",
+      "source": "TradingView",
+      "title": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal - TradingView",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlZlOUliM3RUd2NlU0tHSFJ2LTBYSkFhUmxGU2k0S0xOQ3RZc1ItdUViRG9LWWcwQ3NPblNyYlRwZUQ0WkpjU1BUTTVjOVVEejRSZ1c3bmhkTURhcEZ0VzNhXzJfbERzX2VOOGYxMGNBUWNSOTBxSmljOTM5c2M1dGtzcm96ZHZISzNlOTF1TXRhaUo3RmdMTTdzeTNGQlFZVWpPdzYtS0VmMi1UMnhR?oc=5",
-      "description": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal tradingview.com"
+      "description": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal TradingView"
     },
     {
       "published": "2026-10-03T13:22:00+00:00",
@@ -31242,10 +31260,10 @@
       "published": "2026-10-03T11:48:17+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
-      "source": "illustrateddailynews.com",
-      "title": "If AI Stocks Crash Abroad, India Could Be The Winner: RBI Chief - illustrateddailynews.com",
+      "source": "illustrated Daily News",
+      "title": "If AI Stocks Crash Abroad, India Could Be The Winner: RBI Chief - illustrated Daily News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdkJBRFE0bmlGYlFGNWNVa3VYM29YUDE1N3FPNEs4aGNMNkpEcV9HaHd5c0tBbkJhbTQwaVpkSVB6S0d6eEtUbmtwek1TakMxVk9yVGRyRVZxZ0VjRVJqRFlRSnI0MFJReFdFQ2RManJIRUpmUkVCRjltX3RncGRuX21Hd1FwSHdyY1J5UXVwN01YNUdrVHlCWjZseV80N1YzNV9vT1JGSk4tRzI2SzhLTV9zeEXSAboBQVVfeXFMTjVTV1o1U3B2LTRBdWRZYUdNY1V2THdpVWNSRWhLNmh0MGZuZWNEbExzTkdjTUFTMFo5QkNsSjcyQTIyZEJFQVNJbFBkcTJSSVJUMks0eUJha25VdWRQSlc3MlNON1ZVb2VIRVhYazJCTmYxckNBa2pjMGRxRFNEb3NTamdIak5YVk9FMENkVEtpd24wLVNnSEdRSVQ4c2NYVEo1WW9EZkpiRW9Xa1U5SlVZdWFkaWdhWTdn?oc=5",
-      "description": "If AI Stocks Crash Abroad, India Could Be The Winner: RBI Chief illustrateddailynews.com"
+      "description": "If AI Stocks Crash Abroad, India Could Be The Winner: RBI Chief illustrated Daily News"
     },
     {
       "published": "2026-10-03T11:45:00+00:00",
@@ -31343,17 +31361,26 @@
       "themes": "['AI / tech risk']",
       "source": "Moneycontrol.com",
       "title": "AI fever lifts Asia share sales to six-year high - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVi1xM3FfclA2MkNZZ3FfdHFxSjRyVzJqZXYyTmZPaHl4MjlFdnNwVTdIWF9QcTBobE1EdTNXeXphNVp4QlB4Z1Nod2FVWi1FQm5yMnpTXy1xMklVR0psTmlIemtOdUFGREw3N0s5d3lzRi0yY1JtR19oNWEwb0lPdTRqRlh4dlhyaUJtNnJvelVPZzlUd2N2djY2X3cydUVzSmlRQUFocGpnbVFhdFHSAbMBQVVfeXFMUHRkT3R2c2xyY3ZLN01XdkZoall1OGhoYUpFYTZFNWYyUjZiOEI2aS16YlJaRDF6dTZzOWdhdEs2TEkwTkl6RExoeHA4b0c0WWI3Y2xVR0lLMGJFTWVMRFprUWQtUXRwak9FMlkteEg0UWtNcWZuVUxMRjg0Sldidm5GcWFrTi16TFU1cWV3TjVzaUZIMVpfVTVSdklWRm8wbTdmbkFXSXd0azBWelRSbDFDRDA?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdGRPdHZzbHJjdks3TVd2RmhqWXU4aGhhSkVhNkU1ZjJSNmI4QjZpLXpiUlpEMXp1NnM5Z2F0SzZMSTBOSXpETGh4cDhvRzRZYjdjbFVHSUswYkVNZUxEWmtRZC1RdHBqT0UyWS14SDRRa01xZm5VTExGODRKV2J2bkZxYWtOLXpMVTVxZXdONXNpRkgxWl9VNVJ2SVZGbzBtN2ZuQVdJd3RrMFZ6VFJsMUNEMNIBswFBVV95cUxQdGRPdHZzbHJjdks3TVd2RmhqWXU4aGhhSkVhNkU1ZjJSNmI4QjZpLXpiUlpEMXp1NnM5Z2F0SzZMSTBOSXpETGh4cDhvRzRZYjdjbFVHSUswYkVNZUxEWmtRZC1RdHBqT0UyWS14SDRRa01xZm5VTExGODRKV2J2bkZxYWtOLXpMVTVxZXdONXNpRkgxWl9VNVJ2SVZGbzBtN2ZuQVdJd3RrMFZ6VFJsMUNEMA?oc=5",
       "description": "AI fever lifts Asia share sales to six-year high Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-04T02:31:09+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "BW Businessworld",
+      "title": "Tata Group Stocks Fall Up To 4% After Tata Trusts’ Tata Sons Restructuring Proposal - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSDltbEpLMVNKYTNiYmxRcWc2Ny1iQmViM2tHQURTSldEbVVNYm5jMXlKNEhnR2t6TThIOGdwUk84Q1BoZkdFbklFekZzSXhBSy1oaWM5dVg2Z0F3Z1E4NFV1RmlGMVlHOWhhSmRSbWg2dEJKV0V6ak9ZZ0V5ZnBVTjJBUVljamNKSkFjQXVKYURqc19BOTVuMTh3bjQ0VU5rYTBtZkg3VlB1UWZ5YWhOc2h0MkUwdjlQamktUXlJVHhSVEU?oc=5",
+      "description": "Tata Group Stocks Fall Up To 4% After Tata Trusts’ Tata Sons Restructuring Proposal BW Businessworld"
     },
     {
       "published": "2026-10-04T02:12:14+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "Upstox",
-      "title": "HDFC FTSE India Equity ETF Direct growth - Upstox",
+      "source": "upstox.com",
+      "title": "HDFC FTSE India Equity ETF Direct growth - upstox.com",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HN3NsWndvNnpoMGtFeENHT3hRUzM3Q2ZOS2VKTnRhU1JIQmUzU2tVb0M1VExURk9HSHJLdWNHeHJVN3F0aWNkeVd1S1gzenlUeFZKUTVhVWhFSjVpWTBwOEE0c0lkTVRJQkswcHFCb3FtZFZ2TzFFVEkzZ2tobjg?oc=5",
-      "description": "HDFC FTSE India Equity ETF Direct growth Upstox"
+      "description": "HDFC FTSE India Equity ETF Direct growth upstox.com"
     },
     {
       "published": "2026-10-04T00:13:34+00:00",
@@ -31377,10 +31404,10 @@
       "published": "2026-10-03T23:44:14+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "Pluang",
-      "title": "NEAR Protocol may face 30-40% correction after strong rally; Bitwise NEAR ETF sees steady inflows. - Pluang",
+      "source": "pluang.com",
+      "title": "NEAR Protocol may face 30-40% correction after strong rally; Bitwise NEAR ETF sees steady inflows. - pluang.com",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcEFEUWs0aUlPZURSNWpBbWk0WVhhcjVjdFIyZExBTnhfZk9lNW9weF9HNUNsVEY4dzZCRnhpR2dLcGFaczViaDdsRkZrajdvVTFyOE1MTGYydnRDYUUyVEYzOGJERktmNEw5UEdoUXJfd19DcTVtWm5reE1TdWJvNTBCaFAzVjc4TzVDV0VodnRuWF9ZeFgzOA?oc=5",
-      "description": "NEAR Protocol may face 30-40% correction after strong rally; Bitwise NEAR ETF sees steady inflows. Pluang"
+      "description": "NEAR Protocol may face 30-40% correction after strong rally; Bitwise NEAR ETF sees steady inflows. pluang.com"
     },
     {
       "published": "2026-10-03T21:13:07+00:00",
@@ -31464,40 +31491,13 @@
       "description": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade Stocktwits"
     },
     {
-      "published": "2026-10-03T14:11:47+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Stocktwits",
-      "title": "MRVL Vs AVGO: Which Custom AI Chipmaker Has Bigger Upside Potential? - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2taTXpfcWJBS2w3QWdrZW5qTll4LTk4Y1QyU2NhRGVGWVBMdWxjcnR6MUVGRHgwRTh6UkRFdWNWU1VFTHhaNDlhVnVpMlMtenJWcGNtQlZ3WWZLWG9fZDJubE1lQnZ2b2phZ0txOVhqZWJ3V0ZDT3NERG9taVFfcndiZV9DanJaRDVkSnRjVU5HR3BIUlpIQTllWjZYblptYlNuYlU1Smd6dWx6bEl2ZlE2c3NlMjlPYjhXaENVdVNsZGNxYWNuQWJ3?oc=5",
-      "description": "MRVL Vs AVGO: Which Custom AI Chipmaker Has Bigger Upside Potential? Stocktwits"
-    },
-    {
-      "published": "2026-10-03T13:26:54+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Business Today",
-      "title": "Lack of US-India deal will not have an adverse impact on India’s growth, says Panagariya - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPTkJvcXhMbXJrcVlpbWhDNHptTzZOWE5IZk5iSFdFaUtSRElUc3duQkE3akRseTVKNTVyWmZybkdLYWdiM2xsODctR1VOc2FObGRza3g1ZXhVOXRYbVRGcGh4MTVDQ2VuZGJPRXIxWjRqdlc3VVNlelBrREdneHJzZ3kwdW5SMjNpRE1kNnoxNUVvMk5YWTFyRFJrSGlZMWtlbkZkcTljeEhIYnFKNjNiMzlabEFWTFFqN0VYZ3hFOXJRbjZ6cDg4MDNBWmIzaWNlUnRaUWxQQWRSSk4tMWQxOWNIeDJfd2tBSHfSAe8BQVVfeXFMTXM3YkVoWGlkRUswSHZBRWlEOUtjczVSTlpxc1UyTkh4U29JTEVUXzBDdHV2ZUxlNE5xQmFuQ19hRVo0ZG5aSmhKenhuaWJfbGs3a0tYZnRuSm44bjZkOFNRVjBCYjBsOHkwV3B0bVRaLV91LTlQZXFPMVJtQVFaemxta3N4eXBfeDNpZkh6ZDNVelRqYkphMHlzeUEzOHJtRkF5bEZDMno4VzY5eWFnMGZYOFRlQ0lfVjJ3cWxnVFVrNktYNTR3VkxBRE9HV0R1S2VuRUUtNjNXaHZ0VGZXM3ZlVmI1LUNWRFp4ZVdPVUU?oc=5",
-      "description": "Lack of US-India deal will not have an adverse impact on India’s growth, says Panagariya Business Today"
-    },
-    {
-      "published": "2026-10-03T13:25:25+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "NiftyTrader",
-      "title": "RBI Governor Answers: India’s Payments Are Fast and Cheap, So What’s Left? - NiftyTrader",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PUkJTVkgxV0NJVWxyOC16ci1rWlJBekpfSGxlSGFVTTk1d1ZPd0s1dlM1azVsYnJ4eExnRnlQY1RJQWlVblh2S1ZhMUJnY3RlYUZaU1YtSDRaWDF6MFltaC1mMHVCd1VpR3ZjVFEtVTRMb01uZTdxUXBRdl8?oc=5",
-      "description": "RBI Governor Answers: India’s Payments Are Fast and Cheap, So What’s Left? NiftyTrader"
-    },
-    {
       "published": "2026-10-03T12:20:28+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "Livemint",
-      "title": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company - Livemint",
+      "source": "livemint.com",
+      "title": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company - livemint.com",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVTFkdXA5SXllNDNQZmpsSmZiTnFLZVJKeGZkZ2prYzdzQmQ4a3l5YmswbnRGVUZfa044d3VXQmFaRzFZeHdkY1FkdTBpdDZzbXJEd3hETDZkVWpZM1RSWFFtZk4xdDY0SG90RzNLRnJ6V0k0MU5fNmVQNGVTbUVCM0hIdldBTnFaT2N6cGYzRFI0MGZTZEZOdDlNOUdYdFR0dmhDWG1kTGdBSVRITDB2a3dvVnRqWW05M3QtWmFlN2lhQVhGUVZFOVh1Si0xZU9objhBUC16M0M3UzRpYzVWN0JWOHFZb2JvbWNlX2VjeGF4SGpBY1ZHSnptN0x6MmE1VFhTMVB3X0h3aXMtZy1GbHhvZFBrUdIBlgJBVV95cUxQVTFkdXA5SXllNDNQZmpsSmZiTnFLZVJKeGZkZ2prYzdzQmQ4a3l5YmswbnRGVUZfa044d3VXQmFaRzFZeHdkY1FkdTBpdDZzbXJEd3hETDZkVWpZM1RSWFFtZk4xdDY0SG90RzNLRnJ6V0k0MU5fNmVQNGVTbUVCM0hIdldBTnFaT2N6cGYzRFI0MGZTZEZOdDlNOUdYdFR0dmhDWG1kTGdBSVRITDB2a3dvVnRqWW05M3QtWmFlN2lhQVhGUVZFOVh1Si0xZU9objhBUC16M0M3UzRpYzVWN0JWOHFZb2JvbWNlX2VjeGF4SGpBY1ZHSnptN0x6MmE1VFhTMVB3X0h3aXMtZy1GbHhvZFBrUQ?oc=5",
-      "description": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company Livemint"
+      "description": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company livemint.com"
     },
     {
       "published": "2026-10-03T12:10:37+00:00",
@@ -31525,6 +31525,15 @@
       "title": "India Looks Cheap Again. Here's Why the World Isn't Buying - Asianet Newsable",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMTY0TFAwNHlVaEJYektSM0Rudy1oc3BfV25vajdYaHVua1R1cEhPb0dDTHJ1TG9zaXNSQ2RzVHJNcWc5bVVsZTVpS2lfbjFlN0ppSUxLS0hJM3lmcmhXcGlCOFU2NDF4akpEU1dWdk55YkVwOVBtUjc0bW5qaGtXcXpPdFFOX3ZzalFmQnpwSEhJOUlLLXBOY3ZpUkJ5Nm9PTW5yZ3UwZVZBM2pTR2fSAbMBQVVfeXFMUFg3dEt6dHo0QnhfRExJakNZSjEwUzVxaEhiSGIyTjMtZHl1anQzbHdVSzI0UnRXdFNXWGtROVpqdEZTdEVMdkVJX05pQ2JEMnd2RDlyOVZYbkVVbGdmT29lSjg1Rkl6UGRiYlRsTlEyNzJjNFdZcUtZeUl3bDBFOGZ1QTcxV3VESkFZdlVfLUNCcFRaUWkzNHU4aW5RbDBPSFY5Qy1ldXZ1cm02UU93RE5pQmc?oc=5",
       "description": "India Looks Cheap Again. Here's Why the World Isn't Buying Asianet Newsable"
+    },
+    {
+      "published": "2026-10-03T10:22:00+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "chinadailyhk",
+      "title": "AI deal frenzy powers Hong Kong fundraising to record summer - chinadailyhk",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1mLTlLN2t3dEdHTW1OaVVobllqRUJEbTRMdjVKZTltSFlMMmg2TlNKTENXQXZlY2pvN1VCdDFWTlUxcWhGTHpkdFN4Y1hjNmZ1OEttWG9n?oc=5",
+      "description": "AI deal frenzy powers Hong Kong fundraising to record summer chinadailyhk"
     },
     {
       "published": "2026-10-03T10:09:24+00:00",
@@ -31606,6 +31615,15 @@
       "title": "FPI investments driven by net returns; working to simplify access: SEBI chief Tuhin Kanta Pandey - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMkx2Q2RGUjVCVFpiekFJTEE0ZlNldklObk5yblRvc2I4czBZU2tKejVXS2F3M2ZaZUtfdkJ0a3VCRmdvNUNpSHU1Ui03YkFlVF92Qm9Wc2RnY3V1NzdTLXJBcUYyTkRhU1RvR1NsQ0hzeDRCU3VxNHh0YlBtWjAtaXBMS0U3NUNxTGJQU3Vyd3JJbTNWSW1md3hDa25BMWtlWG5Zb2dHTFlZekRRVDNYQ0ZsSXFoV3p1LUotRklXSkNDVVk1amRwSy1reVoxN1haZ1BWSi1Dd1RxV3dwVlRzNktTdEtZODcyOE54a25SSzHSAfYBQVVfeXFMTzhqS1J5SEpkSFZlRU9xQzBSTFFQei1BcWRnMVc5Z2dzQVdhZ3dFTFA3M19NZ3Q5cFF6dkVNVTFyNDFXejN3SFh6dktLcHZxbGIxWkVoNkJqY0t6dXVfNV9jc0RCRXcxM2R5UXRya2ZZTDZ2bjFnRWFMcWtXV3M2YTJxWFBhdTZZZ3Q3RTUtemUtR3NQZWNLX01menhfUS1pcDZRX0JVTmpPQ2hPdUxRRVJVaGlYOU1DZ0F5M3p1clBYWW5YZkIzY1NHLW5GdlgwQnJILTlEMTA5Y3pZNGR4NU94SXNYU1pDcHl3bEFvcGJPRmN4SFRR?oc=5",
       "description": "FPI investments driven by net returns; working to simplify access: SEBI chief Tuhin Kanta Pandey Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-03T07:55:00+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "F&O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNZlN4c0JmaEc5XzVuaW1HYUp3VEZHcXRsbGt5YzJYT0lzWDBFSV9sdXZta1hheFZ6eGVSWTlsdnBTaXZvN25nSWFKWjBUVUZrbnVsVDlBVlNFcEFvUDYtaE1helI0M2RBUUxNazU1eXVzanVZOUVDaXdWdkYyZkpkRk9PQXliX0dBcjF6RWEzRkdsRl9ydlFzcHdseTdMZ0VnaHJzUldIS2Y2amVhRUh1V1Jub1R6TTA3Vm03NDM1Ni0xVlpyVXI1SjBwT0Y3ajh1SHhqSmstNmx0Y1RqbDZPTVo1dVNUa2p5OWNVQUJIMldyR3M0Ny0xdmxBOV82OWNqMTl5d1hzZDNiazhK0gGMAkFVX3lxTE1mU3hzQmZoRzlfNW5pbUdhSndURkdxdGxsa3ljMlhPSXNYMEVJX2x1dm1rWGF4Vnp4ZVJZOWx2cFNpdm83bmdJYUpaMFRVRmtudWxUOUFWU0VwQW9QNi1oTWF6UjQzZEFRTE1rNTV5dXNqdVk5RUNpd1Z2RjJmSmRGT09BeWJfR0FyMXpFYTNGR2xGX3J2UXNwd2x5N0xnRWdocnNSV0hLZjZqZWFFSHVXUm5vVHpNMDdWbTc0MzU2LTFWWnJVcjVKMHBPRjdqOHVIeGpKay02bHRjVGpsNk9NWjV1U1Rrank5Y1VBQkgyV3JHczQ3LTF2bEE5XzY5Y2oxOXl3WHNkM2JrOEo?oc=5",
+      "description": "F&O Talk: 22,600 is a key Nifty support; Sudeep Shah discusses PB Fintech, Infosys, TCS strategy ahead of The Economic Times"
     },
     {
       "published": "2026-10-03T07:30:01+00:00",
