@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 15:40 IST",
+  "generated_at": "2026-10-04 16:10 IST",
   "wire_file": "2026-10-04-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,35 +23,35 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "34",
-    "wire_total_count": "86",
+    "wire_count": "36",
+    "wire_total_count": "89",
     "wire_scope_date": "2026-10-04",
-    "ai_wire_count": "8",
+    "ai_wire_count": "7",
     "selling_wire_count": "6",
-    "india_wire_count": "21",
+    "india_wire_count": "24",
     "weak_index_count": "14",
     "valid_index_count": "24"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-04 09:45",
-      "title": "Hong Kong Equity Sales Hit Record $47.5 Billion as AI Capital Race Defies Stock Slump - SSBCrack",
-      "text": "Latest dated headline · SSBCrack. Today's unique wire set contains 34 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-04 10:21",
+      "title": "Sensex Support Seen At 71,000–71,200, Nifty May Rebound Towards 22,800 - Free Press Journal",
+      "text": "Latest dated headline · Free Press Journal. Today's unique wire set contains 36 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-04",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-04 has 21 India-market wires, 6 selling/risk wires, and 8 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-04 has 24 India-market wires, 6 selling/risk wires, and 7 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-04",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Hong Kong Equity Sales Hit Record $47.5 Billion as AI Capital Race Defies Stock Slump - SSBCrack"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Valuations of IT stocks already capture most of AI disruption risk: Chintan Haria - The Economic Times"
     },
     {
       "label": "India Trigger · 2026-10-04",
       "title": "Crude is the local swing factor",
-      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Week ahead: RBI policy, US bond yields, crude oil and TCS earnings in focus - upstox.com"
+      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Week ahead: RBI policy, US bond yields, crude oil and TCS earnings in focus - Upstox"
     }
   ],
   "indices": [
@@ -18477,7 +18477,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-04T15:40:29+05:30",
+    "generated_at": "2026-10-04T16:09:58+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -30864,10 +30864,10 @@
       "published": "2026-10-03T12:18:28+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
-      "source": "livemint.com",
-      "title": "Global AI stock correction may benefit India, but RBI Governor flags market risks - livemint.com",
+      "source": "Livemint",
+      "title": "Global AI stock correction may benefit India, but RBI Governor flags market risks - Livemint",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNUF92RVhYLWNVNjVwejZFdHZpcS01ZDRCcXRmUDRfMG1qcUVxQ1hrb2c0MXhaR0ZzS2RZZU91S3ZsTEUyUXBhRkUxWEJsYTlUaEFtdjdmYVdMR1U4Nm03eXFQRjF3UzVMYldFQnNGOWJ1Ty1ka2tiWl81S0JCRm5VZFNHbzBNSVRDRWVSaV9feEU4a0ltanFuajBQcGs3WGFXWXVTUGh3eHNHSm1jdWRDZU5RcU5kVDQtM0F3b05PaW96QmNtRHBhTmhsTTR3TERWQTFCOFFieV9rQVVzcGVBUUV2cnfSAeoBQVVfeXFMTjBFZmxVeFNGcVEyU2FiM2t2UTh3UzRPR3FXemkzYjdraVl3Q09ZcmozTTlfcldhVFNjUTRTbzdoS1NsUjVfTUxScmdJWFo4MFdrVy1uWS1SRFFDYXA4emNoV1VvU1VUbndPY00yVGFMN2lFd1M2X0RieHBEVzdJYUpWR09TU0JESUhmdFVQWG5HMzVneHpzb0E1UHpBR1cwUndNc1ZxYW1fR1dmV3NmQjRLOFl5cFcwUlZseGlyZjJnYnMwa3V0VGxyek8weG0tQTh5ZXlTZGN1STBvY2ZmMWl2Zm9qM3N5LW1n?oc=5",
-      "description": "Global AI stock correction may benefit India, but RBI Governor flags market risks livemint.com"
+      "description": "Global AI stock correction may benefit India, but RBI Governor flags market risks Livemint"
     },
     {
       "published": "2026-10-03T11:00:29+00:00",
@@ -30882,19 +30882,19 @@
       "published": "2026-10-03T20:59:36+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "Stocktwits",
-      "title": "Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYXVSZWxiMm45VWUycHYwNFZ6UV9uQXV3T1paTVVnWU11YnkwM2NfTDNMLXhyUlhkLXlKRWptNzRDUjZNNE9USkZWQXpHa2pIZUZlUE5LZGJ2TldoUkVZaWxHNjdVVG9BTjMzVlRqVmlBOXVXN1A5cWh3T0JBVTVKZzdOUDdkWlBUeFJrNUZtejl0dEJqVVhybGZzQXNtNWtBY0YzSGNfNS1sSGp2ZzhUa2ZDX09sa2hVTDhBMXB5NTZNVGYyYkhQNmMyQQ?oc=5",
-      "description": "Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff Stocktwits"
+      "description": "Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff stocktwits.com"
     },
     {
       "published": "2026-10-03T20:39:06+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "Stocktwits",
-      "title": "NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPWmZ0aV9DNzJ1a2NadF9FS0ZxNk43ZkE1dVh5aGtmeFdZTUJFYjhTRldJYTJxYWJhWi03d0UwOVpfVXZjYjZBQ1JjY2Zvd1otWmRPWGpCWGo2MU1MblZHYU9WRm9aVVpCQ2FOSnpHSlpNU2xIMVA5elRoV1NGTS0xajctR3FJT2V0TGxzdWR1VFpJaDVsZExjYnJaTE9tTUJCTl93d0syRXJBQ2FWdDZoelk0aG5pS2FyRGsxTjM3YVNFS3JHYlhzTzkzN2NBZ3FUdTZaZVBmb0pJaDhaM3ZEUGNR?oc=5",
-      "description": "NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance Stocktwits"
+      "description": "NVDA, INTC, AMD, MU: Major Chip Stocks Fall For Second Day After AVGO's Soft AI Guidance stocktwits.com"
     },
     {
       "published": "2026-10-03T17:01:03+00:00",
@@ -30918,46 +30918,46 @@
       "published": "2026-10-03T21:31:56+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "Stocktwits",
-      "title": "NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxONnpKVm1UUlRxeXlIQVB1WURiZ0R5Q3dTeGhiZ3dMR2ZOQ0poNE8tX1BudXJ0WWdldkpwRnU5YW9NUzhOa2R1eGVIOGRseVgxYmRQbmd6YjhpQVhYNzc4MURBQXhVU196U0U1N25lVjhoa1N0TDMtYVl5RmlqZi1ibEIweGVKNXl2SGQtc29YQ2lxWEhkV2RlZU9kRVZhVHVuYWRMQWxNS3cyWVVYWlhiazE0TDZPeEdPb1ZLbWZVak1tSlFkRFotOG9jdXoyQ0hpY3ZYbTdLMDFXZzZFUnU2dFNxWGJzdlg1OFB5M1BrT0xsRFB4VGpabWFFTUcwXzlaNENlTFRGa19oelJsSER1RnFmdlVKdUFq?oc=5",
-      "description": "NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms Stocktwits"
+      "description": "NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms stocktwits.com"
     },
     {
       "published": "2026-10-03T21:12:34+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "Stocktwits",
-      "title": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3ZrUGRtVXVoS1ktOGxTY0lwMTNJY1VDRlBLS2FRRHBRdnhqc3FJbGI2Z2UxemVQTHNOa1ktRjQtZ0hpYWZsR2R0UkRQVF9TWnlpRFl5TURQUHEyVDBRdVVSd21DVmhQeW5oaU5ULUZJUHYxdzBTbGpZNG5hQVRaVFR1TEUzcm1XR2VzTzJXeUlHanUzaDNfVTdpVHc0MzBjV2otOF9ISV9hMXF3WGQ2aHB1SnRGOXYxSkFV?oc=5",
-      "description": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race Stocktwits"
+      "description": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race stocktwits.com"
     },
     {
       "published": "2026-10-03T15:48:14+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "Stocktwits",
-      "title": "Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxONDFRMFRCdFhYS1F1ekdTNjZ0Z1ZTeEdoc3paVG9FaEZoakRoNWF4VzFTYklLNnFtSWpJRjE1OW10eFh1SUxDUDZ6VlB4UXBOSi1RMkNBazhIbkN5T2xlYWtBSkQ1emsxQXYxQWNOMS15MDBOWGE3aUk1WjAzQlNXbHItNzF3cl9iaWVSd0FQbXFqVHBUNDcwTEdUMnVhWGpPZmVKdWZqY2dQcS1tYkJhdkN4T0RHanBYRkNLMzZsUl9pUVVWN3JNemh0S2hYNzdWTmpZRmxOd2lueWMxdU5hZmJhdk1Sc3N4XzUwTDhaSDFBdjdvOTlzSDZUR0dwNXY1eVhN?oc=5",
-      "description": "Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks Stocktwits"
+      "description": "Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks stocktwits.com"
     },
     {
       "published": "2026-10-04T07:02:21+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "livemint.com",
-      "title": "Nifty 50 correction: why fund managers see more value in large caps now - livemint.com",
+      "source": "Livemint",
+      "title": "Nifty 50 correction: why fund managers see more value in large caps now - Livemint",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdmtsTUtkQVNVVWRxLVZyQ1lLRzVWcVNQd0wwRG1VTVd3VDdQek1tZmZoei04RnQxV0tRR3NMNmNWWTBCQzRNZFNnVE5EVUhMNEowczR3WXdqYXFtVGNRZmdvOGo2TDVUcGt3Sk01TS02OGF4Z3pWOVBFSzRTX2VJUDhwZmJGdkk2T09XNW1nN0Rnc3R1dmpZYzExTGN2R1lJa2FsMi1paHpNTE9MVmM3aXhYSklhRDlZT2d1emJFN3VxcWVrU2VJRtIBzgFBVV95cUxONGFjZHphdkNjaTllbFJJVnJuaXI1NklUN1U2VktvMWIwTE1MblI4WGVhd2VGa0NuOGJNVHY3VkE3ZGhuZWRTN3lHZDJKcFAwaWc2aWJDTUw1Rm5EUWp0RzlUbk5YMVVzWDVXVEJOcW1Sd21vQ0NmTnZ6aE1YanFLWUg4QlRlT2JBVXhlY1RManVXYV9jTU5XXzFKMzJ4ZUFSbHEtbUxzYWlQYUdaWmtfczhmcHgzV2pQQl9Xd2thMEZ4cXdrdzFaMGY0TFhwZw?oc=5",
-      "description": "Nifty 50 correction: why fund managers see more value in large caps now livemint.com"
+      "description": "Nifty 50 correction: why fund managers see more value in large caps now Livemint"
     },
     {
       "published": "2026-10-03T14:32:56+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "IndiaIPO",
-      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - IndiaIPO",
+      "source": "indiaipo.in",
+      "title": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high - indiaipo.in",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObF9fWlVHNnR1T1Bwbld2RUF0QWpYblhURlZ6ZGR5R2pmVVB5bnhIQ2QzRzZpakV4X3R2MU12bFVFMWplbVAzTU5xaWZPeEJwY1JndTlqV1lFbmJQaXFXX2NET2Jfd08yV2pyb1NzRzdGYjd3b0lzYnZOdEItWWdWSkh1WHZZUEJSVXdPWVgwNmRCUDBRSnZTbEpYYk9meEZKTFJlajJxZTFYcDRnWUxYRw?oc=5",
-      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high IndiaIPO"
+      "description": "Dalal Street Week Ahead: Oversold Nifty may rebound as volatility stays high indiaipo.in"
     },
     {
       "published": "2026-10-03T10:57:16+00:00",
@@ -30990,19 +30990,19 @@
       "published": "2026-10-04T06:20:20+00:00",
       "score": 4.0,
       "themes": "['macro / flows']",
-      "source": "upstox.com",
-      "title": "Week ahead: RBI policy, US bond yields, crude oil and TCS earnings in focus - upstox.com",
+      "source": "Upstox",
+      "title": "Week ahead: RBI policy, US bond yields, crude oil and TCS earnings in focus - Upstox",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa3pHYnZKUDZlUVBCVTRPbWx4aFBJVGVROE44WnRqbUQ0aGNfMVd0SHVnQWxyMEpVWmtXZVU1enRHeG1EREdzRkgwWElKc2VCQXpYSldGSHcwYkdOSzdMYy13NzJNRVB3NFFYRTEzODB3ZU56QVdQSHg2VUdJTElISUJjdGJwUGpkQWdLd01OMWtHT1hNTTlRWkNPQ2RUZkloNUJjeEozcVBxQUtfdi13eWlucklLQnVLWEVqczM2MHhTb0V5ZG9RZTdNODY?oc=5",
-      "description": "Week ahead: RBI policy, US bond yields, crude oil and TCS earnings in focus upstox.com"
+      "description": "Week ahead: RBI policy, US bond yields, crude oil and TCS earnings in focus Upstox"
     },
     {
       "published": "2026-10-03T17:21:20+00:00",
       "score": 4.0,
       "themes": "['India market', 'macro / flows']",
-      "source": "bbntimes.com",
-      "title": "BSE SENSEX Tumbles 1,124 Points to 72,771.72 as Crude, FII Selling and Yields Hit Dalal Street - bbntimes.com",
+      "source": "BBN Times",
+      "title": "BSE SENSEX Tumbles 1,124 Points to 72,771.72 as Crude, FII Selling and Yields Hit Dalal Street - BBN Times",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNlB3T29wU2dnTjlLclFJN01LdHFPTWJxWmhKdFFUUUxQRDNjcFpZeE5SMHJmTGxGM1V3ZkZsQnh2Z0FJc2VZdG1BUm9RcFoyM183ZUNXSWpLT1ZjR2M1MTB4YWxXa3k5Ry05MzVBTTFDLS1QcmRYc2pyS0lYRkp5SjRTTnJNaTMwZ3dhWHh4d0VzZUZndlRCNVZIOVZQVG9aODlTaG9VUTgzcnN5cW1yVHNIajA4NW80MkZxa1BYNG4zYWV6U3dv?oc=5",
-      "description": "BSE SENSEX Tumbles 1,124 Points to 72,771.72 as Crude, FII Selling and Yields Hit Dalal Street bbntimes.com"
+      "description": "BSE SENSEX Tumbles 1,124 Points to 72,771.72 as Crude, FII Selling and Yields Hit Dalal Street BBN Times"
     },
     {
       "published": "2026-10-03T14:15:00+00:00",
@@ -31044,10 +31044,10 @@
       "published": "2026-10-04T06:37:55+00:00",
       "score": 3.0,
       "themes": "['India market', 'macro / flows']",
-      "source": "IndiaIPO",
-      "title": "Nifty Outlook for October 5: 8-week losing streak puts focus on RBI policy, earnings and global yields - IndiaIPO",
+      "source": "indiaipo.in",
+      "title": "Nifty Outlook for October 5: 8-week losing streak puts focus on RBI policy, earnings and global yields - indiaipo.in",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOZHhGZGJHalFmOUdEZ0RqdmJ3RUN5UmFVdW01aTlpb1ZqVVVKenRZcTA2S2hEdUEyek13Sk9ibmI0c2g2YVlrX09OSVlDQTVMM1dBbFItNjBQSjJkbFpSaVZnVld6YlVVUFZ2Rlp1aURuZ05iN0dLODlvV2FnMGdhM05sTVM2RnVyeUJVRFhQdDNlZlQ4aW5wVzZKYVM4NUlyaUhhWUE4MUpOR1NlMWIyZ1N0MnB4Y0JxTnpZUWhsdGN0dVZMM3FrV2lHWDdwRUNtdFE?oc=5",
-      "description": "Nifty Outlook for October 5: 8-week losing streak puts focus on RBI policy, earnings and global yields IndiaIPO"
+      "description": "Nifty Outlook for October 5: 8-week losing streak puts focus on RBI policy, earnings and global yields indiaipo.in"
     },
     {
       "published": "2026-10-04T06:22:33+00:00",
@@ -31149,6 +31149,15 @@
       "description": "These 9 equity mutual funds lose over 8% in September. Are any of these part of your portfolio? The Economic Times"
     },
     {
+      "published": "2026-10-04T10:21:26+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Free Press Journal",
+      "title": "Sensex Support Seen At 71,000–71,200, Nifty May Rebound Towards 22,800 - Free Press Journal",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMmRDbjBpY3M1S2thVE9hMGNRM3dhaEtVSGl6ZlhITDlOTlRrODVsUzJFT1NmY3VzSlhlWVdoa3h6V2dnS3VoU204amdMbkY2Z0tSd0diTURCN20tOGl6UTlRVWFIN2xNendUWjJfUUFaeDF0UXFERTc1M0NYZDAyX2VVckttZmIyU0I2cG5Cd2p4cGFEMzdVcVVjTUFaNUdncTV4dFVEYUgyQdIBrwFBVV95cUxOcnluaGF1VnBNZUYwVFNJRFZpcHhkMDB3X1JXYWJmd2dYeXg0blY1Z2JKVUtnT0FiNUY2c0dlVzdQMGNqWDhmMUNuRFlsVWk0ekJ2ZXVHSTFoV3I0X2lzWjM1S3kwSG55a19nNlVwU1RNcUNDT2tMZkVfLUNzSE9lUEI5Mk9NTGN2QUE2ZXdoN2IzeGUyMk9QeWdhbzhWa3VqcnNEWjROUTZyQ0VKYVJn?oc=5",
+      "description": "Sensex Support Seen At 71,000–71,200, Nifty May Rebound Towards 22,800 Free Press Journal"
+    },
+    {
       "published": "2026-10-04T09:07:03+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -31188,10 +31197,10 @@
       "published": "2026-10-04T01:21:23+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
-      "source": "Stocktwits",
-      "title": "MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3ZjcklJMURNRXVzZllZbDlodzc0WmY0alNpN3I3dVc5UjZPLWk1SVhXeEw5REEyNnJlRlJyOXA0eW1SZ18wOVkzVzFyQnd4WWcwY0hoN1ZQVFRTY1FOZURtQlBsc19UZ0UtdkpDRkVrTk9KbUNxMzlnUXhxX3hRYTVreXB2NXFfZ0RBQ3NGLThOdjlKSjR5TTAyQkkzNjUtVkhneEJUYk51aG5MaXN6V1VkVnFtcGpRM1AtYlFzMmtwOXBLSDVLYm02eHotMXpWNUFfMUptZy1TUC02UVZTWFdrWjgxaUNNWFE?oc=5",
-      "description": "MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff Stocktwits"
+      "description": "MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff stocktwits.com"
     },
     {
       "published": "2026-10-04T00:00:00+00:00",
@@ -31210,6 +31219,15 @@
       "title": "Sensex And Nifty 50 Indices Ended Week In Negative Territory - fintechbiznews.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLV9sdUFEcnY2Mkh4MmN6OGR6U21rT2dtMC1UUm4waXduSDF6MTRQcVEzb0wwYUF0OVBfZE9pZzBwN2tyb0dkY2lpWGM4TjM4TTVqZ0lhR3FBYjk2Q2dNNU8yZzZSR3k5WFNxZk5XQ1ZhaFQxQkNJdjlmOWd2M01qMkJ6UGVtZVpnTjE1cHlXSHY0c3ZRM2FUcmpTM3dtUlpIWElKaG1CLTBjM1BFblh4Vk9IRG42Ym9E?oc=5",
       "description": "Sensex And Nifty 50 Indices Ended Week In Negative Territory fintechbiznews.com"
+    },
+    {
+      "published": "2026-10-03T19:17:29+00:00",
+      "score": 2.0,
+      "themes": "['AI / tech risk', 'India market']",
+      "source": "Social News XYZ",
+      "title": "India well placed amid global AI risks, strong fundamentals offer resilience: RBI Governor - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEVKRHFQREhKTGs5a2hGLWxQTF9hRUh4cVJQSU1ORzFBYmFzV1RKY3Fxc1Izdmw1X2dBQ3hIUS0wUnROVDQ1TF9PNzNkV294a0RKTDBGY1BNdC1CdDhGckVoeGlTeXFLa0t3T0FNX0pneEFkdUNLR0tnNFFqQ1NOWXhQSk1KN0ZZQ0paUDV4aHk3ZlY0UGJSYlg5RDRSWTBCQzJDenRXQ1Z2YUlWeFA2RmNuclZFckZlMU1iZnkxYUp2ZGdrclE?oc=5",
+      "description": "India well placed amid global AI risks, strong fundamentals offer resilience: RBI Governor Social News XYZ"
     },
     {
       "published": "2026-10-03T15:12:29+00:00",
@@ -31242,10 +31260,10 @@
       "published": "2026-10-03T13:22:00+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
-      "source": "247wallst.com",
-      "title": "Global Bond Selloff Pushes U.S. Treasury Yields to 24-Year Highs - 247wallst.com",
+      "source": "24/7 Wall St.",
+      "title": "Global Bond Selloff Pushes U.S. Treasury Yields to 24-Year Highs - 24/7 Wall St.",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOWTJUMGp1Tnl0QzRubXFmSTViTG9kVUdQQXpZRzlhUjNJalBsMHk5WS1qdWhybDFPaDZ2YVMtMEZPRHVMMTliaE1xdlVMQzkyRGZKdVZWMzJMWE9OYmpPOEpkZTRaMk9kcEtCekZnS1RqT1ZIaXJnWkQzanJObEE3RlhJOXlTbm1DX09sbDExSVk1RThMN1pueFRBa1djWFU1WTVxek9mbjVLajQ?oc=5",
-      "description": "Global Bond Selloff Pushes U.S. Treasury Yields to 24-Year Highs 247wallst.com"
+      "description": "Global Bond Selloff Pushes U.S. Treasury Yields to 24-Year Highs 24/7 Wall St."
     },
     {
       "published": "2026-10-03T13:18:00+00:00",
@@ -31302,22 +31320,22 @@
       "description": "India well placed amid global AI risks, strong fundamentals offer resilience: RBI Governor lokmattimes.com"
     },
     {
-      "published": "2026-10-03T10:18:27+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "Cityairnews",
-      "title": "India well placed amid global AI risks, strong fundamentals offer resilience: RBI Governor - Cityairnews",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWG9sSEViZms1dlliSTRDTjR3ZEZzZ0E4Yktoc2hTZVFLWERsZ0FlbXM4MHBwMTBCMmJZV1h6dDZPSmZfUFM0WDltLTJaT3c0anJ3MUNINDFhaUY0aTh1VUdvTUI1dzZiSHpQaHhabVh1NDZoclQxNExkcVhVWTQ2Mzc5ZG0zZTYxZXc4eVY1d0FJbkRlTmVQUHhvN3BIaDV0cVEtRFNTQTI3ZWNwN3ZMRm5wWV9MRVotZlJOV3prazJEdw?oc=5",
-      "description": "India well placed amid global AI risks, strong fundamentals offer resilience: RBI Governor Cityairnews"
-    },
-    {
-      "published": "2026-10-04T09:45:07+00:00",
+      "published": "2026-10-04T10:17:17+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "SSBCrack",
-      "title": "Hong Kong Equity Sales Hit Record $47.5 Billion as AI Capital Race Defies Stock Slump - SSBCrack",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjY3aFJMMWplYTVIQmlMUDFZclBHOUtIRFNfbFJ4b1ZUWTV3X2ZCdndzdmJzeWxhQmMtNjNTMkczVU9xZ3RGNlFENU5DdS1FZUNNU2Q5VmZPeWxpS0VCYmw3LUc5RzlvcFZKRVdWS0prZHJxajZnd3BrVnFNU0dVdEF2bnVJUzhZQS0tallGZW9zVEswRUlrWldlbTB6ak5FcjRPNU9lOXBYVjZKcFJpTQ?oc=5",
-      "description": "Hong Kong Equity Sales Hit Record $47.5 Billion as AI Capital Race Defies Stock Slump SSBCrack"
+      "source": "The Economic Times",
+      "title": "Valuations of IT stocks already capture most of AI disruption risk: Chintan Haria - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdnBqcWpXQi13X3puUzgxOHhkRnYxY2xjZG8zaTUyZ0Q1dHZoa3JyMWdoelhVdjM1WXJ1dWppZnpMTzlHMzEtMGpyTG9IbkMzbk9SVmNNYTJzZk9aUVpfZnllbm5GYUFlNlZ1TjhiTVVHc2NBbGlPeDhYTHVtUElLdlRTWmhNcGItdGsyelo1a0pCc1VXQk5pNFVrZWJZZjZtWGFpUzNTaDJTQTJ4bVVsNW52eHFZSGRVMXFXaW1iem1jT3dlUENSakd5c2EwczI3aDhJbVRfc3NKalhzYW9MdFZMV1d2bXJuNnfSAe8BQVVfeXFMTlhENkdxcFVGYk04eUpmZkhScFNIbEEwTW5LaHJoc0luWV9heVZmSFNNMWhObE42Y0o3Yy1TZ3FuT0hPSlp4ay1fd3l2VlIyWjM0TmNCX0Z4WU54NnJvTDBDTEp3cmt2RnhXRzREYWlLa1N2YWZ4eVZFOGFIVGZvNW1YNjdCZ25ia3FwTzZRaTNlNGR0QUZPYlVzN1hLdkdySXVldnB3Z1dxM0FaZUVGeVZ4WHA2Q0RaWUhUNzN1LTZWR2w1SnJua29WZzVxT082cDk4elN1WDZlQ3BCVzBwLTBQbGpiWUhHYnN5VXFMYzA?oc=5",
+      "description": "Valuations of IT stocks already capture most of AI disruption risk: Chintan Haria The Economic Times"
+    },
+    {
+      "published": "2026-10-04T10:02:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "usatoday.com",
+      "title": "Is a stock market correction coming? Most Americans think so - usatoday.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcU9XXzlBd2pHZEtnY1RXSndVRHNycnF3Ym5GYWh4aFNGcjZZaDRRTmp0SjQ5clBqN2F0YVhDS1hoQmI0OXcyNkFLblZ2cTEtYjljSlZxd3Etd0I1M05fTi1iOVlDaUx2WWNmX1B5TVVzWUR3WER0RWl6Tnc0N0hJNlM1RHdaMmR0ZlZaQV9QVGxOZld1ajYxeC11UEVkTnZGcHVNUGpCUk90NnNjX25Ldzl3Y2xxMjhp?oc=5",
+      "description": "Is a stock market correction coming? Most Americans think so usatoday.com"
     },
     {
       "published": "2026-10-04T09:27:45+00:00",
@@ -31329,13 +31347,13 @@
       "description": "Elon Musk: No longer using AI, switching to SI, this is better ababnews.com"
     },
     {
-      "published": "2026-10-04T08:57:45+00:00",
+      "published": "2026-10-04T09:09:29+00:00",
       "score": 1.0,
-      "themes": "['market selling']",
-      "source": "NDTV Profit",
-      "title": "FPIs Offload Over Rs 35,000 Crore Worth Indian Equities In Sept: Five Key Factors Behind Selloff - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxON3hFQ2tCMWowN0w2VGwxX3JwMTg5RDdzZE5BOUNnQzFFeHcxekNwcFllellSZVFESjh4NmJFbDN4S3dBZnVraTJ0RkJ6WHh1LWs1UVA1WUo0V1BJSWdQMmNqc2plYzZ1YXFTaU0tOFlWeGtLcWNIR1RQcmFfXzBLbmxGaHgyWW96S0lMNmVWZmE3SGdsZm5mUDF3Q2NsclE0amJZZ3p1Zkc2U3dGUnE2Rk1mTGhiUFR0LV8yeTJLeW9OTUlPMy10aHZaTG9GMTF3YUNpdUduaDhwOW9YbmfSAd4BQVVfeXFMTjd4RUNrQjFqMDdMNlRsMV9ycDE4OUQ3c2ROQTlDZ0MxRXh3MXpDcHBZZXpZUmVRREo4eDZiRWwzeEt3QWZ1a2kydEZCelh4dS1rNVFQNVlKNFdQSUlnUDJjanNqZWM2dWFxU2lNLThZVnhrS3FjSEdUUHJhX18wS25sRmh4MllvektJTDZlVmZhN0hnbGZuZlAxd0NjbHJRNGpiWWd6dWZHNlN3RlJxNkZNZkxoYlBUdC1fMnkyS3lvTk1JTzMtdGh2WkxvRjExd2FDaXVHbmg4cDlvWG5n?oc=5",
-      "description": "FPIs Offload Over Rs 35,000 Crore Worth Indian Equities In Sept: Five Key Factors Behind Selloff NDTV Profit"
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "India is NetApp's fastest-growing market in Asia, CEO George Kurian says - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdEtsUGQ4WTl6RVU3QXZrU3I0NnFTVnlTQm9zVTFNckRSbjh3UXg0T3lhWVV4R1NuR2ZYOFNaQWVUT2MtcWxuNFhEdUs0LXpnUlJyY1ZJdkxYcnY4SnpSRVhTTk8yLWM0SXVuVUdvSXRFV3Z6WTBYcWRWdnAtbV9NRlBadEMtZ1BHdndiNWFRTmRtVnVYZ2h4cGZ5aEJKMmdxSXdnT3R3NlA0R0RsRUFsMVdvV0tONkdUc1lGS0lpODFBUVdCM2NWT9IByAFBVV95cUxQdEtsUGQ4WTl6RVU3QXZrU3I0NnFTVnlTQm9zVTFNckRSbjh3UXg0T3lhWVV4R1NuR2ZYOFNaQWVUT2MtcWxuNFhEdUs0LXpnUlJyY1ZJdkxYcnY4SnpSRVhTTk8yLWM0SXVuVUdvSXRFV3Z6WTBYcWRWdnAtbV9NRlBadEMtZ1BHdndiNWFRTmRtVnVYZ2h4cGZ5aEJKMmdxSXdnT3R3NlA0R0RsRUFsMVdvV0tONkdUc1lGS0lpODFBUVdCM2NWTw?oc=5",
+      "description": "India is NetApp's fastest-growing market in Asia, CEO George Kurian says Moneycontrol.com"
     },
     {
       "published": "2026-10-04T08:41:15+00:00",
@@ -31347,6 +31365,15 @@
       "description": "Share Market News: Nifty 50 Outlook & Prediction Liquide Blog"
     },
     {
+      "published": "2026-10-04T08:40:16+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "City Union Bank - Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZndndWZTUzdsN0gyT1ZMcDhKdkk5ZWNzbm1aMjdfWE85ZzVuMXE3U3pQb3dMd29uRGV6NGc2bFBEY250VGtMSVhET2ZZQXZRRGJINGR2VDZVbk1TbW83SGtaZjRxamR5MG9IMk1VUmhCUVVFRkpvTEN0N0hZS0xGZU8yOWZiT3JXZ1NEY2xYd2FVc0c1ZWhTMEFGZGRtUUNQeGNLTWJIaVYxdlA2U0VINkU3UlRSQnJHaDdUTk9kVEZaLWd2RXR6eVhLYzhjakZYZGVGQ0tEc2lZTVF2UmlvLTBvTDI5YjlXUmFpN1Mtd3VQS1FPSklrc3V4LU13OTNMZkNGMjNn?oc=5",
+      "description": "City Union Bank - Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? The Economic Times"
+    },
+    {
       "published": "2026-10-04T07:57:00+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -31356,22 +31383,22 @@
       "description": "Bajaj Finance: Why this rare Nifty outperformer is likely to reward investors in a muted market The Economic Times"
     },
     {
-      "published": "2026-10-04T07:41:15+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOOGNzVk5vSWJiWk13V0I4MmR3SU41ZkdHNkJ5Yk9IZnJRQXo4bnhUVHlnM3JkUUwxQWxOMFBhQ0l0NmNLOEt6TExYVW1qSmp1V09KYkpCdjFqSlBkRjlGeU5KaFpiREdIOF9lZzNjN1BmdFhIQld2SkNJX2xqbGdkTFBsa2FGWEFzTGhBV1ZxclNzTkdUQVBJUjFBZkJ4c2E1c0tmb3VrdlVqSGJkeTZvN0RhYlVpN0N5LXN2TDBOMXJXM1N4UGJOdjJJejV6NGdVVE94elhyV2QzLWRHVTA4ejloVHdEakdwUi1LS19Fb1pOdk5nb0stQW00M00wUm1PVGc?oc=5",
-      "description": "Axis Direct picks 5 smallcap stocks with up to 40% upside potential. How many do you have? The Economic Times"
-    },
-    {
       "published": "2026-10-04T07:37:40+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "fortuneindia.com",
-      "title": "India’s stock market faces divergent returns, not a broad-based crisis: Motilal Oswal’s Sandipan Roy - fortuneindia.com",
+      "source": "Fortune India",
+      "title": "India’s stock market faces divergent returns, not a broad-based crisis: Motilal Oswal’s Sandipan Roy - Fortune India",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdHE2UGxzNjhxYjFSQ1AyczYwNnpQN1UtRjk0WEZRM0htSm9MLXkxMnZzOFhhdkNudUNva2dyQXJXLWVOM3NTekxGZExlUGduLXFjaHM5NVE4UFRQZWp4aGJQV3pncnI3eFUyNHVSamJSMEJvTjRJRGtxSGlpVkJLUFEwbmJjcWtESHVIUk5tVktoc0V6a1BWckRsUGszcjZKQVBHUjRIOXpDYnY1RTlXWmhEazU4M2phOEdVMWUyVmU3UEw1bWFiV1dUTnN0aWZmUlZFckhxaVZZM1RkbHY1Tkh4WE5hNkhwaXlkNWNuVmZKYjJM0gGCAkFVX3lxTFB1TzZYQUx3WGNLLTIwZXc1YldSMkg5WUM2T2Y1S3N0M3FGMjRiLTNSQUVpY0pvS1d1cEdpRDZHMTZuRHZmckhFc3lXSDRiLUg0VXZpWGczc084em5RWUF3azAwNWFEOExKMHZGOEM4VS1OWUFEYjlzdXNwZExQUWFsMmxTbUdBdWdxQ29oLUotWld4ZHVldEdaa2JMaUlhclNtMWhTU3lzN3dfYVFNTjhING1Zdi1xb3BVYkFHRFQ2bWloNE9sLS1GalNpWHpfcThRaTFUSmlJUDFSc2ZSOXBpREgtSnd3RFJFeUwxdG9NcGhjOUlRcVJ6aWswd1BsLVNVdw?oc=5",
-      "description": "India’s stock market faces divergent returns, not a broad-based crisis: Motilal Oswal’s Sandipan Roy fortuneindia.com"
+      "description": "India’s stock market faces divergent returns, not a broad-based crisis: Motilal Oswal’s Sandipan Roy Fortune India"
+    },
+    {
+      "published": "2026-10-04T07:14:16+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "Lockheed Martin plans to expand India production if it wins $10.5 billion aircraft deal - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUEUzSGFLcnFyb0pRYzNVdy1GN3l3VmJ5NXNuNHppbUFRRmtaM25WNzRQekZRbFFvQWFYbU55bE50dVlEZmxUY0VOZXdFeEoxZXNCUy1jeDZ6dVdIeUY1RWFBTnc1ZFhPbTY4S1ZEOXFWOWNkX1Ewdm96RjBuWWVyeTVCbHpLbDZNNEdoanhaWlNkVDlxNWloTWZELXZKSzZyY3RWeHBwbzgyWHdKTEp2dDF5SDE4UkhrRTR0eDJrV1FLbjBHNUs5cnRYaXZJWnhENG9BM3B5QTlNOHg20gHcAUFVX3lxTE9QRTNIYUtycXJvSlFjM1V3LUY3eXdWYnk1c240emltQVFGa1ozblY3NFB6RlFsUW9BYVhtTnlsTnR1WURmbFRjRU5ld0V4SjFlc0JTLWN4Nnp1V0h5RjVFYUFOdzVkWE9tNjhLVkQ5cVY5Y2RfUTB2b3pGMG5ZZXJ5NUJsektsNk00R2hqeFpaU2RUOXE1aWhNZkQtdkpLNnJjdFZ4cHBvODJYd0pMSnZ0MXlIMThSSGtFNHR4MmtXUUtuMEc1SzlydFhpdklaeEQ0b0EzcHlBOU04eDY?oc=5",
+      "description": "Lockheed Martin plans to expand India production if it wins $10.5 billion aircraft deal Moneycontrol.com"
     },
     {
       "published": "2026-10-04T06:50:14+00:00",
@@ -31428,15 +31455,6 @@
       "description": "AI fever lifts Asia share sales to six-year high Moneycontrol.com"
     },
     {
-      "published": "2026-10-04T02:51:41+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Stocktwits",
-      "title": "AMZN, GOOGL, MSFT AI Capex Plans — Why Morgan Stanley Says The Spending Will Pay Off - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQ0RCYkJCSTNIZ1IzRGdveUFwaFExTnlEcXZ0U25veFl4Szk2a0VHQUltN0UxVGNqNEFmczNPaVFGay0wMVp6ZFpXQ0FmMGkyMlQ2a2JZM0xONUFCeHJVckxsVVVYQzFXZFhrd1k4OHl1LTU0dzAzeFRnTmRsNzZvdVNmRVlielZyY2gtSDczNkxsSlpVU21UU2NR?oc=5",
-      "description": "AMZN, GOOGL, MSFT AI Capex Plans — Why Morgan Stanley Says The Spending Will Pay Off Stocktwits"
-    },
-    {
       "published": "2026-10-04T02:31:09+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -31449,10 +31467,10 @@
       "published": "2026-10-04T02:12:14+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "upstox.com",
-      "title": "HDFC FTSE India Equity ETF Direct growth - upstox.com",
+      "source": "Upstox",
+      "title": "HDFC FTSE India Equity ETF Direct growth - Upstox",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HN3NsWndvNnpoMGtFeENHT3hRUzM3Q2ZOS2VKTnRhU1JIQmUzU2tVb0M1VExURk9HSHJLdWNHeHJVN3F0aWNkeVd1S1gzenlUeFZKUTVhVWhFSjVpWTBwOEE0c0lkTVRJQkswcHFCb3FtZFZ2TzFFVEkzZ2tobjg?oc=5",
-      "description": "HDFC FTSE India Equity ETF Direct growth upstox.com"
+      "description": "HDFC FTSE India Equity ETF Direct growth Upstox"
     },
     {
       "published": "2026-10-04T01:46:52+00:00",
@@ -31494,19 +31512,19 @@
       "published": "2026-10-03T21:13:07+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "Stocktwits",
-      "title": "Why Is BE Stock Rebounding After Last Week’s Selloff? - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "Why Is BE Stock Rebounding After Last Week’s Selloff? - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
-      "description": "Why Is BE Stock Rebounding After Last Week’s Selloff? Stocktwits"
+      "description": "Why Is BE Stock Rebounding After Last Week’s Selloff? stocktwits.com"
     },
     {
       "published": "2026-10-03T19:50:49+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "Stocktwits",
-      "title": "MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear Market - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear Market - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPZ01Zc3ZrVl8yOGJHMkRXT01PNVJ4emJrSUhtRTVmZ3l3S0luRE02R2JSQ09rRkRIdzZWSmQ2RElXZ3ZlcHpNdGFGVTRla0dLVHRDb2dxeFd4eW9WeEtGaURSZ2M1QXV1ZGJaSWpCQ0p3NEk1OW5idXFlSjcydXF5QlJsMzVEdzBGQ3c4NDVzdHh0dk9VTjFBajI2dzdEMkxaUlBHMjBaNnVxTTFaNW1CYmtYc0Z6VTVqTVBEMExyYm1yRUZUM2hsUXl0UVZnR0w4QnV1YTdFZnFYZ3kwZHZSM0gyOF8wRFQxMGlzM0pOZTl6VVZRRkE?oc=5",
-      "description": "MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear Market Stocktwits"
+      "description": "MU, SNDK, WDC Stocks Fall Premarket: Samsung, SK Hynix Briefly Drag South Korea's Kospi Into Brief Bear Market stocktwits.com"
     },
     {
       "published": "2026-10-03T17:24:00+00:00",
@@ -31530,10 +31548,10 @@
       "published": "2026-10-03T16:30:23+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "Idaho State Journal",
-      "title": "CORRECTION China Open Tennis - Idaho State Journal",
+      "source": "idahostatejournal.com",
+      "title": "CORRECTION China Open Tennis - idahostatejournal.com",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaktUbDl1U2JGSWV5VElZVW5PVHV5NFdSNGtPV1loV21GdzVZcUNqM2FOS21tdHljRzNMU2tFMDh0b1lrWWJrdXJJRk11Rmk3TEVmX1JCTzNoRHd6SXlZbkR4c2hmaWF2TkRSdmVVZnNrd2tQaU1kV3haVXhMZXBrbVA4eWY2STE3aXhOMEs2SjQ3ZXpmNGttT25tcHV3UmI1N0FFQVg5MHgzV3V2cEtVUGx3Yi1FeXVIMXJQODBPb2RTN2x1?oc=5",
-      "description": "CORRECTION China Open Tennis Idaho State Journal"
+      "description": "CORRECTION China Open Tennis idahostatejournal.com"
     },
     {
       "published": "2026-10-03T15:17:42+00:00",
@@ -31548,10 +31566,10 @@
       "published": "2026-10-03T15:10:35+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "bioengineer.org",
-      "title": "Smarter Data Cleaning and Bidirectional AI Sharpen Ship Trajectory Forecasts at Sea - bioengineer.org",
+      "source": "Bioengineer.org",
+      "title": "Smarter Data Cleaning and Bidirectional AI Sharpen Ship Trajectory Forecasts at Sea - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb0QzbF9UeFJ4OHFWemdYdjFBcjh4ZE1Xa3F2dWVKRmg1Z1JLLXFUcFVyNFFva0JRdDBhRXZaTGNWMW5pNGRWVXVyQUJDZ1I1cU9DUEVNZlpEUUw3TjNlSVlpanNaZUJ0c0htWVAyVjkwVDlLcVFNREhKMTFabVlOampBdlVuUjBOc0VqRW9YYlNjZU1VMFY5NWpwc1ZFMkNab3VoNVlKdl81UXVG?oc=5",
-      "description": "Smarter Data Cleaning and Bidirectional AI Sharpen Ship Trajectory Forecasts at Sea bioengineer.org"
+      "description": "Smarter Data Cleaning and Bidirectional AI Sharpen Ship Trajectory Forecasts at Sea Bioengineer.org"
     },
     {
       "published": "2026-10-03T14:59:13+00:00",
@@ -31566,10 +31584,10 @@
       "published": "2026-10-03T14:48:29+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "quantumzeitgeist.com",
-      "title": "Researchers Link Quantum Circuits To Error Correction Codes - quantumzeitgeist.com",
+      "source": "Quantum Zeitgeist",
+      "title": "Researchers Link Quantum Circuits To Error Correction Codes - Quantum Zeitgeist",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOVlWcmJSNTU1SWVjTjRMTmhqVGNiQTl0QW5lZmJYZi1MOVlWME8zYnk5YkxIbm1ldXVlRi1KLS1oTEVoNHRfYjlHSzdGdnpXRjFFNF9va0J1TndpaHJ3aHhUenVVZGlXUzZLai1sWThMNHotaUNJNWxBbXByZkZmZjQyT0pWbkhtc3hINEN5VS1vMHYxS3Z4ZmRn?oc=5",
-      "description": "Researchers Link Quantum Circuits To Error Correction Codes quantumzeitgeist.com"
+      "description": "Researchers Link Quantum Circuits To Error Correction Codes Quantum Zeitgeist"
     },
     {
       "published": "2026-10-03T14:36:16+00:00",
@@ -31584,19 +31602,37 @@
       "published": "2026-10-03T14:18:44+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "Stocktwits",
-      "title": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade - Stocktwits",
+      "source": "stocktwits.com",
+      "title": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade - stocktwits.com",
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2VmSDgwWG53Wl8tWEgzMks3andfUFltMkhwMXRzWDJVM00yanMtU0R2NlpvdjBFUGpOaDVqTTdOcEVySXkta2ZOX0FYY1pLcTdUbl8wSHFJR1dsOXh3OEJaNjZ1NzYzTkE3Z2hraU9hNTVha1JmS1FvRjJSajNaMGJUN1RrSnM2M05lZFpEUF9rM1pPbjFLbkRIelo1UmljS093OFZ6eGVXRFZCWkc2NUhPTlRSMHVybXhpX0ZrY0cxQnF5RnVDbEd3?oc=5",
-      "description": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade Stocktwits"
+      "description": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade stocktwits.com"
+    },
+    {
+      "published": "2026-10-03T14:11:47+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "stocktwits.com",
+      "title": "MRVL Vs AVGO: Which Custom AI Chipmaker Has Bigger Upside Potential? - stocktwits.com",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa2taTXpfcWJBS2w3QWdrZW5qTll4LTk4Y1QyU2NhRGVGWVBMdWxjcnR6MUVGRHgwRTh6UkRFdWNWU1VFTHhaNDlhVnVpMlMtenJWcGNtQlZ3WWZLWG9fZDJubE1lQnZ2b2phZ0txOVhqZWJ3V0ZDT3NERG9taVFfcndiZV9DanJaRDVkSnRjVU5HR3BIUlpIQTllWjZYblptYlNuYlU1Smd6dWx6bEl2ZlE2c3NlMjlPYjhXaENVdVNsZGNxYWNuQWJ3?oc=5",
+      "description": "MRVL Vs AVGO: Which Custom AI Chipmaker Has Bigger Upside Potential? stocktwits.com"
+    },
+    {
+      "published": "2026-10-03T13:25:25+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "NiftyTrader",
+      "title": "RBI Governor Answers: India’s Payments Are Fast and Cheap, So What’s Left? - NiftyTrader",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9PUkJTVkgxV0NJVWxyOC16ci1rWlJBekpfSGxlSGFVTTk1d1ZPd0s1dlM1azVsYnJ4eExnRnlQY1RJQWlVblh2S1ZhMUJnY3RlYUZaU1YtSDRaWDF6MFltaC1mMHVCd1VpR3ZjVFEtVTRMb01uZTdxUXBRdl8?oc=5",
+      "description": "RBI Governor Answers: India’s Payments Are Fast and Cheap, So What’s Left? NiftyTrader"
     },
     {
       "published": "2026-10-03T12:20:28+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
-      "source": "livemint.com",
-      "title": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company - livemint.com",
+      "source": "Livemint",
+      "title": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company - Livemint",
       "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQVTFkdXA5SXllNDNQZmpsSmZiTnFLZVJKeGZkZ2prYzdzQmQ4a3l5YmswbnRGVUZfa044d3VXQmFaRzFZeHdkY1FkdTBpdDZzbXJEd3hETDZkVWpZM1RSWFFtZk4xdDY0SG90RzNLRnJ6V0k0MU5fNmVQNGVTbUVCM0hIdldBTnFaT2N6cGYzRFI0MGZTZEZOdDlNOUdYdFR0dmhDWG1kTGdBSVRITDB2a3dvVnRqWW05M3QtWmFlN2lhQVhGUVZFOVh1Si0xZU9objhBUC16M0M3UzRpYzVWN0JWOHFZb2JvbWNlX2VjeGF4SGpBY1ZHSnptN0x6MmE1VFhTMVB3X0h3aXMtZy1GbHhvZFBrUdIBlgJBVV95cUxQVTFkdXA5SXllNDNQZmpsSmZiTnFLZVJKeGZkZ2prYzdzQmQ4a3l5YmswbnRGVUZfa044d3VXQmFaRzFZeHdkY1FkdTBpdDZzbXJEd3hETDZkVWpZM1RSWFFtZk4xdDY0SG90RzNLRnJ6V0k0MU5fNmVQNGVTbUVCM0hIdldBTnFaT2N6cGYzRFI0MGZTZEZOdDlNOUdYdFR0dmhDWG1kTGdBSVRITDB2a3dvVnRqWW05M3QtWmFlN2lhQVhGUVZFOVh1Si0xZU9objhBUC16M0M3UzRpYzVWN0JWOHFZb2JvbWNlX2VjeGF4SGpBY1ZHSnptN0x6MmE1VFhTMVB3X0h3aXMtZy1GbHhvZFBrUQ?oc=5",
-      "description": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company livemint.com"
+      "description": "Nvidia on fire again after massive $1 trn wipe out recently - what’s boosting stock of world’s most valuable company Livemint"
     },
     {
       "published": "2026-10-03T12:10:37+00:00",
@@ -31615,15 +31651,6 @@
       "title": "One Trade, Two Markets, One Hidden Correction (NYSEARCA:RSP) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxORzFwVVNyVDItaFozMzM5T045QzJ2UzJKMHZwZ3loOVpLdThrc0xZN0JvczViaHNZbnQxNW81dnBmMnNEcmt0ZDNMZkRoOXNRS0psMU9sdVVqenU1b0labEwwVFMzVkMyZmJ5Qy1ESGZtYnRKVDBqSDJNalZzMzZtQlNOYUFUaDFOR2VSTw?oc=5",
       "description": "One Trade, Two Markets, One Hidden Correction (NYSEARCA:RSP) Seeking Alpha"
-    },
-    {
-      "published": "2026-10-03T10:09:24+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "quantumzeitgeist.com",
-      "title": "Researchers Build Robust Quantum Pseudorandom Error Correction - quantumzeitgeist.com",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQclhTLWlnRmVvaVRLeFFyaUl5Q2tzLU43YTZYYTEtcEVFMWhsNEZJREptdXh6NXBVbkRSR3c1MUotUVdzTlN2X1hMSDBqZVZOR09pMDRac05DakZzOWNzTVcwc0JmeFY0dkFvZjFmekJSMXplNHBHMUdIR0RwQXFJMV9fRzlqUm1OVTgtY01jMA?oc=5",
-      "description": "Researchers Build Robust Quantum Pseudorandom Error Correction quantumzeitgeist.com"
     }
   ]
 }
