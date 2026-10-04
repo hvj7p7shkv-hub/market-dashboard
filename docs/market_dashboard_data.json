@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04 08:39 IST",
+  "generated_at": "2026-10-04 09:10 IST",
   "wire_file": "2026-10-04-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -24,11 +24,11 @@
   "posture": {
     "stance": "Mixed",
     "wire_count": "4",
-    "wire_total_count": "88",
+    "wire_total_count": "85",
     "wire_scope_date": "2026-10-04",
     "ai_wire_count": "2",
     "selling_wire_count": "0",
-    "india_wire_count": "1",
+    "india_wire_count": "2",
     "weak_index_count": "14",
     "valid_index_count": "24"
   },
@@ -41,7 +41,7 @@
     {
       "label": "Wire Bias · 2026-10-04",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-04 has 1 India-market wires, 0 selling/risk wires, and 2 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-04 has 2 India-market wires, 0 selling/risk wires, and 2 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-04",
@@ -18472,7 +18472,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-04T08:39:36+05:30",
+    "generated_at": "2026-10-04T09:10:38+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -30850,10 +30850,10 @@
       "published": "2026-10-03T07:12:40+00:00",
       "score": 13.0,
       "themes": "['AI / tech risk', 'market selling', 'India market', 'macro / flows']",
-      "source": "tradingview.com",
-      "title": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor - tradingview.com",
+      "source": "TradingView",
+      "title": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOMGxzeGhINUZReHVZQWhvNXhkWm5KT0JDbUNtYVg5R3VuMDljaE1NREhkemtnalBsT3V4dGdrTGtCZVJoZ3NIYUlub0ZST1ZKSldwa1V3YjZhbEpXTWpTeFd4NHJsejdUOXZQQjhtWUFjY2VqVjJpdzdKdzd5ZWg3VjFZdjljNUtkeTkza2NsendISGxBZ0JFR3B1bldWNC03WFlfckJQT24zaEJwc1ZLRUd2WTI3bERiYVZudGh3M3dKUjZYejhCMmJ1UXVUQ0dhWHVGbkZsOXc5VU1EQmpUUXVCS0lkSnZaM0FwUGxpY3BRbGlfYzZnMXBvTQ?oc=5",
-      "description": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor tradingview.com"
+      "description": "AI valuation correction could boost capital flows to India, but poses global financial risks: RBI Governor TradingView"
     },
     {
       "published": "2026-10-03T12:18:28+00:00",
@@ -30931,10 +30931,10 @@
       "published": "2026-10-03T05:42:21+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "AD HOC NEWS",
-      "title": "Xiaomi's Buyback Machine Grinds On as Hong Kong Tech Selloff Bites - AD HOC NEWS",
+      "source": "ad-hoc-news.de",
+      "title": "Xiaomi's Buyback Machine Grinds On as Hong Kong Tech Selloff Bites - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORE9LTGZmMUNKdkwwVm1LdTltTy1MZmZNRmhrenRaeGZXZUF4VU5rYzNXYi1xeWxybHVJeTg5LWk4eG1XUzNqUm10OFphLTdPc3RmdGZ5VWU5c1k4Wm53a3JvTW01Mjd1MVJMakRFMU5RazBic1RrT2tLQXV2VTZRRUt2eFg0VFg3MzlBblliY0s4RTRUd0lsZFR3ZnB4V2xJdU1GSDh0bzJoVnJpSi16SGd5WTE5Nk4wM1lxcEFFQ0x5YzM3V240cUd3TFIwMWtERXUtRw?oc=5",
-      "description": "Xiaomi's Buyback Machine Grinds On as Hong Kong Tech Selloff Bites AD HOC NEWS"
+      "description": "Xiaomi's Buyback Machine Grinds On as Hong Kong Tech Selloff Bites ad-hoc-news.de"
     },
     {
       "published": "2026-10-03T14:32:56+00:00",
@@ -31018,15 +31018,6 @@
       "description": "Bank of India Credit Risk among top 5 mutual funds that beat fixed deposits in 3 years with over 10% gains The Economic Times"
     },
     {
-      "published": "2026-10-03T07:19:00+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxNT1hfX0xKR1p4cDFWa3QxWTFKXzE1NlJxNjM4cTdZLWZ2V1M5RGNiUE8wM05odUt6N3M5YllVQ3Qxd3hHc19VVEpPY1FxNUdEaEhMdHNDUGVFZ0xJMXBhZVpTOFBac0ljSUdFWF9NNEpBM2Nud0tZT1ZEOTdfWVUzTkF4c0VQTi1PUjR0YlFwRGlmNWl4VXRfYXpuSTVGbW83emVia053c3B6TVRVOTZNWlFfSmZYQnY2b29RQm9KZFJWVm1IWXI2TEVKS3lPekpKNjRiakF3QU5VcUJHU0NVRURkNG91N0Uxell0ejdkQzRUd1pHc1ZzRm9DczNlSFllTVFtT2dWc243QWMxZ2thWjBrdFB1RHVYQlhaQWxhYmk4M1doSG1INg?oc=5",
-      "description": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards The Economic Times"
-    },
-    {
       "published": "2026-10-03T06:29:20+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -31034,6 +31025,15 @@
       "title": "Quant Mutual Fund says investors should stay agile in portfolio allocation amid market shifts - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOZWM4YlVENk1GT2kwR0xmanJjNHFBalFLLWtId1RsR0stQzBtUHZxanhfbGE1UEFQc2RURTY1UVduQm96dTNsdHNtREcyM2ViVS1EOTVRakYxdkNXeEJCRkNrV2pIX29yYnN1QjZyb0FCZG1wcTBzOVMzOHBWQXBSS2c3VWtld3hMZzFIU1kwMnd4Ulp6N0YxU1g1eEkzX1hkZGl2TjEtQUF6ZTU0QjkwRHdYWDRnNTJBWEZNQTZ6X0JVb1J2MW9xR3RBZ1RncTNnWkt1S0k3Z2dHUnFFTk8ybzZUbXQ1V01COXVsZmwzTV9qb2Fj0gH0AUFVX3lxTE5lYzhiVUQ2TUZPaTBHTGZqcmM0cUFqUUsta0h3VGxHSy1DMG1QdnFqeF9sYTVQQVBzZFRFNjVRV25Cb3p1M2x0c21ERzIzZWJVLUQ5NVFqRjF2Q1d4QkJGQ2tXakhfb3Jic3VCNnJvQUJkbXBxMHM5UzM4cFZBcFJLZzdVa2V3eExnMUhTWTAyd3hSWno3RjFTWDV4STNfWGRkaXZOMS1BQXplNTRCOTBEd1hYNGc1MkFYRk1BNnpfQlVvUnYxb3FHdEFnVGdxM2daS3VLSTdnZ0dScUVOTzJvNlRtdDVXTUI5dWxmbDNNX2pvYWM?oc=5",
       "description": "Quant Mutual Fund says investors should stay agile in portfolio allocation amid market shifts The Economic Times"
+    },
+    {
+      "published": "2026-10-03T06:13:37+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPV3hlR1JYazZkekFhdG5RcW1IRDI3QU5GMkRLQ09UQVlDYkRudGFzdHdBbGJXb2Q0UkFIM1lxQ0dRcEctdE9zS2kwcEdKODc0QnpDZkhTZ1d5U2w2UTZMMkxwTC1wZGtjUTlRS3phbHBabWM3UGFNYkd0TFF3bU05dzhKNUpMckRBY1VKM3EyTHppTTI5dk5UZ0QwMk1hTThFcEs1OVM2RUJIZmpjbEhwYUcyVGk2MnJIUGVWUWtoT3pJc256T0Z6dkdkM0RkZXA3b1Q3Qkgzc2tQTmptYUs4dGhkUl9sc2lseEVDWjlfWEkya0JFemhSUFVRdjYyWVZEdHc?oc=5",
+      "description": "Multi-asset allocation mutual funds: Nippon India, HDFC feature among SIP top performers and laggards The Economic Times"
     },
     {
       "published": "2026-10-03T21:03:20+00:00",
@@ -31079,15 +31079,6 @@
       "title": "weekly Quote on FPI Flows by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth - Investment Guru India",
       "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPOXF1YktmaFNVa3BnUmpMVG9kVGJyR3NIUWd5ZHVLWklLb05YOW51aXQxQXFYd2pNYVN2YnlIZXBRZFFjTmFKZ2ZCM09DaHo5RmdpRk5OdE1LNFo5TVBmN1hsVzg2TU05bExzYU5STUFjLV84N0kwOGNlb0ZoY2FhMUJyb0hja0d0VTA4RHV5NUtESERPRmlGckRDWmVFNjJSUXFJOGV0bTk2czVFQmVtNkF0VWZQNkN0QlFzazc5Wi1iekVaOFhNOERRY0p1cTRNZVVfRTVZNUliZWhUdEE?oc=5",
       "description": "weekly Quote on FPI Flows by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth Investment Guru India"
-    },
-    {
-      "published": "2026-10-03T11:45:21+00:00",
-      "score": 3.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Investment Guru India",
-      "title": "Quote on FPI flows 3rd Oct 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX2YzZWF0SlZlcU9EWUpPSVNtOGlSam41dlVBb2FuNThKcHVSMXE3MkN1bDZXcGVaNFR3MzJVX3RGU2lPZjN4c3pDT2MyN3RlQkNJX3A4dmNDSEtEa0ZEcTdXYkJCVmxyTVVUd1pnYmd6UlJBMWZoTC1GX2JSWWtJdWFZbTNWNTItUkNjN1dfZlJBOFI0VVk1bzhKcm4yejBDNk5HQ3M1MnVZN2xjcDdYaEVMY0Y3Z2hYMWlxTUxZT0lxNEhfY0Jlb3VFd3ZaZWhDcEdGQngyN291a1l1aHhpc2FCdnpOdFdxWmZfU1ZiODc?oc=5",
-      "description": "Quote on FPI flows 3rd Oct 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India"
     },
     {
       "published": "2026-10-03T11:39:47+00:00",
@@ -31183,10 +31174,10 @@
       "published": "2026-10-03T14:06:43+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'macro / flows']",
-      "source": "tradingview.com",
-      "title": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal - tradingview.com",
+      "source": "TradingView",
+      "title": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal - TradingView",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUlZlOUliM3RUd2NlU0tHSFJ2LTBYSkFhUmxGU2k0S0xOQ3RZc1ItdUViRG9LWWcwQ3NPblNyYlRwZUQ0WkpjU1BUTTVjOVVEejRSZ1c3bmhkTURhcEZ0VzNhXzJfbERzX2VOOGYxMGNBUWNSOTBxSmljOTM5c2M1dGtzcm96ZHZISzNlOTF1TXRhaUo3RmdMTTdzeTNGQlFZVWpPdzYtS0VmMi1UMnhR?oc=5",
-      "description": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal tradingview.com"
+      "description": "Copper After the Record High: AI Supercycle or Tariff Mirage? for CAPITALCOM:XCUUSD by forexcitypro_leemeenal TradingView"
     },
     {
       "published": "2026-10-03T13:22:00+00:00",
@@ -31306,15 +31297,6 @@
       "description": "Indian Stock Market Records Longest Weekly Losing Streak in 25 Years as Nifty, Sensex Slide caclubindia.com"
     },
     {
-      "published": "2026-10-03T03:20:47+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'macro / flows']",
-      "source": "Stocktwits",
-      "title": "KORU ETF Heads For Worst Monthly Decline: South Korea’s Chip Rout Deepens For Second Day After SK Hynix Earnings Miss - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNbU42QnhUeEhBWGxyMXJIMjRwNnY5OFJSOE5OSEs4S19WRktYUEQwWVo1MzRwNHY3ZTZsVFY5LXZONFVIb3htQW9PeVlDclB5V2w5dmROWktTWmpDeHZNWncxUmU1VVR5aDdNSDdPRlJXR0ZWQUpqN28zRUlXTkx2R3V5TDUxMFNFVFh6ZjlmY0huZDlFY1F3MHlkU2ZJUkhfa2VxY3U3d0V3OVVLRmdoUEhsbHYzZGFpTDBlSUwwd1VzZUdBZkhXRXppbXVDaXJLeGdWeURZalZ5Y1FfbXpvOHBhRWlIOUd5anowWG5vb2lqRU9Fb1h1WldxN3c4LXlQWHN2NUJseGs4YnpH?oc=5",
-      "description": "KORU ETF Heads For Worst Monthly Decline: South Korea’s Chip Rout Deepens For Second Day After SK Hynix Earnings Miss Stocktwits"
-    },
-    {
       "published": "2026-10-04T01:46:52+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -31324,13 +31306,13 @@
       "description": "AI deal frenzy powers Hong Kong fundraising to record summer chinadailyasia.com"
     },
     {
-      "published": "2026-10-04T00:24:56+00:00",
+      "published": "2026-10-04T01:46:19+00:00",
       "score": 1.0,
-      "themes": "['macro / flows']",
-      "source": "The Edge Malaysia",
-      "title": "Wall Street dips as surging Treasury yields outweigh software gains - The Edge Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9TU2hDbFpJUTNfNTZnOEtKNGpFVEppc05XNFNCNl8tMzIzNk9QZno1LUVOLXRfTllTR3F6VWxsVzZQbWJZWnhVQjFsLTRheFF3?oc=5",
-      "description": "Wall Street dips as surging Treasury yields outweigh software gains The Edge Malaysia"
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "Invesco India Arbitrage Fund(G)-Direct Plan - Univest",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81MGpNNlFaUUMyQktEdEdCemZsVFdfOG9pTHZ4c1VyRGQ4UjNsSjZfTEF6bG9NX0dSQ3JpbllSN0hyX3pwcEpmV2hNZ09fU0xvMFlYZm1hZ3VuVF9Ma0JXV2JTcW5CMXIyX2lxWjNMZHl0cnZfYlBQZDlEeWlkV3M?oc=5",
+      "description": "Invesco India Arbitrage Fund(G)-Direct Plan Univest"
     },
     {
       "published": "2026-10-04T00:13:34+00:00",
@@ -31565,15 +31547,6 @@
       "title": "FPI investments driven by net returns; working to simplify access: SEBI chief Tuhin Kanta Pandey - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMkx2Q2RGUjVCVFpiekFJTEE0ZlNldklObk5yblRvc2I4czBZU2tKejVXS2F3M2ZaZUtfdkJ0a3VCRmdvNUNpSHU1Ui03YkFlVF92Qm9Wc2RnY3V1NzdTLXJBcUYyTkRhU1RvR1NsQ0hzeDRCU3VxNHh0YlBtWjAtaXBMS0U3NUNxTGJQU3Vyd3JJbTNWSW1md3hDa25BMWtlWG5Zb2dHTFlZekRRVDNYQ0ZsSXFoV3p1LUotRklXSkNDVVk1amRwSy1reVoxN1haZ1BWSi1Dd1RxV3dwVlRzNktTdEtZODcyOE54a25SSzHSAfYBQVVfeXFMTzhqS1J5SEpkSFZlRU9xQzBSTFFQei1BcWRnMVc5Z2dzQVdhZ3dFTFA3M19NZ3Q5cFF6dkVNVTFyNDFXejN3SFh6dktLcHZxbGIxWkVoNkJqY0t6dXVfNV9jc0RCRXcxM2R5UXRya2ZZTDZ2bjFnRWFMcWtXV3M2YTJxWFBhdTZZZ3Q3RTUtemUtR3NQZWNLX01menhfUS1pcDZRX0JVTmpPQ2hPdUxRRVJVaGlYOU1DZ0F5M3p1clBYWW5YZkIzY1NHLW5GdlgwQnJILTlEMTA5Y3pZNGR4NU94SXNYU1pDcHl3bEFvcGJPRmN4SFRR?oc=5",
       "description": "FPI investments driven by net returns; working to simplify access: SEBI chief Tuhin Kanta Pandey Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-03T07:30:01+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Eurasia Review",
-      "title": "If AI Is Crashing, The Story Should Be Jail In, Not Bail Out – OpEd - Eurasia Review",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdjRYYmNrRTRieTZwZGg0ZzA1MDY2Q3dFSWt2UDR1eTFleG5TOHRMRm1vejFyTHFQRnpYRkpqTUplQy1UcEpqSEFWQXNaamVremhLOEFFQ2czVldRVjdyaG9BWFFMVHUzR2t2Wk56anctYi1sczM4RE1UM1BiejdCNm1nNTU4dThJR1VkYkRwNjh3SVlXQUU0a0JKS05YSzlGeFhjU2ZR?oc=5",
-      "description": "If AI Is Crashing, The Story Should Be Jail In, Not Bail Out – OpEd Eurasia Review"
     },
     {
       "published": "2026-10-03T06:51:03+00:00",
