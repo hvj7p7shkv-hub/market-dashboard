@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-07 08:07
+Generated: 2026-10-07 08:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -46,17 +46,7 @@ Tokyo stocks fall on AI, chip losses as gains locked in after recent rally 毎�
 
 Markets Fall: Sensex Drops 460 Pts Amid Oil Spike, RBI Policy Rediff MoneyWiz
 
-### 5. Sensex falls over 500 points, Nifty drops below 22,600 as RBI hikes rate by 25 bps. What lies ahead? - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-07T04:00:14+00:00
-- Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxORVE0SmZ5V2Utbm5DTDViQWIwLVNFRk8xOTN3X3JIYjVBRWVFcWVSTE1faXNSZGFNUE1yeHhqLWxpRFlMSndzdUNxY1pxVjhrMWZXbW1MSElUam9IbWNyTjlBd0lvSFJ2N1VJM29FVUtXWDVHeXN6N3JBZXA2N29DTEZRRndEVDByc1JjN241TlA1X0tBenU1TU9lc25BbXJab3V2bDk2T3VKQVRkTHBvdkVQcU9tRlowbzdZbFBBajJGeE5hcEVLSlljbnFPSGJaQ1FPZ3daeE5neVNIRnJTQlB1ak5nczhxekR3UDQwTkRVR2g0dDF0RVVJX01CQdIBgwJBVV95cUxOOEFBTkhlOHZPYTdDUW41djA0RlBDQTZNZTRmb2MzbkJvdk5ETzBCR1FyOTAwdnF2Y1J2YXM2WWFlekVHTGVJQlJwVmdhUmV6ejdGNTdnR2lJYnMyLW9LeDh2SGVhTlNiQ2pfWUtHT2Rfc3A0N2Y1ZVpmUnc3eW5Cdm13TWlocld5VUFEMUpIQUYwTjdPQlFPQnhBUnNJcnRkNmpKVE9HOXNjRC1NejNLS3A2eV9uak5rb2duNXFJWUc2YkF2WWwzb3JrcnU1MUdiQktFRk9HazFGTDBfX2dQWmFwNC0yUzRKOTdpN3ZZRWsxa201NTBGU3RDbXNoOUpWV2dz?oc=5
-
-Sensex falls over 500 points, Nifty drops below 22,600 as RBI hikes rate by 25 bps. What lies ahead? The Economic Times
-
-### 6. Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? - India Today
+### 5. Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? - India Today
 
 - Source: India Today
 - Published: 2026-10-07T03:04:32+00:00
@@ -66,7 +56,7 @@ Sensex falls over 500 points, Nifty drops below 22,600 as RBI hikes rate by 25 b
 
 Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? India Today
 
-### 7. Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff - Stocktwits
+### 6. Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-07T01:43:51+00:00
@@ -76,7 +66,7 @@ Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? In
 
 Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks Selloff Stocktwits
 
-### 8. Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls - NewsBytes
+### 7. Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-06T12:50:32+00:00
@@ -86,10 +76,20 @@ Nvidia's Reported $5B SSI Investment Fails To Lift NVDA Stock Amid Chip Stocks S
 
 Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls NewsBytes
 
+### 8. Sensex falls over 500 pts, Nifty below 22,600 after RBI rate hike. What lies ahead? - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-07T08:05:28+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxORVE0SmZ5V2Utbm5DTDViQWIwLVNFRk8xOTN3X3JIYjVBRWVFcWVSTE1faXNSZGFNUE1yeHhqLWxpRFlMSndzdUNxY1pxVjhrMWZXbW1MSElUam9IbWNyTjlBd0lvSFJ2N1VJM29FVUtXWDVHeXN6N3JBZXA2N29DTEZRRndEVDByc1JjN241TlA1X0tBenU1TU9lc25BbXJab3V2bDk2T3VKQVRkTHBvdkVQcU9tRlowbzdZbFBBajJGeE5hcEVLSlljbnFPSGJaQ1FPZ3daeE5neVNIRnJTQlB1ak5nczhxekR3UDQwTkRVR2g0dDF0RVVJX01CQdIBgwJBVV95cUxOOEFBTkhlOHZPYTdDUW41djA0RlBDQTZNZTRmb2MzbkJvdk5ETzBCR1FyOTAwdnF2Y1J2YXM2WWFlekVHTGVJQlJwVmdhUmV6ejdGNTdnR2lJYnMyLW9LeDh2SGVhTlNiQ2pfWUtHT2Rfc3A0N2Y1ZVpmUnc3eW5Cdm13TWlocld5VUFEMUpIQUYwTjdPQlFPQnhBUnNJcnRkNmpKVE9HOXNjRC1NejNLS3A2eV9uak5rb2duNXFJWUc2YkF2WWwzb3JrcnU1MUdiQktFRk9HazFGTDBfX2dQWmFwNC0yUzRKOTdpN3ZZRWsxa201NTBGU3RDbXNoOUpWV2dz?oc=5
+
+Sensex falls over 500 pts, Nifty below 22,600 after RBI rate hike. What lies ahead? The Economic Times
+
 ### 9. Small-cap stock under ₹50: IT share jumps 14% despite volatility in Sensex, Nifty 50 - Livemint
 
 - Source: Livemint
-- Published: 2026-10-07T07:53:57+00:00
+- Published: 2026-10-07T07:56:49+00:00
 - Themes: market selling, India market
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNaG5mTXd0SHZKa3hzM1hwMEMxTnNkZVJoLTd5MFZZcWM5Z1ZwbTZid2RTdE9uMWtVUllGa2tPYXNJMVUyR1Q3VVV3S0xwRWl4REdrWWhvZFBrVWF1NVh0TVM1UjRYQ0tTVFpVRVY0a29RTjI3U3RwV2dRakYtcU5QTlI0WTNvOW1FWUdVVkhWUTNnY3dCV2lhT20zUEI0NXphekphQk5JVGFnLUNVaWo0c2kycWs1NXFFdHlLN3FYYkU0SVVxbWRscG5NUUFERWhqMkhrbThNa0FwNFZEWXVJdWlSTDJyUlE1SXgxYVJkWTRSd0Ria0ZQcnYtSdIBgAJBVV95cUxQY2FyWXB1eGdpNV9sNVByV2c5ald5TDR3WGd0TzAyczRGTTBqYTJQYjZ1dVctaHZjUVNEVUk3d3VLVWRhcWJCT3ZNUzgxaW0zV1VzczFUNEN2bndneFRERV9WdmR4ck5sZ0w0TWFmSllaczJ4c1Zab01wOF8wQm52S3FyRkJWN0F0RWpjSUVRbDhlTF9TMG1Kc0syeWJ4aTBJWm1kd2VHZldITzNCblZwMG9hWmo4SEotbExheE1UY1VCMFVBaEczd0E0UjYzQmhfMTAzZFpJRmtUR3ZvNEQ0RTVLS3h0dk5JZkp4YktzRTg4Q3RvZl8yY2NXN0JHc1h4?oc=5
@@ -736,7 +736,17 @@ Odisha’s Similipal Tiger Reserve Now Has A Dedicated Cafe To Sip Coffee, Read 
 
 Top 5 Mid Cap Mutual Funds Delivering Up to 18.6% CAGR: Up to ₹11.01 Lakh in 10 Years - Should You Consider Them? Trade Brains
 
-### 74. Global Market: Hong Kong stocks fall as oil rises, tech and biotech shares drag - The Economic Times
+### 74. Rupee Fall: RBI Governor Sanjay Malhotra Says Markets Can Be ‘Irrational’ - Business Today
+
+- Source: Business Today
+- Published: 2026-10-07T08:06:42+00:00
+- Themes: market selling, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOSXhBSm5CV2ROc1lVYjR5cEkzeDlNc2JHeE9fUXppNm9haS1CNUFuVExuT2p2ajF4S3Z2cVBDdWdRMmFoQnNIemFyOGg4Q2tMYjFobUpORFJqdVJuOXlxOUh6N1lCRklESjFXUWlFeklCMmdaWjkwVlVPSURFcG03Nl9ydGV3cW9YWVhFSGFSeHE2c1BVNGpMdUlna25JcGJucklyQnU1NXFPZFVWb2lVbXByUkRBWEJDdzZKWXN6bUJCUnA4Wk0wT2EyaGd6UkVU?oc=5
+
+Rupee Fall: RBI Governor Sanjay Malhotra Says Markets Can Be ‘Irrational’ Business Today
+
+### 75. Global Market: Hong Kong stocks fall as oil rises, tech and biotech shares drag - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-07T05:49:02+00:00
@@ -746,7 +756,7 @@ Top 5 Mid Cap Mutual Funds Delivering Up to 18.6% CAGR: Up to ₹11.01 Lakh in 1
 
 Global Market: Hong Kong stocks fall as oil rises, tech and biotech shares drag The Economic Times
 
-### 75. JM Financial AMC's Deepak Gupta sees export sectors leading as FII flows could improve over next 2-4 quarters - CNBC TV18
+### 76. JM Financial AMC's Deepak Gupta sees export sectors leading as FII flows could improve over next 2-4 quarters - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-07T05:32:21+00:00
@@ -756,7 +766,7 @@ Global Market: Hong Kong stocks fall as oil rises, tech and biotech shares drag 
 
 JM Financial AMC's Deepak Gupta sees export sectors leading as FII flows could improve over next 2-4 quarters CNBC TV18
 
-### 76. Metal sector stocks today, October 7: NALCO declines 3.34%, Hindalco falls 2.16%, Jindal Steel down 1.92% - Business Upturn
+### 77. Metal sector stocks today, October 7: NALCO declines 3.34%, Hindalco falls 2.16%, Jindal Steel down 1.92% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-07T05:27:08+00:00
@@ -766,7 +776,7 @@ JM Financial AMC's Deepak Gupta sees export sectors leading as FII flows could i
 
 Metal sector stocks today, October 7: NALCO declines 3.34%, Hindalco falls 2.16%, Jindal Steel down 1.92% Business Upturn
 
-### 77. Auto sector stocks today, October 7: Ashok Leyland falls 2.66%, Bajaj Auto down 2.64%, Hyundai Motor declines 2.01% - Business Upturn
+### 78. Auto sector stocks today, October 7: Ashok Leyland falls 2.66%, Bajaj Auto down 2.64%, Hyundai Motor declines 2.01% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-07T05:17:08+00:00
@@ -776,7 +786,7 @@ Metal sector stocks today, October 7: NALCO declines 3.34%, Hindalco falls 2.16%
 
 Auto sector stocks today, October 7: Ashok Leyland falls 2.66%, Bajaj Auto down 2.64%, Hyundai Motor declines 2.01% Business Upturn
 
-### 78. Stock Market Update: Sensex rebounds over 450 points from day's low, Nifty recovers 120 points after RBI rate hike - Zee Business
+### 79. Stock Market Update: Sensex rebounds over 450 points from day's low, Nifty recovers 120 points after RBI rate hike - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-07T05:15:00+00:00
@@ -786,22 +796,12 @@ Auto sector stocks today, October 7: Ashok Leyland falls 2.66%, Bajaj Auto down 
 
 Stock Market Update: Sensex rebounds over 450 points from day's low, Nifty recovers 120 points after RBI rate hike Zee Business
 
-### 79. Nifty, Sensex open lower as markets await RBI MPC decision today - Mathrubhumi English
+### 80. Intel stock falls 3% in premarket amid broader market selloff - scanx.trade
 
-- Source: Mathrubhumi English
-- Published: 2026-10-07T04:20:44+00:00
-- Themes: India market
+- Source: scanx.trade
+- Published: 2026-10-07T04:26:22+00:00
+- Themes: market selling
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQc2hVaEM2SDZ1bW9qTmM4U044RUFkbzdKZ3JzOVdNOVlzMEpDOGpsbzl2Mk55Um5xNmY0aFdxVnB2MFJLdlBIeVNKVExPaGx3a09zRDB2a2tyVWNTb2dSZzNJQTNIN3liNUNTcmFGUnlLdnBZUXNCcWZ0anV4OXFkUlNYZlZHLXotSTZ4ZnVjXzFHbFZxN1BjNS1WU1BfQdIBowFBVV95cUxPbWJCWlU2cHdscGFVNHNiOGVaNVI0WDRkQ3F2cFVVWWRhay1SVm5hc0YxSUF1OHlfemlNUHZOcmJwTnYzcjVjTERNQzBZTzF1YWk1RWFManJ3THkxWDMzY0hLdU9KUVo2WFAwOUVIYS1TdHVXb2FXVHRjZDVYVl9HRFFTZFZGdmQ5TlVEYkEyeDNXVlZiMXI1RTctS1lmUkhGWWYw?oc=5
+- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNX19PRENFdlItaUlkTUUxS2RfNWJoeXlvdWNCSWtlOXpWMGl5aFp6dUhFd3FsYU1ONHJvcUQ4TmU4ZVp1SGwwZVJla2c3Vkp3YzQtUmR1OWxyRkpVVlpQaU0wRmZkcHptZUp6R1lJaFhyajVyYkRQeVRCY1JwMUg5VmRmczF1dUtCRFQ1ZHBFTmtzNWYzMmsxRHpKeUxQV3VfZXdIa3JkbGRBMGhPeGNqeTZSWWw?oc=5
 
-Nifty, Sensex open lower as markets await RBI MPC decision today Mathrubhumi English
-
-### 80. Sensex, Nifty Open Lower, Snap Two-Session Winning Run Ahead Of RBI Policy Decision - Outlook Money
-
-- Source: Outlook Money
-- Published: 2026-10-07T04:16:08+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxNS3o5cFM5bWVMWldVUkVDOUx1Z3I2ejJTMkZfVm9FWHkzX25MRFZ0d0pqLVUyLTMxa0NnOHVzU3dMM3llSk1GZTZKSWhYTUlfdjN6M1c4MVdoVEdtNDN1ZUxsZW03Skw2Z25vN29oRGYweHFuQ05GbHJ1WmptYVNkdFhDdDNvVlVxbXE5c3NkeS3SAZ4BQVVfeXFMTzZIZ295aG9GSTAxNHBFZ1pZZkZza3M4SzQ5X2NBMzBIUWZyeG9OMjA2N2JOOWctUWNFUy1uTlFDclotcjNrMEprOGtOOGtvbzJBazY0Vzh0MzJFdjhxSThzNlc0bnhPV1p3bWFVR0IzMXpCM0JfN1FPLTF4Ri1rTXQ2MHFhc1B3d1BuRkVjWnV0UVo0cU1xNEtSSTlfZXc?oc=5
-
-Sensex, Nifty Open Lower, Snap Two-Session Winning Run Ahead Of RBI Policy Decision Outlook Money
+Intel stock falls 3% in premarket amid broader market selloff scanx.trade
