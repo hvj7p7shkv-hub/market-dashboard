@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-07 03:37
+Generated: 2026-10-07 04:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,7 +16,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Rupee falls to 96.39 against dollar as oil rises, FII outflows continue The Times of India
 
-### 2. Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? - India Today
+### 2. 6 October, 2026 Stock Market Updates: Sensex, Nifty fall ahead of RBI MPC outcome, Titan drops 3% - India TV News
+
+- Source: India TV News
+- Published: 2026-10-07T03:52:09+00:00
+- Themes: market selling, India market
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxOSkdvMmhHS0cza01jelM5dGRmcUh5cWVwMWZ3OVJkUGlLVmVoaUhjQnBfY2dweFREOHd3RzV4TGJQYzI1X1l5ZzJZZ1hVcERzckd0REdkSXh1V2N4ZE5TQUQ5NHZ1TTh6dU1La2VGNjFCTG5fWGJBSkNNX0VOUXgtUkdoQmlmM2NkektqaU45UU40X1JCdU91NjQzdHNEZnYtOHJsRmpEQ2stSWhKbnpDR08yWXpJbmdjbHpDN1JvcVdqTzY2T3FHcW5CdjF0bjF6OHNleERmMnFoeFhKblFldzlxcnJWNjVqT1dzbjFUeHF4aVlWZjZ6ellEVXQ4cUtYS2l2TzM1WdIBjAJBVV95cUxNUXpOUktpNzV0M00tanUySzdnYThncGt4X0dwNG9VNjRsZ1lLUGQyemNXby1kU2ZOQldIajZ5dEo4SjVOOGFEV2k5NnpZZVFtUHNwdWZjamhibFEwZDgxeUhzaE1peHFzV0owRDFWQzk3MTRXU2hzQnZUUHNnQzhuaks4UUYzdzFMSGZ4Wk9GU1RDbG13OFVMeWZhU0c2dkNQM2V2SHZDbXl6M0RSbVMzVTRvdURia1FNTHhuLU9QTDJTd0pnU1hCclk5SXZHekx2eDVEWlhnbW1pYUE0SHUwVjFZc3hNeE41eEdrczRwN3FrRlBDMDBMYXpEeVdYQ1RSekwyTUFRNDFoUHVM?oc=5
+
+6 October, 2026 Stock Market Updates: Sensex, Nifty fall ahead of RBI MPC outcome, Titan drops 3% India TV News
+
+### 3. Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? - India Today
 
 - Source: India Today
 - Published: 2026-10-07T03:04:32+00:00
@@ -26,7 +36,7 @@ Rupee falls to 96.39 against dollar as oil rises, FII outflows continue The Time
 
 Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? India Today
 
-### 3. Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls - NewsBytes
+### 4. Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-06T12:50:32+00:00
@@ -36,7 +46,7 @@ Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? In
 
 Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls NewsBytes
 
-### 4. Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK, RIVN, WMT Are In Focus - Stocktwits
+### 5. Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK, RIVN, WMT Are In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-06T07:33:20+00:00
@@ -46,7 +56,47 @@ Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls NewsBytes
 
 Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK, RIVN, WMT Are In Focus Stocktwits
 
-### 5. GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI policy; Asian markets decline - Moneycontrol.com
+### 6. Sensex falls over 450 points, Nifty below 22,650 ahead of RBI’s expected rate hike. What lies ahead? - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-07T04:00:00+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxOOEFBTkhlOHZPYTdDUW41djA0RlBDQTZNZTRmb2MzbkJvdk5ETzBCR1FyOTAwdnF2Y1J2YXM2WWFlekVHTGVJQlJwVmdhUmV6ejdGNTdnR2lJYnMyLW9LeDh2SGVhTlNiQ2pfWUtHT2Rfc3A0N2Y1ZVpmUnc3eW5Cdm13TWlocld5VUFEMUpIQUYwTjdPQlFPQnhBUnNJcnRkNmpKVE9HOXNjRC1NejNLS3A2eV9uak5rb2duNXFJWUc2YkF2WWwzb3JrcnU1MUdiQktFRk9HazFGTDBfX2dQWmFwNC0yUzRKOTdpN3ZZRWsxa201NTBGU3RDbXNoOUpWV2dz0gGDAkFVX3lxTE44QUFOSGU4dk9hN0NRbjV2MDRGUENBNk1lNGZvYzNuQm92TkRPMEJHUXI5MDB2cXZjUnZhczZZYWV6RUdMZUlCUnBWZ2FSZXp6N0Y1N2dHaUliczItb0t4OHZIZWFOU2JDal9ZS0dPZF9zcDQ3ZjVlWmZSdzd5bkJ2bXdNaWhyV3lVQUQxSkhBRjBON09CUU9CeEFSc0lydGQ2akpUT0c5c2NELU16M0tLcDZ5X25qTmtvZ241cUlZRzZiQXZZbDNvcmtydTUxR2JCS0VGT0drMUZMMF9fZ1BaYXA0LTJTNEo5N2k3dllFazFrbTU1MEZTdENtc2g5SlZXZ3M?oc=5
+
+Sensex falls over 450 points, Nifty below 22,650 ahead of RBI’s expected rate hike. What lies ahead? The Economic Times
+
+### 7. Market Today: Sensex Falls 447 Points, Nifty Opens Below 22,650 Ahead Of RBI Policy; Auto, Consumer Stocks - News18
+
+- Source: News18
+- Published: 2026-10-07T03:55:13+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcngxUXRxV1BCZnZfX3hmU0pIYko1WHcyUGFkeVhKdG1leXFDY2c2THVnazVtVndZR1NIaFZxam41X29KRVByVnZtVE05NE9BSjR4dlNVd3Y3R3BTZDhwb2RJOWEzRWdLXy1iN3BxYlhrcEM4M1NTSFI3NWs5b3FjUURkUU5YSzBpVndISW1EaE5xbm9mM0gyU0p2VGtfYWFBSHozcVV0cjl5SUxJTjM0R2NRS3pGZnU5cmZJZjVRYW0wMEItLTJSNElQWGhLUjFmbnAycHdxOXJadXlRMklNQ3YtVUYzS3d0MG91RU5iMHo2NmlyazNGVEFSN0kxd9IB_gFBVV95cUxNcngxUXRxV1BCZnZfX3hmU0pIYko1WHcyUGFkeVhKdG1leXFDY2c2THVnazVtVndZR1NIaFZxam41X29KRVByVnZtVE05NE9BSjR4dlNVd3Y3R3BTZDhwb2RJOWEzRWdLXy1iN3BxYlhrcEM4M1NTSFI3NWs5b3FjUURkUU5YSzBpVndISW1EaE5xbm9mM0gyU0p2VGtfYWFBSHozcVV0cjl5SUxJTjM0R2NRS3pGZnU5cmZJZjVRYW0wMEItLTJSNElQWGhLUjFmbnAycHdxOXJadXlRMklNQ3YtVUYzS3d0MG91RU5iMHo2NmlyazNGVEFSN0kxdw?oc=5
+
+Market Today: Sensex Falls 447 Points, Nifty Opens Below 22,650 Ahead Of RBI Policy; Auto, Consumer Stocks News18
+
+### 8. Sensex, Nifty today: Markets open lower ahead of RBI policy; Sensex falls 446 points, Nifty slips 161 | Business News - Hindustan Times
+
+- Source: Hindustan Times
+- Published: 2026-10-07T03:49:45+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxPdFdwVDJnTmJTOVZVN2tsdDlkMXdYZGh5Y1cwWlpjWHh5MDV1QVdVam9Cc0dHTFFfMDEzUlN4NV9mWExqRGVScUtqRjdXNHRxSVMyLXRVeTFEd3A0WWNxXzlHemh0ZXVRN1lYYkZtb1FUOWNVWkR0ZDVzVWJqWHpDSzZCVUVfOTBWbzRQVk5ORi0wTnBldTdfMS1iekdTczg5WXVRR1ZKek9MNjFMM3JCY2ZxOVRkX0xsVzd1c1Mza0ZfdzRudHRGNVFxX1FrZE1NLVVPVGZPdi0yZzQ4TjBINS1JTENtaDVxZWJNNjQtWdIB9AFBVV95cUxQOUx6SXhTb0t4MkVhajJxcmxOTUkxdjdXTTgtLW5KOUNmRHFMSDJfTlFia1ktYU41Uy14dmhZME5JLXRxSm5NeGpMb0N5UkZWTkg4X2drLUNXUl9acy1pNEtyeWhVcnZVVjBjZFZ2dEZxdXBOOGZIMG1ucS15UVpSSHpFczBYSFljYmcxQzBnbFphRzJZR2tlUUFZTjQwTEdWYW1Yc3FfX0RPcEpYUkF4b2FvTUxuYmY5UDR2SG0wOWJDeUQ3dmNxZkEweDIzSHM4MjcwZm9RUGNuNXZkNERGcDg1TXg0WkVLTklZekJYUUxjVHpq?oc=5
+
+Sensex, Nifty today: Markets open lower ahead of RBI policy; Sensex falls 446 points, Nifty slips 161 | Business News Hindustan Times
+
+### 9. Stock Market Today: Sensex falls 100 points; Nifty slips below 22,700 ahead of RBI Policy decision - Zee Business
+
+- Source: Zee Business
+- Published: 2026-10-07T03:49:03+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWjNYZndxSU9PN2IxVkY4X0drWjI1bDJMblBnMFFOM3NWclNyRlFMNWx5ejVaQV9xTnRZSTNOR0RqRjJIR2NoZ0NTdTYtdTBnYUI0QkRPNEFIOEc1NVJydTdPc3RpeHRVc3IyUkdYUkc0X0k4R3dCckRmalE2VXpFZ1hFOF9GLXdiQmxnYVlpUXpoQlN1X2MyalNrZjBKLWFlcGJSc3NMc1J6RTBIclZoVFpFQmdMSENsWTRCamdRZmtLQVBJQjhiWjNXU0FLV055V1d1aU1JWXZxQQ?oc=5
+
+Stock Market Today: Sensex falls 100 points; Nifty slips below 22,700 ahead of RBI Policy decision Zee Business
+
+### 10. GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI policy; Asian markets decline - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-07T02:46:19+00:00
@@ -56,7 +106,7 @@ Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK,
 
 GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI policy; Asian markets decline Moneycontrol.com
 
-### 6. Global Market: BOJ's Uchida warns AI boom could trigger market correction - The Economic Times
+### 11. Global Market: BOJ's Uchida warns AI boom could trigger market correction - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-07T02:14:52+00:00
@@ -66,7 +116,7 @@ GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI poli
 
 Global Market: BOJ's Uchida warns AI boom could trigger market correction The Economic Times
 
-### 7. RBA warns an AI stock correction could hit Australian household spending - Crypto Briefing
+### 12. RBA warns an AI stock correction could hit Australian household spending - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-10-07T00:03:41+00:00
@@ -76,7 +126,7 @@ Global Market: BOJ's Uchida warns AI boom could trigger market correction The Ec
 
 RBA warns an AI stock correction could hit Australian household spending Crypto Briefing
 
-### 8. Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival - Stocktwits
+### 13. Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-06T22:15:50+00:00
@@ -86,7 +136,7 @@ RBA warns an AI stock correction could hit Australian household spending Crypto 
 
 Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival Stocktwits
 
-### 9. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
+### 14. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-06T18:44:28+00:00
@@ -96,7 +146,7 @@ Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival S
 
 Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today Goodreturns
 
-### 10. Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo Coalition - ProVideo Coalition
+### 15. Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo Coalition - ProVideo Coalition
 
 - Source: ProVideo Coalition
 - Published: 2026-10-06T15:12:09+00:00
@@ -106,7 +156,7 @@ Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market 
 
 Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo Coalition ProVideo Coalition
 
-### 11. General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell-Off Deepens - MarketsMojo
+### 16. General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell-Off Deepens - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-10-06T09:25:38+00:00
@@ -116,7 +166,7 @@ Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo
 
 General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell-Off Deepens MarketsMojo
 
-### 12. SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is the Correction Deepening? - kalkine.ca
+### 17. SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is the Correction Deepening? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-10-06T09:22:00+00:00
@@ -126,7 +176,7 @@ General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell
 
 SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is the Correction Deepening? kalkine.ca
 
-### 13. Nifty gains on Brent crude pullback, but analysts warn of continued volatility - Rediff
+### 18. Nifty gains on Brent crude pullback, but analysts warn of continued volatility - Rediff
 
 - Source: Rediff
 - Published: 2026-10-06T08:57:31+00:00
@@ -136,7 +186,7 @@ SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is t
 
 Nifty gains on Brent crude pullback, but analysts warn of continued volatility Rediff
 
-### 14. Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years - Goodreturns
+### 19. Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-06T06:22:18+00:00
@@ -146,7 +196,17 @@ Nifty gains on Brent crude pullback, but analysts warn of continued volatility R
 
 Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years Goodreturns
 
-### 15. Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%, Coal India falls 3%; check list - Upstox
+### 20. Why is stock market down today? Sensex crashes 500 points - Top 3 factors behind market selloff explained - Livemint
+
+- Source: Livemint
+- Published: 2026-10-07T03:58:10+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxQcTVBbXFKdXd0b3pQV3dfcmZfZUpnamxSbHpNaEtXTVplR1lMb0FVUlhQOEU4V2p0TW1NTXFmVUExY1c4WThlTzlkVVNXa3lkVTBwTzNseFh2UkM0dzVIS0R2aTBUWmYzZHRhYnoxbS02Ym96UWFqdWpmaGVWbDFyekJ3dzhIRTFCNE5GRGRIUzRwVEdkdERDbVlFMWFvYm1PSkFVTU81RnhaN01XVEpQQ0ZlRFJvVzY4ajZza2Z0TE1qWlpCZTZ2d3RZT0Rha19FYWFESWNfVXNra2lDOEhoQWxBTGNrRUhGQVYxd2xRX0hqMk1uSzRpWGU0TXRrZGl0U1HSAYcCQVVfeXFMTWYxSFBpcEhQVVlUcmtuNDR1LUZ2Q3RDeG5ycUlYbTd1d21wYW5jLXZZenJBc0FEbFA5dE9zSUpQLVJ0M0k0NUd0N1BKdlI5YTJXeWp0Vi0ySWpwNkwtNzdNd014UTBRNVY5ZXdxdG1xSjhmaFVDNURFb0h3NElZalBlZ3ktLWxBTmF3NVlwWGtyalNqeGE1R3FjVGw4QzlUMDlpcWwwYUVrZUY4SDhsUFRaV1p2MzhjbjdjVkZ2WG5pa3B5MnBTWktHVHZaNDZ3OGdSTDg0UmJwcXFzaHdaa2w4OFVTT3RKRHZuUkZLUU00bWNGTE1zUzJKUzNGd3FuTDhOMXBlSlk?oc=5
+
+Why is stock market down today? Sensex crashes 500 points - Top 3 factors behind market selloff explained Livemint
+
+### 21. Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%, Coal India falls 3%; check list - Upstox
 
 - Source: Upstox
 - Published: 2026-10-06T10:53:22+00:00
@@ -156,7 +216,7 @@ Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs E
 
 Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%, Coal India falls 3%; check list Upstox
 
-### 16. Dividend Yield Funds After Nifty Fall: Is This the Best Entry Point? - Business Today
+### 22. Dividend Yield Funds After Nifty Fall: Is This the Best Entry Point? - Business Today
 
 - Source: Business Today
 - Published: 2026-10-06T09:42:26+00:00
@@ -166,17 +226,7 @@ Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%
 
 Dividend Yield Funds After Nifty Fall: Is This the Best Entry Point? Business Today
 
-### 17. India's long market correction could be setting up for reversal - TradingView
-
-- Source: TradingView
-- Published: 2026-10-06T04:04:26+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxNNU5xbktjUVIwUHZTWVFEVDk0NmN5NlpQMmRpOUFkd0VUT3dERXZTb0RLMjhsblJ6c0xhZmdpeEF1MFBUOTdhNDFXbjFxMnAyTHlsYWRGUG9jVXJUVEFpamlaS0RUNVVBTENrVVk2clZZb2twR21aUjFhWXlpRWFnTDJUbkxLdnozWVcyQlNpc19WbEtEb2E1ejQtQjNsT0tNa1AzbjkwbVdvdnJwdkV5WXgwNTRUZHdSbzFRRG51R3NnMW9B?oc=5
-
-India's long market correction could be setting up for reversal TradingView
-
-### 18. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
+### 23. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T16:02:21+00:00
@@ -186,7 +236,17 @@ India's long market correction could be setting up for reversal TradingView
 
 AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap The Economic Times
 
-### 19. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
+### 24. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-06T11:42:42+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxOQ2taVVlILW8yX2QyQncybnoxWjFGUkRBVThrUFZqRlh3V0N4X3pfWmJ4czg2dTROUlE5WWtjNERpOHgzVnpKOGpLbUY1U2FkZVNCWGtrREozMFROdjRnbUlNWXF6SGptM3Z3Ujh0OG1qNG5mazJIVnNsYVgyYVVUbHhSYVg5MWlfWFJtVWFJYlR0V3ZHWVlqV2FyemlyRTNCMTZyY2lySDVDMDgyekM2VGh3eVZRTnV0SU9mRDYydkpNaXRUNWZKMHNraWtjc2pNVkllM1czNENac2VVZVQzYzZZOUNBcDY5SFJ2VHNTTlNkYWNHa1l1UHNxMDAxZXpYX0oxTG5uX1dhLVFwcXV6TFlZSlhpZw?oc=5
+
+AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap The Economic Times
+
+### 25. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T10:08:30+00:00
@@ -196,7 +256,17 @@ AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may g
 
 AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap The Economic Times
 
-### 20. ₹10,000 SIP to ₹46 lakh in October 2026: Which mutual fund scheme created the most wealth for investors over 10 years? - Livemint
+### 26. Mutual funds log 5% AUM growth in Q2 despite equity market volatility - Cafemutual
+
+- Source: Cafemutual
+- Published: 2026-10-07T02:43:37+00:00
+- Themes: market selling
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOekN0S09MN1NzS3dDbGRPUTJ1UnNPSnBkWWxuRGVscnozSjhMVl9ncGRzQmxqUW1ROEdrNVhNNW9FeU1RX2tabk1uckMwMHd0X3E2WVpDbzJYUmdZbjZ1V0tlal9ycDFqaGhIMTBYUTRneVMzQXotWnJ2TDBteWlPOWRWdFZqeFBidWtBRHloNnRuR0NRTThVaWRKdGRhRUxPaU8zUnpGLUJ6UEhQbEtHZkJvMA?oc=5
+
+Mutual funds log 5% AUM growth in Q2 despite equity market volatility Cafemutual
+
+### 27. ₹10,000 SIP to ₹46 lakh in October 2026: Which mutual fund scheme created the most wealth for investors over 10 years? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-06T19:43:16+00:00
@@ -206,7 +276,7 @@ AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may g
 
 ₹10,000 SIP to ₹46 lakh in October 2026: Which mutual fund scheme created the most wealth for investors over 10 years? Livemint
 
-### 21. Highest Return Mutual Funds in the Last 1 Year in India - Value Research
+### 28. Highest Return Mutual Funds in the Last 1 Year in India - Value Research
 
 - Source: Value Research
 - Published: 2026-10-06T18:57:29+00:00
@@ -216,7 +286,7 @@ AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may g
 
 Highest Return Mutual Funds in the Last 1 Year in India Value Research
 
-### 22. Mutual funds log 5% AUM growth in Q2 despite equity market volatility - Business Standard
+### 29. Mutual funds log 5% AUM growth in Q2 despite equity market volatility - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-06T14:26:15+00:00
@@ -226,7 +296,7 @@ Highest Return Mutual Funds in the Last 1 Year in India Value Research
 
 Mutual funds log 5% AUM growth in Q2 despite equity market volatility Business Standard
 
-### 23. Aggressive hybrid mutual funds - Planning your mutual fund investments in October? Here are 10 top picks to consider - The Economic Times
+### 30. Aggressive hybrid mutual funds - Planning your mutual fund investments in October? Here are 10 top picks to consider - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T14:17:34+00:00
@@ -236,7 +306,7 @@ Mutual funds log 5% AUM growth in Q2 despite equity market volatility Business S
 
 Aggressive hybrid mutual funds - Planning your mutual fund investments in October? Here are 10 top picks to consider The Economic Times
 
-### 24. Top Mutual Funds Built to Capture India’s Next Big Growth Trends - Analytics Insight
+### 31. Top Mutual Funds Built to Capture India’s Next Big Growth Trends - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-10-06T13:55:00+00:00
@@ -246,7 +316,7 @@ Aggressive hybrid mutual funds - Planning your mutual fund investments in Octobe
 
 Top Mutual Funds Built to Capture India’s Next Big Growth Trends Analytics Insight
 
-### 25. Franklin India Small Cap Fund turns Rs 10,000 SIP to nearly Rs 2 crore in 20 years, crosses Rs 14,000 cror - The Economic Times
+### 32. Franklin India Small Cap Fund turns Rs 10,000 SIP to nearly Rs 2 crore in 20 years, crosses Rs 14,000 cror - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T11:53:22+00:00
@@ -256,7 +326,7 @@ Top Mutual Funds Built to Capture India’s Next Big Growth Trends Analytics Ins
 
 Franklin India Small Cap Fund turns Rs 10,000 SIP to nearly Rs 2 crore in 20 years, crosses Rs 14,000 cror The Economic Times
 
-### 26. SIPs Stay Strong Despite Market Correction, Why Investors Are Increasing Their Monthly Investments - Business Today
+### 33. SIPs Stay Strong Despite Market Correction, Why Investors Are Increasing Their Monthly Investments - Business Today
 
 - Source: Business Today
 - Published: 2026-10-06T11:04:31+00:00
@@ -266,7 +336,7 @@ Franklin India Small Cap Fund turns Rs 10,000 SIP to nearly Rs 2 crore in 20 yea
 
 SIPs Stay Strong Despite Market Correction, Why Investors Are Increasing Their Monthly Investments Business Today
 
-### 27. Highest Return Mutual Funds in India Over the Last 20 Years - Value Research
+### 34. Highest Return Mutual Funds in India Over the Last 20 Years - Value Research
 
 - Source: Value Research
 - Published: 2026-10-06T10:58:08+00:00
@@ -276,7 +346,7 @@ SIPs Stay Strong Despite Market Correction, Why Investors Are Increasing Their M
 
 Highest Return Mutual Funds in India Over the Last 20 Years Value Research
 
-### 28. Weak equity returns may test India's SIP momentum - TradingView
+### 35. Weak equity returns may test India's SIP momentum - TradingView
 
 - Source: TradingView
 - Published: 2026-10-06T09:51:02+00:00
@@ -286,7 +356,7 @@ Highest Return Mutual Funds in India Over the Last 20 Years Value Research
 
 Weak equity returns may test India's SIP momentum TradingView
 
-### 29. ₹10,000 monthly SIP in this mutual fund has grown to ₹81 lakh in 15 years - CNBC TV18
+### 36. ₹10,000 monthly SIP in this mutual fund has grown to ₹81 lakh in 15 years - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-06T09:31:02+00:00
@@ -296,7 +366,7 @@ Weak equity returns may test India's SIP momentum TradingView
 
 ₹10,000 monthly SIP in this mutual fund has grown to ₹81 lakh in 15 years CNBC TV18
 
-### 30. Weak equity returns may test India’s SIP momentum - Livemint
+### 37. Weak equity returns may test India’s SIP momentum - Livemint
 
 - Source: Livemint
 - Published: 2026-10-06T06:46:55+00:00
@@ -306,7 +376,7 @@ Weak equity returns may test India's SIP momentum TradingView
 
 Weak equity returns may test India’s SIP momentum Livemint
 
-### 31. PGI paranthas, Stu-C meals take Sebi, AMFI chiefs back to their PU days - The Times of India
+### 38. PGI paranthas, Stu-C meals take Sebi, AMFI chiefs back to their PU days - The Times of India
 
 - Source: The Times of India
 - Published: 2026-10-06T05:15:00+00:00
@@ -316,7 +386,7 @@ Weak equity returns may test India’s SIP momentum Livemint
 
 PGI paranthas, Stu-C meals take Sebi, AMFI chiefs back to their PU days The Times of India
 
-### 32. UBS-AMFI pact to take financial literacy beyond classrooms - The Times of India
+### 39. UBS-AMFI pact to take financial literacy beyond classrooms - The Times of India
 
 - Source: The Times of India
 - Published: 2026-10-06T05:13:00+00:00
@@ -326,7 +396,7 @@ PGI paranthas, Stu-C meals take Sebi, AMFI chiefs back to their PU days The Time
 
 UBS-AMFI pact to take financial literacy beyond classrooms The Times of India
 
-### 33. Move beyond SIPs: Expert explains how to diversify into fixed income and gold - India TV News
+### 40. Move beyond SIPs: Expert explains how to diversify into fixed income and gold - India TV News
 
 - Source: India TV News
 - Published: 2026-10-06T05:08:14+00:00
@@ -336,17 +406,7 @@ UBS-AMFI pact to take financial literacy beyond classrooms The Times of India
 
 Move beyond SIPs: Expert explains how to diversify into fixed income and gold India TV News
 
-### 34. Mutual Funds', FPI favourite Tata Group stock jumps 10% to hit upper circuit after Q2 business update - Livemint
-
-- Source: Livemint
-- Published: 2026-10-06T03:50:16+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxObkQyOUN6R3lnSVVfS0FON255LXE2OGMzTEZiVUZFMWVCRlRQVUhHSkR1ZUlCclBuOXhyNnc3ZWVxQWxPamRXaWtudXNyRXFIMmx0aXNqa2RXMFRCU09WVW4yM1VQUHg3ck1tVnFfSUp6VWlaSUF0VGFQWmtKWEllQjh2T2g0MkpiUzBvaHZaMzFBdGNjeEluaS1jeVNIT3c0Sl9lYUlXRU5JaTlEb1RvQjBkT2UxdGlGWEhEdlg4YlpwRkp4cFdobm4xUGpGdHRNSlMwNWVmU3VieFN6dWpZZFZpMmN5R2FnMUpnLWZZUHg4dktQbnRsYW91R3dreXFpbUHSAYICQVVfeXFMTm5EMjlDekd5Z0lVX0tBTjdueS1xNjhjM0xGYlVGRTFlQkZUUFVIR0pEdWVJQnJQbjl4cjZ3N2VlcUFsT2pkV2lrbnVzckVxSDJsdGlzamtkVzBUQlNPVlVuMjNVUFB4N3JNbVZxX0lKelVpWklBdFRhUFprSlhJZUI4dk9oNDJKYlMwb2h2WjMxQXRjY3hJbmktY3lTSE93NEpfZWFJV0VOSWk5RG9Ub0IwZE9lMXRpRlhIRHZYOGJacEZKeHBXaG5uMVBqRnR0TUpTMDVlZlN1YnhTenVqWWRWaTJjeUdhZzFKZy1mWVB4OHZLUG50bGFvdUd3a3lxaW1B?oc=5
-
-Mutual Funds', FPI favourite Tata Group stock jumps 10% to hit upper circuit after Q2 business update Livemint
-
-### 35. SIPs in the Red: Should you stop, stay or invest more? - The Economic Times
+### 41. SIPs in the Red: Should you stop, stay or invest more? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-07T00:22:59+00:00
@@ -356,7 +416,7 @@ Mutual Funds', FPI favourite Tata Group stock jumps 10% to hit upper circuit aft
 
 SIPs in the Red: Should you stop, stay or invest more? The Economic Times
 
-### 36. Nasdaq 100 Forecast: NDX falls as oil jumps and Treasury yields rise - StoneX
+### 42. Nasdaq 100 Forecast: NDX falls as oil jumps and Treasury yields rise - StoneX
 
 - Source: StoneX
 - Published: 2026-10-06T22:39:26+00:00
@@ -366,7 +426,7 @@ SIPs in the Red: Should you stop, stay or invest more? The Economic Times
 
 Nasdaq 100 Forecast: NDX falls as oil jumps and Treasury yields rise StoneX
 
-### 37. Mid-cap and small-cap mutual funds have outperformed: Why should investors favour large-caps at this stage? - Livemint
+### 43. Mid-cap and small-cap mutual funds have outperformed: Why should investors favour large-caps at this stage? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-06T17:26:52+00:00
@@ -376,7 +436,7 @@ Nasdaq 100 Forecast: NDX falls as oil jumps and Treasury yields rise StoneX
 
 Mid-cap and small-cap mutual funds have outperformed: Why should investors favour large-caps at this stage? Livemint
 
-### 38. Mid-cap and small-cap mutual funds have outperformed: Why should investors favour large-caps at this stage? - Livemint
+### 44. Mid-cap and small-cap mutual funds have outperformed: Why should investors favour large-caps at this stage? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-06T17:26:52+00:00
@@ -386,7 +446,7 @@ Mid-cap and small-cap mutual funds have outperformed: Why should investors favou
 
 Mid-cap and small-cap mutual funds have outperformed: Why should investors favour large-caps at this stage? Livemint
 
-### 39. How mutual funds play across market caps - BusinessLine
+### 45. How mutual funds play across market caps - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-10-06T16:54:19+00:00
@@ -396,7 +456,7 @@ Mid-cap and small-cap mutual funds have outperformed: Why should investors favou
 
 How mutual funds play across market caps BusinessLine
 
-### 40. Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision - INDIA New England News
+### 46. Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-06T15:39:55+00:00
@@ -406,7 +466,7 @@ How mutual funds play across market caps BusinessLine
 
 Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDIA New England News
 
-### 41. Best large and mid-cap mutual funds October 2026: Consistent performers across YTD, 3- and 5-year returns—and their beta - Livemint
+### 47. Best large and mid-cap mutual funds October 2026: Consistent performers across YTD, 3- and 5-year returns—and their beta - Livemint
 
 - Source: Livemint
 - Published: 2026-10-06T15:14:00+00:00
@@ -416,7 +476,7 @@ Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDI
 
 Best large and mid-cap mutual funds October 2026: Consistent performers across YTD, 3- and 5-year returns—and their beta Livemint
 
-### 42. Sensex jumps 685 points as crude slips below USD 100; Nifty tops 22,750 - PSU Watch
+### 48. Sensex jumps 685 points as crude slips below USD 100; Nifty tops 22,750 - PSU Watch
 
 - Source: PSU Watch
 - Published: 2026-10-06T12:47:17+00:00
@@ -426,7 +486,7 @@ Best large and mid-cap mutual funds October 2026: Consistent performers across Y
 
 Sensex jumps 685 points as crude slips below USD 100; Nifty tops 22,750 PSU Watch
 
-### 43. Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday - The Economic Times
+### 49. Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T11:58:00+00:00
@@ -436,7 +496,7 @@ Sensex jumps 685 points as crude slips below USD 100; Nifty tops 22,750 PSU Watc
 
 Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nifty and Sensex on Tuesday The Economic Times
 
-### 44. DFA Converts Cloned Mutual Funds into ETF Share Classes - Cryptonews.net
+### 50. DFA Converts Cloned Mutual Funds into ETF Share Classes - Cryptonews.net
 
 - Source: Cryptonews.net
 - Published: 2026-10-06T11:33:12+00:00
@@ -446,17 +506,7 @@ Market wrap: Trent, BSE, Coal India, Tech Mahindra top gainers and losers on Nif
 
 DFA Converts Cloned Mutual Funds into ETF Share Classes Cryptonews.net
 
-### 45. ai market data nifty bank nifty india vix anil singhvi analysis - Zee Business
-
-- Source: Zee Business
-- Published: 2026-10-06T10:03:00+00:00
-- Themes: AI / tech risk, India market
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZDZPMjVCVVlVTEYyZFRjQ0t4X3BLa2NRMEJSR1o4Q19MLWt6YkV6cjBpQUQ5M1ktMC1VVk1RS3dtZmpkRXg2eHdyRl92bmhNOHVpWUp3VHZMTDdLb3JuOEhUUTBaOTBCeW1tLW5TdmpkaTVqVjI2Zlg4SVVjTnVEWGduR3NOYVRNQmJjMURJY0NwWTQzbC01cXVXSTJ3TFNsRlV1d185ZzB3YWkwV1dpS2NkcGktdUhRWFI1RGRVT0M?oc=5
-
-ai market data nifty bank nifty india vix anil singhvi analysis Zee Business
-
-### 46. SIP Investments: Where Is The ₹30,000 Crore Monthly Flow Going? Mid & Small Caps Lead - Business Today
+### 51. SIP Investments: Where Is The ₹30,000 Crore Monthly Flow Going? Mid & Small Caps Lead - Business Today
 
 - Source: Business Today
 - Published: 2026-10-06T09:33:51+00:00
@@ -466,7 +516,7 @@ ai market data nifty bank nifty india vix anil singhvi analysis Zee Business
 
 SIP Investments: Where Is The ₹30,000 Crore Monthly Flow Going? Mid & Small Caps Lead Business Today
 
-### 47. Odisha’s Similipal Tiger Reserve Now Has A Dedicated Cafe To Sip Coffee, Read & Relax - Curly Tales
+### 52. Odisha’s Similipal Tiger Reserve Now Has A Dedicated Cafe To Sip Coffee, Read & Relax - Curly Tales
 
 - Source: Curly Tales
 - Published: 2026-10-06T08:47:37+00:00
@@ -476,7 +526,7 @@ SIP Investments: Where Is The ₹30,000 Crore Monthly Flow Going? Mid & Small Ca
 
 Odisha’s Similipal Tiger Reserve Now Has A Dedicated Cafe To Sip Coffee, Read & Relax Curly Tales
 
-### 48. Top 5 Mid Cap Mutual Funds Delivering Up to 18.6% CAGR: Up to ₹11.01 Lakh in 10 Years - Should You Consider Them? - Trade Brains
+### 53. Top 5 Mid Cap Mutual Funds Delivering Up to 18.6% CAGR: Up to ₹11.01 Lakh in 10 Years - Should You Consider Them? - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-10-06T08:46:08+00:00
@@ -486,7 +536,7 @@ Odisha’s Similipal Tiger Reserve Now Has A Dedicated Cafe To Sip Coffee, Read 
 
 Top 5 Mid Cap Mutual Funds Delivering Up to 18.6% CAGR: Up to ₹11.01 Lakh in 10 Years - Should You Consider Them? Trade Brains
 
-### 49. SEBI's Project Jagrook Goes to Campus: AMFI, Panjab University Launch Financial Literacy Initiative - SMEStreet
+### 54. SEBI's Project Jagrook Goes to Campus: AMFI, Panjab University Launch Financial Literacy Initiative - SMEStreet
 
 - Source: SMEStreet
 - Published: 2026-10-06T08:44:37+00:00
@@ -496,7 +546,7 @@ Top 5 Mid Cap Mutual Funds Delivering Up to 18.6% CAGR: Up to ₹11.01 Lakh in 1
 
 SEBI's Project Jagrook Goes to Campus: AMFI, Panjab University Launch Financial Literacy Initiative SMEStreet
 
-### 50. SIP Inflows at Record Rs 32,297 Cr: Can Weak Returns Test It? - Univest
+### 55. SIP Inflows at Record Rs 32,297 Cr: Can Weak Returns Test It? - Univest
 
 - Source: Univest
 - Published: 2026-10-06T07:09:00+00:00
@@ -506,7 +556,7 @@ SEBI's Project Jagrook Goes to Campus: AMFI, Panjab University Launch Financial 
 
 SIP Inflows at Record Rs 32,297 Cr: Can Weak Returns Test It? Univest
 
-### 51. Small caps have beaten large caps by 21.5% in a year. Should SIP investors rebalance now? Experts explain - Livemint
+### 56. Small caps have beaten large caps by 21.5% in a year. Should SIP investors rebalance now? Experts explain - Livemint
 
 - Source: Livemint
 - Published: 2026-10-06T06:46:26+00:00
@@ -516,7 +566,7 @@ SIP Inflows at Record Rs 32,297 Cr: Can Weak Returns Test It? Univest
 
 Small caps have beaten large caps by 21.5% in a year. Should SIP investors rebalance now? Experts explain Livemint
 
-### 52. Mid Cap Mutual Funds: Top 4 schemes that could have turned Rs 10,000 monthly SIP into at least Rs 10 lakh & Rs 6 lakh lump sum investment into at least Rs 15 lakh in just 5 years - Do you hold? - ET Now
+### 57. Mid Cap Mutual Funds: Top 4 schemes that could have turned Rs 10,000 monthly SIP into at least Rs 10 lakh & Rs 6 lakh lump sum investment into at least Rs 15 lakh in just 5 years - Do you hold? - ET Now
 
 - Source: ET Now
 - Published: 2026-10-06T06:11:59+00:00
@@ -526,7 +576,7 @@ Small caps have beaten large caps by 21.5% in a year. Should SIP investors rebal
 
 Mid Cap Mutual Funds: Top 4 schemes that could have turned Rs 10,000 monthly SIP into at least Rs 10 lakh & Rs 6 lakh lump sum investment into at least Rs 15 lakh in just 5 years - Do you hold? ET Now
 
-### 53. Sensex opens 126 points higher, private banks lift Nifty above 22,600 - IBTimes India
+### 58. Sensex opens 126 points higher, private banks lift Nifty above 22,600 - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-10-06T05:36:08+00:00
@@ -536,7 +586,7 @@ Mid Cap Mutual Funds: Top 4 schemes that could have turned Rs 10,000 monthly SIP
 
 Sensex opens 126 points higher, private banks lift Nifty above 22,600 IBTimes India
 
-### 54. Top Small Cap Mutual Funds: 5-year vs 7-year returns - Which schemes gave higher CAGR? - ET Now
+### 59. Top Small Cap Mutual Funds: 5-year vs 7-year returns - Which schemes gave higher CAGR? - ET Now
 
 - Source: ET Now
 - Published: 2026-10-06T04:53:09+00:00
@@ -546,7 +596,7 @@ Sensex opens 126 points higher, private banks lift Nifty above 22,600 IBTimes In
 
 Top Small Cap Mutual Funds: 5-year vs 7-year returns - Which schemes gave higher CAGR? ET Now
 
-### 55. Best large cap mutual funds to invest in October 2026 - The Economic Times
+### 60. Best large cap mutual funds to invest in October 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T04:08:54+00:00
@@ -556,17 +606,7 @@ Top Small Cap Mutual Funds: 5-year vs 7-year returns - Which schemes gave higher
 
 Best large cap mutual funds to invest in October 2026 The Economic Times
 
-### 56. India remains out of favour as oil concerns drive FII caution, says EPFR Global - CNBC TV18
-
-- Source: CNBC TV18
-- Published: 2026-10-06T03:53:51+00:00
-- Themes: India market, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxONW9TYzNtLU1oRWNvYTlmSF9Wazh3cU91WFEwbGtuLWgzdGNvZDJMTkloV2I2Sk9OelU2UmF4Sy1RRVZNQW9yVDdvYmFWYzJNN3JISGRSU2g5RFNVbXlfZTdPZzBxTVF4dEpaWmxGSmhXWWw4cWs3VXZLOTk4XzZVSHc0U3ZnNC1rQmZib0YzTUpQakpFWUZhbXlXUjJyYzA5ODNHZDFpTHFjSTRCdDluV01Jc1Y4ZEVmYmswYmFoOW8tWWFkdlJteV81TWlUWGhtOHc5YXpEUjjSAd4BQVVfeXFMTVlublVZTFRkd2laaUFYTEkyNlFCSFh2cTJGaHhkVVhJN0x5dks1anNEYVJqWjNjLVJGdWNlVlViLXFueGtNTnpSWE9Vb3o5WlN5U3dRV1EtRXRTOUdBSzV4OHVYcEdvUWFBYkxLY2Fxc2EtSm45dHg3MHJvandzbThBZlpkeFZRLW1ROFBROHlXU04tOTRIa3BxcXY4VG4yWFM1S0VDczVlanR6ck5qOHJlYl90Q1dIbGRZTEJiRkozRmtZbXhJZHNsREt4NzFCdl8zWF9QWVY4ZWR4cUpn?oc=5
-
-India remains out of favour as oil concerns drive FII caution, says EPFR Global CNBC TV18
-
-### 57. Oil rises and stocks fall as Hormuz worries flare - Borneo Bulletin
+### 61. Oil rises and stocks fall as Hormuz worries flare - Borneo Bulletin
 
 - Source: Borneo Bulletin
 - Published: 2026-10-07T03:22:58+00:00
@@ -576,7 +616,7 @@ India remains out of favour as oil concerns drive FII caution, says EPFR Global 
 
 Oil rises and stocks fall as Hormuz worries flare Borneo Bulletin
 
-### 58. September demat account additions fall to 2.89 million amid market selloff - The Economic Times
+### 62. September demat account additions fall to 2.89 million amid market selloff - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-07T00:17:16+00:00
@@ -586,7 +626,7 @@ Oil rises and stocks fall as Hormuz worries flare Borneo Bulletin
 
 September demat account additions fall to 2.89 million amid market selloff The Economic Times
 
-### 59. FII exodus from India: Foreign investors withdraw record Rs 4.17 lakh crore so far in 2026 - 5 global forces behind massive outflow explained - ET Now
+### 63. FII exodus from India: Foreign investors withdraw record Rs 4.17 lakh crore so far in 2026 - 5 global forces behind massive outflow explained - ET Now
 
 - Source: ET Now
 - Published: 2026-10-06T23:20:13+00:00
@@ -596,7 +636,7 @@ September demat account additions fall to 2.89 million amid market selloff The E
 
 FII exodus from India: Foreign investors withdraw record Rs 4.17 lakh crore so far in 2026 - 5 global forces behind massive outflow explained ET Now
 
-### 60. NEAR Drops 3.15%: Routine Correction or More? - CoinMarketCap
+### 64. NEAR Drops 3.15%: Routine Correction or More? - CoinMarketCap
 
 - Source: CoinMarketCap
 - Published: 2026-10-06T23:04:00+00:00
@@ -606,7 +646,7 @@ FII exodus from India: Foreign investors withdraw record Rs 4.17 lakh crore so f
 
 NEAR Drops 3.15%: Routine Correction or More? CoinMarketCap
 
-### 61. US Crude and Gasoline Inventories Rise, Distillate Stocks Fall – EIA - EnergyNow.com
+### 65. US Crude and Gasoline Inventories Rise, Distillate Stocks Fall – EIA - EnergyNow.com
 
 - Source: EnergyNow.com
 - Published: 2026-10-06T19:44:43+00:00
@@ -616,7 +656,7 @@ NEAR Drops 3.15%: Routine Correction or More? CoinMarketCap
 
 US Crude and Gasoline Inventories Rise, Distillate Stocks Fall – EIA EnergyNow.com
 
-### 62. Mid cap funds sink in Sept, but 6 schemes beat the Nifty Midcap 150; Taurus Mid Cap emerges as best performer - Business Today
+### 66. Mid cap funds sink in Sept, but 6 schemes beat the Nifty Midcap 150; Taurus Mid Cap emerges as best performer - Business Today
 
 - Source: Business Today
 - Published: 2026-10-06T19:05:02+00:00
@@ -626,7 +666,7 @@ US Crude and Gasoline Inventories Rise, Distillate Stocks Fall – EIA EnergyNow
 
 Mid cap funds sink in Sept, but 6 schemes beat the Nifty Midcap 150; Taurus Mid Cap emerges as best performer Business Today
 
-### 63. Ford Selloff Tests Wall Street’s Faith in an Earnings Recovery - Bloomberg.com
+### 67. Ford Selloff Tests Wall Street’s Faith in an Earnings Recovery - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-10-06T13:02:10+00:00
@@ -636,7 +676,7 @@ Mid cap funds sink in Sept, but 6 schemes beat the Nifty Midcap 150; Taurus Mid 
 
 Ford Selloff Tests Wall Street’s Faith in an Earnings Recovery Bloomberg.com
 
-### 64. Sensex gains 685 points, Nifty rises 220 points to cross 22,700 - Editorji
+### 68. Sensex gains 685 points, Nifty rises 220 points to cross 22,700 - Editorji
 
 - Source: Editorji
 - Published: 2026-10-06T12:46:31+00:00
@@ -646,7 +686,7 @@ Ford Selloff Tests Wall Street’s Faith in an Earnings Recovery Bloomberg.com
 
 Sensex gains 685 points, Nifty rises 220 points to cross 22,700 Editorji
 
-### 65. Sensex Jumps 685 Points, Here’s Why Nifty Rallied Towards 23,000 - Free Press Journal
+### 69. Sensex Jumps 685 Points, Here’s Why Nifty Rallied Towards 23,000 - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-06T10:45:50+00:00
@@ -656,7 +696,7 @@ Sensex gains 685 points, Nifty rises 220 points to cross 22,700 Editorji
 
 Sensex Jumps 685 Points, Here’s Why Nifty Rallied Towards 23,000 Free Press Journal
 
-### 66. India’s GDP Grows 7.8%, Investment Momentum Holds As Oil Risks Loom - Free Press Journal
+### 70. India’s GDP Grows 7.8%, Investment Momentum Holds As Oil Risks Loom - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-06T10:31:38+00:00
@@ -666,7 +706,7 @@ Sensex Jumps 685 Points, Here’s Why Nifty Rallied Towards 23,000 Free Press Jo
 
 India’s GDP Grows 7.8%, Investment Momentum Holds As Oil Risks Loom Free Press Journal
 
-### 67. IPO valuations, stock market correction, Q2 earnings: Anand Rathi's Samir Bahl on what investors should watch - Business Today
+### 71. IPO valuations, stock market correction, Q2 earnings: Anand Rathi's Samir Bahl on what investors should watch - Business Today
 
 - Source: Business Today
 - Published: 2026-10-06T10:18:21+00:00
@@ -676,7 +716,7 @@ India’s GDP Grows 7.8%, Investment Momentum Holds As Oil Risks Loom Free Press
 
 IPO valuations, stock market correction, Q2 earnings: Anand Rathi's Samir Bahl on what investors should watch Business Today
 
-### 68. Why Is FPI Selling Continuing as India Looks Better Valued? - Univest
+### 72. Why Is FPI Selling Continuing as India Looks Better Valued? - Univest
 
 - Source: Univest
 - Published: 2026-10-06T10:09:00+00:00
@@ -686,7 +726,7 @@ IPO valuations, stock market correction, Q2 earnings: Anand Rathi's Samir Bahl o
 
 Why Is FPI Selling Continuing as India Looks Better Valued? Univest
 
-### 69. Sensex, Nifty Rally Decoded: Three Big Reasons Fueling The Pre-RBI Policy Upswing - NDTV Profit
+### 73. Sensex, Nifty Rally Decoded: Three Big Reasons Fueling The Pre-RBI Policy Upswing - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-06T09:48:09+00:00
@@ -696,7 +736,7 @@ Why Is FPI Selling Continuing as India Looks Better Valued? Univest
 
 Sensex, Nifty Rally Decoded: Three Big Reasons Fueling The Pre-RBI Policy Upswing NDTV Profit
 
-### 70. Liberty Defense Stock Falls 6%: Is HEXWAVE Growth Facing a Near-Term Correction? - kalkine.ca
+### 74. Liberty Defense Stock Falls 6%: Is HEXWAVE Growth Facing a Near-Term Correction? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-10-06T09:11:00+00:00
@@ -706,7 +746,7 @@ Sensex, Nifty Rally Decoded: Three Big Reasons Fueling The Pre-RBI Policy Upswin
 
 Liberty Defense Stock Falls 6%: Is HEXWAVE Growth Facing a Near-Term Correction? kalkine.ca
 
-### 71. Market Update: Sensex Gains 559 Points, Nifty Near 22,713; Banks, Financials Lead Rally - News18
+### 75. Market Update: Sensex Gains 559 Points, Nifty Near 22,713; Banks, Financials Lead Rally - News18
 
 - Source: News18
 - Published: 2026-10-06T08:26:17+00:00
@@ -716,7 +756,7 @@ Liberty Defense Stock Falls 6%: Is HEXWAVE Growth Facing a Near-Term Correction?
 
 Market Update: Sensex Gains 559 Points, Nifty Near 22,713; Banks, Financials Lead Rally News18
 
-### 72. Nomura cuts Nifty target to 24,000 as US yields rise: Why IT, banks, auto are safe bets - The Financial Express
+### 76. Nomura cuts Nifty target to 24,000 as US yields rise: Why IT, banks, auto are safe bets - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-10-06T08:04:49+00:00
@@ -726,7 +766,7 @@ Market Update: Sensex Gains 559 Points, Nifty Near 22,713; Banks, Financials Lea
 
 Nomura cuts Nifty target to 24,000 as US yields rise: Why IT, banks, auto are safe bets The Financial Express
 
-### 73. RGNX Stock Slumps 15% After-Hours — What’s Driving The Selloff? - Stocktwits
+### 77. RGNX Stock Slumps 15% After-Hours — What’s Driving The Selloff? - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-06T07:39:59+00:00
@@ -736,7 +776,7 @@ Nomura cuts Nifty target to 24,000 as US yields rise: Why IT, banks, auto are sa
 
 RGNX Stock Slumps 15% After-Hours — What’s Driving The Selloff? Stocktwits
 
-### 74. SPX: S&P 500 Nears Record as Stocks Defy Bond Selloff. Yields Hit 24-Year High. - TradingView
+### 78. SPX: S&P 500 Nears Record as Stocks Defy Bond Selloff. Yields Hit 24-Year High. - TradingView
 
 - Source: TradingView
 - Published: 2026-10-06T06:48:54+00:00
@@ -746,7 +786,7 @@ RGNX Stock Slumps 15% After-Hours — What’s Driving The Selloff? Stocktwits
 
 SPX: S&P 500 Nears Record as Stocks Defy Bond Selloff. Yields Hit 24-Year High. TradingView
 
-### 75. Citadel Securities: Surging Treasury Yields Driven by Strong Economy and Competition for AI Capital - BigGo Finance
+### 79. Citadel Securities: Surging Treasury Yields Driven by Strong Economy and Competition for AI Capital - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-10-06T05:25:00+00:00
@@ -756,7 +796,7 @@ SPX: S&P 500 Nears Record as Stocks Defy Bond Selloff. Yields Hit 24-Year High. 
 
 Citadel Securities: Surging Treasury Yields Driven by Strong Economy and Competition for AI Capital BigGo Finance
 
-### 76. Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak - The Economic Times
+### 80. Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T05:12:42+00:00
@@ -765,43 +805,3 @@ Citadel Securities: Surging Treasury Yields Driven by Strong Economy and Competi
 - Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNZDdBSGtJNndPUFREZ3ZYd2NQMmhmd1VNUWptQkxzLWNJYWhXWFQ0ZkNmMmdWOFFGZGdNZEUxM2hjVl9COHlVRlVaUVYzVEhfMU52N3h3bkw1ZHBLeXVjRHR6blJXbWpIejQzSktIZHVPRWxsX0NIWkNuNDhZYVZ4cjUzZHF2UVZua2sweXFCZGJ3RWxFVS02aXZwQy1YMUphWHRWY3NOb1Z2ei1YY3JhQ2xBUGJJTDFRUlVPN3hYV1l0dERaZ1NES1A4RWlzZGthSW9BWXRVdFdWUjZNM0Zfby11dnlib0HSAewBQVVfeXFMTUZkYXNMV0ZGY01YbnFNS3QxOFVCWFlvNW9iU0lsSkc3LV9qcTF0Rk9kZ192NUozb3RWVkJtMk03U2l4WlZVWVB2enZuYjBWRG9fenJFRU5MSHNrdE1ON2U5djBJMjFtUkx6MmhuX0dpa091UkFLX1oxcW1zbS03UElsVzhvb2RDcjFxYVdMNXNNaEpYMW5RaUlmQk01NGRRWXc3WDNnMndTbUYweHlMLUxwcWItemR4UnpuOWdXcXA1LTZaWURNOF9jZGF4d2duME5IWl8wazJzSF9qNDRHODdnbTRzUmZ2SWI5a3Y?oc=5
 
 Explained: How RBI rate hike may impact Sensex, Nifty after 8-week losing streak The Economic Times
-
-### 77. Why did market rise today? Sensex jumps over 685 points, Nifty closes above 22,750. 4 key factors behind D - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-06T04:08:22+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxQQkZTU1B1bl90TUVKMzV3bXFkN2xBZjVFRnhKeExwU0RwYVltM1Znc0c4OWRBeVowdk80YWVaT2hGMDBHUUt0NU9TOUk0Nml1SDdIT2s4QzhaRlFBdHJIeWtnYlRUcGJwZTRtMERocW9KeUZsNG5aZVA0bFo1eEhYczZlUXVqaDJzQno3bTc3S05xSm5pYm9IMEhVQ1lBVW1PRUVuNG5jc254OW5hVGhIeDFKaDRiYzNEQjBhTEM3SmN6RDhjWUZNY3RHeTVoRTZiUS1VWHYzbWlLX19uZnhZbFkwYTdfWXZjTlpJVUpqNkpXUGVQc2FLREFqZFJPUdIBgwJBVV95cUxPaV9nWTg0eTI2ZFhDRExUZWRaV2xmOXkwc1ZpU1hKZlNGRUpiN01JZGZ6U0hUMWZjVl9aNGtILVV1QXpNMkZuWFBjRkdyREotN2tYeVFvQWpQT2VOa0FzeEpZMUdRdVNia2tKeXVYajhYa2R3bENyQzg0YXdWemNfVmV6QldJZXpRWDFfbXJwRzhrZ2lxbDB5S3I5S191c2ljeTllTjFmM3ZoaHlVcE5Gam44djBhMXpQMDhXWkx1R3RkWWRoU25lX2NSUnQxUmppbF9FdnBEako1TmI4Q1dxMUEzN0oxNE84cFl2YXVsQWUtSWhsMnNoV0hUbl85TFQ2UDFv?oc=5
-
-Why did market rise today? Sensex jumps over 685 points, Nifty closes above 22,750. 4 key factors behind D The Economic Times
-
-### 78. MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-06T03:59:57+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3ZjcklJMURNRXVzZllZbDlodzc0WmY0alNpN3I3dVc5UjZPLWk1SVhXeEw5REEyNnJlRlJyOXA0eW1SZ18wOVkzVzFyQnd4WWcwY0hoN1ZQVFRTY1FOZURtQlBsc19UZ0UtdkpDRkVrTk9KbUNxMzlnUXhxX3hRYTVreXB2NXFfZ0RBQ3NGLThOdjlKSjR5TTAyQkkzNjUtVkhneEJUYk51aG5MaXN6V1VkVnFtcGpRM1AtYlFzMmtwOXBLSDVLYm02eHotMXpWNUFfMUptZy1TUC02UVZTWFdrWjgxaUNNWFE?oc=5
-
-MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff Stocktwits
-
-### 79. Market Update: Sensex Gains 348 Points, Nifty Above 22,650; Banks, Metals Lead Rally - News18
-
-- Source: News18
-- Published: 2026-10-06T03:57:24+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNdGN6elhzdDBvY1pMU3pxekQ0a1VaNkpYU05LeTM0R1NWUm5VYURaRTBUd3NyckYxbnNoOVR6cGtFbl9KMC11Tmx6a1B5bTVGUmVkYURaQlRaVDFNZ0ZORG1BMFJhRDY0dC1DQ1BXWDNfbVdnNFhHTEVGd2ZBU3gwMlJLbkl0OXZSeFZfRWRoWnUtQVJQMlhwaUtWNThFaFFlWDI4TG9KOUJaV19TVjRzWjlBTGlzRnFTdkd6ZUNPYW4wd1E5Um1nMms4eVdMRzRWNlQzQWk4VW9tM2laSm44YS01V0RxOXFXNGhOMEN1RmQ5d03SAfgBQVVfeXFMTkpCazY1Qm5YTW45VHh5cEd0NWhwWXBNSnkycmFjQkNQZ3AwcEZCdHZ4ZktOSGpSQl8ySkpZX2xWUld0TTR3Q016VjBZV1ViWFo2cHFsRndlaEpBSlNzeWs4ZnhKdDA0a0ZQRGpvcFM2MTh2UkVOUmtMMnBQUEhDRHhIVnltMHVDWTMta25KR3ExLW1Vdm1QY2Z6c0NpdnBaUGhFYUxFR21GallHaHlRSUNRV3pHLUw5dTZrYW83dFJoYUFVcERLYWs5RmtwMXNiaXhmY0FRWGNFREJVZm00SkY1MmQwaE5vZWZjUlFHZ2Vpc3BmdXk3WFE?oc=5
-
-Market Update: Sensex Gains 348 Points, Nifty Above 22,650; Banks, Metals Lead Rally News18
-
-### 80. Stock Market Today: Bulls hold sway on Dalal Street; Sensex gains over 100 pts, Nifty near 22,600 - Zee Business
-
-- Source: Zee Business
-- Published: 2026-10-06T03:50:17+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLTRVbUJWOEIxVUJFbGdBZ2tLalRaOU44RERWRXMtdEpNdTFjWGRPSl80UlkzN2QydUdlTjU5SmUwOXdKY3hVcFdMbjY3NHktaXZkYXFBSXdJaXVSb3FTbkhIYzR5MHNZVmlhRlZFQk1HRkNtejI0UTFiWVdXLUZRUmdsVjZYWnBoZEZjbkVaTndCUXphUFo0ZVEtanBEWElGS1hpUEpJZFNLZ3NqTjdOT3plOU01WlFBcTBsV3ZUYnp3RWNONW53Z0p5aFRpQ05uZElEV0xyZw?oc=5
-
-Stock Market Today: Bulls hold sway on Dalal Street; Sensex gains over 100 pts, Nifty near 22,600 Zee Business
