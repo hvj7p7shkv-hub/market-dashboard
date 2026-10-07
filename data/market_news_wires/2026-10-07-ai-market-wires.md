@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-07 03:07
+Generated: 2026-10-07 03:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,7 +16,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Rupee falls to 96.39 against dollar as oil rises, FII outflows continue The Times of India
 
-### 2. Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls - NewsBytes
+### 2. Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? - India Today
+
+- Source: India Today
+- Published: 2026-10-07T03:04:32+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTG8xTFZOUHVFLW5zSncyMTJ3MHlDSmdMWGg1SW1TS0F3TEVkanJmc2hndExKOEcweGtZYWtoVFh2NF9CaF8xZXVnNDlWV21LamdOdXVXVUhjMmFmVFVVZG5nbGF3VlVLMkd0NGNsYzhKSmZNSHVPbnBQcXNxWkI1cDVQa2lUamtrdEtuemZLc2x4WEN2VmRsaERsYzAtRmhvdDMxcnF3aDdMdDRLNGlNUGFleFRqZUZDTXpvNm5Hel9xbERzOUZqU3B3eXNPTDZTYy1lal9GQnlYWGdfRVVob3hfQXZ2dFl6YkUyUXctZnhuU1M3emhBME5XONIBgAJBVV95cUxQUVliY2pyaXFFWmpST3Z6aVhZb2FHQzZZZjNyYVVyaWdtbkFvd2NCSTZZQkZ4ZG9XSjRNdWhiaVV0WFZTVzc4U1ktOHhJSVRWVExrZFNZT3VDZ3czSWdwSmVOaHhwNXVOMGVkUW1Oa2RFZzdWODFfMGNQNlYyRHpyT2dENC1VVklwVjRteUJaVjBGRWF3cmdQaHZHb2ZqLVFnTjYwUV9OMXZUU0xGc29HZFc2bDFwdHd2T3dJcjU4X3ItczNycTBUQ2ZLTDVyd2tWMWZ4WTFfWVdLSU81cEZEaDF1N0lqMzl5NlVNQmZZWm1WMWx1MGtqTTV2WlZtMF9R?oc=5
+
+Sensex, Nifty opening: Will markets rise or fall with RBI MPC decision today? India Today
+
+### 3. Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-06T12:50:32+00:00
@@ -26,7 +36,7 @@ Rupee falls to 96.39 against dollar as oil rises, FII outflows continue The Time
 
 Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls NewsBytes
 
-### 3. Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK, RIVN, WMT Are In Focus - Stocktwits
+### 4. Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK, RIVN, WMT Are In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-06T07:33:20+00:00
@@ -36,7 +46,7 @@ Sensex rises 685.34 points, Nifty closes 22,776.10 as oil falls NewsBytes
 
 Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK, RIVN, WMT Are In Focus Stocktwits
 
-### 4. GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI policy; Asian markets decline - Moneycontrol.com
+### 5. GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI policy; Asian markets decline - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-07T02:46:19+00:00
@@ -46,17 +56,17 @@ Nasdaq Futures Lag After Samsung Selloff Hits AI Chip Trade: Why SPCX, MU, SNDK,
 
 GIFT Nifty falls 100 pts, signals weak start for Sensex, Nifty ahead of RBI policy; Asian markets decline Moneycontrol.com
 
-### 5. Global Market: BOJ's Uchida warns AI boom could trigger market correction - The Economic Times
+### 6. Global Market: BOJ's Uchida warns AI boom could trigger market correction - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-10-07T00:49:29+00:00
+- Published: 2026-10-07T02:14:52+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxOQlhMVlZxUzdNRkJBZVlvUFp5NEpqOVYtOFZmRHZDWi1PQXlKc25EbWVKT0tvYURvSTI4amNwNGFwYk14ODRtM0lvU1pob0U2ZklDLWV6Vnc1UkJ5TTFZZnRkS2hYNUJFRDBmQlFxeTlLVlZUTkhhb0pNLXZUVUc0dXd1WlYwR0FfZG5hcExQWWc5RWRHUjBGQkFEXzlQeXFqMkJETnlsT0J3U0xmUC00b2Q5T3hoMTRhdjU2QXRmZU1GbnpOdm42QjZxeXJTN21WanhGUjA3WVZ1dzVDcU14SW9B0gHnAUFVX3lxTE9pVG40TzZFc3JiSWV1ODhZX0VUWW4tVEd2ZXF2dUpIZElZTGZEQUdZZk5rTnFLbkhMc1hoZUpFX0tSRGxqREdUX0NicmVjZWRtV1l6dU9Famg3NjhXM1dBQ2s0aTdibjZOMjlqZzAxdGVVY1k5ZzdqbzdQM2dVMG0yRV9PUXViWlh4dDFvT29FYVEwRWdoQzhpVVA0RWtvNnFjOVdRT2lZN2w3T0k3Vy1mQjZSM25WZS1yZEVVZWlSaTJmbHJmUkdXQzZDMEc2cmhsVENsR2FLdjdwczltRWhlQjdzV2xtOA?oc=5
 
 Global Market: BOJ's Uchida warns AI boom could trigger market correction The Economic Times
 
-### 6. RBA warns an AI stock correction could hit Australian household spending - Crypto Briefing
+### 7. RBA warns an AI stock correction could hit Australian household spending - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-10-07T00:03:41+00:00
@@ -66,7 +76,7 @@ Global Market: BOJ's Uchida warns AI boom could trigger market correction The Ec
 
 RBA warns an AI stock correction could hit Australian household spending Crypto Briefing
 
-### 7. Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival - Stocktwits
+### 8. Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-06T22:15:50+00:00
@@ -76,7 +86,7 @@ RBA warns an AI stock correction could hit Australian household spending Crypto 
 
 Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival Stocktwits
 
-### 8. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
+### 9. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-06T18:44:28+00:00
@@ -86,7 +96,7 @@ Nvidia In Correction Territory? Investors Parse Fresh Risks From Chinese Rival S
 
 Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today Goodreturns
 
-### 9. Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo Coalition - ProVideo Coalition
+### 10. Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo Coalition - ProVideo Coalition
 
 - Source: ProVideo Coalition
 - Published: 2026-10-06T15:12:09+00:00
@@ -96,7 +106,7 @@ Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market 
 
 Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo Coalition ProVideo Coalition
 
-### 10. General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell-Off Deepens - MarketsMojo
+### 11. General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell-Off Deepens - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-10-06T09:25:38+00:00
@@ -106,7 +116,7 @@ Retouch4me Lab: AI color correction for a whole shoot by Jose Antunes - ProVideo
 
 General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell-Off Deepens MarketsMojo
 
-### 11. SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is the Correction Deepening? - kalkine.ca
+### 12. SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is the Correction Deepening? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-10-06T09:22:00+00:00
@@ -116,7 +126,7 @@ General Insurance Corporation of India Falls to 52-Week Low of Rs 313.55 as Sell
 
 SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is the Correction Deepening? kalkine.ca
 
-### 12. Nifty gains on Brent crude pullback, but analysts warn of continued volatility - Rediff
+### 13. Nifty gains on Brent crude pullback, but analysts warn of continued volatility - Rediff
 
 - Source: Rediff
 - Published: 2026-10-06T08:57:31+00:00
@@ -126,7 +136,7 @@ SPARC AI Stock Faces Fresh Downside Pressure as Investor Caution Builds — Is t
 
 Nifty gains on Brent crude pullback, but analysts warn of continued volatility Rediff
 
-### 13. Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years - Goodreturns
+### 14. Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-06T06:22:18+00:00
@@ -136,7 +146,7 @@ Nifty gains on Brent crude pullback, but analysts warn of continued volatility R
 
 Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs Exit $40 Billion In 2 Years Goodreturns
 
-### 14. Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%, Coal India falls 3%; check list - Upstox
+### 15. Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%, Coal India falls 3%; check list - Upstox
 
 - Source: Upstox
 - Published: 2026-10-06T10:53:22+00:00
@@ -146,7 +156,7 @@ Stock Market Crash: Sensex Hits 27-Month Low, Nifty Falls To 6-Month Low; FIIs E
 
 Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%, Coal India falls 3%; check list Upstox
 
-### 15. Dividend Yield Funds After Nifty Fall: Is This the Best Entry Point? - Business Today
+### 16. Dividend Yield Funds After Nifty Fall: Is This the Best Entry Point? - Business Today
 
 - Source: Business Today
 - Published: 2026-10-06T09:42:26+00:00
@@ -156,7 +166,7 @@ Top gainers and losers, Oct 6: Trent rallies 13%, BSE, Kotak Bank shares jump 4%
 
 Dividend Yield Funds After Nifty Fall: Is This the Best Entry Point? Business Today
 
-### 16. India's long market correction could be setting up for reversal - TradingView
+### 17. India's long market correction could be setting up for reversal - TradingView
 
 - Source: TradingView
 - Published: 2026-10-06T04:04:26+00:00
@@ -166,23 +176,13 @@ Dividend Yield Funds After Nifty Fall: Is This the Best Entry Point? Business To
 
 India's long market correction could be setting up for reversal TradingView
 
-### 17. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
+### 18. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-06T16:02:21+00:00
 - Themes: India market
 - Score: 5
 - Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxNUV9CbnZCb3FxX3VWaElFWUJDSW90elJvSlR0TWRHS2tKaFI3OHgxUHlnNFNSOUdwazN0QTdPQVJhNl9wRGlmSHNfUzFLWmxlQjJNcnVlZkNGRk41SjBHUzc3NjRha0hoS1JQQUZwNkNEdnlTVzN5c0NfVkV1T3lzOXliN3NiWDRYOTlMX0tYZGNyY25WUHJ1Ykd3a2lUN1dqQ1A1MUNzaXZtSklBZmRVaUFxLTNTd1pPZkNvMU1EbW5DQ0EwVk1vblpZaXFpcnFFY3Z3RjJqVFB1X0lqZ0Z1T0VwMVlYVkQ2THphT3FOc2ZnemRYMDFQRmNwMG01TjZmYjQ3QW00bnV3ZHByUFBCNFN3?oc=5
-
-AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap The Economic Times
-
-### 18. AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-06T11:42:42+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxOQ2taVVlILW8yX2QyQncybnoxWjFGUkRBVThrUFZqRlh3V0N4X3pfWmJ4czg2dTROUlE5WWtjNERpOHgzVnpKOGpLbUY1U2FkZVNCWGtrREozMFROdjRnbUlNWXF6SGptM3Z3Ujh0OG1qNG5mazJIVnNsYVgyYVVUbHhSYVg5MWlfWFJtVWFJYlR0V3ZHWVlqV2FyemlyRTNCMTZyY2lySDVDMDgyekM2VGh3eVZRTnV0SU9mRDYydkpNaXRUNWZKMHNraWtjc2pNVkllM1czNENac2VVZVQzYzZZOUNBcDY5SFJ2VHNTTlNkYWNHa1l1UHNxMDAxZXpYX0oxTG5uX1dhLVFwcXV6TFlZSlhpZw?oc=5
 
 AMFI Reshuffle: Cupid, Sterlite Technologies among 12 smallcap stocks that may get upgraded to midcap The Economic Times
 
@@ -566,15 +566,15 @@ Best large cap mutual funds to invest in October 2026 The Economic Times
 
 India remains out of favour as oil concerns drive FII caution, says EPFR Global CNBC TV18
 
-### 57. Oil rises and stocks fall as Hormuz worries flare - Yahoo Finance Singapore
+### 57. Oil rises and stocks fall as Hormuz worries flare - Borneo Bulletin
 
-- Source: Yahoo Finance Singapore
-- Published: 2026-10-07T02:38:00+00:00
+- Source: Borneo Bulletin
+- Published: 2026-10-07T03:22:58+00:00
 - Themes: market selling, macro / flows
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNYW5lXzFGUTA4bjJDeXFCS3Z5Y09qZGV3V3JaVnFyWVhPOHVPUU5ic1FoQTZqTFpSdXBBUkVqUGgtRDhWSjFzZG5ESnJEd2ZqYlJqQTNPM21INmdZWXUxMnNMMzJFZTQtVXhGM1ROQlB0dFdaZG5jZjNHQ0RIV05TbTdicw?oc=5
+- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxPWTRrVlVTTU1vbjU4cmVrSndWbHRLY2E1OXl6ZDlLYVRpSjhEMDJKVGtuYVh0NEkwOFgtZHNsaTljQXFTTVQ0WldFek9mUHd2NUtQb0RqR29xeFpiZHpkZmMwNGN0TE9mZFhHWFJncnU0OFp6a1NjemJsOC1kMzd6VmNjc0tMbDA?oc=5
 
-Oil rises and stocks fall as Hormuz worries flare Yahoo Finance Singapore
+Oil rises and stocks fall as Hormuz worries flare Borneo Bulletin
 
 ### 58. September demat account additions fall to 2.89 million amid market selloff - The Economic Times
 
