@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:12:00+05:30",
+  "generated_at": "2026-10-07T18:04:00+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -1633,16 +1633,16 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 499,
-      "coverage_pct": 99.8,
-      "advancers": 147,
+      "downloaded_count": 498,
+      "coverage_pct": 99.6,
+      "advancers": 146,
       "decliners": 351,
       "unchanged": 1,
       "ad_ratio": 0.42,
-      "up_turnover_share_pct": 44.8,
-      "down_turnover_share_pct": 55.2,
+      "up_turnover_share_pct": 44.7,
+      "down_turnover_share_pct": 55.3,
       "high_volume_decliners": 35,
-      "intraday_quotes": 499,
+      "intraday_quotes": 498,
       "daily_fallbacks": 0,
       "as_of_date": "2026-10-07",
       "as_of_timestamp": "2026-10-07 15:25 IST",
@@ -1683,11 +1683,11 @@
       },
       {
         "sector": "Financial Services",
-        "count": 101,
-        "advancers": 42,
+        "count": 100,
+        "advancers": 41,
         "decliners": 59,
-        "average_1d_pct": -0.185,
-        "average_volume_ratio_20d": 1.063
+        "average_1d_pct": -0.205,
+        "average_volume_ratio_20d": 1.061
       },
       {
         "sector": "Capital Goods",
@@ -6557,23 +6557,6 @@
         "turnover_proxy": 93757549.0,
         "quote_date": "2026-10-07",
         "quote_timestamp": "2026-10-07 15:25 IST",
-        "quote_type": "Yahoo 5-minute quote",
-        "alert": ""
-      },
-      {
-        "symbol": "INDIANB",
-        "ticker": "INDIANB.NS",
-        "name": "Indian Bank",
-        "sector": "Financial Services",
-        "ltp": 828.3,
-        "previous_close": 813.0,
-        "day_move_pct": 1.8819,
-        "session_volume": 1119199.0,
-        "average_volume_20d": 851307.0,
-        "volume_ratio_20d": 1.315,
-        "turnover_proxy": 927032518.0,
-        "quote_date": "2026-10-07",
-        "quote_timestamp": "2026-10-07 15:10 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
       },
