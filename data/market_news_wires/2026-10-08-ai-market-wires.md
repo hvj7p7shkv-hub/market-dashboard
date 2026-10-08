@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-08 08:37
+Generated: 2026-10-08 09:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,7 +16,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Sensex Falls 632 Points, Nifty 50 Drops 232 Points as Oil Prices Fuel Risk-Off Mood Dalal Street Investment Journal
 
-### 2. Sensex drops 785 points, Nifty falls 1% below 22,350; TCS, Infosys, HCLTech buck trend - Fortune India
+### 2. Hong Kong Stocks Fall as Oil Surges, AI Debt Concerns Hit Tech Shares; Biren Technology Falls - marketscreener.com
+
+- Source: marketscreener.com
+- Published: 2026-10-08T08:52:25+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxONVBtbFlTeFY0dXZiRXhJSWx0d0tuUm1pTEJxU3lnYmlKLUVkNEpjU3IwVU1mb3FSdVRZcklDNl9KeGl0Q2VxVVdBSjJINEtxay1pc0xoSHBlcHFfeS14M3hLOVpXSExLUnp5d0E1ekJZR0JRLTA3Wi1nN3htY2M5SE5FVDFRbTFqdVhGM1hCSEltUDcweFpvQkRUeHlUVGFxRkF5ZVRkYkdKeHYyQ0s2V3dWOU1ScXktMkJ5WW1PWW9JaFVXdWRBTjNUSHNzWWc3bVEwRDFmRm1ickZf?oc=5
+
+Hong Kong Stocks Fall as Oil Surges, AI Debt Concerns Hit Tech Shares; Biren Technology Falls marketscreener.com
+
+### 3. Sensex drops 785 points, Nifty falls 1% below 22,350; TCS, Infosys, HCLTech buck trend - Fortune India
 
 - Source: Fortune India
 - Published: 2026-10-08T07:00:40+00:00
@@ -26,7 +36,17 @@ Sensex Falls 632 Points, Nifty 50 Drops 232 Points as Oil Prices Fuel Risk-Off M
 
 Sensex drops 785 points, Nifty falls 1% below 22,350; TCS, Infosys, HCLTech buck trend Fortune India
 
-### 3. Sensex falls over 320 points in early deals amid elevated crude oil prices, FII outflows - Mid-Day
+### 4. Sensex drops 785 points, Nifty falls 1% below 22,350; TCS, Infosys, HCLTech buck trend - Fortune India
+
+- Source: Fortune India
+- Published: 2026-10-08T07:00:40+00:00
+- Themes: market selling, India market
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOaDUwOHVpSDFodWR6T2pGLS0wd1JYaVNIUnNwMlIwYVNuQUw3NWtUTzZHWndzR0czeGdWN016bFpucXJRanpyX2t1VHB1YUtOMG9FeUNzZU9WakljejEtaVhrcUtYcEVIbExvN3BlSVFFVS1IRzdCMGQ0ZkN6blluaVRjSmdOSVB4YktRaDRYT1YtWWEyMC1pUVAzSGlubUowRVRsdE5TeHNacXZGWVA2QWJpNmdGMkxIZk4weHNKSWdpWmFNVHlNM0VLeF9TZDjSAc8BQVVfeXFMTmg1MDh1aUgxaHVkek9qRi0tMHdSWGlTSFJzcDJSMGFTbkFMNzVrVE82R1p3c0dHM3hnVjdNemxabnFyUWp6cl9rdVRwdWFLTjBvRXlDc2VPVmpJY3oxLWlYa3FLWHBFSGxMbzdwZUlRRVUtSEc3QjBkNGZDem5ZbmlUY0pnTklQeGJLUWg0WE9WLVlhMjAtaVFQM0hpbm1KMEVUbHROU3hzWnF2RllQNkFiaTZnRjJMSGZOMHhzSklnaVphTVR5TTNFS3hfU2Q4?oc=5
+
+Sensex drops 785 points, Nifty falls 1% below 22,350; TCS, Infosys, HCLTech buck trend Fortune India
+
+### 5. Sensex falls over 320 points in early deals amid elevated crude oil prices, FII outflows - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-10-08T04:41:00+00:00
@@ -36,7 +56,7 @@ Sensex drops 785 points, Nifty falls 1% below 22,350; TCS, Infosys, HCLTech buck
 
 Sensex falls over 320 points in early deals amid elevated crude oil prices, FII outflows Mid-Day
 
-### 4. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - India Tribune - Chicago
+### 6. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - India Tribune - Chicago
 
 - Source: India Tribune - Chicago
 - Published: 2026-10-07T21:33:02+00:00
@@ -46,7 +66,7 @@ Sensex falls over 320 points in early deals amid elevated crude oil prices, FII 
 
 Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike India Tribune - Chicago
 
-### 5. Chip Stocks Fall Over 3% As Micron, SK Hynix, AMD, SanDisk, Nvidia Open Lower Amid High Bond Yield, Oil Prices - NDTV Profit
+### 7. Chip Stocks Fall Over 3% As Micron, SK Hynix, AMD, SanDisk, Nvidia Open Lower Amid High Bond Yield, Oil Prices - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-07T14:00:16+00:00
@@ -56,7 +76,7 @@ Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike India Tri
 
 Chip Stocks Fall Over 3% As Micron, SK Hynix, AMD, SanDisk, Nvidia Open Lower Amid High Bond Yield, Oil Prices NDTV Profit
 
-### 6. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - IBTimes India
+### 8. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-10-07T11:05:33+00:00
@@ -66,17 +86,17 @@ Chip Stocks Fall Over 3% As Micron, SK Hynix, AMD, SanDisk, Nvidia Open Lower Am
 
 Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike IBTimes India
 
-### 7. Global Stocks Fall on Higher Oil Prices, AI Pullback - marketscreener.com
+### 9. Global Stocks Fall on Higher Oil Prices, AI Pullback - WSJ
 
-- Source: marketscreener.com
-- Published: 2026-10-08T08:31:56+00:00
+- Source: WSJ
+- Published: 2026-10-08T08:31:00+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQd3RQcE8zXzgtVFdQaWFFbnN5UUoyMEI5R01ocnVvWlR6dU1RN1pOclQ0RDVqZGFWT0doZDNhSjlzT2pEdExVeGFvUmJmN3cxVV9JQnpTb2Q5ZFlEbGo0MU9hd2hkRUhHbkVpSDFOaVNLcWdMMXJoODhIS3Rld3NvaXJVTFdUaEpfRjhkSkVaMmxfRUhCbmNVc0JwdnNqanQ0ZHRLcjdnVQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQQnpOX3pQSGJpZi1qRFNMSVR3SzRoaEJPaVFIYVQ2NGNETExDT0RjWEFjS1lUUzVOVVBsLWtnY2lHU3NmV3FNQjNpMllWb01sdWpmYXdhd29oSXNVTXYyaFhRZzZUX3JoWGNtV1VPaW1IcldFbEdXeGRaVkZyTG9nUmJDS1ptSmFQZWxITkhpMVRTM19SMzlneDBHMzFrS2xrZHFHMFBnNURhdE40?oc=5
 
-Global Stocks Fall on Higher Oil Prices, AI Pullback marketscreener.com
+Global Stocks Fall on Higher Oil Prices, AI Pullback WSJ
 
-### 8. Stock Market Crash Today: Sensex Nears 71,800, Nifty Falls Over 1%; Know 5 Reasons Behind The Sell-Off - Goodreturns
+### 10. Stock Market Crash Today: Sensex Nears 71,800, Nifty Falls Over 1%; Know 5 Reasons Behind The Sell-Off - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-08T07:32:03+00:00
@@ -86,7 +106,7 @@ Global Stocks Fall on Higher Oil Prices, AI Pullback marketscreener.com
 
 Stock Market Crash Today: Sensex Nears 71,800, Nifty Falls Over 1%; Know 5 Reasons Behind The Sell-Off Goodreturns
 
-### 9. Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil Prices Weigh on Sentiment - The Sunday Guardian
+### 11. Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil Prices Weigh on Sentiment - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-10-08T04:55:25+00:00
@@ -96,7 +116,7 @@ Stock Market Crash Today: Sensex Nears 71,800, Nifty Falls Over 1%; Know 5 Reaso
 
 Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil Prices Weigh on Sentiment The Sunday Guardian
 
-### 10. Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil Prices Weigh on Sentiment - The Sunday Guardian
+### 12. Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil Prices Weigh on Sentiment - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-10-08T04:50:43+00:00
@@ -106,7 +126,7 @@ Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil 
 
 Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil Prices Weigh on Sentiment The Sunday Guardian
 
-### 11. PSU stocks today, October 8: Engineers India falls 7.25%, MRPL drops 4.18%, Power Grid declines 2% - Business Upturn
+### 13. PSU stocks today, October 8: Engineers India falls 7.25%, MRPL drops 4.18%, Power Grid declines 2% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-08T04:49:41+00:00
@@ -116,7 +136,7 @@ Why Is Indian Stock Market Down Today? Sensex, Nifty Fall as RBI Rate Hike, Oil 
 
 PSU stocks today, October 8: Engineers India falls 7.25%, MRPL drops 4.18%, Power Grid declines 2% Business Upturn
 
-### 12. 8 October, 2026 Stock Market Updates: Sensex, Nifty flat after RBI's repo rate hike, Paytm falls 7% - India TV News
+### 14. 8 October, 2026 Stock Market Updates: Sensex, Nifty flat after RBI's repo rate hike, Paytm falls 7% - India TV News
 
 - Source: India TV News
 - Published: 2026-10-08T03:55:57+00:00
@@ -126,7 +146,7 @@ PSU stocks today, October 8: Engineers India falls 7.25%, MRPL drops 4.18%, Powe
 
 8 October, 2026 Stock Market Updates: Sensex, Nifty flat after RBI's repo rate hike, Paytm falls 7% India TV News
 
-### 13. RBI Rate Hike Triggers Market Sell-Off; Sensex Drops 429 Pts, Nifty Slips Below 22,650 - The Indian Awaaz
+### 15. RBI Rate Hike Triggers Market Sell-Off; Sensex Drops 429 Pts, Nifty Slips Below 22,650 - The Indian Awaaz
 
 - Source: The Indian Awaaz
 - Published: 2026-10-08T03:45:00+00:00
@@ -136,7 +156,7 @@ PSU stocks today, October 8: Engineers India falls 7.25%, MRPL drops 4.18%, Powe
 
 RBI Rate Hike Triggers Market Sell-Off; Sensex Drops 429 Pts, Nifty Slips Below 22,650 The Indian Awaaz
 
-### 14. Sensex Falls 429 Points, Nifty Slips Below 22,650 After RBI Rate Hike - INDIA New England News
+### 16. Sensex Falls 429 Points, Nifty Slips Below 22,650 After RBI Rate Hike - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-07T15:17:24+00:00
@@ -146,7 +166,7 @@ RBI Rate Hike Triggers Market Sell-Off; Sensex Drops 429 Pts, Nifty Slips Below 
 
 Sensex Falls 429 Points, Nifty Slips Below 22,650 After RBI Rate Hike INDIA New England News
 
-### 15. Gorilla Slides 5% as the Selloff Outlasts Northland's $40 Buy Target; Palantir Dips, BigBear.ai Falls 3% - 24/7 Wall St.
+### 17. Gorilla Slides 5% as the Selloff Outlasts Northland's $40 Buy Target; Palantir Dips, BigBear.ai Falls 3% - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-10-07T15:07:00+00:00
@@ -156,7 +176,7 @@ Sensex Falls 429 Points, Nifty Slips Below 22,650 After RBI Rate Hike INDIA New 
 
 Gorilla Slides 5% as the Selloff Outlasts Northland's $40 Buy Target; Palantir Dips, BigBear.ai Falls 3% 24/7 Wall St.
 
-### 16. Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns
+### 18. Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-07T13:23:04+00:00
@@ -166,7 +186,7 @@ Gorilla Slides 5% as the Selloff Outlasts Northland's $40 Buy Target; Palantir D
 
 Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded Goodreturns
 
-### 17. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - Press Trust of India
+### 19. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - Press Trust of India
 
 - Source: Press Trust of India
 - Published: 2026-10-07T12:10:08+00:00
@@ -176,7 +196,7 @@ Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why R
 
 Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment Press Trust of India
 
-### 18. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - Zee News
+### 20. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - Zee News
 
 - Source: Zee News
 - Published: 2026-10-07T11:50:41+00:00
@@ -186,7 +206,7 @@ Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices 
 
 Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike Zee News
 
-### 19. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - Lokmat Times
+### 21. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - Lokmat Times
 
 - Source: Lokmat Times
 - Published: 2026-10-07T10:39:12+00:00
@@ -196,7 +216,7 @@ Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike Zee News
 
 Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike Lokmat Times
 
-### 20. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - Punjab Kesari English
+### 22. Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike - Punjab Kesari English
 
 - Source: Punjab Kesari English
 - Published: 2026-10-07T10:32:31+00:00
@@ -206,7 +226,7 @@ Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike Lokmat Ti
 
 Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike Punjab Kesari English
 
-### 21. Markets snap two-day rally as RBI policy stance, high crude prices dent sentiment; Sensex falls 429 points - Telegraph India
+### 23. Markets snap two-day rally as RBI policy stance, high crude prices dent sentiment; Sensex falls 429 points - Telegraph India
 
 - Source: Telegraph India
 - Published: 2026-10-07T10:28:51+00:00
@@ -216,7 +236,7 @@ Sensex slumps 429 points, Nifty falls below 22,650 after RBI rate hike Punjab Ke
 
 Markets snap two-day rally as RBI policy stance, high crude prices dent sentiment; Sensex falls 429 points Telegraph India
 
-### 22. Market Today: Sensex Falls 429 Points, Nifty Ends Below 22,650; RBI Rate Hike, Crude Weigh - News18
+### 24. Market Today: Sensex Falls 429 Points, Nifty Ends Below 22,650; RBI Rate Hike, Crude Weigh - News18
 
 - Source: News18
 - Published: 2026-10-07T10:26:43+00:00
@@ -226,7 +246,7 @@ Markets snap two-day rally as RBI policy stance, high crude prices dent sentimen
 
 Market Today: Sensex Falls 429 Points, Nifty Ends Below 22,650; RBI Rate Hike, Crude Weigh News18
 
-### 23. The Nifty Falls 0.8 Percent to 22,587 After the RBI Raises Rates and Crude Oil Holds Above $101 a Barrel - International Business Times Australia
+### 25. The Nifty Falls 0.8 Percent to 22,587 After the RBI Raises Rates and Crude Oil Holds Above $101 a Barrel - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-10-07T09:45:53+00:00
@@ -236,7 +256,7 @@ Market Today: Sensex Falls 429 Points, Nifty Ends Below 22,650; RBI Rate Hike, C
 
 The Nifty Falls 0.8 Percent to 22,587 After the RBI Raises Rates and Crude Oil Holds Above $101 a Barrel International Business Times Australia
 
-### 24. Sensex Falls 600 Points, Nifty Below 22,600: Why? - News Arena India
+### 26. Sensex Falls 600 Points, Nifty Below 22,600: Why? - News Arena India
 
 - Source: News Arena India
 - Published: 2026-10-07T09:44:03+00:00
@@ -246,7 +266,7 @@ The Nifty Falls 0.8 Percent to 22,587 After the RBI Raises Rates and Crude Oil H
 
 Sensex Falls 600 Points, Nifty Below 22,600: Why? News Arena India
 
-### 25. Tokyo stocks fall on AI, chip losses as gains locked in after recent rally - 毎日新聞
+### 27. Tokyo stocks fall on AI, chip losses as gains locked in after recent rally - 毎日新聞
 
 - Source: 毎日新聞
 - Published: 2026-10-07T09:42:05+00:00
@@ -256,7 +276,7 @@ Sensex Falls 600 Points, Nifty Below 22,600: Why? News Arena India
 
 Tokyo stocks fall on AI, chip losses as gains locked in after recent rally 毎日新聞
 
-### 26. SMCI Selloff: Analyst Sees Dell Poaching AI Server Market Share After Super Micro Chip Smuggling Scandal - Stocktwits
+### 28. SMCI Selloff: Analyst Sees Dell Poaching AI Server Market Share After Super Micro Chip Smuggling Scandal - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-07T09:26:35+00:00
@@ -266,17 +286,27 @@ Tokyo stocks fall on AI, chip losses as gains locked in after recent rally 毎�
 
 SMCI Selloff: Analyst Sees Dell Poaching AI Server Market Share After Super Micro Chip Smuggling Scandal Stocktwits
 
-### 27. Nifty 50 Today: Indian Stock Index Falls Below 22,500 as RBI Rate Hike, Rising Crude Weigh on Markets; Top Gainers, Losers And What Investors Should Know - The Sunday Guardian
+### 29. Why is the stock market down today? 3 factors behind Sensex, Nifty 50 fall - TradingView
+
+- Source: TradingView
+- Published: 2026-10-08T08:33:18+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRWpGS3RydlZCR2xQdGhoeE5oTm9WSG1QVkZPc2MyRW9sS0JTV1hOWmt5MlJnRkZqbTAtZDdUM250NjZxcldnV1h3NWwyX1JRdGlOLVB0QnFVNDE4Sm1YY3lYT3ZsNGZfeno0ejlUczFXc3ROZktva0hxRHZnYzZqbmJfUzFvWGhVZnlRbjVBUkpFdjJMVHpBb0dNODJMQlFUeVRWQkpZUllwZmx6V1pLMDV5ZlQzVlVLdDRHZE9MRUF4TmVsWkdaTw?oc=5
+
+Why is the stock market down today? 3 factors behind Sensex, Nifty 50 fall TradingView
+
+### 30. Nifty 50 Today: Indian Stock Index Falls Below 22,500 as RBI Rate Hike, Rising Crude Weigh on Markets; Top Gainers, Losers And What Investors Should Know - The Sunday Guardian
 
 - Source: The Sunday Guardian
-- Published: 2026-10-08T08:18:38+00:00
+- Published: 2026-10-08T08:18:34+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiogJBVV95cUxQRy1WUV9JaUFPejNITHJqenlwTkxBVjlfOTRKNlNJX2pCWVJMcFVDYlhuVnZjVHBhU2M3VWZYZ2VMek81T3JrSWh2UDRPN1Q3WXh1UGtFR2Nzbm81TDVRNDBmZUdkVnNsc3hLcDZkXzY1YzB0MHNSUXFsaW9qeDlBLWJWbWNZVzVQUVJXemhveVZvS3dqRzQxSkRrQUp4bXZhYUVXNXlleVk4Nk9iVy1XWnpaUVc5eWJwUXhKcTdyTjQzOWdGSERQSG1jRnZNdkh4dGFZeTNoNFJQV05nVlhpRWpJOGwtR2RWNE94SDdqMEZjTTkzaUtQNFREUGxpYk5KYU5pYnBvbnhxbWdVTEVfc05VeS1FSERwaTNlREVJNGI2Z9IBpwJBVV95cUxQY242a2h2cFYtMFlGVDRCU09jLVZ2cDBYakV4R0MxMGt0RFM2cHZqa1Awb2RMRHU2aG1YY3JiemFNN1lxcjNlZ2RRZ0h3MXg4QWFrUDNjTXFLVEhnTEFlLWs0WXhqMWxMeTY0SjVfTUUyOFRkVnhwSzlURUR4R2dsQmJYeWhaY3ZFZjNhblJJVnEtbzNUYXpra0VhQkZzbkhXbjZxeHB2SFVOUWZOTGQ2MkdfNUdpemxPUjNPcjVZWG5FeEFZOVJjaExETmlyc19DMXdZTjZGbzlEOFNtendmS3lCZ3p6azFRRVlPdmpfSTlNbzFNN2t3S1g3emFYcG03VndIbWJQYmpnNjFveE9DX3dBdHVDY3F4d3FfOFF3a08yRDhnS0E4?oc=5
+- Link: https://news.google.com/rss/articles/CBMipwJBVV95cUxQY242a2h2cFYtMFlGVDRCU09jLVZ2cDBYakV4R0MxMGt0RFM2cHZqa1Awb2RMRHU2aG1YY3JiemFNN1lxcjNlZ2RRZ0h3MXg4QWFrUDNjTXFLVEhnTEFlLWs0WXhqMWxMeTY0SjVfTUUyOFRkVnhwSzlURUR4R2dsQmJYeWhaY3ZFZjNhblJJVnEtbzNUYXpra0VhQkZzbkhXbjZxeHB2SFVOUWZOTGQ2MkdfNUdpemxPUjNPcjVZWG5FeEFZOVJjaExETmlyc19DMXdZTjZGbzlEOFNtendmS3lCZ3p6azFRRVlPdmpfSTlNbzFNN2t3S1g3emFYcG03VndIbWJQYmpnNjFveE9DX3dBdHVDY3F4d3FfOFF3a08yRDhnS0E40gGnAkFVX3lxTFBjbjZraHZwVi0wWUZUNEJTT2MtVnZwMFhqRXhHQzEwa3REUzZwdmprUDBvZExEdTZobVhjcmJ6YU03WXFyM2VnZFFnSHcxeDhBYWtQM2NNcUtUSGdMQWUtazRZeGoxbEx5NjRKNV9NRTI4VGRWeHBLOVRFRHhHZ2xCYlh5aFpjdkVmM2FuUklWcS1vM1RhemtrRWFCRnNuSFduNnF4cHZIVU5RZk5MZDYyR181R2l6bE9SM09yNVlYbkV4QVk5UmNoTEROaXJzX0Mxd1lONkZvOUQ4U216d2ZLeUJnenprMVFFWU92al9JOU1vMU03a3dLWDd6YVhwbTdWd0htYlBiamc2MW94T0Nfd0F0dUNjcXh3cV84UXdrTzJEOGdLQTg?oc=5
 
 Nifty 50 Today: Indian Stock Index Falls Below 22,500 as RBI Rate Hike, Rising Crude Weigh on Markets; Top Gainers, Losers And What Investors Should Know The Sunday Guardian
 
-### 28. Stock Market Crash: Sensex tanks nearly 1,000 points, Nifty below 22,300 — key reasons behind the fall - Zee Business
+### 31. Stock Market Crash: Sensex tanks nearly 1,000 points, Nifty below 22,300 — key reasons behind the fall - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-08T07:49:25+00:00
@@ -286,7 +316,7 @@ Nifty 50 Today: Indian Stock Index Falls Below 22,500 as RBI Rate Hike, Rising C
 
 Stock Market Crash: Sensex tanks nearly 1,000 points, Nifty below 22,300 — key reasons behind the fall Zee Business
 
-### 29. Sensex, Nifty Fall in Early Trade as RBI Signals More Tightening - Univest
+### 32. Sensex, Nifty Fall in Early Trade as RBI Signals More Tightening - Univest
 
 - Source: Univest
 - Published: 2026-10-08T07:18:05+00:00
@@ -296,7 +326,7 @@ Stock Market Crash: Sensex tanks nearly 1,000 points, Nifty below 22,300 — key
 
 Sensex, Nifty Fall in Early Trade as RBI Signals More Tightening Univest
 
-### 30. Stock market crash today: BSE Sensex tanks over 900 points; Nifty50 below 22,300 - top reasons for fall - The Times of India
+### 33. Stock market crash today: BSE Sensex tanks over 900 points; Nifty50 below 22,300 - top reasons for fall - The Times of India
 
 - Source: The Times of India
 - Published: 2026-10-08T06:43:00+00:00
@@ -306,7 +336,7 @@ Sensex, Nifty Fall in Early Trade as RBI Signals More Tightening Univest
 
 Stock market crash today: BSE Sensex tanks over 900 points; Nifty50 below 22,300 - top reasons for fall The Times of India
 
-### 31. Sensex Falls 400 Points, Nifty Below 22,500 - Dainik Jagran MP CG
+### 34. Sensex Falls 400 Points, Nifty Below 22,500 - Dainik Jagran MP CG
 
 - Source: Dainik Jagran MP CG
 - Published: 2026-10-08T06:05:11+00:00
@@ -316,7 +346,7 @@ Stock market crash today: BSE Sensex tanks over 900 points; Nifty50 below 22,300
 
 Sensex Falls 400 Points, Nifty Below 22,500 Dainik Jagran MP CG
 
-### 32. Stock Market update: Sensex falls 400 points, Nifty down over 100 points - Punjab Newsline
+### 35. Stock Market update: Sensex falls 400 points, Nifty down over 100 points - Punjab Newsline
 
 - Source: Punjab Newsline
 - Published: 2026-10-08T05:36:33+00:00
@@ -326,7 +356,7 @@ Sensex Falls 400 Points, Nifty Below 22,500 Dainik Jagran MP CG
 
 Stock Market update: Sensex falls 400 points, Nifty down over 100 points Punjab Newsline
 
-### 33. Why is the stock market down today? 3 factors behind Sensex, Nifty 50 fall - Livemint
+### 36. Why is the stock market down today? 3 factors behind Sensex, Nifty 50 fall - Livemint
 
 - Source: Livemint
 - Published: 2026-10-08T05:23:37+00:00
@@ -336,7 +366,7 @@ Stock Market update: Sensex falls 400 points, Nifty down over 100 points Punjab 
 
 Why is the stock market down today? 3 factors behind Sensex, Nifty 50 fall Livemint
 
-### 34. Sensex falls 400 pts, Nifty below 22,500 as D-Street digests RBI’s calibrated tightening stance. What can - The Economic Times
+### 37. Sensex falls 400 pts, Nifty below 22,500 as D-Street digests RBI’s calibrated tightening stance. What can - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-08T05:16:29+00:00
@@ -346,7 +376,7 @@ Why is the stock market down today? 3 factors behind Sensex, Nifty 50 fall Livem
 
 Sensex falls 400 pts, Nifty below 22,500 as D-Street digests RBI’s calibrated tightening stance. What can The Economic Times
 
-### 35. Sensex falls 400 points to 72,200: Nifty down 100 points; heavy selling in realty and metal shares - Bhaskar English
+### 38. Sensex falls 400 points to 72,200: Nifty down 100 points; heavy selling in realty and metal shares - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-10-08T04:30:35+00:00
@@ -356,7 +386,7 @@ Sensex falls 400 pts, Nifty below 22,500 as D-Street digests RBI’s calibrated 
 
 Sensex falls 400 points to 72,200: Nifty down 100 points; heavy selling in realty and metal shares Bhaskar English
 
-### 36. Market Today: Sensex Falls 250 Points, Nifty Opens Below 22,550 Amid Weak Global Cues - News18
+### 39. Market Today: Sensex Falls 250 Points, Nifty Opens Below 22,550 Amid Weak Global Cues - News18
 
 - Source: News18
 - Published: 2026-10-08T04:01:57+00:00
@@ -366,7 +396,7 @@ Sensex falls 400 points to 72,200: Nifty down 100 points; heavy selling in realt
 
 Market Today: Sensex Falls 250 Points, Nifty Opens Below 22,550 Amid Weak Global Cues News18
 
-### 37. Stock Market Today: Sensex falls over 200 points, Nifty near 22,500 points; Nifty IT up 1.5% - Zee Business
+### 40. Stock Market Today: Sensex falls over 200 points, Nifty near 22,500 points; Nifty IT up 1.5% - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-08T03:50:27+00:00
@@ -376,7 +406,7 @@ Market Today: Sensex Falls 250 Points, Nifty Opens Below 22,550 Amid Weak Global
 
 Stock Market Today: Sensex falls over 200 points, Nifty near 22,500 points; Nifty IT up 1.5% Zee Business
 
-### 38. Correction to AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO Article on Oct. 6 -- WSJ - Moomoo
+### 41. Correction to AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO Article on Oct. 6 -- WSJ - Moomoo
 
 - Source: Moomoo
 - Published: 2026-10-08T02:39:35+00:00
@@ -386,7 +416,7 @@ Stock Market Today: Sensex falls over 200 points, Nifty near 22,500 points; Nift
 
 Correction to AI-Computing Startup Lambda Is Raising $4 Billion in Final Round Before Planned IPO Article on Oct. 6 -- WSJ Moomoo
 
-### 39. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
+### 42. Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-07T23:06:26+00:00
@@ -396,7 +426,7 @@ Correction to AI-Computing Startup Lambda Is Raising $4 Billion in Final Round B
 
 Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today Goodreturns
 
-### 40. Nasdaq, S&P 500 Futures Sink As AI Stocks Extend Selloff: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus - Stocktwits
+### 43. Nasdaq, S&P 500 Futures Sink As AI Stocks Extend Selloff: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-07T20:07:43+00:00
@@ -406,7 +436,7 @@ Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market 
 
 Nasdaq, S&P 500 Futures Sink As AI Stocks Extend Selloff: Why NFLX, NBIS, SPCX, TSLA, DJT, SLS Are In Focus Stocktwits
 
-### 41. DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ - Stocktwits
+### 44. DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-07T19:55:12+00:00
@@ -416,7 +446,7 @@ Nasdaq, S&P 500 Futures Sink As AI Stocks Extend Selloff: Why NFLX, NBIS, SPCX, 
 
 DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff ‘Stupid’ Stocktwits
 
-### 42. Market Talk: Risk of AI 'correction' rising - Reuters
+### 45. Market Talk: Risk of AI 'correction' rising - Reuters
 
 - Source: Reuters
 - Published: 2026-10-07T19:04:48+00:00
@@ -426,7 +456,7 @@ DUOL Stock Tumbles On T-Mobile's AI Translation Feature — Retail Calls Selloff
 
 Market Talk: Risk of AI 'correction' rising Reuters
 
-### 43. Meta Stocks Fall 2.11% Despite Wells Fargo's $1,000 AI Target - TradingView
+### 46. Meta Stocks Fall 2.11% Despite Wells Fargo's $1,000 AI Target - TradingView
 
 - Source: TradingView
 - Published: 2026-10-07T18:40:28+00:00
@@ -436,7 +466,7 @@ Market Talk: Risk of AI 'correction' rising Reuters
 
 Meta Stocks Fall 2.11% Despite Wells Fargo's $1,000 AI Target TradingView
 
-### 44. Sensex falls 429 pts as RBI stance, high crude prices dent sentiment - MillenniumPost
+### 47. Sensex falls 429 pts as RBI stance, high crude prices dent sentiment - MillenniumPost
 
 - Source: MillenniumPost
 - Published: 2026-10-07T18:04:27+00:00
@@ -446,7 +476,7 @@ Meta Stocks Fall 2.11% Despite Wells Fargo's $1,000 AI Target TradingView
 
 Sensex falls 429 pts as RBI stance, high crude prices dent sentiment MillenniumPost
 
-### 45. Arm Stocks Fall as Microsoft Brings Agentic AI to Laptops - TradingView
+### 48. Arm Stocks Fall as Microsoft Brings Agentic AI to Laptops - TradingView
 
 - Source: TradingView
 - Published: 2026-10-07T17:25:25+00:00
@@ -456,7 +486,7 @@ Sensex falls 429 pts as RBI stance, high crude prices dent sentiment MillenniumP
 
 Arm Stocks Fall as Microsoft Brings Agentic AI to Laptops TradingView
 
-### 46. Samsung Stocks Fall 1.3% as Three-Hour AMD Talks Widen AI Pact - TradingView
+### 49. Samsung Stocks Fall 1.3% as Three-Hour AMD Talks Widen AI Pact - TradingView
 
 - Source: TradingView
 - Published: 2026-10-07T17:21:26+00:00
@@ -466,7 +496,17 @@ Arm Stocks Fall as Microsoft Brings Agentic AI to Laptops TradingView
 
 Samsung Stocks Fall 1.3% as Three-Hour AMD Talks Widen AI Pact TradingView
 
-### 47. RBI Rate Hike Triggers Market Sell-Off; Sensex Falls 429 Po… - GujaratSamachar English
+### 50. ‘He is wrong’: Big Short investor Steve Eisman hits back at Michael Burry’s AI doom case — but warns ‘massive correction’ could still come - MoneyWise.com
+
+- Source: MoneyWise.com
+- Published: 2026-10-07T15:31:01+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQRExiLXNIM0ZMZy1TTWRQbW9xTXJ6UlpVcHVyNTg3TTlITndyYURTOHd1OTM1SUtGSU1YRDg1cWowaGsyd2ZpR040cDl5WTRUMURlQjZmMXJPdkF0MXdub0c5MXBURC1wUnBta3M3VkxJMEhZYkdwM1VwTmc4VjRYbG5iUEdKYmduUmswQ0VCR2thTG4wcmlz?oc=5
+
+‘He is wrong’: Big Short investor Steve Eisman hits back at Michael Burry’s AI doom case — but warns ‘massive correction’ could still come MoneyWise.com
+
+### 51. RBI Rate Hike Triggers Market Sell-Off; Sensex Falls 429 Po… - GujaratSamachar English
 
 - Source: GujaratSamachar English
 - Published: 2026-10-07T14:16:31+00:00
@@ -476,7 +516,7 @@ Samsung Stocks Fall 1.3% as Three-Hour AMD Talks Widen AI Pact TradingView
 
 RBI Rate Hike Triggers Market Sell-Off; Sensex Falls 429 Po… GujaratSamachar English
 
-### 48. Micron Stock Falls Amid Chip-Sector Slump as Taiwan Union Votes 99% for Strike Authorization - TradingView
+### 52. Micron Stock Falls Amid Chip-Sector Slump as Taiwan Union Votes 99% for Strike Authorization - TradingView
 
 - Source: TradingView
 - Published: 2026-10-07T13:30:58+00:00
@@ -486,7 +526,7 @@ RBI Rate Hike Triggers Market Sell-Off; Sensex Falls 429 Po… GujaratSamachar E
 
 Micron Stock Falls Amid Chip-Sector Slump as Taiwan Union Votes 99% for Strike Authorization TradingView
 
-### 49. Sensex falls 429 points, Nifty slips 173 points after RBI rate hike - Editorji
+### 53. Sensex falls 429 points, Nifty slips 173 points after RBI rate hike - Editorji
 
 - Source: Editorji
 - Published: 2026-10-07T12:35:21+00:00
@@ -496,7 +536,7 @@ Micron Stock Falls Amid Chip-Sector Slump as Taiwan Union Votes 99% for Strike A
 
 Sensex falls 429 points, Nifty slips 173 points after RBI rate hike Editorji
 
-### 50. Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - Revoi.in
+### 54. Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - Revoi.in
 
 - Source: Revoi.in
 - Published: 2026-10-07T12:29:51+00:00
@@ -506,7 +546,7 @@ Sensex falls 429 points, Nifty slips 173 points after RBI rate hike Editorji
 
 Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment Revoi.in
 
-### 51. Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points - Mid-Day
+### 55. Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-10-07T12:20:00+00:00
@@ -516,7 +556,7 @@ Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sen
 
 Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points Mid-Day
 
-### 52. Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points - Mid-Day
+### 56. Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-10-07T12:20:00+00:00
@@ -526,7 +566,7 @@ Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points 
 
 Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points Mid-Day
 
-### 53. Sensex Falls 429 Points, Nifty Slips After RBI Rate Hike - News Mobile
+### 57. Sensex Falls 429 Points, Nifty Slips After RBI Rate Hike - News Mobile
 
 - Source: News Mobile
 - Published: 2026-10-07T11:55:01+00:00
@@ -536,7 +576,7 @@ Sensex, Nifty decline after RBI hikes repo rate; Sensex falls nearly 430 points 
 
 Sensex Falls 429 Points, Nifty Slips After RBI Rate Hike News Mobile
 
-### 54. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - ThePrint
+### 58. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - ThePrint
 
 - Source: ThePrint
 - Published: 2026-10-07T11:46:21+00:00
@@ -546,7 +586,7 @@ Sensex Falls 429 Points, Nifty Slips After RBI Rate Hike News Mobile
 
 Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment ThePrint
 
-### 55. Markets fall in early trade after two days of rally; Sensex falls 460 points - Udayavani
+### 59. Markets fall in early trade after two days of rally; Sensex falls 460 points - Udayavani
 
 - Source: Udayavani
 - Published: 2026-10-07T11:40:36+00:00
@@ -556,7 +596,7 @@ Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices 
 
 Markets fall in early trade after two days of rally; Sensex falls 460 points Udayavani
 
-### 56. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - DT Next
+### 60. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - DT Next
 
 - Source: DT Next
 - Published: 2026-10-07T11:17:00+00:00
@@ -566,7 +606,7 @@ Markets fall in early trade after two days of rally; Sensex falls 460 points Uda
 
 Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment DT Next
 
-### 57. Stock Market Today: Sensex Falls 429 Points, Nifty Below 22,650 After RBI Rate Hike - APAC Media
+### 61. Stock Market Today: Sensex Falls 429 Points, Nifty Below 22,650 After RBI Rate Hike - APAC Media
 
 - Source: APAC Media
 - Published: 2026-10-07T11:12:01+00:00
@@ -576,7 +616,7 @@ Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices 
 
 Stock Market Today: Sensex Falls 429 Points, Nifty Below 22,650 After RBI Rate Hike APAC Media
 
-### 58. Sensex falls 429 points, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - Deccan Herald
+### 62. Sensex falls 429 points, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - Deccan Herald
 
 - Source: Deccan Herald
 - Published: 2026-10-07T10:59:00+00:00
@@ -586,7 +626,7 @@ Stock Market Today: Sensex Falls 429 Points, Nifty Below 22,650 After RBI Rate H
 
 Sensex falls 429 points, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment Deccan Herald
 
-### 59. Japanese Stocks Fall as AI-Related Shares Decline - Fana News -
+### 63. Japanese Stocks Fall as AI-Related Shares Decline - Fana News -
 
 - Source: Fana News -
 - Published: 2026-10-07T10:51:48+00:00
@@ -596,7 +636,7 @@ Sensex falls 429 points, snaps 2-day rally as RBI policy stance, high crude pric
 
 Japanese Stocks Fall as AI-Related Shares Decline Fana News -
 
-### 60. Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdrive. Stocks Fall. - International Business Times
+### 64. Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdrive. Stocks Fall. - International Business Times
 
 - Source: International Business Times
 - Published: 2026-10-07T10:50:38+00:00
@@ -606,7 +646,7 @@ Japanese Stocks Fall as AI-Related Shares Decline Fana News -
 
 Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdrive. Stocks Fall. International Business Times
 
-### 61. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - OrissaPOST
+### 65. Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - OrissaPOST
 
 - Source: OrissaPOST
 - Published: 2026-10-07T10:44:42+00:00
@@ -616,7 +656,7 @@ Intel Plans $15 Billion Stock Sale As AI Demand Puts Its Factories Into Overdriv
 
 Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment OrissaPOST
 
-### 62. Sensex Falls 429 Pts as RBI Hikes Rates, Crude Prices Rise - Rediff MoneyWiz
+### 66. Sensex Falls 429 Pts as RBI Hikes Rates, Crude Prices Rise - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-10-07T10:42:42+00:00
@@ -626,7 +666,7 @@ Sensex falls 429 pts, snaps 2-day rally as RBI policy stance, high crude prices 
 
 Sensex Falls 429 Pts as RBI Hikes Rates, Crude Prices Rise Rediff MoneyWiz
 
-### 63. Nifty Realty falls 2% as RBI hikes repo rate; industry sees limited near-term impact, but borrowing costs remain under watch - Fortune India
+### 67. Nifty Realty falls 2% as RBI hikes repo rate; industry sees limited near-term impact, but borrowing costs remain under watch - Fortune India
 
 - Source: Fortune India
 - Published: 2026-10-07T10:09:32+00:00
@@ -636,7 +676,7 @@ Sensex Falls 429 Pts as RBI Hikes Rates, Crude Prices Rise Rediff MoneyWiz
 
 Nifty Realty falls 2% as RBI hikes repo rate; industry sees limited near-term impact, but borrowing costs remain under watch Fortune India
 
-### 64. Stock Markets End Lower After Repo Rate Hike, Sensex Falls Over 400 Points, Nifty Tests 22,600 - ABP Live English
+### 68. Stock Markets End Lower After Repo Rate Hike, Sensex Falls Over 400 Points, Nifty Tests 22,600 - ABP Live English
 
 - Source: ABP Live English
 - Published: 2026-10-07T10:06:59+00:00
@@ -646,7 +686,7 @@ Nifty Realty falls 2% as RBI hikes repo rate; industry sees limited near-term im
 
 Stock Markets End Lower After Repo Rate Hike, Sensex Falls Over 400 Points, Nifty Tests 22,600 ABP Live English
 
-### 65. Closing Bell: Rs 2.6 lakh crore mcap wiped out after RBI rate hike! Sensex falls 429 pts; Nifty below 22,650 - Zee Business
+### 69. Closing Bell: Rs 2.6 lakh crore mcap wiped out after RBI rate hike! Sensex falls 429 pts; Nifty below 22,650 - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-07T10:06:15+00:00
@@ -656,7 +696,7 @@ Stock Markets End Lower After Repo Rate Hike, Sensex Falls Over 400 Points, Nift
 
 Closing Bell: Rs 2.6 lakh crore mcap wiped out after RBI rate hike! Sensex falls 429 pts; Nifty below 22,650 Zee Business
 
-### 66. Asia report: Stocks fall as AI rally runs out of steam - Sharecast.com
+### 70. Asia report: Stocks fall as AI rally runs out of steam - Sharecast.com
 
 - Source: Sharecast.com
 - Published: 2026-10-07T09:42:43+00:00
@@ -666,7 +706,7 @@ Closing Bell: Rs 2.6 lakh crore mcap wiped out after RBI rate hike! Sensex falls
 
 Asia report: Stocks fall as AI rally runs out of steam Sharecast.com
 
-### 67. Three Reasons Why Market Is Falling: Sensex Slumps Nearly 600 Points, Nifty Below 22,600 - NDTV Profit
+### 71. Three Reasons Why Market Is Falling: Sensex Slumps Nearly 600 Points, Nifty Below 22,600 - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-07T09:16:19+00:00
@@ -676,27 +716,7 @@ Asia report: Stocks fall as AI rally runs out of steam Sharecast.com
 
 Three Reasons Why Market Is Falling: Sensex Slumps Nearly 600 Points, Nifty Below 22,600 NDTV Profit
 
-### 68. Stock Market Update: Sensex Falls 244 Points, Nifty Down 124 Points After RBI Rate Hike - ABP Live English
-
-- Source: ABP Live English
-- Published: 2026-10-07T09:07:19+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOR2MxV19hNWVrWVBuS0llMzlqR0w2WW5ONHRyYkI5SHNnbzBIcU1leFljR1A2bk9aRlhPX00xaVZfNEtLS1Y1bnprRFFZc1Z0OXNFU0h5cFF2emZHOVNxZjBnQUZ6dUI1b0dITTFub0lFLWtUMjU0SnA4OWliWlVLeW9HWkNhOFl1aGlQaEl6eVhnemdGVGhMR05IdE9NTzdyMFpwZjNuMTdOTzUxbUFUUElpYUxIV2dJLWU0REVrM3BOTktuX2ctVQ?oc=5
-
-Stock Market Update: Sensex Falls 244 Points, Nifty Down 124 Points After RBI Rate Hike ABP Live English
-
-### 69. RBI Rate Hike: Sensex Falls 507 Points, Nifty 50 Down 193 Points as Markets Assess Policy Outcome - Dalal Street Investment Journal
-
-- Source: Dalal Street Investment Journal
-- Published: 2026-10-07T08:56:37+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPTk4xYldiVnYzQ1JpTVZvWFlDeUxBbl8xbm9kVThBNW5qWTZLbUF6S3oyZVZUM04wankyekx5LUtKQldlbjBiMmpSYndpZG1aRnJjdEd1N3Rnai1rMk5Oai1aTzJaV1g5OXN6ODJTeHdHalpUQWJUdlM2SW5mdFZxanA5cm1BeUJZX0hZb0tnT0VETHQxOVA3NUJMWXFQSzFxdUNlVXVkMXk2a2hNNzRScmNqZHdwYWVIZUJDSE1Fc1ViNXFpQnhrTjdfMXFQdG13aHhpQWhiS2lOS0po?oc=5
-
-RBI Rate Hike: Sensex Falls 507 Points, Nifty 50 Down 193 Points as Markets Assess Policy Outcome Dalal Street Investment Journal
-
-### 70. Zerodha's Nithin Kamath on IPO boom amid market fall: IPOs are a full-on party - India Today
+### 72. Zerodha's Nithin Kamath on IPO boom amid market fall: IPOs are a full-on party - India Today
 
 - Source: India Today
 - Published: 2026-10-08T07:18:28+00:00
@@ -706,7 +726,7 @@ RBI Rate Hike: Sensex Falls 507 Points, Nifty 50 Down 193 Points as Markets Asse
 
 Zerodha's Nithin Kamath on IPO boom amid market fall: IPOs are a full-on party India Today
 
-### 71. Sensex falls nearly 800 points: What's behind today's decline? - NewsBytes
+### 73. Sensex falls nearly 800 points: What's behind today's decline? - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-08T06:21:16+00:00
@@ -716,7 +736,7 @@ Zerodha's Nithin Kamath on IPO boom amid market fall: IPOs are a full-on party I
 
 Sensex falls nearly 800 points: What's behind today's decline? NewsBytes
 
-### 72. Sensex Today: BSE Sensex Falls 400 Points; Check Top Gainers, Losers, Key Stocks and Market Outlook - The Sunday Guardian
+### 74. Sensex Today: BSE Sensex Falls 400 Points; Check Top Gainers, Losers, Key Stocks and Market Outlook - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-10-08T06:15:40+00:00
@@ -726,7 +746,7 @@ Sensex falls nearly 800 points: What's behind today's decline? NewsBytes
 
 Sensex Today: BSE Sensex Falls 400 Points; Check Top Gainers, Losers, Key Stocks and Market Outlook The Sunday Guardian
 
-### 73. Markets Rally, But NBCC (India) Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off - MarketsMojo
+### 75. Markets Rally, But NBCC (India) Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-10-08T05:54:17+00:00
@@ -736,7 +756,7 @@ Sensex Today: BSE Sensex Falls 400 Points; Check Top Gainers, Losers, Key Stocks
 
 Markets Rally, But NBCC (India) Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off MarketsMojo
 
-### 74. ITC stock falls 3%, top Nifty loser today as Rs 9,437-crore block deal follows GQG stake sale - Moneycontrol.com
+### 76. ITC stock falls 3%, top Nifty loser today as Rs 9,437-crore block deal follows GQG stake sale - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-08T04:36:19+00:00
@@ -746,7 +766,7 @@ Markets Rally, But NBCC (India) Ltd Sinks to 52-Week Low in Stock-Specific Sell-
 
 ITC stock falls 3%, top Nifty loser today as Rs 9,437-crore block deal follows GQG stake sale Moneycontrol.com
 
-### 75. Share market extends losses: Sensex falls 335 points; Bajaj duo drags - NewsDrum
+### 77. Share market extends losses: Sensex falls 335 points; Bajaj duo drags - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-10-08T04:26:05+00:00
@@ -756,7 +776,7 @@ ITC stock falls 3%, top Nifty loser today as Rs 9,437-crore block deal follows G
 
 Share market extends losses: Sensex falls 335 points; Bajaj duo drags NewsDrum
 
-### 76. Nifty 50 Falls at Open on Thursday - Business Upturn
+### 78. Nifty 50 Falls at Open on Thursday - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-08T03:44:17+00:00
@@ -766,7 +786,7 @@ Share market extends losses: Sensex falls 335 points; Bajaj duo drags NewsDrum
 
 Nifty 50 Falls at Open on Thursday Business Upturn
 
-### 77. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
+### 79. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-07T23:07:00+00:00
@@ -776,7 +796,7 @@ Nifty 50 Falls at Open on Thursday Business Upturn
 
 BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions BBN Times
 
-### 78. Onion Prices Fall Across India, Govt Deploys 467 Trucks - News Arena India
+### 80. Onion Prices Fall Across India, Govt Deploys 467 Trucks - News Arena India
 
 - Source: News Arena India
 - Published: 2026-10-07T14:39:47+00:00
@@ -785,23 +805,3 @@ BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Te
 - Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQR1dxc2dDVnNuTkhfY2ozX2dUaUx1b1lmeEpCZVRYQlg2OWVReUIyZHZ2VUJMUWxIYlJzNG91YUVDTjlQb085MGkxVkpoYnZmNjlhc1hZcVpqZjlaNnNvVVBBYVJscDQzMC1kUFN4Wmhpc2xjd25fZ012RUcyWEQxWUN4Sklsb1lBWUhwTWEtNzhsSVNaRm4yMmVBQQ?oc=5
 
 Onion Prices Fall Across India, Govt Deploys 467 Trucks News Arena India
-
-### 79. RBI rate hike rattles markets; Sensex falls 429 points, Titan among top losers - NewsDrum
-
-- Source: NewsDrum
-- Published: 2026-10-07T12:17:32+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOUFBmanZIekstZmVaWUhQdXF4MEFYTEZZR1FqMzRTN3N3T1B6LW5rdHQ5aHBmSHBZNFhFZW16RE9ZQkNfU0FFcms1MmtkRndTRkpkbUVXWEJnMDRrVXI4UXlmVmVaMzFKOU5XRGFaS0VwZU1YYVktamQwY1pQSnljeGNSdTUtTkYxNGtPVDlmX3RHcEM2aEo3TTJpLVVIb0dDSHlfNEllSjRDNG1tSTV4ckRfMzlnbzhhZWfSAboBQVVfeXFMTlBQZmp2SHpLLWZlWllIUHVxeDBBWExGWUdRajM0Uzdzd09Qei1ua3R0OWhwZkhwWTRYRWVtekRPWUJDX1NBRXJrNTJrZEZ3U0ZKZG1FV1hCZzA0a1VyOFF5ZlZlWjMxSjlOV0RhWktFcGVNWGFZLWpkMGNaUEp5Y3hjUnU1LU5GMTRrT1Q5Zl90R3BDNmhKN00yaS1VSG9HQ0h5XzRJZUo0QzRtbUk1eHJEXzM5Z284YWVn?oc=5
-
-RBI rate hike rattles markets; Sensex falls 429 points, Titan among top losers NewsDrum
-
-### 80. Nifty 50 and RBI MPC rate hikes: Does a rising interest rate always trigger a market correction? What history suggests - Livemint
-
-- Source: Livemint
-- Published: 2026-10-07T11:46:39+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxPcnl1R19uc2ZBRFNqM1ZRb1BBZVFvSGhuMG9rc1hnOWVBT29odHBSM3hRV2pxOFV4U0pZZzE3LTRJUnd0R2RrVElFWVQzSU9NUExkWHNzRlJRTUVmMlRkV1BzdkY3eVZtRU04cDdjRFFfU2lEOFhMeDlYSHdqZ29HUjQxNlRFZEFzVkJ3WFU1Q2d2MlBNMFFPNlR3dkZqY3lhcmpYWi1SbjlHOGxwellVc2xNd2dhck94dE15LVI3NUVIdTZxMzgwaVdfVUlVMXRqQ2tWc1Q5bTYydG45YlBpaC0yUXNkQzM5RndnWnNyNWpNd3hGdHI0ak5GR3FHT3hHN2ZLTU9YREpNU0s0NXFyLUZoTVDSAZoCQVVfeXFMT2k0azFSN0hFX0FIZjdzZ0I1SmNwb0VPUlRkSmxsSHZHLXVHdGVTVV9kcG9aajgwbzZ2U3lBNWMxSXBJd3VSdV9OWFlPVXhUUFFqelJiU2Y1LU0wbkkzUjk0V3N5elJSUjZxLXhRSWFBSERIX3pyWUhnYm1Tb0J0dHpmYmVNUzRSa1Bla1cyaml1U2VIVTJtT0VfczdnMnJQcVF4U0l4MlBUdlVXMmN5OVcxSEl3dHhPanBYOThzZlk3LTR2M0dvWnZTN19idDk5NFpCcHdFTTUzSWQ4TDk3a3oxM05aM19seTYzWm03SkJJQTlXMVRQQmEydVJ1ODhhM2lma2U1X2N0TkVGaWg1aklyaE9IdnAza2l3?oc=5
-
-Nifty 50 and RBI MPC rate hikes: Does a rising interest rate always trigger a market correction? What history suggests Livemint
