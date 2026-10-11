@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 12:11 IST",
+  "generated_at": "2026-10-11 12:41 IST",
   "wire_file": "2026-10-11-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,11 +23,11 @@
   },
   "posture": {
     "stance": "Mixed",
-    "wire_count": "16",
-    "wire_total_count": "82",
+    "wire_count": "15",
+    "wire_total_count": "72",
     "wire_scope_date": "2026-10-11",
     "ai_wire_count": "3",
-    "selling_wire_count": "3",
+    "selling_wire_count": "4",
     "india_wire_count": "6",
     "weak_index_count": "14",
     "valid_index_count": "24"
@@ -36,12 +36,12 @@
     {
       "label": "Newest Wire · 2026-10-11 06:20",
       "title": "F&O Talk: Nifty’s break above 22,750 could open doors for 23,000; Sudeep Shah picks 5 stocks for next week - The Economic Times",
-      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 16 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 15 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-11",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-11 has 6 India-market wires, 3 selling/risk wires, and 3 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-11 has 6 India-market wires, 4 selling/risk wires, and 3 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-11",
@@ -21324,7 +21324,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-11T12:10:59+05:30",
+    "generated_at": "2026-10-11T12:40:42+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -33773,30 +33773,21 @@
       "description": "Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained Business Today"
     },
     {
-      "published": "2026-10-11T05:11:47+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "The Economic Times",
-      "title": "​New fund offers: 8 mutual funds and 2 SIFs to open for subscription this week. Check dates and key details​ - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQNk12NXhockcwMjhzeUMwVXhibjJwc0w5MnFza0laRG1KaW0xVmdKUDBjd1RPaDJKcVctN25zU2ZCWl9HNndHYmVCX0RCM01mWFpvWlJoQjEwWVJwbVNCdTV1RGROVzRGcGlZbEJwY1gxWFUzOV9MdDhLdW5iSXJCeDJIdXNwU3Y4VDhTX1g1ZVVJRTdNNkhsYlZaQ2JGLUt5X1gtNE9CMmcxOUljYkM3b2UxTUtqSFM0YWI2TWNrVFdDSGRjQ3hVODNrSVgxb2ViTmxyTk5uWTkwQW0wNlR2M1VfMmV4ZzlxZm9xVVBGLWp6Qmsydk42M3Z6b1A?oc=5",
-      "description": "​New fund offers: 8 mutual funds and 2 SIFs to open for subscription this week. Check dates and key details​ The Economic Times"
-    },
-    {
-      "published": "2026-10-11T04:33:01+00:00",
+      "published": "2026-10-11T04:38:25+00:00",
       "score": 3.0,
       "themes": "[]",
       "source": "The Economic Times",
       "title": "International mutual funds top return chart last week, offer up to 11% gains. Check top 5 performers - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNZHVyWXpJZkIwTTVfbmYxeUZ4eXU3MzZsYjQ1ZDc1Tlhhc1hpT3dEWFJEWWZjSDVUM2stYy05cEtkT0lxN2pYeFgyT0s3STF0c3hwU1JQa2x6X01PMVE5Uldxb0pla1dDeWhySUpDZ282RXcydXNRMVhhZzB4UTAtcFhZVDhTQ01kWjUxSnZsdFRmdF9sREJCY1VtanZ2WWljY3BQS2ZwT2tZLThFYWt1dWNLN3lCbnBOMk40WlIza0ZlckQzRk5jakpvSEQyVFVNa2VnaEFzYlVyV1JKZVNhRFdOQXYzaUxqN09GNk9rX1c5bThaeDNpUGpPTlZZYWcwa1U1UmxjMHpYWVQ5Y0VYazd2c25DZmxPSWJKYmQzY3p4akpoZ2Q4Rnl3Qjdod3MwUmc?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOU0tpM1dMSFFKdnlSd1E5VTc5U2w2ZXo1V19FRUd5b2JjVWZnOTFCd3dSQi1mNWJfazZBV1g0cVI3RzJGdFdOZi1vdkVkOEpQR1l6RWs2M3IxT25nWlVQTnJxUXBRUUgxQVVDdmN1MDBWUXZLYjhOeTNoU1psbW8tMjM5U24tMEcySUNIczRDSnhOWkpfRHpfaVQxRDNEbGtfRm9tcFl4X0RfZUZ3dkRrWGxrZUhfLU5NejFOT0hzY0s1cF9QRmxGVWxEUElrZ0dibk9YZTRJN3dWWFB1cDhvVjh6NnhoZDdfeGJWei1iaXFYZGFMclFjOGc4QWNXTHc?oc=5",
       "description": "International mutual funds top return chart last week, offer up to 11% gains. Check top 5 performers The Economic Times"
     },
     {
-      "published": "2026-10-11T00:41:55+00:00",
+      "published": "2026-10-10T22:17:03+00:00",
       "score": 3.0,
       "themes": "[]",
       "source": "GuruFocus",
       "title": "Mutual Funds, Stock Market Gurus List - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQbGEzVDNOSmtqNXZ1XzV6R0czb2VpRkExNkRDajRLYjI2Y3ZyMHUtaTk0aXdza0tXbmxMZWh0T29hOHRTUzdMdEpWSlRJaDQzMkpKX1hJeDRuLV9xWFd2c0NhYzlDdTNrYUNsYkV4NTFDbW1veW1FNDNVcHVha19GUlVKcjRINFdSZlFTemoxZzJRa1V0WExNVHN5dUNWLVU0bXJwX1kxQm1kQXNT?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE13eE9YQm8tYi1LN01YTDczLXg5Y082anlqYjVDaE5MTHl6SHpTVlVmdkEtLXJvX0VHQ2pLc2FBUERsUC1fS0ZZQUZfQmNUenRQbTBsNlBZQXlLV2hkOF9tZ3U5SnhWQ0gwaDJmcWFFWXh2TGFRRUhzV0FGTQ?oc=5",
       "description": "Mutual Funds, Stock Market Gurus List GuruFocus"
     },
     {
@@ -33827,15 +33818,6 @@
       "description": "SIP vs Lump Sum: Top 3 flexi cap funds with over 10 years of history - Which could have built higher corpus, monthly SIP or one-time investment? ET Now"
     },
     {
-      "published": "2026-10-10T06:42:31+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Myinvestmentideas",
-      "title": "10 Mutual Funds with Best Risk-Adjusted Returns to Invest in 2026 - Myinvestmentideas",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZGc2eGVhY2RXdUVzSnRveDM2clkwWkMwM0VHMGx3V1IwRlAwOHVEQU40djhoMk9fcVFKS1dZcW8wX0ZQN25PN1FRS0RESTAtcThYY2VYSS1JZGtOamprQ1NwSXhSVHVXckhaN2NuQk81YXp0Vzl3M0dEc0RTTEdka25oMGg?oc=5",
-      "description": "10 Mutual Funds with Best Risk-Adjusted Returns to Invest in 2026 Myinvestmentideas"
-    },
-    {
       "published": "2026-10-11T05:01:35+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk']",
@@ -33843,6 +33825,15 @@
       "title": "Infineon's Quantum and AI Power Push Proceeds While Chip Stocks Take a Breather - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxONXZlRXNyTTZnNzVCaU5faEF0SWdUbC1QenNNLUFyVzNrdEFIbUQ3SXBIcXF4eVN6dzVoX1Jmc3hiUmxCSHZmbEl3UGhLVVBmRjBHN3M5RmZyaHEwellmUGlfQ0hrRkgyd1NlRWNwUzY3STFnVThNSGhzNFJVSW5hNktCSERObzNuQVpwVTk4UU9odXdETkpvaGZ1aHhnVWxza1RCa18tMW85NktHSmk2SlRhbmxBMnZaYi1sS29QeC1VNlc5NVA1MUl5UWpFMW5ROFZmQmk5RG5qZw?oc=5",
       "description": "Infineon's Quantum and AI Power Push Proceeds While Chip Stocks Take a Breather ad-hoc-news.de"
+    },
+    {
+      "published": "2026-10-11T04:42:11+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Invesco India Nifty Chemical Index Fund - Direct Plan Fund info - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWUpGTTNZZHpFdHE2Q09IaW5fbzdwakZFYUN0WTUyaTJIY2lyMzNiZVQ3bnlZQzZZV1FRYWM1SUVuUERzR3JBajVPT3gtWmNVMjVqLTU0MjV0Y2JITWZKY05SbDh0UUtudjdpSFMyVkZtR3JxcWE3VVJSbE5XemVhQnp3S0xWR1JkUWhTM3kzSlVmOC1WbEMxMURRdHFpOWc4X051eU9QR1A3VENNSVJoY1hvMlZsQQ?oc=5",
+      "description": "Invesco India Nifty Chemical Index Fund - Direct Plan Fund info The Economic Times"
     },
     {
       "published": "2026-10-11T03:36:00+00:00",
@@ -33861,15 +33852,6 @@
       "title": "Sensex sheds 430 points, Nifty loses 173 points after RBI hikes repo rate - Mid-Day",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMFlYUERYRl9wclBKcTY4QjY5OC04Yl9oNm8tLWJ4QkRGUkZPamZrcHlVZklNX2ZYYWJhN2RXZHJQS0tZYlgtQ0N3MVp0eVVEVi11RDllWjItbXFEUHdlUXNHQWFEVllrbmhrTlUtVkh3amRuTFZDRWtiZzNsSGNRc0w2RXZCV3M5VVFvT0xMeDBYeTJFQ1JKQ2tJTWl2MjNqRFNZeTJaeDdNc0FKSERnMTdkdWFJd3hGblRrdXBFaw?oc=5",
       "description": "Sensex sheds 430 points, Nifty loses 173 points after RBI hikes repo rate Mid-Day"
-    },
-    {
-      "published": "2026-10-10T21:18:49+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Invesco India Nifty Chemical Index Fund - Direct Plan Fund info - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNXZ2SFAwNEkyUVExYTE5UnQ5cjNiUEJJSlYyZWl0UXRVMHFVZlpIaXE2MlFSR1N4dWFQSnEzUW83a0JmbE40ZHJ2cGJHbko1VE1GY0psNU1RRGg0a05oMjNPdmZHS3lrcGJ4ZHRFSURpbHc5cXFFQkdkUFhTVUNmbmkwM0tQZ1lPMldWT19fT2R0dFR2YmE1enphWkFPTHcwOWx4bWYxTl9OZ1o1OEZvTEhUTlNvUQ?oc=5",
-      "description": "Invesco India Nifty Chemical Index Fund - Direct Plan Fund info The Economic Times"
     },
     {
       "published": "2026-10-10T13:26:17+00:00",
@@ -33962,6 +33944,15 @@
       "description": "Northeast’s creator economy holds untapped potential amid India’s influencer boom The Assam Tribune"
     },
     {
+      "published": "2026-10-11T04:06:30+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Vietnam.vn",
+      "title": "Pressure for correction is intertwined with opportunities for the stock market. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnIxVXFwNFJSUXZKOUtXVWhydHY3RVlXWkd0MzRQeWNHbV9XZFhLMGZBVW1KWTB3R19RTGtfZzRVSVpOTzdQUWdZenpGZmVzQVEwS1NPcFFEaWI5QkpNSWtxanYxMVp5TjlhUE1KN190NGFJSEpJbGVyQUU0OEgwY3Z1UVFaZEotVTFMS25R?oc=5",
+      "description": "Pressure for correction is intertwined with opportunities for the stock market. Vietnam.vn"
+    },
+    {
       "published": "2026-10-11T03:33:01+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -33989,15 +33980,6 @@
       "description": "Foreign investors flee South Korean stocks as AI boom loses steam Yahoo Finance"
     },
     {
-      "published": "2026-10-11T01:57:03+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "‘Unwarranted interference’: India hits back at UN rights body over Delhi protest remarks - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPbEdndUVlR2h5Q3ZWdERUS1czWEszcWR0R1hLdWFXMHM2REZBRDBqcGdHdWxQVFE0YUJxWFgycG81eGtIemlfMnlhSVVsV0xnaFBualFSSmx0TEJILWlNVjBHZjJSdHFpZ3JiZm85OWlKZ2xocjZRUGJGRV96MUR1VExfUmRwcEU5YnJqTDZ5ZWhkdlVRbHF6MFRVSmRDalZzYmVVUUZ5OXZDZTVpTV9SWHNscS1yNGk0MnUtTTBQWnJzcnRBaWQxSWV1OTlTdWdRYnpnYWt4WFdhd28xa1dQaERpU2ZxOHRFaEHSAeoBQVVfeXFMT2xHZ3VFZUdoeUN2VnREVEtXM1hLM3FkdEdYS3VhVzBzNkRGQUQwanBnR3VsUFRRNGFCcVhYMnBvNXhrSHppXzJ5YUlVbFdMZ2hQbmpRUkpsdExCSC1pTVYwR2YyUnRxaWdyYmZvOTlpSmdsaHI2UVBiRkVfejFEdVRMX1JkcHBFOWJyakw2eWVoZHZVUWxxejBUVUpkQ2pWc2JlVVFGeTl2Q2U1aU1fUlhzbHEtcjRpNDJ1LU0wUFpyc3J0QWlkMUlldTk5U3VnUWJ6Z2FreFhXYXdvMWtXUGhEaVNmcTh0RWhB?oc=5",
-      "description": "‘Unwarranted interference’: India hits back at UN rights body over Delhi protest remarks Moneycontrol.com"
-    },
-    {
       "published": "2026-10-11T01:50:00+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -34005,6 +33987,15 @@
       "title": "Hong Kong Stocks Fall 1.87% In A Volatile Week As Tech Rally Offers Partial Relief - BusinessToday Malaysia",
       "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVVBLekR3NmRjSmoxSTJnUXpxZWJPQzYyYjZvWlFfUTgtU0p1TVczUmx4cHA2LUNKX2taTE9qSDJlQmhjZWpiZTVfMnNHQ3RuUFhRNDlSYXJFV0UxMlRXM2pDOGVYMUxLSG16aEozS0doR3FEV2ZYZUVyLXRWYks5VWZNbTcycFhpUXN2bEIwXzZUMmhBZVBCNEtWT3JCbzBhUFp1VDNwMzJuN0FHQVhlQWE2cExoaWJERXhFTjJySC1IN1N0?oc=5",
       "description": "Hong Kong Stocks Fall 1.87% In A Volatile Week As Tech Rally Offers Partial Relief BusinessToday Malaysia"
+    },
+    {
+      "published": "2026-10-10T23:45:02+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Stocktwits",
+      "title": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUEo1U1hYZEdLcmpWNjAxdUh1YW14eDI5czlQS1VEMXhRSi1yaUl1V3dOUnV2TEVJWHhXNFQtVDVmaGU5Ny01bUZYZjZ2bFp0MFpnTEtDanZ5MGhSX2ZIYjJBa0R1a3BOaXA2QVNKRDY3Smt0dnY4VlBRLUNZb3BMUjM0Q1l4TlNWR3JwalRlSHpMRDl6MGlrd2Fn?oc=5",
+      "description": "VRT Stock Headed For Worst Single-Day Fall In Over 15 Months — Vertiv Says ‘Minor Timing Shifts’ Weighed On Q2 Revenue Stocktwits"
     },
     {
       "published": "2026-10-10T22:49:04+00:00",
@@ -34088,24 +34079,6 @@
       "description": "Why Is BE Stock Rebounding After Last Week’s Selloff? Stocktwits"
     },
     {
-      "published": "2026-10-10T17:13:36+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Stocktwits",
-      "title": "PHAT Stock Clocks Worst Day In Over 1.5 Years — What Sparked The Selloff? - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGVVMkZOdUE4NDZMLU1YWlN3QTNQTWZSN1ZULTdONXQzaXpzbXhrY2RiSXpUZm9EV29FRDVKaXpIcUdvSEh5WEFSZzAxUkdYektZcGNLLUZ2SE5IZC10ZHNIcUoxeHBpV19kVzdmMEw4M3JzNjVkeTRYejcycjFKZmtBc2JsdFpZNVp1dllYQk15OVE0ZUJiMmFNbEgyT3hJUjB0U05uV1ItOGRPTHVDYVpaT0NHV3dMNjVqTG8xeGtueWdtUlVCeFMydjI0ajg?oc=5",
-      "description": "PHAT Stock Clocks Worst Day In Over 1.5 Years — What Sparked The Selloff? Stocktwits"
-    },
-    {
-      "published": "2026-10-10T16:54:58+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Pluang",
-      "title": "Bond selloff seen overdone; government bonds ma... - Pluang",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVnNBZkhtLUJvdFR0TUlXeVN4NVpNTHZWSXRhczlKZXZPNlh4Ulh0VUFpczVaNml6NkNGcXBQYmcyX2hfWkJDMDloZU84WGYtb3VKT1J1SnFtU1hNZV9Jd2xHcDRZNWlIRW9nM0l6aUczQ2tIN0lWSzh5TGRzY1pZZ3B1NGNzdkxnTGpzNUw3YmRCZTktamZzNjBB?oc=5",
-      "description": "Bond selloff seen overdone; government bonds ma... Pluang"
-    },
-    {
       "published": "2026-10-10T16:52:33+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -34151,24 +34124,6 @@
       "description": "AI Models Mine Blood Gene Data to Uncover New ALS Biomarkers Bioengineer.org"
     },
     {
-      "published": "2026-10-10T13:45:21+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Security guidelines key to final nod for satcom services in India - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkhoMmtTYjV3TUtnM0x0YnFHZTdUWjlnaFJPemFhU01yRThuNnEtSTFHU0dhZEtyTTJ5V1ZNRXRwNE9EN0xqTGtkRDJiVHRmMmI3VzJBWlE3N2dNazJlbThmM3l6M09JMzZzYXdTd3FndjRNUXFSaWFvZlpxeDNoN2tvN3MydU9sMG0xY0YxR1E4TmdlNTJlLTdoZlVNdjV3WDBtbFBiWmFEUjRxd1IzZ2lNaEE3aFQtQW9lTVo1SGplZnIw0gHEAUFVX3lxTE5KSGgya1NiNXdNS2czTHRicUdlN1RaOWdoUk96YWFTTXJFOG42cS1JMUdTR2FkS3JNMnlXVk1FdHA0T0Q3TGpMa2REMmJUdGYyYjdXMkFaUTc3Z01rMmVtOGYzeXozT0kzNnNhd1N3cWd2NE1RcVJpYW9mWnF4M2g3a283czJ1T2wwbTFjRjFHUThOZ2U1MmUtN2hmVU12NXdYMG1sUGJaYURSNHF3UjNnaU1oQTdoVC1Bb2VNWjVIamVmcjA?oc=5",
-      "description": "Security guidelines key to final nod for satcom services in India Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-10T13:42:46+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "'Stop begging Elon': Netizens mock Musk over remarks on Starlink's India entry - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk04WnI1ZUNLYzRKdHQtZDhLdW9xNmRUNkd0aVhHa05EQlB1ZXRkR21fblFmaTROREFlRjdyRjZLWExUdVVvQVh0ekkwU1o4V0ZSWk9YdDdYWWdDazRoclNoSFNBbmdacExFS3VNMGZkODNvN3Y1NmZKNmhoUWNEaFhIbFEtY2M5T3NMNGN2VU9QQUFkUVI2a2hidzE3dDNLRGc3dmd0b0U3NlkwVEprZlhOend0b2xfcGhsUFU2UnhOTUhnZHIxUllFaTUyZlHSAc8BQVVfeXFMT0JNOFpyNWVDS2M0SnR0LWQ4S3VvcTZkVDZHdGlYR2tOREJQdWV0ZEdtX25RZmk0TkRBZUY3ckY2S1hMVHVVb0FYdHpJMFNaOFdGUlpPWHQ3WFlnQ2s0aHJTaEhTQW5nWnBMRUt1TTBmZDgzbzd2NTZmSjZoaFFjRGhYSGxRLWNjOU9zTDRjdlVPUEFBZFFSNmtoYncxN3QzS0RnN3ZndG9FNzZZMFRKa2ZYTnp3dG9sX3BobFBVNlJ4Tk1IZ2RyMVJZRWk1MmZR?oc=5",
-      "description": "'Stop begging Elon': Netizens mock Musk over remarks on Starlink's India entry Moneycontrol.com"
-    },
-    {
       "published": "2026-10-10T13:38:08+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -34187,15 +34142,6 @@
       "description": "European Bank Stocks Enter Correction on Yield Spike Briefs Finance"
     },
     {
-      "published": "2026-10-10T13:07:02+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Did Elon Musk write his Starlink posts on India? X users debate his writing style - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOYzFCM05faElHQk1Ic0NTQzZOa0FaVk9pTDlzbTNlOS1oZEdzSUJDc3RVVG9xZ1lkaHgyYnFpOVRnZGk5RzJDeEQ3ZUlUM1cxb3N5bmhmOWg3bUhVdEZXXzVLanAzU2Z1T3VBZzFHenJSZHFta1hZbmNiQUVxd3hCUFNTaXdwamVibVZSNUtxdlNLeDg1ckx4NEVyMldEV2NFaFUwZmtDdF9kYldHemprX0pSZHJZZmJEU1BEV0ZmOU1KZU5LQzZ6a2hsczFwa20tRmFIStIB1AFBVV95cUxOYzFCM05faElHQk1Ic0NTQzZOa0FaVk9pTDlzbTNlOS1oZEdzSUJDc3RVVG9xZ1lkaHgyYnFpOVRnZGk5RzJDeEQ3ZUlUM1cxb3N5bmhmOWg3bUhVdEZXXzVLanAzU2Z1T3VBZzFHenJSZHFta1hZbmNiQUVxd3hCUFNTaXdwamVibVZSNUtxdlNLeDg1ckx4NEVyMldEV2NFaFUwZmtDdF9kYldHemprX0pSZHJZZmJEU1BEV0ZmOU1KZU5LQzZ6a2hsczFwa20tRmFISg?oc=5",
-      "description": "Did Elon Musk write his Starlink posts on India? X users debate his writing style Moneycontrol.com"
-    },
-    {
       "published": "2026-10-10T12:48:26+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -34203,15 +34149,6 @@
       "title": "Bond Selloff Deepens as Rising Energy Prices Stoke Inflation Fears - EnergyNow.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemtSa3JJQkVwSHZGNmViMTQzWjVCMHIwWjhWRkNkR2V5X0lvSE01MG9VYjVQYnIwcU5mSk5RZkQ2NEMyOFRPVVRqc012c2QyUkNnQ2VmZmtSU1FDYk1LNHdkU2FpbUdZNzdIUEdmLVhfSGxKYkxacDlmQnhBZnFQTnpNMktqT09obzYxZXAyZTdOaHlJWmhjOGl0TTZxQQ?oc=5",
       "description": "Bond Selloff Deepens as Rising Energy Prices Stoke Inflation Fears EnergyNow.com"
-    },
-    {
-      "published": "2026-10-10T12:34:25+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Musk's track record, political clout raise security concerns over Starlink in India: Report - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOckg3SHRheG9USi1RaFQwTW91WUs1RGl1YzlCWnZhWGY2RTk2cEYyLUlzYnd0aEJTWXNMdG9UY3hORUU5RnlsUHhLa1NSTTlINmtvM0p3dXV1aGRaaWIyUlBiblExTHVEZnNtenpqUF9NX3ZHYkRZRDlodzZ1djYwVVpuNUNjVlZzc2ZpMWJfd09DVWFvaHR3Vm80bzZBVU9lLTJjQUpPYjlTZk4wck1DN29vUmtFSFVqV0FaODc2V2ZQZDJyMXdWR2ZHTnBGbEVsQkkwWnVWYkRNWEJ1TXo2QTBMMHDSAeQBQVVfeXFMTnJIN0h0YXhvVEotUWhUME1vdVlLNURpdWM5Qlp2YVhmNkU5NnBGMi1Jc2J3dGhCU1lzTHRvVGN4TkVFOUZ5bFB4S2tTUk05SDZrbzNKd3V1dWhkWmliMlJQYm5RMUx1RGZzbXp6alBfTV92R2JEWUQ5aHc2dXY2MFVabjVDY1ZWc3NmaTFiX3dPQ1Vhb2h0d1ZvNG82QVVPZS0yY0FKT2I5U2ZOMHJNQzdvb1JrRUhValdBWjg3NldmUGQycjF3VkdmR05wRmxFbEJJMFp1VmJETVhCdU16NkEwTDBw?oc=5",
-      "description": "Musk's track record, political clout raise security concerns over Starlink in India: Report Moneycontrol.com"
     },
     {
       "published": "2026-10-10T12:10:51+00:00",
@@ -34295,6 +34232,15 @@
       "description": "Is thrifting the future of style? What the 2,500% search spike says about India’s shopping habits Firstpost"
     },
     {
+      "published": "2026-10-10T08:53:53+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Invesco India Medium Term Fund - Direct Plan Fund info - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQanFTSTJFbmN0V3phNUFMZWtPejAyZmh2NHY5LXRBSEppcThvUXdqc1ZDMUw3bmU2NTQ2U0sxR05SR3hKTGIwcGdwV0JuQ01sSkxlU1RGeDZ3bVNjaWZKME5YMlhsSWlVbHNhbU1EMlkyV01LbXNfZ2ljQS1GZGhrNEFOaG5CbzAxTi1EOVBnbWpESFMtaU5mNDlXb3pkV2p5cGF3UQ?oc=5",
+      "description": "Invesco India Medium Term Fund - Direct Plan Fund info The Economic Times"
+    },
+    {
       "published": "2026-10-10T08:50:56+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -34358,15 +34304,6 @@
       "description": "Gold Correction Improves Risk-reward, Equities Look More Attractive: CEO Of Choice Wealth BW Businessworld"
     },
     {
-      "published": "2026-10-10T07:40:36+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Talk of the Sound",
-      "title": "Westchester Correction Officers Arrested for Official Misconduct in Valhalla - Talk of the Sound",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSmR4QXM2SHYwWm9LOEhoODJLV0M5eXBXZktuZGNfZ1BHSWVOZEo5VzNNNTdDNXBZTWVfYnJuYXZWUUYyLS0tdWxPNUZIRkNzZlVoc0VFMHdwdm9IckpyTmpWSFVHTVFLZ2VMZVRhdWcwOXpVUDBhQjhIQktlU2NoUW5haTQwdk4tcXJHUlFGekN5STJuMnU2LV9nVmUzcElGMW1ub0JJSXFtNHB3Y0d5bWtVY205UQ?oc=5",
-      "description": "Westchester Correction Officers Arrested for Official Misconduct in Valhalla Talk of the Sound"
-    },
-    {
       "published": "2026-10-10T07:22:48+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -34374,33 +34311,6 @@
       "title": "Zee 24 Ghanta. . Simplify the complexities of the stock market with Kwala Intel! Whether you want to understand any stock or research your portfolio, get answers to all your questions in your own language. #KwalaIntel — Your Personal AI Market Research Part - Facebook",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNQVBiRmNiVXZ5NlB1M05iT2pxZlc2NGdyNEEzaVhDdTdwZFJ0OXU2X0NQSnN6Mm1PR1VYUEVYN1RSNlNFVWFKSmQ3TlF5dUE3N2Y4dlkzMzZrZEVON3RxS0FiekJsVnNfZ1J4OU1SaUZkYXQtY05nalBMejB5VG1BOTNSUVdJWWI5NU5fUmJaWGpEWkpZbzc0R1k2d2x6bFNTbjBPMjV3NjRjYWpiZFFiMm1aVGViTkZFOEdWNFJ1X1NlUGl6LWRsakJJMHRoeHBmVzBKcXNSX1h0QQ?oc=5",
       "description": "Zee 24 Ghanta. . Simplify the complexities of the stock market with Kwala Intel! Whether you want to understand any stock or research your portfolio, get answers to all your questions in your own language. #KwalaIntel — Your Personal AI Market Research Part Facebook"
-    },
-    {
-      "published": "2026-10-10T06:51:36+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Samco",
-      "title": "Top 10 52-Week Low Shares To Buy In India October 2026 - Samco",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RSERnMHJOMFZWbERwRE04WjRzYjNoYUxBQVJONTZSNGJsX01zRlhkUlN2ZlE2aEdCcDBRTm8xM09tajQ5Z1lvWlZxWUNEdWVxSFI4NWtURkg0UWNQaXBjVHBhSUtjYUtzWlZOZDFtc2czLXUyTnpoQw?oc=5",
-      "description": "Top 10 52-Week Low Shares To Buy In India October 2026 Samco"
-    },
-    {
-      "published": "2026-10-10T06:51:23+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Samco",
-      "title": "Top 14 Pharma Stocks To Buy In India October 2026 - Samco",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmxaNUxpT2wtdzdBOEMwZ18tbzhmM3NVOXN1RXlaTy1wR1N2SmZRb0RKSlZPSUpvRnhxaTlHQnBpYXV5X2RhNHNlYnEtYjctblphSkpUbWJHRDRoRWZwY3ZXMmMwRlBYZWR2TFhMcUhHU0lOd19VVmY4a0pxYUF2djNyOWp0TE9Rc0E?oc=5",
-      "description": "Top 14 Pharma Stocks To Buy In India October 2026 Samco"
-    },
-    {
-      "published": "2026-10-10T06:44:34+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Fortune India",
-      "title": "IPO market defies weak equities; listing gains rise to 19% in H1 FY27, retail bids reach ₹2.47 lakh crore - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPYWYtZ1FOUlo3RG9fbGxmZzJmWU9TR1hsbDBwMGlDcU5BcDJDcDg2YTJzWnpaSDAweVIzcTMzbWJwM2dfcF9pZU1nbnFpZWxvWG1YQlZ4NHVyaEQwZ0x4WmJkUGJxSXp0bUxkMmFLRkhqamxaNHNLTDc3MHRXMklfSjAtbjlmNjFpRTdSSzdnU2Y4OE1zcXFjQi1jNmU3VXM1b3prSmhQSjV5WlhsekV1TnMyVFpubXo2czc4NUo4OVkyYWt3aHRyWU9FRTRwTjJQZnNWYUFia2VhTFB4b1N3TEpn0gHvAUFVX3lxTE9OYU9JaW1vb0lEQ3ZvamNFckxZMHd2ajhobjB1bGJrLXktLTFzbi1RSDZOXzc0ZjZZSnhhQy13UjRxR0dvWTBzSTU3b3JYb2NjUzJoV05HMnd6eWhfRVp0dUNRQnBjQkN6dG9rVlAtU2M4QUctTjNodGZ5YzR1a2QwcTB4OU5OU0xOX2Nob01DNjlQVjk3LUsweWpLMGJXVERrWEhQTkNVclVtczlpQ0tTbTJpYmQzLXh1LTRrSEZOS3YwTTJNYW56djZ1bnA5WWJBVW1ibWNuQkpCdkkzZEc0Q2ZCT09NN1pENmJjY1BB?oc=5",
-      "description": "IPO market defies weak equities; listing gains rise to 19% in H1 FY27, retail bids reach ₹2.47 lakh crore Fortune India"
     }
   ]
 }
