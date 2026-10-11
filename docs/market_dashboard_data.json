@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 08:41 IST",
+  "generated_at": "2026-10-11 09:10 IST",
   "wire_file": "2026-10-11-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -24,7 +24,7 @@
   "posture": {
     "stance": "Mixed",
     "wire_count": "2",
-    "wire_total_count": "70",
+    "wire_total_count": "74",
     "wire_scope_date": "2026-10-11",
     "ai_wire_count": "0",
     "selling_wire_count": "1",
@@ -21319,7 +21319,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-11T08:40:47+05:30",
+    "generated_at": "2026-10-11T09:10:25+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -33705,6 +33705,15 @@
       "description": "S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off BBN Times"
     },
     {
+      "published": "2026-10-10T18:04:34+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Stocktwits",
+      "title": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3ZrUGRtVXVoS1ktOGxTY0lwMTNJY1VDRlBLS2FRRHBRdnhqc3FJbGI2Z2UxemVQTHNOa1ktRjQtZ0hpYWZsR2R0UkRQVF9TWnlpRFl5TURQUHEyVDBRdVVSd21DVmhQeW5oaU5ULUZJUHYxdzBTbGpZNG5hQVRaVFR1TEUzcm1XR2VzTzJXeUlHanUzaDNfVTdpVHc0MzBjV2otOF9ISV9hMXF3WGQ2aHB1SnRGOXYxSkFV?oc=5",
+      "description": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race Stocktwits"
+    },
+    {
       "published": "2026-10-10T15:05:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -33741,12 +33750,12 @@
       "description": "SIP Discipline and Retirement Allocation Tested as Nifty Corrects Kalkine India"
     },
     {
-      "published": "2026-10-10T09:34:22+00:00",
+      "published": "2026-10-10T09:18:44+00:00",
       "score": 4.0,
       "themes": "['India market']",
       "source": "The Economic Times",
       "title": "AMFI Rejig: Vedanta and HDFC AMC among 7 largecaps stocks that may slip into midcap category in H1 CY27 - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPMTkzTzd6c1UyQ05mLVNGYW1WeHhZX0dBNlRmUzd1eHFzVXNCY1ZPdVlucDd4MGN1ck5YcUhZVzR5a1JZaG13MUlFb01iZnFJc0E5N0N2dnUtQlhhdFVDSXFfUXJPVnlXRGZnbDlUWUgtenNDakRwN2hrOWhycWVIRlVfUkdWaXVuaHludTNySE14aWY2QkFfTXdlbVhnNk1uYlpfOEJrQW1PZTJzLS1naUs1XzdpNVhTLWpVdHIzQVJwZm85Z0w2eFlzajRaZVBfcFNMSWZwd0VTbUg1VVJRX3dNdTBwdGRfSXpPa0RiQkZFSVBveVhJekFPYUpZU1lBRGI1UkhR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOY2p3RzFCZVhUWHYtVDR4VnUxYUhmcl95aHRUeFE1ci1SbUtqc0QzWnRnS0Y3MDVGV25obGNYWlFvMTRNdlkxcjJJM2h1Qnp1R3FraFA0c21DZnJvMWprU0w5MmJtT1FXZFRRaW1FYlFDTW1lS2twSzdxRDY4TGNjaXNQS01SaUhoSm1jT3VPbXo5UV9ENDlLanlzSl85akxKVFpKRlh4WTFUSHFuY1JXSnh1TW9LV05MOWZ1LUktX0k4Q3ZOdTQ5eHBDdDRvclNKZEZaVkJNUkx3MllPMGJVaEF3UWs3OUFGYXpNMVFHUkRuc1FjWVNhN3hBUmMxV2o1REZibjVaeXpUSDJoMUxmYktKR0cta1dHNi13RnBNUDh5R2RYcXVLX2NwMmRNcUxEeWhES1RKUldublFtcktyd1Z1QmJzUQ?oc=5",
       "description": "AMFI Rejig: Vedanta and HDFC AMC among 7 largecaps stocks that may slip into midcap category in H1 CY27 The Economic Times"
     },
     {
@@ -33885,15 +33894,6 @@
       "description": "AI valuation bubble could burst, bringing foreign investors back to India: Ambareesh Baliga ANI News"
     },
     {
-      "published": "2026-10-10T08:15:37+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "DD News",
-      "title": "Markets Remain Under Selling Pressure; Sensex, Nifty Extend Losing Run - DD News",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1ZrTE44bjFJakFMYlBySHNVSmFBUXZ3dkZDei1KYk96QVJYMEs5c2hLazNOSWk0YWtmMXFvWTA0ZU1sTjMtelhieFFKTWY0eUswMGthczd2eEJIUEc1aFJZQjJaU0V0c0FDX1hzamF3VjVXTXlhUS1hN3VtSU9pd1NaY0diOEVZTlFmYi1ERUZablg4UHBtM2tR?oc=5",
-      "description": "Markets Remain Under Selling Pressure; Sensex, Nifty Extend Losing Run DD News"
-    },
-    {
       "published": "2026-10-10T04:25:51+00:00",
       "score": 2.0,
       "themes": "['market selling', 'macro / flows']",
@@ -33912,15 +33912,6 @@
       "description": "Hong Kong Stocks Fall 1.87% In A Volatile Week As Tech Rally Offers Partial Relief BusinessToday Malaysia"
     },
     {
-      "published": "2026-10-10T22:34:18+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "INDIA New England News",
-      "title": "Rohit Sharma Sets Sights on 2027 ODI World Cup, Emphasizes Fitness and Consistency - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQa0l6MUpNajRlX2pwa3dFOUVWaVV4bHdXWGRzXzREWmFPZHlkeXNqZHlXLUtpcnk5UGJVN3VRYnlDRTA2T0h0aXlCeWNGVFZadTB2Yjg3S25fLTNZV21sWFhRb2JLUWQ2SEUwNmdpektxWGx6c01ZRzBPck9zd0tBanBodnpOX0FaWldGSHQweXF5TGxHN1c2TzZ5SFZPXzZoTTVjUmx1U2w1ZXREQkkw?oc=5",
-      "description": "Rohit Sharma Sets Sights on 2027 ODI World Cup, Emphasizes Fitness and Consistency INDIA New England News"
-    },
-    {
       "published": "2026-10-10T22:28:54+00:00",
       "score": 1.0,
       "themes": "['macro / flows']",
@@ -33937,6 +33928,15 @@
       "title": "AI boom in question, again - The Star",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORUZnSkhmc3ZJNWpxMnF0V01BeGhfbTVHNl84eURnVmxkUV9KVGxSRlNjLVVBOFpsbE5CbzNrbDFCVTV5VHNNbFlENXdHdjFuTXdNSzJFSmo0MjlZY3RaSU5oSHFTenhLM3JoV3hvUzZ5SzhCRnY5MHhvYmdEWWh1VHB1NTdVVTYwZXpyOWFMbw?oc=5",
       "description": "AI boom in question, again The Star"
+    },
+    {
+      "published": "2026-10-10T20:31:22+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Stocktwits",
+      "title": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2VmSDgwWG53Wl8tWEgzMks3andfUFltMkhwMXRzWDJVM00yanMtU0R2NlpvdjBFUGpOaDVqTTdOcEVySXkta2ZOX0FYY1pLcTdUbl8wSHFJR1dsOXh3OEJaNjZ1NzYzTkE3Z2hraU9hNTVha1JmS1FvRjJSajNaMGJUN1RrSnM2M05lZFpEUF9rM1pPbjFLbkRIelo1UmljS093OFZ6eGVXRFZCWkc2NUhPTlRSMHVybXhpX0ZrY0cxQnF5RnVDbEd3?oc=5",
+      "description": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade Stocktwits"
     },
     {
       "published": "2026-10-10T19:22:46+00:00",
@@ -34000,6 +34000,24 @@
       "title": "AI Models Mine Blood Gene Data to Uncover New ALS Biomarkers - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmxRNTZXSWJqX0lXZkFuYzFjZ3BqdmtMU29iWVB6ZXo3Uy1YVmJhNzVVWXVnajJLSVNESTR4MExCU0dHRmFVdUltcmpuQXFpeEszSXJZNlVKQUVaX1FuUGJ0WWd0bVZBaWRsa0Q4NnVtQWtIRU83RjFrM19GaFFjUm5jYXdaSFhxbkdQZk5n?oc=5",
       "description": "AI Models Mine Blood Gene Data to Uncover New ALS Biomarkers Bioengineer.org"
+    },
+    {
+      "published": "2026-10-10T13:45:21+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "Security guidelines key to final nod for satcom services in India - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkhoMmtTYjV3TUtnM0x0YnFHZTdUWjlnaFJPemFhU01yRThuNnEtSTFHU0dhZEtyTTJ5V1ZNRXRwNE9EN0xqTGtkRDJiVHRmMmI3VzJBWlE3N2dNazJlbThmM3l6M09JMzZzYXdTd3FndjRNUXFSaWFvZlpxeDNoN2tvN3MydU9sMG0xY0YxR1E4TmdlNTJlLTdoZlVNdjV3WDBtbFBiWmFEUjRxd1IzZ2lNaEE3aFQtQW9lTVo1SGplZnIw0gHEAUFVX3lxTE5KSGgya1NiNXdNS2czTHRicUdlN1RaOWdoUk96YWFTTXJFOG42cS1JMUdTR2FkS3JNMnlXVk1FdHA0T0Q3TGpMa2REMmJUdGYyYjdXMkFaUTc3Z01rMmVtOGYzeXozT0kzNnNhd1N3cWd2NE1RcVJpYW9mWnF4M2g3a283czJ1T2wwbTFjRjFHUThOZ2U1MmUtN2hmVU12NXdYMG1sUGJaYURSNHF3UjNnaU1oQTdoVC1Bb2VNWjVIamVmcjA?oc=5",
+      "description": "Security guidelines key to final nod for satcom services in India Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-10T13:42:46+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "'Stop begging Elon': Netizens mock Musk over remarks on Starlink's India entry - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPQk04WnI1ZUNLYzRKdHQtZDhLdW9xNmRUNkd0aVhHa05EQlB1ZXRkR21fblFmaTROREFlRjdyRjZLWExUdVVvQVh0ekkwU1o4V0ZSWk9YdDdYWWdDazRoclNoSFNBbmdacExFS3VNMGZkODNvN3Y1NmZKNmhoUWNEaFhIbFEtY2M5T3NMNGN2VU9QQUFkUVI2a2hidzE3dDNLRGc3dmd0b0U3NlkwVEprZlhOend0b2xfcGhsUFU2UnhOTUhnZHIxUllFaTUyZlHSAc8BQVVfeXFMT0JNOFpyNWVDS2M0SnR0LWQ4S3VvcTZkVDZHdGlYR2tOREJQdWV0ZEdtX25RZmk0TkRBZUY3ckY2S1hMVHVVb0FYdHpJMFNaOFdGUlpPWHQ3WFlnQ2s0aHJTaEhTQW5nWnBMRUt1TTBmZDgzbzd2NTZmSjZoaFFjRGhYSGxRLWNjOU9zTDRjdlVPUEFBZFFSNmtoYncxN3QzS0RnN3ZndG9FNzZZMFRKa2ZYTnp3dG9sX3BobFBVNlJ4Tk1IZ2RyMVJZRWk1MmZR?oc=5",
+      "description": "'Stop begging Elon': Netizens mock Musk over remarks on Starlink's India entry Moneycontrol.com"
     },
     {
       "published": "2026-10-10T13:38:08+00:00",
@@ -34074,6 +34092,15 @@
       "description": "5 Key Differences Between SGX Nifty and GIFT Nifty The Statesman"
     },
     {
+      "published": "2026-10-10T10:42:34+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "India-EU FTA to be a ‘game changer’, pact aimed for 2026: EU envoy Jean-Eric Paquet - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVUxT2pXcVMzVFBiVGI5eDNFXzFZclo4U2NuTnJQODBudDRLWWJlWXhrRWluZzJmS1p3dWdYb2pmWUdvNnh1MDdDNS1BRWJPR3lFbk9mZHBzeVpic0g2eERYRGEwOERxbWhBcUhzUmJDQlNWd1V6aTF0bW9MUi13dzZndVBXX1hyNjJKbVdKY1JhT2RYLVJGR3ZBSlBZSVBXcTdQWV9HTEg4MHFVV2QtRmdJS1J6Zk4yVzFSM1VTZm1LdkhNMDJvaTl2REhsQ19RcGF6Z0N4a9IB1wFBVV95cUxPZVUxT2pXcVMzVFBiVGI5eDNFXzFZclo4U2NuTnJQODBudDRLWWJlWXhrRWluZzJmS1p3dWdYb2pmWUdvNnh1MDdDNS1BRWJPR3lFbk9mZHBzeVpic0g2eERYRGEwOERxbWhBcUhzUmJDQlNWd1V6aTF0bW9MUi13dzZndVBXX1hyNjJKbVdKY1JhT2RYLVJGR3ZBSlBZSVBXcTdQWV9HTEg4MHFVV2QtRmdJS1J6Zk4yVzFSM1VTZm1LdkhNMDJvaTl2REhsQ19RcGF6Z0N4aw?oc=5",
+      "description": "India-EU FTA to be a ‘game changer’, pact aimed for 2026: EU envoy Jean-Eric Paquet Moneycontrol.com"
+    },
+    {
       "published": "2026-10-10T10:34:52+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -34081,6 +34108,15 @@
       "title": "Micron stock may drop 61% to $400 by June 2027 before resuming AI-driven growth. - Pluang",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9DWU1WVGt4SzQydG5YZUNhMU5kYU1RU3RFN2oxVzNxeWcxV3liQ2ktNlJWMVRzWTVEUU5IeWJFVzNNeVFkZ05faVFZTGJuTlZRby1heXJnU2UtYTRrQVRjbjFWb1NHZXhqa00wUmdNSjgyRU5YRXBEb2MxNjg?oc=5",
       "description": "Micron stock may drop 61% to $400 by June 2027 before resuming AI-driven growth. Pluang"
+    },
+    {
+      "published": "2026-10-10T10:15:23+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Nifty 500 Live | NSE Nifty 500 Index Today - S&P CNX Nifty 500 - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lRjVkcU5HVERFNWo1R1ZNVHVmaFM5R1NuejNwNlpyaWpzVl9GdXRlQjNBTWw4R25xQmU2SzlXNFpRdUFBVTIxZVktNHUzRGZucW1ubmRYVmVmcEw0UnY2QnM0cmNFSXB6N2hrekJGOTcydw?oc=5",
+      "description": "Nifty 500 Live | NSE Nifty 500 Index Today - S&P CNX Nifty 500 The Economic Times"
     },
     {
       "published": "2026-10-10T09:41:55+00:00",
