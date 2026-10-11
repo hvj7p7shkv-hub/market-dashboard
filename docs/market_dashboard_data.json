@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11 09:10 IST",
+  "generated_at": "2026-10-11 09:41 IST",
   "wire_file": "2026-10-11-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,30 @@
   },
   "posture": {
     "stance": "Mixed",
-    "wire_count": "2",
-    "wire_total_count": "74",
+    "wire_count": "5",
+    "wire_total_count": "77",
     "wire_scope_date": "2026-10-11",
-    "ai_wire_count": "0",
-    "selling_wire_count": "1",
-    "india_wire_count": "0",
+    "ai_wire_count": "1",
+    "selling_wire_count": "2",
+    "india_wire_count": "1",
     "weak_index_count": "14",
     "valid_index_count": "24"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-11 01:50",
-      "title": "Hong Kong Stocks Fall 1.87% In A Volatile Week As Tech Rally Offers Partial Relief - BusinessToday Malaysia",
-      "text": "Latest dated headline · BusinessToday Malaysia. Today's unique wire set contains 2 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-11 03:36",
+      "title": "Q2 earnings growth could hit double-digits after 8–9 quarters of subdued performance, while Nifty valuations have corrected sharply. 📉 Forward P/E at 17.2x — 18% below its long-term average and 31% below September’s peak. 💰 Cheaper stocks. Time to bu - LinkedIn",
+      "text": "Latest dated headline · LinkedIn. Today's unique wire set contains 5 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-11",
-      "title": "India relief is leading the tape",
-      "text": "The latest wire slice for 2026-10-11 is being led by India recovery language, with 0 India-market wires versus 1 selling/risk wires."
+      "title": "India relief, global AI overhang",
+      "text": "The latest wire slice for 2026-10-11 has 1 India-market wires, 2 selling/risk wires, and 1 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+    },
+    {
+      "label": "AI / Chips · 2026-10-11",
+      "title": "Asian AI and chip risk-off",
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: AI-Led US Stock Market Bull Run Nears 4-Year Anniversary - Times Now"
     },
     {
       "label": "Funds",
@@ -21319,7 +21324,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-11T09:10:25+05:30",
+    "generated_at": "2026-10-11T09:41:22+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -33840,6 +33845,15 @@
       "description": "SIP investors face prolonged pain as market slump erodes returns: Ambareesh Baliga Magzter"
     },
     {
+      "published": "2026-10-11T03:36:00+00:00",
+      "score": 2.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "LinkedIn",
+      "title": "Q2 earnings growth could hit double-digits after 8–9 quarters of subdued performance, while Nifty valuations have corrected sharply. 📉 Forward P/E at 17.2x — 18% below its long-term average and 31% below September’s peak. 💰 Cheaper stocks. Time to bu - LinkedIn",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTm5QLW1wMXFqVmxaRGNEc1hhMHBrdWI5bTNYYWtrczd3SXEzRXQtcURfVVVfNFNTTTVVb1pyUTg1UllZMnRRNndEUVBpd3FTaFlkQ2lHdTdHdTJ4NlhqS0JZZDFSM0NMMXhFLTljNVNsQmJvTTZFMVNKS25JTXNqbjZGMllQMUJlVnVOM2NIRkphOUFiQVJPT0VhNF8zdkZFM0RYVXhoSF8tbnk3NXl2clFVSjNhT2dJ?oc=5",
+      "description": "Q2 earnings growth could hit double-digits after 8–9 quarters of subdued performance, while Nifty valuations have corrected sharply. 📉 Forward P/E at 17.2x — 18% below its long-term average and 31% below September’s peak. 💰 Cheaper stocks. Time to bu LinkedIn"
+    },
+    {
       "published": "2026-10-10T21:18:49+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -33903,6 +33917,24 @@
       "description": "Euro falls, set for fifth straight weekly drop as oil prices rise The Economic Times"
     },
     {
+      "published": "2026-10-11T03:33:01+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Times Now",
+      "title": "AI-Led US Stock Market Bull Run Nears 4-Year Anniversary - Times Now",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcmlRd2h6N01XbENybHo5QVNPUDNJN3Y4elZPZnBhbGp0dm5TVGxpX1NxX1BxbE1IclFVVVBJUmptclZudktfN3dybUwwUzA1R0kyT1pnbElQc1R0ZERkOENXZVlRWkpNTzhjR1RhOUxwLVlDWnMwOXdfV3RNVThZR1NVUFNSYkFBeTgtUWtlUFNDZzZJXzZRamFHY2pHcXltbFR3d001TkMxcHNDQXNELXVFcXNFLXhkYW9QaHQxeVBOYzNOTDRj0gHMAUFVX3lxTE9xRmYyV1hnTG9VYlFtYzFFenUwdG0xbGJsTk1VSmhYUGI2dE9QaXd6YVlNZnZYWGRCOHpqbU5nZkliTi1TaGpvbUtqZ0hFNjhkNjFDQk93X05oNndpdFptMjhKZTdvaU9XcjhubUVtY29sdzV0Zy1CdUc3TDB1dmlZS2xWMzJMNUIyN3dwM3JwUms2eFZUM1ZFWVBpb1VuV2tjcGVzajk3MWw2R2pPZzBLV0JFelBqRmdtamRDeExZa0hlUmtub1lmRF81dA?oc=5",
+      "description": "AI-Led US Stock Market Bull Run Nears 4-Year Anniversary Times Now"
+    },
+    {
+      "published": "2026-10-11T03:14:11+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Business Standard",
+      "title": "Trust in science falls as Covid-era confidence fades, finds global survey - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOOFYxMjJLWWtZVjZSZUJIeHd0Z0FNV2ZYYVNSLWY5WjlXYjRFdlJTYjFFV2hlVkt6WDNoRlJ2ZzBxMGR2RTd1YnY3ZVRhcUlLYVdrNTVMX05UYWNlSUNKbTdzSEZkZ0ItSXE1bm9pc1Rnbk0zQzBkQ0Z0Xzl4LWhzeTdLR010cE1BU09jLUJKOVhFZHJQUlN1NV9lT1I0Sk5qX0RhVEZ5cjR0Yk9jeWxQU1VHd3pHdVkwXzktRko0MDZjTE5ibkpsS0xRM2ltUjZIQVhVcmYtejPSAdgBQVVfeXFMTjhWMTIyS1lrWVY2UmVCSHh3dGdBTVdmWGFTUi1mOVo5V2I0RXZSU2IxRVdoZVZLelgzaEZSdmcwcTBkdkU3dWJ2N2VUYXFJS2FXazU1TF9OVGFjZUlDSm03c0hGZGdCLUlxNW5vaXNUZ25NM0MwZENGdF85eC1oc3k3S0dNdHBNQVNPYy1CSjlYRWRyUFJTdTVfZU9SNEpOal9EYVRGeXI0dGJPY3lsUFNVR3d6R3VZMF85LUZKNDA2Y0xOYm5KbEtMUTNpbVI2SEFYVXJmLXoz?oc=5",
+      "description": "Trust in science falls as Covid-era confidence fades, finds global survey Business Standard"
+    },
+    {
       "published": "2026-10-11T01:50:00+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -33930,13 +33962,13 @@
       "description": "AI boom in question, again The Star"
     },
     {
-      "published": "2026-10-10T20:31:22+00:00",
+      "published": "2026-10-10T21:08:00+00:00",
       "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Stocktwits",
-      "title": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQ2VmSDgwWG53Wl8tWEgzMks3andfUFltMkhwMXRzWDJVM00yanMtU0R2NlpvdjBFUGpOaDVqTTdOcEVySXkta2ZOX0FYY1pLcTdUbl8wSHFJR1dsOXh3OEJaNjZ1NzYzTkE3Z2hraU9hNTVha1JmS1FvRjJSajNaMGJUN1RrSnM2M05lZFpEUF9rM1pPbjFLbkRIelo1UmljS093OFZ6eGVXRFZCWkc2NUhPTlRSMHVybXhpX0ZrY0cxQnF5RnVDbEd3?oc=5",
-      "description": "'Big Short' Investor Michael Burry Initiates PYPL Position At $49 — And Says Software Selloff Was Not A TACO Trade Stocktwits"
+      "themes": "['AI / tech risk']",
+      "source": "BigGo Finance",
+      "title": "Peter Werry Says the Hard Part of AI Retrieval Isn't the LLM — It's the Scaffolding - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0UGdnVkdmd0hWRWtOQUlzSERyNXJidVEyanFoUGR1SFdwcFFGRG5XSG1EenFWVXM3Y0dIRHZJNVE2T0dzZExuQWxVT3BUQXRsa3k0R2RWT2ZFNlU?oc=5",
+      "description": "Peter Werry Says the Hard Part of AI Retrieval Isn't the LLM — It's the Scaffolding BigGo Finance"
     },
     {
       "published": "2026-10-10T19:22:46+00:00",
@@ -33946,6 +33978,15 @@
       "title": "SBI Large & Midcap Fund(G)-Direct Plan - Univest",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsTTJBZWFpTGc1S09CQm1CUE5hcTdZT2tzeTNvajNCUlFHa3RaRWc5ZFhkaGNlazY5dmVTY2VYNkVRaUZwdGwtc0FWTkRhRld2c1FJUURzTFRrXzdXTkNLU3poU0ZUZnlPQ0tQRUhocE5PUTRZT3c?oc=5",
       "description": "SBI Large & Midcap Fund(G)-Direct Plan Univest"
+    },
+    {
+      "published": "2026-10-10T18:24:17+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Livemint",
+      "title": "This Tata Group stock falls 13% in 3 months, but Motilal Oswal sees 21% upside on 'resilient growth' - Do you own? - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX1M5Q19jQXFuZUZVVmVfTXJRQnEydmozNFpJeTZxNVZnaDRFMDUyWllYcVM2Qk81bTVRZ2xndkROMlpPTnBJNUxVTjhjYkFtQ1hfNFV5dVB5VGlCOUpQTnRiYWpVZUpGQ2tuZm50VExwN2xtdlNic0g4SS1ZN09xOUQzenJsY1UyQXR3cXdHZUNqVVJDS29KSkVaVmI5OGNOaTdrRXdqWHN0UnNNTnBBZElYSm5ibWxqaVNjb2pnenFlQWlnMUI5M1NsbDBHcGViOW82dUFEVTlqWFN1b1d2T0JxckFMUDRmcmJKRVNvV2ttUlFRVXlZRjQxckpxa3JlNnliSUd1ONIBjAJBVV95cUxORWpHWWxoOUlQVHFWLW1tUWpBazlpLVRESFM1Wk9XWXljMVJiQk55S1h3bDJOSmZ2YU1wWTdHaHJfQVg0TVQwalgyalEyTklleXFNVDNIcHZNdXEwWmlhMjUxSWk3TkRad0dHcjNubVdHNWZzN2w2S3lVUVZ0Q1dYUTVqaXM1Mm85cTJOLVQxRGdRQTI5VzBGWDkwMXBIamlRNklBRnVCZ1lLTE9zcXhrU0JNRXNKNnVpVHNzUmNaOE9TSlhBSXVfenExNEhsclFHMmJ6b0pEdkhPdUJlcENnWFJrdGhqd2h3eDJoblgyaDU3TmFEdko4aHJqQi1WNVdIZHh1OGp5cWVaMTZX?oc=5",
+      "description": "This Tata Group stock falls 13% in 3 months, but Motilal Oswal sees 21% upside on 'resilient growth' - Do you own? Livemint"
     },
     {
       "published": "2026-10-10T17:49:54+00:00",
@@ -34000,15 +34041,6 @@
       "title": "AI Models Mine Blood Gene Data to Uncover New ALS Biomarkers - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVmxRNTZXSWJqX0lXZkFuYzFjZ3BqdmtMU29iWVB6ZXo3Uy1YVmJhNzVVWXVnajJLSVNESTR4MExCU0dHRmFVdUltcmpuQXFpeEszSXJZNlVKQUVaX1FuUGJ0WWd0bVZBaWRsa0Q4NnVtQWtIRU83RjFrM19GaFFjUm5jYXdaSFhxbkdQZk5n?oc=5",
       "description": "AI Models Mine Blood Gene Data to Uncover New ALS Biomarkers Bioengineer.org"
-    },
-    {
-      "published": "2026-10-10T13:45:21+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Security guidelines key to final nod for satcom services in India - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSkhoMmtTYjV3TUtnM0x0YnFHZTdUWjlnaFJPemFhU01yRThuNnEtSTFHU0dhZEtyTTJ5V1ZNRXRwNE9EN0xqTGtkRDJiVHRmMmI3VzJBWlE3N2dNazJlbThmM3l6M09JMzZzYXdTd3FndjRNUXFSaWFvZlpxeDNoN2tvN3MydU9sMG0xY0YxR1E4TmdlNTJlLTdoZlVNdjV3WDBtbFBiWmFEUjRxd1IzZ2lNaEE3aFQtQW9lTVo1SGplZnIw0gHEAUFVX3lxTE5KSGgya1NiNXdNS2czTHRicUdlN1RaOWdoUk96YWFTTXJFOG42cS1JMUdTR2FkS3JNMnlXVk1FdHA0T0Q3TGpMa2REMmJUdGYyYjdXMkFaUTc3Z01rMmVtOGYzeXozT0kzNnNhd1N3cWd2NE1RcVJpYW9mWnF4M2g3a283czJ1T2wwbTFjRjFHUThOZ2U1MmUtN2hmVU12NXdYMG1sUGJaYURSNHF3UjNnaU1oQTdoVC1Bb2VNWjVIamVmcjA?oc=5",
-      "description": "Security guidelines key to final nod for satcom services in India Moneycontrol.com"
     },
     {
       "published": "2026-10-10T13:42:46+00:00",
@@ -34090,15 +34122,6 @@
       "title": "5 Key Differences Between SGX Nifty and GIFT Nifty - The Statesman",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcWJuaHFKYnBxdlI3UmU5OF9fUXlDMVNZVUdXODllZHF1NkgxWEl5R2VnSTlpaWJmUkFtWlZYTVk3eUlnT1BaRWl4NUJYTkdvUjhIUTBrTHN0Qnp1bGVhS1U3cFYxTUhxeU0yQm9iMGtHQ1BDUVRWTzcxR0lPOU5BT0ZUTlJ5VE9WZFMzNUhKM082bnpfNElrLVFSQjFLbzRUVjZleWJR0gGrAUFVX3lxTE5ZYjV5ajdQMTlQWUpzVnlYalhtUVR3bGxXRktEMXp5V2RvaHliTXJqT2t2WHg1TkJMLW90X2ZodmFzR3ZyWEhsc0tYaUs3a1V2cFZackNHZ3gyWUpuZ2FuZHZLSjllWFhwWGh6MDdCR3ZkZTlwd1BNQWRfMWVHVnM1Qml0RTRkWjJBNWRFUk9aN2xDZnlOWDhyV1d1d25iRUFRUkRLMVhQRnNpTQ?oc=5",
       "description": "5 Key Differences Between SGX Nifty and GIFT Nifty The Statesman"
-    },
-    {
-      "published": "2026-10-10T10:42:34+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "India-EU FTA to be a ‘game changer’, pact aimed for 2026: EU envoy Jean-Eric Paquet - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZVUxT2pXcVMzVFBiVGI5eDNFXzFZclo4U2NuTnJQODBudDRLWWJlWXhrRWluZzJmS1p3dWdYb2pmWUdvNnh1MDdDNS1BRWJPR3lFbk9mZHBzeVpic0g2eERYRGEwOERxbWhBcUhzUmJDQlNWd1V6aTF0bW9MUi13dzZndVBXX1hyNjJKbVdKY1JhT2RYLVJGR3ZBSlBZSVBXcTdQWV9HTEg4MHFVV2QtRmdJS1J6Zk4yVzFSM1VTZm1LdkhNMDJvaTl2REhsQ19RcGF6Z0N4a9IB1wFBVV95cUxPZVUxT2pXcVMzVFBiVGI5eDNFXzFZclo4U2NuTnJQODBudDRLWWJlWXhrRWluZzJmS1p3dWdYb2pmWUdvNnh1MDdDNS1BRWJPR3lFbk9mZHBzeVpic0g2eERYRGEwOERxbWhBcUhzUmJDQlNWd1V6aTF0bW9MUi13dzZndVBXX1hyNjJKbVdKY1JhT2RYLVJGR3ZBSlBZSVBXcTdQWV9HTEg4MHFVV2QtRmdJS1J6Zk4yVzFSM1VTZm1LdkhNMDJvaTl2REhsQ19RcGF6Z0N4aw?oc=5",
-      "description": "India-EU FTA to be a ‘game changer’, pact aimed for 2026: EU envoy Jean-Eric Paquet Moneycontrol.com"
     },
     {
       "published": "2026-10-10T10:34:52+00:00",
@@ -34207,6 +34230,15 @@
       "title": "JioBlackRock MF sees value in equities after correction, favours target maturity funds for debt investors - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQYmZNT0dfdHNSeXdUZkxBeUxvc2RUR2tlTElSYlBCeU5fT1psejkxaGpaT3NZQTVlaV9LXy1pcF9oeDlKam1Qb1RPRlpIWTlXQ21FdG1lU0tySG9kd25PU2k2WGExTmN2el93eF9HTVQwdDlQTDA3aU93TGlzeWtLcmdDM0dHQ1p5TmVPV3dRRktnNktfR1MxMW92aUstVEFoNkR6bS1pSDZ4TzZQcW4wVDRIVXZBWmp3U25DVzV6aWZvTlUyNnVLWmpsSC1mVWE5VDVsNEhLU0NPdmJmSzdVYXU2SFZsQzdJNWtad3JuU2o0NEhLSXdQTms1ZWFwQdIBgwJBVV95cUxNOUoxd1NhX1gwSDNOWGZ5T19JVnZndG11dEZBNmxYSUFUbzlPNDV2YkxzRnZibVBsLVhNck9aMmx5eUxBX195VlZnSUhSSk1rQlIxT2FNVFZoOGtWbl9lbmFvVGFtc3hqaXdFNWFlaDItOFVJdUpCTEpWeHNBTnZ2LUg3MTRaM1I5bHRyVGs3QXo3MWpBNWJ2YUNDNWRDS2ZXSjNSVEh6di1ybGJyT1NCT3F1M3djTVlFNC0zd05fRlUwVUszY3lUa2ZfZzRtMENlQjFvYTBkYkpIUGh4UjhjbFBIM1Y3N19MRkplcXBqNzBfMEdwamNiWDFOWUY0MGl4d1h3?oc=5",
       "description": "JioBlackRock MF sees value in equities after correction, favours target maturity funds for debt investors The Economic Times"
+    },
+    {
+      "published": "2026-10-10T07:45:49+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "BW Businessworld",
+      "title": "Gold Correction Improves Risk-reward, Equities Look More Attractive: CEO Of Choice Wealth - BW Businessworld",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3o0bHVlS1d5Q3lUcnpxd0RBdXBJV2laM3pyaUwtc1NpaWJ2a08zMUU2d0UydVZaRTNCRHVoVWF1WkFGS0ZWYnlqbFNsWjI0TWFKRGpGXzZjNFNGV184TTc5czFOTVB6TnIxQVhkcGRvMkZTU000LWQ3bWhPYXgwRHo5VlJZa29RS2FWOG1IVGpPNktuVDNlUy1qM0xXeEl2eGt2QUxPN2FmNjBrYThhcnpuTndWNmV3RkljOXhtOTFtZU5VdG5hTVl1aw?oc=5",
+      "description": "Gold Correction Improves Risk-reward, Equities Look More Attractive: CEO Of Choice Wealth BW Businessworld"
     },
     {
       "published": "2026-10-10T07:22:48+00:00",
