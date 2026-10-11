@@ -19,22 +19,8 @@
     "description": "Should you continue your mutual fund SIPs during a market correction? Here is what investors should know The Economic Times",
     "published": "2026-10-10T10:25:43+00:00",
     "source": "The Economic Times",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 9
-  },
-  {
-    "title": "Should you continue your mutual fund SIPs during a market correction? Here is what investors should know - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPc2s0eFE5MGM4OEl1dnlfMWNtcDRRZWJWMXFYSlRYWFJYU0VBSUt6a2lFenVRR3I3d1dnRE9rYmJGWHVNdG1PS1dCay1tUFpuemNkbjY2RzdFUDdKd05UWTBReGVnUi00emtlMEl1QnhwNXc1VnB3Z0xsb1ZJbUUzc1VuQmRzUkgyRE1jTGR6Y0JueGttR1AxaXcyZVo2Vm1OWjZveDJRRGlYOEUwRGJuU21vWjlxRkZvdkFXNmRFWHFaMU5GbGR1V3hXX1V4YVJRWnFidUgyMFozbnd2SzJ2TlJHYjlKS3BIRlNON0ZVazdFbURzTEM5dm5iUzdmRk1qd0xMWWpCY0lSTWc?oc=5",
-    "description": "Should you continue your mutual fund SIPs during a market correction? Here is what investors should know The Economic Times",
-    "published": "2026-10-10T05:41:57+00:00",
-    "source": "The Economic Times",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
       "India market"
@@ -178,6 +164,30 @@
       "India market"
     ],
     "score": 4
+  },
+  {
+    "title": "Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race - deVere Group",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWlRKRmdpeDBZSmZDV2FwRUZldm9sTlNKSms5WE9Pb0NYQ3FxWENEODhxTlJOU2NSNUJLaEw5TnNRQlJVcG16ZFZGbWtGN3pycEN6blBwbzFCREtuVk5rajNqVzBzZldISWhFaTNVSjZMLXZrczAtcGdzU3lRNm5SRUNud1BzbUJ2eUdjVXpGaVhDVDYwbzVHcUlYZlEwc2dacjBGd3NpLUh1TXJseC1RbA?oc=5",
+    "description": "Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race deVere Group",
+    "published": "2026-10-11T05:40:56+00:00",
+    "source": "deVere Group",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk"
+    ],
+    "score": 3
+  },
+  {
+    "title": "Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained - Business Today",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMTNhV0RGUXJCOXZVQ2owM2hsT0doYXFXVG8wM05XUW54Xy1qa3VJMERPZDlEVjU5dzZQUkxDeE44NG5tUmo2VDlqazJZSmtVc0xZUy0tVlRsdDE1eWtkcUZHLV9naklSd1hrYm1MMVl3emdkcTVmZFlyR0dRS0o1NDh2UjhrR1hhYXNZaTdQdU9BUGl1QjFYUjcwMnpON250NTMtdUR3RlpMaGdhRm1RVVR5R0RwR2JvNTRHVURZblZQdHJQTDg1ZXFQT1FrV2NBSnhWMFpab0R6ck1rVzFTNUc1V2Nra2tBMXfSAe8BQVVfeXFMTTVGVkdnY3QweFg2ZS1MaTMtQjB6Nk5sb0hxTm1hckN3OUtfNkotNkZoODRVQVV0YkpHUm9BWktFdXh6YnRYZE5TY2tuWGJ6UVJfN09OaHBYRUEyTlM1YUo1Ry1ONnFTQlZYbEFNNk1qaVBSQnJkbk5fekw0U3dkQ0ZVMEpSZUZ2RUdaNS1NamJIQ0trWndsVkUxbjdaX1pabVY2TWZ5WnZ6em9oZnRMQmc3T0JlZFc4eHltYTVnRkpOYXJ0Nk1ldGZtNGhaU0ctQm9KOVA2cjBCOXlQQ2IwSWFib3FhUi1ncFh3VlRLZ2M?oc=5",
+    "description": "Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained Business Today",
+    "published": "2026-10-11T05:30:08+00:00",
+    "source": "Business Today",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [],
+    "score": 3
   },
   {
     "title": "International mutual funds top return chart last week, offer up to 11% gains. Check top 5 performers - The Economic Times",
@@ -356,6 +366,19 @@
     "score": 2
   },
   {
+    "title": "Multi Commodity Exchange of India - 8 midcap stocks rally up to 135% in a year; 2 turn multibaggers - The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOWUFNa0Z3VG1RRWhnazNZMWhISXVaMlR2T0hqZ0ZKQW95QUxoYW5ReDZQYkNxc2RYNnlqMlBHOGx4VmYyMVl2SmRFRXZKOXhQemo3S3BFWUZzdkpidkZvVUJwVUltMldtOEo3R203TUZ0MUZxeHdzNWU4bG1vTnZyWmtpNFVLbnV0NnpvZHp0YnFZMGVTRjd2NTZSaFBmS2xTTHotdVpmaEhfVTNsX2loT3U0dVRBZ25wZi1Lb1V0RzJteG51YUJPaTZ0M2ZiR3ZHWjlRQUhsaUZUS2lVbk1WeG1kUTZwajBOVEgxS0dSZGtydzljTldkN2dPSQ?oc=5",
+    "description": "Multi Commodity Exchange of India - 8 midcap stocks rally up to 135% in a year; 2 turn multibaggers The Economic Times",
+    "published": "2026-10-10T09:21:11+00:00",
+    "source": "The Economic Times",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 2
+  },
+  {
     "title": "AI valuation bubble could burst, bringing foreign investors back to India: Ambareesh Baliga - ANI News",
     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOT2o4RjdueXA0dVVxa2ZDcjU0U2dHVTh1aFdWb215OHhZM0RnbzRHdnQ0a05qUmpGcjdXQWpfbGs2TnRkSGVaU3FhYnNPUV8wcFJaRnhKS3NuSUlRUFItTTM4Vmc3QmhYUzA2cTcwZFNxMEtma1BPVHc2aVFnOEZWaXpUWEJ2dkxISk9GOVU1TEMxYVBTTmo0WktPX3RDWG5DN2xaSUE0cjRadlIwQW1WVHFVeU9kZ2JMWTI5RjRZNEc2OWxBY3BHajVGUi1VU3ZJVDRKRkwwRQ?oc=5",
     "description": "AI valuation bubble could burst, bringing foreign investors back to India: Ambareesh Baliga ANI News",
@@ -370,11 +393,11 @@
     "score": 2
   },
   {
-    "title": "Sensex Today | Stock Market Live: Sensex up over 750 pts, Nifty just under 22,500; IT jumps 2.6%, au - IndiaIPO",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTjRKYWNPUFJDdkh3S0ZHTE82SXFTbWp4bndsTkI1TldsdW5GWlZPSlRUSVMzZnZzQlhyVk5kWGZLQ1l0dTB5T1lwTG1oYkVZT0ZPVWtkTVRqU1ZFZkc5OW14cUNDR1I0aUgyUWFmVzdieE1JbzY1cVBTZXk2Y3lINGhIVjlBZzFCNkFpU2V5OUNPLXVCemEyTkNyMkZTZzlxaGtRMEx2LU9pSmU3Nmd6cy15TzRhNlNKcVRRYzhJbHVzX205d2c?oc=5",
-    "description": "Sensex Today | Stock Market Live: Sensex up over 750 pts, Nifty just under 22,500; IT jumps 2.6%, au IndiaIPO",
-    "published": "2026-10-10T07:45:43+00:00",
-    "source": "IndiaIPO",
+    "title": "Markets Remain Under Selling Pressure; Sensex, Nifty Extend Losing Run - DD News",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQR1ZrTE44bjFJakFMYlBySHNVSmFBUXZ3dkZDei1KYk96QVJYMEs5c2hLazNOSWk0YWtmMXFvWTA0ZU1sTjMtelhieFFKTWY0eUswMGthczd2eEJIUEc1aFJZQjJaU0V0c0FDX1hzamF3VjVXTXlhUS1hN3VtSU9pd1NaY0diOEVZTlFmYi1ERUZablg4UHBtM2tR?oc=5",
+    "description": "Markets Remain Under Selling Pressure; Sensex, Nifty Extend Losing Run DD News",
+    "published": "2026-10-10T08:15:37+00:00",
+    "source": "DD News",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -405,6 +428,19 @@
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Northeast’s creator economy holds untapped potential amid India’s influencer boom - The Assam Tribune",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNm9RNFJpN096bjdOR3NPUUJVd29FRmVlcVpkMXh1dGFneFM1NHdHS3J5VGQycGxZc0NLeUwtR0xkSDA5UU1KNmIxZGMzRmIyd1NyTmVBa3cxQVhlcUdNNUR5TThIaHcwc2pzalpjdDRVVktwUTlNQVJ0b2pRR0FXVXpGVFhLcl9YX0M1YzdpZVZ6VFNENXJETlk0RUhieHROSnZjRzBId1I1UklBUUxiUm1CSXQzQWl3akVHY2J0clV3Z2fSAcMBQVVfeXFMTzZvUTRSaTdPem43TkdzT1FCVXdvRUZlZXFaZDF4dXRhZ3hTNTR3R0tyeVRkMnBsWXNDS3lMLUdMZEgwOVFNSjZiMWRjM0ZiMndTck5lQWt3MUFYZXFHTTVEeU04SGh3MHNqc2paY3Q0VVZLcFE5TUFSdG9qUUdBV1V6RlRYS3JfWF9DNWM3aWVWelRTRDVyRE5ZNEVIYnh0Tkp2Y0cwSHdSNVJJQVFMYlJtQkl0M0Fpd2pFR2NidHJVd2dn?oc=5",
+    "description": "Northeast’s creator economy holds untapped potential amid India’s influencer boom The Assam Tribune",
+    "published": "2026-10-11T04:13:54+00:00",
+    "source": "The Assam Tribune",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
     ],
     "score": 1
   },
@@ -453,6 +489,19 @@
     "description": "Hong Kong Stocks Fall 1.87% In A Volatile Week As Tech Rally Offers Partial Relief BusinessToday Malaysia",
     "published": "2026-10-11T01:50:00+00:00",
     "source": "BusinessToday Malaysia",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
+    ],
+    "score": 1
+  },
+  {
+    "title": "RKLB Stock Slides Overnight: SpaceX Selloff Dulls Rocket Lab’s Record 16-Hour Space Force Mission - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV0c4ek5wZFpra1hjVGFWelNQSnlHb1M0UjV4NkVmZUNIOU9BSlZkSXhrTENXMnhvLUF4MzhvYTYyZXEyWG5Qek14LVJ0eG1nYXgtRmE0ZVU2dUZfZlcyaFVkSnZCU2FITE5vVHVvSDg5eHZkcFB0T0J6YkVkQjdhVXZsZFBwNG10T2J3d3dZQlBxUGhMMkgtWUlSM1F1Z0t6Nlp2SVFDSjRUcURWSS0zcWtqWlg5RTA?oc=5",
+    "description": "RKLB Stock Slides Overnight: SpaceX Selloff Dulls Rocket Lab’s Record 16-Hour Space Force Mission Stocktwits",
+    "published": "2026-10-10T22:49:04+00:00",
+    "source": "Stocktwits",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -556,19 +605,6 @@
     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME5vZVVzS3Y0elJBQlktUUZuc0llRWw2SXJoNGlsSkZkc1B5Rmltdno4dTJaR0d1Q0pnSWRWcV9IOEpuNTQ1UndHb04wSGhaQ3ZNM1dsT2tSSUFjR2drOGZNSi1iV0VfVWhyYjRlS1JBd1AwRk9mcExfZlNwbUVMajdDdTB4ZUxvYVMwRTNDcVR3emFkSmx3RWtHN3l5NDlINEc5am15eEtpV0h4UjBWcjFwaVI?oc=5",
     "description": "Why Is BE Stock Rebounding After Last Week’s Selloff? Stocktwits",
     "published": "2026-10-10T17:49:54+00:00",
-    "source": "Stocktwits",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
-    ],
-    "score": 1
-  },
-  {
-    "title": "PHAT Stock Clocks Worst Day In Over 1.5 Years — What Sparked The Selloff? - Stocktwits",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeGVVMkZOdUE4NDZMLU1YWlN3QTNQTWZSN1ZULTdONXQzaXpzbXhrY2RiSXpUZm9EV29FRDVKaXpIcUdvSEh5WEFSZzAxUkdYektZcGNLLUZ2SE5IZC10ZHNIcUoxeHBpV19kVzdmMEw4M3JzNjVkeTRYejcycjFKZmtBc2JsdFpZNVp1dllYQk15OVE0ZUJiMmFNbEgyT3hJUjB0U05uV1ItOGRPTHVDYVpaT0NHV3dMNjVqTG8xeGtueWdtUlVCeFMydjI0ajg?oc=5",
-    "description": "PHAT Stock Clocks Worst Day In Over 1.5 Years — What Sparked The Selloff? Stocktwits",
-    "published": "2026-10-10T17:13:36+00:00",
     "source": "Stocktwits",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -734,6 +770,32 @@
     "score": 1
   },
   {
+    "title": "Nifty 500 Live | NSE Nifty 500 Index Today - S&P CNX Nifty 500 - The Economic Times",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1lRjVkcU5HVERFNWo1R1ZNVHVmaFM5R1NuejNwNlpyaWpzVl9GdXRlQjNBTWw4R25xQmU2SzlXNFpRdUFBVTIxZVktNHUzRGZucW1ubmRYVmVmcEw0UnY2QnM0cmNFSXB6N2hrekJGOTcydw?oc=5",
+    "description": "Nifty 500 Live | NSE Nifty 500 Index Today - S&P CNX Nifty 500 The Economic Times",
+    "published": "2026-10-10T10:15:23+00:00",
+    "source": "The Economic Times",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
+    "title": "India-EU FTA to be 'game changer'; deal likely concluded by 2026 - Asianet Newsable",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQYXh6TVd1MUFxMjFBenV6bk84Z0FvVTZ0YVRUNHhjZHJPcDJmUVBkb004Vm9KVE9uSHE2Mm9hcVlWR3N6cE5JUHowZ0dVeVVSNndlcGNXa1MxUUs5ejNUYm41aDNQWmQxLUpIY1RwTE5MZkJxd3FwakJ1RVctU0I5T2w3TDBQVDNLZlduQjF5b3ZkWXRaMFl6bVFDaHFDWVdzaVpncExZZnluUnNLWk55Vzg5TFhnV0tDRDhJSjVGb1ZuWG9aYXfSAcYBQVVfeXFMUGF4ek1XdTFBcTIxQXp1em5POGdBb1U2dGFUVDR4Y2RyT3AyZlFQZG9NOFZvSlRPbkhxNjJvYXFZVkdzenBOSVB6MGdHVXlVUjZ3ZXBjV2tTMVFLOXozVGJuNWgzUFpkMS1KSGNUcExOTGZCcXdxcGpCdUVXLVNCOU9sN0wwUFQzS2ZXbkIxeW92ZFl0WjBZem1RQ2hxQ1lXc2laZ3BMWWZ5blJzS1pOeVc4OUxYZ1dLQ0Q4SUo1Rm9WblhvWmF3?oc=5",
+    "description": "India-EU FTA to be 'game changer'; deal likely concluded by 2026 Asianet Newsable",
+    "published": "2026-10-10T10:00:36+00:00",
+    "source": "Asianet Newsable",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
     "title": "Invesco India Medium Term Fund Direct-IDCW Quarterly - The Economic Times",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWlMTzZ5UjJSQW1HOS14dVU1MzNHcGtHLURwTzViSmlkRVpOWFVOMzRKYkRKWXVicEhFMkxob2dCOEtRcE04WWdLSXZNT0VZRWZNNWUzR3dPT01zdkZ1b2NGaTNsVi1DM1FBbzF2N1ItMDNxbDhYVGxCMlhzeElTbUZXMXJFNEpSMUVmdEhkaFdqaGhDZVNJMnlvalhPR050ZnB4d1JGVQ?oc=5",
     "description": "Invesco India Medium Term Fund Direct-IDCW Quarterly The Economic Times",
@@ -786,19 +848,6 @@
     "score": 1
   },
   {
-    "title": "Escalating geopolitical risks drive volatility across major market sectors - DD News",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX0pucGF2V1Vsb29pcXgyR0dxNEhESmJMdXB0dkc3RXJobmpuLXRFTXBkUlgzQVlQdjZ6LS0xTnBtTHlKLVQwdmZfN0k3eE9oUlFObEVxWjJ5SDY3ZUtNMGVLdi15dXh4aVZGYXc4c1NuXzA3Tzczc3F3SFZnS09JSnZpTmpZMVYxTF8tZnY4aVJWMDlhalJpSzVyM0kwb3R2RGc?oc=5",
-    "description": "Escalating geopolitical risks drive volatility across major market sectors DD News",
-    "published": "2026-10-10T08:42:32+00:00",
-    "source": "DD News",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
-    ],
-    "score": 1
-  },
-  {
     "title": "Blackstone Mortgage Trust (BXMT) After The Selloff Is It A Bargain Or A Value Trap - Simply Wall Street",
     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZnotMUZMVTF0UTJpRzlLcVhTTDNqeVZVSUQ0bUFZNkZvdF9fSmpCR093cVZaNDZSMkpDWmZnbzhBVHFYdlFTMm85d3gxcjV4TjM2WFNrUUNHQVNhbmwzWXJlUndTNUR4TWltTWtCWmRxZ2NhcWhMQzdKaElfQjZyMWJmTW1ock9UcXVId1FrZVpFNVA4dlBmeHZBcW9Td3RuMU9xYlZLTmFsazJfTDFtUmJoT29TUGpPNUdJTEt0RFJTMGxRNDlxVUdIRm05emkwZHFXY1FONWQ3SmpUbG50MS1MMG96Q0lVeGpTQdIB8gFBVV95cUxPYnZhcjMwWV90dzF6TXl5d0puZ3FMY2o4RW82TjR6aUFNV3dVNjlETFBvRWk2TGNWMWRsYnZrUVJycmdTUHhYSkRVTFh5OHRxVkRyRTBYWk1DQUM2bEp6ZldSWU93dzhVMi1NZi1uVXJEN3FVcGtZWGlmVm8tdFdyNWQ2bkVXZzFxSnd3VnFjT2FSXzNrWENrLXNyR3E4QlNVRy0tWndncEdzLTZnOTJqWmdBMlBjXzAzSEctck1fbVN0a1NUdE1maGo2NEZTNUM4YTlTTTRGd2hHdkFFcFdSek1NaHNEM05EU0tnQ1Y2S0tGZw?oc=5",
     "description": "Blackstone Mortgage Trust (BXMT) After The Selloff Is It A Bargain Or A Value Trap Simply Wall Street",
@@ -812,6 +861,19 @@
     "score": 1
   },
   {
+    "title": "Indian stock markets shed over 1% amid FII selling, weak global cues - DD News",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOQ0xENFBGZUdFS2ktWFpSckRxNng5M09tdEVGWEIzWEVHTzBuMjl3OHpPTTl0dHVwaG1tamtkRVE4eUNGM3RwQWctcTZmdG9FeEdjcUlmaEJ6T1cweWlYcmdPek9EcWhTS0FVUUxPZ3I4czZwejRiRnZhVUlsOURkb1VDUGpIUDBSZS0wdlh2aHZQR3JwZHRBc3Z0dw?oc=5",
+    "description": "Indian stock markets shed over 1% amid FII selling, weak global cues DD News",
+    "published": "2026-10-10T08:40:30+00:00",
+    "source": "DD News",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
     "title": "Indian stock markets open sharply higher; Sensex jumps over 800 points - DD News",
     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWjRtVDhBUmRxempaclY0ZkdOM0dSZGM3akE0MWhBaHZaYVIwQTlXTGNYZUduYnRhdGJwSlFQclJDczEtTzJ5YzNybjdYTF8wWmcyTHdmYTN4cmphLTVkTVBWcm5BY1d1MElPQ0dGUnFDREtiUG0wVUxaRDlIY0Q1Q3VJaURLeDhsbWJJbmdZMTFtZlZRcm5ObWt2Zw?oc=5",
     "description": "Indian stock markets open sharply higher; Sensex jumps over 800 points DD News",
@@ -819,19 +881,6 @@
     "source": "DD News",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "8 midcap stocks rally up to 135% in a year; 2 turn multibaggers - Midcap Momentum - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPWG51MzVSYV9iS3Q0al8tOW10RlZqazEyelVESjVPY3Q2X3dkUjBGN1lxbDhUNS1jTTVJOWJIaUtyOGRpVElnTnhNRWpxcWtqczZMVEduNWdZZC0ycklONGk2RmQ0SVA0WEtHdm9VeHVVZW1KM0swc1NEMHBsTEV1ZUJxZlZDdHdkRVJibTVuWlFxWjRLUDB5QTkzcE80OFJSMTRHZFZYYVRaekZETUNPTHRtWGRqamp1R0hxVnEzdzdlWlU5ZjAxdHZBdm01YVhQVVZtWG9UblV2MUhkMUExcll3SQ?oc=5",
-    "description": "8 midcap stocks rally up to 135% in a year; 2 turn multibaggers - Midcap Momentum The Economic Times",
-    "published": "2026-10-10T08:18:58+00:00",
-    "source": "The Economic Times",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
@@ -871,6 +920,19 @@
     "source": "The Economic Times",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Gold Correction Improves Risk-reward, Equities Look More Attractive: CEO Of Choice Wealth - BW Businessworld",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQd3o0bHVlS1d5Q3lUcnpxd0RBdXBJV2laM3pyaUwtc1NpaWJ2a08zMUU2d0UydVZaRTNCRHVoVWF1WkFGS0ZWYnlqbFNsWjI0TWFKRGpGXzZjNFNGV184TTc5czFOTVB6TnIxQVhkcGRvMkZTU000LWQ3bWhPYXgwRHo5VlJZa29RS2FWOG1IVGpPNktuVDNlUy1qM0xXeEl2eGt2QUxPN2FmNjBrYThhcnpuTndWNmV3RkljOXhtOTFtZU5VdG5hTVl1aw?oc=5",
+    "description": "Gold Correction Improves Risk-reward, Equities Look More Attractive: CEO Of Choice Wealth BW Businessworld",
+    "published": "2026-10-10T07:45:49+00:00",
+    "source": "BW Businessworld",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling"
     ],
@@ -945,25 +1007,12 @@
     "title": "Why is the Chinese stock market missing the AI rally - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMDE4a0VyYnFlLVRPZ3M1aThISUgxS0JKNXFfbmhTbXpNUHhUTV9Xb1NMTWFFUnJsLVcydVN0aGtLREhTMnp4dXBsQnhkS19GeHJ0eU9wRDNGZTZpYjZ6ZzlIcXF4Sy0wUE1vNXZudkFrSGJHTU1HV2FKemdTMjdhVXV6Z3UtYVhwYUQzT3A0WHoxVlIzTGdTWVA5UHVwdw?oc=5",
     "description": "Why is the Chinese stock market missing the AI rally Yahoo Finance",
-    "published": "2026-10-10T06:28:00+00:00",
+    "published": "2026-10-10T06:28:41+00:00",
     "source": "Yahoo Finance",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "AI / tech risk"
-    ],
-    "score": 1
-  },
-  {
-    "title": "TAO: Correction Eyes Acceleration Above $310 - Blockchain News",
-    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUmRpWU55TFhkdUhDVVdOc0RkeXllYmJzMlVvcF90ZkRrYUVmOERDekt0M2lNcGhUc1c3WjFaS3VSZkY3Tk9NOGpUT1hXd2syTWltYTlsY1R1cHFHMVZaSmQ4OUxjQ0ppenRRSjNMdnJvdmRGOG9weGVubktHT2JpOV9B?oc=5",
-    "description": "TAO: Correction Eyes Acceleration Above $310 Blockchain News",
-    "published": "2026-10-10T06:00:00+00:00",
-    "source": "Blockchain News",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
     ],
     "score": 1
   }
