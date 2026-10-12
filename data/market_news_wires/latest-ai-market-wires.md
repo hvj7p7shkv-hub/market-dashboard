@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-12 07:07
+Generated: 2026-10-12 07:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -116,17 +116,7 @@ Sensex, Nifty sink 15% YTD: Is the market correction far from over? Fortune Indi
 
 Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment DD India
 
-### 12. S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off - BBN Times
-
-- Source: BBN Times
-- Published: 2026-10-11T07:37:11+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPdWtBQjdpV0NxM2RmTVoyZWxqd1FOeW5CUWtzZ2REZEd3ZzdySWFzMzdaTEJrQm1seHQtZzVGUmIxY1BhT2dRN0JBT3FkUmZJREhzZFJkVUVyWFpmMHlxUUxCMWk1NlVBZDF4ZjF3Z3RhcnpRdDVyNjU1NEIyY2swMU1tZ3RrbHlNVFI2VjVNb3R6M0FucGpZbTAtQlR4UjA5UmNvWmpiZldBUWIzY2hWSENoTmd3WW8?oc=5
-
-S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off BBN Times
-
-### 13. Sensex falls 500 points: 4 reasons why stock market is down today - India Today
+### 12. Sensex falls 500 points: 4 reasons why stock market is down today - India Today
 
 - Source: India Today
 - Published: 2026-10-12T06:12:55+00:00
@@ -136,7 +126,7 @@ S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Of
 
 Sensex falls 500 points: 4 reasons why stock market is down today India Today
 
-### 14. Why is market falling today? Sensex slumps over 600 points, Nifty below 22,400. 5 key factors behind sello - The Economic Times
+### 13. Why is market falling today? Sensex slumps over 600 points, Nifty below 22,400. 5 key factors behind sello - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T06:00:13+00:00
@@ -145,6 +135,16 @@ Sensex falls 500 points: 4 reasons why stock market is down today India Today
 - Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxNQnpXVTdHZUdZaUpLZWlyX1d1TTFRcGRITFRrYVJFY1NqS29PaUhtNmpxcVVuMmhobC1UOFpQd2R0OF9Kdm5jX1ozdnFPcFZiUFVJVEt4OWlMeEZkZm9IdmRQcndqNkJfc3RoYVB1Zm5iQzRRcEp6U2ViSWlwNXJ3SjdWaUNSSU56UzRXbTFGclB5cnR0a0tGNVN0SXZwYTEyV2c3VWp2WnFrcHRCbmptVlhUVExFdmFaT3VfaVBnMmJzSVMtaEZZbm9XNnE3cnR1OWp0RUMwM1ZwdTRLaU9ydnhQdGxrQmFFZlZJdXpOWjJyMlZGNnd0WTQwOUdOUjFlaW53ejY0OG5LMllCdk9ZY3NJczjSAZoCQVVfeXFMT0lDem83emZzSDZxdURPVzRtaUkxb1ROZWtRR0NCNTgxamp2Z3czUHRaZzBzV0Zkc0g0WlVPVURISjNqLS0tX1VaeHBSUW1XSHJLdzFyRG9NZEpMRnhBRTZxOWRDSU5TODYyMC1RTUx2MFlDeDlNY0RpQkZFZlRXelMxZ0Z6b3B2R1FDNTRPeFZGM25lYS1tRXZvdDRuVktKZFVKcjVCU0JMQWJ6QTAyVDFfeGZja2dlX19MSGcwR3FQbDZ2UTA1X0FQTTNkVmN4MHVURVVhZ1JpdzhHY09VWlZ2Ulk4MGpyRXBVSktmR21pV1d3MDR0QkRUTExpZDB6T3BRRS02Y2ZEanlERmtIRW16UV93cmdDRVhB?oc=5
 
 Why is market falling today? Sensex slumps over 600 points, Nifty below 22,400. 5 key factors behind sello The Economic Times
+
+### 14. Why is market falling today? Sensex drops over 500 points, Nifty below 22,400. 5 key factors driving market downturn - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-12T06:00:13+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMioAJBVV95cUxOcU9kT1c3RFlwQXRBRENDOVJldVNzdjcwOWlyQkUwdV9YZ0UwUW1rcWZtQ3BXMmowRE95alFnRXRYMGFTMS1XcFpsd0xvT290YkxQTzNiU0cwNjY3VkRIMkR1Snl6eVRIa2pfSThSMUFpOWNBa1R0ZUJzaWVLUlhtc01jNFUxVUVKMTFjZGY4UG54bVNPUVhMNklUZlJNT2lHX2RBSEdSZXhHT3M5NUhNRWhiX1lYbW9UTV8tQmZybDFXVl9qY1VRR3pkZFBISVJTQU1fYTZOTVd4MTVpS2QydHVWdVA2ekRRM1BYWS03ck8xekpSVUFpVG0za2RnTzJLd3hBZlEzYTdjQnA4a05yc2NLcDN1RHlTTjdHeW9KbUo?oc=5
+
+Why is market falling today? Sensex drops over 500 points, Nifty below 22,400. 5 key factors driving market downturn The Economic Times
 
 ### 15. Why is market falling today? Sensex drops over 500 points, Nifty below 22,400. 5 key factors driving marke - The Economic Times
 
@@ -186,17 +186,27 @@ Closing Bell: Sensex Falls 1,045 Points, Nifty Hits 52-Week Low; Why Did Stock M
 
 Sensex falls 300 points, Nifty below 22,500. What can trigger a sharp rally on Dalal Street? The Economic Times
 
-### 19. Sensex falls 500 pts from day's high, Nifty below 22,500: Profit booking among key factors behind markets... - Moneycontrol.com
+### 19. Sensex falls 350 pts from day's high, Nifty below 22,550: Profit booking among key factors behind market... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-12T04:15:22+00:00
 - Themes: market selling, India market
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxOSkpJeU1JSlMtLU1HVF9PNDVxQWRqdFNlYmNlQjZsbUhEeTZJUzZ2VTRDUjJCczBtSGo5MDdKeUw1djRETFdhSUZ5RV9NdjVvOWlJQXdlclJCZXlqOWlVT1BLZzlsTEJUVlh1SENQd3ZlaUU1ZE9XUWtJVzQ0Skppb1VpMzRFRHp5SEJRZDFpZ2wyT1RCeDR5OWhtbUlrWjdKUkdnc0dGRG9ZOGdEQmlxZ2xnMkdqMEJIeGJzbWdBd1dxTGZOeDdidlJvbldJRllmTUNWYzhGNktiazhDR1dMajVWZGFJTXNSS2VRc25aUEJjeUx5X18wSVIyT0Nrc2VXWmotdGh30gGLAkFVX3lxTE1pc3VyMnkyRC1oUThORVFVd243SDZYSkt0ZzYxQm85V3VwVFhvSnpWdF92elk0WjROM3ZUU1NCQWRnajdEZkNTNTRMSEF5WWZxbldzLUpNbHJySGpKSjJldFE5OFkyRnVrX0hCTkdrR3RYZl9RYXpSdUF5ZjlBanQySFFuTEJ1Ung1YVVnOGhFQVVfYW1kNkhGMmhkRlhhRFNYeENIV1J3eGpYSFU3NW1vWUc3YVJUWXZMY0RtV0FCb2wzTFEzX2FWbW0wWFNoaDQzbk9ISHJVTlhtYnVVSFZGNHU2cjBWSy1DVndiQlRzQmZyU01KQkVPQ25xZVlBQnRDS1ZUSVd0MjduZw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxNaXN1cjJ5MkQtaFE4TkVRVXduN0g2WEpLdGc2MUJvOVd1cFRYb0p6VnRfdnpZNFo0TjN2VFNTQkFkZ2o3RGZDUzU0TEhBeVlmcW5Xcy1KTWxyckhqSkoyZXRROThZMkZ1a19IQk5Ha0d0WGZfUWF6UnVBeWY5QWp0MkhRbkxCdVJ4NWFVZzhoRUFVX2FtZDZIRjJoZEZYYURTWHhDSFdSd3hqWEhVNzVtb1lHN2FSVFl2TGNEbVdBQm9sM0xRM19hVm1tMFhTaGg0M25PSEhyVU5YbWJ1VUhWRjR1NnIwVkstQ1Z3YkJUc0JmclNNSkJFT0NucWVZQUJ0Q0tWVElXdDI3bmfSAYsCQVVfeXFMTWlzdXIyeTJELWhROE5FUVV3bjdINlhKS3RnNjFCbzlXdXBUWG9KelZ0X3Z6WTRaNE4zdlRTU0JBZGdqN0RmQ1M1NExIQXlZZnFuV3MtSk1scnJIakpKMmV0UTk4WTJGdWtfSEJOR2tHdFhmX1FhelJ1QXlmOUFqdDJIUW5MQnVSeDVhVWc4aEVBVV9hbWQ2SEYyaGRGWGFEU1h4Q0hXUnd4alhIVTc1bW9ZRzdhUlRZdkxjRG1XQUJvbDNMUTNfYVZtbTBYU2hoNDNuT0hIclVOWG1idVVIVkY0dTZyMFZLLUNWd2JCVHNCZnJTTUpCRU9DbnFlWUFCdENLVlRJV3QyN25n?oc=5
 
-Sensex falls 500 pts from day's high, Nifty below 22,500: Profit booking among key factors behind markets... Moneycontrol.com
+Sensex falls 350 pts from day's high, Nifty below 22,550: Profit booking among key factors behind market... Moneycontrol.com
 
-### 20. Sensex, Nifty 50 May Open Lower as Asian Markets Fall - HDFC Sky
+### 20. Market Turns Red: Sensex Falls 620 Points From Day's High, Nifty Slips Below 22,500 - News18
+
+- Source: News18
+- Published: 2026-10-12T03:56:20+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHdCQVFuMXNBclNXbFJXWHVBaU1Qc1k5ekFWR2NTcU5iTC1JYW5KVW5BbV92c1NMbm9vQnFGazRQUVZOQ0g3eGtFZzZwUS1oQkRZT1dIbkVhcWctdGNPdXJBSjhUbHBoa0REWW5IWkJXZTJTSW9BaktwOHhwNUNJZDl2RUxRU3FyOE5QVWpOQjVHN3BIRWxveFZCZWptS04yTFA4amJwbnBIQ0R3ZHdsakZyY2JwNFVxSXZxU012aFE0UDVXVFJzbkg5ONIB0AFBVV95cUxPVVpoU0xxdTFMb0ZuUXRfQnhyZm5zSzVRX0FQMmprNUQtMTRKYmNvck5GWVhCalBORC1CMlRzUTRMRk0tY3k4T3YwcXdpYnU5ajQwenlTNVA1T2dIR0JCcHRMZE1vNm5CNVR1N0hmNnIxcUVEZFNFSGJpU2hnQUNPRXRnWjdjOXdmNnN5bUpPRzFOT1RiQzNUTExVNXkyYi1rX0s0T3dZTFd3WklaWHQtMlltZzBKZ28yUVdSWjZ6bDZVOFRQUWl4R0hKOUNZMFJl?oc=5
+
+Market Turns Red: Sensex Falls 620 Points From Day's High, Nifty Slips Below 22,500 News18
+
+### 21. Sensex, Nifty 50 May Open Lower as Asian Markets Fall - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-10-12T03:26:14+00:00
@@ -206,7 +216,7 @@ Sensex falls 500 pts from day's high, Nifty below 22,500: Profit booking among k
 
 Sensex, Nifty 50 May Open Lower as Asian Markets Fall HDFC Sky
 
-### 21. South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply - www.tokenpost.com
+### 22. South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply - www.tokenpost.com
 
 - Source: www.tokenpost.com
 - Published: 2026-10-12T01:29:00+00:00
@@ -216,7 +226,7 @@ Sensex, Nifty 50 May Open Lower as Asian Markets Fall HDFC Sky
 
 South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply www.tokenpost.com
 
-### 22. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
+### 23. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-11T20:02:02+00:00
@@ -226,7 +236,7 @@ South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply www.tokenpost.com
 
 NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms Stocktwits
 
-### 23. Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus - Stocktwits
+### 24. Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-11T19:58:58+00:00
@@ -236,7 +246,7 @@ NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic 
 
 Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus Stocktwits
 
-### 24. Memory chip stocks dragged the Nasdaq-100 into a correction this week - Startup Fortune
+### 25. Memory chip stocks dragged the Nasdaq-100 into a correction this week - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-10-11T18:14:40+00:00
@@ -246,7 +256,7 @@ Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, 
 
 Memory chip stocks dragged the Nasdaq-100 into a correction this week Startup Fortune
 
-### 25. Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? - IBTimes India
+### 26. Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-10-11T17:50:53+00:00
@@ -256,7 +266,7 @@ Memory chip stocks dragged the Nasdaq-100 into a correction this week Startup Fo
 
 Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? IBTimes India
 
-### 26. Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside - Timothy Sykes
+### 27. Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside - Timothy Sykes
 
 - Source: Timothy Sykes
 - Published: 2026-10-11T15:06:00+00:00
@@ -266,7 +276,7 @@ Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; w
 
 Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside Timothy Sykes
 
-### 27. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
+### 28. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-11T12:52:09+00:00
@@ -276,7 +286,17 @@ Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside Timoth
 
 Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? Goodreturns
 
-### 28. FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? - News9live
+### 29. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
+
+- Source: BBN Times
+- Published: 2026-10-12T05:54:26+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFNWVm5Cd19SYjZXWi01WmpZcUxLX1BITGVuNjE2MEc2OUg4WmVLNWRmLS1WUkcxVnBNd1EyS0hzUVFpckF3eTgxVnRSdmZBeHZzXzRua3lTODFFYW9UbUFqVElxd1BEakJ2WmFPUFZOOXR5d2FpQk5RemI3dEdmVjBodzNfLXB6WnZXX3hYUmZkakdObDBrLVVzTUQ2bXl6U1I3MDBocFpqcXpDSE9EMzJzbU1ERzdaaVZJUllPY2lleFU?oc=5
+
+BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions BBN Times
+
+### 30. FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? - News9live
 
 - Source: News9live
 - Published: 2026-10-12T00:52:12+00:00
@@ -286,17 +306,7 @@ Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts
 
 FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? News9live
 
-### 29. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
-
-- Source: BBN Times
-- Published: 2026-10-11T22:14:48+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxQdFNWVm5Cd19SYjZXWi01WmpZcUxLX1BITGVuNjE2MEc2OUg4WmVLNWRmLS1WUkcxVnBNd1EyS0hzUVFpckF3eTgxVnRSdmZBeHZzXzRua3lTODFFYW9UbUFqVElxd1BEakJ2WmFPUFZOOXR5d2FpQk5RemI3dEdmVjBodzNfLXB6WnZXX3hYUmZkakdObDBrLVVzTUQ2bXl6U1I3MDBocFpqcXpDSE9EMzJzbU1ERzdaaVZJUllPY2lleFU?oc=5
-
-BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions BBN Times
-
-### 30. Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities - Zee News
+### 31. Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities - Zee News
 
 - Source: Zee News
 - Published: 2026-10-11T08:02:50+00:00
@@ -306,25 +316,15 @@ BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Te
 
 Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities Zee News
 
-### 31. FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. - The Economic Times
+### 32. Equity mutual fund inflows jump 31% MoM to Rs 38,306 crore in September; smallcap funds log record collect - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-10-11T07:14:14+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiqwJBVV95cUxOd3FDaGE1LVo1eTFJUVlLcnZKRXlhRF9CaTRSbEVkOFBZaFV3bUJrcWhBOWpFZGxUb25oUlZPUHRlWXdZQVVVd2YwbUtaNEJHVG9KT2V2ZUVwY2wyWEtNTFotMy1XbmVOVlg0Nlh4SzdnQ01BX1Z0X2s3ZHdSNVI1T2dvTnBNVzZuQm10Z00yMkZHV2g5aFd2ZUU2WjlQdEk1QnFpd3pkaXZsUElzR0k0N2FnRm9pWVR2OWk4UkdLbGpqRE5VODU0RTJPMXI5QWhQYlFqaGsyemFER1JGa0o3RzViYzBOVmg2dVpSM2FIekdBRmZVS1pnZUlMQmdtcXFKVmJZVUI4MER0bGFuejVVVHNyQ2psZS1Jb01Ea0NwX3ZrajhWblNxY1Bia9IBsAJBVV95cUxOMzBTbXNZV0RUcW95WExlNENocG0yZzR1X0h6aDJMSXJFSUF6N096R19xNnJJMDZ0VDF0eFhWX0dINXRFZEVQb0tDNjMzeldISHEwYUctczRDd3daN1c0d3o3WUVneE5fN09WN212U0REVl9UX0VmWjhhbC13SkNCVkg2OHhyUmpwN1JPMW9LMlRfd3pzNWJXbDE5SnUzemVCaVhRMDdwaFg2WVFUVURpZ3hVdjNMRFZ1NW00UW1hdHU2N1JrYlczZjdpZUNVMnJSVjN2NlBERzhzSFowRDUwVGlqZzUzN2o5MHgtQVN0dTlyc0VZbEg4dlhVMXBsNWZJSC16bnNDS1d2UjU5cktrQUhhTVVGOFQ4Mk1YNlE2a2Z3UmF1QjlKX2ZabEVrRGtV?oc=5
-
-FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. The Economic Times
-
-### 32. Why Rs 38,800 crore monthly Mutual Fund inflows fail to lift Nifty: Jefferies explains - Financial Express
-
-- Source: Financial Express
-- Published: 2026-10-12T04:40:24+00:00
+- Published: 2026-10-12T06:42:14+00:00
 - Themes: India market
 - Score: 5
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPVEpDUmN5NGdwaGdCc1RNcDBkNGgtdXJSSDNoeFlCMU9abEVUVlpweWttN1ljcHl4dVpCTUZyVFRXVTRXQWdPVnhDanRNRDI3cTlLMzVha1JDSndDQlgzZ2lUNzh1WnBFQVVxMTc1c0JjR3BiemV0LUtRcGhxaXFpWVVYWG9CbWlyNUN4a1BkYnRkT1FDTFctUnZtS1V0VF8wbW1VSERIRkh1eHotTklscTZzZHBXTmpvVEZKUnB4Ni05VlE1cEFiQWM3dHZ0QQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxPZGhJRHpmOFBzWVZnZ2EydEVnck43TVhLT2VaR3BZZHZqRHVoLThxVk8xdnVGU0ZiWjlFMURFcTBEX2htbU9DMWJCTmdaV0F3LXdBY1JyMDlkb19KaGIwV2RiWEhtZGZSMVoyc3RuSE4xYVphY0h4OGFXWmotcXNpcDNsbDZ3LTV0dXhyT0dNQ2JhLTg3NmdzRElkQ2ZDYVNDZW92RHJxT3BJaDVjWGQ3Y0UyNnRlNmtyY0JrV19FeGhXZzl2TUZSWWRNakk0bzAxMk9mMGQ0RzQtNVRDVG5nMUN5c19jZ2R2aWdpRi1tVV9DSmNKeEZrdzV1VGJmckJLbjRTT2ZB0gGGAkFVX3lxTE9kaElEemY4UHNZVmdnYTJ0RWdyTjdNWEtPZVpHcFlkdmpEdWgtOHFWTzF2dUZTRmJaOUUxREVxMERfaG1tT0MxYkJOZ1pXQXctd0FjUnIwOWRvX0poYjBXZGJYSG1kZlIxWjJzdG5ITjFhWmFjSHg4YVdaai1xc2lwM2xsNnctNXR1eHJPR01DYmEtODc2Z3NESWRDZkNhU0Nlb3ZEcnFPcEloNWNYZDdjRTI2dGU2a3JjQmtXX0V4aFdnOXZNRlJZZE1qSTRvMDEyT2YwZDRHNC01VENUbmcxQ3lzX2NnZHZpZ2lGLW1VX0NKY0p4Rmt3NXVUYmZyQktuNFNPZkE?oc=5
 
-Why Rs 38,800 crore monthly Mutual Fund inflows fail to lift Nifty: Jefferies explains Financial Express
+Equity mutual fund inflows jump 31% MoM to Rs 38,306 crore in September; smallcap funds log record collect The Economic Times
 
 ### 33. Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood, rupee among 10 key... - Moneycontrol.com
 
@@ -346,7 +346,37 @@ Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood
 
 Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflows Mid-Day
 
-### 35. Equity funds inflow surges over 30 pc in September, industry AUM at Rs 82.64 lakh crore: AMFI - The Hans India
+### 35. Equity Mutual Fund Inflows Hit 5-Month High, Jump 31% In September; Small-Cap Funds, SIPs Set Records - Times Now
+
+- Source: Times Now
+- Published: 2026-10-12T07:30:16+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxOeXItY2UzekRTZDg0MWVTbUJ0eVJ5enRpMVpIOW5SREwxQkU2dHhWTEVhdXpIcl9ENC1vamthdXRDZjlXMTZIUUtOLUNJTWMwTmFkS1JBMDR4NkR0MExvMUZPNWtEcHZhOElsbmFpMWxCUm5NcUpSQ0JIOGpjcVNWZjVDUXZxSmNxZW9XMWlFNmY3UTZJdmZZRWE3NmVObnFBMEVJa3FwRTl3SzhPT1ZPWWdjdnl5Rk1LNzROYjZSYXhSbEgtU0dGWlVnWS14NWg2cGJNVnFFd3dEZ1lQWVBCaW9ORlo1WlhtNEI1R28xdHF0Y25uTGRFcmtOeWx3QdIBgwJBVV95cUxQUk43azB5T3d6YXRBQ09JcWF4eENmekZaNzc3aFdpamNDeDVXWEJfNmo1ZWNuZ3RXU1RoY3NqeWJicFpKY09GN2JNZ1pPMHJTRkVtX3dza3JFQ2g0OWFQQWdTMDFhS2xhcXlFbTN6cDZpbVo3OWU1UW1aSzJkVEZZbzgwV0tnd0dKcFBsNW9QMnExc3RERG05SUNIcFlGVEI2LVVkdjVTUTFDbEFjeExhamF3Q2NKTHcyNFVxWEx5YVhiM0VKWlRxMDdfWWhVb3RNNzZjZFlkNVg3Y3VGdVdjaWhuQzZyckM0RE9KZU81ekczb25hWHlka3hGUnVvWjNpUlNr?oc=5
+
+Equity Mutual Fund Inflows Hit 5-Month High, Jump 31% In September; Small-Cap Funds, SIPs Set Records Times Now
+
+### 36. SIP inflows hit all-time high of Rs 32,490 crore in September: AMFI data - The Hans India
+
+- Source: The Hans India
+- Published: 2026-10-12T07:18:53+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxObFliV1R6VGxPQngyOGJaVkI2RTlpTXJCa05HaVBhNlVfWmFWV19tWG1mYnRDUDNEcnJEY21TeEdpRmFSM25OeExhYW5xYm9fSG8yQzNHOVBCRlpWUGJRdVZxRFB3MzFsMkE2eFl3UjBpV2FRN28yQi1SMl9vZkxtbXY5SXROcy1abE1zMVBYZGhlSDRXdU1FazZSb2NJX1h3OGpLSDZxR2QtU0FZQ3ZzUm5fWlJaM2s?oc=5
+
+SIP inflows hit all-time high of Rs 32,490 crore in September: AMFI data The Hans India
+
+### 37. ai market data nifty recovery india vix fii dii gold silver - Zee Business
+
+- Source: Zee Business
+- Published: 2026-10-12T07:15:01+00:00
+- Themes: AI / tech risk, India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNLTBVSUVULVljTUdxNl9yYV93QVhyS2wzNmN2T2lfaDEtN3B4UTgwdmVNcm5fX3huV2dxTDBwQjhJV1V5UzdfZHRUbGxWcjdMS3hOaXR2Q0lLRHdYbXdCZWxfVzA3MFFaSmtKVDlvX3lUQXp2X2lJWFZaQUNmalc2YlpXeU51S0YzT0lKTnR2OVM4NnVvbFN1eXgxVDVBUzRucnVpNWd5T0RMVFV0d25WMFRKR3JwUQ?oc=5
+
+ai market data nifty recovery india vix fii dii gold silver Zee Business
+
+### 38. Equity funds inflow surges over 30 pc in September, industry AUM at Rs 82.64 lakh crore: AMFI - The Hans India
 
 - Source: The Hans India
 - Published: 2026-10-12T07:01:26+00:00
@@ -356,7 +386,7 @@ Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflow
 
 Equity funds inflow surges over 30 pc in September, industry AUM at Rs 82.64 lakh crore: AMFI The Hans India
 
-### 36. Equity mutual fund inflows rise 31% in September; small-cap schemes hit all-time high - CNBC TV18
+### 39. Equity mutual fund inflows rise 31% in September; small-cap schemes hit all-time high - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-12T06:38:34+00:00
@@ -366,7 +396,7 @@ Equity funds inflow surges over 30 pc in September, industry AUM at Rs 82.64 lak
 
 Equity mutual fund inflows rise 31% in September; small-cap schemes hit all-time high CNBC TV18
 
-### 37. Equity mutual fund inflows jump 31% to Rs 38,307 crore in September; debt funds see Rs 1.83 lakh crore... - Moneycontrol.com
+### 40. Equity mutual fund inflows jump 31% to Rs 38,307 crore in September; debt funds see Rs 1.83 lakh crore... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-12T06:34:35+00:00
@@ -376,7 +406,7 @@ Equity mutual fund inflows rise 31% in September; small-cap schemes hit all-time
 
 Equity mutual fund inflows jump 31% to Rs 38,307 crore in September; debt funds see Rs 1.83 lakh crore... Moneycontrol.com
 
-### 38. Sensex crashes 940 points from day’s high, Nifty slips below 22,400; rupee jumps 91 paise - Fortune India
+### 41. Sensex crashes 940 points from day’s high, Nifty slips below 22,400; rupee jumps 91 paise - Fortune India
 
 - Source: Fortune India
 - Published: 2026-10-12T06:23:24+00:00
@@ -386,7 +416,7 @@ Equity mutual fund inflows jump 31% to Rs 38,307 crore in September; debt funds 
 
 Sensex crashes 940 points from day’s high, Nifty slips below 22,400; rupee jumps 91 paise Fortune India
 
-### 39. Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key - NewsDrum
+### 42. Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-10-12T02:20:17+00:00
@@ -396,7 +426,7 @@ Sensex crashes 940 points from day’s high, Nifty slips below 22,400; rupee jum
 
 Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key NewsDrum
 
-### 40. Mid- and Small-Cap Mutual Funds Gain Investor Interest in May - Kalkine India
+### 43. Mid- and Small-Cap Mutual Funds Gain Investor Interest in May - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-10-11T13:18:00+00:00
@@ -406,7 +436,37 @@ Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key NewsDr
 
 Mid- and Small-Cap Mutual Funds Gain Investor Interest in May Kalkine India
 
-### 41. SIP Inflows Hit Record High Of Rs 32,490 Crore In September: AMFI Data - NDTV Profit
+### 44. Indian equity mutual funds post 5-month high inflow ₹38,307 cr - NewsBytes
+
+- Source: NewsBytes
+- Published: 2026-10-12T07:19:52+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxObHEzeDRBMGdEby1hczJScDdDb2VWSGQ4bzJ6TG1pVmdFN0xFYVJNR3pUQzBNZ3Vrc3BBRUZBUGV6M21RcGtKVW8xcmJDV0dpRDN1T09ET1pOOS13TzhicTdnZ1hhbUJ1RDR0R0ktUVdCMG1MaVVGYkVTb0FROHY3RGRnSHVPalhzZTgzUERBTTctR0VxWEN1Zjd0RXNnZjZuZ3RQUkd1RmNlR3dLbGU0?oc=5
+
+Indian equity mutual funds post 5-month high inflow ₹38,307 cr NewsBytes
+
+### 45. SIP inflows hit all-time high of ₹32,490 crore in September - CNBC TV18
+
+- Source: CNBC TV18
+- Published: 2026-10-12T07:12:59+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNMmoxYU5KcmpURkMtUGRxRHA0ZmNuaUZvSVZhOGNWNVpkbURGM0EyNV9kTEVDMVhEN3BaMmFtQjV6cHBYa3BLSGwwYmlseHJxS2UyOGtSNlA1bWJNTlU1UTBOaGpnaUVCNE5rZURsQ0h1QThGSWV5ZGFuVnEydUxxem5nZVRITnhwSWtmSnVZLTlFMHZ5MERoSjhhWkRTM2kzZkVyenJtbkc1ZHBGTUotQ1B30gG3AUFVX3lxTE5RemluU2lNMEs0amEtV1VFT2Rkb2lPSlpIOHYzaW10Z3hqSmRmOGVTa0h6dlFKRllrOGltYW1TdFZ4WUtOVmRiUnc4VXA5RGVjNWJ2NC1SWmVfTXhXMWR6Vi03Z2pCV1poc1lJb2FfcEl0ZG5XTE5uSUw1WnJxYWJvcWMyc0syZ040d2JyU3Z6R043U2xfV3hHRWloTTJ6NXZ4ZTBEdzFZblhYUTJvczEzZTZmVFpNdw?oc=5
+
+SIP inflows hit all-time high of ₹32,490 crore in September CNBC TV18
+
+### 46. AMFI Data: MF SIP inflows hit record high of Rs 32,490 crore in September - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-12T06:52:13+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVGw5MWNucG1fUFQtYzVta25BVk9Icmkxcm1QSmZVdWVtejV0WlVuaklCWnc5MjBGSDlIcFdfS2xlaDNvWmhCSlFXRVQtWVpFTEh2Y19FckVSRTZodEk3LVk0R2MyZmdFSHFzaFVILVVRZllfMGxLZm1sMm9raHJ1bzVZOXFnWjdKYzRrdkQ2UkkyT3VSaTNoNFlfb0U4T216RnQyZWFhZDhfZXk5QUZXR1U0Yi1RZ19DVHBtdy03U1pBV1pCNjdIcEZTOVNfLWtKRTF1akRDWdIB1wFBVV95cUxQVGw5MWNucG1fUFQtYzVta25BVk9Icmkxcm1QSmZVdWVtejV0WlVuaklCWnc5MjBGSDlIcFdfS2xlaDNvWmhCSlFXRVQtWVpFTEh2Y19FckVSRTZodEk3LVk0R2MyZmdFSHFzaFVILVVRZllfMGxLZm1sMm9raHJ1bzVZOXFnWjdKYzRrdkQ2UkkyT3VSaTNoNFlfb0U4T216RnQyZWFhZDhfZXk5QUZXR1U0Yi1RZ19DVHBtdy03U1pBV1pCNjdIcEZTOVNfLWtKRTF1akRDWQ?oc=5
+
+AMFI Data: MF SIP inflows hit record high of Rs 32,490 crore in September The Economic Times
+
+### 47. SIP Inflows Hit Record High Of Rs 32,490 Crore In September: AMFI Data - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-12T06:45:09+00:00
@@ -416,7 +476,17 @@ Mid- and Small-Cap Mutual Funds Gain Investor Interest in May Kalkine India
 
 SIP Inflows Hit Record High Of Rs 32,490 Crore In September: AMFI Data NDTV Profit
 
-### 42. Mutual Funds See Big Net Outflow: AMFI Data Shows Rs 1.33 Lakh Crore Withdrawal In September - NDTV Profit
+### 48. Why Is the Stock Market Falling Today? Sensex Slides 469 Points, Nifty Nears 22,400 Amid FII Outflows - APAC Media
+
+- Source: APAC Media
+- Published: 2026-10-12T06:29:03+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPXzhIekFnQmZBUFF2Ny1yQ0lCcXhac05EdGVENDZDbG9od1Q4YWxwWFE5NFlZMnE5d2VFTGdaa2hTMTNaRVJibDdaSmc5SUNINkRwakpFWGJEY24wLWRGWW4wTlJFaWNJeWYzZjNmczBSUTl4RzBnZGVPYlVkbDJQbDZ0VTdfZzUtdWdQT2NYSXFadzU3dFRYLQ?oc=5
+
+Why Is the Stock Market Falling Today? Sensex Slides 469 Points, Nifty Nears 22,400 Amid FII Outflows APAC Media
+
+### 49. Mutual Funds See Big Net Outflow: AMFI Data Shows Rs 1.33 Lakh Crore Withdrawal In September - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-12T06:24:38+00:00
@@ -426,7 +496,7 @@ SIP Inflows Hit Record High Of Rs 32,490 Crore In September: AMFI Data NDTV Prof
 
 Mutual Funds See Big Net Outflow: AMFI Data Shows Rs 1.33 Lakh Crore Withdrawal In September NDTV Profit
 
-### 43. Rupee Surges 97 Paise After RBI Measures: Will The Recovery Last Amid FII Selling And Oil Risks? - Business Today
+### 50. Rupee Surges 97 Paise After RBI Measures: Will The Recovery Last Amid FII Selling And Oil Risks? - Business Today
 
 - Source: Business Today
 - Published: 2026-10-12T06:22:49+00:00
@@ -436,17 +506,17 @@ Mutual Funds See Big Net Outflow: AMFI Data Shows Rs 1.33 Lakh Crore Withdrawal 
 
 Rupee Surges 97 Paise After RBI Measures: Will The Recovery Last Amid FII Selling And Oil Risks? Business Today
 
-### 44. Mutual funds set to extend $4.5 bn bond sellfoff after RBI policy shift - Business Standard
+### 51. Mutual funds set to extend $4.5 bn bond sellfoff after RBI policy shift - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-12T05:10:22+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzFscDdkUzIxdERSS1JRUWV5RzhfOTJRYk9DVExyVHlrSmduLWlULTNQZERqNmNESWYwdHRaSUxDMV9iVW83Y2ZuaUtmbjJpdDY5UEFvc1Z1NUt3eG9ZWHFJeTdFNmd2ZFcyTk9jclpWSmZwdXpWZ2RWY3pjbWt6c0N4eFExREFIMHBZcDNoTnUybVBxNnpkYkpDZUgxU0xQcW5WOFNQTzg4eWtaVXdJU19HaG9zX2hzOWNKRWpnUndCa0pyWlJjOWhSR2R4Rm1UdmI00gHYAUFVX3lxTE9wOTh3MnZYa212LXVPeERLM0JzRVVPZUt5YXVSZFdSdGlyT0hFeWJwM193LUM0b1VJN3NnbENwYmVYeGtlellmMFFXaE1TSDZMV0FwNE9zWlUwX0ExUWFxTUJ5WTZoeHFLdlNzNnkwa3gxTlFkUE5YUnNveWVTenZSMFFBU0RYbXZNRUJyVUg3RHFCeG9WQ0ZibEVFUF9vc3ZQRVhlNUNVc2lkQlA0azBtT2swTHo1LVp6U0RaYVA5QU83Wmtqb3JZMlZQSmt1SmlOZnRTbGpfZg?oc=5
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPcDk4dzJ2WGttdi11T3hESzNCc0VVT2VLeWF1UmRXUnRpck9IRXlicDNfdy1DNG9VSTdzZ2xDcGJlWHhrZXpZZjBRV2hNU0g2TFdBcDRPc1pVMF9BMVFhcU1CeVk2aHhxS3ZTczZ5MGt4MU5RZFBOWFJzb3llU3p2UjBRQVNEWG12TUVCclVIN0RxQnhvVkNGYmxFRVBfb3N2UEVYZTVDVXNpZEJQNGswbU9rMEx6NS1aelNEWmFQOUFPN1pram9yWTJWUEprdUppTmZ0U2xqX2bSAdgBQVVfeXFMT3A5OHcydlhrbXYtdU94REszQnNFVU9lS3lhdVJkV1J0aXJPSEV5YnAzX3ctQzRvVUk3c2dsQ3BiZVh4a2V6WWYwUVdoTVNINkxXQXA0T3NaVTBfQTFRYXFNQnlZNmh4cUt2U3M2eTBreDFOUWRQTlhSc295ZVN6dlIwUUFTRFhtdk1FQnJVSDdEcUJ4b1ZDRmJsRUVQX29zdlBFWGU1Q1VzaWRCUDRrMG1PazBMejUtWnpTRFphUDlBTzdaa2pvclkyVlBKa3VKaU5mdFNsal9m?oc=5
 
 Mutual funds set to extend $4.5 bn bond sellfoff after RBI policy shift Business Standard
 
-### 45. Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues - ETV Bharat
+### 52. Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues - ETV Bharat
 
 - Source: ETV Bharat
 - Published: 2026-10-12T04:56:04+00:00
@@ -456,7 +526,7 @@ Mutual funds set to extend $4.5 bn bond sellfoff after RBI policy shift Business
 
 Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues ETV Bharat
 
-### 46. Best tax saving mutual funds or ELSS to invest in October 2026 - The Economic Times
+### 53. Best tax saving mutual funds or ELSS to invest in October 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T04:33:50+00:00
@@ -466,7 +536,7 @@ Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues ETV 
 
 Best tax saving mutual funds or ELSS to invest in October 2026 The Economic Times
 
-### 47. Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high - CNBC TV18
+### 54. Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-12T03:30:03+00:00
@@ -476,7 +546,7 @@ Best tax saving mutual funds or ELSS to invest in October 2026 The Economic Time
 
 Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high CNBC TV18
 
-### 48. Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors - The Sunday Guardian
+### 55. Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-10-12T03:15:08+00:00
@@ -486,7 +556,7 @@ Adrian Mowat sees no near-term FII return to India, expects US bond yields to st
 
 Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors The Sunday Guardian
 
-### 49. GIFT Nifty signals mildly positive start for Sensex, Nifty after Friday's rally; falling oil offers... - Moneycontrol.com
+### 56. GIFT Nifty signals mildly positive start for Sensex, Nifty after Friday's rally; falling oil offers... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-12T02:50:54+00:00
@@ -496,7 +566,7 @@ Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Highe
 
 GIFT Nifty signals mildly positive start for Sensex, Nifty after Friday's rally; falling oil offers... Moneycontrol.com
 
-### 50. Mutual funds close in on FPIs in Indian equity ownership - The Economic Times
+### 57. Mutual funds close in on FPIs in Indian equity ownership - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T00:45:34+00:00
@@ -506,7 +576,7 @@ GIFT Nifty signals mildly positive start for Sensex, Nifty after Friday's rally;
 
 Mutual funds close in on FPIs in Indian equity ownership The Economic Times
 
-### 51. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - TradingView
+### 58. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - TradingView
 
 - Source: TradingView
 - Published: 2026-10-11T21:49:47+00:00
@@ -516,7 +586,7 @@ Mutual funds close in on FPIs in Indian equity ownership The Economic Times
 
 Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? TradingView
 
-### 52. Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff - EnterpriseAM
+### 59. Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff - EnterpriseAM
 
 - Source: EnterpriseAM
 - Published: 2026-10-11T21:00:00+00:00
@@ -526,7 +596,7 @@ Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual st
 
 Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff EnterpriseAM
 
-### 53. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - Livemint
+### 60. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T18:40:19+00:00
@@ -536,7 +606,7 @@ Wall Street sees Treasury yields at 6% as structural pressures outlast oil-drive
 
 Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? Livemint
 
-### 54. Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open - Livemint
+### 61. Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T18:14:36+00:00
@@ -546,7 +616,7 @@ Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual st
 
 Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open Livemint
 
-### 55. 5 Best Value Mutual Funds for 2026 Based on Rolling Returns - Myinvestmentideas
+### 62. 5 Best Value Mutual Funds for 2026 Based on Rolling Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-11T15:05:40+00:00
@@ -556,7 +626,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 5 Best Value Mutual Funds for 2026 Based on Rolling Returns Myinvestmentideas
 
-### 56. 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month - Trade Brains
+### 63. 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-10-11T14:30:37+00:00
@@ -566,7 +636,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month Trade Brains
 
-### 57. PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. - KuCoin
+### 64. PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. - KuCoin
 
 - Source: KuCoin
 - Published: 2026-10-11T14:28:03+00:00
@@ -576,7 +646,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. KuCoin
 
-### 58. Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus - Outlook Money
+### 65. Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-10-11T12:29:33+00:00
@@ -586,7 +656,7 @@ PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. KuCoin
 
 Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus Outlook Money
 
-### 59. Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 66. Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-11T11:39:42+00:00
@@ -596,7 +666,7 @@ Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus Out
 
 Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 60. Mutual Funds, Stock Market Gurus List - GuruFocus
+### 67. Mutual Funds, Stock Market Gurus List - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-10-11T10:05:12+00:00
@@ -606,7 +676,7 @@ Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment 
 
 Mutual Funds, Stock Market Gurus List GuruFocus
 
-### 61. Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation - Livemint
+### 68. Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T09:32:41+00:00
@@ -616,7 +686,7 @@ Mutual Funds, Stock Market Gurus List GuruFocus
 
 Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation Livemint
 
-### 62. ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts - ET Now
+### 69. ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts - ET Now
 
 - Source: ET Now
 - Published: 2026-10-11T09:25:46+00:00
@@ -626,7 +696,7 @@ Want global exposure through domestic mutual funds? Here are 10 schemes with the
 
 ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts ET Now
 
-### 63. HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? - ET Now
+### 70. HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? - ET Now
 
 - Source: ET Now
 - Published: 2026-10-11T07:48:37+00:00
@@ -636,7 +706,7 @@ ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year 
 
 HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? ET Now
 
-### 64. Stock market today: Why Sensex, Nifty are falling - Business Today
+### 71. Stock market today: Why Sensex, Nifty are falling - Business Today
 
 - Source: Business Today
 - Published: 2026-10-12T06:48:03+00:00
@@ -646,7 +716,7 @@ HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you h
 
 Stock market today: Why Sensex, Nifty are falling Business Today
 
-### 65. Nifty Slips 150 Points: FII Selling, RBI Policy Weigh on Markets - Dalal Street Investment Journal
+### 72. Nifty Slips 150 Points: FII Selling, RBI Policy Weigh on Markets - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-10-12T06:44:35+00:00
@@ -656,7 +726,7 @@ Stock market today: Why Sensex, Nifty are falling Business Today
 
 Nifty Slips 150 Points: FII Selling, RBI Policy Weigh on Markets Dalal Street Investment Journal
 
-### 66. Sensex Today | Stock Market Live: Sensex slips 550 pts, Nifty below 22,400; PSU banks decline, VIX j - IndiaIPO
+### 73. Sensex Today | Stock Market Live: Sensex slips 550 pts, Nifty below 22,400; PSU banks decline, VIX j - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-10-12T06:35:32+00:00
@@ -666,7 +736,7 @@ Nifty Slips 150 Points: FII Selling, RBI Policy Weigh on Markets Dalal Street In
 
 Sensex Today | Stock Market Live: Sensex slips 550 pts, Nifty below 22,400; PSU banks decline, VIX j IndiaIPO
 
-### 67. Global Market: China stocks fall as global yields, geopolitical tensions weigh on sentiment - The Economic Times
+### 74. Global Market: China stocks fall as global yields, geopolitical tensions weigh on sentiment - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T06:24:08+00:00
@@ -676,7 +746,7 @@ Sensex Today | Stock Market Live: Sensex slips 550 pts, Nifty below 22,400; PSU 
 
 Global Market: China stocks fall as global yields, geopolitical tensions weigh on sentiment The Economic Times
 
-### 68. Rupee Rebounds After RBI Measures, But Will FII Selling Continue To Hurt Indian Markets? - Business Today
+### 75. Rupee Rebounds After RBI Measures, But Will FII Selling Continue To Hurt Indian Markets? - Business Today
 
 - Source: Business Today
 - Published: 2026-10-12T05:42:39+00:00
@@ -686,7 +756,7 @@ Global Market: China stocks fall as global yields, geopolitical tensions weigh o
 
 Rupee Rebounds After RBI Measures, But Will FII Selling Continue To Hurt Indian Markets? Business Today
 
-### 69. Chinese stocks fall as higher global yields, geopolitical tensions weigh - Free Malaysia Today
+### 76. Chinese stocks fall as higher global yields, geopolitical tensions weigh - Free Malaysia Today
 
 - Source: Free Malaysia Today
 - Published: 2026-10-12T05:15:20+00:00
@@ -696,7 +766,7 @@ Rupee Rebounds After RBI Measures, But Will FII Selling Continue To Hurt Indian 
 
 Chinese stocks fall as higher global yields, geopolitical tensions weigh Free Malaysia Today
 
-### 70. China stocks fall as higher global yields, geopolitical tensions weigh - Devdiscourse
+### 77. China stocks fall as higher global yields, geopolitical tensions weigh - Devdiscourse
 
 - Source: Devdiscourse
 - Published: 2026-10-12T05:06:30+00:00
@@ -706,7 +776,7 @@ Chinese stocks fall as higher global yields, geopolitical tensions weigh Free Ma
 
 China stocks fall as higher global yields, geopolitical tensions weigh Devdiscourse
 
-### 71. Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara Bank declines 1.05% - Business Upturn
+### 78. Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara Bank declines 1.05% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-12T04:36:32+00:00
@@ -716,7 +786,7 @@ China stocks fall as higher global yields, geopolitical tensions weigh Devdiscou
 
 Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara Bank declines 1.05% Business Upturn
 
-### 72. MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap and costlier oil weigh on... - Moneycontrol.com
+### 79. MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap and costlier oil weigh on... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-12T04:05:13+00:00
@@ -726,7 +796,7 @@ Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara
 
 MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap and costlier oil weigh on... Moneycontrol.com
 
-### 73. Invesco India Nifty Chemical Index Fund - Regular Plan Fund info - The Economic Times
+### 80. Invesco India Nifty Chemical Index Fund - Regular Plan Fund info - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T02:39:35+00:00
@@ -735,73 +805,3 @@ MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap 
 - Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPV190QzJkV2R2UGZEOFRjWWQ4SFczc0ExcHNHQUNHT05pY2YtOThSMllpZUEzWkZRUWZzLXk5UGV1Q3g5U2FIQTZEMzBxZEFPY3BLN0NlUGVsb2J1U1prTXMtOHg1SDdoN25NQXVCTGxna1h6elp0OC1ORndKczZfR2lpMDlEdGMyUklGZEhuSTQ2UzlFX0Zrb0tnLXdlT19tRXRwN3R6cURlb240S2pEdEhvQ09UWnc?oc=5
 
 Invesco India Nifty Chemical Index Fund - Regular Plan Fund info The Economic Times
-
-### 74. FPI return to India a question of when, not if: Amundi CIO Vincent Mortier - Livemint
-
-- Source: Livemint
-- Published: 2026-10-12T01:00:07+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPdkpKMjJ3U3lzaUJpekFlN3JoR3Q0STNyUUl4WWhhUW5rNzVCYndMYU5RWlFZM3Ytd09qSk1rNWlQNkdYdEEzeVdlTjVrSUVFODNUQnVPalN4ZWNmSkxsREZqYnY1V0dHNklQZ1RqTGxaMHlfV3B4cHRvTjdaUmlPbW0tMTE1NWZ2dkpPd0RwWUdNQmxMQ3BnTVlnZFhhODcxeEpieVZYdW9tUFJXb0hyTWdTdmxjeUxqTjQxWG1lWmhyTmw4QU5N0gHMAUFVX3lxTFBPbndRcWFBb2FOZFRTLWhmX09rRVRjZHBYX3pZd0ZjdTBqUkgtb2JjMmN5NnJwYVFwMFhrM0Zpd3phRnFRenQ3QzRJbzRWcGozRTFodFF3QzJVaUZRX25lbHFCa0dSRDJFOEdYTWJrWGNFRWdLQm1DYUx3Y1hJMy1kaUNxTmhpeDRVWS1KQTFGWmJDcWFtbWdpYnZ4RlBsNTZ3YWZhZi1rQ0tVOUgyb056c0tJUzdXc2Nvc0ctUVYwcjEzTjdhNVhNMnNRNg?oc=5
-
-FPI return to India a question of when, not if: Amundi CIO Vincent Mortier Livemint
-
-### 75. KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? - 아시아경제
-
-- Source: 아시아경제
-- Published: 2026-10-12T00:12:00+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rUTBmdjBiVi1zeEYyazFZZndjMVNPQkRIMFVwRU5uQTJTMlNqcmVkRGVSUVFUT0YtRkxVLU9wT2VGR3JyUENsWEh6cUxfWHZHQ2w1bmxMQnJMUFZxMFVTYVQxNFY?oc=5
-
-KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? 아시아경제
-
-### 76. FPI outflows cross Rs 3 lakh cr in 2026 - The Hans India
-
-- Source: The Hans India
-- Published: 2026-10-11T22:58:48+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQYWxYcXhSdV9CR3RYVmg5cHpJbzl5TTRZaHd3RUtGSVN1alVmZ2tVa2RDaTg2LWJSQk8tcTN0NzM3Ym1wMEYyUVgtNnZSQXJVbWVMaS1xalBJMWk0Sl85R0pnLUlWVlBJNHJDZWlBWFg2VHhjSkdUUjE5ZFZrOXNnWlJYellOc0JPYy15MUh0TldIblB1M2dFSEMwWTlPSXNOY2c?oc=5
-
-FPI outflows cross Rs 3 lakh cr in 2026 The Hans India
-
-### 77. Earnings hold key to sustaining market rebound - The Hans India
-
-- Source: The Hans India
-- Published: 2026-10-11T22:42:10+00:00
-- Themes: India market, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNEh5eFR5OHdkWl9YMHZtUlVhNV9PNjB5T3R2Zno1VXRKNjRYYXdXLVJ1WXM2SnJETy1wdm1NeGRtNWFnMWwtRTkwUU1La2VWUmRjamg1b250aUpaMFMwQ1NiQXc1X1lrbV91ZHZCakxjXy1nZmppcVBUZUhrMFZ1UXg5R3NTdFFhM0F3Z2lGZTdKOW1LWEVBWHRNcW9Oczk2TGYtNGhHS2EtM3c?oc=5
-
-Earnings hold key to sustaining market rebound The Hans India
-
-### 78. MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-11T22:18:41+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3ZjcklJMURNRXVzZllZbDlodzc0WmY0alNpN3I3dVc5UjZPLWk1SVhXeEw5REEyNnJlRlJyOXA0eW1SZ18wOVkzVzFyQnd4WWcwY0hoN1ZQVFRTY1FOZURtQlBsc19UZ0UtdkpDRkVrTk9KbUNxMzlnUXhxX3hRYTVreXB2NXFfZ0RBQ3NGLThOdjlKSjR5TTAyQkkzNjUtVkhneEJUYk51aG5MaXN6V1VkVnFtcGpRM1AtYlFzMmtwOXBLSDVLYm02eHotMXpWNUFfMUptZy1TUC02UVZTWFdrWjgxaUNNWFE?oc=5
-
-MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff Stocktwits
-
-### 79. BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike - BBN Times
-
-- Source: BBN Times
-- Published: 2026-10-11T22:14:42+00:00
-- Themes: India market, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPQTJXZ1dlWU9ZM1lWeHRWRkxBOEhMQWV1WEU2MklDby1WbEtsRVpraDN6N0ZvakFDQWMxSWZkeHJaNlRfRElKR0tsbWJzS0tGd3VPRDZDdVVUMGdrQW5HS2UwV1ZibFk3cFBKNWtvRi11dE5WdTlsMnNaamdJTjIxRElrUGlwcnV0anhOMWJTU3g0NnJzQzlJZlRqRGRnQ1Ywb3dZaXpWVHUydUp6cUZDVmpIUmV0UXdaMS1KOUhoQk5wUC05LUduNkJBLTRvdFc5SzFqRk4yMTNmOWc5VGYxNzFHY2FRZEdG?oc=5
-
-BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike BBN Times
-
-### 80. ​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist - Pragativadi
-
-- Source: Pragativadi
-- Published: 2026-10-11T20:24:48+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSzB4NjNDMFZVOFlZNEVIRnVXU3VsQTlKTkJzemdnMU51ekhRWG41bGNLNGRSc2VPaXJvSFVxODQzMmNCamdpTWJmRHdoUHF1RlRXV3JYekFyaDNYZEdIdkp4OFpjMV9GZWhyZFZZSWVNNXh5RGcxS3NFSlZpR3JpTDR3Ym15QUxzanR5UHYwaE1jamVuN3BaRGN6WjEyemVSYUhrXzYyRmc?oc=5
-
-​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist Pragativadi
