@@ -1,12 +1,22 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-12 05:07
+Generated: 2026-10-12 05:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. Indian Stocks Rise as Crude Oil Falls and Rupee Strengthens - Investing.com India
+### 1. Sensex today: Sensex gains 299 points at open, then falls 400 points; Nifty tops 22,590 as oil prices ease - IBTimes India
+
+- Source: IBTimes India
+- Published: 2026-10-12T05:07:48+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmFBbkE3VWNJeU9TdUVtS0ZhMXdJTUpOWnBiakpIV3FfTElfOUJ4M1JETjY5dGlxWUlRWlZKS3JaLUt5NEh6TkRPTjVmMXJPYkQwUlVFMk10RnFUSDctaG5IdGtjMEY3V0dMVFVITTZxSUtSOTRham5lSVlBX1YzeExzV1hyWUNmRWxLMFItcHlqYU8ySEJxQW9JX01pcG5zSm84VlNmVGs5NVlJVUwwMkJJSU1SbXFjcF8zNXBVQlNkUQ?oc=5
+
+Sensex today: Sensex gains 299 points at open, then falls 400 points; Nifty tops 22,590 as oil prices ease IBTimes India
+
+### 2. Indian Stocks Rise as Crude Oil Falls and Rupee Strengthens - Investing.com India
 
 - Source: Investing.com India
 - Published: 2026-10-12T03:54:18+00:00
@@ -16,7 +26,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Indian Stocks Rise as Crude Oil Falls and Rupee Strengthens Investing.com India
 
-### 2. SIP Investment in Market Volatility: Why Staying Invested Matters - Kalkine India
+### 3. SIP Investment in Market Volatility: Why Staying Invested Matters - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-10-11T13:18:00+00:00
@@ -26,7 +36,17 @@ Indian Stocks Rise as Crude Oil Falls and Rupee Strengthens Investing.com India
 
 SIP Investment in Market Volatility: Why Staying Invested Matters Kalkine India
 
-### 3. Sensex Opens 299 Points Higher But Falls 400 Points Within An Hour, Softer Oil Lifts Nifty Above 22,590 - Free Press Journal
+### 4. Sensex Falls, Nifty Rises as Oil Prices Ease on Monday - HDFC Sky
+
+- Source: HDFC Sky
+- Published: 2026-10-12T04:49:19+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOWlllMlN5aHIxREpvMExDb0hCZ1I5SFY5VFdCU2o4V1l6WjdGMUdHTHM3MjFwQVM2aGVRaWhYTnhYMUZEMkVKVHlfX0R1N3pMdXdmYjY0c1RObzdQZEdRckJoNHJCVi12Q1VWWUlXWVhlWk5LbDFYYURDQkliNXdjdzY2cVVQOElocnJCM2Y4VjEwVU1laHJGbENjQU1NQ0dGSGJlRU9pNkpXc1NXel9zZGs1ZnhkVnBMVFFJZjFKZ3hXZmtha3pPSVdwM0FHQUkzMmQyRThvcE5jUQ?oc=5
+
+Sensex Falls, Nifty Rises as Oil Prices Ease on Monday HDFC Sky
+
+### 5. Sensex Opens 299 Points Higher But Falls 400 Points Within An Hour, Softer Oil Lifts Nifty Above 22,590 - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-12T04:40:26+00:00
@@ -36,7 +56,7 @@ SIP Investment in Market Volatility: Why Staying Invested Matters Kalkine India
 
 Sensex Opens 299 Points Higher But Falls 400 Points Within An Hour, Softer Oil Lifts Nifty Above 22,590 Free Press Journal
 
-### 4. Sensex, Nifty sink 15% YTD: Is the market correction far from over? - Fortune India
+### 6. Sensex, Nifty sink 15% YTD: Is the market correction far from over? - Fortune India
 
 - Source: Fortune India
 - Published: 2026-10-12T02:46:05+00:00
@@ -46,7 +66,7 @@ Sensex Opens 299 Points Higher But Falls 400 Points Within An Hour, Softer Oil L
 
 Sensex, Nifty sink 15% YTD: Is the market correction far from over? Fortune India
 
-### 5. Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - DD India
+### 7. Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - DD India
 
 - Source: DD India
 - Published: 2026-10-11T15:01:41+00:00
@@ -56,7 +76,7 @@ Sensex, Nifty sink 15% YTD: Is the market correction far from over? Fortune Indi
 
 Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment DD India
 
-### 6. S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off - BBN Times
+### 8. S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-11T07:37:11+00:00
@@ -66,7 +86,7 @@ Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sen
 
 S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off BBN Times
 
-### 7. Sensex falls 100 points, Nifty rises above 22,500. What can trigger a sharp rally on Dalal Street? - The Economic Times
+### 9. Sensex falls 100 points, Nifty rises above 22,500. What can trigger a sharp rally on Dalal Street? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T04:39:01+00:00
@@ -76,7 +96,7 @@ S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Of
 
 Sensex falls 100 points, Nifty rises above 22,500. What can trigger a sharp rally on Dalal Street? The Economic Times
 
-### 8. Sensex falls 500 pts from day's high, Nifty below 22,500: Profit booking among key factors behind markets... - Moneycontrol.com
+### 10. Sensex falls 500 pts from day's high, Nifty below 22,500: Profit booking among key factors behind markets... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-12T04:15:22+00:00
@@ -86,7 +106,7 @@ Sensex falls 100 points, Nifty rises above 22,500. What can trigger a sharp rall
 
 Sensex falls 500 pts from day's high, Nifty below 22,500: Profit booking among key factors behind markets... Moneycontrol.com
 
-### 9. Nifty Holds 200-Week EMA Amid Volatility - ICICI Direct Ltd - Investment Guru India
+### 11. Nifty Holds 200-Week EMA Amid Volatility - ICICI Direct Ltd - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-12T04:12:06+00:00
@@ -96,7 +116,7 @@ Sensex falls 500 pts from day's high, Nifty below 22,500: Profit booking among k
 
 Nifty Holds 200-Week EMA Amid Volatility - ICICI Direct Ltd Investment Guru India
 
-### 10. Sensex, Nifty 50 May Open Lower as Asian Markets Fall - HDFC Sky
+### 12. Sensex, Nifty 50 May Open Lower as Asian Markets Fall - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-10-12T03:26:14+00:00
@@ -106,7 +126,7 @@ Nifty Holds 200-Week EMA Amid Volatility - ICICI Direct Ltd Investment Guru Indi
 
 Sensex, Nifty 50 May Open Lower as Asian Markets Fall HDFC Sky
 
-### 11. S.Korean stocks slide as chip selloff deepens, foreign selling persists - KED Global
+### 13. S.Korean stocks slide as chip selloff deepens, foreign selling persists - KED Global
 
 - Source: KED Global
 - Published: 2026-10-12T02:14:25+00:00
@@ -116,7 +136,7 @@ Sensex, Nifty 50 May Open Lower as Asian Markets Fall HDFC Sky
 
 S.Korean stocks slide as chip selloff deepens, foreign selling persists KED Global
 
-### 12. South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply - www.tokenpost.com
+### 14. South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply - www.tokenpost.com
 
 - Source: www.tokenpost.com
 - Published: 2026-10-12T01:29:00+00:00
@@ -126,7 +146,7 @@ S.Korean stocks slide as chip selloff deepens, foreign selling persists KED Glob
 
 South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply www.tokenpost.com
 
-### 13. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
+### 15. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-11T20:02:02+00:00
@@ -136,7 +156,7 @@ South Korea’s KOSPI Slides 3% as Chip Stocks Fall Sharply www.tokenpost.com
 
 NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms Stocktwits
 
-### 14. Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus - Stocktwits
+### 16. Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-11T19:58:58+00:00
@@ -146,7 +166,7 @@ NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic 
 
 Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus Stocktwits
 
-### 15. Memory chip stocks dragged the Nasdaq-100 into a correction this week - Startup Fortune
+### 17. Memory chip stocks dragged the Nasdaq-100 into a correction this week - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-10-11T18:14:40+00:00
@@ -156,7 +176,7 @@ Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, 
 
 Memory chip stocks dragged the Nasdaq-100 into a correction this week Startup Fortune
 
-### 16. Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? - IBTimes India
+### 18. Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-10-11T17:50:53+00:00
@@ -166,7 +186,7 @@ Memory chip stocks dragged the Nasdaq-100 into a correction this week Startup Fo
 
 Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? IBTimes India
 
-### 17. Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside - Timothy Sykes
+### 19. Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside - Timothy Sykes
 
 - Source: Timothy Sykes
 - Published: 2026-10-11T15:06:00+00:00
@@ -176,7 +196,7 @@ Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; w
 
 Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside Timothy Sykes
 
-### 18. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
+### 20. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-11T12:52:09+00:00
@@ -186,7 +206,7 @@ Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside Timoth
 
 Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? Goodreturns
 
-### 19. FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? - News9live
+### 21. FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? - News9live
 
 - Source: News9live
 - Published: 2026-10-12T00:52:12+00:00
@@ -196,7 +216,7 @@ Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts
 
 FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? News9live
 
-### 20. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
+### 22. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-11T22:14:48+00:00
@@ -206,7 +226,7 @@ FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow
 
 BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions BBN Times
 
-### 21. Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities - Zee News
+### 23. Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities - Zee News
 
 - Source: Zee News
 - Published: 2026-10-11T08:02:50+00:00
@@ -216,7 +236,7 @@ BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Te
 
 Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities Zee News
 
-### 22. FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. - The Economic Times
+### 24. FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-11T07:14:14+00:00
@@ -226,7 +246,7 @@ Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geo
 
 FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. The Economic Times
 
-### 23. Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood, rupee among 10 key... - Moneycontrol.com
+### 25. Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood, rupee among 10 key... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-11T17:48:42+00:00
@@ -236,7 +256,7 @@ FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 
 
 Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood, rupee among 10 key... Moneycontrol.com
 
-### 24. Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflows - Mid-Day
+### 26. Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflows - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-10-11T16:12:14+00:00
@@ -246,7 +266,7 @@ Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood
 
 Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflows Mid-Day
 
-### 25. Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key - NewsDrum
+### 27. Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-10-12T02:20:17+00:00
@@ -256,7 +276,7 @@ Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflow
 
 Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key NewsDrum
 
-### 26. Mid- and Small-Cap Mutual Funds Gain Investor Interest in May - Kalkine India
+### 28. Mid- and Small-Cap Mutual Funds Gain Investor Interest in May - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-10-11T13:18:00+00:00
@@ -266,7 +286,17 @@ Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key NewsDr
 
 Mid- and Small-Cap Mutual Funds Gain Investor Interest in May Kalkine India
 
-### 27. Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues - ETV Bharat
+### 29. Mutual funds set to extend $4.5 bn bond sellfoff after RBI policy shift - Business Standard
+
+- Source: Business Standard
+- Published: 2026-10-12T05:10:22+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVzFscDdkUzIxdERSS1JRUWV5RzhfOTJRYk9DVExyVHlrSmduLWlULTNQZERqNmNESWYwdHRaSUxDMV9iVW83Y2ZuaUtmbjJpdDY5UEFvc1Z1NUt3eG9ZWHFJeTdFNmd2ZFcyTk9jclpWSmZwdXpWZ2RWY3pjbWt6c0N4eFExREFIMHBZcDNoTnUybVBxNnpkYkpDZUgxU0xQcW5WOFNQTzg4eWtaVXdJU19HaG9zX2hzOWNKRWpnUndCa0pyWlJjOWhSR2R4Rm1UdmI00gHYAUFVX3lxTE9wOTh3MnZYa212LXVPeERLM0JzRVVPZUt5YXVSZFdSdGlyT0hFeWJwM193LUM0b1VJN3NnbENwYmVYeGtlellmMFFXaE1TSDZMV0FwNE9zWlUwX0ExUWFxTUJ5WTZoeHFLdlNzNnkwa3gxTlFkUE5YUnNveWVTenZSMFFBU0RYbXZNRUJyVUg3RHFCeG9WQ0ZibEVFUF9vc3ZQRVhlNUNVc2lkQlA0azBtT2swTHo1LVp6U0RaYVA5QU83Wmtqb3JZMlZQSmt1SmlOZnRTbGpfZg?oc=5
+
+Mutual funds set to extend $4.5 bn bond sellfoff after RBI policy shift Business Standard
+
+### 30. Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues - ETV Bharat
 
 - Source: ETV Bharat
 - Published: 2026-10-12T04:56:04+00:00
@@ -276,7 +306,17 @@ Mid- and Small-Cap Mutual Funds Gain Investor Interest in May Kalkine India
 
 Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues ETV Bharat
 
-### 28. Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high - CNBC TV18
+### 31. Best tax saving mutual funds or ELSS to invest in October 2026 - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-12T04:33:50+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQdUJucmRhVnktcG15aHJQbk5sdDR5Q2p3aDEtV0Ywa0NvSlRqLVU0WmxaMHBYcHpsZklZQnF3OXQzYjNNeVBBOHhpTk1IQ1ljLVJxcUI4MFJEUWctQjRzTGgtTkF4dEdTb2xSSm5ROTJZX2Vobmpab1E5c215TlBMeVFxdDJnMGsyUjRtRTRwMzUzSEpxOEY1bHNzdmFhaVF6emZISjc3RXEteGNLR214Qk5DRldxMFo0YmRoOWttUG84ZHFFVTlz0gHMAUFVX3lxTE5kUDcyVnVaTWliVDRaX3dPUVRIbnRhQmw1YmFXaTZRWWJDWThRaF83b1djRU8wbTZNeUlEcnNQX04zeUN3aURtRWFOdEVTdWNiVVNXMlotekNIT3h3U1FWREpqNEVxNnUtU2p3OTRKT3VsbkFNTXh4ODBTU3Y4NGlPak5URTk0VjQyQkRQUTdBeTg0d0lSVGdXcW5KUVJaYXZOVFFmOUlhU1dhaFZXZTgyTFBHYnUzTmdOX2dtOU5jM3ZqUTBMeXhBZFlwdg?oc=5
+
+Best tax saving mutual funds or ELSS to invest in October 2026 The Economic Times
+
+### 32. Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-12T03:30:03+00:00
@@ -286,27 +326,17 @@ Stock Markets Today: Sensex, Nifty Erase Early Gains; FII Selling Continues ETV 
 
 Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high CNBC TV18
 
-### 29. Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors - The Sunday Guardian
+### 33. Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors - The Sunday Guardian
 
 - Source: The Sunday Guardian
-- Published: 2026-10-12T03:15:07+00:00
+- Published: 2026-10-12T03:15:08+00:00
 - Themes: India market
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi3wJBVV95cUxNZTBodkNLRWNEei16SGlRdjlkOVI4bUd2N1Y3bUdaVUxXLVVRdE5wWkU2dnQ0aVJOM3I2NFJmcklEVl9sM0c2TGZkTjczVWhXVmxMeXFOMnBDMW15ZUpYbkFLRzlubTdHSmQ0WTVnTEhHUk5YcS1WS0ZKdG0ydUhTSEltMG5KSFRJNnNxaS1RQ0VQbTdpdk9RUUJXY3hDam1rSS1WRmRUM29jVkRnOWJvZkdmaHA0MnJxWUFVcHc3VDgxYlFENFY5NHRGUjJ6aVlVdHI1MU5aWmtjQ2pmcWl1RmhNU2U4SXBBOGdoUVBoalM2WFE4Q3NUT0x1cmJzcmEwYmctSG1OUDJVUDB4THdpd3ZaXzAwT3hYUDdTeTdZc3l0S0lNX2RpczJUdWJvWG4zazh3Qlg5TEptMXhWS0R5NmFsYTd1aFlpU1Y2MlRjZV9DVWdrOVUtaF9sYkhSSHPSAeQCQVVfeXFMUFE3eFk3bktsWWpjRGxaSEFvV2JtTWp0cEdCVGdmeTVLTk5xMzltbXNsZnpERktFYjVBZFFHaU9YMDhwVXlLdDIyTGxNUGVGNEc0ZmFmSUZqNkRDV3VwTHBkNjNaeHRwc0kwNnVwUEdEQ2hSN0hOcnRxQ2dEeGxrRHBQakRmVmV2ZElFYlRaYm9rcmkxREVIMDFCMDlsVXh0dXJxaDFIYXpGUmJXNFlQUTdtTG41Q0NMSnMySVNrYkVHcjN5SFhoNGh1QXowMkhhcTVFbkxKMXFCNUwxNGxHSHBEWWlmU0V6ZW8xNWhVb1FDM2RJN3R3bUV2THhSRGcycXlzWHN0UFUyelMzSlI5dlFNd0E4Yi14VWVuYUE4MGk4bHFLZVdVclYxWlFELTJuNU9DTEJOVGVmWVl2WUhxOFdmME9wdlRjUnVLUmNiRDZtVkJpeXhLazhhWWRQN1dXRkZCSDM?oc=5
+- Link: https://news.google.com/rss/articles/CBMi5AJBVV95cUxQUTd4WTduS2xZamNEbFpIQW9XYm1NanRwR0JUZ2Z5NUtOTnEzOW1tc2xmekRGS0ViNUFkUUdpT1gwOHBVeUt0MjJMbE1QZUY0RzRmYWZJRmo2RENXdXBMcGQ2M1p4dHBzSTA2dXBQR0RDaFI3SE5ydHFDZ0R4bGtEcFBqRGZWZXZkSUViVFpib2tyaTFERUgwMUIwOWxVeHR1cnFoMUhhekZSYlc0WVBRN21MbjVDQ0xKczJJU2tiRUdyM3lIWGg0aHVBejAySGFxNUVuTEoxcUI1TDE0bEdIcERZaWZTRXplbzE1aFVvUUMzZEk3dHdtRXZMeFJEZzJxeXNYc3RQVTJ6UzNKUjl2UU13QThiLXhVZW5hQTgwaThscUtlV1VyVjFaUUQtMm41T0NMQk5UZWZZWXZZSHE4V2YwT3B2VGNSdUtSY2JENm1WQml5eEtrOGFZZFA3V1dGRkJIM9IB5AJBVV95cUxQUTd4WTduS2xZamNEbFpIQW9XYm1NanRwR0JUZ2Z5NUtOTnEzOW1tc2xmekRGS0ViNUFkUUdpT1gwOHBVeUt0MjJMbE1QZUY0RzRmYWZJRmo2RENXdXBMcGQ2M1p4dHBzSTA2dXBQR0RDaFI3SE5ydHFDZ0R4bGtEcFBqRGZWZXZkSUViVFpib2tyaTFERUgwMUIwOWxVeHR1cnFoMUhhekZSYlc0WVBRN21MbjVDQ0xKczJJU2tiRUdyM3lIWGg0aHVBejAySGFxNUVuTEoxcUI1TDE0bEdIcERZaWZTRXplbzE1aFVvUUMzZEk3dHdtRXZMeFJEZzJxeXNYc3RQVTJ6UzNKUjl2UU13QThiLXhVZW5hQTgwaThscUtlV1VyVjFaUUQtMm41T0NMQk5UZWZZWXZZSHE4V2YwT3B2VGNSdUtSY2JENm1WQml5eEtrOGFZZFA3V1dGRkJIMw?oc=5
 
 Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors The Sunday Guardian
 
-### 30. South Korea stocks fall while Asian shares stay cautious as earnings loom, oil slips - The Business Times
-
-- Source: The Business Times
-- Published: 2026-10-12T02:31:00+00:00
-- Themes: market selling, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxNZkhaa1JwdVU4ZG5lZGlFeHN1UWE1Y1gtR2Q4eHgyczFMQkdJQTZjZXZOQVJfaEtJeGVEeFkwWTlrdzZNQW5oeDdwU2t4bjdPOXZkb3hBSFlZMlFGbV82NG85Zm5KMXVoNEdkbm9ReTZ0YUlkNTJSUUdZSjkzMkloOEZja2E1ZmJLVUpuSGowd3pwOS1EZ2VUYlNOb0NuckctMW9kTy1VampYVm5aNWxxcHdsM3ZOYTRPdGdMd3VlQUFseVItVEpaMnd4Q25nLWJkdDZYanRGZ1p5amhsT3EyMGo4eHFXTnFRMldwMEdLQQ?oc=5
-
-South Korea stocks fall while Asian shares stay cautious as earnings loom, oil slips The Business Times
-
-### 31. Mutual funds close in on FPIs in Indian equity ownership - The Economic Times
+### 34. Mutual funds close in on FPIs in Indian equity ownership - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T00:45:34+00:00
@@ -316,7 +346,7 @@ South Korea stocks fall while Asian shares stay cautious as earnings loom, oil s
 
 Mutual funds close in on FPIs in Indian equity ownership The Economic Times
 
-### 32. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - TradingView
+### 35. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - TradingView
 
 - Source: TradingView
 - Published: 2026-10-11T21:49:47+00:00
@@ -326,7 +356,7 @@ Mutual funds close in on FPIs in Indian equity ownership The Economic Times
 
 Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? TradingView
 
-### 33. Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff - EnterpriseAM
+### 36. Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff - EnterpriseAM
 
 - Source: EnterpriseAM
 - Published: 2026-10-11T21:00:00+00:00
@@ -336,7 +366,7 @@ Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual st
 
 Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff EnterpriseAM
 
-### 34. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - Livemint
+### 37. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T18:40:19+00:00
@@ -346,7 +376,7 @@ Wall Street sees Treasury yields at 6% as structural pressures outlast oil-drive
 
 Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? Livemint
 
-### 35. Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open - Livemint
+### 38. Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T18:14:36+00:00
@@ -356,7 +386,7 @@ Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual st
 
 Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open Livemint
 
-### 36. 5 Best Value Mutual Funds for 2026 Based on Rolling Returns - Myinvestmentideas
+### 39. 5 Best Value Mutual Funds for 2026 Based on Rolling Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-11T15:05:40+00:00
@@ -366,7 +396,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 5 Best Value Mutual Funds for 2026 Based on Rolling Returns Myinvestmentideas
 
-### 37. 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month - Trade Brains
+### 40. 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-10-11T14:30:37+00:00
@@ -376,7 +406,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month Trade Brains
 
-### 38. PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. - KuCoin
+### 41. PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. - KuCoin
 
 - Source: KuCoin
 - Published: 2026-10-11T14:28:03+00:00
@@ -386,7 +416,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. KuCoin
 
-### 39. Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus - Outlook Money
+### 42. Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-10-11T12:29:33+00:00
@@ -396,7 +426,7 @@ PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. KuCoin
 
 Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus Outlook Money
 
-### 40. Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 43. Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-11T11:39:42+00:00
@@ -406,7 +436,7 @@ Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus Out
 
 Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 41. Mutual Funds, Stock Market Gurus List - GuruFocus
+### 44. Mutual Funds, Stock Market Gurus List - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-10-11T10:05:12+00:00
@@ -416,7 +446,7 @@ Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment 
 
 Mutual Funds, Stock Market Gurus List GuruFocus
 
-### 42. Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation - Livemint
+### 45. Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T09:32:41+00:00
@@ -426,7 +456,7 @@ Mutual Funds, Stock Market Gurus List GuruFocus
 
 Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation Livemint
 
-### 43. ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts - ET Now
+### 46. ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts - ET Now
 
 - Source: ET Now
 - Published: 2026-10-11T09:25:46+00:00
@@ -436,17 +466,7 @@ Want global exposure through domestic mutual funds? Here are 10 schemes with the
 
 ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts ET Now
 
-### 44. UAL Stock Falls After-Hours Despite Earnings Beat And Raised Outlook — Retail Debates Whether Selloff Is Just Profit Taking - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-11T08:05:51+00:00
-- Themes: market selling, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxPTVRpM0RrWUhNRzNfUjRzMk5ucjZsZFdnTHJuQ193d25lNlNIMzNkUEFmMWV4X2h3clB3dWdkMlpuNDBwcEdqREtPYzZVbm82SS1HcllmRG1LWWpHSVdfaGNodzZJa3pVdXhqYTRJSkpDd29ZS2YyUEFIV3JwYmNEb2RONU54WUZQYVA5R09pMzdITXJRS19hWXJvdnlEYnZmR3RPVVZqb1RGTjF1V0puZHFCNVNkaFp0SW9FRDE1Q1pMMTJ1QmN4RzJqeERwejFpTVlGbl9CU0RWQjNNYVNLQklpMEdvanY5SklTVkVzbmZlaEZGX0VJNGhrMVVyaWV2dWZrY0h1aDM3SDZnZFlPWnBPUQ?oc=5
-
-UAL Stock Falls After-Hours Despite Earnings Beat And Raised Outlook — Retail Debates Whether Selloff Is Just Profit Taking Stocktwits
-
-### 45. HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? - ET Now
+### 47. HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? - ET Now
 
 - Source: ET Now
 - Published: 2026-10-11T07:48:37+00:00
@@ -456,7 +476,7 @@ UAL Stock Falls After-Hours Despite Earnings Beat And Raised Outlook — Retail 
 
 HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? ET Now
 
-### 46. International mutual funds lead weekly returns with gains of up to 11%. Check top 5 performers - The Economic Times
+### 48. International mutual funds lead weekly returns with gains of up to 11%. Check top 5 performers - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-11T06:20:51+00:00
@@ -466,7 +486,7 @@ HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you h
 
 International mutual funds lead weekly returns with gains of up to 11%. Check top 5 performers The Economic Times
 
-### 47. Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race - deVere Group
+### 49. Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race - deVere Group
 
 - Source: deVere Group
 - Published: 2026-10-11T05:40:23+00:00
@@ -476,17 +496,27 @@ International mutual funds lead weekly returns with gains of up to 11%. Check to
 
 Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race deVere Group
 
-### 48. Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained - Business Today
+### 50. Chinese stocks fall as higher global yields, geopolitical tensions weigh - Free Malaysia Today
 
-- Source: Business Today
-- Published: 2026-10-11T05:30:08+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMTNhV0RGUXJCOXZVQ2owM2hsT0doYXFXVG8wM05XUW54Xy1qa3VJMERPZDlEVjU5dzZQUkxDeE44NG5tUmo2VDlqazJZSmtVc0xZUy0tVlRsdDE1eWtkcUZHLV9naklSd1hrYm1MMVl3emdkcTVmZFlyR0dRS0o1NDh2UjhrR1hhYXNZaTdQdU9BUGl1QjFYUjcwMnpON250NTMtdUR3RlpMaGdhRm1RVVR5R0RwR2JvNTRHVURZblZQdHJQTDg1ZXFQT1FrV2NBSnhWMFpab0R6ck1rVzFTNUc1V2Nra2tBMXfSAe8BQVVfeXFMTTVGVkdnY3QweFg2ZS1MaTMtQjB6Nk5sb0hxTm1hckN3OUtfNkotNkZoODRVQVV0YkpHUm9BWktFdXh6YnRYZE5TY2tuWGJ6UVJfN09OaHBYRUEyTlM1YUo1Ry1ONnFTQlZYbEFNNk1qaVBSQnJkbk5fekw0U3dkQ0ZVMEpSZUZ2RUdaNS1NamJIQ0trWndsVkUxbjdaX1pabVY2TWZ5WnZ6em9oZnRMQmc3T0JlZFc4eHltYTVnRkpOYXJ0Nk1ldGZtNGhaU0ctQm9KOVA2cjBCOXlQQ2IwSWFib3FhUi1ncFh3VlRLZ2M?oc=5
+- Source: Free Malaysia Today
+- Published: 2026-10-12T05:15:20+00:00
+- Themes: market selling, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPSFVILTVyTVFCT0JBendHbUc0NmlXVlZPYXhNV2hkMlJLU2lCYUdKX3UzT0hHRnl5SU5UN3drR2lhUE1WTHdjTTRTVTNnMlpuenZUb3ZCalM4MkdtbjlvMG81MDJHc3dHRTd5eldRLTBBcC1qdzVDSUZfTkJrUmdYZVhnbXB0NkZVem5wdDJ5WmRwVWdpRkMyZFFQNWN3d3ozSVd0Mkc2ZEI5cWNTWExLcVhTVV8wVHlqVHQzek1Kdm9JNTZvSTdjNlJoZTVKUjQ?oc=5
 
-Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained Business Today
+Chinese stocks fall as higher global yields, geopolitical tensions weigh Free Malaysia Today
 
-### 49. Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara Bank declines 1.05% - Business Upturn
+### 51. Price Action: Bajel Projects shares rise 2% on EPC order win; Avenue Supermarts falls 2% after earnings - TradingView
+
+- Source: TradingView
+- Published: 2026-10-12T05:08:00+00:00
+- Themes: market selling, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQSEFIMldvSDNfQlBYU1FuMlZBY2h2dUpiTDNJSGZEa0pHVnVEV01FTV8zVEJDRjkyOThkTnJBa3hCTWs3WTd2VW4xYmY3a055ajNLYlVBZF8yLWt4SFJDZ2pNTVl6cnJyZkRmN05xeDJVS1dfUlRFdFY2eHVyanBkNUlVcE5EZjdBYi11aTc2aGRjYUEzSU5laUFKZXRLQmZ5eHVoU25PX2YxU0kyRnV6QXV6NnJUdUVBT0ZkZGV2cFFNZUF6TDc0RWlVcFFtOFFjTm5nQVBJdWl4cTBQai1QYUtUOXZvcDNUWWRuQUNPMjhxd3dT?oc=5
+
+Price Action: Bajel Projects shares rise 2% on EPC order win; Avenue Supermarts falls 2% after earnings TradingView
+
+### 52. Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara Bank declines 1.05% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-12T04:36:32+00:00
@@ -496,7 +526,17 @@ Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation E
 
 Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara Bank declines 1.05% Business Upturn
 
-### 50. Stock Market Today: Sensex jumps 300 pts; Nifty crosses 22,600 - Zee Business
+### 53. MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap and costlier oil weigh on... - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-12T04:05:13+00:00
+- Themes: India market, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxNR1dBMkc1OXptakMxOW03cmNiVnNqT0wzSU05Rlhpa0twVGNqcVpKV3ZlRGx1WWZ0OWkxSlNjM1FhYi1pQ1Y0T1ZySVJwRWJjQ1NwVlZzT0NPcGdPWVRYX28tMllKeHVTLTRlYnNTRW1CX3lXWlpsR0t3NGNUc25PSnRhZEpqcllBZnlJRWlQSlZoc2ZvVXNFTjJTMTE4QUw3NnpUSlEtbUxuVkl6MDhjT1pEQVk4dlcxOHF6aGJmUHFFOHdrOHhSVnNZVVJkaHhuSkxidHo4M2hEaWJnb2pJaFdyaklyWTZkbnR1N3R2c0dUUXVUWHV0SERnVHVac3JlanZsMWZoRdIBhwJBVV95cUxNR1dBMkc1OXptakMxOW03cmNiVnNqT0wzSU05Rlhpa0twVGNqcVpKV3ZlRGx1WWZ0OWkxSlNjM1FhYi1pQ1Y0T1ZySVJwRWJjQ1NwVlZzT0NPcGdPWVRYX28tMllKeHVTLTRlYnNTRW1CX3lXWlpsR0t3NGNUc25PSnRhZEpqcllBZnlJRWlQSlZoc2ZvVXNFTjJTMTE4QUw3NnpUSlEtbUxuVkl6MDhjT1pEQVk4dlcxOHF6aGJmUHFFOHdrOHhSVnNZVVJkaHhuSkxidHo4M2hEaWJnb2pJaFdyaklyWTZkbnR1N3R2c0dUUXVUWHV0SERnVHVac3JlanZsMWZoRQ?oc=5
+
+MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap and costlier oil weigh on... Moneycontrol.com
+
+### 54. Stock Market Today: Sensex jumps 300 pts; Nifty crosses 22,600 - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-12T03:51:07+00:00
@@ -506,7 +546,7 @@ Banking sector stocks today, October 12: SBI falls 1.37%, PNB down 1.35%, Canara
 
 Stock Market Today: Sensex jumps 300 pts; Nifty crosses 22,600 Zee Business
 
-### 51. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Business Standard
+### 55. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-12T03:01:58+00:00
@@ -516,7 +556,7 @@ Stock Market Today: Sensex jumps 300 pts; Nifty crosses 22,600 Zee Business
 
 Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies Business Standard
 
-### 52. Invesco India Nifty Chemical Index Fund - Regular Plan Fund info - The Economic Times
+### 56. Invesco India Nifty Chemical Index Fund - Regular Plan Fund info - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T02:39:35+00:00
@@ -526,7 +566,7 @@ Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies Business 
 
 Invesco India Nifty Chemical Index Fund - Regular Plan Fund info The Economic Times
 
-### 53. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - The Economic Times
+### 57. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T02:08:18+00:00
@@ -536,7 +576,7 @@ Invesco India Nifty Chemical Index Fund - Regular Plan Fund info The Economic Ti
 
 Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies The Economic Times
 
-### 54. FPI return to India a question of when, not if: Amundi CIO Vincent Mortier - Livemint
+### 58. FPI return to India a question of when, not if: Amundi CIO Vincent Mortier - Livemint
 
 - Source: Livemint
 - Published: 2026-10-12T01:00:07+00:00
@@ -546,7 +586,7 @@ Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies The Econo
 
 FPI return to India a question of when, not if: Amundi CIO Vincent Mortier Livemint
 
-### 55. KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? - 아시아경제
+### 59. KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? - 아시아경제
 
 - Source: 아시아경제
 - Published: 2026-10-12T00:12:00+00:00
@@ -556,7 +596,7 @@ FPI return to India a question of when, not if: Amundi CIO Vincent Mortier Livem
 
 KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? 아시아경제
 
-### 56. FPI outflows cross Rs 3 lakh cr in 2026 - The Hans India
+### 60. FPI outflows cross Rs 3 lakh cr in 2026 - The Hans India
 
 - Source: The Hans India
 - Published: 2026-10-11T22:58:48+00:00
@@ -566,7 +606,7 @@ KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam
 
 FPI outflows cross Rs 3 lakh cr in 2026 The Hans India
 
-### 57. Earnings hold key to sustaining market rebound - The Hans India
+### 61. Earnings hold key to sustaining market rebound - The Hans India
 
 - Source: The Hans India
 - Published: 2026-10-11T22:42:10+00:00
@@ -576,17 +616,7 @@ FPI outflows cross Rs 3 lakh cr in 2026 The Hans India
 
 Earnings hold key to sustaining market rebound The Hans India
 
-### 58. MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-11T22:18:41+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZ3ZjcklJMURNRXVzZllZbDlodzc0WmY0alNpN3I3dVc5UjZPLWk1SVhXeEw5REEyNnJlRlJyOXA0eW1SZ18wOVkzVzFyQnd4WWcwY0hoN1ZQVFRTY1FOZURtQlBsc19UZ0UtdkpDRkVrTk9KbUNxMzlnUXhxX3hRYTVreXB2NXFfZ0RBQ3NGLThOdjlKSjR5TTAyQkkzNjUtVkhneEJUYk51aG5MaXN6V1VkVnFtcGpRM1AtYlFzMmtwOXBLSDVLYm02eHotMXpWNUFfMUptZy1TUC02UVZTWFdrWjgxaUNNWFE?oc=5
-
-MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Earnings Selloff Stocktwits
-
-### 59. Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and FIIs activity among key market triggers to watch - Dailyhunt
+### 62. Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and FIIs activity among key market triggers to watch - Dailyhunt
 
 - Source: Dailyhunt
 - Published: 2026-10-11T22:18:23+00:00
@@ -596,7 +626,7 @@ MU, SNDK, DRAM Dip Overnight As Memory Stocks Feel Weight Of Samsung’s Post-Ea
 
 Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and FIIs activity among key market triggers to watch Dailyhunt
 
-### 60. BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike - BBN Times
+### 63. BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-11T22:14:42+00:00
@@ -606,7 +636,7 @@ Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and 
 
 BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike BBN Times
 
-### 61. ​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist - Pragativadi
+### 64. ​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist - Pragativadi
 
 - Source: Pragativadi
 - Published: 2026-10-11T20:24:48+00:00
@@ -616,7 +646,7 @@ BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump
 
 ​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist Pragativadi
 
-### 62. Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound - Telangana Today
+### 65. Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-10-11T12:06:35+00:00
@@ -626,7 +656,7 @@ BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump
 
 Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound Telangana Today
 
-### 63. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
+### 66. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T11:10:31+00:00
@@ -636,7 +666,7 @@ Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound Tel
 
 Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? Livemint
 
-### 64. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
+### 67. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T11:10:31+00:00
@@ -646,7 +676,7 @@ Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top th
 
 Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? Livemint
 
-### 65. Nifty & Bank Nifty Weekly Outlook 11-10-2026 by Choice Broking Ltd - Investment Guru India
+### 68. Nifty & Bank Nifty Weekly Outlook 11-10-2026 by Choice Broking Ltd - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-11T08:02:35+00:00
@@ -656,7 +686,27 @@ Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top th
 
 Nifty & Bank Nifty Weekly Outlook 11-10-2026 by Choice Broking Ltd Investment Guru India
 
-### 66. FII ownership hits 17-year low of 15.1% but holdings rise 3.6x to $783 bn - Business Standard
+### 69. Brent Crude Dips Below $104 As Russia-Ukraine Energy Ceasefire Hopes Rise - Free Press Journal
+
+- Source: Free Press Journal
+- Published: 2026-10-12T05:30:14+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxQcjBLSTFvMDQzYVdOX2RtMmk0bFpyR3B3cTFmT2M3SEU3dzFlWlhjRTRwRjNPSkJ2RDAtRXd6OEp5anJrQmNmd3RVejNJMEhLeVJsdndpTHZ1NjVvWnBMRkVLTVRzWnF5aUNrbWNIQUxtZDNuMk9wT2JJUzdxazJOQVF6X0V2NU5rdkJxaERwUEZjcHQ0X1VzWnZsUFFjZDAyQlNEV0pJMkNhQkZMQlpELWZPNNIBuAFBVV95cUxONjIxa1NOR3Ftek9JN2hkbkk0NDF5bk82aVdDcXJDRUl4ZXFKU0ZGUkFOTkJEUHVtc2V3WEVsenRac19hOE9mZGEtTWhnVlFCWHc5cHRsNFRMeEFtdWpfSzdFRkdQQU1ETkhkbnU5eDItSW1KemNyN2ZORE5uc0l6V2lnN1BOcVM5Nlp3YkhGSklJVkcteW1jUU11NXhRYjZqM2lpQ3FwRXBPcnAzNWhJSk1mWGxBelBZ?oc=5
+
+Brent Crude Dips Below $104 As Russia-Ukraine Energy Ceasefire Hopes Rise Free Press Journal
+
+### 70. Indian debt funds set to extend $4.5 billion bond selloff after RBI policy shift - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-12T05:04:00+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxPTm1tdXBoSUEtaGt3LVZUaks5TmxqSWdVcXQ5aEFJRTROczlCcG91Szd3ZmRCcE5WZWdxb2F4UEtPeFBicmIwRjhiYllwV3owSjlTMkluWl9LRFpLem1Pai1TdUotV2NTQm9RNjkwNmZvbDhTU1JMbmdLMUw3R1RJc1hoNldDZjhLcE83Q0VsQVJTenRaa3o2c09IcV8ya0tYQ2J4QVBaSkd6RGtReEtqc05xOEFYRGlSRFhueXV4WW14blkzYjAwcHVURlZsUzdodENVUlVndDIxWHBwZndPRlZJOUFJd9IB5gFBVV95cUxPTm1tdXBoSUEtaGt3LVZUaks5TmxqSWdVcXQ5aEFJRTROczlCcG91Szd3ZmRCcE5WZWdxb2F4UEtPeFBicmIwRjhiYllwV3owSjlTMkluWl9LRFpLem1Pai1TdUotV2NTQm9RNjkwNmZvbDhTU1JMbmdLMUw3R1RJc1hoNldDZjhLcE83Q0VsQVJTenRaa3o2c09IcV8ya0tYQ2J4QVBaSkd6RGtReEtqc05xOEFYRGlSRFhueXV4WW14blkzYjAwcHVURlZsUzdodENVUlVndDIxWHBwZndPRlZJOUFJdw?oc=5
+
+Indian debt funds set to extend $4.5 billion bond selloff after RBI policy shift The Economic Times
+
+### 71. FII ownership hits 17-year low of 15.1% but holdings rise 3.6x to $783 bn - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-12T04:59:08+00:00
@@ -666,7 +716,7 @@ Nifty & Bank Nifty Weekly Outlook 11-10-2026 by Choice Broking Ltd Investment Gu
 
 FII ownership hits 17-year low of 15.1% but holdings rise 3.6x to $783 bn Business Standard
 
-### 67. Goldman ups Dec'26 oil forecast to $90/bbl; 2027 worst-case pegged at $125 - Business Standard
+### 72. Goldman ups Dec'26 oil forecast to $90/bbl; 2027 worst-case pegged at $125 - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-12T04:54:53+00:00
@@ -676,7 +726,7 @@ FII ownership hits 17-year low of 15.1% but holdings rise 3.6x to $783 bn Busine
 
 Goldman ups Dec'26 oil forecast to $90/bbl; 2027 worst-case pegged at $125 Business Standard
 
-### 68. PSU stocks today, October 12: Garden Reach jumps 3.70%, REC gains 2.45%; SBI falls 1.13% - Business Upturn
+### 73. PSU stocks today, October 12: Garden Reach jumps 3.70%, REC gains 2.45%; SBI falls 1.13% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-12T04:51:33+00:00
@@ -686,7 +736,7 @@ Goldman ups Dec'26 oil forecast to $90/bbl; 2027 worst-case pegged at $125 Busin
 
 PSU stocks today, October 12: Garden Reach jumps 3.70%, REC gains 2.45%; SBI falls 1.13% Business Upturn
 
-### 69. 'Hot Money Leaving Emerging Markets': Five Reasons Behind FII Exodus Crossing Rs 3 Lakh Crore - NDTV Profit
+### 74. 'Hot Money Leaving Emerging Markets': Five Reasons Behind FII Exodus Crossing Rs 3 Lakh Crore - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-12T04:38:14+00:00
@@ -696,7 +746,7 @@ PSU stocks today, October 12: Garden Reach jumps 3.70%, REC gains 2.45%; SBI fal
 
 'Hot Money Leaving Emerging Markets': Five Reasons Behind FII Exodus Crossing Rs 3 Lakh Crore NDTV Profit
 
-### 70. Echoes of 2017: Why Domestic Flows Alone Won't Rescue Indian Equities - The Economic Times
+### 75. Echoes of 2017: Why Domestic Flows Alone Won't Rescue Indian Equities - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T04:20:00+00:00
@@ -706,7 +756,7 @@ PSU stocks today, October 12: Garden Reach jumps 3.70%, REC gains 2.45%; SBI fal
 
 Echoes of 2017: Why Domestic Flows Alone Won't Rescue Indian Equities The Economic Times
 
-### 71. Global Market: South Korean shares fall nearly 2% as Middle East tensions weigh on sentiment - The Economic Times
+### 76. Global Market: South Korean shares fall nearly 2% as Middle East tensions weigh on sentiment - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T04:12:42+00:00
@@ -716,7 +766,7 @@ Echoes of 2017: Why Domestic Flows Alone Won't Rescue Indian Equities The Econom
 
 Global Market: South Korean shares fall nearly 2% as Middle East tensions weigh on sentiment The Economic Times
 
-### 72. Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 - Telangana Today
+### 77. Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-10-12T03:48:56+00:00
@@ -726,7 +776,7 @@ Global Market: South Korean shares fall nearly 2% as Middle East tensions weigh 
 
 Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 Telangana Today
 
-### 73. Nifty 50 Climbs at Monday Open as Indian Stocks Advance - Business Upturn
+### 78. Nifty 50 Climbs at Monday Open as Indian Stocks Advance - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-12T03:41:45+00:00
@@ -736,7 +786,17 @@ Foreign institutional investors’ holdings in India grew 3.6 times to $783 bill
 
 Nifty 50 Climbs at Monday Open as Indian Stocks Advance Business Upturn
 
-### 74. Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand James - The Economic Times
+### 79. Where Smart Money Flows | Citi's OCBC Call Sinks the Banks While OpenAI Doubts Rattle the Chips - Moomoo
+
+- Source: Moomoo
+- Published: 2026-10-12T03:21:13+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxQYXc4UVRJTnUxTk1nckdDeTFtV2NiWm1xalBXSUdzNWlUYUZTOTR1MHd0U3RUY3ZjQm9xY25zRzl4WklLeFdCQjJpcnF5NmlvTWw5bTJ1UW5jTUhtU2FEamtXQzcwdmtvVVNGX25qSktJWFVUdUphekVwOWxDUl9HQlBRZXN3dk1zZ0x3Z0dEOEctTTE1M19ZT3NNN0FSWVYxQVFXQUJWRQ?oc=5
+
+Where Smart Money Flows | Citi's OCBC Call Sinks the Banks While OpenAI Doubts Rattle the Chips Moomoo
+
+### 80. Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand James - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T03:14:00+00:00
@@ -745,63 +805,3 @@ Nifty 50 Climbs at Monday Open as Indian Stocks Advance Business Upturn
 - Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxONDhFVlZENzNnWm1vYm5jdUxoX2pNdzZqUUQ5QVlVcHB0OU81Y1BvUDNVejRVTEZPRzQxUGxwU2owbzJzT19IcGdlS21iYW5DcWI2cVlWZ0U4SzBVa1A2ZnBZemV1UnhpY0JSdjBoMW9TM2F1bXBQOVVkT1J1SGxlY1VCZmdlZlZQVzY5bWZyTGl2ZG90bDdmbC0tcHVCM3BDcWNxSnR1U2kyLVpRV0x3S3hnX1kxMUM4YzBFaE9zRktxZW1DTHFraHp0NmwwYWo3ZGJOTkZmbUpKYU1ocXJ0RzFIQ03SAeQBQVVfeXFMTjQ4RVZWRDczZ1ptb2JuY3VMaF9qTXc2alFEOUFZVXBwdDlPNWNQb1AzVXo0VUxGT0c0MVBscFNqMG8yc09fSHBnZUttYmFuQ3FiNnFZVmdFOEswVWtQNmZwWXpldVJ4aWNCUnYwaDFvUzNhdW1wUDlVZE9SdUhsZWNVQmZnZWZWUFc2OW1mckxpdmRvdGw3ZmwtLXB1QjNwQ3FjcUp0dVNpMi1aUVdMd0t4Z19ZMTFDOGMwRWhPc0ZLcWVtQ0xxa2h6dDZsMGFqN2RiTk5GZm1KSmFNaHFydEcxSENN?oc=5
 
 Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand James The Economic Times
-
-### 75. Megaport Shares Jump 5.5% as AI Infrastructure Bet Lifts ASX Tech Stock Ahead of October Quarterly Update - International Business Times Australia
-
-- Source: International Business Times Australia
-- Published: 2026-10-12T01:24:40+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOR2VVbUhSUEZ1UUZVRks1VEdKcm9VT1RRdFhIVlJEczZUTVh1TVRUbzBsZmRPSElqSUNON1RkYWxGc0hDQXZIM1N1M1l4N3Qtd0hZZzFOS2t1VmVZOE1TbWZDSjRnWldkalA5Y0kxeUUtcnhrUDc5VUxMd3pWcTBOa3lzLXItcjh5bnFr?oc=5
-
-Megaport Shares Jump 5.5% as AI Infrastructure Bet Lifts ASX Tech Stock Ahead of October Quarterly Update International Business Times Australia
-
-### 76. Beijing moves to steady A-share market after sharp tech sell-off - South China Morning Post
-
-- Source: South China Morning Post
-- Published: 2026-10-12T01:00:19+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdmhJU3JVNUhkM3FXMEdVLVhtT1czZjNVNm5xeXhUZDVLd2xnZk44Z0hFNGJVbDVtb0NVRXlGN2E5b2tPclFZRXZIa0ZXVEhNY1Q5V1RESVcxMTFJUzhEdmxBdHpBVWZoU2V5bng3RlM5cDJWUTlwN1pZQ1c1MHo3OTAycHJQbk1tSE5jZklwOXlKMER0Q1NIRWRXLVIzWGpTVjRDZ19GSmYwVHZUZVU1Ym5JX0hZNkVN0gG4AUFVX3lxTE9yMENIenRwbDJ2blBZMXJ0c2NWaFhsMVl0Ty1iMERiRm1Da3BxNW1Zc0tXeDBwMG9FbFdfZXppVDFaR2s5bS1yYjAwOVEtNEZFejBpODJmTE15ZTd3cUdfUkFuUUhENVRNSGFTOVdjLXdFTVJIWENpVmVaRFFtVjR4ZnpUUFZtcDhFSng2NkotY3BodXRwbFE1eEtFRlFJQXJCTmI5blNQNXRyV3RlS2xDeVlYT29za2g?oc=5
-
-Beijing moves to steady A-share market after sharp tech sell-off South China Morning Post
-
-### 77. KOSDAQ Holds Up Amid Caution on Large Caps, with Buying Focused on Semiconductor Equipment and Secondary Batteries - 아시아경제
-
-- Source: 아시아경제
-- Published: 2026-10-12T00:55:00+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE1BRmp3QmJPQzA1d3VfZUdCSTdUUzdxMTdBcGtPNlJoSHN0cmt4N1l4MjA2T3pKdHFpTnVmcXpBSU83TWpmRXdSMEpCeWZwdnJJTElnT2NOUEEtaGJCa0JSaWZyWk0?oc=5
-
-KOSDAQ Holds Up Amid Caution on Large Caps, with Buying Focused on Semiconductor Equipment and Secondary Batteries 아시아경제
-
-### 78. Once-hot AI trade leaves Korean stocks struggling for buyers - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-12T00:52:54+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTlNVdjhjYUNNRjVOSEpBbF92SlVZM2JHbGotVDhXbkNTR0psNE5BYXZKMGpfaUxBOE1mcFNjTWdBRVRKcjFqelNQTHd4UXZMQ2dtQlVyNl84YmVEX2g5QTVXdG14UllZWGtpWUJzU25xRDFMcnk5MVFuSExNQm10b0xNcmd2QThFNDVDODdUNzlFUEZlRlJfSnhxZnN3RTc4YzBKYmZndUo0TmZvdFZfT3BFSUVhaVpUOEFpeW9Fa2dHWjc2WW51WtIBwgFBVV95cUxNU1Jjd21naGJaaEllQV9JVDNYdGg4bHNMc3RINjJITjJXQllHVk1Sc01KTlo5U2l0dEd6aHNpcS1FeERSZG9CN0o5Sk1zZE9HcVk3N0RKSmxfZTh0aG5uaERtd1o4TXFkdmZKenVTcVFIU2FhTm5ZQ1lVY2FDT25mTjJ1cFdjbVRmN2RzR1dybFI4MS1jZmlUNzNVdlI5NFFBZ0FjbVdJc1RyNDhxYzgyR2tIV3IxWDBVUGhvZDhhRDZuUQ?oc=5
-
-Once-hot AI trade leaves Korean stocks struggling for buyers The Economic Times
-
-### 79. Global Market Today: Asian shares cautious as earnings loom - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-12T00:46:40+00:00
-- Themes: macro / flows
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0lZTV80aEN1ZUZpdkNCcFFuNlVZeS1IYzZ6cF9nYjFKSThfMXNEMC1PNHJvMUQyR1E3QU5NY2Z3SkY4dHp1SkdXYTNsTXpYZjVjblF4Z1JlQ3k4RXFPWGtIb0NYdDB4VDZyTUZvUndXZU04d1ZzS08yUGx1UFlzZHhPbUdKOTdFUFl4bjhrMDNuY1hJek5kdXJWRUNYUkFXRGpZbG10eTRnSzdBMy1YM2xLY2p5Q3dJejlFcWI1SlpnM3pNekx6WlRiUjJjQ3pTQjgzVFE4bnc4S1dyZ3fSAeMBQVVfeXFMT1Y0Z1hlTGFoSDRsOXdoN0F2aWNYRjhEbjNCSE1ubW95WEMtelNGZ1pIdEZvTnZyREdmeHk2TEwxWUtrNTYwbVhjQlhlUVVIYWlkc0Rad0p2aVZxYTlCa0ptM0NRR2VYWF9UQm9uU2YzQzlsMnBEZWljQ3BaN0ViZXlmY2RDcjRoc1liekc1ZFpDVHctNnJLSmNOWWFPaUQxa1R5Z3JnM1dTLWl1bVlsa2FKQVhuM0kwNmU2VHVYb0ZaVHNkcnAtcHZyNDRaZUt5UmxxOC1mNE5oMFlJM0s3WXd2WE0?oc=5
-
-Global Market Today: Asian shares cautious as earnings loom The Economic Times
-
-### 80. FII selling tops Rs 45,000 crore over six sessions in October, Rs 3.6 lakh crore sold-off this year - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-10-11T23:30:28+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPYVdWZkdLejRuczA2SGZRcnN2eHY0R0hPNGJ5cEJPREVoNTdUWTRRNThONjd2WjdBQUtjSGZuc0tIOVkzVUZ4cVdLTFlDQk1CNHBfb3lzWHBMMmZ6T2kyaDgtelM2ajFyX3pXUlNpNjlXQl9leWU0ZFctZ042YVc3eXA3bEEyZXlvRHI5cmw3QXl1YTlxd2tFMlZwWkpBTzVJeHdQZHNEOTQ1bURGVUFJZlFrNDJjZjJ2bjV0LWJheWJMNnJTcDV6bTNMU0t3d0x1TnJFeF9URmxxUXB6bW90bGxOWnI3U0F0UW1TNWdLNURDcUxPVmc?oc=5
-
-FII selling tops Rs 45,000 crore over six sessions in October, Rs 3.6 lakh crore sold-off this year Moneycontrol.com
