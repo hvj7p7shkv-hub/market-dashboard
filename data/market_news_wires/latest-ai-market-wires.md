@@ -1,12 +1,22 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-12 03:37
+Generated: 2026-10-12 04:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. SIP Investment in Market Volatility: Why Staying Invested Matters - Kalkine India
+### 1. Indian Stocks Rise as Crude Oil Falls and Rupee Strengthens - Investing.com India
+
+- Source: Investing.com India
+- Published: 2026-10-12T03:53:39+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPcVcyUjBzbW5WLVp5VDk1ZE9HbENzV1FNMXFBa3RkdGdpVUVYZkcteklRNEkwTndQemY3ODNhWDg5T0ROT0JZZy1sRWRKUVY2MWNMRmZkOWd3R29LNmlhS1pVeVVTTDFqcDYyUkZmcWdodUphVjJwSHJUcWo5MG9GdG4zcTFqRk1LZEFHVzhMVUJRcTdyMVhGa2wyaUZOMEI3OEdwSkQzbGVJYldxNGNlaGJObnJ0dw?oc=5
+
+Indian Stocks Rise as Crude Oil Falls and Rupee Strengthens Investing.com India
+
+### 2. SIP Investment in Market Volatility: Why Staying Invested Matters - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-10-11T13:18:00+00:00
@@ -16,7 +26,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 SIP Investment in Market Volatility: Why Staying Invested Matters Kalkine India
 
-### 2. Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - DD India
+### 3. Sensex, Nifty sink 15% YTD: Is the market correction far from over? - Fortune India
+
+- Source: Fortune India
+- Published: 2026-10-12T02:46:05+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSURHdVRkeV9rTHluaEVVZWRzWmM2Z09xbjVFSjBHTzJPaHh5ajFseHVHelZDcVB6bFRqNnNmS1hvYkRaOGtsNG93V1VtNW9KdHljTDBqaHBPMFZ6WlpHVlpLUkJRUXZQSXliV3BMS214N1VQYWJSNzItVnZ2QzljMDZWWVdhcFhjZ3Bxb01LcjlnRHVDNXRwYTJET3RVZlNMOXhVQUhGbnNKd0nSAbgBQVVfeXFMT184TjlpcFJ0TlZkS0NwMW5Jck95azBJLTNJWFhaWEdOYW91WE56cUk1MWNsMFFlSjJOeVJTd2ZUdGhMd3FUWUZvTkx6WElpZ0pxRl9LVmpjYlBENVFsbEFVR3RXWnRmQnRvN2Q2SUE1OTFURlN2Q3ZCbEx1bS1iazFiaENXNDhaV2h1MFdxeUFOcExJSDd1SHBJYllIV09pOVpybFNtdlotSER2eThzTFM5eTd2YWRjMw?oc=5
+
+Sensex, Nifty sink 15% YTD: Is the market correction far from over? Fortune India
+
+### 4. Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment - DD India
 
 - Source: DD India
 - Published: 2026-10-11T15:01:41+00:00
@@ -26,7 +46,7 @@ SIP Investment in Market Volatility: Why Staying Invested Matters Kalkine India
 
 Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sentiment DD India
 
-### 3. S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off - BBN Times
+### 5. S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-11T07:37:11+00:00
@@ -36,7 +56,17 @@ Sensex falls, snaps 2-day rally as RBI policy stance, high crude prices dent sen
 
 S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Off BBN Times
 
-### 4. S.Korean stocks slide as chip selloff deepens, foreign selling persists - KED Global
+### 6. Sensex, Nifty 50 May Open Lower as Asian Markets Fall - HDFC Sky
+
+- Source: HDFC Sky
+- Published: 2026-10-12T03:26:14+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNVJiWDg3aWZWVXdXS2c3eUp0T1NsWGlpTmhna1NMX2hnTTdKOXg1MlE0NXhBVFhjTHdSNF9zdmplRW9MZzBKWjROaFAtR2xMck9JOFJ3NTJkakhBaGdESmh1RDdtTUNZMENQWTBVbno1YVp5eFRnOW0tLXFYRmNvUFZMM3U3RmFkWG82azlMWVhRMElncnVIMV9LRVJ2ZGo5UDVfd0lQa19DeDJmY0ZXVU1fdHkzUm0tTWhrc3dsUkV4SENObW9yQlpocW9MYm9hQkE?oc=5
+
+Sensex, Nifty 50 May Open Lower as Asian Markets Fall HDFC Sky
+
+### 7. S.Korean stocks slide as chip selloff deepens, foreign selling persists - KED Global
 
 - Source: KED Global
 - Published: 2026-10-12T02:14:25+00:00
@@ -46,7 +76,7 @@ S&P 500 Falls to 7,765.36 as OpenAI Revenue Report Triggers a Chip Stock Sell-Of
 
 S.Korean stocks slide as chip selloff deepens, foreign selling persists KED Global
 
-### 5. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
+### 8. NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-11T20:02:02+00:00
@@ -56,7 +86,7 @@ S.Korean stocks slide as chip selloff deepens, foreign selling persists KED Glob
 
 NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic In Chips Or AI Even As Correction Territory Looms Stocktwits
 
-### 6. Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus - Stocktwits
+### 9. Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-11T19:58:58+00:00
@@ -66,7 +96,7 @@ NVDA, AVGO, MU, INTC Stocks Gain: Top Wall Street Traders See No Signs Of Panic 
 
 Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, MU, QCOM, BB, ILLR, TII Are In Focus Stocktwits
 
-### 7. Memory chip stocks dragged the Nasdaq-100 into a correction this week - Startup Fortune
+### 10. Memory chip stocks dragged the Nasdaq-100 into a correction this week - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-10-11T18:14:40+00:00
@@ -76,7 +106,7 @@ Nasdaq, S&P 500 Futures Slip As Memory Chip Selloff Hits Tech Stocks: Why SPCX, 
 
 Memory chip stocks dragged the Nasdaq-100 into a correction this week Startup Fortune
 
-### 8. Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? - IBTimes India
+### 11. Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-10-11T17:50:53+00:00
@@ -86,7 +116,7 @@ Memory chip stocks dragged the Nasdaq-100 into a correction this week Startup Fo
 
 Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; will recovery continue this week? IBTimes India
 
-### 9. Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside - Timothy Sykes
+### 12. Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside - Timothy Sykes
 
 - Source: Timothy Sykes
 - Published: 2026-10-11T15:06:00+00:00
@@ -96,7 +126,7 @@ Nifty's Navratri slump: 31 stocks fall as global headwinds hit Indian markets; w
 
 Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside Timothy Sykes
 
-### 10. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
+### 13. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-11T12:52:09+00:00
@@ -106,17 +136,7 @@ Planet Fitness Stock Rebounds As Wall Street Backs Post-AI Selloff Upside Timoth
 
 Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? Goodreturns
 
-### 11. Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-11T03:58:20+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxONDFRMFRCdFhYS1F1ekdTNjZ0Z1ZTeEdoc3paVG9FaEZoakRoNWF4VzFTYklLNnFtSWpJRjE1OW10eFh1SUxDUDZ6VlB4UXBOSi1RMkNBazhIbkN5T2xlYWtBSkQ1emsxQXYxQWNOMS15MDBOWGE3aUk1WjAzQlNXbHItNzF3cl9iaWVSd0FQbXFqVHBUNDcwTEdUMnVhWGpPZmVKdWZqY2dQcS1tYkJhdkN4T0RHanBYRkNLMzZsUl9pUVVWN3JNemh0S2hYNzdWTmpZRmxOd2lueWMxdU5hZmJhdk1Sc3N4XzUwTDhaSDFBdjdvOTlzSDZUR0dwNXY1eVhN?oc=5
-
-Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Window In Cybersecurity And Infra Stocks Stocktwits
-
-### 12. FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? - News9live
+### 14. FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? - News9live
 
 - Source: News9live
 - Published: 2026-10-12T00:52:12+00:00
@@ -126,7 +146,7 @@ Palo Alto CEO Calls AI-Led Software Selloff ‘Paranoid' — Sees Big Buying Win
 
 FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow stop? News9live
 
-### 13. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
+### 15. BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-11T22:14:48+00:00
@@ -136,7 +156,7 @@ FPI sell-off: ₹44,166 crore Indian equities sold in Oct; when will the outflow
 
 BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Tensions BBN Times
 
-### 14. Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities - Zee News
+### 16. Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities - Zee News
 
 - Source: Zee News
 - Published: 2026-10-11T08:02:50+00:00
@@ -146,7 +166,7 @@ BSE SENSEX Falls to 72,638.70 After RBI Raises Repo Rate to 5.5% Amid US-Iran Te
 
 Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geopolitical uncertanities Zee News
 
-### 15. FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. - The Economic Times
+### 17. FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-11T07:14:14+00:00
@@ -156,7 +176,7 @@ Nifty drops by 11% between Navratri 2025 and Navratri 2026 amid economic and geo
 
 FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 crore in just 6 sessions. The Economic Times
 
-### 16. Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood, rupee among 10 key... - Moneycontrol.com
+### 18. Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood, rupee among 10 key... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-11T17:48:42+00:00
@@ -166,7 +186,7 @@ FII selloff intensifies! Foreign investors sell Indian equities worth Rs 45,000 
 
 Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood, rupee among 10 key... Moneycontrol.com
 
-### 17. Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflows - Mid-Day
+### 19. Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflows - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-10-11T16:12:14+00:00
@@ -176,7 +196,7 @@ Dalal Street Week Ahead: Q2 earnings, US & India inflation, oil prices, FII mood
 
 Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflows Mid-Day
 
-### 18. Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key - NewsDrum
+### 20. Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-10-12T02:20:17+00:00
@@ -186,7 +206,7 @@ Sensex, Nifty decline in early deals amid elevated crude oil prices, FII outflow
 
 Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key NewsDrum
 
-### 19. Mid- and Small-Cap Mutual Funds Gain Investor Interest in May - Kalkine India
+### 21. Mid- and Small-Cap Mutual Funds Gain Investor Interest in May - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-10-11T13:18:00+00:00
@@ -196,7 +216,7 @@ Green start likely for Sensex, Nifty; HCL Tech and FII flows hold the key NewsDr
 
 Mid- and Small-Cap Mutual Funds Gain Investor Interest in May Kalkine India
 
-### 20. Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high - CNBC TV18
+### 22. Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-12T03:30:03+00:00
@@ -206,7 +226,7 @@ Mid- and Small-Cap Mutual Funds Gain Investor Interest in May Kalkine India
 
 Adrian Mowat sees no near-term FII return to India, expects US bond yields to stay high CNBC TV18
 
-### 21. Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors - The Sunday Guardian
+### 23. Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-10-12T03:15:07+00:00
@@ -216,7 +236,7 @@ Adrian Mowat sees no near-term FII return to India, expects US bond yields to st
 
 Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Higher as GIFT Nifty Signals Positive Start; Global Market Cues, FII-DII Activity, Stocks to Watch & Key Levels for Investors The Sunday Guardian
 
-### 22. South Korea stocks fall while Asian shares stay cautious as earnings loom, oil slips - The Business Times
+### 24. South Korea stocks fall while Asian shares stay cautious as earnings loom, oil slips - The Business Times
 
 - Source: The Business Times
 - Published: 2026-10-12T02:31:00+00:00
@@ -226,7 +246,7 @@ Stock Market Prediction Today, October 12: Sensex, Nifty 50 Likely to Open Highe
 
 South Korea stocks fall while Asian shares stay cautious as earnings loom, oil slips The Business Times
 
-### 23. Mutual funds close in on FPIs in Indian equity ownership - The Economic Times
+### 25. Mutual funds close in on FPIs in Indian equity ownership - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T00:45:34+00:00
@@ -236,7 +256,7 @@ South Korea stocks fall while Asian shares stay cautious as earnings loom, oil s
 
 Mutual funds close in on FPIs in Indian equity ownership The Economic Times
 
-### 24. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - TradingView
+### 26. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - TradingView
 
 - Source: TradingView
 - Published: 2026-10-11T21:49:47+00:00
@@ -246,7 +266,7 @@ Mutual funds close in on FPIs in Indian equity ownership The Economic Times
 
 Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? TradingView
 
-### 25. Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff - EnterpriseAM
+### 27. Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff - EnterpriseAM
 
 - Source: EnterpriseAM
 - Published: 2026-10-11T21:00:00+00:00
@@ -256,7 +276,7 @@ Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual st
 
 Wall Street sees Treasury yields at 6% as structural pressures outlast oil-driven selloff EnterpriseAM
 
-### 26. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - Livemint
+### 28. Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T18:40:19+00:00
@@ -266,7 +286,7 @@ Wall Street sees Treasury yields at 6% as structural pressures outlast oil-drive
 
 Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual step-up could nearly double your wealth? Livemint
 
-### 27. Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open - Livemint
+### 29. Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T18:14:36+00:00
@@ -276,7 +296,7 @@ Top 5 equity mutual funds by 20-year SIP returns October 2026: How 10% annual st
 
 Want to start fresh SIP or make a lump-sum investment in international mutual funds? Check which FoFs are open Livemint
 
-### 28. 5 Best Value Mutual Funds for 2026 Based on Rolling Returns - Myinvestmentideas
+### 30. 5 Best Value Mutual Funds for 2026 Based on Rolling Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-11T15:05:40+00:00
@@ -286,7 +306,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 5 Best Value Mutual Funds for 2026 Based on Rolling Returns Myinvestmentideas
 
-### 29. 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month - Trade Brains
+### 31. 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-10-11T14:30:37+00:00
@@ -296,7 +316,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 3 Stocks in Which Mutual Funds Have Increased Their Stake by Up to 13.61% in a Month Trade Brains
 
-### 30. PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. - KuCoin
+### 32. PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. - KuCoin
 
 - Source: KuCoin
 - Published: 2026-10-11T14:28:03+00:00
@@ -306,7 +326,7 @@ Want to start fresh SIP or make a lump-sum investment in international mutual fu
 
 PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. KuCoin
 
-### 31. Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus - Outlook Money
+### 33. Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-10-11T12:29:33+00:00
@@ -316,7 +336,7 @@ PROJECT III // RETAIL GETS THE SIP. REGULATORS GET THE CAT. KuCoin
 
 Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus Outlook Money
 
-### 32. Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 34. Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-11T11:39:42+00:00
@@ -326,7 +346,7 @@ Stock Market Cues This Week: Inflation Data, Q2 Earnings, FPI Flows In Focus Out
 
 Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 33. Mutual Funds, Stock Market Gurus List - GuruFocus
+### 35. Mutual Funds, Stock Market Gurus List - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-10-11T10:05:12+00:00
@@ -336,7 +356,7 @@ Quote on FPI flows 11th October 2026 from Dr. V K Vijayakumar, Chief Investment 
 
 Mutual Funds, Stock Market Gurus List GuruFocus
 
-### 34. Crude oil futures brace for volatility amid geopolitical uncertainties - Business Standard
+### 36. Crude oil futures brace for volatility amid geopolitical uncertainties - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-11T09:48:54+00:00
@@ -346,7 +366,7 @@ Mutual Funds, Stock Market Gurus List GuruFocus
 
 Crude oil futures brace for volatility amid geopolitical uncertainties Business Standard
 
-### 35. Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation - Livemint
+### 37. Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T09:32:41+00:00
@@ -356,7 +376,7 @@ Crude oil futures brace for volatility amid geopolitical uncertainties Business 
 
 Want global exposure through domestic mutual funds? Here are 10 schemes with the highest overseas allocation Livemint
 
-### 36. ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts - ET Now
+### 38. ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts - ET Now
 
 - Source: ET Now
 - Published: 2026-10-11T09:25:46+00:00
@@ -366,7 +386,7 @@ Want global exposure through domestic mutual funds? Here are 10 schemes with the
 
 ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year and 5-year return charts ET Now
 
-### 37. UAL Stock Falls After-Hours Despite Earnings Beat And Raised Outlook — Retail Debates Whether Selloff Is Just Profit Taking - Stocktwits
+### 39. UAL Stock Falls After-Hours Despite Earnings Beat And Raised Outlook — Retail Debates Whether Selloff Is Just Profit Taking - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-11T08:05:51+00:00
@@ -376,7 +396,7 @@ ELSS Mutual Funds: Motilal Oswal, SBI, Quant & others - Check who topped 3-year 
 
 UAL Stock Falls After-Hours Despite Earnings Beat And Raised Outlook — Retail Debates Whether Selloff Is Just Profit Taking Stocktwits
 
-### 38. HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? - ET Now
+### 40. HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? - ET Now
 
 - Source: ET Now
 - Published: 2026-10-11T07:48:37+00:00
@@ -386,7 +406,7 @@ UAL Stock Falls After-Hours Despite Earnings Beat And Raised Outlook — Retail 
 
 HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you hold? ET Now
 
-### 39. Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race - deVere Group
+### 41. Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race - deVere Group
 
 - Source: deVere Group
 - Published: 2026-10-11T05:40:23+00:00
@@ -396,7 +416,7 @@ HDFC Mutual Funds: 5 star-rated schemes with over 15% CAGR in 7 years - Do you h
 
 Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the AI Arms Race deVere Group
 
-### 40. Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained - Business Today
+### 42. Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained - Business Today
 
 - Source: Business Today
 - Published: 2026-10-11T05:30:08+00:00
@@ -406,7 +426,7 @@ Nvidia's $6 Trillion Valuation: Why the Chip Giant Remains the Safest Bet in the
 
 Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation Explained Business Today
 
-### 41. International mutual funds top return chart last week, offer up to 11% gains. Check top 5 performers - The Economic Times
+### 43. International mutual funds top return chart last week, offer up to 11% gains. Check top 5 performers - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-11T04:38:25+00:00
@@ -416,7 +436,7 @@ Should You SIP In REITs During A Market Downturn? Key Risks & Asset Allocation E
 
 International mutual funds top return chart last week, offer up to 11% gains. Check top 5 performers The Economic Times
 
-### 42. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Business Standard
+### 44. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-12T03:01:58+00:00
@@ -426,7 +446,7 @@ International mutual funds top return chart last week, offer up to 11% gains. Ch
 
 Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies Business Standard
 
-### 43. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - The Economic Times
+### 45. Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T02:08:18+00:00
@@ -436,7 +456,7 @@ Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies Business 
 
 Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies The Economic Times
 
-### 44. FPI return to India a question of when, not if: Amundi CIO Vincent Mortier - Livemint
+### 46. FPI return to India a question of when, not if: Amundi CIO Vincent Mortier - Livemint
 
 - Source: Livemint
 - Published: 2026-10-12T01:00:07+00:00
@@ -446,7 +466,17 @@ Oil falls on hopes Russia-Ukraine energy ceasefire will boost supplies The Econo
 
 FPI return to India a question of when, not if: Amundi CIO Vincent Mortier Livemint
 
-### 45. KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? - 아시아경제
+### 47. Global Market Today: Asian shares cautious as earnings loom, oil slips - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-12T00:46:40+00:00
+- Themes: macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV0lZTV80aEN1ZUZpdkNCcFFuNlVZeS1IYzZ6cF9nYjFKSThfMXNEMC1PNHJvMUQyR1E3QU5NY2Z3SkY4dHp1SkdXYTNsTXpYZjVjblF4Z1JlQ3k4RXFPWGtIb0NYdDB4VDZyTUZvUndXZU04d1ZzS08yUGx1UFlzZHhPbUdKOTdFUFl4bjhrMDNuY1hJek5kdXJWRUNYUkFXRGpZbG10eTRnSzdBMy1YM2xLY2p5Q3dJejlFcWI1SlpnM3pNekx6WlRiUjJjQ3pTQjgzVFE4bnc4S1dyZ3c?oc=5
+
+Global Market Today: Asian shares cautious as earnings loom, oil slips The Economic Times
+
+### 48. KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? - 아시아경제
 
 - Source: 아시아경제
 - Published: 2026-10-12T00:12:00+00:00
@@ -456,7 +486,7 @@ FPI return to India a question of when, not if: Amundi CIO Vincent Mortier Livem
 
 KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam Watching Amid the Correction? 아시아경제
 
-### 46. FPI outflows cross Rs 3 lakh cr in 2026 - The Hans India
+### 49. FPI outflows cross Rs 3 lakh cr in 2026 - The Hans India
 
 - Source: The Hans India
 - Published: 2026-10-11T22:58:48+00:00
@@ -466,7 +496,7 @@ KOSPI Slips on Foreign Selling... What Shift in Investor Flows Is CEO Heo Haenam
 
 FPI outflows cross Rs 3 lakh cr in 2026 The Hans India
 
-### 47. Earnings hold key to sustaining market rebound - The Hans India
+### 50. Earnings hold key to sustaining market rebound - The Hans India
 
 - Source: The Hans India
 - Published: 2026-10-11T22:42:10+00:00
@@ -476,7 +506,7 @@ FPI outflows cross Rs 3 lakh cr in 2026 The Hans India
 
 Earnings hold key to sustaining market rebound The Hans India
 
-### 48. Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and FIIs activity among key market triggers to watch - Dailyhunt
+### 51. Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and FIIs activity among key market triggers to watch - Dailyhunt
 
 - Source: Dailyhunt
 - Published: 2026-10-11T22:18:23+00:00
@@ -486,7 +516,7 @@ Earnings hold key to sustaining market rebound The Hans India
 
 Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and FIIs activity among key market triggers to watch Dailyhunt
 
-### 49. BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike - BBN Times
+### 52. BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-11T22:14:42+00:00
@@ -496,7 +526,7 @@ Week ahead: India and US Inflation, HDFC Bank earnings, Trump's diesel deal and 
 
 BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump Rules Out Pre-Midterm Iran Strike BBN Times
 
-### 50. ​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist - Pragativadi
+### 53. ​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist - Pragativadi
 
 - Source: Pragativadi
 - Published: 2026-10-11T20:24:48+00:00
@@ -506,7 +536,17 @@ BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump
 
 ​Sensex, Nifty Stage Technical Rebound After Multi-Year Lows, but Headwinds Persist Pragativadi
 
-### 51. Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound - Telangana Today
+### 54. Trending stocks this week as investors weigh Fed outlook, AI concerns - TradingView
+
+- Source: TradingView
+- Published: 2026-10-11T14:22:41+00:00
+- Themes: AI / tech risk, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOeU4tNkQwbHN1ZlNWdkNHRG9QeE5PZmFEb0ZraFlOUUItbnV4RjJvQUlQaGszZ2hWS3pINE1mT1U3OVpoOGV1LWVsS1d4cENQMk1fQXRrTDVXNEZRTDIwSGJDZGZmV0pOQklzOFA4QmUzWGdqT1pRX2lGUkgyYmJTcG5qUkFVMHBNcEFWel9LSTVxbzluTnZHckFYZUo2WXkwSFNHQ3d1WlBFcm1kTU5Kc2ZmUTdzYS1rQkxhM0ltVWJOZ1ZlRE16ZXZB?oc=5
+
+Trending stocks this week as investors weigh Fed outlook, AI concerns TradingView
+
+### 55. Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-10-11T12:06:35+00:00
@@ -516,7 +556,7 @@ BSE Sensex Rebounds to 72,472.33 as IT Stocks Rally 3% and Oil Eases After Trump
 
 Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound Telangana Today
 
-### 52. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
+### 56. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T11:10:31+00:00
@@ -526,7 +566,7 @@ Nifty, Sensex end eight-week losing streak as IT stocks drive market rebound Tel
 
 Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? Livemint
 
-### 53. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
+### 57. Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-11T11:10:31+00:00
@@ -536,7 +576,7 @@ Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top th
 
 Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top things investors should watch? Livemint
 
-### 54. Nifty & Bank Nifty Weekly Outlook 11-10-2026 by Choice Broking Ltd - Investment Guru India
+### 58. Nifty & Bank Nifty Weekly Outlook 11-10-2026 by Choice Broking Ltd - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-11T08:02:35+00:00
@@ -546,17 +586,7 @@ Market strategy: Where are Nifty 50, Sensex, Bank Nifty headed this week? Top th
 
 Nifty & Bank Nifty Weekly Outlook 11-10-2026 by Choice Broking Ltd Investment Guru India
 
-### 55. BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Litre Windfall Tax On Petrol? - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-10-11T06:44:34+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQd3NrWEdjYWhVS3RaeE1hcVZVMFViYzBWeGRwSnRtaDUwd0F2b0R5OVFEZWtPM1NNdDk2RUJyXzJRaTJrdWstdlNDdkVYeW5taW9aYzNUZ2wzS0hVZjFtWVhkc2ZscVg5THg5WHA5TWh2RVBNc2E1Zld0NDlKS1VmTGpCeEpRLW82WU1SeThWTTNUSldTd3Q0d0NXZkxDOHd5YzNRbFZ3c3pfSjkxZUhrbHUySThXN2FMb25OZjFRUnB5eHRIZzhZZzBuY0FCSk9NUDlPRTk2QTJpYlpU?oc=5
-
-BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Litre Windfall Tax On Petrol? Goodreturns
-
-### 56. Infineon's Quantum and AI Power Push Proceeds While Chip Stocks Take a Breather - ad-hoc-news.de
+### 59. Infineon's Quantum and AI Power Push Proceeds While Chip Stocks Take a Breather - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-11T05:01:35+00:00
@@ -566,7 +596,7 @@ BPCL, HPCL, IOCL, Reliance Shares Alert: Why Oil & Gas Stocks Fall After Rs 3/Li
 
 Infineon's Quantum and AI Power Push Proceeds While Chip Stocks Take a Breather ad-hoc-news.de
 
-### 57. Invesco India Nifty Chemical Index Fund - Direct Plan Fund info - The Economic Times
+### 60. Invesco India Nifty Chemical Index Fund - Direct Plan Fund info - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-11T04:42:11+00:00
@@ -576,7 +606,27 @@ Infineon's Quantum and AI Power Push Proceeds While Chip Stocks Take a Breather 
 
 Invesco India Nifty Chemical Index Fund - Direct Plan Fund info The Economic Times
 
-### 58. Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand James - The Economic Times
+### 61. Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 - Telangana Today
+
+- Source: Telangana Today
+- Published: 2026-10-12T03:48:56+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUh2bFVvRkRxS3ZVVkk4WjNXcy1ZMkxoWUFCcHVTSmRzSmVMSWVVYjVRSFlCSEhOTldiMktfVERlQWU5NmFVTzhUQy1oOG9LMkxlTi1zYTRLdjJmMDBpNllQZVM4a29BUWk5WDNSNUg0UmRib2E2c1NCY29RYmF5dWUtV0dqZHRFVVBCT2pkM0RnblFoRkVWMlpKTGVseER4ZnEyem5qb3ZMeEtuWEMtdjcxbUJxQUNv?oc=5
+
+Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 Telangana Today
+
+### 62. Nifty 50 Climbs at Monday Open as Indian Stocks Advance - Business Upturn
+
+- Source: Business Upturn
+- Published: 2026-10-12T03:41:45+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN01hWmpXcnlnVExJemV0ekF5QVZLUWhjWXVvc3BLanBtbFg3eW5INmpxRDFCaGJfMV9WSTJuS0tUTnNkUDBFT2lXUWxwYnZvbkhfa3Y4NV9kRkhYTkZQcWFFRXVfa2FKRm50TVlUb0xzTnQ2QmdkNGhLbVNCeFROdTh6V3JiM3pmSGN5QjVvTVlHVXhHOUZSYVByNTduX3ZuWmhuVnZwblM?oc=5
+
+Nifty 50 Climbs at Monday Open as Indian Stocks Advance Business Upturn
+
+### 63. Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand James - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T03:14:00+00:00
@@ -586,7 +636,7 @@ Invesco India Nifty Chemical Index Fund - Direct Plan Fund info The Economic Tim
 
 Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand James The Economic Times
 
-### 59. Megaport Shares Jump 5.5% as AI Infrastructure Bet Lifts ASX Tech Stock Ahead of October Quarterly Update - International Business Times Australia
+### 64. Megaport Shares Jump 5.5% as AI Infrastructure Bet Lifts ASX Tech Stock Ahead of October Quarterly Update - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-10-12T01:24:40+00:00
@@ -596,7 +646,7 @@ Nifty’s 22,200 defence may open the door to 23,600, says Geojit’s Anand Jame
 
 Megaport Shares Jump 5.5% as AI Infrastructure Bet Lifts ASX Tech Stock Ahead of October Quarterly Update International Business Times Australia
 
-### 60. Beijing moves to steady A-share market after sharp tech sell-off - South China Morning Post
+### 65. Beijing moves to steady A-share market after sharp tech sell-off - South China Morning Post
 
 - Source: South China Morning Post
 - Published: 2026-10-12T01:00:19+00:00
@@ -606,7 +656,7 @@ Megaport Shares Jump 5.5% as AI Infrastructure Bet Lifts ASX Tech Stock Ahead of
 
 Beijing moves to steady A-share market after sharp tech sell-off South China Morning Post
 
-### 61. KOSDAQ Holds Up Amid Caution on Large Caps, with Buying Focused on Semiconductor Equipment and Secondary Batteries - 아시아경제
+### 66. KOSDAQ Holds Up Amid Caution on Large Caps, with Buying Focused on Semiconductor Equipment and Secondary Batteries - 아시아경제
 
 - Source: 아시아경제
 - Published: 2026-10-12T00:55:00+00:00
@@ -616,7 +666,7 @@ Beijing moves to steady A-share market after sharp tech sell-off South China Mor
 
 KOSDAQ Holds Up Amid Caution on Large Caps, with Buying Focused on Semiconductor Equipment and Secondary Batteries 아시아경제
 
-### 62. Once-hot AI trade leaves Korean stocks struggling for buyers - The Economic Times
+### 67. Once-hot AI trade leaves Korean stocks struggling for buyers - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T00:52:54+00:00
@@ -626,7 +676,7 @@ KOSDAQ Holds Up Amid Caution on Large Caps, with Buying Focused on Semiconductor
 
 Once-hot AI trade leaves Korean stocks struggling for buyers The Economic Times
 
-### 63. Nifty Outlook: Can bulls sustain recovery after 8-week losing streak? - The Economic Times
+### 68. Nifty Outlook: Can bulls sustain recovery after 8-week losing streak? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-12T00:10:54+00:00
@@ -636,7 +686,7 @@ Once-hot AI trade leaves Korean stocks struggling for buyers The Economic Times
 
 Nifty Outlook: Can bulls sustain recovery after 8-week losing streak? The Economic Times
 
-### 64. FII selling tops Rs 45,000 crore over six sessions in October, Rs 3.6 lakh crore sold-off this year - Moneycontrol.com
+### 69. FII selling tops Rs 45,000 crore over six sessions in October, Rs 3.6 lakh crore sold-off this year - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-11T23:30:28+00:00
@@ -646,7 +696,7 @@ Nifty Outlook: Can bulls sustain recovery after 8-week losing streak? The Econom
 
 FII selling tops Rs 45,000 crore over six sessions in October, Rs 3.6 lakh crore sold-off this year Moneycontrol.com
 
-### 65. Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now? - Yahoo Finance
+### 70. Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now? - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-11T22:25:02+00:00
@@ -656,7 +706,7 @@ FII selling tops Rs 45,000 crore over six sessions in October, Rs 3.6 lakh crore
 
 Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now? Yahoo Finance
 
-### 66. Why Are Oracle (NYSE:ORCL) and Broadcom (AVGO) Stocks Falling While Nvidia Holds Up - Stocks Down Under
+### 71. Why Are Oracle (NYSE:ORCL) and Broadcom (AVGO) Stocks Falling While Nvidia Holds Up - Stocks Down Under
 
 - Source: Stocks Down Under
 - Published: 2026-10-11T22:20:17+00:00
@@ -666,7 +716,7 @@ Following OpenAI’s Revenue Report, Should You Really Buy AI Stocks Right Now? 
 
 Why Are Oracle (NYSE:ORCL) and Broadcom (AVGO) Stocks Falling While Nvidia Holds Up Stocks Down Under
 
-### 67. Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live - NDTV Profit
+### 72. Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-11T22:01:06+00:00
@@ -676,7 +726,7 @@ Why Are Oracle (NYSE:ORCL) and Broadcom (AVGO) Stocks Falling While Nvidia Holds
 
 Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live NDTV Profit
 
-### 68. Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks - Bloomberg.com
+### 73. Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-10-11T19:00:00+00:00
@@ -686,7 +736,7 @@ Stock Market Today | Share Market News | Sensex Today | BSE/NSE Live NDTV Profit
 
 Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks Bloomberg.com
 
-### 69. Largecaps look ripe on valuations, but flows hold back: Krishna Sanghavi - Business Standard
+### 74. Largecaps look ripe on valuations, but flows hold back: Krishna Sanghavi - Business Standard
 
 - Source: Business Standard
 - Published: 2026-10-11T17:46:25+00:00
@@ -696,7 +746,7 @@ Bond Selloff May Mean Fewer Rate Hikes From Global Central Banks Bloomberg.com
 
 Largecaps look ripe on valuations, but flows hold back: Krishna Sanghavi Business Standard
 
-### 70. Onion Arrivals At Kurnool Market Fall Sharply As Prices Surge - Deccan Chronicle
+### 75. Onion Arrivals At Kurnool Market Fall Sharply As Prices Surge - Deccan Chronicle
 
 - Source: Deccan Chronicle
 - Published: 2026-10-11T15:42:10+00:00
@@ -706,17 +756,7 @@ Largecaps look ripe on valuations, but flows hold back: Krishna Sanghavi Busines
 
 Onion Arrivals At Kurnool Market Fall Sharply As Prices Surge Deccan Chronicle
 
-### 71. TSMC (TSM) Breaks Q2 2026 Records, Then Falls 5%: Reason Explained - TradingKey
-
-- Source: TradingKey
-- Published: 2026-10-11T15:06:40+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPUlZ1M3dxcDR6U2hLWk1IMUUyQnlrTWkxcklEVnd5N0tld1FIMFNTMGptZzlvb045VHh1UmQxS1dvODVPMWNZZlhkcXhsX3IzQ0VDYVhyNDd4UGdCS09oZHp0RnZSR2lzcDFvRHlnb3Y0eUt2Zk42S0FjT0tWb25aWGl2V2k3OGhWYTV6cjVMLTdjZXhjTEljWFVJTUNvc0o3MTBsekZxbzN2YVFsTFFBQVdQdDdiLU1qZGh1LWM1OC1hcU5wN2NB?oc=5
-
-TSMC (TSM) Breaks Q2 2026 Records, Then Falls 5%: Reason Explained TradingKey
-
-### 72. The Greatest Bull Market in Decades is About to Begin – But a Correction Comes First - I/O Fund
+### 76. The Greatest Bull Market in Decades is About to Begin – But a Correction Comes First - I/O Fund
 
 - Source: I/O Fund
 - Published: 2026-10-11T13:25:51+00:00
@@ -726,7 +766,7 @@ TSMC (TSM) Breaks Q2 2026 Records, Then Falls 5%: Reason Explained TradingKey
 
 The Greatest Bull Market in Decades is About to Begin – But a Correction Comes First I/O Fund
 
-### 73. Bittensor (TAO) Near $276 or AlphaPepe Before Listing as Buyers Compare Their Next AI Crypto Bet - openPR.com
+### 77. Bittensor (TAO) Near $276 or AlphaPepe Before Listing as Buyers Compare Their Next AI Crypto Bet - openPR.com
 
 - Source: openPR.com
 - Published: 2026-10-11T13:11:03+00:00
@@ -736,7 +776,7 @@ The Greatest Bull Market in Decades is About to Begin – But a Correction Comes
 
 Bittensor (TAO) Near $276 or AlphaPepe Before Listing as Buyers Compare Their Next AI Crypto Bet openPR.com
 
-### 74. Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? - TradingKey
+### 78. Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? - TradingKey
 
 - Source: TradingKey
 - Published: 2026-10-11T13:04:15+00:00
@@ -746,7 +786,7 @@ Bittensor (TAO) Near $276 or AlphaPepe Before Listing as Buyers Compare Their Ne
 
 Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buying Opportunity? TradingKey
 
-### 75. NVIDIA (NVDA) at $205: Why Jensen Huang’s $1 Trillion Blackwell-Rubin Vision Matters More Than the Pullback - TradingKey
+### 79. NVIDIA (NVDA) at $205: Why Jensen Huang’s $1 Trillion Blackwell-Rubin Vision Matters More Than the Pullback - TradingKey
 
 - Source: TradingKey
 - Published: 2026-10-11T12:27:27+00:00
@@ -756,7 +796,7 @@ Accenture (ACN) Crashed 18% After Earnings — Is a Forward P/E Below 10 a Buyin
 
 NVIDIA (NVDA) at $205: Why Jensen Huang’s $1 Trillion Blackwell-Rubin Vision Matters More Than the Pullback TradingKey
 
-### 76. S&P 500's 2026 rally driven by AI mega-caps, bu... - Pluang
+### 80. S&P 500's 2026 rally driven by AI mega-caps, bu... - Pluang
 
 - Source: Pluang
 - Published: 2026-10-11T11:44:18+00:00
@@ -765,43 +805,3 @@ NVIDIA (NVDA) at $205: Why Jensen Huang’s $1 Trillion Blackwell-Rubin Vision M
 - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTFAzTUFNOU0zT0d4NUJfZ1pEZVdiMFcxNGJqLU1tMGxabXZzN3JLTlkxY1hFQ0owcUZyTTk5aklKd0g0cFJCM0dhTjNOWUFoR0ZNdUM3alhSWFYyMlZqVlRRaUlMRkZ6bFNtM2xRQkdfdEJkUEthaTRvb21HSEJ5UQ?oc=5
 
 S&P 500's 2026 rally driven by AI mega-caps, bu... Pluang
-
-### 77. Trade Setup For Oct 12: Nifty Bulls Break 8-Week Slide; Will The Relief Really Sustain? - NDTV Profit
-
-- Source: NDTV Profit
-- Published: 2026-10-11T11:30:01+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNdmVyaVdWMVg3TmdJaE5GZ0dZV2JHanhLaXVNU2kzTVNvQ29nbkVFMXB6dzJxTHJKUWhURTdvUnhmSV9EQ29xX09yWTc3SjQwMWhTWlN6VFdjdmtBU0FJNjVvZ1pjUFNtdmpfUERPMHVsaFZXdk5pYkRhekFGUmJLeE9wRnZmemNoMkY3ZlotNDVQLTgyRjI1cUIxXzhhbElOTDdSbG1kdTE5WE9GS0V2YmJUUHZPa3REX25mUWFUQS1NZXVZeEVF0gHPAUFVX3lxTE45VG5lWk5MdkFoZW9ZSFBZZDA4N3V4d1BKcW1qemlQd2J2b1k1T3J5NlBIUXhhWHJwOXFOZllDVTl2ZElIVGpIOGcybXg5N2ZHalR5ckowQ2JkamNCczZEazUtZGxGb2xsUFB0THJ5VlU5am5uVE1IYUVGbUt4eURZcjM3TnlPeHdpS3JqRE9RU2JnVTZRT0ZBUl9PV2N5UVhVbFBiZjdKd3liVW40OU1TaUFzdDBMdERyMklWRVR2Z1RUQV95NGxHVmhuVWRhYw?oc=5
-
-Trade Setup For Oct 12: Nifty Bulls Break 8-Week Slide; Will The Relief Really Sustain? NDTV Profit
-
-### 78. Wall Street rebounds as AI concerns ease in US markets - SuaraGarut.ID
-
-- Source: SuaraGarut.ID
-- Published: 2026-10-11T11:15:16+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiXEFVX3lxTFBXU1JCX2xYeHJoU1JReU4yV3FwMHhFOTMzTi1va1lMS2dMdDBoSGFybUlvR1BMR2F5RmtyVWt2Rm95b3phTzBVNFZBcUdxNURGXzdobjNqaDBNYndW?oc=5
-
-Wall Street rebounds as AI concerns ease in US markets SuaraGarut.ID
-
-### 79. Gorilla Technology Plans First US Data Center Deal, Targets Over 100MW AI Infrastructure - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-11T10:40:35+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxNeGY3cWpzRERCZFhmS3JRblhxTUl6cklKRE55U2Q4Wk1iSHZVd1FEc21tQlpyd3V6ajBzc0FkUnFrUkJQbTVoRThwOVhoYnpoYmZLMWtDaS1sN0E5aUlLZXdnamg4aTQyOTJzRUl4bjRpdTBJUW0yQ2czLWtiWjd1NU92d0hvb214YkdJcmlXMUlUY3pJdGt6THNnb1dFV2RwcVFkMkRUTlR6UEM0Q0s4cEw1R2IwRzk3alIybWF5LXNuMTliSWNFUnQ2cjlzZFdCaDAzSGJHUTRZYVUwemRGU3U1cnh3bXM?oc=5
-
-Gorilla Technology Plans First US Data Center Deal, Targets Over 100MW AI Infrastructure Stocktwits
-
-### 80. Top 3 stocks to buy: Bharti Airtel, ITC, PNB by Ganesh Dongre of Anand Rathi | Target price, stop-loss, Nifty outlook - Livemint
-
-- Source: Livemint
-- Published: 2026-10-11T10:26:45+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPa2dnUDFCWDFrY2lua1VybFhGUF9SWDNnRDduendRQ09zWHRUWWNaMHpDZGdkQUxtMmFpUFFYVXE2MDVuNFlxOFBiWEU3MWtKVGl6eHNEdFYteWUtRVEzVWpueno4SmZZWlRmbGtWRTJuZ2xJd0IwUnhBeGNPTHhFNmFsV1dpNUJjaTZkSUowMDhPVFdkTVpweUFCN2pzOE9yd19oOUp1Q0tocHR0Y3Z5cEl5NmdFQnF5MWRQRWp6VFd0dEo0WnJTUV9JQl9LWW5sNUxQM25VeXNzNGFEcV9PR2NNMkRaSkQtMWZCVTFUR2dXb2wtenZPYnJTckJNM2xCc184RG9DSE8wT3h60gGSAkFVX3lxTE85el9MdHZ1LTYxQld4WGVzRGxEeE5iaXFtY2FfblQxVjZTSVhRR1l2R0NBcTZQeGdOamQ0UGYxMFVKc2kzcTJZLVFocWxjT20zeHI1YWtBOEVKajgzXzM3UzRHU0Z1cWRWbG94dU1NbG42YnUwQnpkSFNmcnZKNUR6LWk2SnZUaHhobXhnRTRlS19leUFkSlR3Zy05R2pBQWVxVEp1TWNLWkhURWNhNExRWEhCU2NqMXFLd3dqMUIwSkpESzJaTHdyOE9GdmJmUklBMkM3Z0VXWnBnM0NfLTdKN0xuNGFnRGFNSWNGc2s0V0V4bHdrT0VNdFRYS2M3dXZ0akNJQTlLdkxaWTFYaWlXMVE?oc=5
-
-Top 3 stocks to buy: Bharti Airtel, ITC, PNB by Ganesh Dongre of Anand Rathi | Target price, stop-loss, Nifty outlook Livemint
