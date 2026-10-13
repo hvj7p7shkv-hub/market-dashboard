@@ -238,7 +238,7 @@
     "title": "Kospi plunges more than 6% below 6,000 as chip selloff and oil fears hit Asian stocks - investingLive",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPR1lZYnJsU29XMEFsVFBrTnFGZ1gydjhoZ2ptWWhkUllfbFVkaUROX0x5UXZEOWRVUF9QQVpXQjkwWkliNTZndXVKNTlMMVl2Rm1pdGQ2czc1R1czWFlNRHBjME5RUUl2c2ZXdlE1YjRGTjVLSVo2OG12QVdHY2dHcVVTUXlGTmtJSlM4TElvQ2RXWlFiczlJRlVneU5qTFV1QnhVWWx4RDNKeU16OGQ3ZHB2ZnJxUXNQQ091ckFOXy0wZ0FUNmZCZnlFSQ?oc=5",
     "description": "Kospi plunges more than 6% below 6,000 as chip selloff and oil fears hit Asian stocks investingLive",
-    "published": "2026-10-13T02:00:53+00:00",
+    "published": "2026-10-13T01:59:39+00:00",
     "source": "investingLive",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
@@ -320,20 +320,6 @@
       "AI / tech risk",
       "market selling",
       "macro / flows"
-    ],
-    "score": 8
-  },
-  {
-    "title": "Sensex drops 548 points, Nifty slips below 22,400 as FMCG, PSU Bank stocks drag - India Tribune - Chicago",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcEEzelgwS3I5WlZPLW5BbmwyaEF5Y0pZekNaWE55TU4yN196NWJLeUU5a1JHMXhTR29pX0dUNURybDRzS3ZJVU1IcTJEVERqRTk0MUNoODlja3NWZmd4cnl2WVV1Wk1HY0VaN0N2UFMzeXhKZGhPcHhiUFJGT19PZUE3eFp3VW1temJzc1B0d0NBX3oyRmZyYm5WNGtYVG1sVmpneGkzZVpYcUR3ZHJ3R2NR?oc=5",
-    "description": "Sensex drops 548 points, Nifty slips below 22,400 as FMCG, PSU Bank stocks drag India Tribune - Chicago",
-    "published": "2026-10-12T15:36:50+00:00",
-    "source": "India Tribune - Chicago",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
     ],
     "score": 8
   },
@@ -587,6 +573,34 @@
     "score": 8
   },
   {
+    "title": "AI market correction would hit real economy, IMF official says - marketscreener.com",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcUJZR2FSY0JKWGxVdm5QaVlrSjJ0bHlEWk01RTRfUWIwRjBEaFE2UHduSXVnY1ZEZ2RzMDVVUnBjVUZFNUM5R0k1N0hjNVRfNkRQSWJkMmIwTEdqMjFucG5Tb25MOW9GVWJGcnZTWjN1NVdIQ09nMXFzdEZzTWN4dmRycjA3TC1kSFBILU5uLXRsanFkU3pmV2VGckcyTXZfTXVRMTJQT1FfeERqeFFfeEhfbFE?oc=5",
+    "description": "AI market correction would hit real economy, IMF official says marketscreener.com",
+    "published": "2026-10-13T03:55:13+00:00",
+    "source": "marketscreener.com",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Chip Selloff Triggers 7% Korea Rout After CEO’s ‘Casino’ Warning - Livemint",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVElyUWRKWjB3NEdtNUVFRkU1UUpuX0xIWWZvRjRZYXRlVVRFNk9jU3UtdHc5ZVZ3UjNCQk1Zd2VfbVJjUVpNeDlqV2xmdERBT25XYXRPWmlROUhJWjR6RTY0RldQS2J5Q1UtUUQybHhTdkozSU4ta1Q0QkYtRkZnMDZHN3Q0a2MzbHVQbjAzTUtsbVJoeExuYzBpYXpPd0doeWRmbmFWMC14c2RLeGoxMUJrONIBuAFBVV95cUxNRWRxenRuaVJ0ODlrN1dPV2RsZGNXRk90dnV1YlVqYlR1R1pFcnRhTk9mNThZSEh1bGxuZ2YtTE0zNjR5TlMxUFRNUHRoSHJUT3BrZnJ6dUlVS09GYm0yTzlERjRFYTVBSnRnZmU0R0RsckVjN3dHeEZsUnFmWjVOUzRvMk5PQk1JdHhCZnRxRGdJX1luOGUyXzN3QkZqT181eG9ETkRVaC1zSDh5Yk02S2xkT2cwWW1H?oc=5",
+    "description": "Chip Selloff Triggers 7% Korea Rout After CEO’s ‘Casino’ Warning Livemint",
+    "published": "2026-10-13T03:44:39+00:00",
+    "source": "Livemint",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
+  },
+  {
     "title": "IMF warns of AI market correction, cyber threats to financial system - Moneycontrol.com",
     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQQ19iUW9DRF9iUTZySkxnUjNOaTIxMk5pZ2RUTC0yQkFyeU94Y2F3T09sNmd6Sy1ORVBzZ09UdFZxRmVEUGdud0d0Q0E2UlEzM194WWtVUnQ0WU9yUlZuVFNTSzJFUDBLdVMtS0JKekt5YUdiNTVOMkVwZ3JienZ5SVBVT0JzNXBwVHMwQkhCWDVYTVhDaVlKZ19INmZoSTF6WGJvcG1KUFhvNmlZOGstM1kzMXc2NTlmTC1rcTJIV1UzUdIBxwFBVV95cUxQWGVPQzlDelI0a3pzVU1IMEdVaV9ESjZLX2ZQZ3UwUE4wY00tZldfY1RJR2sxQWFSRW1aTzRJNUpETXRBMGtncm1idG5EM1YtQXFIQXFESTNGaGVURHZVVi05NXBzQTB4d1Z1RFVlb2U4Q21UZDVZMFBra3VoaUFiVG9EUzF4Y01ESnBTWi1SM3U1a1pTcVlDRDhqLXd6Y1c3TlF3Wk1CZkZmUmRkTE5GeGRnM19rbmxVODBCWVRueWNXSmlsYmNJ?oc=5",
     "description": "IMF warns of AI market correction, cyber threats to financial system Moneycontrol.com",
@@ -634,6 +648,20 @@
     "description": "SK Hynix, SoftBank shares plunge as tech stocks in Asia track Wall Street chip sell-off CNBC",
     "published": "2026-10-13T02:08:00+00:00",
     "source": "CNBC",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Chip selloff triggers 6% Korea rout after CEO’s ‘casino’ warning - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOXRLUFlsNXNCTDJqX0xWdHA4TGs4dU1SNzJVR19rWkgwZ2NHWnM5a0pXMzB1UkY1NEpOd292aGcwWDZhOXR3YVNRd2pwUWV5Y1hSTTE4U2pJblRmVmtmQmRBUmZtMXJCTWF1eGJmS3NyaE9ya0RSd1hNY2dUZ216QlVmM1A4Vm8xeGNHcWZaTzJIQ1BQUHY2LUx6a3ZZUUQ5MFIxY2lOeVJMOW1tWGtVbUVnRXMxU1BCQVBoVUZDbFJYOERqUUpF0gHMAUFVX3lxTE1UaF9BN1BiZGNTRVQ4YzBmMm13aksyRElHWlJDTzNxUWNZN05BeUlkN2hDR1RhSVB6RVRnRDVsS1UxM0w0ZUVZOHZIb0xUcFpDbUpzV3BZUlRGbHNNbTlTQmZrcDk2OHplLTNnemxOMEtFbjdUMm8wdXNndW9nQlY2ZU9FN05nTklhdk81M1NUYWZQaHBfNHVPOWstaUtMVlp3SVROYmxpZWFTUkREam5oLTZhbnI5UkhEbEQwNTdTWlJXc0tFelNnNm9pUA?oc=5",
+    "description": "Chip selloff triggers 6% Korea rout after CEO’s ‘casino’ warning Moneycontrol.com",
+    "published": "2026-10-13T01:33:10+00:00",
+    "source": "Moneycontrol.com",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1162,18 +1190,18 @@
     "score": 7
   },
   {
-    "title": "Market Turns Red: Sensex Falls 620 Points From Day's High, Nifty Slips Below 22,500 - News18",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbHdCQVFuMXNBclNXbFJXWHVBaU1Qc1k5ekFWR2NTcU5iTC1JYW5KVW5BbV92c1NMbm9vQnFGazRQUVZOQ0g3eGtFZzZwUS1oQkRZT1dIbkVhcWctdGNPdXJBSjhUbHBoa0REWW5IWkJXZTJTSW9BaktwOHhwNUNJZDl2RUxRU3FyOE5QVWpOQjVHN3BIRWxveFZCZWptS04yTFA4amJwbnBIQ0R3ZHdsakZyY2JwNFVxSXZxU012aFE0UDVXVFJzbkg5ONIB0AFBVV95cUxPVVpoU0xxdTFMb0ZuUXRfQnhyZm5zSzVRX0FQMmprNUQtMTRKYmNvck5GWVhCalBORC1CMlRzUTRMRk0tY3k4T3YwcXdpYnU5ajQwenlTNVA1T2dIR0JCcHRMZE1vNm5CNVR1N0hmNnIxcUVEZFNFSGJpU2hnQUNPRXRnWjdjOXdmNnN5bUpPRzFOT1RiQzNUTExVNXkyYi1rX0s0T3dZTFd3WklaWHQtMlltZzBKZ28yUVdSWjZ6bDZVOFRQUWl4R0hKOUNZMFJl?oc=5",
-    "description": "Market Turns Red: Sensex Falls 620 Points From Day's High, Nifty Slips Below 22,500 News18",
-    "published": "2026-10-12T03:56:20+00:00",
-    "source": "News18",
+    "title": "Nifty 50 Falls at Open on Tuesday - Business Upturn",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdk5JU3gtQW8yLWRSaXkyOTE2UXVnZTJLVlFRSWhPWGE5dHpNTEtyODVYN3VoVkpWeUEwVHkwbnFXako5UVVNZWd3Z0c2V1c0RXJPSFJ6ZTc2TzF0cjJkdmQzc3BuTURyMmVQV1pBUlFnZktpMGxwUzNFZWhUOWJCZkFJNjVoaFFja09B?oc=5",
+    "description": "Nifty 50 Falls at Open on Tuesday Business Upturn",
+    "published": "2026-10-13T03:43:04+00:00",
+    "source": "Business Upturn",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
       "India market"
     ],
-    "score": 7
+    "score": 6
   },
   {
     "title": "Top 10 blue-chips’ share of India’s m-cap drops to lowest since 2017 - The Economic Times",
@@ -2015,17 +2043,6 @@
     "score": 3
   },
   {
-    "title": "Product roundup: CIBC rolls out three new mutual funds - Investment Executive",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRnFlX2oxRlV1ZExXbDdFQV9kYTl6SWowVDFKNlBYQ2FxaU5hMWluZDdjdWpBVVE3RlV5RUFSVENjempMSzJvU3FxY1BtRWJnZFpQNllHV3hDRkJGS1hwV2NubGtadzZYRW5kbF9HRWd5akJ5NU5MZUdDenowODB0QzJocnBYb1pMbnlOX2Y5eDdnMEJTVXcwRU1kMW1rNXhqUl80cUpR?oc=5",
-    "description": "Product roundup: CIBC rolls out three new mutual funds Investment Executive",
-    "published": "2026-10-12T08:18:27+00:00",
-    "source": "Investment Executive",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
     "title": "SIP contributions hit all-time high of Rs 32,490 crore in September, up from Rs 32,297 crore in August - Moneycontrol.com",
     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQdWZoRURYeEhacnRXNVpPUk9raHBHaDVHcUJ4LUYyemN3ZExrU3BmY3RCWThmMGFXWEphTUxrdURjbU43c1JXdDRFbjlSZktTaUhYdVFvMTFEazUwMVBaRGcxOHo5SDNqR1BhcEZPSU5zMmE5cGxIUnVuNU5fTVYzV2VIMWhUVkNuVHBKbTNpdjcwVEE1TEN4bUswc1RtR2VNRm5VM19hNmtsVjk0MWdTbkUwZU5qOS01UjlKTnBLMzBTM1JLd2ZrTHpfWmNYblhtUFY2SWpvY21BMDg0bk0wa185V255Z3RCTzkwNnNXZmMtOHUtNmVEMVl3S2lIR3VOcWxlTXF30gGLAkFVX3lxTE1hSjdETVNZeFJjNlNSbTB0UVZVdi0zaVV4V013ZXcydG8yemxIUFUwcjdpX0psWnhaM0t4NmdLS0RhaTNsRDJSU3hJR1RadTFvOWdIZF9JcGRhSUltX2h5VUJoZmVQN3pxTnlNR3Y5MGp0U3dUYjRVbWFsbjNGb3h2WjhtTU9ZYzVXa0xaZmhBaFZKNldFSmFiV25zOWNRR3dqbHBlN0VTNGlxdVJBSHRiXzRYUWQyaWhweWkyb3JiYUxfNTBLV0p4UnZZYWJkOXIxSWgtRF9HX3Rvc1Nsa04wWllubEFHcEUzXzFtNVgtaDFlazE3NHVEZG1IUXdpQlpzcTl5X0swRkVDRQ?oc=5",
     "description": "SIP contributions hit all-time high of Rs 32,490 crore in September, up from Rs 32,297 crore in August Moneycontrol.com",
@@ -2165,16 +2182,29 @@
     "score": 3
   },
   {
-    "title": "IMF cites AI slowdown, spiking yields as looming global market risks - The Standard (HK)",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQajc3N1hLcU03Ty1tbjFqcFdsUlcxYklsZldhY1BQSTZ3Z2staDItUFhoRUdVdDZrMXVnZm14TVc2V21renh2QnJlMzJoNldzUGZWRVQ0bGd2UkhyQVZUWk5Vb3djS0lMS3dGdzFiempUUV9FNTd3Rl96eVJjeHpTeHV1RmRoYVI4STByX0dVWV9BMjZRcGJfM2MzZmNjNVVDbWhRMm5UMmtJS1ZtZUxBQ3B5V1lQbTlxYnVKXzVR?oc=5",
-    "description": "IMF cites AI slowdown, spiking yields as looming global market risks The Standard (HK)",
-    "published": "2026-10-13T03:30:59+00:00",
-    "source": "The Standard (HK)",
+    "title": "IMF cites AI slowdown, spiking yields as looming global market risks - Reuters",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcDlSTHJNVmVDQkFXaW1Wa1R4TjZCVUh6dW9FZF9fN2lNcGNUVEFhMUs1V3ZBdjVjUG5UT29Bc1U3aldpZDlWbF9yTUhuS2RzSnYzY2lxNlJTb3dVMzROam9wYVZfcjQ3MUlVRWFZYlcxVUQzcDlGS195NWd3UDgxXzRzWm5VdG5EaDZnbnFkQjVWeHU2ZUM3RFVpSFpuWEV0Wmd1bnlVRFhwclJzR1EtaDROQkJZQ2dW?oc=5",
+    "description": "IMF cites AI slowdown, spiking yields as looming global market risks Reuters",
+    "published": "2026-10-13T03:19:00+00:00",
+    "source": "Reuters",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "AI / tech risk",
       "macro / flows"
+    ],
+    "score": 2
+  },
+  {
+    "title": "[Opening Market] KOSPI Falls Below 6,000 Amid Foreign Selloff - Businesskorea",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5fV3VGYXF4TWlJVjlzT3Ryd3NIby1DWDU2UmxhMFlaV0diaVYzSTZFZTNHSWRWbmNNdktpWkFNSThxeGdCZWhNVVp2WmlmdXpMYXBRVldROGlVMi1RWS1TVGY5RmpWMzB1dkpGdUMweTIydW9R?oc=5",
+    "description": "[Opening Market] KOSPI Falls Below 6,000 Amid Foreign Selloff Businesskorea",
+    "published": "2026-10-13T03:01:02+00:00",
+    "source": "Businesskorea",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
     ],
     "score": 2
   },
@@ -2431,18 +2461,17 @@
     "score": 2
   },
   {
-    "title": "MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap and costlier oil weigh on... - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNR1dBMkc1OXptakMxOW03cmNiVnNqT0wzSU05Rlhpa0twVGNqcVpKV3ZlRGx1WWZ0OWkxSlNjM1FhYi1pQ1Y0T1ZySVJwRWJjQ1NwVlZzT0NPcGdPWVRYX28tMllKeHVTLTRlYnNTRW1CX3lXWlpsR0t3NGNUc25PSnRhZEpqcllBZnlJRWlQSlZoc2ZvVXNFTjJTMTE4QUw3NnpUSlEtbUxuVkl6MDhjT1pEQVk4dlcxOHF6aGJmUHFFOHdrOHhSVnNZVVJkaHhuSkxidHo4M2hEaWJnb2pJaFdyaklyWTZkbnR1N3R2c0dUUXVUWHV0SERnVHVac3JlanZsMWZoRdIBhwJBVV95cUxNR1dBMkc1OXptakMxOW03cmNiVnNqT0wzSU05Rlhpa0twVGNqcVpKV3ZlRGx1WWZ0OWkxSlNjM1FhYi1pQ1Y0T1ZySVJwRWJjQ1NwVlZzT0NPcGdPWVRYX28tMllKeHVTLTRlYnNTRW1CX3lXWlpsR0t3NGNUc25PSnRhZEpqcllBZnlJRWlQSlZoc2ZvVXNFTjJTMTE4QUw3NnpUSlEtbUxuVkl6MDhjT1pEQVk4dlcxOHF6aGJmUHFFOHdrOHhSVnNZVVJkaHhuSkxidHo4M2hEaWJnb2pJaFdyaklyWTZkbnR1N3R2c0dUUXVUWHV0SERnVHVac3JlanZsMWZoRQ?oc=5",
-    "description": "MC Analysis: Why Nifty’s 17x valuation can’t lure FPIs: Shrinking yield gap and costlier oil weigh on... Moneycontrol.com",
-    "published": "2026-10-12T04:05:13+00:00",
-    "source": "Moneycontrol.com",
+    "title": "Record FPI outflows top ₹3 trillion in CY26, nearly double 2025 tally - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbi1JMHBYejZycE90MzlxMGxRSTA3QUlLSHR6cGV4TWg0Mm54VWgzcWpkSFRDZXBFZnVvZEJ1eG1XSlRwVno2c0JQczZaeTZSMW1tcktlSHlwVV92bE4tVEdNaHBTajZQVlp0ZUo3LUpzQmppV3FVcWoyb0NBaXpHUWlwTG1KbF95ZGNja3M2OTE0dVE4TlhHYmNUTEFqRmVDOWl4ajRRVXVJN2tNVzgwR1lLRXpGSHVydWcwQmoxVkhqY2ZZZ0VKQlB4ZW0xZDjSAdQBQVVfeXFMT09WSDkwMFA0QkZqSG81Q0h4TXRXZGVCSVNONi0xWlNOUkFYcFAxSU1Dbl9rUjdyU1hjY0VQQm9ERVlEX3ZucTkwY0VzLXFUS2E1SVpxUEJpNE04WDdGVFNaX3ZCOHdwcXN1QmRQT0MxZkRwRmxzNF9xUkUxd0hGWlZPVUJ1OWNwS2VaRnNSbEZRYk9OTEotQjN3V1NfSDNSbDJLZ29XTnpSRHNoMmpldk1LQWJDYmNmRFBLeW5rVkJYSjd0NWZVd1hrRFNxRWpRSWRuUXc?oc=5",
+    "description": "Record FPI outflows top ₹3 trillion in CY26, nearly double 2025 tally Business Standard",
+    "published": "2026-10-13T04:01:00+00:00",
+    "source": "Business Standard",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market",
-      "macro / flows"
+      "India market"
     ],
-    "score": 2
+    "score": 1
   },
   {
     "title": "Threat of AI share crash puts world financial stability at risk, says IMF - The Guardian",
@@ -2454,6 +2483,19 @@
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "AI / tech risk"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Gold ETFs attract ₹4,451 crore in September amid market volatility: 5 things investors should know this festive season - Upstox",
+    "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxOenJxaWRRclMyczNhaTZqdFUwOFctQW11UVk5RUJGMTlrc3ZDYkZfVkFZUmRwTHhpRDZzbXNwSUc1Q2x5S1RwRFRNLWRpdDVVVVVRZ1NDbUxHTU1NQS1CU3U5NWVMREd1ZWJiaThuNXVkTGFYRkE1T085LTRiampyUWEzdldVYVotbGR4WU91VjlhUWlOTlo1dzE5TlJxUFpKdUFVRFk2NjFkQS00RnBRRGYxcnA1cERnNlJoVzlxa2ZzQXQzMTg2azZxRG95RG0wNlhGNkFBaklXdUJ1LXQwdjhRaFhsWFlGelpTWkxDUC1DZmNKZlRMMUhyekJNZGVwaWxlV2Z0MXVYVUhFNkRqRTdPbXk?oc=5",
+    "description": "Gold ETFs attract ₹4,451 crore in September amid market volatility: 5 things investors should know this festive season Upstox",
+    "published": "2026-10-13T02:37:53+00:00",
+    "source": "Upstox",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
     ],
     "score": 1
   },
@@ -2532,6 +2574,19 @@
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Semiconductor Stocks Plunge as China's CXMT Advances in Memory Tech — Micron Down 3.9%, SOXL Off 8.2% - BigGo Finance",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1jWmtMbmdCUnJLZjhyNGlPMHlmSkJvX1Vob3owWmM4b3RuY1oyXzl3ZWtTSGcyQ3FFRnJ1RTdCWkxWWW1TSEZtUEJEMkJsLWpKRXo4UmE3T2lwV3pFNGpSdldNa3oxVnBudmtoRVhHUFZnekkxZ0E?oc=5",
+    "description": "Semiconductor Stocks Plunge as China's CXMT Advances in Memory Tech — Micron Down 3.9%, SOXL Off 8.2% BigGo Finance",
+    "published": "2026-10-12T21:35:00+00:00",
+    "source": "BigGo Finance",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk"
     ],
     "score": 1
   },
@@ -2649,6 +2704,19 @@
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Nifty slips below 22,400 as selling pressure drags benchmark indices lower - Telangana Today",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVF9MWkxvMXF5d3BBQU1nMGR3T3lLdEh0eko2Q3hYRERaMGNaX3o0Um1TcVN3WkR4MXZpZm9CaW5MNFBhcHozYXhVeEs4QlZmeUNIaVY2aVhjQjhRZDlUWnlaMlZKckplaDdMWTVWN2tYMlRwdVJ0VTAySTdrNzdWVDF1VkV2Q19rUU8xb0pnNnF0RU1DelZpUElfSmw0NFZ6VEE?oc=5",
+    "description": "Nifty slips below 22,400 as selling pressure drags benchmark indices lower Telangana Today",
+    "published": "2026-10-12T11:17:55+00:00",
+    "source": "Telangana Today",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
     ],
     "score": 1
   },
@@ -2848,6 +2916,19 @@
     "score": 1
   },
   {
+    "title": "Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 - DD India",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNUDhzT3FiVHFNZ3F2ZUNnY1EtV25KNVpjVWdyWW42RUlsYkdFaEkwbjVKZ3N1b0lUTkZBRnlrR083RTBDWmhiZEVjUmdjY0xCZDdkR0g3XzlzalRkY2QtTHlnejhCX2lwSGNraHlxcWs2VU4yUGdVT1c5bGdqd1Frb0FpM2lENzJ2dW02bUIwdDRLZFJuWTY3WmZleFFadC1aUFVEMVdwWk84ejF0UDVZTTkzQnYwdVZ0THhRREl3?oc=5",
+    "description": "Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 DD India",
+    "published": "2026-10-12T05:25:09+00:00",
+    "source": "DD India",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 1
+  },
+  {
     "title": "Nifty outlook: Reversal ahead? ICICI Direct's Dharmesh Shah sees 23,500 target above 22,800; key levels to watch - ET Now",
     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxORUlEVWNLTFZ3TXFoNzNqTlQtcG1TZFRIQ2w5VVdQOXJxb0kyYVJGRjJsR05jaVZoMXpLMXF4a2twd0VlSGxPakNPYy1fWm52RFRpX0IzOHdqUTJhTGhDVUVEYmkzNWVaV1VROUVaQTdRdmdjTERFRzJrQnF3YnVOUHF2S01kWU9URmlRanZwTXEyWUZHMDd3UDdrQjZOMzBUeXk4MmRJeVlYbEkzSk8tQzFOeXp6NHR0OWY5N1VYZG9rYjNaS2RUT3RJc2FCRDFnT0EwWjBDWnZ3bXdiSzJFMmh6TXdfbzI3XzEycVJNa9IB9AFBVV95cUxPSHNQNEJ5Qm5jREsyOXRodTVFY1g3Mm56eWdaMnRyWnRpU0IzbG1XZ3dXU2o4WERmQXNsZ2g1UnNHTkJ1S1VwTmpIMUpkX3R3NW1vVE5OTmdjUzhWcHc5Tl93azdJeGJ0Qlp6bWpPdVg1MUUyQmpQOS13Q0lkR1ExT1RtMUZjRFpvMmhqTXdqdXJKdE1RUWp6S2tBN3Q0d0JFSUdTajJMVEpXeDJpM0FNbzJfS3JyV0xoaHNETHZNM3djS0hMMlZ6MExLOGI2bDU2OTE2dlk1NElTQ2N6XzJXNGdMbjlPc1NLZ0t0cDh5MkhXemtN?oc=5",
     "description": "Nifty outlook: Reversal ahead? ICICI Direct's Dharmesh Shah sees 23,500 target above 22,800; key levels to watch ET Now",
@@ -2909,19 +2990,6 @@
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "macro / flows"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 - Telangana Today",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUUh2bFVvRkRxS3ZVVkk4WjNXcy1ZMkxoWUFCcHVTSmRzSmVMSWVVYjVRSFlCSEhOTldiMktfVERlQWU5NmFVTzhUQy1oOG9LMkxlTi1zYTRLdjJmMDBpNllQZVM4a29BUWk5WDNSNUg0UmRib2E2c1NCY29RYmF5dWUtV0dqZHRFVVBCT2pkM0RnblFoRkVWMlpKTGVseER4ZnEyem5qb3ZMeEtuWEMtdjcxbUJxQUNv?oc=5",
-    "description": "Foreign institutional investors’ holdings in India grew 3.6 times to $783 billion since 2012 Telangana Today",
-    "published": "2026-10-12T03:48:56+00:00",
-    "source": "Telangana Today",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
     ],
     "score": 1
   }
