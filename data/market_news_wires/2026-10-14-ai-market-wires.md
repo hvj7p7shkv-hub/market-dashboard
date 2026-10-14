@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-14 06:37
+Generated: 2026-10-14 07:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -146,7 +146,17 @@ AI Selloff Hits Chip and Data Center Stocks Briefs Finance
 
 US Chip Stocks Fall as China Memory Rivalry, AI Worries Hit Sector Global Banking & Finance Review
 
-### 15. Nasdaq Futures Fall as Global AI Selloff Intensifies -- Update - Bitget
+### 15. TSEM Stock Bucks Market Selloff On Semtech AI Chip Deal Securing Capacity Across 3 Regions - TradingView
+
+- Source: TradingView
+- Published: 2026-10-13T12:24:29+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxObFN1UGRhbVpKR3U0YVpQRWcxWlZEaE5jU0Y4eGo1MXVsTk1YR2ZWMTc1X0h0NnY2Sm1PTmxZY1h3eTZZOGU4RHM4S1d2Zk9BRUM2cFFVb3VwNlVPamRpZVc5N1dPWGZMOGl0a3VENjd1LWp4VEliYV94VC1ESWlGalpaLXp4RXpyeE9NbWt3bGFTTmJKOE1VN2UwdlV0UmRDLXRaNUFDQ3d6S0h3ZHRXUmtCa3d2aENMRnVvVExMLUJneHhCNkxMbGpORG5rSVRocGUtTkdSN0RvNGlyb1JzZ2oxQkY?oc=5
+
+TSEM Stock Bucks Market Selloff On Semtech AI Chip Deal Securing Capacity Across 3 Regions TradingView
+
+### 16. Nasdaq Futures Fall as Global AI Selloff Intensifies -- Update - Bitget
 
 - Source: Bitget
 - Published: 2026-10-13T12:05:08+00:00
@@ -156,7 +166,7 @@ US Chip Stocks Fall as China Memory Rivalry, AI Worries Hit Sector Global Bankin
 
 Nasdaq Futures Fall as Global AI Selloff Intensifies -- Update Bitget
 
-### 16. Nasdaq Futures Fall as Global AI Selloff Intensifies - WSJ
+### 17. Nasdaq Futures Fall as Global AI Selloff Intensifies - WSJ
 
 - Source: WSJ
 - Published: 2026-10-13T11:58:00+00:00
@@ -166,7 +176,7 @@ Nasdaq Futures Fall as Global AI Selloff Intensifies -- Update Bitget
 
 Nasdaq Futures Fall as Global AI Selloff Intensifies WSJ
 
-### 17. Semiconductor selloff: 10 chip stocks showing signs of oversold conditions - TradingView
+### 18. Semiconductor selloff: 10 chip stocks showing signs of oversold conditions - TradingView
 
 - Source: TradingView
 - Published: 2026-10-13T11:42:56+00:00
@@ -176,7 +186,7 @@ Nasdaq Futures Fall as Global AI Selloff Intensifies WSJ
 
 Semiconductor selloff: 10 chip stocks showing signs of oversold conditions TradingView
 
-### 18. Semiconductor selloff: 10 chip stocks showing signs of oversold conditions (SMH:NASDAQ) - Seeking Alpha
+### 19. Semiconductor selloff: 10 chip stocks showing signs of oversold conditions (SMH:NASDAQ) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-10-13T11:42:56+00:00
@@ -186,17 +196,17 @@ Semiconductor selloff: 10 chip stocks showing signs of oversold conditions Tradi
 
 Semiconductor selloff: 10 chip stocks showing signs of oversold conditions (SMH:NASDAQ) Seeking Alpha
 
-### 19. Dan Ives Says Semiconductor Sell-Off Is ‘Way Overdone’ As AI Spending Fears Rattle NVDA, MU, SKHY, SNDK - TradingView
+### 20. Nvidia, AMD and Intel stocks fall premarket: why smart money is trimming chip bets - TradingView
 
 - Source: TradingView
-- Published: 2026-10-13T10:52:58+00:00
+- Published: 2026-10-13T10:11:50+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ1F4ZXFTOXptTV9pWXpReTFwakV4aGdFX3d2QjM2bWJRYU8xcGFyYU0tS1ZZMEs1TGtnc3JlNU91ZkwycEROUE02aXVUTjhFTGJsMDlnZ0hCeTJKMmxrUk81OEFRb2h0c1Y3eExRX1BYWlVoTkNnd1J5bm00QkRxMkdhdFo2VmF5SURZZ2kxZjBpNDJiWHp2LUt2dlNoM2tYcl9IbDUtV3pkQkVsVHI4Qk1fbDdXSjB2YlFVQnVCOGVJY1BxYnhQa0xNWURpNWt0Vk9MQzdnS1ZTSnlHWTUyWDFwVTJkYzQzTXh2YzRBTQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWFJvRmY1bnB1VmM1cW1RS2lRbkdUZTMzU1FYY0VoWG5wRXZKWkVjSzNaRXBoSkFOXzVJYm01OW4wVTQtb0JWdUZQcFcweUVGWDdnTTlNWndMWU5SY293RXVhYXRYdU9vSUNYT2NyVUNvNTNGRHlONGdrWkpTRXBJQkYtYnlmTmNidnZfbFhKZlNQaTE3Yk14UDhwMVFGSGhXekFfMnI1WWUzWU5xZjhZUUoxWmdOM3VIcms0UGxJVGhPdUVIaHVMWWpmcHg5eExqUkE?oc=5
 
-Dan Ives Says Semiconductor Sell-Off Is ‘Way Overdone’ As AI Spending Fears Rattle NVDA, MU, SKHY, SNDK TradingView
+Nvidia, AMD and Intel stocks fall premarket: why smart money is trimming chip bets TradingView
 
-### 20. AI and Chip Stock Selloff (Micron, SK Hynix, Korea Rout, Nasdaq) - Gotrade
+### 21. AI and Chip Stock Selloff (Micron, SK Hynix, Korea Rout, Nasdaq) - Gotrade
 
 - Source: Gotrade
 - Published: 2026-10-13T10:00:00+00:00
@@ -206,7 +216,7 @@ Dan Ives Says Semiconductor Sell-Off Is ‘Way Overdone’ As AI Spending Fears 
 
 AI and Chip Stock Selloff (Micron, SK Hynix, Korea Rout, Nasdaq) Gotrade
 
-### 21. IMF warns of AI correction and rising bond yields as global market risks - Hedgeweek
+### 22. IMF warns of AI correction and rising bond yields as global market risks - Hedgeweek
 
 - Source: Hedgeweek
 - Published: 2026-10-13T09:50:56+00:00
@@ -216,17 +226,17 @@ AI and Chip Stock Selloff (Micron, SK Hynix, Korea Rout, Nasdaq) Gotrade
 
 IMF warns of AI correction and rising bond yields as global market risks Hedgeweek
 
-### 22. Chip selloff deepens amid AI trade fears, rising Chinese competition - TradingView
+### 23. Chip selloff deepens amid AI trade fears, rising Chinese competition - TradingView
 
 - Source: TradingView
 - Published: 2026-10-13T09:01:06+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlBOcUdwaFE2YUpuT0hwdlZRWU1BUHZ4bEhVWWpvZE0tRm1yMHRrV29TU0diNlpvbE0zZnp5cUY5MzFaOE90R3Q0dDg4U3lCR1JUMXNhenZFU2VXdUtrdWhyZDEyU0pjSzN5RTR5VHowdnd3OWR4ZFR5OV83cFdDNG45QWZ1dFV3OVJxTE95R3Nja0JUREcxSEZBVTdtT3FuY0NhdU1QZ2Z1RnoxbEYtUm9nX1NQZzVMWUpyT3I2YVc0UFQ1emlWcQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0Z2WHBROW9waHJMSDJaR09EZVBmMzEzc0lRSFBYbWZzdnNLSk1ZX0h5WVpIblJLNWlFZ0dtbVYyMERHRHJ5RmRJY1ZEaUVaVl9PSkZXci10Ym5rWmZVTzcwSVF2ZWduRjNCZGcxSzNZTFdmejZUaHRpSnJ4bTdTNGRpbGJOYWNtWkhGVkNvRFF1anlQR3hmSjhsQ1F5X3lwOVhNaG5VWWV5ZU1tcDRyeE5vaDBGYnl1cURRUUk4Vml4UXM0bVdCbWRn?oc=5
 
 Chip selloff deepens amid AI trade fears, rising Chinese competition TradingView
 
-### 23. Global chip selloff deepens as AI worries, China competition weigh - Yahoo Finance
+### 24. Global chip selloff deepens as AI worries, China competition weigh - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T08:56:57+00:00
@@ -236,7 +246,7 @@ Chip selloff deepens amid AI trade fears, rising Chinese competition TradingView
 
 Global chip selloff deepens as AI worries, China competition weigh Yahoo Finance
 
-### 24. Nasdaq Futures Fall as Global AI Selloff Intensifies - marketscreener.com
+### 25. Nasdaq Futures Fall as Global AI Selloff Intensifies - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-13T08:42:25+00:00
@@ -246,7 +256,7 @@ Global chip selloff deepens as AI worries, China competition weigh Yahoo Finance
 
 Nasdaq Futures Fall as Global AI Selloff Intensifies marketscreener.com
 
-### 25. IMF Upgrades 2026 Growth Forecast; AI Correction Could Erase Entire Gain - Tech Times
+### 26. IMF Upgrades 2026 Growth Forecast; AI Correction Could Erase Entire Gain - Tech Times
 
 - Source: Tech Times
 - Published: 2026-10-14T06:05:22+00:00
@@ -256,7 +266,7 @@ Nasdaq Futures Fall as Global AI Selloff Intensifies marketscreener.com
 
 IMF Upgrades 2026 Growth Forecast; AI Correction Could Erase Entire Gain Tech Times
 
-### 26. Global Market: China stocks slip as AI selloff deepens, mixed inflation data weighs - The Economic Times
+### 27. Global Market: China stocks slip as AI selloff deepens, mixed inflation data weighs - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-14T05:41:06+00:00
@@ -266,7 +276,7 @@ IMF Upgrades 2026 Growth Forecast; AI Correction Could Erase Entire Gain Tech Ti
 
 Global Market: China stocks slip as AI selloff deepens, mixed inflation data weighs The Economic Times
 
-### 27. IMF’s Georgieva Warns AI Disappointment Could Lead to Market Correction - kaohoon international
+### 28. IMF’s Georgieva Warns AI Disappointment Could Lead to Market Correction - kaohoon international
 
 - Source: kaohoon international
 - Published: 2026-10-14T05:02:53+00:00
@@ -276,7 +286,7 @@ Global Market: China stocks slip as AI selloff deepens, mixed inflation data wei
 
 IMF’s Georgieva Warns AI Disappointment Could Lead to Market Correction kaohoon international
 
-### 28. Price Action: Transformers and Rectifiers, SS Retail gain 12-16% on strong earnings; Polycab India shares falls 4% - TradingView
+### 29. Price Action: Transformers and Rectifiers, SS Retail gain 12-16% on strong earnings; Polycab India shares falls 4% - TradingView
 
 - Source: TradingView
 - Published: 2026-10-14T04:48:00+00:00
@@ -286,7 +296,7 @@ IMF’s Georgieva Warns AI Disappointment Could Lead to Market Correction kaohoo
 
 Price Action: Transformers and Rectifiers, SS Retail gain 12-16% on strong earnings; Polycab India shares falls 4% TradingView
 
-### 29. Stock Market Today: Sensex Falls Over 60 Points, Nifty Tests 22,680 - Times Now
+### 30. Stock Market Today: Sensex Falls Over 60 Points, Nifty Tests 22,680 - Times Now
 
 - Source: Times Now
 - Published: 2026-10-14T04:11:48+00:00
@@ -296,7 +306,7 @@ Price Action: Transformers and Rectifiers, SS Retail gain 12-16% on strong earni
 
 Stock Market Today: Sensex Falls Over 60 Points, Nifty Tests 22,680 Times Now
 
-### 30. IMF warns of AI market correction, cyber threats to financial system - The Daily Star
+### 31. IMF warns of AI market correction, cyber threats to financial system - The Daily Star
 
 - Source: The Daily Star
 - Published: 2026-10-14T03:20:55+00:00
@@ -306,17 +316,17 @@ Stock Market Today: Sensex Falls Over 60 Points, Nifty Tests 22,680 Times Now
 
 IMF warns of AI market correction, cyber threats to financial system The Daily Star
 
-### 31. HK stocks rise as Nikkei, Kospi rally from AI selloff - RTHK
+### 32. HK stocks rise as Nikkei, Kospi rally from AI selloff - 香港電台新聞網
 
-- Source: RTHK
+- Source: 香港電台新聞網
 - Published: 2026-10-14T02:58:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeGFPMGY4ekpiX0Ixcm9sWmRaeXQ3Ukgxd1Z6VEpSOEkxbllFTVNSYU03SnhCdVliY3lob3A0a2hYZ2cwaEo4UVoyVFphNENOTWlOYUxHWVpOMS1BVGx0Rjd1VHMydkZ0T2FjSTB5OFV5bnREbm8tTm5mXzd0MER2SGhFNzluMXgybmpV?oc=5
+- Link: https://news.google.com/rss/articles/CBMib0FVX3lxTFB0M1BlblpHOTVIMkpUdHlNeGhOR2NYWmZndE90YmRJLXJoaWtGZzVEdExFMVRvN2UxUzNadVlobEFSMjJfLVNpVDl2NGQwMlZFRDhvV2JoUFJZelYtY1NPZlVQNHVNeEh3ckZHd2dCVQ?oc=5
 
-HK stocks rise as Nikkei, Kospi rally from AI selloff RTHK
+HK stocks rise as Nikkei, Kospi rally from AI selloff 香港電台新聞網
 
-### 32. AirTrunk postpones Singapore US$1.5 billion REIT IPO amid AI stock selloff: Report - W.Media
+### 33. AirTrunk postpones Singapore US$1.5 billion REIT IPO amid AI stock selloff: Report - W.Media
 
 - Source: W.Media
 - Published: 2026-10-14T02:52:00+00:00
@@ -326,7 +336,7 @@ HK stocks rise as Nikkei, Kospi rally from AI selloff RTHK
 
 AirTrunk postpones Singapore US$1.5 billion REIT IPO amid AI stock selloff: Report W.Media
 
-### 33. Asia shares edge up as chip selloff eases; US CPI awaited - The Star
+### 34. Asia shares edge up as chip selloff eases; US CPI awaited - The Star
 
 - Source: The Star
 - Published: 2026-10-14T01:59:00+00:00
@@ -336,7 +346,7 @@ AirTrunk postpones Singapore US$1.5 billion REIT IPO amid AI stock selloff: Repo
 
 Asia shares edge up as chip selloff eases; US CPI awaited The Star
 
-### 34. Asia shares inch up as chip selloff eases; US CPI awaited - Reuters
+### 35. Asia shares inch up as chip selloff eases; US CPI awaited - Reuters
 
 - Source: Reuters
 - Published: 2026-10-14T01:53:00+00:00
@@ -346,7 +356,7 @@ Asia shares edge up as chip selloff eases; US CPI awaited The Star
 
 Asia shares inch up as chip selloff eases; US CPI awaited Reuters
 
-### 35. US banks back AI boom despite market correction fears; JPMorgan, Goldman Sachs post higher profits - Moneycontrol.com
+### 36. US banks back AI boom despite market correction fears; JPMorgan, Goldman Sachs post higher profits - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-13T22:43:59+00:00
@@ -356,7 +366,7 @@ Asia shares inch up as chip selloff eases; US CPI awaited Reuters
 
 US banks back AI boom despite market correction fears; JPMorgan, Goldman Sachs post higher profits Moneycontrol.com
 
-### 36. Marvell Stocks Fall Although New AI Links Reach Customer Sampling - TradingView
+### 37. Marvell Stocks Fall Although New AI Links Reach Customer Sampling - TradingView
 
 - Source: TradingView
 - Published: 2026-10-13T21:05:56+00:00
@@ -366,7 +376,7 @@ US banks back AI boom despite market correction fears; JPMorgan, Goldman Sachs p
 
 Marvell Stocks Fall Although New AI Links Reach Customer Sampling TradingView
 
-### 37. Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile - TradingView
+### 38. Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile - TradingView
 
 - Source: TradingView
 - Published: 2026-10-13T20:49:06+00:00
@@ -376,7 +386,7 @@ Marvell Stocks Fall Although New AI Links Reach Customer Sampling TradingView
 
 Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile TradingView
 
-### 38. Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile - Yahoo Finance
+### 39. Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T20:49:06+00:00
@@ -386,7 +396,7 @@ Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile Tradin
 
 Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile Yahoo Finance
 
-### 39. Palantir Stocks Fall as Baird Lifts Its AI Target - TradingView
+### 40. Palantir Stocks Fall as Baird Lifts Its AI Target - TradingView
 
 - Source: TradingView
 - Published: 2026-10-13T20:48:11+00:00
@@ -396,7 +406,7 @@ Kioxia Stocks Fall 13.3% Before S&P Upgrades Its AI-Driven Credit Profile Yahoo 
 
 Palantir Stocks Fall as Baird Lifts Its AI Target TradingView
 
-### 40. Palantir Stocks Fall as Baird Lifts Its AI Target - Yahoo Finance
+### 41. Palantir Stocks Fall as Baird Lifts Its AI Target - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T20:48:11+00:00
@@ -406,7 +416,7 @@ Palantir Stocks Fall as Baird Lifts Its AI Target TradingView
 
 Palantir Stocks Fall as Baird Lifts Its AI Target Yahoo Finance
 
-### 41. Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments - TradingView
+### 42. Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments - TradingView
 
 - Source: TradingView
 - Published: 2026-10-13T20:47:22+00:00
@@ -416,7 +426,7 @@ Palantir Stocks Fall as Baird Lifts Its AI Target Yahoo Finance
 
 Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments TradingView
 
-### 42. Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments - Yahoo Finance
+### 43. Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T20:47:22+00:00
@@ -426,7 +436,7 @@ Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployme
 
 Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployments Yahoo Finance
 
-### 43. AI Selloff Drags Emerging Stocks Down, Weighs on Currency Gauge - Yahoo Finance
+### 44. AI Selloff Drags Emerging Stocks Down, Weighs on Currency Gauge - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T20:45:45+00:00
@@ -436,7 +446,7 @@ Cisco Stocks Fall Roughly 1% Although Its AI Launch Includes Production Deployme
 
 AI Selloff Drags Emerging Stocks Down, Weighs on Currency Gauge Yahoo Finance
 
-### 44. Dan Ives Says AI Stock Selloff ‘Opportunity to Own the Winners’: Here Are 7 Companies He Named - Benzinga
+### 45. Dan Ives Says AI Stock Selloff ‘Opportunity to Own the Winners’: Here Are 7 Companies He Named - Benzinga
 
 - Source: Benzinga
 - Published: 2026-10-13T20:36:47+00:00
@@ -446,7 +456,7 @@ AI Selloff Drags Emerging Stocks Down, Weighs on Currency Gauge Yahoo Finance
 
 Dan Ives Says AI Stock Selloff ‘Opportunity to Own the Winners’: Here Are 7 Companies He Named Benzinga
 
-### 45. Innodata: A 50% Selloff Masks Accelerating AI Growth (NASDAQ:INOD) - Seeking Alpha
+### 46. Innodata: A 50% Selloff Masks Accelerating AI Growth (NASDAQ:INOD) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-10-13T20:11:43+00:00
@@ -456,7 +466,7 @@ Dan Ives Says AI Stock Selloff ‘Opportunity to Own the Winners’: Here Are 7 
 
 Innodata: A 50% Selloff Masks Accelerating AI Growth (NASDAQ:INOD) Seeking Alpha
 
-### 46. Copper Slips as AI Selloff Saps Appetite for Risk Across Markets - Livemint
+### 47. Copper Slips as AI Selloff Saps Appetite for Risk Across Markets - Livemint
 
 - Source: Livemint
 - Published: 2026-10-13T19:49:31+00:00
@@ -466,7 +476,7 @@ Innodata: A 50% Selloff Masks Accelerating AI Growth (NASDAQ:INOD) Seeking Alpha
 
 Copper Slips as AI Selloff Saps Appetite for Risk Across Markets Livemint
 
-### 47. Credo Stocks Fall 5.1% as AI Cable's 2027 Timeline Takes Focus - Yahoo Finance
+### 48. Credo Stocks Fall 5.1% as AI Cable's 2027 Timeline Takes Focus - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T19:21:33+00:00
@@ -476,7 +486,7 @@ Copper Slips as AI Selloff Saps Appetite for Risk Across Markets Livemint
 
 Credo Stocks Fall 5.1% as AI Cable's 2027 Timeline Takes Focus Yahoo Finance
 
-### 48. Nvidia Stocks Fall as Copenhagen Adds a Blackwell Deployment - Yahoo Finance
+### 49. Nvidia Stocks Fall as Copenhagen Adds a Blackwell Deployment - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T19:09:01+00:00
@@ -486,7 +496,7 @@ Credo Stocks Fall 5.1% as AI Cable's 2027 Timeline Takes Focus Yahoo Finance
 
 Nvidia Stocks Fall as Copenhagen Adds a Blackwell Deployment Yahoo Finance
 
-### 49. IMF Raises Spain Growth Forecast to 2.5%, Warns of AI-Linked Stock Market Correction - finance.biggo.com
+### 50. IMF Raises Spain Growth Forecast to 2.5%, Warns of AI-Linked Stock Market Correction - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-10-13T18:27:00+00:00
@@ -496,7 +506,7 @@ Nvidia Stocks Fall as Copenhagen Adds a Blackwell Deployment Yahoo Finance
 
 IMF Raises Spain Growth Forecast to 2.5%, Warns of AI-Linked Stock Market Correction finance.biggo.com
 
-### 50. Applied Optoelectronics Slides 4.5% As AI Optics Selloff and Share-Supply Overhang Weigh on Sentiment - Quiver Quantitative
+### 51. Applied Optoelectronics Slides 4.5% As AI Optics Selloff and Share-Supply Overhang Weigh on Sentiment - Quiver Quantitative
 
 - Source: Quiver Quantitative
 - Published: 2026-10-13T17:36:00+00:00
@@ -506,7 +516,7 @@ IMF Raises Spain Growth Forecast to 2.5%, Warns of AI-Linked Stock Market Correc
 
 Applied Optoelectronics Slides 4.5% As AI Optics Selloff and Share-Supply Overhang Weigh on Sentiment Quiver Quantitative
 
-### 51. Watch Chip Selloff Spreads Globally, Apple Makes Smart Home Push - Bloomberg.com
+### 52. Watch Chip Selloff Spreads Globally, Apple Makes Smart Home Push - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-10-13T17:23:49+00:00
@@ -516,7 +526,7 @@ Applied Optoelectronics Slides 4.5% As AI Optics Selloff and Share-Supply Overha
 
 Watch Chip Selloff Spreads Globally, Apple Makes Smart Home Push Bloomberg.com
 
-### 52. Chip selloff pulls European stocks back from one-week high - Devdiscourse
+### 53. Chip selloff pulls European stocks back from one-week high - Devdiscourse
 
 - Source: Devdiscourse
 - Published: 2026-10-13T17:19:11+00:00
@@ -526,7 +536,7 @@ Watch Chip Selloff Spreads Globally, Apple Makes Smart Home Push Bloomberg.com
 
 Chip selloff pulls European stocks back from one-week high Devdiscourse
 
-### 53. IMF warns AI market correction could threaten global financial stability - Latest news from Azerbaijan
+### 54. IMF warns AI market correction could threaten global financial stability - Latest news from Azerbaijan
 
 - Source: Latest news from Azerbaijan
 - Published: 2026-10-13T17:01:25+00:00
@@ -536,7 +546,7 @@ Chip selloff pulls European stocks back from one-week high Devdiscourse
 
 IMF warns AI market correction could threaten global financial stability Latest news from Azerbaijan
 
-### 54. IMF Warns Of AI Market Correction, Cyber Threats To Financial System - Channels Television
+### 55. IMF Warns Of AI Market Correction, Cyber Threats To Financial System - Channels Television
 
 - Source: Channels Television
 - Published: 2026-10-13T16:36:55+00:00
@@ -546,7 +556,7 @@ IMF warns AI market correction could threaten global financial stability Latest 
 
 IMF Warns Of AI Market Correction, Cyber Threats To Financial System Channels Television
 
-### 55. IMF flags risks to global economy from AI market correction, war and debt - Reuters
+### 56. IMF flags risks to global economy from AI market correction, war and debt - Reuters
 
 - Source: Reuters
 - Published: 2026-10-13T16:15:03+00:00
@@ -556,7 +566,7 @@ IMF Warns Of AI Market Correction, Cyber Threats To Financial System Channels Te
 
 IMF flags risks to global economy from AI market correction, war and debt Reuters
 
-### 56. IMF warns AI market correction could threaten global financial stability - Anadolu Ajansı
+### 57. IMF warns AI market correction could threaten global financial stability - Anadolu Ajansı
 
 - Source: Anadolu Ajansı
 - Published: 2026-10-13T15:24:18+00:00
@@ -566,7 +576,7 @@ IMF flags risks to global economy from AI market correction, war and debt Reuter
 
 IMF warns AI market correction could threaten global financial stability Anadolu Ajansı
 
-### 57. IMF flags risks to global markets from war, debt and AI correction - CGTN
+### 58. IMF flags risks to global markets from war, debt and AI correction - CGTN
 
 - Source: CGTN
 - Published: 2026-10-13T15:22:09+00:00
@@ -576,7 +586,7 @@ IMF warns AI market correction could threaten global financial stability Anadolu
 
 IMF flags risks to global markets from war, debt and AI correction CGTN
 
-### 58. Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow - Morningstar
+### 59. Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow - Morningstar
 
 - Source: Morningstar
 - Published: 2026-10-13T14:28:27+00:00
@@ -586,7 +596,7 @@ IMF flags risks to global markets from war, debt and AI correction CGTN
 
 Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow Morningstar
 
-### 59. IMF warns of risks from AI market correction and war - Business Day
+### 60. IMF warns of risks from AI market correction and war - Business Day
 
 - Source: Business Day
 - Published: 2026-10-13T14:18:00+00:00
@@ -596,7 +606,7 @@ Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow Morningst
 
 IMF warns of risks from AI market correction and war Business Day
 
-### 60. IMF flags risks to global economy from AI market correction, war and debt - A News
+### 61. IMF flags risks to global economy from AI market correction, war and debt - A News
 
 - Source: A News
 - Published: 2026-10-13T14:00:11+00:00
@@ -606,7 +616,7 @@ IMF warns of risks from AI market correction and war Business Day
 
 IMF flags risks to global economy from AI market correction, war and debt A News
 
-### 61. Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean market rout - Yahoo Finance
+### 62. Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean market rout - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T13:49:44+00:00
@@ -616,7 +626,7 @@ IMF flags risks to global economy from AI market correction, war and debt A News
 
 Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean market rout Yahoo Finance
 
-### 62. Alice & Bob demonstrates GPU decoding for quantum error correction using NVIDIA NVQLink - Scientific Computing World
+### 63. Alice & Bob demonstrates GPU decoding for quantum error correction using NVIDIA NVQLink - Scientific Computing World
 
 - Source: Scientific Computing World
 - Published: 2026-10-13T13:48:19+00:00
@@ -626,7 +636,7 @@ Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean m
 
 Alice & Bob demonstrates GPU decoding for quantum error correction using NVIDIA NVQLink Scientific Computing World
 
-### 63. IMF warns AI market correction, cyber threats could shake global financial system - Malay Mail
+### 64. IMF warns AI market correction, cyber threats could shake global financial system - Malay Mail
 
 - Source: Malay Mail
 - Published: 2026-10-13T13:04:43+00:00
@@ -636,7 +646,7 @@ Alice & Bob demonstrates GPU decoding for quantum error correction using NVIDIA 
 
 IMF warns AI market correction, cyber threats could shake global financial system Malay Mail
 
-### 64. IMF Warns of Cyber Threats to Finance and AI Market Correction - Asia Financial
+### 65. IMF Warns of Cyber Threats to Finance and AI Market Correction - Asia Financial
 
 - Source: Asia Financial
 - Published: 2026-10-13T12:56:32+00:00
@@ -646,7 +656,7 @@ IMF warns AI market correction, cyber threats could shake global financial syste
 
 IMF Warns of Cyber Threats to Finance and AI Market Correction Asia Financial
 
-### 65. Alice & Bob Tests GPU Decoding for Cat-Qubit Error Correction with NVIDIA NVQLink - HPCwire
+### 66. Alice & Bob Tests GPU Decoding for Cat-Qubit Error Correction with NVIDIA NVQLink - HPCwire
 
 - Source: HPCwire
 - Published: 2026-10-13T12:55:25+00:00
@@ -656,7 +666,7 @@ IMF Warns of Cyber Threats to Finance and AI Market Correction Asia Financial
 
 Alice & Bob Tests GPU Decoding for Cat-Qubit Error Correction with NVIDIA NVQLink HPCwire
 
-### 66. IMF Warns AI Market Correction Could Spread Globally - FindArticles
+### 67. IMF Warns AI Market Correction Could Spread Globally - FindArticles
 
 - Source: FindArticles
 - Published: 2026-10-13T12:43:09+00:00
@@ -666,7 +676,7 @@ Alice & Bob Tests GPU Decoding for Cat-Qubit Error Correction with NVIDIA NVQLin
 
 IMF Warns AI Market Correction Could Spread Globally FindArticles
 
-### 67. IMF flags risks to global economy from AI market correction, war and debt - MSN
+### 68. IMF flags risks to global economy from AI market correction, war and debt - MSN
 
 - Source: MSN
 - Published: 2026-10-13T12:11:27+00:00
@@ -676,7 +686,7 @@ IMF Warns AI Market Correction Could Spread Globally FindArticles
 
 IMF flags risks to global economy from AI market correction, war and debt MSN
 
-### 68. AI Selloff Drags China And Hong Kong Stocks Lower - Finimize
+### 69. AI Selloff Drags China And Hong Kong Stocks Lower - Finimize
 
 - Source: Finimize
 - Published: 2026-10-13T11:54:25+00:00
@@ -686,7 +696,7 @@ IMF flags risks to global economy from AI market correction, war and debt MSN
 
 AI Selloff Drags China And Hong Kong Stocks Lower Finimize
 
-### 69. IMF warns $1.4tn in circular AI deals could deepen a market correction - The Next Web
+### 70. IMF warns $1.4tn in circular AI deals could deepen a market correction - The Next Web
 
 - Source: The Next Web
 - Published: 2026-10-13T11:38:10+00:00
@@ -696,7 +706,7 @@ AI Selloff Drags China And Hong Kong Stocks Lower Finimize
 
 IMF warns $1.4tn in circular AI deals could deepen a market correction The Next Web
 
-### 70. Chip Stocks Extend Selloff? SK Hynix, SanDisk, Micron Tumble In Pre-market Following China's Memory Push - NDTV Profit
+### 71. Chip Stocks Extend Selloff? SK Hynix, SanDisk, Micron Tumble In Pre-market Following China's Memory Push - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-13T10:52:30+00:00
@@ -705,16 +715,6 @@ IMF warns $1.4tn in circular AI deals could deepen a market correction The Next 
 - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQYUd5MmE5R2Z0ZkVZRF9CdWhXQjBsTlpydXNoTU1Wd29EUzlKRWFpMGNjNlc1NnlWQmJpcmdKT0p6WjZyVEFCY3I2eUgtb3lZQ1dyMEZrcnM2WlZDbERublktV2NvSURCVjZnS0xZVENERTc3YnV1Xy0zaHhlYXJPUDdiSHBPQ3JXZVRaYnNfNXJOU1U0TkFYN1AyZzBMcEhOY2J2b0ZlNmdXYUpzcU9yblJqVjhINlluS0Q5c3ZsT0NnUDBDVEl6a0VRZzIzekZqSG5BQ2EzNW8zbmNP0gHkAUFVX3lxTE1hMU1Gc2huTlgyYjNFaHlUU2FKc3luUU9NU2NmQ3owdEhnOHdZN0Y3V3F3TU9UelNUdURGekgxUXZuUkdXeFVpamxPNUI4TkdCU1o1cG90MWc5VkRlRVZ0UVJreGFGd3pmdmV2QVNHZ1RFNWVGM042M003QWJHTklDWVIzTnJubEt1UFFBRXpkWnJHMnloTVVQbFBQdmhvbG1YWk1kRFdaUlNBTThHa3F0Sk5Hb2JGek9mZTlCZlZscHVMcGczUUlBM2EtNGktcXoxUkVkVTRzcFkzNklOSGxLYjc3RA?oc=5
 
 Chip Stocks Extend Selloff? SK Hynix, SanDisk, Micron Tumble In Pre-market Following China's Memory Push NDTV Profit
-
-### 71. IMF flags risks to global economy from AI market correction, war and debt - Miami Herald
-
-- Source: Miami Herald
-- Published: 2026-10-13T10:12:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTFA4UTlubG00UklFdjh5SUswWVl5R3RrTjduOW5hTnB2X3lXZjhoS3h3T2xEYXBtbXc2eDBpMDhXZ09nZEFFSl9WMXoxZTF6cEFXWXFpY3NHUHFJRlNlRmhKWkptQWxydmF2SEpwNUt2dFI?oc=5
-
-IMF flags risks to global economy from AI market correction, war and debt Miami Herald
 
 ### 72. IMF flags risks to global economy from AI market correction, war and debt - Yahoo Finance UK
 
@@ -786,7 +786,17 @@ AI investors or casino gamblers? What Broadcom CEO Hock Tan said that sparked sh
 
 Nifty Prediction Today – October 14, 2026: Nifty futures: Minor correction might precede a breakout BusinessLine
 
-### 79. Nifty 500: Transformers and Rectifiers surge 15% on Q2 result, BoB falls 3%; Check others - CNBC TV18
+### 79. PSU stocks today, October 14: IDBI Bank gains 7.19%, Central Bank of India up 4.11%; Bank of Baroda falls 2.89% - Business Upturn
+
+- Source: Business Upturn
+- Published: 2026-10-14T05:01:59+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMWdPZWV2a3JIM2ZuT2ltemgzUWhQS0hSQ0ZqdEdTNUpRN0RkUkVIcThvVHhYemh4VlpWQVRmSVFTLWZkMG9sUDYwa3JNQ1pxSzBFOWczNkp3eFdlREdCVF8ydi1GWU9XcGx4dmFFQVJfYlBlTzd3UnZtWGxUSkE1ZTFIX054T3ZlaUtaeDF5ZjhUNmxqaVA4Zk1SeEx3Zm5XOU9XZ2YtcE5mNTEyNUE2RjFaMHgyTHNmSjVZa1h6Mm0zNEJWb2xRMUxmYXZiUWFjVE5kRHZvOG5zb1ZuNzhiel9JWi0xLV9m?oc=5
+
+PSU stocks today, October 14: IDBI Bank gains 7.19%, Central Bank of India up 4.11%; Bank of Baroda falls 2.89% Business Upturn
+
+### 80. Nifty 500: Transformers and Rectifiers surge 15% on Q2 result, BoB falls 3%; Check others - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-14T04:32:07+00:00
@@ -795,13 +805,3 @@ Nifty Prediction Today – October 14, 2026: Nifty futures: Minor correction mig
 - Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxOX1hqVFRNcVc3ZEFPb2l1bTFVbUpoLWFndDJHbXpRbjdlVzhmOFRSdkVRa1FsQzI4SnZyaDdta2F2QVdHZXQ5UHU5WXBFc0dyVXhET0hDWHdMT3YwcVFoNmJEdmM4RHc3TDY1R1ktMXFkdW5hUU1uOU9LZDBfWVlUa3lVdmhnOTV4ZTFwRTZ1ak9LdzVSUktIMWk4bU9remFDSUV0Tm9ub2dVYldobV9mMzJ2cEF3VmV2YkNrYnhmcDctYXJfVjROYUw3bkljbmFVWUlSMG9fMGRqM3VuSWFCakNBV1ZxSGdKd05qOHFNMlh6b2g0bDU4X9IB-AFBVV95cUxOX1hqVFRNcVc3ZEFPb2l1bTFVbUpoLWFndDJHbXpRbjdlVzhmOFRSdkVRa1FsQzI4SnZyaDdta2F2QVdHZXQ5UHU5WXBFc0dyVXhET0hDWHdMT3YwcVFoNmJEdmM4RHc3TDY1R1ktMXFkdW5hUU1uOU9LZDBfWVlUa3lVdmhnOTV4ZTFwRTZ1ak9LdzVSUktIMWk4bU9remFDSUV0Tm9ub2dVYldobV9mMzJ2cEF3VmV2YkNrYnhmcDctYXJfVjROYUw3bkljbmFVWUlSMG9fMGRqM3VuSWFCakNBV1ZxSGdKd05qOHFNMlh6b2g0bDU4Xw?oc=5
 
 Nifty 500: Transformers and Rectifiers surge 15% on Q2 result, BoB falls 3%; Check others CNBC TV18
-
-### 80. Sensex, Nifty open flat as crude oil and FII outflows weigh - India Today
-
-- Source: India Today
-- Published: 2026-10-14T04:07:48+00:00
-- Themes: India market, macro / flows
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPV3gyaE1IdHZaVzFPNUF0bERMSmNVbjJaUTk1Wk0xRHVWd1pjcV9KMFd6VkM0RG00RW1LSmVVU1R1NVNoQ0JkY1dpU2xSNGJRWHNoc1ZxNTRDUURMS2g0cVdzTThnVVVjaWYtcmhtZDg3V1M3N0s0MWVsbl9FUkREVl9pSVZ0QkQ0UnBRS3Jrdkp4VDhXU2t6RmoxRG42NXItck9Xd0dWQ3dkcy05cmE3OVFvdjVVcGV0M0hCYTZIQzlKSTBkVzBFNlF4UmFQOGRyekhB0gHTAUFVX3lxTE9XeDJoTUh0dlpXMU81QXRsRExKY1VuMlpROTVaTTFEdVZ3WmNxX0owV3pWQzREbTRFbUtKZVVTVHU1U2hDQmRjV2lTbFI0YlFYc2hzVnE1NENRRExLaDRxV3NNOGdVVWNpZi1yaG1kODdXUzc3SzQxZWxuX0VSRERWX2lJVnRCRDRScFFLcmt2SnhUOFdTa3pGajFEbjY1ci1yT1d3R1ZDd2RzLTlyYTc5UW92NVVwZXQzSEJhNkhDOUpJMGRXMEU2UXhSYVA4ZHJ6SEE?oc=5
-
-Sensex, Nifty open flat as crude oil and FII outflows weigh India Today
