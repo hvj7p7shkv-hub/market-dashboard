@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-14 04:37
+Generated: 2026-10-14 05:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -92,7 +92,7 @@ Broadcom’s AI Durability Warning Triggers Sharp Drop In SK Hynix, Samsung In K
 - Published: 2026-10-14T02:35:11+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxNWkNaNkFvdTQ4OGVTLVpTTGt3MnJmTElQQVZ2dURFSFNYNTVrbERWVE9RR1FIY1QtemFhWTRXOVh2UGlnblZsNV9aclVubHNPNS1TWWpvNlR3VnN2RHRYRzJ3VGxoU2U4VVJ2clNkWFVRVTU5ZFh6cVRFbGljWlExX3Z0QmY3THlPNTFMNlJCQzFETHFvLWI5WW1SaHN1QjlFUmo0Z1Y3ZUhNaXY4UndZdDlVNzcybGhtSFU4TFlxc1hXY2F3MjAyMEkxZW9lc1ZlbFRUU1B2RldSYlhNWmNFcVNBVWlvMTYzemphbkNxam5LWmg2WXoxX0U5Ym1Ld1V40gGGAkFVX3lxTE95c2hQZFBmYzRONTdyU21XRWt5Z21fTndGcDRZa1UxRzhTZjkyY19IQmxZSW53OG0zZDVoanZOOGFlQnpVTlNEWWpsMXVRcWxrWDRoMHRjQ2tzc2QyOWIzYlhRZFZ0eU9iVjZ1OG50QU1ZQzFYRnh4dHpOcUxfTFZreU5ra3lBWVdaOVZBUm9hb2xnUVVYZWYzVTlOazYyOEctNzRzTHZJWkRVOGg0WDVYSGlDalhBQ1JLVVdfM2E4dV9vSVJGYk5QazJRX0U1YXgtSEZWbVZ3eGp6ZEUyQ2IyTWJfUXV1bTdZVDdPbGFXMDQydzVBMkFwT3RmLVh1ZjhOYnJDbVE?oc=5
+- Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxPeXNoUGRQZmM0TjU3clNtV0VreWdtX053RnA0WWtVMUc4U2Y5MmNfSEJsWUludzhtM2Q1aGp2TjhhZUJ6VU5TRFlqbDF1UXFsa1g0aDB0Y0Nrc3NkMjliM2JYUWRWdHlPYlY2dThudEFNWUMxWEZ4eHR6TnFMX0xWa3lOa2t5QVlXWjlWQVJvYW9sZ1FVWGVmM1U5Tms2MjhHLTc0c0x2SVpEVThoNFg1WEhpQ2pYQUNSS1VXXzNhOHVfb0lSRmJOUGsyUV9FNWF4LUhGVm1Wd3hqemRFMkNiMk1iX1F1dW03WVQ3T2xhVzA0Mnc1QTJBcE90Zi1YdWY4TmJyQ21R0gGGAkFVX3lxTE95c2hQZFBmYzRONTdyU21XRWt5Z21fTndGcDRZa1UxRzhTZjkyY19IQmxZSW53OG0zZDVoanZOOGFlQnpVTlNEWWpsMXVRcWxrWDRoMHRjQ2tzc2QyOWIzYlhRZFZ0eU9iVjZ1OG50QU1ZQzFYRnh4dHpOcUxfTFZreU5ra3lBWVdaOVZBUm9hb2xnUVVYZWYzVTlOazYyOEctNzRzTHZJWkRVOGg0WDVYSGlDalhBQ1JLVVdfM2E4dV9vSVJGYk5QazJRX0U1YXgtSEZWbVZ3eGp6ZEUyQ2IyTWJfUXV1bTdZVDdPbGFXMDQydzVBMkFwT3RmLVh1ZjhOYnJDbVE?oc=5
 
 GIFT Nifty Falls 87 Points, Signals Cautious Opening For Indian Markets Today; Crude Oil, US-Iran Tensions News18
 
@@ -186,17 +186,7 @@ Semiconductor selloff: 10 chip stocks showing signs of oversold conditions Tradi
 
 Semiconductor selloff: 10 chip stocks showing signs of oversold conditions (SMH:NASDAQ) Seeking Alpha
 
-### 19. AI and Chip Stock Selloff (Micron, SK Hynix, Korea Rout, Nasdaq) - Gotrade
-
-- Source: Gotrade
-- Published: 2026-10-13T10:00:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQUTdNZi04R0FpVVI2WVo4Q2pjTUtWVFp2ckJqWWhIaWk5ZUVTTll5YUpYbW5BYzVWSDl1UnJkUFY5VnZFWW16TVBOZ2tzcU9CREw3ZUF3ZnJFc21uY2xqQWl3ZTYyUVV4cVIzQzV4U0tfc1pqcTFITHlkSVJRTm1EbDhOY21jc0JvOHk0UTdBQ2s2Tmh5MmFrOXFqbw?oc=5
-
-AI and Chip Stock Selloff (Micron, SK Hynix, Korea Rout, Nasdaq) Gotrade
-
-### 20. IMF warns of AI correction and rising bond yields as global market risks - Hedgeweek
+### 19. IMF warns of AI correction and rising bond yields as global market risks - Hedgeweek
 
 - Source: Hedgeweek
 - Published: 2026-10-13T09:50:56+00:00
@@ -206,17 +196,17 @@ AI and Chip Stock Selloff (Micron, SK Hynix, Korea Rout, Nasdaq) Gotrade
 
 IMF warns of AI correction and rising bond yields as global market risks Hedgeweek
 
-### 21. Chip selloff deepens amid AI trade fears, rising Chinese competition - TradingView
+### 20. Chip selloff deepens amid AI trade fears, rising Chinese competition - TradingView
 
 - Source: TradingView
 - Published: 2026-10-13T09:01:06+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTlBOcUdwaFE2YUpuT0hwdlZRWU1BUHZ4bEhVWWpvZE0tRm1yMHRrV29TU0diNlpvbE0zZnp5cUY5MzFaOE90R3Q0dDg4U3lCR1JUMXNhenZFU2VXdUtrdWhyZDEyU0pjSzN5RTR5VHowdnd3OWR4ZFR5OV83cFdDNG45QWZ1dFV3OVJxTE95R3Nja0JUREcxSEZBVTdtT3FuY0NhdU1QZ2Z1RnoxbEYtUm9nX1NQZzVMWUpyT3I2YVc0UFQ1emlWcQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ0Z2WHBROW9waHJMSDJaR09EZVBmMzEzc0lRSFBYbWZzdnNLSk1ZX0h5WVpIblJLNWlFZ0dtbVYyMERHRHJ5RmRJY1ZEaUVaVl9PSkZXci10Ym5rWmZVTzcwSVF2ZWduRjNCZGcxSzNZTFdmejZUaHRpSnJ4bTdTNGRpbGJOYWNtWkhGVkNvRFF1anlQR3hmSjhsQ1F5X3lwOVhNaG5VWWV5ZU1tcDRyeE5vaDBGYnl1cURRUUk4Vml4UXM0bVdCbWRn?oc=5
 
 Chip selloff deepens amid AI trade fears, rising Chinese competition TradingView
 
-### 22. Global chip selloff deepens as AI worries, China competition weigh - Yahoo Finance
+### 21. Global chip selloff deepens as AI worries, China competition weigh - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T08:56:57+00:00
@@ -226,7 +216,7 @@ Chip selloff deepens amid AI trade fears, rising Chinese competition TradingView
 
 Global chip selloff deepens as AI worries, China competition weigh Yahoo Finance
 
-### 23. Nasdaq Futures Fall as Global AI Selloff Intensifies - marketscreener.com
+### 22. Nasdaq Futures Fall as Global AI Selloff Intensifies - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-13T08:42:25+00:00
@@ -235,6 +225,16 @@ Global chip selloff deepens as AI worries, China competition weigh Yahoo Finance
 - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZzZ3cTNGZ1ZHUE4waWJ0RllVdm1zNGdKSjVkWk5tWUo0a1dnUUdhU2l5ckd4ZkcwSHZhdjYxd1dFeFAzajFDQnpJX0s1ZjBaM2lpQjItTEJFcURWOHJkWEJHYURJNm50aE9kVnF1aHJSQl9NZzhFZFBaY3F5V0JHTXdHR2RNb0pVNGNfNG5sZ0tIMnAxWkpqOWxjbmdnclgwTkRDeGhUNTA?oc=5
 
 Nasdaq Futures Fall as Global AI Selloff Intensifies marketscreener.com
+
+### 23. IMF’s Georgieva Warns AI Disappointment Could Lead to Market Correction - kaohoon international
+
+- Source: kaohoon international
+- Published: 2026-10-14T05:02:53+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xWjRmSFg1X0RleUpQdTlONTVaYVU0bU94dkFiOVJ0NlRMZWFaclB6U3BCc0drdlU1Tm1PSnB1RnAtT255VDhRN25VUHFSQ0dRazlmY1R2cGtTczY5V1JmQg?oc=5
+
+IMF’s Georgieva Warns AI Disappointment Could Lead to Market Correction kaohoon international
 
 ### 24. Stock Market Today: Sensex Falls Over 60 Points, Nifty Tests 22,680 - Times Now
 
@@ -266,15 +266,15 @@ HK stocks rise as Nikkei, Kospi rally from AI selloff 香港電台新聞網
 
 AirTrunk postpones Singapore US$1.5 billion REIT IPO amid AI stock selloff: Report W.Media
 
-### 27. Asia shares edge up as chip selloff eases; US CPI awaited - The Star
+### 27. Asia shares edge up as chip selloff eases; US CPI awaited - Reuters
 
-- Source: The Star
-- Published: 2026-10-14T01:59:00+00:00
+- Source: Reuters
+- Published: 2026-10-14T01:53:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOZWxEV3NxYzRCQ0I2aGZySXFYdEQ0Y1RTTUZiZUFBSkpYaHdacUt5OVVaOXR1OTdxNnpyWlpXbWVrcm0wazRfbDVnb1dMUjNZYkpwZEg2OE4tOHIwN0RQRms3Rnd2S0RTNVMyWGJYSTd6RU5XSkZWYUgtaFlLbHNaSXNwQXpDdk04U2c3M0E5QTBIcW5zZE9PVXBZYzJqemp2TFhIWmVVbWhtWUY4czM2X1BKdG9hYXFR?oc=5
+- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNcE96RkhyZDBlQ2VWRERNYlZtdm5FaVdQSXF2M3ZtR3JIOU05UExLWnZ3dmFBY1NZcndTRlozR29sdmxWaExXUmIycmZPZGk3UXI1amRxTDR6WHpSQl82ckhxZ016SnZYdGtPdC14TnZVWlpjeHl4SW5pUnJKbjl2M0pzcw?oc=5
 
-Asia shares edge up as chip selloff eases; US CPI awaited The Star
+Asia shares edge up as chip selloff eases; US CPI awaited Reuters
 
 ### 28. US banks back AI boom despite market correction fears; JPMorgan, Goldman Sachs post higher profits - Moneycontrol.com
 
@@ -496,7 +496,17 @@ IMF warns AI market correction could threaten global financial stability Anadolu
 
 IMF flags risks to global markets from war, debt and AI correction CGTN
 
-### 50. IMF warns of risks from AI market correction and war - Business Day
+### 50. Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow - Morningstar
+
+- Source: Morningstar
+- Published: 2026-10-13T14:28:27+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeHdLeFZsUUFNWERDdFJpanNiWGlhS19nUWN4dFhhXy13bE45WmFMVkdpcU9wclN5d1JpZFByZ2tQdlZDQ1dLVk5QRHV2SXEzVzhUMzlmRkUtNVFNSDBKMV9qal80LXlrN2JJRzVSTFRIYVp5OERjeU82WGVpZzhiNlE0aXprWW1ia2hnUjZldFc1bmtVc0h4NkZySE5MSGV5MjVtejh1RXhVZw?oc=5
+
+Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow Morningstar
+
+### 51. IMF warns of risks from AI market correction and war - Business Day
 
 - Source: Business Day
 - Published: 2026-10-13T14:18:00+00:00
@@ -506,7 +516,7 @@ IMF flags risks to global markets from war, debt and AI correction CGTN
 
 IMF warns of risks from AI market correction and war Business Day
 
-### 51. IMF flags risks to global economy from AI market correction, war and debt - A News
+### 52. IMF flags risks to global economy from AI market correction, war and debt - A News
 
 - Source: A News
 - Published: 2026-10-13T14:00:11+00:00
@@ -516,7 +526,7 @@ IMF warns of risks from AI market correction and war Business Day
 
 IMF flags risks to global economy from AI market correction, war and debt A News
 
-### 52. Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean market rout - Yahoo Finance
+### 53. Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean market rout - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-13T13:49:44+00:00
@@ -526,7 +536,7 @@ IMF flags risks to global economy from AI market correction, war and debt A News
 
 Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean market rout Yahoo Finance
 
-### 53. Alice & Bob demonstrates GPU decoding for quantum error correction using NVIDIA NVQLink - Scientific Computing World
+### 54. Alice & Bob demonstrates GPU decoding for quantum error correction using NVIDIA NVQLink - Scientific Computing World
 
 - Source: Scientific Computing World
 - Published: 2026-10-13T13:48:19+00:00
@@ -535,16 +545,6 @@ Micron, SK Hynix stocks tumble as chip sell-off deepens following South Korean m
 - Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQbTZlX292dDNGREp1cmlVQkM5dmdINVBhQnotOGdsUGNSLTRXWmw1bVJFNzBHVEFmdVdOcUpQaWtSSkttd1VJdk93SUpHTGVraXAtRGNSRWR4WlY3VGhFUzl3cnFjYmVtbFpIVXExY2hnV2Rlc0s4NS1GelhiUjk1Z0tjaDBQZWswb3F1cDh1Q2hfdUxQLTFRbE5iVDZraF9oTndQMXZXTW43UExLR3E3a3Rnei1FUEt5ZXlXME5fOU41dHNI?oc=5
 
 Alice & Bob demonstrates GPU decoding for quantum error correction using NVIDIA NVQLink Scientific Computing World
-
-### 54. Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow - Morningstar
-
-- Source: Morningstar
-- Published: 2026-10-13T13:41:28+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNc0pESE1zWThGUENxX1pwODlQVGdRNzh4MGxaNXlaamh2QnBXRTd3TFFnRnFtWmtMcnVTQTN4ZjNZUzRITWlJVGZ2RkpnNDl2Z2JGbjA0R2lCZnEyU3BGTmlxUW54ZDNkLS1UN2FqLWl5NUpHZHk4V2hUS3JNVnlncDBYeGJMeUpmWUVzOFhoa2c3Zm1lcHh0VUdhV29PRjlIS19yUlJxZmZYUQ?oc=5
-
-Samsung and SK Hynix Lead Chip Selloff as China Competition Fears Grow Morningstar
 
 ### 55. IMF warns AI market correction, cyber threats could shake global financial system - Malay Mail
 
@@ -736,17 +736,7 @@ IMF Warns AI Market Correction Could Trigger Global Financial Turmoil Unite.AI
 
 IMF warns of AI market correction, cyber threats to financial system The Hindu
 
-### 74. International Monetary Fund warns of AI-driven market correction in global economy - The Irish Times
-
-- Source: The Irish Times
-- Published: 2026-10-13T05:20:24+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR19EWHN4Y1h2X25IRzcxSkpneHhqdGJSQXQ5cGxyMmRqTkg0V013WmItY1lLVVlKRnluTkZKWTViNHIzYmhZWk1JdWdINk5OUGw5cFc5X05aamYzTGJmTjVBc3VLOHlweENabW1MMlk2SGpIZmVGUERWaXJ1Rm1aTnNCT1R6V1dnLWI0UzhwYUVsaURzYTlEbkt4NFhka3dzckRyQmpYU1BFQQ?oc=5
-
-International Monetary Fund warns of AI-driven market correction in global economy The Irish Times
-
-### 75. Sensex falls 300 pts from day's high, Nifty below 22,500: Key reasons behind market paring gains - Moneycontrol.com
+### 74. Sensex falls 300 pts from day's high, Nifty below 22,500: Key reasons behind market paring gains - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-13T05:13:28+00:00
@@ -755,6 +745,16 @@ International Monetary Fund warns of AI-driven market correction in global econo
 - Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxQS3RIc0JDMHZGcVFhcXo2azJzMWJFdHQ2ZzdQdC1INGc1bTNZdXZWWmxiZ0FtZmx0ZW10Q3ZHWHdLWDhlWUtlcTdkSzJZQWJ1eXdGcWtwajE5eEZiTE8zNzRJTUlFUlFoYWMwTEVETEdNWE9vX2swbklsSFBWbTlvLTdZd01nZVBxb1RXNFZVU0p1YnNCcFhJQXFfdHdMWHh1N2VvdFZsU2pZMC1GbGdtdnRoSGNIYjlWQ2hSQXEwclgwUTB6eHJVRlNmdXhGU012YlVXVWE2dFlNX0hrcjJZbnh6eUxhRnZoendmNy1GZ9IB9AFBVV95cUxNUU1wRDJZb2lnRWdfTy1wMW95SXVwaWRIdXI4VXBaRnF6cjB4TmZSS2tMMVJNNE50TTVSbWtyaDlWUlA2WWJQbmx3Zmw1YkF6WGVfdUZzWmVWYS1tb3BFNF82Q2RsTG9hNk1kQ19VbjhoWGxZakhTeVVZZl9jd1dnT1J2N0JsREpYVndjODhhNWlIWEI0ZW5RVFVXemVtNmx4X3djY0dOdWh1V21rRjdGNXNPTmdLSmV1MGxIZ2otODJYdW9KblRSNGpGcXhwZWtuUno3LW1vYlU2eVVQQ3ZFdnR6NWk0YnVHX25GTDFTWXpaOEY3?oc=5
 
 Sensex falls 300 pts from day's high, Nifty below 22,500: Key reasons behind market paring gains Moneycontrol.com
+
+### 75. PSU stocks today, October 14: IDBI Bank gains 7.19%, Central Bank of India up 4.11%; Bank of Baroda falls 2.89% - Business Upturn
+
+- Source: Business Upturn
+- Published: 2026-10-14T05:01:59+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMWdPZWV2a3JIM2ZuT2ltemgzUWhQS0hSQ0ZqdEdTNUpRN0RkUkVIcThvVHhYemh4VlpWQVRmSVFTLWZkMG9sUDYwa3JNQ1pxSzBFOWczNkp3eFdlREdCVF8ydi1GWU9XcGx4dmFFQVJfYlBlTzd3UnZtWGxUSkE1ZTFIX054T3ZlaUtaeDF5ZjhUNmxqaVA4Zk1SeEx3Zm5XOU9XZ2YtcE5mNTEyNUE2RjFaMHgyTHNmSjVZa1h6Mm0zNEJWb2xRMUxmYXZiUWFjVE5kRHZvOG5zb1ZuNzhiel9JWi0xLV9m?oc=5
+
+PSU stocks today, October 14: IDBI Bank gains 7.19%, Central Bank of India up 4.11%; Bank of Baroda falls 2.89% Business Upturn
 
 ### 76. Nifty 500: Transformers and Rectifiers surge 15% on Q2 result, BoB falls 3%; Check others - CNBC TV18
 
