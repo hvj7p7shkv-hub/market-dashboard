@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T18:03:49+05:30",
+  "generated_at": "2026-10-14T20:14:38+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -14,8 +14,8 @@
       "up_turnover_share_pct": 32.6,
       "down_turnover_share_pct": 67.4,
       "high_volume_decliners": 2,
-      "intraday_quotes": 58,
-      "daily_fallbacks": 0,
+      "intraday_quotes": 57,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-10-14",
       "as_of_timestamp": "2026-10-14 15:25 IST",
       "stale_rows_excluded": 2
@@ -122,8 +122,8 @@
         "count": 13,
         "advancers": 5,
         "decliners": 8,
-        "average_1d_pct": -0.628,
-        "average_volume_ratio_20d": 0.716
+        "average_1d_pct": -0.588,
+        "average_volume_ratio_20d": 0.718
       },
       {
         "sector": "Health technology",
@@ -503,23 +503,6 @@
         "alert": ""
       },
       {
-        "symbol": "HAPPYFORGE",
-        "ticker": "HAPPYFORGE.NS",
-        "name": "Happy Forging Limited",
-        "sector": "Producer manufacturing",
-        "ltp": 1907.7,
-        "previous_close": 1936.6,
-        "day_move_pct": -1.4923,
-        "session_volume": 46067.0,
-        "average_volume_20d": 94769.0,
-        "volume_ratio_20d": 0.486,
-        "turnover_proxy": 87882014.0,
-        "quote_date": "2026-10-14",
-        "quote_timestamp": "2026-10-14 15:25 IST",
-        "quote_type": "Yahoo 5-minute quote",
-        "alert": ""
-      },
-      {
         "symbol": "SUNPHARMA",
         "ticker": "SUNPHARMA.NS",
         "name": "Sun Pharmaceutical Industries Limited",
@@ -548,6 +531,23 @@
         "average_volume_20d": 372244.0,
         "volume_ratio_20d": 0.82,
         "turnover_proxy": 1398667880.0,
+        "quote_date": "2026-10-14",
+        "quote_timestamp": "2026-10-14 15:25 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "OMNI",
+        "ticker": "OMNI.NS",
+        "name": "Omnitech Engineering Limited",
+        "sector": "Producer manufacturing",
+        "ltp": 644.95,
+        "previous_close": 653.45,
+        "day_move_pct": -1.3008,
+        "session_volume": 296856.0,
+        "average_volume_20d": 1047792.0,
+        "volume_ratio_20d": 0.283,
+        "turnover_proxy": 191457281.0,
         "quote_date": "2026-10-14",
         "quote_timestamp": "2026-10-14 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -834,16 +834,16 @@
         "ticker": "HAPPYFORGE.NS",
         "name": "Happy Forging Limited",
         "sector": "Producer manufacturing",
-        "ltp": 1907.7,
+        "ltp": 1917.7,
         "previous_close": 1936.6,
-        "day_move_pct": -1.4923,
-        "session_volume": 46067.0,
+        "day_move_pct": -0.9759,
+        "session_volume": 48948.0,
         "average_volume_20d": 94769.0,
-        "volume_ratio_20d": 0.486,
-        "turnover_proxy": 87882014.0,
+        "volume_ratio_20d": 0.516,
+        "turnover_proxy": 93867577.0,
         "quote_date": "2026-10-14",
-        "quote_timestamp": "2026-10-14 15:25 IST",
-        "quote_type": "Yahoo 5-minute quote",
+        "quote_timestamp": "2026-10-14 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
