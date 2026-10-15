@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-15 07:07
+Generated: 2026-10-15 07:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -126,7 +126,17 @@ Closing Bell: Sensex Falls 252 Points, Nifty 50 Slips Below 22,650 as Crude Oil 
 
 Sensex, Nifty Fall as Crude, FPI Outflows Hit Sentiment HDFC Sky
 
-### 13. Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling weigh on markets - Public TV English
+### 13. SK Hynix Falls to $157 as AI Chip Selloff Deepens - VT Markets
+
+- Source: VT Markets
+- Published: 2026-10-14T10:31:34+00:00
+- Themes: AI / tech risk, market selling
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQRDc2eXVoeXNuT0xIbl9WaHcwR2w5b1FBZjI3Qlk0QWpFMkVqdV94RFBRTWpfR21tSTYyU1lpUTJkMU5Ld3hwaEdfVHJsVVhxeVRKY1hPdWxDZjluN1FWaXdSbURGMHdzOE5MaTZfUW1fR2ZpZ2ZSdnlJeHd5RXpNd1ZWSkZESDV5OWozZGtQTzVMdkNa?oc=5
+
+SK Hynix Falls to $157 as AI Chip Selloff Deepens VT Markets
+
+### 14. Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling weigh on markets - Public TV English
 
 - Source: Public TV English
 - Published: 2026-10-14T10:28:51+00:00
@@ -136,7 +146,7 @@ Sensex, Nifty Fall as Crude, FPI Outflows Hit Sentiment HDFC Sky
 
 Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling weigh on markets Public TV English
 
-### 14. Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling weigh on markets - ChiniMandi
+### 15. Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling weigh on markets - ChiniMandi
 
 - Source: ChiniMandi
 - Published: 2026-10-14T10:27:40+00:00
@@ -146,7 +156,7 @@ Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling wei
 
 Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling weigh on markets ChiniMandi
 
-### 15. KOSPI Crashes 7% as AI Chip Selloff Wipes Out South Korean Stocks - CryptoRank
+### 16. KOSPI Crashes 7% as AI Chip Selloff Wipes Out South Korean Stocks - CryptoRank
 
 - Source: CryptoRank
 - Published: 2026-10-15T07:02:36+00:00
@@ -156,7 +166,7 @@ Sensex falls 252 points, Nifty slips to 22,622, as rising crude, FII selling wei
 
 KOSPI Crashes 7% as AI Chip Selloff Wipes Out South Korean Stocks CryptoRank
 
-### 16. Asian Currencies Slide As Tech Selloff Hits Taiwan Dollar, Won - BusinessToday Malaysia
+### 17. Asian Currencies Slide As Tech Selloff Hits Taiwan Dollar, Won - BusinessToday Malaysia
 
 - Source: BusinessToday Malaysia
 - Published: 2026-10-15T06:52:37+00:00
@@ -166,7 +176,7 @@ KOSPI Crashes 7% as AI Chip Selloff Wipes Out South Korean Stocks CryptoRank
 
 Asian Currencies Slide As Tech Selloff Hits Taiwan Dollar, Won BusinessToday Malaysia
 
-### 17. Global Chip Selloff Deepens as Investors Retreat from AI - Bloomberg.com
+### 18. Global Chip Selloff Deepens as Investors Retreat from AI - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-10-15T06:48:00+00:00
@@ -176,7 +186,7 @@ Asian Currencies Slide As Tech Selloff Hits Taiwan Dollar, Won BusinessToday Mal
 
 Global Chip Selloff Deepens as Investors Retreat from AI Bloomberg.com
 
-### 18. Stock Selloff Deepens in Asia on AI Debt, Fed Rate-Hike Concerns -- Update - marketscreener.com
+### 19. Stock Selloff Deepens in Asia on AI Debt, Fed Rate-Hike Concerns -- Update - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-15T06:23:38+00:00
@@ -186,7 +196,7 @@ Global Chip Selloff Deepens as Investors Retreat from AI Bloomberg.com
 
 Stock Selloff Deepens in Asia on AI Debt, Fed Rate-Hike Concerns -- Update marketscreener.com
 
-### 19. Asian Stocks Fall: Kospi Down 7%, Nikkei 5% as Tech Selloff Deepens - News and Statistics - IndexBox
+### 20. Asian Stocks Fall: Kospi Down 7%, Nikkei 5% as Tech Selloff Deepens - News and Statistics - IndexBox
 
 - Source: IndexBox
 - Published: 2026-10-15T05:30:27+00:00
@@ -196,7 +206,7 @@ Stock Selloff Deepens in Asia on AI Debt, Fed Rate-Hike Concerns -- Update marke
 
 Asian Stocks Fall: Kospi Down 7%, Nikkei 5% as Tech Selloff Deepens - News and Statistics IndexBox
 
-### 20. Taiwan dollar, won slump as chip selloff hurts Asian currencies - The Edge Malaysia
+### 21. Taiwan dollar, won slump as chip selloff hurts Asian currencies - The Edge Malaysia
 
 - Source: The Edge Malaysia
 - Published: 2026-10-15T05:27:00+00:00
@@ -206,7 +216,7 @@ Asian Stocks Fall: Kospi Down 7%, Nikkei 5% as Tech Selloff Deepens - News and S
 
 Taiwan dollar, won slump as chip selloff hurts Asian currencies The Edge Malaysia
 
-### 21. Nikkei Plunges Over 3,200 Yen, Falls Below 65,000 on Semiconductor Selloff - finance.biggo.com
+### 22. Nikkei Plunges Over 3,200 Yen, Falls Below 65,000 on Semiconductor Selloff - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-10-15T05:09:00+00:00
@@ -216,7 +226,7 @@ Taiwan dollar, won slump as chip selloff hurts Asian currencies The Edge Malaysi
 
 Nikkei Plunges Over 3,200 Yen, Falls Below 65,000 on Semiconductor Selloff finance.biggo.com
 
-### 22. AI Stock Correction Driven By Sentiment Not Earnings Fundamentals, Says Roundhill - CNBC TV18
+### 23. AI Stock Correction Driven By Sentiment Not Earnings Fundamentals, Says Roundhill - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-15T03:57:22+00:00
@@ -226,7 +236,7 @@ Nikkei Plunges Over 3,200 Yen, Falls Below 65,000 on Semiconductor Selloff finan
 
 AI Stock Correction Driven By Sentiment Not Earnings Fundamentals, Says Roundhill CNBC TV18
 
-### 23. Asian Markets Crash: South Korea’s KOSPI Falls 8%, Nikkei Drops 4%; What to Expect From Sensex and Nifty? - Udaipur Kiran
+### 24. Asian Markets Crash: South Korea’s KOSPI Falls 8%, Nikkei Drops 4%; What to Expect From Sensex and Nifty? - Udaipur Kiran
 
 - Source: Udaipur Kiran
 - Published: 2026-10-15T03:04:41+00:00
@@ -236,7 +246,7 @@ AI Stock Correction Driven By Sentiment Not Earnings Fundamentals, Says Roundhil
 
 Asian Markets Crash: South Korea’s KOSPI Falls 8%, Nikkei Drops 4%; What to Expect From Sensex and Nifty? Udaipur Kiran
 
-### 24. Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment - Bloomberg.com
+### 25. Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-10-15T02:57:00+00:00
@@ -246,7 +256,7 @@ Asian Markets Crash: South Korea’s KOSPI Falls 8%, Nikkei Drops 4%; What to Ex
 
 Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment Bloomberg.com
 
-### 25. Stock Selloff Deepens in Asia Amid AI, Fed Rate-Hike Concerns - marketscreener.com
+### 26. Stock Selloff Deepens in Asia Amid AI, Fed Rate-Hike Concerns - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-15T02:46:27+00:00
@@ -256,7 +266,7 @@ Taiwan Dollar, Won Slump as Chip Stock Selloff Hurts Sentiment Bloomberg.com
 
 Stock Selloff Deepens in Asia Amid AI, Fed Rate-Hike Concerns marketscreener.com
 
-### 26. Asian chip and tech stocks slide as AI funding concerns deepen sell-off - Traders Union
+### 27. Asian chip and tech stocks slide as AI funding concerns deepen sell-off - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-15T00:53:48+00:00
@@ -266,7 +276,7 @@ Stock Selloff Deepens in Asia Amid AI, Fed Rate-Hike Concerns marketscreener.com
 
 Asian chip and tech stocks slide as AI funding concerns deepen sell-off Traders Union
 
-### 27. U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off - WSJ
+### 28. U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off - WSJ
 
 - Source: WSJ
 - Published: 2026-10-14T21:32:00+00:00
@@ -276,7 +286,7 @@ Asian chip and tech stocks slide as AI funding concerns deepen sell-off Traders 
 
 U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off WSJ
 
-### 28. Riverlane: Collaboration With NVIDIA Accelerates Quantum Error Correction Calibration With AI And GPUs - Pulse 2.0
+### 29. Riverlane: Collaboration With NVIDIA Accelerates Quantum Error Correction Calibration With AI And GPUs - Pulse 2.0
 
 - Source: Pulse 2.0
 - Published: 2026-10-14T20:33:55+00:00
@@ -286,7 +296,7 @@ U.S. Stocks Fall on Hot Inflation Report, AI Sell-Off WSJ
 
 Riverlane: Collaboration With NVIDIA Accelerates Quantum Error Correction Calibration With AI And GPUs Pulse 2.0
 
-### 29. Nvidia stock sinks as chip sell-off deepens on hot inflation data - Yahoo Finance
+### 30. Nvidia stock sinks as chip sell-off deepens on hot inflation data - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-14T20:23:29+00:00
@@ -296,7 +306,7 @@ Riverlane: Collaboration With NVIDIA Accelerates Quantum Error Correction Calibr
 
 Nvidia stock sinks as chip sell-off deepens on hot inflation data Yahoo Finance
 
-### 30. Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts - Yahoo Finance
+### 31. Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-14T19:22:51+00:00
@@ -306,7 +316,7 @@ Nvidia stock sinks as chip sell-off deepens on hot inflation data Yahoo Finance
 
 Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts Yahoo Finance
 
-### 31. Nvidia, Broadcom and Marvell Stocks Fall as AI Spending Concerns Grow - TradingView
+### 32. Nvidia, Broadcom and Marvell Stocks Fall as AI Spending Concerns Grow - TradingView
 
 - Source: TradingView
 - Published: 2026-10-14T19:16:11+00:00
@@ -316,7 +326,7 @@ Nvidia Stocks Fall 2.9% Although New AI Racks Support 250 Kilowatts Yahoo Financ
 
 Nvidia, Broadcom and Marvell Stocks Fall as AI Spending Concerns Grow TradingView
 
-### 32. CoreWeave Stocks Fall Over 15% as Debt Selloff Highlights AI's Interest Burden - Yahoo Finance
+### 33. CoreWeave Stocks Fall Over 15% as Debt Selloff Highlights AI's Interest Burden - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-14T19:13:05+00:00
@@ -326,7 +336,7 @@ Nvidia, Broadcom and Marvell Stocks Fall as AI Spending Concerns Grow TradingVie
 
 CoreWeave Stocks Fall Over 15% as Debt Selloff Highlights AI's Interest Burden Yahoo Finance
 
-### 33. TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond September - TradingView
+### 34. TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond September - TradingView
 
 - Source: TradingView
 - Published: 2026-10-14T19:06:46+00:00
@@ -336,7 +346,7 @@ CoreWeave Stocks Fall Over 15% as Debt Selloff Highlights AI's Interest Burden Y
 
 TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond September TradingView
 
-### 34. TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond September - Yahoo Finance
+### 35. TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond September - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-14T19:06:46+00:00
@@ -346,7 +356,7 @@ TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond Septem
 
 TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond September Yahoo Finance
 
-### 35. Chip stocks are on pace to erase $1 trillion as AI selloff deepens - Quartz
+### 36. Chip stocks are on pace to erase $1 trillion as AI selloff deepens - Quartz
 
 - Source: Quartz
 - Published: 2026-10-14T17:13:05+00:00
@@ -356,7 +366,7 @@ TSMC Stocks Fall Nearly 2.5% as Thursday's Earnings Test AI Growth Beyond Septem
 
 Chip stocks are on pace to erase $1 trillion as AI selloff deepens Quartz
 
-### 36. AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip - Yahoo Finance
+### 37. AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-14T14:09:00+00:00
@@ -366,7 +376,7 @@ Chip stocks are on pace to erase $1 trillion as AI selloff deepens Quartz
 
 AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip Yahoo Finance
 
-### 37. Riverlane And Nvidia Speed Up Quantum Error Correction With AI - Quantum Zeitgeist
+### 38. Riverlane And Nvidia Speed Up Quantum Error Correction With AI - Quantum Zeitgeist
 
 - Source: Quantum Zeitgeist
 - Published: 2026-10-14T12:58:59+00:00
@@ -376,7 +386,7 @@ AI Memory Chip Selloff Looks Overblown: 2 Stocks to Buy on the Dip Yahoo Finance
 
 Riverlane And Nvidia Speed Up Quantum Error Correction With AI Quantum Zeitgeist
 
-### 38. Sensex Falls 169 Points, Nifty 50 Slips 0.29% as Oil Prices and Inflation Concerns Weigh - Dalal Street Investment Journal
+### 39. Sensex Falls 169 Points, Nifty 50 Slips 0.29% as Oil Prices and Inflation Concerns Weigh - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-10-14T08:57:25+00:00
@@ -386,7 +396,17 @@ Riverlane And Nvidia Speed Up Quantum Error Correction With AI Quantum Zeitgeist
 
 Sensex Falls 169 Points, Nifty 50 Slips 0.29% as Oil Prices and Inflation Concerns Weigh Dalal Street Investment Journal
 
-### 39. Sensex, Nifty Rise Despite Global Sell-Off As LTCG Hopes Support Sentiment - BW Businessworld
+### 40. IXIC: Nasdaq Sinks 1.9% as AI Selloff Spreads Across Markets. Futures Dive Deeper. - TradingView
+
+- Source: TradingView
+- Published: 2026-10-15T07:05:37+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxOUDVNdUR0MTBEN2pPckk3SEtxWlAwRlc5TFhxVy1fU0l4UTRodmlfTnEzYnlKQ0JRM19ybmRPQWJCTzluTGdWSXM4SzhseVNSemJkbV9FSTRmN1BCekFfaTdtam1nVC1kRWVuTUt3czZfWEFybG1FSjRjb3hsOGwtU05qVmNKamhNMEdrc3QzOUZMM3J1M09XeEMtYjZJVnZPd0Z1N1d0bWhfeThUeGkyTjVoR2lZUkNfZlJZb2w2dm8wZTR5d1FTakktSU05OFFkV1hHVDZuNA?oc=5
+
+IXIC: Nasdaq Sinks 1.9% as AI Selloff Spreads Across Markets. Futures Dive Deeper. TradingView
+
+### 41. Sensex, Nifty Rise Despite Global Sell-Off As LTCG Hopes Support Sentiment - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-10-15T06:28:46+00:00
@@ -396,17 +416,17 @@ Sensex Falls 169 Points, Nifty 50 Slips 0.29% as Oil Prices and Inflation Concer
 
 Sensex, Nifty Rise Despite Global Sell-Off As LTCG Hopes Support Sentiment BW Businessworld
 
-### 40. Blue Owl’s Stack eyes $6 billion loan as selloff hits AI sector - Bloomberg News - TradingView
+### 42. Blue Owl’s Stack eyes $6 billion loan as selloff hits AI sector - Bloomberg News - TradingView
 
 - Source: TradingView
-- Published: 2026-10-15T06:19:01+00:00
+- Published: 2026-10-15T06:19:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxNdUtHMVoxd29MWnBTYUtWN21VdzZiYmZUX0hfbVlQRU0yTXZsM3NOWXdtcXN2Y1BkalRST0YtZzJ1U3hleTBOSGt1UXFBaWQ2WmNCOW16RmJYN1lNT2xEMHpGR1hRdGppVEVCeVBkNmFZY3RfNll5YWlzZWdCbmVGb0lUckFOTnhHWWFGQnBRYWg5XzQ1NTF6LXBJMlQ3MVlYc3F0NjFBR3Vrbmc3YlFNbFdZUGQxYWJGOWxFdVZmSXoxeXdka3k4QnNNS3V4OG4yUGN4RTdjUVhnWF9CTm1BSw?oc=5
 
 Blue Owl’s Stack eyes $6 billion loan as selloff hits AI sector - Bloomberg News TradingView
 
-### 41. Government bonds regain haven role as AI selloff rattles stocks and credit - Traders Union
+### 43. Government bonds regain haven role as AI selloff rattles stocks and credit - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-15T06:11:31+00:00
@@ -416,7 +436,7 @@ Blue Owl’s Stack eyes $6 billion loan as selloff hits AI sector - Bloomberg Ne
 
 Government bonds regain haven role as AI selloff rattles stocks and credit Traders Union
 
-### 42. Blue Owl’s Stack Eyes $6 Billion Loan as Selloff Hits AI Sector - Bloomberg.com
+### 44. Blue Owl’s Stack Eyes $6 Billion Loan as Selloff Hits AI Sector - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-10-15T06:05:00+00:00
@@ -426,7 +446,7 @@ Government bonds regain haven role as AI selloff rattles stocks and credit Trade
 
 Blue Owl’s Stack Eyes $6 Billion Loan as Selloff Hits AI Sector Bloomberg.com
 
-### 43. BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google - TradingView
+### 45. BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google - TradingView
 
 - Source: TradingView
 - Published: 2026-10-15T05:52:50+00:00
@@ -436,7 +456,7 @@ Blue Owl’s Stack Eyes $6 Billion Loan as Selloff Hits AI Sector Bloomberg.com
 
 BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google TradingView
 
-### 44. BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google - Yahoo Finance
+### 46. BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-15T05:52:00+00:00
@@ -446,17 +466,7 @@ BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Powe
 
 BE Stock Slips Overnight Amid AI Selloff: AEP To Spend $4B On Fuel Cells To Power Google Yahoo Finance
 
-### 45. Tech Stock Selloff Deepens as AI Infrastructure Faces Debt Worries - Global Banking & Finance Review
-
-- Source: Global Banking & Finance Review
-- Published: 2026-10-15T05:14:45+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMingFBVV95cUxPSTZaNkRES1c5SW1SY28yTHAxdEx1SDJDaTZxZmRvZldaTjZTMUdZdzdRa1hsbWx6SFlBYWZUeEh2WVgxa3RkWmR2SXpFaWV3Mjk2eTJNZUhaaEZWTHRnM1BFTE9kWEhZcVBad2ZPWmhwd1RXa2pUQjJPejFSVnRaYzJDVzNJWXlYcUN4ZUJMWmM3d0pJcWk5Z0NxVmw2Zw?oc=5
-
-Tech Stock Selloff Deepens as AI Infrastructure Faces Debt Worries Global Banking & Finance Review
-
-### 46. IT index surges 2.5%: The correction in AI stocks is a positive for Indian markets, says this analyst - Moneycontrol.com
+### 47. IT index surges 2.5%: The correction in AI stocks is a positive for Indian markets, says this analyst - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-15T05:10:43+00:00
@@ -466,7 +476,7 @@ Tech Stock Selloff Deepens as AI Infrastructure Faces Debt Worries Global Bankin
 
 IT index surges 2.5%: The correction in AI stocks is a positive for Indian markets, says this analyst Moneycontrol.com
 
-### 47. South Korean stocks plunge 8% as global chip selloff deepens - Gulf News
+### 48. South Korean stocks plunge 8% as global chip selloff deepens - Gulf News
 
 - Source: Gulf News
 - Published: 2026-10-15T05:05:16+00:00
@@ -476,7 +486,7 @@ IT index surges 2.5%: The correction in AI stocks is a positive for Indian marke
 
 South Korean stocks plunge 8% as global chip selloff deepens Gulf News
 
-### 48. Global Market: IMF warns of energy shock, AI correction risks to Asia's growth outlook - The Economic Times
+### 49. Global Market: IMF warns of energy shock, AI correction risks to Asia's growth outlook - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-15T05:02:53+00:00
@@ -486,7 +496,17 @@ South Korean stocks plunge 8% as global chip selloff deepens Gulf News
 
 Global Market: IMF warns of energy shock, AI correction risks to Asia's growth outlook The Economic Times
 
-### 49. Sensex rallies 1,100 points despite global sell-off: Why are markets rising today? - India Today
+### 50. Sensex rallies 900 points despite global sell-off: Why markets are rising - India Today
+
+- Source: India Today
+- Published: 2026-10-15T05:02:02+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOemZjTk5fOXVrR1hRX04tU1prc2V6MEh2S01HX2tPUDZMVThOUnFvR0dvMXZiTVhiODhBTUdxU3NLelA3SlJpbklwQ3pBcUFpN3JWbHUzTWMteC02dmVrekRzV3ZYLTI3bmlnNkI3QWhtYUgtZGhFS040cUctcG50RlpHNXpaQUl5bFduYnZTNjR6NG9HMjBqVjVTSHprdkNOUTNZR1F6OHB4Q3BDRUJMcU9LZ3NUZkgzdk9DSWJ4aWRicGFTTmdBQkVKaHRQZWJsM2Fkb0tqRzdwRVpvT25DcFVmT1RXaGF5OVJqRHFJSzl4Zy02VnfSAfYBQVVfeXFMTnpmY05OXzl1a0dYUV9OLVNaa3NlejBIdktNR19rT1A2TFU4TlJxb0dHbzF2Yk1YYjg4QU1HcVNzS3pQN0pSaW5JcEN6QXFBaTdyVmx1M01jLXgtNnZla3pEc1d2WC0yN25pZzZCN0FobWFILWRoRUtONHFHLXBudEZaRzV6WkFJeWxXbmJ2UzY0ejRvRzIwalY1U0h6a3ZDTlEzWUdRejhweENwQ0VCTHFPS2dzVGZIM3ZPQ0lieGlkYnBhU05nQUJFSmh0UGVibDNhZG9Lakc3cEVab09uQ3BVZk9UV2hheTlSakRxSUs5eGctNlZ3?oc=5
+
+Sensex rallies 900 points despite global sell-off: Why markets are rising India Today
+
+### 51. Sensex rallies 1,100 points despite global sell-off: Why are markets rising today? - India Today
 
 - Source: India Today
 - Published: 2026-10-15T05:02:02+00:00
@@ -496,7 +516,7 @@ Global Market: IMF warns of energy shock, AI correction risks to Asia's growth o
 
 Sensex rallies 1,100 points despite global sell-off: Why are markets rising today? India Today
 
-### 50. IMF: Asia Growth to Slow in 2027 Amid Iran War Energy Shock, AI Correction Risks - News and Statistics - IndexBox
+### 52. IMF: Asia Growth to Slow in 2027 Amid Iran War Energy Shock, AI Correction Risks - News and Statistics - IndexBox
 
 - Source: IndexBox
 - Published: 2026-10-15T04:51:39+00:00
@@ -506,7 +526,7 @@ Sensex rallies 1,100 points despite global sell-off: Why are markets rising toda
 
 IMF: Asia Growth to Slow in 2027 Amid Iran War Energy Shock, AI Correction Risks - News and Statistics IndexBox
 
-### 51. Dell Shares Suffer Sharp Correction as Memory Chip Cycle Disrupts U.S. Infrastructure Sector - NAI500
+### 53. Dell Shares Suffer Sharp Correction as Memory Chip Cycle Disrupts U.S. Infrastructure Sector - NAI500
 
 - Source: NAI500
 - Published: 2026-10-15T04:30:30+00:00
@@ -516,7 +536,7 @@ IMF: Asia Growth to Slow in 2027 Amid Iran War Energy Shock, AI Correction Risks
 
 Dell Shares Suffer Sharp Correction as Memory Chip Cycle Disrupts U.S. Infrastructure Sector NAI500
 
-### 52. Sensex gains 400 points, Nifty above 22,700: Korea's market falls more than 7% - Bhaskar English
+### 54. Sensex gains 400 points, Nifty above 22,700: Korea's market falls more than 7% - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-10-15T04:00:53+00:00
@@ -526,7 +546,7 @@ Dell Shares Suffer Sharp Correction as Memory Chip Cycle Disrupts U.S. Infrastru
 
 Sensex gains 400 points, Nifty above 22,700: Korea's market falls more than 7% Bhaskar English
 
-### 53. Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - TradingView
+### 55. Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - TradingView
 
 - Source: TradingView
 - Published: 2026-10-15T03:16:00+00:00
@@ -535,26 +555,6 @@ Sensex gains 400 points, Nifty above 22,700: Korea's market falls more than 7% B
 - Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOeTJxZnBQNmlmT0dWRzFSdkVWN3VjQjNLSThUS3lxVG9LOHpHSHFtcTNYSDcxMzlNMkVFZXFHNkg1dmR1bjFGWGd6eHpqYzh0Vjl2d3k0MTZEcXBDYTZnaHBxelVxZUs4TG40VVVqZzdydDkyeXZPb2ZxU2w0NGk1cG81emlVLXYta0FuMVplWXdqa1ZPdGpYMU5RdEZockdubWFTQVBWakdIUzZxZVRqM1BsX082ZlgxcHhQZGdBYjVOVU1oRk9OYXNrUC1YSEJxOHRNQnhWcnNpMEIwaTBwbE0yYWJzYlhKaVUzYmEwYw?oc=5
 
 Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus TradingView
-
-### 54. AI-Related Risks Emerge as U.S. Stock Market Faces a Short-Term Correction - NAI500
-
-- Source: NAI500
-- Published: 2026-10-15T02:54:40+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxONi1SSzJJZGk3Q1ZfY21hRF9XVTBDSmprQlRiLU5uVlgzVjhnU3NvMFdZWXdiamF3MmVTcXprZ3NwZnZKZjc2QXgxRXAzT1NkNmcyWVBnNmhNdDlwZHh0Ul9DUTBBQVdpOE1ZLWtJbUlxNXdyeFB5TFZoWGRjVlV2QlZHYm1aNkVuSnE5Mms0ZUVoQVRXX2Y3N2VEUnJxa0tRR1FEWkpWVzhVUQ?oc=5
-
-AI-Related Risks Emerge as U.S. Stock Market Faces a Short-Term Correction NAI500
-
-### 55. GIFT Nifty signals flat start for Sensex, Nifty amid global market rout; hot US inflation, Asian selloff... - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-10-15T02:52:47+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxOcFd6M1lacmJlOFV3WnBra3Flajc1S051dGcybXFqbXlfVHNEaWFCMHpERi0yRUZ0MjZ0dXJFeXFXRGt5WGxzYWNwREFKclNoTVlheEdHMXlua2NYNGJ3WWM2dThlcTRneXFQNUpSX0FQR0wxS2NKdzR1OTB1Zjc0bC1tanBQV19NaC1HbmdGeE1CSjItX3ZXajJCQ0ZDQjZJZmMySnpPNnY1UzhTMndERXZnUnpOUVVISVJXRVFOZFl1Mlk1MElwaTE5VVZFemtRMUVhV2NRUFFaMUU1VjBOUGZJVEV4RTh5Mi1FcUlfYjBTZThwNTdweVA2ZXBhcmJRdkM0a3pUUdIBhwJBVV95cUxOcFd6M1lacmJlOFV3WnBra3Flajc1S051dGcybXFqbXlfVHNEaWFCMHpERi0yRUZ0MjZ0dXJFeXFXRGt5WGxzYWNwREFKclNoTVlheEdHMXlua2NYNGJ3WWM2dThlcTRneXFQNUpSX0FQR0wxS2NKdzR1OTB1Zjc0bC1tanBQV19NaC1HbmdGeE1CSjItX3ZXajJCQ0ZDQjZJZmMySnpPNnY1UzhTMndERXZnUnpOUVVISVJXRVFOZFl1Mlk1MElwaTE5VVZFemtRMUVhV2NRUFFaMUU1VjBOUGZJVEV4RTh5Mi1FcUlfYjBTZThwNTdweVA2ZXBhcmJRdkM0a3pUUQ?oc=5
-
-GIFT Nifty signals flat start for Sensex, Nifty amid global market rout; hot US inflation, Asian selloff... Moneycontrol.com
 
 ### 56. Global chip sell-off deepens as South Korean market plunges - Yahoo Finance
 
@@ -586,17 +586,7 @@ Sensex, Nifty face global selloff as Kospi, Nikkei tumble like a house of cards;
 
 Bitcoin Mining Stocks Fall More Than 10% Alongside AI Spending Warning www.tokenpost.com
 
-### 59. Asian Chip Selloff Sends SK Hynix-Linked Product Down More Than 22% - www.tokenpost.com
-
-- Source: www.tokenpost.com
-- Published: 2026-10-15T02:14:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE11SzlPYTRqelZUUkZkTTJMb21UaG5sZkJRR0hoVTNhUkRLRFpzaTI2MnpmcDAtQ2h0YzJza1dXRDJpbUJha3dicnphQ2dVRjRnOEVtaEFuZ3Z1QQ?oc=5
-
-Asian Chip Selloff Sends SK Hynix-Linked Product Down More Than 22% www.tokenpost.com
-
-### 60. Nikkei Stock Average Plummets Over 2,500 Points Amid AI Sell-Off and Interest Rate Concerns - BigGo Finance
+### 59. Nikkei Stock Average Plummets Over 2,500 Points Amid AI Sell-Off and Interest Rate Concerns - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-10-15T02:05:00+00:00
@@ -606,7 +596,7 @@ Asian Chip Selloff Sends SK Hynix-Linked Product Down More Than 22% www.tokenpos
 
 Nikkei Stock Average Plummets Over 2,500 Points Amid AI Sell-Off and Interest Rate Concerns BigGo Finance
 
-### 61. Hong Kong Stocks Face Pressure as AI Selloff Deepens - TradingView
+### 60. Hong Kong Stocks Face Pressure as AI Selloff Deepens - TradingView
 
 - Source: TradingView
 - Published: 2026-10-15T02:02:00+00:00
@@ -616,7 +606,7 @@ Nikkei Stock Average Plummets Over 2,500 Points Amid AI Sell-Off and Interest Ra
 
 Hong Kong Stocks Face Pressure as AI Selloff Deepens TradingView
 
-### 62. Stock sell-off extends to Asia as chip rout deepens - The Edge Singapore
+### 61. Stock sell-off extends to Asia as chip rout deepens - The Edge Singapore
 
 - Source: The Edge Singapore
 - Published: 2026-10-15T01:29:00+00:00
@@ -626,7 +616,7 @@ Hong Kong Stocks Face Pressure as AI Selloff Deepens TradingView
 
 Stock sell-off extends to Asia as chip rout deepens The Edge Singapore
 
-### 63. Asian markets extend selloff as hot U.S. CPI hits AI stocks - Traders Union
+### 62. Asian markets extend selloff as hot U.S. CPI hits AI stocks - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-15T01:09:28+00:00
@@ -636,7 +626,7 @@ Stock sell-off extends to Asia as chip rout deepens The Edge Singapore
 
 Asian markets extend selloff as hot U.S. CPI hits AI stocks Traders Union
 
-### 64. KOSPI plunges 5% on US inflation, AI selloff - Aju Press
+### 63. KOSPI plunges 5% on US inflation, AI selloff - Aju Press
 
 - Source: Aju Press
 - Published: 2026-10-15T00:19:48+00:00
@@ -646,7 +636,7 @@ Asian markets extend selloff as hot U.S. CPI hits AI stocks Traders Union
 
 KOSPI plunges 5% on US inflation, AI selloff Aju Press
 
-### 65. US stocks fall after hot inflation report as leading AI shares tumble - AFP.com
+### 64. US stocks fall after hot inflation report as leading AI shares tumble - AFP.com
 
 - Source: AFP.com
 - Published: 2026-10-14T23:48:45+00:00
@@ -655,6 +645,16 @@ KOSPI plunges 5% on US inflation, AI selloff Aju Press
 - Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPSC1DSG00QVg4YzZnankwa2czRGRNWUFJWDUyb2lsMnNOTU02U09GeHBET2E1a2g3VDlkX1lPUDdmUElEM3dQSDVreTJYS2pSTkVsa25PYmJlVmdfd0E2S1NhQTR4UXBSS0o4eFQ0YlNEREJKeDA2bVNEMy1GeXBGb04wbkZFbmp1OGF1eGdxTk9JeWc?oc=5
 
 US stocks fall after hot inflation report as leading AI shares tumble AFP.com
+
+### 65. Hot US inflation report fuels AI stock selloff - Mezha.net
+
+- Source: Mezha.net
+- Published: 2026-10-14T23:24:31+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxPZXVncDhyM2VqSXVNTUJyWTlzcjBzWU5GUFhJRkVoN2p6eEtwcnlOUWhwbzNPVEJub2JzMlRtUnk4WXBMNVRCeTRoQkRMa3I2emtid28zM0hFazFPd2Y5SEZSc3NheGl2V2dLUGhPMGJ0VkxNVUxiV2tpUjYzWG1jTw?oc=5
+
+Hot US inflation report fuels AI stock selloff Mezha.net
 
 ### 66. US stocks fall on inflation woes as chip rout deepens - The Edge Malaysia
 
@@ -686,17 +686,7 @@ US stocks fall on inflation woes as chip rout deepens The Edge Malaysia
 
 AI Stocks Selloff and CoreWeave Debt, IREN Proposes 900 MW Aussie Site, Keel’s New 80 MW Site Yahoo Finance
 
-### 69. Silicon Motion Slides as Chip Selloff and Memory-Competition Fears Weigh on Shares - Quiver Quantitative
-
-- Source: Quiver Quantitative
-- Published: 2026-10-14T21:20:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPN0tGTzB5dWtpQ2tmdVNwejBpZzU1bWprZnJ1eFNhTFJFTGtYcEJlejRUU1MxNko4TXRHcjZrcF9qOEdSRE9rR05nMVJGZ0F1OXcweURPdmtkRnBZeThvT3lvZk5adE9xb19nSWdwUXZ2SDNoZFowSVF1Y3F6Y3REbjhzMUhPel9lRVZvTC1pTTBYdk50SlNyNWtnd3RCWFRKbEpGejhBM1BBeTRmUloycmJoSEdTQQ?oc=5
-
-Silicon Motion Slides as Chip Selloff and Memory-Competition Fears Weigh on Shares Quiver Quantitative
-
-### 70. US stocks fall after hot inflation report as leading AI shares tumble - Yahoo Finance
+### 69. US stocks fall after hot inflation report as leading AI shares tumble - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-14T20:43:49+00:00
@@ -706,7 +696,7 @@ Silicon Motion Slides as Chip Selloff and Memory-Competition Fears Weigh on Shar
 
 US stocks fall after hot inflation report as leading AI shares tumble Yahoo Finance
 
-### 71. Dan Ives: Tech sell-off viewed as excessive amid strong AI demand - Traders Union
+### 70. Dan Ives: Tech sell-off viewed as excessive amid strong AI demand - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-14T20:35:17+00:00
@@ -716,7 +706,7 @@ US stocks fall after hot inflation report as leading AI shares tumble Yahoo Fina
 
 Dan Ives: Tech sell-off viewed as excessive amid strong AI demand Traders Union
 
-### 72. AI infrastructure stocks fall as US rate-hike bets grow - mezha.net
+### 71. AI infrastructure stocks fall as US rate-hike bets grow - mezha.net
 
 - Source: mezha.net
 - Published: 2026-10-14T20:21:41+00:00
@@ -726,7 +716,7 @@ Dan Ives: Tech sell-off viewed as excessive amid strong AI demand Traders Union
 
 AI infrastructure stocks fall as US rate-hike bets grow mezha.net
 
-### 73. Caterpillar sinks 30% from record high amid AI selloff, inflation fears - TradingView
+### 72. Caterpillar sinks 30% from record high amid AI selloff, inflation fears - TradingView
 
 - Source: TradingView
 - Published: 2026-10-14T20:04:29+00:00
@@ -736,7 +726,7 @@ AI infrastructure stocks fall as US rate-hike bets grow mezha.net
 
 Caterpillar sinks 30% from record high amid AI selloff, inflation fears TradingView
 
-### 74. AI infrastructure stocks fall on rate worries - Investing.com
+### 73. AI infrastructure stocks fall on rate worries - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-14T19:57:57+00:00
@@ -746,7 +736,7 @@ Caterpillar sinks 30% from record high amid AI selloff, inflation fears TradingV
 
 AI infrastructure stocks fall on rate worries Investing.com
 
-### 75. How Investors Are Reacting To SoftBank (TSE:9984) AI Selloff Pressure - Simply Wall Street
+### 74. How Investors Are Reacting To SoftBank (TSE:9984) AI Selloff Pressure - Simply Wall Street
 
 - Source: Simply Wall Street
 - Published: 2026-10-14T19:50:57+00:00
@@ -756,7 +746,7 @@ AI infrastructure stocks fall on rate worries Investing.com
 
 How Investors Are Reacting To SoftBank (TSE:9984) AI Selloff Pressure Simply Wall Street
 
-### 76. SK Hynix Stocks Fall 1.7% Although January Deadline Advances Its AI Flash Roadmap - TradingView
+### 75. SK Hynix Stocks Fall 1.7% Although January Deadline Advances Its AI Flash Roadmap - TradingView
 
 - Source: TradingView
 - Published: 2026-10-14T19:21:43+00:00
@@ -766,7 +756,7 @@ How Investors Are Reacting To SoftBank (TSE:9984) AI Selloff Pressure Simply Wal
 
 SK Hynix Stocks Fall 1.7% Although January Deadline Advances Its AI Flash Roadmap TradingView
 
-### 77. Sandisk Stocks Fall 4.8% Although AI Flash Roadmap Gains a January Deadline - Yahoo Finance
+### 76. Sandisk Stocks Fall 4.8% Although AI Flash Roadmap Gains a January Deadline - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-14T19:15:12+00:00
@@ -776,7 +766,7 @@ SK Hynix Stocks Fall 1.7% Although January Deadline Advances Its AI Flash Roadma
 
 Sandisk Stocks Fall 4.8% Although AI Flash Roadmap Gains a January Deadline Yahoo Finance
 
-### 78. Dell Stocks Fall 9.4% as Barclays Cuts Target Despite $95 Billion AI Backlog - TradingView
+### 77. Dell Stocks Fall 9.4% as Barclays Cuts Target Despite $95 Billion AI Backlog - TradingView
 
 - Source: TradingView
 - Published: 2026-10-14T18:13:27+00:00
@@ -786,7 +776,7 @@ Sandisk Stocks Fall 4.8% Although AI Flash Roadmap Gains a January Deadline Yaho
 
 Dell Stocks Fall 9.4% as Barclays Cuts Target Despite $95 Billion AI Backlog TradingView
 
-### 79. US stocks fall as inflation accelerates; S&P 500 drops 1.1%, Nasdaq slides 1.6% - The Times of India
+### 78. US stocks fall as inflation accelerates; S&P 500 drops 1.1%, Nasdaq slides 1.6% - The Times of India
 
 - Source: The Times of India
 - Published: 2026-10-14T17:55:00+00:00
@@ -796,7 +786,7 @@ Dell Stocks Fall 9.4% as Barclays Cuts Target Despite $95 Billion AI Backlog Tra
 
 US stocks fall as inflation accelerates; S&P 500 drops 1.1%, Nasdaq slides 1.6% The Times of India
 
-### 80. CoreWeave, Nebius, IREN Stocks Fall as AI Debt Fears Spread - TradingView
+### 79. CoreWeave, Nebius, IREN Stocks Fall as AI Debt Fears Spread - TradingView
 
 - Source: TradingView
 - Published: 2026-10-14T17:49:01+00:00
@@ -805,3 +795,13 @@ US stocks fall as inflation accelerates; S&P 500 drops 1.1%, Nasdaq slides 1.6% 
 - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPaGZyNXBqOFZPempOOEpjT3Rvam00Ml9peUFOU2pUYWJsdDJJa3JkemQxWjl4NXFiUms2SnpWVGp5ZUVWNVpCYmhnbVJhUC1KMEkwRUk5MUlNNm1VUWNocG03bDU3Wi0xSlpZTU41bzd5YXdHczZZZ3E2ZWo0Y1Q2LU1rRDFDMWdJelUyeXFFcW02NGE0UmJ2UU16cGZoeWRma1BjSmtBZEVKWlY5UFFtb0RsUmxhNG1N?oc=5
 
 CoreWeave, Nebius, IREN Stocks Fall as AI Debt Fears Spread TradingView
+
+### 80. CoreWeave, Nebius, IREN Stocks Fall as AI Debt Fears Spread - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-10-14T17:49:01+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPei1zSmhaY2owUXBsQ2NDVWp1UmJVT0plYkFvR2xTSVNNRWF1cDhBN0dUZ0lLNVl5YW1YWndYa2I5QXpyUWJRcU00MzZVem8waWdWLXYySm1NMWtQd3dMLVRSQUJTRVVUSmVaR0JYcTVZUHc1VktJelV4QllldjQ3dE5VUGpPMlhoblB1T1dtNmZ4N09vejZGY0R4b3VoakU?oc=5
+
+CoreWeave, Nebius, IREN Stocks Fall as AI Debt Fears Spread Yahoo Finance
