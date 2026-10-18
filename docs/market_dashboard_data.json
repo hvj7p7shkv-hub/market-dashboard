@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 11:11 IST",
+  "generated_at": "2026-10-18 11:40 IST",
   "wire_file": "2026-10-18-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,11 +23,11 @@
   },
   "posture": {
     "stance": "Risk-off, AI-led",
-    "wire_count": "21",
-    "wire_total_count": "112",
+    "wire_count": "20",
+    "wire_total_count": "111",
     "wire_scope_date": "2026-10-18",
-    "ai_wire_count": "10",
-    "selling_wire_count": "9",
+    "ai_wire_count": "9",
+    "selling_wire_count": "8",
     "india_wire_count": "5",
     "weak_index_count": "10",
     "valid_index_count": "25"
@@ -36,12 +36,12 @@
     {
       "label": "Newest Wire · 2026-10-18 04:44",
       "title": "US stocks fall as AI sell-off intensifies: Weekly Market Recap - Beansprout",
-      "text": "Latest dated headline · Beansprout. Today's unique wire set contains 20 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · Beansprout. Today's unique wire set contains 19 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-18",
       "title": "Risk-off still dominates the wires",
-      "text": "The latest wire slice for 2026-10-18 has 9 selling/risk wires and 10 AI/tech-risk wires, so the bias remains defensive."
+      "text": "The latest wire slice for 2026-10-18 has 8 selling/risk wires and 9 AI/tech-risk wires, so the bias remains defensive."
     },
     {
       "label": "AI / Chips · 2026-10-18",
@@ -22803,7 +22803,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-18T11:10:47+05:30",
+    "generated_at": "2026-10-18T11:40:11+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35195,15 +35195,6 @@
   ],
   "wires": [
     {
-      "published": "2026-10-18T01:48:05+00:00",
-      "score": 9.0,
-      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
-      "source": "BBN Times",
-      "title": "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff - BBN Times",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXRQdnhyZmtsM0h6OVMzR0xsLWFNZ1I3b1dfa1VOa1RuRkVpQ1VPazdMN0hfUVFXQ1N5WG5xUkd5ejdSVXdSZjNpeng0b0swWjIzVXN0Si1aYTJmS3l5X1NwMjVmQ05rMWNGcVo0RUpmbW1GR2NveVVxaGRRNkEzWW5faEVRNnJzeUUxanRXUFZJUl94VGc5eDR1aW5VMDFLTGdYQkh6N0s3YXdINXhpTTFrOVhGOGgyLTVyTVV3?oc=5",
-      "description": "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff BBN Times"
-    },
-    {
       "published": "2026-10-18T01:02:07+00:00",
       "score": 9.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35375,6 +35366,15 @@
       "description": "Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff Beinsure"
     },
     {
+      "published": "2026-10-17T21:04:47+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Stocktwits",
+      "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkt6NjJxaDRmX0N3SzlwaGJJYU5qRVV0ZWprN2w4bXpoZlpuSTZCS2JIYzd2bzlCWXNycExIRzBZSEg5ZFg2cjYxMmRzQ2hhUFZYTk5GMlJjeEt5YWhZZWlqM3g4YlEtOHB5QUZaQ2VsNmtEV3pNS1RKUTlGd3pQUFJhTlpsX0NQZGxjRC10M0xTVkM3UkhxOXJFcTBWanBDbGhGUnpMMmhCUW5FUHpQMU9DVUpFVjU5aWN2WElXZ1c4VThQU3AzOWhieGM0QnZzbFhaZnAzLTlpU3dCQzBUMG1Uay1uR3pycEYzTVh2cGlIWEYzcllOdQ?oc=5",
+      "description": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus Stocktwits"
+    },
+    {
       "published": "2026-10-17T19:49:22+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35400,6 +35400,15 @@
       "title": "BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPSWxLblRQdDkwUVBXX3NOM1NTVnl5SGpKQzlTdVhBOUpzTHlwRk1Xc3lLT3VXcVFndHREc1lxMng0Q0o2aVRVWTVCUThSdC1PQzZKRHlHT0RfMDZwWWU2M1JhNUVKMV9mQUFiOXRxZ1Y3bG90TkJpRTlYdnVmNG1YQXFfRGlXTXVWMkwyZUxOYVlWZUhtVy1UTElqMlgzZ0tnc0M3WXdNZVA4SWFLX3JWUkVsVXdiZGxNODRHZ0RoV2xMLVNSRjhFN3NGaTY5TW10UUdac2VZS243aHpFQmdR?oc=5",
       "description": "BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict BBN Times"
+    },
+    {
+      "published": "2026-10-17T17:28:08+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "TradingKey",
+      "title": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdElsOVVGaVZjUTYxTHdKWGViSWxlVmNpV0dJckpsRVB3emxHNHl4OHJpbm9Fb1ZqWHdNcFVqUWNXR3JaTXc2cGM1Ml9pMU1rMGxOQ2czd3QydFhxUTk3T3RLRFAyV0h5R0M4ZGIwV09aM2pDRF9mSGpQcGVVTnJ3THNqTlhMaERROWdYcHpJbldGRGZ6eFlaZmktMHBUaGNMQ0w0Vk82V1VJa0dyWlpDZFNTWlg1VzVj?oc=5",
+      "description": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? TradingKey"
     },
     {
       "published": "2026-10-17T16:42:38+00:00",
@@ -35465,15 +35474,6 @@
       "description": "IMF chief warns inflation hurts poor countries, AI optimism risks market correction WION"
     },
     {
-      "published": "2026-10-17T11:55:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Foreign Policy Journal",
-      "title": "Applied Digital (NASDAQ: APLD) Stock Slides 4% As JPMorgan Bond Downgrade Deepens Debt-Funded AI Builder Selloff - Foreign Policy Journal",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaHFfZzRjZ3dSLUJydHpqQ18wQm1KWHZ4Q1c4QWpKSmRWcGtfdFR2M3pPVm1aeHRJdXZMWVlrM0c3LTRibEhleWtIWmpXRTc5YmdfSmZGVFc4cGxVWW5TRFRqME1kVzE4N0JqM2xSSElkX3ZGUk02cURaZ0t3eDlxc2VJa1dSN3lWVGpjS01xMVNKUFRKYkpxb2xGQl9rRE9LOEhvT0FkY0pCTkp2Rl9sTFJLdHlJT09mbUotc0o3c0pYWTNET201SVNXMWl2bjZxVTRfcENySnJxRFo0bW9vQjZydTEwUDgzNG9WdFZR?oc=5",
-      "description": "Applied Digital (NASDAQ: APLD) Stock Slides 4% As JPMorgan Bond Downgrade Deepens Debt-Funded AI Builder Selloff Foreign Policy Journal"
-    },
-    {
       "published": "2026-10-17T11:04:56+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35526,15 +35526,6 @@
       "title": "Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software - Stocks Down Under",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1keTBIeEhxeHFLWjBna2p4TWdjTUIzb1BRN3A3V0VhTlVIRE1vWGJESHpacTdPZHZGMURSS05nMnRpYTdkWDJBdWIzeEwtUjZHXzBuLWFobzF2N1pyRkR1MUlBdGpGalZFeno4SXh1MXpTVjlKYVEyWGtHMA?oc=5",
       "description": "Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software Stocks Down Under"
-    },
-    {
-      "published": "2026-10-17T05:57:39+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Stocktwits",
-      "title": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3ZrUGRtVXVoS1ktOGxTY0lwMTNJY1VDRlBLS2FRRHBRdnhqc3FJbGI2Z2UxemVQTHNOa1ktRjQtZ0hpYWZsR2R0UkRQVF9TWnlpRFl5TURQUHEyVDBRdVVSd21DVmhQeW5oaU5ULUZJUHYxdzBTbGpZNG5hQVRaVFR1TEUzcm1XR2VzTzJXeUlHanUzaDNfVTdpVHc0MzBjV2otOF9ISV9hMXF3WGQ2aHB1SnRGOXYxSkFV?oc=5",
-      "description": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race Stocktwits"
     },
     {
       "published": "2026-10-17T09:35:00+00:00",
@@ -36194,13 +36185,13 @@
       "description": "India halts sugar diversion to ethanol after El Nino hurts crops Moneycontrol.com"
     },
     {
-      "published": "2026-10-17T05:59:17+00:00",
+      "published": "2026-10-17T06:09:04+00:00",
       "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "ETMarkets Smart Talk | Manufacturing, healthcare and financialisation could create India’s next wealth cre - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWlVqbGd4RjEwSmFDOC1UWHRiVUR3TlhiNlg1TWg3NHRUNTFYTU5Ua2IwNFo3eC0tMlk4NTlZckRXNVFBZloxRGpiUE5IajVUS1V3VWROQk12elNyQnRVU3BFX1lUaV9xNVdyTEphdzVuOHJaQUd2andsbFVwV0w4azhKZkpJZTl0ejBHVWZaQmM5NVBpd20tODg5Vk9kMFluTjJJbnVJSkgzV3M2dEhVODdSdHJPZFB1bjR0RWhvX0JkQzhzMmJjMWV4bXNXc0N5SVdacDIxOTFlQmc1S1RrRnpyclNyYS1wMHZHempWelQxbDdkOEZFU3hpaHJheTJVVE5YdzVMWW5HbGh2cEUzXzZNVjU4d2NjVHJlVWl0UdIBpAJBVV95cUxPemJDajNhR0xIN1NwWFplXzh0RUpXdXRrYWdKR1ZDbmlfVlR5NlRCcDdFcl9YblZ5WElUa19HY1J4eTN3OGt2VTJmNzktUWpvVElIX1puejk1TWRRVmpuVVhtMnVPT09wWEdId3VPRE1yYTRPdWh0amg5Z2ZCZHJsVDRZcnBlZGo2aFN3Yk5VWFNmZjZKa3ZwbEtjVF9wWFptc3JMbnpBSWhhdnY0WmVlT29zT2V4TUoxYWdqUXZ1WXJ5bTB0RmdWUE9LOTNxRmE5TFJra2Z1Q21SakdHZE1sTWtIcVFwNkhRU1BDSlRkWlVRZ0JmWVdZQUNmNXBTdHZmcHcwZGdGMmNDUi1UcUNhTGVydHkzU3dqUW5KYTg3LVUtUV9Z?oc=5",
-      "description": "ETMarkets Smart Talk | Manufacturing, healthcare and financialisation could create India’s next wealth cre The Economic Times"
+      "themes": "['macro / flows']",
+      "source": "ET Now",
+      "title": "Q2 results today: Yes Bank, HDFC Bank, ICICI Bank and Axis Bank among others to announce quarterly earnings - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3B0Z1M5RUFRUVptc1JlcmJlbWdYcHpJRmRSVV9jVGo0NUNkRm12dzNxRkNTclNOOFhab2RwckRCcXZWS1FxQnhTbXNvQ2d5M0xLNVhRMXBDelNRVFcwd0RtbF83NHo5NnpHUW94ZmlpWWJTRkVKWW5CODhLdWN5akJtRWJZS0NpbzRrVkExUkNDc2lybm9JRnFDdmRINGd4NUUwWk03SGViWURGRE9rVDMwMjNVQ1NXVFFzSlRSQmZicEw2WWZMZUlWNmZqdXhOR3pOYlZlQmdDc2d1WjU3OG03OTBHNi1aMjZVbFpGT2xjd9IB8gFBVV95cUxNU3B0Z1M5RUFRUVptc1JlcmJlbWdYcHpJRmRSVV9jVGo0NUNkRm12dzNxRkNTclNOOFhab2RwckRCcXZWS1FxQnhTbXNvQ2d5M0xLNVhRMXBDelNRVFcwd0RtbF83NHo5NnpHUW94ZmlpWWJTRkVKWW5CODhLdWN5akJtRWJZS0NpbzRrVkExUkNDc2lybm9JRnFDdmRINGd4NUUwWk03SGViWURGRE9rVDMwMjNVQ1NXVFFzSlRSQmZicEw2WWZMZUlWNmZqdXhOR3pOYlZlQmdDc2d1WjU3OG03OTBHNi1aMjZVbFpGT2xjdw?oc=5",
+      "description": "Q2 results today: Yes Bank, HDFC Bank, ICICI Bank and Axis Bank among others to announce quarterly earnings ET Now"
     }
   ]
 }

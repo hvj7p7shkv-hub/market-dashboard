@@ -1,20 +1,5 @@
 [
   {
-    "title": "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff - BBN Times",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXRQdnhyZmtsM0h6OVMzR0xsLWFNZ1I3b1dfa1VOa1RuRkVpQ1VPazdMN0hfUVFXQ1N5WG5xUkd5ejdSVXdSZjNpeng0b0swWjIzVXN0Si1aYTJmS3l5X1NwMjVmQ05rMWNGcVo0RUpmbW1GR2NveVVxaGRRNkEzWW5faEVRNnJzeUUxanRXUFZJUl94VGc5eDR1aW5VMDFLTGdYQkh6N0s3YXdINXhpTTFrOVhGOGgyLTVyTVV3?oc=5",
-    "description": "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff BBN Times",
-    "published": "2026-10-18T01:48:05+00:00",
-    "source": "BBN Times",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling",
-      "macro / flows"
-    ],
-    "score": 9
-  },
-  {
     "title": "Asia's AI and semiconductor stocks hit by US tech selloff - NewsBytes",
     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVE1RcXR3NE5OM1J0c2NvSFhrcXlTaVBxUnZkRlQyRF9fUTJBN19uazlBSklCSUF0bDVtT01KNHZWRHRpNFpxRmZxd2x5WTRaUXdobEpqZmJMeUc2c1lWODVwaXpKTW5JSXRLM3ZvZEZNZUdCN2FIN091TmtUeXdYLUlVUjNJeGZyTmJ0Zi1neGVxYXZJVG16SFF2QnZWcW9TNHRhZXVNYw?oc=5",
     "description": "Asia's AI and semiconductor stocks hit by US tech selloff NewsBytes",
@@ -282,6 +267,20 @@
     "score": 7
   },
   {
+    "title": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkt6NjJxaDRmX0N3SzlwaGJJYU5qRVV0ZWprN2w4bXpoZlpuSTZCS2JIYzd2bzlCWXNycExIRzBZSEg5ZFg2cjYxMmRzQ2hhUFZYTk5GMlJjeEt5YWhZZWlqM3g4YlEtOHB5QUZaQ2VsNmtEV3pNS1RKUTlGd3pQUFJhTlpsX0NQZGxjRC10M0xTVkM3UkhxOXJFcTBWanBDbGhGUnpMMmhCUW5FUHpQMU9DVUpFVjU5aWN2WElXZ1c4VThQU3AzOWhieGM0QnZzbFhaZnAzLTlpU3dCQzBUMG1Uay1uR3pycEYzTVh2cGlIWEYzcllOdQ?oc=5",
+    "description": "Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus Stocktwits",
+    "published": "2026-10-17T21:04:47+00:00",
+    "source": "Stocktwits",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
+  },
+  {
     "title": "Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June - Eurasia Business News",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNckZRUlh6V2VTd1BucUM2ZUp0U3pkQzdzaE4yYWdvT3M1UE5TdGcwaHNMcHBxa2ZpN090MklITTJjTVZnOU54V2xJNUYtV0ZCZi1vdzBJcUplSVlOUzZoMkxoRzd4N0x5SENPZ2FzcWtTdnZ3ZXV4RGxiMkhCM1M5YmdVajlVTUVDdUt6bTVGaG5TRURrOXNCY25DZjdlWm9ieC01OGZKbWtnUlNTN3U4U2lfZlUtZzA?oc=5",
     "description": "Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June Eurasia Business News",
@@ -320,6 +319,20 @@
     "themes": [
       "market selling",
       "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdElsOVVGaVZjUTYxTHdKWGViSWxlVmNpV0dJckpsRVB3emxHNHl4OHJpbm9Fb1ZqWHdNcFVqUWNXR3JaTXc2cGM1Ml9pMU1rMGxOQ2czd3QydFhxUTk3T3RLRFAyV0h5R0M4ZGIwV09aM2pDRF9mSGpQcGVVTnJ3THNqTlhMaERROWdYcHpJbldGRGZ6eFlaZmktMHBUaGNMQ0w0Vk82V1VJa0dyWlpDZFNTWlg1VzVj?oc=5",
+    "description": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? TradingKey",
+    "published": "2026-10-17T17:28:08+00:00",
+    "source": "TradingKey",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
     ],
     "score": 7
   },
@@ -422,20 +435,6 @@
     "score": 7
   },
   {
-    "title": "Applied Digital (NASDAQ: APLD) Stock Slides 4% As JPMorgan Bond Downgrade Deepens Debt-Funded AI Builder Selloff - Foreign Policy Journal",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaHFfZzRjZ3dSLUJydHpqQ18wQm1KWHZ4Q1c4QWpKSmRWcGtfdFR2M3pPVm1aeHRJdXZMWVlrM0c3LTRibEhleWtIWmpXRTc5YmdfSmZGVFc4cGxVWW5TRFRqME1kVzE4N0JqM2xSSElkX3ZGUk02cURaZ0t3eDlxc2VJa1dSN3lWVGpjS01xMVNKUFRKYkpxb2xGQl9rRE9LOEhvT0FkY0pCTkp2Rl9sTFJLdHlJT09mbUotc0o3c0pYWTNET201SVNXMWl2bjZxVTRfcENySnJxRFo0bW9vQjZydTEwUDgzNG9WdFZR?oc=5",
-    "description": "Applied Digital (NASDAQ: APLD) Stock Slides 4% As JPMorgan Bond Downgrade Deepens Debt-Funded AI Builder Selloff Foreign Policy Journal",
-    "published": "2026-10-17T11:55:00+00:00",
-    "source": "Foreign Policy Journal",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
     "title": "Indian IT stocks record best week in 18 years amid global AI sell-off - Rediff",
     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQzRyXy13dUlSc3JCcU9tdGt6UmJjM1JycTdSSnRTT2cwYWJvb2pjdUVzanNZU0Zmb1BYdzRfbUVhb1hiTGRDM2FlSE9FV28yU2tRZFBCOElidk1uNEF4TXBHdENnNURicGRja0ZaRlJXelJFd2hob3MxZVYtMl9xdVM2WjBjdVFqanNHTWhmT0N2cWFkSnVNNmxUOXRsWnhPeW4zbDhYWmtqT2JXVjdUbmtyb1J3MWdtUHlVQlhTWGlXM2hvcTl0cTg3ZmpkVkZpeGfSAdQBQVVfeXFMT3hFNkJINnpWZkR1RWE0OXRtaXdFejhqWGtTeHUxbl9ZNktaZVNqOTZqdG1SMmwzS1BBYkdZTjRKR0ZDNXNXdE9ndFFwdU95VEFONktoaU9pYUFEYWZvNHEyM0IzTmlieWNXMGpQeVl1XzZjU0RrQmExUjkzNzlyZmowR2I3N2QyUlZwREtWSEFRUTBxSlVDX2V0VW13S2ctNUNKN3F5MllreDZrb3lDRFJ3VkdLYUptRWdVOEJxOW5hbnRyTEZpeEJ2TE9aZWgzSGx0RjE?oc=5",
     "description": "Indian IT stocks record best week in 18 years amid global AI sell-off Rediff",
@@ -511,20 +510,6 @@
     "description": "Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software Stocks Down Under",
     "published": "2026-10-17T08:16:09+00:00",
     "source": "Stocks Down Under",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race - Stocktwits",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNa3ZrUGRtVXVoS1ktOGxTY0lwMTNJY1VDRlBLS2FRRHBRdnhqc3FJbGI2Z2UxemVQTHNOa1ktRjQtZ0hpYWZsR2R0UkRQVF9TWnlpRFl5TURQUHEyVDBRdVVSd21DVmhQeW5oaU5ULUZJUHYxdzBTbGpZNG5hQVRaVFR1TEUzcm1XR2VzTzJXeUlHanUzaDNfVTdpVHc0MzBjV2otOF9ISV9hMXF3WGQ2aHB1SnRGOXYxSkFV?oc=5",
-    "description": "SNDK, SKHY Stocks Fall Premarket — Here's What Investors Are Tracking In The AI Memory Race Stocktwits",
-    "published": "2026-10-17T05:57:39+00:00",
-    "source": "Stocktwits",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1478,15 +1463,15 @@
     "score": 1
   },
   {
-    "title": "ETMarkets Smart Talk | Manufacturing, healthcare and financialisation could create India’s next wealth cre - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOWlVqbGd4RjEwSmFDOC1UWHRiVUR3TlhiNlg1TWg3NHRUNTFYTU5Ua2IwNFo3eC0tMlk4NTlZckRXNVFBZloxRGpiUE5IajVUS1V3VWROQk12elNyQnRVU3BFX1lUaV9xNVdyTEphdzVuOHJaQUd2andsbFVwV0w4azhKZkpJZTl0ejBHVWZaQmM5NVBpd20tODg5Vk9kMFluTjJJbnVJSkgzV3M2dEhVODdSdHJPZFB1bjR0RWhvX0JkQzhzMmJjMWV4bXNXc0N5SVdacDIxOTFlQmc1S1RrRnpyclNyYS1wMHZHempWelQxbDdkOEZFU3hpaHJheTJVVE5YdzVMWW5HbGh2cEUzXzZNVjU4d2NjVHJlVWl0UdIBpAJBVV95cUxPemJDajNhR0xIN1NwWFplXzh0RUpXdXRrYWdKR1ZDbmlfVlR5NlRCcDdFcl9YblZ5WElUa19HY1J4eTN3OGt2VTJmNzktUWpvVElIX1puejk1TWRRVmpuVVhtMnVPT09wWEdId3VPRE1yYTRPdWh0amg5Z2ZCZHJsVDRZcnBlZGo2aFN3Yk5VWFNmZjZKa3ZwbEtjVF9wWFptc3JMbnpBSWhhdnY0WmVlT29zT2V4TUoxYWdqUXZ1WXJ5bTB0RmdWUE9LOTNxRmE5TFJra2Z1Q21SakdHZE1sTWtIcVFwNkhRU1BDSlRkWlVRZ0JmWVdZQUNmNXBTdHZmcHcwZGdGMmNDUi1UcUNhTGVydHkzU3dqUW5KYTg3LVUtUV9Z?oc=5",
-    "description": "ETMarkets Smart Talk | Manufacturing, healthcare and financialisation could create India’s next wealth cre The Economic Times",
-    "published": "2026-10-17T05:59:17+00:00",
-    "source": "The Economic Times",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "title": "Q2 results today: Yes Bank, HDFC Bank, ICICI Bank and Axis Bank among others to announce quarterly earnings - ET Now",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNU3B0Z1M5RUFRUVptc1JlcmJlbWdYcHpJRmRSVV9jVGo0NUNkRm12dzNxRkNTclNOOFhab2RwckRCcXZWS1FxQnhTbXNvQ2d5M0xLNVhRMXBDelNRVFcwd0RtbF83NHo5NnpHUW94ZmlpWWJTRkVKWW5CODhLdWN5akJtRWJZS0NpbzRrVkExUkNDc2lybm9JRnFDdmRINGd4NUUwWk03SGViWURGRE9rVDMwMjNVQ1NXVFFzSlRSQmZicEw2WWZMZUlWNmZqdXhOR3pOYlZlQmdDc2d1WjU3OG03OTBHNi1aMjZVbFpGT2xjd9IB8gFBVV95cUxNU3B0Z1M5RUFRUVptc1JlcmJlbWdYcHpJRmRSVV9jVGo0NUNkRm12dzNxRkNTclNOOFhab2RwckRCcXZWS1FxQnhTbXNvQ2d5M0xLNVhRMXBDelNRVFcwd0RtbF83NHo5NnpHUW94ZmlpWWJTRkVKWW5CODhLdWN5akJtRWJZS0NpbzRrVkExUkNDc2lybm9JRnFDdmRINGd4NUUwWk03SGViWURGRE9rVDMwMjNVQ1NXVFFzSlRSQmZicEw2WWZMZUlWNmZqdXhOR3pOYlZlQmdDc2d1WjU3OG03OTBHNi1aMjZVbFpGT2xjdw?oc=5",
+    "description": "Q2 results today: Yes Bank, HDFC Bank, ICICI Bank and Axis Bank among others to announce quarterly earnings ET Now",
+    "published": "2026-10-17T06:09:04+00:00",
+    "source": "ET Now",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "India market"
+      "macro / flows"
     ],
     "score": 1
   }
