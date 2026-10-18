@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-18 10:07
+Generated: 2026-10-18 10:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -86,17 +86,7 @@ Semiconductor ETF posts longest losing streak in over two decades amid chip sell
 
 Semiconductor ETF posts longest losing streak in over two decades amid chip selloff Seeking Alpha
 
-### 9. Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-10-17T10:08:19+00:00
-- Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkJRV1B0bjFITkhnZkUydWVsbkpVZXdLRms2enpGZHJMNnVwWWlIMGRleG5jZUlQdlRhUjVGT1pPak5Qa2F0aGdmSW8waFlCZlZSNlVfSVFfM2RUNTRiRWRjZGkxUGJaajVoWWE3VkxCOXNmaGYxVjJpbjNQS1NrMWF1QXlQcTA1d3hleXFrMWx3UkZGMkRvQTlPVnZrbFVzRWhoSmVqWUxMaWl5eVMtME1wNEhsQVZFU3dmTS1BM1pGMUFHb1hxMEpkNzgzMFlSNTMyNXdaNA?oc=5
-
-Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded Goodreturns
-
-### 10. AI boom risks market correction if productivity lags: Peter Berezin - Asianet Newsable
+### 9. AI boom risks market correction if productivity lags: Peter Berezin - Asianet Newsable
 
 - Source: Asianet Newsable
 - Published: 2026-10-18T03:30:27+00:00
@@ -106,7 +96,7 @@ Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why R
 
 AI boom risks market correction if productivity lags: Peter Berezin Asianet Newsable
 
-### 11. Global hedge funds hammered by AI selloff this week, Asia managers lead losses - DZRH
+### 10. Global hedge funds hammered by AI selloff this week, Asia managers lead losses - DZRH
 
 - Source: DZRH
 - Published: 2026-10-18T02:42:28+00:00
@@ -116,7 +106,7 @@ AI boom risks market correction if productivity lags: Peter Berezin Asianet News
 
 Global hedge funds hammered by AI selloff this week, Asia managers lead losses DZRH
 
-### 12. AI stock hype mirrors dot-com bubble; investors warned to expect a market correction soon. - Pluang
+### 11. AI stock hype mirrors dot-com bubble; investors warned to expect a market correction soon. - Pluang
 
 - Source: Pluang
 - Published: 2026-10-18T02:25:11+00:00
@@ -126,7 +116,7 @@ Global hedge funds hammered by AI selloff this week, Asia managers lead losses D
 
 AI stock hype mirrors dot-com bubble; investors warned to expect a market correction soon. Pluang
 
-### 13. Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg - Investing.com
+### 12. Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-18T02:01:57+00:00
@@ -136,7 +126,7 @@ AI stock hype mirrors dot-com bubble; investors warned to expect a market correc
 
 Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg Investing.com
 
-### 14. The AI bubble is about to burst — and a big market correction is coming - New York Post
+### 13. The AI bubble is about to burst — and a big market correction is coming - New York Post
 
 - Source: New York Post
 - Published: 2026-10-18T00:21:00+00:00
@@ -146,7 +136,7 @@ Asian AI stocks fall as rising financing costs threaten spending boom - Bloomber
 
 The AI bubble is about to burst — and a big market correction is coming New York Post
 
-### 15. 3 Credit Stocks Retail Investors Are Watching After The AI Funding Selloff - Simply Wall Street
+### 14. 3 Credit Stocks Retail Investors Are Watching After The AI Funding Selloff - Simply Wall Street
 
 - Source: Simply Wall Street
 - Published: 2026-10-17T21:47:46+00:00
@@ -156,7 +146,7 @@ The AI bubble is about to burst — and a big market correction is coming New Yo
 
 3 Credit Stocks Retail Investors Are Watching After The AI Funding Selloff Simply Wall Street
 
-### 16. Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff - Beinsure
+### 15. Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff - Beinsure
 
 - Source: Beinsure
 - Published: 2026-10-17T21:34:45+00:00
@@ -166,7 +156,7 @@ The AI bubble is about to burst — and a big market correction is coming New Yo
 
 Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff Beinsure
 
-### 17. Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits
+### 16. Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-17T21:04:47+00:00
@@ -176,7 +166,7 @@ Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff Beins
 
 Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus Stocktwits
 
-### 18. Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June - Eurasia Business News
+### 17. Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June - Eurasia Business News
 
 - Source: Eurasia Business News
 - Published: 2026-10-17T19:49:22+00:00
@@ -186,7 +176,7 @@ Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NV
 
 Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June Eurasia Business News
 
-### 19. Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff - Yahoo Finance
+### 18. Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-17T18:46:59+00:00
@@ -196,7 +186,7 @@ Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June Eurasi
 
 Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff Yahoo Finance
 
-### 20. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
+### 19. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-17T18:40:38+00:00
@@ -206,7 +196,7 @@ Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Clo
 
 BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict BBN Times
 
-### 21. Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey
+### 20. Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey
 
 - Source: TradingKey
 - Published: 2026-10-17T17:28:08+00:00
@@ -216,7 +206,7 @@ BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine
 
 Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? TradingKey
 
-### 22. Chip stocks fall 8 days straight, longest losin... - Pluang
+### 21. Chip stocks fall 8 days straight, longest losin... - Pluang
 
 - Source: Pluang
 - Published: 2026-10-17T16:42:38+00:00
@@ -226,7 +216,7 @@ Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse
 
 Chip stocks fall 8 days straight, longest losin... Pluang
 
-### 23. Stock Market Week Chip Selloff Widens: What to Know - JournalArta
+### 22. Stock Market Week Chip Selloff Widens: What to Know - JournalArta
 
 - Source: JournalArta
 - Published: 2026-10-17T15:47:10+00:00
@@ -235,6 +225,16 @@ Chip stocks fall 8 days straight, longest losin... Pluang
 - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQzZ0Mi1TVUVfVXllRXYxdlFJbDI4MmpzLVhpbzR1d3N3U3dvS2xlWnB5X1RYZGx3SHIwdXJmSU02cGZ5Z3BrVWxuS3NRWkJwTk9IVklneWo3QXFtMFNYSlZwX3ZqMjJiY2d6RHUxUl9YVS1Ed042RGVXQlVKNFR0dWxUcV9ydTZjc2lN?oc=5
 
 Stock Market Week Chip Selloff Widens: What to Know JournalArta
+
+### 23. NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout - Stocktwits
+
+- Source: Stocktwits
+- Published: 2026-10-17T15:28:37+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXZrNVRuUWJyLVM1UG5kOGRtZ0JlRTVQbjB4SDR3Z0VFUlJscUxBWmc0elJ3STl2bnZyOVF6R2pNTF8xRmluWElpcXIzYkdkVzA0WFVvb0tLME9TOHdYWHZiUVViV0JnQnA2NGNEWExwdjNGRUR3ajNtZGx5MmVUdHpKZzdJalZxTGZUNjNwRVhNMG5GUWgzNWE2WXlYVWVONHBnRkY2bEtUT0JsSTctNGF4VkNZQWlzaDZLNWkwRW1mTzY2cHVN?oc=5
+
+NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout Stocktwits
 
 ### 24. Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break - FXEmpire
 
@@ -346,17 +346,7 @@ Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and cru
 
 Dollar Tree, Inc. $DLTR Shares Newly Acquired by Counterpoint Mutual Funds LLC MarketBeat
 
-### 35. Counterpoint Mutual Funds LLC Buys 18,804 Shares of Dollar General Corporation $DG - MarketBeat
-
-- Source: MarketBeat
-- Published: 2026-10-18T08:20:04+00:00
-- Themes: macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQVNDWVM1eWpXV3BqTUtxRzhsTnVhVFc2QkJMSFo3ZmJDaC1ZSktyeVE4YzZ4T21uTk1UN1llWl9PWGVjelkxMEp4NEpfbDdRbEFkVExuNHVVZTdqbG81N21MNmlNWEpCOG9kN3R2VG1wbTZXVk9YQUg0cHNJbzN4bi0tdERGY0VHTDd1cWJIXzM2UlkzU0JnSlpHUmJhX1ljQnh4bzJnOVRmMERSeFhjWjVoTWs5N1FZdThXXzJLazA3ZlBFSnVvY2ZNY0MwR2lSMDFFZ2dSRFc?oc=5
-
-Counterpoint Mutual Funds LLC Buys 18,804 Shares of Dollar General Corporation $DG MarketBeat
-
-### 36. Market outlook: Q2 earnings, FII flows, global yields to drive Dalal Street next week - Lokmat Times
+### 35. Market outlook: Q2 earnings, FII flows, global yields to drive Dalal Street next week - Lokmat Times
 
 - Source: Lokmat Times
 - Published: 2026-10-18T06:56:35+00:00
@@ -366,7 +356,7 @@ Counterpoint Mutual Funds LLC Buys 18,804 Shares of Dollar General Corporation $
 
 Market outlook: Q2 earnings, FII flows, global yields to drive Dalal Street next week Lokmat Times
 
-### 37. Suresh KP Mutual Fund Portfolio 2026: Where I Invest - Myinvestmentideas
+### 36. Suresh KP Mutual Fund Portfolio 2026: Where I Invest - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-17T16:00:25+00:00
@@ -376,7 +366,7 @@ Market outlook: Q2 earnings, FII flows, global yields to drive Dalal Street next
 
 Suresh KP Mutual Fund Portfolio 2026: Where I Invest Myinvestmentideas
 
-### 38. Multi-cap vs multi-asset allocation mutual funds returns race: Key differences, 1, 3 and 5-year returns compared here - Livemint
+### 37. Multi-cap vs multi-asset allocation mutual funds returns race: Key differences, 1, 3 and 5-year returns compared here - Livemint
 
 - Source: Livemint
 - Published: 2026-10-18T09:28:02+00:00
@@ -386,7 +376,7 @@ Suresh KP Mutual Fund Portfolio 2026: Where I Invest Myinvestmentideas
 
 Multi-cap vs multi-asset allocation mutual funds returns race: Key differences, 1, 3 and 5-year returns compared here Livemint
 
-### 39. Quote on FPI Flows in Indian Markets by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth - Investment Guru India
+### 38. Quote on FPI Flows in Indian Markets by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-18T08:51:47+00:00
@@ -396,7 +386,7 @@ Multi-cap vs multi-asset allocation mutual funds returns race: Key differences, 
 
 Quote on FPI Flows in Indian Markets by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth Investment Guru India
 
-### 40. How to choose small-cap mutual funds and avoid chasing past returns - CNBC TV18
+### 39. How to choose small-cap mutual funds and avoid chasing past returns - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-18T08:47:56+00:00
@@ -406,7 +396,7 @@ Quote on FPI Flows in Indian Markets by Dheeraj Gaur, Chief Investment Strategy 
 
 How to choose small-cap mutual funds and avoid chasing past returns CNBC TV18
 
-### 41. Stock Market Next Week: Jio Platforms ₹30,213 Crore IPO, Q2 Earnings & Crude Oil Prices To Drive Investor - Free Press Journal
+### 40. Stock Market Next Week: Jio Platforms ₹30,213 Crore IPO, Q2 Earnings & Crude Oil Prices To Drive Investor - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-18T08:21:53+00:00
@@ -416,7 +406,7 @@ How to choose small-cap mutual funds and avoid chasing past returns CNBC TV18
 
 Stock Market Next Week: Jio Platforms ₹30,213 Crore IPO, Q2 Earnings & Crude Oil Prices To Drive Investor Free Press Journal
 
-### 42. Counterpoint Mutual Funds LLC Buys New Stake in Yelp Inc. $YELP - MarketBeat
+### 41. Counterpoint Mutual Funds LLC Buys New Stake in Yelp Inc. $YELP - MarketBeat
 
 - Source: MarketBeat
 - Published: 2026-10-18T08:20:04+00:00
@@ -426,7 +416,7 @@ Stock Market Next Week: Jio Platforms ₹30,213 Crore IPO, Q2 Earnings & Crude O
 
 Counterpoint Mutual Funds LLC Buys New Stake in Yelp Inc. $YELP MarketBeat
 
-### 43. Counterpoint Mutual Funds LLC Buys 9,870 Shares of Astera Labs, Inc. $ALAB - MarketBeat
+### 42. Counterpoint Mutual Funds LLC Buys 9,870 Shares of Astera Labs, Inc. $ALAB - MarketBeat
 
 - Source: MarketBeat
 - Published: 2026-10-18T08:20:03+00:00
@@ -436,7 +426,7 @@ Counterpoint Mutual Funds LLC Buys New Stake in Yelp Inc. $YELP MarketBeat
 
 Counterpoint Mutual Funds LLC Buys 9,870 Shares of Astera Labs, Inc. $ALAB MarketBeat
 
-### 44. Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Investments Before Diwali - Business Today
+### 43. Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Investments Before Diwali - Business Today
 
 - Source: Business Today
 - Published: 2026-10-18T04:30:34+00:00
@@ -446,7 +436,7 @@ Counterpoint Mutual Funds LLC Buys 9,870 Shares of Astera Labs, Inc. $ALAB Marke
 
 Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Investments Before Diwali Business Today
 
-### 45. Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint
+### 44. Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint
 
 - Source: Livemint
 - Published: 2026-10-18T03:43:30+00:00
@@ -456,7 +446,7 @@ Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Invest
 
 Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September Livemint
 
-### 46. LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and property are taxed - Upstox
+### 45. LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and property are taxed - Upstox
 
 - Source: Upstox
 - Published: 2026-10-18T03:14:33+00:00
@@ -466,7 +456,7 @@ Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 st
 
 LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and property are taxed Upstox
 
-### 47. Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapore - SMBtech
+### 46. Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapore - SMBtech
 
 - Source: SMBtech
 - Published: 2026-10-18T02:52:17+00:00
@@ -476,7 +466,7 @@ LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and
 
 Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapore SMBtech
 
-### 48. US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; What's Ahead After Fed Minutes - Goodreturns
+### 47. US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; What's Ahead After Fed Minutes - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-17T18:26:23+00:00
@@ -486,7 +476,7 @@ Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapo
 
 US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; What's Ahead After Fed Minutes Goodreturns
 
-### 49. Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision - INDIA New England News
+### 48. Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-17T18:03:34+00:00
@@ -496,7 +486,7 @@ US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; Wh
 
 Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDIA New England News
 
-### 50. Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years - ET Now
+### 49. Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years - ET Now
 
 - Source: ET Now
 - Published: 2026-10-17T17:47:44+00:00
@@ -506,17 +496,17 @@ Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDI
 
 Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years ET Now
 
-### 51. Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint
+### 50. Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint
 
 - Source: Livemint
 - Published: 2026-10-17T11:30:38+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxQbmhOekg0VTluUHlkY3F6b21jbFVrakd6WDlTVklEQ0ptRVlCc0xOd1lYdFhMbnFURllUbXNUaXpMcmpHcjFaOHJ4b0s2ZnBsR0VXWGVJSDlrNUtKSU1ONTUtLVVFLXJmeXE0RmswYmxtbkRHY1RZWkFjdUthaEtFWV95eTRFa1ozbmVDLWJKcExjckRJUTdTR2t1cGtsdmhFTGcwYzNOdGFXdWJlV2lEWTFOUFIybzV5RGd6U095YjJsbHVfVHMzdkIwSnI4UjR4STczOVNrWEkxc2pUaUlBNVBoTVgwNjB6ZlBjdndTdkcyMHhHUTJ1VHNpU0R3TXJFbzJ5bGItenoxZkZLdEZfNFg4OWVRVGFsOEHSAZoCQVVfeXFMUG5oTnpINFU5blB5ZGNxem9tY2xVa2pHelg5U1ZJRENKbUVZQnNMTndZWHRYTG5xVEZZVG1zVGl6THJqR3IxWjhyeG9LNmZwbEdFV1hlSUg5azVLSklNTjU1LS1VRS1yZnlxNEZrMGJsbW5ER2NUWVpBY3VLYWhLRVlfeXk0RWtaM25lQy1iSnBMY3JESVE3U0drdXBrbHZoRUxnMGMzTnRhV3ViZVdpRFkxTlBSMm81eURnelNPeWIybGx1X1RzM3ZCMEpyOFI0eEk3MzlTa1hJMXNqVGlJQTVQaE1YMDYwemZQY3Z3U3ZHMjB4R1EydVRzaVNEd01yRW8yeWxiLXp6MWZGS3RGXzRYODllUVRhbDhB?oc=5
+- Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxQNlBYUzA2c1lsLWhGdERPb2hwQXdoYzlYcnVMWEVRaDRjUDBiQU9mdnd4STdtQU8tT014MkZpZUdfY2hfejNuOS1Dbm0yckRPanRKU1ZhNmE4cHFZX2MyLWMxaVNzdy01UzRDUncxX2dyTHBkcGNaZVFtcUdxd2Q5c2FjYVoyeXdoWEtPc2JjN1FLNlQtZUc3dmhvY1JDT0w0cWx6bEFtR0JtR0ZNVHpkUlVVV0xSVkFCZTBkZ1NNbVhqZnZqdHhyeHFMdllsWm9oSnd3RzFvSVpOTEJUOFNERllrN0lPOWhKZGtmRGZsZjk5MXl1dVRSZDhJNVhrQkMtVEJ4RzVGNzZiWVFkaDRLdWRtOETSAZoCQVVfeXFMUG5oTnpINFU5blB5ZGNxem9tY2xVa2pHelg5U1ZJRENKbUVZQnNMTndZWHRYTG5xVEZZVG1zVGl6THJqR3IxWjhyeG9LNmZwbEdFV1hlSUg5azVLSklNTjU1LS1VRS1yZnlxNEZrMGJsbW5ER2NUWVpBY3VLYWhLRVlfeXk0RWtaM25lQy1iSnBMY3JESVE3U0drdXBrbHZoRUxnMGMzTnRhV3ViZVdpRFkxTlBSMm81eURnelNPeWIybGx1X1RzM3ZCMEpyOFI0eEk3MzlTa1hJMXNqVGlJQTVQaE1YMDYwemZQY3Z3U3ZHMjB4R1EydVRzaVNEd01yRW8yeWxiLXp6MWZGS3RGXzRYODllUVRhbDhB?oc=5
 
 Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do Livemint
 
-### 52. Nifty & Bank Nifty Weekly Outlook 18-10-2026 by Choice Broking Ltd - Investment Guru India
+### 51. Nifty & Bank Nifty Weekly Outlook 18-10-2026 by Choice Broking Ltd - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-18T09:32:51+00:00
@@ -526,17 +516,17 @@ Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts d
 
 Nifty & Bank Nifty Weekly Outlook 18-10-2026 by Choice Broking Ltd Investment Guru India
 
-### 53. FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus - The Economic Times
+### 52. FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-18T08:11:02+00:00
 - Themes: India market
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3UyT0tjZFpQWGVZT1ByN1daaF9yTHgtNFRLb0JXVGx3aHVjOXZRVTZ5OTMtelNDdXBoYmdzVGVycTV3QTVvZjUtRjhRUjMzMzV0Q0JKSjFLWExrZU1SYTNaR2VqTWZjUUI5Q0FRUnQwSnNmLXUxc1FKT1FfVm0wVlRtQl9YNUs4SmJ0cTc3MkZpdXJHaGFBY01VVlhKR2Q5RnJfVGZQSWFkb0R0OWNWWEw5TnZVVzUwbkRyWVlVd0YxMUtEb2k1WlVQMHU4VUlDdnBJbWs3dlhOQzY1S1YzcEY3azjSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5
+- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYTNTYWQyMmdfV040eFdfLW9qX2VWdTkzcTZsVllmLVNFUkpjMjlyVXBwZFhlSDJmUTNVN3FLVzBBZmlOb1UwclU2cVZqalFFY0xjT0tWOWxaOFRLS09MVTJPRXkxaUdDWkk0MzJxaUxUUnI0V3NPeVVUU0xYMm9TTVFsRlhqT2FEbW9mLWF5WVRmQWtJSG1Vc3RfcVBqSkdieEZUaDFDUWJiYTQxU3gtS29wQTlnbkhLWGNEWC1YdkZ2N3JEYUU2MjkycHpESmZ5WEdLQkpybDVTYUhtQUpaYlAtWk1JbVJTSUxPWFhuaGfSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5
 
 FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus The Economic Times
 
-### 54. FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus - The Economic Times
+### 53. FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-18T08:11:00+00:00
@@ -546,7 +536,7 @@ FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus Th
 
 FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus The Economic Times
 
-### 55. 👨🏻‍💻 Foreign investors are backing India's IPO boom but selling in the secondary market. 💰 Can tax relief bring FIIs back, or will stronger earnings be the real trigger? #Watch full show: https://lnkd.in/dY-vtpDU Shereen Bhan Prashant Nair Nigel Dsouza #IPO # - LinkedIn
+### 54. 👨🏻‍💻 Foreign investors are backing India's IPO boom but selling in the secondary market. 💰 Can tax relief bring FIIs back, or will stronger earnings be the real trigger? #Watch full show: https://lnkd.in/dY-vtpDU Shereen Bhan Prashant Nair Nigel Dsouza #IPO # - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-10-18T07:30:24+00:00
@@ -556,7 +546,7 @@ FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus Th
 
 👨🏻‍💻 Foreign investors are backing India's IPO boom but selling in the secondary market. 💰 Can tax relief bring FIIs back, or will stronger earnings be the real trigger? #Watch full show: https://lnkd.in/dY-vtpDU Shereen Bhan Prashant Nair Nigel Dsouza #IPO # LinkedIn
 
-### 56. Stock Market Outlook Today, September 8: Sensex, Nifty Likely To Remain Under Pressure Amid Geopolitical Risks - Goodreturns
+### 55. Stock Market Outlook Today, September 8: Sensex, Nifty Likely To Remain Under Pressure Amid Geopolitical Risks - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-18T07:19:16+00:00
@@ -566,7 +556,7 @@ FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus Th
 
 Stock Market Outlook Today, September 8: Sensex, Nifty Likely To Remain Under Pressure Amid Geopolitical Risks Goodreturns
 
-### 57. Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns
+### 56. Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-18T07:05:13+00:00
@@ -576,7 +566,7 @@ Stock Market Outlook Today, September 8: Sensex, Nifty Likely To Remain Under Pr
 
 Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias Goodreturns
 
-### 58. Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns
+### 57. Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-18T04:36:44+00:00
@@ -586,7 +576,7 @@ Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trad
 
 Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore Goodreturns
 
-### 59. Equity markets open flat amid gains in crude oil prices - DD News
+### 58. Equity markets open flat amid gains in crude oil prices - DD News
 
 - Source: DD News
 - Published: 2026-10-18T04:01:26+00:00
@@ -596,7 +586,7 @@ Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped O
 
 Equity markets open flat amid gains in crude oil prices DD News
 
-### 60. Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens - MarketsMojo
+### 59. Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-10-18T03:49:37+00:00
@@ -606,7 +596,7 @@ Equity markets open flat amid gains in crude oil prices DD News
 
 Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens MarketsMojo
 
-### 61. India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs - Moneycontrol.com
+### 60. India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-18T02:34:07+00:00
@@ -616,7 +606,7 @@ Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens Markets
 
 India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs Moneycontrol.com
 
-### 62. Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise - INDIA New England News
+### 61. Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-17T16:32:52+00:00
@@ -626,7 +616,7 @@ India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pa
 
 Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise INDIA New England News
 
-### 63. Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs - Dynamite News
+### 62. Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs - Dynamite News
 
 - Source: Dynamite News
 - Published: 2026-10-17T13:15:15+00:00
@@ -636,7 +626,7 @@ Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise INDI
 
 Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs Dynamite News
 
-### 64. Chip index SOX posts longest losing streak since 2008 as AI worries deepen - Yahoo! Finance Canada
+### 63. Chip index SOX posts longest losing streak since 2008 as AI worries deepen - Yahoo! Finance Canada
 
 - Source: Yahoo! Finance Canada
 - Published: 2026-10-17T12:38:09+00:00
@@ -646,7 +636,7 @@ Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs Dynam
 
 Chip index SOX posts longest losing streak since 2008 as AI worries deepen Yahoo! Finance Canada
 
-### 65. India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: FundsIndia CEO - BW Businessworld
+### 64. India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: FundsIndia CEO - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-10-17T12:29:39+00:00
@@ -656,7 +646,7 @@ Chip index SOX posts longest losing streak since 2008 as AI worries deepen Yahoo
 
 India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: FundsIndia CEO BW Businessworld
 
-### 66. Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India - Livemint
+### 65. Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India - Livemint
 
 - Source: Livemint
 - Published: 2026-10-17T10:44:25+00:00
@@ -665,6 +655,16 @@ India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: Fu
 - Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxOeXVDOHJIelR4Y1lpcFZSdzRUc0JxWXFzZXVMMWNJckxmNUJlc2F3WXNFM1hFNFVWRTRTZG5WVmdmWlVKcGllVEdISGxjd1hhTXkzSW9LYnA1SGRkYzBtODNQdVhtNXJOYW5ac3dsMDl1cTBkUVZfSTVnMUxmT2p6UmVsQmhTNldZV0Y2anAxU2Rab081LTJjTnMweXFsTTA5eFZLalQwMTJWb1M4akRWcWtTSl84dFE3RXBBVl96Qmd4cEtVVlJkWldBSkZMblNtZ29INEVXWFRXakl0TkxUa2w5c080alc0ZG4tYzMyOFFUdFpOeWdHMkhsWWtOZ1dp0gGGAkFVX3lxTE1oWE44bFdJbzFTam9zZzRuc2JsSERta1NaSFNrcEdtdWk2NXFiUERSX2NFdXBMUno0TWJUZHRYV21LOEFNa2MwQzdDenVHaEl3blFVNWh3Q0RhYVpSSVFUVEVEUmp2c0dEcW5hb3BCQ0tsUklxTDZMcHNNcUlOby1yZk50S2FuSk9IWWxoS3B0bVRYcThDaTNVd3cxRmkwWXd0NVNCWk9nNHBKXzZvYS1wbmhZcUlkbEx5Tno4OGlMdk8tN2g2WTU5UXotTEVhamgwb3M0YzZlMm95RUd5b0ZPdkpxUVZuVWh2STRxQkV3QnBQd2hNY2Y5SmNueC13Rzc4VjVxaFE?oc=5
 
 Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India Livemint
+
+### 66. Quote on Weekly Market Outlook from Mr. Ajit Mishra, SVP - Research, Religare Broking - Investment Guru India
+
+- Source: Investment Guru India
+- Published: 2026-10-18T10:13:02+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPeUJwN18taFdVdktQN0UxbTdhWTRwWW1VTTJMSzlqOGV5WHd0R3FkOEpMQVZIRmZZdUpUWHQ2MmhWWi1FU2RIOU5YbmJaampaUmk0UXR1dFhqNnVLaHY0aG1OMl9rWUtOcDRQWXdmSXBfaWpUbHZlMElJbHNQS2l5ZzQ0U0NxYWl0MzVmUVNjb3Zidm1iWXljVGFQbTE4eTVNY3M1QzhCMmNvNTdreUtSMUNUeGxFbTVXcFY3VWVyVmY0REVFVjd0N2pURQ?oc=5
+
+Quote on Weekly Market Outlook from Mr. Ajit Mishra, SVP - Research, Religare Broking Investment Guru India
 
 ### 67. Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog
 

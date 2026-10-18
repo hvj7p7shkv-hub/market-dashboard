@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 15:41 IST",
+  "generated_at": "2026-10-18 16:11 IST",
   "wire_file": "2026-10-18-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -28,20 +28,20 @@
     "wire_scope_date": "2026-10-18",
     "ai_wire_count": "10",
     "selling_wire_count": "10",
-    "india_wire_count": "21",
+    "india_wire_count": "22",
     "weak_index_count": "10",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-18 09:56",
-      "title": "Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and crude oil prices to drive investor sentiment - IBTimes India",
-      "text": "Latest dated headline · IBTimes India. Today's unique wire set contains 45 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-18 10:13",
+      "title": "Quote on Weekly Market Outlook from Mr. Ajit Mishra, SVP - Research, Religare Broking - Investment Guru India",
+      "text": "Latest dated headline · Investment Guru India. Today's unique wire set contains 45 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-18",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-18 has 18 India-market wires, 10 selling/risk wires, and 10 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-18 has 19 India-market wires, 10 selling/risk wires, and 10 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-18",
@@ -22803,7 +22803,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-18T15:40:55+05:30",
+    "generated_at": "2026-10-18T16:10:43+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35267,15 +35267,6 @@
       "description": "Semiconductor ETF posts longest losing streak in over two decades amid chip selloff Seeking Alpha"
     },
     {
-      "published": "2026-10-17T10:08:19+00:00",
-      "score": 8.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Goodreturns",
-      "title": "Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQZkJRV1B0bjFITkhnZkUydWVsbkpVZXdLRms2enpGZHJMNnVwWWlIMGRleG5jZUlQdlRhUjVGT1pPak5Qa2F0aGdmSW8waFlCZlZSNlVfSVFfM2RUNTRiRWRjZGkxUGJaajVoWWE3VkxCOXNmaGYxVjJpbjNQS1NrMWF1QXlQcTA1d3hleXFrMWx3UkZGMkRvQTlPVnZrbFVzRWhoSmVqWUxMaWl5eVMtME1wNEhsQVZFU3dmTS1BM1pGMUFHb1hxMEpkNzgzMFlSNTMyNXdaNA?oc=5",
-      "description": "Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded Goodreturns"
-    },
-    {
       "published": "2026-10-18T03:30:27+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35402,6 +35393,15 @@
       "description": "Stock Market Week Chip Selloff Widens: What to Know JournalArta"
     },
     {
+      "published": "2026-10-17T15:28:37+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Stocktwits",
+      "title": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXZrNVRuUWJyLVM1UG5kOGRtZ0JlRTVQbjB4SDR3Z0VFUlJscUxBWmc0elJ3STl2bnZyOVF6R2pNTF8xRmluWElpcXIzYkdkVzA0WFVvb0tLME9TOHdYWHZiUVViV0JnQnA2NGNEWExwdjNGRUR3ajNtZGx5MmVUdHpKZzdJalZxTGZUNjNwRVhNMG5GUWgzNWE2WXlYVWVONHBnRkY2bEtUT0JsSTctNGF4VkNZQWlzaDZLNWkwRW1mTzY2cHVN?oc=5",
+      "description": "NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout Stocktwits"
+    },
+    {
       "published": "2026-10-17T14:27:33+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35499,15 +35499,6 @@
       "title": "Dollar Tree, Inc. $DLTR Shares Newly Acquired by Counterpoint Mutual Funds LLC - MarketBeat",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOU3BXZElYNjA2N2I2Z3VGQ0RtbGJONnhIWEtIRGo2RHR5eDdWM2ZfYnJLQjc2UnRWZGtYYzEycUdyMWExbkpibjFVenhMMDhyMG5LWHJISzJpVmVGM01CVTlPenR2ODBsekhSeDhSZW5uTkRNYVNBU0N2dmZWVUd4YWNvMk1pQzJiZ2dyOHhTQjk1T3d5QnIxTXo1RVlXcHZRVEdndmNwOXNCVGt1Tl9KdGNtTXhGLWZnOFptdl9SMWNYc3VONWtHNkNUaThIT0pwUmc?oc=5",
       "description": "Dollar Tree, Inc. $DLTR Shares Newly Acquired by Counterpoint Mutual Funds LLC MarketBeat"
-    },
-    {
-      "published": "2026-10-18T08:20:04+00:00",
-      "score": 4.0,
-      "themes": "['macro / flows']",
-      "source": "MarketBeat",
-      "title": "Counterpoint Mutual Funds LLC Buys 18,804 Shares of Dollar General Corporation $DG - MarketBeat",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQVNDWVM1eWpXV3BqTUtxRzhsTnVhVFc2QkJMSFo3ZmJDaC1ZSktyeVE4YzZ4T21uTk1UN1llWl9PWGVjelkxMEp4NEpfbDdRbEFkVExuNHVVZTdqbG81N21MNmlNWEpCOG9kN3R2VG1wbTZXVk9YQUg0cHNJbzN4bi0tdERGY0VHTDd1cWJIXzM2UlkzU0JnSlpHUmJhX1ljQnh4bzJnOVRmMERSeFhjWjVoTWs5N1FZdThXXzJLazA3ZlBFSnVvY2ZNY0MwR2lSMDFFZ2dSRFc?oc=5",
-      "description": "Counterpoint Mutual Funds LLC Buys 18,804 Shares of Dollar General Corporation $DG MarketBeat"
     },
     {
       "published": "2026-10-18T06:56:35+00:00",
@@ -35650,7 +35641,7 @@
       "themes": "[]",
       "source": "Livemint",
       "title": "Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQbmhOekg0VTluUHlkY3F6b21jbFVrakd6WDlTVklEQ0ptRVlCc0xOd1lYdFhMbnFURllUbXNUaXpMcmpHcjFaOHJ4b0s2ZnBsR0VXWGVJSDlrNUtKSU1ONTUtLVVFLXJmeXE0RmswYmxtbkRHY1RZWkFjdUthaEtFWV95eTRFa1ozbmVDLWJKcExjckRJUTdTR2t1cGtsdmhFTGcwYzNOdGFXdWJlV2lEWTFOUFIybzV5RGd6U095YjJsbHVfVHMzdkIwSnI4UjR4STczOVNrWEkxc2pUaUlBNVBoTVgwNjB6ZlBjdndTdkcyMHhHUTJ1VHNpU0R3TXJFbzJ5bGItenoxZkZLdEZfNFg4OWVRVGFsOEHSAZoCQVVfeXFMUG5oTnpINFU5blB5ZGNxem9tY2xVa2pHelg5U1ZJRENKbUVZQnNMTndZWHRYTG5xVEZZVG1zVGl6THJqR3IxWjhyeG9LNmZwbEdFV1hlSUg5azVLSklNTjU1LS1VRS1yZnlxNEZrMGJsbW5ER2NUWVpBY3VLYWhLRVlfeXk0RWtaM25lQy1iSnBMY3JESVE3U0drdXBrbHZoRUxnMGMzTnRhV3ViZVdpRFkxTlBSMm81eURnelNPeWIybGx1X1RzM3ZCMEpyOFI0eEk3MzlTa1hJMXNqVGlJQTVQaE1YMDYwemZQY3Z3U3ZHMjB4R1EydVRzaVNEd01yRW8yeWxiLXp6MWZGS3RGXzRYODllUVRhbDhB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQNlBYUzA2c1lsLWhGdERPb2hwQXdoYzlYcnVMWEVRaDRjUDBiQU9mdnd4STdtQU8tT014MkZpZUdfY2hfejNuOS1Dbm0yckRPanRKU1ZhNmE4cHFZX2MyLWMxaVNzdy01UzRDUncxX2dyTHBkcGNaZVFtcUdxd2Q5c2FjYVoyeXdoWEtPc2JjN1FLNlQtZUc3dmhvY1JDT0w0cWx6bEFtR0JtR0ZNVHpkUlVVV0xSVkFCZTBkZ1NNbVhqZnZqdHhyeHFMdllsWm9oSnd3RzFvSVpOTEJUOFNERllrN0lPOWhKZGtmRGZsZjk5MXl1dVRSZDhJNVhrQkMtVEJ4RzVGNzZiWVFkaDRLdWRtOETSAZoCQVVfeXFMUG5oTnpINFU5blB5ZGNxem9tY2xVa2pHelg5U1ZJRENKbUVZQnNMTndZWHRYTG5xVEZZVG1zVGl6THJqR3IxWjhyeG9LNmZwbEdFV1hlSUg5azVLSklNTjU1LS1VRS1yZnlxNEZrMGJsbW5ER2NUWVpBY3VLYWhLRVlfeXk0RWtaM25lQy1iSnBMY3JESVE3U0drdXBrbHZoRUxnMGMzTnRhV3ViZVdpRFkxTlBSMm81eURnelNPeWIybGx1X1RzM3ZCMEpyOFI0eEk3MzlTa1hJMXNqVGlJQTVQaE1YMDYwemZQY3Z3U3ZHMjB4R1EydVRzaVNEd01yRW8yeWxiLXp6MWZGS3RGXzRYODllUVRhbDhB?oc=5",
       "description": "Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do Livemint"
     },
     {
@@ -35668,7 +35659,7 @@
       "themes": "['India market']",
       "source": "The Economic Times",
       "title": "FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3UyT0tjZFpQWGVZT1ByN1daaF9yTHgtNFRLb0JXVGx3aHVjOXZRVTZ5OTMtelNDdXBoYmdzVGVycTV3QTVvZjUtRjhRUjMzMzV0Q0JKSjFLWExrZU1SYTNaR2VqTWZjUUI5Q0FRUnQwSnNmLXUxc1FKT1FfVm0wVlRtQl9YNUs4SmJ0cTc3MkZpdXJHaGFBY01VVlhKR2Q5RnJfVGZQSWFkb0R0OWNWWEw5TnZVVzUwbkRyWVlVd0YxMUtEb2k1WlVQMHU4VUlDdnBJbWs3dlhOQzY1S1YzcEY3azjSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYTNTYWQyMmdfV040eFdfLW9qX2VWdTkzcTZsVllmLVNFUkpjMjlyVXBwZFhlSDJmUTNVN3FLVzBBZmlOb1UwclU2cVZqalFFY0xjT0tWOWxaOFRLS09MVTJPRXkxaUdDWkk0MzJxaUxUUnI0V3NPeVVUU0xYMm9TTVFsRlhqT2FEbW9mLWF5WVRmQWtJSG1Vc3RfcVBqSkdieEZUaDFDUWJiYTQxU3gtS29wQTlnbkhLWGNEWC1YdkZ2N3JEYUU2MjkycHpESmZ5WEdLQkpybDVTYUhtQUpaYlAtWk1JbVJTSUxPWFhuaGfSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5",
       "description": "FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus The Economic Times"
     },
     {
@@ -35787,6 +35778,15 @@
       "title": "Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India - Livemint",
       "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxOeXVDOHJIelR4Y1lpcFZSdzRUc0JxWXFzZXVMMWNJckxmNUJlc2F3WXNFM1hFNFVWRTRTZG5WVmdmWlVKcGllVEdISGxjd1hhTXkzSW9LYnA1SGRkYzBtODNQdVhtNXJOYW5ac3dsMDl1cTBkUVZfSTVnMUxmT2p6UmVsQmhTNldZV0Y2anAxU2Rab081LTJjTnMweXFsTTA5eFZLalQwMTJWb1M4akRWcWtTSl84dFE3RXBBVl96Qmd4cEtVVlJkWldBSkZMblNtZ29INEVXWFRXakl0TkxUa2w5c080alc0ZG4tYzMyOFFUdFpOeWdHMkhsWWtOZ1dp0gGGAkFVX3lxTE1oWE44bFdJbzFTam9zZzRuc2JsSERta1NaSFNrcEdtdWk2NXFiUERSX2NFdXBMUno0TWJUZHRYV21LOEFNa2MwQzdDenVHaEl3blFVNWh3Q0RhYVpSSVFUVEVEUmp2c0dEcW5hb3BCQ0tsUklxTDZMcHNNcUlOby1yZk50S2FuSk9IWWxoS3B0bVRYcThDaTNVd3cxRmkwWXd0NVNCWk9nNHBKXzZvYS1wbmhZcUlkbEx5Tno4OGlMdk8tN2g2WTU5UXotTEVhamgwb3M0YzZlMm95RUd5b0ZPdkpxUVZuVWh2STRxQkV3QnBQd2hNY2Y5SmNueC13Rzc4VjVxaFE?oc=5",
       "description": "Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India Livemint"
+    },
+    {
+      "published": "2026-10-18T10:13:02+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Investment Guru India",
+      "title": "Quote on Weekly Market Outlook from Mr. Ajit Mishra, SVP - Research, Religare Broking - Investment Guru India",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPeUJwN18taFdVdktQN0UxbTdhWTRwWW1VTTJMSzlqOGV5WHd0R3FkOEpMQVZIRmZZdUpUWHQ2MmhWWi1FU2RIOU5YbmJaampaUmk0UXR1dFhqNnVLaHY0aG1OMl9rWUtOcDRQWXdmSXBfaWpUbHZlMElJbHNQS2l5ZzQ0U0NxYWl0MzVmUVNjb3Zidm1iWXljVGFQbTE4eTVNY3M1QzhCMmNvNTdreUtSMUNUeGxFbTVXcFY3VWVyVmY0REVFVjd0N2pURQ?oc=5",
+      "description": "Quote on Weekly Market Outlook from Mr. Ajit Mishra, SVP - Research, Religare Broking Investment Guru India"
     },
     {
       "published": "2026-10-18T09:46:20+00:00",
