@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 12:10 IST",
+  "generated_at": "2026-10-18 12:40 IST",
   "wire_file": "2026-10-18-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,12 +23,12 @@
   },
   "posture": {
     "stance": "Risk-off, AI-led",
-    "wire_count": "19",
-    "wire_total_count": "106",
+    "wire_count": "17",
+    "wire_total_count": "89",
     "wire_scope_date": "2026-10-18",
-    "ai_wire_count": "9",
+    "ai_wire_count": "10",
     "selling_wire_count": "8",
-    "india_wire_count": "5",
+    "india_wire_count": "3",
     "weak_index_count": "10",
     "valid_index_count": "25"
   },
@@ -36,12 +36,12 @@
     {
       "label": "Newest Wire · 2026-10-18 05:16",
       "title": "Market outlook: Q2 earnings, FII flows, global yields to drive Dalal Street next week - Social News XYZ",
-      "text": "Latest dated headline · Social News XYZ. Today's unique wire set contains 18 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · Social News XYZ. Today's unique wire set contains 17 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-18",
       "title": "Risk-off still dominates the wires",
-      "text": "The latest wire slice for 2026-10-18 has 8 selling/risk wires and 9 AI/tech-risk wires, so the bias remains defensive."
+      "text": "The latest wire slice for 2026-10-18 has 8 selling/risk wires and 10 AI/tech-risk wires, so the bias remains defensive."
     },
     {
       "label": "AI / Chips · 2026-10-18",
@@ -49,9 +49,9 @@
       "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: US stocks fall as AI sell-off intensifies: Weekly Market Recap - Beansprout"
     },
     {
-      "label": "India Trigger · 2026-10-18",
-      "title": "Crude is the local swing factor",
-      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs - Moneycontrol.com"
+      "label": "Flows · 2026-10-18",
+      "title": "Foreign-flow and risk appetite lens",
+      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: Market outlook: Q2 earnings, FII flows, global yields to drive Dalal Street next week - Social News XYZ"
     }
   ],
   "indices": [
@@ -22803,7 +22803,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-18T12:10:05+05:30",
+    "generated_at": "2026-10-18T12:40:07+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35393,6 +35393,15 @@
       "description": "BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict BBN Times"
     },
     {
+      "published": "2026-10-17T17:28:08+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "TradingKey",
+      "title": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdElsOVVGaVZjUTYxTHdKWGViSWxlVmNpV0dJckpsRVB3emxHNHl4OHJpbm9Fb1ZqWHdNcFVqUWNXR3JaTXc2cGM1Ml9pMU1rMGxOQ2czd3QydFhxUTk3T3RLRFAyV0h5R0M4ZGIwV09aM2pDRF9mSGpQcGVVTnJ3THNqTlhMaERROWdYcHpJbldGRGZ6eFlaZmktMHBUaGNMQ0w0Vk82V1VJa0dyWlpDZFNTWlg1VzVj?oc=5",
+      "description": "Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? TradingKey"
+    },
+    {
       "published": "2026-10-17T16:42:38+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35510,15 +35519,6 @@
       "description": "Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software Stocks Down Under"
     },
     {
-      "published": "2026-10-17T09:35:00+00:00",
-      "score": 6.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Kalkine India",
-      "title": "Why Listed AMCs Are Holding Up Amid Market Volatility - Kalkine India",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVkZZY2dqa1NGY0VzVFZDUWdjRXc4QktrSkdyWHRwODNLYmtDZUdKSmd3TDI2czFIcTF2RXBUWnF0SWkxcHJFSGtHM285Yk9IckMzbFRFVnZJNWxNZjlFTUtiTk5pX3VXTEdSOXJhN1c5V1QwMGxSVkVXRHRNRERRcXNKNEVLcWpmMTdEVFY1c2xqajZGbzZHM1d2Q1lkVW1VTEljOG1ySld2bnEzV0xVaG9oZnlrSG5oVU1wdEhGR0pMYjltS2h4UFZWeU9JTTRDZUY2eTdR?oc=5",
-      "description": "Why Listed AMCs Are Holding Up Amid Market Volatility Kalkine India"
-    },
-    {
       "published": "2026-10-17T10:06:29+00:00",
       "score": 5.0,
       "themes": "['India market']",
@@ -35551,7 +35551,7 @@
       "themes": "[]",
       "source": "Livemint",
       "title": "Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZkNvTE5Va3JDdWc0SFI5RDFmRm5URU55bE43dnVlZVZDODM0aE5lNVZUYnNaZ3BHOWtZMHBvM1c1SU8wbWZzTldRUTF1ZFMtYXVmUWNpZ1k3ME0tOHp1Q3lOcmhULXZhbzkweUl1STBJTzlydHhSeGFVQTFTRlFhZ2Q5UXNaYUlUeWhyYmVXX0hCQ2phUTE3R0pQRjF1SW8zanJULWk3NDlpc2xfbVZFcTlnNGV5eHhNc1JpUUpNUU1rb0x1U19tT3hUYlE5T2RrOU16Mmk0eWQxUDRZakpiUHUzdVhsSWh4TkNOOGszSndXM3E1d0tzQ1dSNmR4RkNjRUJ0cGVadVp4WHVZWUVtc3JhekVYcDQz0gGYAkFVX3lxTE1mQ29MTlVrckN1ZzRIUjlEMWZGblRFTnlsTjd2dWVlVkM4MzRoTmU1VlRic1pncEc5a1kwcG8zVzVJTzBtZnNOV1FRMXVkUy1hdWZRY2lnWTcwTS04enVDeU5yaFQtdmFvOTB5SXVJMElPOXJ0eFJ4YVVBMVNGUWFnZDlRc1phSVR5aHJiZVdfSEJDamFRMTdHSlBGMXVJbzNqclQtaTc0OWlzbF9tVkVxOWc0ZXl4eE1zUmlRSk1RTWtvTHVTX21PeFRiUTlPZGs5TXoyaTR5ZDFQNFlqSmJQdTN1WGxJaHhOQ044azNKd1czcTV3S3NDV1I2ZHhGQ2NFQnRwZVp1WnhYdVlZRW1zcmF6RVhwNDM?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQX1BCX2d4OXZEdXh5NHgzN1gxcjZWTjllTC1DaTFDWWtXYzgzb0lVVnhpWDkwYS1QSDctYWMtcWV3WnYxbUF1U1h6eXZySVFIZjlJZjlsYVk1MTRRYVFCMTBtS2liT1kwN0FwNnI3QmFrMDBGTnFrVXB3dnpDQjJjSHFySUxhUjRvcHkzTmpia3M4YzVSZnpVVGQ1THowMzNjSjZTWHZRNEVPcWtSbjJ4T2dkOWZMcjVYTmdxNi0tcl8wb2ZoZHd5QTVRSE9FZl9Bd21XRlJSYnJWUEtMSzhFZkZ1dlZFZW9qcGlQZGtyZjZiVWx2dXo4ME8za1MtM1hkWnV6UDl4clFvNjJ4RldoQmRMY9IBmAJBVV95cUxNZkNvTE5Va3JDdWc0SFI5RDFmRm5URU55bE43dnVlZVZDODM0aE5lNVZUYnNaZ3BHOWtZMHBvM1c1SU8wbWZzTldRUTF1ZFMtYXVmUWNpZ1k3ME0tOHp1Q3lOcmhULXZhbzkweUl1STBJTzlydHhSeGFVQTFTRlFhZ2Q5UXNaYUlUeWhyYmVXX0hCQ2phUTE3R0pQRjF1SW8zanJULWk3NDlpc2xfbVZFcTlnNGV5eHhNc1JpUUpNUU1rb0x1U19tT3hUYlE5T2RrOU16Mmk0eWQxUDRZakpiUHUzdVhsSWh4TkNOOGszSndXM3E1d0tzQ1dSNmR4RkNjRUJ0cGVadVp4WHVZWUVtc3JhekVYcDQz?oc=5",
       "description": "Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September Livemint"
     },
     {
@@ -35591,15 +35591,6 @@
       "description": "Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDIA New England News"
     },
     {
-      "published": "2026-10-17T17:47:44+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "ET Now",
-      "title": "Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQdzV0UG1iTjBiVzA5azE3MFYyTkI5RVVfQVdQa3djZDI1RHFQTV9PWjBQU3V6UXNzdkFleGUta2FGQ3gzUzVSSG04N2xHZUNhRnluWU9WMWJfYVNTclBTdmdjTzN3TXdkT2syNlhzMVVDWFpXVlU1VW9PYW5OdE9yVlB4TXhhVU5TNjFtS2ZTckUtbFpJNndZbGt5MG9YWUk0ZWpwMmZQdFBXWnZFdUltMnFpVGtLQ3JMZzdpMDR3ZlRMVlViQlFPemFpNHdhTUo4NXVMZGhMWGdMSmhDTUHSAeMBQVVfeXFMUEZKblFFSklEUjZ5MjlvOWFiczlDTkxDYTJmZ2JmeXlEN2xhdXJfbXl4S2M5cEZfWXg2bm1BYlJzYWxoYlMxV3N1dTF3S1ZJNUtNUk1tRG5lRHlISlhTR1NvWEgwbGEwSktiNkRGTE50SzZNdWZzUUZrS0dvbFo5aU5MSHdTVkc2SzB6UG9FNjduQjVXT0Nsc1EzUW83aHl0X3N3MEkyNVhJbXZabmdmU3VqeXRDbG42VzVyeWR3bnFLOE1oaXItY2Z1TUNBckh3eWZJLUJKeU1KdzNpUFJSUE9nUTQ?oc=5",
-      "description": "Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years ET Now"
-    },
-    {
       "published": "2026-10-17T11:30:38+00:00",
       "score": 3.0,
       "themes": "[]",
@@ -35627,6 +35618,15 @@
       "description": "Best thematic factor-based mutual funds 2026: Which equity schemes lead in 1- 3- and 5-year CAGR returns? Livemint"
     },
     {
+      "published": "2026-10-18T04:36:44+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Goodreturns",
+      "title": "Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdEw3Um0zUy0zWTMtMTJkZ0FIMm11S3d5bEJXREFCVTVJUTJHSzZ0T3J5d1ZKTmZfTW1BR1BBMTJOVkI1ODMwamF0NFN6QUJiamc3YjVOcUZhUWU0TzRyaXNqY202ZzlkWXhIRmpiV2JvZEg2b1A1VXdZZF8xNWg1OEVLb3gtWDNPTnA0dnJqa1JYWEpBaEhHcXBjeldiOHpOR0x1NWROcVdPT3hHRlU5anlRVFVUUVROVGFZSDZyTHJjYkc3WUZvbGpSQUZya0xaUzZDZFphbGhFems?oc=5",
+      "description": "Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore Goodreturns"
+    },
+    {
       "published": "2026-10-18T03:49:37+00:00",
       "score": 2.0,
       "themes": "['market selling']",
@@ -35634,15 +35634,6 @@
       "title": "Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens - MarketsMojo",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNZkF3S0dXUUxvMHVtZUR1Ujh0WUNnNy1ienpzaWxJVkd5SXFOeHY4NzZhcnFUcnRCZHYyY1BOM3VxZldNdm02eUhBNUFHakdXRmY0TVFqWTdsaUlfNktWNDJmX2lkNEZsUEloRU5uQm1iVkdyTkdnRFRUX29rMU5GcWpvbDMxYWdkOTJXV1JneUF4ZVgyMDNqZU50RWFmdVhKRnlVdTZNdndxSjlzaTlBOFpDY20?oc=5",
       "description": "Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens MarketsMojo"
-    },
-    {
-      "published": "2026-10-18T02:34:07+00:00",
-      "score": 2.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRmlCaVBocGx1ZDBpb0xLMFROTVlZZ0Jsel9aOTZzUHFlUWFHaTZGUXZaNXpuVDUwbjRjQWlmcHpQVG1EQmJjMkh4Z01oSWtxMDI2SDBRT2hCdkl6RGZHUzRtbXpVOVRVZGZYdmJBRkhJUkQ4TWNLRmZSNFItc1luMkRrQnBpeHlWSHY4UFhKa1Q2STJSZEV0YmI3ME5sajJORGlwdTk1Zk5WVXYzNFJzWFBCYU8wSS1ROEhVdFpjYklvY3dNaUtoVWw0bVJKcUJHVXA5VTJKM19lc1JRTDY0VVZBRGVOa3lWbnoyNGVabnNGVkNI0gH0AUFVX3lxTFBGaUJpUGhwbHVkMGlvTEswVE5NWVlnQmx6X1o5NnNQcWVRYUdpNkZRdlo1em5UNTBuNGNBaWZwelBUbURCYmMySHhnTWhJa3EwMjZIMFFPaEJ2SXpEZkdTNG1telU5VFVkZlh2YkFGSElSRDhNY0tGZlI0Ui1zWW4yRGtCcGl4eVZIdjhQWEprVDZJMlJkRXRiYjcwTmxqMk5EaXB1OTVmTlZVdjM0UnNYUEJhTzBJLVE4SFV0WmNiSW9jd01pS2hVbDRtUkpxQkdVcDlVMkozX2VzUlFMNjRVVkFEZU5reVZuejI0ZVpuc0ZWQ0g?oc=5",
-      "description": "India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs Moneycontrol.com"
     },
     {
       "published": "2026-10-17T16:32:52+00:00",
@@ -35666,10 +35657,10 @@
       "published": "2026-10-17T12:38:09+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk']",
-      "source": "Yahoo Finance Australia",
-      "title": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen - Yahoo Finance Australia",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOG1jZ25VQ0hRdXlkbFhLMGNMX1Z6c1VEcGZ3YTFIUVBoRWpTd2FRZEhpRlJOWHRlbktyRVFmNWdYR1VxbWFEMzlJaUxPODhYZTBmc0x2T2ctc3VEaUZYNFdQMGNXWXZ2Y3dfdTdxME1kTkxzVEZDY1g0LWdLX01RWHdZdw?oc=5",
-      "description": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen Yahoo Finance Australia"
+      "source": "Yahoo! Finance Canada",
+      "title": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNOGpuTmpNaHRqeXREcVYyTWpfdzdBOXV6SVJJc0p1UUNfTFJ3ZU1Vc0pvdWVHRGFDNkhzSm50anFnVkstUUJSeXB3Uk9PaDRfZVRlMDZQdHN2QmlrbHlrZUUzcXZmUWVzUDZvU05aZTFHemYyaVNiRzcwMV9vVHo0bFdCRQ?oc=5",
+      "description": "Chip index SOX posts longest losing streak since 2008 as AI worries deepen Yahoo! Finance Canada"
     },
     {
       "published": "2026-10-17T12:29:39+00:00",
@@ -35690,49 +35681,13 @@
       "description": "Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India Livemint"
     },
     {
-      "published": "2026-10-17T10:00:37+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "Moneycontrol.com",
-      "title": "Air India, AI Express cancel Saudi Arabia flights till October 24 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDNKWlhHa1pTWThQa1RTNXI4UG04c1VwaHFCbVV2bm1lbTI3aG9GUWVZUXA2Zl9ZRllUU2lNU3JZR1R2NG9IQlZ6T0xQVlRRd1dLZEk1ekEzSmx4czR3cVQzX2R2b1ZwRVFqU2FMVmNUbnVGQkFsMHIxMWlGdVhXOGQteVlqbTlCUTMzb2JyM2t0UE1za1oyOVBlbW45enRDcnNobGstemN4U1VzYmZyVXdmckVyaEZEekMzZ05iRdIBvwFBVV95cUxOSDNKWlhHa1pTWThQa1RTNXI4UG04c1VwaHFCbVV2bm1lbTI3aG9GUWVZUXA2Zl9ZRllUU2lNU3JZR1R2NG9IQlZ6T0xQVlRRd1dLZEk1ekEzSmx4czR3cVQzX2R2b1ZwRVFqU2FMVmNUbnVGQkFsMHIxMWlGdVhXOGQteVlqbTlCUTMzb2JyM2t0UE1za1oyOVBlbW45enRDcnNobGstemN4U1VzYmZyVXdmckVyaEZEekMzZ05iRQ?oc=5",
-      "description": "Air India, AI Express cancel Saudi Arabia flights till October 24 Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-17T09:20:22+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Jefferies warns AI earnings growth to slow sharply in next 2 years, urges investors to diversify - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOeXJEclFXdmRzaUY4MkxJa3p2STdaaXJBZlM3clItQjBhVGlBT0h2OUpTQ0V0emlCeU9wWlNBV0Q3RVZiX0JwSUtmem1XdEhKUGZlS1lOQ19sUWVFYTJwMEFFOVJwM0VwbXdHaWZlQTMtc0xlZlJfb0NqUjRZQ18xZ1U1eERIS25HQ05oMjhwQXMxUW9jNVIyNXhaUDQ4eldYVGJwbUFPdFoxMWFoU24tbnNaUENNbzRSeEFaQ1NST2RKSXo5N2Y4NXF6amdleTVOTkJrMjN0b0p5UTNVTlZqZUlBNzJzSGg1UEhHQWNJRzBmQ3dHNk400gH3AUFVX3lxTE55ckRyUVd2ZHNpRjgyTElrenZJN1ppckFmUzdyUi1CMGFUaUFPSHY5SlNDRXR6aUJ5T3BaU0FXRDdFVmJfQnBJS2Z6bVd0SEpQZmVLWU5DX2xRZUVhMnAwQUU5UnAzRXBtd0dpZmVBMy1zTGVmUl9vQ2pSNFlDXzFnVTV4REhLbkdDTmgyOHBBczFRb2M1UjI1eFpQNDh6V1hUYnBtQU90WjExYWhTbi1uc1pQQ01vNFJ4QVpDU1JPZEpJejk3Zjg1cXpqZ2V5NU5OQmsyM3RvSnlRM1VOVmplSUE3MnNIaDVQSEdBY0lHMGZDd0c2TjQ?oc=5",
-      "description": "Jefferies warns AI earnings growth to slow sharply in next 2 years, urges investors to diversify Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-17T08:40:17+00:00",
-      "score": 2.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Rediff MoneyWiz",
-      "title": "India's Russian Crude Imports Continue After Trump Waiver - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTGxnNU12azZFQkRpWGR3dHRWd2ZuSnJxZDFsWkkwZUtlQXQ5Z2JveTEtNjRTVW0tMU41aERCRlBFSTA0ZlctNXhYeUVZMXp5eHRpMXJTZkZua1RIMi1xUE9mSEo2dTd6bklyQzJ5QVkyb01QSzZfWE5PQlVlUVAtNnlwRDJSdC0xVmhOTGdaSTdCZmpOVUZ3aWFCaDlHVXhyYlNTZUVnOWpjUnJIMnfSAbMBQVVfeXFMT2h0UlI3a2tyUDdCUVJrZnZSQTA4NC12MGpQVlEwQkd0VVJSeHBjYkhmdE45d1l1dEpfNEU0VUJNTFBOOWl6Um1WVkFsLWhtZnJLZTlPUmpRSHNTR0VXZF8wNjRQU1VuX3VxZUQ2OExURlU1QzVsODlCZy1rbVpjZ0F5emNJZEF3WE51dVR4bDlJbG00TWlLdnl1Y2FmaW5aUTQ3c3VkLUZyYXdIZUtXSlMxSUU?oc=5",
-      "description": "India's Russian Crude Imports Continue After Trump Waiver Rediff MoneyWiz"
-    },
-    {
-      "published": "2026-10-18T03:57:40+00:00",
+      "published": "2026-10-18T03:26:00+00:00",
       "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Rubio heads to India to secure 'economic opportunities' as Trump pauses Russia-linked tariffs on 'ally' India - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPcW16WlpaNVBWbWhFdEhZWmY2MmV0VEJ4UU8xSW1tcVNFb0VNQXBtR2xnZl9ZMXlGRktOZnpIZk5hcUNpN1JyZEM5MTVwYlgxOTlodnM4SU1xOFBINC1zMk9ZTnN0Sld5and2UEVRMU1VcXQyVUU5OG5PblNYaDMxUF9STjRYUXRnRGYxdXpncFFKbFBneFREYTRyWmJPbXV1dGlQZ0FXWDh2WWxCd0JuTkdHQXpFVFpyRWlKTWxTMWdIaHlkT1VtNGlFN3NnTlg3XzJIelVFSngxdzhodnJXWUl5VU4tOUlOY3FEUnBKQ1FQZ1RzcS0yS1d3?oc=5",
-      "description": "Rubio heads to India to secure 'economic opportunities' as Trump pauses Russia-linked tariffs on 'ally' India Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-18T02:58:09+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQcVIwZ2s4bmltSDNHM0pSS3dEb2ZRN01BOEhvWWxaclh1OEZiMkJ5THN3RzBIa1NvVUhTUlZ2Wjc2TmRqMmJBSnJIRGt3U3VNTFZnR0F5eno0cThkczlMZlRVUXk1QVgya21JVzVwMjVuMnJMVXg3VGJZWnp1RXFLNEhNUWhTN21tYjB0d0ZVaFJNSmZyQzhRdzhXa3JmQVVpNzE2TkM5MjRpbGVqYkdPUnE1dlBOeEVhVjIyU2lMc25YY2tKckt6a2pMRWJiNzBjZFdqelhKc1R0WnNvQ195YU1EcVF3ZHZlV216Z2ZlYVp6QdIB8gFBVV95cUxQcVIwZ2s4bmltSDNHM0pSS3dEb2ZRN01BOEhvWWxaclh1OEZiMkJ5THN3RzBIa1NvVUhTUlZ2Wjc2TmRqMmJBSnJIRGt3U3VNTFZnR0F5eno0cThkczlMZlRVUXk1QVgya21JVzVwMjVuMnJMVXg3VGJZWnp1RXFLNEhNUWhTN21tYjB0d0ZVaFJNSmZyQzhRdzhXa3JmQVVpNzE2TkM5MjRpbGVqYkdPUnE1dlBOeEVhVjIyU2lMc25YY2tKckt6a2pMRWJiNzBjZFdqelhKc1R0WnNvQ195YU1EcVF3ZHZlV216Z2ZlYVp6QQ?oc=5",
-      "description": "Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers Moneycontrol.com"
+      "themes": "['AI / tech risk']",
+      "source": "AFR",
+      "title": "ASX to brush off Wall Street carnage as AI rout deepens - AFR",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdW9sWUZIcERQWWR2RmlqTlAzZTdlc0tZZ1pHV0tJVkJybXpPdW1pUG5kTXhvTHYwakNrNi1mZVBvdXJzOXpVLVZISzFsSmZpdGlvNnFrQVFKZEU2MVRpeXllc0NfUlBMS3FfZVZ6NkxVYnBrVDFYQU16QnM0SU1Sdlg4TF9ndHBXaWpsY3E0emFpbUVUOU0wODR5MmtTaWQzRUtpeEJ5QkgyNmJzT2tPQUVRRjI?oc=5",
+      "description": "ASX to brush off Wall Street carnage as AI rout deepens AFR"
     },
     {
       "published": "2026-10-18T02:58:09+00:00",
@@ -35751,15 +35706,6 @@
       "title": "New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVENVYkFuNV9XZWh5dTRjZG5EaXM3WktvMGg5dEItdkNaRjhFUmhvSXhtWVdsWGJ2VXhVbTlha0dsWkRwbGxjWUhoOFdDakR5Z094X0tnVEU0bHNYcVpuRnJxa3phaWZvVDdpZzRORk9vTUt2ZjF2eDdWLWI0b3lqNEZNUHBINXg1WFBPeHMzcTBYbkQ2LWFjZGE1Sk4xRG1zUGJQb1ZUVUhORnpYclJvMlMycjNJTHgwRHc?oc=5",
       "description": "New AI framework bridges a critical gap in mid-range weather forecasts Microsoft"
-    },
-    {
-      "published": "2026-10-18T01:35:57+00:00",
-      "score": 1.0,
-      "themes": "['macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Daily Voice: Has the market priced in higher rates but not earnings downgrades? This investment adviser... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWWU2QlNzdXBJNUZldjVpTlhHT0tHamd5clRJVDE3RG1DQXN2SDBxeFdTVUJ2M0xkZUhndGpVa25fOUhvcFQ2MUR5WmRjbjUwM2JERzdfV0hicERNM19mNXdXbnhMWllnVWxJV0hXc1luTTIydFlJYjlTZUNlZm1fdlZBQVE0eVNrOEwwUTA1UFRhSlNKVEZITDQ2aFNYY3hjTEthLWh4V3lxcEVsN3VyUGFMQWktbWlOV0dhX0JCT2RmdUtEN2MzZVQxMVU4WDZuZDdhbTZFZWpzMkNUVmhRVzEyTnZpTVd0WnNYblpPV2pEdnNJc2JLa1ZmbVQ0c01YUVJVMzBxTlhkclXSAYsCQVVfeXFMT1llNkJTc3VwSTVGZXY1aU5YR09LR2pneXJUSVQxN0RtQ0FzdkgwcXhXU1VCdjNMZGVIZ3RqVWtuXzlIb3BUNjFEeVpkY241MDNiREc3X1dIYnBETTNfZjV3V254TFpZZ1VsSVdIV3NZbk0yMnRZSWI5U2VDZWZtX3ZWQUFRNHlTazhMMFEwNVBUYUpTSlRGSEw0NmhTWGN4Y0xLYS1oeFd5cXBFbDd1clBhTEFpLW1pTldHYV9CQk9kZnVLRDdjM2VUMTFVOFg2bmQ3YW02RWVqczJDVFZoUVcxMk52aU1XdFpzWG5aT1dqRHZzSXNiS2tWZm1UNHNNWFFSVTMwcU5YZHJV?oc=5",
-      "description": "Daily Voice: Has the market priced in higher rates but not earnings downgrades? This investment adviser... Moneycontrol.com"
     },
     {
       "published": "2026-10-18T00:44:20+00:00",
@@ -35798,24 +35744,6 @@
       "description": "Asian markets sell off as AI trades crumble after hot US CPI data DD News"
     },
     {
-      "published": "2026-10-17T17:48:13+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "From India to Spain: What is driving protests around the world? - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2hsWHNpRlZMTW95bldLc1F5UGtXZk4yOVgwb0JTbE5hcTFGdkZhZHBfMkIxc0M0Si1SbFZ2cjJyY0xqUG9IOUdVN2Q2ZG1nWDRKSTg1VktXbWstRDU5NlhPNmlLQ2FGMF84T2ZfTmMzcUhGSEsyLTUyV1hYbW14UWRNc2d2OXFrcndyUWNobFhqdDhBdE92dzl4SW9nR2lOZDhFRXRYcDY3RGZJN3RaX2RESC1DTjdMN0Q3RlJ3c9IBvwFBVV95cUxQX2hsWHNpRlZMTW95bldLc1F5UGtXZk4yOVgwb0JTbE5hcTFGdkZhZHBfMkIxc0M0Si1SbFZ2cjJyY0xqUG9IOUdVN2Q2ZG1nWDRKSTg1VktXbWstRDU5NlhPNmlLQ2FGMF84T2ZfTmMzcUhGSEsyLTUyV1hYbW14UWRNc2d2OXFrcndyUWNobFhqdDhBdE92dzl4SW9nR2lOZDhFRXRYcDY3RGZJN3RaX2RESC1DTjdMN0Q3RlJ3cw?oc=5",
-      "description": "From India to Spain: What is driving protests around the world? Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-17T17:38:39+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Federal Bank appoints Cognizant India CMD Rajesh Varrier as independent director - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQMXM3UWdVdG5EaGM1WW84VHpYLUg1amU0UFVTZk1ZRGlGNzFZYjFvcHpUR3dGVzBRQVBlVHVLcWRaN2FsZHNTcXZsVW5SczZNR3dnbWhNV2ZaS1ZfazhKRXRhNGNLdWtkQzZrdmNzU3JMOEZfUUpleWJoMkU3VVRhTnlPbi1NNGRYbkdUb0hHd2wzS3hUQnNSRFV3YTVodGhDLWxONW1Xb3lUOEM4M3NXaGowckRYYU9tX0tvRkJwTklnc3ZVUkp6cDZDV3VILTJmNS0tem50eFDSAdgBQVVfeXFMUDFzN1FnVXRuRGhjNVlvOFR6WC1INWplNFBVU2ZNWURpRjcxWWIxb3B6VEd3RlcwUUFQZVR1S3FkWjdhbGRzU3F2bFVuUnM2TUd3Z21oTVdmWktWX2s4SkV0YTRjS3VrZEM2a3Zjc1NyTDhGX1FKZXliaDJFN1VUYU55T24tTTRkWG5HVG9IR3dsM0t4VEJzUkRVd2E1aHRoQy1sTjVtV295VDhDODNzV2hqMHJEWGFPbV9Lb0ZCcE5JZ3N2VVJKenA2Q1d1SC0yZjUtLXpudHhQ?oc=5",
-      "description": "Federal Bank appoints Cognizant India CMD Rajesh Varrier as independent director Moneycontrol.com"
-    },
-    {
       "published": "2026-10-17T16:47:11+00:00",
       "score": 1.0,
       "themes": "['macro / flows']",
@@ -35832,15 +35760,6 @@
       "title": "S&P 500 analysis and forecast after the \"AI bubble\" panic - investingLive",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREVhb3hhZGhXRHhBMUVLZEI0SjVxck1yUUxhMERlUURJRnhaclZJbXUtYjktX2ZWeEJzWG05enNOdF92MmtrV2htSUtfeGxqZ0ROVlB2Vnc2SjVmaE9nbUl1QTA0dDV3TGZJODZvS3R3VWs1RHViVWgySldCOTNtejJJcDR3Zno3R1FvMkI4YUJVYTFuWnpPX2VCUzFXT1BEakJ3?oc=5",
       "description": "S&P 500 analysis and forecast after the \"AI bubble\" panic investingLive"
-    },
-    {
-      "published": "2026-10-17T16:21:38+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "FSSAI issues notices to Nestle India, Hindustan Unilever for misleading claims - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdnBDUWVrOXpRSGgzX0JWQmxubW9odVhhWWNQeW55YVl1MHM3T21Edm9DR3FsNnA1SDRPOVVZNnpGUVozaVoyV2RrNV94SWlaUkdWVUtndUIwclhiaHBQRklpWXhrbE93eU5POEtFUVdkNDBXM3lkRGZJMHh6V1J6ZVJRVU55bG01QTgwek9RZDJadHlrVWc4YXNNUERweEhiSUZ6N19TRk1GczVTem1JTTJjZVpUcVNtZUxpQjNwUjMzWVUtSnFFRHJGWU1tZkd30gHQAUFVX3lxTE52cENRZWs5elFIaDNfQlZCbG5tb2h1WGFZY1B5bnlhWXUwczdPbUR2b0NHcWw2cDVINE85VVk2ekZRWjNpWjJXZGs1X3hJaVpSR1ZVS2d1QjByWGJocFBGSWlZeGtsT3d5Tk84S0VRV2Q0MFczeWREZkkweHpXUnplUlFVTnlsbTVBODB6T1FkMlp0eWtVZzhhc01QRHB4SGJJRno3X1NGTUZzNVN6bUlNMmNlWlRxU21lTGlCM3BSMzNZVS1KcUVEckZZTW1mR3c?oc=5",
-      "description": "FSSAI issues notices to Nestle India, Hindustan Unilever for misleading claims Moneycontrol.com"
     },
     {
       "published": "2026-10-17T16:20:03+00:00",
@@ -35915,15 +35834,6 @@
       "description": "IDBI Bank Q2 profit falls 39% to ₹2,205 crore on high base of NSDL gains Business Standard"
     },
     {
-      "published": "2026-10-17T12:52:50+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Every golfer can create 10 jobs, Tier-II and III cities to drive India's golf boom: Amitabh Kant - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPSWxnempxZTdpZ3k0V1N4RlVwMVpuOEtaUWxUWjhWNjIzbWx4SjJPTlZIcmptVmVucEtmQ29uVTFEWFVtV2JjYzVzQ0ZycnZ6d1YyNUdOMmVoX1RRYi01S0dLWTc3TXFoZjd1RGlYOXFhTWtKdFdsbjVZUm9XaXRid3FVT05XMlJWNVZCNWlUXzRubXZVVUJJTkVmRDgzVExxUGx3WWU2Rm1KQURtcWFZY3JJZWVucXFvUE55a0FyVlhTbjZkcXkzTGdUMVZXN0hVbkp0MUVFaDZmZThaLWxmUWZFUjNLMzQ1d3pZ0gHrAUFVX3lxTE9JbGd6anFlN2lneTRXU3hGVXAxWm44S1pRbFRaOFY2MjNtbHhKMk9OVkhyam1WZW5wS2ZDb25VMURYVW1XYmNjNXNDRnJydnp3VjI1R04yZWhfVFFiLTVLR0tZNzdNcWhmN3VEaVg5cWFNa0p0V2xuNVlSb1dpdGJ3cVVPTlcyUlY1VkI1aVRfNG5tdlVVQklORWZEODNUTHFQbHdZZTZGbUpBRG1xYVljckllZW5xcW9QTnlrQXJWWFNuNmRxeTNMZ1QxVlc3SFVuSnQxRUVoNmZlOFotbGZRZkVSM0szNDV3elk?oc=5",
-      "description": "Every golfer can create 10 jobs, Tier-II and III cities to drive India's golf boom: Amitabh Kant Moneycontrol.com"
-    },
-    {
       "published": "2026-10-17T12:51:14+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35933,15 +35843,6 @@
       "description": "Oracle's AI Buildout Faces a Paperwork Problem and a Financing Bill ad-hoc-news.de"
     },
     {
-      "published": "2026-10-17T12:48:28+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "US' Russia sanction waiver a relief for India's exporters, energy security: Experts - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxObFpPU1FuOXRrSUxnMzljbGx4VkEteGVuTWxRc3E3akhidl9lOUFlZ1l4NS15enN1eUZMMjR0SGlqbS1ENmRCZFlpN2lWU1VLcHU0WGhlb0JzMU82RDl6ekpSelpGZE03VGNSaVdwVWxGeFVwZTdhS2d6NUpqeDdRVXhPWDFLU0gzeHp4STZHMThxendlSmNzV1hFR2lBTm56eDl2cTJncTRQcVZSZDh0VWNiaGNHMTcxbUg3ZTJ5TFhVYU5FTDhLM3EzN2J2eUl4dC1PbWZUeVfSAdgBQVVfeXFMTmxaT1NRbjl0a0lMZzM5Y2xseFZBLXhlbk1sUXNxN2pIYnZfZTlBZWdZeDUteXpzdXlGTDI0dEhpam0tRDZkQmRZaTdpVlNVS3B1NFhoZW9CczFPNkQ5enpKUnpaRmRNN1RjUmlXcFVsRnhVcGU3YUtnejVKang3UVV4T1gxS1NIM3h6eEk2RzE4cXp3ZUpjc1dYRUdpQU5ueng5dnEyZ3E0UHFWUmQ4dFVjYmhjRzE3MW1IN2UyeUxYVWFORUw4SzNxMzdidnlJeHQtT21mVHlX?oc=5",
-      "description": "US' Russia sanction waiver a relief for India's exporters, energy security: Experts Moneycontrol.com"
-    },
-    {
       "published": "2026-10-17T12:45:00+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -35949,15 +35850,6 @@
       "title": "The Correction Is Healthy, The Next Move Is Yours (NYSEARCA:SPY) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnhSZXd6LTAyNlZ5X05qNzlOU1E1ZjQxQXp3cHV6b0FrMlg2NUNOX2NVM204VmRJYVBzRzFaNWtXUGJsSnBXMGd2dHNkeFNPM2RLMUJGNHg2dExkcVdQYS1Nd3dMRTJ3cF9SZ0tVS2FmaDVYU2R5QnluYXgtaW5pMGxRb2MtcjV1?oc=5",
       "description": "The Correction Is Healthy, The Next Move Is Yours (NYSEARCA:SPY) Seeking Alpha"
-    },
-    {
-      "published": "2026-10-17T12:12:00+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "India vs West Indies Live Score IND vs WI 5th T20I live score updates Bengaluru - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOX2VhRG5aZmpYcUI4SG05bXJtZTAtVTZ4Y0JxcjRpRlJaa2Jla19QcXA4emhJWlN2VldxTWdCbE5CUldScWVXRW9yc0tKR3JCU0Y5clJnM2FvSm44MlE0N1Q5TXFzajJlUVgtQXB5emRjOXBpVGRYSGFTRXB1dS11SUdOZW1UdGotZG8zQU9VbllCbHlsS2xxQ1F5bUJzdm84TEZHOWF2cWJHQk9oTF9zbkpqOFVJaWxGREZnUURXRS1iMnplZ1FFWHl3OU1VNktsOFNJOU0wWS1hSFk4cWEyczJkNEjSAeQBQVVfeXFMTl9lYURuWmZqWHFCOEhtOW1ybWUwLVU2eGNCcXI0aUZSWmtiZWtfUHFwOHpoSVpTdlZXcU1nQmxOQlJXUnFlV0VvcnNLSkdyQlNGOXJSZzNhb0puODJRNDdUOU1xc2oyZVFYLUFweXpkYzlwaVRkWEhhU0VwdXUtdUlHTmVtVHRqLWRvM0FPVW5ZQmx5bEtscUNReW1Cc3ZvOExGRzlhdnFiR0JPaExfc25KajhVSWlsRkRGZ1FEV0UtYjJ6ZWdRRVh5dzlNVTZLbDhTSTlNMFktYUhZOHFhMnMyZDRI?oc=5",
-      "description": "India vs West Indies Live Score IND vs WI 5th T20I live score updates Bengaluru Moneycontrol.com"
     },
     {
       "published": "2026-10-17T12:02:00+00:00",
@@ -35996,15 +35888,6 @@
       "description": "When Machine Learning Models Fake a Trading Edge: How Data Leakage Manufactured a Perfect Bank Nifty Prediction Bioengineer.org"
     },
     {
-      "published": "2026-10-17T09:46:13+00:00",
-      "score": 1.0,
-      "themes": "['macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Jefferies warns Houthi war with Saudi Arabia threatens oil infra, Red Sea shipping route - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNUXhWVEVIenI4V2dfUGphUEd4SzJpN3lnNHFoV3JjZzNOdmM1WEN4ek5Jd3lzWWJub3lJMnpOZkdaY0UtZzdrUV9fU01QT2JkSjFkRWlhZTFkaUNBZjJYWjZJRTFZeVlmaUVUb1dpQWVKdGVPTk16cXJtdFZUTGhxbW5ob1Z6ZGo2Tm0ta0daYnNzeEdXWGpHMTVHdWp0eUtkM3pIYW4xUDlPNy11Q1RrZWZ4SG8zZlE3aV9rR1pfN21kZGlTMENJVzgwd3FzQl94MGdVeG1vS0tlUWVNeWdEZEFYcEFpYUF3U1pwU9IB7AFBVV95cUxNUXhWVEVIenI4V2dfUGphUEd4SzJpN3lnNHFoV3JjZzNOdmM1WEN4ek5Jd3lzWWJub3lJMnpOZkdaY0UtZzdrUV9fU01QT2JkSjFkRWlhZTFkaUNBZjJYWjZJRTFZeVlmaUVUb1dpQWVKdGVPTk16cXJtdFZUTGhxbW5ob1Z6ZGo2Tm0ta0daYnNzeEdXWGpHMTVHdWp0eUtkM3pIYW4xUDlPNy11Q1RrZWZ4SG8zZlE3aV9rR1pfN21kZGlTMENJVzgwd3FzQl94MGdVeG1vS0tlUWVNeWdEZEFYcEFpYUF3U1pwUw?oc=5",
-      "description": "Jefferies warns Houthi war with Saudi Arabia threatens oil infra, Red Sea shipping route Moneycontrol.com"
-    },
-    {
       "published": "2026-10-17T09:42:17+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -36041,6 +35924,15 @@
       "description": "IDBI Bank Q2 results: Net profit falls 39% to Rs 2,206 crore, NII jumps 29%; asset quality improves TradingView"
     },
     {
+      "published": "2026-10-17T09:24:30+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Moneycontrol.com",
+      "title": "IDBI Bank Q2 results: Net profit falls 39% to Rs 2,206 crore, NII jumps 29%; asset quality improves - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdnBJSzZRaUNKekhxNW9BbWVQeDZwLWpMblpKRGx3WHdYVDh1SHI1Zk01cXQ5V2J1MFBZcTZSTHJ2YkZGT0JlVFpLUmdlSE45TVRhV21aZEk3X1ItWmlUZ0lHNnhHZ01iaTREMnRiS1ZtMGtCdlAwdzhqVnlsck1fN05FZExwOVg5dVNYRjZQQW9uR2ZVMHA0SjRUTm9aVFpMMXpFTzBqRmN1NXZTVEtxVDlnbHFMVGY5RTRNRFZYdGVGVmszRGJUUWNjVmw0bExrd210NzNtMW85cUkwX2FHM29zWER0bk01a1Q1RWxySHUwWFh5dlRZ0gH3AUFVX3lxTFB2cElLNlFpQ0p6SHE1b0FtZVB4NnAtakxuWkpEbHdYd1hUOHVIcjVmTTVxdDlXYnUwUFlxNlJMcnZiRkZPQmVUWktSZ2VITjlNVGFXbVpkSTdfUi1aaVRnSUc2eEdnTWJpNEQydGJLVm0wa0J2UDB3OGpWeWxyTV83TkVkTHA5WDl1U1hGNlBBb25HZlUwcDRKNFROb1pUWkwxekVPMGpGY3U1dlNUS3FUOWdscUxUZjlFNE1EVlh0ZUZWazNEYlRRY2NWbDRsTGt3bXQ3M20xbzlxSTBfYUczb3NYRHRuTTVrVDVFbHJIdTBYWHl2VFk?oc=5",
+      "description": "IDBI Bank Q2 results: Net profit falls 39% to Rs 2,206 crore, NII jumps 29%; asset quality improves Moneycontrol.com"
+    },
+    {
       "published": "2026-10-17T09:21:00+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -36048,15 +35940,6 @@
       "title": "You earn, save and invest. But are you financially literate? 10 questions to ask - The Times of India",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNTGZMV3k3b3c5b2RWZWVQMzV0V09HRFZ2WFdPQ0pJUWtmd2lOT0VZT3NmZHZSdngyT21VTnF5M0t4Qk51QkVyakp4RWtDMHhDUHZZVElHU0thbkFHWDhMU2poa2JHbFQ4RkZKVmRqd3d0ZXNLTHEybzM5TzJYSmtFTVVOQmVNYVlBMnZRWGVwYXdMV3pUWTh1V0x0TklGYjQ1TlV2UVhmNHJOSU9VTUI4am04QlZfVmxMZm9yUm5HWlR0bTlESGZORkNHYkZmYzJvWlluYjZkZ2JvbS1TclBoQzNvQ1J0VFd6aThnVW01QjhaWmlfTnfSAfsBQVVfeXFMT1BDN09JNFpkTjlCR0U3WWVnZl9FT3dwc0tuYVNXdlJHMDlxeFg2SmdHNG9zWnI1ak40SmhRcXlkczItRHRvMnItcDhHQnVyV3I3SVkzQnVoYk51YzYtUFFzMWVBMFJCQmp1bWswQVB1WHVLeTJBaFZDT3hwc0l6WE1hc1FyTktoSGxGZk80TGtfUzlaYWU4LTNRTk95SkY4bXhPaWdRSXUxdklQM3BPUzdma3lmby1DQm1HMXVvczF5LVdhVFhGQ1BRNG16TnpKQk16YjNmbk5Jb1dfa2RBU1VMNVhYbHo2Q21LbnB6OWlFUVQ2ZXIxR05uZDA?oc=5",
       "description": "You earn, save and invest. But are you financially literate? 10 questions to ask The Times of India"
-    },
-    {
-      "published": "2026-10-17T09:18:56+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Central Bank of India Q2 net profit rises 21% to Rs 1,469 crore, NII up 26% - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSmlnZWoycE45cEZSenVHNW1WMEVmS3UzSEV2ZzBVSzA1dFhfZXRybkFKSUpqT1Fmd1dkdlNLcTlNcnlTRkRhb2cwWWg3Y2stU3pmckNnSUZLekFMRnR5ekVCVWVpWHJxTEI4YjU0WHlja1lmOW9ZY3c5VENYOXY1NUVlcE5WNE9STElzUGZDMjhzMWRaZFRqc1BHT2d6THU4YmVnSDhtTEc4d3I2dzgyVWpqaFRRdFd1aWFJeERlbXIwNHNZa18yYnVjZndGTGdHYmRwbWp30gHWAUFVX3lxTE9KaWdlajJwTjlwRlJ6dUc1bVYwRWZLdTNIRXZnMFVLMDV0WF9ldHJuQUpJSmpPUWZ3V2R2U0txOU1yeVNGRGFvZzBZaDdjay1TemZyQ2dJRkt6QUxGdHl6RUJVZWlYcnFMQjhiNTRYeWNrWWY5b1ljdzlUQ1g5djU1RWVwTlY0T1JMSXNQZkMyOHMxZFpkVGpzUEdPZ3pMdThiZWdIOG1MRzh3cjZ3ODJVampoVFF0V3VpYUl4RGVtcjA0c1lrXzJidWNmd0ZMZ0diZHBtanc?oc=5",
-      "description": "Central Bank of India Q2 net profit rises 21% to Rs 1,469 crore, NII up 26% Moneycontrol.com"
     },
     {
       "published": "2026-10-17T08:55:48+00:00",
@@ -36086,15 +35969,6 @@
       "description": "How Tata Communications is moving Beyond Telecom by Building an Enterprise AI and Digital Services Business Trade Brains"
     },
     {
-      "published": "2026-10-17T08:17:24+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Goodreturns",
-      "title": "Suzlon Energy vs Tata Power vs SJVN: Which Power Stock Charged Up FII’s Portfolios In March Quarter? - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQd2lEai1Qb2ZtQ0NBSTNEZ2YzZlBDeG1iRHFITG9WalllMnhrWEJxakt1SmcyZTM2MDVUNl9OdUEyVkdiOWxtNVpfUlNVYXpNX3FnSjJlV2ZmcXJBVWJNMGdGVzQyXzVFeXhCTGw4S0h4WGNpV0hIVEJvOGZRbVMxTC1ZQUJkZjJzbjF4NEV0TWRpc1pmVTJBZnRuRFoxRXNoUmhHX2taSHZYa2hBVEhGY001QWVuOHgyTDZEemU2N2tzTlhkVUZEdkZwd202bkRHVmRBTVhueG5mbFk?oc=5",
-      "description": "Suzlon Energy vs Tata Power vs SJVN: Which Power Stock Charged Up FII’s Portfolios In March Quarter? Goodreturns"
-    },
-    {
       "published": "2026-10-17T07:42:20+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -36120,33 +35994,6 @@
       "title": "F&O Talk: Nifty’s break above 23,450 could push index to 23,650; Sudeep Shah picks Tech Mahindra, TCS strategy - inkl",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRy1PNXZYQkN1dWstb3AtZlgyRnliamE5U0tnM2t5RWZYSjctOEpSbUdGTXQxUF9CZnZMTWl3SkZBRDhvMENwSWFzcUw1YWE2bXBjVXRXbjV4bEdIMEZudklGWHdiYngxMGhZdXMta1RGZEtMUW9nV1R3WWk5TGRoWE9mc3ZyamRNdkQzeDNxb25lLTFIRHpkN3hyZk15OEcyMmtUWHRVeS1waTBLbnlQWExUTi1ZMUl0VExzRjF6NkN3ZzFlRGtkZ1hTQkY?oc=5",
       "description": "F&O Talk: Nifty’s break above 23,450 could push index to 23,650; Sudeep Shah picks Tech Mahindra, TCS strategy inkl"
-    },
-    {
-      "published": "2026-10-17T07:03:44+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "News Arena India",
-      "title": "India-Canada Merchandise Trade Grows in Double Digits Ahead of Modi’s December Visit - News Arena India",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdnZ3SnhidUx3ZnVZczhSYlpMWktPa0l2bTU3dHhQOFJ2UTlGck1BYV95VmkzQUJobTM1aEhFcVk2ZU1JbklyTi13c1Y1cTgwZzJrS0tYOFBKM0FSd0pudGNOUVJYUWdUVFk0bDJyd241M1hjZU1jZmVVMVBDTklxSEUyQ0QzekVLeGwwbW1XVk9nZzNxaWFoN3cwX1ZYRnJCNm5RQWNrTTlLMDd0NEZFZHQ1SHY4dW9KdlhibWxEa2ZyN0xG?oc=5",
-      "description": "India-Canada Merchandise Trade Grows in Double Digits Ahead of Modi’s December Visit News Arena India"
-    },
-    {
-      "published": "2026-10-17T06:50:57+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Samco",
-      "title": "Top 14 Pharma Stocks To Buy In India October 2026 - Samco",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmxaNUxpT2wtdzdBOEMwZ18tbzhmM3NVOXN1RXlaTy1wR1N2SmZRb0RKSlZPSUpvRnhxaTlHQnBpYXV5X2RhNHNlYnEtYjctblphSkpUbWJHRDRoRWZwY3ZXMmMwRlBYZWR2TFhMcUhHU0lOd19VVmY4a0pxYUF2djNyOWp0TE9Rc0E?oc=5",
-      "description": "Top 14 Pharma Stocks To Buy In India October 2026 Samco"
-    },
-    {
-      "published": "2026-10-17T06:50:32+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "India halts sugar diversion to ethanol after El Nino hurts crops - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPcjAzVXlYT0xFdU0tQ1dJUF95dFdEQkVEeTRsRDRBX1lHT3I2S0Z0V2hDcFMxRjF4QVpURmIzZWxkVEtBRjVPNGl2amdJRk9MZ3NnN05PQ1JoZ3VkcFVHWUw5ck53UThNMkhZMHF6TFpBUGtmYW9FcmtQWTAtbTZBTHF4RFlpODZrUGRjdGZMaDRBVlYyQmFxZE9LRUdTR2JzdXoyVzVCWlNjNkJLTlJFclptTTkzUFROenlDVUJNaWw0S2_SAcMBQVVfeXFMT3IwM1V5WE9MRXVNLUNXSVBfeXRXREJFRHk0bEQ0QV9ZR09yNktGdFdoQ3BTMUYxeEFaVEZiM2VsZFRLQUY1TzRpdmpnSUZPTGdzZzdOT0NSaGd1ZHBVR1lMOXJOd1E4TTJIWTBxekxaQVBrZmFvRXJrUFkwLW02QUxxeERZaTg2a1BkY3RmTGg0QVZWMkJhcWRPS0VHU0dic3V6Mlc1QlpTYzZCS05SRXJabU05M1BUTnp5Q1VCTWlsNEtv?oc=5",
-      "description": "India halts sugar diversion to ethanol after El Nino hurts crops Moneycontrol.com"
     }
   ]
 }
