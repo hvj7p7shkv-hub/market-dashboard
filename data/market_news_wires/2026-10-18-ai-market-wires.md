@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-18 07:37
+Generated: 2026-10-18 08:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,7 +26,17 @@ Asia's AI and semiconductor stocks hit by US tech selloff NewsBytes
 
 US stocks fall as AI sell-off intensifies: Weekly Market Recap Beansprout
 
-### 3. Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in October Selloff - Coinpaper
+### 3. AI rout and oil surge spark market selloff - Briefs Finance
+
+- Source: Briefs Finance
+- Published: 2026-10-17T15:40:43+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPV0R2bTA4ZmN0Y0tNUGQ3NFAtVjFmdHZzNDJUN3lwWDVZQjhUM2dzUzk5cnpIV25QNGJTWDVVWmR4MkJzSFE5aEM5MFQzaGxpTW5QNFhHV0Z4X3MwTzQ3UzhBTUwzam9ud1pqZkhyTnZKdkx1NTNySEl2bnU3SmtqV0g0MFl1S1VW?oc=5
+
+AI rout and oil surge spark market selloff Briefs Finance
+
+### 4. Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in October Selloff - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-10-17T14:14:59+00:00
@@ -36,7 +46,7 @@ US stocks fall as AI sell-off intensifies: Weekly Market Recap Beansprout
 
 Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in October Selloff Coinpaper
 
-### 4. Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% Amid AI Selloff - Coinpaper
+### 5. Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% Amid AI Selloff - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-10-17T13:29:58+00:00
@@ -46,7 +56,7 @@ Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in
 
 Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% Amid AI Selloff Coinpaper
 
-### 5. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - TradingView
+### 6. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - TradingView
 
 - Source: TradingView
 - Published: 2026-10-17T13:20:44+00:00
@@ -56,7 +66,7 @@ Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% 
 
 Semiconductor ETF posts longest losing streak in over two decades amid chip selloff TradingView
 
-### 6. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - Seeking Alpha
+### 7. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-10-17T13:20:44+00:00
@@ -66,7 +76,7 @@ Semiconductor ETF posts longest losing streak in over two decades amid chip sell
 
 Semiconductor ETF posts longest losing streak in over two decades amid chip selloff Seeking Alpha
 
-### 7. Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns
+### 8. Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-17T10:08:19+00:00
@@ -76,7 +86,7 @@ Semiconductor ETF posts longest losing streak in over two decades amid chip sell
 
 Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded Goodreturns
 
-### 8. Citi says Hong Kong's AI chip IPOs are shrugging off the US selloff - Startup Fortune
+### 9. Citi says Hong Kong's AI chip IPOs are shrugging off the US selloff - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-10-17T09:14:36+00:00
@@ -86,27 +96,7 @@ Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why R
 
 Citi says Hong Kong's AI chip IPOs are shrugging off the US selloff Startup Fortune
 
-### 9. Nvidia CEO calls AI stock sell-off a temporary setback - Traders Union
-
-- Source: Traders Union
-- Published: 2026-10-17T08:00:58+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE5xOGYxZHVWMEhlS1d6dWtNc1pCR01TTHUwa0pvZFk4WmFYcm00M1FkZEotVmNwVWpLXzNzUDBSVGJ1NDhaTzVQOTZnUXZFajZzcEJXOTJydmR2VHJCNHgtZEZIRkxWZFpzQ0pHODdJVFdrQ1JTb0ladnpn?oc=5
-
-Nvidia CEO calls AI stock sell-off a temporary setback Traders Union
-
-### 10. Nasdaq Sinks 4.5% as AI Financing Fears Trigger Tech Selloff; Dow Gains 0.7% on Defensive Rotation - HDFC Sky
-
-- Source: HDFC Sky
-- Published: 2026-10-17T07:47:13+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2VSVEw2S2I5VEpGUlhVU251UHFwckVKbjdRVVJxRU9nQlUwbVMyZ3MzM1RvV09DWk9uTnRRT2hPYkQ1cWtLbFJMZmpOQ0pxejI5dGdTWWZ3NUpKeEhnM0luNTRPVW5xZVo0V1FZbGxSSjlndG9Fak9LM29YM3Z1UmlsaEU1V05maU5VcFdlVXlZSFVwLVVPYVhmS05DQjdCX1NPNE1vWlJIU3dYWmR4a0E2eVVDdFNYZ0pGazBPZWVhWVE2N011VENRaDROaHM?oc=5
-
-Nasdaq Sinks 4.5% as AI Financing Fears Trigger Tech Selloff; Dow Gains 0.7% on Defensive Rotation HDFC Sky
-
-### 11. AI boom risks market correction if productivity lags: Peter Berezin - Asianet Newsable
+### 10. AI boom risks market correction if productivity lags: Peter Berezin - Asianet Newsable
 
 - Source: Asianet Newsable
 - Published: 2026-10-18T03:30:27+00:00
@@ -116,7 +106,7 @@ Nasdaq Sinks 4.5% as AI Financing Fears Trigger Tech Selloff; Dow Gains 0.7% on 
 
 AI boom risks market correction if productivity lags: Peter Berezin Asianet Newsable
 
-### 12. Global hedge funds hammered by AI selloff this week, Asia managers lead losses - DZRH
+### 11. Global hedge funds hammered by AI selloff this week, Asia managers lead losses - DZRH
 
 - Source: DZRH
 - Published: 2026-10-18T02:42:28+00:00
@@ -126,7 +116,7 @@ AI boom risks market correction if productivity lags: Peter Berezin Asianet News
 
 Global hedge funds hammered by AI selloff this week, Asia managers lead losses DZRH
 
-### 13. AI stock hype mirrors dot-com bubble; investors warned to expect a market correction soon. - Pluang
+### 12. AI stock hype mirrors dot-com bubble; investors warned to expect a market correction soon. - Pluang
 
 - Source: Pluang
 - Published: 2026-10-18T02:25:11+00:00
@@ -136,7 +126,7 @@ Global hedge funds hammered by AI selloff this week, Asia managers lead losses D
 
 AI stock hype mirrors dot-com bubble; investors warned to expect a market correction soon. Pluang
 
-### 14. Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg - Investing.com
+### 13. Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-18T02:01:57+00:00
@@ -146,7 +136,7 @@ AI stock hype mirrors dot-com bubble; investors warned to expect a market correc
 
 Asian AI stocks fall as rising financing costs threaten spending boom - Bloomberg Investing.com
 
-### 15. The AI bubble is about to burst — and a big market correction is coming - New York Post
+### 14. The AI bubble is about to burst — and a big market correction is coming - New York Post
 
 - Source: New York Post
 - Published: 2026-10-18T00:21:00+00:00
@@ -156,7 +146,7 @@ Asian AI stocks fall as rising financing costs threaten spending boom - Bloomber
 
 The AI bubble is about to burst — and a big market correction is coming New York Post
 
-### 16. 3 Credit Stocks Retail Investors Are Watching After The AI Funding Selloff - Simply Wall Street
+### 15. 3 Credit Stocks Retail Investors Are Watching After The AI Funding Selloff - Simply Wall Street
 
 - Source: Simply Wall Street
 - Published: 2026-10-17T21:47:46+00:00
@@ -166,7 +156,7 @@ The AI bubble is about to burst — and a big market correction is coming New Yo
 
 3 Credit Stocks Retail Investors Are Watching After The AI Funding Selloff Simply Wall Street
 
-### 17. Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff - Beinsure
+### 16. Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff - Beinsure
 
 - Source: Beinsure
 - Published: 2026-10-17T21:34:45+00:00
@@ -176,7 +166,7 @@ The AI bubble is about to burst — and a big market correction is coming New Yo
 
 Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff Beinsure
 
-### 18. Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits
+### 17. Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-17T21:04:47+00:00
@@ -186,7 +176,7 @@ Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff Beins
 
 Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus Stocktwits
 
-### 19. Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June - Eurasia Business News
+### 18. Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June - Eurasia Business News
 
 - Source: Eurasia Business News
 - Published: 2026-10-17T19:49:22+00:00
@@ -196,7 +186,7 @@ Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NV
 
 Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June Eurasia Business News
 
-### 20. Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff - Yahoo Finance
+### 19. Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-17T18:46:59+00:00
@@ -206,7 +196,7 @@ Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June Eurasi
 
 Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff Yahoo Finance
 
-### 21. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
+### 20. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-17T18:40:38+00:00
@@ -216,7 +206,7 @@ Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Clo
 
 BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict BBN Times
 
-### 22. Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey
+### 21. Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? - TradingKey
 
 - Source: TradingKey
 - Published: 2026-10-17T17:28:08+00:00
@@ -226,7 +216,7 @@ BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine
 
 Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse the Trend? TradingKey
 
-### 23. Chip stocks fall 8 days straight, longest losin... - Pluang
+### 22. Chip stocks fall 8 days straight, longest losin... - Pluang
 
 - Source: Pluang
 - Published: 2026-10-17T16:42:38+00:00
@@ -236,17 +226,7 @@ Nokia Starts a Critical Week After a 7% Selloff — Can Strong AI Orders Reverse
 
 Chip stocks fall 8 days straight, longest losin... Pluang
 
-### 24. NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-17T16:33:13+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQYXZrNVRuUWJyLVM1UG5kOGRtZ0JlRTVQbjB4SDR3Z0VFUlJscUxBWmc0elJ3STl2bnZyOVF6R2pNTF8xRmluWElpcXIzYkdkVzA0WFVvb0tLME9TOHdYWHZiUVViV0JnQnA2NGNEWExwdjNGRUR3ajNtZGx5MmVUdHpKZzdJalZxTGZUNjNwRVhNMG5GUWgzNWE2WXlYVWVONHBnRkY2bEtUT0JsSTctNGF4VkNZQWlzaDZLNWkwRW1mTzY2cHVN?oc=5
-
-NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout Stocktwits
-
-### 25. Stock Market Week Chip Selloff Widens: What to Know - JournalArta
+### 23. Stock Market Week Chip Selloff Widens: What to Know - JournalArta
 
 - Source: JournalArta
 - Published: 2026-10-17T15:47:10+00:00
@@ -256,7 +236,7 @@ NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout Stocktwits
 
 Stock Market Week Chip Selloff Widens: What to Know JournalArta
 
-### 26. Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break - FXEmpire
+### 24. Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-10-17T14:27:33+00:00
@@ -266,7 +246,7 @@ Stock Market Week Chip Selloff Widens: What to Know JournalArta
 
 Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break FXEmpire
 
-### 27. Does the AI Selloff Put Alphabet's Breakout in Doubt? - TradingView
+### 25. Does the AI Selloff Put Alphabet's Breakout in Doubt? - TradingView
 
 - Source: TradingView
 - Published: 2026-10-17T14:05:00+00:00
@@ -276,7 +256,7 @@ Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break FXEmpire
 
 Does the AI Selloff Put Alphabet's Breakout in Doubt? TradingView
 
-### 28. Nebius Stock: British AI Deals, a Gartner Warning, and the Funding Test That Outranks the Selloff - ad-hoc-news.de
+### 26. Nebius Stock: British AI Deals, a Gartner Warning, and the Funding Test That Outranks the Selloff - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-17T13:21:58+00:00
@@ -286,7 +266,7 @@ Does the AI Selloff Put Alphabet's Breakout in Doubt? TradingView
 
 Nebius Stock: British AI Deals, a Gartner Warning, and the Funding Test That Outranks the Selloff ad-hoc-news.de
 
-### 29. IMF chief warns inflation hurts poor countries, AI optimism risks market correction - WION
+### 27. IMF chief warns inflation hurts poor countries, AI optimism risks market correction - WION
 
 - Source: WION
 - Published: 2026-10-17T12:40:00+00:00
@@ -296,7 +276,17 @@ Nebius Stock: British AI Deals, a Gartner Warning, and the Funding Test That Out
 
 IMF chief warns inflation hurts poor countries, AI optimism risks market correction WION
 
-### 30. Indian IT stocks record best week in 18 years amid global AI sell-off - Rediff
+### 28. Applied Digital (NASDAQ: APLD) Stock Slides 4% As JPMorgan Bond Downgrade Deepens Debt-Funded AI Builder Selloff - Foreign Policy Journal
+
+- Source: Foreign Policy Journal
+- Published: 2026-10-17T11:55:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxNaHFfZzRjZ3dSLUJydHpqQ18wQm1KWHZ4Q1c4QWpKSmRWcGtfdFR2M3pPVm1aeHRJdXZMWVlrM0c3LTRibEhleWtIWmpXRTc5YmdfSmZGVFc4cGxVWW5TRFRqME1kVzE4N0JqM2xSSElkX3ZGUk02cURaZ0t3eDlxc2VJa1dSN3lWVGpjS01xMVNKUFRKYkpxb2xGQl9rRE9LOEhvT0FkY0pCTkp2Rl9sTFJLdHlJT09mbUotc0o3c0pYWTNET201SVNXMWl2bjZxVTRfcENySnJxRFo0bW9vQjZydTEwUDgzNG9WdFZR?oc=5
+
+Applied Digital (NASDAQ: APLD) Stock Slides 4% As JPMorgan Bond Downgrade Deepens Debt-Funded AI Builder Selloff Foreign Policy Journal
+
+### 29. Indian IT stocks record best week in 18 years amid global AI sell-off - Rediff
 
 - Source: Rediff
 - Published: 2026-10-17T11:04:56+00:00
@@ -306,7 +296,7 @@ IMF chief warns inflation hurts poor countries, AI optimism risks market correct
 
 Indian IT stocks record best week in 18 years amid global AI sell-off Rediff
 
-### 31. Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opportunity With AI Demand Accelerating As CRWV Stock Sees Worst Week In 11 Months - Stocktwits
+### 30. Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opportunity With AI Demand Accelerating As CRWV Stock Sees Worst Week In 11 Months - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-17T10:05:00+00:00
@@ -316,7 +306,7 @@ Indian IT stocks record best week in 18 years amid global AI sell-off Rediff
 
 Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opportunity With AI Demand Accelerating As CRWV Stock Sees Worst Week In 11 Months Stocktwits
 
-### 32. Market selloff, rising rates test AI data centre deal boom - Communications Today
+### 31. Market selloff, rising rates test AI data centre deal boom - Communications Today
 
 - Source: Communications Today
 - Published: 2026-10-17T09:20:46+00:00
@@ -326,7 +316,7 @@ Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opport
 
 Market selloff, rising rates test AI data centre deal boom Communications Today
 
-### 33. Metal Stocks Crash: JSW Steel, Vedanta, Tata Steel, Hindustan Zinc Fall Up to 5% as Nifty Metal Index Slumps - Goodreturns
+### 32. Metal Stocks Crash: JSW Steel, Vedanta, Tata Steel, Hindustan Zinc Fall Up to 5% as Nifty Metal Index Slumps - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-17T09:08:05+00:00
@@ -336,7 +326,7 @@ Market selloff, rising rates test AI data centre deal boom Communications Today
 
 Metal Stocks Crash: JSW Steel, Vedanta, Tata Steel, Hindustan Zinc Fall Up to 5% as Nifty Metal Index Slumps Goodreturns
 
-### 34. Chinas Equity Market Plunges 40% As Chipmakers Lose Half Their Value Amid Tech Selloff - Free Press Journal
+### 33. Chinas Equity Market Plunges 40% As Chipmakers Lose Half Their Value Amid Tech Selloff - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-17T09:08:00+00:00
@@ -346,7 +336,7 @@ Metal Stocks Crash: JSW Steel, Vedanta, Tata Steel, Hindustan Zinc Fall Up to 5%
 
 Chinas Equity Market Plunges 40% As Chipmakers Lose Half Their Value Amid Tech Selloff Free Press Journal
 
-### 35. Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software - Stocks Down Under
+### 34. Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software - Stocks Down Under
 
 - Source: Stocks Down Under
 - Published: 2026-10-17T08:16:09+00:00
@@ -356,7 +346,7 @@ Chinas Equity Market Plunges 40% As Chipmakers Lose Half Their Value Amid Tech S
 
 Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software Stocks Down Under
 
-### 36. Why Listed AMCs Are Holding Up Amid Market Volatility - Kalkine India
+### 35. Why Listed AMCs Are Holding Up Amid Market Volatility - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-10-17T09:35:00+00:00
@@ -366,7 +356,7 @@ Palantir (NASDAQ:PLTR) Stock Plunges 7% as AI Selloff Spreads to Software Stocks
 
 Why Listed AMCs Are Holding Up Amid Market Volatility Kalkine India
 
-### 37. Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market next week - Zee News
+### 36. Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market next week - Zee News
 
 - Source: Zee News
 - Published: 2026-10-18T07:03:58+00:00
@@ -376,7 +366,7 @@ Why Listed AMCs Are Holding Up Amid Market Volatility Kalkine India
 
 Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market next week Zee News
 
-### 38. REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund selling in September - The Economic Times
+### 37. REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund selling in September - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-17T10:06:29+00:00
@@ -386,7 +376,7 @@ Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market
 
 REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund selling in September The Economic Times
 
-### 39. Suresh KP Mutual Fund Portfolio 2026: Where I Invest - Myinvestmentideas
+### 38. Suresh KP Mutual Fund Portfolio 2026: Where I Invest - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-17T16:00:25+00:00
@@ -396,7 +386,7 @@ REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund s
 
 Suresh KP Mutual Fund Portfolio 2026: Where I Invest Myinvestmentideas
 
-### 40. Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Investments Before Diwali - Business Today
+### 39. Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Investments Before Diwali - Business Today
 
 - Source: Business Today
 - Published: 2026-10-18T04:30:34+00:00
@@ -406,7 +396,7 @@ Suresh KP Mutual Fund Portfolio 2026: Where I Invest Myinvestmentideas
 
 Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Investments Before Diwali Business Today
 
-### 41. Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint
+### 40. Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September - Livemint
 
 - Source: Livemint
 - Published: 2026-10-18T03:43:30+00:00
@@ -416,7 +406,7 @@ Gold, Silver ETF Purchases Halted: Why Mutual Funds Have Restricted Fresh Invest
 
 Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 stocks by holding value changes in September Livemint
 
-### 42. LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and property are taxed - Upstox
+### 41. LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and property are taxed - Upstox
 
 - Source: Upstox
 - Published: 2026-10-18T03:14:33+00:00
@@ -426,7 +416,7 @@ Mutual funds’ portfolio shifts: Aditya Infotech, BSE stand out among top 10 st
 
 LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and property are taxed Upstox
 
-### 43. Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapore - SMBtech
+### 42. Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapore - SMBtech
 
 - Source: SMBtech
 - Published: 2026-10-18T02:52:17+00:00
@@ -436,7 +426,7 @@ LTCG tax debate returns ahead of Budget 2027: How stocks, mutual funds, gold and
 
 Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapore SMBtech
 
-### 44. US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; What's Ahead After Fed Minutes - Goodreturns
+### 43. US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; What's Ahead After Fed Minutes - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-17T18:26:23+00:00
@@ -446,7 +436,7 @@ Symbio Becomes First Carrier To Complete Full SIP Interconnection Across Singapo
 
 US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; What's Ahead After Fed Minutes Goodreturns
 
-### 45. Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision - INDIA New England News
+### 44. Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-17T18:03:34+00:00
@@ -456,7 +446,7 @@ US Stock Market: DJIA, Nasdaq, S&P 500 Surged As Yields Fall From 19-Yr High; Wh
 
 Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDIA New England News
 
-### 46. Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years - ET Now
+### 45. Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years - ET Now
 
 - Source: ET Now
 - Published: 2026-10-17T17:47:44+00:00
@@ -466,7 +456,7 @@ Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDI
 
 Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 years ET Now
 
-### 47. Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint
+### 46. Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do - Livemint
 
 - Source: Livemint
 - Published: 2026-10-17T11:30:38+00:00
@@ -476,7 +466,7 @@ Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 yea
 
 Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do Livemint
 
-### 48. Sensex slips 51 points in early trade amid elevated crude oil prices - Mid-Day
+### 47. Sensex slips 51 points in early trade amid elevated crude oil prices - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-10-17T09:46:28+00:00
@@ -486,7 +476,7 @@ Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts d
 
 Sensex slips 51 points in early trade amid elevated crude oil prices Mid-Day
 
-### 49. Best thematic factor-based mutual funds 2026: Which equity schemes lead in 1- 3- and 5-year CAGR returns? - Livemint
+### 48. Best thematic factor-based mutual funds 2026: Which equity schemes lead in 1- 3- and 5-year CAGR returns? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-17T08:59:55+00:00
@@ -496,7 +486,7 @@ Sensex slips 51 points in early trade amid elevated crude oil prices Mid-Day
 
 Best thematic factor-based mutual funds 2026: Which equity schemes lead in 1- 3- and 5-year CAGR returns? Livemint
 
-### 50. 👨🏻‍💻 Foreign investors are backing India's IPO boom but selling in the secondary market. 💰 Can tax relief bring FIIs back, or will stronger earnings be the real trigger? #Watch full show: https://lnkd.in/dY-vtpDU Shereen Bhan Prashant Nair Nigel Dsouza #IPO # - LinkedIn
+### 49. 👨🏻‍💻 Foreign investors are backing India's IPO boom but selling in the secondary market. 💰 Can tax relief bring FIIs back, or will stronger earnings be the real trigger? #Watch full show: https://lnkd.in/dY-vtpDU Shereen Bhan Prashant Nair Nigel Dsouza #IPO # - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-10-18T07:30:24+00:00
@@ -505,6 +495,16 @@ Best thematic factor-based mutual funds 2026: Which equity schemes lead in 1- 3-
 - Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPZmNyUmFMVUkwYW1kQll1NmRucUFjM0dNWTBSZHdXNHVKdm1kMVpvS3RmR2lEeDRyMV9ZUXlxS1N1N1FzeEJYY2M1dk1oVURLbTRfZy1pand1LWtCdmFkZTVsb0J5cUpTbGw3SEktdnNxMGV2b19EY2Z1eEdIQ0o4ZEQtSjdTcEFzdUxqOGlJY3QxZw?oc=5
 
 👨🏻‍💻 Foreign investors are backing India's IPO boom but selling in the secondary market. 💰 Can tax relief bring FIIs back, or will stronger earnings be the real trigger? #Watch full show: https://lnkd.in/dY-vtpDU Shereen Bhan Prashant Nair Nigel Dsouza #IPO # LinkedIn
+
+### 50. Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias - Goodreturns
+
+- Source: Goodreturns
+- Published: 2026-10-18T07:05:13+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxOYzd4b2Nsc3BwQXJGQXFWR19pZDFIQlVoYkZQLUxFQWdQQWRoc215SmxRRjc5cFVuNWtJYmdWblRHaFQtdGtjTi1IY2hOeTdWT2wyb2owVmpVT2x6S0hUelhQdmdIeHBOc2ZPR1I5MHRISWZfSFhHck9DV1NPYUxPdFZZOEE4Rks1eGthc2FXVzdtZzByNEkyMC1iTVNFT2w3YWt0RjMyQkhuemJ3ZzlYTlpyRURTSUNyM2QwbmdSTHpoN0pBT1JvRWswQUcyMFp1anF6S1VzWGF3QQ?oc=5
+
+Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trade Volatile With Negative Bias Goodreturns
 
 ### 51. Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns
 
@@ -706,7 +706,17 @@ Palantir (PLTR) stock forecast: Wall Street see 11% upside after 7% selloff Bein
 
 NVDA Stock Bucks Selloff Premarket On SpaceX Boost, Foxconn’s Sales Update Stocktwits
 
-### 71. Asian markets sell off as AI trades crumble after hot US CPI data - DD News
+### 71. AMD's Open-Rack Gambit Meets the Market's Tougher Questions on AI Spending - ad-hoc-news.de
+
+- Source: ad-hoc-news.de
+- Published: 2026-10-17T19:50:35+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3dzcFJaSk0wTTQwUkJCTnpiSFhIZmhBVW9yeGRwWGlGaDhqWDRvZDktdVVJSUhqQ3dtdl9EMmdoS1BJYmd5bzBPdFBiU0xlZ2VOcmtXLUM5UkYxd2NPRmZpMERZQ3VPRGYxdDBYbzJZcW1YMzdVT1NLRVlxRXNNMVdUcl84azFQeml0ZUZPWlI5YWVzUjl6bDJtWmY5Y3Yxdno1QzgtajZxcFhya2tHVUd1aEh5d3Z2anh2OElQRUZfdXpjZGR5cnZXZmZyM2lKQVV1d1dGVUdBb2pZOEFr?oc=5
+
+AMD's Open-Rack Gambit Meets the Market's Tougher Questions on AI Spending ad-hoc-news.de
+
+### 72. Asian markets sell off as AI trades crumble after hot US CPI data - DD News
 
 - Source: DD News
 - Published: 2026-10-17T18:43:54+00:00
@@ -716,7 +726,7 @@ NVDA Stock Bucks Selloff Premarket On SpaceX Boost, Foxconn’s Sales Update Sto
 
 Asian markets sell off as AI trades crumble after hot US CPI data DD News
 
-### 72. From India to Spain: What is driving protests around the world? - Moneycontrol.com
+### 73. From India to Spain: What is driving protests around the world? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-17T17:48:13+00:00
@@ -726,7 +736,7 @@ Asian markets sell off as AI trades crumble after hot US CPI data DD News
 
 From India to Spain: What is driving protests around the world? Moneycontrol.com
 
-### 73. Federal Bank appoints Cognizant India CMD Rajesh Varrier as independent director - Moneycontrol.com
+### 74. Federal Bank appoints Cognizant India CMD Rajesh Varrier as independent director - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-17T17:38:39+00:00
@@ -736,7 +746,7 @@ From India to Spain: What is driving protests around the world? Moneycontrol.com
 
 Federal Bank appoints Cognizant India CMD Rajesh Varrier as independent director Moneycontrol.com
 
-### 74. Curbs on gold funds widen as rupee, reserves face pressure - PRESS Insider
+### 75. Curbs on gold funds widen as rupee, reserves face pressure - PRESS Insider
 
 - Source: PRESS Insider
 - Published: 2026-10-17T16:47:11+00:00
@@ -746,7 +756,7 @@ Federal Bank appoints Cognizant India CMD Rajesh Varrier as independent director
 
 Curbs on gold funds widen as rupee, reserves face pressure PRESS Insider
 
-### 75. FSSAI issues notices to Nestle India, Hindustan Unilever for misleading claims - Moneycontrol.com
+### 76. FSSAI issues notices to Nestle India, Hindustan Unilever for misleading claims - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-17T16:21:38+00:00
@@ -756,7 +766,7 @@ Curbs on gold funds widen as rupee, reserves face pressure PRESS Insider
 
 FSSAI issues notices to Nestle India, Hindustan Unilever for misleading claims Moneycontrol.com
 
-### 76. Invesco India Large- & Mid-Cap Fund: Concentrated bets, consistent returns - BusinessLine
+### 77. Invesco India Large- & Mid-Cap Fund: Concentrated bets, consistent returns - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-10-17T16:20:03+00:00
@@ -766,7 +776,7 @@ FSSAI issues notices to Nestle India, Hindustan Unilever for misleading claims M
 
 Invesco India Large- & Mid-Cap Fund: Concentrated bets, consistent returns BusinessLine
 
-### 77. IDBI Bank Q2 FY27 Results: Net profit falls 39% YoY to Rs 2,205 crore, NII rises 29% - ET Now
+### 78. IDBI Bank Q2 FY27 Results: Net profit falls 39% YoY to Rs 2,205 crore, NII rises 29% - ET Now
 
 - Source: ET Now
 - Published: 2026-10-17T16:16:57+00:00
@@ -776,7 +786,7 @@ Invesco India Large- & Mid-Cap Fund: Concentrated bets, consistent returns Busin
 
 IDBI Bank Q2 FY27 Results: Net profit falls 39% YoY to Rs 2,205 crore, NII rises 29% ET Now
 
-### 78. Indonesia Selloff Revives Fears: Five Major Stock Markets That Delivered Zero Returns For Decades - NDTV Profit
+### 79. Indonesia Selloff Revives Fears: Five Major Stock Markets That Delivered Zero Returns For Decades - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-17T16:14:24+00:00
@@ -786,7 +796,7 @@ IDBI Bank Q2 FY27 Results: Net profit falls 39% YoY to Rs 2,205 crore, NII rises
 
 Indonesia Selloff Revives Fears: Five Major Stock Markets That Delivered Zero Returns For Decades NDTV Profit
 
-### 79. Palantir Stock Drops 11% in a Week to $186.03 - FinanceFeeds
+### 80. Palantir Stock Drops 11% in a Week to $186.03 - FinanceFeeds
 
 - Source: FinanceFeeds
 - Published: 2026-10-17T16:06:31+00:00
@@ -795,13 +805,3 @@ Indonesia Selloff Revives Fears: Five Major Stock Markets That Delivered Zero Re
 - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPMmFYUGxTUFV1Rnh2TW5KM0VKYVVPX0MyNUlQWFB3YnY3RldySnlPM19ZVHBrNmd4Yi1CNkhPaktVLUotbUEtdlJwd2hHc00yQUJIcXFxeFVsUV9RUU16VVFSWHJ4d09qLVU2ZlJONEF6bEZDcG4zb0tBNHFnQ0dZWUx1QlYzQmowbWh3UlJ2VWhzNmUtc0lhcEtKRGEzSWxWSGdvTlVLQ09vSjVKRFBuaHdR?oc=5
 
 Palantir Stock Drops 11% in a Week to $186.03 FinanceFeeds
-
-### 80. QuantumScape's AI Data-Center Story Runs Into Two Lower Price Targets - ad-hoc-news.de
-
-- Source: ad-hoc-news.de
-- Published: 2026-10-17T15:31:21+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZTdWRVJMM0JqN3lQVXc3MVY1WndmanNqUWE2clF6QmFEcEdyRGlRX0FmMEh1aHNaM1Z6cEo0aEg2WWNFWVBmdlM5bzNYVTZ5dDRRRnh5ZFFXZV9XaDlQNzRzNE55a2RfLUhuQmNXNlhCOEVrQjlCaEFVVVROWThRUnpSSlVXS0xxb2dkUWJnUmkzNDdfVWQwRkM3cV9YOE1sQUtCRUlQcC1zOHYyZGc0cXpBSm9IVmlUM3ZnWVZ5N0hKQXdzN1ZGbWFrcjhmMGJXblI1UG1RdkQ?oc=5
-
-QuantumScape's AI Data-Center Story Runs Into Two Lower Price Targets ad-hoc-news.de
