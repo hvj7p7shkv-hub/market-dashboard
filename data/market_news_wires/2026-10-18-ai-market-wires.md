@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-18 04:37
+Generated: 2026-10-18 05:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,7 +26,17 @@ Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings K
 
 AI investment logic shifts and chip sell-off hit markets: Nasdaq tumbles 2.15%, Philadelphia Semiconductor Index plunges 3.83% BigGo Finance
 
-### 3. AI rout and oil surge spark market selloff - Briefs Finance
+### 3. US stocks fall as AI sell-off intensifies: Weekly Market Recap - Beansprout
+
+- Source: Beansprout
+- Published: 2026-10-18T04:44:52+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMTUtkOS1YYXQ3TUJCblFoYXRESFdhSnRqd2w3S2RZNjZmZ3g5SUdRTXRjZ2lGYjRxNXhhT2VZNk9LSGZ2Q0VOSzB0S1JJOHVuaTlHOUVOR3RubmszN010bTR3?oc=5
+
+US stocks fall as AI sell-off intensifies: Weekly Market Recap Beansprout
+
+### 4. AI rout and oil surge spark market selloff - Briefs Finance
 
 - Source: Briefs Finance
 - Published: 2026-10-17T15:40:43+00:00
@@ -36,7 +46,7 @@ AI investment logic shifts and chip sell-off hit markets: Nasdaq tumbles 2.15%, 
 
 AI rout and oil surge spark market selloff Briefs Finance
 
-### 4. Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in October Selloff - Coinpaper
+### 5. Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in October Selloff - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-10-17T14:14:59+00:00
@@ -46,7 +56,7 @@ AI rout and oil surge spark market selloff Briefs Finance
 
 Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in October Selloff Coinpaper
 
-### 5. Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% Amid AI Selloff - Coinpaper
+### 6. Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% Amid AI Selloff - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-10-17T13:29:58+00:00
@@ -56,7 +66,7 @@ Barclays Warns AI Stock Rally May Have Peaked as Semiconductor ETF Slides 11% in
 
 Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% Amid AI Selloff Coinpaper
 
-### 6. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - TradingView
+### 7. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - TradingView
 
 - Source: TradingView
 - Published: 2026-10-17T13:20:44+00:00
@@ -66,7 +76,7 @@ Indian IT Stocks Surge 11.7% in Their Best Week Since 2008 as Nasdaq Falls 4.5% 
 
 Semiconductor ETF posts longest losing streak in over two decades amid chip selloff TradingView
 
-### 7. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - Seeking Alpha
+### 8. Semiconductor ETF posts longest losing streak in over two decades amid chip selloff - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-10-17T13:20:44+00:00
@@ -76,7 +86,7 @@ Semiconductor ETF posts longest losing streak in over two decades amid chip sell
 
 Semiconductor ETF posts longest losing streak in over two decades amid chip selloff Seeking Alpha
 
-### 8. Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns
+### 9. Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-17T10:08:19+00:00
@@ -86,7 +96,7 @@ Semiconductor ETF posts longest losing streak in over two decades amid chip sell
 
 Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why Rs 6.55 Lakh Cr Wealth Eroded Goodreturns
 
-### 9. Citi says Hong Kong's AI chip IPOs are shrugging off the US selloff - Startup Fortune
+### 10. Citi says Hong Kong's AI chip IPOs are shrugging off the US selloff - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-10-17T09:14:36+00:00
@@ -96,7 +106,7 @@ Stock Market Crash: Sensex Drops 1,130 Pts, Nifty Falls 390 Pts In 3-Days; Why R
 
 Citi says Hong Kong's AI chip IPOs are shrugging off the US selloff Startup Fortune
 
-### 10. Nvidia CEO calls AI stock sell-off a temporary setback - Traders Union
+### 11. Nvidia CEO calls AI stock sell-off a temporary setback - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-17T08:00:58+00:00
@@ -106,7 +116,7 @@ Citi says Hong Kong's AI chip IPOs are shrugging off the US selloff Startup Fort
 
 Nvidia CEO calls AI stock sell-off a temporary setback Traders Union
 
-### 11. Nasdaq Sinks 4.5% as AI Financing Fears Trigger Tech Selloff; Dow Gains 0.7% on Defensive Rotation - HDFC Sky
+### 12. Nasdaq Sinks 4.5% as AI Financing Fears Trigger Tech Selloff; Dow Gains 0.7% on Defensive Rotation - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-10-17T07:47:13+00:00
@@ -116,7 +126,7 @@ Nvidia CEO calls AI stock sell-off a temporary setback Traders Union
 
 Nasdaq Sinks 4.5% as AI Financing Fears Trigger Tech Selloff; Dow Gains 0.7% on Defensive Rotation HDFC Sky
 
-### 12. Nasdaq Drops 2.36% as AI-Linked Shares Lead a Broad Equity Selloff - TOKENPOST
+### 13. Nasdaq Drops 2.36% as AI-Linked Shares Lead a Broad Equity Selloff - TOKENPOST
 
 - Source: TOKENPOST
 - Published: 2026-10-17T05:11:41+00:00
@@ -125,16 +135,6 @@ Nasdaq Sinks 4.5% as AI Financing Fears Trigger Tech Selloff; Dow Gains 0.7% on 
 - Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1PV3FSU09DQjVZZXJmbmpGcWRMcjBrUUdRLTNBM3VpeHNpQTNIaVkxdlJQTm40ZHF0WU55ZUF4N3FTd3dSckNqMG4xaENPWDBTX3RjXzdhMWY3UQ?oc=5
 
 Nasdaq Drops 2.36% as AI-Linked Shares Lead a Broad Equity Selloff TOKENPOST
-
-### 13. US AI Stocks Hit by Selloff; VIX Fear Gauge Surges 21% in a Day; Large Call Option Bets Position for Volatility to Persist into November - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-10-17T05:05:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE0xNlA1eGFOdjl4Y2pYVGxEcU1tYTFCNkUyTDZKZWFXQ0hEbG5IYTNERk9NNFlQTzh1N1NHMHl4T0dqY3gtekd5TW9PSjg0b0RQYTZWeXdtc2NxMWVsb0ptcWxaRFpNcjE5TjZyc1FBWWkxNjVpOVE?oc=5
-
-US AI Stocks Hit by Selloff; VIX Fear Gauge Surges 21% in a Day; Large Call Option Bets Position for Volatility to Persist into November BigGo Finance
 
 ### 14. AI boom risks market correction if productivity lags: Peter Berezin - Asianet Newsable
 
@@ -206,7 +206,17 @@ The AI bubble is about to burst — and a big market correction is coming New Yo
 
 Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff Beinsure
 
-### 21. Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June - Eurasia Business News
+### 21. Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus - Stocktwits
+
+- Source: Stocktwits
+- Published: 2026-10-17T21:04:47+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRkt6NjJxaDRmX0N3SzlwaGJJYU5qRVV0ZWprN2w4bXpoZlpuSTZCS2JIYzd2bzlCWXNycExIRzBZSEg5ZFg2cjYxMmRzQ2hhUFZYTk5GMlJjeEt5YWhZZWlqM3g4YlEtOHB5QUZaQ2VsNmtEV3pNS1RKUTlGd3pQUFJhTlpsX0NQZGxjRC10M0xTVkM3UkhxOXJFcTBWanBDbGhGUnpMMmhCUW5FUHpQMU9DVUpFVjU5aWN2WElXZ1c4VThQU3AzOWhieGM0QnZzbFhaZnAzLTlpU3dCQzBUMG1Uay1uR3pycEYzTVh2cGlIWEYzcllOdQ?oc=5
+
+Dow, S&P 500, Nasdaq Decline Amid Hot Inflation Data, AI Selloff: CRWV, NBIS, NVDA, IBRX Stocks In Focus Stocktwits
+
+### 22. Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June - Eurasia Business News
 
 - Source: Eurasia Business News
 - Published: 2026-10-17T19:49:22+00:00
@@ -216,7 +226,7 @@ Tech stocks forecast: UBS sees AI upside, RBC cautious after $1 tn selloff Beins
 
 Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June Eurasia Business News
 
-### 22. Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff - Yahoo Finance
+### 23. Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-17T18:46:59+00:00
@@ -226,7 +236,7 @@ Stock Market Today: AI Selloff Sends Wall Street to Worst Week Since June Eurasi
 
 Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Closed 11% Lower During The AI Selloff Yahoo Finance
 
-### 23. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
+### 24. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-17T18:40:38+00:00
@@ -236,7 +246,7 @@ Jim Cramer Set A $250 Palantir (PLTR) Share Price Target – Then The Shares Clo
 
 BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict BBN Times
 
-### 24. Chip stocks fall 8 days straight, longest losin... - Pluang
+### 25. Chip stocks fall 8 days straight, longest losin... - Pluang
 
 - Source: Pluang
 - Published: 2026-10-17T16:42:38+00:00
@@ -246,7 +256,7 @@ BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine
 
 Chip stocks fall 8 days straight, longest losin... Pluang
 
-### 25. NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout - Stocktwits
+### 26. NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-10-17T16:33:13+00:00
@@ -256,7 +266,7 @@ Chip stocks fall 8 days straight, longest losin... Pluang
 
 NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout Stocktwits
 
-### 26. Stock Market Week Chip Selloff Widens: What to Know - JournalArta
+### 27. Stock Market Week Chip Selloff Widens: What to Know - JournalArta
 
 - Source: JournalArta
 - Published: 2026-10-17T15:47:10+00:00
@@ -266,7 +276,7 @@ NVDA Bucks Selloff As MU, INTC, AMD Slide Premarket Amid Chip Rout Stocktwits
 
 Stock Market Week Chip Selloff Widens: What to Know JournalArta
 
-### 27. Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break - FXEmpire
+### 28. Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-10-17T14:27:33+00:00
@@ -276,7 +286,7 @@ Stock Market Week Chip Selloff Widens: What to Know JournalArta
 
 Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break FXEmpire
 
-### 28. Does the AI Selloff Put Alphabet's Breakout in Doubt? - TradingView
+### 29. Does the AI Selloff Put Alphabet's Breakout in Doubt? - TradingView
 
 - Source: TradingView
 - Published: 2026-10-17T14:05:00+00:00
@@ -286,7 +296,7 @@ Nasdaq Index: AI Selloff Deepens as Chips and CoreWeave Break FXEmpire
 
 Does the AI Selloff Put Alphabet's Breakout in Doubt? TradingView
 
-### 29. Nebius Stock: British AI Deals, a Gartner Warning, and the Funding Test That Outranks the Selloff - ad-hoc-news.de
+### 30. Nebius Stock: British AI Deals, a Gartner Warning, and the Funding Test That Outranks the Selloff - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-17T13:21:58+00:00
@@ -295,16 +305,6 @@ Does the AI Selloff Put Alphabet's Breakout in Doubt? TradingView
 - Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMEZiT3V4NERsTGFheHFJeGdVRWtDMEN3eXJXSnZqbnFRbnVWSHRaM01yRkMyVDJlajdKVXVQZGNmbzQwU0lxQy1XSGEzaFk5UGdNVWpnd01ZZnd2alJMbzhZN0gwMnJta2dLRUZPQlI0S2xoYUUwS1R1VEd5RFVIS0J4QkFnWWJ5ckN3UVRiOWtnN2dORVhTZjVMUnc2T1RMcEF0LTJXaENQTkRjdnR0TGJhSnFjdURMdFY4S1hsMzhUbVI3NEVtWTR2TWh1SnJNUHNTZzJRTHBsamwxSWlYNnk1ems0MU52RGlSLTRTaWppR2VLM1E2aGFR?oc=5
 
 Nebius Stock: British AI Deals, a Gartner Warning, and the Funding Test That Outranks the Selloff ad-hoc-news.de
-
-### 30. AMD's Helion Rack Blueprint Lands in the Crosshairs of a Rate-Sensitive Chip Selloff - ad-hoc-news.de
-
-- Source: ad-hoc-news.de
-- Published: 2026-10-17T13:11:34+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTWZtSmtyWlV3NVhkYWNjdWZsX0VBWmNfSGZQMGE5R1dia1BBd2IzNENQMGJrUlhyZDNDcjhMVTk2cU5GLXViRDMtZG1qM3dqamNfVW5zZWxVTTJvLWNnYVFnci1YWHBMLUdrMC1tLUVVcUQ1Y1VYTm5HM0U5cnZMRFFVU0tlVFYxdE9TSFlWNXNpZlhGZl9kSF9haC1iMzVVR0pvc0N3TkRoRTVyYWJaUW9hZXpkU2ZjNnIwODlFTVM4WUE5SUlQQ0VBX3ZCRG9oaHhZSTV1eG1uMTlnMEtUX0c2QjVHLVhsMmVhRg?oc=5
-
-AMD's Helion Rack Blueprint Lands in the Crosshairs of a Rate-Sensitive Chip Selloff ad-hoc-news.de
 
 ### 31. IMF chief warns inflation hurts poor countries, AI optimism risks market correction - WION
 
@@ -512,7 +512,7 @@ Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 yea
 - Published: 2026-10-17T11:30:38+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxQbmhOekg0VTluUHlkY3F6b21jbFVrakd6WDlTVklEQ0ptRVlCc0xOd1lYdFhMbnFURllUbXNUaXpMcmpHcjFaOHJ4b0s2ZnBsR0VXWGVJSDlrNUtKSU1ONTUtLVVFLXJmeXE0RmswYmxtbkRHY1RZWkFjdUthaEtFWV95eTRFa1ozbmVDLWJKcExjckRJUTdTR2t1cGtsdmhFTGcwYzNOdGFXdWJlV2lEWTFOUFIybzV5RGd6U095YjJsbHVfVHMzdkIwSnI4UjR4STczOVNrWEkxc2pUaUlBNVBoTVgwNjB6ZlBjdndTdkcyMHhHUTJ1VHNpU0R3TXJFbzJ5bGItenoxZkZLdEZfNFg4OWVRVGFsOEHSAZoCQVVfeXFMUG5oTnpINFU5blB5ZGNxem9tY2xVa2pHelg5U1ZJRENKbUVZQnNMTndZWHRYTG5xVEZZVG1zVGl6THJqR3IxWjhyeG9LNmZwbEdFV1hlSUg5azVLSklNTjU1LS1VRS1yZnlxNEZrMGJsbW5ER2NUWVpBY3VLYWhLRVlfeXk0RWtaM25lQy1iSnBMY3JESVE3U0drdXBrbHZoRUxnMGMzTnRhV3ViZVdpRFkxTlBSMm81eURnelNPeWIybGx1X1RzM3ZCMEpyOFI0eEk3MzlTa1hJMXNqVGlJQTVQaE1YMDYwemZQY3Z3U3ZHMjB4R1EydVRzaVNEd01yRW8yeWxiLXp6MWZGS3RGXzRYODllUVRhbDhB?oc=5
+- Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxQNlBYUzA2c1lsLWhGdERPb2hwQXdoYzlYcnVMWEVRaDRjUDBiQU9mdnd4STdtQU8tT014MkZpZUdfY2hfejNuOS1Dbm0yckRPanRKU1ZhNmE4cHFZX2MyLWMxaVNzdy01UzRDUncxX2dyTHBkcGNaZVFtcUdxd2Q5c2FjYVoyeXdoWEtPc2JjN1FLNlQtZUc3dmhvY1JDT0w0cWx6bEFtR0JtR0ZNVHpkUlVVV0xSVkFCZTBkZ1NNbVhqZnZqdHhyeHFMdllsWm9oSnd3RzFvSVpOTEJUOFNERllrN0lPOWhKZGtmRGZsZjk5MXl1dVRSZDhJNVhrQkMtVEJ4RzVGNzZiWVFkaDRLdWRtOETSAZoCQVVfeXFMUG5oTnpINFU5blB5ZGNxem9tY2xVa2pHelg5U1ZJRENKbUVZQnNMTndZWHRYTG5xVEZZVG1zVGl6THJqR3IxWjhyeG9LNmZwbEdFV1hlSUg5azVLSklNTjU1LS1VRS1yZnlxNEZrMGJsbW5ER2NUWVpBY3VLYWhLRVlfeXk0RWtaM25lQy1iSnBMY3JESVE3U0drdXBrbHZoRUxnMGMzTnRhV3ViZVdpRFkxTlBSMm81eURnelNPeWIybGx1X1RzM3ZCMEpyOFI0eEk3MzlTa1hJMXNqVGlJQTVQaE1YMDYwemZQY3Z3U3ZHMjB4R1EydVRzaVNEd01yRW8yeWxiLXp6MWZGS3RGXzRYODllUVRhbDhB?oc=5
 
 Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do Livemint
 
@@ -536,17 +536,7 @@ Sensex slips 51 points in early trade amid elevated crude oil prices Mid-Day
 
 Best thematic factor-based mutual funds 2026: Which equity schemes lead in 1- 3- and 5-year CAGR returns? Livemint
 
-### 54. Gold SIP पर बड़ा झटका! SIP बंद होगी? अब सोने में पैसा कैसे लगाएं? | Gold Investment - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-10-17T04:57:01+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPQ3ZsbXo5T3c1b0c2bDcweUlFUk82U3NXbG5LYnZuaTAtbnJfcVRES3IxNmVxLWRxMUlyTFR4RXN5b2ZBdENoLWxwczdKZWNoNW9nRldJOUdKT01oZDBOYTBfSmRCeWRadFNGenA1ejhHcThYOXJkNnFhc2oydV9Qc2h1Zjlidkt6eHk2QjZPTWlzcUF6UlJ5SDdmT2ZaSVVqRnYxbzhHSV96Tm5FMHdZc3Yyb3RiS2VCcHZNZjAtODNQQVJ1LWc1NHdIVnZGeE82bWpkQ0VIN3pVTXVHUGc?oc=5
-
-Gold SIP पर बड़ा झटका! SIP बंद होगी? अब सोने में पैसा कैसे लगाएं? | Gold Investment Goodreturns
-
-### 55. Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens - MarketsMojo
+### 54. Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-10-18T03:49:37+00:00
@@ -555,6 +545,16 @@ Gold SIP पर बड़ा झटका! SIP बंद होगी? अब �
 - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNZkF3S0dXUUxvMHVtZUR1Ujh0WUNnNy1ienpzaWxJVkd5SXFOeHY4NzZhcnFUcnRCZHYyY1BOM3VxZldNdm02eUhBNUFHakdXRmY0TVFqWTdsaUlfNktWNDJmX2lkNEZsUEloRU5uQm1iVkdyTkdnRFRUX29rMU5GcWpvbDMxYWdkOTJXV1JneUF4ZVgyMDNqZU50RWFmdVhKRnlVdTZNdndxSjlzaTlBOFpDY20?oc=5
 
 Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens MarketsMojo
+
+### 55. India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-18T02:34:07+00:00
+- Themes: India market, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRmlCaVBocGx1ZDBpb0xLMFROTVlZZ0Jsel9aOTZzUHFlUWFHaTZGUXZaNXpuVDUwbjRjQWlmcHpQVG1EQmJjMkh4Z01oSWtxMDI2SDBRT2hCdkl6RGZHUzRtbXpVOVRVZGZYdmJBRkhJUkQ4TWNLRmZSNFItc1luMkRrQnBpeHlWSHY4UFhKa1Q2STJSZEV0YmI3ME5sajJORGlwdTk1Zk5WVXYzNFJzWFBCYU8wSS1ROEhVdFpjYklvY3dNaUtoVWw0bVJKcUJHVXA5VTJKM19lc1JRTDY0VVZBRGVOa3lWbnoyNGVabnNGVkNI0gH0AUFVX3lxTFBGaUJpUGhwbHVkMGlvTEswVE5NWVlnQmx6X1o5NnNQcWVRYUdpNkZRdlo1em5UNTBuNGNBaWZwelBUbURCYmMySHhnTWhJa3EwMjZIMFFPaEJ2SXpEZkdTNG1telU5VFVkZlh2YkFGSElSRDhNY0tGZlI0Ui1zWW4yRGtCcGl4eVZIdjhQWEprVDZJMlJkRXRiYjcwTmxqMk5EaXB1OTVmTlZVdjM0UnNYUEJhTzBJLVE4SFV0WmNiSW9jd01pS2hVbDRtUkpxQkdVcDlVMkozX2VzUlFMNjRVVkFEZU5reVZuejI0ZVpuc0ZWQ0g?oc=5
+
+India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs Moneycontrol.com
 
 ### 56. Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise - INDIA New England News
 
