@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-18 09:37
+Generated: 2026-10-18 10:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -296,15 +296,15 @@ Applied Digital (NASDAQ: APLD) Stock Slides 4% As JPMorgan Bond Downgrade Deepen
 
 Indian IT stocks record best week in 18 years amid global AI sell-off Rediff
 
-### 30. Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opportunity With AI Demand Accelerating As CRWV Stock Sees Worst Week In 11 Months - Stocktwits
+### 30. Indian Markets Fall for Eighth Straight Week as Foreign Selling and Global Risks Weigh - INDIA New England News
 
-- Source: Stocktwits
-- Published: 2026-10-17T10:05:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjdzLTVoTE1RdWpYNDRPSUtSYTlhcnVUQTB6UVpQWWV0THlQZ04xVDdkVzFSV3Ewc3doX20tX3RpUTNRR3dyWE9fakVSREV4d3FydU0wSnRVMC1wU0s4S296VGxGdXU2XzU5TmpRMmJhck5kd3ZWTnJDRG5xVmxOVkhSTFZIV2JtRV93NDVqS1NjSzBPUjQ0YWNlWkI1dFEwSTd5ZWE1bl9pQzdtV21qVHc3ejJ5R1FBM28tOGFZQV9LZFE3V2Z1WGVqTDg4WEczdHdQaQ?oc=5
+- Source: INDIA New England News
+- Published: 2026-10-18T08:32:13+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGVCNkRqTkl5eWJ1TFlQRXdMQ0lQM2hqajNPX1E2cmdET0hTczNOdVdRZ0loLWZCejdQUmZyUnFuc3d6MlEyd2dfcUZiWTh0enJsOUtFWlp6dnVUZTE5aUpuMDFZRnEzTmp2TlJ5cXZXR0lTQnI0aGoyS0c2UnBVUjdmU252dVFwcTduaHZEQW1rRGhrbVNGaVpObml4SWtHRExUUjBNaDRUM2FBRGRlR2NKcU1JZw?oc=5
 
-Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opportunity With AI Demand Accelerating As CRWV Stock Sees Worst Week In 11 Months Stocktwits
+Indian Markets Fall for Eighth Straight Week as Foreign Selling and Global Risks Weigh INDIA New England News
 
 ### 31. Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market next week - Zee News
 
@@ -326,15 +326,15 @@ Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market
 
 Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market next week Zee News
 
-### 33. REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund selling in September - The Economic Times
+### 33. Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and crude oil prices to drive investor sentiment - IBTimes India
 
-- Source: The Economic Times
-- Published: 2026-10-17T10:06:29+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMimwJBVV95cUxOYXJtN2dTeWNJUXlRNThWUV9hOHdBb0c1MzByNVBEQ2lTRUhkVTNYUWN1SVlFMU9aOF9qZkNzNW84S2lsLWdRWWxRbmZPOFVlcW5Fd05BSmlPTUlMaTBuSXNhS1ZVU0I2N1Y2c1VmbUNVR2QtWjAzbk9EbUFod2JRdXp0U0NLcU1SRkkxcUFjcll5RDhWN01ORVBWb0t6ZXlCdVFlS2lOS2ZtUGp3Vmp4SFRhRnpkVFpXWWhoTFMwRnVPOTRVTWhzd2VpSGtobXRiWGhkVU11VmMyMFk4TTVZVno3c2tLZGlRcHpTeWp4V19BYnJsQzBzekRuYmpYemV6UlRuQjZyQ2RycXJpdGMyUEdSeTVIR1VCMVhr?oc=5
+- Source: IBTimes India
+- Published: 2026-10-18T09:56:33+00:00
+- Themes: India market, macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXdLTmFiT2c1S21welAzaDdJY1lUZVhHeWNRTDl1amd6b0F4NFJxeS1BNzJfNW1QaGliOWNhX19oaUxNWXB1SEdydXNXZWpIeUpqWlZqMWF5QktnaWJKRG5QMG1iYVVPc1RzQUNubHlMMWxIUHp3bXFtMVlaUkJEamZjZW1NUnBYWnBlYzVId3BkZWN6LTI5MklBV1BSSmVTNlQ3czFOYWRuVjUycC1DVVFUdUNGNktJNXozMDFaVTA?oc=5
 
-REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund selling in September The Economic Times
+Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and crude oil prices to drive investor sentiment IBTimes India
 
 ### 34. Dollar Tree, Inc. $DLTR Shares Newly Acquired by Counterpoint Mutual Funds LLC - MarketBeat
 
@@ -516,15 +516,15 @@ Small Cap Mutual Funds: 4 low-cost schemes that delivered over 16% CAGR in 5 yea
 
 Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do Livemint
 
-### 52. Sensex slips 51 points in early trade amid elevated crude oil prices - Mid-Day
+### 52. Nifty & Bank Nifty Weekly Outlook 18-10-2026 by Choice Broking Ltd - Investment Guru India
 
-- Source: Mid-Day
-- Published: 2026-10-17T09:46:28+00:00
-- Themes: India market, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxPemlQSnQxSVBSRG1Vdm1EUXJPdi12TFUwZERpbmNJZGJlRzdmYkY1Y3Y1dl9oWjhYcGt4czhvMlZHdzE1VHBVTHZqWi1kbmVNbFplMGhWMHZxal9tbFhhQm1tSHVWZ0tXaXhSUVREUGRLcHYzdDFwQnh0dGJxMEc5dXJBQzVfejdPYlpIeEtfVGxDcUNrc21Qa3JDS3NFNkNYdWFqcXBPRjE0ZDB6eUVBQmhJbjVDemlLaGJCRVBUZTN4a2ZtRGQ3Um85dzI4alJsbDAwZA?oc=5
+- Source: Investment Guru India
+- Published: 2026-10-18T09:32:51+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk1nb3A5Ykc0WlNPa1NoeGlVOF9SazBlZG5md0Y3YnJaSDRPTVluM1hDTzNVTGc0N29xN2d1Q0lDZVVIcWFrUmk5UXdWYVhXZ0c4NU0xc0h2UmRveklLdVlXQXFBZW1OcWs3MUQxQkNQbFIzSFFmNFMtS1hvaGVhS2Z5TmlxdEJGYUxOMzJfZVRBY0NubFJPUzZrU0pkV05FbXpjc1hGYW1mYURySlpjamliQVQzUE1i?oc=5
 
-Sensex slips 51 points in early trade amid elevated crude oil prices Mid-Day
+Nifty & Bank Nifty Weekly Outlook 18-10-2026 by Choice Broking Ltd Investment Guru India
 
 ### 53. FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus - The Economic Times
 
@@ -532,7 +532,7 @@ Sensex slips 51 points in early trade amid elevated crude oil prices Mid-Day
 - Published: 2026-10-18T08:11:02+00:00
 - Themes: India market
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYTNTYWQyMmdfV040eFdfLW9qX2VWdTkzcTZsVllmLVNFUkpjMjlyVXBwZFhlSDJmUTNVN3FLVzBBZmlOb1UwclU2cVZqalFFY0xjT0tWOWxaOFRLS09MVTJPRXkxaUdDWkk0MzJxaUxUUnI0V3NPeVVUU0xYMm9TTVFsRlhqT2FEbW9mLWF5WVRmQWtJSG1Vc3RfcVBqSkdieEZUaDFDUWJiYTQxU3gtS29wQTlnbkhLWGNEWC1YdkZ2N3JEYUU2MjkycHpESmZ5WEdLQkpybDVTYUhtQUpaYlAtWk1JbVJTSUxPWFhuaGfSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3UyT0tjZFpQWGVZT1ByN1daaF9yTHgtNFRLb0JXVGx3aHVjOXZRVTZ5OTMtelNDdXBoYmdzVGVycTV3QTVvZjUtRjhRUjMzMzV0Q0JKSjFLWExrZU1SYTNaR2VqTWZjUUI5Q0FRUnQwSnNmLXUxc1FKT1FfVm0wVlRtQl9YNUs4SmJ0cTc3MkZpdXJHaGFBY01VVlhKR2Q5RnJfVGZQSWFkb0R0OWNWWEw5TnZVVzUwbkRyWVlVd0YxMUtEb2k1WlVQMHU4VUlDdnBJbWs3dlhOQzY1S1YzcEY3azjSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5
 
 FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus The Economic Times
 
@@ -586,7 +586,17 @@ Indian Stock Market Outlook Next Week, 23-27 March: Sensex, Nifty Likely to Trad
 
 Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore Goodreturns
 
-### 59. Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens - MarketsMojo
+### 59. Equity markets open flat amid gains in crude oil prices - DD News
+
+- Source: DD News
+- Published: 2026-10-18T04:01:26+00:00
+- Themes: macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEFpMVp6bkNEaFpsZV9md0thQXdLc3Z4MDBDbU1QOFE2Rkt1cVFiSExJaE9CZW1GQ0NMaC1FOHl5QXB4ODg3ZWFoRFByRC1TUi0wTFNLWXpjX21EX2JqN0sxLVY1cGZrMm1qWTgwZGNFSkxldzl5aDM2Qy01SDBwcDVJeThGakVW?oc=5
+
+Equity markets open flat amid gains in crude oil prices DD News
+
+### 60. Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-10-18T03:49:37+00:00
@@ -596,7 +606,7 @@ Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped O
 
 Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens MarketsMojo
 
-### 60. India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs - Moneycontrol.com
+### 61. India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-18T02:34:07+00:00
@@ -606,7 +616,7 @@ Sylph Industries Ltd Falls to 52-Week Low of Rs 0.18 as Sell-Off Deepens Markets
 
 India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pause on sanctions, tariffs Moneycontrol.com
 
-### 61. Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise - INDIA New England News
+### 62. Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-17T16:32:52+00:00
@@ -616,7 +626,7 @@ India can't shift from Russian oil 'overnight': Rubio explains Trump's 60-day pa
 
 Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise INDIA New England News
 
-### 62. Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs - Dynamite News
+### 63. Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs - Dynamite News
 
 - Source: Dynamite News
 - Published: 2026-10-17T13:15:15+00:00
@@ -626,7 +636,7 @@ Sensex Ends Four-Day Losing Streak, Jumps 473 Points as Global Markets Rise INDI
 
 Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs Dynamite News
 
-### 63. Chip index SOX posts longest losing streak since 2008 as AI worries deepen - Yahoo! Finance Canada
+### 64. Chip index SOX posts longest losing streak since 2008 as AI worries deepen - Yahoo! Finance Canada
 
 - Source: Yahoo! Finance Canada
 - Published: 2026-10-17T12:38:09+00:00
@@ -636,7 +646,7 @@ Crude Oil Prices May Ease to $80 in 2027 as Supply Recovers: Goldman Sachs Dynam
 
 Chip index SOX posts longest losing streak since 2008 as AI worries deepen Yahoo! Finance Canada
 
-### 64. India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: FundsIndia CEO - BW Businessworld
+### 65. India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: FundsIndia CEO - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-10-17T12:29:39+00:00
@@ -646,7 +656,7 @@ Chip index SOX posts longest losing streak since 2008 as AI worries deepen Yahoo
 
 India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: FundsIndia CEO BW Businessworld
 
-### 65. Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India - Livemint
+### 66. Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India - Livemint
 
 - Source: Livemint
 - Published: 2026-10-17T10:44:25+00:00
@@ -656,17 +666,17 @@ India’s Market Premium Will Be Harder To Justify Without Stronger Earnings: Fu
 
 Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India Livemint
 
-### 66. Air India, AI Express cancel Saudi Arabia flights till October 24 - Moneycontrol.com
+### 67. Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog
 
-- Source: Moneycontrol.com
-- Published: 2026-10-17T10:00:37+00:00
-- Themes: AI / tech risk, India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDNKWlhHa1pTWThQa1RTNXI4UG04c1VwaHFCbVV2bm1lbTI3aG9GUWVZUXA2Zl9ZRllUU2lNU3JZR1R2NG9IQlZ6T0xQVlRRd1dLZEk1ekEzSmx4czR3cVQzX2R2b1ZwRVFqU2FMVmNUbnVGQkFsMHIxMWlGdVhXOGQteVlqbTlCUTMzb2JyM2t0UE1za1oyOVBlbW45enRDcnNobGstemN4U1VzYmZyVXdmckVyaEZEekMzZ05iRdIBvwFBVV95cUxOSDNKWlhHa1pTWThQa1RTNXI4UG04c1VwaHFCbVV2bm1lbTI3aG9GUWVZUXA2Zl9ZRllUU2lNU3JZR1R2NG9IQlZ6T0xQVlRRd1dLZEk1ekEzSmx4czR3cVQzX2R2b1ZwRVFqU2FMVmNUbnVGQkFsMHIxMWlGdVhXOGQteVlqbTlCUTMzb2JyM2t0UE1za1oyOVBlbW45enRDcnNobGstemN4U1VzYmZyVXdmckVyaEZEekMzZ05iRQ?oc=5
+- Source: Liquide Blog
+- Published: 2026-10-18T09:46:20+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWl3bzY2TEl0WEJaRWtLS0ZfV1l4NU5pdzJFbTl0NDgwZ2VEWHBBYzdBUGFXYnFYRGdRZm1UMHhPZjA0Y1VHSXowUkROclY5cDNwZ2VYMURJN0kxV0ZzSHpFcEI0TWtLMlpKd2ZwVlRMQm02S1hiRVFnVjQzaFNFenRXZC1KVm9KbTdrd29MWUh2blh6Z3dvU1Nn?oc=5
 
-Air India, AI Express cancel Saudi Arabia flights till October 24 Moneycontrol.com
+Share Market News: Nifty 50 Outlook & Prediction Liquide Blog
 
-### 67. India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive - Moneycontrol.com
+### 68. India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-18T09:28:33+00:00
@@ -676,7 +686,47 @@ Air India, AI Express cancel Saudi Arabia flights till October 24 Moneycontrol.c
 
 India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive Moneycontrol.com
 
-### 68. Broadcom's AI Story Hits a Financing Wall as Shares Retreat 4.7% - ad-hoc-news.de
+### 69. After India’s objection, JD Vance clarifies ‘indentured servants’ remark on H-1B workers - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-18T09:24:07+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbjdoSVl3ZnRtY0ZVcTVyZ2gwVUdsaHdPZExaTVlmakRfSmNRRzA2Uk5aNnl2MmZFSlUyeVZPN0Q3VEZyT0ZrUmczTnUxZkJGb0lZVjVWZFhRMVQzWExNaVNVdG9RSDNUaFhNNktRX3FGcWg3RmJTOVNXQlUyWXkxRXdMWHdEVmFxQVJHTUdtZXdHOFBwYU1xWVczRS11YnZOUDExRWhrc2VHdkVSU2Y3OUhJbUs0Y1FvNVl5LS12UWNtMFdJOExzdkdLcnZPOTl3OHZSSF9qRUk5WjRmSDlr0gHfAUFVX3lxTFBuN2hJWXdmdG1jRlVxNXJnaDBVR2xod09kTFpNWWZqRF9KY1FHMDZSTlo2eXYyZkVKVTJ5Vk83RDdURnJPRmtSZzNOdTFmQkZvSVlWNVZkWFExVDNYTE1pU1V0b1FIM1RoWE02S1FfcUZxaDdGYlM5U1dCVTJZeTFFd0xYd0RWYXFBUkdNR21ld0c4UHBhTXFZVzNFLXVidk5QMTFFaGtzZUd2RVJTZjc5SEltSzRjUW81WXktLXZRY20wV0k4THN2R0tydk85OXc4dlJIX2pFSTlaNGZIOWs?oc=5
+
+After India’s objection, JD Vance clarifies ‘indentured servants’ remark on H-1B workers Moneycontrol.com
+
+### 70. Nestle, Unilever face India action over misleading health claims - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-18T08:16:28+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHZTMldRdHBBY0ZHcXUwR2xSOXZuNzFOYm54ekRpZ1RoYnF5dWU0Q2hkMFkxQ3lOX2NUM3BkUDREYklNMGM5dnhDTy1FTlFxTXB6ZWtrOVNDb3c1TzV3YXBHWEdIYVNYTktLblc0UE9ZYUt1TmJCWVdLcGVERFNRVDUtOXBpLUN2dDZzdUdRSVYwWHFjVUdmNGR0eU9TTXFCMUF4Y0w1cTBZVWpSSjhQWGl2VzFWZm8wellvWkpXWm1CS29RZWhSWjdWVjhuN0XSAc8BQVVfeXFMTWR2UzJXUXRwQWNGR3F1MEdsUjl2bjcxTmJueHpEaWdUaGJxeXVlNENoZDBZMUN5Tl9jVDNwZFA0RGJJTTBjOXZ4Q08tRU5RcU1wemVrazlTQ293NU81d2FwR1hHSGFTWE5LS25XNFBPWWFLdU5iQllXS3BlRERTUVQ1LTlwaS1DdnQ2c3VHUUlWMFhxY1VHZjRkdHlPU01xQjFBeGNMNXEwWVVqUko4UFhpdlcxVmZvMHpZb1pKV1ptQktvUWVoUlo3VlY4bjdF?oc=5
+
+Nestle, Unilever face India action over misleading health claims Moneycontrol.com
+
+### 71. Indian refiners' fuel exports to the West jump 43% as they keep processing Russian crude - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-18T07:32:16+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTdWMXRCVFJrM2FlLVhETFYza3BoaGpiM2RRcFR0OXRMbmJKbFl2U1l1cWJ0MFI2elpzT2ptcmVOazdLSUpGMGpKVXd2SGhnMnJoUUNXREFJckp6SXRydDktSDZyaF96OWV0RFhrNHBUNlR2UzU0eS1PU3NNaFQyVk9vMWNpdnVHS3J0eFJsOWNENGZtVFUxazdMTmo1UGE4c1FVTmVGeDBna3psVi0zYmRuWTJfOVBndVFKc0pmV28yMVhfSTA2elNHV2M4UmlkX3RMYXZZRG1fd3FpaTlBcNIB4AFBVV95cUxPYTdWMXRCVFJrM2FlLVhETFYza3BoaGpiM2RRcFR0OXRMbmJKbFl2U1l1cWJ0MFI2elpzT2ptcmVOazdLSUpGMGpKVXd2SGhnMnJoUUNXREFJckp6SXRydDktSDZyaF96OWV0RFhrNHBUNlR2UzU0eS1PU3NNaFQyVk9vMWNpdnVHS3J0eFJsOWNENGZtVFUxazdMTmo1UGE4c1FVTmVGeDBna3psVi0zYmRuWTJfOVBndVFKc0pmV28yMVhfSTA2elNHV2M4UmlkX3RMYXZZRG1fd3FpaTlBcA?oc=5
+
+Indian refiners' fuel exports to the West jump 43% as they keep processing Russian crude Moneycontrol.com
+
+### 72. Trump Removes All Sanctions Against Buyers Of Russian Oil - Trak.in
+
+- Source: Trak.in
+- Published: 2026-10-18T07:07:06+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxQWjBpcjhPVFl2R3BGeFhyd0EyVkpRTWpsQjRIbVdGakFzaDF5OXBJOGZiYlQwZWhMeHVza2Z4ZFhYUFVqVHplM2hPVDlxSlZiTTRtTU1ZU211Z1lEQmtJdmxUdzdxVkxUbzh2TVNjT25wdUhyYjRzWUcyOXVXMGxlV2ZoZHpaTnVJdlE?oc=5
+
+Trump Removes All Sanctions Against Buyers Of Russian Oil Trak.in
+
+### 73. Broadcom's AI Story Hits a Financing Wall as Shares Retreat 4.7% - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-18T07:02:22+00:00
@@ -686,7 +736,17 @@ India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive Moneycont
 
 Broadcom's AI Story Hits a Financing Wall as Shares Retreat 4.7% ad-hoc-news.de
 
-### 69. Rubio heads to India to secure 'economic opportunities' as Trump pauses Russia-linked tariffs on 'ally' India - Moneycontrol.com
+### 74. Bitcoin and Ether Rebound After Selloff Triggers Leveraged Liquidations - TOKENPOST
+
+- Source: TOKENPOST
+- Published: 2026-10-18T05:43:42+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZNWl2dUZJR3E3YmNMWlV0Qjh6LTRERUcyME1JbVhJd3oyTDVkelFsUFYzRHh0ZTVucXVidUlvV2YtQkl4X1ROcjdrc2RqaUhyNHpBQUdoYjI4Zw?oc=5
+
+Bitcoin and Ether Rebound After Selloff Triggers Leveraged Liquidations TOKENPOST
+
+### 75. Rubio heads to India to secure 'economic opportunities' as Trump pauses Russia-linked tariffs on 'ally' India - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-18T03:57:40+00:00
@@ -696,7 +756,7 @@ Broadcom's AI Story Hits a Financing Wall as Shares Retreat 4.7% ad-hoc-news.de
 
 Rubio heads to India to secure 'economic opportunities' as Trump pauses Russia-linked tariffs on 'ally' India Moneycontrol.com
 
-### 70. Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers - Moneycontrol.com
+### 76. Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-18T02:58:09+00:00
@@ -706,7 +766,7 @@ Rubio heads to India to secure 'economic opportunities' as Trump pauses Russia-l
 
 Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers Moneycontrol.com
 
-### 71. Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers - Moneycontrol.com
+### 77. Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-18T02:58:09+00:00
@@ -716,7 +776,7 @@ Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead 
 
 Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead midcap gainers Moneycontrol.com
 
-### 72. New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft
+### 78. New AI framework bridges a critical gap in mid-range weather forecasts - Microsoft
 
 - Source: Microsoft
 - Published: 2026-10-18T02:33:59+00:00
@@ -726,7 +786,7 @@ Broader markets underperform; Tata Elxsi, KPIT Technologies, Suzlon Energy lead 
 
 New AI framework bridges a critical gap in mid-range weather forecasts Microsoft
 
-### 73. Daily Voice: Has the market priced in higher rates but not earnings downgrades? This investment adviser... - Moneycontrol.com
+### 79. Daily Voice: Has the market priced in higher rates but not earnings downgrades? This investment adviser... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-18T01:35:57+00:00
@@ -736,7 +796,7 @@ New AI framework bridges a critical gap in mid-range weather forecasts Microsoft
 
 Daily Voice: Has the market priced in higher rates but not earnings downgrades? This investment adviser... Moneycontrol.com
 
-### 74. AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint
+### 80. AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint
 
 - Source: Livemint
 - Published: 2026-10-18T00:44:20+00:00
@@ -745,63 +805,3 @@ Daily Voice: Has the market priced in higher rates but not earnings downgrades? 
 - Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOYV9sX3c1aFc2R01JYzhGUWdVZTgtRlpLWW9VdDRRbXhWT0Y3dnhJUzdsRFNsZ1l3Q3M3NzZOUXBtd3JqODBtUTRRa3doYmdNdUpyUjQ5Ym5Xbng2Wnp0UHdOVDNZOVFBWEk5eEpscmwwQXpzUzhIM0toTk50Vm84eFI4bWZmRHBrZW9RcGZjbHlldEVDWm1jbG9RRkVZLWhEZGJZRkpRaUlBNV9OZTNsU0VSMm_SAboBQVVfeXFMTlZicURzcnBzSklPYk14el9OTkFwaHcxalNlbkh2aDRnWmplQjRHenVRaWN0a3VfamREZUMyUHhjNXp1M3JlbDFqMl8tdW1TSDVPNjZLMmp6Zk1OQmU5SWxEekh6aENHNWdOLUlLUjk0Nkd1c1NtU3ZtT0hCZDE2TlRUc21XMnphN1M4R2hiSGliemY1Sm9RRk82Ymg1M1VfTzI5V19vNUdJRFl1TjVGeXhVNDdrQXVvaS13?oc=5
 
 AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks Livemint
-
-### 75. Palantir (PLTR) stock forecast: Wall Street see 11% upside after 7% selloff - Beinsure
-
-- Source: Beinsure
-- Published: 2026-10-17T20:39:12+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxONlpJYzY0M0JKTHNVcFpONEY3SWRUUG4wSDgtUHY1dVVJbWsyc0QwX2xoSHIyYlJ3S3pYS3U0STctVmhCXzdqb2lZWUQxU2ltV1Q5eXp4bkRSaUNSYWs4N2xidXR6ckJJN2E5aXNQdHk4V1VFT1NmYk5pQWNWMEprcXFfRzBzVFNTcDdvVkdNaTU?oc=5
-
-Palantir (PLTR) stock forecast: Wall Street see 11% upside after 7% selloff Beinsure
-
-### 76. NVDA Stock Bucks Selloff Premarket On SpaceX Boost, Foxconn’s Sales Update - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-17T20:08:09+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ1BhVk5SS2pwdGRmM1l6aHBRMUtKTnZCemdjT1BqTzhTVThPQVpYTk1JbFhkeWxVTUJkZzJtZF96S0JFMDkwRXJhNVpNUkswV1pnWklfaUZnVzhWTWFqLUlYMGU1V2t1RzFSbXFrYlpjYmRoSFJqSHBlU251N3g2MzZudEdvMFVOWGV2cF96RFVhZW50Tk5hTDhUcHpJd3dUVkNPUWkxZnQ0YzJyNTdtRU14YlBzZnVRSXdjajN4eXhneVVOWnNDY0ZFallEQ1dFc0l2Xw?oc=5
-
-NVDA Stock Bucks Selloff Premarket On SpaceX Boost, Foxconn’s Sales Update Stocktwits
-
-### 77. AMD's Open-Rack Gambit Meets the Market's Tougher Questions on AI Spending - ad-hoc-news.de
-
-- Source: ad-hoc-news.de
-- Published: 2026-10-17T19:50:35+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOU3dzcFJaSk0wTTQwUkJCTnpiSFhIZmhBVW9yeGRwWGlGaDhqWDRvZDktdVVJSUhqQ3dtdl9EMmdoS1BJYmd5bzBPdFBiU0xlZ2VOcmtXLUM5UkYxd2NPRmZpMERZQ3VPRGYxdDBYbzJZcW1YMzdVT1NLRVlxRXNNMVdUcl84azFQeml0ZUZPWlI5YWVzUjl6bDJtWmY5Y3Yxdno1QzgtajZxcFhya2tHVUd1aEh5d3Z2anh2OElQRUZfdXpjZGR5cnZXZmZyM2lKQVV1d1dGVUdBb2pZOEFr?oc=5
-
-AMD's Open-Rack Gambit Meets the Market's Tougher Questions on AI Spending ad-hoc-news.de
-
-### 78. Asian markets sell off as AI trades crumble after hot US CPI data - DD News
-
-- Source: DD News
-- Published: 2026-10-17T18:43:54+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxPTkNtWDRYU0NjREtVYXFPa0xVNmc4a2NzaUkzaTN4cnhDLWFFcm9CVml0RHhLOWFNQUFzMGdMSmVZUl9CRnY1bTVnOXFJOW1nMVNtRUdXd1NfMnpVMlFYLXR2R1hmT05ESU50ZDRzWVFYLXF3Wks2WW9BYmtfb3I3VWZBRGhvOXVfUTZQQXZyOUgxNk5WUkE?oc=5
-
-Asian markets sell off as AI trades crumble after hot US CPI data DD News
-
-### 79. From India to Spain: What is driving protests around the world? - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-10-17T17:48:13+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2hsWHNpRlZMTW95bldLc1F5UGtXZk4yOVgwb0JTbE5hcTFGdkZhZHBfMkIxc0M0Si1SbFZ2cjJyY0xqUG9IOUdVN2Q2ZG1nWDRKSTg1VktXbWstRDU5NlhPNmlLQ2FGMF84T2ZfTmMzcUhGSEsyLTUyV1hYbW14UWRNc2d2OXFrcndyUWNobFhqdDhBdE92dzl4SW9nR2lOZDhFRXRYcDY3RGZJN3RaX2RESC1DTjdMN0Q3RlJ3c9IBvwFBVV95cUxQX2hsWHNpRlZMTW95bldLc1F5UGtXZk4yOVgwb0JTbE5hcTFGdkZhZHBfMkIxc0M0Si1SbFZ2cjJyY0xqUG9IOUdVN2Q2ZG1nWDRKSTg1VktXbWstRDU5NlhPNmlLQ2FGMF84T2ZfTmMzcUhGSEsyLTUyV1hYbW14UWRNc2d2OXFrcndyUWNobFhqdDhBdE92dzl4SW9nR2lOZDhFRXRYcDY3RGZJN3RaX2RESC1DTjdMN0Q3RlJ3cw?oc=5
-
-From India to Spain: What is driving protests around the world? Moneycontrol.com
-
-### 80. SanDisk's Meta VR Supply Deal Meets a Two-Front Memory Selloff - ad-hoc-news.de
-
-- Source: ad-hoc-news.de
-- Published: 2026-10-17T17:41:16+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnZTWHl1djZTQXR4WFpSZVBiRDJOQUxsN0NLcktBSFhDYy0yX3IwMWo5WTZFZ0pjZFJlbXZJc0lRMUZJQVliTWVSc0hBQmkyMjcxUFRGZ2lsQVktRTJwLVBLWDVMYjB4dGdfbENVMFlNT0hoeHdiRVAwRS1jXzdqVEEyZUtaRThiU3BtdTk4T2VkRGxUczBFRVl5YmEyTUljVEhndVpvNHUyS2l2TVNBMUhZekxndWthLWQxZXJNaUhCUlJzaERKVzFtdXh0eWs?oc=5
-
-SanDisk's Meta VR Supply Deal Meets a Two-Front Memory Selloff ad-hoc-news.de

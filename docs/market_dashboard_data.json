@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18 15:10 IST",
+  "generated_at": "2026-10-18 15:41 IST",
   "wire_file": "2026-10-18-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "38",
-    "wire_total_count": "105",
+    "wire_count": "48",
+    "wire_total_count": "108",
     "wire_scope_date": "2026-10-18",
     "ai_wire_count": "10",
-    "selling_wire_count": "8",
-    "india_wire_count": "15",
+    "selling_wire_count": "10",
+    "india_wire_count": "21",
     "weak_index_count": "10",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-18 09:28",
-      "title": "India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive - Moneycontrol.com",
-      "text": "Latest dated headline · Moneycontrol.com. Today's unique wire set contains 35 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-18 09:56",
+      "title": "Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and crude oil prices to drive investor sentiment - IBTimes India",
+      "text": "Latest dated headline · IBTimes India. Today's unique wire set contains 45 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-18",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-18 has 12 India-market wires, 8 selling/risk wires, and 10 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-18 has 18 India-market wires, 10 selling/risk wires, and 10 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-18",
@@ -51,7 +51,7 @@
     {
       "label": "India Trigger · 2026-10-18",
       "title": "Crude is the local swing factor",
-      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Stock Market Next Week: Jio Platforms ₹30,213 Crore IPO, Q2 Earnings & Crude Oil Prices To Drive Investor - Free Press Journal"
+      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and crude oil prices to drive investor sentiment - IBTimes India"
     }
   ],
   "indices": [
@@ -22803,7 +22803,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-18T15:10:04+05:30",
+    "generated_at": "2026-10-18T15:40:55+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35456,13 +35456,13 @@
       "description": "Indian IT stocks record best week in 18 years amid global AI sell-off Rediff"
     },
     {
-      "published": "2026-10-17T10:05:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Stocktwits",
-      "title": "Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opportunity With AI Demand Accelerating As CRWV Stock Sees Worst Week In 11 Months - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQjdzLTVoTE1RdWpYNDRPSUtSYTlhcnVUQTB6UVpQWWV0THlQZ04xVDdkVzFSV3Ewc3doX20tX3RpUTNRR3dyWE9fakVSREV4d3FydU0wSnRVMC1wU0s4S296VGxGdXU2XzU5TmpRMmJhck5kd3ZWTnJDRG5xVmxOVkhSTFZIV2JtRV93NDVqS1NjSzBPUjQ0YWNlWkI1dFEwSTd5ZWE1bl9pQzdtV21qVHc3ejJ5R1FBM28tOGFZQV9LZFE3V2Z1WGVqTDg4WEczdHdQaQ?oc=5",
-      "description": "Dan Ives Calls CoreWeave Sell-Off A ‘False Narrative’ — Sees Buying Opportunity With AI Demand Accelerating As CRWV Stock Sees Worst Week In 11 Months Stocktwits"
+      "published": "2026-10-18T08:32:13+00:00",
+      "score": 6.0,
+      "themes": "['market selling', 'India market']",
+      "source": "INDIA New England News",
+      "title": "Indian Markets Fall for Eighth Straight Week as Foreign Selling and Global Risks Weigh - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGVCNkRqTkl5eWJ1TFlQRXdMQ0lQM2hqajNPX1E2cmdET0hTczNOdVdRZ0loLWZCejdQUmZyUnFuc3d6MlEyd2dfcUZiWTh0enJsOUtFWlp6dnVUZTE5aUpuMDFZRnEzTmp2TlJ5cXZXR0lTQnI0aGoyS0c2UnBVUjdmU252dVFwcTduaHZEQW1rRGhrbVNGaVpObml4SWtHRExUUjBNaDRUM2FBRGRlR2NKcU1JZw?oc=5",
+      "description": "Indian Markets Fall for Eighth Straight Week as Foreign Selling and Global Risks Weigh INDIA New England News"
     },
     {
       "published": "2026-10-18T07:03:58+00:00",
@@ -35483,13 +35483,13 @@
       "description": "Q2 earnings, FII flows, global yields, crude prices to drive Indian stock market next week Zee News"
     },
     {
-      "published": "2026-10-17T10:06:29+00:00",
-      "score": 5.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund selling in September - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOYXJtN2dTeWNJUXlRNThWUV9hOHdBb0c1MzByNVBEQ2lTRUhkVTNYUWN1SVlFMU9aOF9qZkNzNW84S2lsLWdRWWxRbmZPOFVlcW5Fd05BSmlPTUlMaTBuSXNhS1ZVU0I2N1Y2c1VmbUNVR2QtWjAzbk9EbUFod2JRdXp0U0NLcU1SRkkxcUFjcll5RDhWN01ORVBWb0t6ZXlCdVFlS2lOS2ZtUGp3Vmp4SFRhRnpkVFpXWWhoTFMwRnVPOTRVTWhzd2VpSGtobXRiWGhkVU11VmMyMFk4TTVZVno3c2tLZGlRcHpTeWp4V19BYnJsQzBzekRuYmpYemV6UlRuQjZyQ2RycXJpdGMyUEdSeTVIR1VCMVhr?oc=5",
-      "description": "REC and Cochin Shipyard among top 5 midcap stocks that saw highest mutual fund selling in September The Economic Times"
+      "published": "2026-10-18T09:56:33+00:00",
+      "score": 4.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "IBTimes India",
+      "title": "Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and crude oil prices to drive investor sentiment - IBTimes India",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSXdLTmFiT2c1S21welAzaDdJY1lUZVhHeWNRTDl1amd6b0F4NFJxeS1BNzJfNW1QaGliOWNhX19oaUxNWXB1SEdydXNXZWpIeUpqWlZqMWF5QktnaWJKRG5QMG1iYVVPc1RzQUNubHlMMWxIUHp3bXFtMVlaUkJEamZjZW1NUnBYWnBlYzVId3BkZWN6LTI5MklBV1BSSmVTNlQ3czFOYWRuVjUycC1DVVFUdUNGNktJNXozMDFaVTA?oc=5",
+      "description": "Stock market next week: Jio Platforms' Rs 30,213 crore IPO, Q2 earnings, and crude oil prices to drive investor sentiment IBTimes India"
     },
     {
       "published": "2026-10-18T08:20:05+00:00",
@@ -35654,13 +35654,13 @@
       "description": "Gold FoFs halt fresh investments, but silver mutual funds remain open: Experts decode the reasons and explain what to do Livemint"
     },
     {
-      "published": "2026-10-17T09:46:28+00:00",
-      "score": 3.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Mid-Day",
-      "title": "Sensex slips 51 points in early trade amid elevated crude oil prices - Mid-Day",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPemlQSnQxSVBSRG1Vdm1EUXJPdi12TFUwZERpbmNJZGJlRzdmYkY1Y3Y1dl9oWjhYcGt4czhvMlZHdzE1VHBVTHZqWi1kbmVNbFplMGhWMHZxal9tbFhhQm1tSHVWZ0tXaXhSUVREUGRLcHYzdDFwQnh0dGJxMEc5dXJBQzVfejdPYlpIeEtfVGxDcUNrc21Qa3JDS3NFNkNYdWFqcXBPRjE0ZDB6eUVBQmhJbjVDemlLaGJCRVBUZTN4a2ZtRGQ3Um85dzI4alJsbDAwZA?oc=5",
-      "description": "Sensex slips 51 points in early trade amid elevated crude oil prices Mid-Day"
+      "published": "2026-10-18T09:32:51+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Investment Guru India",
+      "title": "Nifty & Bank Nifty Weekly Outlook 18-10-2026 by Choice Broking Ltd - Investment Guru India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRk1nb3A5Ykc0WlNPa1NoeGlVOF9SazBlZG5md0Y3YnJaSDRPTVluM1hDTzNVTGc0N29xN2d1Q0lDZVVIcWFrUmk5UXdWYVhXZ0c4NU0xc0h2UmRveklLdVlXQXFBZW1OcWs3MUQxQkNQbFIzSFFmNFMtS1hvaGVhS2Z5TmlxdEJGYUxOMzJfZVRBY0NubFJPUzZrU0pkV05FbXpjc1hGYW1mYURySlpjamliQVQzUE1i?oc=5",
+      "description": "Nifty & Bank Nifty Weekly Outlook 18-10-2026 by Choice Broking Ltd Investment Guru India"
     },
     {
       "published": "2026-10-18T08:11:02+00:00",
@@ -35668,7 +35668,7 @@
       "themes": "['India market']",
       "source": "The Economic Times",
       "title": "FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNYTNTYWQyMmdfV040eFdfLW9qX2VWdTkzcTZsVllmLVNFUkpjMjlyVXBwZFhlSDJmUTNVN3FLVzBBZmlOb1UwclU2cVZqalFFY0xjT0tWOWxaOFRLS09MVTJPRXkxaUdDWkk0MzJxaUxUUnI0V3NPeVVUU0xYMm9TTVFsRlhqT2FEbW9mLWF5WVRmQWtJSG1Vc3RfcVBqSkdieEZUaDFDUWJiYTQxU3gtS29wQTlnbkhLWGNEWC1YdkZ2N3JEYUU2MjkycHpESmZ5WEdLQkpybDVTYUhtQUpaYlAtWk1JbVJTSUxPWFhuaGfSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPV3UyT0tjZFpQWGVZT1ByN1daaF9yTHgtNFRLb0JXVGx3aHVjOXZRVTZ5OTMtelNDdXBoYmdzVGVycTV3QTVvZjUtRjhRUjMzMzV0Q0JKSjFLWExrZU1SYTNaR2VqTWZjUUI5Q0FRUnQwSnNmLXUxc1FKT1FfVm0wVlRtQl9YNUs4SmJ0cTc3MkZpdXJHaGFBY01VVlhKR2Q5RnJfVGZQSWFkb0R0OWNWWEw5TnZVVzUwbkRyWVlVd0YxMUtEb2k1WlVQMHU4VUlDdnBJbWs3dlhOQzY1S1YzcEY3azjSAeoBQVVfeXFMUGdYOE55Uzg1dUxIeE8yNlc4dUROMlZEaDI3V0ZLMFpNTHR6eEVBMmF5VVpXa0RndjRhNi05OFJRV0U2U05GdzZWMkxLTEpMSjZrQUhWblk4aUVkZHVYVGFLQmdaaUlTZ2VhUkpsWEpIb05qVFdfN2NVVzhtZ2Q0cndNUjFxVUlkeE5BUWUxdF84c2tZNE9ObWI2Yk1wQU1xSHZIa0VrX2JsSFVSc1NwS3JjUnM0SDdKZ3BJUW52dElBWkhtQ1JWU09WVXNqZXRSaXN1T3BUQy1YOS1JVHdXM1R2cmthRHRPNlN3?oc=5",
       "description": "FPI selling crosses Rs 52,000 crore in October as Nifty defies foreign exodus The Economic Times"
     },
     {
@@ -35715,6 +35715,15 @@
       "title": "Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPdEw3Um0zUy0zWTMtMTJkZ0FIMm11S3d5bEJXREFCVTVJUTJHSzZ0T3J5d1ZKTmZfTW1BR1BBMTJOVkI1ODMwamF0NFN6QUJiamc3YjVOcUZhUWU0TzRyaXNqY202ZzlkWXhIRmpiV2JvZEg2b1A1VXdZZF8xNWg1OEVLb3gtWDNPTnA0dnJqa1JYWEpBaEhHcXBjeldiOHpOR0x1NWROcVdPT3hHRlU5anlRVFVUUVROVGFZSDZyTHJjYkc3WUZvbGpSQUZya0xaUzZDZFphbGhFems?oc=5",
       "description": "Stock Market Crash: Sensex, Nifty Hit 1-Year Low; How US-Israel-Iran War Wiped Out Rs 4,753,333 Crore Goodreturns"
+    },
+    {
+      "published": "2026-10-18T04:01:26+00:00",
+      "score": 2.0,
+      "themes": "['macro / flows']",
+      "source": "DD News",
+      "title": "Equity markets open flat amid gains in crude oil prices - DD News",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTEFpMVp6bkNEaFpsZV9md0thQXdLc3Z4MDBDbU1QOFE2Rkt1cVFiSExJaE9CZW1GQ0NMaC1FOHl5QXB4ODg3ZWFoRFByRC1TUi0wTFNLWXpjX21EX2JqN0sxLVY1cGZrMm1qWTgwZGNFSkxldzl5aDM2Qy01SDBwcDVJeThGakVW?oc=5",
+      "description": "Equity markets open flat amid gains in crude oil prices DD News"
     },
     {
       "published": "2026-10-18T03:49:37+00:00",
@@ -35780,13 +35789,13 @@
       "description": "Made profits on Apple or Nvidia shares? Here's whether you can claim the ₹1.25 lakh tax exemption in India Livemint"
     },
     {
-      "published": "2026-10-17T10:00:37+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "Moneycontrol.com",
-      "title": "Air India, AI Express cancel Saudi Arabia flights till October 24 - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSDNKWlhHa1pTWThQa1RTNXI4UG04c1VwaHFCbVV2bm1lbTI3aG9GUWVZUXA2Zl9ZRllUU2lNU3JZR1R2NG9IQlZ6T0xQVlRRd1dLZEk1ekEzSmx4czR3cVQzX2R2b1ZwRVFqU2FMVmNUbnVGQkFsMHIxMWlGdVhXOGQteVlqbTlCUTMzb2JyM2t0UE1za1oyOVBlbW45enRDcnNobGstemN4U1VzYmZyVXdmckVyaEZEekMzZ05iRdIBvwFBVV95cUxOSDNKWlhHa1pTWThQa1RTNXI4UG04c1VwaHFCbVV2bm1lbTI3aG9GUWVZUXA2Zl9ZRllUU2lNU3JZR1R2NG9IQlZ6T0xQVlRRd1dLZEk1ekEzSmx4czR3cVQzX2R2b1ZwRVFqU2FMVmNUbnVGQkFsMHIxMWlGdVhXOGQteVlqbTlCUTMzb2JyM2t0UE1za1oyOVBlbW45enRDcnNobGstemN4U1VzYmZyVXdmckVyaEZEekMzZ05iRQ?oc=5",
-      "description": "Air India, AI Express cancel Saudi Arabia flights till October 24 Moneycontrol.com"
+      "published": "2026-10-18T09:46:20+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Liquide Blog",
+      "title": "Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYWl3bzY2TEl0WEJaRWtLS0ZfV1l4NU5pdzJFbTl0NDgwZ2VEWHBBYzdBUGFXYnFYRGdRZm1UMHhPZjA0Y1VHSXowUkROclY5cDNwZ2VYMURJN0kxV0ZzSHpFcEI0TWtLMlpKd2ZwVlRMQm02S1hiRVFnVjQzaFNFenRXZC1KVm9KbTdrd29MWUh2blh6Z3dvU1Nn?oc=5",
+      "description": "Share Market News: Nifty 50 Outlook & Prediction Liquide Blog"
     },
     {
       "published": "2026-10-18T09:28:33+00:00",
@@ -35798,6 +35807,42 @@
       "description": "India bars sugar-based ethanol in 2026-27 tender, cuts maize incentive Moneycontrol.com"
     },
     {
+      "published": "2026-10-18T09:24:07+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "After India’s objection, JD Vance clarifies ‘indentured servants’ remark on H-1B workers - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQbjdoSVl3ZnRtY0ZVcTVyZ2gwVUdsaHdPZExaTVlmakRfSmNRRzA2Uk5aNnl2MmZFSlUyeVZPN0Q3VEZyT0ZrUmczTnUxZkJGb0lZVjVWZFhRMVQzWExNaVNVdG9RSDNUaFhNNktRX3FGcWg3RmJTOVNXQlUyWXkxRXdMWHdEVmFxQVJHTUdtZXdHOFBwYU1xWVczRS11YnZOUDExRWhrc2VHdkVSU2Y3OUhJbUs0Y1FvNVl5LS12UWNtMFdJOExzdkdLcnZPOTl3OHZSSF9qRUk5WjRmSDlr0gHfAUFVX3lxTFBuN2hJWXdmdG1jRlVxNXJnaDBVR2xod09kTFpNWWZqRF9KY1FHMDZSTlo2eXYyZkVKVTJ5Vk83RDdURnJPRmtSZzNOdTFmQkZvSVlWNVZkWFExVDNYTE1pU1V0b1FIM1RoWE02S1FfcUZxaDdGYlM5U1dCVTJZeTFFd0xYd0RWYXFBUkdNR21ld0c4UHBhTXFZVzNFLXVidk5QMTFFaGtzZUd2RVJTZjc5SEltSzRjUW81WXktLXZRY20wV0k4THN2R0tydk85OXc4dlJIX2pFSTlaNGZIOWs?oc=5",
+      "description": "After India’s objection, JD Vance clarifies ‘indentured servants’ remark on H-1B workers Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-18T08:16:28+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "Nestle, Unilever face India action over misleading health claims - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNZHZTMldRdHBBY0ZHcXUwR2xSOXZuNzFOYm54ekRpZ1RoYnF5dWU0Q2hkMFkxQ3lOX2NUM3BkUDREYklNMGM5dnhDTy1FTlFxTXB6ZWtrOVNDb3c1TzV3YXBHWEdIYVNYTktLblc0UE9ZYUt1TmJCWVdLcGVERFNRVDUtOXBpLUN2dDZzdUdRSVYwWHFjVUdmNGR0eU9TTXFCMUF4Y0w1cTBZVWpSSjhQWGl2VzFWZm8wellvWkpXWm1CS29RZWhSWjdWVjhuN0XSAc8BQVVfeXFMTWR2UzJXUXRwQWNGR3F1MEdsUjl2bjcxTmJueHpEaWdUaGJxeXVlNENoZDBZMUN5Tl9jVDNwZFA0RGJJTTBjOXZ4Q08tRU5RcU1wemVrazlTQ293NU81d2FwR1hHSGFTWE5LS25XNFBPWWFLdU5iQllXS3BlRERTUVQ1LTlwaS1DdnQ2c3VHUUlWMFhxY1VHZjRkdHlPU01xQjFBeGNMNXEwWVVqUko4UFhpdlcxVmZvMHpZb1pKV1ptQktvUWVoUlo3VlY4bjdF?oc=5",
+      "description": "Nestle, Unilever face India action over misleading health claims Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-18T07:32:16+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "Moneycontrol.com",
+      "title": "Indian refiners' fuel exports to the West jump 43% as they keep processing Russian crude - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYTdWMXRCVFJrM2FlLVhETFYza3BoaGpiM2RRcFR0OXRMbmJKbFl2U1l1cWJ0MFI2elpzT2ptcmVOazdLSUpGMGpKVXd2SGhnMnJoUUNXREFJckp6SXRydDktSDZyaF96OWV0RFhrNHBUNlR2UzU0eS1PU3NNaFQyVk9vMWNpdnVHS3J0eFJsOWNENGZtVFUxazdMTmo1UGE4c1FVTmVGeDBna3psVi0zYmRuWTJfOVBndVFKc0pmV28yMVhfSTA2elNHV2M4UmlkX3RMYXZZRG1fd3FpaTlBcNIB4AFBVV95cUxPYTdWMXRCVFJrM2FlLVhETFYza3BoaGpiM2RRcFR0OXRMbmJKbFl2U1l1cWJ0MFI2elpzT2ptcmVOazdLSUpGMGpKVXd2SGhnMnJoUUNXREFJckp6SXRydDktSDZyaF96OWV0RFhrNHBUNlR2UzU0eS1PU3NNaFQyVk9vMWNpdnVHS3J0eFJsOWNENGZtVFUxazdMTmo1UGE4c1FVTmVGeDBna3psVi0zYmRuWTJfOVBndVFKc0pmV28yMVhfSTA2elNHV2M4UmlkX3RMYXZZRG1fd3FpaTlBcA?oc=5",
+      "description": "Indian refiners' fuel exports to the West jump 43% as they keep processing Russian crude Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-18T07:07:06+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "Trak.in",
+      "title": "Trump Removes All Sanctions Against Buyers Of Russian Oil - Trak.in",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWjBpcjhPVFl2R3BGeFhyd0EyVkpRTWpsQjRIbVdGakFzaDF5OXBJOGZiYlQwZWhMeHVza2Z4ZFhYUFVqVHplM2hPVDlxSlZiTTRtTU1ZU211Z1lEQmtJdmxUdzdxVkxUbzh2TVNjT25wdUhyYjRzWUcyOXVXMGxlV2ZoZHpaTnVJdlE?oc=5",
+      "description": "Trump Removes All Sanctions Against Buyers Of Russian Oil Trak.in"
+    },
+    {
       "published": "2026-10-18T07:02:22+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35805,6 +35850,15 @@
       "title": "Broadcom's AI Story Hits a Financing Wall as Shares Retreat 4.7% - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNbmVDbmVrTF9TemhobDJhdTNEd2VmSG5tMFNRMmxUZXJlanZnUkJwMGtUMFdWRTNFeGR3eFc2VUF0ZUh2ZTVMUXJNRmlFNXhYMXkwM29jeUV5dm1UcFQ0bmNiZEpxQzNHYU1rcTM5R1lDalFWbV9kczZfdWdraWpkQklVRHdwUmpxWW1XN051Q2dOb0ZSLUpVbUd1YWVmOV9BY2UzSjNaNFVCMTAwQUVmVXJrTm9CNndNZXc3UV8zNXZKRjBMTHpObFd4ZzJJcUFiV2pCTWVsTmxGelU?oc=5",
       "description": "Broadcom's AI Story Hits a Financing Wall as Shares Retreat 4.7% ad-hoc-news.de"
+    },
+    {
+      "published": "2026-10-18T05:43:42+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "TOKENPOST",
+      "title": "Bitcoin and Ether Rebound After Selloff Triggers Leveraged Liquidations - TOKENPOST",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZNWl2dUZJR3E3YmNMWlV0Qjh6LTRERUcyME1JbVhJd3oyTDVkelFsUFYzRHh0ZTVucXVidUlvV2YtQkl4X1ROcjdrc2RqaUhyNHpBQUdoYjI4Zw?oc=5",
+      "description": "Bitcoin and Ether Rebound After Selloff Triggers Leveraged Liquidations TOKENPOST"
     },
     {
       "published": "2026-10-18T03:57:40+00:00",
@@ -35859,6 +35913,15 @@
       "title": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks - Livemint",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOYV9sX3c1aFc2R01JYzhGUWdVZTgtRlpLWW9VdDRRbXhWT0Y3dnhJUzdsRFNsZ1l3Q3M3NzZOUXBtd3JqODBtUTRRa3doYmdNdUpyUjQ5Ym5Xbng2Wnp0UHdOVDNZOVFBWEk5eEpscmwwQXpzUzhIM0toTk50Vm84eFI4bWZmRHBrZW9RcGZjbHlldEVDWm1jbG9RRkVZLWhEZGJZRkpRaUlBNV9OZTNsU0VSMm_SAboBQVVfeXFMTlZicURzcnBzSklPYk14el9OTkFwaHcxalNlbkh2aDRnWmplQjRHenVRaWN0a3VfamREZUMyUHhjNXp1M3JlbDFqMl8tdW1TSDVPNjZLMmp6Zk1OQmU5SWxEekh6aENHNWdOLUlLUjk0Nkd1c1NtU3ZtT0hCZDE2TlRUc21XMnphN1M4R2hiSGliemY1Sm9RRk82Ymg1M1VfTzI5V19vNUdJRFl1TjVGeXhVNDdrQXVvaS13?oc=5",
       "description": "AI Trade Reversal Pierces Asia’s Star Picks-and-Shovels Stocks Livemint"
+    },
+    {
+      "published": "2026-10-17T20:46:48+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "TradingKey",
+      "title": "The Week That Proved AI Is Real: MSFT +16%, AMZN +10%, META -10%, AAPL -4% - Winners, Losers and Key Takeaways - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDlGT0RCTjZrNnJHZGpMV1BJUHY5TFVTR0RQWlBPUTV6ZUtrMy1Yd3ptRjVhcDM1WjJNMTg2T0lwS3FGM3FUN01BaWxYNUtrdDdFb1FQTXpqTWF4YXNJa1VlZUowN0lZVXc1TmkwamMwMDRJalIzZG5QS2VOVWNYVkJJOENBWjBHeGlIdlNyVzRONmo1MzdlamVZMGxqTVg3c3ZrdmNxNnd2all5OFJHbHViMjlxZllCNTA0WEZzbGNudnpoXy1wSDJSWFRFWXBmUzVPRFB4a0w?oc=5",
+      "description": "The Week That Proved AI Is Real: MSFT +16%, AMZN +10%, META -10%, AAPL -4% - Winners, Losers and Key Takeaways TradingKey"
     },
     {
       "published": "2026-10-17T20:39:12+00:00",
@@ -35931,6 +35994,15 @@
       "title": "Curbs on gold funds widen as rupee, reserves face pressure - PRESS Insider",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQXRQRkI1cTVSa1NjYnJCc3JETDhrc1dJY0F2a3pLTnNxbnZaYVVITjRQNTlGalkzaDEwWDBVVUZ0a09sRTZRM19XOE5tcVBXNDZ6VEYydG9xS2FEeDFCQ0kzanhtQVVveURTdXdQSUJxekR4ZnVEVzdoOFlsUHZadG52UlQ5S3JXc0RCbS0tZzZzZElP?oc=5",
       "description": "Curbs on gold funds widen as rupee, reserves face pressure PRESS Insider"
+    },
+    {
+      "published": "2026-10-17T16:23:08+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "investingLive",
+      "title": "S&P 500 analysis and forecast after the \"AI bubble\" panic - investingLive",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOREVhb3hhZGhXRHhBMUVLZEI0SjVxck1yUUxhMERlUURJRnhaclZJbXUtYjktX2ZWeEJzWG05enNOdF92MmtrV2htSUtfeGxqZ0ROVlB2Vnc2SjVmaE9nbUl1QTA0dDV3TGZJODZvS3R3VWs1RHViVWgySldCOTNtejJJcDR3Zno3R1FvMkI4YUJVYTFuWnpPX2VCUzFXT1BEakJ3?oc=5",
+      "description": "S&P 500 analysis and forecast after the \"AI bubble\" panic investingLive"
     },
     {
       "published": "2026-10-17T16:21:38+00:00",
@@ -36014,15 +36086,6 @@
       "description": "IDBI Bank Q2 profit falls 39% to ₹2,205 crore on high base of NSDL gains Business Standard"
     },
     {
-      "published": "2026-10-17T13:06:00+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "CoinMarketCap",
-      "title": "Aptos (APT) Price Correction: Post-Catalyst Pullback Explained - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE80SlhFbF9xWnVXQ1prQTVxdFhqaXM5UzFVZ1hFaDBLVkk5UUZ1VmVTMFJJUTJRM0ZnZ1NXa1RxMmpvT1lKQy1BSUlyR1NaYldocFg5T2hvSmQ4WUZ4WnZ3UnMwZHJScENXV3p6cUcxNGI?oc=5",
-      "description": "Aptos (APT) Price Correction: Post-Catalyst Pullback Explained CoinMarketCap"
-    },
-    {
       "published": "2026-10-17T12:52:50+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -36057,15 +36120,6 @@
       "title": "The Correction Is Healthy, The Next Move Is Yours (NYSEARCA:SPY) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxObnhSZXd6LTAyNlZ5X05qNzlOU1E1ZjQxQXp3cHV6b0FrMlg2NUNOX2NVM204VmRJYVBzRzFaNWtXUGJsSnBXMGd2dHNkeFNPM2RLMUJGNHg2dExkcVdQYS1Nd3dMRTJ3cF9SZ0tVS2FmaDVYU2R5QnluYXgtaW5pMGxRb2MtcjV1?oc=5",
       "description": "The Correction Is Healthy, The Next Move Is Yours (NYSEARCA:SPY) Seeking Alpha"
-    },
-    {
-      "published": "2026-10-17T12:41:48+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "ad-hoc-news.de",
-      "title": "Toshiba Trims Kioxia Stake as Chipmaker's Shares Slide 7.7% in Global Semiconductor Rout - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOQ3pLZk9Ba2NGbnU4ajBpbnIxaUhqUmxaRGp1bE1HT3h5U3psY091MTN0czBXeUsxSTN0RHNUajBXQ09TcktnOHZXMDZZZlZlOFFaYkJjSzlIMUZYa010ekRPN2NqZzdad01aWEpvajZsRGY2N2p5eGo4ZGpBMFd5cTF6YmhGaXRJNTVVa2E1bHluLThQZGdJbHR1UTM4UTE0UndveVRXSkNTZmpPNjVxeFE2YzZTX09BWmRVNzg3UHMwQzB6MG5hZkNGdHgxM1hnLWlRekRySWVfTURMYlpwbnU2SXZ5TDhVcWozNDF3cG4zX1ZCUVI4TndBOA?oc=5",
-      "description": "Toshiba Trims Kioxia Stake as Chipmaker's Shares Slide 7.7% in Global Semiconductor Rout ad-hoc-news.de"
     },
     {
       "published": "2026-10-17T12:12:00+00:00",
@@ -36111,33 +36165,6 @@
       "title": "When Machine Learning Models Fake a Trading Edge: How Data Leakage Manufactured a Perfect Bank Nifty Prediction - Bioengineer.org",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTHRIc0hJa1RheFVBTDA0NjVnMEJSalRBN2toUS1MbXZ4MG1kdmVZZFc3dy1tTXY0alYyOTkxUm1PZWpBbnhZbTBJZmxkeGRSRkp6V01jWWx2d29VYkxyMDJrQlNwQ2FIU0ozVXM0N295WDBzdVZLUXFsaTVDWFZhd2RObmZoa090UVdrU3o3QVpET3dsWEEzd1BTYVRKTnN6ZmFFLUI4YzBiQW92bDFlb1R6Qlp0bjdENmpvR21oc2xqSlFERkVqNGQ4Z2prTS1o?oc=5",
       "description": "When Machine Learning Models Fake a Trading Edge: How Data Leakage Manufactured a Perfect Bank Nifty Prediction Bioengineer.org"
-    },
-    {
-      "published": "2026-10-17T09:42:17+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Finolex Cables - 10 smallcap stocks surge up to 65% in 3 months despite market weakness - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObXBNbmJFZDZCZE9iWTlSZjJpMXVRc240NXlEYTFrLVJhNUJobjBwM3hDQUp3dnhlWE55MDhhREMzZEUzTUw5RksxNm9UU2xvaXA2SDVQWGlGMmhYSXZiSGY2M3M1c2x4and4ZVh4d0NwWkdZSmJFbkk0WUhITmJzbXdjelhka2ZSMEs3WU1MMVdCSk1rMFRhU1FpdU43REVzMEpLanJoSUd2WG96VGRtTW1UQS1HYTJ2M2ZpRkdpLXZ1SXFscEhtNzk3UURycng5ZlR1aDVVWWdQZXJubGhoVXBhMEZGc0NsaDRSeA?oc=5",
-      "description": "Finolex Cables - 10 smallcap stocks surge up to 65% in 3 months despite market weakness The Economic Times"
-    },
-    {
-      "published": "2026-10-17T09:41:04+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Business Standard",
-      "title": "Axis Bank Q2 net profit rises 38% to ₹7,003 crore as provisions fall - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOTG5lNi1NMjlkYjRCMDhvRFNXWjB3a2d6VFRzRllaREdUUHA2OGt5NVJGVFNqSWg3V3NWcnZhZFd3YktXUU9wMDJfY2RpMUNFbmdnUkdsSXM4dnpJZ0NQMWdhSDBBM203NzFYaWNyOTlqRjk2eFk2R1BKOXZOSDA0RTZEdngxTkwzbjR5SGZjcHRzdGd3M2pzOW15QUFIbUJHcUpjY2dXTS1YLXNibmJPcXFtY093UG1fMmZmQVIzaE1ieXZTWEFfd2ZadmNKTkpuRjBDUkpuSC03UEnSAdsBQVVfeXFMTkxuZTYtTTI5ZGI0QjA4b0RTV1owd2tnelRUc0ZZWkRHVFBwNjhreTVSRlRTakloN1dzVnJ2YWRXd2JLV1FPcDAyX2NkaTFDRW5nZ1JHbElzOHZ6SWdDUDFnYUgwQTNtNzcxWGljcjk5akY5NnhZNkdQSjl2TkgwNEU2RHZ4MU5MM240eUhmY3B0c3RndzNqczlteUFBSG1CR3FKY2NnV00tWC1zYm5iT3FxbWNPd1BtXzJmZkFSM2hNYnl2U1hBX3dmWnZjSk5KbkYwQ1JKbkgtN1BJ?oc=5",
-      "description": "Axis Bank Q2 net profit rises 38% to ₹7,003 crore as provisions fall Business Standard"
-    },
-    {
-      "published": "2026-10-17T09:40:39+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "ET Now",
-      "title": "Breaking: IDBI Bank Q2 Results: Profit falls 39% YoY to Rs 2,205 crore, NII rises 29% - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNakVhRXMzcjFxYTdsZFlhMThNYjF1djdVVFBOOV9CNXBlUmJUejdlUXdQakNpQkh2N0dQNWlMVXdUdHFoN1ZYV1J4eGNKTm1lczM0Q0lOZXRoYjZZamlZb1Q4bGNoVlRJTnFYeDdBdU9uTG9yeDhWdUVoVWtQOHBTd3NaeFpYT1BzRFJpNlg0R09mSlAzUjJPRTloeGJHd04xYjAwS1RMdlRadTRtZW5CWnU5UHg0MDNYSmtGUE5EQdIBxAFBVV95cUxQOFUxZ3BCUV9fa2FMNHFiTzJxNnRXM1NrdjcyR0V1aktoMHR4TGtLSVlMUUVaaGIxNDRfVWNtUVBvVnJkVWVwNlR5RXNsTllJTmRwRkpMOThzTmNHWDNmdE0yNHQtYloxX09wNThOYWJkQzZWVndrOUhiN0xidGxTa2pFXzE3WWJWdC1OV1k0S3FPQ1U4bG1OMlRhTEtpRURkZkNlRTdBSXBfcjVDU3ByelFBM1dDWDlCbFBTTHJ3WXhjN1dP?oc=5",
-      "description": "Breaking: IDBI Bank Q2 Results: Profit falls 39% YoY to Rs 2,205 crore, NII rises 29% ET Now"
     }
   ]
 }
