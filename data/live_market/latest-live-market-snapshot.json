@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-10-16T19:06:15+05:30",
+  "generated_at": "2026-10-18T08:40:15+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
+      "downloaded_count": 60,
+      "coverage_pct": 100.0,
       "advancers": 30,
-      "decliners": 28,
+      "decliners": 30,
       "unchanged": 0,
-      "ad_ratio": 1.07,
-      "up_turnover_share_pct": 68.2,
-      "down_turnover_share_pct": 31.8,
+      "ad_ratio": 1.0,
+      "up_turnover_share_pct": 67.9,
+      "down_turnover_share_pct": 32.1,
       "high_volume_decliners": 4,
-      "intraday_quotes": 58,
+      "intraday_quotes": 60,
       "daily_fallbacks": 0,
       "as_of_date": "2026-10-16",
       "as_of_timestamp": "2026-10-16 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
         "sector": "Utilities",
-        "count": 1,
+        "count": 2,
         "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 6.602,
-        "average_volume_ratio_20d": 1.766
+        "decliners": 1,
+        "average_1d_pct": 3.296,
+        "average_volume_ratio_20d": 1.491
       },
       {
         "sector": "Commercial services",
@@ -95,11 +95,11 @@
       },
       {
         "sector": "Finance",
-        "count": 11,
+        "count": 12,
         "advancers": 7,
-        "decliners": 4,
-        "average_1d_pct": 0.149,
-        "average_volume_ratio_20d": 1.803
+        "decliners": 5,
+        "average_1d_pct": 0.136,
+        "average_volume_ratio_20d": 1.705
       },
       {
         "sector": "Electronic technology",
@@ -1510,6 +1510,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 103.69,
+        "previous_close": 103.7,
+        "day_move_pct": -0.0096,
+        "session_volume": 1410742.0,
+        "average_volume_20d": 1160595.0,
+        "volume_ratio_20d": 1.216,
+        "turnover_proxy": 146279841.0,
+        "quote_date": "2026-10-16",
+        "quote_timestamp": "2026-10-16 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1629,6 +1646,23 @@
         "alert": ""
       },
       {
+        "symbol": "INDIGRID",
+        "ticker": "INDIGRID.NS",
+        "name": "IndiGrid Infrastructure Trust",
+        "sector": "Finance",
+        "ltp": 169.21,
+        "previous_close": 169.23,
+        "day_move_pct": -0.0118,
+        "session_volume": 523892.0,
+        "average_volume_20d": 831251.0,
+        "volume_ratio_20d": 0.63,
+        "turnover_proxy": 88647769.0,
+        "quote_date": "2026-10-16",
+        "quote_timestamp": "2026-10-16 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "ELPROINTL",
         "ticker": "ELPROINTL.NS",
         "name": "Elpro International Ltd",
@@ -1684,20 +1718,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 499,
-      "coverage_pct": 99.8,
+      "downloaded_count": 500,
+      "coverage_pct": 100.0,
       "advancers": 263,
-      "decliners": 235,
+      "decliners": 236,
       "unchanged": 1,
-      "ad_ratio": 1.12,
+      "ad_ratio": 1.11,
       "up_turnover_share_pct": 63.2,
       "down_turnover_share_pct": 36.8,
       "high_volume_decliners": 33,
       "intraday_quotes": 499,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-10-16",
       "as_of_timestamp": "2026-10-16 15:25 IST",
-      "stale_rows_excluded": 1
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -1782,11 +1816,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
+        "count": 63,
         "advancers": 32,
-        "decliners": 30,
-        "average_1d_pct": 0.006,
-        "average_volume_ratio_20d": 1.263
+        "decliners": 31,
+        "average_1d_pct": -0.01,
+        "average_volume_ratio_20d": 1.247
       },
       {
         "sector": "Power",
@@ -5946,6 +5980,23 @@
         "quote_date": "2026-10-16",
         "quote_timestamp": "2026-10-16 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 224.72,
+        "previous_close": 226.91,
+        "day_move_pct": -0.9651,
+        "session_volume": 327822.0,
+        "average_volume_20d": 1331215.0,
+        "volume_ratio_20d": 0.246,
+        "turnover_proxy": 73668160.0,
+        "quote_date": "2026-10-16",
+        "quote_timestamp": "2026-10-16 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
