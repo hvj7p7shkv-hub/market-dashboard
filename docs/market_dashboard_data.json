@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20 11:10 IST",
+  "generated_at": "2026-10-20 11:40 IST",
   "wire_file": "2026-10-20-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -24,7 +24,7 @@
   "posture": {
     "stance": "India relief, AI overhang",
     "wire_count": "17",
-    "wire_total_count": "213",
+    "wire_total_count": "209",
     "wire_scope_date": "2026-10-20",
     "ai_wire_count": "7",
     "selling_wire_count": "10",
@@ -408,12 +408,12 @@
       "name": "Nikkei 225",
       "ticker": "^N225",
       "last_date": "2026-10-20",
-      "quote_timestamp": "2026-10-20 05:25:00+00:00",
+      "quote_timestamp": "2026-10-20 05:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-19",
       "previous_close": 64916.7,
-      "last": 64016.3,
-      "return_1d_pct": -1.3870058834413723,
+      "last": 63968.35,
+      "return_1d_pct": -1.4608685710503444,
       "return_5d_pct": -5.959970610996567,
       "return_20d_pct": 2.2566242901612243,
       "rsi_14": 42.28,
@@ -437,12 +437,12 @@
       "name": "KOSPI",
       "ticker": "^KS11",
       "last_date": "2026-10-20",
-      "quote_timestamp": "2026-10-20 05:20:00+00:00",
+      "quote_timestamp": "2026-10-20 05:45:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-19",
       "previous_close": 5768.01,
-      "last": 5515.02,
-      "return_1d_pct": -4.38608387249041,
+      "last": 5546.73,
+      "return_1d_pct": -3.8363281989393982,
       "return_5d_pct": -9.652369681078065,
       "return_20d_pct": -12.965388869421602,
       "rsi_14": 30.88,
@@ -466,12 +466,12 @@
       "name": "Hang Seng",
       "ticker": "^HSI",
       "last_date": "2026-10-20",
-      "quote_timestamp": "2026-10-20 05:25:00+00:00",
+      "quote_timestamp": "2026-10-20 05:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-16",
       "previous_close": 24186.83,
-      "last": 23885.61,
-      "return_1d_pct": -1.2453914057858673,
+      "last": 23882.16,
+      "return_1d_pct": -1.2596521366830538,
       "return_5d_pct": -0.10127288088271902,
       "return_20d_pct": -1.6966919195046337,
       "rsi_14": 43.12,
@@ -495,12 +495,12 @@
       "name": "Shanghai Composite",
       "ticker": "000001.SS",
       "last_date": "2026-10-20",
-      "quote_timestamp": "2026-10-20 05:25:00+00:00",
+      "quote_timestamp": "2026-10-20 05:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-19",
       "previous_close": 3730.92,
-      "last": 3712.34,
-      "return_1d_pct": -0.4980418598588332,
+      "last": 3708.62,
+      "return_1d_pct": -0.597728756365068,
       "return_5d_pct": -1.746584033191756,
       "return_20d_pct": -4.0428670558530495,
       "rsi_14": 31.74,
@@ -788,7 +788,7 @@
       "advancers": 0,
       "decliners": 5,
       "advance_decline_ratio": 0.0,
-      "average_1d_pct": -1.57,
+      "average_1d_pct": -1.5,
       "average_5d_pct": -3.35,
       "above_20dma_pct": 20.0,
       "above_50dma_pct": 0.0
@@ -992,12 +992,12 @@
         "name": "KOSPI",
         "ticker": "^KS11",
         "last_date": "2026-10-20",
-        "quote_timestamp": "2026-10-20 05:20:00+00:00",
+        "quote_timestamp": "2026-10-20 05:45:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-10-19",
         "previous_close": 5768.01,
-        "last": 5515.02,
-        "return_1d_pct": -4.38608387249041,
+        "last": 5546.73,
+        "return_1d_pct": -3.8363281989393982,
         "return_5d_pct": -9.652369681078065,
         "return_20d_pct": -12.965388869421602,
         "rsi_14": 30.88,
@@ -1021,12 +1021,12 @@
         "name": "Nikkei 225",
         "ticker": "^N225",
         "last_date": "2026-10-20",
-        "quote_timestamp": "2026-10-20 05:25:00+00:00",
+        "quote_timestamp": "2026-10-20 05:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-10-19",
         "previous_close": 64916.7,
-        "last": 64016.3,
-        "return_1d_pct": -1.3870058834413723,
+        "last": 63968.35,
+        "return_1d_pct": -1.4608685710503444,
         "return_5d_pct": -5.959970610996567,
         "return_20d_pct": 2.2566242901612243,
         "rsi_14": 42.28,
@@ -1043,6 +1043,35 @@
         "sma_200": 61197.24,
         "distance_sma_200_pct": 6.08,
         "above_sma_200": true,
+        "region_reference_date": "2026-10-20"
+      },
+      {
+        "region": "Asia",
+        "name": "Hang Seng",
+        "ticker": "^HSI",
+        "last_date": "2026-10-20",
+        "quote_timestamp": "2026-10-20 05:55:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-10-16",
+        "previous_close": 24186.83,
+        "last": 23882.16,
+        "return_1d_pct": -1.2596521366830538,
+        "return_5d_pct": -0.10127288088271902,
+        "return_20d_pct": -1.6966919195046337,
+        "rsi_14": 43.12,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 24418.34,
+        "distance_sma_20_pct": -0.95,
+        "above_sma_20": false,
+        "sma_50": 24985.57,
+        "distance_sma_50_pct": -3.2,
+        "above_sma_50": false,
+        "sma_200": 25473.76,
+        "distance_sma_200_pct": -5.05,
+        "above_sma_200": false,
         "region_reference_date": "2026-10-20"
       },
       {
@@ -1073,35 +1102,6 @@
         "distance_sma_200_pct": 3.0,
         "above_sma_200": true,
         "region_reference_date": "2026-10-19"
-      },
-      {
-        "region": "Asia",
-        "name": "Hang Seng",
-        "ticker": "^HSI",
-        "last_date": "2026-10-20",
-        "quote_timestamp": "2026-10-20 05:25:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-10-16",
-        "previous_close": 24186.83,
-        "last": 23885.61,
-        "return_1d_pct": -1.2453914057858673,
-        "return_5d_pct": -0.10127288088271902,
-        "return_20d_pct": -1.6966919195046337,
-        "rsi_14": 43.12,
-        "stale_days": 0,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 24418.34,
-        "distance_sma_20_pct": -0.95,
-        "above_sma_20": false,
-        "sma_50": 24985.57,
-        "distance_sma_50_pct": -3.2,
-        "above_sma_50": false,
-        "sma_200": 25473.76,
-        "distance_sma_200_pct": -5.05,
-        "above_sma_200": false,
-        "region_reference_date": "2026-10-20"
       },
       {
         "region": "Europe",
@@ -3536,51 +3536,90 @@
     "funds": [
       {
         "label": "Nippon India Nifty 500 Equal Weight",
-        "query": "Nippon India Nifty 500 Equal Weight Index Fund Direct Growth",
+        "query": "Nippon India Nifty 500 Equal Weight Index Fund Direct Plan Growth Option",
         "matched": true,
-        "scheme_code": 152842.0,
+        "scheme_code": 152842,
         "scheme_name": "Nippon India Nifty 500 Equal Weight Index Fund - Direct Plan - Growth Option",
-        "nav": 10.0454,
-        "nav_date": "2026-08-06",
+        "nav": 10.0164,
+        "nav_date": "2026-08-17",
         "return_1d_pct": -0.93,
         "return_5d_pct": 0.92,
         "return_20d_pct": null,
         "return_60d_pct": null
       },
       {
-        "label": "Motilal Oswal Nifty 500 Index",
-        "query": "Motilal Oswal Nifty 500 Index Fund Direct Growth",
+        "label": "HDFC Nifty 500 Multicap 50:25:25",
+        "query": "HDFC NIFTY500 Multicap 50:25:25 Index Fund Direct Plan",
         "matched": true,
-        "scheme_code": 152875.0,
-        "scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Direct Plan-Growth",
-        "nav": 8.4205,
-        "nav_date": "2026-08-06",
-        "return_1d_pct": -1.65,
-        "return_5d_pct": 0.82,
+        "scheme_code": 152778,
+        "scheme_name": "HDFC NIFTY500 Multicap 50:25:25 Index Fund - Direct Plan",
+        "nav": 10.2801,
+        "nav_date": "2026-08-17",
+        "return_1d_pct": -1.22,
+        "return_5d_pct": 0.46,
+        "return_20d_pct": null,
+        "return_60d_pct": null
+      },
+      {
+        "label": "HDFC Mid Cap",
+        "query": "HDFC Mid Cap Fund Growth Option Direct Plan",
+        "matched": true,
+        "scheme_code": 118989,
+        "scheme_name": "HDFC Mid Cap Fund - Growth Option - Direct Plan",
+        "nav": 236.914,
+        "nav_date": "2026-08-17",
+        "return_1d_pct": -1.01,
+        "return_5d_pct": 0.36,
+        "return_20d_pct": null,
+        "return_60d_pct": null
+      },
+      {
+        "label": "Motilal Oswal Nifty 500 Index",
+        "query": "Motilal Oswal Nifty 500 Index Fund Direct Plan",
+        "matched": true,
+        "scheme_code": 147625,
+        "scheme_name": "Motilal Oswal Nifty 500 Index Fund - Direct Plan",
+        "nav": 27.5496,
+        "nav_date": "2026-08-17",
+        "return_1d_pct": -1.34,
+        "return_5d_pct": 0.3,
         "return_20d_pct": null,
         "return_60d_pct": null
       },
       {
         "label": "ICICI Prudential Nifty 500 Index",
-        "query": "ICICI Prudential Nifty 500 Index Fund Direct Growth",
+        "query": "ICICI Prudential Nifty 500 Index Fund Direct Plan Growth",
         "matched": true,
-        "scheme_code": 153161.0,
+        "scheme_code": 153161,
         "scheme_name": "ICICI Prudential Nifty 500 Index Fund - Direct Plan - Growth",
-        "nav": 10.7262,
-        "nav_date": "2026-08-06",
+        "nav": 10.6543,
+        "nav_date": "2026-08-17",
         "return_1d_pct": -1.34,
         "return_5d_pct": 0.29,
         "return_20d_pct": null,
         "return_60d_pct": null
       },
       {
-        "label": "HDFC Flexi Cap",
-        "query": "HDFC Flexi Cap Fund Direct Growth",
+        "label": "HDFC BSE 500 Index",
+        "query": "HDFC BSE 500 Index Fund Growth Option Direct Plan",
         "matched": true,
-        "scheme_code": 118955.0,
+        "scheme_code": 151728,
+        "scheme_name": "HDFC BSE 500 Index Fund - Growth Option - Direct Plan",
+        "nav": 15.9544,
+        "nav_date": "2026-08-17",
+        "return_1d_pct": -1.33,
+        "return_5d_pct": 0.27,
+        "return_20d_pct": null,
+        "return_60d_pct": null
+      },
+      {
+        "label": "HDFC Flexi Cap",
+        "query": "HDFC Flexi Cap Fund Growth Option Direct Plan",
+        "matched": true,
+        "scheme_code": 118955,
         "scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-        "nav": 2297.6,
-        "nav_date": "2026-08-06",
+        "nav": 2287.895,
+        "nav_date": "2026-08-17",
         "return_1d_pct": -1.28,
         "return_5d_pct": -0.02,
         "return_20d_pct": null,
@@ -3588,58 +3627,19 @@
       },
       {
         "label": "HDFC Small Cap",
-        "query": "HDFC Small Cap Fund Direct Growth",
+        "query": "HDFC Small Cap Fund Growth Option Direct Plan",
         "matched": true,
-        "scheme_code": 130503.0,
+        "scheme_code": 130503,
         "scheme_name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
-        "nav": 163.991,
-        "nav_date": "2026-08-06",
+        "nav": 162.038,
+        "nav_date": "2026-08-17",
         "return_1d_pct": -1.11,
         "return_5d_pct": -0.27,
         "return_20d_pct": null,
         "return_60d_pct": null
-      },
-      {
-        "label": "HDFC Nifty 500 Index",
-        "query": "HDFC Nifty 500 Index Fund Direct Growth",
-        "matched": false,
-        "scheme_code": null,
-        "scheme_name": null,
-        "nav": null,
-        "nav_date": null,
-        "return_1d_pct": null,
-        "return_5d_pct": null,
-        "return_20d_pct": null,
-        "return_60d_pct": null
-      },
-      {
-        "label": "HDFC Nifty 500 Multicap 50:25:25",
-        "query": "HDFC Nifty 500 Multicap 50:25:25 Index Fund Direct Growth",
-        "matched": false,
-        "scheme_code": null,
-        "scheme_name": null,
-        "nav": null,
-        "nav_date": null,
-        "return_1d_pct": null,
-        "return_5d_pct": null,
-        "return_20d_pct": null,
-        "return_60d_pct": null
-      },
-      {
-        "label": "HDFC Mid-Cap Opportunities",
-        "query": "HDFC Mid-Cap Opportunities Fund Direct Growth",
-        "matched": false,
-        "scheme_code": null,
-        "scheme_name": null,
-        "nav": null,
-        "nav_date": null,
-        "return_1d_pct": null,
-        "return_5d_pct": null,
-        "return_20d_pct": null,
-        "return_60d_pct": null
       }
     ],
-    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-07-mutual-fund-navs.csv",
+    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-17-mutual-fund-navs.csv",
     "count": 8
   },
   "nifty50_rotation": {
@@ -21997,7 +21997,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-20T11:10:14+05:30",
+    "generated_at": "2026-10-20T11:40:25+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34367,15 +34367,6 @@
       "description": "Business News | Sensex Sinks 876 Points, Nifty Falls 1.11% as Crude Oil Nears USD 109 LatestLY"
     },
     {
-      "published": "2026-10-19T10:28:33+00:00",
-      "score": 9.0,
-      "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "Public TV English",
-      "title": "Sensex sinks 876 points, Nifty falls 1.11 pc as crude oil nears $109 per barrel - Public TV English",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWjJwVEUxOXhydnJMTGpUQWVwRzdHdE90Nm9WN05Rcmp5bW00bU5tdXQ2TWxjdTF1bWMya3RRN214MEJmOVdsWVBIcUd3X2F3azVtb09RNEc1LXI2V1pOTTBvTXVnOE82US1pZDVGZjBaMExYbE9IVDVhS0tPUXJxTEZ3RzJSQ2hZTnlNNFhacllVZWhGa2wzamhmQ3U0S1h3QmsxLXhnRDdVQQ?oc=5",
-      "description": "Sensex sinks 876 points, Nifty falls 1.11 pc as crude oil nears $109 per barrel Public TV English"
-    },
-    {
       "published": "2026-10-19T10:16:00+00:00",
       "score": 9.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
@@ -34437,15 +34428,6 @@
       "title": "Intel, AMD and Nvidia Lead Chip Stocks Rebound After Brutal Selloff - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNGZmZWxMSTVpT0k0SDVxUTk0ZFBGSHVzRnVZZ0FCUndBVjFaUDY2S1lXdmpYOGZ1UlR6LXIyV2I0SExac0lGYVduMDFpcTJoMGJtLUw5VWFFZ0tyVnpHY1RfQVBZSS05SThSZWkzSDFXcks5TG5ROUlPalQxSGh1TEFObUpjQlFaZm8yVEVZMXotaG5pc0E?oc=5",
       "description": "Intel, AMD and Nvidia Lead Chip Stocks Rebound After Brutal Selloff Yahoo Finance"
-    },
-    {
-      "published": "2026-10-19T17:52:51+00:00",
-      "score": 8.0,
-      "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "Goodreturns",
-      "title": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT212X0ZjSkRPNU9XTTM0UGphZ2RxOE8tS0JKWjhjcHAtUXFvbmtqa0tSamlrY3pZQUV5SG9PWVNKdkkwMHZsOU1MZzRORWhjRmk3RWZ4YjRoUmhQUFQyNldnYzlJWUZldmF1b29QVUY0NEtXc1oxcHJHYXo4ZDg4OFVWNk13aWZlUWlZUlQtb3ZrMnhvRUdudXpyTWlzYkh0cFR2UGlYcVNCOFN3Q2lxV2dFZ18xQ2o0TW9pMHZRSTFDbzRGUTdreWRoWjBUUlVF?oc=5",
-      "description": "D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War Goodreturns"
     },
     {
       "published": "2026-10-19T17:42:59+00:00",
@@ -35159,15 +35141,6 @@
       "description": "Middle Market Debt Weekly: Hot CPI and an AI Selloff Pin the 10-Year Near 5.1% ABF Journal"
     },
     {
-      "published": "2026-10-19T05:53:26+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Seeking Alpha",
-      "title": "What Would Stop The AI Sell-Off (NASDAQ:SMH) - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9EUXp5REFHdmxNSlZwQ2EyOUVVd3ZZX1R5RWg3S2RaRFJVdDBVc3lvS09tRWFOekZxT0RjdndUU29ySWRacGNTbXI2N2x1MndJQTdZZ052dTVidkxUT2E0a0VOOGZfVEdNa2NwcUp6R0dpcjZ6Wk0xMHYzaw?oc=5",
-      "description": "What Would Stop The AI Sell-Off (NASDAQ:SMH) Seeking Alpha"
-    },
-    {
       "published": "2026-10-19T16:31:49+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -35366,6 +35339,15 @@
       "description": "European stocks fall after violent protests in France, while oil drops as Trump puts Russia sanctions on hold Fortune"
     },
     {
+      "published": "2026-10-19T14:00:45+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "News9live",
+      "title": "Jio IPO gets ₹2.5 lakh crore anchor demand, BlackRock, LIC and mutual funds join bidding - News9live",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZUlXdG9PUVJRck9kSHdfeE5ZSnZ1YlZ3VjdKMjdTZG5GbU5fWEU0MktkSkFpbUJocjhubVBhRmg0SGhpSktReWJVNV80aXpqcUxETGpjQmdRZnBzeXJmX1gzVDNaV1hOZXRBMUppd1loQXgtbzR6Z19td254NUhFdnJMTW5zT3VHTjZINFc5azVFM2JSd2fSAZsBQVVfeXFMTXNiMm8xcWlZcUxaQ2pqa1M5NzgzNF9oM045M09nVFJscTJNa1pLM0dyNzlVR3VjWV81Sllpcnc3TVJqSzR3Y0IxeWViWGxpNm53eTN5bEpSdDFDZlE3YXlsaWw3MW9xc1RoZUVJN1VENTRKcnFVdjlzRExpY1BnS003R2RFenRJSWwtQTlaT3RzTUFRSzNERS1BdDg?oc=5",
+      "description": "Jio IPO gets ₹2.5 lakh crore anchor demand, BlackRock, LIC and mutual funds join bidding News9live"
+    },
+    {
       "published": "2026-10-19T13:03:57+00:00",
       "score": 3.0,
       "themes": "[]",
@@ -35445,24 +35427,6 @@
       "title": "Japanese Equities Set to Fall on Tech Share Selloff, Higher Oil - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQclp0cmlPVzk4TGpWXy1MMWY5OG95aUtWR0YzZk56ZmZrd1pFaklZMHVFeXE0Um5GVzZOWERjMDJoSWJpeGc1RjRaak1rVlgxanNieF9fR2tYOE1vZllTQlE0ampXMVVXUlpBUzFqZ2VibXEtaG5mMkNFY1VsOXJvcHE4WGlYeU1PYVZTWUVRQnVTMzlHZDY5cDZsUEhXZC1ET1h3amdQb2NxakYtWlo1S2gxTQ?oc=5",
       "description": "Japanese Equities Set to Fall on Tech Share Selloff, Higher Oil Bloomberg.com"
-    },
-    {
-      "published": "2026-10-19T06:00:45+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Livemint",
-      "title": "How you can gift stocks, mutual funds this festive season - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUXRUODA1V3dweWdDMG9JZ2RkdnJFd0hTd1VLQ0g4Z0lCQnEwUFZoT0V4S2FjNGV3Y2hfUEJhM0lObnh1TEtORGpTLWhRdk5lZXMyRWpvaHF4aHpGdnRHbUlJSnprdEJ4dHZ0WUFBWFE3MVVkSUtJSGJhUmkxZ2VUZ3UxX294R1dnUk9QZ1k5RDRSSmJVY2M2X2tvaXFSS0NqZ1ljQWtBc0dHeWNrdi1VNGp4SW8ydzVQUUpDUnI4cXFlaG1nd3hTTThR0gHPAUFVX3lxTE9tV01mWUJpOVFnSVNicFJhd3dIa3JkcXhpU2V0WUlMSGQ4Y0JQajlJdzhaV1ZrVnBUNS1YNHdvenN2YTl0U1RFOTBVOC1YVDl4RkRtU0NfazB6SkRzaWxwczFWS0dkbUxxZEZUMm5vRG1VSk9QRDkzdklUeGFBcGRVN1U1U0tTSEE0R3FLNTNQWk5oUm4xLUxhNVZPd25UaUVRSzYzZkVNSDhQX2VQUG9pOWhwTXQwQ3F1TGhoVUVIUWZQZktuQ2FDZGtlMi1Xdw?oc=5",
-      "description": "How you can gift stocks, mutual funds this festive season Livemint"
-    },
-    {
-      "published": "2026-10-19T05:41:00+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "The Economic Times",
-      "title": "Did Mutual Funds Stop Gold Investments? What Investors Need to Know - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaTNUX3VQdG54aGFORjNQM2hVc1g5MkN3TGdmcnViNjViRG92U0l1MEIwRHc0TjBheGp1T0JkS2ZiTWcwWVFYMmpMUDhHc3djTzd6YlVib0dIYmRZVGpqdHhXOHAxRlJvS1Uyc1RSV0lHblk1TnQzQ095aEVNMzIxc2VDZjBTRVkzZ3hNYlF2MjRXTmRzbFNYcjNIOFBTTmJ1c3lKNUh4MUxmcnM5ZVJUbVg1NUpsYkdySXZ4ZHVmYzJvTDlfTzEzbmNiNDQ2YjDSAc8BQVVfeXFMUGkzVF91UHRueGhhTkYzUDNoVXNYOTJDd0xnZnJ1YjY1YkRvdlNJdTBCMER3NE4wYXhqdU9CZEtmYk1nMFlRWDJqTFA4R3N3Y083emJVYm9HSGJkWVRqanR4VzhwMUZSb0tVMnNUUldJR25ZNU50M0NPeWhFTTMyMXNlQ2YwU0VZM2d4TWJRdjI0V05kc2xTWHIzSDhQU05idXN5SjVIeDFMZnJzOWVSVG1YNTVKbGJHckl2eGR1ZmMyb0w5X08xM25jYjQ0NmIw?oc=5",
-      "description": "Did Mutual Funds Stop Gold Investments? What Investors Need to Know The Economic Times"
     },
     {
       "published": "2026-10-20T04:37:50+00:00",
@@ -35753,7 +35717,7 @@
       "description": "US Stock Market Today: Nasdaq Rises 1.11%, Dow Falls HDFC Sky"
     },
     {
-      "published": "2026-10-20T02:09:00+00:00",
+      "published": "2026-10-20T02:10:39+00:00",
       "score": 1.0,
       "themes": "['market selling']",
       "source": "WSJ",
@@ -35794,7 +35758,7 @@
       "themes": "['market selling']",
       "source": "Yonhap News Agency",
       "title": "[PRNewswire] Quantinuum Breaks Error-Correction World Record by 10x, - Yonhap News Agency",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9waGloZVRvN096a3VqR1RVM3hHNkhWV09lWDNQUGoxWFpwQVhLNVA2TG1BbG5aRUxvM3ZKQnN0cEJLbGllMmgybFRZOFNGaWFQLVhHSFdad19QcjIzQm96NGZ6eW5BR1EwNTc0LVhkWXNSUHlSeGNqb2xiWFlkX0U?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90OWNRa016bE05WjJoTkpoOEx2bTh3clFLTS03UTBYNEg4NXJSUUtGSnpZa0hJZWdSX1V3eGxVZ3pESjBiN05nY1Z2cUp4T2w1bWl6VzJpQ3VBZw?oc=5",
       "description": "[PRNewswire] Quantinuum Breaks Error-Correction World Record by 10x, Yonhap News Agency"
     },
     {
@@ -35888,6 +35852,15 @@
       "description": "IPO Market Remains VibrantDespite secondary Market Volatility The Indian Awaaz"
     },
     {
+      "published": "2026-10-19T18:13:11+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Vietnam.vn",
+      "title": "The AI ​​craze faces the challenge of recouping investment. - Vietnam.vn",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFA5WmVGUWlRQ3RoOVdkVmpkRGhETTFLS1E5YWtNT1pfZHh0NzZ5d2FlM0EzZldRMGR3NzhvSVh1emxzdm5nMXU1NGswbkVBei1EOERlTFRBT0c1d0pweXNBTEthTV9Wc1BoQXNBag?oc=5",
+      "description": "The AI ​​craze faces the challenge of recouping investment. Vietnam.vn"
+    },
+    {
       "published": "2026-10-19T17:45:07+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -35913,6 +35886,15 @@
       "title": "Will cutting LTCG tax bring FIIs back to India? Vallabh Bhanshali explains why it may not be enough - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZ19RdExmTHBPemhlUzBaYU16Q0Zud0dtaWpnTkhVMWtYRUlyZ2JtWHhjYUc1Z2luYkFKT0t4akNMQkR0TzVmUElmUmlDS0RVZHZBTDc5S2szSWlLVEl2OFBCWHVYaEpCbXlSVmsxQ0xRTmdyY1czcHlITktLWEk0dXNIOFJULTUwejd1Smh4OEFRTU95aERnMHl0MW9jalBwMk1pWVF5d1Q1UEV3eG5kM1FmY1l3WDNITGR1YTFnbTZtQ19qNkZmWTVCVE1uY3JreGFSQXFIYm5VQzVxazRNNVR5Uk5Ib0l1Ty0weERHamp5c3pteG1XbWR3UdIB-wFBVV95cUxQZ19RdExmTHBPemhlUzBaYU16Q0Zud0dtaWpnTkhVMWtYRUlyZ2JtWHhjYUc1Z2luYkFKT0t4akNMQkR0TzVmUElmUmlDS0RVZHZBTDc5S2szSWlLVEl2OFBCWHVYaEpCbXlSVmsxQ0xRTmdyY1czcHlITktLWEk0dXNIOFJULTUwejd1Smh4OEFRTU95aERnMHl0MW9jalBwMk1pWVF5d1Q1UEV3eG5kM1FmY1l3WDNITGR1YTFnbTZtQ19qNkZmWTVCVE1uY3JreGFSQXFIYm5VQzVxazRNNVR5Uk5Ib0l1Ty0weERHamp5c3pteG1XbWR3UQ?oc=5",
       "description": "Will cutting LTCG tax bring FIIs back to India? Vallabh Bhanshali explains why it may not be enough Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-19T16:32:29+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "TOKENPOST",
+      "title": "Quantinuum Measures About Five Memory Errors Per Million Correction Cycles - TOKENPOST",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0yVDZXNmdRMGNIdnF1cjgwTUxDc0ZnN0RjWkV0WE1MM3NSMV9fNWJhTlN1TTBJbTR6NktfVG5CY3k0U0ZSeUNiTUtVR1RfTGxaeGs4ZHFzLTZDRTA?oc=5",
+      "description": "Quantinuum Measures About Five Memory Errors Per Million Correction Cycles TOKENPOST"
     },
     {
       "published": "2026-10-19T16:25:41+00:00",
@@ -36149,24 +36131,6 @@
       "description": "Global Market: Eurozone bond selloff to weigh on growth, curb inflation, Lagarde says The Economic Times"
     },
     {
-      "published": "2026-10-19T07:00:00+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "TradingView",
-      "title": "Kospi Index outlook: Headwinds pile up as the selloff deepens, what next? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb1FvMzVTNGpvVjBtN0F3V1lhUC1ENDljSEVPbFhkNWN6TndYQ1h2bVR4bU5pcHQ2aEJuU1JraTlxV1hMbFNTdFdGT3YwM3ZkNm9taHFITHg0YUNSQUhpMzd0bjJyRGZ3ZDJiYXJkVXdZLWZYOEp0TjNlT0NsUnk3Y2lCcWhoWjJ4WWZDaXYwdHd1bFd0SEJieWg5UUNUTm1LN1JxdDdLeXNJRUtqSS1Pb1dHcEwwSG1EUTh0Q29ZVkx0S2xh?oc=5",
-      "description": "Kospi Index outlook: Headwinds pile up as the selloff deepens, what next? TradingView"
-    },
-    {
-      "published": "2026-10-19T06:51:14+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Samco",
-      "title": "Top 10 52-Week Low Shares To Buy In India October 2026 - Samco",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9RSERnMHJOMFZWbERwRE04WjRzYjNoYUxBQVJONTZSNGJsX01zRlhkUlN2ZlE2aEdCcDBRTm8xM09tajQ5Z1lvWlZxWUNEdWVxSFI4NWtURkg0UWNQaXBjVHBhSUtjYUtzWlZOZDFtc2czLXUyTnpoQw?oc=5",
-      "description": "Top 10 52-Week Low Shares To Buy In India October 2026 Samco"
-    },
-    {
       "published": "2026-10-19T06:50:58+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -36174,6 +36138,15 @@
       "title": "Top 14 Pharma Stocks To Buy In India October 2026 - Samco",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSmxaNUxpT2wtdzdBOEMwZ18tbzhmM3NVOXN1RXlaTy1wR1N2SmZRb0RKSlZPSUpvRnhxaTlHQnBpYXV5X2RhNHNlYnEtYjctblphSkpUbWJHRDRoRWZwY3ZXMmMwRlBYZWR2TFhMcUhHU0lOd19VVmY4a0pxYUF2djNyOWp0TE9Rc0E?oc=5",
       "description": "Top 14 Pharma Stocks To Buy In India October 2026 Samco"
+    },
+    {
+      "published": "2026-10-19T06:43:27+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "Hyundai Motor Group fast-tracks CNG SUV push as India market share slips - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQdlIwNS0xVjFOM0g0YzVoMHh1bDVBTVczckRWZXhHN1JmbUlHbTBacHNSVmVZZDZpVWJYV3RvMzZQdHpLV3pBSTdwXzRZM1B0UUt0WkY4M1JTS25QYVpRRW52cTlweXJ2U0lHdjloNFJRNWIxcHZmbV9JQVVMWVpOc1lnRk43azl6U3A4TmNoV1FuZU5Ba21qdnNLekJaT1hfZUo3NXBBT2FTUFVDcnlka1lQcFhXX1RWc09pTXZic19BdUdRNE16U3JIM2VfN2t4ak9fStIB1AFBVV95cUxQdlIwNS0xVjFOM0g0YzVoMHh1bDVBTVczckRWZXhHN1JmbUlHbTBacHNSVmVZZDZpVWJYV3RvMzZQdHpLV3pBSTdwXzRZM1B0UUt0WkY4M1JTS25QYVpRRW52cTlweXJ2U0lHdjloNFJRNWIxcHZmbV9JQVVMWVpOc1lnRk43azl6U3A4TmNoV1FuZU5Ba21qdnNLekJaT1hfZUo3NXBBT2FTUFVDcnlka1lQcFhXX1RWc09pTXZic19BdUdRNE16U3JIM2VfN2t4ak9fSg?oc=5",
+      "description": "Hyundai Motor Group fast-tracks CNG SUV push as India market share slips Moneycontrol.com"
     },
     {
       "published": "2026-10-19T06:41:22+00:00",
@@ -36210,15 +36183,6 @@
       "title": "Earnings Upgrade Cycle Ahead? Sanjay Doshi of Abakkus MF on Double-Digit Growth & Top Sector Bets - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOTmF6WjhTeHVZQmh4NUdZc1M5TU1sMlRDZFQtMG9kTDM5Qm90UHBRakc5b3QwV29HZGpsbzlwSlFRX09EMTgzc082NVdCbDVsVTQtbE92RFF0VkdZTzFCdGFmS2l4ZUJ1LU5pc2hhUDdnM3NQemZMV0JPY2hpd2d0eXd3RndzRG5JTFdPaFo5ZGllTlJETnFURm5qaDMwZ1BJWDVzVW5HcmJnSWJRdnBXajVyakEyVmdsdHNFNzlRWDZiNmloem8tenRXTWYzbVhkZFZqZnVRcnU0czFwN3RZOWpNSm1DSFd2Qno5OVQ4bHE0dVZjT2Juay1FZko2WGfSAf8BQVVfeXFMTk5helo4U3h1WUJoeDVHWXNTOU1NbDJUQ2RULTBvZEwzOUJvdFBwUWpHOW90MFdvR2RqbG85cEpRUV9PRDE4M3NPNjVXQmw1bFU0LWxPdkRRdFZHWU8xQnRhZktpeGVCdS1OaXNoYVA3ZzNzUHpmTFdCT2NoaXdndHl3d0Z3c0RuSUxXT2haOWRpZU5SRE5xVEZuamgzMGdQSVg1c1VuR3JiZ0liUXZwV2o1cmpBMlZnbHRzRTc5UVg2YjZpaHpvLXp0V01mM21YZGRWamZ1UXJ1NHMxcDd0WTlqTUptQ0hXdkJ6OTlUOGxxNHVWY09ibmstRWZKNlhn?oc=5",
       "description": "Earnings Upgrade Cycle Ahead? Sanjay Doshi of Abakkus MF on Double-Digit Growth & Top Sector Bets Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-19T05:38:21+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Livemint",
-      "title": "Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do? - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQdmlmV1VFbHZfQTdKbURoTVJiRDV5ell4c19RRWswSnBfWjhwUV9lR1hfT2xkR0RFVUwyc0RfZHIyUm12dDlEYldraUpIQ1dLRmlFQUpWQTViaTBpWmdsdUt6VTVpaGxmMnVzM3lZb2M3OU1tMDZJU096VVNMTjZsejJTbW9xMkp4SjFZM2txazcyOFEzbXB4UU5WYWtWRmRGbzhtRFJpMTdWem1oYWM3OFJ0c2dsOTUzU1FtWk9ockQzb0tMTFJOU0pzelA3OE1ON0o3eU16NmFjYzFZdjNLQ0hWRGd6VkIxYUpjcngydVlDay1tbTVObmVLQUhrS1llbHlsaTFzdlFxbmvSAZACQVVfeXFMTkVpcUhvWFhCdllwVVJvc3BlVzV1THRQcVhpcm5udnUtNmRYcFd2MzBKVmdwQVNmNUV5WVVERVVaZVlMdXZWbE1IRGU3SnhaQlQ1MHNGb3hQb3Bfb0dTc2xZZGExc1BuSHAwMzZiYm5WelFWYWVRNXptOHI4elFPb05VaXY2RGFJcWh3WDJVd3VXeDFpYUZ5eTdDYXBTNmJvcWtHbGhySjZsS1hDQ0dUTTZlTElKY3R3bVpYdVZXUldaQ001Zkl4cFhxQ3NFR3E4T09VV251LTFncklGUmlNVUFRYnZMV2ktcHhTbUdRSk9kcEVSb1VWVDVIRldwTURldThDZjN3VjVDczEtU1oweXg?oc=5",
-      "description": "Why are banking stocks falling? Nifty Bank down 1%; Axis, HDFC Bank shares crash up to 5% - What should investors do? Livemint"
     }
   ]
 }
