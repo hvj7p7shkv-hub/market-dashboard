@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-20 09:07
+Generated: 2026-10-20 09:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,17 +16,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com Investing.com India
 
-### 2. India isn’t an ‘anti AI trade’: Samir Arora warns against cheering AI stock declines - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-10-19T09:08:56+00:00
-- Themes: AI / tech risk, market selling, India market
-- Score: 12
-- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQR2tNLWU5ZXM1M21pU0Qydl96RUpDQnFjMmloOURwMVd4dFduMmR2NHl5WmRyQm9TUEhOckJpUVY1V3AyOEphRGF6RzNiMUlyM3RNVFdDSjVuR3RreTNMZGpVUmM3bDAzZmQ3dnhEOW0tLW1FUG80OXBBUVZ5bEg5R2JJY0xKS1ZrT1cyeEp6cFJ0MjdxSnIwQW1GaXZSSUIycGstcTFVSWx2Y2NmSWlSN1NHa1Vtc3dTazB1QUV5NXI3YzdVNEVFWjg0LWtmV0JyT21nWlRJMXhDUdIB2gFBVV95cUxQR2tNLWU5ZXM1M21pU0Qydl96RUpDQnFjMmloOURwMVd4dFduMmR2NHl5WmRyQm9TUEhOckJpUVY1V3AyOEphRGF6RzNiMUlyM3RNVFdDSjVuR3RreTNMZGpVUmM3bDAzZmQ3dnhEOW0tLW1FUG80OXBBUVZ5bEg5R2JJY0xKS1ZrT1cyeEp6cFJ0MjdxSnIwQW1GaXZSSUIycGstcTFVSWx2Y2NmSWlSN1NHa1Vtc3dTazB1QUV5NXI3YzdVNEVFWjg0LWtmV0JyT21nWlRJMXhDUQ?oc=5
-
-India isn’t an ‘anti AI trade’: Samir Arora warns against cheering AI stock declines Moneycontrol.com
-
-### 3. Sensex tanks 876.37 points, Nifty falls 257.20 points as weak earnings, rising crude oil prices weigh on investor sentiment - The Statesman
+### 2. Sensex tanks 876.37 points, Nifty falls 257.20 points as weak earnings, rising crude oil prices weigh on investor sentiment - The Statesman
 
 - Source: The Statesman
 - Published: 2026-10-19T10:48:01+00:00
@@ -36,7 +26,7 @@ India isn’t an ‘anti AI trade’: Samir Arora warns against cheering AI stoc
 
 Sensex tanks 876.37 points, Nifty falls 257.20 points as weak earnings, rising crude oil prices weigh on investor sentiment The Statesman
 
-### 4. European chip stocks fall, tracking Asian selloff over AI investment worries By Investing.com - Investing.com
+### 3. European chip stocks fall, tracking Asian selloff over AI investment worries By Investing.com - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-20T07:45:30+00:00
@@ -46,7 +36,7 @@ Sensex tanks 876.37 points, Nifty falls 257.20 points as weak earnings, rising c
 
 European chip stocks fall, tracking Asian selloff over AI investment worries By Investing.com Investing.com
 
-### 5. Nifty Sensex Today: Stock Market Crashes as Sensex Falls 876 Points, Nifty Drops 1.11%; Banking and IT Stocks Lead the Losses - India Infoline
+### 4. Nifty Sensex Today: Stock Market Crashes as Sensex Falls 876 Points, Nifty Drops 1.11%; Banking and IT Stocks Lead the Losses - India Infoline
 
 - Source: India Infoline
 - Published: 2026-10-19T13:06:04+00:00
@@ -56,7 +46,7 @@ European chip stocks fall, tracking Asian selloff over AI investment worries By 
 
 Nifty Sensex Today: Stock Market Crashes as Sensex Falls 876 Points, Nifty Drops 1.11%; Banking and IT Stocks Lead the Losses India Infoline
 
-### 6. Sensex sinks 876 points, Nifty falls 1.11% as Crude oil nears USD 109 - ANI News
+### 5. Sensex sinks 876 points, Nifty falls 1.11% as Crude oil nears USD 109 - ANI News
 
 - Source: ANI News
 - Published: 2026-10-19T10:16:00+00:00
@@ -66,37 +56,17 @@ Nifty Sensex Today: Stock Market Crashes as Sensex Falls 876 Points, Nifty Drops
 
 Sensex sinks 876 points, Nifty falls 1.11% as Crude oil nears USD 109 ANI News
 
-### 7. Mutual fund AUMs fall despite higher equity inflows in September - Moneycontrol.com
+### 6. Tokyo stocks fall amid AI skepticism, caution ahead of earnings season - 毎日新聞
 
-- Source: Moneycontrol.com
-- Published: 2026-10-19T09:23:50+00:00
-- Themes: market selling, India market
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxPa2k0MVZZd3N6eTlqRUhXVEZhWUNobnhTVWN4eXJidVdRdXd5ZmZRd1BfVW1vOTR6TTBuZzhCMVBqeGU0NWlNYjFHNTR0dXhFM1pPZkdULUxBLTFlWlYyTUJ6SHVRdXVxYnBKTzRRbWdHU3lFbnQ1eGlFT1NIOGpiY1ZRSk1kcFNXODl3dy1hTXlMUC11c0J3QVhCZ292LXlWTTM4c0pZZ1gxNmNmNHpad0NHbzFWSkFjY2FScFIxb2dudVZiV3YyZVNxSXhVQQ?oc=5
-
-Mutual fund AUMs fall despite higher equity inflows in September Moneycontrol.com
-
-### 8. Sensex plunges 1,000 points, Nifty falls 1.23% as private banks lead sell-off - Fortune India
-
-- Source: Fortune India
-- Published: 2026-10-19T09:21:36+00:00
-- Themes: market selling, India market
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxObVRsZTFMd3IzaTJuR01ySDc4ZEVvMEdXcVI2eG83TElfOEFtZ2JqVDU3TlM5aE1qbnV0M3FsUlFoRFJXQ04ycWx1NHhhNUltc0I4YVNNNV9EU0xoZHpvU1V2OEo1NzE1Y1o0OG9QQnpLa1lYRmxjYkY5M1JmQ0FkWFBKSHgwZ21WMTQ0Nm5OVGNhQjhENTl5MWdidGhuQUdKeWF3elhmU0trX2ZVQ2NhU0xhUVV1NWtCcEJmNXJFMzbSAc4BQVVfeXFMT3NybHFIVUhnMHZKYzFSWmI0YXJmSmFZOTBqQlVGQnNYQ0hzdlA3OVFneDhNbENBNDUyNGphbnJOOHJ1RFUwU093VVBTMTBrbktHMHl1bWlYTzM2bEZ5bFNweElmLTdnMTBqN3ZYdFYwcFBjVmxJM0s1VXBEUzNnNlZTWnh5cHp2a21FU2tjRzB2WnZQNWE4TXU3eFBpZUZCTFJ3ZEVydGJud3dNRVZ0UzM2NkYzTWNzNWszZks2NWVMelN0YTRDeUZ4RERPZEE?oc=5
-
-Sensex plunges 1,000 points, Nifty falls 1.23% as private banks lead sell-off Fortune India
-
-### 9. Weekly Setup | After an 11% Semiconductor Selloff, AI Earnings Take Center Stage - Moomoo
-
-- Source: Moomoo
-- Published: 2026-10-19T09:10:30+00:00
+- Source: 毎日新聞
+- Published: 2026-10-20T09:08:17+00:00
 - Themes: AI / tech risk, market selling, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQkplczA4LXBLLTVyakc3M1FkZFNUa1NUTzhkZjhlTlFiYmJ6ZWRaTGdDLWhzV3JFMld5blMwMUdBeEpaTWhMU1dyZ2swWlNIZ3R6bWJ2V3VTNE5iaFVnSTAzMjFMRmxqWnZLd2pSRExNQkxmSkJxVjdBd0puWlVUSXFHTmVrdkRMTnBmeWRfdzJOeVhuZUMySk8tTUc1ZFZNVTNiXzRRemtETVNGQm9uVXVmZEFWU0ox?oc=5
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMic0FVX3lxTFA5R1paa0pjMWdPeXRqemF1SzJRYllzdzI2QTNndDlFWVVTUlJXcUJQM0VRLVV5ZHVOWEgtTTA3bWtYcEo1My1WSk1oeTBEUHBEZ2xDdEhRU0dsOVNGNVNwZkxRaHpOc3JjYUM5R3BXR1FhWW8?oc=5
 
-Weekly Setup | After an 11% Semiconductor Selloff, AI Earnings Take Center Stage Moomoo
+Tokyo stocks fall amid AI skepticism, caution ahead of earnings season 毎日新聞
 
-### 10. AI Selloff Returns, Oil Tops $110 a Barrel - WSJ
+### 7. AI Selloff Returns, Oil Tops $110 a Barrel - WSJ
 
 - Source: WSJ
 - Published: 2026-10-20T08:47:00+00:00
@@ -106,7 +76,7 @@ Weekly Setup | After an 11% Semiconductor Selloff, AI Earnings Take Center Stage
 
 AI Selloff Returns, Oil Tops $110 a Barrel WSJ
 
-### 11. Nasdaq Rallies 1.1% as Chip Stocks Rebound After Selloff, but AI Financing Concerns Persist - Tekedia
+### 8. Nasdaq Rallies 1.1% as Chip Stocks Rebound After Selloff, but AI Financing Concerns Persist - Tekedia
 
 - Source: Tekedia
 - Published: 2026-10-20T04:53:01+00:00
@@ -116,7 +86,7 @@ AI Selloff Returns, Oil Tops $110 a Barrel WSJ
 
 Nasdaq Rallies 1.1% as Chip Stocks Rebound After Selloff, but AI Financing Concerns Persist Tekedia
 
-### 12. Nvidia dodged the AI selloff, and Jensen Huang has a theory why - TheStreet
+### 9. Nvidia dodged the AI selloff, and Jensen Huang has a theory why - TheStreet
 
 - Source: TheStreet
 - Published: 2026-10-19T20:48:05+00:00
@@ -126,7 +96,7 @@ Nasdaq Rallies 1.1% as Chip Stocks Rebound After Selloff, but AI Financing Conce
 
 Nvidia dodged the AI selloff, and Jensen Huang has a theory why TheStreet
 
-### 13. Nasdaq rises 1.1% as chip stocks rebound after last week's AI selloff - Invezz
+### 10. Nasdaq rises 1.1% as chip stocks rebound after last week's AI selloff - Invezz
 
 - Source: Invezz
 - Published: 2026-10-19T20:21:13+00:00
@@ -136,17 +106,7 @@ Nvidia dodged the AI selloff, and Jensen Huang has a theory why TheStreet
 
 Nasdaq rises 1.1% as chip stocks rebound after last week's AI selloff Invezz
 
-### 14. Nasdaq rises 1.1% as chip stocks rebound after last week's AI selloff - TradingView
-
-- Source: TradingView
-- Published: 2026-10-19T20:19:48+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbmFDWmZWcFJjX2p1R05LNEFpbTBnXzlLTndLSkFIVS1OaF92ZHNjb1F1azdGMXA5MkdMTHNrYmgxclEwaUtfR1BRRTZUS00tQXNQbjVzbThVckx3Qkt5alZldHRMLTZacmZiMDRnTzI0SFBhWXhER004RV9jSWwweC1pS1hWWEtOMVplU0hDdzVvQU5Fd3VYUU5UVE5WRUkxaDEyN3dPcnh1NExYUFFQbXphRU5KSWNJRjh0aWwtbHdUQQ?oc=5
-
-Nasdaq rises 1.1% as chip stocks rebound after last week's AI selloff TradingView
-
-### 15. Intel, AMD and Nvidia Lead Chip Stocks Rebound After Brutal Selloff - Yahoo Finance
+### 11. Intel, AMD and Nvidia Lead Chip Stocks Rebound After Brutal Selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-19T19:49:07+00:00
@@ -156,17 +116,7 @@ Nasdaq rises 1.1% as chip stocks rebound after last week's AI selloff TradingVie
 
 Intel, AMD and Nvidia Lead Chip Stocks Rebound After Brutal Selloff Yahoo Finance
 
-### 16. D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-10-19T17:52:51+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPT212X0ZjSkRPNU9XTTM0UGphZ2RxOE8tS0JKWjhjcHAtUXFvbmtqa0tSamlrY3pZQUV5SG9PWVNKdkkwMHZsOU1MZzRORWhjRmk3RWZ4YjRoUmhQUFQyNldnYzlJWUZldmF1b29QVUY0NEtXc1oxcHJHYXo4ZDg4OFVWNk13aWZlUWlZUlQtb3ZrMnhvRUdudXpyTWlzYkh0cFR2UGlYcVNCOFN3Q2lxV2dFZ18xQ2o0TW9pMHZRSTFDbzRGUTdreWRoWjBUUlVF?oc=5
-
-D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee In Free-Fall Amid Iran-US War Goodreturns
-
-### 17. Oracle Slumped 9% Amid a Tech Selloff and AI Buildout Concerns. Investors Should Cautiously Buy the Dip. - Barchart.com
+### 12. Oracle Slumped 9% Amid a Tech Selloff and AI Buildout Concerns. Investors Should Cautiously Buy the Dip. - Barchart.com
 
 - Source: Barchart.com
 - Published: 2026-10-19T17:42:59+00:00
@@ -176,7 +126,7 @@ D-Street Mayhem: Rs 15 Lakh Cr Wiped Out As Nifty-Sensex Close 2.5% Lower, Rupee
 
 Oracle Slumped 9% Amid a Tech Selloff and AI Buildout Concerns. Investors Should Cautiously Buy the Dip. Barchart.com
 
-### 18. Truist says tech selloff tests investors' AI conviction - TradingView
+### 13. Truist says tech selloff tests investors' AI conviction - TradingView
 
 - Source: TradingView
 - Published: 2026-10-19T17:17:46+00:00
@@ -186,7 +136,7 @@ Oracle Slumped 9% Amid a Tech Selloff and AI Buildout Concerns. Investors Should
 
 Truist says tech selloff tests investors' AI conviction TradingView
 
-### 19. Tech selloff shakes NT dollar - Taipei Times
+### 14. Tech selloff shakes NT dollar - Taipei Times
 
 - Source: Taipei Times
 - Published: 2026-10-19T16:00:00+00:00
@@ -196,7 +146,7 @@ Truist says tech selloff tests investors' AI conviction TradingView
 
 Tech selloff shakes NT dollar Taipei Times
 
-### 20. Sensex Falls 876 Points, Nifty Settles Below 22,900 Amid Banking Sell-Off - News Mobile
+### 15. Sensex Falls 876 Points, Nifty Settles Below 22,900 Amid Banking Sell-Off - News Mobile
 
 - Source: News Mobile
 - Published: 2026-10-19T15:17:43+00:00
@@ -206,7 +156,7 @@ Tech selloff shakes NT dollar Taipei Times
 
 Sensex Falls 876 Points, Nifty Settles Below 22,900 Amid Banking Sell-Off News Mobile
 
-### 21. AI Selloff Nears Turning Point as Mag 7 Earnings Loom - marketscreener.com
+### 16. AI Selloff Nears Turning Point as Mag 7 Earnings Loom - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-19T14:53:28+00:00
@@ -216,7 +166,7 @@ Sensex Falls 876 Points, Nifty Settles Below 22,900 Amid Banking Sell-Off News M
 
 AI Selloff Nears Turning Point as Mag 7 Earnings Loom marketscreener.com
 
-### 22. Tom Lee Says Investors Should Be ‘Jumping Into’ AI, Semiconductor, Mag 7 Stocks Amid Sell-Off - Yahoo Finance
+### 17. Tom Lee Says Investors Should Be ‘Jumping Into’ AI, Semiconductor, Mag 7 Stocks Amid Sell-Off - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-19T14:35:35+00:00
@@ -226,7 +176,7 @@ AI Selloff Nears Turning Point as Mag 7 Earnings Loom marketscreener.com
 
 Tom Lee Says Investors Should Be ‘Jumping Into’ AI, Semiconductor, Mag 7 Stocks Amid Sell-Off Yahoo Finance
 
-### 23. Chip Stocks Rally, SanDisk Surges Over 7%: Has the AI Hardware Stock Correction Ended? - TradingKey
+### 18. Chip Stocks Rally, SanDisk Surges Over 7%: Has the AI Hardware Stock Correction Ended? - TradingKey
 
 - Source: TradingKey
 - Published: 2026-10-19T14:33:58+00:00
@@ -236,7 +186,7 @@ Tom Lee Says Investors Should Be ‘Jumping Into’ AI, Semiconductor, Mag 7 Sto
 
 Chip Stocks Rally, SanDisk Surges Over 7%: Has the AI Hardware Stock Correction Ended? TradingKey
 
-### 24. Intel Stock Is Upgraded. Why the Chip Selloff Is a Good Thing for the Semiconductor Giant. - Moomoo
+### 19. Intel Stock Is Upgraded. Why the Chip Selloff Is a Good Thing for the Semiconductor Giant. - Moomoo
 
 - Source: Moomoo
 - Published: 2026-10-19T13:44:49+00:00
@@ -246,7 +196,7 @@ Chip Stocks Rally, SanDisk Surges Over 7%: Has the AI Hardware Stock Correction 
 
 Intel Stock Is Upgraded. Why the Chip Selloff Is a Good Thing for the Semiconductor Giant. Moomoo
 
-### 25. Sensex, Nifty fall over 1% each as selling in private banks and elevated oil prices rattle markets - The New Indian Express
+### 20. Sensex, Nifty fall over 1% each as selling in private banks and elevated oil prices rattle markets - The New Indian Express
 
 - Source: The New Indian Express
 - Published: 2026-10-19T13:26:47+00:00
@@ -256,7 +206,7 @@ Intel Stock Is Upgraded. Why the Chip Selloff Is a Good Thing for the Semiconduc
 
 Sensex, Nifty fall over 1% each as selling in private banks and elevated oil prices rattle markets The New Indian Express
 
-### 26. TSMC Shares Rebound 2.3% as Traders Look Past Chip Selloff Toward AI Demand Pipeline - ad-hoc-news.de
+### 21. TSMC Shares Rebound 2.3% as Traders Look Past Chip Selloff Toward AI Demand Pipeline - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-19T13:01:39+00:00
@@ -266,7 +216,7 @@ Sensex, Nifty fall over 1% each as selling in private banks and elevated oil pri
 
 TSMC Shares Rebound 2.3% as Traders Look Past Chip Selloff Toward AI Demand Pipeline ad-hoc-news.de
 
-### 27. Tech Selloff Drags S&P 500 Lower as Defensive Sectors Cushion the Fall - Sector Performance - https://www.siam.in/
+### 22. Tech Selloff Drags S&P 500 Lower as Defensive Sectors Cushion the Fall - Sector Performance - https://www.siam.in/
 
 - Source: https://www.siam.in/
 - Published: 2026-10-19T11:07:17+00:00
@@ -276,7 +226,7 @@ TSMC Shares Rebound 2.3% as Traders Look Past Chip Selloff Toward AI Demand Pipe
 
 Tech Selloff Drags S&P 500 Lower as Defensive Sectors Cushion the Fall - Sector Performance https://www.siam.in/
 
-### 28. Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stocks - The Hans India
+### 23. Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stocks - The Hans India
 
 - Source: The Hans India
 - Published: 2026-10-19T10:45:00+00:00
@@ -286,7 +236,7 @@ Tech Selloff Drags S&P 500 Lower as Defensive Sectors Cushion the Fall - Sector 
 
 Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stocks The Hans India
 
-### 29. Why TSX:SHOP fell on the S&P/TSX Composite: an AI-driven U.S. tech selloff spread to software stocks - kalkine.ca
+### 24. Why TSX:SHOP fell on the S&P/TSX Composite: an AI-driven U.S. tech selloff spread to software stocks - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-10-19T10:35:00+00:00
@@ -296,7 +246,7 @@ Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stock
 
 Why TSX:SHOP fell on the S&P/TSX Composite: an AI-driven U.S. tech selloff spread to software stocks kalkine.ca
 
-### 30. Market witnesses selling pressure after recent recovery, Sensex falls 876 points, Nifty below 22,900 - India TV News
+### 25. Market witnesses selling pressure after recent recovery, Sensex falls 876 points, Nifty below 22,900 - India TV News
 
 - Source: India TV News
 - Published: 2026-10-19T10:27:40+00:00
@@ -306,27 +256,7 @@ Why TSX:SHOP fell on the S&P/TSX Composite: an AI-driven U.S. tech selloff sprea
 
 Market witnesses selling pressure after recent recovery, Sensex falls 876 points, Nifty below 22,900 India TV News
 
-### 31. Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? - Invezz
-
-- Source: Invezz
-- Published: 2026-10-20T06:49:09+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxOV0dCSUR2RGNIN1pUbEJ4bUdGSmdwbjdXWGRHQXE1MGlfYndpZGlWYUwwZDJfczhyNldyLVVXa2M1dUdmZnNMeDZUZFJ0bGNrOEI0dHJRbjgzX3hkZFBNcUU1Z2JqdDRHeGx0YmhyRThLVkdQSUY2a3gtWGxCXzJuYXNKQjJzTHV1N3JLWWNMZlhtMzBUX2Frd1NEbE5zZ19pZVdUVkVVaF82WUttV1dWS00yQUk2WElpTGc?oc=5
-
-Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? Invezz
-
-### 32. Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? - Invezz
-
-- Source: Invezz
-- Published: 2026-10-20T06:49:01+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNZ2ZGM3d3djFzMDVweHFpMGcwamZnWHR1WmJpM2h3SlBxbE9JUnRMT0Q3T0VHT1pMdEZxWjYwRi0yZndQWTdUNk1sZmJVUmJOR2hxb1dCalpjUnljckFpWTFyLVdzeHdJclRwRUgzZGtVV3BGTWVYMXZlMU1SYWgzOE1iY0VtUjY3QVE4ZlVrZGZHUU82TUZxc3VzMV9UN3FmLUxkclBFWVI3elBvU1pyclJtenk2OU92OGxMeXFn?oc=5
-
-Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? Invezz
-
-### 33. Copper is outshining gold this year. Investors say the rally can survive an AI correction - CNBC
+### 26. Copper is outshining gold this year. Investors say the rally can survive an AI correction - CNBC
 
 - Source: CNBC
 - Published: 2026-10-20T05:57:34+00:00
@@ -336,7 +266,17 @@ Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still sellin
 
 Copper is outshining gold this year. Investors say the rally can survive an AI correction CNBC
 
-### 34. Micron and other chip stocks spring back to life after bruising selloff - Longbridge
+### 27. Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? - Invezz
+
+- Source: Invezz
+- Published: 2026-10-20T04:10:43+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPR1MwS3VtUldfTV9Cbk5JMUw3cWN5T1Nnc0JPdW1kUDViTmI3dFlqSFJFLVdSUGQ2emcyVGo1UExNQkVMWUFQTURZWXhzU3B5X2JZUUhrdE5HMFM2bk4tc2JlXy1jRE1YQnItRVhPT19EZjVVbjNzNmVXT3h1bVVvY1kzVTROb081Tm1jQUtKSGhPRUwtSVRZWVFrMkpmTlRLcmtHZ1lwclRnNWdUdk5temRUYndSZw?oc=5
+
+Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? Invezz
+
+### 28. Micron and other chip stocks spring back to life after bruising selloff - Longbridge
 
 - Source: Longbridge
 - Published: 2026-10-20T03:25:32+00:00
@@ -346,7 +286,17 @@ Copper is outshining gold this year. Investors say the rally can survive an AI c
 
 Micron and other chip stocks spring back to life after bruising selloff Longbridge
 
-### 35. UBS Report: AI Sector Drops 5% as Broader Market Rises - KuCoin
+### 29. World Bank President Praises South Korea's 'Future Response Fund' as "Smart Fiscal Management to Prepare for AI Investment Correction" - BigGo Finance
+
+- Source: BigGo Finance
+- Published: 2026-10-20T03:25:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFB6em16ejhvTUVDZVRPN2UyZ3dxOF95a3ozOEFkNEt2MmVlOHJOZV9XMV9BYkJYTG9wZ20wSzg0UDJsRGsxamRnNjVtVUlCT3FoNDQyWFE0YWNFOG1zT243alBrQjJsMzZCQ1N2VmZxTDhYMHdESUE?oc=5
+
+World Bank President Praises South Korea's 'Future Response Fund' as "Smart Fiscal Management to Prepare for AI Investment Correction" BigGo Finance
+
+### 30. UBS Report: AI Sector Drops 5% as Broader Market Rises - KuCoin
 
 - Source: KuCoin
 - Published: 2026-10-20T03:04:40+00:00
@@ -356,7 +306,7 @@ Micron and other chip stocks spring back to life after bruising selloff Longbrid
 
 UBS Report: AI Sector Drops 5% as Broader Market Rises KuCoin
 
-### 36. Hong Kong Stocks Fall as AI Concerns Persist - TradingView
+### 31. Hong Kong Stocks Fall as AI Concerns Persist - TradingView
 
 - Source: TradingView
 - Published: 2026-10-20T02:10:06+00:00
@@ -366,7 +316,7 @@ UBS Report: AI Sector Drops 5% as Broader Market Rises KuCoin
 
 Hong Kong Stocks Fall as AI Concerns Persist TradingView
 
-### 37. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
+### 32. BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-20T01:28:42+00:00
@@ -376,7 +326,7 @@ Hong Kong Stocks Fall as AI Concerns Persist TradingView
 
 BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine War and the US-Iran Conflict BBN Times
 
-### 38. Nasdaq Rebounds 1.11% As Chip Stocks Recover From Selloff - BusinessToday Malaysia
+### 33. Nasdaq Rebounds 1.11% As Chip Stocks Recover From Selloff - BusinessToday Malaysia
 
 - Source: BusinessToday Malaysia
 - Published: 2026-10-20T00:14:25+00:00
@@ -386,7 +336,7 @@ BSE SENSEX Today: India’s Benchmark Falls to 71,924.68 Amid the Russia-Ukraine
 
 Nasdaq Rebounds 1.11% As Chip Stocks Recover From Selloff BusinessToday Malaysia
 
-### 39. AI stocks sell-off reflects 1987 crash lesson for investors - Traders Union
+### 34. AI stocks sell-off reflects 1987 crash lesson for investors - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-19T22:54:28+00:00
@@ -396,7 +346,7 @@ Nasdaq Rebounds 1.11% As Chip Stocks Recover From Selloff BusinessToday Malaysia
 
 AI stocks sell-off reflects 1987 crash lesson for investors Traders Union
 
-### 40. Correction fears fade as AI bull market holds, says strategist - Reuters
+### 35. Correction fears fade as AI bull market holds, says strategist - Reuters
 
 - Source: Reuters
 - Published: 2026-10-19T21:59:00+00:00
@@ -406,7 +356,7 @@ AI stocks sell-off reflects 1987 crash lesson for investors Traders Union
 
 Correction fears fade as AI bull market holds, says strategist Reuters
 
-### 41. Micron and other chip stocks spring back to life after bruising selloff - MarketWatch
+### 36. Micron and other chip stocks spring back to life after bruising selloff - MarketWatch
 
 - Source: MarketWatch
 - Published: 2026-10-19T21:06:00+00:00
@@ -416,7 +366,7 @@ Correction fears fade as AI bull market holds, says strategist Reuters
 
 Micron and other chip stocks spring back to life after bruising selloff MarketWatch
 
-### 42. CoreWeave, Applied Digital, Nebius and IREN Stocks Rebound After AI Selloff - TradingView
+### 37. CoreWeave, Applied Digital, Nebius and IREN Stocks Rebound After AI Selloff - TradingView
 
 - Source: TradingView
 - Published: 2026-10-19T19:49:48+00:00
@@ -426,7 +376,7 @@ Micron and other chip stocks spring back to life after bruising selloff MarketWa
 
 CoreWeave, Applied Digital, Nebius and IREN Stocks Rebound After AI Selloff TradingView
 
-### 43. Berkshire Stock Nears Record High as AI Selloff Drives Defensive Rotation, Just 1.6% From Peak - TradingKey
+### 38. Berkshire Stock Nears Record High as AI Selloff Drives Defensive Rotation, Just 1.6% From Peak - TradingKey
 
 - Source: TradingKey
 - Published: 2026-10-19T19:49:06+00:00
@@ -436,7 +386,7 @@ CoreWeave, Applied Digital, Nebius and IREN Stocks Rebound After AI Selloff Trad
 
 Berkshire Stock Nears Record High as AI Selloff Drives Defensive Rotation, Just 1.6% From Peak TradingKey
 
-### 44. Sandisk and Lumentum Bounce Back From AI Selloff as CoreWeave Sits Out the Rally - Barron's
+### 39. Sandisk and Lumentum Bounce Back From AI Selloff as CoreWeave Sits Out the Rally - Barron's
 
 - Source: Barron's
 - Published: 2026-10-19T19:43:00+00:00
@@ -446,7 +396,7 @@ Berkshire Stock Nears Record High as AI Selloff Drives Defensive Rotation, Just 
 
 Sandisk and Lumentum Bounce Back From AI Selloff as CoreWeave Sits Out the Rally Barron's
 
-### 45. The AI Selloff Is About Financing (NASDAQ:SOXX) - Seeking Alpha
+### 40. The AI Selloff Is About Financing (NASDAQ:SOXX) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-10-19T19:19:47+00:00
@@ -456,7 +406,7 @@ Sandisk and Lumentum Bounce Back From AI Selloff as CoreWeave Sits Out the Rally
 
 The AI Selloff Is About Financing (NASDAQ:SOXX) Seeking Alpha
 
-### 46. AI stocks rebound after selloff as CoreWeave gains - The Journal Record
+### 41. AI stocks rebound after selloff as CoreWeave gains - The Journal Record
 
 - Source: The Journal Record
 - Published: 2026-10-19T17:45:54+00:00
@@ -466,7 +416,7 @@ The AI Selloff Is About Financing (NASDAQ:SOXX) Seeking Alpha
 
 AI stocks rebound after selloff as CoreWeave gains The Journal Record
 
-### 47. Chip stocks rebound after their worst weekly selloff since March - Startup Fortune
+### 42. Chip stocks rebound after their worst weekly selloff since March - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-10-19T17:34:09+00:00
@@ -476,7 +426,7 @@ AI stocks rebound after selloff as CoreWeave gains The Journal Record
 
 Chip stocks rebound after their worst weekly selloff since March Startup Fortune
 
-### 48. Asian shares slip on back foot after Wall St tech selloff - Khmer Times
+### 43. Asian shares slip on back foot after Wall St tech selloff - Khmer Times
 
 - Source: Khmer Times
 - Published: 2026-10-19T17:16:11+00:00
@@ -486,7 +436,7 @@ Chip stocks rebound after their worst weekly selloff since March Startup Fortune
 
 Asian shares slip on back foot after Wall St tech selloff Khmer Times
 
-### 49. High-flying semiconductor stocks fall 11% in a week: What investors need to know - Trustnet
+### 44. High-flying semiconductor stocks fall 11% in a week: What investors need to know - Trustnet
 
 - Source: Trustnet
 - Published: 2026-10-19T16:43:01+00:00
@@ -496,7 +446,7 @@ Asian shares slip on back foot after Wall St tech selloff Khmer Times
 
 High-flying semiconductor stocks fall 11% in a week: What investors need to know Trustnet
 
-### 50. IMF Warns AI Correction Could Spark Financial Turmoil - Yahoo Finance
+### 45. IMF Warns AI Correction Could Spark Financial Turmoil - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-19T16:14:37+00:00
@@ -506,7 +456,7 @@ High-flying semiconductor stocks fall 11% in a week: What investors need to know
 
 IMF Warns AI Correction Could Spark Financial Turmoil Yahoo Finance
 
-### 51. Sensex, Nifty fall over 1%; investors lose ₹3.6 lakh-crore - DhanamOnline
+### 46. Sensex, Nifty fall over 1%; investors lose ₹3.6 lakh-crore - DhanamOnline
 
 - Source: DhanamOnline
 - Published: 2026-10-19T15:30:40+00:00
@@ -516,7 +466,7 @@ IMF Warns AI Correction Could Spark Financial Turmoil Yahoo Finance
 
 Sensex, Nifty fall over 1%; investors lose ₹3.6 lakh-crore DhanamOnline
 
-### 52. AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade - Reuters
+### 47. AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade - Reuters
 
 - Source: Reuters
 - Published: 2026-10-19T15:16:52+00:00
@@ -526,7 +476,7 @@ Sensex, Nifty fall over 1%; investors lose ₹3.6 lakh-crore DhanamOnline
 
 AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade Reuters
 
-### 53. Memory Stocks Rally as Tech Selloff Unwinds: Micron Climbs 4%, Sandisk Jumps 7%, SK Hynix Rises 5% - 24/7 Wall St.
+### 48. Memory Stocks Rally as Tech Selloff Unwinds: Micron Climbs 4%, Sandisk Jumps 7%, SK Hynix Rises 5% - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-10-19T14:59:00+00:00
@@ -536,7 +486,7 @@ AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade Reu
 
 Memory Stocks Rally as Tech Selloff Unwinds: Micron Climbs 4%, Sandisk Jumps 7%, SK Hynix Rises 5% 24/7 Wall St.
 
-### 54. Nasdaq Jumps 259 Points to 26,399 as Intel Surges 5.5% and AI Stocks Rebound After Brutal Selloff - HDFC Sky
+### 49. Nasdaq Jumps 259 Points to 26,399 as Intel Surges 5.5% and AI Stocks Rebound After Brutal Selloff - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-10-19T14:53:14+00:00
@@ -546,7 +496,7 @@ Memory Stocks Rally as Tech Selloff Unwinds: Micron Climbs 4%, Sandisk Jumps 7%,
 
 Nasdaq Jumps 259 Points to 26,399 as Intel Surges 5.5% and AI Stocks Rebound After Brutal Selloff HDFC Sky
 
-### 55. AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, Hewlett Packard Enterprise Climbs 3%, Dell Edges Higher - 24/7 Wall St.
+### 50. AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, Hewlett Packard Enterprise Climbs 3%, Dell Edges Higher - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-10-19T14:51:00+00:00
@@ -556,7 +506,7 @@ Nasdaq Jumps 259 Points to 26,399 as Intel Surges 5.5% and AI Stocks Rebound Aft
 
 AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, Hewlett Packard Enterprise Climbs 3%, Dell Edges Higher 24/7 Wall St.
 
-### 56. AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, Hewlett Packard Enterprise Climbs 3%, Dell Edges Higher - 24/7 Wall St.
+### 51. AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, Hewlett Packard Enterprise Climbs 3%, Dell Edges Higher - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-10-19T14:51:00+00:00
@@ -566,7 +516,7 @@ AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, He
 
 AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, Hewlett Packard Enterprise Climbs 3%, Dell Edges Higher 24/7 Wall St.
 
-### 57. AI stocks bounce back after bruising selloff last week - The Globe and Mail
+### 52. AI stocks bounce back after bruising selloff last week - The Globe and Mail
 
 - Source: The Globe and Mail
 - Published: 2026-10-19T14:42:20+00:00
@@ -576,7 +526,17 @@ AI Server Stocks Rally as Last Week's Selloff Reverses: Super Micro Jumps 4%, He
 
 AI stocks bounce back after bruising selloff last week The Globe and Mail
 
-### 58. Nasdaq 100 Forecast: Chip Selloff Tests Uptrend After Record High - FXEmpire
+### 53. US chip stocks rebound after steepest weekly selloff in months - Mezha.net
+
+- Source: Mezha.net
+- Published: 2026-10-19T14:37:20+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE96UEtaTTdBWTZ4MEtIcUppTGtQVVhCR0xZM2l4MWZWRlhQXzU3anFybmszaXJod1VxT2VocHhxUk5oRUxtVE9tUEE0cjJSSkF4UDh6Um1wNXVTZGRwRlhyUXZraGJMQnFUT0cwd0doUWJSaVZqa1B1WTB4NDRvdw?oc=5
+
+US chip stocks rebound after steepest weekly selloff in months Mezha.net
+
+### 54. Nasdaq 100 Forecast: Chip Selloff Tests Uptrend After Record High - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-10-19T14:05:23+00:00
@@ -586,7 +546,7 @@ AI stocks bounce back after bruising selloff last week The Globe and Mail
 
 Nasdaq 100 Forecast: Chip Selloff Tests Uptrend After Record High FXEmpire
 
-### 59. US chip stocks rise after steepest weekly selloff in months - ET Manufacturing
+### 55. US chip stocks rise after steepest weekly selloff in months - ET Manufacturing
 
 - Source: ET Manufacturing
 - Published: 2026-10-19T14:02:22+00:00
@@ -596,7 +556,7 @@ Nasdaq 100 Forecast: Chip Selloff Tests Uptrend After Record High FXEmpire
 
 US chip stocks rise after steepest weekly selloff in months ET Manufacturing
 
-### 60. AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade - marketscreener.com
+### 56. AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-19T14:01:36+00:00
@@ -606,7 +566,7 @@ US chip stocks rise after steepest weekly selloff in months ET Manufacturing
 
 AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade marketscreener.com
 
-### 61. AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade - CNA
+### 57. AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade - CNA
 
 - Source: CNA
 - Published: 2026-10-19T13:59:20+00:00
@@ -616,7 +576,7 @@ AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade
 
 AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade CNA
 
-### 62. Sitharaman flags $33 billion FPI outflows as Indian stock markets fall nearly 12% this year - IBTimes India
+### 58. Sitharaman flags $33 billion FPI outflows as Indian stock markets fall nearly 12% this year - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-10-19T13:07:42+00:00
@@ -626,7 +586,7 @@ AI stocks bounce back after bruising selloff; CoreWeave jumps on Goldman upgrade
 
 Sitharaman flags $33 billion FPI outflows as Indian stock markets fall nearly 12% this year IBTimes India
 
-### 63. AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6% - AOL.com
+### 59. AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6% - AOL.com
 
 - Source: AOL.com
 - Published: 2026-10-19T13:02:19+00:00
@@ -636,7 +596,7 @@ Sitharaman flags $33 billion FPI outflows as Indian stock markets fall nearly 12
 
 AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6% AOL.com
 
-### 64. AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6% - 24/7 Wall St.
+### 60. AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6% - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-10-19T13:02:00+00:00
@@ -646,7 +606,7 @@ AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, Te
 
 AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, TeraWulf and IREN Rise 6% 24/7 Wall St.
 
-### 65. CoreWeave Stock And Bond Selloff Signals Deepening Concerns Over AI Buildout Costs - TIKR.com
+### 61. CoreWeave Stock And Bond Selloff Signals Deepening Concerns Over AI Buildout Costs - TIKR.com
 
 - Source: TIKR.com
 - Published: 2026-10-19T12:56:20+00:00
@@ -656,7 +616,7 @@ AI Infrastructure Stocks Rally as Selloff Reverses: Applied Digital Jumps 8%, Te
 
 CoreWeave Stock And Bond Selloff Signals Deepening Concerns Over AI Buildout Costs TIKR.com
 
-### 66. AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade - CNA
+### 62. AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade - CNA
 
 - Source: CNA
 - Published: 2026-10-19T12:41:02+00:00
@@ -666,7 +626,7 @@ CoreWeave Stock And Bond Selloff Signals Deepening Concerns Over AI Buildout Cos
 
 AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade CNA
 
-### 67. Foreign investors sell, yet IPOs keep coming as Nifty slips into correction - The Times of India
+### 63. Foreign investors sell, yet IPOs keep coming as Nifty slips into correction - The Times of India
 
 - Source: The Times of India
 - Published: 2026-10-19T11:51:00+00:00
@@ -676,7 +636,17 @@ AI stocks bounce back after bruising selloff, CoreWeave gets Goldman upgrade CNA
 
 Foreign investors sell, yet IPOs keep coming as Nifty slips into correction The Times of India
 
-### 68. S&P 500 heads into Monday after 1.1 percent AI selloff - ad-hoc-news.de
+### 64. VIX faces Monday's open after AI selloff lifts risk to 19.99 points - ad-hoc-news.de
+
+- Source: ad-hoc-news.de
+- Published: 2026-10-19T11:35:54+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMWExc0ZpeGVnc00yYkhyX1A4MEx2XzA5WHEyS2VEblJYaDNyRW5lUE03ZUtzLTNPaWVNd1RfVHMtSmhkZDQtMkNWUW1vOVEtOWpxdGFsVVltZTAwTTFnSzJqSTlTTlk5a1M2ZFlzX1VZNmthUUdDZmZwUmFqZWZsVG9kVDF0NlAtM19fRkRiWVJIYzJhN2JLOW5RV0ZyMW5hS2pOUGUxWDA0Tm9oN3k3aWY4dmh1TFEzZ2tPV3RJT1BtcVRSdUxaNw?oc=5
+
+VIX faces Monday's open after AI selloff lifts risk to 19.99 points ad-hoc-news.de
+
+### 65. S&P 500 heads into Monday after 1.1 percent AI selloff - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-19T11:28:56+00:00
@@ -686,7 +656,7 @@ Foreign investors sell, yet IPOs keep coming as Nifty slips into correction The 
 
 S&P 500 heads into Monday after 1.1 percent AI selloff ad-hoc-news.de
 
-### 69. Sharp sell-off across D-Street: Sensex plunges 876 points, Nifty breaks 22,900 - The Financial Express
+### 66. Sharp sell-off across D-Street: Sensex plunges 876 points, Nifty breaks 22,900 - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-10-19T11:26:11+00:00
@@ -696,7 +666,7 @@ S&P 500 heads into Monday after 1.1 percent AI selloff ad-hoc-news.de
 
 Sharp sell-off across D-Street: Sensex plunges 876 points, Nifty breaks 22,900 The Financial Express
 
-### 70. AMD stock rebounds 3.7% premarket after sharp semiconductor selloff - Traders Union
+### 67. AMD stock rebounds 3.7% premarket after sharp semiconductor selloff - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-19T11:20:06+00:00
@@ -706,7 +676,7 @@ Sharp sell-off across D-Street: Sensex plunges 876 points, Nifty breaks 22,900 T
 
 AMD stock rebounds 3.7% premarket after sharp semiconductor selloff Traders Union
 
-### 71. Rs 5.54 Lakh Crore in Investor Wealth Wiped Out on Monday as Nifty, Sensex Fall Over 1 Per Cent - Dalal Street Investment Journal
+### 68. Rs 5.54 Lakh Crore in Investor Wealth Wiped Out on Monday as Nifty, Sensex Fall Over 1 Per Cent - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-10-19T11:16:54+00:00
@@ -716,7 +686,7 @@ AMD stock rebounds 3.7% premarket after sharp semiconductor selloff Traders Unio
 
 Rs 5.54 Lakh Crore in Investor Wealth Wiped Out on Monday as Nifty, Sensex Fall Over 1 Per Cent Dalal Street Investment Journal
 
-### 72. Tech Rotation Charts: AI Sector Undergoes Deep Correction, Who Shows the Most Resilience? - Moomoo
+### 69. Tech Rotation Charts: AI Sector Undergoes Deep Correction, Who Shows the Most Resilience? - Moomoo
 
 - Source: Moomoo
 - Published: 2026-10-19T11:15:14+00:00
@@ -726,7 +696,7 @@ Rs 5.54 Lakh Crore in Investor Wealth Wiped Out on Monday as Nifty, Sensex Fall 
 
 Tech Rotation Charts: AI Sector Undergoes Deep Correction, Who Shows the Most Resilience? Moomoo
 
-### 73. Russell 2000 heads into Tuesday after 46-point chip selloff - ad-hoc-news.de
+### 70. Russell 2000 heads into Tuesday after 46-point chip selloff - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-19T11:08:29+00:00
@@ -736,7 +706,7 @@ Tech Rotation Charts: AI Sector Undergoes Deep Correction, Who Shows the Most Re
 
 Russell 2000 heads into Tuesday after 46-point chip selloff ad-hoc-news.de
 
-### 74. Wall Street To Open In Green? US Futures Rebound From Tech Selloff — Top Three Reasons - NDTV Profit
+### 71. Wall Street To Open In Green? US Futures Rebound From Tech Selloff — Top Three Reasons - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-19T11:03:21+00:00
@@ -746,7 +716,7 @@ Russell 2000 heads into Tuesday after 46-point chip selloff ad-hoc-news.de
 
 Wall Street To Open In Green? US Futures Rebound From Tech Selloff — Top Three Reasons NDTV Profit
 
-### 75. Sensex tanks 876 points; Nifty falls 1.11%. Here's why - Rediff
+### 72. Sensex tanks 876 points; Nifty falls 1.11%. Here's why - Rediff
 
 - Source: Rediff
 - Published: 2026-10-19T10:54:28+00:00
@@ -756,7 +726,7 @@ Wall Street To Open In Green? US Futures Rebound From Tech Selloff — Top Three
 
 Sensex tanks 876 points; Nifty falls 1.11%. Here's why Rediff
 
-### 76. Sensex Falls 876 Points, Nifty Slips Below 22,900 as Banking and IT Stocks Drag - Business News This Week
+### 73. Sensex Falls 876 Points, Nifty Slips Below 22,900 as Banking and IT Stocks Drag - Business News This Week
 
 - Source: Business News This Week
 - Published: 2026-10-19T10:54:16+00:00
@@ -766,7 +736,7 @@ Sensex tanks 876 points; Nifty falls 1.11%. Here's why Rediff
 
 Sensex Falls 876 Points, Nifty Slips Below 22,900 as Banking and IT Stocks Drag Business News This Week
 
-### 77. Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stocks - AP7AM
+### 74. Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stocks - AP7AM
 
 - Source: AP7AM
 - Published: 2026-10-19T10:34:02+00:00
@@ -776,7 +746,7 @@ Sensex Falls 876 Points, Nifty Slips Below 22,900 as Banking and IT Stocks Drag 
 
 Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stocks AP7AM
 
-### 78. Indian Markets Fall: Nifty Slips to 23,057 as Crude Hits USD 108 - Analytics Insight
+### 75. Indian Markets Fall: Nifty Slips to 23,057 as Crude Hits USD 108 - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-10-19T10:15:00+00:00
@@ -786,7 +756,7 @@ Sensex falls 876 points, Nifty slips below 22,900 amid selling in bank, IT stock
 
 Indian Markets Fall: Nifty Slips to 23,057 as Crude Hits USD 108 Analytics Insight
 
-### 79. Stock Market Today: Chip Selloff Hits Day Eight as Nasdaq Logs Its Worst Week Since June - ChartMill
+### 76. Stock Market Today: Chip Selloff Hits Day Eight as Nasdaq Logs Its Worst Week Since June - ChartMill
 
 - Source: ChartMill
 - Published: 2026-10-19T10:03:23+00:00
@@ -796,12 +766,42 @@ Indian Markets Fall: Nifty Slips to 23,057 as Crude Hits USD 108 Analytics Insig
 
 Stock Market Today: Chip Selloff Hits Day Eight as Nasdaq Logs Its Worst Week Since June ChartMill
 
-### 80. Stock Market today: Sensex falls nearly 1,000 points, Nifty slips to 22,850 - Punjab Newsline
+### 77. Top Stories: FM on FPI outflows, sharp sell-off on D-Street, Jio IPO frenzy and more - CNBC TV18
 
-- Source: Punjab Newsline
-- Published: 2026-10-19T09:26:56+00:00
+- Source: CNBC TV18
+- Published: 2026-10-19T16:31:49+00:00
 - Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQdzg2UFZXOWwxcHlfTlNrZl9EMGZCeE5xSktZZjlhYm9tT2xQQnBRbEMyS0tnSXpLSUpsTElPZEhoMUI0OHRSYXVtbEctbzkzS09HWldVMnBxRjRiWkxjMWJWN3g1Q2VOR21LQlZWX3EzdmlIcHNKQldFVWxoVVNaYWVvZXZWcUVNZW1EV21GOHBFWVRnUEdnd205VkhxTmNMV3Z5cklR?oc=5
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxQTEpDaTBwRHcwSnh5LVBiQ3UyUlJTeXdkdUFETG1BbWU2Tk01bW51M3hObmxsbGVEYWVvMGk4a1RaQWFOaDNCM2NrSFhJSGF6ckNHOVJfZWVBQmFJSVdPZlJJQ0Ffc0pLa0NnMXIxYWxWMHJUNFg0VHAzX1FtR250cEloVWcyUXJrSmo0NTVOMjVvV2JyLU0wcXRuTHNTUkc5Mklvb0Mtd2xYNmFIYjVrMmJpSkNDTkR1cHE0U09VYkQwOE1fa1pJ0gHMAUFVX3lxTE5YeUpxWENKNUdpWjVwLUVCMVRYQ0xnMFV2czAtU2RTV0lrcFlVenA4V25oTWtkMkZkSFJxaHRCY2VVcXFncjJYTWhTY3NsVk5RSmFWVnVYNEVKbkN0T282ekRtOU1Dbm04a1VRdjFpaldWYTR5RVhzaTUzVzlCMXFQUzJSbkYyaXVWY25WNlp6a0h1eV9EUm5ia2x3MlFyakNHTVdTMjJBdVZkYTU1X2drT0U5UHZBVWRJUGZQSnpFNlN6TlNvVzVQY29QcA?oc=5
 
-Stock Market today: Sensex falls nearly 1,000 points, Nifty slips to 22,850 Punjab Newsline
+Top Stories: FM on FPI outflows, sharp sell-off on D-Street, Jio IPO frenzy and more CNBC TV18
+
+### 78. FIIs sell ₹1,149 crore worth of Indian stocks as Sensex falls 876 points; DIIs buy ₹3,201 crore - CNBC TV18
+
+- Source: CNBC TV18
+- Published: 2026-10-19T13:23:45+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNd3NZbGd3N2czQnU3X25tUXMzX0NONFZkeWdWT1RXbjBUWlRNMjJkNHZGekduMjUzaEtmTFBUYW00T0tmeERQRS1GcjhrclRTbTdtWmhjVTBKS2UyWU5oWVcxVFlfRW91LTFudnJtOS03Qjlpc2k3eUZUMmpTM0pMVFc5NVJHbHlISEFUWXpKckQ4d2dYc05LeW1VWS1EUkczdVFneGpLUEVtZkhoOW530gG0AUFVX3lxTE1DTnh2eEZ3clNfbWt4VmZTczZhTk9SZ2RmV1Vwb1V6T04xbVo2UmNwMi0xZmRKZkl2WnQxbXpLcW1tbE96Smw0cnB5VHBLWmJiOTBabEE3M3Z0M3VTbmlWZ2pDRTlqS1ZwbjAzLUVhdXV1XzZ2SmpaXzFvVFJDaXc5Z2NjdDQwblZHZ1Q0ajJKY01qQmFxMGNUWXZZLWRBMjV3TGlEdUNTOFVKTzlaOFlVYjByZg?oc=5
+
+FIIs sell ₹1,149 crore worth of Indian stocks as Sensex falls 876 points; DIIs buy ₹3,201 crore CNBC TV18
+
+### 79. Sensex Falls 876 Points; Private Banks, IT Drag Markets - HDFC Sky
+
+- Source: HDFC Sky
+- Published: 2026-10-19T11:21:59+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPakstdjBiN3N2NFNLd2VpenNIamFrZXhUeHZJZk80UEVlMVIyZUNOcFoyc1NaQkRIRTJ2NDVVZURhVnh3LVMwX1FUUnZSNGdqX25aSjBianJPTWVydURmNU0tLWt2cDBYcGhoTUl6bUl4VkYtb29CWmF1RjdEN1gxdTFKbGx6Q2N2UEhBMkZHMlJQdTFrc3EyREZENE5aOENBZ0V0aXdIYVBzY1F2N3U3VU5aRVpSYVNG?oc=5
+
+Sensex Falls 876 Points; Private Banks, IT Drag Markets HDFC Sky
+
+### 80. BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War - BBN Times
+
+- Source: BBN Times
+- Published: 2026-10-19T10:56:54+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQUdJLTVOSUw1dHhzVUtKSVU3OXZnOFk4RWN3THJXdV82UC16YkRsanlyU0dib2U4TktMOFdHd2I1a1lmQmtQLXNPcVFaTFVSWXVtVzNPUjBYLUtIRWJKTWtWSDZCWTczOWNxLWgzc1JGZ2pud0lPWWRTNWEyb0dZeHRsN2xkNjFTb0NUMHhFNXZvWl80ZDIwNTcxdDNxZUJWeEpyc3VIUjBuX0phX0NycHRKYXh5ZC0xaFRYTjVSd0pSc0piUGdVNGRpakF2Q2ptVlducklvUTFIcmJFQVJyMXJjS3pWaGRScXJEcA?oc=5
+
+BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War BBN Times
