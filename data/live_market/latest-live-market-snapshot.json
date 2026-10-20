@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-20T13:41:03+05:30",
+  "generated_at": "2026-10-20T14:10:43+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
-      "advancers": 11,
-      "decliners": 47,
+      "downloaded_count": 60,
+      "coverage_pct": 100.0,
+      "advancers": 12,
+      "decliners": 48,
       "unchanged": 0,
-      "ad_ratio": 0.23,
+      "ad_ratio": 0.25,
       "up_turnover_share_pct": 44.5,
       "down_turnover_share_pct": 55.5,
       "high_volume_decliners": 3,
-      "intraday_quotes": 58,
+      "intraday_quotes": 60,
       "daily_fallbacks": 0,
       "as_of_date": "2026-10-19",
       "as_of_timestamp": "2026-10-19 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -31,11 +31,11 @@
       },
       {
         "sector": "Finance",
-        "count": 11,
-        "advancers": 4,
+        "count": 12,
+        "advancers": 5,
         "decliners": 7,
-        "average_1d_pct": -0.344,
-        "average_volume_ratio_20d": 1.211
+        "average_1d_pct": -0.273,
+        "average_volume_ratio_20d": 1.184
       },
       {
         "sector": "Health technology",
@@ -78,6 +78,14 @@
         "average_volume_ratio_20d": 3.994
       },
       {
+        "sector": "Utilities",
+        "count": 2,
+        "advancers": 0,
+        "decliners": 2,
+        "average_1d_pct": -1.708,
+        "average_volume_ratio_20d": 2.035
+      },
+      {
         "sector": "Health services",
         "count": 3,
         "advancers": 0,
@@ -108,14 +116,6 @@
         "decliners": 1,
         "average_1d_pct": -2.733,
         "average_volume_ratio_20d": 0.669
-      },
-      {
-        "sector": "Utilities",
-        "count": 1,
-        "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -2.75,
-        "average_volume_ratio_20d": 2.716
       },
       {
         "sector": "Transportation",
@@ -208,6 +208,23 @@
         "turnover_proxy": 21150448.0,
         "quote_date": "2026-10-19",
         "quote_timestamp": "2026-10-19 15:25 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "INDIGRID",
+        "ticker": "INDIGRID.NS",
+        "name": "IndiGrid Infrastructure Trust",
+        "sector": "Finance",
+        "ltp": 170.06,
+        "previous_close": 169.21,
+        "day_move_pct": 0.5023,
+        "session_volume": 740186.0,
+        "average_volume_20d": 838528.0,
+        "volume_ratio_20d": 0.883,
+        "turnover_proxy": 125876029.0,
+        "quote_date": "2026-10-19",
+        "quote_timestamp": "2026-10-19 09:15 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
       },
@@ -325,23 +342,6 @@
         "average_volume_20d": 93907.0,
         "volume_ratio_20d": 0.337,
         "turnover_proxy": 59095422.0,
-        "quote_date": "2026-10-19",
-        "quote_timestamp": "2026-10-19 15:25 IST",
-        "quote_type": "Yahoo 5-minute quote",
-        "alert": ""
-      },
-      {
-        "symbol": "TORNTPHARM",
-        "ticker": "TORNTPHARM.NS",
-        "name": "Torrent Pharmaceuticals Ltd",
-        "sector": "Health technology",
-        "ltp": 4558.7002,
-        "previous_close": 4558.8999,
-        "day_move_pct": -0.0044,
-        "session_volume": 244330.0,
-        "average_volume_20d": 333669.0,
-        "volume_ratio_20d": 0.732,
-        "turnover_proxy": 1113827219.0,
         "quote_date": "2026-10-19",
         "quote_timestamp": "2026-10-19 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -1459,6 +1459,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 103.0,
+        "previous_close": 103.69,
+        "day_move_pct": -0.6654,
+        "session_volume": 1604156.0,
+        "average_volume_20d": 1184514.0,
+        "volume_ratio_20d": 1.354,
+        "turnover_proxy": 165228068.0,
+        "quote_date": "2026-10-19",
+        "quote_timestamp": "2026-10-19 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1574,6 +1591,23 @@
         "turnover_proxy": 1387831.0,
         "quote_date": "2026-10-19",
         "quote_timestamp": "2026-10-19 15:25 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "INDIGRID",
+        "ticker": "INDIGRID.NS",
+        "name": "IndiGrid Infrastructure Trust",
+        "sector": "Finance",
+        "ltp": 170.06,
+        "previous_close": 169.21,
+        "day_move_pct": 0.5023,
+        "session_volume": 740186.0,
+        "average_volume_20d": 838528.0,
+        "volume_ratio_20d": 0.883,
+        "turnover_proxy": 125876029.0,
+        "quote_date": "2026-10-19",
+        "quote_timestamp": "2026-10-19 09:15 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
       },
