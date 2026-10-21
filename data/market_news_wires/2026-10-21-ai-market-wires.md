@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-21 07:07
+Generated: 2026-10-21 07:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -12,7 +12,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 - Published: 2026-10-21T05:46:19+00:00
 - Themes: AI / tech risk, market selling, India market
 - Score: 12
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFpfNVJVZ2hFY3VtWGpSd0l5aE9HRU5OVm8ybUJPWUZuV1kyV2NPTmFhLWoxZ29pSk9GMERXU3FFQms0M2RGZmpRVFpteUR5d1ZTT3h2NXFBcWpmZGRxb25lVE9TZU5NZDF0dnVxcWhPZWJMQzc5WTJOejlPWVpSRlg1R1gtODNGLThyVkJ4enQxZXllRHpnNmFGenJfdUFhSjMxbjQ4Q19wRHV6bERkS3BsdlpJZ9IBuwFBVV95cUxQX1RZeUVxbmVwX1piZWNaNzVaRkVUaUlIZEYtX3N3VHptOTBhZUtQZk5NWVN3MFdYbFR4QlZPdkRPd3pwOXFKb1ZlTWFoRmZ0TGRFZXhXZlhOMEg3aFRzNTR3djYzZlpSamJac2FvblhpYXluVDUybFEwM1N2ZmMxMlc2OER6aUhOUklyZG54cUxzOUZDZ1pQYmxpWUdiU3haN1E0cDFRQkZkZ1JaN1NZVDJrZ2JsVjdfX1Jv?oc=5
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGY5b0tSRXl4LXFqV3hfVDlSNmZTbS1tYjg5VG5fdmI2SGp2WXFWd1JfT1JWMUdacXNRdU1INTdTZGppM0xCS2stZ2dIZndfRVdzNXBMbkR6bU5jaGNJZ3NEeDhvbmhJSjVQd1Njck9PcWFQMjRyb2dtYlFKR2xqQ0xuSklVa2gtOGJMUVJIQV9VNE40eHBsd2Zta0VrMnlyVzZSVXlPT3JmRXdJX0xKcDJyNDh3d9IBuwFBVV95cUxQX1RZeUVxbmVwX1piZWNaNzVaRkVUaUlIZEYtX3N3VHptOTBhZUtQZk5NWVN3MFdYbFR4QlZPdkRPd3pwOXFKb1ZlTWFoRmZ0TGRFZXhXZlhOMEg3aFRzNTR3djYzZlpSamJac2FvblhpYXluVDUybFEwM1N2ZmMxMlc2OER6aUhOUklyZG54cUxzOUZDZ1pQYmxpWUdiU3haN1E0cDFRQkZkZ1JaN1NZVDJrZ2JsVjdfX1Jv?oc=5
 
 IMF Warns AI Market Correction Could Hit India Business Today
 
@@ -306,7 +306,17 @@ Asian stocks fall as AI earnings and geopolitical tensions weigh on markets Prof
 
 Tokyo stocks fall amid AI skepticism, caution ahead of earnings season 毎日新聞
 
-### 31. Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks - Siliconindia
+### 31. Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained - Zee Business
+
+- Source: Zee Business
+- Published: 2026-10-21T07:24:53+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQcVY5a2txLTgySmVpVUNSVUVFN3huQVltTjlnNUR6blJkMEtQd3l3d0lRUmR4TkRDRWd2M1QwcFJpVVprOGwxV3ZVRUlKTGxYYWRNX0ZhLTBjeF8yWWd2VEU4VzBHZ1Jyblh3cGVrQ1lld3VWWDYzNHdpNVJzYW1KMC1kNk0tcENYY1d1bVFGcXowbmdZR0czaS1ZMUZrZzhuMXFHOGlCZkdmSncwbUpYS3I5ODBSUnUxVm8tTXFtV0hYQ0p0a05jamRkT0Z5Zw?oc=5
+
+Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained Zee Business
+
+### 32. Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks - Siliconindia
 
 - Source: Siliconindia
 - Published: 2026-10-21T06:05:10+00:00
@@ -316,7 +326,7 @@ Tokyo stocks fall amid AI skepticism, caution ahead of earnings season 毎日新
 
 Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks Siliconindia
 
-### 32. AI stocks fall 16% in a week: what analysts say about the bubble - Around Prague
+### 33. AI stocks fall 16% in a week: what analysts say about the bubble - Around Prague
 
 - Source: Around Prague
 - Published: 2026-10-21T06:00:55+00:00
@@ -326,7 +336,7 @@ Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks
 
 AI stocks fall 16% in a week: what analysts say about the bubble Around Prague
 
-### 33. Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline - Moneycontrol.com
+### 34. Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-21T04:54:16+00:00
@@ -335,16 +345,6 @@ AI stocks fall 16% in a week: what analysts say about the bubble Around Prague
 - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUVF1YUZCTmhBQXF3T1BUVzdKRHRqQzRQSloxd0tVd1ZtVjlBR2pObE9jS1QzVVp1dFJVRngxYWN6UEtwd0k4MHRFQWRnOGJySWN0Sk81SXQ0ZldIUmRTd1VuSXRHNTBKd0ZiNk1jX3c0eVVVVG1oRXRRMVF5eDVWenJtd08wQ1BWQzFFcVp6TkFmVzdjN3Eta2JRVW5Td3JmLVZuS0hKdEVMdVVqVHZmRi1BUmR5b3Z4Z3oyU3g3M3NaQmdVTzUxdGpoSWlFa3NuVnBXVVlRdXloaGg0OGJVNjJBTHZRcVdSN2fSAe8BQVVfeXFMT3loa1BnUzNZYnJMVUZCVlNLT1RqVW9pNHdQZjljTU9Pa09hM2U1RjNTem9DTmUxLWFWY0RjOVhCR2tnNHVwcjlDcXpsSXBUVXoyQUVsWUQ5QmlGYWFmSURDRk90ZWtCTHdvbS10T3FXSGFWR0drUDNsel81b3ktZ2RWdG83VTBUZFVwVTFfQjFJdDU1MGxQUGNoWEZ2N0dUekh3d0hHa0pqZjI3LUlsaHNNZzR1a08xYkI2MjA5UDVIaVZ3TlhJNkJaczNQcjdkdEg5NnVnWktmdGlsVGxoYVFmNUhTYjlSdHhyaVhZNUE?oc=5
 
 Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline Moneycontrol.com
-
-### 34. PSU stocks today, October 21: NTPC Green falls 3%, Engineers India down 2.89%, IREDA declines 2.43% - Business Upturn
-
-- Source: Business Upturn
-- Published: 2026-10-21T04:51:11+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjBWWXRkWGJtSEd5Sy1jc1laZW5rZWVLOGNzLWxPYXppQTFkdkp3dkdEVXk5MHZIblFJRjhOdWpzakhLUGVONE1SZ1FHRXNIYlBKXzU4Undpd3Q3TmhvUEZTV0pnMzVpSEp4clBlejNLUWpZbHFEZEZjeXhxSDY2NG5DN0hvdEQ1eWdjQ2RLMHdLYlM0Sm1FUXU3UmRmQVVtWDloQUxlSDZ0MWJyS09lVVc2NzZ0dEJuTDhyaFBZZ0NTSHdrSlZrRXJjZVNsRDNtZjlJYWN1a3E?oc=5
-
-PSU stocks today, October 21: NTPC Green falls 3%, Engineers India down 2.89%, IREDA declines 2.43% Business Upturn
 
 ### 35. Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes - Traders Union
 
@@ -476,17 +476,7 @@ Stocks Fall as AI Worries Trigger Treasury Gains Yahoo Finance
 
 Nifty 50 falls 1.11% in India as broad indices come under pressure Traders Union
 
-### 48. 3 AI Stocks to Buy Amid This Deep Correction - The Globe and Mail
-
-- Source: The Globe and Mail
-- Published: 2026-10-20T14:13:57+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHlsQ0lTQzQwaXN1OWpxY0UtLXFPUlRiQ2hjZ0RabWhGRjFwcUlpclBjSEpZRjJvLXp1bEY0UjViZXhUMkdkQzE5OU5nYVhEXzFWR0thUFJIenRfaS1sMUpjYXZUem56bkRWa3I2WldsTjVZLU9HbEt3LVJ4UXJMdW9mSEJaUzZOUVB1S05oSF9rUGpqalNmaFVGRXYxdG50eTctUk5sd3VJTWVDTldvNnpSRk93czR2UFd4NUVIQ0hISHZKU1pucw?oc=5
-
-3 AI Stocks to Buy Amid This Deep Correction The Globe and Mail
-
-### 49. Global AI Selloff Hurts Crypto Market Sentiment - RTTNews
+### 48. Global AI Selloff Hurts Crypto Market Sentiment - RTTNews
 
 - Source: RTTNews
 - Published: 2026-10-20T14:12:00+00:00
@@ -496,7 +486,7 @@ Nifty 50 falls 1.11% in India as broad indices come under pressure Traders Union
 
 Global AI Selloff Hurts Crypto Market Sentiment RTTNews
 
-### 50. 3 AI Stocks to Buy Amid This Deep Correction - Yahoo Finance
+### 49. 3 AI Stocks to Buy Amid This Deep Correction - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-20T14:05:00+00:00
@@ -505,6 +495,16 @@ Global AI Selloff Hurts Crypto Market Sentiment RTTNews
 - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjBJRjFfVzE1U2VQMzBvX1JxVFlob0dtdXNoZDdsSzhwTG9WRUZtWXZrRFFGcFlkdTN0WTlxZUdoeFUzOGt4UWo4WmJMVlk1Tnl3SG01MzIyRkdrLUtrWjdtMW5mdW9JVVVHTUxVZXVNV3AzNlNjc2pMOHE1LWVqVEI4YlJ4bVMxYVFFZFlB?oc=5
 
 3 AI Stocks to Buy Amid This Deep Correction Yahoo Finance
+
+### 50. 3 AI Stocks to Buy Amid This Deep Correction - The Globe and Mail
+
+- Source: The Globe and Mail
+- Published: 2026-10-20T14:05:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEwyeHVPTHM2ZEZiVGR4TDdLUWppa2F2ZEF5OWVFUllqTnhxeWQzM2g1RkV0dmNlYTI4NmVlZnA5NG9jOG16aktUdG4zS200QW82dlh1amtXYzAzRENqU2lQREExaUlhWWl6SlgzSTNIYWN0dzY4SWV5M2ttaVBEQnJoU2dNZnpCSUpfcEF1S1RSMFVTbVQ2VTV1M1Vwcmh1ZF8tNzlLOTdWRWFHZUx1RktTV0RMN0xBT05QWW1oXzA?oc=5
+
+3 AI Stocks to Buy Amid This Deep Correction The Globe and Mail
 
 ### 51. The AI Selloff Is Back as Korean IPO Shock Spooks Tech Stocks - Barron's
 
@@ -536,7 +536,17 @@ Raymond James lifts Akamai to Strong Buy after ‘AI Is Dead’ selloff Yahoo Fi
 
 Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC BBN Times
 
-### 54. Neocloud Selloff Hits AI Data-Center Stocks - Briefs Finance
+### 54. Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com - Investing.com Australia
+
+- Source: Investing.com Australia
+- Published: 2026-10-20T12:19:19+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOdTNXb1U1RGVVekNjUFRYdkN1N1FaRG9PYVVieUdEVmg5NEN5VUc1RjZ2cDNFbnp5bkRZRGNSbE9RQ3hmMkg2bzU0VXpfbThNakU4YVp3WlFXWU5ETGVTU3ZXVUtrSFJVMjFpZng2eThDZzdKX0hRWFJnQ0x0SkJBTlZCWnNUOE9JSGZ2Y1RSM0lyOVZKOXhrTXJ0U01yX1RzemJRdlY0ZDdaazJZRUJvZnA2ejI5MFZySEk3TnpSSHVvdm9USUtZ?oc=5
+
+Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com Investing.com Australia
+
+### 55. Neocloud Selloff Hits AI Data-Center Stocks - Briefs Finance
 
 - Source: Briefs Finance
 - Published: 2026-10-20T12:15:05+00:00
@@ -546,7 +556,7 @@ Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits 
 
 Neocloud Selloff Hits AI Data-Center Stocks Briefs Finance
 
-### 55. Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff - CryptoSlate
+### 56. Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff - CryptoSlate
 
 - Source: CryptoSlate
 - Published: 2026-10-20T11:50:45+00:00
@@ -556,7 +566,7 @@ Neocloud Selloff Hits AI Data-Center Stocks Briefs Finance
 
 Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff CryptoSlate
 
-### 56. Jim Cramer compared the AI stock sell-off to the 1987 Black Monday crash - Quartz
+### 57. Jim Cramer compared the AI stock sell-off to the 1987 Black Monday crash - Quartz
 
 - Source: Quartz
 - Published: 2026-10-20T11:23:42+00:00
@@ -566,7 +576,7 @@ Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff Crypt
 
 Jim Cramer compared the AI stock sell-off to the 1987 Black Monday crash Quartz
 
-### 57. ATX loses 80 points at midday as AT&S leads tech selloff - ad-hoc-news.de
+### 58. ATX loses 80 points at midday as AT&S leads tech selloff - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-20T11:06:48+00:00
@@ -576,7 +586,7 @@ Jim Cramer compared the AI stock sell-off to the 1987 Black Monday crash Quartz
 
 ATX loses 80 points at midday as AT&S leads tech selloff ad-hoc-news.de
 
-### 58. Live Updates: Market Jitters Persist as the AI Selloff Deepens - Moomoo
+### 59. Live Updates: Market Jitters Persist as the AI Selloff Deepens - Moomoo
 
 - Source: Moomoo
 - Published: 2026-10-20T10:36:39+00:00
@@ -586,7 +596,7 @@ ATX loses 80 points at midday as AT&S leads tech selloff ad-hoc-news.de
 
 Live Updates: Market Jitters Persist as the AI Selloff Deepens Moomoo
 
-### 59. Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? - Invezz
+### 60. Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? - Invezz
 
 - Source: Invezz
 - Published: 2026-10-20T10:16:03+00:00
@@ -596,7 +606,7 @@ Live Updates: Market Jitters Persist as the AI Selloff Deepens Moomoo
 
 Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? Invezz
 
-### 60. Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? - TradingView
+### 61. Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? - TradingView
 
 - Source: TradingView
 - Published: 2026-10-20T10:13:23+00:00
@@ -606,7 +616,7 @@ Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight?
 
 Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? TradingView
 
-### 61. South Korea’s finance chief bets chip boom outlasts selloff - TheStreet
+### 62. South Korea’s finance chief bets chip boom outlasts selloff - TheStreet
 
 - Source: TheStreet
 - Published: 2026-10-20T10:03:00+00:00
@@ -616,7 +626,7 @@ Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight?
 
 South Korea’s finance chief bets chip boom outlasts selloff TheStreet
 
-### 62. Sparc AI Faces Mounting Selling Pressure Amid Negative Investor Sentiment and Correction Risk - kalkine.ca
+### 63. Sparc AI Faces Mounting Selling Pressure Amid Negative Investor Sentiment and Correction Risk - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-10-20T09:38:00+00:00
@@ -626,7 +636,7 @@ South Korea’s finance chief bets chip boom outlasts selloff TheStreet
 
 Sparc AI Faces Mounting Selling Pressure Amid Negative Investor Sentiment and Correction Risk kalkine.ca
 
-### 63. Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What’s driving AI rout? - Livemint
+### 64. Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What’s driving AI rout? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-20T09:23:11+00:00
@@ -636,7 +646,7 @@ Sparc AI Faces Mounting Selling Pressure Amid Negative Investor Sentiment and Co
 
 Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What’s driving AI rout? Livemint
 
-### 64. Raymond James upgrades Akamai stock on AI opportunity after selloff - Investing.com
+### 65. Raymond James upgrades Akamai stock on AI opportunity after selloff - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-20T08:46:58+00:00
@@ -646,17 +656,17 @@ Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% f
 
 Raymond James upgrades Akamai stock on AI opportunity after selloff Investing.com
 
-### 65. Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? - Invezz
+### 66. Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? - Invezz
 
 - Source: Invezz
-- Published: 2026-10-20T07:36:55+00:00
+- Published: 2026-10-20T07:44:56+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxONWc4LVlpWFlINWtDcEhxdzR5M2hvby1lcWF3cnhTLXNacHkzQ3gyYzVEVFNRdUxQZWZ1TlBUN2trUDZJdkc3bGdTS0FwamY3M0pLWUh1cEo0cUo1SFJTVzlDSUhwS1NDTjZLcFpjdnRPenRYWm11aUNyd0ZFSV80dmROS1RKeG1mNUR3dVpremtkdmNZbGF3bWJKVUlqdUZ1S2ZGR2Zvb09aVC16NzZ4MWJkU2ZxMmJhREE?oc=5
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVRKeF9KeHNxaXZnWEo1MFhlTzZhZElRRHpoLXhPVHNlTF9uckJyX1hNMlplcW1WMXVDWHFUa3JXNkdzN0E5aUNfU1hzTkIyNElzQWxXcjR3bjV0eDgyZUZ6V3ZseUptSVdvV1NIcWM0YlBqcGtSOUNXbXRkNmJiaXJKb0ExWGo3OU9HTkJjZmViVVgwa3FQbVVmTkVHNTZWOEdFZ2plTTFLdjBwWmg3V2NiaW43R3BPVGc?oc=5
 
 Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? Invezz
 
-### 66. Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Check others - CNBC TV18
+### 67. Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Check others - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-21T04:43:43+00:00
@@ -666,7 +676,7 @@ Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still sellin
 
 Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Check others CNBC TV18
 
-### 67. Nifty 50 Falls at Open as Indian Stocks Edge Lower - Business Upturn
+### 68. Nifty 50 Falls at Open as Indian Stocks Edge Lower - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-21T03:41:05+00:00
@@ -676,7 +686,7 @@ Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Chec
 
 Nifty 50 Falls at Open as Indian Stocks Edge Lower Business Upturn
 
-### 68. BSE SENSEX Closed for Dussehra: Index Holds at 73,852.90 After Monday's 876-Point Fall - BBN Times
+### 69. BSE SENSEX Closed for Dussehra: Index Holds at 73,852.90 After Monday's 876-Point Fall - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-20T20:42:08+00:00
@@ -686,7 +696,7 @@ Nifty 50 Falls at Open as Indian Stocks Edge Lower Business Upturn
 
 BSE SENSEX Closed for Dussehra: Index Holds at 73,852.90 After Monday's 876-Point Fall BBN Times
 
-### 69. BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War - BBN Times
+### 70. BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-20T10:40:23+00:00
@@ -696,7 +706,7 @@ BSE SENSEX Closed for Dussehra: Index Holds at 73,852.90 After Monday's 876-Poin
 
 BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War BBN Times
 
-### 70. Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic - Rediff
+### 71. Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic - Rediff
 
 - Source: Rediff
 - Published: 2026-10-21T04:33:39+00:00
@@ -706,7 +716,7 @@ BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent H
 
 Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic Rediff
 
-### 71. Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? - NDTV Profit
+### 72. Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-21T05:14:31+00:00
@@ -716,7 +726,7 @@ Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic Redif
 
 Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? NDTV Profit
 
-### 72. India’s 1 Finance wins approval for first Mutual Funds Lite manager - Asia Asset Management
+### 73. India’s 1 Finance wins approval for first Mutual Funds Lite manager - Asia Asset Management
 
 - Source: Asia Asset Management
 - Published: 2026-10-20T16:16:37+00:00
@@ -726,7 +736,7 @@ Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered H
 
 India’s 1 Finance wins approval for first Mutual Funds Lite manager Asia Asset Management
 
-### 73. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
+### 74. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-20T14:51:59+00:00
@@ -736,7 +746,7 @@ India’s 1 Finance wins approval for first Mutual Funds Lite manager Asia Asset
 
 Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News
 
-### 74. Latest AMFI Data: How Are Mutual Fund Investors Investing? - The Financial Express
+### 75. Latest AMFI Data: How Are Mutual Fund Investors Investing? - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-10-20T14:16:03+00:00
@@ -746,7 +756,7 @@ Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New E
 
 Latest AMFI Data: How Are Mutual Fund Investors Investing? The Financial Express
 
-### 75. Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News
+### 76. Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News
 
 - Source: DD News
 - Published: 2026-10-20T11:56:00+00:00
@@ -756,7 +766,7 @@ Latest AMFI Data: How Are Mutual Fund Investors Investing? The Financial Express
 
 Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI DD News
 
-### 76. Rs 1 crore in mutual funds? Here's how much can you withdraw every month without running out of money - India TV News
+### 77. Rs 1 crore in mutual funds? Here's how much can you withdraw every month without running out of money - India TV News
 
 - Source: India TV News
 - Published: 2026-10-20T09:59:09+00:00
@@ -766,17 +776,17 @@ Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 
 
 Rs 1 crore in mutual funds? Here's how much can you withdraw every month without running out of money India TV News
 
-### 77. Why are FIIs selling Indian stocks in 2026? Rs 3 lakh crore outflow amid crude oil surge, rising US bond yields and weak Rupee - ET Now
+### 78. Mutual funds got nearly 34% of Jio Platforms IPO anchor book allocation: Which schemes will own Jio shares? Expert views - Livemint
 
-- Source: ET Now
-- Published: 2026-10-20T07:17:18+00:00
-- Themes: macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmb9IB4wFBVV95cUxQWkVOdDc5MmRRMk1mRmR5Z1BqTnpQTFlmRmJ5NEZHRGZkWXdLeW5PMmFxd1B3ODZKbE85N21DT0Z6d1VLdGlMYWxZWmswSTJFN2l5QXAzMWFIUV81SDRNRGRhcnA0MVJSc3ZOS1dzaFU2TVEyU0VtMlZzOWNSZUk1SEVuWTJWX2NsakRtSHo5Si1mU0tsS2NzNmVYdUg3V1g3SENGY2pNcElrVGVRelc3UU1sWDFNaFY0bzBmRmxqY3FycU9jNGRMajhyY3ZkVnM3d0NVVE00Wmt6bi04VTdOeTBmbw?oc=5
+- Source: Livemint
+- Published: 2026-10-21T07:14:36+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxQOUdnczJ0aXV0ZGd2dXpFZVh4UXJUN3lUYmxfYzNtdG9OQjY1RS1ycm5tOVR2VFM1eHhxaFppY25sNEdTT01PbENvTFdZVHd1TUprWlktS2ROUmV2Nl8xQmZ5NFhJbWgwbVZUa3hLOERjNEdaVDYtU2pZQ1FSRWNfaU5IRWp6WFhGQ3dOSl9CaFRQZUlIMEJrTHZueWpSd2huREF4aFVkRnhUVnZfZ1hTUDhKSjFlQnB1UEVvSlBNQmxlQmg4LUxadTBxUDBGcXpXaW10bkU3c2FxNFowVnVFOW9fel9BNmpDZ1hBTWYyZS1USU9kTHR4VFFKNV81VEM0bXJRLXFRRXJwd1U2dXIzVTZFTdIBmAJBVV95cUxQSEcxVk1EU0U4VlYzUk1tVTlDbjdDaXdiUHY2cjVSNXh4dzh6b3huUE5MQlYxdU10TUtDMU5FUVFodjZESk4zZGN3OHpfRXdKbmJWVEpOZXhMUmlTOElxYUtjOUw4ek1BcG11cFpUeDBQNEl0VlhnRGpMU3RNOVRKNWRPbFp5WjlaTDJFRFBrLWlOZFJ5aGxXVWZVQlZjOEh4am5ySExSQl9DeW5QOVpBcUt2OXF6NzU0WTBQeS1YTkVUY3EzVk9NTFhaSWFjd1ljb3NzbE1fWm0xUkdrSWhXQ1Jac1pxT20tMzgzTDNnV0dLalFybnpmekhDeGJUV1N1eHdERnpXVkNZeExtc1hxOGJTZ3NMdnB1?oc=5
 
-Why are FIIs selling Indian stocks in 2026? Rs 3 lakh crore outflow amid crude oil surge, rising US bond yields and weak Rupee ET Now
+Mutual funds got nearly 34% of Jio Platforms IPO anchor book allocation: Which schemes will own Jio shares? Expert views Livemint
 
-### 78. More than 3,000 mutual funds invest in BSE stocks as exchange enters 6th year of operation: chairman - Global Times
+### 79. More than 3,000 mutual funds invest in BSE stocks as exchange enters 6th year of operation: chairman - Global Times
 
 - Source: Global Times
 - Published: 2026-10-21T06:34:00+00:00
@@ -786,7 +796,7 @@ Why are FIIs selling Indian stocks in 2026? Rs 3 lakh crore outflow amid crude o
 
 More than 3,000 mutual funds invest in BSE stocks as exchange enters 6th year of operation: chairman Global Times
 
-### 79. PL Capital: Oil Above $100, Rising Bond Yields, Dollar Above 100 and Record Foreign Selling Test Indian Equities as Domestic Investors Step In - Investment Guru
+### 80. PL Capital: Oil Above $100, Rising Bond Yields, Dollar Above 100 and Record Foreign Selling Test Indian Equities as Domestic Investors Step In - Investment Guru
 
 - Source: Investment Guru
 - Published: 2026-10-21T06:15:04+00:00
@@ -795,13 +805,3 @@ More than 3,000 mutual funds invest in BSE stocks as exchange enters 6th year of
 - Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxQd1BBWGM5WHFXUTctbWNnVGYzOFBSY0dlckZaXzJOTlM1NTRFcVNOYUNmTVd1WWx2M2tlcnJlZVdSYjRreGR2eFRwRXBabV9GVDQwUUFrVHBvUnoybGs0d3pZU0pBUjkwNGo0dnNCZHRBN3RSa3Nyc2gyRDdGSllkLWh0X1doUkJPdDlibTNhQ0Z4SXJFcFdRWlc4c3hqcG84RTdCUFkxQmJnSmJoVGtDQ2J5OTJYRTRvTlJSYWJJSFgwZzh1alplbXB4MHAtTnZ6enRCaV9JM2NpVEl0ZmY5a0pFb3hnY1oya0tTYjRxQmc3V1Z4TE51WTg3c1o4d3JWUExsSFg2cEE2S1YyMjF4amFFb1lOdw?oc=5
 
 PL Capital: Oil Above $100, Rising Bond Yields, Dollar Above 100 and Record Foreign Selling Test Indian Equities as Domestic Investors Step In Investment Guru
-
-### 80. Metal sector stocks today, October 21: Vedanta Oil falls 2.92%, NALCO down 1.81%, Welspun Corp declines 1.21% - Business Upturn
-
-- Source: Business Upturn
-- Published: 2026-10-21T05:06:20+00:00
-- Themes: market selling, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQbUJXcjl6RmlRSXZCQmY5Tm1QSDdfQzBEeHMtMFN2dWVJdUV5RGk2RHhCX1Y4anJPenNJOWJJOS1kbk04WDB4MzZ5ZGI4bmFqMjdocXBsSm94MXB6Q091Y0s5c1BFRnRONGhYZUQ3bkxjUVZobFlqNXBWQUJNeWw1OXIzcG5lY3IxYjh1NWF3MlBfaUdDMFlXNWpRUGI3OXJvRDB4Nmp4YXY0RFVqdzgzWDZqUDFUbWx4YzU5dzB0NUxQZEVNdWtOS1JldEI5UWtuUGJZM0E3a2dUdnZuVUhpREFoRUkxdGhVMmhV?oc=5
-
-Metal sector stocks today, October 21: Vedanta Oil falls 2.92%, NALCO down 1.81%, Welspun Corp declines 1.21% Business Upturn
