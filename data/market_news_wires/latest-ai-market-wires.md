@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-21 07:37
+Generated: 2026-10-21 08:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -12,7 +12,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 - Published: 2026-10-21T05:46:19+00:00
 - Themes: AI / tech risk, market selling, India market
 - Score: 12
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGY5b0tSRXl4LXFqV3hfVDlSNmZTbS1tYjg5VG5fdmI2SGp2WXFWd1JfT1JWMUdacXNRdU1INTdTZGppM0xCS2stZ2dIZndfRVdzNXBMbkR6bU5jaGNJZ3NEeDhvbmhJSjVQd1Njck9PcWFQMjRyb2dtYlFKR2xqQ0xuSklVa2gtOGJMUVJIQV9VNE40eHBsd2Zta0VrMnlyVzZSVXlPT3JmRXdJX0xKcDJyNDh3d9IBuwFBVV95cUxQX1RZeUVxbmVwX1piZWNaNzVaRkVUaUlIZEYtX3N3VHptOTBhZUtQZk5NWVN3MFdYbFR4QlZPdkRPd3pwOXFKb1ZlTWFoRmZ0TGRFZXhXZlhOMEg3aFRzNTR3djYzZlpSamJac2FvblhpYXluVDUybFEwM1N2ZmMxMlc2OER6aUhOUklyZG54cUxzOUZDZ1pQYmxpWUdiU3haN1E0cDFRQkZkZ1JaN1NZVDJrZ2JsVjdfX1Jv?oc=5
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxOeFpfNVJVZ2hFY3VtWGpSd0l5aE9HRU5OVm8ybUJPWUZuV1kyV2NPTmFhLWoxZ29pSk9GMERXU3FFQms0M2RGZmpRVFpteUR5d1ZTT3h2NXFBcWpmZGRxb25lVE9TZU5NZDF0dnVxcWhPZWJMQzc5WTJOejlPWVpSRlg1R1gtODNGLThyVkJ4enQxZXllRHpnNmFGenJfdUFhSjMxbjQ4Q19wRHV6bERkS3BsdlpJZ9IBuwFBVV95cUxQX1RZeUVxbmVwX1piZWNaNzVaRkVUaUlIZEYtX3N3VHptOTBhZUtQZk5NWVN3MFdYbFR4QlZPdkRPd3pwOXFKb1ZlTWFoRmZ0TGRFZXhXZlhOMEg3aFRzNTR3djYzZlpSamJac2FvblhpYXluVDUybFEwM1N2ZmMxMlc2OER6aUhOUklyZG54cUxzOUZDZ1pQYmxpWUdiU3haN1E0cDFRQkZkZ1JaN1NZVDJrZ2JsVjdfX1Jv?oc=5
 
 IMF Warns AI Market Correction Could Hit India Business Today
 
@@ -346,7 +346,17 @@ AI stocks fall 16% in a week: what analysts say about the bubble Around Prague
 
 Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline Moneycontrol.com
 
-### 35. Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes - Traders Union
+### 35. PSU stocks today, October 21: NTPC Green falls 3%, Engineers India down 2.89%, IREDA declines 2.43% - Business Upturn
+
+- Source: Business Upturn
+- Published: 2026-10-21T04:51:11+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxNcjBWWXRkWGJtSEd5Sy1jc1laZW5rZWVLOGNzLWxPYXppQTFkdkp3dkdEVXk5MHZIblFJRjhOdWpzakhLUGVONE1SZ1FHRXNIYlBKXzU4Undpd3Q3TmhvUEZTV0pnMzVpSEp4clBlejNLUWpZbHFEZEZjeXhxSDY2NG5DN0hvdEQ1eWdjQ2RLMHdLYlM0Sm1FUXU3UmRmQVVtWDloQUxlSDZ0MWJyS09lVVc2NzZ0dEJuTDhyaFBZZ0NTSHdrSlZrRXJjZVNsRDNtZjlJYWN1a3E?oc=5
+
+PSU stocks today, October 21: NTPC Green falls 3%, Engineers India down 2.89%, IREDA declines 2.43% Business Upturn
+
+### 36. Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-21T02:40:23+00:00
@@ -356,7 +366,7 @@ Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind mar
 
 Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes Traders Union
 
-### 36. Tax relief, global AI correction alone may not revive Indian stocks - Moneycontrol.com
+### 37. Tax relief, global AI correction alone may not revive Indian stocks - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-21T01:04:20+00:00
@@ -366,7 +376,7 @@ Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes Trader
 
 Tax relief, global AI correction alone may not revive Indian stocks Moneycontrol.com
 
-### 37. The Semiconductor Selloff May Be About To Accelerate - Mott Capital Management
+### 38. The Semiconductor Selloff May Be About To Accelerate - Mott Capital Management
 
 - Source: Mott Capital Management
 - Published: 2026-10-20T22:08:55+00:00
@@ -376,7 +386,7 @@ Tax relief, global AI correction alone may not revive Indian stocks Moneycontrol
 
 The Semiconductor Selloff May Be About To Accelerate Mott Capital Management
 
-### 38. U.S. Blue Chips Rise, Chip Stocks Fall; Brent Touches $112 Intraday - Seoul Economic Daily
+### 39. U.S. Blue Chips Rise, Chip Stocks Fall; Brent Touches $112 Intraday - Seoul Economic Daily
 
 - Source: Seoul Economic Daily
 - Published: 2026-10-20T20:55:02+00:00
@@ -385,16 +395,6 @@ The Semiconductor Selloff May Be About To Accelerate Mott Capital Management
 - Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxNLVAwZ3d6Ti1rLVl3STF0RjRjazk5ZmVXZDBzWjYtaGxxTkphVFU4WFdXNzA3U0dkM29mVFlyLU95VDdmM28yZ2pubDY5dXJTMDFaZzMyY1NOblY5ZDZnYnM2TXBJTmRYanZkM2dBT2lGNkxRYjA1LXEwLVVYQnlORXcwZ2tiTWUxU3pJRnJHZk56YlVpc3JEQ2w2VzJpTm9sZUlr?oc=5
 
 U.S. Blue Chips Rise, Chip Stocks Fall; Brent Touches $112 Intraday Seoul Economic Daily
-
-### 39. Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com - Investing.com South Africa
-
-- Source: Investing.com South Africa
-- Published: 2026-10-20T19:47:04+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxPamxXamNGalRlV2JJeW1VUHpfUVN3d3ZHVFVXeXJYeU4tcXd5dnhTSmFIVUVIZkNmVDZPVHZWZ0MteHBYb2EzLTZpdFkwQTI1VnhBNmxMMFZzUnAwMlhIeENaaFFHMEZtQnZ5STZITFoycHQxTGsxRjBFc2xROF9hWnROX3lnSUZjUzBHUTA3c3hYM1dNWGJmYlUxdDZudVI2UlRPaGVOOThGN1pTaDNrU0pxZkVaMGVTQWxGNlUtdGZya3djZXA0?oc=5
-
-Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com Investing.com South Africa
 
 ### 40. CoreWeave Stocks Fall 5.8% as HSBC Keeps Its Bearish AI Cloud Stance - TradingView
 
@@ -476,7 +476,17 @@ Stocks Fall as AI Worries Trigger Treasury Gains Yahoo Finance
 
 Nifty 50 falls 1.11% in India as broad indices come under pressure Traders Union
 
-### 48. Global AI Selloff Hurts Crypto Market Sentiment - RTTNews
+### 48. 3 AI Stocks to Buy Amid This Deep Correction - The Globe and Mail
+
+- Source: The Globe and Mail
+- Published: 2026-10-20T14:13:57+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHlsQ0lTQzQwaXN1OWpxY0UtLXFPUlRiQ2hjZ0RabWhGRjFwcUlpclBjSEpZRjJvLXp1bEY0UjViZXhUMkdkQzE5OU5nYVhEXzFWR0thUFJIenRfaS1sMUpjYXZUem56bkRWa3I2WldsTjVZLU9HbEt3LVJ4UXJMdW9mSEJaUzZOUVB1S05oSF9rUGpqalNmaFVGRXYxdG50eTctUk5sd3VJTWVDTldvNnpSRk93czR2UFd4NUVIQ0hISHZKU1pucw?oc=5
+
+3 AI Stocks to Buy Amid This Deep Correction The Globe and Mail
+
+### 49. Global AI Selloff Hurts Crypto Market Sentiment - RTTNews
 
 - Source: RTTNews
 - Published: 2026-10-20T14:12:00+00:00
@@ -486,7 +496,7 @@ Nifty 50 falls 1.11% in India as broad indices come under pressure Traders Union
 
 Global AI Selloff Hurts Crypto Market Sentiment RTTNews
 
-### 49. 3 AI Stocks to Buy Amid This Deep Correction - Yahoo Finance
+### 50. 3 AI Stocks to Buy Amid This Deep Correction - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-20T14:05:00+00:00
@@ -495,16 +505,6 @@ Global AI Selloff Hurts Crypto Market Sentiment RTTNews
 - Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjBJRjFfVzE1U2VQMzBvX1JxVFlob0dtdXNoZDdsSzhwTG9WRUZtWXZrRFFGcFlkdTN0WTlxZUdoeFUzOGt4UWo4WmJMVlk1Tnl3SG01MzIyRkdrLUtrWjdtMW5mdW9JVVVHTUxVZXVNV3AzNlNjc2pMOHE1LWVqVEI4YlJ4bVMxYVFFZFlB?oc=5
 
 3 AI Stocks to Buy Amid This Deep Correction Yahoo Finance
-
-### 50. 3 AI Stocks to Buy Amid This Deep Correction - The Globe and Mail
-
-- Source: The Globe and Mail
-- Published: 2026-10-20T14:05:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEwyeHVPTHM2ZEZiVGR4TDdLUWppa2F2ZEF5OWVFUllqTnhxeWQzM2g1RkV0dmNlYTI4NmVlZnA5NG9jOG16aktUdG4zS200QW82dlh1amtXYzAzRENqU2lQREExaUlhWWl6SlgzSTNIYWN0dzY4SWV5M2ttaVBEQnJoU2dNZnpCSUpfcEF1S1RSMFVTbVQ2VTV1M1Vwcmh1ZF8tNzlLOTdWRWFHZUx1RktTV0RMN0xBT05QWW1oXzA?oc=5
-
-3 AI Stocks to Buy Amid This Deep Correction The Globe and Mail
 
 ### 51. The AI Selloff Is Back as Korean IPO Shock Spooks Tech Stocks - Barron's
 
@@ -636,7 +636,17 @@ South Korea’s finance chief bets chip boom outlasts selloff TheStreet
 
 Sparc AI Faces Mounting Selling Pressure Amid Negative Investor Sentiment and Correction Risk kalkine.ca
 
-### 64. Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What’s driving AI rout? - Livemint
+### 64. Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? - Invezz
+
+- Source: Invezz
+- Published: 2026-10-20T09:34:02+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQdTdlczdxWUxqX2FFS3BUQWFmbm5lNkZTVEhBbzBfZVRJQWV0NzlLY28tNjd5VnU2cUl1MC1UbThzWWJZU016QXBHVldPbmNMeS1VNEdiS3dlY0tHazFQYjVyX2t2RzR3dmlPM09nOHU2QlNXZzNyTE1IdTlia25mVnRmTjd1T1ZwRDVPazhRSW5rS0VqemhaRkZud3VlZkItNmtnTGdSM0djNUNEc0NPMFB3OHZTVWNTY2c?oc=5
+
+Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? Invezz
+
+### 65. Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What’s driving AI rout? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-20T09:23:11+00:00
@@ -646,7 +656,7 @@ Sparc AI Faces Mounting Selling Pressure Amid Negative Investor Sentiment and Co
 
 Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% from record high- What’s driving AI rout? Livemint
 
-### 65. Raymond James upgrades Akamai stock on AI opportunity after selloff - Investing.com
+### 66. Raymond James upgrades Akamai stock on AI opportunity after selloff - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-20T08:46:58+00:00
@@ -655,16 +665,6 @@ Crash! KOSPI in free fall? South Korea stock market down another 5%, tanks 40% f
 - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxOUXcwWFMwSjRUeGlodnRXZ18wLU9vdDN1dmVTczd5bnJtNUc0Zk13b2JwLVktWEtpei1EQ0dVNEFNWG9jdHNkanVQWXQzMkRJbVluTFBCZ01JdGoxLUp3TXhDNWdPalNxalY4b3dhbWRha1hLa0RZbDlvdzBVYU1Sc0l3VlUtWVhVTzVmR19MaU9uekZicUFaeGdRZXlyellfVFBTTEFBdGNqc0tUc3MyMUJsenBUcE9LMFlpZF9tcW1sZjRBVWc?oc=5
 
 Raymond James upgrades Akamai stock on AI opportunity after selloff Investing.com
-
-### 66. Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? - Invezz
-
-- Source: Invezz
-- Published: 2026-10-20T07:44:56+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQYVRKeF9KeHNxaXZnWEo1MFhlTzZhZElRRHpoLXhPVHNlTF9uckJyX1hNMlplcW1WMXVDWHFUa3JXNkdzN0E5aUNfU1hzTkIyNElzQWxXcjR3bjV0eDgyZUZ6V3ZseUptSVdvV1NIcWM0YlBqcGtSOUNXbXRkNmJiaXJKb0ExWGo3OU9HTkJjZmViVVgwa3FQbVVmTkVHNTZWOEdFZ2plTTFLdjBwWmg3V2NiaW43R3BPVGc?oc=5
-
-Samsung, SK Hynix stocks fall as US chip shares rally: why Korea is still selling? Invezz
 
 ### 67. Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Check others - CNBC TV18
 
@@ -716,7 +716,17 @@ BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent H
 
 Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic Rediff
 
-### 72. Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? - NDTV Profit
+### 72. Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-21T07:03:55+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxNUjRrcGNMSXdnTEtTYjZDNnQzM1Rnbm1mUjlWVUd3bWszd0xUc2NlRmNZS0ZIQWtpRTNUM3ExU0xQbnl5VFN5UmFRUVMzWHdfd2QtdHIwamxRVUIxN0NiRThoM0JlRVVha1BQWjBHYm02aVN3R0JZQV9qb0VWVF8yTWJfYXY1QmxfS2tmUElWdFVuZTh2VXhhUVRSdUFGcm1LV2dDQlgwVDJrbkRSTTRWVEwyQ2JnUFp6YzZMOXozUnhQMEtwRGdsY25sSXhBMUl1Y2dUNG04Zm9rSlRwUGFUR2pkTUsxLUVuQ2F1b2d5c0V4Q1pJWWZXdlRKTmpfbERDckpkcnJWTWhfZlk?oc=5
+
+Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? The Economic Times
+
+### 73. Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-21T05:14:31+00:00
@@ -726,7 +736,7 @@ Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic Redif
 
 Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? NDTV Profit
 
-### 73. India’s 1 Finance wins approval for first Mutual Funds Lite manager - Asia Asset Management
+### 74. India’s 1 Finance wins approval for first Mutual Funds Lite manager - Asia Asset Management
 
 - Source: Asia Asset Management
 - Published: 2026-10-20T16:16:37+00:00
@@ -736,7 +746,7 @@ Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered H
 
 India’s 1 Finance wins approval for first Mutual Funds Lite manager Asia Asset Management
 
-### 74. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
+### 75. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-20T14:51:59+00:00
@@ -746,7 +756,7 @@ India’s 1 Finance wins approval for first Mutual Funds Lite manager Asia Asset
 
 Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News
 
-### 75. Latest AMFI Data: How Are Mutual Fund Investors Investing? - The Financial Express
+### 76. Latest AMFI Data: How Are Mutual Fund Investors Investing? - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-10-20T14:16:03+00:00
@@ -756,7 +766,7 @@ Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New E
 
 Latest AMFI Data: How Are Mutual Fund Investors Investing? The Financial Express
 
-### 76. Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News
+### 77. Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News
 
 - Source: DD News
 - Published: 2026-10-20T11:56:00+00:00
@@ -766,7 +776,7 @@ Latest AMFI Data: How Are Mutual Fund Investors Investing? The Financial Express
 
 Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI DD News
 
-### 77. Rs 1 crore in mutual funds? Here's how much can you withdraw every month without running out of money - India TV News
+### 78. Rs 1 crore in mutual funds? Here's how much can you withdraw every month without running out of money - India TV News
 
 - Source: India TV News
 - Published: 2026-10-20T09:59:09+00:00
@@ -776,7 +786,7 @@ Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 
 
 Rs 1 crore in mutual funds? Here's how much can you withdraw every month without running out of money India TV News
 
-### 78. Mutual funds got nearly 34% of Jio Platforms IPO anchor book allocation: Which schemes will own Jio shares? Expert views - Livemint
+### 79. Mutual funds got nearly 34% of Jio Platforms IPO anchor book allocation: Which schemes will own Jio shares? Expert views - Livemint
 
 - Source: Livemint
 - Published: 2026-10-21T07:14:36+00:00
@@ -786,7 +796,7 @@ Rs 1 crore in mutual funds? Here's how much can you withdraw every month without
 
 Mutual funds got nearly 34% of Jio Platforms IPO anchor book allocation: Which schemes will own Jio shares? Expert views Livemint
 
-### 79. More than 3,000 mutual funds invest in BSE stocks as exchange enters 6th year of operation: chairman - Global Times
+### 80. More than 3,000 mutual funds invest in BSE stocks as exchange enters 6th year of operation: chairman - Global Times
 
 - Source: Global Times
 - Published: 2026-10-21T06:34:00+00:00
@@ -795,13 +805,3 @@ Mutual funds got nearly 34% of Jio Platforms IPO anchor book allocation: Which s
 - Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTE9hVzg4cC1sWEpHVGF3dERoV3ZITHpUYkkySm1NaDNoOUpkZ0VnUlB6MlRSSUtVbjA2SkhVTG1JNmFfRXpKZ0Y5Z1Y4SnZSQi1wR2hibWMzVUZscUxObDN4UXZR?oc=5
 
 More than 3,000 mutual funds invest in BSE stocks as exchange enters 6th year of operation: chairman Global Times
-
-### 80. PL Capital: Oil Above $100, Rising Bond Yields, Dollar Above 100 and Record Foreign Selling Test Indian Equities as Domestic Investors Step In - Investment Guru
-
-- Source: Investment Guru
-- Published: 2026-10-21T06:15:04+00:00
-- Themes: macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxQd1BBWGM5WHFXUTctbWNnVGYzOFBSY0dlckZaXzJOTlM1NTRFcVNOYUNmTVd1WWx2M2tlcnJlZVdSYjRreGR2eFRwRXBabV9GVDQwUUFrVHBvUnoybGs0d3pZU0pBUjkwNGo0dnNCZHRBN3RSa3Nyc2gyRDdGSllkLWh0X1doUkJPdDlibTNhQ0Z4SXJFcFdRWlc4c3hqcG84RTdCUFkxQmJnSmJoVGtDQ2J5OTJYRTRvTlJSYWJJSFgwZzh1alplbXB4MHAtTnZ6enRCaV9JM2NpVEl0ZmY5a0pFb3hnY1oya0tTYjRxQmc3V1Z4TE51WTg3c1o4d3JWUExsSFg2cEE2S1YyMjF4amFFb1lOdw?oc=5
-
-PL Capital: Oil Above $100, Rising Bond Yields, Dollar Above 100 and Record Foreign Selling Test Indian Equities as Domestic Investors Step In Investment Guru
