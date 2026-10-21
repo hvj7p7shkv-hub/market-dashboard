@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-21 12:30
+Generated: 2026-10-21 14:42
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -19,7 +19,7 @@ IMF Warns AI Market Correction Could Hit India Business Today
 ### 2. Stock Market Today: Sensex Falls 143 Points, Nifty 50 Slips as Crude Oil Prices Surge - APAC Media
 
 - Source: APAC Media
-- Published: 2026-10-21T11:23:48+00:00
+- Published: 2026-10-21T11:59:48+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxONVhSUTN0UVVBaWp4WFZnTERSQklsV1FTcld3TGpkSWs0cnA5V2ZKdmZTM1ZETXZ2RGFiZGk4TzdJZ1h5dU05MGRmUWxGckhyZU1ZTFF2M05PbjFUMkliQjF4Wk1oVE8yME1yd2xjUmZEUkNBUXBCWjhSRGVydl91bmowSzNLeGs?oc=5
@@ -46,15 +46,15 @@ Sensex Drops 143 Points As Nifty Slips Below 22,900 At Closing, Rising Crude Oil
 
 Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff BBN Times
 
-### 5. Memory chip stocks fall as Seoul selloff raises doubts on AI spending sustainability - Pluang
+### 5. Nifty, Sensex Extend Losses as Crude Tops $110, Small Cap and Microcap fall sharply – Wednesday Closing Report - Moneylife
 
-- Source: Pluang
-- Published: 2026-10-20T13:48:16+00:00
-- Themes: AI / tech risk, market selling
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxObnk1WUhQSUgwa0cyTFJjallIM000UldSalpwTTNkN2hTVzdwTWdaLXpUYkFPdzdmN1ZLdWpXWHlvY1cxeUlMejdiUlpWTzd0UzlfMVhncmxpSnVfVjVXUHdMd2lWWWcwT2wxQWVkMWkzN2xxNTVnWUJvLVByb0l5ckQ1bG13VHdRYjktOFBFck5mblRJUzZUSnFqSVFSeW0xU2JEby00ZWphRmFDOWZqYQ?oc=5
+- Source: Moneylife
+- Published: 2026-10-21T12:30:23+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZHZDMVc3Wk9DakZXdm10QWk3NlNUWDd2TUVaMGtxcXNjUWpzdjQ0QjJPSzJuOGY5RGRFT3RfajZUdWEyX0hfY0daZFlVcTN4OVp4ejJmamhrMVJ6dHM4MVkzRXJaMzE4VFpWVXJVTzlScHNFaWJEYmNhT2dIck5FWHhvMHZQUWN6VGRDdmxONTZuVXF0bk1ESHMxb0UxVGM1VWl3YzhnVzdhUklQUTFKVnowNzNjenBRaTgzb3BzNEFNZ29rRzJIZVFuN0RaT05zOTFtdkY0aWFJVTdlelNidG9Maw?oc=5
 
-Memory chip stocks fall as Seoul selloff raises doubts on AI spending sustainability Pluang
+Nifty, Sensex Extend Losses as Crude Tops $110, Small Cap and Microcap fall sharply – Wednesday Closing Report Moneylife
 
 ### 6. Sensex Slumps Over 900 Points From Day High, Nifty Settles Near 22,800, Know What Triggered The Fall - Outlook Money
 
@@ -92,7 +92,7 @@ Business News | Sensex Falls 143 Points, Nifty Slips 0.34% as Crude Above USD 11
 - Published: 2026-10-21T10:23:33+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPLTAxdnJRaGRYekpzNmhLMDZqd0d1Snpub09UTFlZdk9Ua0lHeE5IY2l0LVlISTIyUnZKNnMzRTZMTm9mOER5eVFKY2Z4eVVtR1R1SXJFRTh0ZVFPV2NsdzYtWTJSZ1NxZ0tTUlJ1Wi1FU0YzOTl1dFBoNnVhZHZRSXdZUHFrUE9sMUtiLU9hLW5fQVAtdkZpdjBTZnhBR05kcXZsM2MwbkFqenlwbUhFb3g3OUpWZW1nY2prR0dfdm56RFY1RWZQQ1dJMjFUeU1RMWdhY3VNM1oyX2UyenfSAd4BQVVfeXFMTy0wMXZyUWhkWHpKczZoSzA2andHdUp6bm9PVExZWXZPVGtJR3hOSGNpdC1ZSEkyMlJ2SjZzM0U2TE5vZjhEeXlRSmNmeHlVbUdUdUlyRUU4dGVRT1djbHc2LVkyUmdTcWdLU1JSdVotRVNGMzk5dXRQaDZ1YWR2UUl3WVBxa1BPbDFLYi1PYS1uX0FQLXZGaXYwU2Z4QUdOZHF2bDNjMG5Banp5cG1IRW94NzlKVmVtZ2Nqa0dHX3ZuekRWNUVmUENXSTIxVHlNUTFnYWN1TTNaMl9lMnp3?oc=5
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOZVlFd2dDeXBJbUxMbnhzdFZFb3IyNXVsVi04bVFIand5bGd2dVJzbC1HNmZqWHFFY3ZvWHRfd2RlbVBaS294UGhhZUFIcThkU0xPTHpHUGJNZEJYbTI5NGZTRU83N0J0bmM0cEpVa3hrUTY0RC1UWEltcEl1SEpkelZaT19hTFh1Qkx4RXprWGpOSjJzVnNrM1FpTEloOWlmTlFRZDJXdjNjU0hjSE1JbDJzU1ZsdnVEVDF5SG5sZG9PQWY2aDBTTEZISTRfTTVQRTRzeWU3Nl_SAd4BQVVfeXFMTy0wMXZyUWhkWHpKczZoSzA2andHdUp6bm9PVExZWXZPVGtJR3hOSGNpdC1ZSEkyMlJ2SjZzM0U2TE5vZjhEeXlRSmNmeHlVbUdUdUlyRUU4dGVRT1djbHc2LVkyUmdTcWdLU1JSdVotRVNGMzk5dXRQaDZ1YWR2UUl3WVBxa1BPbDFLYi1PYS1uX0FQLXZGaXYwU2Z4QUdOZHF2bDNjMG5Banp5cG1IRW94NzlKVmVtZ2Nqa0dHX3ZuekRWNUVmUENXSTIxVHlNUTFnYWN1TTNaMl9lMnp3?oc=5
 
 Sensex falls 143 Points, Nifty slips 0.34% as crude above USD 110 fuels inflation concerns Devdiscourse
 
@@ -196,117 +196,27 @@ US futures dip as AI sell-off returns and oil prices rise sharply Naharnet
 
 Nvidia Stocks Fall Although Germany Opens a New Industrial AI Path Yahoo Finance
 
-### 20. SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases - Yahoo Finance
+### 20. A Data-Center Stock’s 40% Selloff in Australia Sends a Warning to the AI Trade - Barron's
 
-- Source: Yahoo Finance
-- Published: 2026-10-20T13:30:44+00:00
+- Source: Barron's
+- Published: 2026-10-21T14:20:00+00:00
 - Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPUmNJeWEzRmp5QzkyeTJ5SVB4cjZHd2RaSzRtSTJ6SDNkVmJXNmJwUDJMT1pnZVZZQVk4YVBpVWpVUzJuOGxaU3JCTGRrLUJYdU9ZODd2SjZuNHZiWHlLZW1Zak5RVC04VDNTSkQ2dnNNVVVqaV9OQU1sVmIxM05XdU1KaTZnbnJWODhEVlJIWUE?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQTjJWQzdURXhYWUI4WnZiQm9LRGNqamQ3akF6NUh0WENnRmdtVDQ4T0c0QlBvTkhNSHptdHVLMGI4M3lUS3JvaXZZVkplZVlXaEQyeVJ0cDNoUWFxaXQ5SmlTSDMwODJWeDR2YXFQazM5TVNSYmozM2wxdTdLQk4yQXVsUTh3UFFSTVI3bA?oc=5
 
-SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases Yahoo Finance
+A Data-Center Stock’s 40% Selloff in Australia Sends a Warning to the AI Trade Barron's
 
-### 21. SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases - AOL.co.uk
+### 21. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
 
-- Source: AOL.co.uk
-- Published: 2026-10-20T13:30:44+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1vRGIzVHdiSEE0S0stY1l5Rnctc2pHaHhyNUdkZ1NaSmM3cDNvWVlveFVUYTZSRy1nOHUyeUdPMU4yZEUta0VmWHJHX0FpeU1fTVhjVElnQ05DeGw3OFYtVWI2WU5IOGhENTlDNlhUbWEyLS1xLUhz?oc=5
+- Source: Goodreturns
+- Published: 2026-10-21T13:24:18+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5
 
-SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases AOL.co.uk
+Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? Goodreturns
 
-### 22. SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases - 24/7 Wall St.
-
-- Source: 24/7 Wall St.
-- Published: 2026-10-20T13:30:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNcHlHZGJCNmRRWjVDbl9RM2p1RDU5eDNIVU1CenZyVndKMFl5RDdhb0tGTUV5bVc4Wm11cXNZdVUtNkUwcDQ1VHp6bzJzZ0dUbVVKcXR4T2huWVdxTUpMb0xhLU90SXV1V3F6WFl0Z3JmWFpTSlZsZEctZWxXckVtNFEwTVUzTXZqeHpnem9SRVg4alZXRFFTWE15ZURvT2FPTVVUQ295QXRqWVNCQWs3SEhZQ3ZRSWhibWthVGN2MEN5QkRSRlp4YkV4bDM?oc=5
-
-SK Hynix Sinks 4% as Seoul Selloff Revives AI Spending Fears; SanDisk Drops 3%, Micron Eases 24/7 Wall St.
-
-### 23. US futures dip as AI sell-off returns, oil prices rise sharply - ET Enterprise AI
-
-- Source: ET Enterprise AI
-- Published: 2026-10-20T12:50:47+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWkdDbURGWS1SVmJLY2lWU21EeFJQVEl5RGVkWVdWZmtkZk53Mi16R3ZtenJtbTdMRzl0WldRMzhZNldDbEVJMk5YeTY5Qjh5TjQ4XzFxeXpnYkFCVmxraUFTZG1NSHRCejhNcV83NWNKWkctbDh4WTVCTHFpaXV2QUQzbXY1XzNBOWNIdmd6MFRtdS1JVWRKTzhEeXFER01VaHBCUTBmRjVDUzNnZkoxVXN5ZFJOcFQ2V0pmYmZubUx6TTNWakoxeFlKcHNlZ0p00gHWAUFVX3lxTFBTNkgtajRMYXpKOVpHR3lPekF3TmlXdE9MWEdaNEtDUUU0MGtGaUE4YnhCb2sySHVqVDRPeGdQYUhMdjNsVUNjaFR5T2pWR3RxZWUwMDA2T1V5SXdWcWdONnhQVkxyc0tYRzUyUnFJQVg0U2RaeXpHcjNQR0YzRTg4MjlIajNBSU1ZbG1Mb3ZWUHJlc0hFNnJpRktMYjdiX3hJa1VPUGF1UlliMzRCRmJWWGVqZVlVNDN1cmFOSzNQNTEzMEtraVVRZF9rejAwZlc1WnRHamc?oc=5
-
-US futures dip as AI sell-off returns, oil prices rise sharply ET Enterprise AI
-
-### 24. AI Selloff Returns, Oil Tops $110 a Barrel -- Update - marketscreener.com
-
-- Source: marketscreener.com
-- Published: 2026-10-20T12:44:27+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxPcUhXMDJBMW9uY3poOV9aSHU1d2JaQ1FjbHFrcjNoNUZscDgtUTlMTk1tVVl6YTQwNmQtb201TXUtUW05MGljQnd1V2J1T3RaMmRrMFF1TGxUcjBHbUNaNmVIMUMzVHZfVGczTnVfVkUwWVF0T3JCRGJVNUIxODdFNkRocXpOLU5panZyNUtUdG9TZ3RBY3NQZVZ1dENNNUJ5UVE?oc=5
-
-AI Selloff Returns, Oil Tops $110 a Barrel -- Update marketscreener.com
-
-### 25. US futures dip as AI sell-off returns and oil prices rise sharply - Broomfield Enterprise
-
-- Source: Broomfield Enterprise
-- Published: 2026-10-20T12:40:15+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxQTjBKUE1zemZYSzBCMkRFdW1hTlhnZmszWktvV2NCRFVyZ2FMbTdJRGV4Y1RaMU5tSGd3d2hwMHVNODNWNGRJaGY1QWFDUy1yMGlCcm54aThaWGY4MkRNeF9TOVI1N0tDY21FY0pLclA0WDl4MXlxVUNRcHpxQms2VjZKSng5UQ?oc=5
-
-US futures dip as AI sell-off returns and oil prices rise sharply Broomfield Enterprise
-
-### 26. US futures dip as AI sell-off returns and oil prices rise sharply - Daily Democrat
-
-- Source: Daily Democrat
-- Published: 2026-10-20T12:38:03+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE1xNGFaX2dDV1Fxbi0xdWJMZFloTnptLURRQVNyLWFtZnNyN3U5UTRMdlNhcFJ5UnhSVzV2YTFUQTNBWGFkUWxCZERLcVBZVEhGWWpmSkw4eXVzYWxTdkpxeURFdjZya2pkQU5OeERFdjlFdDBFMW1faFo1c3k?oc=5
-
-US futures dip as AI sell-off returns and oil prices rise sharply Daily Democrat
-
-### 27. US futures dip as AI sell-off returns and oil prices rise sharply - Lowell Sun
-
-- Source: Lowell Sun
-- Published: 2026-10-20T12:37:50+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE1MbHk4alM4TWQwTk5wSTdmSTlGTjVyVTRsRUhhcWFrZGFYSENtRE1wWVFtWXpOUi0wZEhlV3ZoeFBOcEVFU3lKRXZlNGpVWmYyRDhtUnJiUTN2eW9maU1YU081aW8tQk82WFZXeUt6OG9MaW0tS3Jv?oc=5
-
-US futures dip as AI sell-off returns and oil prices rise sharply Lowell Sun
-
-### 28. US futures dip as AI sell-off returns and oil prices rise sharply - The Press-Enterprise
-
-- Source: The Press-Enterprise
-- Published: 2026-10-20T12:37:39+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE83dnFfWUpMOFBjMGVMaFJMTGdxWVpVcENldm8tNXlvWVhRUjN6LTNfY0ViQy1XZHJPMlNKZzBoc0dLYTN0UXdfOVRTeUtLWkJLeG5EWFFOSGhMT1B0bkoxV3pTMGw1dExtZVFoSndmT3k5clJNZkxyZ014NGlCQU0?oc=5
-
-US futures dip as AI sell-off returns and oil prices rise sharply The Press-Enterprise
-
-### 29. US futures dip as AI sell-off returns and oil prices rise sharply - Times-Standard
-
-- Source: Times-Standard
-- Published: 2026-10-20T12:37:22+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE9GbW0wRlZPeG9BTHJDUjlyaEVjMGo2Z3d1UUx1RjVTRjFKcXRjci1CTmNEa0NpYkJJdE0yQnVHN1RlTFdkN09QaVAxZlY5aV9xRGpjbWgzdENOZFd0eVlTZ0VnemtvUWFiUUtxelRlRGJ4VGtVZmpDbXRvZWs3UQ?oc=5
-
-US futures dip as AI sell-off returns and oil prices rise sharply Times-Standard
-
-### 30. US futures dip as AI selloff returns, oil prices rise sharply - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-20T12:34:16+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQTkRlRV84clRyMnRnbDVhcTZSbGdnaVVjMExOYmN3U09nMk5VMEFhOTVKN3JQdTNXT1hISTRySW8xU3h3VFNYWm4teUl3MHU2SHp2VTN2WVlaMEFWMm5saDJzY3NSV19FRG5EV0VkS0ZuRThHNXhFQ1draDJWVUJxY0hsM2xkZTF1N0pvYU1ZLXZOcUhXY0h2WTFxUTNwRVBscEhJRDlZR1o5LXU4WXU5YjZWQVRmTWp3OEx2VGhkRmlldmt0dFUxTDVjZ2xoMHh3WlZsc2ZPMGc2X0taaTRhU2FjTjc5bjjSAeABQVVfeXFMT0tjeEJabFRUNG5LN0hmSndjTnE4eGlMZzBZMkZWTE1ES25tRmpHYnkwUzBiS1NHVzJBdGpKMjc3azJ0YmJ0NkJfdGZMVUtDR05IUjF3M2VNU19YVXFIR2NzSTJLOERoZzBiNTNfV19UVG45UEpOVXNTdU9NSk1lUTQzM2JMX0hTUnNOV3J5N3ZoZ2J6cGplcDZIREJvWTB4VmZmUVNVclRJYmp2MVNJajA3X3FPZl8wckQ5Y0lTZlJMYkxjcFRZVUpHWXdlYUZFa1JRWnRaWHdaR0tUZFVGMTI?oc=5
-
-US futures dip as AI selloff returns, oil prices rise sharply The Economic Times
-
-### 31. Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.94% (21 October 2026) - SolarQuarter
+### 22. Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.94% (21 October 2026) - SolarQuarter
 
 - Source: SolarQuarter
 - Published: 2026-10-21T12:19:38+00:00
@@ -316,7 +226,7 @@ US futures dip as AI selloff returns, oil prices rise sharply The Economic Times
 
 Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.94% (21 October 2026) SolarQuarter
 
-### 32. Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close - News Mobile
+### 23. Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close - News Mobile
 
 - Source: News Mobile
 - Published: 2026-10-21T11:40:05+00:00
@@ -326,7 +236,7 @@ Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.9
 
 Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close News Mobile
 
-### 33. Sensex falls 143 points, Nifty slips 0.34% - Rediff
+### 24. Sensex falls 143 points, Nifty slips 0.34% - Rediff
 
 - Source: Rediff
 - Published: 2026-10-21T11:00:54+00:00
@@ -336,7 +246,7 @@ Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close News Mobile
 
 Sensex falls 143 points, Nifty slips 0.34% Rediff
 
-### 34. Share Market Slump Continues: Sensex, Nifty Fall for Second Day, Smallcaps Hit Hardest - Lokmat Times
+### 25. Share Market Slump Continues: Sensex, Nifty Fall for Second Day, Smallcaps Hit Hardest - Lokmat Times
 
 - Source: Lokmat Times
 - Published: 2026-10-21T10:44:58+00:00
@@ -346,17 +256,7 @@ Sensex falls 143 points, Nifty slips 0.34% Rediff
 
 Share Market Slump Continues: Sensex, Nifty Fall for Second Day, Smallcaps Hit Hardest Lokmat Times
 
-### 35. Indian stock market today: Sensex and Nifty fall for second straight session - Telangana Today
-
-- Source: Telangana Today
-- Published: 2026-10-21T10:43:30+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPWTNFMUJiZ1Yta3hDU09iRHk1MFNNNVpUS0pOYzdMc1ZGcjZyU3h6aW5faVlJYlpVa1d2UHdKVXhmaWtXNFBwWlNRaU1HOEJ5dzlGWnZzVGZkNndOc2J1SVo1N2NLTHhGcTlOeFg0M3pVRE1qenZONFRtRjNEVTNONVgtSHdhaXllMUk5TThCQkI2SmR0VzhNRDFmX21zTjE4TjMzYg?oc=5
-
-Indian stock market today: Sensex and Nifty fall for second straight session Telangana Today
-
-### 36. Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally - News18
+### 26. Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally - News18
 
 - Source: News18
 - Published: 2026-10-21T10:42:38+00:00
@@ -366,7 +266,7 @@ Indian stock market today: Sensex and Nifty fall for second straight session Tel
 
 Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally News18
 
-### 37. Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally - News18
+### 27. Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally - News18
 
 - Source: News18
 - Published: 2026-10-21T10:42:38+00:00
@@ -376,17 +276,7 @@ Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; 
 
 Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally News18
 
-### 38. Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.79 lakh crore - Zee Business
-
-- Source: Zee Business
-- Published: 2026-10-21T10:06:07+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQ2k3VVN0b2U5dnBaRE5WcDI0c21iN0lWa1ZXUVYtU0RjekJILXV0N0xOMmR4ZDE4T29ETVdralYxRnVJbGRyNHJScmYyMncxckkyeXZiYkM0Q3hsM2MyZldxbTh3cXoydWZhcjNVQXBjcDdCVmZFSlQyeVUzMFhHTm9aQnJjMGFyWlNaRV93WU5HajBoeHZ1U19ZeEFHUlhYY0x4Y1U0U2NWVHhSajI2dzNDYWg5cGNKYWxxTXB3WE5ra3lYNExqTWlDY1YxX3E5?oc=5
-
-Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.79 lakh crore Zee Business
-
-### 39. Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Selloff? - kalkine.ca
+### 28. Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Selloff? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-10-21T10:03:00+00:00
@@ -396,7 +286,17 @@ Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.
 
 Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Selloff? kalkine.ca
 
-### 40. Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under Pressure - Moneycontrol.com
+### 29. Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.79 lakh crore - Zee Business
+
+- Source: Zee Business
+- Published: 2026-10-21T09:36:00+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPSE56aWxQS2NjMnpJVlJJTkljN2RZd3dIZ3FCMjMyQkFXR1d3RFNCcXpIQV90cFRDVFRrVG5weGJKVmVyZG9xRGVGOVNqSFBRNlVqZVd5S1JzcF9JVWV0MVVBaWFybGIzV2trVjhMemdITFZhSDdIUlNLUk92cE9jWmhLQTdKWUZjc1E4NnhQLS1iSjc3YTFYeENtMzg4cHZjSmlYZEFWNl8ybmlUSnhnOGM1TFIwcl9lT2lraEFvZXlYbDYzTmtILVNuTTJsRHpramN6Y0JR?oc=5
+
+Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.79 lakh crore Zee Business
+
+### 30. Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under Pressure - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-21T09:34:46+00:00
@@ -406,7 +306,7 @@ Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Sellof
 
 Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under Pressure Moneycontrol.com
 
-### 41. Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC - BBN Times
+### 31. Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-21T09:32:42+00:00
@@ -416,7 +316,7 @@ Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under 
 
 Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC BBN Times
 
-### 42. Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21 - CNBC TV18
+### 32. Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21 - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-21T08:40:45+00:00
@@ -426,7 +326,7 @@ Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits 
 
 Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21 CNBC TV18
 
-### 43. Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows - NewsBytes
+### 33. Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-21T08:12:20+00:00
@@ -436,7 +336,7 @@ Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21
 
 Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows NewsBytes
 
-### 44. Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained - Zee Business
+### 34. Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-21T07:24:53+00:00
@@ -446,7 +346,7 @@ Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows NewsBytes
 
 Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained Zee Business
 
-### 45. Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then crashes from day's high - Fall reasons? - Livemint
+### 35. Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then crashes from day's high - Fall reasons? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-21T07:24:44+00:00
@@ -456,7 +356,7 @@ Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers 
 
 Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then crashes from day's high - Fall reasons? Livemint
 
-### 46. Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? - Goodreturns
+### 36. Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-21T07:03:30+00:00
@@ -466,7 +366,7 @@ Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then cr
 
 Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? Goodreturns
 
-### 47. Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks - Siliconindia
+### 37. Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks - Siliconindia
 
 - Source: Siliconindia
 - Published: 2026-10-21T06:05:10+00:00
@@ -476,7 +376,7 @@ Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock M
 
 Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks Siliconindia
 
-### 48. AI stocks fall 16% in a week: what analysts say about the bubble - Around Prague
+### 38. AI stocks fall 16% in a week: what analysts say about the bubble - Around Prague
 
 - Source: Around Prague
 - Published: 2026-10-21T06:00:55+00:00
@@ -486,7 +386,7 @@ Bernstein Says LTCG Tax Cuts and Global AI Sell-Off May Not Revive Indian Stocks
 
 AI stocks fall 16% in a week: what analysts say about the bubble Around Prague
 
-### 49. Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline - Moneycontrol.com
+### 39. Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-21T04:54:16+00:00
@@ -496,7 +396,7 @@ AI stocks fall 16% in a week: what analysts say about the bubble Around Prague
 
 Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind market decline Moneycontrol.com
 
-### 50. Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes - Traders Union
+### 40. Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-21T02:40:23+00:00
@@ -506,7 +406,7 @@ Sensex falls 600 pts from day's high, Nifty below 22,950: Key reasons behind mar
 
 Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes Traders Union
 
-### 51. Tax relief, global AI correction alone may not revive Indian stocks - Moneycontrol.com
+### 41. Tax relief, global AI correction alone may not revive Indian stocks - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-21T01:04:20+00:00
@@ -516,7 +416,7 @@ Market breadth rises to 55 percent amid AI sell-off, Jurrien Timmer notes Trader
 
 Tax relief, global AI correction alone may not revive Indian stocks Moneycontrol.com
 
-### 52. The Semiconductor Selloff May Be About To Accelerate - Mott Capital Management
+### 42. The Semiconductor Selloff May Be About To Accelerate - Mott Capital Management
 
 - Source: Mott Capital Management
 - Published: 2026-10-20T22:08:55+00:00
@@ -526,17 +426,17 @@ Tax relief, global AI correction alone may not revive Indian stocks Moneycontrol
 
 The Semiconductor Selloff May Be About To Accelerate Mott Capital Management
 
-### 53. Jim Cramer spots familiar pattern in the AI stock sell-off - Yahoo Finance Singapore
+### 43. Raymond James lifts Akamai to Strong Buy after ‘AI Is Dead’ selloff - Investing.com
 
-- Source: Yahoo Finance Singapore
-- Published: 2026-10-20T21:47:00+00:00
+- Source: Investing.com
+- Published: 2026-10-20T21:16:46+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiigFBVV95cUxNeXh3aHo4MElCaXRkX01aYlZTYWplVVBHWUN1WDJrQ0RVZHNqUFBkWlQ2d3hlLUlJVjZSbDg3WHAzWWxIVkRSYTVhZFFPVnlYU0lqSzdFdkRwTW9ia3pNazN3LUltYVN6SkRoeGxxeDBjeUJ5Q2NTdHBrcm9fSm82UVdScUJZaFRZaHc?oc=5
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPeTExMHpyS0hqbXd0T0R1bTI0TmRweXZheE1KNEFUZ3pyd1g3RlNsLV9qdXBKbF9CeW1ja1Rmb1NpUEhlbmltNGVxbi1wM2MxQ2pWOE1iRXBjb0FVSktiR1gzV2RndC1UVUk0QlBMTU84WU4xNXVVVzNCdTFJTEpLckduTlI2TEpnVUNJSC1EdVpWaWpIdnNGLURNbW5OZzRWdS1LeG5HclpwazZ5V0k3TlBBNlZ2Um1VMEZDYlVIVQ?oc=5
 
-Jim Cramer spots familiar pattern in the AI stock sell-off Yahoo Finance Singapore
+Raymond James lifts Akamai to Strong Buy after ‘AI Is Dead’ selloff Investing.com
 
-### 54. U.S. Blue Chips Rise, Chip Stocks Fall; Brent Touches $112 Intraday - Seoul Economic Daily
+### 44. U.S. Blue Chips Rise, Chip Stocks Fall; Brent Touches $112 Intraday - Seoul Economic Daily
 
 - Source: Seoul Economic Daily
 - Published: 2026-10-20T20:55:02+00:00
@@ -546,7 +446,7 @@ Jim Cramer spots familiar pattern in the AI stock sell-off Yahoo Finance Singapo
 
 U.S. Blue Chips Rise, Chip Stocks Fall; Brent Touches $112 Intraday Seoul Economic Daily
 
-### 55. Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com - Investing.com South Africa
+### 45. Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com - Investing.com South Africa
 
 - Source: Investing.com South Africa
 - Published: 2026-10-20T19:47:04+00:00
@@ -556,7 +456,7 @@ U.S. Blue Chips Rise, Chip Stocks Fall; Brent Touches $112 Intraday Seoul Econom
 
 Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing.com Investing.com South Africa
 
-### 56. CoreWeave Stocks Fall 5.8% as HSBC Keeps Its Bearish AI Cloud Stance - TradingView
+### 46. CoreWeave Stocks Fall 5.8% as HSBC Keeps Its Bearish AI Cloud Stance - TradingView
 
 - Source: TradingView
 - Published: 2026-10-20T19:29:22+00:00
@@ -566,7 +466,7 @@ Raymond James upgrades Akamai stock on AI opportunity after selloff By Investing
 
 CoreWeave Stocks Fall 5.8% as HSBC Keeps Its Bearish AI Cloud Stance TradingView
 
-### 57. Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff - Cryptonews.net
+### 47. Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff - Cryptonews.net
 
 - Source: Cryptonews.net
 - Published: 2026-10-20T18:01:40+00:00
@@ -576,7 +476,7 @@ CoreWeave Stocks Fall 5.8% as HSBC Keeps Its Bearish AI Cloud Stance TradingView
 
 Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff Cryptonews.net
 
-### 58. Gunjan Banerji: BofA notes AI credit selloff accelerated even as stocks paused - Traders Union
+### 48. Gunjan Banerji: BofA notes AI credit selloff accelerated even as stocks paused - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-20T18:00:10+00:00
@@ -586,7 +486,7 @@ Bitcoin fell 1.3% while Nasdaq-100 lost 5.5% in last week’s tech selloff Crypt
 
 Gunjan Banerji: BofA notes AI credit selloff accelerated even as stocks paused Traders Union
 
-### 59. NVIDIA Analysis: Is the NVDA Selloff Over? - NVIDIA (NASDAQ:NVDA) - Benzinga
+### 49. NVIDIA Analysis: Is the NVDA Selloff Over? - NVIDIA (NASDAQ:NVDA) - Benzinga
 
 - Source: Benzinga
 - Published: 2026-10-20T16:37:16+00:00
@@ -596,7 +496,7 @@ Gunjan Banerji: BofA notes AI credit selloff accelerated even as stocks paused T
 
 NVIDIA Analysis: Is the NVDA Selloff Over? - NVIDIA (NASDAQ:NVDA) Benzinga
 
-### 60. Analysts react to Coreweave debt woes, AI selloff By Reuters - Investing.com
+### 50. Analysts react to Coreweave debt woes, AI selloff By Reuters - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-20T16:36:15+00:00
@@ -606,7 +506,7 @@ NVIDIA Analysis: Is the NVDA Selloff Over? - NVIDIA (NASDAQ:NVDA) Benzinga
 
 Analysts react to Coreweave debt woes, AI selloff By Reuters Investing.com
 
-### 61. Stocks Fall as AI Worries Trigger Treasury Gains - marketscreener.com
+### 51. Stocks Fall as AI Worries Trigger Treasury Gains - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-20T15:11:23+00:00
@@ -616,7 +516,7 @@ Analysts react to Coreweave debt woes, AI selloff By Reuters Investing.com
 
 Stocks Fall as AI Worries Trigger Treasury Gains marketscreener.com
 
-### 62. Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? - Invezz
+### 52. Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? - Invezz
 
 - Source: Invezz
 - Published: 2026-10-20T14:50:12+00:00
@@ -626,7 +526,7 @@ Stocks Fall as AI Worries Trigger Treasury Gains marketscreener.com
 
 Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight? Invezz
 
-### 63. 3 AI Stocks to Buy Amid This Deep Correction - The Motley Fool
+### 53. 3 AI Stocks to Buy Amid This Deep Correction - The Motley Fool
 
 - Source: The Motley Fool
 - Published: 2026-10-20T14:45:00+00:00
@@ -636,77 +536,17 @@ Nvidia, AMD and Intel stocks fall again in premarket: what went wrong overnight?
 
 3 AI Stocks to Buy Amid This Deep Correction The Motley Fool
 
-### 64. Stocks Fall as AI Worries Trigger Treasury Gains - Yahoo Finance
+### 54. Sensex, Nifty Slide: FII Selling, Crude Oil Spikes, and US Bond Yields Weigh on Markets - The Daily Jagran
 
-- Source: Yahoo Finance
-- Published: 2026-10-20T14:35:29+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxPck1pQm1yaFUtTkNSMnJpcHhQNHdYZHNIbmZ0ZTJjOW5TVGdEbkI2dDM5RmdmZ19YMVhYdXNsRWxrZVJ6Ny0tUEUyUUoyOEdwLWg5YWJxQTA2bHhUVndEOWd6bGVsSlJqSVE1ZV9ocGhWZmw4bnk0OVVGdkJiVjlNcWRMSQ?oc=5
+- Source: The Daily Jagran
+- Published: 2026-10-21T11:18:00+00:00
+- Themes: India market, macro / flows
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaHZrVFJtVDB6Tk1CRXd5NnA5RnRSelpTazItdUEzWjJaUkVmbFlvZU12T1E5MFY0LTNuQ0Y5VVRQUmIydVFYbVAweDlCQzlPNjFDeU16UHpGNTJHYjRpZEk2NXRnamZacVR1VUFuMDVYTTRXcGxNbUVkYUZSSGJGSURtVmZ0dnpac05MQmpSZGdUZjU2R2JJWjU0S1lxcDZhclA5eEtoYm45akhubnE3cFpLZGRDd2Z3ZkFmR1pfdWZPYTlJTjlUbTREZVlFdmF5RmZR0gHaAUFVX3lxTE5OMUdZb2puNjVucnZkaGNuZkszNmYwTEpmUUM3azk1UHlvUVlhR1ViXy1mRnV1UEJSRUlza0dmSXRONTJvQ1NqZzQ2U3lKZEQzYUFOazdYVzZSbVFSR0ZFZExCR3lhVnZpUmhKWFltYkhlNGpXXzBXUGNYQVZHWU4yanVxNFJpMTRZTjJoaHVsZ3FpUWE2UjRFcGYxLXlzZjJrWlVscWozOTctQjZQQkdzTkhHWG03Nk81aTZqbHhUVjFJRXR2SzhSdTdZV25kM2gwMTNRSDNadFNn?oc=5
 
-Stocks Fall as AI Worries Trigger Treasury Gains Yahoo Finance
+Sensex, Nifty Slide: FII Selling, Crude Oil Spikes, and US Bond Yields Weigh on Markets The Daily Jagran
 
-### 65. Nifty 50 falls 1.11% in India as broad indices come under pressure - Traders Union
-
-- Source: Traders Union
-- Published: 2026-10-20T14:32:02+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxOcjFlQnhMaFd2YWpuRXlyS3Ffb0lTOWxGRHZvUzFPME5TZzluMUJqejdBeFIyXzdmZ2szc1lWUzRiNC10SktqVU94N3kxWnNOQ0ZuQkNwN2s3WnFyczlkR2tycEFwYUE2U3dsYjZYdWpudGhabmpyZHZsRWRTaDZQa3NSOEM2RTcySDk1bA?oc=5
-
-Nifty 50 falls 1.11% in India as broad indices come under pressure Traders Union
-
-### 66. Global AI Selloff Hurts Crypto Market Sentiment - RTTNews
-
-- Source: RTTNews
-- Published: 2026-10-20T14:12:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxOQ0RENkFJSFZmdlZrczIyOS0wdU15NkN1R1NJcXlPTjJRUUtON2hqY0hPWTM0aFhhc041RGUtby1iNFc2Sk40bUJfM0dDM19xRUcyVXJhTFRXX2ROc25QU2hqdUJ2akFtdDM4eWxka055MGVWWUJxVmE3TDN0M2laSUlVVk5VRDBMTmlSY0p0QXl5QQ?oc=5
-
-Global AI Selloff Hurts Crypto Market Sentiment RTTNews
-
-### 67. 3 AI Stocks to Buy Amid This Deep Correction - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-10-20T14:05:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPUjBJRjFfVzE1U2VQMzBvX1JxVFlob0dtdXNoZDdsSzhwTG9WRUZtWXZrRFFGcFlkdTN0WTlxZUdoeFUzOGt4UWo4WmJMVlk1Tnl3SG01MzIyRkdrLUtrWjdtMW5mdW9JVVVHTUxVZXVNV3AzNlNjc2pMOHE1LWVqVEI4YlJ4bVMxYVFFZFlB?oc=5
-
-3 AI Stocks to Buy Amid This Deep Correction Yahoo Finance
-
-### 68. 3 AI Stocks to Buy Amid This Deep Correction - The Globe and Mail
-
-- Source: The Globe and Mail
-- Published: 2026-10-20T14:05:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQbEwyeHVPTHM2ZEZiVGR4TDdLUWppa2F2ZEF5OWVFUllqTnhxeWQzM2g1RkV0dmNlYTI4NmVlZnA5NG9jOG16aktUdG4zS200QW82dlh1amtXYzAzRENqU2lQREExaUlhWWl6SlgzSTNIYWN0dzY4SWV5M2ttaVBEQnJoU2dNZnpCSUpfcEF1S1RSMFVTbVQ2VTV1M1Vwcmh1ZF8tNzlLOTdWRWFHZUx1RktTV0RMN0xBT05QWW1oXzA?oc=5
-
-3 AI Stocks to Buy Amid This Deep Correction The Globe and Mail
-
-### 69. The AI Selloff Is Back as Korean IPO Shock Spooks Tech Stocks - Barron's
-
-- Source: Barron's
-- Published: 2026-10-20T13:54:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxOTDJMbFYyRDRHa3ZlRHdRZFlVZmlYeFpRNzhrOVdQRVlJb2NabkN1RDYxa25FOGVKSG9IRC1rcUQtc21fVjgtQU5UeFFrMkVucGFHaGIxRlBPWkR3aExsRUJWSnBZb3Mzd1phOXBXbm43SjhvaUtQWi1zUWg1SG1UYQ?oc=5
-
-The AI Selloff Is Back as Korean IPO Shock Spooks Tech Stocks Barron's
-
-### 70. Raymond James lifts Akamai to Strong Buy after ‘AI Is Dead’ selloff - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-10-20T13:42:12+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxOOEd3UWVBYl8wZzJEWHZhUlMzbVhyOEhDbHFSS3FzRk9tSkg3T2l3ZldZbllwZWh6X0dZR0w5b1k2c194S01BNUZ0U3VfNnlZTUUzb3RkbzZqdEtEd1U4TW9MeDBsakFFaE5FNDNzZmFEXzNqeDI5LUo3ZmdkYUl0RGZLQ2ZkcGJnSVVqMW9haTNRTEt0UGhWQVFCWUEwWWc?oc=5
-
-Raymond James lifts Akamai to Strong Buy after ‘AI Is Dead’ selloff Yahoo Finance
-
-### 71. Nifty 50 Falls at Close as Indian Equities Slip on Wednesday - Business Upturn
+### 55. Nifty 50 Falls at Close as Indian Equities Slip on Wednesday - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-21T10:46:37+00:00
@@ -716,7 +556,17 @@ Raymond James lifts Akamai to Strong Buy after ‘AI Is Dead’ selloff Yahoo Fi
 
 Nifty 50 Falls at Close as Indian Equities Slip on Wednesday Business Upturn
 
-### 72. Sensex falls 143 points; L&T Technology jumps 8.75%, Vodafone Idea slides 4.89% - NewsDrum
+### 56. Nifty IT surges 2.2% as IT stocks buck market-wide selloff - TradingView
+
+- Source: TradingView
+- Published: 2026-10-21T10:37:52+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNRlhPZW5KV19WUEw1aE4ycTB6a2tGOTRCYTRpSk1McHJpanFnNWprMGo3OU8zV1FRODkyQ1hreHhZbnpUZThEeUFHQnhHcmhndTBoU2dnZ0pnbjBZajlwRUhrOEloeHRzcU1qdTRFTld2dHdSX0FyRmFCTmhvWTBYM2l1TTBZRFdXUGVjZXJSZmdkYkl0RDVfRDJQODhZQ0hMMnJLME9YQjJYa2JrWTBLUkdFa0k?oc=5
+
+Nifty IT surges 2.2% as IT stocks buck market-wide selloff TradingView
+
+### 57. Sensex falls 143 points; L&T Technology jumps 8.75%, Vodafone Idea slides 4.89% - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-10-21T10:32:51+00:00
@@ -726,17 +576,7 @@ Nifty 50 Falls at Close as Indian Equities Slip on Wednesday Business Upturn
 
 Sensex falls 143 points; L&T Technology jumps 8.75%, Vodafone Idea slides 4.89% NewsDrum
 
-### 73. Nifty IT surges 2.2% as IT stocks buck market-wide selloff - BusinessLine
-
-- Source: BusinessLine
-- Published: 2026-10-21T10:14:25+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxPWGx3SEtLSF9aSUFOUFJ0YW85aHpyZ1k4Yl9WYTlxd3NlTG9wR3hIOXpnMmgyNkpSeW1jbkJkQjJ3akdKbEFUUWhNQUYyY2FHWFlKOElTSUxRRzF0Y0pmOFpGS0Rpa2UycFgwbGhNNl9QLXpKOUx2dG9QeVo2OEhKVjVjakt1SzNRclhneHV6TUFsLWFvaF94bHVWYlN0YTRjTUFlY0Zxa3Zkdl9BSkdnUWZaUktFT2lTY3lMSHBR0gHEAUFVX3lxTE44THBONllPRDhCVGdkQlhQZU93aTFJTThNWTU3XzRaRHFxTWI4RVB1cnVhOGdJN2tmbkpwWkVQUEVXck9JdmpReWR1MlMtUEVuVUJLeV85Um9TMElYMm9lTUpKUFYzcHhnTGFiRTZHS1N0bU95b09oNktOXzNrOUR5UTRrZVZGeTVvZVYxMVBlYzBhSExCR3hydEpMLTYwMmlSQmhnS1gwNnJkazZKZVB3TzhYNTh0V0JvanZOZUN0UVBKdGo?oc=5
-
-Nifty IT surges 2.2% as IT stocks buck market-wide selloff BusinessLine
-
-### 74. Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers - The Economic Times
+### 58. Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-21T09:18:17+00:00
@@ -746,7 +586,7 @@ Nifty IT surges 2.2% as IT stocks buck market-wide selloff BusinessLine
 
 Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers The Economic Times
 
-### 75. Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 5 triggers - The Economic Times
+### 59. Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 5 triggers - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-21T09:18:00+00:00
@@ -756,7 +596,7 @@ Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls 
 
 Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 5 triggers The Economic Times
 
-### 76. Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% - Univest
+### 60. Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% - Univest
 
 - Source: Univest
 - Published: 2026-10-21T09:07:00+00:00
@@ -766,7 +606,7 @@ Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls 
 
 Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% Univest
 
-### 77. Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks? - Zee Business
+### 61. Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks? - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-21T08:23:50+00:00
@@ -776,7 +616,7 @@ Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% Univest
 
 Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks? Zee Business
 
-### 78. Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Check others - CNBC TV18
+### 62. Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Check others - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-21T04:43:43+00:00
@@ -786,7 +626,7 @@ Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks?
 
 Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Check others CNBC TV18
 
-### 79. Nifty 50 Falls at Open as Indian Stocks Edge Lower - Business Upturn
+### 63. Nifty 50 Falls at Open as Indian Stocks Edge Lower - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-21T03:41:05+00:00
@@ -796,12 +636,172 @@ Nifty 500: LTTS surges over 12%, Gallant Ispat falls over 5% on Q2 results; Chec
 
 Nifty 50 Falls at Open as Indian Stocks Edge Lower Business Upturn
 
-### 80. BSE SENSEX Closed for Dussehra: Index Holds at 73,852.90 After Monday's 876-Point Fall - BBN Times
+### 64. BSE SENSEX Closed for Dussehra: Index Holds at 73,852.90 After Monday's 876-Point Fall - BBN Times
 
 - Source: BBN Times
-- Published: 2026-10-20T20:42:11+00:00
+- Published: 2026-10-20T20:42:01+00:00
 - Themes: market selling, India market
 - Score: 6
 - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOemhlSkl4YmtWZi1OZXk4NzJKN2Z2NDdyWi1fMFFpRm5UMTlWTjh2Tjk0enNGcWhNazhmUDlHcVo4TTd6dzFWRkpQcDZQNi16eVlKekdCOGlfSlVWOXIyMUlBRzY5RXkxaVZCWEZveFNNbEF2ME40bEdNb0N2S1pKWWpYMVltSVgtUjBNUGp4SHI5blpVRUpQdkxXY2Y2RWxMc1ZURldkTUl6NG5JRDU0SEtnbFRGYWdBcWxvLQ?oc=5
 
 BSE SENSEX Closed for Dussehra: Index Holds at 73,852.90 After Monday's 876-Point Fall BBN Times
+
+### 65. NFO Alert: Choice Mutual Fund launches large & midcap fund, its first actively managed equity fund - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-21T09:10:22+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYTRmdEJpUDVTcXRxR2VDTFpNeDl0UTRxUWgyWFgtYzBtdldFZkNfY1QwclR2amdJX1o5VVpSUVFmaFhuRzZ5UkFwMDVIWVI4aHdYMU9PV295eDZoS2Q2MzQteE5yX0k2YzFHcDVPcVQ0WEZFNkhzdG1VUlF4Z1F0X1VJZG5lY2hWcDhwNHdZWVF6Tk9PS1BUa2pTNHV3MDNKZjZSOUdmRmpCMEkyLXZYMXozWHN5enZBUi1Ic05Zb0VhdEIwMjBReUN1WjViWlBQVUtITTBISE1hZDUzcHp4NHlpbjJibnFFWVZuRDMzcWgxMThjTGfSAfYBQVVfeXFMTWE0ZnRCaVA1U3F0cUdlQ0xaTXg5dFE0cVFoMlhYLWMwbXZXRWZDX2NUMHJUdmpnSV9aOVVaUlFRZmhYbkc2eVJBcDA1SFlSOGh3WDFPT1dveXg2aEtkNjM0LXhOcl9JNmMxR3A1T3FUNFhGRTZIc3RtVVJReGdRdF9VSWRuZWNoVnA4cDR3WVlRek5PT0tQVGtqUzR1dzAzSmY2UjlHZkZqQjBJMi12WDF6M1hzeXp2QVItSHNOWW9FYXRCMDIwUXlDdVo1YlpQUFVLSE0wSEhNYWQ1M3B6eDR5aW4yYm5xRVlWbkQzM3FoMTE4Y0xn?oc=5
+
+NFO Alert: Choice Mutual Fund launches large & midcap fund, its first actively managed equity fund The Economic Times
+
+### 66. Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic - Rediff
+
+- Source: Rediff
+- Published: 2026-10-21T04:33:39+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNF8tbEVObFpQLVh1SVB5aGV1WTVYR19CWVhRWk9aU205SWVtVFU2V0NXd3lKNnBmcG94cEsxTXhSaVdoTzJZN05TMjRBRTMtZUJnbmxPc3lXQW9CZVdWNlRFN2tfRnY4ZkxwVEFsRFVSanJta0NFZnMyV2M0Z1RDX0JiVnRyWmdQV1ZDM09CYmM4NUwwaFNld1BFSlhYZjZrUmphOEo1WHF2TjRnbG5hbGlzOEJKdmUtRmZPMWRhZUdXUVJfVEhNQtIBywFBVV95cUxQYWdweUNxdW4tQllCUWdaV01MOFpFamt3eVJjdVp5emVaMUVPbnh1RnFhUFdNUkhQRURFemxsUGQxWkpxb0JKSVRtOU1XMU1nVzNfWGJfZDlzajN2WTBtcHU4TnI3VEJnaExBV21ydEN4NzNrdS1OZ2tNSEdKc0VDVlI3d1hYTWxUWmQ4bEplZWtBTi1OZmx2UlpkUzdUWTljd3hxMW8yVlpKVEtBWFJCN2RrS1pXbFBpMDlnVC1CaGhkX1hWaElRck1TZw?oc=5
+
+Mid, Smallcap Mutual Fund AUM Hits Rs 10 Trillion Mark, Experts Optimistic Rediff
+
+### 67. Sundaram Mutual Fund announces launch of Equity Ex-Top 100 Long Short Fund through its SIF platform Select - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-21T12:33:14+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxPMy1ldHBnVzZjekhTOWdybTdDTGtqaG9JM2xKSHNDYmRhUVQ4ajBlc3lYU0lNMEtEcDdXbi1MdXplVlFGM3ZVaUx1VjRsNjE0cUF4YnBTOWV6UTJCNElWazA0NUVuenFfTGtuclZJaldPNVNaMlk1WFRmRi0xX3pnR19mU2duWUR5X0Jld1lpOV9ieXd2QWJIV3JUeVQzZ0RQWTNtSEU0ajN1NUhjUWhDNzZDczloOFFMVDJxR2EtYWsxVE1rWW41emFEczBmUkRXai1WQlNuTlJHN3FLUDlraHpvV2lyOFZYLV9TRkFXOE1EbnFkSTRQak9EaV90ZnVY0gGGAkFVX3lxTE8ycjNFdWRIMC1jcFEzZ0NBOXhNbEpDZW1pbVJuMzBKTW0zVWhzeER4UGZLZlZOM0VobVFNb2hPdkdHY1lfZER2eUZrd0FlR3BQVUdOeVlFLUk5ZzAtY0s3bER0YWZ2ZGZxaWZsU0FCaTBaekdCN092MVgyU3M1VW82NWRaQUE0OGtlbFR2MncxMVBDQ1BGMFJNMjhfN1FHcWJFekpJV2E4NHlvZElSOTZuWXVLQlI5ZENPdmhacmhXVGNhOWlReUh5ajVpQXgxN0g0WXBaWEQ2a0s5blQ1eUZKSjlGRjBlbUNpMGtKQmZYX1p5SnpNMkVndlRlSjlwbW9GSnBDdkE?oc=5
+
+Sundaram Mutual Fund announces launch of Equity Ex-Top 100 Long Short Fund through its SIF platform Select The Economic Times
+
+### 68. SIP Weak Start: Should You Stop or Continue Your Investment? - Kalkine India
+
+- Source: Kalkine India
+- Published: 2026-10-21T12:23:00+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVBGVUo3VmxiR1dUU0ZzZk13MVhXbHNQQzdSWU5XLWRHcjdoZHkyYk0xc2NJc25TYkdORXI0SW1STlhBZHhlTS1mVGNEVm1TaFhpei1IU01hbUpOdnRmamxfQXZ4N1drb2xYNFBnb0VKbG90alAwRUNkRVJDeEpEZTNFN2ViRm00eWg2Y0sxbHZocFNfSU9WT204NWNEOUoyUGR2NEs0Y2FDaFZaWmlvU3JUUTk0dlR4VGhuLVpKcWxuWURfTktsMVY4eWM?oc=5
+
+SIP Weak Start: Should You Stop or Continue Your Investment? Kalkine India
+
+### 69. Mutual Funds Trim IT Exposure Since December 2024 Peak - Kalkine India
+
+- Source: Kalkine India
+- Published: 2026-10-21T10:33:00+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXd3RkJvSFFmU0Njb2s0LVJMUGtxYXpsZ3hhWkxpY3ljTTRCbFZpNjZkVXoyaEp5ZTcwMjFoRl82UlQwNUN0Z0lGeFBfck5RcmxFMTVGWGJvbHh1dEpVV2VvR21fQmllUExaUHBDNk9Za0dWMVI1TFRDTHdIc1ZoYVBpMFlraVNJemRvSExOejhXZENtTFYtNHQ0TmxNQkFTRVRZUktLUHhTTXpzVnduVDVOMzlVYTBxTHFBSzk2TnBzV2VraVpv?oc=5
+
+Mutual Funds Trim IT Exposure Since December 2024 Peak Kalkine India
+
+### 70. ai market data nifty bank nifty fii dii data rupee gold price - Zee Business
+
+- Source: Zee Business
+- Published: 2026-10-21T10:27:01+00:00
+- Themes: AI / tech risk, India market, macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMWRmbktQU1BUV1IwTTVTWUR5OVhBckpsN2tZN0N1eThtYVU0cmxIODhsQWQwMTlPVmV1UnQ0Mldaa0dTQi0zZ1BIWFd2N1c3VXNIbFhHY3lvZHQ1SlRsQV9zU2EwMzNzMFI1YWNHNUhZYzZzOW1ZdWZUbldJRDJGMEUxQ3oxTzVNem5SbV9mYnZjU0w3SjF3bFpoc2J4RF9YS3FxWGVZZmdic2Z0RHQwRW5pZnVtS2Iy?oc=5
+
+ai market data nifty bank nifty fii dii data rupee gold price Zee Business
+
+### 71. Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-21T07:05:42+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxNaEVLVGh1OGx5STMyZFhxRVk3VV9SYTVUcUlDbG5YdTJtRkRPck1mS1NVNHB0Q2E3SFhLa3ZTeGs1ejVEaWo3X0ZNUDVjVTdGSjFoUkYzZnBRVDRzYTZ5TVo4aTEyOW1FRDU0cUhEeWpibDJJaDJNYVJaRktUTE9qb0RKSGYzU1dvdzF1V1Q3MEhiQTN5U1R5V3RBNmRnR3ZaLUh3SGlERG9RVDJuX0kyazE4Tms0eEVmM2tqV1c3LXZrc3dsQ0ljV3djMXVfb0hSSDVxNHMwalM1SzlBVGltUzZ2RjU1UlJrbkdtU2ZKMVVjZXhkZWs4NnVzemtkUWtwT19zSHhjZVoyNUpoa2VOS3FBWHU?oc=5
+
+Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? The Economic Times
+
+### 72. Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-10-21T05:14:31+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPaXdMblF4RC1wbnNnTFM3VWJEOHN4ZU9UcTVhbXpYMzVjQmJLZnhBa3RiR20tSW1qNS1wR0R0RUdXaDJ0YkEtSW5LZDFqcXVrb0FBTXBZV1R0bE9BYzMydVBVUW1HY1JNTFRNRkZ0YlBYUmFXcld6a3hUbVpRQTNzZWJZU2NMTGMyYlZZSHpLQXRVcC1kOVZiV1JFeW9lRXBkYmZ6c3RibnJiQjBKYlI1dGUwWFJjOHZSaGlyNFdhMTJ1bzMybExDdGs5eThaVmhQQmRoZXNWRDVrWjNubEdudVVZQnBIdDlzdndnTk1CUmLSAfgBQVVfeXFMUGNmSVVkY1lMbU9sZG1yXy0zejFPR1phd0NNNEtiX0gxQ0NzYmxnam1fTlF1XzU5d0Z2WXo1Q1RNWE00TTQyTG9fOEcxVGlnWVFNTjV5cHhGaXFMSk1jZDBYcUNGWTcySkp3eDdxdmI0cy1SaFdJS0drNVh0aVBfbFYyLS1qaWlmZFRLUU44dFdieU0xel81MEdLeC1LN2FmbHd5Y3otQmt3dnYxZlVDdjY0SHA5eWpMVWJWYUZhWGN2ejNJUlZNZk80T0RBZ0owazVEWExnUVg2a2thYlRNdVpiUk01Wkg3MDVBdFR4am9WUWFpVVNnWWs?oc=5
+
+Rs 25 Lakh In Jewar Property Or An Equity Mutual Fund SIP: Which One Delivered Higher Returns Over Last 5 Years? NDTV Profit
+
+### 73. India’s 1 Finance wins approval for first Mutual Funds Lite manager - Asia Asset Management
+
+- Source: Asia Asset Management
+- Published: 2026-10-20T16:16:37+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOMGNBVlRfMEFUcWpwS3FHSGJyMnZUdElaT0dzQ1lfUDc4UDVfS05wOHA2Qkp5Q2Z6RFlKWW5fUE12bElDajlwQTh3aVF4aVo2R21fVFhPNTJfRXR3SkJaZlBpS2FyamRVTmUtUzhpdTkyYTJXdzk5Q0xvZVowaHlLaE94VXVYdEQwWk5ENVF3cTlqdFcwaENzVjRVODFBVVhDZWU0?oc=5
+
+India’s 1 Finance wins approval for first Mutual Funds Lite manager Asia Asset Management
+
+### 74. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
+
+- Source: INDIA New England News
+- Published: 2026-10-20T14:51:59+00:00
+- Themes: India market, macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOT2w0OExuLXNXNkItVEJweDJtWkZCQlBkZUQ4LUYtNDlqVVRyQU5WemdBSUhnY3gwWGdza2Z2UXUwUC1MSE9SQzNkenpXR1RIWFpTdHctRE84dDlOWVEtYTNzS1Yzb09fZFlZTG1pMkc0N3lCQ2l3Rl96eFV4QnphVVhWTDVBUnhTSGo1LVgzWHhjbmZobWt0S3d6WQ?oc=5
+
+Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News
+
+### 75. Should you raise your SIP now? Match it to income, not the market, say MFDs - Business Standard
+
+- Source: Business Standard
+- Published: 2026-10-21T11:57:25+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNQl9KM0thekFub180ZHlpSmRMYkR0VnlfVS1rUGZWZlY0VkswSGswVWxHek9mV0dHNjBIaVBLNVUyd21lYmc0SWhEVk5WVmFaN09aMWlxVHZQcGVnTUxmc1hQTE44Q3h4R2lpSnd6RXloaXJlYnJhaE9Vb2t2cHRZYUxTbkZtOUpYcVIzVkZMZDE1bzZ3bUxMWUQ5LU40NnVnN3BMMXpTd0lsQUJ5UzQ5WUpYMFBJMDdvSTc4OG0zVDQ2elpwSlRPVWJR0gHPAUFVX3lxTFBXMEM1MHd2dWp0VGNuMHZxQVdOMk0zVlM5MldVYUhVQ05CX01JcWgyRk5UNVo4aFl4NW5hb0pTTk5MVzNBNmJUM0lIa3A2UmZUc0V1eVlycnBqZ1EtT3BCazBZdmF6UlBGbk9OMVpsTlk2anUyUjV4aUx1RER6SmcyOFg0VTNuZTZNQlNZem5YSEh4V1pRR18xSEVrMDlIS1Jzb29hLXN0WE1fbXVDWUtNQVMxUlJ0bFV2TmF6YmRKTnBTdU9xNHp0RENKUHZ5dw?oc=5
+
+Should you raise your SIP now? Match it to income, not the market, say MFDs Business Standard
+
+### 76. Retirement planning: How much should you invest in stocks and mutual funds after 60? Here's what expert suggests - Livemint
+
+- Source: Livemint
+- Published: 2026-10-21T11:45:44+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxOb1JSOTlLVnMtQnh6WDRUdUlMc3JnaEhleG5Ud1BsajRrbWNYQTI0eUxBem9lT2lEWE40eG9KUFBZdENuYXJIcldpNktNOGpTZUEyUlVDZklCX2FEQXo4SjQtdDVsZ3hsUmo4LVpGTTJ3UEV6SXYyeWtpdzNNMkJJZ0tGTHRRSDlNdjA0bFR4RksxUnVmbmJqQmhBa2h2Z1hSdXZXcGxSemlrSFpFYW9IZU41SEVmMTA2ekpiaUlGZF8xRGlvREtCMFZLeDB2N1NxdnVkUGVEWHIyQVhPbjFOU3Z2UTNib0E3VGxsNU9Sem5IRGc3TnFYZlMzbE9nUTh4MnZoal9UdFrSAY4CQVVfeXFMTnNxMmxHRG5kcnFnTmNpZ1lERDgtZ1V5V1RrRVZWamVzMzU3OVM4QUU4OFI1UUlSLTdLTEZzbUZEbnduVUpMblpfY0ZBakpNejJLQWNNTmdnQ1NrODA5WmhsZWVMM0FnRnVqYVpXMHp3ajk1TkxHcElxOS1TVFZWTEVSQUQ5U01KWFBBSEtBREFjQ1h0cndjb0UzSUt0NnhKa3RDZ1hOZzgtM09LTm56b0lEdS1RV3IwajNXYnUtdkRBZWdqRmt6R0tobnVwb040VS1BXzJLOUlIYUpKMW1QNVh6WHJkV3B3SWRoUEtfR1RCelU2WldjTGd5SFRIeE5NeFVaZjJlSmtDVk43NHdn?oc=5
+
+Retirement planning: How much should you invest in stocks and mutual funds after 60? Here's what expert suggests Livemint
+
+### 77. AlphaGrep Flexi Cap among top 5 flexi cap mutual funds with highest mid and small cap exposure in September 2026 - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-21T11:36:40+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxPY1JRTE5vdzVJZXRWOTdOVUZDd0hzUFV6bDM1TzFBR1dJeHNXMDNmTjJGbkxBSXIzN3hfdTdnOXJDWUNkbjlRcmpwRTN0RnQ2cFNVa1V6Mi1wR1FBX1NyV3p2ajg4TEEzMTBnTDZUZmFSTDRoRW9TbkJhUFRwLVZYeG9IN095N1VIazlYTGZmdWhLTWtnckhzSjhvdlJfckFwNmlmMldSV2I3ZlRWRmpZclFMQXV3V05XRk5mRGVkM3N5MWRhajVvcDUwN0RJSGlrcWpfeHlKaVBER1lvQW1Hb2kwNHFpcVdWTGItNFk5OVRjQURDWWttczZrLUViaVBTdzRJbmwtUE5EYXF0NkJyY3haTQ?oc=5
+
+AlphaGrep Flexi Cap among top 5 flexi cap mutual funds with highest mid and small cap exposure in September 2026 The Economic Times
+
+### 78. Sensex, Nifty decline for 2nd straight session; Smallcaps drop - DD India
+
+- Source: DD India
+- Published: 2026-10-21T11:09:24+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNdUtCSkJ3aWVmNnNOMW5iWVBlN3dJdjV1N0V2NFpKcjRwYnFpb1I1MUdMX1pWM0ItTzlUQXljc0J5UG0tOExkYW5qNFdXN0Nvc2k2ZndnWHduTS1WZDBtS1Jzc3FBb2l4ZVB6N0I4NWZySmdDQnBrcldhWkpzcjl6dW1YcEM5ZnY3bWc5T25GWkNtTUVuSWc?oc=5
+
+Sensex, Nifty decline for 2nd straight session; Smallcaps drop DD India
+
+### 79. Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision - INDIA New England News
+
+- Source: INDIA New England News
+- Published: 2026-10-21T10:42:46+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOb1RXTG9KWG5fNkd3cFppOEpDOE9pTnBoN292TnNKX2Y2Uzg1Zl9sWjBlUUFEMlFoaTZIUUxKYzRnVnhIejlacWJ4ZzNoRFRMVDZPTEpqdFZVeW1NZlAzMkNUQlZRc1hBSFZGczlnTEx2VDRpUEFaeU9pMVdFeGpkVUxNakl0UDUwTXB6Zy01UHJ3ZXNFWi1RV080X25saE5lUHJodQ?oc=5
+
+Sensex Jumps 685 Points, Nifty Reclaims 22,750 Ahead of RBI Policy Decision INDIA New England News
+
+### 80. Sensex, Nifty gives up gains to close lower; IT stocks shine - India Today
+
+- Source: India Today
+- Published: 2026-10-21T10:37:43+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxOaWFxVEdUZElGaEVTNF9VTVEwVFpXUlRXcUZ1S1FTMVpIMnZVdFVJbTlqRVpvN056WXdXOEtfaHFDV2tXb0lvR1hrZERSMGFsUGdGYmtyemdiZmdoTXRkWHV4WWFWaWpSdjFGclVuaERMQ0xsd2pldlNfZGJudk9EZDc0QlNSa3JneHY1MUpIbE1TbVRoOEozY3NJbFdNYTJLZ1Jyd0hPMWpMbmI4NG5kUWRUZ01VY3FSTjExQ3k5VVBwSDhFeW5TMjZiblhsYzNG0gHWAUFVX3lxTE1YUXhCVEZnOTJHbktEQzZ6OWxrMzBibktwWGs0RWp3aGE4LW9LSHRkYlByYUpfaEVoQUphenV0U3pPc1BOSFA3cV83ajkxSkstTWZoYkdEN2pVT01KcmgtMWdBbWNBd01UZG54SmVHcFNpSno1d0dfZW1Qak9PeW1wV3hnbk1VdUczeXhQanhTQVZBOWZ3cTFtSmR0eEN0d25OdFF6VHdnN1lLYkVTaUZUYmRfdmVaUWIxRExPYWxwYkwwc1JSdUgxUGRqajkwbmxzMmtPRHc?oc=5
+
+Sensex, Nifty gives up gains to close lower; IT stocks shine India Today
