@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-22 06:38
+Generated: 2026-10-22 07:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -86,17 +86,7 @@ Why Is the Indian Stock Market Falling Today? Sensex Drops 590 Points, Nifty Fal
 
 Sensex Falls 218 Points, Nifty 50 Drops 0.34% as Realty and Bank Shares Advance Dalal Street Investment Journal
 
-### 9. Sensex falls over 500 points at open as crude prices rise; Nifty slips below 22,600 - Public TV English
-
-- Source: Public TV English
-- Published: 2026-10-22T05:37:58+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPbXlERi1IRTN4amhWY3pUR2Y0My1yUGJTTHdSMHg3YW15SV9KVjVVQTRfRjg3eERWUUpxUHo5X0ZTaWRMVmRIY28xX3o2OXJDUFAzOTRHOGFRY1dMOVpoaVoxUEh2ZWtzLUUtRm92d0t6YmI0WkJLRVkxM0luNnBSeUU5czNtaEJtRm92YjFlcFhMTzZtcjJwSjZLNy1nRDZxaEViUUVpSlJPa0tJcnF3?oc=5
-
-Sensex falls over 500 points at open as crude prices rise; Nifty slips below 22,600 Public TV English
-
-### 10. Sensex Falls 596 Points, Nifty Slips 250 as Crude Rises - HDFC Sky
+### 9. Sensex Falls 596 Points, Nifty Slips 250 as Crude Rises - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-10-22T04:47:20+00:00
@@ -106,7 +96,7 @@ Sensex falls over 500 points at open as crude prices rise; Nifty slips below 22,
 
 Sensex Falls 596 Points, Nifty Slips 250 as Crude Rises HDFC Sky
 
-### 11. Nifty falls 1%, Sensex sheds 691 pts as crude tops $110 & Asia bleeds - BusinessLine
+### 10. Nifty falls 1%, Sensex sheds 691 pts as crude tops $110 & Asia bleeds - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-10-22T04:28:57+00:00
@@ -116,7 +106,7 @@ Sensex Falls 596 Points, Nifty Slips 250 as Crude Rises HDFC Sky
 
 Nifty falls 1%, Sensex sheds 691 pts as crude tops $110 & Asia bleeds BusinessLine
 
-### 12. Business News | Sensex Falls over 500 Points at Open as Crude Prices Rise; Nifty Slips Below 22,600 - LatestLY
+### 11. Business News | Sensex Falls over 500 Points at Open as Crude Prices Rise; Nifty Slips Below 22,600 - LatestLY
 
 - Source: LatestLY
 - Published: 2026-10-22T04:18:24+00:00
@@ -126,7 +116,7 @@ Nifty falls 1%, Sensex sheds 691 pts as crude tops $110 & Asia bleeds BusinessLi
 
 Business News | Sensex Falls over 500 Points at Open as Crude Prices Rise; Nifty Slips Below 22,600 LatestLY
 
-### 13. Sensex falls over 500 points at open as crude prices rise; Nifty slips below 22,600 - ANI News
+### 12. Sensex falls over 500 points at open as crude prices rise; Nifty slips below 22,600 - ANI News
 
 - Source: ANI News
 - Published: 2026-10-22T04:05:00+00:00
@@ -135,6 +125,16 @@ Business News | Sensex Falls over 500 Points at Open as Crude Prices Rise; Nifty
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPVmtnekM2Z3NLd1Y2NXlscTl6U1FKYXNQVno3WFcyTzNhSU80VFZabEhiakhWRmF5TU9iS05oWlpNQnRGMjN2NXQ4aHBGaEJhZjA2Qm10MXMySUphVUVfWnRyWmx5N3otT19QdGJiWGFRcldRTEhwWVREV3VmMU5LQ1ZmYTZqSmdvTThOZnJfNUJ0NFAwQUtpWktNa1NuYWxENUtqTlBpcXZvSEVKclNidUhybGNoUHRSbk9MQVpoREpHZEZSX1IyWTQzWEc?oc=5
 
 Sensex falls over 500 points at open as crude prices rise; Nifty slips below 22,600 ANI News
+
+### 13. Indian markets extend losses as oil prices climb: Sensex falls by more than 600 points; Nifty also down 200 - Bhaskar English
+
+- Source: Bhaskar English
+- Published: 2026-10-22T04:04:29+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVltRmJSVndzaG1JMzNtUUpMMTBzbk55SG5lRWlpOWdPU0hQMHFfWU8ydmxpWU5ndXh3WW9fZGZ6SC1fajNua0paSjFrSGdLT1UyOWxqQVNtamNVVjRVUVFYYTJwZ1lYVlg1SV9ITWpuRklxMFF4R0JiQnB6TllzVVFlYWZUbndDLWo0RkYxdDQyX0txVWRrY0JOZU1qNGk4Y2VIdEpnUERZVEFtdkxUTy05eDdLWlEwbWN0bnZR0gHDAUFVX3lxTE51eGM2b3dfNTFPdVBfNUFiZlFsRXNrOC0yTmpmRkZUYmltQXZSMDVPUUFVLWlYaW9IMUtfSVVQUUVjVmZhODFLc0xkQkhfLTRqb0UwUng2cFNCYXR0Nm54U3BwaWc1VWJzanh3N2Z1SlEtZWZCSFUxQVpZWFNjeVNHV01IOGV4a1pfVWNuNE1sT090eHVUQk9ORjFGbzNvNXc2Wk1ERExSeURnRDFRZTY3bTB0WFZfTXktU28tYkluc1VJTQ?oc=5
+
+Indian markets extend losses as oil prices climb: Sensex falls by more than 600 points; Nifty also down 200 Bhaskar English
 
 ### 14. Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline - Moneycontrol.com
 
@@ -146,7 +146,17 @@ Sensex falls over 500 points at open as crude prices rise; Nifty slips below 22,
 
 Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline Moneycontrol.com
 
-### 15. Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline - TradingView
+### 15. Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-22T04:01:03+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYU50UWdfZzIydmU0Z2hDR2NuRTYxUUp2cWRYYnMxRUVpUjVBM1dfNkNubDE1NzNDclRYVDlxdEFyQUlVUkhqMTN5STZtWVVHNHJSYUcxVkNIZ1kyeGhkQ05FRERHOFFHbkZXRWlvNGdEVkZqTGk0Wk5qNmM2QTQ4Q2hOUVlRLXhDOXl4aTI3bFF1T1FpMGZmZmVtQkU5eVFBbUZ0S1BtNFItQUpjUW5lbEVDWmo4THBGMVB1Vl96SzlJeXhSeEZsMC1YeWVhZ2dRSkRFRVk1U0laSl91dFBZZFdrMG8yS1lWUVRKcWNpbENCcFlYa2JLV0hXdnjSAfwBQVVfeXFMUGFOdFFnX2cyMnZlNGdoQ0djbkU2MVFKdnFkWGJzMUVFaVI1QTNXXzZDbmwxNTczQ3JUWFQ5cXRBckFJVVJIajEzeUk2bVlVRzRyUmFHMVZDSGdZMnhoZENORURERzhRR25GV0VpbzRnRFZGakxpNFpOajZjNkE0OENoTlFZUS14Qzl5eGkyN2xRdU9RaTBmZmZlbUJFOXlRQW1GdEtQbTRSLUFKY1FuZWxFQ1pqOExwRjFQdVZfeks5SXl4UnhGbDAtWHllYWdnUUpERUVZNVNJWkpfdXRQWWRXazBvMktZVlFUSnFjaWxDQnBZWGtiS1dIV3Z4?oc=5
+
+Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline Moneycontrol.com
+
+### 16. Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline - TradingView
 
 - Source: TradingView
 - Published: 2026-10-22T04:01:00+00:00
@@ -156,7 +166,7 @@ Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors 
 
 Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline TradingView
 
-### 16. Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2% - INDIA New England News
+### 17. Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2% - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-21T16:55:13+00:00
@@ -166,7 +176,7 @@ Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors 
 
 Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2% INDIA New England News
 
-### 17. JD.com Falls as Chinese Internet Stocks Retreat in Broader Tech Selloff - Quiver Quantitative
+### 18. JD.com Falls as Chinese Internet Stocks Retreat in Broader Tech Selloff - Quiver Quantitative
 
 - Source: Quiver Quantitative
 - Published: 2026-10-21T16:21:00+00:00
@@ -176,7 +186,7 @@ Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2%
 
 JD.com Falls as Chinese Internet Stocks Retreat in Broader Tech Selloff Quiver Quantitative
 
-### 18. Nifty, Sensex Extend Losses as Crude Tops $110, Small Cap and Microcap fall sharply – Wednesday Closing Report - Moneylife
+### 19. Nifty, Sensex Extend Losses as Crude Tops $110, Small Cap and Microcap fall sharply – Wednesday Closing Report - Moneylife
 
 - Source: Moneylife
 - Published: 2026-10-21T12:31:20+00:00
@@ -186,7 +196,7 @@ JD.com Falls as Chinese Internet Stocks Retreat in Broader Tech Selloff Quiver Q
 
 Nifty, Sensex Extend Losses as Crude Tops $110, Small Cap and Microcap fall sharply – Wednesday Closing Report Moneylife
 
-### 19. Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh - Moomoo
+### 20. Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh - Moomoo
 
 - Source: Moomoo
 - Published: 2026-10-21T11:47:22+00:00
@@ -196,7 +206,7 @@ Nifty, Sensex Extend Losses as Crude Tops $110, Small Cap and Microcap fall shar
 
 Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh Moomoo
 
-### 20. Sensex Sees Sharp Reversal, Drops Over 1,150 Points From High; Nifty Falls Below 22,800 - The Live Nagpur
+### 21. Sensex Sees Sharp Reversal, Drops Over 1,150 Points From High; Nifty Falls Below 22,800 - The Live Nagpur
 
 - Source: The Live Nagpur
 - Published: 2026-10-21T11:05:59+00:00
@@ -206,7 +216,7 @@ Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh Moomoo
 
 Sensex Sees Sharp Reversal, Drops Over 1,150 Points From High; Nifty Falls Below 22,800 The Live Nagpur
 
-### 21. Business News | Sensex Falls 143 Points, Nifty Slips 0.34% as Crude Above USD 110 Fuels Inflation Concerns - LatestLY
+### 22. Business News | Sensex Falls 143 Points, Nifty Slips 0.34% as Crude Above USD 110 Fuels Inflation Concerns - LatestLY
 
 - Source: LatestLY
 - Published: 2026-10-21T10:40:24+00:00
@@ -216,7 +226,7 @@ Sensex Sees Sharp Reversal, Drops Over 1,150 Points From High; Nifty Falls Below
 
 Business News | Sensex Falls 143 Points, Nifty Slips 0.34% as Crude Above USD 110 Fuels Inflation Concerns LatestLY
 
-### 22. Sensex falls 143 Points, Nifty slips 0.34% as crude above USD 110 fuels inflation concerns - Devdiscourse
+### 23. Sensex falls 143 Points, Nifty slips 0.34% as crude above USD 110 fuels inflation concerns - Devdiscourse
 
 - Source: Devdiscourse
 - Published: 2026-10-21T10:23:33+00:00
@@ -226,7 +236,17 @@ Business News | Sensex Falls 143 Points, Nifty Slips 0.34% as Crude Above USD 11
 
 Sensex falls 143 Points, Nifty slips 0.34% as crude above USD 110 fuels inflation concerns Devdiscourse
 
-### 23. Nifty 50 Slips Below 22,750 as Midcap and Smallcap Selloff Deepens, Investors Lose Ground for Second Session - International Business Times Australia
+### 24. Nifty 50 snaps two-day rally, ends below 22,900 as Sensex drops 876 points - Kalkine India
+
+- Source: Kalkine India
+- Published: 2026-10-21T10:18:00+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxNUVpteXQyREJ5cEZRRHJTVDVZTy1XYThZX1dzeEpKbV93MXZoM0J3aS10Y2x1WVdkQ0ZLd3JjWVBBcWUwUzZTeWxBTFk5Y1VYUHJQQjQ4S29wY3I4R0pyUko1UFZhaDVEVkIzbi1VT1ctR3l4cFJRUGRPbWc2aUJ5QzNhU3VZUkNLRmdFLXV0YnR4RkIzTVhqeVRTYmYtOGF5a3p5Zy0wNnhhRTVVWXFIdEJ5dGl3a1pvaDN6NVZ6OWZyYXc?oc=5
+
+Nifty 50 snaps two-day rally, ends below 22,900 as Sensex drops 876 points Kalkine India
+
+### 25. Nifty 50 Slips Below 22,750 as Midcap and Smallcap Selloff Deepens, Investors Lose Ground for Second Session - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-10-21T09:59:36+00:00
@@ -236,7 +256,7 @@ Sensex falls 143 Points, Nifty slips 0.34% as crude above USD 110 fuels inflatio
 
 Nifty 50 Slips Below 22,750 as Midcap and Smallcap Selloff Deepens, Investors Lose Ground for Second Session International Business Times Australia
 
-### 24. Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh - marketscreener.com
+### 26. Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-10-21T08:42:56+00:00
@@ -246,7 +266,7 @@ Nifty 50 Slips Below 22,750 as Midcap and Smallcap Selloff Deepens, Investors Lo
 
 Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh marketscreener.com
 
-### 25. Stock Market Sell-Off Explained, Sensex Plunges 1,300 Points & Nifty Drops 425 Points From Intraday Highs; - Free Press Journal
+### 27. Stock Market Sell-Off Explained, Sensex Plunges 1,300 Points & Nifty Drops 425 Points From Intraday Highs; - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-21T08:40:46+00:00
@@ -256,7 +276,17 @@ Hong Kong Stocks Fall as Oil Rises, AI Investment Concerns Weigh marketscreener.
 
 Stock Market Sell-Off Explained, Sensex Plunges 1,300 Points & Nifty Drops 425 Points From Intraday Highs; Free Press Journal
 
-### 26. PSU stocks today, October 22: Garden Reach falls 4.35%, Coal India down 2.15%, Power Grid declines 2.16% - Business Upturn
+### 28. Sensex plunges nearly 680 points, Nifty slips below 22,600 as global sell-off rattles markets - PSU Watch
+
+- Source: PSU Watch
+- Published: 2026-10-22T05:55:45+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOOThDTFJYTWxJYlRLMEx6dG5HNnk4b2d2MGtJYW5vZzdJM2V6cFJxdFVHSTBKd1ktMFpreEd6Yi1Wam0xYjhxZlB6ZDRjUzB5YkhidVB0blM3cjRmMmNCdHF1TWlFeXZVc3ZsaXFPbHVYRWpqYXJPVG1RWWozSFBPcDY3NWZzVDNkd05KMFh2UGpEMXdsdWlRQ3Rfbks4VUxHOXZqSXBGWXdFQzhfZTAwal83NWlUdklJbXhsQlZUcWdoNktYel9wRTlBWl9uejNHT1Z3dXpVeHJESk93UU9SY1hLVdIB4wFBVV95cUxOOThDTFJYTWxJYlRLMEx6dG5HNnk4b2d2MGtJYW5vZzdJM2V6cFJxdFVHSTBKd1ktMFpreEd6Yi1Wam0xYjhxZlB6ZDRjUzB5YkhidVB0blM3cjRmMmNCdHF1TWlFeXZVc3ZsaXFPbHVYRWpqYXJPVG1RWWozSFBPcDY3NWZzVDNkd05KMFh2UGpEMXdsdWlRQ3Rfbks4VUxHOXZqSXBGWXdFQzhfZTAwal83NWlUdklJbXhsQlZUcWdoNktYel9wRTlBWl9uejNHT1Z3dXpVeHJESk93UU9SY1hLVQ?oc=5
+
+Sensex plunges nearly 680 points, Nifty slips below 22,600 as global sell-off rattles markets PSU Watch
+
+### 29. PSU stocks today, October 22: Garden Reach falls 4.35%, Coal India down 2.15%, Power Grid declines 2.16% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-22T05:03:56+00:00
@@ -266,7 +296,7 @@ Stock Market Sell-Off Explained, Sensex Plunges 1,300 Points & Nifty Drops 425 P
 
 PSU stocks today, October 22: Garden Reach falls 4.35%, Coal India down 2.15%, Power Grid declines 2.16% Business Upturn
 
-### 27. Stock Market crash: Sensex falls 642 points, Nifty slips below 22,600 - Punjab Newsline
+### 30. Stock Market crash: Sensex falls 642 points, Nifty slips below 22,600 - Punjab Newsline
 
 - Source: Punjab Newsline
 - Published: 2026-10-22T04:57:56+00:00
@@ -276,7 +306,7 @@ PSU stocks today, October 22: Garden Reach falls 4.35%, Coal India down 2.15%, P
 
 Stock Market crash: Sensex falls 642 points, Nifty slips below 22,600 Punjab Newsline
 
-### 28. Marco Rubio Visits Jamnagar, Nifty Falls Below 22,600, HDFC Bank Probes Leak - India Today - India Today
+### 31. Marco Rubio Visits Jamnagar, Nifty Falls Below 22,600, HDFC Bank Probes Leak - India Today - India Today
 
 - Source: India Today
 - Published: 2026-10-22T04:30:33+00:00
@@ -286,17 +316,7 @@ Stock Market crash: Sensex falls 642 points, Nifty slips below 22,600 Punjab New
 
 Marco Rubio Visits Jamnagar, Nifty Falls Below 22,600, HDFC Bank Probes Leak - India Today India Today
 
-### 29. Sensex falls by more than 600 points: Nifty also down 200 points, heavy selling in auto and pharma shares - Bhaskar English
-
-- Source: Bhaskar English
-- Published: 2026-10-22T04:04:29+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxQSVltRmJSVndzaG1JMzNtUUpMMTBzbk55SG5lRWlpOWdPU0hQMHFfWU8ydmxpWU5ndXh3WW9fZGZ6SC1fajNua0paSjFrSGdLT1UyOWxqQVNtamNVVjRVUVFYYTJwZ1lYVlg1SV9ITWpuRklxMFF4R0JiQnB6TllzVVFlYWZUbndDLWo0RkYxdDQyX0txVWRrY0JOZU1qNGk4Y2VIdEpnUERZVEFtdkxUTy05eDdLWlEwbWN0bnZR0gHDAUFVX3lxTE51eGM2b3dfNTFPdVBfNUFiZlFsRXNrOC0yTmpmRkZUYmltQXZSMDVPUUFVLWlYaW9IMUtfSVVQUUVjVmZhODFLc0xkQkhfLTRqb0UwUng2cFNCYXR0Nm54U3BwaWc1VWJzanh3N2Z1SlEtZWZCSFUxQVpZWFNjeVNHV01IOGV4a1pfVWNuNE1sT090eHVUQk9ORjFGbzNvNXc2Wk1ERExSeURnRDFRZTY3bTB0WFZfTXktU28tYkluc1VJTQ?oc=5
-
-Sensex falls by more than 600 points: Nifty also down 200 points, heavy selling in auto and pharma shares Bhaskar English
-
-### 30. Why is stock market down today? Sensex drops over 700 points, Nifty crashes 1% - Top 3 reasons explained - Livemint
+### 32. Why is stock market down today? Sensex drops over 700 points, Nifty crashes 1% - Top 3 reasons explained - Livemint
 
 - Source: Livemint
 - Published: 2026-10-22T04:02:38+00:00
@@ -306,7 +326,7 @@ Sensex falls by more than 600 points: Nifty also down 200 points, heavy selling 
 
 Why is stock market down today? Sensex drops over 700 points, Nifty crashes 1% - Top 3 reasons explained Livemint
 
-### 31. Why is market falling today? Sensex drops 600 points, Nifty below 22,600. Key factors behind Rs 5 lakh cro - The Economic Times
+### 33. Why is market falling today? Sensex drops 600 points, Nifty below 22,600. Key factors behind Rs 5 lakh cro - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-22T04:02:09+00:00
@@ -316,7 +336,7 @@ Why is stock market down today? Sensex drops over 700 points, Nifty crashes 1% -
 
 Why is market falling today? Sensex drops 600 points, Nifty below 22,600. Key factors behind Rs 5 lakh cro The Economic Times
 
-### 32. Market Today: Sensex Falls Over 600 Points, Nifty Opens Below 22,600 As Auto, Metal Stocks Drag - News18
+### 34. Market Today: Sensex Falls Over 600 Points, Nifty Opens Below 22,600 As Auto, Metal Stocks Drag - News18
 
 - Source: News18
 - Published: 2026-10-22T03:58:09+00:00
@@ -326,7 +346,7 @@ Why is market falling today? Sensex drops 600 points, Nifty below 22,600. Key fa
 
 Market Today: Sensex Falls Over 600 Points, Nifty Opens Below 22,600 As Auto, Metal Stocks Drag News18
 
-### 33. Sensex falls over 600 points as Middle East war keeps oil above $110; inflation worries mount | Business News - Hindustan Times
+### 35. Sensex falls over 600 points as Middle East war keeps oil above $110; inflation worries mount | Business News - Hindustan Times
 
 - Source: Hindustan Times
 - Published: 2026-10-22T03:50:58+00:00
@@ -336,7 +356,7 @@ Market Today: Sensex Falls Over 600 Points, Nifty Opens Below 22,600 As Auto, Me
 
 Sensex falls over 600 points as Middle East war keeps oil above $110; inflation worries mount | Business News Hindustan Times
 
-### 34. Bears tighten grip on Dalal Street: Sensex falls 1%, Nifty slips below 22,600 - Zee Business
+### 36. Bears tighten grip on Dalal Street: Sensex falls 1%, Nifty slips below 22,600 - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-22T03:50:55+00:00
@@ -346,7 +366,7 @@ Sensex falls over 600 points as Middle East war keeps oil above $110; inflation 
 
 Bears tighten grip on Dalal Street: Sensex falls 1%, Nifty slips below 22,600 Zee Business
 
-### 35. Berkshire Surges 7% Amid Semiconductor Selloff — First "Extreme Divergence" Signal Since Dot-Com Bubble - finance.biggo.com
+### 37. Berkshire Surges 7% Amid Semiconductor Selloff — First "Extreme Divergence" Signal Since Dot-Com Bubble - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-10-22T03:35:00+00:00
@@ -356,7 +376,7 @@ Bears tighten grip on Dalal Street: Sensex falls 1%, Nifty slips below 22,600 Ze
 
 Berkshire Surges 7% Amid Semiconductor Selloff — First "Extreme Divergence" Signal Since Dot-Com Bubble finance.biggo.com
 
-### 36. Tom Lee Calls AI Stock Pullback a Correction, Citing Cisco's 1990s Rally - TOKENPOST
+### 38. Tom Lee Calls AI Stock Pullback a Correction, Citing Cisco's 1990s Rally - TOKENPOST
 
 - Source: TOKENPOST
 - Published: 2026-10-21T19:41:25+00:00
@@ -366,7 +386,7 @@ Berkshire Surges 7% Amid Semiconductor Selloff — First "Extreme Divergence" Si
 
 Tom Lee Calls AI Stock Pullback a Correction, Citing Cisco's 1990s Rally TOKENPOST
 
-### 37. NVIDIA’s Ising Decoding Cuts Quantum Error Correction Time On AWS - Quantum Zeitgeist
+### 39. NVIDIA’s Ising Decoding Cuts Quantum Error Correction Time On AWS - Quantum Zeitgeist
 
 - Source: Quantum Zeitgeist
 - Published: 2026-10-21T18:52:28+00:00
@@ -376,7 +396,7 @@ Tom Lee Calls AI Stock Pullback a Correction, Citing Cisco's 1990s Rally TOKENPO
 
 NVIDIA’s Ising Decoding Cuts Quantum Error Correction Time On AWS Quantum Zeitgeist
 
-### 38. The AI Selloff Looks Like a Bear Trap. Follow the Bottleneck Instead. - TheStreet Pro
+### 40. The AI Selloff Looks Like a Bear Trap. Follow the Bottleneck Instead. - TheStreet Pro
 
 - Source: TheStreet Pro
 - Published: 2026-10-21T17:15:00+00:00
@@ -386,7 +406,7 @@ NVIDIA’s Ising Decoding Cuts Quantum Error Correction Time On AWS Quantum Zeit
 
 The AI Selloff Looks Like a Bear Trap. Follow the Bottleneck Instead. TheStreet Pro
 
-### 39. A Data-Center Stock’s 40% Selloff in Australia Exposes Risks in the AI Buildout - Barron's
+### 41. A Data-Center Stock’s 40% Selloff in Australia Exposes Risks in the AI Buildout - Barron's
 
 - Source: Barron's
 - Published: 2026-10-21T14:37:00+00:00
@@ -396,7 +416,7 @@ The AI Selloff Looks Like a Bear Trap. Follow the Bottleneck Instead. TheStreet 
 
 A Data-Center Stock’s 40% Selloff in Australia Exposes Risks in the AI Buildout Barron's
 
-### 40. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
+### 42. Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns
 
 - Source: Goodreturns
 - Published: 2026-10-21T13:24:18+00:00
@@ -406,7 +426,17 @@ A Data-Center Stock’s 40% Selloff in Australia Exposes Risks in the AI Buildou
 
 Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? Goodreturns
 
-### 41. Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.94% (21 October 2026) - SolarQuarter
+### 43. Nifty IT gains 2.88% as Sensex falls 143 points ahead of Infosys results - Mugglehead Investment Magazine
+
+- Source: Mugglehead Investment Magazine
+- Published: 2026-10-21T13:15:16+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE1lOVZ5LUREUnEwQ19lRG5CMDVYSEJXY2Rya1RreVR2NEhWdWppYWdsQ3ViTHp0dUNPaFYwcVdtRFd3X2t0ekZyRnJoa29wNlU1VGp6bWFmaGR5T3FJUTA5LWpHbVVnUjFkQVEwMTdwYS0wZ08zbVd1LWhldw?oc=5
+
+Nifty IT gains 2.88% as Sensex falls 143 points ahead of Infosys results Mugglehead Investment Magazine
+
+### 44. Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.94% (21 October 2026) - SolarQuarter
 
 - Source: SolarQuarter
 - Published: 2026-10-21T12:19:38+00:00
@@ -416,7 +446,7 @@ Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts
 
 Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.94% (21 October 2026) SolarQuarter
 
-### 42. Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close - News Mobile
+### 45. Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close - News Mobile
 
 - Source: News Mobile
 - Published: 2026-10-21T11:40:05+00:00
@@ -426,7 +456,7 @@ Indian Renewable Energy Stocks Decline as Sensex Falls 0.75% and Nifty Slips 0.9
 
 Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close News Mobile
 
-### 43. Sensex falls 143 points, Nifty slips 0.34% - Rediff
+### 46. Sensex falls 143 points, Nifty slips 0.34% - Rediff
 
 - Source: Rediff
 - Published: 2026-10-21T11:00:54+00:00
@@ -436,7 +466,7 @@ Sensex Falls 143 Points, Nifty Slips Below 22,900 at Close News Mobile
 
 Sensex falls 143 points, Nifty slips 0.34% Rediff
 
-### 44. Share Market Slump Continues: Sensex, Nifty Fall for Second Day, Smallcaps Hit Hardest - Lokmat Times
+### 47. Share Market Slump Continues: Sensex, Nifty Fall for Second Day, Smallcaps Hit Hardest - Lokmat Times
 
 - Source: Lokmat Times
 - Published: 2026-10-21T10:44:58+00:00
@@ -446,7 +476,7 @@ Sensex falls 143 points, Nifty slips 0.34% Rediff
 
 Share Market Slump Continues: Sensex, Nifty Fall for Second Day, Smallcaps Hit Hardest Lokmat Times
 
-### 45. Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally - News18
+### 48. Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally - News18
 
 - Source: News18
 - Published: 2026-10-21T10:42:38+00:00
@@ -456,7 +486,7 @@ Share Market Slump Continues: Sensex, Nifty Fall for Second Day, Smallcaps Hit H
 
 Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; IT Stocks Rally News18
 
-### 46. Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Selloff? - kalkine.ca
+### 49. Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Selloff? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-10-21T10:03:00+00:00
@@ -466,7 +496,7 @@ Sensex Falls 143 Points, Nifty Ends Below 22,850 After Sharp Intraday Reversal; 
 
 Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Selloff? kalkine.ca
 
-### 47. Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.79 lakh crore - Zee Business
+### 50. Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.79 lakh crore - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-21T09:36:00+00:00
@@ -476,7 +506,7 @@ Could QQQ (NASDAQ:QQQ) Face More Pressure After the Nasdaq's 2.1% AI-Debt Sellof
 
 Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.79 lakh crore Zee Business
 
-### 48. Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under Pressure - Moneycontrol.com
+### 51. Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under Pressure - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-21T09:34:46+00:00
@@ -486,7 +516,7 @@ Closing Bell: Sensex falls 143 points, Nifty below 22,850; BSE mcap erodes Rs 6.
 
 Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under Pressure Moneycontrol.com
 
-### 49. Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC - BBN Times
+### 52. Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-21T09:32:42+00:00
@@ -496,7 +526,7 @@ Closing Bell LIVE | Sensex, Nifty Fall Over 1%: Why Midcaps And Banks Are Under 
 
 Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits Lenovo and SMIC BBN Times
 
-### 50. Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21 - CNBC TV18
+### 53. Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21 - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-21T08:40:45+00:00
@@ -506,7 +536,7 @@ Hong Kong Stock Exchange: Hang Seng Index Slips to 24,062.72 as AI Selloff Hits 
 
 Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21 CNBC TV18
 
-### 51. Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows - NewsBytes
+### 54. Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-21T08:12:20+00:00
@@ -516,7 +546,7 @@ Stock Market Crash: Key factors behind the steep Sensex-Nifty sell-off on Oct 21
 
 Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows NewsBytes
 
-### 52. Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained - Zee Business
+### 55. Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-21T07:24:53+00:00
@@ -526,7 +556,7 @@ Nifty slips 0.66%, Sensex falls, 322 stocks hit 1-year lows NewsBytes
 
 Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained Zee Business
 
-### 53. Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then crashes from day's high - Fall reasons? - Livemint
+### 56. Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then crashes from day's high - Fall reasons? - Livemint
 
 - Source: Livemint
 - Published: 2026-10-21T07:24:44+00:00
@@ -536,27 +566,7 @@ Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers 
 
 Wibbly wobbly Wednesday for stock market! Sensex, Nifty first soars, and then crashes from day's high - Fall reasons? Livemint
 
-### 54. Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? - Goodreturns
-
-- Source: Goodreturns
-- Published: 2026-10-21T07:03:30+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRmFBckJVVWt1UVVHT25qaENybTU0UDFGRFU1cnpaYUhnMWR5T3ZDRERydk5tcWtHeDFXMFpOTVRkZHctOF9VUzlWejRTa2V1Sm5GWHdFcUVQVTBNNjYwTW5sdzNLQXZtb1dPSUpvcmtjVEoxMkhTNVFNcVBjOFgxU1FQc2EwbGo3MXVmdU9fLVY0QzN5V091cVhsd0xyOFVyRnVWYk0wcWtrRDFOa29neGVlY2VJd0lZM2g5cjJKV2FGa0Jhd3hzX3RDWlgxNDJHSlZUY0lVVQ?oc=5
-
-Stock Market Crash: Sensex Sinks 950 Pts, Nifty Falls Over 265 Pts | Why Stock Market Is Down Today? Goodreturns
-
-### 55. Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained - Zee Business
-
-- Source: Zee Business
-- Published: 2026-10-21T06:54:00+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxQU1EwQk9VcHFtaDdzRk5BZEtXNFZpR05pc3JXTFpzdmgwOVVETHVid013dVRLa0pSWk5hc2dROUVVVlgxR1ZiZmVrRUs4RHg0ZFYzV1dZVHZQMW5tejdrU0ZZMmFidE1VV0VQSEtiMDhKOWZYa3AzcXN6Zm9LNWZfM1pCcUl5U0U3TUZheDcwSXNRVzJ2eTNTLXFEbGE0WllnS1h0cVRrRVZkaXEwNC02LXNmRERJWk9ZOV9RTWJLU2pRZHRPYzR4MkxSMGFIV2l5dHVz?oc=5
-
-Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers explained Zee Business
-
-### 56. Indian stocks slump Thursday as Sensex falls 691 points - NewsBytes
+### 57. Indian stocks slump Thursday as Sensex falls 691 points - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-22T04:48:15+00:00
@@ -566,7 +576,7 @@ Stock Market Sell-Off: Sensex falls 1,300 points from intraday high; 3 triggers 
 
 Indian stocks slump Thursday as Sensex falls 691 points NewsBytes
 
-### 57. Sensex falls over 500 points at open - Rediff
+### 58. Sensex falls over 500 points at open - Rediff
 
 - Source: Rediff
 - Published: 2026-10-22T04:36:35+00:00
@@ -576,7 +586,7 @@ Indian stocks slump Thursday as Sensex falls 691 points NewsBytes
 
 Sensex falls over 500 points at open Rediff
 
-### 58. Nifty 50 Falls at Open on Thursday - Business Upturn
+### 59. Nifty 50 Falls at Open on Thursday - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-22T03:43:23+00:00
@@ -586,7 +596,7 @@ Sensex falls over 500 points at open Rediff
 
 Nifty 50 Falls at Open on Thursday Business Upturn
 
-### 59. Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng and BSE SENSEX Fall - BBN Times
+### 60. Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng and BSE SENSEX Fall - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-21T23:45:21+00:00
@@ -596,7 +606,7 @@ Nifty 50 Falls at Open on Thursday Business Upturn
 
 Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng and BSE SENSEX Fall BBN Times
 
-### 60. BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War - BBN Times
+### 61. BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-21T22:04:36+00:00
@@ -606,7 +616,17 @@ Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng an
 
 BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent Holds Above $106 Amid the Ukraine-Russia War BBN Times
 
-### 61. Sensex falls 143 points; L&T Technology jumps 8.75%, Vodafone Idea slides 4.89% - NewsDrum
+### 62. Nifty 50 Falls at Close as Indian Equities Slip on Wednesday - Business Upturn
+
+- Source: Business Upturn
+- Published: 2026-10-21T10:46:37+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxQd3RlNmZod0NnVkc5MV9uQzdwY05KdFhGQ1dtT1ZFcTVNWFpCLU9QeWw1V29wN0EwY2FNdEg1VTh0WThCeDhqbVZxR2NZYzNtSS12cEZnX2szUkZwbnY5QnNwblJHbFpkcUYxOFk1ZGVBbmUzS0hxUjBKR09fbFU3M2VWaGtsRUxzM2piZWlkMEZucV83bEU2N0ZvT2lIMU5sVFR4MFczMFNZczRRaVFz?oc=5
+
+Nifty 50 Falls at Close as Indian Equities Slip on Wednesday Business Upturn
+
+### 63. Sensex falls 143 points; L&T Technology jumps 8.75%, Vodafone Idea slides 4.89% - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-10-21T10:32:51+00:00
@@ -616,7 +636,7 @@ BSE SENSEX Falls to 72,781.89 as Wholesale Inflation Jumps to 11.39% and Brent H
 
 Sensex falls 143 points; L&T Technology jumps 8.75%, Vodafone Idea slides 4.89% NewsDrum
 
-### 62. Nifty IT surges 2.2% as IT stocks buck market-wide selloff - BusinessLine
+### 64. Nifty IT surges 2.2% as IT stocks buck market-wide selloff - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-10-21T10:14:25+00:00
@@ -626,7 +646,7 @@ Sensex falls 143 points; L&T Technology jumps 8.75%, Vodafone Idea slides 4.89% 
 
 Nifty IT surges 2.2% as IT stocks buck market-wide selloff BusinessLine
 
-### 63. ADC India Communications Share Price Drops in Latest Trade - Univest
+### 65. ADC India Communications Share Price Drops in Latest Trade - Univest
 
 - Source: Univest
 - Published: 2026-10-21T09:32:00+00:00
@@ -636,17 +656,27 @@ Nifty IT surges 2.2% as IT stocks buck market-wide selloff BusinessLine
 
 ADC India Communications Share Price Drops in Latest Trade Univest
 
-### 64. Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers - The Economic Times
+### 66. Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-21T09:18:17+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQbjNNaExtalZEc0lWMVN0WVNwWXdFcUkya2NtZVI4NG5MTHVCcmNBWXhBX0xQc3gzaHBILU1xT21JN1hHcXhHYWhrdEYtUkRrekl6S29NTGFHOHVvTFI3WWJEeldLUkRQRHJOY2VSeHZGTklfWFIxbktzZWxGLUJMYkotYWp6Q3RTam9BZTFTWjVmOFJoZXpTdk5UZDRQVWlTcVhkbS11TVozdFN0YVpUMlRWZVZqQ2ZDaXJYRkdmQkNIc2U5RkkwWnpKWXUxWEtJeEVHeXV3TlFlOXlOdWU4azYwNUNEcHZHQmpFOGlHU3Z2TjVRLXFmOG9LVDJZTjDSAYQCQVVfeXFMTXdoSzdZbjJOX195QmVOS2RIY0Npb1gtUHQ2LUJHNDR2ZXVmYmdRX1VpQTVyellwVFFSTVNpelpnSjNsMGpyclJ3YXJWVEdNZzV5aDVtNUozYTZacDJfVFRIY05pSk5GWGF4SFN3M25sQ1ZNWmJNcHR3OFpQZzVwSXl2dGpRQ0JWZVpTMThDQ3hacVFESmhybGpKdEtnNUVtdERxYV9VVC1aUVlQdmlUMTVjaEU1QkE3Y1VXZXBtUFo0XzJRNVMyOHZiM05RVW5lcERhMG5zcXBhS2tLNW1fMjZNUlhfMTJzY1IxSkdYZFI4eWl2bUxoalN2SHBENEJicVE1d2k?oc=5
+- Link: https://news.google.com/rss/articles/CBMiiwJBVV95cUxNWkUwU1djZFBsdjFCNUlUTGtMdzZJcDNhSnZTR0g3aUZ0d0g5Z2VQY0MzZWVsX2h2WGlDVG8tOFY4TFpqWFBrMUVYNWpqODhyQmxBdEtfYktMQV9ELW9CTm5id09aU3lXbjhqc3J3OC1vRXd5eFFWR2hpMmItTUxzWDI5N3ZnOXpNeWRhZWJHVTNlU0tRUnU0S0F3VjJuZ3NxdERNSDBKTWNqcVlJSVNwQk53YWtzc2lacEkyTUt3eGNiOWNrYXlqV3hFOG1faklZSzNsS3ZFQ1JINWEzRC1kNWlSQVZUaWxDOXIxaTZqRGpRQWpmVU9KSG5wUEZ4enlQVmdnb0lJS2NrRGPSAYQCQVVfeXFMTXdoSzdZbjJOX195QmVOS2RIY0Npb1gtUHQ2LUJHNDR2ZXVmYmdRX1VpQTVyellwVFFSTVNpelpnSjNsMGpyclJ3YXJWVEdNZzV5aDVtNUozYTZacDJfVFRIY05pSk5GWGF4SFN3M25sQ1ZNWmJNcHR3OFpQZzVwSXl2dGpRQ0JWZVpTMThDQ3hacVFESmhybGpKdEtnNUVtdERxYV9VVC1aUVlQdmlUMTVjaEU1QkE3Y1VXZXBtUFo0XzJRNVMyOHZiM05RVW5lcERhMG5zcXBhS2tLNW1fMjZNUlhfMTJzY1IxSkdYZFI4eWl2bUxoalN2SHBENEJicVE1d2k?oc=5
 
 Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 3 triggers The Economic Times
 
-### 65. Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% - Univest
+### 67. Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 5 triggers - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-21T09:18:00+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxNd2hLN1luMk5fX3lCZU5LZEhjQ2lvWC1QdDYtQkc0NHZldWZiZ1FfVWlBNXJ6WXBUUVJNU2l6WmdKM2wwanJyUndhclZUR01nNXloNW01SjNhNlpwMl9UVEhjTmlKTkZYYXhIU3czbmxDVk1aYk1wdHc4WlBnNXBJeXZ0alFDQlZlWlMxOENDeFpxUURKaHJsakp0S2c1RW10RHFhX1VULVpRWVB2aVQxNWNoRTVCQTdjVVdlcG1QWjRfMlE1UzI4dmIzTlFVbmVwRGEwbnNxcGFLa0s1bV8yNk1SWF8xMnNjUjFKR1hkUjh5aXZtTGhqU3ZIcEQ0QmJxUTV3adIBhAJBVV95cUxNd2hLN1luMk5fX3lCZU5LZEhjQ2lvWC1QdDYtQkc0NHZldWZiZ1FfVWlBNXJ6WXBUUVJNU2l6WmdKM2wwanJyUndhclZUR01nNXloNW01SjNhNlpwMl9UVEhjTmlKTkZYYXhIU3czbmxDVk1aYk1wdHc4WlBnNXBJeXZ0alFDQlZlWlMxOENDeFpxUURKaHJsakp0S2c1RW10RHFhX1VULVpRWVB2aVQxNWNoRTVCQTdjVVdlcG1QWjRfMlE1UzI4dmIzTlFVbmVwRGEwbnNxcGFLa0s1bV8yNk1SWF8xMnNjUjFKR1hkUjh5aXZtTGhqU3ZIcEQ0QmJxUTV3aQ?oc=5
+
+Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls lose steam; 5 triggers The Economic Times
+
+### 68. Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% - Univest
 
 - Source: Univest
 - Published: 2026-10-21T09:07:00+00:00
@@ -656,7 +686,7 @@ Rs 8 lakh crore selloff! Sensex plunges 1,400 points from day’s peak as bulls 
 
 Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% Univest
 
-### 66. Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks? - Zee Business
+### 69. Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks? - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-21T08:23:50+00:00
@@ -666,7 +696,7 @@ Tourism Finance Corporation Of India (TFCILTD) Share Price Falls 5.48% Univest
 
 Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks? Zee Business
 
-### 67. Rupee Falls 12 Paise To 94.50 Against US Dollar, Rising Crude Oil Prices And Weak Stock Markets Weigh On - Free Press Journal
+### 70. Rupee Falls 12 Paise To 94.50 Against US Dollar, Rising Crude Oil Prices And Weak Stock Markets Weigh On - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-22T04:29:25+00:00
@@ -676,7 +706,7 @@ Nifty Auto Falls Nearly 8% in a Month: Should investors worry about auto stocks?
 
 Rupee Falls 12 Paise To 94.50 Against US Dollar, Rising Crude Oil Prices And Weak Stock Markets Weigh On Free Press Journal
 
-### 68. Franklin India Small Cap Mutual Fund: Rs 10,000 monthly SIP turned into Rs 50 lakh in 13 years, 19.18% return since launch, AUM crosses Rs 14,000 crore - Check returns, top holdings - ET Now
+### 71. Franklin India Small Cap Mutual Fund: Rs 10,000 monthly SIP turned into Rs 50 lakh in 13 years, 19.18% return since launch, AUM crosses Rs 14,000 crore - Check returns, top holdings - ET Now
 
 - Source: ET Now
 - Published: 2026-10-21T16:55:07+00:00
@@ -686,17 +716,7 @@ Rupee Falls 12 Paise To 94.50 Against US Dollar, Rising Crude Oil Prices And Wea
 
 Franklin India Small Cap Mutual Fund: Rs 10,000 monthly SIP turned into Rs 50 lakh in 13 years, 19.18% return since launch, AUM crosses Rs 14,000 crore - Check returns, top holdings ET Now
 
-### 69. NFO Alert: Choice Mutual Fund launches large & midcap fund, its first actively managed equity fund - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-21T09:10:22+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNYTRmdEJpUDVTcXRxR2VDTFpNeDl0UTRxUWgyWFgtYzBtdldFZkNfY1QwclR2amdJX1o5VVpSUVFmaFhuRzZ5UkFwMDVIWVI4aHdYMU9PV295eDZoS2Q2MzQteE5yX0k2YzFHcDVPcVQ0WEZFNkhzdG1VUlF4Z1F0X1VJZG5lY2hWcDhwNHdZWVF6Tk9PS1BUa2pTNHV3MDNKZjZSOUdmRmpCMEkyLXZYMXozWHN5enZBUi1Ic05Zb0VhdEIwMjBReUN1WjViWlBQVUtITTBISE1hZDUzcHp4NHlpbjJibnFFWVZuRDMzcWgxMThjTGfSAfYBQVVfeXFMTWE0ZnRCaVA1U3F0cUdlQ0xaTXg5dFE0cVFoMlhYLWMwbXZXRWZDX2NUMHJUdmpnSV9aOVVaUlFRZmhYbkc2eVJBcDA1SFlSOGh3WDFPT1dveXg2aEtkNjM0LXhOcl9JNmMxR3A1T3FUNFhGRTZIc3RtVVJReGdRdF9VSWRuZWNoVnA4cDR3WVlRek5PT0tQVGtqUzR1dzAzSmY2UjlHZkZqQjBJMi12WDF6M1hzeXp2QVItSHNOWW9FYXRCMDIwUXlDdVo1YlpQUFVLSE0wSEhNYWQ1M3B6eDR5aW4yYm5xRVlWbkQzM3FoMTE4Y0xn?oc=5
-
-NFO Alert: Choice Mutual Fund launches large & midcap fund, its first actively managed equity fund The Economic Times
-
-### 70. Rupee falls to ₹94.50 against US dollar amid oil, equities - NewsBytes
+### 72. Rupee falls to ₹94.50 against US dollar amid oil, equities - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-10-22T04:48:15+00:00
@@ -706,7 +726,7 @@ NFO Alert: Choice Mutual Fund launches large & midcap fund, its first actively m
 
 Rupee falls to ₹94.50 against US dollar amid oil, equities NewsBytes
 
-### 71. Sensex, Nifty Open Lower As Asian Markets Tumble, Crude Oil Climbs - Ommcom News
+### 73. Sensex, Nifty Open Lower As Asian Markets Tumble, Crude Oil Climbs - Ommcom News
 
 - Source: Ommcom News
 - Published: 2026-10-22T04:48:01+00:00
@@ -716,7 +736,7 @@ Rupee falls to ₹94.50 against US dollar amid oil, equities NewsBytes
 
 Sensex, Nifty Open Lower As Asian Markets Tumble, Crude Oil Climbs Ommcom News
 
-### 72. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
+### 74. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-21T22:48:20+00:00
@@ -726,7 +746,7 @@ Sensex, Nifty Open Lower As Asian Markets Tumble, Crude Oil Climbs Ommcom News
 
 Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News
 
-### 73. Best Midcap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) - Myinvestmentideas
+### 75. Best Midcap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-21T22:00:27+00:00
@@ -736,47 +756,7 @@ Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New E
 
 Best Midcap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) Myinvestmentideas
 
-### 74. SBI Mutual Fund Presents Smart Nivesh Asset Allocation - Zee Business
-
-- Source: Zee Business
-- Published: 2026-10-21T14:00:00+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDVsaWZMQ3BLNjZadmgtdVpEeW5Nam5HRmx2TVRzZEFaeTZuY2pvSjRfNWJ1dFB4ZWllV1RmdWF4T2pYQW9BQUFGZkJwRDR5Z0Y5OHdPUTdzMVZWN1pvcFBNMnlsQ2ZKV3ZCaE54VWF6NDZvakJ0RGZJQUpGU3VTNTVhVUM4V0g4eHVmLTkxMHc0TTZNTDhkRGpRSDEySDM1SGdtNjJ0dXlUZHR6bnpIYjZYYlg?oc=5
-
-SBI Mutual Fund Presents Smart Nivesh Asset Allocation Zee Business
-
-### 75. Sundaram Mutual Fund announces launch of Equity Ex-Top 100 Long Short Fund through its SIF platform Select - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-10-21T12:33:14+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxPMy1ldHBnVzZjekhTOWdybTdDTGtqaG9JM2xKSHNDYmRhUVQ4ajBlc3lYU0lNMEtEcDdXbi1MdXplVlFGM3ZVaUx1VjRsNjE0cUF4YnBTOWV6UTJCNElWazA0NUVuenFfTGtuclZJaldPNVNaMlk1WFRmRi0xX3pnR19mU2duWUR5X0Jld1lpOV9ieXd2QWJIV3JUeVQzZ0RQWTNtSEU0ajN1NUhjUWhDNzZDczloOFFMVDJxR2EtYWsxVE1rWW41emFEczBmUkRXai1WQlNuTlJHN3FLUDlraHpvV2lyOFZYLV9TRkFXOE1EbnFkSTRQak9EaV90ZnVY0gGGAkFVX3lxTE8ycjNFdWRIMC1jcFEzZ0NBOXhNbEpDZW1pbVJuMzBKTW0zVWhzeER4UGZLZlZOM0VobVFNb2hPdkdHY1lfZER2eUZrd0FlR3BQVUdOeVlFLUk5ZzAtY0s3bER0YWZ2ZGZxaWZsU0FCaTBaekdCN092MVgyU3M1VW82NWRaQUE0OGtlbFR2MncxMVBDQ1BGMFJNMjhfN1FHcWJFekpJV2E4NHlvZElSOTZuWXVLQlI5ZENPdmhacmhXVGNhOWlReUh5ajVpQXgxN0g0WXBaWEQ2a0s5blQ1eUZKSjlGRjBlbUNpMGtKQmZYX1p5SnpNMkVndlRlSjlwbW9GSnBDdkE?oc=5
-
-Sundaram Mutual Fund announces launch of Equity Ex-Top 100 Long Short Fund through its SIF platform Select The Economic Times
-
-### 76. SIP Weak Start: Should You Stop or Continue Your Investment? - Kalkine India
-
-- Source: Kalkine India
-- Published: 2026-10-21T12:23:00+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTVBGVUo3VmxiR1dUU0ZzZk13MVhXbHNQQzdSWU5XLWRHcjdoZHkyYk0xc2NJc25TYkdORXI0SW1STlhBZHhlTS1mVGNEVm1TaFhpei1IU01hbUpOdnRmamxfQXZ4N1drb2xYNFBnb0VKbG90alAwRUNkRVJDeEpEZTNFN2ViRm00eWg2Y0sxbHZocFNfSU9WT204NWNEOUoyUGR2NEs0Y2FDaFZaWmlvU3JUUTk0dlR4VGhuLVpKcWxuWURfTktsMVY4eWM?oc=5
-
-SIP Weak Start: Should You Stop or Continue Your Investment? Kalkine India
-
-### 77. Mutual Funds Trim IT Exposure Since December 2024 Peak - Kalkine India
-
-- Source: Kalkine India
-- Published: 2026-10-21T10:33:00+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNcXd3RkJvSFFmU0Njb2s0LVJMUGtxYXpsZ3hhWkxpY3ljTTRCbFZpNjZkVXoyaEp5ZTcwMjFoRl82UlQwNUN0Z0lGeFBfck5RcmxFMTVGWGJvbHh1dEpVV2VvR21fQmllUExaUHBDNk9Za0dWMVI1TFRDTHdIc1ZoYVBpMFlraVNJemRvSExOejhXZENtTFYtNHQ0TmxNQkFTRVRZUktLUHhTTXpzVnduVDVOMzlVYTBxTHFBSzk2TnBzV2VraVpv?oc=5
-
-Mutual Funds Trim IT Exposure Since December 2024 Peak Kalkine India
-
-### 78. ai market data nifty bank nifty fii dii data rupee gold price - Zee Business
+### 76. ai market data nifty bank nifty fii dii data rupee gold price - Zee Business
 
 - Source: Zee Business
 - Published: 2026-10-21T10:27:01+00:00
@@ -786,22 +766,42 @@ Mutual Funds Trim IT Exposure Since December 2024 Peak Kalkine India
 
 ai market data nifty bank nifty fii dii data rupee gold price Zee Business
 
-### 79. Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? - The Economic Times
+### 77. Highest-Return Small-Cap Mutual Funds: 5-Year Guide - Value Research
 
-- Source: The Economic Times
-- Published: 2026-10-21T07:05:42+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxNaEVLVGh1OGx5STMyZFhxRVk3VV9SYTVUcUlDbG5YdTJtRkRPck1mS1NVNHB0Q2E3SFhLa3ZTeGs1ejVEaWo3X0ZNUDVjVTdGSjFoUkYzZnBRVDRzYTZ5TVo4aTEyOW1FRDU0cUhEeWpibDJJaDJNYVJaRktUTE9qb0RKSGYzU1dvdzF1V1Q3MEhiQTN5U1R5V3RBNmRnR3ZaLUh3SGlERG9RVDJuX0kyazE4Tms0eEVmM2tqV1c3LXZrc3dsQ0ljV3djMXVfb0hSSDVxNHMwalM1SzlBVGltUzZ2RjU1UlJrbkdtU2ZKMVVjZXhkZWs4NnVzemtkUWtwT19zSHhjZVoyNUpoa2VOS3FBWHU?oc=5
+- Source: Value Research
+- Published: 2026-10-22T06:08:44+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxOS01UOEVtaHVrZzYxZHV2bVAyYUNUd3IxMDg5LWVCUlJ1Z1laN3BsZFhQRTdRWkZfTm5tN0w1cUtGV1EzZ1RQZ0FKa25qQUktZUR1QWFzNHVmZGVzTU95RXBvVFBiLUpIUFc1a2Q2MnpWT0pIRi13MW1BSG5wYmdDOWt4anVHcEVxazhFazMzLWhnOEZseENZcWVCd0NoX0hOazZYQk0xZDg4T0U?oc=5
 
-Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? The Economic Times
+Highest-Return Small-Cap Mutual Funds: 5-Year Guide Value Research
 
-### 80. Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? - The Economic Times
+### 78. Highest-Return Flexi-Cap Mutual Funds: 5-Year Guide - Value Research
 
-- Source: The Economic Times
-- Published: 2026-10-21T07:04:09+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMitwJBVV95cUxPXzlIbE9YT3pUSkVOTWtDNTNrVklZR2ozdFhGMTJ6TUR3VHNjWV8wXzlJZlRhQ2tlVGZUNG9SekstSmx5aDBZYlpNZGZJc005SUVzRWpNeVY0MUZQRk1ZUGxTQVFab2RwcU5YVng1QVktR201Q3J3SjRfZUxNdmNLTUpkbVloc1pUeHk3M0d4b1J4QnRUQlhFU0FoWWdic0xIOFBSeG00bXZLaHdYeDhLakg0QnNWSnpTd3BuSmlpUC11V3ZwVW0tdjJjU2FtanJOMzF2UzhFc2VpTGp0aDVscTJjRVU2LWNwcl9HbVlGdzEzU2FPUGJxWk1UenJhWjVOMGFXdmgtZlpCQ3FpclBPVjBYTVl3bWhKQUlYeXpQSUY0Q2w4dlVkY1JacThUalg4SUFTYWtvQQ?oc=5
+- Source: Value Research
+- Published: 2026-10-22T06:06:55+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxQV1B3VnhWNjcydGZQVmdMbzhnSjMtbTYzZGtUSGtyemdWcWpFSWE1dlpwYzc5emF0a2Y5RlNVZ2VvcVJ5bWJhS2swZWJkNlgwbVNOSTF4ZEFpaU44UDNuZ1prWkFUekVaVVd2My15MExGMFhOM0hfYjFFTWExY2F3bkN2eFg3bzN6VVp3bWYzb3BHcGkwcFBLMDVYSkNUbXVEY1duSGJYVXo5MW8?oc=5
 
-Bandhan Small Cap among 5 smallcap mutual funds with over 16% gains in 3 years. Do you own any? The Economic Times
+Highest-Return Flexi-Cap Mutual Funds: 5-Year Guide Value Research
+
+### 79. Sensex slips 464 points in early deals amid rising crude oil prices - Mid-Day
+
+- Source: Mid-Day
+- Published: 2026-10-22T04:38:00+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxNeFRhbl9VT0pwa0RyN1dKNGl5bWJnVTlDbmo5V3hEMkVaY1RRWHkybEdGMTNwc01IblY0anZ5YjNWR196NUFDcHpNMmt5THc1RmRJbHdUaVg2VGU4WlVzWjlqTXZ2Y01qaDdvcTluTG5sOVhHTERxMDJqNzBlWVNkN2Y1dzhHMWdzeDMwT0R2MC1tQnlWTDRoMW81WVVCUkYtT19qYUFDOGljVHd5YS1FTWN2Z0ZGYW5BU2JwZ0ZmR2dIOFhUelRsRS1lX3FaTWt0WjFTTm1SUF9LaEY3UEw3RFBRZkl0N0dx?oc=5
+
+Sensex slips 464 points in early deals amid rising crude oil prices Mid-Day
+
+### 80. RBL Bank Evaluates Foray Into Broking, Mutual Funds As Part Of Expanding Capital Market Activities - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-10-21T14:32:45+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3BhTEFta3hqNnRtWEJGcFkwSXhrYjFDa3RxN1E0dEdneXR6ZmpJSlF6ZFFTTW5JeXBUTWtlSWRSOTlGaGF6ZnExV2tjSUdmOFJjUUttSm9JYkZoVGZEdmJmNTNUZFgtQThtekI5Q2hOWTFxRWk1eHZfT3dwOVo1a08xTGQtM0s4amtXcHBCbHFRaWp3WkVuX1hnNFBuNnI4eDYyMkRfOUhEOWp1REx5b294MTF5SWh6bmlrWWFvdjZGZ9IBygFBVV95cUxPdXZxdmNqR0x2bUg1d0xweFhHeHh2bG5xZ3hFVWtiS3dsUU5xRV9tWi14R2ViejdVZlZRaUd5Qld0d1IwdHgtZXRqUjlXTzZjeVBxbXlQaFBoaDg0MFRObFNSLTNhZnVJdmdNc2xKVlBucVBseGM2Z0t5VEhMeTlaVEk0dC1uMy1QTS1Odmx5cHZXcDlWYXNIMU03QlFjWE9XVkF1cm1yRk1IbE1INE05R2FBSDdCYUhiV1JJVmtIa2VFVDZqLTB5b053?oc=5
+
+RBL Bank Evaluates Foray Into Broking, Mutual Funds As Part Of Expanding Capital Market Activities NDTV Profit
