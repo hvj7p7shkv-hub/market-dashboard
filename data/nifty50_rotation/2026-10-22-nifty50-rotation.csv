@@ -1,0 +1,51 @@
+symbol,name,ticker,downloaded,last_date,last,return_1d_pct,return_5d_pct,return_20d_pct,volume_ratio_20d,rsi_14,rsi_5d_ago,above_sma_20,above_sma_50,above_sma_200,distance_sma_20_pct,distance_sma_50_pct,rs_ratio,rs_ratio_sma_50,rs_distance_sma_50_pct,rs_return_20d_pct,rs_above_50dma,rotation_signal,rotation_score
+KOTAKBANK,Kotak Mahindra Bank,KOTAKBANK.NS,True,2026-10-21,437.8,-1.02,-0.06,5.94,0.41,58.16,63.82,True,True,True,2.14,4.68,0.0191922,0.01751557,9.57,7.37,True,Strengthening,5.7
+BHARTIARTL,Bharti Airtel,BHARTIARTL.NS,True,2026-10-21,1891.7,0.88,5.41,3.19,1.13,59.7,46.42,True,True,True,4.58,2.24,0.08292802,0.07914926,4.77,4.93,True,Strengthening,5.49
+ICICIBANK,ICICI Bank,ICICIBANK.NS,True,2026-10-21,1385.0,0.29,3.47,3.36,1.34,56.49,45.87,True,True,True,2.95,0.54,0.06071539,0.05881789,3.23,3.74,True,Strengthening,5.25
+HCLTECH,HCL Technologies,HCLTECH.NS,True,2026-10-21,1424.2,3.21,7.32,13.33,0.9,74.58,63.93,True,True,True,11.8,11.01,0.06243383,0.05474954,14.04,15.69,True,Strengthening,4.9
+DRREDDY,Dr Reddy's Labs,DRREDDY.NS,True,2026-10-21,1244.5,0.16,2.34,2.75,0.57,60.72,53.98,True,True,False,2.1,4.46,0.05455617,0.05031433,8.43,11.11,True,Strengthening,4.9
+ADANIPORTS,Adani Ports,ADANIPORTS.NS,True,2026-10-21,1748.8,-0.97,0.01,-3.24,0.75,49.03,49.28,False,True,True,-0.72,0.83,0.07666359,0.07312982,4.83,3.26,True,Strengthening,4.45
+TRENT,Trent,TRENT.NS,True,2026-10-21,2822.0,-2.41,-5.02,1.73,0.67,47.96,64.83,True,False,True,0.84,-0.48,0.12371035,0.12123879,2.04,3.7,True,Neutral / watch,4.24
+TECHM,Tech Mahindra,TECHM.NS,True,2026-10-21,1834.7,3.13,16.47,17.84,1.36,77.68,56.73,True,True,True,15.76,15.91,0.08042926,0.0673932,19.34,19.86,True,Strengthening,4.2
+TCS,TCS,TCS.NS,True,2026-10-21,2529.0,2.77,9.72,21.03,0.96,77.35,65.34,True,True,True,15.05,13.14,0.11086586,0.09560292,15.96,17.6,True,Strengthening,4.2
+WIPRO,Wipro,WIPRO.NS,True,2026-10-21,189.17,3.86,10.68,14.72,1.4,74.21,59.28,True,True,False,13.23,10.25,0.0082928,0.00735941,12.68,15.37,True,Strengthening,4.1
+INFY,Infosys,INFY.NS,True,2026-10-21,1168.0,3.3,7.35,14.45,1.34,68.11,60.38,True,True,False,11.16,8.2,0.05120258,0.04631854,10.54,12.15,True,Strengthening,4.1
+HDFCLIFE,HDFC Life,HDFCLIFE.NS,True,2026-10-21,539.65,-1.07,-0.81,-3.89,0.33,47.4,50.64,False,False,False,-0.27,-0.28,0.02365708,0.02290745,3.27,3.59,True,Neutral / watch,2.72
+ITC,ITC,ITC.NS,True,2026-10-21,262.0,0.46,0.19,-3.02,1.01,48.38,47.72,False,False,False,-0.3,-1.1,0.01148551,0.01135791,1.12,0.95,True,Neutral / watch,2.19
+ULTRACEMCO,UltraTech Cement,ULTRACEMCO.NS,True,2026-10-21,10849.0,1.87,0.5,-2.74,1.15,49.56,46.95,True,False,False,0.55,-2.15,0.47559658,0.47669383,-0.23,3.2,False,Neutral / watch,2.14
+ONGC,ONGC,ONGC.NS,True,2026-10-21,225.62,0.28,0.05,-4.76,0.82,46.89,44.83,True,False,False,0.1,-2.51,0.00989069,0.00987443,0.16,-3.02,True,Neutral / watch,2.1
+HDFCBANK,HDFC Bank,HDFCBANK.NS,True,2026-10-21,706.95,-0.71,-0.53,-4.11,0.86,45.73,47.76,False,False,False,-1.07,-1.35,0.03099115,0.03046696,1.72,-0.27,True,Neutral / watch,1.95
+JSWSTEEL,JSW Steel,JSWSTEEL.NS,True,2026-10-21,1222.9,-1.48,3.97,-5.77,0.64,47.15,33.19,False,False,False,-0.26,-3.4,0.05360928,0.05408625,-0.88,-0.34,False,Mean reversion bounce,1.63
+HEROMOTOCO,Hero MotoCorp,HEROMOTOCO.NS,True,2026-10-21,5153.5,-1.46,2.67,-4.46,0.77,48.15,40.54,True,False,False,0.31,-3.41,0.22591824,0.22941229,-1.52,0.2,False,Neutral / watch,1.54
+RELIANCE,Reliance Industries,RELIANCE.NS,True,2026-10-21,1209.0,0.58,2.93,-3.12,1.14,49.31,39.03,True,False,False,1.4,-3.16,0.05299993,0.05353475,-1.0,-0.76,False,Weakening,1.35
+SBIN,State Bank of India,SBIN.NS,True,2026-10-21,963.0,-1.1,0.85,-3.13,1.0,45.62,41.68,True,False,False,0.25,-3.59,0.04221583,0.04289247,-1.58,-1.13,False,Weakening,1.27
+TATACONSUM,Tata Consumer,TATACONSUM.NS,True,2026-10-21,970.65,0.43,-1.75,-2.38,0.54,45.95,51.88,True,False,False,0.34,-3.27,0.04255119,0.04312408,-1.33,-1.22,False,Weakening,1.26
+AXISBANK,Axis Bank,AXISBANK.NS,True,2026-10-21,1210.0,-2.1,-4.32,-2.67,0.67,40.68,57.42,False,False,False,-2.24,-2.7,0.05304377,0.05267107,0.71,-0.76,True,Neutral / watch,1.05
+EICHERMOT,Eicher Motors,EICHERMOT.NS,True,2026-10-21,7170.5,-2.43,1.24,-4.01,1.29,45.67,41.78,True,False,False,0.52,-4.77,0.31433913,0.32294237,-2.66,-2.69,False,Weakening,0.96
+ETERNAL,Eternal,ETERNAL.NS,True,2026-10-21,312.35,-2.45,-1.16,-8.84,1.36,40.88,43.08,False,False,True,-3.27,-3.66,0.01369275,0.01370335,-0.08,0.29,False,Neutral / watch,0.86
+COALINDIA,Coal India,COALINDIA.NS,True,2026-10-21,407.5,-1.02,-2.28,-4.02,0.81,42.29,50.32,False,False,False,-2.16,-1.73,0.01786391,0.01755878,1.74,-1.77,True,Neutral / watch,0.85
+M&M,Mahindra & Mahindra,M&M.NS,True,2026-10-21,2889.0,-0.62,3.41,-4.81,0.87,44.06,31.59,True,False,False,0.23,-6.63,0.12664748,0.13399243,-5.48,-4.22,False,Mean reversion bounce,0.76
+SUNPHARMA,Sun Pharma,SUNPHARMA.NS,True,2026-10-21,1745.1,0.12,-0.07,-6.43,1.48,35.1,32.81,False,False,False,-2.34,-5.62,0.07650139,0.07920232,-3.41,-4.17,False,Mean reversion bounce,0.07
+SBILIFE,SBI Life,SBILIFE.NS,True,2026-10-21,1661.0,0.8,0.67,-5.63,0.49,41.01,36.72,False,False,False,-2.14,-3.75,0.07281463,0.07413262,-1.78,-0.43,False,Weakening,-0.09
+CIPLA,Cipla,CIPLA.NS,True,2026-10-21,1314.0,-0.76,-0.05,-4.99,1.24,37.18,35.95,False,False,False,-1.86,-4.58,0.0576029,0.05904111,-2.44,-1.52,False,Weakening,-0.3
+HINDALCO,Hindalco,HINDALCO.NS,True,2026-10-21,892.85,-0.84,1.17,-11.05,0.84,36.89,31.13,False,False,False,-3.15,-8.65,0.0391406,0.04208063,-6.99,-6.57,False,Mean reversion bounce,-0.3
+GRASIM,Grasim,GRASIM.NS,True,2026-10-21,2889.1,0.35,0.56,-9.39,0.58,36.22,31.35,False,False,False,-2.56,-8.14,0.12665186,0.13472954,-6.0,-7.73,False,Mean reversion bounce,-0.3
+BAJFINANCE,Bajaj Finance,BAJFINANCE.NS,True,2026-10-21,926.0,-3.27,-3.24,-11.23,2.15,35.45,40.09,False,False,False,-4.0,-9.25,0.04059383,0.04397466,-7.69,-6.33,False,Weakening,-0.4
+BEL,Bharat Electronics,BEL.NS,True,2026-10-21,371.2,-1.59,-2.92,-6.27,0.86,36.35,45.16,False,False,False,-2.55,-6.16,0.0162726,0.01683702,-3.35,-2.06,False,Weakening,-0.41
+ASIANPAINT,Asian Paints,ASIANPAINT.NS,True,2026-10-21,2319.4,-0.48,-1.08,-5.52,0.78,36.52,39.18,False,False,False,-2.17,-6.5,0.10167745,0.10708951,-5.05,-2.31,False,Weakening,-0.46
+POWERGRID,Power Grid,POWERGRID.NS,True,2026-10-21,252.15,0.72,1.29,-6.68,1.08,42.46,36.13,False,False,False,-0.95,-3.72,0.01105371,0.01119413,-1.25,-2.34,False,Weakening,-0.47
+LT,Larsen & Toubro,LT.NS,True,2026-10-21,3636.0,-0.71,-0.16,-7.48,0.98,38.77,37.88,False,False,False,-1.88,-6.11,0.15939434,0.16572887,-3.82,-2.81,False,Weakening,-0.56
+HINDUNILVR,Hindustan Unilever,HINDUNILVR.NS,True,2026-10-21,1850.2,-0.16,-2.39,-5.12,0.45,41.5,48.55,False,False,False,-1.13,-4.63,0.08110875,0.08328262,-2.61,-4.02,False,Weakening,-0.8
+TATASTEEL,Tata Steel,TATASTEEL.NS,True,2026-10-21,172.45,-0.91,-1.17,-9.63,0.9,36.64,38.72,False,False,False,-3.2,-5.49,0.00755983,0.00779587,-3.03,-4.09,False,Weakening,-0.82
+JIOFIN,Jio Financial Services,JIOFIN.NS,True,2026-10-21,211.39,-1.22,-3.47,-8.94,0.89,34.99,44.61,False,False,False,-2.38,-7.67,0.00926688,0.00991414,-6.53,-4.31,False,Weakening,-0.86
+NTPC,NTPC,NTPC.NS,True,2026-10-21,303.0,-1.94,-3.41,-7.06,1.0,29.3,38.88,False,False,False,-4.08,-7.07,0.01328286,0.01394861,-4.77,-5.69,False,Weakening,-1.14
+SHRIRAMFIN,Shriram Finance,SHRIRAMFIN.NS,True,2026-10-21,904.95,-2.33,-4.74,-10.47,1.16,35.52,43.23,False,False,False,-5.02,-11.19,0.03967104,0.04400843,-9.86,-5.92,False,Weakening,-1.18
+MARUTI,Maruti Suzuki,MARUTI.NS,True,2026-10-21,11200.0,-2.4,0.2,-8.42,0.79,33.23,28.44,False,False,False,-2.93,-9.73,0.49098366,0.53890372,-8.89,-6.3,False,Weakening,-1.2
+BAJAJFINSV,Bajaj Finserv,BAJAJFINSV.NS,True,2026-10-21,1690.0,-0.59,-1.84,-8.48,1.15,32.08,35.58,False,False,False,-2.49,-9.37,0.07408593,0.08048992,-7.96,-6.36,False,Weakening,-1.2
+INDUSINDBK,IndusInd Bank,INDUSINDBK.NS,True,2026-10-21,849.55,-1.58,-1.9,-11.44,0.79,34.27,35.55,False,False,False,-3.58,-10.4,0.03724243,0.04081437,-8.75,-8.64,False,Weakening,-1.2
+TITAN,Titan,TITAN.NS,True,2026-10-21,4380.9,-0.98,-1.42,-10.23,0.55,31.71,34.75,False,False,False,-3.26,-9.12,0.19204913,0.20641839,-6.96,-9.16,False,Weakening,-1.2
+ADANIENT,Adani Enterprises,ADANIENT.NS,True,2026-10-21,2594.5,-2.37,-4.71,-13.32,0.59,33.71,41.38,False,False,False,-5.99,-10.63,0.11373724,0.12421985,-8.44,-9.56,False,Weakening,-1.2
+NESTLEIND,Nestle India,NESTLEIND.NS,True,2026-10-21,1223.9,-1.51,-11.52,-11.77,0.85,31.1,55.6,False,False,False,-6.71,-11.36,0.05365312,0.0594936,-9.82,-10.03,False,Weakening,-1.2
+APOLLOHOSP,Apollo Hospitals,APOLLOHOSP.NS,True,2026-10-21,7600.0,-1.3,-2.86,-16.2,0.36,31.03,34.94,False,False,False,-5.88,-10.72,0.33316748,0.36466145,-8.64,-11.05,False,Weakening,-1.2
+BAJAJ-AUTO,Bajaj Auto,BAJAJ-AUTO.NS,True,2026-10-21,10072.0,-2.09,-1.74,-11.65,0.41,36.51,39.27,False,False,False,-2.53,-9.87,0.44153459,0.47910788,-7.84,-11.57,False,Weakening,-1.2
+TATAMOTORS,Tata Motors,TATAMOTORS.NS,True,2025-10-23,405.85,1.0,2.28,-40.57,0.74,16.71,13.83,False,False,,-28.96,-37.0,0.01567509,0.02599787,-39.71,-43.75,False,Weakening,-1.2
