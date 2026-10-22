@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22 18:03 IST",
+  "generated_at": "2026-10-22 20:15 IST",
   "wire_file": "2026-10-22-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,35 +23,35 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "134",
-    "wire_total_count": "172",
+    "wire_count": "157",
+    "wire_total_count": "186",
     "wire_scope_date": "2026-10-22",
-    "ai_wire_count": "15",
-    "selling_wire_count": "84",
-    "india_wire_count": "84",
-    "weak_index_count": "11",
+    "ai_wire_count": "29",
+    "selling_wire_count": "99",
+    "india_wire_count": "90",
+    "weak_index_count": "10",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-22 12:21",
-      "title": "Tax relief, global AI correction alone may not revive Indian stocks - A2Z Taxcorp LLP",
-      "text": "Latest dated headline · A2Z Taxcorp LLP. Today's unique wire set contains 131 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-22 14:34",
+      "title": "Nifty Outlook for October 23: Index resumes lower highs, lower lows formation with 22,550 the key level - India IPO",
+      "text": "Latest dated headline · India IPO. Today's unique wire set contains 154 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-22",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-22 has 81 India-market wires, 81 selling/risk wires, and 15 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-22 has 87 India-market wires, 96 selling/risk wires, and 29 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-22",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Tax relief, global AI correction alone may not revive Indian stocks - A2Z Taxcorp LLP"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Stocks fall as Meta dents AI optimism; French bonds under fire - marketscreener.com"
     },
     {
       "label": "India Trigger · 2026-10-22",
       "title": "Crude is the local swing factor",
-      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Sensex Falls 460 Pts, Nifty Slips Below 22,700 as Oil Prices Rise, Global Markets Weaken - APAC Media"
+      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Rupee snaps eight-day run, crude tops $112 as Nifty falls for third straight day - BusinessLine"
     }
   ],
   "indices": [
@@ -552,129 +552,129 @@
       "region": "US",
       "name": "S&P 500",
       "ticker": "^GSPC",
-      "last_date": "2026-10-21",
-      "quote_timestamp": "2026-10-21 19:55:00+00:00",
+      "last_date": "2026-10-22",
+      "quote_timestamp": "2026-10-22 14:40:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-10-20",
-      "previous_close": 7712.57,
-      "last": 7757.22,
-      "return_1d_pct": 0.5789301314950812,
-      "return_5d_pct": -1.1899425243854456,
-      "return_20d_pct": -0.6706081876706849,
-      "rsi_14": 49.43,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-10-21",
+      "previous_close": 7757.17,
+      "last": 7651.96,
+      "return_1d_pct": -1.3562931068560324,
+      "return_5d_pct": 0.49527500873112196,
+      "return_20d_pct": 0.6636379321717456,
+      "rsi_14": 53.59,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 7732.94,
-      "distance_sma_20_pct": -0.26,
-      "above_sma_20": false,
-      "sma_50": 7704.27,
-      "distance_sma_50_pct": 0.11,
+      "sma_20": 7735.5,
+      "distance_sma_20_pct": 0.28,
+      "above_sma_20": true,
+      "sma_50": 7704.85,
+      "distance_sma_50_pct": 0.68,
       "above_sma_50": true,
-      "sma_200": 7279.93,
-      "distance_sma_200_pct": 5.94,
+      "sma_200": 7284.21,
+      "distance_sma_200_pct": 6.49,
       "above_sma_200": true,
-      "region_reference_date": "2026-10-21"
+      "region_reference_date": "2026-10-22"
     },
     {
       "region": "US",
       "name": "Nasdaq 100",
       "ticker": "^NDX",
-      "last_date": "2026-10-21",
-      "quote_timestamp": "2026-10-21 19:55:00+00:00",
+      "last_date": "2026-10-22",
+      "quote_timestamp": "2026-10-22 14:40:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-10-20",
-      "previous_close": 29490.28,
-      "last": 29816.23,
-      "return_1d_pct": 1.1052768116188716,
-      "return_5d_pct": -3.53032225385127,
-      "return_20d_pct": -4.041731455929199,
-      "rsi_14": 40.71,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-10-21",
+      "previous_close": 29822.52,
+      "last": 29133.84,
+      "return_1d_pct": -2.3092605800068555,
+      "return_5d_pct": -0.42837151006662744,
+      "return_20d_pct": -2.1259054350331485,
+      "rsi_14": 46.22,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 30414.46,
-      "distance_sma_20_pct": -3.04,
+      "sma_20": 30382.07,
+      "distance_sma_20_pct": -1.84,
       "above_sma_20": false,
-      "sma_50": 29861.51,
-      "distance_sma_50_pct": -1.24,
+      "sma_50": 29867.45,
+      "distance_sma_50_pct": -0.15,
       "above_sma_50": false,
-      "sma_200": 27780.8,
-      "distance_sma_200_pct": 6.15,
+      "sma_200": 27802.91,
+      "distance_sma_200_pct": 7.26,
       "above_sma_200": true,
-      "region_reference_date": "2026-10-21"
+      "region_reference_date": "2026-10-22"
     },
     {
       "region": "US",
       "name": "Dow Jones",
       "ticker": "^DJI",
-      "last_date": "2026-10-21",
-      "quote_timestamp": "2026-10-21 19:55:00+00:00",
+      "last_date": "2026-10-22",
+      "quote_timestamp": "2026-10-22 14:40:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-10-20",
-      "previous_close": 52495.88,
-      "last": 52851.78,
-      "return_1d_pct": 0.6779624442246002,
-      "return_5d_pct": 1.5981724803678654,
-      "return_20d_pct": 1.218940424136128,
-      "rsi_14": 58.78,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-10-21",
+      "previous_close": 52856.09,
+      "last": 52550.75,
+      "return_1d_pct": -0.5776814831604637,
+      "return_5d_pct": 2.391658208538572,
+      "return_20d_pct": 2.6100922221159673,
+      "rsi_14": 62.64,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 51558.55,
-      "distance_sma_20_pct": 1.82,
+      "sma_20": 51625.77,
+      "distance_sma_20_pct": 2.38,
       "above_sma_20": true,
-      "sma_50": 52389.29,
-      "distance_sma_50_pct": 0.2,
+      "sma_50": 52370.57,
+      "distance_sma_50_pct": 0.93,
       "above_sma_50": true,
-      "sma_200": 50479.79,
-      "distance_sma_200_pct": 3.99,
+      "sma_200": 50499.19,
+      "distance_sma_200_pct": 4.67,
       "above_sma_200": true,
-      "region_reference_date": "2026-10-21"
+      "region_reference_date": "2026-10-22"
     },
     {
       "region": "US",
       "name": "Russell 2000",
       "ticker": "^RUT",
-      "last_date": "2026-10-21",
-      "quote_timestamp": "2026-10-21 19:55:00+00:00",
+      "last_date": "2026-10-22",
+      "quote_timestamp": "2026-10-22 14:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-10-20",
-      "previous_close": 2773.42,
-      "last": 2781.36,
-      "return_1d_pct": 0.28623420852667003,
-      "return_5d_pct": -0.357487322690464,
-      "return_20d_pct": -4.031253569282778,
-      "rsi_14": 42.6,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-10-21",
+      "previous_close": 2781.02,
+      "last": 2767.36,
+      "return_1d_pct": -0.4910079467596473,
+      "return_5d_pct": 1.8864049738129829,
+      "return_20d_pct": -2.0305318129952954,
+      "rsi_14": 44.02,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 2797.17,
-      "distance_sma_20_pct": -0.85,
+      "sma_20": 2794.29,
+      "distance_sma_20_pct": -0.47,
       "above_sma_20": false,
-      "sma_50": 2896.51,
-      "distance_sma_50_pct": -4.25,
+      "sma_50": 2891.59,
+      "distance_sma_50_pct": -3.82,
       "above_sma_50": false,
-      "sma_200": 2797.19,
-      "distance_sma_200_pct": -0.85,
+      "sma_200": 2798.36,
+      "distance_sma_200_pct": -0.62,
       "above_sma_200": false,
-      "region_reference_date": "2026-10-21"
+      "region_reference_date": "2026-10-22"
     },
     {
       "region": "Europe",
       "name": "DAX",
       "ticker": "^GDAXI",
       "last_date": "2026-10-22",
-      "quote_timestamp": "2026-10-22 12:15:00+00:00",
+      "quote_timestamp": "2026-10-22 14:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-21",
       "previous_close": 25645.04,
-      "last": 25474.72,
-      "return_1d_pct": -0.6641376484547878,
+      "last": 25460.23,
+      "return_1d_pct": -0.7206407184625396,
       "return_5d_pct": 1.3693625699535028,
       "return_20d_pct": 0.9224808483592417,
       "rsi_14": 55.26,
@@ -698,12 +698,12 @@
       "name": "FTSE 100",
       "ticker": "^FTSE",
       "last_date": "2026-10-22",
-      "quote_timestamp": "2026-10-22 12:15:00+00:00",
+      "quote_timestamp": "2026-10-22 14:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-21",
       "previous_close": 10752.9,
-      "last": 10725.37,
-      "return_1d_pct": -0.25602648994593746,
+      "last": 10740.97,
+      "return_1d_pct": -0.11095298597670888,
       "return_5d_pct": 0.2610746858262347,
       "return_20d_pct": 0.44464505250620956,
       "rsi_14": 54.77,
@@ -727,12 +727,12 @@
       "name": "CAC 40",
       "ticker": "^FCHI",
       "last_date": "2026-10-22",
-      "quote_timestamp": "2026-10-22 12:15:00+00:00",
+      "quote_timestamp": "2026-10-22 14:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-21",
       "previous_close": 7921.68,
-      "last": 7833.59,
-      "return_1d_pct": -1.1120157602495295,
+      "last": 7818.08,
+      "return_1d_pct": -1.3078045989913134,
       "return_5d_pct": 0.6169139430725279,
       "return_20d_pct": -2.483316447016315,
       "rsi_14": 46.43,
@@ -756,12 +756,12 @@
       "name": "Euro Stoxx 50",
       "ticker": "^STOXX50E",
       "last_date": "2026-10-22",
-      "quote_timestamp": "2026-10-22 12:15:00+00:00",
+      "quote_timestamp": "2026-10-22 14:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-21",
       "previous_close": 6207.52,
-      "last": 6123.85,
-      "return_1d_pct": -1.3478800166852767,
+      "last": 6110.27,
+      "return_1d_pct": -1.566648189518749,
       "return_5d_pct": 0.2770416310994728,
       "return_20d_pct": -1.4651181662794,
       "rsi_14": 47.9,
@@ -799,7 +799,7 @@
       "advancers": 0,
       "decliners": 4,
       "advance_decline_ratio": 0.0,
-      "average_1d_pct": -0.85,
+      "average_1d_pct": -0.93,
       "average_5d_pct": 0.63,
       "above_20dma_pct": 75.0,
       "above_50dma_pct": 25.0
@@ -829,104 +829,17 @@
     {
       "region": "US",
       "count": 4,
-      "advancers": 4,
-      "decliners": 0,
-      "advance_decline_ratio": null,
-      "average_1d_pct": 0.66,
-      "average_5d_pct": -0.87,
-      "above_20dma_pct": 25.0,
+      "advancers": 0,
+      "decliners": 4,
+      "advance_decline_ratio": 0.0,
+      "average_1d_pct": -1.18,
+      "average_5d_pct": 1.09,
+      "above_20dma_pct": 50.0,
       "above_50dma_pct": 50.0
     }
   ],
   "global_leaders_laggards": {
     "leaders": [
-      {
-        "region": "US",
-        "name": "Nasdaq 100",
-        "ticker": "^NDX",
-        "last_date": "2026-10-21",
-        "quote_timestamp": "2026-10-21 19:55:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-10-20",
-        "previous_close": 29490.28,
-        "last": 29816.23,
-        "return_1d_pct": 1.1052768116188716,
-        "return_5d_pct": -3.53032225385127,
-        "return_20d_pct": -4.041731455929199,
-        "rsi_14": 40.71,
-        "stale_days": 1,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 30414.46,
-        "distance_sma_20_pct": -3.04,
-        "above_sma_20": false,
-        "sma_50": 29861.51,
-        "distance_sma_50_pct": -1.24,
-        "above_sma_50": false,
-        "sma_200": 27780.8,
-        "distance_sma_200_pct": 6.15,
-        "above_sma_200": true,
-        "region_reference_date": "2026-10-21"
-      },
-      {
-        "region": "US",
-        "name": "Dow Jones",
-        "ticker": "^DJI",
-        "last_date": "2026-10-21",
-        "quote_timestamp": "2026-10-21 19:55:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-10-20",
-        "previous_close": 52495.88,
-        "last": 52851.78,
-        "return_1d_pct": 0.6779624442246002,
-        "return_5d_pct": 1.5981724803678654,
-        "return_20d_pct": 1.218940424136128,
-        "rsi_14": 58.78,
-        "stale_days": 1,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 51558.55,
-        "distance_sma_20_pct": 1.82,
-        "above_sma_20": true,
-        "sma_50": 52389.29,
-        "distance_sma_50_pct": 0.2,
-        "above_sma_50": true,
-        "sma_200": 50479.79,
-        "distance_sma_200_pct": 3.99,
-        "above_sma_200": true,
-        "region_reference_date": "2026-10-21"
-      },
-      {
-        "region": "US",
-        "name": "S&P 500",
-        "ticker": "^GSPC",
-        "last_date": "2026-10-21",
-        "quote_timestamp": "2026-10-21 19:55:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-10-20",
-        "previous_close": 7712.57,
-        "last": 7757.22,
-        "return_1d_pct": 0.5789301314950812,
-        "return_5d_pct": -1.1899425243854456,
-        "return_20d_pct": -0.6706081876706849,
-        "rsi_14": 49.43,
-        "stale_days": 1,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 7732.94,
-        "distance_sma_20_pct": -0.26,
-        "above_sma_20": false,
-        "sma_50": 7704.27,
-        "distance_sma_50_pct": 0.11,
-        "above_sma_50": true,
-        "sma_200": 7279.93,
-        "distance_sma_200_pct": 5.94,
-        "above_sma_200": true,
-        "region_reference_date": "2026-10-21"
-      },
       {
         "region": "India",
         "name": "India VIX",
@@ -957,33 +870,120 @@
         "region_reference_date": "2026-10-22"
       },
       {
-        "region": "US",
-        "name": "Russell 2000",
-        "ticker": "^RUT",
-        "last_date": "2026-10-21",
-        "quote_timestamp": "2026-10-21 19:55:00+00:00",
+        "region": "India",
+        "name": "Nifty Bank",
+        "ticker": "^NSEBANK",
+        "last_date": "2026-10-22",
+        "quote_timestamp": "2026-10-22 09:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-10-20",
-        "previous_close": 2773.42,
-        "last": 2781.36,
-        "return_1d_pct": 0.28623420852667003,
-        "return_5d_pct": -0.357487322690464,
-        "return_20d_pct": -4.031253569282778,
-        "rsi_14": 42.6,
-        "stale_days": 1,
+        "technical_as_of_date": "2026-10-21",
+        "previous_close": 54976.9,
+        "last": 54925.7,
+        "return_1d_pct": -0.09312860529628875,
+        "return_5d_pct": -0.9086928539579486,
+        "return_20d_pct": -2.6451794716918053,
+        "rsi_14": 43.51,
+        "stale_days": 0,
         "is_stale": false,
         "is_outlier": false,
         "data_note": "",
-        "sma_20": 2797.17,
-        "distance_sma_20_pct": -0.85,
+        "sma_20": 55205.15,
+        "distance_sma_20_pct": -0.41,
         "above_sma_20": false,
-        "sma_50": 2896.51,
-        "distance_sma_50_pct": -4.25,
+        "sma_50": 56378.11,
+        "distance_sma_50_pct": -2.49,
         "above_sma_50": false,
-        "sma_200": 2797.19,
-        "distance_sma_200_pct": -0.85,
+        "sma_200": 56893.25,
+        "distance_sma_200_pct": -3.37,
         "above_sma_200": false,
-        "region_reference_date": "2026-10-21"
+        "region_reference_date": "2026-10-22"
+      },
+      {
+        "region": "Europe",
+        "name": "FTSE 100",
+        "ticker": "^FTSE",
+        "last_date": "2026-10-22",
+        "quote_timestamp": "2026-10-22 14:25:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-10-21",
+        "previous_close": 10752.9,
+        "last": 10740.97,
+        "return_1d_pct": -0.11095298597670888,
+        "return_5d_pct": 0.2610746858262347,
+        "return_20d_pct": 0.44464505250620956,
+        "rsi_14": 54.77,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 10634.47,
+        "distance_sma_20_pct": 1.11,
+        "above_sma_20": true,
+        "sma_50": 10709.62,
+        "distance_sma_50_pct": 0.4,
+        "above_sma_50": true,
+        "sma_200": 10503.22,
+        "distance_sma_200_pct": 2.38,
+        "above_sma_200": true,
+        "region_reference_date": "2026-10-22"
+      },
+      {
+        "region": "Asia",
+        "name": "ASX 200",
+        "ticker": "^AXJO",
+        "last_date": "2026-10-22",
+        "quote_timestamp": "2026-10-22 05:10:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-10-21",
+        "previous_close": 8831.3,
+        "last": 8793.2,
+        "return_1d_pct": -0.43141564908460994,
+        "return_5d_pct": 1.1846997494788791,
+        "return_20d_pct": 0.7529691108192793,
+        "rsi_14": 54.55,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 8734.22,
+        "distance_sma_20_pct": 1.11,
+        "above_sma_20": true,
+        "sma_50": 8864.84,
+        "distance_sma_50_pct": -0.38,
+        "above_sma_50": false,
+        "sma_200": 8829.35,
+        "distance_sma_200_pct": 0.02,
+        "above_sma_200": true,
+        "region_reference_date": "2026-10-22"
+      },
+      {
+        "region": "US",
+        "name": "Russell 2000",
+        "ticker": "^RUT",
+        "last_date": "2026-10-22",
+        "quote_timestamp": "2026-10-22 14:25:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-10-21",
+        "previous_close": 2781.02,
+        "last": 2767.36,
+        "return_1d_pct": -0.4910079467596473,
+        "return_5d_pct": 1.8864049738129829,
+        "return_20d_pct": -2.0305318129952954,
+        "rsi_14": 44.02,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 2794.29,
+        "distance_sma_20_pct": -0.47,
+        "above_sma_20": false,
+        "sma_50": 2891.59,
+        "distance_sma_50_pct": -3.82,
+        "above_sma_50": false,
+        "sma_200": 2798.36,
+        "distance_sma_200_pct": -0.62,
+        "above_sma_200": false,
+        "region_reference_date": "2026-10-22"
       }
     ],
     "laggards": [
@@ -1046,6 +1046,35 @@
         "region_reference_date": "2026-10-22"
       },
       {
+        "region": "US",
+        "name": "Nasdaq 100",
+        "ticker": "^NDX",
+        "last_date": "2026-10-22",
+        "quote_timestamp": "2026-10-22 14:40:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-10-21",
+        "previous_close": 29822.52,
+        "last": 29133.84,
+        "return_1d_pct": -2.3092605800068555,
+        "return_5d_pct": -0.42837151006662744,
+        "return_20d_pct": -2.1259054350331485,
+        "rsi_14": 46.22,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 30382.07,
+        "distance_sma_20_pct": -1.84,
+        "above_sma_20": false,
+        "sma_50": 29867.45,
+        "distance_sma_50_pct": -0.15,
+        "above_sma_50": false,
+        "sma_200": 27802.91,
+        "distance_sma_200_pct": 7.26,
+        "above_sma_200": true,
+        "region_reference_date": "2026-10-22"
+      },
+      {
         "region": "Asia",
         "name": "Nikkei 225",
         "ticker": "^N225",
@@ -1075,45 +1104,16 @@
         "region_reference_date": "2026-10-22"
       },
       {
-        "region": "Asia",
-        "name": "Shanghai Composite",
-        "ticker": "000001.SS",
-        "last_date": "2026-10-22",
-        "quote_timestamp": "2026-10-22 06:55:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-10-21",
-        "previous_close": 3713.03,
-        "last": 3659.31,
-        "return_1d_pct": -1.4467836310373294,
-        "return_5d_pct": -1.4386967888791125,
-        "return_20d_pct": -3.9140800780283813,
-        "rsi_14": 30.33,
-        "stale_days": 0,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 3824.82,
-        "distance_sma_20_pct": -2.92,
-        "above_sma_20": false,
-        "sma_50": 3887.25,
-        "distance_sma_50_pct": -4.48,
-        "above_sma_50": false,
-        "sma_200": 4003.27,
-        "distance_sma_200_pct": -7.25,
-        "above_sma_200": false,
-        "region_reference_date": "2026-10-22"
-      },
-      {
         "region": "Europe",
         "name": "Euro Stoxx 50",
         "ticker": "^STOXX50E",
         "last_date": "2026-10-22",
-        "quote_timestamp": "2026-10-22 12:15:00+00:00",
+        "quote_timestamp": "2026-10-22 14:25:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-10-21",
         "previous_close": 6207.52,
-        "last": 6123.85,
-        "return_1d_pct": -1.3478800166852767,
+        "last": 6110.27,
+        "return_1d_pct": -1.566648189518749,
         "return_5d_pct": 0.2770416310994728,
         "return_20d_pct": -1.4651181662794,
         "rsi_14": 47.9,
@@ -20297,7 +20297,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-22T18:02:52+05:30",
+    "generated_at": "2026-10-22T20:14:42+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -32553,6 +32553,24 @@
   ],
   "wires": [
     {
+      "published": "2026-10-22T12:49:41+00:00",
+      "score": 13.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market', 'macro / flows']",
+      "source": "Investing.com India",
+      "title": "Asian stocks fall sharply as oil prices surge and AI trade wobbles, Goldman comments - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOcTFxazNGRGhuMUIzc3dHRHBfeWQ5TXJjRGFLbTk2VnVPb1hXeXhaZG9uajhKeldrS2ctS1JHQnNIeXQwNjlEaXhGR2N6ZzlueFpTVXJMWUExeU1jWDIxNXNHUHVVcWlyZm9ZVmVrbUU3Y2FGVldLUlBRc0FhQW9CckNlNzN2M1hJSlBpQVRYZk41dnVMS2pXU1Z3M3h0NW5PRHVzV1lSRW9SY09mczJxSUVSdzVoQTR2VUsyME5zY2sxblFWQmZsUFFFVnpHc3NSUk5yYUVwcUwwZnVv?oc=5",
+      "description": "Asian stocks fall sharply as oil prices surge and AI trade wobbles, Goldman comments Investing.com India"
+    },
+    {
+      "published": "2026-10-22T13:22:29+00:00",
+      "score": 10.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "IBTimes India",
+      "title": "Sensex falls 460 points, Nifty slips below 22,700 as investors lose big amid crude oil surge - IBTimes India",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPeXpmdnF2d2tJblAzNE5UYVZvTmZGVEpKN0Y1VE90RnFyNU1UUmFpWUF5b3BPMFJFODZiN1VKN1JYdGFmSHhTa0xNbHRQMzZPQk0xTEJpWTRyY1dBTjl3NWQ1c0NfbnoyaTZNekg1MGs5X2ZGQXpmTkdhZDNLcl9GUnhMaWRsekNWcW1ndGhVXzQyNGVsYU5WaEVpV0R6X190MnhvYW5PMnpPODJxdm81Y3FlcXlnWW50RmU5Mg?oc=5",
+      "description": "Sensex falls 460 points, Nifty slips below 22,700 as investors lose big amid crude oil surge IBTimes India"
+    },
+    {
       "published": "2026-10-22T05:21:25+00:00",
       "score": 10.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
@@ -32560,6 +32578,15 @@
       "title": "Sensex falls over 480 points, Nifty below 22,650 as crude prices, global yields weigh on markets - Fortune India",
       "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNTFcweUFwWk5YQkhJQUgtVUwtMXBUN3JIZFM5Y0J1bmlvVThJNTRMN21iVGJ2bTdqWDlfRU5jQkxtQmlDZmp1NzJZMlhKZDAyTGZyaEJldV9iQlhUOWprTU1SVHhCanhxdGllbHhFamxQVGpBbEFMTXo1a3FFQ09JblA5UzVka2UwSkxiWEFHandBb2toZTFxeGlWTThfR0pCMmtZWlRNb3ZZYmtZdkh5VE1VVldQSGFzTU1BU1RmYUliM0s5OWxfaEpjdXgxM0o5SUQ1TVZHY2o1QWfSAegBQVVfeXFMTWRsZlBYQ3k5SGo5YVZiNlB1cng3ZmhHb1VVQXY3Z0owWjFocThERG01c242WjM1UndTX0kwUE5iem9PQXQzd0M4aklmWkZPVG1EWldqdG9pTlZOM0I3RXlsLVltMndBeXpvdXFzM0JTYVVvU09JeWF3X3RTWHVyelRneDZFSnZFWnVjODlhMUI2bTZVdWhSQi1EY3JpQkp2YTdjLVlacWYwRXpEY1VMc056N29LTTEtc0JfaWVCVUlINkhOVmZDUXA1R2FibG8wQ1JHV19NelFyQmlSWEE5OTdKYmYxdnBfcA?oc=5",
       "description": "Sensex falls over 480 points, Nifty below 22,650 as crude prices, global yields weigh on markets Fortune India"
+    },
+    {
+      "published": "2026-10-22T13:54:11+00:00",
+      "score": 9.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "StreetInsider",
+      "title": "Intel stock falls amid AI chip selloff and price target cut - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ2dkYzRrTEkwejB0YTlKYTJOUDN2cTBuLTZCN05DN203V2dJRW5BTmVLMGpuNkYzaW5KRXRLd2hiMDRQbHFTSng4RGFOTnU5dXliYjBUVGExRk1UQkxhZy1SdVZOSVkyMzVOa2c4SUMtSVJpTmZXUU1WNXN1VWZDaFdjMFBtSUJJMUc4Q0FnQnh4YTNWTldmX3FabVp3MjF4SFpEUnpFbmRQT2tVRmQtYjFGWQ?oc=5",
+      "description": "Intel stock falls amid AI chip selloff and price target cut StreetInsider"
     },
     {
       "published": "2026-10-22T12:07:16+00:00",
@@ -32576,7 +32603,7 @@
       "themes": "['market selling', 'India market', 'macro / flows']",
       "source": "Hindustan Times",
       "title": "Sensex falls 460 points, Nifty declines 123 points as Saudi attacks fuel oil price concerns | Business News - Hindustan Times",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQdG1pZnd2dXpOaHpBRDJPS0J5Qk1icFBvbFNPRnAxV0duTXZzdm1uNUJNdWx0UWlZQUdnaHpvTGFaXzk3Q1ZfcFZ0alc3RFVDTTFoRTJKczg5cGU4ZTF6cm01U2E4ZWVNZkZBZm94aDdmeEZnZUFvVXBpc0pxeW9vLUxHb296UVVsd01lUmcwbXE4aUtPMVpyQlZ1R1NHenF6MExITG85NVNvZGxMeGFwMGpaeWFUd25IbGxNdDJuQkFkeDU3MkQwUGRyMnNrSE5td3h3QVo4RVRUWFlmYTVQRkVNbkN3V0ZWa0ZjZmUxV2xNUFZpd1RwVNIB_gFBVV95cUxOX25kalFkOFdTdVZNR29NVG1vYXNXMDBHbHZCWTFmYnp2OHlTSm14d0c0N1o4Zzh1RWRfazVlUVd3UHlubDJwNkRtX25rdTR3NXpnX2w3VHpPZ3N1UmZaSU11WHIzRXp5aEo3ZFJZTDhWdEd3T2RKRUJwY0EwbnJDVm13eGRzV0FhN2dFcWJiYXdxMG1Ma24zTVVDZjBBOWxWWUxBTEpTOVRkUkE0R05IQ0NIWGN1blpzNnlrbmY5d1RqWEl5eVplbXJMeVZrbUhUOW5HQlRQT0htbjFQbkNsb0xacktDUDFPWXlRVlBWRWFnbFE5X0JMV2MwbDBSZw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX25kalFkOFdTdVZNR29NVG1vYXNXMDBHbHZCWTFmYnp2OHlTSm14d0c0N1o4Zzh1RWRfazVlUVd3UHlubDJwNkRtX25rdTR3NXpnX2w3VHpPZ3N1UmZaSU11WHIzRXp5aEo3ZFJZTDhWdEd3T2RKRUJwY0EwbnJDVm13eGRzV0FhN2dFcWJiYXdxMG1Ma24zTVVDZjBBOWxWWUxBTEpTOVRkUkE0R05IQ0NIWGN1blpzNnlrbmY5d1RqWEl5eVplbXJMeVZrbUhUOW5HQlRQT0htbjFQbkNsb0xacktDUDFPWXlRVlBWRWFnbFE5X0JMV2MwbDBSZ9IB_gFBVV95cUxOX25kalFkOFdTdVZNR29NVG1vYXNXMDBHbHZCWTFmYnp2OHlTSm14d0c0N1o4Zzh1RWRfazVlUVd3UHlubDJwNkRtX25rdTR3NXpnX2w3VHpPZ3N1UmZaSU11WHIzRXp5aEo3ZFJZTDhWdEd3T2RKRUJwY0EwbnJDVm13eGRzV0FhN2dFcWJiYXdxMG1Ma24zTVVDZjBBOWxWWUxBTEpTOVRkUkE0R05IQ0NIWGN1blpzNnlrbmY5d1RqWEl5eVplbXJMeVZrbUhUOW5HQlRQT0htbjFQbkNsb0xacktDUDFPWXlRVlBWRWFnbFE5X0JMV2MwbDBSZw?oc=5",
       "description": "Sensex falls 460 points, Nifty declines 123 points as Saudi attacks fuel oil price concerns | Business News Hindustan Times"
     },
     {
@@ -32614,6 +32641,33 @@
       "title": "Sensex falls 143 Points, Nifty slips 0.34% as crude above USD 110 fuels inflation concerns - India's News.Net",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUHBpU0hDaGhpQUhONjJBdnp0ZnlrcjJva25Sd0EycDR3WVlYS3Fmc2N4OE0tVHJzNzA1SURkTkd4V3NDX1NKT21laVJSN3NScWs0UF8weEZHZ0UyLXZVZE04ZGp4MDBFN3pqSTlsRUJITmpwd3A5ZkZzV1pMTXZrcGRUR1FIYnpvc2xkWjNwOVJkaXpHRnVwZ1pUZW1Ma3VQS1l5N2VRNzIzU1FIeENfQlp1aXIxUkxSenp4MEF2NzduZUdIOTI0Yw?oc=5",
       "description": "Sensex falls 143 Points, Nifty slips 0.34% as crude above USD 110 fuels inflation concerns India's News.Net"
+    },
+    {
+      "published": "2026-10-21T16:27:48+00:00",
+      "score": 9.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "BBN Times",
+      "title": "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQXRQdnhyZmtsM0h6OVMzR0xsLWFNZ1I3b1dfa1VOa1RuRkVpQ1VPazdMN0hfUVFXQ1N5WG5xUkd5ejdSVXdSZjNpeng0b0swWjIzVXN0Si1aYTJmS3l5X1NwMjVmQ05rMWNGcVo0RUpmbW1GR2NveVVxaGRRNkEzWW5faEVRNnJzeUUxanRXUFZJUl94VGc5eDR1aW5VMDFLTGdYQkh6N0s3YXdINXhpTTFrOVhGOGgyLTVyTVV3?oc=5",
+      "description": "Nasdaq Today: Tech Index Falls to 27,204.38 on Chip Sell-Off and Bank Earnings Kickoff BBN Times"
+    },
+    {
+      "published": "2026-10-22T14:26:35+00:00",
+      "score": 8.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "BusinessLine",
+      "title": "Rupee snaps eight-day run, crude tops $112 as Nifty falls for third straight day - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQQWdvNzNmczZUMENscU5xbi1Wc3VLRkRnOGlSQVN6Q0FVM1czUFBkN0J6TnBQUDU0NGdhSXZIeEVWVFRPV29xSDlQOGg5dDJ4Nk9oT2JBUUVkV2p5NjMyYm9kWXhsaGxBUlZPN3FqUFFaUVJYNUY4ZzBhMU1leHNId0RkVU5zQ2NySjZaRWpUbF9uTXp5akRGcWJRWHVJQjZlZkwzcTFQMlFnMkVQZEFob19hOU53SVJ5X0pHUUR1VUpjZFU4VjV4VkttaEhOY0d3Vk1iTnQ1UjFMY2fSAeIBQVVfeXFMTjM2cS00ekNscnJSd2VQTEptVU9TUmkyRGZieTJqQjZ1LVlCLWJfck9nRExiVmJHa05JY0dDeWxIMmRTYUZtUnc0cTZidENEblVWbkkzVWhnTHBQWkY0NUFFVmpkM05qLVlFejJqM3FKbk50SnJoWnpUTmlqaENRcFZ5d2ctZFduMWtmNWw1a2duOFBMQjRsYWFFZ3N1cVR0OTZVc0ZZaVlwckIySjBMdzE1Q25DZ0dBTzNGbGlzNjJJWWJPWS1BbGNaeFNnVkozMHV6NGRIaUUxbDd3WmpBZ3JoQQ?oc=5",
+      "description": "Rupee snaps eight-day run, crude tops $112 as Nifty falls for third straight day BusinessLine"
+    },
+    {
+      "published": "2026-10-22T14:12:05+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "StreetInsider",
+      "title": "Nebius shares fall on broader AI selloff, Piper Sandler target cut - StreetInsider",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOTJVT0x1R1FHZ1ZSazlnTXMweUw1ZDdSeGx0aEgyZDZwVDQza0tib2tRZlNIZWR5RjBpRXdMYWFHUXJneEdWTFF5R2FlczBoMkYzMmg5bmd5clFOTkphdFNfN1VnQmEyRzZ4VFJqNzNVdGJBNXBfTUpITDFpYjEwVGUtcEstd2tjRDFVU28wQm1iRXRvQTVVUW5Pd1NKUWZJRkFPWWphdHQ1XzN6SFhqZkVURmF6Q1dGZkQ4M0VEZw?oc=5",
+      "description": "Nebius shares fall on broader AI selloff, Piper Sandler target cut StreetInsider"
     },
     {
       "published": "2026-10-22T12:10:36+00:00",
@@ -32668,15 +32722,6 @@
       "title": "Sensex drops over 400 points, Nifty falls below 22,700 - Awaz The Voice",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZDRlajZMUjhYcVM3bm1pandlOU9renF1WmE4Q2U3QTRWNjhVd2lFTXN5UEdNbE84Mlo5OWlwcUhrSmVjZmxQRVh0SzVJRmpZVmk2WFRnSHdENnZ2Zi1feW5zLWVMc0dhSWw1TkF5UUlTX0F1eEhMdFplSFhhUW1obkJjUWUyWlMwakdPWjBXZ2JZZ1pRUEdWc0ZhQQ?oc=5",
       "description": "Sensex drops over 400 points, Nifty falls below 22,700 Awaz The Voice"
-    },
-    {
-      "published": "2026-10-22T10:27:52+00:00",
-      "score": 8.0,
-      "themes": "['market selling', 'India market']",
-      "source": "The Economic Times",
-      "title": "Why did market fall today? Sensex drops 460 points, Nifty closes below 22,700. Key factors behind Rs 3 lak - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUHZIckFUQk9qdl9idHVTNjBSSXREM0hWdS1RbGlqOWhQZThXemVJazlRZUh3Z2Q1UHNhbERqN0IwWGt4SkQyd3ZfZS1jbEY0WElCdzM4MzI4YldXY2tObFM3d3F6YjFHMlRjVWJrSDBxVXpsTkVteHVqRE5SZUU2TjJuZndKUXRRbTl3MG54ZFdra3B6SHNCMFpGYWRGck1SZHBBLTJIN2lPem1iY2UwQ0dPSlA5ZjRfQU82QUJUYnFQX2tGQ2ptcENySHV5eWFJNGVGcFB5anF2MDh4M2dHNEVyX0E2VVowX21aUnpJcmhITVZQMnB3SW5EaXluMXM2LVNoUjN5WGpWcEgwY3hNYkpvSdIBmAJBVV95cUxORlFTY0FKNU9DYmhXUElDQm5JSHdndjAtbWltR2NZcjZxUEJ2ZzFwQTdiMDRQMG9WaFlfOUdrOTA2eXo5SXJRdGY1OWZxMWZIc09YVGdRQWI4Q3BveHprZGZOM2U1NnlCZ0NiUDQ2eG9oeEFja1BkVW5oZWZ1U2ptUHlibV8ydkREdi1QVmtOb2taNXRYcm1mVjJNS2hybXFGdzBxN0hvM2I3UTBHRnFSRWVTb2RJMWtwX0xZaXE2cFYyczduNVFqRjgtVEZVN0JXcnJpSW80SUROa3E5Rzd2QVpBNlVYSVNnTlNMbEU5NWtrQkhyMlQzSDd3WGFpU2NzWlprdk1EcF9GWF9IOHpRQVR5VmI1ejdY?oc=5",
-      "description": "Why did market fall today? Sensex drops 460 points, Nifty closes below 22,700. Key factors behind Rs 3 lak The Economic Times"
     },
     {
       "published": "2026-10-22T10:14:27+00:00",
@@ -32787,6 +32832,42 @@
       "description": "Indian markets extend losses as oil prices climb: Sensex falls by more than 600 points; Nifty also down 200 Bhaskar English"
     },
     {
+      "published": "2026-10-22T04:02:09+00:00",
+      "score": 8.0,
+      "themes": "['market selling', 'India market']",
+      "source": "The Economic Times",
+      "title": "Why did market fall today? Sensex drops 460 points, Nifty closes below 22,700. Key factors behind Rs 3 lak - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUHZIckFUQk9qdl9idHVTNjBSSXREM0hWdS1RbGlqOWhQZThXemVJazlRZUh3Z2Q1UHNhbERqN0IwWGt4SkQyd3ZfZS1jbEY0WElCdzM4MzI4YldXY2tObFM3d3F6YjFHMlRjVWJrSDBxVXpsTkVteHVqRE5SZUU2TjJuZndKUXRRbTl3MG54ZFdra3B6SHNCMFpGYWRGck1SZHBBLTJIN2lPem1iY2UwQ0dPSlA5ZjRfQU82QUJUYnFQX2tGQ2ptcENySHV5eWFJNGVGcFB5anF2MDh4M2dHNEVyX0E2VVowX21aUnpJcmhITVZQMnB3SW5EaXluMXM2LVNoUjN5WGpWcEgwY3hNYkpvSdIBmAJBVV95cUxORlFTY0FKNU9DYmhXUElDQm5JSHdndjAtbWltR2NZcjZxUEJ2ZzFwQTdiMDRQMG9WaFlfOUdrOTA2eXo5SXJRdGY1OWZxMWZIc09YVGdRQWI4Q3BveHprZGZOM2U1NnlCZ0NiUDQ2eG9oeEFja1BkVW5oZWZ1U2ptUHlibV8ydkREdi1QVmtOb2taNXRYcm1mVjJNS2hybXFGdzBxN0hvM2I3UTBHRnFSRWVTb2RJMWtwX0xZaXE2cFYyczduNVFqRjgtVEZVN0JXcnJpSW80SUROa3E5Rzd2QVpBNlVYSVNnTlNMbEU5NWtrQkhyMlQzSDd3WGFpU2NzWlprdk1EcF9GWF9IOHpRQVR5VmI1ejdY?oc=5",
+      "description": "Why did market fall today? Sensex drops 460 points, Nifty closes below 22,700. Key factors behind Rs 3 lak The Economic Times"
+    },
+    {
+      "published": "2026-10-22T04:01:03+00:00",
+      "score": 8.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "Moneycontrol.com",
+      "title": "Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQYU50UWdfZzIydmU0Z2hDR2NuRTYxUUp2cWRYYnMxRUVpUjVBM1dfNkNubDE1NzNDclRYVDlxdEFyQUlVUkhqMTN5STZtWVVHNHJSYUcxVkNIZ1kyeGhkQ05FRERHOFFHbkZXRWlvNGdEVkZqTGk0Wk5qNmM2QTQ4Q2hOUVlRLXhDOXl4aTI3bFF1T1FpMGZmZmVtQkU5eVFBbUZ0S1BtNFItQUpjUW5lbEVDWmo4THBGMVB1Vl96SzlJeXhSeEZsMC1YeWVhZ2dRSkRFRVk1U0laSl91dFBZZFdrMG8yS1lWUVRKcWNpbENCcFlYa2JLV0hXdnjSAfwBQVVfeXFMUGFOdFFnX2cyMnZlNGdoQ0djbkU2MVFKdnFkWGJzMUVFaVI1QTNXXzZDbmwxNTczQ3JUWFQ5cXRBckFJVVJIajEzeUk2bVlVRzRyUmFHMVZDSGdZMnhoZENORURERzhRR25GV0VpbzRnRFZGakxpNFpOajZjNkE0OENoTlFZUS14Qzl5eGkyN2xRdU9RaTBmZmZlbUJFOXlRQW1GdEtQbTRSLUFKY1FuZWxFQ1pqOExwRjFQdVZfeks5SXl4UnhGbDAtWHllYWdnUUpERUVZNVNJWkpfdXRQWWRXazBvMktZVlFUSnFjaWxDQnBZWGtiS1dIV3Z4?oc=5",
+      "description": "Sensex falls 600 pts, Nifty below 22,600: Higher crude prices among key factors behind market decline Moneycontrol.com"
+    },
+    {
+      "published": "2026-10-22T04:01:00+00:00",
+      "score": 8.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "TradingView",
+      "title": "Sensex falls 600 pts, Nifty near 22,600: Higher crude prices among key factors behind market decline - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQZm5ha2RELXpoV1BQRi1HMXZuVEdLSHhab19naHhOdERTaS1vS3VaU3RPT25IXy13d2xlNGxjekJJQjd0VGplQ25KVmdVUHgxRWxBMzZXTF8wdm1EeFlBb1lveHotNFBMbnJRd0kxelUzWFg2bEN1Qzl4aVFUdDBsUUJiVmNSdW4wTmlXSXNUSHlBZmsyLUk0ZzFZUE9KMTBSVGsxZThRVE5hRGpPVDFzelBQdTFNRTkwTWlma0w2UGJvd0VlZUkyTWl2MUl6R3otakVEdWZlUjYyTldkeDV1b3JTWWl1NzZIU0lZVUFWYVlpVmc?oc=5",
+      "description": "Sensex falls 600 pts, Nifty near 22,600: Higher crude prices among key factors behind market decline TradingView"
+    },
+    {
+      "published": "2026-10-21T22:13:33+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "Bloomberg.com",
+      "title": "Stocks Fall as AI, Oil Risks Spur Flight to Bonds: Markets Wrap - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeTBrLWVPck50dERfQ3N3cFhBMFpUN3lfZFFOeXZLM0lDR0lOSFp2Vnd0OHFaWU5JQ092UHg4XzlXQlEtN2JQNG1oWnpFYWFKSUFoYmZkT1FqTHR1bXR5b010d3ZvSENDZ0phTk04R1k5aUg4Z2ZTb1p2MmQ2LW53Ulk5NktSU0prZWwtMkFIZFo1SDll?oc=5",
+      "description": "Stocks Fall as AI, Oil Risks Spur Flight to Bonds: Markets Wrap Bloomberg.com"
+    },
+    {
       "published": "2026-10-21T21:30:05+00:00",
       "score": 8.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
@@ -32814,6 +32895,87 @@
       "description": "JD.com Falls as Chinese Internet Stocks Retreat in Broader Tech Selloff Quiver Quantitative"
     },
     {
+      "published": "2026-10-22T14:18:17+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "marketscreener.com",
+      "title": "Stocks fall as Meta dents AI optimism; French bonds under fire - marketscreener.com",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSkc4eXpKS3MtSDlicFVMem56RzhDYUpXV08wUmt6TE84aU5nZGlLN1A4b1hUcm9DckRfcDBCY1FINExnYkpYMVdBZ1VhNFUyT21QWkdXZVVpUzJSNURUdV8yc1pZbmZpbklKaHlCa3ZzV1pKNDRqLWM2bUIteFBXNE04clRBV0I0NlQxdGVHLUJ0ODdWblBCbkFFdmhsNXE2ZEg2UXVoWWw3d1VNSElKdnh1aU8?oc=5",
+      "description": "Stocks fall as Meta dents AI optimism; French bonds under fire marketscreener.com"
+    },
+    {
+      "published": "2026-10-22T13:45:32+00:00",
+      "score": 7.0,
+      "themes": "['market selling', 'India market']",
+      "source": "theopenpress.in",
+      "title": "Stock Market Crash Today: Sensex, Nifty Extend Losses; 5 Key Reasons Behind the Fall and Top Losers - theopenpress.in",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmpWQ0tHUFNmLUhNOXA0NEpSR2VKUV94MEwteWNrVHJDWEt6am9LeGpuWEcxMnpjY0dHNWtWV2tabDlHTG44VWhpZVoxVEdqYXRvb2lINl96WXg1dHd5UE9IeFhhckxDVGZYaFFkeXBnSW8td042eUxKdmROSk85UUpBT2JUTXZ5VXYtWXVRY3RWenJTNE9iSHVjX0g0bUFZNEgyUU53?oc=5",
+      "description": "Stock Market Crash Today: Sensex, Nifty Extend Losses; 5 Key Reasons Behind the Fall and Top Losers theopenpress.in"
+    },
+    {
+      "published": "2026-10-22T13:33:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "CoinCodex",
+      "title": "China Stocks Enter Bear Market as $2.4 Trillion AI Selloff and Economic Fears Hit CSI 300 - CoinCodex",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOWXlVWm1WSm1Zc3gtbTBtaFhfZV93ZE9UUC03dXpnbzQyMEpwekJNbXZfQktqNXJYTUxYYkZwN0UwMW5HdWlGSVBHbUlGMUVWU0JZbnJhWG82VUhVLXppRXhpQ2RLbXZhMlY2VDd6UGhoOWswa1kxdzBiMV9XMXVwaVNfeVptX1lFX0ZDM3Z2XzAzUHE5bXFYNTBReGx1azY0TEV1TG8xYmJzdUVlRjRmZ0Q2UGNJV0pHUTdkSXRPQU1zUQ?oc=5",
+      "description": "China Stocks Enter Bear Market as $2.4 Trillion AI Selloff and Economic Fears Hit CSI 300 CoinCodex"
+    },
+    {
+      "published": "2026-10-22T13:32:49+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Yahoo Finance",
+      "title": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints' - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNTFRUEdPVXNMUm5MbFhpU0ltTkZDam0wSXU0R292ZDBvVGhlT3hlOWxJbk1jZjBJeFhZUWNXbmgtemF0TTFrak1fRnNxOFlsaGJJa0xMWEUtZUZ3LTEtcHh6OXl4d1hPaVlPcjJlbDl1NlQwZC1CN2VIcmQyOVlQczVpdVotR2pjZGI5MWJyWk1pVFdjLURHS1ZmeFY0VGd6ajMtRGxWTkRkY2xUVS04cnRSZ1ltQl9UMnRCOWpBTGpIbVJBX0pnZ29jRlp3NUhXdmc?oc=5",
+      "description": "Chip stocks fall as equipment maker Lam Research cites 'supply chain constraints' Yahoo Finance"
+    },
+    {
+      "published": "2026-10-22T13:27:38+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Investing.com",
+      "title": "Short sellers gain $6bn amid AI data center stock selloff - Investing.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONzIyWXpDWXBGMEV1SDlCbWxTTUJNQWZQMWJXb3d0OHpzYmpKTENpSkdMVVRHdVdXNXp6Ni1sN2ZyNFd6MzVqYTE2bll3OWd2cVBWQTNrbXpHMUtkc2dyUEQ3UTg0bEpCX0VuYVhBenJqQzhYdGxKS1l4Q2lLM3gzSDNlYnJHYWJhUUNRbVBHNmE2a2QyalRIM3lSaEI2dzdLbFd2Q3MyVXJJZDhrM1RSOF9YVQ?oc=5",
+      "description": "Short sellers gain $6bn amid AI data center stock selloff Investing.com"
+    },
+    {
+      "published": "2026-10-22T13:26:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Investing.com UK",
+      "title": "Short sellers gain $6bn amid AI data center stock selloff - Investing.com UK",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTXlvYzBlRkZfTHZuSDN1Z3YxdUFhUXM5OUhMLXZ6UTc4TXFldzBpMjVobG5fdC1yTEtuaTVtampoTThpSXBscWN0ek0taEJ5dnZ2dFJaWlpBbE1RQWRhVXoyTGcyd2tZYlIzNm85c2RSZHhiei1lT09MaXFta2l5VmNQUGltNXlGbmY2UjNFRkM5emcyc25sT21UOHh6dVRwdFNYUTRDR1JYajZVYmtwVFd3?oc=5",
+      "description": "Short sellers gain $6bn amid AI data center stock selloff Investing.com UK"
+    },
+    {
+      "published": "2026-10-22T13:12:31+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "ActionForex",
+      "title": "Global Tech Selloff Lifts Yen as French Bond Stress Weighs on Euro - ActionForex",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNcVptUnpLNFZ5eFdhS2NYdGRJcy1CTXVMRVhacVhuQ3B4aUI2WjFxeVo5VFRQMG1FSmRLSmJKMVFwcEV6ZkhocFNVMUhNTnhaRVJYUWQ1bi03VXdzTnZYbTNrS21IdE5WQmJRMDlpUHh2QzA2NkpTMkVQSmhmbWJzaFZuY0wzMFNtWWNVMV9pX2pXRGpEcVQ1VGQ5dUpIa2JNNUROWkk2NEZFNURCZGNNNTRtTkk2dEtlTjlZTzhMWlh4WnlNMnNHMndiLVp5dw?oc=5",
+      "description": "Global Tech Selloff Lifts Yen as French Bond Stress Weighs on Euro ActionForex"
+    },
+    {
+      "published": "2026-10-22T13:01:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Barron's",
+      "title": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That’s a Mistake. - Barron's",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8tdTNKY0dyLU02dF9icXAyaXhmM1hFWnFiMmREeDlZSTA1bV8xMG1rSmdmZ0tTNFNSZVkybGlpWlhRcHdoeFZkcm1LcmpPTEtGT2tBVW9mclU0RWZBM3hlX2tTYkQwd28zbTNaM0xXN3ZoVWJVYkFPaXdn?oc=5",
+      "description": "Oracle Stock Was Caught In the AI Debt Selloff. Wall Street Says That’s a Mistake. Barron's"
+    },
+    {
+      "published": "2026-10-22T12:43:21+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Seeking Alpha",
+      "title": "Copper prices slide to five-week lows as AI-related stock selloff hits sentiment (FCX:NYSE) - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW0xRGFhY2haM05VNWx1V2N1aF9VeUxBdm5RVnZCYW10M3VuR3ZjbVhvY1BNTG13cEpwXzhWdzlidkdiRXdqMFBMYWhGd0FNVHZwRnJ5OHdMTFVENExfQ3hXR1pqaTJ4TzNRYmx1M2FiWjE3WXcxUW5tRVZGNWlsV0hGU3AwTGJ4VjFfUndjM2tNSVhJbUhaQ09NSEdIR1ZELVdHcmlQT21acEk2ME56X2dSbUxUUUhtbUE?oc=5",
+      "description": "Copper prices slide to five-week lows as AI-related stock selloff hits sentiment (FCX:NYSE) Seeking Alpha"
+    },
+    {
       "published": "2026-10-22T12:21:23+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -32823,22 +32985,13 @@
       "description": "Tax relief, global AI correction alone may not revive Indian stocks A2Z Taxcorp LLP"
     },
     {
-      "published": "2026-10-22T12:06:32+00:00",
+      "published": "2026-10-22T12:05:36+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
       "source": "ConsumerAffairs",
       "title": "What could trigger a correction in AI stocks? - ConsumerAffairs",
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1l4WkpWSnlLMzB5MWVrNThKOW1SM1pPZldiMWlBR1plRHdTVGRnZjBUQVJhc2ZNVzg1RWl3U281OFYzcDNUYThuN1cwVmt4MnhRbTZVZzdjVmlmTGpma3BjY2tOaE9jQk0zN2NCV0VQV0FHcDdIeERsRmtLWnNBTXJmVEd0anhsMDEyUklBNTBlSlQxVlhGMg?oc=5",
       "description": "What could trigger a correction in AI stocks? ConsumerAffairs"
-    },
-    {
-      "published": "2026-10-22T12:04:21+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "TradingView",
-      "title": "Stocks fall as Meta dents AI optimism; French bonds under fire - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQSGFsV1UzaG9DN2JwNFB4OTNsWDhWSDFfRVlxOUtQNVNiS0dxMmJmVk1WLUlzWmQ2WnFrT0x0VG9QaEdOa0xvaTdtT3JxSFRkSVR2RGJySVhpYVJlc2I4SXNiNHh6c0tGYlZKa0xoemV5VXBuZVBGeFhDemVOU0ZtdzktSzlUckpRTGd2Z1dER1VBcE1peUk1aUVOUGc0blQ1LXRxR2pFV0pHc1NKOFBlTll1akQtNVo1WlJrNFJnTXlrLXBNMmRDSzV6UQ?oc=5",
-      "description": "Stocks fall as Meta dents AI optimism; French bonds under fire TradingView"
     },
     {
       "published": "2026-10-22T10:45:47+00:00",
@@ -32850,13 +33003,13 @@
       "description": "India VIX Ends at 15.81 as NIFTY’s Third Straight Session of Losses Keeps Market Volatility in Focus HDFC Sky"
     },
     {
-      "published": "2026-10-22T10:33:26+00:00",
+      "published": "2026-10-22T10:28:05+00:00",
       "score": 7.0,
-      "themes": "['market selling', 'India market']",
-      "source": "theopenpress.in",
-      "title": "Stock Market Crash Today: Sensex, Nifty Extend Losses; 5 Key Reasons Behind the Fall and Top Losers - theopenpress.in",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORmpWQ0tHUFNmLUhNOXA0NEpSR2VKUV94MEwteWNrVHJDWEt6am9LeGpuWEcxMnpjY0dHNWtWV2tabDlHTG44VWhpZVoxVEdqYXRvb2lINl96WXg1dHd5UE9IeFhhckxDVGZYaFFkeXBnSW8td042eUxKdmROSk85UUpBT2JUTXZ5VXYtWXVRY3RWenJTNE9iSHVjX0g0bUFZNEgyUU53?oc=5",
-      "description": "Stock Market Crash Today: Sensex, Nifty Extend Losses; 5 Key Reasons Behind the Fall and Top Losers theopenpress.in"
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "毎日新聞",
+      "title": "Tokyo stocks fall, Nikkei below 63,000 on profit-taking amid AI concerns - 毎日新聞",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Cc0x5OUI1ZTZLS1VoclpQRjJZbkJubG1VcXFKclQzYkM4OFc4Y283WGh4MHhITHVaa3gzeEJuVUMxNUM0Mk12WGhIX1ZMSlhaYnNCdXJFazFJMEF0d2ZhTjlkNkl2ZGJlYVgzeGg3TmI0YjQ?oc=5",
+      "description": "Tokyo stocks fall, Nikkei below 63,000 on profit-taking amid AI concerns 毎日新聞"
     },
     {
       "published": "2026-10-22T10:16:49+00:00",
@@ -32895,6 +33048,15 @@
       "description": "CoreWeave debt selloff raises concerns over private credit’s AI exposure Private Equity Wire"
     },
     {
+      "published": "2026-10-22T09:01:28+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Profit by Pakistan Today",
+      "title": "Asian stocks fall to three-month low as AI spending concerns, Middle East tensions weigh on markets - Profit by Pakistan Today",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQWjdfLU92S0JWZmQ1bVFWUUtONjA3U2RzVDJwajRoTHFhbV9FaUVBRDhvQmhGNUw3eUo0cHpyYXBBbmFaMTBZVHJqWC1FNGxjZFJHaHN2WXFmWFZlY0d0RmRndGhFeERCc2lNYmtaQi1OX1YwRzRaQ2gyTTlveERyVWtFRk9ub2YyZ3owWkdhdTQ0NnBVTXR0RExkYnN3S1pvWGVCZUdtUFhrV0YzT0dfRjVXdmdHVVpnNE8tVmpsUEU5LTdtRklub2p3UmVGRzcxanhBOWplVnpWRjh5c3c?oc=5",
+      "description": "Asian stocks fall to three-month low as AI spending concerns, Middle East tensions weigh on markets Profit by Pakistan Today"
+    },
+    {
       "published": "2026-10-22T08:42:35+00:00",
       "score": 7.0,
       "themes": "['market selling', 'India market']",
@@ -32902,6 +33064,15 @@
       "title": "Sensex Falls 400 Points, Nifty Near 22,700 - Dainik Jagran MP CG",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPOGZPVkdmZFlQY1l4N280Q2g4SmZsekNTdm11eVBqSzRRSldrQjRkdTdKUmhVd3ZMOFNOU3YyM3lOTHIwczJ2NHRCSnJpMk1FWW1yVlQwclJRelJZbDExZ3EwNmxVM3ZNN05GUzJ0WnFMM3d0SUpXUEUwcTVhRFdJNEpPUXp2dS1rYWpYVVJGUmtGTGRqT0pZeTlKRzdYSGNVR3c?oc=5",
       "description": "Sensex Falls 400 Points, Nifty Near 22,700 Dainik Jagran MP CG"
+    },
+    {
+      "published": "2026-10-22T08:22:49+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "springerprofessional.de",
+      "title": "Correction: Intelligent additive manufacturing using AI and machine learning - springerprofessional.de",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVVEwbFp2X1ByUGtjdmp4NHRlUDFleEE1ZzFjbUxCQW82STMtZTZ1bFRXQ21lMTJKZVBibG0yNUdTLWowdGlreWpMdWc1eEN6dVFJN1ZWZnUydXdzNkhzSTgzQnhVMk95aFhEUGo2YnBLZ3EzVUZQOHd0QkJLVEtSVFhESmRibUFYa2NiUFBMZ0pJUDY1QmFKSDk5ek54WWFzOVc5Z1YxemJyMkh4WTFVNmln?oc=5",
+      "description": "Correction: Intelligent additive manufacturing using AI and machine learning springerprofessional.de"
     },
     {
       "published": "2026-10-22T08:22:47+00:00",
@@ -32931,15 +33102,6 @@
       "description": "Chinese Stocks Fall Amid AI Cost Concerns, Middle East Tensions marketscreener.com"
     },
     {
-      "published": "2026-10-22T07:30:15+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "毎日新聞",
-      "title": "Tokyo stocks fall, Nikkei below 63,000 on profit-taking amid AI concerns - 毎日新聞",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Cc0x5OUI1ZTZLS1VoclpQRjJZbkJubG1VcXFKclQzYkM4OFc4Y283WGh4MHhITHVaa3gzeEJuVUMxNUM0Mk12WGhIX1ZMSlhaYnNCdXJFazFJMEF0d2ZhTjlkNkl2ZGJlYVgzeGg3TmI0YjQ?oc=5",
-      "description": "Tokyo stocks fall, Nikkei below 63,000 on profit-taking amid AI concerns 毎日新聞"
-    },
-    {
       "published": "2026-10-22T07:04:11+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -32963,7 +33125,7 @@
       "themes": "['market selling', 'India market']",
       "source": "Punjab Newsline",
       "title": "Stock Market crash: Sensex falls 642 points, Nifty slips below 22,600 - Punjab Newsline",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPTWIzUmN5VFdhNldncUFqa3FER1N5QVpadmpKckN5M3dnajBEWFpaX2FGT29abjhoN2IxYy1Zc0FIb1hfNFVyUmplVDdleWpyckktblQyd2hxaTNUZ3N6TF81Rmp4UE1nWTZOTkt6dkc0TXV0R0hUUlk0X1E1SnNSOVZoTGtkV2xiRy1iekJjdUt0UTBYR2Jlb2pISTRsdWlUbXNNZEtB?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZ0hpMktIUjlMRTFUb3A3dzdkS3lHVmNLRWpSN0ZPOUp5M0tHd0RxREdmN1p0cjB4QVJISjJ3eXpwdUVZMUthekc0Y3k1QzRFYkJxdzVGVlhEaHgxUXkwQ1pFWFVwOWh6VjVjenI3aEx3amUtNWtYNW9uT1hzS1ZJS3Z5ZGd2TWRNekJzLWRRMFF4R3hXMXdjQ09UUEQ3enJT?oc=5",
       "description": "Stock Market crash: Sensex falls 642 points, Nifty slips below 22,600 Punjab Newsline"
     },
     {
@@ -32983,15 +33145,6 @@
       "title": "Marco Rubio Visits Jamnagar, Nifty Falls Below 22,600, HDFC Bank Probes Leak - India Today - India Today",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQU1wRWlpVXQ5WEhlbjJjekFSQWpmd0JkblBzN3pMNGMtVG9pejV2MVljaUpqN0tqeFo0UXNmTERpbkxkM2ZtV1JiUUNKWENNQWFxdHZGM1hWSnFYOWhoM0E4dlhFXzNrNFhDZmZSLTIyWXY4RDJVU2pOY2s3SjdzUHZhTzRYczBMM2xwRWYtM0JzVXQwYkhjaWE4V2QtUGJrLS1HTFE2V0Z5QUFHV2Q3dl9kQlFKSzBNOW1sbTlwU09wSXViN2FmX2tFUTBWd2400gHWAUFVX3lxTE1nNHFZTDlLT0NpMWd2Zk1UdDJobU0xYlp1X2FIVkRvY0V0SWcxakthVTVVTjd4WlNsaE1EcjJEYWVORzc1WEp2bzdaSktBNmUwOU9hUWJaZ3AxcTdsM0pXZ3NXeG5YUzdpNkRQcW1NZy1yVTlvMk9TMEZCaW9CVUxtSDlNVHcwbDRRWnJBSnlPcXJJdlhxcExDZVBLcUc3YU11WU00b1RxVGoyUWJoM3V0Z3JfODl4ZTdBT1l5R1dmY3pIcFMxREFadE13YzRtZGkyMWk1a2c?oc=5",
       "description": "Marco Rubio Visits Jamnagar, Nifty Falls Below 22,600, HDFC Bank Probes Leak - India Today India Today"
-    },
-    {
-      "published": "2026-10-22T04:15:50+00:00",
-      "score": 7.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Sandesh",
-      "title": "Stock Market Opening Big decline in the stock market Sensex falls by 60822 points Nifty opens at 22581 points - Sandesh",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOcDN4c2JFb1UtdHhfT09QNnd5UDNfel9MSTdMQUE1eHZSWmdXSUJYcGlSdFUzdVRKaUNkRVdWdy1JZmJuZURrQ3czbHFqV3Voc0dHSHhvNjRDV0pUZGVZZHZWcy1rbzVwSHl3RzRBbHY3T3ZQaEFSeUZ4VFl4S29ocDdTR09vb0lHcXU1aWNSQV9rbkF5R0MwbWRLTzZGVnZTSFA3dnFfMm8yRWpzNU5NRHBCWmtKa2R1T1l1eWw1NHVfa01oY2FfYTNkMEcxSjZZVmNUeW53aUwxQTQ?oc=5",
-      "description": "Stock Market Opening Big decline in the stock market Sensex falls by 60822 points Nifty opens at 22581 points Sandesh"
     },
     {
       "published": "2026-10-22T04:02:38+00:00",
@@ -33030,13 +33183,31 @@
       "description": "Bears tighten grip on Dalal Street: Sensex falls 1%, Nifty slips below 22,600 Zee Business"
     },
     {
-      "published": "2026-10-22T02:22:43+00:00",
+      "published": "2026-10-22T03:35:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "Investing.com",
-      "title": "Stocks fall as Meta dents AI optimism; French bonds under fire By Reuters - Investing.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOGtYQWNpVTk2dkRTOVQ5TWtLOWlMVTlfR3NWVmNOSEM2T0JGV1VwUzRFYkdIOFBNTG1rTkdmN1ZDSjNFNWxTWUxUWVk0Z2JEamdCdmx3YWl1alc3NEZFa2N4ejhLemhyM2sxSDVlemRaNTlGM1JidVEzSWpxZTY0TzNETlZleGEzbkxxSTBucV9WMFlDQW5oS25sNUx1bTdRTFkyaWFyVzhBbEtGOG5Ma1R1V2pBc1E?oc=5",
-      "description": "Stocks fall as Meta dents AI optimism; French bonds under fire By Reuters Investing.com"
+      "source": "finance.biggo.com",
+      "title": "Berkshire Surges 7% Amid Semiconductor Selloff — First \"Extreme Divergence\" Signal Since Dot-Com Bubble - finance.biggo.com",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiTDhkZDBRNnJKUGd3YXpUMGFvb2gwQ1JCSENzZ2ZZTkstZ3d0TWhiMlUybjZFcnUtX3FOUGlfVlViQXk1NV9Qby03NWJGd3JiWmRJZktfSVNmdnpndTFIRGpLVUN2S29KWVpaa0p3eVJ0ak1pT3c?oc=5",
+      "description": "Berkshire Surges 7% Amid Semiconductor Selloff — First \"Extreme Divergence\" Signal Since Dot-Com Bubble finance.biggo.com"
+    },
+    {
+      "published": "2026-10-22T02:15:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Reuters",
+      "title": "Stocks fall as Meta dents AI optimism; French bonds under fire - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
+      "description": "Stocks fall as Meta dents AI optimism; French bonds under fire Reuters"
+    },
+    {
+      "published": "2026-10-22T01:07:20+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Stocktwits",
+      "title": "Melius Research's Ben Reitzes Says Chip Stocks Selloff Was The 'Exclamation Point' — 'Semis Are Ripping, And I Think They Should Be' - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQcldiajlQYllVRGtfbk9PSEsyN1BldEpuS1A4MUwwSFczRzBZa2hFMzM1YmhMUUUzN3R6QXhNU3N2V2F3X0pTdWxIckFUeUM3TTdBcjRhT1ppNXRYaTBxMndoNTNienN1bXJtMHRhQTdHTG1UcXppUHlTalUtVzV5NzhHdGM4MWREbVZmMGVtdnVtdGxESGJuc2lZajlmNHhHajFFUnZHYmlvTUQxMkxXRE9adUhCM0NGTUVuNkp0TEdJUm4yTzFCUl9fWEJDUQ?oc=5",
+      "description": "Melius Research's Ben Reitzes Says Chip Stocks Selloff Was The 'Exclamation Point' — 'Semis Are Ripping, And I Think They Should Be' Stocktwits"
     },
     {
       "published": "2026-10-21T19:41:25+00:00",
@@ -33075,24 +33246,6 @@
       "description": "The Semiconductor Selloff May Be About to Accelerate Investing.com"
     },
     {
-      "published": "2026-10-21T13:24:18+00:00",
-      "score": 7.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Goodreturns",
-      "title": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? - Goodreturns",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQSEdiSGFqdzRTVWY4bDdEenB6LTJiTjYwNS1RZzVBN2VPdDRyWlFaOGlWdTE5NzJxMm5QNElWbV9Gc0dObGtudGh0alcyNjBYdEtaTThBNjFjT0VRTFFfOXVERjJ1bzVESmp1bzlwT2FpdXFkMzlWQXVCNXFMVHpNdkZEc2QyLWtiNkUyZVNBN2RMU2otemVmc1NHSEx4cUdONjNOb0Eyd3dPRTFxUmxISV9UNUNwUDZOaTFuUEo1NmRmcG1RaG1EeDRRRkh1bjgxWGc0Y1dvdXRtblE?oc=5",
-      "description": "Indian Stock Market Falls Today As Elections Cheer Fade: Why Sensex Fell 620 Pts & Nifty Sank 197 Pts Today? Goodreturns"
-    },
-    {
-      "published": "2026-10-21T13:15:16+00:00",
-      "score": 7.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Mugglehead Investment Magazine",
-      "title": "Nifty IT gains 2.88% as Sensex falls 143 points ahead of Infosys results - Mugglehead Investment Magazine",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1lOVZ5LUREUnEwQ19lRG5CMDVYSEJXY2Rya1RreVR2NEhWdWppYWdsQ3ViTHp0dUNPaFYwcVdtRFd3X2t0ekZyRnJoa29wNlU1VGp6bWFmaGR5T3FJUTA5LWpHbVVnUjFkQVEwMTdwYS0wZ08zbVd1LWhldw?oc=5",
-      "description": "Nifty IT gains 2.88% as Sensex falls 143 points ahead of Infosys results Mugglehead Investment Magazine"
-    },
-    {
       "published": "2026-10-22T11:27:42+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -33129,21 +33282,12 @@
       "description": "Nifty 50 Falls Nearly 1% at Thursday Close Business Upturn"
     },
     {
-      "published": "2026-10-22T09:32:26+00:00",
-      "score": 6.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Moneycontrol.com",
-      "title": "Volatility over value: High-beta counters outshine blue-chips as retail investors swarm India’s stock market - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxONmdmRFo5XzhJVVRKQnFpWkQ4STZjbGl4VGgxU0VTSnVBLXZaQXdqZzdpa0poS3VkQmNoR1dtRHZ6X1RmM0xjdkRqX2NFZ2REY3N2OWw1N3FLbXc2cEdXOS0zcW1OeXdiUmxjTUZTbmQydEZzOVVYb3FYWmlIUEZ4Z0xqT1AwUWIyNkhOeGVGZzhQWWtHNlRra2VOQ0J3aTJBbjdVdFZCZ1R0eFQ1RVdNVUxNbFRxbUxMRTFrLUxuY0JINXpma25iRTlyWjFGQTZBYXJLNDhjdEY2SmRveDZWaFVWbGJYM0J4R0oxeDUtS1pZbjJvY3NIZXkwMUs?oc=5",
-      "description": "Volatility over value: High-beta counters outshine blue-chips as retail investors swarm India’s stock market Moneycontrol.com"
-    },
-    {
       "published": "2026-10-22T09:17:15+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
       "source": "Moneycontrol.com",
       "title": "Nifty Auto index falls 1%, extends three-day decline to over 3%: What lies ahead? - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOTURSazZSVXpFdk5tUnB0b215Q1FkT3NteHpyQUx2LVVYVE16X1ZUdUpNQzJ3dkdyejJQY01ZZFFlQkY3U0M2LTBQTXVDUXAzRXpCeUVjMmM0aFRqTGtZbThPRmNOZVVOX0FnVldUN2c4SktHVGZ4T0dhajNZMmVudWlhQThFRWtIdFpNOUR3ZmxJWVZFS3hLV19ITHMwNlQ3YnFFSlFKTEp6eVVpTUg4UHZkOW02bFVrRE41M3RqR1loTm5MMjZxalJTUk1rQ0NDSVpDWlc4RjJBbXNfU1HSAd4BQVVfeXFMTk1EUms2UlV6RXZObVJwdG9teUNRZE9zbXh6ckFMdi1VWFRNel9WVHVKTUMyd3ZHcnoyUGNNWWRRZUJGN1NDNi0wUE11Q1FwM0V6QnlFYzJjNGhUakxrWW04T0ZjTmVVTl9BZ1ZXVDdnOEpLR1RmeE9HYWozWTJlbnVpYUE4RUVrSHRaTTlEd2ZsSVlWRUt4S1dfSExzMDZUN2JxRUpRSkxKenlVaU1IOFB2ZDltNmxVa0RONTN0akdZaE5uTDI2cWpSU1JNa0NDQ0laQ1pXOEYyQW1zX1NR?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQzFwSTk3dFZBUEFsOGFPVjJJSG4xeFBzLTc3NmxxUUV1c1d0dHJXMmZsWGZkdm9EZE1KQ1ZyRkduazRPVEFxdUxLUEU2VHVQeUdmNDdmelQ4WFVlZ3RYS3NLN3FqS3NSbWVCRDZrZXk0S1IyQnlhYW1HNVl6UVlaZENZMXFzNF90aXJNQkN1MGVBVDBjXzRycjl3Z0hWOE5SV3pqcGdHcFNKQzJva2M2cGY3V1M2ZDdCZGFaeWFuVWxNWFBTM0lLWnJyQVp2VFBDVzdoMnRBb0vSAd4BQVVfeXFMTk1EUms2UlV6RXZObVJwdG9teUNRZE9zbXh6ckFMdi1VWFRNel9WVHVKTUMyd3ZHcnoyUGNNWWRRZUJGN1NDNi0wUE11Q1FwM0V6QnlFYzJjNGhUakxrWW04T0ZjTmVVTl9BZ1ZXVDdnOEpLR1RmeE9HYWozWTJlbnVpYUE4RUVrSHRaTTlEd2ZsSVlWRUt4S1dfSExzMDZUN2JxRUpRSkxKenlVaU1IOFB2ZDltNmxVa0RONTN0akdZaE5uTDI2cWpSU1JNa0NDQ0laQ1pXOEYyQW1zX1NR?oc=5",
       "description": "Nifty Auto index falls 1%, extends three-day decline to over 3%: What lies ahead? Moneycontrol.com"
     },
     {
@@ -33165,13 +33309,13 @@
       "description": "D-Street's margin-funded stock bets fall as smallcap rally falters The Economic Times"
     },
     {
-      "published": "2026-10-22T08:09:03+00:00",
+      "published": "2026-10-22T06:42:43+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
-      "source": "Moneycontrol.com",
-      "title": "India’s margin-funded stock bets fall as small-cap rally falters - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjVLRTVSd180SURuNXN6ak5MYXEtakwzRVBQVk94cGU3N3VHNl9wVWoxUlpJM1dwYWNzaTJwakZ3bXNlSnRYZ1lrWWcwTmtQSng4U1Bjem56Wk1uNzZyU2tQbUZoaFZZc0tOYzdhTWJHbXRxWkFIZjFfci1ZT2RBSl9Zd3RCQ3Z0TDN4UTNMRzlBU1JTQmszeFd0VUhjLXQ0X0syUjZidHoybE9WLVF5dXRpNUxydGc1elNhWjY5blRlel81QzFUdGhicEdad9IBzgFBVV95cUxPUjVLRTVSd180SURuNXN6ak5MYXEtakwzRVBQVk94cGU3N3VHNl9wVWoxUlpJM1dwYWNzaTJwakZ3bXNlSnRYZ1lrWWcwTmtQSng4U1Bjem56Wk1uNzZyU2tQbUZoaFZZc0tOYzdhTWJHbXRxWkFIZjFfci1ZT2RBSl9Zd3RCQ3Z0TDN4UTNMRzlBU1JTQmszeFd0VUhjLXQ0X0syUjZidHoybE9WLVF5dXRpNUxydGc1elNhWjY5blRlel81QzFUdGhicEdadw?oc=5",
-      "description": "India’s margin-funded stock bets fall as small-cap rally falters Moneycontrol.com"
+      "source": "MarketsMojo",
+      "title": "Sensex Dips 0.68% Amid Broad Sector Declines; FMCG Leads Losses - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPS3ctRndzUnBtTllHWGMtTl8zdUlMX08xQUdJOG5JZGJjajVUdko0VlYySGRZeVJQOVFwY3RiV1RSQTJ3ZVhzeHdZRV9oZDNfQnBoUU95empWN09vRjhoWUhOaHdKek9XZHJ5U1RPYVlQei1EaGZhVmtQMzZDM0xpN2pFSl82dWhZT2phU040NFQwRmh5MVZ2OHd1NDZSbG9rT3NaUnk5UExhbUlkVkFBcW1za1FKRDdkbm9F?oc=5",
+      "description": "Sensex Dips 0.68% Amid Broad Sector Declines; FMCG Leads Losses MarketsMojo"
     },
     {
       "published": "2026-10-22T05:53:00+00:00",
@@ -33219,6 +33363,15 @@
       "description": "Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng and BSE SENSEX Fall BBN Times"
     },
     {
+      "published": "2026-10-21T23:45:21+00:00",
+      "score": 6.0,
+      "themes": "['market selling', 'India market']",
+      "source": "BBN Times",
+      "title": "Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng and BSE SENSEX Fall - BBN Times",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQblA5dWdYMUhmT01oOHBGVWRKOXJnM3lpeFlIUDBzVmU5RGN3VUxLaTNPWWNUTEM4b0h6Qjl6cnJKMm1rQlczSDZzb2JrZUNidlF4WUlIdktXd0hIc3JpOWhBVmdLdXlrQmphV2RZOF9RWkQwZmRucnk0WWVoVnF4NWdZcUxQbktYM1hONS1JdFdrRlFnWk0tVjllZWxTRUpObWV5bnZEX21jcDBoRHNBdl9pSzJhdEVSQ2pRRkdId3FyUXRreXlxVg?oc=5",
+      "description": "Asian Stock Markets Today: Nikkei 225 Rebounds While SSE Composite, Hang Seng and BSE SENSEX Fall BBN Times"
+    },
+    {
       "published": "2026-10-21T22:04:36+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -33255,6 +33408,42 @@
       "description": "Franklin India Small Cap Mutual Fund: Rs 10,000 monthly SIP turned into Rs 50 lakh in 13 years, 19.18% return since launch, AUM crosses Rs 14,000 crore - Check returns, top holdings ET Now"
     },
     {
+      "published": "2026-10-22T12:30:24+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "Loktej English",
+      "title": "Zydus Pinkathon Title Partner Zydus Lifesciences & Presented by Mutual Funds Sahi Hai expands to 12 cities, advances vision to take India’s biggest women’s run to 52 cities - Loktej English",
+      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxQUkxYbW9XM0tsYWoxSUVWcTNhTmFabGZ5cXNyTnJRTl9oS1J3bVR4WlpFYlQ2dVhhdzJZcDRXTmVScnVQWURMVzVTMmVGci1Gb1lveXVtZVNydS1TRkZPbFl4QWlIQ3oyZ3Q3RmhHQncwTm5SVGFzZm51eTJXV2NBLU5JX3hHdGt3cTl5UnUwWHVuMHZGeS1hRGZub2g3UDhfdXlGODVacHJSRjYyVExMblRDNmhpVlJQSjFUY3RBOVhlcHZ0YzdlbTYxcHNnR2dGdUxlVHU5cjBPWXI1RU1xWkQ4Z0RrNTA1SWFuZ21XRHRYeENBZnZKQzMxYnI4N2xNUkxuU0M1ZWhzY0FjT0VsdThUSHgxSGloR0xuck5KU3VEb1doc1Q2S2JtM3hfNTdvY044YnZrM1kyY1JhRF9ZaV9MdDVfTTB2MnI0a3dLbS1zb0E?oc=5",
+      "description": "Zydus Pinkathon Title Partner Zydus Lifesciences & Presented by Mutual Funds Sahi Hai expands to 12 cities, advances vision to take India’s biggest women’s run to 52 cities Loktej English"
+    },
+    {
+      "published": "2026-10-22T12:04:00+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "Value Research",
+      "title": "Best Multi-Cap Mutual Funds by 10-Year Return in India - Value Research",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMU9qeHlaS1hjQTJiRHY0R2RlZU5FYzh2c1k5ZWhsZUFlSm9zZ09tZ0dwWnlla1dPVzY0eTM4eHR4UldGNFM5OXlNLUNFV3RxSUszZC12c1BQOEM1Z1IyTWMxVWpYY3FHMVNsZnM2Q05CUFZiV3pKbGUwV0xaZjM2MGFNYWdZZ2ljMV8tcHhCTGxkS0RDbTJjdTNBYw?oc=5",
+      "description": "Best Multi-Cap Mutual Funds by 10-Year Return in India Value Research"
+    },
+    {
+      "published": "2026-10-22T12:04:00+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "Value Research",
+      "title": "Best Large-Cap Mutual Funds by 10-Year Return in India - Value Research",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdFdTQlh1S0xpVXBmT2FmOTg0d0hPLUJNN1BFMmxNN3piQzlwRkhVRENJOVc4N3F6ODdDWjBhMGlSSXJHSmNURUVPZGFOUWFWUHcyN2tJRDN0Z2xRTktrMFNMdHprcEJjWDZmY1lPVmZUSEdHQWxrMlROa1B3U0hSNGhMSmc0MWRxSEpQM1JXS3NuNlRPWHZYZlVkYw?oc=5",
+      "description": "Best Large-Cap Mutual Funds by 10-Year Return in India Value Research"
+    },
+    {
+      "published": "2026-10-22T11:46:41+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The New Indian Express",
+      "title": "Mutual Fund SIP Inflows Hit a Record in 2026: What It Means for Your Monthly SIP Amount - The New Indian Express",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaWVJV25kRGlRNkdpS2RQTFFCejQ5QlY3WHppMDZTRGFFSldqbDU2TmRCdG9vOWhPVjd4N19aWWRWUlh5TGctNkNrVml6UGVEamNLbkFSUVV4cEFXMXVVZC1WTXQ4X2VqeF9mV1hxdHEtNktETlFESjc3S3dBWUpUTVc3RXFtVXRfZlM5eE9TS3o3NkV4X1k5aE8wZnpydWhPZU03LVcxbmZNbW15LTN5aWUyVmt1OV83VEREN3lqY2tzLUViQ3dQcHA2a3ViUkJfZWpmXzl2bW5ITUUxQktrNdIB7gFBVV95cUxQazFsZGhoVU5LY2N4R3RUdGs0ak5pUGdqWmNDdklNQ2VySVg2OUZpZUt3QnI1THNoZERsMU9uOV96ejBnMUwzX2ItMnptMHdVdVJBV2FyZGgxVXhsZmdjeTJrajJVY24tbDFxeTVqZ1hwcnp6amZaS3NRZi1WOS1Rc0RJdG81QW12YjRtUkJJWUNHc3ZLeVZSeXZLMFBWbGZLazFuZmVfUldQMklYX3BPZG9VOXhJWkU4MnN3M0hvTXRwcTFoeTBEUDB6d1Z3QkFCSk1uSG9NcmdGLXE1NEdjc1NOeFkxX2FxemFpa25B?oc=5",
+      "description": "Mutual Fund SIP Inflows Hit a Record in 2026: What It Means for Your Monthly SIP Amount The New Indian Express"
+    },
+    {
       "published": "2026-10-22T10:35:43+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -33262,15 +33451,6 @@
       "title": "Mutual fund, SIP investment: Large-cap vs small-cap — Where to invest new money this Diwali, Dhanteras? Experts views - Livemint",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWDlUS3Nra0p6RjNlTE1PUlBjdlRCdXBvS2lUUlh0Nnkwc3FSSTFLa1Y4MUFXUVFlQ3MwR3pVbVdMWXBTenJtTDZRZFhQRmhvcFR4NDlNaWd5c1dxM2hMRGpWN0ktTGdRU1VnQzFITDRQclZ1UjEwWFhPdWk4ZmdRaG5na2RIVGRxNk1Ib2N1Y2lsOXdrREE0VERmRlFDaGNScVdaa1RCMEIwbVlHem50SkVjbnQzTGVSb2JKYTV5OVYzb2NYbnV2NGl3MkpjZWxQMUxfUUR0cUhNSHYtWWtYdWtPdUtlc3dvZ1pMWDRsZGtqeWpMR3ZESmJNTjJOcXRTQnhKVXdZRnk2TUXSAZACQVVfeXFMTW9FSW9zU0FVbGFmSXludVVJTUhLNXRBRkxtaXozaExIR3VzNXMwUFBxLVlLNFRndHlCZWJaV3hUbm1tNkc1MlVXSl9MUjVNN0NRM0gtcnBocDBqUndEMkRVN2R1QWdiVElBZkE5QU45ZURhWEpHWU1sLVpWU2htNEk2ZEVoYXVOY3pNeHhzY0g4c3Zhb1dTOHZXbEE4RVoxYVF3d0VSdjN0VnVWRlJyTVVDeWg4RThNbEpOSmo1TFVQaTFnNkduN1A3LWpTQ0R6elZBR0pnamg1bGhwX2R5Uy1ral9RVnR1MGJKX3FjZzZQYmQ2T0FCTG80OEpiSzBNdGwxc1ZIaGlSMHJvNU9YSEQ?oc=5",
       "description": "Mutual fund, SIP investment: Large-cap vs small-cap — Where to invest new money this Diwali, Dhanteras? Experts views Livemint"
-    },
-    {
-      "published": "2026-10-22T10:08:32+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "PNN Digital",
-      "title": "Zydus Pinkathon Title Partner Zydus Lifesciences & Presented by Mutual Funds Sahi Hai expands to 12 cities, advances vision to take India's biggest women's run to 52 cities - PNN Digital",
-      "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPTnAySEs1akRHZ05VQTlHMFY3VW5ueUU2N0dpR3hqYU9CcXJWZW1XODZNaWdpOW5VTjJjaVg0LTRmUUttREdLVEhRdFRIUGdGb3hqSGVOMkFMU1p0Nlh3YUg2dmw1bXdtSDFTQTRvWnFNWGc1Q0d4ZTM0ZU1VT3B3MHk5WkN3NHNLZkN6QThYdkVjcFczTjNpajFQN0dhUW0yWE0zMV8yM1BCcVdtajJPM2loQTN1c0RnR3VncVNneEQ4a3hqYnBBbWpmUWRIZlJUMmtFNFdPS081M3R4ZENJbkN4VjVKY2ZSQTdnbmJFZ3dtdV9YZWlQOWVycTNJVlNSOEFGNGJ4My1YR3NodkJnTnVxaGpxNDd2VVVZdjJ5WVE0RFlzTjlMQWxWY0o?oc=5",
-      "description": "Zydus Pinkathon Title Partner Zydus Lifesciences & Presented by Mutual Funds Sahi Hai expands to 12 cities, advances vision to take India's biggest women's run to 52 cities PNN Digital"
     },
     {
       "published": "2026-10-22T07:59:42+00:00",
@@ -33318,6 +33498,15 @@
       "description": "Best Midcap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) Myinvestmentideas"
     },
     {
+      "published": "2026-10-21T22:00:27+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "Myinvestmentideas",
+      "title": "10 Best Midcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zdy15QVZ2WDdXbUNtbTk4MWpkRUI2YW15a1JYTVU0TmNQTXRUVzhsUmhTTUJzS0VHNHFwV0NfdHU1WF9MY0tiY3R2Q1BreGtuUlF5SUlKX3g1WnJKMzZhVDV5dmtSc0sxQ1l2emtDRUNVNmFX?oc=5",
+      "description": "10 Best Midcap Mutual Funds by Rolling Returns (2026) Myinvestmentideas"
+    },
+    {
       "published": "2026-10-21T19:32:51+00:00",
       "score": 4.0,
       "themes": "['India market', 'macro / flows']",
@@ -33327,22 +33516,13 @@
       "description": "Stock Market Outlook Today, October 22: Sensex, Nifty Likely To Remain Under Pressure As Crude Oil Tops $110 Goodreturns"
     },
     {
-      "published": "2026-10-21T14:00:00+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "Zee Business",
-      "title": "SBI Mutual Fund Presents Smart Nivesh Asset Allocation - Zee Business",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeDVsaWZMQ3BLNjZadmgtdVpEeW5Nam5HRmx2TVRzZEFaeTZuY2pvSjRfNWJ1dFB4ZWllV1RmdWF4T2pYQW9BQUFGZkJwRDR5Z0Y5OHdPUTdzMVZWN1pvcFBNMnlsQ2ZKV3ZCaE54VWF6NDZvakJ0RGZJQUpGU3VTNTVhVUM4V0g4eHVmLTkxMHc0TTZNTDhkRGpRSDEySDM1SGdtNjJ0dXlUZHR6bnpIYjZYYlg?oc=5",
-      "description": "SBI Mutual Fund Presents Smart Nivesh Asset Allocation Zee Business"
-    },
-    {
-      "published": "2026-10-21T12:33:14+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Sundaram Mutual Fund announces launch of Equity Ex-Top 100 Long Short Fund through its SIF platform Select - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMy1ldHBnVzZjekhTOWdybTdDTGtqaG9JM2xKSHNDYmRhUVQ4ajBlc3lYU0lNMEtEcDdXbi1MdXplVlFGM3ZVaUx1VjRsNjE0cUF4YnBTOWV6UTJCNElWazA0NUVuenFfTGtuclZJaldPNVNaMlk1WFRmRi0xX3pnR19mU2duWUR5X0Jld1lpOV9ieXd2QWJIV3JUeVQzZ0RQWTNtSEU0ajN1NUhjUWhDNzZDczloOFFMVDJxR2EtYWsxVE1rWW41emFEczBmUkRXai1WQlNuTlJHN3FLUDlraHpvV2lyOFZYLV9TRkFXOE1EbnFkSTRQak9EaV90ZnVY0gGGAkFVX3lxTE8ycjNFdWRIMC1jcFEzZ0NBOXhNbEpDZW1pbVJuMzBKTW0zVWhzeER4UGZLZlZOM0VobVFNb2hPdkdHY1lfZER2eUZrd0FlR3BQVUdOeVlFLUk5ZzAtY0s3bER0YWZ2ZGZxaWZsU0FCaTBaekdCN092MVgyU3M1VW82NWRaQUE0OGtlbFR2MncxMVBDQ1BGMFJNMjhfN1FHcWJFekpJV2E4NHlvZElSOTZuWXVLQlI5ZENPdmhacmhXVGNhOWlReUh5ajVpQXgxN0g0WXBaWEQ2a0s5blQ1eUZKSjlGRjBlbUNpMGtKQmZYX1p5SnpNMkVndlRlSjlwbW9GSnBDdkE?oc=5",
-      "description": "Sundaram Mutual Fund announces launch of Equity Ex-Top 100 Long Short Fund through its SIF platform Select The Economic Times"
+      "published": "2026-10-22T12:04:00+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Value Research",
+      "title": "Best Large and Mid-Cap Mutual Funds by 5-Year Return - Value Research",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMXNkQUJTSEpfeUk3eG5QMFhGSm0xc29KQW5OSFQ5b0l5UW5tUUQ4RWxQRzFKdVN2Q05sYS1PY05TaGw3OVdkVnFRRWdmcHduTDY2b05XSkJKV2k3dm45OE5aNHJJYURVVWFRY1JFc2UyYk1xSkFLTG84UElRQ1lpN2xGNXUwVTRwN1JsYUNMeEFNYWhXazg0Vy1wVUhtSGM?oc=5",
+      "description": "Best Large and Mid-Cap Mutual Funds by 5-Year Return Value Research"
     },
     {
       "published": "2026-10-22T11:52:31+00:00",
@@ -33363,6 +33543,24 @@
       "description": "SIP vs Lumpsum: What should investors do in the current sideways market? Business Standard"
     },
     {
+      "published": "2026-10-22T11:00:43+00:00",
+      "score": 3.0,
+      "themes": "['market selling', 'macro / flows']",
+      "source": "Saur Energy",
+      "title": "Green Stocks, Oct 22: Market Falls as Crude Oil Surge and Geopolitical Tensions Weigh on Sentiment - Saur Energy",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVDgzRXU1MnhEeTZGazJrczNVS3FjNXJiN2JFT1NwaDFQNlhaQXNBYzZ2VjR6ZEc4YjdYOTJqSkFIQjNWenJBN29BaTJ4b1BCWldmSzdjTC10VzAycFB0bTVfSGtjbkdlOGVueVJGUkVaZ2Z3NGdETVpTOEw5OWxkREt2MkhvU2xNWUFPZ1BtdlRkc2NYQ2FyTl96VVY0MHlvVUpFUWczMW9QTHhoZVQ3ZGYyRTNKN3EtWHN5bnBHTXdFekN6Y3duMFcxTy1kQmJFdEZSWFJqck5aeFRweUtadWgzZHdZMm5mNnlFYVZ3?oc=5",
+      "description": "Green Stocks, Oct 22: Market Falls as Crude Oil Surge and Geopolitical Tensions Weigh on Sentiment Saur Energy"
+    },
+    {
+      "published": "2026-10-22T11:00:00+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "TradingView",
+      "title": "3 Russell Mutual Funds to Buy for Diversified Market Exposure - TradingView",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZElidkRUWXlXQUdpRGxpdDRhZ3h2aE5sQzNyREZJU2oxTkp2cFhoNWwzY1kwMHVMY3hQTE40d2pJb21ZQWhocHBBY25jbFhpYTZXc2c2bG0yWS0wLXBacUlsOU02Tmc3SFpnbndoQ2NwVjR6bnhQaWxOdFVuRU9NS2E1dnhGcjlFckkwU0tsbTdUVEFMaU1xamZKUk9tcTViUWw4ZzZiTGlMTzBuVll3NVVTdllmS1ps?oc=5",
+      "description": "3 Russell Mutual Funds to Buy for Diversified Market Exposure TradingView"
+    },
+    {
       "published": "2026-10-22T10:45:10+00:00",
       "score": 3.0,
       "themes": "[]",
@@ -33372,13 +33570,13 @@
       "description": "Flexi-cap mutual funds: Only 4 out of 37 funds delivered 8%+ SIP returns in 3 years. How did your fund perform? Livemint"
     },
     {
-      "published": "2026-10-22T10:26:09+00:00",
+      "published": "2026-10-22T10:17:55+00:00",
       "score": 3.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Sensex settles 450 pts lower, Nifty ends below 22,700: Higher crude prices among key factors behind market... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRzVaOTNoRlFEVldUMWpzckdZN2FXSTJLM1lKczdkUm5xMTZhTnQwcUlEbkRpaVd6RU1TZGhwVmFaLVNmcWItZHZJX1BpLW1HTFpaLVZqdE1FbjQyZklDNVF0MDBudi02d21uckwzNkVfZ1A0dVJ2QkhnZlFTMFl4ODBldnIwSHhWSVl3QlNnd3lqR0xNTUpQbzVRc2lsdnBaMHJhT2xBb2dtYlFEY3dZWHZhY0NwSHdBcU5MVzlBd1RHLTl0RFZLdVhaYVNhdHVGNUVNZkRfcXBzOG9Rc01mZVNGVzJIVkFBeDJucnJwdlVGVzVkSFdz0gH8AUFVX3lxTFBhTnRRZ19nMjJ2ZTRnaENHY25FNjFRSnZxZFhiczFFRWlSNUEzV182Q25sMTU3M0NyVFhUOXF0QXJBSVVSSGoxM3lJNm1ZVUc0clJhRzFWQ0hnWTJ4aGRDTkVEREc4UUduRldFaW80Z0RWRmpMaTRaTmo2YzZBNDhDaE5RWVEteEM5eXhpMjdsUXVPUWkwZmZmZW1CRTl5UUFtRnRLUG00Ui1BSmNRbmVsRUNaajhMcEYxUHVWX3pLOUl5eFJ4RmwwLVh5ZWFnZ1FKREVFWTVTSVpKX3V0UFlkV2swbzJLWVZRVEpxY2lsQ0JwWVhrYktXSFd2eA?oc=5",
-      "description": "Sensex settles 450 pts lower, Nifty ends below 22,700: Higher crude prices among key factors behind market... Moneycontrol.com"
+      "themes": "[]",
+      "source": "The Economic Times",
+      "title": "Starting a SIP in October? These mutual funds suit high-risk investors - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTWhRaDJfVHVTc01SOTVhZk5pT0FZa1Y2VUFVYkdSOWFaRVJRTFE5dzZfcW1selN5cWRualRrRjhZNElOWHZ0ME9PQkZ2djJKWUYyd2E0MmE1MjFaSXh4XzlqMVkxWWlOdEg5WHBmcldPZkJkS21YUkd1TnJFVkxVTmJVMHY2bUJUSnpNVjlFdE5LQW1RaExvTUFNZTdTUV9HNVlBYXNGUllqeE1MdDBhUjg3Ul9kQjR3UnJwZW9PYjNzRXRSRzdqc1JsT1RhSUNrUnkxVGE0ckVwUQ?oc=5",
+      "description": "Starting a SIP in October? These mutual funds suit high-risk investors The Economic Times"
     },
     {
       "published": "2026-10-22T10:01:36+00:00",
@@ -33426,13 +33624,22 @@
       "description": "Choosing mutual funds based on past returns? Only 21% of top performers stayed ahead Moneycontrol.com"
     },
     {
-      "published": "2026-10-22T06:27:07+00:00",
+      "published": "2026-10-22T06:21:35+00:00",
       "score": 3.0,
       "themes": "[]",
-      "source": "The Economic Times",
-      "title": "Starting a SIP in October? These mutual funds suit high-risk investors - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPT2NkNjllZXlpOW5wbHRqVmNaemJnOENYLU95ei1tNk5NRXBocFBHTXJ6bU9hbnYwQ0QzRWxweW45N3FaXzRwYzFES0pBbVA1d2J0NEF4NEZNSnppNlU0dEd1blRoeXJfQXliWXdxZUZpWVdOSDZXeVcyWEZOOGQybE51SlZ3QVlNVWRZMHVSNnVDbTF4SGU3anFUUXJXMWNZX2JBN1g2QXZOdXpUUlg3b3llUmpzVmstYXhKUng2Y2NtalllQTduaDdWcm91ekZzWXVFRFptNFhWQQ?oc=5",
-      "description": "Starting a SIP in October? These mutual funds suit high-risk investors The Economic Times"
+      "source": "Observer Voice",
+      "title": "Understanding Capital Gains Tax on Stocks, Mutual Funds, Real Estate, and Gold - Observer Voice",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWN1MmpIVVFyLWxETmZWdTdkNUtnUmlsZ3VlXzBFNG1rakFCbjFGcTljU2ZfT19EM3BMazRMSlJBMkUyWFRBWnRwbWlGaTJrUU01X28xMTdKaGl1ZnlpOXBDV1k5bWR3eGNsUlZwM1V1eVlpV1RNSnRQYk9KNi11UUZmbmZLUWp5dERSc2RHQzVVcEVXSFlhbzl5MlJBdVNiWlZ6ZEh4NHF0d0V0Nmc?oc=5",
+      "description": "Understanding Capital Gains Tax on Stocks, Mutual Funds, Real Estate, and Gold Observer Voice"
+    },
+    {
+      "published": "2026-10-22T06:08:45+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Value Research",
+      "title": "Highest-Return Mid-Cap Mutual Funds: 10-Year Guide - Value Research",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaVdwb2hoSHlmcHo2ZVpRYW9aV0RfdzJlSUhoeVFxempnWThUUUVIelBiR0w3Tnp4ajJyd1VPUnY3c2JFeFpVcDFtMHh2dmNNNHVEU3hubmFEOVF0YlRSQmpyNlphZkdDdkxmQWJCcVk3aVZidU1GUFF2RGRXZVMxdlctal93ZDR6LV8zeUROUExLUEdPbktXRmZDU1l4S04xYzVMbngtWUtxZw?oc=5",
+      "description": "Highest-Return Mid-Cap Mutual Funds: 10-Year Guide Value Research"
     },
     {
       "published": "2026-10-22T06:08:44+00:00",
@@ -33453,13 +33660,13 @@
       "description": "Highest-Return Flexi-Cap Mutual Funds: 5-Year Guide Value Research"
     },
     {
-      "published": "2026-10-22T06:04:38+00:00",
+      "published": "2026-10-22T06:05:07+00:00",
       "score": 3.0,
       "themes": "[]",
-      "source": "Observer Voice",
-      "title": "Understanding Capital Gains Tax on Stocks, Mutual Funds, Real Estate, and Gold - Observer Voice",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNWN1MmpIVVFyLWxETmZWdTdkNUtnUmlsZ3VlXzBFNG1rakFCbjFGcTljU2ZfT19EM3BMazRMSlJBMkUyWFRBWnRwbWlGaTJrUU01X28xMTdKaGl1ZnlpOXBDV1k5bWR3eGNsUlZwM1V1eVlpV1RNSnRQYk9KNi11UUZmbmZLUWp5dERSc2RHQzVVcEVXSFlhbzl5MlJBdVNiWlZ6ZEh4NHF0d0V0Nmc?oc=5",
-      "description": "Understanding Capital Gains Tax on Stocks, Mutual Funds, Real Estate, and Gold Observer Voice"
+      "source": "Value Research",
+      "title": "5 Criteria to Choose a Life Cycle Fund for Your Retirement SIP - Value Research",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUFRkZjRfQ2VueTBjcXJyRWprUTAxbUpwOXNUR1V2WUVUWHBxZ2hLc3kyc2ZUNXZEcE03S1FzOVI4SHphZjI1NGZ6ZUZWbFhHUXQ1U0pFd0pZOGk2UW9tdVVqNElTcGNHNEQxcTZHRlpoUklzNm5BTFJORUlrSkZ3Q3hNYlRrbU1uTEVSWWVhRmROYnF2VkFzaEU1Sm4tNDN2TkNSaTNRd0NQUQ?oc=5",
+      "description": "5 Criteria to Choose a Life Cycle Fund for Your Retirement SIP Value Research"
     },
     {
       "published": "2026-10-22T05:50:53+00:00",
@@ -33516,6 +33723,15 @@
       "description": "AlphaGrep Flexi Cap among top 5 flexi cap mutual funds with highest mid and small cap exposure in September 2026 The Economic Times"
     },
     {
+      "published": "2026-10-21T16:27:12+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Business Standard",
+      "title": "RBL Bank eyes on broking, mutual funds to expand capital market presence - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQT1VFR0NCdlI3OUZPRzZYT2FKcWNyWVJjeXlYazhJMEtWeVh0WndwWG15ZGZkUndwQ1RtRGNpOHVnQ0NHb1VwaDJZbnNya1FzbkN6TkpyblZBQ0tvNTNZQTFCNFJKVW1jZk1OemRMOXpKbzFDeWVvR2lpY20xN3p4MnpJS3gxbzBoSGVjako1Y25fUG9KM0tGZ1dsdkNiZFVvU3hycXlvR0VNNk5LSEh4Qmx4RDVuNENHSG10UXYyUG5pQS1qMXBxb0hpMU5VNXphTXJXSm9RbXhDQdIB3wFBVV95cUxQYTdwR21pOWFwdmFBM0p3SXdXaU43amVhZElkLVdqVmtmcFVJbXhUNk5nYm93czlLdWsyTktUN2x4WUIzUmFXRlFlcVZ0RExJeVlsaHo5aVdpMDhfNGNLVHkyeEVwdm5udGpUMzF4S3NRWnB6c3lNbU9GLU9jNzlxYVNYYWZWT1RsVkpXTElwN0xqVkNGWl91eEstSzhCRG9OU3ZESm90V0tGT2lWSGp1RzFkSjRwX1dXSVNHZVZTa05GZUdHUldzOTZ0TjZzQVpiemJaY1ZOT3lzNmZTd1Zv?oc=5",
+      "description": "RBL Bank eyes on broking, mutual funds to expand capital market presence Business Standard"
+    },
+    {
       "published": "2026-10-21T16:17:24+00:00",
       "score": 3.0,
       "themes": "['India market']",
@@ -33525,22 +33741,31 @@
       "description": "Stock Market Outlook Today, March 12: Sensex, Nifty Likely to Stay Volatile Amid LPG Supply Concerns, FII Flow Goodreturns"
     },
     {
-      "published": "2026-10-21T15:30:18+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Cafemutual",
-      "title": "Should you raise your SIP now? Match it to income, not the market, say MFDs - Cafemutual",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQW8wWG1KUUhBZ19CS0QzUXBVbzNiVkl1azFwWkNwSHZfa3Joa0M0ckxIT2c5bzQzTlhSb25weDkyTDRyVW8xdHB5Um5kbVl2bGw5M1Faakx6Uk9YOFYzY09QN283UDU0VVZHNkFHbmNfcVBLdlBOVW8xd3VQTzVSWl9rWTZGci15bU5zMjBFWmFWTkloTXR1WHFtY3AyNlQtaXZhekplWkhMZHVyYXFNVkF4alVURDBw?oc=5",
-      "description": "Should you raise your SIP now? Match it to income, not the market, say MFDs Cafemutual"
+      "published": "2026-10-22T14:34:24+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "India IPO",
+      "title": "Nifty Outlook for October 23: Index resumes lower highs, lower lows formation with 22,550 the key level - India IPO",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQUxHZGpuT2Z0UkcyX1JTaHEtaDdCVDh4c3RQTHVGLXZkLXNZamg5YkZTdlNNemk0TGJOdFFULTIyUDh3cUFkVGFwSVZHdEh6aDdMakYwUDFfMW5YMDlLNVdObE04YUtocHZjckt6b3JvTE5BaGZVcE9vTTdLWHlSSGJ4a1RxSnZFcHZad0R4NV9tc25iZkZQaFo4N0hJRFFUeWdMMlNVY0JyRWZVVGVkUkc1N0M4SVlYRjhYUEhaRXV5WUVIUmVBTl9LeUZOZnZiOGc?oc=5",
+      "description": "Nifty Outlook for October 23: Index resumes lower highs, lower lows formation with 22,550 the key level India IPO"
     },
     {
-      "published": "2026-10-21T14:32:45+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "NDTV Profit",
-      "title": "RBL Bank Evaluates Foray Into Broking, Mutual Funds As Part Of Expanding Capital Market Activities - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQc3BhTEFta3hqNnRtWEJGcFkwSXhrYjFDa3RxN1E0dEdneXR6ZmpJSlF6ZFFTTW5JeXBUTWtlSWRSOTlGaGF6ZnExV2tjSUdmOFJjUUttSm9JYkZoVGZEdmJmNTNUZFgtQThtekI5Q2hOWTFxRWk1eHZfT3dwOVo1a08xTGQtM0s4amtXcHBCbHFRaWp3WkVuX1hnNFBuNnI4eDYyMkRfOUhEOWp1REx5b294MTF5SWh6bmlrWWFvdjZGZ9IBygFBVV95cUxPdXZxdmNqR0x2bUg1d0xweFhHeHh2bG5xZ3hFVWtiS3dsUU5xRV9tWi14R2ViejdVZlZRaUd5Qld0d1IwdHgtZXRqUjlXTzZjeVBxbXlQaFBoaDg0MFRObFNSLTNhZnVJdmdNc2xKVlBucVBseGM2Z0t5VEhMeTlaVEk0dC1uMy1QTS1Odmx5cHZXcDlWYXNIMU03QlFjWE9XVkF1cm1yRk1IbE1INE05R2FBSDdCYUhiV1JJVmtIa2VFVDZqLTB5b053?oc=5",
-      "description": "RBL Bank Evaluates Foray Into Broking, Mutual Funds As Part Of Expanding Capital Market Activities NDTV Profit"
+      "published": "2026-10-22T11:03:26+00:00",
+      "score": 2.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "Rediff MoneyWiz",
+      "title": "Markets Extend Losses: Sensex Tanks 460 Pts Amid Surging Oil - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVURVeF9ZTW9udWxPcE03Z0o1R0VzUmJrMGtmN0ZWcXp0Y3Q1RDMtUF9KQWJIMDdab0VXVHBZRkQ2bHZscm9rdjN0M0prcVlZNzE4R3pyUGlLSi1JX0MySGJlekN3cHp0SEZKeTJlODE3OWpzeF93MjhNMWR2eWxFTGN6OURsVzU0NjNTMFlGYlRYbUtCSEVGWV9JNF92bTBZYTNZMzk1d2ZITTAtQV96ZUprMjNxZ9IBtgFBVV95cUxOVURVeF9ZTW9udWxPcE03Z0o1R0VzUmJrMGtmN0ZWcXp0Y3Q1RDMtUF9KQWJIMDdab0VXVHBZRkQ2bHZscm9rdjN0M0prcVlZNzE4R3pyUGlLSi1JX0MySGJlekN3cHp0SEZKeTJlODE3OWpzeF93MjhNMWR2eWxFTGN6OURsVzU0NjNTMFlGYlRYbUtCSEVGWV9JNF92bTBZYTNZMzk1d2ZITTAtQV96ZUprMjNxZw?oc=5",
+      "description": "Markets Extend Losses: Sensex Tanks 460 Pts Amid Surging Oil Rediff MoneyWiz"
+    },
+    {
+      "published": "2026-10-22T10:57:02+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "NewsDrum",
+      "title": "Sensex plunges 460 points, Nifty below 22,700; Nestle, Reliance crash over 2% - NewsDrum",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUDZZWFRKcUdEdThMSUsxVEdIZlJabVlJdnZPTmdUNzd3UTJXRm42a0RPdEdKVVpfMGp3NDJuckh5dDMyY2FYS0l5NWstWnpYTjJGM2RROURkMEdzN2tKTW1NZWUzMWF2TVR6Qi1yTGlVdmFyWTF0ZlBxY1FfQnhKb1ZfaHlyNi0xUzhPVHVvTEhWb1R1QUJ2MDZLUEdULUg5YUxLSENfTkRwZnJoYzJ6eUNrR1PSAbQBQVVfeXFMTlA2WVhUSnFHRHU4TElLMVRHSGZSWm1ZSXZ2T05nVDc3d1EyV0ZuNmtET3RHSlVaXzBqdzQybnJIeXQzMmNhWEtJeTVrLVp6WE4yRjNkUTlEZDBHczdrSk1tTWVlMzFhdk1UekItckxpVXZhclkxdGZQcWNRX0J4Sm9WX2h5cjYtMVM4T1R1b0xIVm9UdUFCdjA2S1BHVC1IOWFMS0hDX05EcGZyaGMyenlDa0dT?oc=5",
+      "description": "Sensex plunges 460 points, Nifty below 22,700; Nestle, Reliance crash over 2% NewsDrum"
     },
     {
       "published": "2026-10-22T10:33:36+00:00",
@@ -33550,6 +33775,15 @@
       "title": "HDFC Bank shares down 30% in 2026: FPI love for India’s largest bank wanes; what’s ahead? - India IPO",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNVFROMFF0TmJULVRuMTZ5QVNIV0NGV0kxZUZ2SndNc0lmakRJVjdHMnZJV05xb0ZMdUh2Ni1IZ0RqbVlPR3c0aUI5Y1BCMlNCSUZaVzQyeG13X3NRb21DbXU2c0dTVU02dlhPODk4LW12TEt2NmkzSTVvRUI3MEUtR0lXTms2Mkhzcmt6cEZGanItSlVSQUMwZzBxVE9xTHBZWGwtNmstU0RYVTN0ZnQ1TEdpSjlWaHltZEU4?oc=5",
       "description": "HDFC Bank shares down 30% in 2026: FPI love for India’s largest bank wanes; what’s ahead? India IPO"
+    },
+    {
+      "published": "2026-10-22T10:31:15+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "Longbridge",
+      "title": "Meta's stock falls in early trading amid broader sector selloff, despite well-received results - Longbridge",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1YZlNRMWFNTUd5OWF1Zk9nRVJnejF6bkg4T29WNWpYVERJVHIxeXNNY1Y3QjlpNlFjek5JVDRuV0htMjFXa0ctcmR4Y2JoQQ?oc=5",
+      "description": "Meta's stock falls in early trading amid broader sector selloff, despite well-received results Longbridge"
     },
     {
       "published": "2026-10-22T10:30:42+00:00",
@@ -33606,6 +33840,15 @@
       "description": "Singapore Shares Decline Amid AI, Semiconductor Pullback Yahoo Finance Singapore"
     },
     {
+      "published": "2026-10-22T09:05:57+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "TradingKey",
+      "title": "Memory Stocks Fall Over 4% as Micron Drops Below $900, Risking Another 16% Fall to Retest Lows - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzVVRkNDbzRuNmxnbF9sblhpbjZHWFg3NHl3SVlSVlktNU9LOGUyaFZvUzdXcFIzbzFDWllFbk9KbGpBOUJNX3ZjZm1VNWFvYjVwTmxNemJ2eVh0SVNhVnlzaVN1YVNvcmxxT25qQ0wwbW1QcGU0eUxXNkRDbXJIclhSWHg1RkpLeFNmLWFldGNaYUZzVW56bWhyWGNtMXpLdzN2Yk9mdjIzNmw1OUl0VTBzNHU?oc=5",
+      "description": "Memory Stocks Fall Over 4% as Micron Drops Below $900, Risking Another 16% Fall to Retest Lows TradingKey"
+    },
+    {
       "published": "2026-10-22T09:01:31+00:00",
       "score": 2.0,
       "themes": "['market selling']",
@@ -33613,15 +33856,6 @@
       "title": "Copper Declines as Tech-Stock Selloff Dulls Appetite for Risk - Bloomberg.com",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZEljYmU3djMyLWxYRlJTdU9XX2dkZUxlQXg4Rkw2eUd0aHctRkwwbTNlN1RxTU1xRV93ZVhFY2x6WElUX0Fxc0RGODYwNXkxNUtNdjVKS0RJd0dnc2VQX0dkTmU1VE9qa3EtZkFNR0JaQWNzVFBWa2RadmNBYUw2RmptQzg2UkZJVWFOcklWeXl5RkFPaVdiSnZRSDJlTGViYlM4cHV5SUcwbEYxTnJYMjRB?oc=5",
       "description": "Copper Declines as Tech-Stock Selloff Dulls Appetite for Risk Bloomberg.com"
-    },
-    {
-      "published": "2026-10-22T09:01:22+00:00",
-      "score": 2.0,
-      "themes": "['market selling']",
-      "source": "TradingKey",
-      "title": "Memory Stocks Fall Over 4% as Micron Drops Below $900, Risking Another 16% Fall to Retest Lows - TradingKey",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSzVVRkNDbzRuNmxnbF9sblhpbjZHWFg3NHl3SVlSVlktNU9LOGUyaFZvUzdXcFIzbzFDWllFbk9KbGpBOUJNX3ZjZm1VNWFvYjVwTmxNemJ2eVh0SVNhVnlzaVN1YVNvcmxxT25qQ0wwbW1QcGU0eUxXNkRDbXJIclhSWHg1RkpLeFNmLWFldGNaYUZzVW56bWhyWGNtMXpLdzN2Yk9mdjIzNmw1OUl0VTBzNHU?oc=5",
-      "description": "Memory Stocks Fall Over 4% as Micron Drops Below $900, Risking Another 16% Fall to Retest Lows TradingKey"
     },
     {
       "published": "2026-10-22T08:49:08+00:00",
@@ -33667,24 +33901,6 @@
       "title": "A new challenger to Nifty and Sensex? NCDEX launches two equity indices - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQR05qNEpOOHVjaGl3c1BOVGNPVXoyNnRCTUNaR0VpRjRmam1UU1FEMWtDOWF0RjVTdFpWMDFiRk5MQ1NOeXJXcXRwNVBITE9XS1ZiUFVJbElqa2E1cXRRRnZYZlRHNlpxbHJxVXpiMzJVakdPR1p4WnBHVGJoaFVCSHR1Q0hlZU81OVdEbWViNlk3WkRnejlfTUUxcGpDbllsRUUzdDJTWm9wQVJlVzF3aDZpYUtYcVV2dFdFbUZJSkszNmx2dklVVE9NUUJvNHF6S3d2NVV30gHWAUFVX3lxTFBHTmo0Sk44dWNoaXdzUE5UY09VejI2dEJNQ1pHRWlGNGZqbVRTUUQxa0M5YXRGNVN0WlYwMWJGTkxDU055cldxdHA1UEhMT1dLVmJQVUlsSWprYTVxdFFGdlhmVEc2WnFscnFVemIzMlVqR09HWnhacEdUYmhoVUJIdHVDSGVlTzU5V0RtZWI2WTdaRGd6OV9NRTFwakNuWWxFRTN0MlNab3BBUmVXMXdoNmlhS1hxVXZ0V0VtRklKSzM2bHZ2SVVUT01RQm80cXpLd3Y1VXc?oc=5",
       "description": "A new challenger to Nifty and Sensex? NCDEX launches two equity indices Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-22T06:30:00+00:00",
-      "score": 2.0,
-      "themes": "['market selling', 'macro / flows']",
-      "source": "WSJ",
-      "title": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount - WSJ",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNSmVJWFZmLU1ZbFFieUIyb09oV0V3amtqSVU2QjU1ZjNlQ2hMVUtIZUg5QmxVQjYzRFB0NEc0bEljdjhkNjVYSXBfdTBMbm1GOUpob29mbVZIMnlEb18zWWs3UFI5WmNkOUxmVjBtcFdUWnFtR2ptOTFtTUkzak9oN2lPRmtJdDB5d092V0FmUmtmVExJV3dzQ2VxLWFuMHdJTnB3VTY1OA?oc=5",
-      "description": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount WSJ"
-    },
-    {
-      "published": "2026-10-22T05:54:35+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "Univest",
-      "title": "Stock Market Outlook Today, 22 Oct 2026: Sensex, Nifty Levels, GIFT Nifty and Global Cues - Univest",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORC1iRjRHMGkwNEdtY0NMZEIxUlhJcktjVV96VEJ2aWVlVHZkVTdQdlQ5MjNaUW5jOGdMRDRadEI5Z3JQUkVOclBITUJhaTFvR1E5b3Z5aGpsLUVPUmIwcTB6UnQ1MDh4cllCX0VsbHFJVXFSajJLVXltTTU3SmpHMDVGaW1TbXVtTWt2T05LOWdkdGhUcUxrbnF4MzZBZ0RjcktwMDl6ZnFXd2YzSTJoRDJqLVVrXzItdk1ocVRCR3BhUQ?oc=5",
-      "description": "Stock Market Outlook Today, 22 Oct 2026: Sensex, Nifty Levels, GIFT Nifty and Global Cues Univest"
     },
     {
       "published": "2026-10-22T05:43:20+00:00",
@@ -33777,13 +33993,67 @@
       "description": "Sensex, Nifty decline for 2nd straight session; Smallcaps drop over 2 pc MorungExpress"
     },
     {
-      "published": "2026-10-21T13:34:32+00:00",
-      "score": 2.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "MPC minutes: India needs interest-rate gap with G7 to attract debt flows, says Saugata Bhattacharya - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMnJTVWZMdFFRaEw5eG1VZkVNYkMyd1ZmZGI2NFl1bHR1YkVLS2VYTEdJYkFVTlZyWDV1UzFZY2dDaTJRU3NXempVdmFTZUROOWVnbkJXWGFHTnJnbTE5Wkk4LXFMa3h2eTNmaHBEYUhrVElSYXhmY212d2FVY1hIbGo4dXEzYy1xaHJhd0NNRi1SQk1xOXdZSFo4LWw1SU1yVS05TG1SLVFNNG9sZkQyNDF6OXBLVlk1OWV2WUJDdjBWd2pubkV6UEM2UVZ4cmgyNWUta2V5TWhYZ0NmX3lZdG9yZzlTQzdLMU4wQlBPUkpmc3RfN3d30gH3AUFVX3lxTE4yclNVZkx0UVFoTDl4bVVmRU1iQzJ3VmZkYjY0WXVsdHViRUtLZVhMR0liQVVOVnJYNXVTMVljZ0NpMlFTc1d6alV2YVNlRE45ZWduQldYYUdOcmdtMTlaSTgtcUxreHZ5M2ZocERhSGtUSVJheGZjbXZ3YVVjWEhsajh1cTNjLXFocmF3Q01GLVJCTXE5d1lIWjgtbDVJTXJVLTlMbVItUU00b2xmRDI0MXo5cEtWWTU5ZXZZQkN2MFZ3am5uRXpQQzZRVnhyaDI1ZS1rZXlNaFhnQ2ZfeVl0b3JnOVNDN0sxTjBCUE9SSmZzdF83d3c?oc=5",
-      "description": "MPC minutes: India needs interest-rate gap with G7 to attract debt flows, says Saugata Bhattacharya Moneycontrol.com"
+      "published": "2026-10-22T14:06:00+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "WSJ",
+      "title": "Stocks Slide After Mideast Tensions Push Oil Higher - WSJ",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdDB3cDByVmVJQWQ4bzhobm83ZDVVN3MtYXh0VjlYT0xtakhpVkNrUFFHbVpWZEp2UHdpeWIwX0h2eVJqSzdod0t1Y3JxcVBaTzZlUFRKTFNkMDE4LVYxMHNjRGlYb0FsOVdqMnJuVzdHMk0xNVVxWXh4Y0tidlFtbXBUa1lXTVJGOXc1c0VvbjJ6eGVINVY0cEpFZHEtakM1UkFwdVZLVW4ySWlxV0RwNHpnNkpKcUsyRXU4RXN2Zm03QTQ?oc=5",
+      "description": "Stocks Slide After Mideast Tensions Push Oil Higher WSJ"
+    },
+    {
+      "published": "2026-10-22T13:37:41+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Quartz",
+      "title": "Jensen Huang pushed back on 2029 memory glut fears amid stock selloff - Quartz",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56MHpCOWlVVGllakFiTVhmbUFtLWRRakhzdmFRQjB3MjRXejBPWE11cGJvOHAxQm5mMjI2Z25zY2FmSjdvMVFmcG1nRU14djgxb0EtQm9YNFJXc3VCaWcwTWo5N0JNcDBwVVVxd05hZEhDZ1k?oc=5",
+      "description": "Jensen Huang pushed back on 2029 memory glut fears amid stock selloff Quartz"
+    },
+    {
+      "published": "2026-10-22T13:34:00+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Kalkine India",
+      "title": "Bandhan vs Invesco vs Nippon: Top Small-Cap Funds Compared - Kalkine India",
+      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb3NSVjNRcDZJcEo2eUlsNUZZQzJ2bzcxVFFZZnplSHNDM2RNeW1lUjQtOFc3TzhaOHEtblU0T0FZazdQTl92VjBmSDU1cmYtSDlPWlNvYzFwZFdyd1BNeTVfLXhtOEtRbjVIaWVZdDBvbDhaRlhGbDBlUTVJcHhYN2twX3JKaWZ2N0E2N2R1QUV1MHRLV1RwTVUtX2FzdUlxZC1TdmwwMWdMVmhLRlNuNFVfTG9nUFhKakFUUDlWcGY2ZHg4M3VscnRnVGdndVBrWWQyZjBwU3RBQ1Jy?oc=5",
+      "description": "Bandhan vs Invesco vs Nippon: Top Small-Cap Funds Compared Kalkine India"
+    },
+    {
+      "published": "2026-10-22T13:34:00+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Kalkine India",
+      "title": "Carnelian Small Cap Fund NFO: Key Details Explained - Kalkine India",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdDB3Ry1uUjc0c1EtUGFVYWdicW9jYkNnZk04VHpTSWI3ZUFvcDlfQlVuVHh0bnlIc1NFeFlhM1d3aUNmekw4X1RiQV8zQlFCbGhwS0o5b1VTNVFVUU5nbkxBdUFaRlZQbDhpYVppUmtiWk45Y21JNDFrb1Nva2FBRERKNEg3ZjdTeTVVamxnRVU4b0pOd19SOEpxZUtyUXRfWFVGUjJWQ3RvMjdqQ1ZBV05SNDk1dk50?oc=5",
+      "description": "Carnelian Small Cap Fund NFO: Key Details Explained Kalkine India"
+    },
+    {
+      "published": "2026-10-22T13:32:20+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "CNBC TV18",
+      "title": "Nifty Outlook for October 23: Index resumes lower highs, lower lows formation with 22,550 the key level - CNBC TV18",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOFNHa1k5LU5sT19QM2dad2JNV0FNYUMxUlRLVW45djNrTGJpZTJEbERQQ2JUM29xN0hRczJtTi1qbTZYRURTNzhnQ3VUVG51VXhDYmhUSkdvYVRXNG5iTFFqancxbHkxTlN3TzEtN2xSa2RONEtMbmpZaTl0UjVCTEdtWWdDMmdROW93cFoza3ktcFJLQVNDX28wbFlzelpWUFB0cklSdnRQUGZoZDUtc0VOaWxNaFlJOWdrR3FVR1UwSVhiOUM3MTNzM1gzaGk2cUwzazJNM09tT0NQaFNGYk8wWDQyUdIB5gFBVV95cUxQOFNHa1k5LU5sT19QM2dad2JNV0FNYUMxUlRLVW45djNrTGJpZTJEbERQQ2JUM29xN0hRczJtTi1qbTZYRURTNzhnQ3VUVG51VXhDYmhUSkdvYVRXNG5iTFFqancxbHkxTlN3TzEtN2xSa2RONEtMbmpZaTl0UjVCTEdtWWdDMmdROW93cFoza3ktcFJLQVNDX28wbFlzelpWUFB0cklSdnRQUGZoZDUtc0VOaWxNaFlJOWdrR3FVR1UwSVhiOUM3MTNzM1gzaGk2cUwzazJNM09tT0NQaFNGYk8wWDQyUQ?oc=5",
+      "description": "Nifty Outlook for October 23: Index resumes lower highs, lower lows formation with 22,550 the key level CNBC TV18"
+    },
+    {
+      "published": "2026-10-22T13:30:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "The Economic Times",
+      "title": "Where to invest Rs 10 lakh amid market volatility? Experts weigh in - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTFFQLVl2amUzUWFqMmc2V00zRDFfMUZoYnA3ZjRBaDJZblN4RGtid2VmMzVSX2N6QkNkVDJudjZqN3hSUmNtczBpVFhWR2JDMGNfMmtKamFjbXF2d0tHcVBTSVowbGlDZXMyZEpjR2VDYzBEMEw4eWJGZHJwdmh5YkdFVzNGYnk3RElid1duZ3o2SUI3WWxVY3NjWnhTZmhVUXo4RVZuOHFlNVNRZTYwTG4tN2JIUjg3Y2I2RlJNU0U4c1VWWlJlQk9VUzlEcFUtRmdpeVR6d2JTUQ?oc=5",
+      "description": "Where to invest Rs 10 lakh amid market volatility? Experts weigh in The Economic Times"
+    },
+    {
+      "published": "2026-10-22T13:13:19+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Quantum Zeitgeist",
+      "title": "A Digital Link Speeds Up Quantum Error Correction, SEEQC Shows - Quantum Zeitgeist",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iQ1NncWdpX1ZIRFJYWGxKZXdyUDdrWkJzczRXS2pSbTNFTGFMQ0ZFSllnUGZ6aVAtY1cwTzdlMmswMkU3LTRnbkhlQ2xhdXpmOE5tSTktdThTa0kwYzI5MHFGcnMxanY4OXVvMVZqcjlyVFRhSUxudmNmdEFFZw?oc=5",
+      "description": "A Digital Link Speeds Up Quantum Error Correction, SEEQC Shows Quantum Zeitgeist"
     },
     {
       "published": "2026-10-22T12:00:00+00:00",
@@ -33804,42 +34074,6 @@
       "description": "Share Market Today: Nifty 50, Bank Nifty | Oct 22, 2026 Liquide Blog"
     },
     {
-      "published": "2026-10-22T10:52:41+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Petrol, diesel cheaper in India than Dubai? Check city-wise prices and why the gap exists | Explained - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQNjJoUUQ1ZU9wbUdudjFzREM5aVduYVY1NGI1Nmw4WlcwUTJyNzRRSVBkVGFheERyU3R5TEZUenBIMmg2U3p3bDh0WmYxeW5TQ3dneTRacEY3d0Zqcnp0S2lITlZiMWJYb2RyVXBpZHlSN0JmVV9wNi1KaTlISThVSWM3b2NZVnRNLWxHdkYxenNHd2hKc21veFZLRm4zYmprZDB2a2xCNTFSZTM1ZjFsTV9nczlNZC00ekJ4bFpvcEVZQ1lqSHM0MkM0V3hOUm9PREtreGpXenBranRlczdMQUVpRXd1SUs4eVBnSVJUMNIB7wFBVV95cUxQNjJoUUQ1ZU9wbUdudjFzREM5aVduYVY1NGI1Nmw4WlcwUTJyNzRRSVBkVGFheERyU3R5TEZUenBIMmg2U3p3bDh0WmYxeW5TQ3dneTRacEY3d0Zqcnp0S2lITlZiMWJYb2RyVXBpZHlSN0JmVV9wNi1KaTlISThVSWM3b2NZVnRNLWxHdkYxenNHd2hKc21veFZLRm4zYmprZDB2a2xCNTFSZTM1ZjFsTV9nczlNZC00ekJ4bFpvcEVZQ1lqSHM0MkM0V3hOUm9PREtreGpXenBranRlczdMQUVpRXd1SUs4eVBnSVJUMA?oc=5",
-      "description": "Petrol, diesel cheaper in India than Dubai? Check city-wise prices and why the gap exists | Explained Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-22T10:12:06+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Business Upturn",
-      "title": "IT sector stocks today, October 22: Sasken Technologies jumps 8.67%, Tanla Platforms gains 4%; L&T Technology falls 3.16% - Business Upturn",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaV9ueXUxbFNwVzg4UzdBUldIWWlZWUpqeHAzeHN2NFhjSzBMQ3hBWHRtUXV0OWRXMlV3eWNzN0NPTF8ySFlYVmJDM3ZfX2Voa1QzWEhGQnNLcXRnQ0NuRzVPaFNIcF85YkJRaDZDbllRSG5TcGkwNFZYVVlMak5QN0lneFBicGxyeFlaUlk1RXRjc1l6S1EwbS1RcDdCQkxXdVdjMmJSdXlwWG01WlF0TzZLMWNxZWI5TUxsN0Y0Z3YyRm80TzJKd3oyWDhOM2t4MTV6eWZpVWF4VDBzanowQjRYZHNDS21oRXZad3hUTFptUlYxWVE?oc=5",
-      "description": "IT sector stocks today, October 22: Sasken Technologies jumps 8.67%, Tanla Platforms gains 4%; L&T Technology falls 3.16% Business Upturn"
-    },
-    {
-      "published": "2026-10-22T09:56:08+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "Silver gets a Diwali supply boost as India issues import permits for up to 6,000 tonnes - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPSDlkbGpNbS1VbDAxVHVreU9DR0ZUSldRMGhlbFVkLTMyeVp2cy0wcVVBTmdoRkZrby1UVUZxYTZyamVWdnNQakNmTGcxLW8xRlJ4VU14SWVMRmo4NkxJX2lhc2RiSTVzTmk4VExvRW9BYmFUQ3o2UUtldU1JZVBDZGtOa0VKc3NyQy1IMGJseVc5d3ZLMTFmYUk2V0NGNlh4cHU3aDRYTzdyaXZLT0NVVXVTZ0Z1ekd3Y0J4RVFwYVM4c2ZfdlpiZDJuUnhlMjFFUHZ5ZVJobW1JdjZGZUp4OE5ZYlFGRXlVSzdrcXNMY3JSQdIB8gFBVV95cUxPSDlkbGpNbS1VbDAxVHVreU9DR0ZUSldRMGhlbFVkLTMyeVp2cy0wcVVBTmdoRkZrby1UVUZxYTZyamVWdnNQakNmTGcxLW8xRlJ4VU14SWVMRmo4NkxJX2lhc2RiSTVzTmk4VExvRW9BYmFUQ3o2UUtldU1JZVBDZGtOa0VKc3NyQy1IMGJseVc5d3ZLMTFmYUk2V0NGNlh4cHU3aDRYTzdyaXZLT0NVVXVTZ0Z1ekd3Y0J4RVFwYVM4c2ZfdlpiZDJuUnhlMjFFUHZ5ZVJobW1JdjZGZUp4OE5ZYlFGRXlVSzdrcXNMY3JSQQ?oc=5",
-      "description": "Silver gets a Diwali supply boost as India issues import permits for up to 6,000 tonnes Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-22T09:26:00+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "The Globe and Mail",
-      "title": "Premarket: Global stocks fall, bonds gain as Meta dents tech optimism - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOZ21BSkdENGdJRG0xUkQtZndXMV9LcHJEa3Q3VU05NkFmREFRNkNfZEVMYkNqczhSNGR2MFFFdVdCNnUwUy1DZ0JEblhRcXFja2FZX1BIUjBmTHNaa3JSaG9TZjQyc1liZTRwQmNXaFVfRkhyVFNZS0Zpdk5tcnJ4d2RMZ0wwOUROY2JJS0RUaVVIek1RZ1NjaWFBRkJvM0w1bC1vc3hPM0loalVCbEFhMWpSdjZaaXZQWG9QemMzRkpSN3BqSTBEd1NNM1ZVRjZTeUFqcFhvSzYxa0F2UVJvLWptclJtQUR1eU5WdQ?oc=5",
-      "description": "Premarket: Global stocks fall, bonds gain as Meta dents tech optimism The Globe and Mail"
-    },
-    {
       "published": "2026-10-22T07:18:44+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -33849,22 +34083,13 @@
       "description": "Nifty 50 Live | NSE Nifty 50 Index Today - S&P CNX Nifty The Economic Times"
     },
     {
-      "published": "2026-10-22T06:54:46+00:00",
+      "published": "2026-10-22T06:54:15+00:00",
       "score": 1.0,
       "themes": "['market selling']",
       "source": "Business Standard",
       "title": "Adani Green shares extend fall to 5th day, down 4% as Q2 PAT dips 24% QoQ - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSEpxbzFpY0NoVWV5aV9GYk51dGl5aVN5eXM1bTlvUnFNQm5UMG1CYTQ0eDU2Y2tFNXNxUjFDRGdaTXhac0w3UWt3ZnN6c21hT29UQTg3MVl2ZXltVlZKZGFyc1lWX01GczVxdEhoQ1FQbEtrSjBKMTU2LWVUNlJmbzZHVVgtTUE1ZGFZVEwxOE91NXBPV2dEUEJXcnBDdmxTYzh0cWN3eGlsT3RBMjZ5eEdEX0tZZ3NZbU1tb25rNEJhQi1oOEdFVzdrTTd3dUtLcVUw0gHYAUFVX3lxTE1Nd2MtMlNpNjRfLW5yZ0Nsa2x5LUhsbnhBN01JZVF2SVZCTW5qNzdydk1tVEdPZlAyWHRuLUNwVEFoMEZvbDZSYTlEVG9uYTRHSFJpdWNMVjlCSXJSYXdqR1YyOHplRU0zdVZMVHp1N2hZNjYzdlVVdXV1MTZRdlVsSWZQaVl5UFpITGNWU2V0M0pHN3NMTHFHeXF4eUVTS1paOEUwX1RDamdfRUktVWlKWUlwcHIzTzlwUFVhSEp2QVptTFMwTjNOTmFERGtmcElySklsR3hvWA?oc=5",
       "description": "Adani Green shares extend fall to 5th day, down 4% as Q2 PAT dips 24% QoQ Business Standard"
-    },
-    {
-      "published": "2026-10-22T06:37:51+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "UBS acquires 4.8% stake in India's 360 ONE WAM after warrant conversion - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY2RndlBVbkhjSV9HdTBSTHNIaVRfY3ZYbzNsaGQ1eHRkTUExaUk4Rk9lUUxrVmpaS2JHTVRNWXJCMWNCd29BNzdLZE1DVmFCQm1rTjViMUgzYmR0WlpOaGsxVTdnZG5Vc0dZZzBNTFljV2gxdDYxRUY4MzJVZ2cxeWY2ZnpWZFpmUzJ2Nmg5MW1CODNIZ1BVblBreDBRZmlub1hwTy04eFg5U0FKbkFiUEdUd09MZzRvY1oxX0Z2b1ZSMm92R0l3RzAxQjRGOTJWejUtVXhtWUXSAdgBQVVfeXFMTWNkZ3ZQVW5IY0lfR3UwUkxzSGlUX2N2WG8zbGhkNXh0ZE1BMWlJOEZPZVFMa1ZqWktiR01UTVlyQjFjQndvQTc3S2RNQ1ZhQkJta041YjFIM2JkdFpaTmhrMVU3Z2RuVXNHWWcwTUxZY1doMXQ2MUVGODMyVWdnMXlmNmZ6VmRaZlMydjZoOTFtQjgzSGdQVW5Qa3gwUWZpbm9YcE8tOHhYOVNBSm5BYlBHVHdPTGc0b2NaMV9Gdm9WUjJvdkdJd0cwMUI0RjkyVno1LVV4bVlF?oc=5",
-      "description": "UBS acquires 4.8% stake in India's 360 ONE WAM after warrant conversion Moneycontrol.com"
     },
     {
       "published": "2026-10-22T06:02:00+00:00",
@@ -33876,24 +34101,6 @@
       "description": "SRF extends slide to 5th day, falls 5% to hit 52-wk low on Q2 margin miss Business Standard"
     },
     {
-      "published": "2026-10-22T05:58:35+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "The Economic Times",
-      "title": "Where to invest Rs 10 lakh amid market volatility? Experts weigh in - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTlhjb1lNTkhsUGpQMnBCQkZvV2hXeTdDbk1vM19RNll3ZC1mYVdHR3F2RFlXSVB1bXNpWkZuSnd4SzViYVVsa1JGd1lobDd6NzUwTTROVnJzT3RsaExJS0ZDeDA1X3JubGJ1Wkd1WUxiOXRuNmoyajNKcVlHdjA2SktMYm9FYWwyaGJMaGlBVXdlTE1mQ3BEbC1zWmpIaTZWejhoUW03NV9CLTdzQ004YmdQemgzalRabnlwenIzUlRvb21vV1RBdm9R?oc=5",
-      "description": "Where to invest Rs 10 lakh amid market volatility? Experts weigh in The Economic Times"
-    },
-    {
-      "published": "2026-10-22T05:29:17+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Free Press Journal",
-      "title": "Bharat Electronics Stock Falls 2% Despite ₹770 Crore Defence Ministry Radar Deal - Free Press Journal",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQQTc2aURDd2k3ZldJdWdxeDloN1ZNU1c4UFNRMFdYNXB2V2FBc0pES3NNWlk1ODZTT2FpRGJkSk9aaVluSFpibHRSQVF5aDQwdi1QWHlDaFdNeVZOeWtoV04zMDNybXJzNDV0ZFA0QkRaQ2VnNEdGampTTmwzX0xsQ3BhcVhZeHJhQUlnUWFEeXlOSkVxSzdZck1UeDFHeW95UXcyUXlrNEZtWHZNblFUQlBtRm5reVUzVmtR0gHAAUFVX3lxTE52YUFJRzdxWFduMm05b244cW1VQTMyTUtNQTFTOFNXUlBpd1pPZTV3QUZYc0VLV2JENU0tZGdnMlBLSHRwZDhxTG42QWxfdl9LNDZUbU1TdW9wRUFReUJ6Y0lZSVFFM1JqSno0Z09WbGN3MkJ4dGFLaEVadWhWY0FmMjZSWmtueEs2WmxEVEZiQ1g5cVJYZC03QV9PQXdrdkxKTTdILTBtLVNYNnoyTnFINWY1cVp6emlRS0ZLOWxQbA?oc=5",
-      "description": "Bharat Electronics Stock Falls 2% Despite ₹770 Crore Defence Ministry Radar Deal Free Press Journal"
-    },
-    {
       "published": "2026-10-22T04:26:00+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -33901,15 +34108,6 @@
       "title": "Asia stocks slide as AI jitters hit Korean chipmakers - Yahoo Finance Australia",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSHY0QmpwSUJHeGdEcEVmM0NQQUlqd0RHenUwTF9lQThtOEJJdU1WNG44djN0SlNsQllrZ1V0UWpFLVl0YkpqS2dWQlJnY1FZWGpKdUFBMkY0UkdMSGNNd3c0QW4wTTljOWJSMmUyeEZuVnhiMU5WMlVRSU9nalVaOXE0Zw?oc=5",
       "description": "Asia stocks slide as AI jitters hit Korean chipmakers Yahoo Finance Australia"
-    },
-    {
-      "published": "2026-10-22T04:12:30+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "France riots, India protests linked to same global network: Report - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOM2lJa0t4NW0xbGxkUHBpTzRKNDRpMlVrMkQtaVd1VU5Cem9URGdBX0VfM2VOVGNHZ0cwQng1TERETFJVc3JMWTJCWm5ZcFFaNklfNGNJVm8xeUwwWUpiNHVkUEZvd084V3V0U1o5Y2ZJWTg4dnVOZWEzeUQ0ZmdqRWNqTkR0b1k0OTBOOEZzRUZRMGRtSjRRTmdlVWdaR2hNWUkwWWxvcHNjNXJXQno5R0wyRVZhcTl2ekpJdjFZUFVJVG_SAcMBQVVfeXFMTjNpSWtLeDVtMWxsZFBwaU80SjQ0aTJVazJELWlXdVVOQnpvVERnQV9FXzNlTlRjR2dHMEJ4NUxERExSVXNyTFkyQlpuWXBRWjZJXzRjSVZvMXlMMFlKYjR1ZFBGb3dPOFd1dFNaOWNmSVk4OHZ1TmVhM3lENGZnakVjak5EdG9ZNDkwTjhGc0VGUTBkbUo0UU5nZVVnWkdoTVlJMFlsb3BzYzVyV0J6OUdMMkVWYXE5dnpKSXYxWVBVSVRv?oc=5",
-      "description": "France riots, India protests linked to same global network: Report Moneycontrol.com"
     },
     {
       "published": "2026-10-22T04:04:24+00:00",
@@ -33966,15 +34164,6 @@
       "description": "Trading Plan: Can Nifty 50 hold 22,800, Bank Nifty sustain 54,700 amid bearish market breadth? Moneycontrol.com"
     },
     {
-      "published": "2026-10-22T02:15:00+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Reuters",
-      "title": "Stocks fall, bonds gain as Meta dents tech optimism - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
-      "description": "Stocks fall, bonds gain as Meta dents tech optimism Reuters"
-    },
-    {
       "published": "2026-10-22T00:30:53+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -34002,15 +34191,6 @@
       "description": "Asian Stocks Fall, Bucking U.S. Tech Rebound WSJ"
     },
     {
-      "published": "2026-10-21T19:31:55+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "MarketsMojo",
-      "title": "Wheels India Ltd. Hits Intraday Low Amid Price Pressure on 21 Oct 2026 - MarketsMojo",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPdWZ0UjlfV0lXd1hUd095RXhhLVJxSVAyZ2NMUnBKZUFUWFZ4VFN5bDZKcE5qbnJrQ0VsSVZzY2VVYXhMR0Ixb0x4NE84aFRoZm5pOGR1T3hXQXlqUDQ1OTdwVFJHalpsc2t2VjNzRE91NVBGd3BUcUFQOWpKUDBOZWRXOFMzM2RrMUxBRzhVLWVHcmJwQUw0Y0JvX3hNUzgxTS1CNTBMWnpNdElNOTV1X1NLUGkwRDFMUEJBdXBtNFBPUHBKZEE?oc=5",
-      "description": "Wheels India Ltd. Hits Intraday Low Amid Price Pressure on 21 Oct 2026 MarketsMojo"
-    },
-    {
       "published": "2026-10-21T18:17:55+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -34029,15 +34209,6 @@
       "description": "Nifty 50 Prediction for Tomorrow: 22 Oct Levels and OI Data Univest"
     },
     {
-      "published": "2026-10-21T17:08:49+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "GuruFocus",
-      "title": "DexCom (DXCM) Shares Fall 6.5% Amid Broader Market Gains on Octo - GuruFocus",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPN0xWVVYxc19RcXg0aDUzN2UtOFNGZFFLbkRkSDVWNHAtbDF3NTJFQ0FNcmdIRTlPNXM1eklGTXBvOUE4Q01USFhVZ1JoVlBUeTE1TkljZFhpSzczUG9DQzFLRWp6UktrRl83ZXNZTkdFcktuYkNBaHRKendOQnhuUUJZN093bXZGVDlUVDZKZHFzeHlEWk03bnJKcTA4ZjBVZXRsMFZieWRhWnk5YkJJ?oc=5",
-      "description": "DexCom (DXCM) Shares Fall 6.5% Amid Broader Market Gains on Octo GuruFocus"
-    },
-    {
       "published": "2026-10-21T16:27:24+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -34054,51 +34225,6 @@
       "title": "IT stocks gain ₹77,000 crore in value as banking shares weigh on Nifty - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeE5jeDBiRUQxWFFjUFQ1M3RDMHJiSjJ6TzZLN0hfaGM1VnR3Skc2bkwwTW9TRHFhczN2TGxydzB0RnRBREFSQUg5cV8yXzZDN1NpS1lJem1UWUFranBadE8xdkE5NVpramFVTlc2WkExWlhuZW5ZT0FKQjhyN2VEbHlVem9mc2U1U3dCNVVCdzNIWk5GTjh1ZUNRRkg5NnhuYlRJUTVES3JhY3VPbjZoSEloeWs5OTBWUTF2SGlZRHpzdEN4b3dkdGtTM0lQcFFyNmfSAdcBQVVfeXFMTWtkWmxPcHFMaHNsaGtrN3BMbFczN3FnOUJpZWJOcjFYY1o4bnliSzFmdHNaeGR2Y3Z4Znd3UEhyZk5QMzkxR0pDRW9qTVFNanRUd3lDTlhyTXpwYnlXSnBTS2ZIRG5wenpCR1d6bTFGS3BXT0gyN2FrZFFkQ0FDSHRDY2hXS05DRFgyNkotbmZYZWFoVlJyQU9iOFRibXR3ZVlZc29BTWhDa0ZBREsxbWxDS1VBYlpKU2FkQWg0anp5XzA2R0ZGajZYY1B0cUJhNDlmXzJsNkE?oc=5",
       "description": "IT stocks gain ₹77,000 crore in value as banking shares weigh on Nifty Business Standard"
-    },
-    {
-      "published": "2026-10-21T14:37:42+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "India IPO",
-      "title": "Rs 11 lakh crore investor wealth gone as market ends lower for second day - - India IPO",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPemFrN0E1ZExpVGZKdlRsSnVmTDFHYUdNcldIcEVtOXd1VGg0dWxzZ2x5Y2NGNEJXN3IzMXhLeXJRSFl4VFlJTHc2Unk1MVlycWE5ZlNkZmN5ZlJlSzEtUUxnQVZ1b01RM3JRb2dpdnRIM1hEeVlRLXhJMUlEVjhCZWxxWEZ0LVNCTVk1QURRSmJqVExwVjRlMi1XbGItMmJra0FGNU5WWW1pRGtWUlE?oc=5",
-      "description": "Rs 11 lakh crore investor wealth gone as market ends lower for second day - India IPO"
-    },
-    {
-      "published": "2026-10-21T14:29:40+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "The Spectator",
-      "title": "Is AI a bubble? - The Spectator",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE02UFBEb0FoNEZLMGtUN3BWMVBBbWtib1FIazhOX3RyUHZuLWJZN0VETW91X0lnTXJza3NpMG92c19xcWt1di1rR3UxTGFnUVZqRVBVVkhvdGs?oc=5",
-      "description": "Is AI a bubble? The Spectator"
-    },
-    {
-      "published": "2026-10-21T13:57:04+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "NDTV Profit",
-      "title": "Hedge Or Hostage? Indian IT's Strange New Role In The AI Story - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaVIyak50d1pWTzlNV3hGVTNXVVpGbnJZdDh3cVlQQjliZHNsZHRmU1ZDUm1CY0Zxek5yWHFuZHl5dUc4SkttRm03VkI3MUhJdE1lTUFvNWdQSHZ3OXl3MWtHOHl0SGE0V2xTR0w1YXBYM0J4M0lRU2JOUXN0cFozZnJBdW9JOTdTcE1KSFNGOGdibTJhSHlmcWlVR3o3enBIeVlsQlYxa9IBrwFBVV95cUxPbnR1VzlMeWc4TnRkVXlhVFpEQ3RvSXdQQjE2ZjcwX3hET00tQjdZMVI5Q0Zyb1RJVVdGQjJGcGJVRWlsZWJiT1U2aDRjNnZhTDBjcVFpaVRBcnp5NDJQMnNuR256MGoxckFWYWJhVmNHVWludWZYYi1rc3ZOWExSLVU4TkIxNVluc21TSFQ2SEZ3ZGFEYVhhc1pOUTNSYkpMM3dWMGkwXy1GVW1VVG8w?oc=5",
-      "description": "Hedge Or Hostage? Indian IT's Strange New Role In The AI Story NDTV Profit"
-    },
-    {
-      "published": "2026-10-21T13:15:00+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Seeking Alpha",
-      "title": "The True Colors Of An AI Unwind - Seeking Alpha",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5oRko3WlV6bXh6TUxVSzdVdW4ya2dxb0lQbE9URFMzZWsxbUljYjlTNWdqRHU0cmNLbEs0WmV6dERJdDFvZ0Jrcll1UGprM0ZlZDF1TnR4MGdfNmF3YkRxQkpzQ3B3WmpacmhVVHpYa1UzNk5Ya000OFdodTc?oc=5",
-      "description": "The True Colors Of An AI Unwind Seeking Alpha"
-    },
-    {
-      "published": "2026-10-21T12:43:24+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Rediff MoneyWiz",
-      "title": "Stock Markets Fall 2nd Day; Jio IPO Oversubscribed - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV215UGlfX24tSWlXeURRRjVrTzlQc0JVbG9jVThKSWxhcGRKdWJVR09CZURKSHQ4b0xwWTAyMF9xc21jc1lad195ZTFZR25YOGlSVjdfQm9oVWs1N3I3V2xhWktCdU1RVG56S0M5Q0ZhaGpwQTBmVkJWSzd6cEUxREJWaWpsNW1Ta1BhaUdpT3JEUjdWZmtPSy1nZ2FTcndLWmV1ZVFYM03SAagBQVVfeXFMUFdteVBpX19uLUlpV3lEUUY1a085UHNCVWxvY1U4SklsYXBkSnViVUdPQmVESkh0OG9McFkwMjBfcXNtY3NZWndfeWUxWUduWDhpUlY3X0JvaFVrNTdyN1dsYVpLQnVNUVRuektDOUNGYWhqcEEwZlZCVks3enBFMURCVmlqbDVtU2tQYWlHaU9yRFI3VmZrT0stZ2dhU3J3S1pldWVRWDNN?oc=5",
-      "description": "Stock Markets Fall 2nd Day; Jio IPO Oversubscribed Rediff MoneyWiz"
     }
   ]
 }
