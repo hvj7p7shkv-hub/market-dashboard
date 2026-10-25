@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25 10:40 IST",
+  "generated_at": "2026-10-25 11:10 IST",
   "wire_file": "2026-10-25-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,20 +23,20 @@
   },
   "posture": {
     "stance": "Mixed",
-    "wire_count": "14",
-    "wire_total_count": "104",
+    "wire_count": "19",
+    "wire_total_count": "110",
     "wire_scope_date": "2026-10-25",
     "ai_wire_count": "3",
     "selling_wire_count": "3",
-    "india_wire_count": "7",
+    "india_wire_count": "12",
     "weak_index_count": "18",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-25 04:26",
-      "title": "Mutual fund NFOs: 5 new funds will open for subscription this week. Check dates and key details - The Economic Times",
-      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 13 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-25 05:14",
+      "title": "FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices - IANS LIVE",
+      "text": "Latest dated headline · IANS LIVE. Today's unique wire set contains 17 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-25",
@@ -51,7 +51,7 @@
     {
       "label": "India Trigger · 2026-10-25",
       "title": "Crude is the local swing factor",
-      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Markets Next Week: Crude oil at $117, broader market selloff and Q2 earnings in focus - Business Today"
+      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices - IANS LIVE"
     }
   ],
   "indices": [
@@ -17265,78 +17265,6 @@
           "emerging": false
         },
         {
-          "symbol": "GESHIP",
-          "name": "Great Eastern Shipping Co. Ltd.",
-          "ticker": "GESHIP.NS",
-          "sector": "Services",
-          "downloaded": true,
-          "download_note": "",
-          "source_index": "NIFTY 500",
-          "benchmark_ticker": "^CRSLDX",
-          "last_date": "2026-10-23",
-          "last": 1496.6,
-          "return_1d_pct": -1.45,
-          "return_5d_pct": -0.72,
-          "return_20d_pct": -0.04,
-          "volume": 619663.0,
-          "avg_volume_20": 886713.0,
-          "volume_ratio_20d": 0.7,
-          "turnover_proxy": 927387645.8,
-          "rsi_14": 49.73,
-          "rsi_5d_ago": 52.83,
-          "above_sma_10": false,
-          "above_sma_20": false,
-          "above_sma_50": true,
-          "above_sma_100": true,
-          "above_sma_200": true,
-          "distance_sma_20_pct": -2.19,
-          "distance_sma_50_pct": 4.14,
-          "ma200_roc20_pct": 3.08,
-          "supertrend_bullish": false,
-          "new_high20": false,
-          "within_3pct_ath": false,
-          "at_ath": false,
-          "rs_acceleration_pct": -0.07,
-          "rs_ratio": 0.0698445,
-          "rs_ratio_sma_50": 0.06185575,
-          "rs_distance_sma_50_pct": 12.92,
-          "rs_return_20d_pct": 11.39,
-          "rs_above_50dma": true,
-          "trend_raw": 1.0,
-          "breakout_raw": 0.0,
-          "volume_raw": 0.7,
-          "setup_score": 5.1,
-          "setup_quality": "Actionable watch",
-          "primary_setup": "Breakout retest",
-          "setup_tags": "breakout, retest, pivot, volume, flag, continuation, uptrend, inverse-head-and-shoulders, base, reversal",
-          "setup_pivot_level": 1478.92,
-          "setup_breakout_date": "2026-09-28",
-          "setup_volume_ratio": 3.87,
-          "setup_retest_gap_pct": 0.53,
-          "setup_flag_depth_pct": null,
-          "setup_impulse_return_pct": null,
-          "setup_neckline_level": null,
-          "setup_commentary": "Prior resistance has been cleared on higher volume and price is back near that pivot. This is the kind of retest zone where follow-through can matter more than chasing a stretched candle. Secondary patterns: Bullish flag, Possible inverse H&S.",
-          "rotation_signal": "Strengthening",
-          "rotation_score": 6.4,
-          "woe": 0,
-          "constructive": false,
-          "sector_rs": -0.8007142857,
-          "ath_new_high_raw": 0.0,
-          "stock_rs_percentile": 94.3775100402,
-          "rs_acceleration_percentile": 67.4698795181,
-          "sector_theme_rs_percentile": 84.6385542169,
-          "ath_new_high_percentile": 49.0963855422,
-          "trend_structure_percentile": 98.2931726908,
-          "breakout_base_quality_percentile": 49.0963855422,
-          "volume_confirmation_percentile": 22.6907630522,
-          "leader_score": 66.5232358003,
-          "rank": 45,
-          "portfolio_rule": "Hold if owned",
-          "exceptional": false,
-          "emerging": false
-        },
-        {
           "symbol": "MARICO",
           "name": "Marico Ltd.",
           "ticker": "MARICO.NS",
@@ -17402,6 +17330,78 @@
           "trend_structure_percentile": 79.718875502,
           "breakout_base_quality_percentile": 49.0963855422,
           "volume_confirmation_percentile": 52.3092369478,
+          "leader_score": 66.5232358003,
+          "rank": 45,
+          "portfolio_rule": "Hold if owned",
+          "exceptional": false,
+          "emerging": false
+        },
+        {
+          "symbol": "GESHIP",
+          "name": "Great Eastern Shipping Co. Ltd.",
+          "ticker": "GESHIP.NS",
+          "sector": "Services",
+          "downloaded": true,
+          "download_note": "",
+          "source_index": "NIFTY 500",
+          "benchmark_ticker": "^CRSLDX",
+          "last_date": "2026-10-23",
+          "last": 1496.6,
+          "return_1d_pct": -1.45,
+          "return_5d_pct": -0.72,
+          "return_20d_pct": -0.04,
+          "volume": 619663.0,
+          "avg_volume_20": 886713.0,
+          "volume_ratio_20d": 0.7,
+          "turnover_proxy": 927387645.8,
+          "rsi_14": 49.73,
+          "rsi_5d_ago": 52.83,
+          "above_sma_10": false,
+          "above_sma_20": false,
+          "above_sma_50": true,
+          "above_sma_100": true,
+          "above_sma_200": true,
+          "distance_sma_20_pct": -2.19,
+          "distance_sma_50_pct": 4.14,
+          "ma200_roc20_pct": 3.08,
+          "supertrend_bullish": false,
+          "new_high20": false,
+          "within_3pct_ath": false,
+          "at_ath": false,
+          "rs_acceleration_pct": -0.07,
+          "rs_ratio": 0.0698445,
+          "rs_ratio_sma_50": 0.06185575,
+          "rs_distance_sma_50_pct": 12.92,
+          "rs_return_20d_pct": 11.39,
+          "rs_above_50dma": true,
+          "trend_raw": 1.0,
+          "breakout_raw": 0.0,
+          "volume_raw": 0.7,
+          "setup_score": 5.1,
+          "setup_quality": "Actionable watch",
+          "primary_setup": "Breakout retest",
+          "setup_tags": "breakout, retest, pivot, volume, flag, continuation, uptrend, inverse-head-and-shoulders, base, reversal",
+          "setup_pivot_level": 1478.92,
+          "setup_breakout_date": "2026-09-28",
+          "setup_volume_ratio": 3.87,
+          "setup_retest_gap_pct": 0.53,
+          "setup_flag_depth_pct": null,
+          "setup_impulse_return_pct": null,
+          "setup_neckline_level": null,
+          "setup_commentary": "Prior resistance has been cleared on higher volume and price is back near that pivot. This is the kind of retest zone where follow-through can matter more than chasing a stretched candle. Secondary patterns: Bullish flag, Possible inverse H&S.",
+          "rotation_signal": "Strengthening",
+          "rotation_score": 6.4,
+          "woe": 0,
+          "constructive": false,
+          "sector_rs": -0.8007142857,
+          "ath_new_high_raw": 0.0,
+          "stock_rs_percentile": 94.3775100402,
+          "rs_acceleration_percentile": 67.4698795181,
+          "sector_theme_rs_percentile": 84.6385542169,
+          "ath_new_high_percentile": 49.0963855422,
+          "trend_structure_percentile": 98.2931726908,
+          "breakout_base_quality_percentile": 49.0963855422,
+          "volume_confirmation_percentile": 22.6907630522,
           "leader_score": 66.5232358003,
           "rank": 46,
           "portfolio_rule": "Hold if owned",
@@ -19659,7 +19659,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-25T10:40:38+05:30",
+    "generated_at": "2026-10-25T11:10:28+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -32164,15 +32164,6 @@
       "description": "FII Selling Continues For 10th Straight Week Despite Sharp Decline In Outflows, Nifty Falls 2.4% As Crude Oil Free Press Journal"
     },
     {
-      "published": "2026-10-24T05:16:26+00:00",
-      "score": 9.0,
-      "themes": "['market selling', 'India market', 'macro / flows']",
-      "source": "INDIA New England News",
-      "title": "Sensex, Nifty Fall for Third Straight Session as Oil Prices Rise - INDIA New England News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV2hiaEl5eXFHREs5aW1QMklVdlBnbjVMY0RhUXZFVmtFQVBhQi14NFNGYVd6cTlXUXM4clpaY3k4MzFSNzlUalA4ejdPV0ZHX1pUX0FoX2gzcTd6QWZvRnlhUTlhWGFzUVJGbzJZSVlaVzllczJ4MzdaX1haeEJpX3lCQmxuMG0wamlCYWt5TGQzNzlHb2xV?oc=5",
-      "description": "Sensex, Nifty Fall for Third Straight Session as Oil Prices Rise INDIA New England News"
-    },
-    {
       "published": "2026-10-24T11:06:41+00:00",
       "score": 8.0,
       "themes": "['market selling', 'India market']",
@@ -32317,15 +32308,6 @@
       "description": "Nifty logs third-longest technical correction; shallowest in its history IndiaIPO"
     },
     {
-      "published": "2026-10-24T07:43:59+00:00",
-      "score": 6.0,
-      "themes": "['market selling', 'India market']",
-      "source": "TradingView",
-      "title": "Data recap: FPI selloff, Reliance bets, Blinkit's expansion plans - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOSDZveDRtbG5YeHhWT2NzczktOV9JSkdGUzRENm5fQnZxRl9YZ0FBcklJYWFGcjRSdmNndlo1Wkw4TEpXNFRxbVZJa3d6cG12WWJXajljS0o1Mi1CelNuY0xKVy1PcElvVjNnbzdTNEk2aWd2Tm5wWWxtOHhuNWxadzhpZTMwOE53RWJkSUxBM0p4ODNpTFBXdkxXZWhzX3hpZjFSeER1ZlNYQ1pWdzFQZEFGMGJrRFF1dGw4?oc=5",
-      "description": "Data recap: FPI selloff, Reliance bets, Blinkit's expansion plans TradingView"
-    },
-    {
       "published": "2026-10-24T08:00:38+00:00",
       "score": 5.0,
       "themes": "['India market']",
@@ -32342,6 +32324,15 @@
       "title": "Mutual fund NFOs: 5 new funds will open for subscription this week. Check dates and key details - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQMWlvMzdRd1JFeThZLUlrYnlfQ0U1bjJrQ2NzeFhOSlh3QmF4c2lBN1Bvb0tWcEkzcllaTDU2MTJkandxUWlhdHdldHA1emhJNGsyZ0JSczE3bVkzMFRlTXhjRmRwSDlRcWpzaWs3SThxR2UyaDd1ZHZEWVdxaXBCVTROUS1TajZwOFNLLWRuUmJOcE1HcVQ2UDZjeXM2SWRpSm1OYVZEUmFtTUhKMF9kdWJlWXFrY2ktcGd6NnQ0SDhkOFF6WVBFOUs5WnU3bkttNGFId2lYX1NUVml1UDBDZXZkNF9HaFlhTGRIdjB3?oc=5",
       "description": "Mutual fund NFOs: 5 new funds will open for subscription this week. Check dates and key details The Economic Times"
+    },
+    {
+      "published": "2026-10-25T03:38:55+00:00",
+      "score": 4.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "Mid-Day",
+      "title": "Sensex slips 143 points amid surging crude oil prices, FII outflows - Mid-Day",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQMEl3LVdjMGxweW9jS0dTQWdCMUI4R0RVTU1VSG90ZWMzOXpYbEJXSkJOZlFjVE9IQmx5a0Qzb2ZnZThXeFJDa2tVdXlVLXlRT1g3N1c1WkI5UWlDSjVqSFQ1YTFnZzZ4RmFad0hobHQzU3JSQ2RfOUlKb056MHFmeTQ3RDQ1TWxhNGc3aHlIbmJjOEpUVnRFcGdkSDRnT2drczlEU1BWOHlvMDh6Tk9ORlc2dXN3eDNlWEVIVE1jbUtXVXlxbTBj?oc=5",
+      "description": "Sensex slips 143 points amid surging crude oil prices, FII outflows Mid-Day"
     },
     {
       "published": "2026-10-25T00:30:08+00:00",
@@ -32425,13 +32416,49 @@
       "description": "Franklin Templeton announces IDCW payouts for 3 mutual fund schemes: Check record date and rates Upstox"
     },
     {
-      "published": "2026-10-25T04:15:03+00:00",
+      "published": "2026-10-25T05:14:00+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "IANS LIVE",
+      "title": "FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices - IANS LIVE",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEFqR1o0OVEtVm9qT0k2bktpNUZMTlpXR2RvR3pMaEJ0aGkyZm9qZERMclk5c3hNRWU2dGFwQWN1eFJLcEotU0VvbGxHaF9CeHN5QU9hd3d0UXk5RTNUdlpiTExJSjlsYXJma2xnMWFiMF9aLTZkbV9HODlhY0hFeVRpRjRFeEFWV2xZTWI4cnhwQmhDbFJnVThFY0NDcklKSlFZZzZRQzNGby1VUUlHNTNTd2ppLVJF?oc=5",
+      "description": "FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices IANS LIVE"
+    },
+    {
+      "published": "2026-10-25T04:26:02+00:00",
       "score": 3.0,
       "themes": "[]",
       "source": "The Economic Times",
       "title": "Equity mutual funds lose up to 9% in a week, international funds among biggest laggards - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxObWJTd3BpMmpUTEtvdENQREVvOW9lUTV1Ti16a2dILXpIZE5oMXpsZEZnNENZSzd2QkRuZlRDSUdvaFZDU1dTNmN1WjF1aGpIVTBJLVdGdkh5d0hBb1dJbURNQTZwV2Y0WU1WZk5aTnN0dWtjcFkzbnpNNnB6NjhZYW91aFJJMnhieS1uQUppM21vTHBYcldPbkxOX3NpSVBwNnBNNlZWanktWWdleW5BbGhVLVpXZXRXWFVGU1N6MTA4ZGRGUlZsZC1iNmYyZTRCRTJ4VnN0RlRzSC1sN2JWRTB6THd4cHI0YTlmbGJhSQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQRGxQUWZLcmx5dnROZG5CMGM0V09PMk9aSnpldlpGY0xuOHdJWWxkcEtVb3BOY2dsekV5SXBSak96eEFiT3ZiMExyalg1N2phWFhNSmlUcWJwd1dWcWFoS3pzdjJxNThMcm90em9ISFVjWHkyMzZwZEZaX1U3emtTUFNHMkdYVUZiY21iX2xKM1hEeDJyMGFTZHF1Z2ozaTJ6LTlEeWJqTDFoUE9EaE05VGlhM2VFUXBzNGliRm02ci1oMEtjVXJBbTYzdlpDck5weFFFMHVHbnlJcFYtd2g0R19Vaw?oc=5",
       "description": "Equity mutual funds lose up to 9% in a week, international funds among biggest laggards The Economic Times"
+    },
+    {
+      "published": "2026-10-25T04:21:17+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "Social News XYZ",
+      "title": "FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFcxTkthNVlCSXpZenVlcnM1WDdYcnVCSTlzamRUSFVwaUUta0lqbWNlM2xYSThWZk5ZcTgxcEVSRHVnTnh4ck9uSFRYTmtpcVVoNnlyTHZJUEJTMm1BQ0RsaVpaTUpveGpFOHBjTnRvWjZXMWY0UGQ2OHNHYzF3ZlNLbTYydHlrVGFibHpOTnk1OVZiVlhtVERyaDZkclJYdzVlVjc0NWZtM1lwN0d2VFVMdDhvN1htVG9CNdIBvAFBVV95cUxQSFcxTkthNVlCSXpZenVlcnM1WDdYcnVCSTlzamRUSFVwaUUta0lqbWNlM2xYSThWZk5ZcTgxcEVSRHVnTnh4ck9uSFRYTmtpcVVoNnlyTHZJUEJTMm1BQ0RsaVpaTUpveGpFOHBjTnRvWjZXMWY0UGQ2OHNHYzF3ZlNLbTYydHlrVGFibHpOTnk1OVZiVlhtVERyaDZkclJYdzVlVjc0NWZtM1lwN0d2VFVMdDhvN1htVG9CNQ?oc=5",
+      "description": "FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices Social News XYZ"
+    },
+    {
+      "published": "2026-10-25T03:48:39+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "The Economic Times",
+      "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNWW45QzVIZmJsbVdtaXlLWVdNZjlTQUpadE1jR0h4RjJ5MVVvSEpZdlQ3bk5aTlp3ZnJhQXNUTmNMdHFnaGVaTXJ4aDRZN2R0UFJlaU9ZV0NjZHBsNDk1QWttMXZqMEJIdG9aYmVrT3g5LXY2RGY1ZDBMLWlWMld6c1RQajNmVU11U004SlRicDc2dHlTX3V2M3dybE40Nk1IVU1IRU55YXFfbnp1LVROMGN5azMxNFNOUHlVVzBtS0VPXzhGdUtTbUlfVm1qQXBtSF90V2lKQTlQd2ZVbllVM0kwWXJsaFVZaUNndGcwdExXVHlJVDBObGdoNW9OU0ZGajF0ZWJyLURSanpzdFlmeFEwZC15dXRaRlHSAZ8CQVVfeXFMUExKMnBKdjZrZWtCS3ZZZEZ6MnZjSktBbkYzWFpfeTJ5dzZjQnF2dHgyYmE2bWczd0NlTGdWcUg2LVpmenhzVG9LelBKdVZadzhnMW9fd0VGWVk0LTdvWlAxcWVhTDFhMnlxZDlKVnBqeFBJT1hEWG55NkJSNnlYUUFmaUR2QjBsMm1LUVN3UkZabVYzRkYtTXdFcXFfdjhIREc1RWNIR0t0eGlNM0hpSkJKcFlUTU8zYi1lVXNZS2U3bVVvSERnWG9sZHhZcmdHMlp0MnpzTGVKRktoY2xWalNMTXJGOGRRczRncGViY240bHpQTUVRX0Utb2dRblVUTWhTQUNtTVZVX0lzTHRUbWtyZzB4OHpWR2kyTHd4dlE?oc=5",
+      "description": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s The Economic Times"
+    },
+    {
+      "published": "2026-10-25T03:48:00+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "The Economic Times",
+      "title": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQTEoycEp2Nmtla0JLdllkRnoydmNKS0FuRjNYWl95Mnl3NmNCcXZ0eDJiYTZtZzN3Q2VMZ1ZxSDYtWmZ6eHNUb0t6UEp1Vlp3OGcxb193RUZZWTQtN29aUDFxZWFMMWEyeXFkOUpWcGp4UElPWERYbnk2QlI2eVhRQWZpRHZCMGwybUtRU3dSRlptVjNGRi1Nd0VxcV92OEhERzVFY0hHS3R4aU0zSGlKQkpwWVRNTzNiLWVVc1lLZTdtVW9IRGdYb2xkeFlyZ0cyWnQyenNMZUpGS2hjbFZqU0xNckY4ZFFzNGdwZWJjbjRselBNRVFfRS1vZ1FuVVRNaFNBQ21NVlVfSXNMdFRta3JnMHg4elZHaTJMd3h2UdIBnwJBVV95cUxQTEoycEp2Nmtla0JLdllkRnoydmNKS0FuRjNYWl95Mnl3NmNCcXZ0eDJiYTZtZzN3Q2VMZ1ZxSDYtWmZ6eHNUb0t6UEp1Vlp3OGcxb193RUZZWTQtN29aUDFxZWFMMWEyeXFkOUpWcGp4UElPWERYbnk2QlI2eVhRQWZpRHZCMGwybUtRU3dSRlptVjNGRi1Nd0VxcV92OEhERzVFY0hHS3R4aU0zSGlKQkpwWVRNTzNiLWVVc1lLZTdtVW9IRGdYb2xkeFlyZ0cyWnQyenNMZUpGS2hjbFZqU0xNckY4ZFFzNGdwZWJjbjRselBNRVFfRS1vZ1FuVVRNaFNBQ21NVlVfSXNMdFRta3JnMHg4elZHaTJMd3h2UQ?oc=5",
+      "description": "Nifty bears tighten grip as crude, geopolitical risks, FII outflows mount: 5 factors to decide D-Street’s The Economic Times"
     },
     {
       "published": "2026-10-25T02:45:01+00:00",
@@ -32632,22 +32659,13 @@
       "description": "Commerce ministry identifying AI-proof professions, sectors where India can take global lead: Piyush Goyal Moneycontrol.com"
     },
     {
-      "published": "2026-10-24T05:31:36+00:00",
+      "published": "2026-10-24T06:45:12+00:00",
       "score": 2.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Invesco India Mid Cap among 5 midcap funds that delivered upto 21% CAGR in 3 years. Do you own any? - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNQ095c0ZyUjdzem5aRl8xdmVDTTNmTldmc3pvY2RfMU5RY3d6Z0F4TnV1bHRTZWdfckJwcW5OT1Azc0IxcmFnbW5wcjNtdlNVWEt2bHo1QWJ2RzlDNU1HbTJILWFjRFhnY3hOdFhnZkg2T1owNThWNl93T20xOHZJaU52a2dIMTdDc1c0ZDNZdWExRUpxNHI2VElVVWhZUENWc004cUx3dHNfdjdVbGE4c25tRjZWbERDTTNSM1NWN19veUswM0ZfSE1kdHBHMXJ3cnprM0tPdmd1SWVUVTVrMUN0MlQyZ2xjRmtUNkdSaUpQSW8zNzRGRFVjdWU4aG8wckN0YzlpS3VBdktzZXluS2pTSTl6dw?oc=5",
-      "description": "Invesco India Mid Cap among 5 midcap funds that delivered upto 21% CAGR in 3 years. Do you own any? The Economic Times"
-    },
-    {
-      "published": "2026-10-24T05:23:10+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "IndiaIPO",
-      "title": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts - IndiaIPO",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMWhDWHkwNnpOdVdwMkZxOE5ZZkplQmFUaWFLRW9PQzZKRmVOeW9IN2l1YUcwdjYzczR5dW5vOVZoM2N5QVRna3ctbGNEM1g0SXh0eE1aVUZFbTdiaVdXVHZoalUzSU12ald5RHpSNWpsSm10R1ZJYkFjMElUNlBXX1RXaGhuWTFQWmdnQ2lhUGJHM2xFdVgwcnU1STdUVWx5ejMtSUpla2hMRVVZbGc?oc=5",
-      "description": "Closing Bell: Market snaps 2-week gains; Nifty at 22,600, Sensex down 125 pts IndiaIPO"
+      "themes": "['India market', 'macro / flows']",
+      "source": "ETV Bharat",
+      "title": "FII Selling Eases But Continues For 10th Week Amid Rising Crude, Geopolitical Tensions - ETV Bharat",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbG9TQ3dVQlZ3YmR4MFZOcXRJN0lOcTdkbnFrMHJJYXJQbE9nelVldEJTemk1b05pWlZzMU92TkxsTEtaQV9uZDllQkcyLTBpVnZ6c1J5N3R2RXVpb21rNEtnSGVnWHpJcnNQRTVVTW4tazNacC1Gb2RsbEdMcmdKQkhyemRjOC1tOHhUZDVaVWQ0Szk4X1phRTV2S0hkUE1QQ0phdmdXVlh5NDVoSkRkd0lEbExjSFJKTXdNN0RhWjBFanJ0R0laeHZmcVdXUFVGUGJvTnhyVEQ5UdIB2gFBVV95cUxPbG9TQ3dVQlZ3YmR4MFZOcXRJN0lOcTdkbnFrMHJJYXJQbE9nelVldEJTemk1b05pWlZzMU92TkxsTEtaQV9uZDllQkcyLTBpVnZ6c1J5N3R2RXVpb21rNEtnSGVnWHpJcnNQRTVVTW4tazNacC1Gb2RsbEdMcmdKQkhyemRjOC1tOHhUZDVaVWQ0Szk4X1phRTV2S0hkUE1QQ0phdmdXVlh5NDVoSkRkd0lEbExjSFJKTXdNN0RhWjBFanJ0R0laeHZmcVdXUFVGUGJvTnhyVEQ5UQ?oc=5",
+      "description": "FII Selling Eases But Continues For 10th Week Amid Rising Crude, Geopolitical Tensions ETV Bharat"
     },
     {
       "published": "2026-10-25T03:10:50+00:00",
@@ -32700,7 +32718,7 @@
       "themes": "['India market']",
       "source": "News9live",
       "title": "Smallcap Index: Suffered heavily recently; know the risks through two decades of data - News9live",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPdXZncGxjZU1iSFpBanRiaVVneG9GYnpqeDc0d3JwQVo4aWFtYVpSb0JoMHRCMWVVU0tTeGNpc0lEYnZiQXdxcFo1SkVIUERSU182TkpudW15b003azlINVlxUHlmclJIRFVsTkRKbnktTVVldU5JRW9qQ3lmcU9oYlN6U2prWlNzcFFONWJQeVFkaXc3OWRwSWFyU2sySnJOd0kyQkc3TGQ2TUFoeWVhaFlTTWVBRnR6Ym40V0htbWNSSWFfZkwtWHlseW9lY0t3b3N4RdIB1AFBVV95cUxPdXZncGxjZU1iSFpBanRiaVVneG9GYnpqeDc0d3JwQVo4aWFtYVpSb0JoMHRCMWVVU0tTeGNpc0lEYnZiQXdxcFo1SkVIUERSU182TkpudW15b003azlINVlxUHlmclJIRFVsTkRKbnktTVVldU5JRW9qQ3lmcU9oYlN6U2prWlNzcFFONWJQeVFkaXc3OWRwSWFyU2sySnJOd0kyQkc3TGQ2TUFoeWVhaFlTTWVBRnR6Ym40V0htbWNSSWFfZkwtWHlseW9lY0t3b3N4RQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNWkJmd3RhR292QkJJeUhueEdhdUZCSDVtUU5PUk1LVkNLbmV3RHJQZjJmSGZ1VXlMRnA4R1Q3aWJtbFh5MTZGX0hGNnlaSUlPUUZ5OHJBM0tuelJkWjhQbjItU2pFb2lIMmg2eS1oMVFlWmRDdlJTLWJZNEJoMUowVzUxbXVtZHl2T3VxdVVjM295bm1vei1Ic0s2RmZwbk5XTTRUMmNFQTNoTXRMTloyMGQ0T091Y3pzZk56U0h0S1lsUGQybWEyZ2h0RlNSbGvSAdQBQVVfeXFMT3V2Z3BsY2VNYkhaQWp0YmlVZ3hvRmJ6ang3NHdycEFaOGlhbWFaUm9CaDB0QjFlVVNLU3hjaXNJRGJ2YkF3cXBaNUpFSFBEUlNfNk5KbnVteW9NN2s5SDVZcVB5ZnJSSERVbE5ESm55LU1VZXVOSUVvakN5ZnFPaGJTelNqa1pTc3BRTjViUHlRZGl3NzlkcElhclNrMkpyTndJMkJHN0xkNk1BaHllYWhZU01lQUZ0emJuNFdIbW1jUklhX2ZMLVh5bHlvZWNLd29zeEU?oc=5",
       "description": "Smallcap Index: Suffered heavily recently; know the risks through two decades of data News9live"
     },
     {
@@ -32720,6 +32738,24 @@
       "title": "Rs 1,053 cr order book, 22.9% ROCE: An under-the-radar smallcap eyes the data centre boom - The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPSlo0dlI0cVptV2duN3RlLXk2WXA1aTNLZm8yX3lrUmF2VDJiV3Q0aGotY1JyNFhfVXZXN3dhMWVGWHpEU09Mdzh0ZjBULVFrVlpBRzNJNzF0X0VwaWNmdEtqT2ZTRF81YmtjWktXQVhVWWhDR2MxbkdheGlhbW9WVXdmUURFLUdZeVcxVFd3R3dNUjliY0dIVnFWQy1PLVFfSHJlaGZQVzNXRFBxSEpQb1RGMW10RU9HcGFIN3FGWnYtYWZJbGttRzltYTFSVUxuaXhYZ25wNk1fZUw5U25FZkFzd9IB6gFBVV95cUxNUmhyX2JXTnlEZUZrUE1Zakl4WG82aG5iWnRQZ29WTHZWc0RjaG95U1FkSWYwQk1Gb3JjUnZxWE9SaDJXbC1pTUVaQXZqOEtkRmpFNk9QcDNUSzhnN2VudGZ6ZGR3dW4tMmN0WktJRERPNXYtWmJGR2x5dXBKMFJlWHdyWDlxV0hTZHRWOFl1LVRVbGlfX2lIRWxGMXNnLVpsVDAtbnE5Ny1hNEpzQVM2ZzR0cHd4TFRJU2xTU2RudFZWQ1FpVnJIR1gzM1lfNy1DRE1nclkxenJKazBZRUJ0YlBEd0Z0VzA4Umc?oc=5",
       "description": "Rs 1,053 cr order book, 22.9% ROCE: An under-the-radar smallcap eyes the data centre boom The Financial Express"
+    },
+    {
+      "published": "2026-10-24T21:25:13+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Stocktwits",
+      "title": "Cathie Wood's ARK Loads Up 38,110 Meta Shares Across 3 ETFs Despite Mounting AI Spending Concerns - Stocktwits",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOOWhvazFwZFJBS0Y4cFRHZTBxYUhPMlJwQWFBS2FITy0wSXVrTTdhMDVZZHJtUnUxVDlFNWhKRmx3aExuVGU1WEhiVXk2a3kwX2xScWFCYkRrZmxBVlR0NWl1cWh1emVWY3NKQUVyV1hfRGNjNTFvZTlZUFRQRlJFSHhNN0d4TGtLcFRVN3RqU1RGbXJva2ZXVlFJYVQ4UlBxc2FZbjdYdjBMeVFZNlFKMngwVHlrTnAzVTc0Z2pBVWVucTFfdmJLbVlmV09kRGxrZ0pTWDdKR2ZQaG9WOWlUalJoMTRGV1pVNjRjZkJwN0RXSzkt?oc=5",
+      "description": "Cathie Wood's ARK Loads Up 38,110 Meta Shares Across 3 ETFs Despite Mounting AI Spending Concerns Stocktwits"
+    },
+    {
+      "published": "2026-10-24T19:56:59+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Insider Monkey",
+      "title": "10 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside - Insider Monkey",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk1VYXRmS01YUUtoaU9YU3ZRQW5KcHZXcUVLOWdsQkFoUlp1QVUxQVFEeVotRnFMQlo5OHBSUUJacVZ6VUc1SkxSdjhoX3RJS3lHTGluZUt2RnRLNlhNMXFOVDEyRk9JamFOdmJ5cEtpNDlvZGtwRk9KWXl4eE03Y094RTBCa0NsRGQ3U2ZyemNwYVZIMm9tMU4yUnNmYTFWcWN4R3JUWEN0QnBwUWNUR3ZkUHdjU3hpWE9mV0530gG-AUFVX3lxTFAyTVVhdGZLTVhRS2hpT1hTdlFBbkpwdldxRUs5Z2xCQWhSWnVBVTFBUUR5Wi1GcUxCWjk4cFJRQlpxVnpVRzVKTFJ2OGhfdElLeUdMaW5lS3ZGdEs2WE0xcU5UMTJGT0lqYU52YnlwS2k0OW9ka3BGT0pZeXh4TTdjT3hFMEJrQ2xEZDdTZnJ6Y3BhVkgyb20xTjJSc2ZhMVZxY3hHclRYQ3RCcHBRY1RHdmRQd2NTeGlYT2ZXTnc?oc=5",
+      "description": "10 Oversold AI Stocks: Where Wall Street Analysts Are Spotting 50%+ Upside Insider Monkey"
     },
     {
       "published": "2026-10-24T19:50:00+00:00",
@@ -32747,6 +32783,15 @@
       "title": "BE Stock Extends Selloff After Q3 Print, But Morgan Stanley Sees A Production Ramp Ahead - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNM3hzN1Z1MWtiTWV6Zm8yVVZsYVRjenh4ZEFjLWZXUE5xTl80NEdvWGx5MW5DN3lsMlJ5c1VGaTNCSm1vWThWQUk0YVNqbnJLenIzLUtQNWdLeW9DdlZpM013dF94aGx3YjRSbFhYSGh2OHJBM0wxU19JWm9zc2J2V21sQ3ptSFhfSUR1c1ZiTWpRZ1BVaE04UWFjNGs1SHBvT3hZOVlqTWo0VTJqMXJCVXBPZTY3Q3NuQkZVRG9NU1ByZ3BJTXhoalYzSG02U0NmVHJULUdMX3pGU2hxMkNPa25fbktwZw?oc=5",
       "description": "BE Stock Extends Selloff After Q3 Print, But Morgan Stanley Sees A Production Ramp Ahead Stocktwits"
+    },
+    {
+      "published": "2026-10-24T18:44:09+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "ET Now",
+      "title": "Air India extends Saudi flight suspensions: Riyadh, Dammam flights halted till November 7; Jeddah till October 31 - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPcUYtblVLelJVRkRHMVpVYVVHbURTQS10Z0x1YVRFRjE0dlg0WE0ySUpGRndDaVFJN25XQTE5R2pFcGpKRUx3VS10Z3MyWVRKZnJNUzRiMk1XQ0lOeldDaW9rZENFMHQwejYtOVZUYXliTkVWTnRLZGlfajNMaDc1UTZHZzVLeWh5YUMweWRYdlFBY0l4TXo3OFphamUyd2V2bWFGX2dqd2JzSFVpVXRjd2ZvbnV1c2lPcVZxYXB3QUVmTjI3cncxLU9NemxFQjdWZkxSSFQ2dlJmLWl6VHhvbXo0LWNDdDhQV1hNMDR0SlN6NS10TVHSAfYBQVVfeXFMT3FGLW5VS3pSVUZERzFaVWFVR21EU0EtdGdMdWFURUYxNHZYNFhNMklKRkZ3Q2lRSTduV0ExOUdqRXBqSkVMd1UtdGdzMllUSmZyTVM0YjJNV0NJTnpXQ2lva2RDRTB0MHo2LTlWVGF5Yk5FVk50S2RpX2ozTGg3NVE2R2c1S3loeWFDMHlkWHZRQWNJeE16NzhaYWplMndldm1hRl9nandic0hVaVV0Y3dmb251dXNpT3FWcWFwd0FFZk4yN3J3MS1PTXpsRUI3VmZMUkhUNnZSZi1pelR4b216NC1jQ3Q4UFdYTTA0dEpTejUtdE1R?oc=5",
+      "description": "Air India extends Saudi flight suspensions: Riyadh, Dammam flights halted till November 7; Jeddah till October 31 ET Now"
     },
     {
       "published": "2026-10-24T18:12:00+00:00",
@@ -32961,7 +33006,7 @@
       "themes": "['market selling']",
       "source": "ad-hoc-news.de",
       "title": "Siemens Energy: A Confirmed Outlook, a Sector Selloff, and the November Date That Will Settle the Ar - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMGZCbXBpODF0bGhBci1NMDQ0YWV1eDBQUng2QlZpSk05aUkxNmUxdUtBZ1pXRE1nVzcyYkhBSmlQZUtKcHlVX0xtVDhGdEdGM2FsendKS0k1bzZDeEJ1bjNIMmtjYlhhdy1nRlRXVjN3RlUtYy05M1hrV0h4bDBoOVU3dGpzSk8xTFhQdzlYYkxKZ2lqbVhBNVdTZzJ0NzZET3ItMDdfVHVSNXh5cjVSSzctQTlTSVlLMG85a3VjWEtaMG14YlByQlpsR3d6ZTY0RkhuSUYzZmR1ZXBuWXhYVTNIYWlKSTB3V0RIUF9tUndKa0hITG1Cd1l3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNMllsTHZ4Um1JN3FXcXR5VGJqaTFobXBGdkNkZWdHSkJKQmc5ZmVtWEFvRTZqdS11WjJZcDdBQS0wWTRfckxYQVo4dWl4VmVPY013azJmT3FUOFliV2xPcEtreGNOeUNYcFhJR2c4YmZmM1pUb2EtbFhHTEtyVVhlUjFsb2dOMWl5QjY2ZDF1SHNJQTI5RXhOenBPOTJScm5FdVR6cWxlMnZDODlneUVLTzFpbWdhVlhxV1lMNUNORWZabzBMYUdHWW12dkJJaFJGY2FhU1J3bw?oc=5",
       "description": "Siemens Energy: A Confirmed Outlook, a Sector Selloff, and the November Date That Will Settle the Ar ad-hoc-news.de"
     },
     {
@@ -32981,6 +33026,15 @@
       "title": "Gold, silver prices drop sharply as oil prices surge - The Assam Tribune",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQS2I5ZklVZktuaWFBelUzYzZReDJsUW5DNFBKQno1eVVhNkt6VnRKbVlhS1R3X2R2eDBuLWVLVWVHVmJBWnNUU3gzOVpTclJZMG8wU1p1MzYwLWYzQUJXbXlXRWR2UlZ5cEl5TmlwNFZtYWVlNnMwUGdzOE4ycEcyT0Q0VzdEdzFXQVRSQ2tULXhmQ2pYVTdrb3pMeFl2QdIBngFBVV95cUxQS2I5ZklVZktuaWFBelUzYzZReDJsUW5DNFBKQno1eVVhNkt6VnRKbVlhS1R3X2R2eDBuLWVLVWVHVmJBWnNUU3gzOVpTclJZMG8wU1p1MzYwLWYzQUJXbXlXRWR2UlZ5cEl5TmlwNFZtYWVlNnMwUGdzOE4ycEcyT0Q0VzdEdzFXQVRSQ2tULXhmQ2pYVTdrb3pMeFl2QQ?oc=5",
       "description": "Gold, silver prices drop sharply as oil prices surge The Assam Tribune"
+    },
+    {
+      "published": "2026-10-24T07:07:48+00:00",
+      "score": 1.0,
+      "themes": "['macro / flows']",
+      "source": "The Assam Tribune",
+      "title": "Indian equities extend losses as brent crude hits 6-month high - The Assam Tribune",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNQTRuVFNaR29VU3RCSnZqM1RpZ1dVbjZhRnIzNFJiYkJ1cnlVdWxkcU1fOGRVai1zeWVqWVl2Qk1TUnFwWTJRMUxrNGhsdnphRWstelFzZzA1YzRHNFpnbFVzN1c4VDVqRE1lZGdTOXdJb09YbnE2RHA0RURxZ3NySkt1QmpCNHVJTHBqdm9aTG42ZVRPTU82eUxBMjVkal8yc0FUb2pqUdIBrAFBVV95cUxQcFQ1aHp3SWlDaWVWZklnUXQzVXgxQnhBYS1raHFIYjl2YzdLUXY0bWpaMWU5WFRlSExYWmNEdDUwcllTejZXdGhPeHBhbDItNlpaRy1lb1VoNmVFWGVkRzIxSUJUazRpQzRxdUZHQVg5WVVZUW94TUwzRWxGZWRxN0VmekxqYldFdVZIRVI2OC1FNG82N0gwdFU5WGZ0SUE4LW5nOGU2Q1poZUU3?oc=5",
+      "description": "Indian equities extend losses as brent crude hits 6-month high The Assam Tribune"
     },
     {
       "published": "2026-10-24T07:07:48+00:00",
