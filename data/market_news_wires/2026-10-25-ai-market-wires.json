@@ -44,21 +44,6 @@
     "score": 9
   },
   {
-    "title": "Sensex, Nifty Fall For Third Straight Session As Crude Surges Past $110 - BW Businessworld",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjJGdzQyYVhmTC1uZ1RWWUJJeFdOZ2hlNjcwT2hxTTZIdi1Eb2pFN1JkYXc0RW5QOTNHSlp2M1Y4X0VyMEgxU1J2bnBsOEsxLTBqUHBrbnNuT0N4RFNzWm9KdEVtaEZsUlI4bTE3WFNELTZWX2ZSTEhfLWt1WURLRnJONS1lamszeEl4T1J4WVZGRV9TeHlHZEFYa3RfalAzLWNsWHU0SGVVRndzU3ZUUnA4bw?oc=5",
-    "description": "Sensex, Nifty Fall For Third Straight Session As Crude Surges Past $110 BW Businessworld",
-    "published": "2026-10-25T07:31:28+00:00",
-    "source": "BW Businessworld",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 8
-  },
-  {
     "title": "Sensex Drops 252 Points, Nifty Closes Below 22,650 as Pharma, Healthcare Stocks Decline - INDIA New England News",
     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxObUpySFEyOHlIMU0zTk9kcXlNaFFrZnR6SUszVm9pai1Uc0JteGVYOEFlR0lVWmhkQmtQbzVrV2JiS1l5dkpnZ05meWlpVUpJU2cwRi04Skk0MWtFXzR2MG54WTNYcmtoSnk4ajR0SnhYZm1XV1UzQndyQUFUSzNheUxpUnM5NGxxOHpkTE1VbUxJZTExNElhQUdyZ0tDenpFaXZrdEhpR2VaX3hwV3licVJROA?oc=5",
     "description": "Sensex Drops 252 Points, Nifty Closes Below 22,650 as Pharma, Healthcare Stocks Decline INDIA New England News",
@@ -248,20 +233,6 @@
     "source": "TradingView",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 6
-  },
-  {
-    "title": "Nifty logs third-longest technical correction; shallowest in its history - IndiaIPO",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNN2thc0UxMHd6Y1dZSk13LS1HY0tySWFxRHAtUFVBaXZoZnpCRk5qMjU1akJ5ZURJQzdRdW44TTlEeklMVDVoUkFNOWNYN0Y5T3RtTXg1RHc0Y2RuWG5qSkFPU0lRUndESVd4T3JUOGNBVnB0VGV6am4weGt3ZVRHTm9OZVIzRTA1dUt3Uk5hc3pWaWRCSnJ2Y2wxMW1WNm4tUUlNQlJFLXZFY1k?oc=5",
-    "description": "Nifty logs third-longest technical correction; shallowest in its history IndiaIPO",
-    "published": "2026-10-24T10:03:09+00:00",
-    "source": "IndiaIPO",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling",
       "India market"
@@ -615,6 +586,19 @@
     "score": 2
   },
   {
+    "title": "Sensex, Nifty post notable losses over global tensions - DD News",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRTBIYnpEVm4xck1GeDZURHptdTNNNFRZT1J6WHZsMEUwbVlhTHFUYjlpOXBsZTdfNEhCM3lXOS10N2d0bjMwa08zSGoyeF9xb2NYTUNuNXpUT1U1N2g2ZHk2UVMwRVo3ZmhPTXBwa2Z6WEV4Z0RpUGFDY0cydVQzSVpiQ0dmQQ?oc=5",
+    "description": "Sensex, Nifty post notable losses over global tensions DD News",
+    "published": "2026-10-25T02:52:36+00:00",
+    "source": "DD News",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 2
+  },
+  {
     "title": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms - The Times of India",
     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNcTdXajNFNENkeEZlazVrdjg4R2FFVGZtTUU0RWQ4bGFVckFES1hFR2NwQkw0UFVhWnp5aGdQcFpwMnNIWm4zc2dJeU8wXzdCY2QyOXdhZWcwZm10LU9BaURFckpMYWEzZWFTYVJ5b1dYaWFFUWRxcGhxS0ZTZG5vYkdtMEVOSnRlMFNmUmFnLVY0VkRqWXVlcHlWelROVUk3VW1uS2pPcVNhcVllSW8zb3hpeWlVQUVOR1FQSjhiZTQ5NjJWczNGV084aEdxUm5zU1JfWG9GNnozUUNqZ1FzVHNQWG42S1FjRkZ2bURpbWp2MEhnSFlqUmkydE5mQ1hXVjdJUi1XT3XSAYgCQVVfeXFMTXE3V2ozRTRDZHhGZWs1a3Y4OEdhRVRmbU1FNEVkOGxhVXJBREtYRUdjcEJMNFBVYVp6eWhnUHBacDJzSFpuM3NnSXlPMF83QmNkMjl3YWVnMGZtdC1PQWlERXJKTGFhM2VhU2FSeW9XWGlhRVFkcXBocUtGU2Rub2JHbTBFTkp0ZTBTZlJhZy1WNFZEall1ZXB5VnpUTlVJN1VtbktqT3FTYXFZZUlvM294aXlpVUFFTkdRUEo4YmU0OTYyVnMzRldPOGhHcVJuc1NSX1hvRjZ6M1FDamdRc1RzUFhuNktRY0ZGdm1EaW1qdjBIZ0hZalJpMnROZkNYV1Y3SVItV091?oc=5",
     "description": "US Fed expected to hold rates as inflation, energy costs weigh ahead of midterms The Times of India",
@@ -622,6 +606,20 @@
     "source": "The Times of India",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market",
+      "macro / flows"
+    ],
+    "score": 2
+  },
+  {
+    "title": "FII selling eases but continues for 10th week amid rising crude, geopolitical tensions - The Shillong Times",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYjNBd0xZX2d5YWhEVU84WHBRZG1rQ0hwODdnMDl1c0ROMGJPX3dNcHY3NWJvdHVyMF9HSzRNX1ZlNWRDbDlQd3ZwMlFpLU1lZ0FQSW5RVEZyZEtPUkF1LWRMcDNxaVhFd2pyZ1czUERqb2lMXzRINFdTUWYtSXpCTFZPclgyM0xzQy1sZ2lfX2hYMnB1bTA2NWJEdC1zR1dma2VwNldEaldLUzY1QTh2VmhHak1seFJLSWMtcVhHNGYxMDRu?oc=5",
+    "description": "FII selling eases but continues for 10th week amid rising crude, geopolitical tensions The Shillong Times",
+    "published": "2026-10-25T01:15:25+00:00",
+    "source": "The Shillong Times",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market",
       "macro / flows"
@@ -750,18 +748,17 @@
     "score": 2
   },
   {
-    "title": "BPCL Q2 profit falls 22.5% to ₹4,993 cr as fuel price freeze hits earnings - Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNdzZGSG92R0xXQW1fMDZjNkJpeGltWWhBeUxDYW13djBNNFM5QUR2ZG14VDJmdFFpdDNuZWdLQ2hoWHc1OVFHcy1Jc3FiZkwzY2J1WFVWNjlsYUZYM1p1RUNOWm54VUExQjVZTm9MWm82Mkd0NUNkS09BaHJpYV96azlIa2ZYUDB0eElfMUo4WHlqYUUwYXhZa2Jhb0dHX2dDazNQWHl0cHNULWNyS2VhbTdPSy1OX0NvNEVjbG5ZNmlpMlBIU2NMSUxFU1NMREdOTjc3SENJcXJFQVhYT2dEWEtpVDF6eFRxd2fSAe8BQVVfeXFMTmhwZWg0YURmWWVVVEI4VUVSM3R3YkI3UDlNbGFEM1Nqdi1rVFIzYy03OXNqQ0p2VXFpSzdoaTAwdlV3N3JhYUFrd2w0QkI4Nzk0ekNPVGp5WEhQeXlHb3BqWGF4VUJjSGhjb0FKejVoUUk4dk90MnBOMTM0NGQxLXRNR005RFRNQnA0Q1NwcGNlZkctbVpFTzlscFFnX2ZoVGUxSFBWOXQ0d1dEYVBORDVfVllCQ2diV0JRMjJ6ZnpnOEdyTTl6clplNkE3TDdSc3NqbFZvMjAxU2l0RGdGcENEb21FTHpRdnZLWXZBa2s?oc=5",
-    "description": "BPCL Q2 profit falls 22.5% to ₹4,993 cr as fuel price freeze hits earnings Business Standard",
-    "published": "2026-10-24T09:41:53+00:00",
-    "source": "Business Standard",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "title": "Infineon's Wolfspeed Wafer Upgrade Meets a Market Demanding AI Payback - ad-hoc-news.de",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNeDBSYVp4S19aRnRmdWJ0TTBPVlp3NERfQWNoU0tiR0dSanRTd3FrNjFfU0VnM251bTlJa3p3cUZ4NFRYNklNaDc1WkNqWkZGYWp1MjA1bkhITDY2SGtWYTFjUnkxRmNJOVpqOHc4ck0wbFlIRUNEd0lNRWhCME5PU283cnJJeFR1Zm1oc0luMlpvSkRXSG9VOXN0cVJkeEJtdE9qa2d2OHVMX2ZwS0F0VHBBY3REUmI3TTh3c3Nfcjh6aEhITXBuYU5rVDRYV01PSjJzVHVyc0Vudw?oc=5",
+    "description": "Infineon's Wolfspeed Wafer Upgrade Meets a Market Demanding AI Payback ad-hoc-news.de",
+    "published": "2026-10-25T08:20:43+00:00",
+    "source": "ad-hoc-news.de",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "market selling",
-      "macro / flows"
+      "AI / tech risk"
     ],
-    "score": 2
+    "score": 1
   },
   {
     "title": "F&O Talk: Nifty plunged 2% this week. Do charts indicate a bearish picture for coming week? - The Economic Times",
@@ -829,6 +826,19 @@
     "score": 1
   },
   {
+    "title": "FPIs withdraw ₹48,056 crore from equities in Oct amid elevated oil prices - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeEFpaS1uV1NwMXNaWUFZZDRSclR0NXVxZWl4andValI3ZUF1alJVV1lNRm12OFFtNFRJU2c5d19BZmpheS1pTm5ESXRrZUxPY1ZrYzhsQ283Q3RGOExhTm91bGxBZ1JmZEc5NmNJNzdfRHJfeEsyb1BkU3poeDR3T09ObTBERHRTamxyQkU3eE1wbFNwRmo0NmxISVFDbWljUDJsNjBkMUhmV1JFb2dXVlNJZ08yblBaOEV3b2RDT2NkaDJjaUtWLVZuS0hqczVKalZpWkVn0gHbAUFVX3lxTFBfcHNVUUhiOExKLVVqMmZIVFkzMkh4RmZUbUlJT1c1UFNHa09nYVpFU3JuVDkwczY3cV9UdGx5ZkVrOVMxSlRoUkw0eEE5M0RxbFRFQ0NrbHN5aFR2NkQ1eE0xN1hGRjNub3JCdHNQN1NnbDJQVmM0blFteWwyZGkwQTJISFVhUDFoWlpWdVpER1Z6ci1tM0RMZDctOV9Bcnpxb05Tc2RYSDBoVERXelZLSG5KX0gtWFJqdUZjbjgyR2V2RXpKS0dSY0hoaGNOQVZpR2QyTERxSVJ1TQ?oc=5",
+    "description": "FPIs withdraw ₹48,056 crore from equities in Oct amid elevated oil prices Business Standard",
+    "published": "2026-10-25T06:25:47+00:00",
+    "source": "Business Standard",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "macro / flows"
+    ],
+    "score": 1
+  },
+  {
     "title": "‘If this was India, my bank account would be empty’: Indian tourist’s Prague experience sparks... - Moneycontrol.com",
     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNE9pNVM1Nk9raFhWUzgtY2hoZFhzX0t1RmxmUXVjS0hzQ3NYV0xBdGNpdWFNaFRnakxiWE9SYXlCWjdTWFVTbG1YWnMxdGQwTzZLUTZrU0dyaTBTOWlrTUFaQkxUbmFfeHljSXhWR3dGNWc3OVpUQ2pUckNGaDREQlh6UnJmWTVNTU9hUFZyQ1RFQ1lCWXJqUHFGZjE0NjY0SUlkbnFMbndvaTI2T0xaT2dNTmJRcmUxZnZldTdRVVZVRXJSV3NFQmMzcFRkLWVKMnVDQno3enRKSFloSFV1a0d2NVZNZEtfUzZRTU5UV3JweE9IOVHSAfYBQVVfeXFMUDRPaTVTNTZPa2hYVlM4LWNoaGRYc19LdUZsZlF1Y0tIc0NzWFdMQXRjaXVhTWhUZ2pMYlhPUmF5Qlo3U1hVU2xtWFpzMXRkME82S1E2a1NHcmkwUzlpa01BWkJMVG5hX3h5Y0l4Vkd3RjVnNzlaVENqVHJDRmg0REJYelJyZlk1TU1PYVBWckNURUNZQllyalBxRmYxNDY2NElJZG5xTG53b2kyNk9MWk9nTU5iUXJlMWZ2ZXU3UVVWVUVyUldzRUJjM3BUZC1lSjJ1Q0J6N3p0SkhZaEhVdWtHdjVWTWRLX1M2UU1OVFdycHhPSDlR?oc=5",
     "description": "‘If this was India, my bank account would be empty’: Indian tourist’s Prague experience sparks... Moneycontrol.com",
@@ -855,15 +865,15 @@
     "score": 1
   },
   {
-    "title": "Daily Voice: Earnings growth to stay resilient across market caps despite slow sentiment recovery, says... - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS0JtX3lmU0lyM05WWDRJcGVzYUgwQ0Z4aGdhOUZocGxFNnZ0TjhvRy04V1BaVkZmS011WXI0czdSOUJEazJMMnJZb3oyamNITlpXWWFHa2NHYTRKUnhHTlYyT0FLQU1lcmVJSi1TYm15VFZ3MGdwaDhtZ0p6ZEZMb2c0THlNb2tWTnlBV21UcFFUeTlUaS1ZUkplR2NXeUtyQ3BFU0dDWXZSMWEzejJTbjNnTFVIN2xmOEliQUtFLU1GRXNBMFhOMnlqcy0zN2xqMTZ6Q1RMTlp2VGl3Vy1WT0g0ZmdfNnFHbmU4WFNVNFhRcmxjOEtTV2Q4RkkwVEQ0Qm5NcTlFVThUTkd3MHBfX2hB0gGSAkFVX3lxTE5LQm1feWZTSXIzTlZYNElwZXNhSDBDRnhoZ2E5RmhwbEU2dnROOG9HLThXUFpWRmZLTXVZcjRzN1I5QkRrMkwycllvejJqY0hOWldZYUdrY0dhNEpSeEdOVjJPQUtBTWVyZUlKLVNibXlUVncwZ3BoOG1nSnpkRkxvZzRMeU1va1ZOeUFXbVRwUVR5OVRpLVlSSmVHY1d5S3JDcEVTR0NZdlIxYTN6MlNuM2dMVUg3bGY4SWJBS0UtTUZFc0EwWE4yeWpzLTM3bGoxNnpDVExOWnZUaXdXLVZPSDRmZ182cUduZThYU1U0WFFybGM4S1NXZDhGSTBURDRCbk1xOUVVOFROR3cwcF9faEE?oc=5",
-    "description": "Daily Voice: Earnings growth to stay resilient across market caps despite slow sentiment recovery, says... Moneycontrol.com",
-    "published": "2026-10-25T03:10:50+00:00",
-    "source": "Moneycontrol.com",
+    "title": "Brown-Forman Targets India as Top 10 Scotch Market in 5 Years - Rediff MoneyWiz",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeGJiMDd2eWRkeDNxVDc2YlVNb0RhTzJFcUZfMTNxeXJHNWg5QW91Q3BVTFRGR2lYTWhGa2VWSFpOVm1JbDhTbzhKWEh5RWVFYm9SOTZwSUhXdnlvbkpLcmhWMDMybGxTNHNTRFJXNWRNN0ZVajhONGo3aHJ3VFVjU3JSa0NxSkFRNGN3RFFzWjlCWl9UdnJaUlRJbUhsM3B1V1lqem1iUWlOeDBvMVJMV0Ywa9IBuAFBVV95cUxNX3V6XzRCcTdQNmpXaDladzVjV2FSVFlOQUpLNUhUaVRWM04zZU54ZFhteG9BV1M0SEtVdVAwMzZ0NGRjZ0JUZU9EZzNCMWtaU3FscGZ1amw3Y2I0UWxLaUxjYVVJaFdnZm0teE5pZG5naGNrSUpmbXhVT2RyVm5ld0hkZWpzbEJlcFE0ZDg2M3hhNUNCUjRHV2d2bnZCeGNkZGlJOWdrVHVWNHN5NWI3QzVMWWhJOTlS?oc=5",
+    "description": "Brown-Forman Targets India as Top 10 Scotch Market in 5 Years Rediff MoneyWiz",
+    "published": "2026-10-25T05:46:32+00:00",
+    "source": "Rediff MoneyWiz",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
-      "macro / flows"
+      "India market"
     ],
     "score": 1
   },
@@ -873,8 +883,21 @@
     "description": "Daily Voice: Earnings growth to stay resilient across market caps despite slow sentiment recovery, says... Moneycontrol.com",
     "published": "2026-10-25T03:10:50+00:00",
     "source": "Moneycontrol.com",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "macro / flows"
+    ],
+    "score": 1
+  },
+  {
+    "title": "Daily Voice: Earnings growth to stay resilient across market caps despite slow sentiment recovery, says... - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOS0JtX3lmU0lyM05WWDRJcGVzYUgwQ0Z4aGdhOUZocGxFNnZ0TjhvRy04V1BaVkZmS011WXI0czdSOUJEazJMMnJZb3oyamNITlpXWWFHa2NHYTRKUnhHTlYyT0FLQU1lcmVJSi1TYm15VFZ3MGdwaDhtZ0p6ZEZMb2c0THlNb2tWTnlBV21UcFFUeTlUaS1ZUkplR2NXeUtyQ3BFU0dDWXZSMWEzejJTbjNnTFVIN2xmOEliQUtFLU1GRXNBMFhOMnlqcy0zN2xqMTZ6Q1RMTlp2VGl3Vy1WT0g0ZmdfNnFHbmU4WFNVNFhRcmxjOEtTV2Q4RkkwVEQ0Qm5NcTlFVThUTkd3MHBfX2hB0gGSAkFVX3lxTE5LQm1feWZTSXIzTlZYNElwZXNhSDBDRnhoZ2E5RmhwbEU2dnROOG9HLThXUFpWRmZLTXVZcjRzN1I5QkRrMkwycllvejJqY0hOWldZYUdrY0dhNEpSeEdOVjJPQUtBTWVyZUlKLVNibXlUVncwZ3BoOG1nSnpkRkxvZzRMeU1va1ZOeUFXbVRwUVR5OVRpLVlSSmVHY1d5S3JDcEVTR0NZdlIxYTN6MlNuM2dMVUg3bGY4SWJBS0UtTUZFc0EwWE4yeWpzLTM3bGoxNnpDVExOWnZUaXdXLVZPSDRmZ182cUduZThYU1U0WFFybGM4S1NXZDhGSTBURDRCbk1xOUVVOFROR3cwcF9faEE?oc=5",
+    "description": "Daily Voice: Earnings growth to stay resilient across market caps despite slow sentiment recovery, says... Moneycontrol.com",
+    "published": "2026-10-25T03:10:50+00:00",
+    "source": "Moneycontrol.com",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "macro / flows"
     ],
@@ -1051,7 +1074,7 @@
   },
   {
     "title": "Govt to explore ways to draw desi researchers back to India: Piyush Goyal - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOMk82YWc5RmpORnNTcWZzQ1lsNFhmZGl6YlBBSnhlLXB5OHpCY1BKQmJ4S192bWxLaUZQME9JcWYwMUFXYzd4dTBrRFoySzUteFpiWkJqSDlvSFhUcVAyd1BrM0NnUjNLZ25ZR1REY2ItS09hY2VkT2xqTm1JRkZLcnJXelVLeVFJU2dMdFlJczZlWWQ5RDlEVnNYLTZyNGJmZDVYX1IzS1JtYkMyaV8tY01hRVg1WmF2YkE2WGE2Vl9TSTk4YUVTYlBFV2FoU3oxUElVWE05Skw3UHByY1dmSlhsSzFBTTdReG41Q21zZ1FjZFF30gH0AUFVX3lxTE4yTzZhZzlGak5Gc1NxZnNDWWw0WGZkaXpiUEFKeGUtcHk4ekJjUEpCYnhLX3ZtbEtpRlAwT0lxZjAxQVdjN3h1MGtEWjJLNS14WmJaQmpIOW9IWFRxUDJ3UGszQ2dSM0tnbllHVERjYi1LT2FjZWRPbGpObUlGRktycld6VUt5UUlTZ0x0WUlzNmVZZDlEOURWc1gtNnI0YmZkNVhfUjNLUm1iQzJpXy1jTWFFWDVaYXZiQTZYYTZWX1NJOThhRVNiUEVXYWhTejFQSVVYTTlKTDdQcHJjV2ZKWGxLMUFNN1F4bjVDbXNnUWNkUXc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPTy1yWTdvdy10TnNnWVhlV3JtMlJQVGJFb1B2SUJpUDhMRmtjcXJSdmQ3TkZySEJQN3pJdU5uSGY3ZGkwanZnM1hlRmZUZFY3YjZmQklETFcwcUJ6TWpZYm9CZEpHVkNyMU5wRTdEQ0RVSk5GNHh4RktnRnNiNE94cV9ZZm1NME5tVVRxdG40TVo3aVg0WG82Z29wcFQ0b3JrZFYzMm9fTUJ6dU13bHJnSmFsYWZaNFl4WlktdUxueHJQdnZRMGlDMUJMNzVsSllEU08tb3BPaEZUVnVXUEpyaGY0clQ5ZDJNUDY0R1VlZ9IB9AFBVV95cUxOMk82YWc5RmpORnNTcWZzQ1lsNFhmZGl6YlBBSnhlLXB5OHpCY1BKQmJ4S192bWxLaUZQME9JcWYwMUFXYzd4dTBrRFoySzUteFpiWkJqSDlvSFhUcVAyd1BrM0NnUjNLZ25ZR1REY2ItS09hY2VkT2xqTm1JRkZLcnJXelVLeVFJU2dMdFlJczZlWWQ5RDlEVnNYLTZyNGJmZDVYX1IzS1JtYkMyaV8tY01hRVg1WmF2YkE2WGE2Vl9TSTk4YUVTYlBFV2FoU3oxUElVWE05Skw3UHByY1dmSlhsSzFBTTdReG41Q21zZ1FjZFF3?oc=5",
     "description": "Govt to explore ways to draw desi researchers back to India: Piyush Goyal The Times of India",
     "published": "2026-10-24T20:53:00+00:00",
     "source": "The Times of India",
@@ -1142,7 +1165,7 @@
   },
   {
     "title": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore; loan assets rise 30% - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNTzk1MzdwekNZclNGNGJtU0o4aXRsQjc5a3BHaHNpMlNLalB2ZVBvc1JBeXhCUWlaYXNMUFk3T2l1MVlISzBVUHc0Ukg1MDNUVkNoLVdQR09mWWc2VUV6R3RHVnVBZGJjeWFSQ0JBdnlSaWgtQlpIU0lDc2xZcElIT3FHWks2dGwtVUxSX1dhaFRkR1Vjd1BBMUQ2eXFMejNVRWNDR1E3MnExSDlVcHJKQ2hfdFFGMmphb1YzQkh6M0VGc1R6M1BlTHBkR1FkRWphZHl3UVRDOTl6azM5TFE5bDIxdkI2RFF2SlhVQ05sSFBwNjVnRkxXaE9lSdIB-wFBVV95cUxNTzk1MzdwekNZclNGNGJtU0o4aXRsQjc5a3BHaHNpMlNLalB2ZVBvc1JBeXhCUWlaYXNMUFk3T2l1MVlISzBVUHc0Ukg1MDNUVkNoLVdQR09mWWc2VUV6R3RHVnVBZGJjeWFSQ0JBdnlSaWgtQlpIU0lDc2xZcElIT3FHWks2dGwtVUxSX1dhaFRkR1Vjd1BBMUQ2eXFMejNVRWNDR1E3MnExSDlVcHJKQ2hfdFFGMmphb1YzQkh6M0VGc1R6M1BlTHBkR1FkRWphZHl3UVRDOTl6azM5TFE5bDIxdkI2RFF2SlhVQ05sSFBwNjVnRkxXaE9lSQ?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQeEw1NGVHZG84NkFMZzZqd0h3NmhSM2lSal9wam5CVFhCN0wybkJTWURZQ2RvUHlJd1JwUWo0V2ZtcVVuZkRSRElFU3F6VVB0X1dLcEJvRkhFLVU3NldKcHFORHZvQ1pOTVgtbTl4STktV20tbEJkWm51SkdJcS1XZnBhWUN4OFY0X2FNd2lJTnd3WGhiLTBEUUVPcnRybG5NdGhScWFveUdFNlNTSndfUHlyYkFSMEprNVgtdi1BN3M0RTNITVpPaU5YYlphclRSY2ljQ2QzSTlfSFJwTUdpVThGajU2NFJQaHdpRkRFeEFjRG9sMHfSAfsBQVVfeXFMTU85NTM3cHpDWXJTRjRibVNKOGl0bEI3OWtwR2hzaTJTS2pQdmVQb3NSQXl4QlFpWmFzTFBZN09pdTFZSEswVVB3NFJINTAzVFZDaC1XUEdPZllnNlVFekd0R1Z1QWRiY3lhUkNCQXZ5UmloLUJaSFNJQ3NsWXBJSE9xR1pLNnRsLVVMUl9XYWhUZEdVY3dQQTFENnlxTHozVUVjQ0dRNzJxMUg5VXBySkNoX3RRRjJqYW9WM0JIejNFRnNUejNQZUxwZEdRZEVqYWR5d1FUQzk5emszOUxROWwyMXZCNkRRdkpYVUNObEhQcDY1Z0ZMV2hPZUk?oc=5",
     "description": "IDFC First Bank Q2 profit nearly triples to Rs 1,045 crore; loan assets rise 30% The Times of India",
     "published": "2026-10-24T17:38:00+00:00",
     "source": "The Times of India",
@@ -1220,7 +1243,7 @@
   },
   {
     "title": "Kotak Mahindra Bank Q2 results: Consolidated net profit jumps 26% to Rs 5,645 crore; margins narrow - The Times of India",
-    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSWFIbkJDWklpcWdHNXNTQ2RkWkVwcVVoaUhDdFJ2NVhtLVVZVVpzVEtBRE85SDJxNzFyaTF6b3FPaF93eEQwTUtDZzVwVUNRQWdhSUw2ZGY4VHNjSlZNYTd5SGpLRWtpaWxNNmo4WVZjV0hpX2RlUzFReGJ0c2VEVGJhNFVRRkVJWExQREN4V0FldFpiLXltTk1zTlB6ZUFwQlBQWlF3UWozZHJLVXNLdVllem9CZ1p6TExNcnVubXF5TmpRZS1wTGM3allLNm12djk0T1NGTHZvN1IwUDdtQlJFM0EwVUllY2w0SWs4VE8zY0lqaEx0Q1JITkpFdURkcjVnQml1RDMxZHN5cXfSAZMCQVVfeXFMT252NGZGS3dRVVE0SlA1blg0UVpsWmlkM0J1Rm5YN3BfTEJHMDFyT1FZVFprNHRZQ0R5VXZ6S0M3OElIWnlRcTlMZk9sWXZyTTVaRTVvRHJYNV9lc19hbFN1V0FtMnNvWHB5OVpPcExsVjhxVloyZWVTbG5BaTZTbUdRcFVmU29pSUx6ZHBVT1g4NVhsSFdIdEZiNERvTEl3TGE4VEtYOUhZejFXNW5IdVBLMWkzZmtGR043WWxDMWxYSWVuUkpBNjc3TnhZUTJNOERUbDBYTXlOME4yZzVKekRHTVppUVBFVHY3M3NsanZRZHY2SnNMLUYzeTJKU2dDcHBDRkdDQm9TUFhnY213ZlBaOHc?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbnY0ZkZLd1FVUTRKUDVuWDRRWmxaaWQzQnVGblg3cF9MQkcwMXJPUVlUWms0dFlDRHlVdnpLQzc4SUhaeVFxOUxmT2xZdnJNNVpFNW9Eclg1X2VzX2FsU3VXQW0yc29YcHk5Wk9wTGxWOHFWWjJlZVNsbkFpNlNtR1FwVWZTb2lJTHpkcFVPWDg1WGxIV0h0RmI0RG9MSXdMYThUS1g5SFl6MVc1bkh1UEsxaTNma0ZHTjdZbEMxbFhJZW5SSkE2NzdOeFlRMk04RFRsMFhNeU4wTjJnNUp6REdNWmlRUEVUdjczc2xqdlFkdjZKc0wtRjN5MkpTZ0NwcENGR0NCb1NQWGdjbXdmUFo4d9IBkwJBVV95cUxPbnY0ZkZLd1FVUTRKUDVuWDRRWmxaaWQzQnVGblg3cF9MQkcwMXJPUVlUWms0dFlDRHlVdnpLQzc4SUhaeVFxOUxmT2xZdnJNNVpFNW9Eclg1X2VzX2FsU3VXQW0yc29YcHk5Wk9wTGxWOHFWWjJlZVNsbkFpNlNtR1FwVWZTb2lJTHpkcFVPWDg1WGxIV0h0RmI0RG9MSXdMYThUS1g5SFl6MVc1bkh1UEsxaTNma0ZHTjdZbEMxbFhJZW5SSkE2NzdOeFlRMk04RFRsMFhNeU4wTjJnNUp6REdNWmlRUEVUdjczc2xqdlFkdjZKc0wtRjN5MkpTZ0NwcENGR0NCb1NQWGdjbXdmUFo4dw?oc=5",
     "description": "Kotak Mahindra Bank Q2 results: Consolidated net profit jumps 26% to Rs 5,645 crore; margins narrow The Times of India",
     "published": "2026-10-24T15:05:00+00:00",
     "source": "The Times of India",
@@ -1345,32 +1368,6 @@
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "market selling"
-    ],
-    "score": 1
-  },
-  {
-    "title": "How Quack AI’s 22% price crash puts Q’s $0.06 support in focus - AMBCrypto",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdzY4RUpQckdCdTZZUVVnd0p0bWFpcTdSNU4zVDBhN3dLOVgxV2EtbVU5cWJraDNxb3dBY3R6ajNXS2dBaDlzWWkzNDNLZDAyQWZENlh6RzVCS2ZmS3hRd3lkRTFsYzU3QTlsbXJkNjVXektCazRoTks0RnJ2VFNITEh6eEhIclVw?oc=5",
-    "description": "How Quack AI’s 22% price crash puts Q’s $0.06 support in focus AMBCrypto",
-    "published": "2026-10-24T10:00:58+00:00",
-    "source": "AMBCrypto",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Amit Shah visits Delhi Police HQ amid SIR protests; INDIA bloc plans mock impeachment of Gyanesh Kumar - Moneycontrol.com",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaHdOcnJwRjhNeWxneWR6OFpIV0xVRG05bHRZLUpBUTN2QXlyTFV2R2cxTHBlSjZYNVBfSUtfckNTYUZITDVtWXRpb2I3VGxuUXRBNzduTzBRdTRlX1VjXzZpZnVOSDRqd1ZOOV9wU0xaMTJwNlJXRDNDdnVPMTRCelFiakw1dXBoMVpyY0taeVlMTzdqSndYYXZ2X1BTRlRJeU9Pc0pPNGxqMFU5SGt3aWZoeTZsZ2xEeXB3YTQ5TG5XRnlleE1YUkdqUWdJR3FUNkxKT2RsSjg0WkZPMnczclBiU0N5bU5HS0ZURWxNUmrSAfABQVVfeXFMTmh3TnJycEY4TXlsZ3lkejhaSFdMVURtOWx0WS1KQVEzdkF5ckxVdkdnMUxwZUo2WDVQX0lLX3JDU2FGSEw1bVl0aW9iN1RsblF0QTc3bk8wUXU0ZV9VY182aWZ1Tkg0andWTjlfcFNMWjEycDZSV0QzQ3Z1TzE0QnpRYmpMNXVwaDFacmNLWnlZTE83akp3WGF2dl9QU0ZUSXlPT3NKTzRsajBVOUhrd2lmaHk2bGdsRHlwd2E0OUxuV0Z5ZXhNWFJHalFnSUdxVDZMSk9kbEo4NFpGTzJ3M3JQYlNDeW1OR0tGVEVsTVJq?oc=5",
-    "description": "Amit Shah visits Delhi Police HQ amid SIR protests; INDIA bloc plans mock impeachment of Gyanesh Kumar Moneycontrol.com",
-    "published": "2026-10-24T09:54:35+00:00",
-    "source": "Moneycontrol.com",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
     ],
     "score": 1
   }
