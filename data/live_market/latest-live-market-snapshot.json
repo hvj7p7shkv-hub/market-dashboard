@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:03:55+05:30",
+  "generated_at": "2026-10-26T08:40:41+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -1809,9 +1809,9 @@
       "decliners": 456,
       "unchanged": 0,
       "ad_ratio": 0.09,
-      "up_turnover_share_pct": 22.4,
-      "down_turnover_share_pct": 77.6,
-      "high_volume_decliners": 79,
+      "up_turnover_share_pct": 22.2,
+      "down_turnover_share_pct": 77.8,
+      "high_volume_decliners": 80,
       "intraday_quotes": 498,
       "daily_fallbacks": 1,
       "as_of_date": "2026-10-23",
@@ -1969,7 +1969,7 @@
         "advancers": 1,
         "decliners": 62,
         "average_1d_pct": -2.917,
-        "average_volume_ratio_20d": 1.141
+        "average_volume_ratio_20d": 1.159
       },
       {
         "sector": "Power",
@@ -4069,14 +4069,14 @@
         "ltp": 387.5,
         "previous_close": 398.9,
         "day_move_pct": -2.8579,
-        "session_volume": 13760133.0,
+        "session_volume": 28324480.0,
         "average_volume_20d": 12820951.0,
-        "volume_ratio_20d": 1.073,
-        "turnover_proxy": 5332051538.0,
+        "volume_ratio_20d": 2.209,
+        "turnover_proxy": 10975736000.0,
         "quote_date": "2026-10-23",
-        "quote_timestamp": "2026-10-23 15:15 IST",
+        "quote_timestamp": "2026-10-23 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
-        "alert": ""
+        "alert": "Unusual volume (2.2x 20-day average)"
       },
       {
         "symbol": "BPCL",
