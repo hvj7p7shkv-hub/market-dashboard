@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-26 09:07
+Generated: 2026-10-26 09:23
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -396,15 +396,15 @@ Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Comple
 
 AI Stocks Rebound After OpenAI Revenue Selloff, SPCX Gets Low-Band Spectrum License Fidelity Investment Data Breach Lawsuit (fgqG75YQg9) Unisba Media
 
-### 40. Goldman Sachs cuts Kospi target by 25% amid AI stock selloff - Yahoo Finance
+### 40. Goldman Sachs cuts Kospi target by 25% amid AI stock selloff - Yahoo Finance Australia
 
-- Source: Yahoo Finance
-- Published: 2026-10-25T09:20:52+00:00
+- Source: Yahoo Finance Australia
+- Published: 2026-10-25T09:24:11+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQeFFMaTRMNWtYTXotLWhsT0tkOUtQOXZtMG1sTDRIWkxBdE1fMzV5M2JvSXc4SkJxTG9waFc3alI5OG5kZ3pUVlM1REFoakl3YkZISFpVWkN3dVhqV1RLUUp2anVmS3ZrblBObnBtRVQwVFJsRVhJSVlFYU1VbjZ0SkFtb0NUel9KU2J6YVhnREVGbVdtY05pZnZpQWIxSUZoZm03VTFn?oc=5
+- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ2p6ODhkbnlvNjNBc2lkTzNYSUtJdy15bFBEeTBLczZzNVd1aHdaQzNKaFo5dUlIN2NobVhqby1scG1tSDlvbUFlQW41RzNFMlZfc3JiNkhucWpJY29nd3UtRFBTLXg4YVhBNC13ZzNIS0YwZndvVmJfcVVubHJ3T2dOX25aWm8?oc=5
 
-Goldman Sachs cuts Kospi target by 25% amid AI stock selloff Yahoo Finance
+Goldman Sachs cuts Kospi target by 25% amid AI stock selloff Yahoo Finance Australia
 
 ### 41. Bank Nifty falls for 5th straight day, trades near 54,000; AU SFB, IDFC First Bank top losers: What lies... - Moneycontrol.com
 
@@ -479,10 +479,10 @@ Monday Watchlist: Nifty volatility spikes — IT, Pharma & Realty among key sect
 ### 48. Midcap Stocks Crash 5.6% as Swiggy, KEI Industries Lead Market Sell-Off - Analytics Insight
 
 - Source: Analytics Insight
-- Published: 2026-10-25T09:21:59+00:00
+- Published: 2026-10-25T09:39:30+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOThOTGpwTTI0a0NFT3RrNVZmVmU0WTdpNlEwWFB2THZldC1hdUwxOUNRMklvaC1YejJyNm14bGthUWJWbmdLMTA3NTZudHljeS1IUF9EbWZfMzBpQm5zWGdzLUJSX2Z4eGlPcU5qRWx5bzdfRlVTOURvajNmbDRUWmRZbFA2ZW9kalcycFlVemRxV1dxZjFJVGRWMXJodERzai1vUWp0dVpOd9IBtwFBVV95cUxNUUVpelBWY1ItNzc0MXBQQXJ1alBueVdrYUNrSFdPLU9SQVAydXBXRXpxOHlnVHRoamw2d3F1OFVtOUE2bDU2ZGRLd1FhTURHRm1oSE9kQl80YzR3V1d0MEVGM0w3WHBqdHp3c0Z2Q3NVejVCdjVrdzM3ejFDcWpYb0htUS1LeVN2UHc0R3dGdEJwYVoxbFRiNEhIazJkQ1dGcFZwU0J1bERHalRYd25HcFZvVlZBUnM?oc=5
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNUUVpelBWY1ItNzc0MXBQQXJ1alBueVdrYUNrSFdPLU9SQVAydXBXRXpxOHlnVHRoamw2d3F1OFVtOUE2bDU2ZGRLd1FhTURHRm1oSE9kQl80YzR3V1d0MEVGM0w3WHBqdHp3c0Z2Q3NVejVCdjVrdzM3ejFDcWpYb0htUS1LeVN2UHc0R3dGdEJwYVoxbFRiNEhIazJkQ1dGcFZwU0J1bERHalRYd25HcFZvVlZBUnPSAbcBQVVfeXFMTVFFaXpQVmNSLTc3NDFwUEFydWpQbnlXa2FDa0hXTy1PUkFQMnVwV0V6cTh5Z1R0aGpsNndxdThVbTlBNmw1NmRkS3dRYU1ER0ZtaEhPZEJfNGM0d1dXdDBFRjNMN1hwanR6d3NGdkNzVXo1QnY1a3czN3oxQ3FqWG9IbVEtS3lTdlB3NEd3RnRCcGFaMWxUYjRISGsyZENXRnBWcFNCdWxER2pUWHduR3BWb1ZWQVJz?oc=5
 
 Midcap Stocks Crash 5.6% as Swiggy, KEI Industries Lead Market Sell-Off Analytics Insight
 
@@ -546,15 +546,15 @@ Crude oil, FII outflows, Q2 earnings to drive Dalal Street this week The Goan
 
 HDFC Mutual Fund: Three 5-star-rated schemes that delivered over 15% CAGR in 7 years - LIST ET Now
 
-### 55. FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices - Investment Guru India
+### 55. Edelweiss Mutual Fund reopens one overseas scheme, permanently closes paused SIPs and STPs in six others - Upstox
 
-- Source: Investment Guru India
-- Published: 2026-10-25T09:15:20+00:00
-- Themes: India market, macro / flows
+- Source: Upstox
+- Published: 2026-10-25T10:13:12+00:00
+- Themes: India market
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPVXp3TklUbzB3X3d6b0ZENTd0S0NreF9KM2xXYXB3TVdlTTdMNzBpT05jano1QlRqYm5pRS1LcHlNd2xHbkRDbGxYNzBnRTczSXhEXzZMaXVaV1pSVWV2UGEtdV9meTJMWVU5U1psbXFmUG45SnZRVGpOV3JlZkhTcjJmRXA1alJiUThHZ20yU2c2aWNoTVBDeFZxUkQyZXA1TVFUbWlCdWo4X19GSUpIaUdtVWlRejNSbzdLRWpaNUV5WGtQcVBSNUp3dw?oc=5
+- Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxQaTE4c1lkZW4yb1BHVUJHb0FaV2hvWFpaOHMyWnhUSUF6aEpLQ2x1ekFiOTRxaHhyS0VZLWp4WGZKaTJ6ZlhNWVpKTmYyYkpNRkNuU1BGVXhCUEJ3XzdySWxBODlpV3NEQ3FzU09raE9Ud3ZaTDNUaXdTYzV3MVBtSWliZl9LS2hqWEVHUG9xWlhxRE5CTHBsRk5VaG5IUmZNdXE5Y0hJQ1BJcDZUVkZqX0EtY2hkQnJmVndINU81ZVVWdHctam41UExiOXhTSXRSZmFJcTJ2MGdrRW94ZndNQzhXemtWUUxXYVdSQ2ZaczRqbjBJQl9DMWs2dWJTR0xSUy1XZVVB?oc=5
 
-FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices Investment Guru India
+Edelweiss Mutual Fund reopens one overseas scheme, permanently closes paused SIPs and STPs in six others Upstox
 
 ### 56. 23 equity mutual funds deliver over12% CAGR on lumpsum investments in 5, 7, 10-year horizons - The Economic Times
 
@@ -652,21 +652,11 @@ Nifty, Sensex open in red as high crude fuels caution and limits recovery ANI Ne
 - Published: 2026-10-26T03:46:53+00:00
 - Themes: India market, macro / flows
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYWhwWGppLU9XTUNxbkpWMVQ5clFRazlXcVh2d2NVVE1kR2JKa0NxWjVQTUJyUm5OUG1zbWNZZkJpRGNxbHp0aVVaM2RabWR2LXR6Wkt4UHpsSHNYUE1HMUFvbnBpU3JFRVF6UXhvcXMtLXg1TlJ3U2hneGdCUXJsdDhEYS1LdDFZNXctWW9qSFNVaG5iWmJZZkc5OHVDdzFCU2ozQlZ5eFcwRjE0Wjc2eE5DaWVTaXNiR2NPS0huUVNNR09YMTZCenN6LXJoV1lZZnNlSmJwU2Z5NHNVOVJzMWdILV9YWWY0UWdQX0ZiSVdiYjJRbFZSMm9n0gH6AUFVX3lxTE5haHBYamktT1dNQ3FuSlYxVDlyUVFrOVdxWHZ3Y1VUTWRHYkprQ3FaNVBNQnJSbk5QbXNtY1lmQmlEY3FsenRpVVozZFptZHYtdHpaS3hQemxIc1hQTUcxQW9ucGlTckVFUXpReG9xcy0teDVOUndTaGd4Z0JRcmx0OERhLUt0MVk1dy1Zb2pIU1VobmJaYllmRzk4dUN3MUJTajNCVnl4VzBGMTRaNzZ4TkNpZVNpc2JHY09LSG5RU01HT1gxNkJ6c3otcmhXWVlmc2VKYnBTZnk0c1U5UnMxZ0gtX1hZZjRRZ1BfRmJJV2JiMlFsVlIyb2c?oc=5
+- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxNM2ZjbWVLdmZKSThBYUYwVlVaa3p2NVktMVpnUl9iTW1MbDZOUlRlRG1DLXVtdk5rdnp1a2ZYbDVhMUJfUm9jMFZnVnRqc00xWGdIUHJVUE9rY29RVEFlS1VLVDFnM2pKVUZabk4zcUpLcFF3OThrLXFTOHRHbTF6cTNpLUxzaTZwREcyOFhyYU9nVUdway1jQ0Zabk1oTUJ2aXoyaVRIX0VKVzRkdXdwWlFIUDdySUh4NGJBOHg4LTQ5WV9zeWJnRmtlOXBzTXFNZnR5ZGtId0pEWWZUM1BTeURpVWtmU3N0bHZoWU9QTFAyWDVB0gH6AUFVX3lxTE5haHBYamktT1dNQ3FuSlYxVDlyUVFrOVdxWHZ3Y1VUTWRHYkprQ3FaNVBNQnJSbk5QbXNtY1lmQmlEY3FsenRpVVozZFptZHYtdHpaS3hQemxIc1hQTUcxQW9ucGlTckVFUXpReG9xcy0teDVOUndTaGd4Z0JRcmx0OERhLUt0MVk1dy1Zb2pIU1VobmJaYllmRzk4dUN3MUJTajNCVnl4VzBGMTRaNzZ4TkNpZVNpc2JHY09LSG5RU01HT1gxNkJ6c3otcmhXWVlmc2VKYnBTZnk0c1U5UnMxZ0gtX1hZZjRRZ1BfRmJJV2JiMlFsVlIyb2c?oc=5
 
 Nifty Outlook: Crude oil shock threatens recovery; Jay Thakkar sees 22,400 as crucial support, recommends 3 stocks ET Now
 
-### 66. International Gin and Tonic Day 2026: Sip on these refreshing versions of the cocktail in Mumbai - Mid-Day
-
-- Source: Mid-Day
-- Published: 2026-10-26T02:59:13+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxPWHBDUEcwT29jNG8yS291X3BtLWlGcTdsbVdFVHRycmlMUEc3dlllZVFCSEpISEM2WS11WGp2RlpWbDM3ZmJxeHBXRlBOQ2FEcWYwT0NLanNDZFFpWVM4Sk1USlZNWVNNLU5UaVlrQ3dCVG9yd3RiTF81YnhueDZ2Q3NlTDRaT0lrcXgyNWlWbjJuajVQTWQyV1NJZlZramFpVTZWVmFNejhPSmFUX0NQUl82TThjQnNiWTd0bXBaZEpxVlNQaU45QmNIQ1F1S0JoZ0NTZ0JR?oc=5
-
-International Gin and Tonic Day 2026: Sip on these refreshing versions of the cocktail in Mumbai Mid-Day
-
-### 67. GLOBAL MARKETS-Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months - Metrobank Wealth Insights
+### 66. GLOBAL MARKETS-Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months - Metrobank Wealth Insights
 
 - Source: Metrobank Wealth Insights
 - Published: 2026-10-26T02:36:05+00:00
@@ -676,7 +666,7 @@ International Gin and Tonic Day 2026: Sip on these refreshing versions of the co
 
 GLOBAL MARKETS-Stocks fall, but tech shares steady after selloff; oil hits highest in nearly six months Metrobank Wealth Insights
 
-### 68. AI euphoria meets rising global debt as bond yields threaten global technology boom - Telegraph India
+### 67. AI euphoria meets rising global debt as bond yields threaten global technology boom - Telegraph India
 
 - Source: Telegraph India
 - Published: 2026-10-26T02:10:29+00:00
@@ -686,7 +676,7 @@ GLOBAL MARKETS-Stocks fall, but tech shares steady after selloff; oil hits highe
 
 AI euphoria meets rising global debt as bond yields threaten global technology boom Telegraph India
 
-### 69. Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s Ashutosh Tiwari - The Economic Times
+### 68. Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s Ashutosh Tiwari - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-26T01:58:05+00:00
@@ -696,7 +686,7 @@ AI euphoria meets rising global debt as bond yields threaten global technology b
 
 Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s Ashutosh Tiwari The Economic Times
 
-### 70. Sip & paint, shop vendors at Hermiston’s Keg & Kork - Hermiston Herald
+### 69. Sip & paint, shop vendors at Hermiston’s Keg & Kork - Hermiston Herald
 
 - Source: Hermiston Herald
 - Published: 2026-10-25T17:31:06+00:00
@@ -706,7 +696,7 @@ Crude oil is the key to bringing FII money back to Dalal Street: Equirus AMC’s
 
 Sip & paint, shop vendors at Hermiston’s Keg & Kork Hermiston Herald
 
-### 71. Dow Falls 653 Points as $116 Oil Broadens Wall Street Sell-Off - The Eastern Herald
+### 70. Dow Falls 653 Points as $116 Oil Broadens Wall Street Sell-Off - The Eastern Herald
 
 - Source: The Eastern Herald
 - Published: 2026-10-25T13:51:31+00:00
@@ -716,7 +706,7 @@ Sip & paint, shop vendors at Hermiston’s Keg & Kork Hermiston Herald
 
 Dow Falls 653 Points as $116 Oil Broadens Wall Street Sell-Off The Eastern Herald
 
-### 72. Quant Value Fund - Equity mutual funds lose up to 9% in a week, international funds among biggest laggards - The Economic Times
+### 71. Quant Value Fund - Equity mutual funds lose up to 9% in a week, international funds among biggest laggards - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-25T12:15:48+00:00
@@ -726,15 +716,25 @@ Dow Falls 653 Points as $116 Oil Broadens Wall Street Sell-Off The Eastern Heral
 
 Quant Value Fund - Equity mutual funds lose up to 9% in a week, international funds among biggest laggards The Economic Times
 
-### 73. Equity Mutual Funds: 10 Schemes That Delivered Positive Returns Across 1, 3 and 5 Years - BizzBuzz
+### 72. FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices - Social News XYZ
 
-- Source: BizzBuzz
-- Published: 2026-10-25T11:08:08+00:00
-- Themes: 
+- Source: Social News XYZ
+- Published: 2026-10-25T11:21:17+00:00
+- Themes: India market, macro / flows
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOeGxuQ2JyZ1UzT3p5dGI5YlVaYjFYZ0hraWQwY2s2S0ZzTjV2SXNDcTI0TThPR3EyQmpYNkhuT1E5SFh6ZnVIWk9EZGx5VXNMMUdGTTFxWkRJRm1hcWRXUTg5U3JxN3UxUXltVThib1puWWdQalJrekRHMnFfSVc4dFJtLUVraHVmNmxjejJ0X2FGVHRpVmZQWHREUUxzZEJVTXM1TE9nckNjNUJreG1nSU1NRzdQRGdhU1VHVzN2b3Q0ZGs4WmpERGV2ZC1OeUtXa0VGb0lB0gHbAUFVX3lxTE5WYjkzVFV6YTVSUUlRV0lIRm05Z3dCZXg1VGc0b1NtUnpwbWFPYVBVN1V0STNXS3VldlNjc3RmMnFDbFRiNktkR1JsRk5FZjdGNzJodzBXVlJYU1dRd2s5cnlQUGxLd0tGdlhMQk95Ui10MS1SQW9OWlE3dUdWeHJBRjJlLU9NYkxFVmdXNXg1V0RiRVBDTzZRbnNzdHQ5VmllQTA0SEJEOFlfRzRJRW93TjNSeWhLZTQ4YnR3S2hEUzN2bzg1SDlNY0Y0Vk5GUU5FaV81T21tMERpRQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxQSFcxTkthNVlCSXpZenVlcnM1WDdYcnVCSTlzamRUSFVwaUUta0lqbWNlM2xYSThWZk5ZcTgxcEVSRHVnTnh4ck9uSFRYTmtpcVVoNnlyTHZJUEJTMm1BQ0RsaVpaTUpveGpFOHBjTnRvWjZXMWY0UGQ2OHNHYzF3ZlNLbTYydHlrVGFibHpOTnk1OVZiVlhtVERyaDZkclJYdzVlVjc0NWZtM1lwN0d2VFVMdDhvN1htVG9CNdIBvAFBVV95cUxQSFcxTkthNVlCSXpZenVlcnM1WDdYcnVCSTlzamRUSFVwaUUta0lqbWNlM2xYSThWZk5ZcTgxcEVSRHVnTnh4ck9uSFRYTmtpcVVoNnlyTHZJUEJTMm1BQ0RsaVpaTUpveGpFOHBjTnRvWjZXMWY0UGQ2OHNHYzF3ZlNLbTYydHlrVGFibHpOTnk1OVZiVlhtVERyaDZkclJYdzVlVjc0NWZtM1lwN0d2VFVMdDhvN1htVG9CNQ?oc=5
 
-Equity Mutual Funds: 10 Schemes That Delivered Positive Returns Across 1, 3 and 5 Years BizzBuzz
+FPI selling stands at Rs 53,337 crore in Oct so far amid elevated crude oil prices Social News XYZ
+
+### 73. FII Selling: Why Foreign Investors Are Avoiding India And What Could Trigger Their Return To Markets - Business Today
+
+- Source: Business Today
+- Published: 2026-10-26T09:01:56+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxNbWc2cVNJLU92QmVEaXQ2MERSVE82LWpzQXIxcktPUGVRREJaZFl5bThmMExhM3FpdGdvWkRzc1IxWWxJSUlzanVKaWFlNHU4R2xqdTJBZFpUM3lial9JdEgtZEg3WUxPZTZIZjd1WUlkckJyYXBxTGFFZlVFcFNDdU5DRTFQaV9WZ29MUnlnMnN3TGh0dXo4dGVVa2hzR1ZudUxYNEZZRFBrRTAtOVp0T2szc18wQmdyMVVrX1U1WXR5VUdDczJtWFVWZUpodkJMY2NNNVFYR0VEb05vVy1xQUc5ZU5sWlBLVk03OURUNDgwSGQ5cktRZWNsT1h3dTBU0gGGAkFVX3lxTE01V19fQy1qVkFIbk5Dd0p0U2ktekxLSkt4bnFOTjBLT2pkbXhxSFlObVZJQS1pYUd1ME5QNmhoel82Sk84WU9nd25wVHcxXy1FRmloWWhmVlVwUlpXX1lPb05sWlM5ME4tYWVtdzBTVXRySEVtRzFXcklXdThFZTM1X2p1dHJRaDhlRm5Cemllb1NzeGRlTGl6TjlGa0VHaUhMQkhmdzhxSmV4Q2drUVhXVWNDaHJ4VkVoT09ZQWdhVzk2N2xnSGZ6eFJUd2otN21YaURnTkY5VXVoQm5SZVV4cHpuRmFsS3g5ekhBcXlIRFdyR1pyNE5TaXNIc1huZThZRVFBUXc?oc=5
+
+FII Selling: Why Foreign Investors Are Avoiding India And What Could Trigger Their Return To Markets Business Today
 
 ### 74. Market Update: Sensex Rebounds 650 Points From Day’s Low, Nifty Turns Green; Metal, Pharma Stocks Lead Gain - News18
 
