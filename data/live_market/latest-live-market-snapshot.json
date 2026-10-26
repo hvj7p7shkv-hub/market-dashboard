@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T18:04:11+05:30",
+  "generated_at": "2026-10-26T21:53:01+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -4630,10 +4630,10 @@
         "ltp": 737.25,
         "previous_close": 713.5,
         "day_move_pct": 3.3287,
-        "session_volume": 215189.0,
+        "session_volume": 215173.0,
         "average_volume_20d": 213663.0,
         "volume_ratio_20d": 1.007,
-        "turnover_proxy": 158648090.0,
+        "turnover_proxy": 158636294.0,
         "quote_date": "2026-10-26",
         "quote_timestamp": "2026-10-26 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
