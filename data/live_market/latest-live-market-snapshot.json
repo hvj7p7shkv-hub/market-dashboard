@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-26T21:53:01+05:30",
+  "generated_at": "2026-10-27T08:40:10+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
+      "downloaded_count": 59,
+      "coverage_pct": 98.3,
       "advancers": 41,
-      "decliners": 17,
+      "decliners": 18,
       "unchanged": 0,
-      "ad_ratio": 2.41,
-      "up_turnover_share_pct": 86.4,
-      "down_turnover_share_pct": 13.6,
+      "ad_ratio": 2.28,
+      "up_turnover_share_pct": 86.1,
+      "down_turnover_share_pct": 13.9,
       "high_volume_decliners": 3,
-      "intraday_quotes": 58,
+      "intraday_quotes": 59,
       "daily_fallbacks": 0,
       "as_of_date": "2026-10-26",
       "as_of_timestamp": "2026-10-26 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 1
     },
     "sector_breadth": [
       {
@@ -86,14 +86,6 @@
         "average_volume_ratio_20d": 0.422
       },
       {
-        "sector": "Utilities",
-        "count": 1,
-        "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 0.377,
-        "average_volume_ratio_20d": 4.395
-      },
-      {
         "sector": "Consumer non-durables",
         "count": 4,
         "advancers": 2,
@@ -116,6 +108,14 @@
         "decliners": 2,
         "average_1d_pct": 0.111,
         "average_volume_ratio_20d": 0.616
+      },
+      {
+        "sector": "Utilities",
+        "count": 2,
+        "advancers": 1,
+        "decliners": 1,
+        "average_1d_pct": 0.023,
+        "average_volume_ratio_20d": 2.915
       },
       {
         "sector": "Consumer services",
@@ -1476,6 +1476,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 102.33,
+        "previous_close": 102.67,
+        "day_move_pct": -0.3312,
+        "session_volume": 1837340.0,
+        "average_volume_20d": 1280718.0,
+        "volume_ratio_20d": 1.435,
+        "turnover_proxy": 188015006.0,
+        "quote_date": "2026-10-26",
+        "quote_timestamp": "2026-10-26 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1650,20 +1667,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 498,
-      "coverage_pct": 99.6,
-      "advancers": 338,
+      "downloaded_count": 499,
+      "coverage_pct": 99.8,
+      "advancers": 339,
       "decliners": 160,
       "unchanged": 0,
-      "ad_ratio": 2.11,
+      "ad_ratio": 2.12,
       "up_turnover_share_pct": 76.4,
       "down_turnover_share_pct": 23.6,
       "high_volume_decliners": 29,
       "intraday_quotes": 498,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-10-26",
       "as_of_timestamp": "2026-10-26 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 1
     },
     "sector_breadth": [
       {
@@ -1756,11 +1773,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
-        "advancers": 37,
+        "count": 63,
+        "advancers": 38,
         "decliners": 25,
-        "average_1d_pct": 0.863,
-        "average_volume_ratio_20d": 0.952
+        "average_1d_pct": 0.899,
+        "average_volume_ratio_20d": 0.963
       },
       {
         "sector": "Realty",
@@ -5912,6 +5929,23 @@
         "quote_date": "2026-10-26",
         "quote_timestamp": "2026-10-26 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 205.0,
+        "previous_close": 198.78,
+        "day_move_pct": 3.1291,
+        "session_volume": 1874025.0,
+        "average_volume_20d": 1135129.0,
+        "volume_ratio_20d": 1.651,
+        "turnover_proxy": 384175125.0,
+        "quote_date": "2026-10-26",
+        "quote_timestamp": "2026-10-26 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
