@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28 15:36 IST",
+  "generated_at": "2026-10-28 15:41 IST",
   "wire_file": "2026-10-28-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -24,9 +24,9 @@
   "posture": {
     "stance": "India relief, AI overhang",
     "wire_count": "62",
-    "wire_total_count": "124",
+    "wire_total_count": "109",
     "wire_scope_date": "2026-10-28",
-    "ai_wire_count": "8",
+    "ai_wire_count": "9",
     "selling_wire_count": "45",
     "india_wire_count": "44",
     "weak_index_count": "15",
@@ -34,19 +34,19 @@
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-10-28 09:37",
-      "title": "Nifty Near 22,700, Midcaps & Smallcaps Up, IT Sinks | Closing Bell LIVE | Jio Platforms Debuts - Moneycontrol.com",
-      "text": "Latest dated headline · Moneycontrol.com. Today's unique wire set contains 62 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-10-28 10:03",
+      "title": "China AI bubble bursts as tech stocks erase $480 billion - YourStory.com",
+      "text": "Latest dated headline · YourStory.com. Today's unique wire set contains 62 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-10-28",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-10-28 has 44 India-market wires, 45 selling/risk wires, and 8 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-10-28 has 44 India-market wires, 45 selling/risk wires, and 9 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-10-28",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: China’s AI stock bubble bursts: $480 billion wiped out | What went wrong, and is the selloff over? - Livemint"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: China AI bubble bursts as tech stocks erase $480 billion - YourStory.com"
     },
     {
       "label": "India Trigger · 2026-10-28",
@@ -669,12 +669,12 @@
       "name": "DAX",
       "ticker": "^GDAXI",
       "last_date": "2026-10-28",
-      "quote_timestamp": "2026-10-28 09:50:00+00:00",
+      "quote_timestamp": "2026-10-28 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-27",
       "previous_close": 25590.77,
-      "last": 25557.92,
-      "return_1d_pct": -0.1283650705965922,
+      "last": 25560.01,
+      "return_1d_pct": -0.12019867392982775,
       "return_5d_pct": 1.1316189434852797,
       "return_20d_pct": 0.7541911212177732,
       "rsi_14": 53.89,
@@ -698,12 +698,12 @@
       "name": "FTSE 100",
       "ticker": "^FTSE",
       "last_date": "2026-10-28",
-      "quote_timestamp": "2026-10-28 09:50:00+00:00",
+      "quote_timestamp": "2026-10-28 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-27",
       "previous_close": 10686.5,
-      "last": 10656.62,
-      "return_1d_pct": -0.27960401265615387,
+      "last": 10652.85,
+      "return_1d_pct": -0.3148869192439063,
       "return_5d_pct": -0.433243268424488,
       "return_20d_pct": 0.46818847737615243,
       "rsi_14": 49.73,
@@ -727,12 +727,12 @@
       "name": "CAC 40",
       "ticker": "^FCHI",
       "last_date": "2026-10-28",
-      "quote_timestamp": "2026-10-28 09:50:00+00:00",
+      "quote_timestamp": "2026-10-28 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-27",
       "previous_close": 7887.14,
-      "last": 7878.82,
-      "return_1d_pct": -0.10549213473797225,
+      "last": 7878.92,
+      "return_1d_pct": -0.10422300987756872,
       "return_5d_pct": 0.620653989340969,
       "return_20d_pct": -1.850826087278823,
       "rsi_14": 46.56,
@@ -756,12 +756,12 @@
       "name": "Euro Stoxx 50",
       "ticker": "^STOXX50E",
       "last_date": "2026-10-28",
-      "quote_timestamp": "2026-10-28 09:50:00+00:00",
+      "quote_timestamp": "2026-10-28 09:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-10-27",
       "previous_close": 6164.69,
-      "last": 6147.27,
-      "return_1d_pct": -0.28257579927898346,
+      "last": 6147.31,
+      "return_1d_pct": -0.2819263089902546,
       "return_5d_pct": 0.7029103879985676,
       "return_20d_pct": -2.4614466807973967,
       "rsi_14": 47.05,
@@ -799,7 +799,7 @@
       "advancers": 0,
       "decliners": 4,
       "advance_decline_ratio": 0.0,
-      "average_1d_pct": -0.2,
+      "average_1d_pct": -0.21,
       "average_5d_pct": 0.51,
       "above_20dma_pct": 75.0,
       "above_50dma_pct": 0.0
@@ -1018,44 +1018,15 @@
       },
       {
         "region": "Europe",
-        "name": "Euro Stoxx 50",
-        "ticker": "^STOXX50E",
-        "last_date": "2026-10-28",
-        "quote_timestamp": "2026-10-28 09:50:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-10-27",
-        "previous_close": 6164.69,
-        "last": 6147.27,
-        "return_1d_pct": -0.28257579927898346,
-        "return_5d_pct": 0.7029103879985676,
-        "return_20d_pct": -2.4614466807973967,
-        "rsi_14": 47.05,
-        "stale_days": 0,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 6175.95,
-        "distance_sma_20_pct": -0.18,
-        "above_sma_20": false,
-        "sma_50": 6284.88,
-        "distance_sma_50_pct": -1.91,
-        "above_sma_50": false,
-        "sma_200": 6105.78,
-        "distance_sma_200_pct": 0.96,
-        "above_sma_200": true,
-        "region_reference_date": "2026-10-28"
-      },
-      {
-        "region": "Europe",
         "name": "FTSE 100",
         "ticker": "^FTSE",
         "last_date": "2026-10-28",
-        "quote_timestamp": "2026-10-28 09:50:00+00:00",
+        "quote_timestamp": "2026-10-28 09:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-10-27",
         "previous_close": 10686.5,
-        "last": 10656.62,
-        "return_1d_pct": -0.27960401265615387,
+        "last": 10652.85,
+        "return_1d_pct": -0.3148869192439063,
         "return_5d_pct": -0.433243268424488,
         "return_20d_pct": 0.46818847737615243,
         "rsi_14": 49.73,
@@ -1071,6 +1042,35 @@
         "above_sma_50": false,
         "sma_200": 10515.33,
         "distance_sma_200_pct": 1.63,
+        "above_sma_200": true,
+        "region_reference_date": "2026-10-28"
+      },
+      {
+        "region": "Europe",
+        "name": "Euro Stoxx 50",
+        "ticker": "^STOXX50E",
+        "last_date": "2026-10-28",
+        "quote_timestamp": "2026-10-28 09:55:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-10-27",
+        "previous_close": 6164.69,
+        "last": 6147.31,
+        "return_1d_pct": -0.2819263089902546,
+        "return_5d_pct": 0.7029103879985676,
+        "return_20d_pct": -2.4614466807973967,
+        "rsi_14": 47.05,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 6175.95,
+        "distance_sma_20_pct": -0.18,
+        "above_sma_20": false,
+        "sma_50": 6284.88,
+        "distance_sma_50_pct": -1.91,
+        "above_sma_50": false,
+        "sma_200": 6105.78,
+        "distance_sma_200_pct": 0.96,
         "above_sma_200": true,
         "region_reference_date": "2026-10-28"
       },
@@ -1108,12 +1108,12 @@
         "name": "DAX",
         "ticker": "^GDAXI",
         "last_date": "2026-10-28",
-        "quote_timestamp": "2026-10-28 09:50:00+00:00",
+        "quote_timestamp": "2026-10-28 09:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-10-27",
         "previous_close": 25590.77,
-        "last": 25557.92,
-        "return_1d_pct": -0.1283650705965922,
+        "last": 25560.01,
+        "return_1d_pct": -0.12019867392982775,
         "return_5d_pct": 1.1316189434852797,
         "return_20d_pct": 0.7541911212177732,
         "rsi_14": 53.89,
@@ -1500,20 +1500,20 @@
         "average_volume_ratio_20d": 1.513
       },
       {
-        "sector": "Electronic technology",
-        "count": 1,
-        "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -0.901,
-        "average_volume_ratio_20d": 0.047
-      },
-      {
         "sector": "Retail trade",
         "count": 1,
         "advancers": 0,
         "decliners": 1,
         "average_1d_pct": -1.168,
         "average_volume_ratio_20d": 0.349
+      },
+      {
+        "sector": "Electronic technology",
+        "count": 1,
+        "advancers": 0,
+        "decliners": 1,
+        "average_1d_pct": -1.423,
+        "average_volume_ratio_20d": 0.05
       },
       {
         "sector": "Technology services",
@@ -2032,6 +2032,23 @@
         "alert": ""
       },
       {
+        "symbol": "ELPROINTL",
+        "ticker": "ELPROINTL.NS",
+        "name": "Elpro International Ltd",
+        "sector": "Electronic technology",
+        "ltp": 164.13,
+        "previous_close": 166.5,
+        "day_move_pct": -1.4234,
+        "session_volume": 323.0,
+        "average_volume_20d": 6524.0,
+        "volume_ratio_20d": 0.05,
+        "turnover_proxy": 53014.0,
+        "quote_date": "2026-10-28",
+        "quote_timestamp": "2026-10-28 15:05 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "CONFIPET",
         "ticker": "CONFIPET.NS",
         "name": "Confidence Petroleum India Limited",
@@ -2045,23 +2062,6 @@
         "turnover_proxy": 47442355.0,
         "quote_date": "2026-10-28",
         "quote_timestamp": "2026-10-28 15:25 IST",
-        "quote_type": "Yahoo 5-minute quote",
-        "alert": ""
-      },
-      {
-        "symbol": "TORNTPHARM",
-        "ticker": "TORNTPHARM.NS",
-        "name": "Torrent Pharmaceuticals Ltd",
-        "sector": "Health technology",
-        "ltp": 4578.2998,
-        "previous_close": 4625.0,
-        "day_move_pct": -1.0097,
-        "session_volume": 201715.0,
-        "average_volume_20d": 333916.0,
-        "volume_ratio_20d": 0.604,
-        "turnover_proxy": 923511745.0,
-        "quote_date": "2026-10-28",
-        "quote_timestamp": "2026-10-28 15:10 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
       }
@@ -2085,7 +2085,7 @@
         "distance_from_52w_high_pct": -1.21,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 118067372,
+        "volume": 118067366,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2105,7 +2105,7 @@
         "distance_from_52w_high_pct": -0.51,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 6278286,
+        "volume": 6258313,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2125,7 +2125,7 @@
         "distance_from_52w_high_pct": -0.77,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 2263862,
+        "volume": 2200547,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2145,7 +2145,7 @@
         "distance_from_52w_high_pct": -1.11,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 380713,
+        "volume": 367826,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2165,7 +2165,7 @@
         "distance_from_52w_high_pct": -1.24,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 4197222,
+        "volume": 4047315,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2185,7 +2185,7 @@
         "distance_from_52w_high_pct": -4.79,
         "fresh_52w_high": true,
         "within_3pct_52w_high": false,
-        "volume": 2597010,
+        "volume": 2597009,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2205,7 +2205,7 @@
         "distance_from_52w_high_pct": -6.67,
         "fresh_52w_high": true,
         "within_3pct_52w_high": false,
-        "volume": 2271845,
+        "volume": 2271843,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -2227,7 +2227,7 @@
         "distance_from_52w_high_pct": -0.51,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 6278286,
+        "volume": 6258313,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2247,7 +2247,7 @@
         "distance_from_52w_high_pct": -0.77,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 2263862,
+        "volume": 2200547,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2267,7 +2267,7 @@
         "distance_from_52w_high_pct": -1.11,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 380713,
+        "volume": 367826,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2287,7 +2287,7 @@
         "distance_from_52w_high_pct": -1.21,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 118067372,
+        "volume": 118067366,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2307,7 +2307,7 @@
         "distance_from_52w_high_pct": -1.24,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 4197222,
+        "volume": 4047315,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2327,7 +2327,7 @@
         "distance_from_52w_high_pct": -1.86,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 754901,
+        "volume": 744981,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2347,7 +2347,7 @@
         "distance_from_52w_high_pct": -2.02,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 5141380,
+        "volume": 5020950,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2367,7 +2367,7 @@
         "distance_from_52w_high_pct": -2.89,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 17771106,
+        "volume": 16832669,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2387,7 +2387,7 @@
         "distance_from_52w_high_pct": -2.93,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 2210841,
+        "volume": 2199712,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -2575,7 +2575,7 @@
         "distance_from_52w_high_pct": -70.69,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 12065761,
+        "volume": 11715880,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2595,7 +2595,7 @@
         "distance_from_52w_high_pct": -63.58,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 27896302,
+        "volume": 27896297,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2615,7 +2615,7 @@
         "distance_from_52w_high_pct": -62.96,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 6931582,
+        "volume": 6894863,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2635,7 +2635,7 @@
         "distance_from_52w_high_pct": -60.01,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 895228,
+        "volume": 895227,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2655,7 +2655,7 @@
         "distance_from_52w_high_pct": -57.72,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 13314556,
+        "volume": 13274372,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2675,7 +2675,7 @@
         "distance_from_52w_high_pct": -57.42,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 252333,
+        "volume": 252313,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2695,7 +2695,7 @@
         "distance_from_52w_high_pct": -57.0,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 7321010,
+        "volume": 7306707,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2715,7 +2715,7 @@
         "distance_from_52w_high_pct": -56.04,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 575332,
+        "volume": 575330,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2735,7 +2735,7 @@
         "distance_from_52w_high_pct": -55.13,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2444090,
+        "volume": 2438431,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2755,7 +2755,7 @@
         "distance_from_52w_high_pct": -54.96,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 41449,
+        "volume": 41447,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2775,7 +2775,7 @@
         "distance_from_52w_high_pct": -54.42,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 450963,
+        "volume": 450902,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2795,7 +2795,7 @@
         "distance_from_52w_high_pct": -54.06,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 4619342,
+        "volume": 4599920,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2815,7 +2815,7 @@
         "distance_from_52w_high_pct": -53.73,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 3125963,
+        "volume": 3125662,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2835,7 +2835,7 @@
         "distance_from_52w_high_pct": -53.6,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 754006,
+        "volume": 753876,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2855,7 +2855,7 @@
         "distance_from_52w_high_pct": -52.77,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 487507,
+        "volume": 487307,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2875,7 +2875,7 @@
         "distance_from_52w_high_pct": -52.26,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 236751,
+        "volume": 236748,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2895,7 +2895,7 @@
         "distance_from_52w_high_pct": -51.26,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 895937,
+        "volume": 895876,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2915,7 +2915,7 @@
         "distance_from_52w_high_pct": -50.23,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 346412,
+        "volume": 346260,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2935,7 +2935,7 @@
         "distance_from_52w_high_pct": -49.7,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1786879,
+        "volume": 1691186,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2955,7 +2955,7 @@
         "distance_from_52w_high_pct": -49.46,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 585398,
+        "volume": 585313,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2975,7 +2975,7 @@
         "distance_from_52w_high_pct": -49.46,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2332183,
+        "volume": 2331993,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2995,7 +2995,7 @@
         "distance_from_52w_high_pct": -47.06,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 36594946,
+        "volume": 36594939,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3015,7 +3015,7 @@
         "distance_from_52w_high_pct": -46.82,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 153269,
+        "volume": 147563,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3035,7 +3035,7 @@
         "distance_from_52w_high_pct": -46.39,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 204503,
+        "volume": 202563,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -3057,7 +3057,7 @@
         "distance_from_52w_high_pct": -25.1,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 4860973,
+        "volume": 4860972,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3077,7 +3077,7 @@
         "distance_from_52w_high_pct": -18.56,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 26317000,
+        "volume": 26316999,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3089,7 +3089,7 @@
         "last_price": 1268.5,
         "open": null,
         "day_high": 1333.0,
-        "day_low": 1263.0,
+        "day_low": 1262.6,
         "previous_close": 1375.3,
         "change_pct": -7.77,
         "year_high": 1615.0,
@@ -3097,7 +3097,7 @@
         "distance_from_52w_high_pct": -21.46,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 380152,
+        "volume": 380150,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3117,7 +3117,7 @@
         "distance_from_52w_high_pct": -55.13,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2444090,
+        "volume": 2438431,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3137,7 +3137,7 @@
         "distance_from_52w_high_pct": -32.65,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 24974740,
+        "volume": 24974539,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3157,7 +3157,7 @@
         "distance_from_52w_high_pct": -41.5,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 11736806,
+        "volume": 11736805,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3177,7 +3177,7 @@
         "distance_from_52w_high_pct": -25.33,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2100406,
+        "volume": 2100391,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3197,7 +3197,7 @@
         "distance_from_52w_high_pct": -22.75,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 24246407,
+        "volume": 24109677,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3217,7 +3217,7 @@
         "distance_from_52w_high_pct": -16.91,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 3397548,
+        "volume": 3397547,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3237,7 +3237,7 @@
         "distance_from_52w_high_pct": -18.62,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1244060,
+        "volume": 1205479,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3257,7 +3257,7 @@
         "distance_from_52w_high_pct": -21.05,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 28055,
+        "volume": 27304,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3277,7 +3277,7 @@
         "distance_from_52w_high_pct": -49.46,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 585398,
+        "volume": 585313,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3297,7 +3297,7 @@
         "distance_from_52w_high_pct": -22.83,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 947446,
+        "volume": 947436,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3317,7 +3317,7 @@
         "distance_from_52w_high_pct": -15.36,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 502374,
+        "volume": 486741,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3337,7 +3337,7 @@
         "distance_from_52w_high_pct": -12.71,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 2041146,
+        "volume": 1994072,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3357,7 +3357,7 @@
         "distance_from_52w_high_pct": -12.89,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 772133,
+        "volume": 763177,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3377,7 +3377,7 @@
         "distance_from_52w_high_pct": -27.22,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 59432,
+        "volume": 59431,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3397,7 +3397,7 @@
         "distance_from_52w_high_pct": -35.0,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 15987133,
+        "volume": 15631325,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3417,7 +3417,7 @@
         "distance_from_52w_high_pct": -37.74,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 118576,
+        "volume": 118575,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3437,7 +3437,7 @@
         "distance_from_52w_high_pct": -21.49,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1006861,
+        "volume": 996211,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3457,7 +3457,7 @@
         "distance_from_52w_high_pct": -9.31,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1533985,
+        "volume": 1533981,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3477,7 +3477,7 @@
         "distance_from_52w_high_pct": -20.3,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 569478,
+        "volume": 567362,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3497,7 +3497,7 @@
         "distance_from_52w_high_pct": -28.15,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 22342448,
+        "volume": 21853733,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3517,7 +3517,7 @@
         "distance_from_52w_high_pct": -22.53,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 7890816,
+        "volume": 7681142,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3537,7 +3537,7 @@
         "distance_from_52w_high_pct": -14.47,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 305615,
+        "volume": 305610,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -3548,7 +3548,7 @@
     "near_count": 9,
     "technical_leaders_count": 9,
     "technical_overlay_count": 2,
-    "total_count": 500
+    "total_count": 499
   },
   "mutual_fund_navs": {
     "funds": [
@@ -22159,7 +22159,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-10-28T15:36:07+05:30",
+    "generated_at": "2026-10-28T15:40:59+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -22270,20 +22270,20 @@
           "average_volume_ratio_20d": 1.513
         },
         {
-          "sector": "Electronic technology",
-          "count": 1,
-          "advancers": 0,
-          "decliners": 1,
-          "average_1d_pct": -0.901,
-          "average_volume_ratio_20d": 0.047
-        },
-        {
           "sector": "Retail trade",
           "count": 1,
           "advancers": 0,
           "decliners": 1,
           "average_1d_pct": -1.168,
           "average_volume_ratio_20d": 0.349
+        },
+        {
+          "sector": "Electronic technology",
+          "count": 1,
+          "advancers": 0,
+          "decliners": 1,
+          "average_1d_pct": -1.423,
+          "average_volume_ratio_20d": 0.05
         },
         {
           "sector": "Technology services",
@@ -22680,6 +22680,23 @@
           "alert": ""
         },
         {
+          "symbol": "ELPROINTL",
+          "ticker": "ELPROINTL.NS",
+          "name": "Elpro International Ltd",
+          "sector": "Electronic technology",
+          "ltp": 164.13,
+          "previous_close": 166.5,
+          "day_move_pct": -1.4234,
+          "session_volume": 323.0,
+          "average_volume_20d": 6524.0,
+          "volume_ratio_20d": 0.05,
+          "turnover_proxy": 53014.0,
+          "quote_date": "2026-10-28",
+          "quote_timestamp": "2026-10-28 15:05 IST",
+          "quote_type": "Yahoo 5-minute quote",
+          "alert": ""
+        },
+        {
           "symbol": "CONFIPET",
           "ticker": "CONFIPET.NS",
           "name": "Confidence Petroleum India Limited",
@@ -22693,23 +22710,6 @@
           "turnover_proxy": 47442355.0,
           "quote_date": "2026-10-28",
           "quote_timestamp": "2026-10-28 15:25 IST",
-          "quote_type": "Yahoo 5-minute quote",
-          "alert": ""
-        },
-        {
-          "symbol": "TORNTPHARM",
-          "ticker": "TORNTPHARM.NS",
-          "name": "Torrent Pharmaceuticals Ltd",
-          "sector": "Health technology",
-          "ltp": 4578.2998,
-          "previous_close": 4625.0,
-          "day_move_pct": -1.0097,
-          "session_volume": 201715.0,
-          "average_volume_20d": 333916.0,
-          "volume_ratio_20d": 0.604,
-          "turnover_proxy": 923511745.0,
-          "quote_date": "2026-10-28",
-          "quote_timestamp": "2026-10-28 15:10 IST",
           "quote_type": "Yahoo 5-minute quote",
           "alert": ""
         }
@@ -23776,15 +23776,15 @@
           "ticker": "ELPROINTL.NS",
           "name": "Elpro International Ltd",
           "sector": "Electronic technology",
-          "ltp": 165.0,
+          "ltp": 164.13,
           "previous_close": 166.5,
-          "day_move_pct": -0.9009,
-          "session_volume": 305.0,
+          "day_move_pct": -1.4234,
+          "session_volume": 323.0,
           "average_volume_20d": 6524.0,
-          "volume_ratio_20d": 0.047,
-          "turnover_proxy": 50325.0,
+          "volume_ratio_20d": 0.05,
+          "turnover_proxy": 53014.0,
           "quote_date": "2026-10-28",
-          "quote_timestamp": "2026-10-28 14:50 IST",
+          "quote_timestamp": "2026-10-28 15:05 IST",
           "quote_type": "Yahoo 5-minute quote",
           "alert": ""
         },
@@ -34511,15 +34511,6 @@
       "description": "Business News | Sensex Sheds 691 Points, Nifty Falls Below 22,600 on Rising Crude Prices, FPI Concerns LatestLY"
     },
     {
-      "published": "2026-10-27T12:00:00+00:00",
-      "score": 9.0,
-      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
-      "source": "The Motley Fool",
-      "title": "The AI Sell-Off Doesn’t Add Up. Chip Stocks Are Beating Earnings and Still Falling. - The Motley Fool",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNWViRG12Q1N2TjNobW1CQ3Jjd2hXYVh0ajh3RngtNF85cnFrNUdwZ3ZNU0hpNXAtVmtMMXhEWTB3dWZrTVdxTm1jUXJsdk5rYzN4bjJEUnZFcHNkM3NldHRmZGVpa3llOXowdEVaMnNxTDhTZlBqYmZyeGt6T1V3MjFST3FlLTlzYmc4MHU1NTNhUldiX0N1WkxpQVhOQlZ2Z2VJaV9yaUt1Slk1VDBVczI3ZXRJRkZMWERCZ1FZZ085Zw?oc=5",
-      "description": "The AI Sell-Off Doesn’t Add Up. Chip Stocks Are Beating Earnings and Still Falling. The Motley Fool"
-    },
-    {
       "published": "2026-10-27T11:25:42+00:00",
       "score": 9.0,
       "themes": "['market selling', 'India market']",
@@ -34536,6 +34527,15 @@
       "title": "Sensex Tanks 601 Points, Nifty Falls 146 Amid Rising Crude Prices - Deccan Chronicle",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxObTZ4cEhsLWszVmM1dzNpOXFSaTc4NmRqSm5Yak5RLVh0YUhQSlEyYU9GWnZQQVUyZ3VQY21BamRsbEFQM0RBNDB1NXBPX3VCMGxIeFgyVmctaTZEUi1OVXhzLTdDMXY0cVViN093UGVxU0VEaVh0RGhiTHB5MnEtSDdHc0sxT3FuTkFCTUZlVGNqN081V1NHb0l1QTBKa1QxcEF1MHh2cWxOQzQ4NUJyeWNQdldRN1JHeW8tSUo5eG5PN2JYMmhpTmRab0k5OWgtVjY3WXZ30gHbAUFVX3lxTE5QMjc5djJ2TDRkd0dRZVpObkwxM2tjdWUxNXUybGtUYkVxSGw4RlVVMHhZUXZKN1pRd2FaZGZpMDd6TFdDVjF1aGNaZ0NZdWtJS1ZvZ3pZV3RWQWxxTHFYWFVhVHB1c3dZcDVhWC1xWEpxd0tsMW5Pa01YQ3pYNzJvTGZ0dlVKOXVvLUpOZFNWM0FGcnk5dWFhdThVUzFsSU9GODJkUEhEN0QyRDZuZTh3eTllNnZuYTN0UUs1Q2pzbjZ2M18xWW1PMzBBZnM2akZ0UnJhWTREbWVqNA?oc=5",
       "description": "Sensex Tanks 601 Points, Nifty Falls 146 Amid Rising Crude Prices Deccan Chronicle"
+    },
+    {
+      "published": "2026-10-28T04:45:05+00:00",
+      "score": 8.0,
+      "themes": "['market selling', 'India market', 'macro / flows']",
+      "source": "DD News",
+      "title": "Sensex falls nearly 700 points as rising crude prices, FPI outflows weigh on markets - DD News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbEtOTjNfeVNNUkstQU14WDgxZWxtaGlfRG1Ka2c3Sy0zM3lyRGVSS0tZN1VzQXplbHVFa2RkU3BtNHVDUG9wc0o5Wk1aWlBpaTViYXgxY042YXFoV0RmcGlYWlQwcUJKZkFHUWtGcHRVZGxaN2M2d0lmX2haVUFBVFhHVGlwemF6V21Ub1dKRFVKeVNmUWpOVmlsd1VlQlFFclQ1SF9vbk5kRWhpdEE?oc=5",
+      "description": "Sensex falls nearly 700 points as rising crude prices, FPI outflows weigh on markets DD News"
     },
     {
       "published": "2026-10-28T04:38:15+00:00",
@@ -34696,7 +34696,7 @@
       "themes": "['AI / tech risk', 'market selling']",
       "source": "Livemint",
       "title": "China’s AI stock bubble bursts: $480 billion wiped out | What went wrong, and is the selloff over? - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcTNjenR5a2tNQUJxTHNGU2wtZmNKbzJMX2IwaUk2VzVuaWFNbUVRS2FaYnlVTXc2M3FyVF9kcXZmWDU3SVBjZlYwaE5WS3llZWJVY1R1VUdWbzZmRnZVOVR6czU1WW9RVzAzcERyNmJZMGVDaFZKalpkTzU2Y0FyYzVvNXhmeThMQVhaOS1FNWVyVnh3R05ISWV4dFBfeEVJelIzTmwyak4tRURjUGxZVzh5a25rb05PN0ZKV040M2plQ0g0dEVuVUpNRmdqVTRveVVKNDczREFhU3Vjd3JQYjNYbjRRSi1ObERFSE1Jd0FvUUtPVVlyRHNsd9IB-wFBVV95cUxQcTNjenR5a2tNQUJxTHNGU2wtZmNKbzJMX2IwaUk2VzVuaWFNbUVRS2FaYnlVTXc2M3FyVF9kcXZmWDU3SVBjZlYwaE5WS3llZWJVY1R1VUdWbzZmRnZVOVR6czU1WW9RVzAzcERyNmJZMGVDaFZKalpkTzU2Y0FyYzVvNXhmeThMQVhaOS1FNWVyVnh3R05ISWV4dFBfeEVJelIzTmwyak4tRURjUGxZVzh5a25rb05PN0ZKV040M2plQ0g0dEVuVUpNRmdqVTRveVVKNDczREFhU3Vjd3JQYjNYbjRRSi1ObERFSE1Jd0FvUUtPVVlyRHNsdw?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQdDdDVWpOZUkzRlFEOFRCVjRTX0FkcHVCVHpLNVdoTEk1MTZpYm9SY0dpMFpENXRaRmRwdlB3XzJtSFNHdG1DelhSY0kwSWZKZWg1Tl9wbDlnMm5GX3hwV3VxZFFBcmhyMDU3T0lWdUlsMVY0c2x0ZC0tdjJHNmFTQzNIMGoycnROZE4tVUU2OEZ3bFhnd09UallJb0QtaWZZcEJIcVJvRVUzek9iUHA0LXhBWnBJbm9ESGJXS252WUl6UWl2MzJpR2dXTEJsb1RXT3pjSVk3WFZlRzZiWGxkdU1mM1BKRWlzMVZDdHFFc2F5em5kSnc?oc=5",
       "description": "China’s AI stock bubble bursts: $480 billion wiped out | What went wrong, and is the selloff over? Livemint"
     },
     {
@@ -34853,15 +34853,6 @@
       "description": "The AI stock selloff hits clean energy Latitude Media"
     },
     {
-      "published": "2026-10-27T21:47:22+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "www.tmgm.com",
-      "title": "Could Bitcoin face an AI sell-off as K33 flags Anthropic IPO? - www.tmgm.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQREZXNjJDbDUxakNyVDJ3cVFTSXVvMnFlYzJxUVRCLVhoZ0l0OUZCTEZiaUJtcnFaMG5fSlg2eXZvbEtFVzlMZmhNN2xXaXdFNlJIakR6VUROcUl6eEdMMDQxLTdFaXZVT2l3SXN0UHhGYkQxdU1Ld1U1eWU1d1g5WkNReGNwY1VlbHJVNWlnWkdQNGN1alkyUTZJZmdtQjNVSk5wUFdTdzczNjIxeHN3TkE5cGYtVlh2T2NuQmV6c0dSRmM?oc=5",
-      "description": "Could Bitcoin face an AI sell-off as K33 flags Anthropic IPO? www.tmgm.com"
-    },
-    {
       "published": "2026-10-27T21:15:40+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -34887,15 +34878,6 @@
       "title": "Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today - Goodreturns",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMzBqUTZlWklTM1lWSzNBUFlYTUdXRi1hS05KX3VWVFBxQ1NMNTJoNnJiaVFkam1paV9Td3k2NWhMenJHWTA5eXpHSWx5ejJYMkV3amloSkhmWWF2aThBdG9qanBXNms1ZnBDRmczMTNBeGlmaC1rQkN2M2VZbzZEWm9rS2ZxdmN3LVBoTXJ1N1EyZkVMMWxvOHRwMGdjal9jbWlDNmJkelY3ZGZ6U3ZOcTJuZVdzS29PX29idFlSRU1OTnRZT3BjQUt2dElXSXNXRVE?oc=5",
       "description": "Sensex Falls 100 Points, Nifty Slips Below 22,500: Top Reasons Why Stock Market Is Down Today Goodreturns"
-    },
-    {
-      "published": "2026-10-27T15:56:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "24/7 Wall St.",
-      "title": "AI Infrastructure Stocks Rise as Rebound From Steep Selloff Extends: Cipher Digital Jumps 8%, IREN Climbs 7%, TeraWulf Gains 5% - 24/7 Wall St.",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSl82UjN4NTVBMEpoUzZGNjlOTlNfWXB1NDFJaUE1a1pBRkxHVkwzajdQa3gxdjVFMjdOTnJYWWNJTkRPRnpuVjdkUVBrSmx2WHY0NkhqUFhjU2hISjd0cTFSU0ZRMEVfcktPa21GdktacXZqMTEzZjF0YVh3c09kZzZ2V01YZzl4bUQzNE1NNkM5SWxmbnlWbWlUY0VBNWZmOXFVcHhrcTIzd0FWSFFqaTRyZnN1MUpxdC05UkRaZ0YwSnI5VGtyaFNqLTJ2c2g0c2oyTUd0ZmFrQnZVa0pMcGxlQnZYVkl5OWV1YzJGNDU5VXE1NzRScw?oc=5",
-      "description": "AI Infrastructure Stocks Rise as Rebound From Steep Selloff Extends: Cipher Digital Jumps 8%, IREN Climbs 7%, TeraWulf Gains 5% 24/7 Wall St."
     },
     {
       "published": "2026-10-27T15:35:00+00:00",
@@ -34977,24 +34959,6 @@
       "title": "Semiconductor Equipment Selloff Challenges Applied Materials (AMAT) - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMERCUGhGMUV6empxQUJ0SUtfMU91dkdJNFJYNmZEVk9NaTVnX3VoOEdHbGxuak5UbDdWdW14RnE1WWhYQXZRMkZ4OFBmbjd2c0MyeXZWczNsbXBZNFdkeXMtcUNud0hjMVM4bHpIcGktQ19SbnpRNFE5OVBZZTJQaG05RnZmcmVGc0dnblJsV3J2dEo0VTgwSVFzTlktaVFjLU4zUGZTdV8xd2F6V2o5bGxpblZrUQ?oc=5",
       "description": "Semiconductor Equipment Selloff Challenges Applied Materials (AMAT) Yahoo Finance"
-    },
-    {
-      "published": "2026-10-27T11:45:19+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Moomoo",
-      "title": "Correction to BE Semiconductor Headline, Article - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMHlfQVJqNUFHdTV4QVcwckhBbHNEX25ZUlR3cU4tSF9nT2RMakpLcmJqTmQ5dml5Rm4zRWhKOG4xUXFTazdMdlE0MXBlNTFsenVCZ0M0RDd2NlZ4NUdOT0tBYTBreWN2UGFlcngxMUtQbVY1UmVTSm5ET0R1cnR6QVVHM21xS2pOLVVmRVR3cUFxYWhodHc?oc=5",
-      "description": "Correction to BE Semiconductor Headline, Article Moomoo"
-    },
-    {
-      "published": "2026-10-27T11:11:28+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "marketscreener.com",
-      "title": "Correction to BE Semiconductor Headline, Article - marketscreener.com",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVZjNUg2ZHN2d1J0RzlKOVFad0ZhUG9CbWR5ZjNwWFhGMlE4N1Q0R0l1T2h0TkFyNzdkRjdrNldNMUNXeGR6SV9VSUpCUTdoclV4YlZiRjFfV1kxd2NIYk9kWWM4NFFuY2toNlBxek1qSzJzX0dWWlRWZHgwNW8xeTRJSDk1Q0xvUHl2WFFGcGhjTFZNWXdXRnh3SE1pdlpYcGc?oc=5",
-      "description": "Correction to BE Semiconductor Headline, Article marketscreener.com"
     },
     {
       "published": "2026-10-27T11:02:00+00:00",
@@ -35285,15 +35249,6 @@
       "description": "Oil Rises, Asian Stocks Fall as Middle East Tensions Mount WSJ"
     },
     {
-      "published": "2026-10-27T23:35:34+00:00",
-      "score": 2.0,
-      "themes": "['market selling']",
-      "source": "Equiti Global",
-      "title": "Gold price falls below $4,000 as stock market selloff triggers liquidity pressure - Equiti Global",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOa2swWWdnalhUelF5Yl95R1AzMTF4eU5STTJFcEZRVmNmbnIxZFZmSl9XZWkxTXNhdlFERDU5bnVIUW1DVmVzdkQtOEQ5V084UG1XdWR0WTdjSzl5TXVvNXFtLWF2cEZ0ZVRJZkVQd3RxcU1BYVYxdFRVOVppQ19oLXpGZ2R6M1h3SDJrcmNHcGdyc3dxajVscDRaSUVLdXA2WnZ2R19ndGs?oc=5",
-      "description": "Gold price falls below $4,000 as stock market selloff triggers liquidity pressure Equiti Global"
-    },
-    {
       "published": "2026-10-27T22:28:52+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
@@ -35303,15 +35258,6 @@
       "description": "AI Stocks Have Lost Over $1 Trillion.The AI Bubble Warning Bell Is Ringing Louder. What Are the IMF, Ray Dalio and Wall Street Experts Seeing, and How Badly Could India Be Hit? Inventiva"
     },
     {
-      "published": "2026-10-27T16:42:25+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk']",
-      "source": "www.techtimes.co.uk",
-      "title": "China’s AI Boom Faces a Reality Check as $480 Billion Is Wiped From Technology Stocks - www.techtimes.co.uk",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjRrWi1ybHBfZDZXeXJCdHRMVHdYSnlRN2R5elhtSGJvODRfeHVuOHZnb0wyV2xmN242dUk2bEt5NmdJa2Yzd2ZwRDk1OEJuVHZYTE9ROHV0Z3ZQb08zcUltblhyVDlBVDZyWGZ6REFZTHNmN2lOSWRmd3lHc2tsSEloV0J6Q0d5R1BZ?oc=5",
-      "description": "China’s AI Boom Faces a Reality Check as $480 Billion Is Wiped From Technology Stocks www.techtimes.co.uk"
-    },
-    {
       "published": "2026-10-27T13:35:06+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -35319,15 +35265,6 @@
       "title": "4 New-Age Stocks With Rising FII Holdings in India - Trade Brains",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQSEhWdDQ4QVpualE3N3VfZVVKTFFCU2tOXzdidGxlMnNHYXFTMFdUakJ1ZFV2Q0FVZWNLekpGZkxielNMdHVWZ3BhTTdaOG5fU0taMC05TnhrckU3ZVVYWXhPZzJJQmwxQWlUbEtXV3BpQlRLTWxES3RMbzFtZHdNRUNyb1F4Vk5PNkFRenhXZVJZOTVEOVdvUHpxZjFzazZYR1gySXRTS2dLV21JUkJhRjM3LUhyUHNLVXNCdW9FQ1M0V2liOUtIRA?oc=5",
       "description": "4 New-Age Stocks With Rising FII Holdings in India Trade Brains"
-    },
-    {
-      "published": "2026-10-27T12:18:08+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk']",
-      "source": "Finbold",
-      "title": "​​​​Which AI bubble burst? Semiconductor stocks paint clearest bullish rebound signal - Finbold",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQelJfRGpNRU82T2VyU3dfVVVZbDAzS3BCdHJUcmt0WlBMVnVXdHQwalMxVDQ5Um90d2FrZXJia2FVWGhCTmFqaHR0V2IxT0RhUTd3VmtLMUVQaV8xOGtsbm1VTng5YTMzTmZYTUx5azFzWm9SOEt3OVNSbWZ5VzRTRDA0eTJRbVBJX09WQndRWVl0eFQ3N2lYc0dralZYc242dmsw?oc=5",
-      "description": "​​​​Which AI bubble burst? Semiconductor stocks paint clearest bullish rebound signal Finbold"
     },
     {
       "published": "2026-10-27T11:33:49+00:00",
@@ -35366,6 +35303,15 @@
       "description": "Markets end little changed as oil prices rise and bank stocks fall Awaz The Voice"
     },
     {
+      "published": "2026-10-28T10:03:47+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "YourStory.com",
+      "title": "China AI bubble bursts as tech stocks erase $480 billion - YourStory.com",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOUtKQzNvV0VEVWxDREt0MUM3NklRazRLT1ZBd1F3aWgxSDRKY1VkdGdZM2FhLURaWjVYNHAybTRMN1cxdU9sYlhCQU9kNWQxc2xBMXhiNmJtWkdsY2ZfUFB1TDhNS2VuRDVDYmpfSzFFQzRHaWdCcnFn?oc=5",
+      "description": "China AI bubble bursts as tech stocks erase $480 billion YourStory.com"
+    },
+    {
       "published": "2026-10-28T09:37:29+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -35373,15 +35319,6 @@
       "title": "Nifty Near 22,700, Midcaps & Smallcaps Up, IT Sinks | Closing Bell LIVE | Jio Platforms Debuts - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOdjZuWE9Ib0sxY3ZmV1JzVTRzNng0TDJvUDZOc3psUzNDWmRkWngwbS1BQ0JNQWRibDgteFdtTVlfVU9yMWpNTTlEZ3VaMGFfdFdJc1Uyc284WXBWRDJmNGxDcFVIZkRjcFhSWTVCcndZVDlLSnFBRjlvUGoyMVBOaGtnakFQSGlqZ214bGtkajJMNEJMU3o4dXhWbWxRcnZOUTJTRk1OcDVjc29CejJTRFVWQjBaVGRaeXBjQlNtSXFGNmU4TlZDT3BQeDMxcGZrV2dsSXFfOEM1dUUtcUZPSmJ5M0haYXRaeG8tNldoSjlscEM20gH0AUFVX3lxTE52Nm5YT0hvSzFjdmZXUnNVNHM2eDRMMm9QNk5zemxTM0NaZGRaeDBtLUFDQk1BZGJsOC14V21NWV9VT3Ixak1NOURndVowYV90V0lzVTJzbzhZcFZEMmY0bENwVUhmRGNwWFJZNUJyd1lUOUtKcUFGOW9QajIxUE5oa2dqQVBIaWpnbXhsa2RqMkw0QkxTejh1eFZtbFFydk5RMlNGTU5wNWNzb0J6MlNEVVZCMFpUZFp5cGNCU21JcUY2ZThOVkNPcFB4MzFwZmtXZ2xJcV84QzV1RS1xRk9KYnkzSFphdFp4by02V2hKOWxwQzY?oc=5",
       "description": "Nifty Near 22,700, Midcaps & Smallcaps Up, IT Sinks | Closing Bell LIVE | Jio Platforms Debuts Moneycontrol.com"
-    },
-    {
-      "published": "2026-10-28T07:55:38+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Dixon Tech - Kotak adds 5 new midcap stocks which fell up to 16% in one month to its model portfolio. Take a look - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPbmowZUd6VE0tNHJWUUVMZnZOZW9Eb2lVd2RKNjE0M05vXzR3cHc0WTBXMzBDY2FtMTR2eHpMcjJpNmh3cncwNVF6TFpsMWFSb3RxNUlLTWtOa0prMUx1Q0RaUFVHX2pGQlYwd0NRLUp4XzljeU53TmtPN0hBajZ4aWZsYXhQWWl0U0dQampEbzNNUU0wOWhkS0doaVA2bk5vLXFWOGhQWXdkazRqa09BeEpYNnNQQklGQ3Z5Sm5UUGh6UG5oZG9jVzFySE10cUVvbW13Q1BITmJTN0taRjB2QVBFRkVLSEJacjVKN1ZTLWVtbTZSVVdrUHhnSGxXRklySnBmMlZLYWlTUlU3VHc?oc=5",
-      "description": "Dixon Tech - Kotak adds 5 new midcap stocks which fell up to 16% in one month to its model portfolio. Take a look The Economic Times"
     },
     {
       "published": "2026-10-28T07:52:53+00:00",
@@ -35429,33 +35366,6 @@
       "description": "Morgan Stanley Sees US Market Correction Nearing End. What It Means For Indian Stocks NDTV Profit"
     },
     {
-      "published": "2026-10-28T00:21:53+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Fstoppers",
-      "title": "DXO ViewPoint 6 Offers Image Correction Without Crops - Fstoppers",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemw1MnRKLUR2Sm13MTQyUXJVZVJ4RGM3RGtuWXJvZGpzUXFRWi1Hb3l6QnJSMWxJWTNVV1pka0poTm1EdW85U2FDcDhPV0V1NTdKTmlwSG03T082LW9HNkQyVlZVaHlwcnRVNE45OUlrS2tHZjE3bEdPVXdjMlhBU0JjSXZtZ1dDT3ZfUFV2Tm9SSGFxUnloSW1JYw?oc=5",
-      "description": "DXO ViewPoint 6 Offers Image Correction Without Crops Fstoppers"
-    },
-    {
-      "published": "2026-10-27T23:46:07+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Business Recorder",
-      "title": "China stocks fall as tech shares extend slide - Business Recorder",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE00bGVhOEROVHF6WHhKY0hnN0lucmJsVFpNb0NKV05aeFV5ZDIxNnBFb2prQXlIYUNvbjFzV01lTDIyQmdROXBNRzZGOUVNdHFyZlNQWGFB0gFWQVVfeXFMTTRsZWE4RE5UcXpYeEpjSGc3SW5yYmxUWk1vQ0pXTlp4VXlkMjE2cEVvamtBeUhhQ29uMXNXTWVMMjJCZ1E5cE1HNkY5RU10cXJmU1BYYUE?oc=5",
-      "description": "China stocks fall as tech shares extend slide Business Recorder"
-    },
-    {
-      "published": "2026-10-27T23:35:35+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Equiti Global",
-      "title": "Week ahead: Central Bank decisions, inflation, and AI risks - Equiti Global",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYU5zM2J6SEdSdmVUdzUzMV8ySFozR2ROZXYxc2IzWl9mWk9Ob0FpdWxZakdhUXZ6QWN0bXphckVtZ0ljYnJVRHQzdXF2dlRXMS0tZHZsemJBTFpmbG05T3NFQjdwY0pfMVJxUjNsdl9xZjd2N3pUVnVOekFCWFo4Tzg4Q3JFYkFSdkFQVlN6UTVoN0g0UzJEanNWT1Y?oc=5",
-      "description": "Week ahead: Central Bank decisions, inflation, and AI risks Equiti Global"
-    },
-    {
       "published": "2026-10-27T23:33:11+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35474,15 +35384,6 @@
       "description": "Crusoe CEO defends CoreWeave amid selloff Yahoo Finance"
     },
     {
-      "published": "2026-10-27T18:40:00+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Briefs Finance",
-      "title": "Crusoe CEO Calls Neocloud Selloff \"Overblown\" After Big Fundraise - Briefs Finance",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcG1LaV94MVNoXzdnbzdtcjJMUU9hX1JzQnBfcTFRVjlid2MwdERwaDFlWEtPZDg4N2JzTjRLYmUzTmQzajJTTUxuNDhLdUFjel85czV2MmVPazJGbVN0aFpNZEZBVmZsQWIxZmhzdEd5ZjF5NUc5Rk9YX0dVZ0lhbWlMbldQbG1aT09TN1pTVWU3UQ?oc=5",
-      "description": "Crusoe CEO Calls Neocloud Selloff \"Overblown\" After Big Fundraise Briefs Finance"
-    },
-    {
       "published": "2026-10-27T18:08:11+00:00",
       "score": 1.0,
       "themes": "['macro / flows']",
@@ -35490,15 +35391,6 @@
       "title": "Markets end flat ahead of Fed decision; FPIs buy shares worth ₹4,240 crore - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOeGdEaVY2NjFmaFl5cU1MSmM2SmRFWEQycFhUMjNlbkRkY3I1SUpfOG10X2oyLW1jd0dCb2wzNkZ6dWZjcGV5ajJJWmMwVnNKRVJwcDJ3SlY5NU5rSEpCUVh3bFE4cDhkeHZFY01GS2pIYlU3ejVPY2VpRVUwS2dkQ1dXZzNVRWtsUkJxSXA4NTVobHFpcHFYU0lGMHdlc2hBSUI5eUQ5RldFUDRzMXZzTHJVVzBnMFBJM0xGc0l4Y1kyaTJCbnZMMnc5ampMbk1QOHF0a3oySjJJNG0ybXNOel9sdjVPZE41RVEtWkpKUU1OZ9IB9wFBVV95cUxNTHFKcFdlVGVRcWtEMWlTWUl3XzFDdGJ0RGJRWXBnLWFBdzQtZ1B4UW9mMWEzbEhoVkxRZXZXMWVoN2VXeUlWS2VfS1Z2WVpWZmhacDlZRjVDSFhUbFl2Qm5GeGRXNmRHaURwNjAydk9aSmJxSTFPclc4UTVydmN2X3dxdmNNVllMZmJReWlqUHFwSEZnckphOTRwUEpCRHFnV0lOM19MMUZKWGZqOUZ3YUlMTEw1OGhIUVlRTTFsSnZTWXUzYmZhVXRGZDRwN0liZHIxcTU4NG50X2NiRXBRdHdaelEzc05oaExtbFpYSnJuSnRrMDRR?oc=5",
       "description": "Markets end flat ahead of Fed decision; FPIs buy shares worth ₹4,240 crore Business Standard"
-    },
-    {
-      "published": "2026-10-27T17:50:06+00:00",
-      "score": 1.0,
-      "themes": "['macro / flows']",
-      "source": "TradingView",
-      "title": "Bitcoin Fed Meeting Preview: Drop to $76,000 or Reclaim $82,000? - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMk5aOWtkeEs0ZkJmSjJlOE1sclpwSWcxSlVsNWsweW10M3kwX0dDeUQ1aVF0THdIZzNkcExkOHF2WDRYaHJ0NGd1SlVIVzY3YTFkY014ZG1VNjNTT21MOWZlanlQNlJhS0I5QlJpdDJvcHNlMmNaR2FTZEcxamFNYmVlbkx3aEVyZFc3aXE4a001Y1lycUpZRk42THctMkFmdEY1YWxDSU50SmR0Q3FUNW9ZTU80LWxBUGUw?oc=5",
-      "description": "Bitcoin Fed Meeting Preview: Drop to $76,000 or Reclaim $82,000? TradingView"
     },
     {
       "published": "2026-10-27T17:11:08+00:00",
@@ -35510,15 +35402,6 @@
       "description": "Crusoe CEO Defends Rival CoreWeave, Calls Selloff ‘Overblown’ Bloomberg.com"
     },
     {
-      "published": "2026-10-27T16:43:20+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Firstpost",
-      "title": "China’s AI stock rout exposes market risks as valuations and export curbs weigh on chipmakers - Firstpost",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSmlVZjZIZk5rZHR2RVdZLWh4ZnVnd0J5QkZWalBJSzBKbmVuX3diQTg1OG5CcXRlZ2ZaenRLMzMzejhjUFlubHV1MWJnRTFuVTUtLWNOaUtSV2kyTUpBcXREak5oQzEtc3VzdXctZE5lMGROWWZFanp6OFJGMlR2YnJOX2xzQ3BvUXBMa094Vk1WWHBUNG4wdV9Iam1NNENPcFhJX2ZaclRHNUZKcG5CUzRyNjh2RkFsOW1JNlhiaHlmMXNYSEFzZ3JlMTVaaTVzaWE00gHYAUFVX3lxTE03eTBuS3RaNnBWQndOdHc0dnAzQkZjbG4tNnhUa1M5LXpSVkNmYUJOdTF1ZWhGVTVGMXQ3Y2RUTURqYzIyMGVCdkRSNm9mVmtfNXlQaFRoUl95X2FPT3QycTNOcGhLdHlkRk9heGpoaUswa3pIU09sWVNuZDhmQmtLd09tMktiWVVVVmQtcFZvQjM4cmhPalZ1R1UwekpJZ0VIYVc4OV9mRHhBb0laUlZpUl9SNkxNNUhQRWNsOUgtNGY5d2xCdHFydzVUdWJBNHM5Zi1WSl84bg?oc=5",
-      "description": "China’s AI stock rout exposes market risks as valuations and export curbs weigh on chipmakers Firstpost"
-    },
-    {
       "published": "2026-10-27T15:57:29+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -35526,15 +35409,6 @@
       "title": "LTCG, STT Review: Sources Say Centre May Soon Consult Market Participants Amid FPI Outflows - Business Today",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVDZrZnZPeFllWGVaai1oYmNIdGxHbzdyVDEzZUFXRk93dzZCZ0NqTzZNVVBQaTlWMlg1dFAxYjdEOWxCWHU1TjJ4NWNvVlJ1NW9zT3JXRTlTamI3c09wcDUwZzU4UTFtVW9kdEV2dWdoWDdBOEFHcHFJdTRMUVRhTUllTDFNWGo0M1V3R2NDVHZNeHNyOWpmWTgwT1ZXc3puT013UF9GRW56SVZrMmhYRlFWeDF5ZmtfbHRnWVVETnM5NER0bGNiYm5jYlh4V19WbzduZlY3aUxOWVZqb3d1WDRjS0FBdkcyczFhSTNWb9IB9AFBVV95cUxNQXZzMExwM3BEVHNxWTRyU2psel9pVV9hZ0tuRjhDYjhTN2RTQXM3TF9TWDRUbmlRTzJVbmpOVVVHbHFUS09RMFh2d2ZrOFhPcjcxdmMzcGw1NzZLMmJOTmFFMzVmYno1U3drVWs3YnpEdEJfNVI2ekN1eU5PeDNGXzFESTVjdUIyN2ZRWEpuU3RINjB1RXpfenhsM1JoRlFpUnVXTjRJQ0R2emN2dmlINGFOVWRna1JkcTU4MDY5LXFOaEtNamhEbU03eVo0MThoZC15MU83MWhWUXZMUE5HbzZuZ3BWQllpNU9ISDY3bV9meW96?oc=5",
       "description": "LTCG, STT Review: Sources Say Centre May Soon Consult Market Participants Amid FPI Outflows Business Today"
-    },
-    {
-      "published": "2026-10-27T15:44:05+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "logos-pres.md",
-      "title": "The collapse of Chinese AI shares has wiped out $480 billion in market capitalisation - logos-pres.md",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTjh5T3k2X2Y4d2FWUW55a2xEaFBYTnJMZFNMQVpJZTFTQWdiYUpNeVZyYWswb3VuVDduUkdzWUlnVFhSUlJIZTBNeVRiZktRWnB5SlZqeWtkcGhxRk12MmVjbWNtZnhlVldJc0NTajZDNVg3TV9PVmZrREtXa09sc0RnMUd2TE1jT19sYm5FMm11ZzNGQmtac21kY2UyQzAwblg0Y1Jkckt0dTdVT29STTFWc3pmdw?oc=5",
-      "description": "The collapse of Chinese AI shares has wiped out $480 billion in market capitalisation logos-pres.md"
     },
     {
       "published": "2026-10-27T15:30:00+00:00",
@@ -35555,22 +35429,13 @@
       "description": "/C O R R E C T I O N - Cogniedge.ai/ PR Newswire"
     },
     {
-      "published": "2026-10-27T14:20:01+00:00",
+      "published": "2026-10-27T10:43:13+00:00",
       "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "TradingView",
-      "title": "Alphabet’s Q3 results to put AI spending back in the spotlight - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOTGN3NFdSYmxDaW9OSzUwOWxTbUtZMVhuazFUZG5sUFJtUHBDZEcyN09ESE40YUpGUHhWWktzTWpoTjROUFRMT0VhZzNGTDUtX1ZLamdSN1VkRUgwWWxQN2sydDBMSVNIcG1TZkFIOEdWaHNiZlVsRVI3WS0xNEFrcTlnRmc4bVdTMGp3RG95bHZCNUlJVFpHdU9yYVY0TjFhdWZuelBXWFI2bVR1QlVtTGNwSFN0NUs5dkRJVldBX3g3N1E?oc=5",
-      "description": "Alphabet’s Q3 results to put AI spending back in the spotlight TradingView"
-    },
-    {
-      "published": "2026-10-27T12:44:00+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Foreign Policy Journal",
-      "title": "Bitcoin Holds Near $79,700 As AI Sector Rout Spills Into Crypto Markets: (NASDAQ: BMNR), (NYSE: ASST), (NASDAQ: MSTR) React - Foreign Policy Journal",
-      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQVlZYYjdqcHYtSk5sbW5lSW9sLXpIb2N3cG12LXh3ckpnWHVjNHVPeTFCd2MyNnhQN0xkMy1UR2RBZGUzaHl4WUkyX0Y4bDZIYnp4MUtFVkFzanNXbTR2LWVzWi1SSERHXzlOdmQtbE9vbzlzN3NXdUJPS3dsV1dlMU1ndHJhYTBlSUtrWDRGVDNhVUctdTd2VDhGcFFIeWtHQW10S0FrUTloajd4bE92TU9mdHc0V3ZHaWxZNXlUYjVXZE9VVFQtOFNyLTVVRFBZYnpxdU1uWDAxZmllNlBiY1dYdHk3RlpmVHRqXzRycw?oc=5",
-      "description": "Bitcoin Holds Near $79,700 As AI Sector Rout Spills Into Crypto Markets: (NASDAQ: BMNR), (NYSE: ASST), (NASDAQ: MSTR) React Foreign Policy Journal"
+      "themes": "['market selling']",
+      "source": "Trade Brains",
+      "title": "Why Did Dalmia Bharat Shares Fall 7% in Today's Trading Session? Here's What You Need to Know - Trade Brains",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNT1hkWmxmQ3ByenR1YkdPOWdOajNPbmx4a0xwYXNnRFA0VWVjT1NUZS1VVkJRVGFOdWpid2NEUGhmQ2FGbjNHX2FmbTh6R1B4WG1ZWXhpMUhIUlFsRTBpOTFfVDFjaFRnaUxlOTlKNm00XzdLakU1ZzVoVlhxR2hWRGdycnk3dUpRWUc0V3AtMjJYSjgwZFZoTmkyOVlxb1U1djlzNGNQZkQzeVZmYllTMjNCT0ZSZTF3NEJlSWN0UG1IUnhnMWJYTzZ0Vjk2bzQwMVE?oc=5",
+      "description": "Why Did Dalmia Bharat Shares Fall 7% in Today's Trading Session? Here's What You Need to Know Trade Brains"
     },
     {
       "published": "2026-10-27T10:36:01+00:00",

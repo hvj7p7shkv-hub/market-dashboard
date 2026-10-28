@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T15:36:07+05:30",
+  "generated_at": "2026-10-28T15:40:59+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -110,20 +110,20 @@
         "average_volume_ratio_20d": 1.513
       },
       {
-        "sector": "Electronic technology",
-        "count": 1,
-        "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -0.901,
-        "average_volume_ratio_20d": 0.047
-      },
-      {
         "sector": "Retail trade",
         "count": 1,
         "advancers": 0,
         "decliners": 1,
         "average_1d_pct": -1.168,
         "average_volume_ratio_20d": 0.349
+      },
+      {
+        "sector": "Electronic technology",
+        "count": 1,
+        "advancers": 0,
+        "decliners": 1,
+        "average_1d_pct": -1.423,
+        "average_volume_ratio_20d": 0.05
       },
       {
         "sector": "Technology services",
@@ -520,6 +520,23 @@
         "alert": ""
       },
       {
+        "symbol": "ELPROINTL",
+        "ticker": "ELPROINTL.NS",
+        "name": "Elpro International Ltd",
+        "sector": "Electronic technology",
+        "ltp": 164.13,
+        "previous_close": 166.5,
+        "day_move_pct": -1.4234,
+        "session_volume": 323.0,
+        "average_volume_20d": 6524.0,
+        "volume_ratio_20d": 0.05,
+        "turnover_proxy": 53014.0,
+        "quote_date": "2026-10-28",
+        "quote_timestamp": "2026-10-28 15:05 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "CONFIPET",
         "ticker": "CONFIPET.NS",
         "name": "Confidence Petroleum India Limited",
@@ -533,23 +550,6 @@
         "turnover_proxy": 47442355.0,
         "quote_date": "2026-10-28",
         "quote_timestamp": "2026-10-28 15:25 IST",
-        "quote_type": "Yahoo 5-minute quote",
-        "alert": ""
-      },
-      {
-        "symbol": "TORNTPHARM",
-        "ticker": "TORNTPHARM.NS",
-        "name": "Torrent Pharmaceuticals Ltd",
-        "sector": "Health technology",
-        "ltp": 4578.2998,
-        "previous_close": 4625.0,
-        "day_move_pct": -1.0097,
-        "session_volume": 201715.0,
-        "average_volume_20d": 333916.0,
-        "volume_ratio_20d": 0.604,
-        "turnover_proxy": 923511745.0,
-        "quote_date": "2026-10-28",
-        "quote_timestamp": "2026-10-28 15:10 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
       }
@@ -1616,15 +1616,15 @@
         "ticker": "ELPROINTL.NS",
         "name": "Elpro International Ltd",
         "sector": "Electronic technology",
-        "ltp": 165.0,
+        "ltp": 164.13,
         "previous_close": 166.5,
-        "day_move_pct": -0.9009,
-        "session_volume": 305.0,
+        "day_move_pct": -1.4234,
+        "session_volume": 323.0,
         "average_volume_20d": 6524.0,
-        "volume_ratio_20d": 0.047,
-        "turnover_proxy": 50325.0,
+        "volume_ratio_20d": 0.05,
+        "turnover_proxy": 53014.0,
         "quote_date": "2026-10-28",
-        "quote_timestamp": "2026-10-28 14:50 IST",
+        "quote_timestamp": "2026-10-28 15:05 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
       },
