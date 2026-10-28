@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T21:07:37+05:30",
+  "generated_at": "2026-10-28T08:40:51+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -1701,9 +1701,9 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 498,
-      "coverage_pct": 99.6,
-      "advancers": 352,
+      "downloaded_count": 499,
+      "coverage_pct": 99.8,
+      "advancers": 353,
       "decliners": 145,
       "unchanged": 1,
       "ad_ratio": 2.43,
@@ -1711,10 +1711,10 @@
       "down_turnover_share_pct": 35.6,
       "high_volume_decliners": 29,
       "intraday_quotes": 498,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-10-27",
       "as_of_timestamp": "2026-10-27 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 1
     },
     "sector_breadth": [
       {
@@ -1758,20 +1758,20 @@
         "average_volume_ratio_20d": 1.328
       },
       {
+        "sector": "Capital Goods",
+        "count": 63,
+        "advancers": 52,
+        "decliners": 11,
+        "average_1d_pct": 1.935,
+        "average_volume_ratio_20d": 1.238
+      },
+      {
         "sector": "Consumer Services",
         "count": 29,
         "advancers": 25,
         "decliners": 4,
         "average_1d_pct": 1.924,
         "average_volume_ratio_20d": 1.092
-      },
-      {
-        "sector": "Capital Goods",
-        "count": 62,
-        "advancers": 51,
-        "decliners": 11,
-        "average_1d_pct": 1.885,
-        "average_volume_ratio_20d": 1.241
       },
       {
         "sector": "Realty",
@@ -5964,6 +5964,23 @@
         "quote_timestamp": "2026-10-27 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
+      },
+      {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 215.27,
+        "previous_close": 205.0,
+        "day_move_pct": 5.0098,
+        "session_volume": 1249660.0,
+        "average_volume_20d": 1161186.0,
+        "volume_ratio_20d": 1.076,
+        "turnover_proxy": 269014314.0,
+        "quote_date": "2026-10-27",
+        "quote_timestamp": "2026-10-27 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
+        "alert": "Exceptional price move (+5.01%)"
       },
       {
         "symbol": "HBLENGINE",
