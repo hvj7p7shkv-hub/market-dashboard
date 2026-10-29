@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-10-29 09:37
+Generated: 2026-10-29 10:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -36,27 +36,17 @@ Sensex falls 352 points, Nifty slips below 22,700 on crude oil surge, IT selloff
 
 Asian stocks fall on AI tech selloff; HKMA mirrors Fed hold Seeking Alpha
 
-### 4. Sensex sheds 691 points, Nifty falls below 22,600 on rising crude prices, FPI concerns - India's News.Net
-
-- Source: India's News.Net
-- Published: 2026-10-28T10:02:00+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 10
-- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTlPRFQwV01mYkE0TmQ1alY1S0ZIVVJ5QlltR3JrRDlQOW5ORG5Gbm84ZWJ4a2t0YkRxWE5ldTlzWFZoc2JBLWFTNFJBTmxsR011ZDlRdlVLZWFIekctVk9OdHl0dEQ2SmJ3VGxZS3ZoT3B3RFBZTWZFUkxZV0FFZERhWmVGYm1PTkRsSkZXN2p4a1FCaVNFbEx1QnVEZVk5Q1Rvck5XbjVEUnBvWHdNY1RkQ0lKRGVDVUNrNkMtbUZWdTg?oc=5
-
-Sensex sheds 691 points, Nifty falls below 22,600 on rising crude prices, FPI concerns India's News.Net
-
-### 5. Global Market: China stocks fall as tech selloff deepens despite Fed rate pause - The Economic Times
+### 4. Global Market: China stocks fall as tech selloff deepens despite Fed rate pause - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-29T07:34:54+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZWdidlhNcjZKb0gxMWhXUWIzOEdqcmVnZ1dpMEJRbWRNaFFVYUU3WmtvSUpZel9kdjl3cnQzLVhBSm4zM0FGOG5Sc3c0aFRDRGoxRmhBRG1zWEs4anFPZU5IQjdZQVliNV9oRUNGQkhXTjdmMXNQUG5PbnJmVENkM3ZzUGlWM19sWlhraVBwNGVZV0tockRnYkozRGdtZGJaTGl6NEQzeE9iODJnSlBCMDVxWGRTMGd3dTdHc0x4SE9sMTNFSjZOTDVFYlNxNW5BWF9UcFo1dmRpVFpZeHJtOWIxRS1IN1YzVE1v?oc=5
+- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdTFBei11ZG82WHQxSnVzVTRzR1BiXzRBV253T0kxLUdKN2x2TnAxbmFTT1E0eDFjbF8wX1BqNWtITHVheUs1SDlBMnl2amg5MHNJLXU5VWtDS0d6VGxYNDRGTjlrcElvdDNCd3BocFR3R1FKOTJjUjNPMHh6S1ZSU1gzN2lXOVlnQmZTWmJ0RVByNWQ0X042ZXRITWJnQ2VoX1VZMGUyT0lFQnVqcl9VRHFqY1I2dVV5eVdXeVdpZUxGMm1kNFk2Sk1hOWxGMW5Fakd1dURuN0pfQkpiRHNrVHpqb21CMmlzT1doV2dNbVQ5dl90bUtv?oc=5
 
 Global Market: China stocks fall as tech selloff deepens despite Fed rate pause The Economic Times
 
-### 6. GIFT Nifty falls, signals weak start for Sensex and Nifty as tech stocks fall after US Fed holds rates - Moneycontrol.com
+### 5. GIFT Nifty falls, signals weak start for Sensex and Nifty as tech stocks fall after US Fed holds rates - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-29T02:26:05+00:00
@@ -66,7 +56,7 @@ Global Market: China stocks fall as tech selloff deepens despite Fed rate pause 
 
 GIFT Nifty falls, signals weak start for Sensex and Nifty as tech stocks fall after US Fed holds rates Moneycontrol.com
 
-### 7. India's FII Problem Goes Beyond Taxes As Rupee Fall, US Yields Hit Returns: Ajit Dayal - NDTV Profit
+### 6. India's FII Problem Goes Beyond Taxes As Rupee Fall, US Yields Hit Returns: Ajit Dayal - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-28T12:19:53+00:00
@@ -76,7 +66,7 @@ GIFT Nifty falls, signals weak start for Sensex and Nifty as tech stocks fall af
 
 India's FII Problem Goes Beyond Taxes As Rupee Fall, US Yields Hit Returns: Ajit Dayal NDTV Profit
 
-### 8. Sensex falls 353 points, Nifty below 22,700 as IT and oil stocks drag - India Today
+### 7. Sensex falls 353 points, Nifty below 22,700 as IT and oil stocks drag - India Today
 
 - Source: India Today
 - Published: 2026-10-28T10:40:07+00:00
@@ -85,6 +75,16 @@ India's FII Problem Goes Beyond Taxes As Rupee Fall, US Yields Hit Returns: Ajit
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNZTliNHpyYmJJOEJwOHk5MWkyOHFFTnlnN2EzUXdBR2pHVl9ZZHlZM0pTLTZGb0lhSXdaOGhfakNheE9OLW93WHd2S2o5TEJRdHBDR2lSdkxJeTR6TGVzSk5uZy1zWVBCVWl1R2NDdmZiT0RpN295T3BDWGxNcy1GcDFTUWpSZXBQbVVOc0luTm1Za2dUYkNCYVRtLXVNeHdLTUhzWXhrbUxKTmJWbDI3QkN2UjljV1l4bUdoUjRiX1VUTHpKUHZvbmtXR03SAdIBQVVfeXFMUHFvV2hZS2dRVGRqRGtEMWVxQVhaalp6cVBGbVVUZzZTNWIzS19Zbkk2SVR1Z0syU1diTmlQRXNVYzEzUUNRdzdtelp4ZEpTazJTV2JFX2ZhMnNBQkFpQ1p2MFlBZlg4SkxBT0s4Q2R4UXBxTk9KdlpQd1g2ZUh0djZTRTdTQ1RnUXdNQnR0RWZIMG03dWd3Z1JmTEQ0TkNmamdFQTZGbTJCX1ZSUTZKRFZlZS1wRzU5VFZ0VEJiNnYxM25TNjNYY1VScTBBVnJMczdB?oc=5
 
 Sensex falls 353 points, Nifty below 22,700 as IT and oil stocks drag India Today
+
+### 8. AI Stocks Fall After Alphabet Earnings Disappoint - WSJ
+
+- Source: WSJ
+- Published: 2026-10-29T10:06:13+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5
+
+AI Stocks Fall After Alphabet Earnings Disappoint WSJ
 
 ### 9. Goodluck India shares fall over 3% after Q2 net profit declines 23.4% YoY to Rs to 49 crore, EBITDA falls 13.4% - Business Upturn
 
@@ -196,7 +196,17 @@ Bitcoin, Ethereum Price Hit New 2026 Lows as Big Tech, AI Sell-Off CoinMarketCap
 
 Sensex falls 353 points, Nifty ends at 22,699 as IT stocks drag Daijiworld
 
-### 20. Stock Market Crash Today: Sensex and Nifty Slide Before Jio Platforms Listing as Infosys, TCS and HCL Tech Fall - theopenpress.in
+### 20. BSE SENSEX Falls to 73,123.83 as Brent Crude Holds Near $114 Amid US-Iran Negotiations and the Ukraine-Russia War - BBN Times
+
+- Source: BBN Times
+- Published: 2026-10-28T16:26:49+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTlN6VVRGVkYwMlczMWdPdTRhYXFPUU54UHNFNGRqTU1JdEJORXlyaWtMaGt3eFpmaGFSQ2U1dk01QnZZSjEtNFc5SVpMMUhCUmd3Q214YmJJY3lKeHE3Y2JzNENILTdXNHJFV25UeThSX0RobjdtVGlteDVOczViWW90S3ZMTnFwU0tmSGpxQ2lOUWRsYlJuMnNmLUEtaHRIWTMwcWV2elg5VnpYMjhRYi1WZ0Q4Sjh6bHhSMkpPdzdhZ25wbUw2VXIyUUE1Z3EyZG8wSWpzdXdZVXdtRC15Mg?oc=5
+
+BSE SENSEX Falls to 73,123.83 as Brent Crude Holds Near $114 Amid US-Iran Negotiations and the Ukraine-Russia War BBN Times
+
+### 21. Stock Market Crash Today: Sensex and Nifty Slide Before Jio Platforms Listing as Infosys, TCS and HCL Tech Fall - theopenpress.in
 
 - Source: theopenpress.in
 - Published: 2026-10-28T15:03:01+00:00
@@ -206,7 +216,7 @@ Sensex falls 353 points, Nifty ends at 22,699 as IT stocks drag Daijiworld
 
 Stock Market Crash Today: Sensex and Nifty Slide Before Jio Platforms Listing as Infosys, TCS and HCL Tech Fall theopenpress.in
 
-### 21. ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout - Zacks Investment Research
+### 22. ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout - Zacks Investment Research
 
 - Source: Zacks Investment Research
 - Published: 2026-10-28T14:38:38+00:00
@@ -216,7 +226,7 @@ Stock Market Crash Today: Sensex and Nifty Slide Before Jio Platforms Listing as
 
 ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout Zacks Investment Research
 
-### 22. ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout - Yahoo! Finance Canada
+### 23. ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout - Yahoo! Finance Canada
 
 - Source: Yahoo! Finance Canada
 - Published: 2026-10-28T14:29:00+00:00
@@ -226,7 +236,7 @@ ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout Zacks Invest
 
 ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout Yahoo! Finance Canada
 
-### 23. How has the AI selloff created a buying opportunity? - BNN Bloomberg
+### 24. How has the AI selloff created a buying opportunity? - BNN Bloomberg
 
 - Source: BNN Bloomberg
 - Published: 2026-10-28T13:44:10+00:00
@@ -236,7 +246,7 @@ ARCC Misses on Q3 Earnings as Income Falls, Announces MidCap Buyout Yahoo! Finan
 
 How has the AI selloff created a buying opportunity? BNN Bloomberg
 
-### 24. Sensex Falls 353 Points, Nifty Slips Below 22,700 as IT Stocks Drag Markets - News Mobile
+### 25. Sensex Falls 353 Points, Nifty Slips Below 22,700 as IT Stocks Drag Markets - News Mobile
 
 - Source: News Mobile
 - Published: 2026-10-28T12:43:05+00:00
@@ -246,7 +256,7 @@ How has the AI selloff created a buying opportunity? BNN Bloomberg
 
 Sensex Falls 353 Points, Nifty Slips Below 22,700 as IT Stocks Drag Markets News Mobile
 
-### 25. Sensex falls 353 points, Nifty sheds 51 as auto stocks limit losses - Telangana Today
+### 26. Sensex falls 353 points, Nifty sheds 51 as auto stocks limit losses - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-10-28T11:12:30+00:00
@@ -256,7 +266,7 @@ Sensex Falls 353 Points, Nifty Slips Below 22,700 as IT Stocks Drag Markets News
 
 Sensex falls 353 points, Nifty sheds 51 as auto stocks limit losses Telangana Today
 
-### 26. Stock Market Closing Bell: Sensex Falls 353 Points To 73,246, Nifty Ends Below 22,700 As IT Stocks Drag - Free Press Journal
+### 27. Stock Market Closing Bell: Sensex Falls 353 Points To 73,246, Nifty Ends Below 22,700 As IT Stocks Drag - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-10-28T10:55:11+00:00
@@ -266,7 +276,7 @@ Sensex falls 353 points, Nifty sheds 51 as auto stocks limit losses Telangana To
 
 Stock Market Closing Bell: Sensex Falls 353 Points To 73,246, Nifty Ends Below 22,700 As IT Stocks Drag Free Press Journal
 
-### 27. Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - - IndiaIPO
+### 28. Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-10-28T10:34:58+00:00
@@ -276,7 +286,7 @@ Stock Market Closing Bell: Sensex Falls 353 Points To 73,246, Nifty Ends Below 2
 
 Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors fret - IndiaIPO
 
-### 28. Closing Bell: Sensex Falls 350 Points, Nifty 50 Slips Below 22,700 as IT Stocks Drag Markets - Dalal Street Investment Journal
+### 29. Closing Bell: Sensex Falls 350 Points, Nifty 50 Slips Below 22,700 as IT Stocks Drag Markets - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-10-28T10:34:17+00:00
@@ -286,7 +296,7 @@ Infosys, other IT stocks fall up to 5%; why AI's capex boom is making investors 
 
 Closing Bell: Sensex Falls 350 Points, Nifty 50 Slips Below 22,700 as IT Stocks Drag Markets Dalal Street Investment Journal
 
-### 29. UBS sees buying opportunity in China AI tech stocks after selloff - Investing.com
+### 30. UBS sees buying opportunity in China AI tech stocks after selloff - Investing.com
 
 - Source: Investing.com
 - Published: 2026-10-28T10:32:16+00:00
@@ -296,7 +306,7 @@ Closing Bell: Sensex Falls 350 Points, Nifty 50 Slips Below 22,700 as IT Stocks 
 
 UBS sees buying opportunity in China AI tech stocks after selloff Investing.com
 
-### 30. Taking Stock: Sensex falls 353 points, Nifty slips below 22,700; mid, smallcaps outperform - Moneycontrol.com
+### 31. Taking Stock: Sensex falls 353 points, Nifty slips below 22,700; mid, smallcaps outperform - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-28T10:14:30+00:00
@@ -306,27 +316,7 @@ UBS sees buying opportunity in China AI tech stocks after selloff Investing.com
 
 Taking Stock: Sensex falls 353 points, Nifty slips below 22,700; mid, smallcaps outperform Moneycontrol.com
 
-### 31. Closing Bell: Sensex falls 353 points, Nifty below 22,700; Infosys, Reliance, TCS top drags - Zee Business
-
-- Source: Zee Business
-- Published: 2026-10-28T10:06:14+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmJvbVBYN0Q4aWdUaG5KQW03by1oSFZ0LWt3NzU5bktRV3YtUXM5ZWZrdDJRV3VvMVNwdlZ1UGRYVE1HRkZCbXFSdl9RYTEwWlk2YVRROHhhVUwtcFN4T3FqY0o4UTlfMnhZNFRxMmktWk1ZQUhqc3lNSHgwSnVTSHRicDhGV1BJamxkVld3b2c3ZHJwUFpCNDd5dUh4YUc4czBlX1B6VzAtWnNfbi1hb1hCS1kxenJNWG1lSERUdFFrSFBzcVE5OGFsZ1M?oc=5
-
-Closing Bell: Sensex falls 353 points, Nifty below 22,700; Infosys, Reliance, TCS top drags Zee Business
-
-### 32. Sensex Falls 356 Points, Nifty 50 Slips 65 Points as IT Stocks Drag Markets Lower - Dalal Street Investment Journal
-
-- Source: Dalal Street Investment Journal
-- Published: 2026-10-28T09:39:05+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVlEREZJc0o4MUtJRHJ5Yi0xdk12RFE3eUZkV2lWOUkzeVJxNXFndS1IUWJZQ2YwcXdPWHVCUkdoMEIwUGR4ckVmQk4tbDBnVmxTOUlsc0VueGg0Q3VfYm1pbWMzZlEtTnd5RWF0U19POFdLemtLQzdUZXFPSFpHY3BQNjBQTlRkUUx5Q2Fydi1YVWltUGlIbThJVjhvQW5tel9YakI4UzIyeE8wcUZoQUVCQ0x6WHlYOUJYVnlSUjBBdmJlVUxFdg?oc=5
-
-Sensex Falls 356 Points, Nifty 50 Slips 65 Points as IT Stocks Drag Markets Lower Dalal Street Investment Journal
-
-### 33. India VIX Falls to 15.98 as Markets Open Flat on Global Cues - HDFC Sky
+### 32. India VIX Falls to 15.98 as Markets Open Flat on Global Cues - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-10-29T05:00:05+00:00
@@ -336,7 +326,7 @@ Sensex Falls 356 Points, Nifty 50 Slips 65 Points as IT Stocks Drag Markets Lowe
 
 India VIX Falls to 15.98 as Markets Open Flat on Global Cues HDFC Sky
 
-### 34. NSE's Nifty 50 falls 0.22% as markets remain cautious amid global cues - Traders Union
+### 33. NSE's Nifty 50 falls 0.22% as markets remain cautious amid global cues - Traders Union
 
 - Source: Traders Union
 - Published: 2026-10-29T02:23:31+00:00
@@ -346,7 +336,7 @@ India VIX Falls to 15.98 as Markets Open Flat on Global Cues HDFC Sky
 
 NSE's Nifty 50 falls 0.22% as markets remain cautious amid global cues Traders Union
 
-### 35. FIIs, DIIs turn net buyers of Indian equities on October 28; Sensex falls 353 points - CNBC TV18
+### 34. FIIs, DIIs turn net buyers of Indian equities on October 28; Sensex falls 353 points - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-10-28T14:51:18+00:00
@@ -356,7 +346,7 @@ NSE's Nifty 50 falls 0.22% as markets remain cautious amid global cues Traders U
 
 FIIs, DIIs turn net buyers of Indian equities on October 28; Sensex falls 353 points CNBC TV18
 
-### 36. Sensex falls 353 points as Reliance, IT stocks slide; Jio Platforms surges 27% on debut - Daily Pioneer
+### 35. Sensex falls 353 points as Reliance, IT stocks slide; Jio Platforms surges 27% on debut - Daily Pioneer
 
 - Source: Daily Pioneer
 - Published: 2026-10-28T12:33:43+00:00
@@ -366,7 +356,7 @@ FIIs, DIIs turn net buyers of Indian equities on October 28; Sensex falls 353 po
 
 Sensex falls 353 points as Reliance, IT stocks slide; Jio Platforms surges 27% on debut Daily Pioneer
 
-### 37. Indian Green Energy Stocks See Mixed Trading as Sensex Falls 0.5% on October 28 - SolarQuarter
+### 36. Indian Green Energy Stocks See Mixed Trading as Sensex Falls 0.5% on October 28 - SolarQuarter
 
 - Source: SolarQuarter
 - Published: 2026-10-28T11:59:36+00:00
@@ -376,7 +366,7 @@ Sensex falls 353 points as Reliance, IT stocks slide; Jio Platforms surges 27% o
 
 Indian Green Energy Stocks See Mixed Trading as Sensex Falls 0.5% on October 28 SolarQuarter
 
-### 38. Sensex drops 352 pts on selling in Reliance, IT stocks; Jio Platforms makes stellar debut - bfsi.economictimes.indiatimes.com
+### 37. Sensex drops 352 pts on selling in Reliance, IT stocks; Jio Platforms makes stellar debut - bfsi.economictimes.indiatimes.com
 
 - Source: bfsi.economictimes.indiatimes.com
 - Published: 2026-10-28T11:45:40+00:00
@@ -386,7 +376,7 @@ Indian Green Energy Stocks See Mixed Trading as Sensex Falls 0.5% on October 28 
 
 Sensex drops 352 pts on selling in Reliance, IT stocks; Jio Platforms makes stellar debut bfsi.economictimes.indiatimes.com
 
-### 39. Sensex Falls 352 Pts; Jio Platforms Debuts Strong - Rediff MoneyWiz
+### 38. Sensex Falls 352 Pts; Jio Platforms Debuts Strong - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-10-28T10:49:15+00:00
@@ -395,6 +385,16 @@ Sensex drops 352 pts on selling in Reliance, IT stocks; Jio Platforms makes stel
 - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOdkxZYUwybHRlYkVFeWVCdE42TEMtSF9RaFE1ZUVrN1A1SjJBa0tYM2lnUDllTnJiWlRESG9NdVpsaFJHSUVFUlYxWWg3UW5LQV9HX2tEd2RaM1dyT08zNlJTMXNFOEgyaG9qWVdlOXRqZjFuTmYzMkZnUmtWNUVDMUJSdklzZmdaS2RsdGlZYkF0dW9Uem1IV2VIdVVScndSMDVhQTJucWdqZ9IBrwFBVV95cUxPYU5ZS1g4QndPd1gwSy15TXRkTG9pSy1PQ2tTMFhoQU5YYWxTT2gyVVM1WXIwVUFuMzlsMGZzdk95SUpyTmdsU1pBRVYzei1ZWXZWTEppOGtRUlNxbnd5NzZVVXFDdU9adEo5UVFqNEppWVJLR09DaW1mMVZ4NGNCM0tRdWhtcS1ZeW1sWXFldlVtRFhxcnRFTFlGTWl6RjRTNDVvOVFzVWsxT0ItOE93?oc=5
 
 Sensex Falls 352 Pts; Jio Platforms Debuts Strong Rediff MoneyWiz
+
+### 39. AI investment opportunities, rising global bond yields, high valuations driving FPI outflows from India: PwCs Ranen Banerjee - The Tribune
+
+- Source: The Tribune
+- Published: 2026-10-29T09:47:29+00:00
+- Themes: AI / tech risk, India market, macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM1RXQ2Qyb180dURsN0ZmWDN1V1V1RWItdFlBa1lPVnRFUmlZX0JuenlSdm5vS2k4elFBQXk1TnBEZ0hWekg5WFdQVDB1OVVyWnVmcWJBMFV5T2U2SVQ2NzJTNnBwaVBzSkFrMi1zdU1kTnpYQ1ZSaDVRTlZqOW9mSkFEcmYweDZGTWhXZTBhUVV3MXIyazRoZmFPdW50ZXpCbEQ4U2QtMms0TVNJZk5sV3pKamJLRnlvcTlWc1BiNkdYOGJ6a2hqZkZGS0dnSzhuYUc0V2lOSUgtOHhVS1V6YUlIaFA5X2g4bzNuTC1aLWtHTXNOWUVHR9IB_AFBVV95cUxOZmN5X09EaVZwN3dfa3M5UENIZk52ZnVGR2c4bGJOZF9iV1ZVb0RhVF9YMC1HS29rSmQwVnVtWjBrRGkwWFBnOFd1MHczS0dVSnlNb0Fmam9TcDdqRXNGZ1IxelVOd3diLV9HYnRRTkZEaHZQQkp1SkJxUW1fVWllOXl6Y2VNamN6LUtzTFZDdGI2RFhJbUdDYWpIWlpZdWlwdndnZXpaQmxjay1abnB1bXUzSFFoQ2ktT0xDZjRDQ0RiX0R5OFd1M0VWZzNGWWRsRThDNEtnb21GRjZqY29kTXRjSmt6dmg5VkJMbjNDbFdPWnZPdExFSy0zbmU?oc=5
+
+AI investment opportunities, rising global bond yields, high valuations driving FPI outflows from India: PwCs Ranen Banerjee The Tribune
 
 ### 40. Direct plans to become default option from November 1: How choosing direct plans could change your mutual fund SIP returns? - Upstox
 
@@ -616,15 +616,15 @@ AI Stocks Have Lost Over $1 Trillion.The AI Bubble Warning Bell Is Ringing Loude
 
 IREN Stock Falls on New Financing Deal amid Neocloud Selloff Over Higher Borrowing Costs TipRanks
 
-### 62. AI Bubble Hedge? 5 ETFs That Could Protect Investors Without Shorting Nvidia - TradingView
+### 62. AI Bubble Hedge? 5 ETFs To Protect Investors Without Shorting Nvidia - iShares 0-3 Month Treasury Bond ET - Benzinga
 
-- Source: TradingView
+- Source: Benzinga
 - Published: 2026-10-28T15:14:59+00:00
 - Themes: AI / tech risk
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVVqc1Z1UWRMdWtjOXIxRm5KdFY4bmFCcmpHeHVtOERKLUhhR3BuR3pXZmpVUE5ORjA1U3hkU3hQVjUxcUFTQnFxbEVvbVRILUhaVzlSUWh2Z2ZPRV9UNkZFeTFKaHFDSWRiR0E5cG9kb1BVeHk5ZXRpT1VndkdNTVZUdi0yOXJpa0xCY0c3eHV6ZGVRZmdLWTZDUk9VQVlEX2NuNGRDUWFQakpkTHNuM0MzdjFMVXJObUJlMTN1azlXS28zNndkZmlNNkhDYWc?oc=5
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWtuM2tidV9IVkpaa2o2QU16RDBTaks4SUlyeHE4VldlNmhkRFgwb3UxTlo4aHF5Q1FXVGlNQl9QdC1yaEVIRzNkclh5SFVPbWVmOWdBeHE3Y00zUUw0X0ZiaHFLNEdFZXlBZHo1ZHJtYzhCMVc3aWhKdXdua0RxUVBmZUQ4aTlXRW92eURmQ2ZqN2xwNHptLS1nNm9pYnhpRnVfemh1UHFWR2xoY2hoVVhESzhDTmRlbnJjQUQ2U2RFUlkxRjNiWWNLMHM?oc=5
 
-AI Bubble Hedge? 5 ETFs That Could Protect Investors Without Shorting Nvidia TradingView
+AI Bubble Hedge? 5 ETFs To Protect Investors Without Shorting Nvidia - iShares 0-3 Month Treasury Bond ET Benzinga
 
 ### 63. Indian markets end lower as IT weakness and crude oil concerns weigh on sentiment - The New Indian Express
 
@@ -636,27 +636,17 @@ AI Bubble Hedge? 5 ETFs That Could Protect Investors Without Shorting Nvidia Tra
 
 Indian markets end lower as IT weakness and crude oil concerns weigh on sentiment The New Indian Express
 
-### 64. Diwali 2026: Sensex plunged 10,000 points, Nifty dropped 12% since last Diwali. Will Samvat 2083 bring som - The Economic Times
+### 64. SC Rejects Mahua Moitra's Plea, Refuses To Direct SEBI To Disclose AIF, FPI Beneficial Owners - Times Now
 
-- Source: The Economic Times
-- Published: 2026-10-28T09:39:34+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxOY0lETjU2TElLbmQxWFJfUTJrRVhwdFQzZ3V5aERJck5XeER1eVZXbVB5cjVubklRcFFzY1VfejlMWmhObDlFY2lEMkdJa1k1ajZGUXlQLTVmWVl3ZlYyZWlNcmRVTV9sR1FZNndiMHhHa0g4V3JqZXVHMGFlR2xLQlFhejl4WVJMWlBwbmFyQ1hTbjVRNVk0RzZ2RXJ0N0prRnhINWg2b0dORlBiTmlMcUFuMUVlclp5TnhHVklNUy0wVElLY1R4VFFaWTJtUWs0ZVhLYTRTOUpfd0huSkhCNEdIci15QlEwODA0bi1NVEFrbTFJUUt6ZUYzSEZPWTJieXRRQ0pxVDN4SDJuRk9NUdIBlgJBVV95cUxPZkJuSkVMWnJkTXg5ZDUwV0RJdEdqcG45ZEIydmRTSVVwdS1UdnhFaVk2YU9QaDZVZXJndkZrZ2FlbUNkTG5YV0thVG00c2MzN3JwSDM2NTE3VE1xVkxvYXBTcXFzandDMFI5dXJUN2ludVFUZ3g1a21Mb3ZCQy03UTliQUIycTZhNFViMGNySnhlb1h2cEVBMkZtOE9fUjgzczMwS2xfQnVHRmw5RVdZVkNIX0h3VEtfN1hyUlN3aXFacFZjWGc5RTdTRkRKVVFxaFljZ0xkUmhfSDhraVVxZ2JzeG1idkxBRnQ4NHhoOGlOLXJNTWVQam9SLU9JY25TaDJmS292T0d3YkhDSjdGXzFtWUFMUQ?oc=5
-
-Diwali 2026: Sensex plunged 10,000 points, Nifty dropped 12% since last Diwali. Will Samvat 2083 bring som The Economic Times
-
-### 65. SC disposes of Mahua Moitra's plea on disclosure of AIF, FPI owners - Business Standard
-
-- Source: Business Standard
-- Published: 2026-10-29T08:48:26+00:00
+- Source: Times Now
+- Published: 2026-10-29T09:21:44+00:00
 - Themes: India market
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDVQXzk2MXVkeVJsSENEMzdwWThNcFdzVXV6X2VBUUpveXZoeXhuYWtOVlR1RTkwTlR4UF9oSHY2MV9xSGFfYWxGR3lKV2ZqY2hKbzdtNDA3MHRQTDFza1pSUHd0RlBEOHpSU1JXN3hVaHJtWFlmdXlNWHotZHRBVjVKNjdyaHJSZ1djS0lvWEJ3WlNzQ2c1UktZQ3R1SUV6aTBXTUFPbnp5UDk4NXZncWMyaERqMUZzZnpKeGMzLTJxdm1QQXAwT2N4MNIB0AFBVV95cUxPcDJudjhXekQ4eG5kV2o2amxqNW44cXQ4T01wUVRhWVFMUE1uNVZxOVlHeElQM2R3SlM4V252LXJ2cVo2N3ZqRTZjeXp3ZzZPOGJFZ19NMExiZlJ4SXRzVDgxS1QtbmJOY2lneGxjSUxYd2RwUkpYbUVKSkp3Y2k0V0UtS1VVLWREYVJRSFVtQks3MS1pZDFNcmg5VFNFdzFEcnJEWGJyam1UV2FsaGRvUnI2bnA3TGtVWWtoTW1zRldKYTV2aktRNUxaUmpCTGxE?oc=5
+- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcEVWZmZMSllXMXVkZTBfWDQxTzNzVzV3aTV5NlFONnYydjcwWjZjWmJvTWpaYnlQSkZDc1JUZ285WXQ4TjlWckNmYmVfOTVkLWdoankzaV96b2V1WWxZVzBBVHRKR1ZLWlN1Q0JvOTB0a1BxTkVuNjB1aHhnZ0hPZS1Ma3BNTHF6cE55Wl9MQXhoNnQwanpjODE5Z0RjbUpteUF5eWktTHN5ZVRoQ3E1clhXSndKM0JfM2NwUldUZFFOelY1YTZfclEzWFBKamQxeGQyOUJSNlhXRWPSAeABQVVfeXFMTmVRb1pLNXg3a3BQalNPUmpCbU1ZaVFzdExzQ0lRYnFFQXY2QVMtTUNQREd6TlVBZUphcVNmTFhmeFNYN1RNTjhQU2xkMndka2hCZkdSanM5a29od1ZPQ09McUo0ZEFyaTdWeWM2SkVIRjBOd2xsYmV5blUzYVBfYkdiYU4teHFmWGljekhCbFB2UUx4NXpaQk9JSDZVTEZjSGp1M2hUTmpvTndocXJxa09mTFFocVFGWERtdEdFMmVTcEFTellUUmxsbzBWQS16bzBCZENDYzdtWTUzdjB3TW4?oc=5
 
-SC disposes of Mahua Moitra's plea on disclosure of AIF, FPI owners Business Standard
+SC Rejects Mahua Moitra's Plea, Refuses To Direct SEBI To Disclose AIF, FPI Beneficial Owners Times Now
 
-### 66. Supreme Court rejects Mahua Moitra's plea for public disclosure of AIF, FPI owners - The Economic Times
+### 65. Supreme Court rejects Mahua Moitra's plea for public disclosure of AIF, FPI owners - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-29T08:20:00+00:00
@@ -666,7 +656,7 @@ SC disposes of Mahua Moitra's plea on disclosure of AIF, FPI owners Business Sta
 
 Supreme Court rejects Mahua Moitra's plea for public disclosure of AIF, FPI owners The Economic Times
 
-### 67. SC rejects Mahua Moitra plea for disclosure of AIF, FPI owners - Awaz The Voice
+### 66. SC rejects Mahua Moitra plea for disclosure of AIF, FPI owners - Awaz The Voice
 
 - Source: Awaz The Voice
 - Published: 2026-10-29T08:14:05+00:00
@@ -676,7 +666,7 @@ Supreme Court rejects Mahua Moitra's plea for public disclosure of AIF, FPI owne
 
 SC rejects Mahua Moitra plea for disclosure of AIF, FPI owners Awaz The Voice
 
-### 68. The market reset: Is the correction creating an opportunity? - Moneycontrol.com
+### 67. The market reset: Is the correction creating an opportunity? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-29T08:10:08+00:00
@@ -686,7 +676,7 @@ SC rejects Mahua Moitra plea for disclosure of AIF, FPI owners Awaz The Voice
 
 The market reset: Is the correction creating an opportunity? Moneycontrol.com
 
-### 69. PHDCCI seeks abolition of LTCG tax, STCG cut to 10% or lower STT amid record FPI outflows - Business Upturn
+### 68. PHDCCI seeks abolition of LTCG tax, STCG cut to 10% or lower STT amid record FPI outflows - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-10-29T07:58:30+00:00
@@ -696,7 +686,7 @@ The market reset: Is the correction creating an opportunity? Moneycontrol.com
 
 PHDCCI seeks abolition of LTCG tax, STCG cut to 10% or lower STT amid record FPI outflows Business Upturn
 
-### 70. China’s $480 billion AI bust explained. What went wrong with the tech boom? - Firstpost
+### 69. China’s $480 billion AI bust explained. What went wrong with the tech boom? - Firstpost
 
 - Source: Firstpost
 - Published: 2026-10-29T07:54:59+00:00
@@ -706,7 +696,7 @@ PHDCCI seeks abolition of LTCG tax, STCG cut to 10% or lower STT amid record FPI
 
 China’s $480 billion AI bust explained. What went wrong with the tech boom? Firstpost
 
-### 71. China Tech Stocks Sank As AI Optimism Looked Shaky - Finimize
+### 70. China Tech Stocks Sank As AI Optimism Looked Shaky - Finimize
 
 - Source: Finimize
 - Published: 2026-10-29T07:50:29+00:00
@@ -716,7 +706,7 @@ China’s $480 billion AI bust explained. What went wrong with the tech boom? Fi
 
 China Tech Stocks Sank As AI Optimism Looked Shaky Finimize
 
-### 72. FII shareholding: 27 stocks see four consecutive quarters of stake hikes; BHEL, Max Financial among top picks - Upstox
+### 71. FII shareholding: 27 stocks see four consecutive quarters of stake hikes; BHEL, Max Financial among top picks - Upstox
 
 - Source: Upstox
 - Published: 2026-10-29T07:16:14+00:00
@@ -726,7 +716,7 @@ China Tech Stocks Sank As AI Optimism Looked Shaky Finimize
 
 FII shareholding: 27 stocks see four consecutive quarters of stake hikes; BHEL, Max Financial among top picks Upstox
 
-### 73. Asian stocks fall as Alphabet weighs on global sentiment - IDNFinancials
+### 72. Asian stocks fall as Alphabet weighs on global sentiment - IDNFinancials
 
 - Source: IDNFinancials
 - Published: 2026-10-29T06:30:00+00:00
@@ -736,7 +726,7 @@ FII shareholding: 27 stocks see four consecutive quarters of stake hikes; BHEL, 
 
 Asian stocks fall as Alphabet weighs on global sentiment IDNFinancials
 
-### 74. Go Global, Avoid Midcap Mania, Prepare For A Credit Crisis: Saurabh Mukherjea - Moneycontrol.com
+### 73. Go Global, Avoid Midcap Mania, Prepare For A Credit Crisis: Saurabh Mukherjea - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-29T06:00:26+00:00
@@ -746,7 +736,7 @@ Asian stocks fall as Alphabet weighs on global sentiment IDNFinancials
 
 Go Global, Avoid Midcap Mania, Prepare For A Credit Crisis: Saurabh Mukherjea Moneycontrol.com
 
-### 75. Sundram Fasteners Q2 Profit Rises 13%, 405% Dividend Declared; Why Stock Falls 8% - NDTV Profit
+### 74. Sundram Fasteners Q2 Profit Rises 13%, 405% Dividend Declared; Why Stock Falls 8% - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-29T04:43:19+00:00
@@ -756,7 +746,7 @@ Go Global, Avoid Midcap Mania, Prepare For A Credit Crisis: Saurabh Mukherjea Mo
 
 Sundram Fasteners Q2 Profit Rises 13%, 405% Dividend Declared; Why Stock Falls 8% NDTV Profit
 
-### 76. Potential LTCG tax cut could revive FIIs’ India bet, says Jefferies: Which stocks may benefit most? - The Economic Times
+### 75. Potential LTCG tax cut could revive FIIs’ India bet, says Jefferies: Which stocks may benefit most? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-29T04:32:23+00:00
@@ -766,7 +756,7 @@ Sundram Fasteners Q2 Profit Rises 13%, 405% Dividend Declared; Why Stock Falls 8
 
 Potential LTCG tax cut could revive FIIs’ India bet, says Jefferies: Which stocks may benefit most? The Economic Times
 
-### 77. Nifty’s early comeback signal: Why largecaps are holding up as broader market slides - The Economic Times
+### 76. Nifty’s early comeback signal: Why largecaps are holding up as broader market slides - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-29T04:27:05+00:00
@@ -776,7 +766,7 @@ Potential LTCG tax cut could revive FIIs’ India bet, says Jefferies: Which sto
 
 Nifty’s early comeback signal: Why largecaps are holding up as broader market slides The Economic Times
 
-### 78. Another Day of Attrition IT Slips on AI Bounce; Auto, Banking Spur Part Recovery - TradingView
+### 77. Another Day of Attrition IT Slips on AI Bounce; Auto, Banking Spur Part Recovery - TradingView
 
 - Source: TradingView
 - Published: 2026-10-29T04:11:00+00:00
@@ -786,7 +776,7 @@ Nifty’s early comeback signal: Why largecaps are holding up as broader market 
 
 Another Day of Attrition IT Slips on AI Bounce; Auto, Banking Spur Part Recovery TradingView
 
-### 79. EAAA India Alternatives IPO allotment today; check status on BSE, NSE and registrar - Moneycontrol.com
+### 78. EAAA India Alternatives IPO allotment today; check status on BSE, NSE and registrar - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-29T04:05:33+00:00
@@ -796,7 +786,7 @@ Another Day of Attrition IT Slips on AI Bounce; Auto, Banking Spur Part Recovery
 
 EAAA India Alternatives IPO allotment today; check status on BSE, NSE and registrar Moneycontrol.com
 
-### 80. Generative AI Shapes the Full Lifecycle of Health Misinformation, Review Finds - Bioengineer.org
+### 79. Generative AI Shapes the Full Lifecycle of Health Misinformation, Review Finds - Bioengineer.org
 
 - Source: Bioengineer.org
 - Published: 2026-10-29T03:57:47+00:00
@@ -805,3 +795,13 @@ EAAA India Alternatives IPO allotment today; check status on BSE, NSE and regist
 - Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQbzhrdlZiT3hYMWZBODdpNzIzbC1YYXdlQV9GaGRQYWpTLTFpcnp5RDBNakx6VXN6dURYeUpVRnRYZ25ndmFKRnlwWFdseXBBTTF4MzRPQ0dLdkJrLThkOHlMMmNTSXE3T1l5Z1NmSEtjRzdLb2hSc2hRWEI3anJ3RGtPMklmNC1YTUVQbnNCdVZCVUstdllwdG5MTDZab3dXNjZScA?oc=5
 
 Generative AI Shapes the Full Lifecycle of Health Misinformation, Review Finds Bioengineer.org
+
+### 80. China’s AI Stocks Rebound After $480 Billion Rout. Is the Worst Over? - Open Magazine
+
+- Source: Open Magazine
+- Published: 2026-10-29T02:20:06+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPQWFkUDBxdlRySkRxT1hZbkhhWUZDQVVOX1pHYTBKc05Ma25lQ1lLQWlTVHFETGRXcXl0N0JRZDdXZkUxczY4SmVIZF9SWWhtV2ZZNzFsU3pveVh2ZjlfLTQtNmR2b3dXaVRlNUhTaXJsaHAxeDN0V0lrOGlENGxTT2JLai1hNnlzT1JYWXdmQlZXSGo2OUYxRHVlb1lWSjFfVE5GQ0Ntcw?oc=5
+
+China’s AI Stocks Rebound After $480 Billion Rout. Is the Worst Over? Open Magazine

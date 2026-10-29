@@ -46,23 +46,8 @@
     "score": 10
   },
   {
-    "title": "Sensex sheds 691 points, Nifty falls below 22,600 on rising crude prices, FPI concerns - India's News.Net",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWTlPRFQwV01mYkE0TmQ1alY1S0ZIVVJ5QlltR3JrRDlQOW5ORG5Gbm84ZWJ4a2t0YkRxWE5ldTlzWFZoc2JBLWFTNFJBTmxsR011ZDlRdlVLZWFIekctVk9OdHl0dEQ2SmJ3VGxZS3ZoT3B3RFBZTWZFUkxZV0FFZERhWmVGYm1PTkRsSkZXN2p4a1FCaVNFbEx1QnVEZVk5Q1Rvck5XbjVEUnBvWHdNY1RkQ0lKRGVDVUNrNkMtbUZWdTg?oc=5",
-    "description": "Sensex sheds 691 points, Nifty falls below 22,600 on rising crude prices, FPI concerns India's News.Net",
-    "published": "2026-10-28T10:02:00+00:00",
-    "source": "India's News.Net",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market",
-      "macro / flows"
-    ],
-    "score": 10
-  },
-  {
     "title": "Global Market: China stocks fall as tech selloff deepens despite Fed rate pause - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZWdidlhNcjZKb0gxMWhXUWIzOEdqcmVnZ1dpMEJRbWRNaFFVYUU3WmtvSUpZel9kdjl3cnQzLVhBSm4zM0FGOG5Sc3c0aFRDRGoxRmhBRG1zWEs4anFPZU5IQjdZQVliNV9oRUNGQkhXTjdmMXNQUG5PbnJmVENkM3ZzUGlWM19sWlhraVBwNGVZV0tockRnYkozRGdtZGJaTGl6NEQzeE9iODJnSlBCMDVxWGRTMGd3dTdHc0x4SE9sMTNFSjZOTDVFYlNxNW5BWF9UcFo1dmRpVFpZeHJtOWIxRS1IN1YzVE1v?oc=5",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPdTFBei11ZG82WHQxSnVzVTRzR1BiXzRBV253T0kxLUdKN2x2TnAxbmFTT1E0eDFjbF8wX1BqNWtITHVheUs1SDlBMnl2amg5MHNJLXU5VWtDS0d6VGxYNDRGTjlrcElvdDNCd3BocFR3R1FKOTJjUjNPMHh6S1ZSU1gzN2lXOVlnQmZTWmJ0RVByNWQ0X042ZXRITWJnQ2VoX1VZMGUyT0lFQnVqcl9VRHFqY1I2dVV5eVdXeVdpZUxGMm1kNFk2Sk1hOWxGMW5Fakd1dURuN0pfQkpiRHNrVHpqb21CMmlzT1doV2dNbVQ5dl90bUtv?oc=5",
     "description": "Global Market: China stocks fall as tech selloff deepens despite Fed rate pause The Economic Times",
     "published": "2026-10-29T07:34:54+00:00",
     "source": "The Economic Times",
@@ -119,6 +104,21 @@
       "macro / flows"
     ],
     "score": 9
+  },
+  {
+    "title": "AI Stocks Fall After Alphabet Earnings Disappoint - WSJ",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdEt3QnZYMW5WSVBNMUNqQ3pOUEV6RVVoM2xLa2RfV0VEQ1YyTzE2MFIwTnNGdTRFelljM3gtM3lORnhLYW5nT1VaSk5IVV85NlBIeGFlWlhaOHFIcHZhTm1ER1FsZzdZRElZUHl0Mm4ya04tMjZ2WV9ZbzVJLUhocktXVVFYVy1lbEJOWVF4eFVHdVNsbEQ4Tg?oc=5",
+    "description": "AI Stocks Fall After Alphabet Earnings Disappoint WSJ",
+    "published": "2026-10-29T10:06:13+00:00",
+    "source": "WSJ",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling",
+      "macro / flows"
+    ],
+    "score": 8
   },
   {
     "title": "Goodluck India shares fall over 3% after Q2 net profit declines 23.4% YoY to Rs to 49 crore, EBITDA falls 13.4% - Business Upturn",
@@ -274,6 +274,21 @@
     "themes": [
       "market selling",
       "India market"
+    ],
+    "score": 7
+  },
+  {
+    "title": "BSE SENSEX Falls to 73,123.83 as Brent Crude Holds Near $114 Amid US-Iran Negotiations and the Ukraine-Russia War - BBN Times",
+    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPTlN6VVRGVkYwMlczMWdPdTRhYXFPUU54UHNFNGRqTU1JdEJORXlyaWtMaGt3eFpmaGFSQ2U1dk01QnZZSjEtNFc5SVpMMUhCUmd3Q214YmJJY3lKeHE3Y2JzNENILTdXNHJFV25UeThSX0RobjdtVGlteDVOczViWW90S3ZMTnFwU0tmSGpxQ2lOUWRsYlJuMnNmLUEtaHRIWTMwcWV2elg5VnpYMjhRYi1WZ0Q4Sjh6bHhSMkpPdzdhZ25wbUw2VXIyUUE1Z3EyZG8wSWpzdXdZVXdtRC15Mg?oc=5",
+    "description": "BSE SENSEX Falls to 73,123.83 as Brent Crude Holds Near $114 Amid US-Iran Negotiations and the Ukraine-Russia War BBN Times",
+    "published": "2026-10-28T16:26:49+00:00",
+    "source": "BBN Times",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "India market",
+      "macro / flows"
     ],
     "score": 7
   },
@@ -434,34 +449,6 @@
     "score": 7
   },
   {
-    "title": "Closing Bell: Sensex falls 353 points, Nifty below 22,700; Infosys, Reliance, TCS top drags - Zee Business",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTmJvbVBYN0Q4aWdUaG5KQW03by1oSFZ0LWt3NzU5bktRV3YtUXM5ZWZrdDJRV3VvMVNwdlZ1UGRYVE1HRkZCbXFSdl9RYTEwWlk2YVRROHhhVUwtcFN4T3FqY0o4UTlfMnhZNFRxMmktWk1ZQUhqc3lNSHgwSnVTSHRicDhGV1BJamxkVld3b2c3ZHJwUFpCNDd5dUh4YUc4czBlX1B6VzAtWnNfbi1hb1hCS1kxenJNWG1lSERUdFFrSFBzcVE5OGFsZ1M?oc=5",
-    "description": "Closing Bell: Sensex falls 353 points, Nifty below 22,700; Infosys, Reliance, TCS top drags Zee Business",
-    "published": "2026-10-28T10:06:14+00:00",
-    "source": "Zee Business",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Sensex Falls 356 Points, Nifty 50 Slips 65 Points as IT Stocks Drag Markets Lower - Dalal Street Investment Journal",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVVlEREZJc0o4MUtJRHJ5Yi0xdk12RFE3eUZkV2lWOUkzeVJxNXFndS1IUWJZQ2YwcXdPWHVCUkdoMEIwUGR4ckVmQk4tbDBnVmxTOUlsc0VueGg0Q3VfYm1pbWMzZlEtTnd5RWF0U19POFdLemtLQzdUZXFPSFpHY3BQNjBQTlRkUUx5Q2Fydi1YVWltUGlIbThJVjhvQW5tel9YakI4UzIyeE8wcUZoQUVCQ0x6WHlYOUJYVnlSUjBBdmJlVUxFdg?oc=5",
-    "description": "Sensex Falls 356 Points, Nifty 50 Slips 65 Points as IT Stocks Drag Markets Lower Dalal Street Investment Journal",
-    "published": "2026-10-28T09:39:05+00:00",
-    "source": "Dalal Street Investment Journal",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
-    ],
-    "score": 7
-  },
-  {
     "title": "India VIX Falls to 15.98 as Markets Open Flat on Global Cues - HDFC Sky",
     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMnZlVGVfYkFZUVVGU0tyTUszd3g4T19hclJyZXp2cFJDeWlwTjVPVnNVZmg5SVFIWVNoOEVQdjBXUklIMWlOZmlJRU5meDloX250MzVPWjktZ0c1bHNkeTVnYVpRcm9iLXAyYlNBV19fcDVReGw2WTVETURyVEJMbXg1UmJ6ZV9LdmgyQm5nUkR4SmVGUzBjandZZE55TjdyME9heXRoUXVTTFpOM2F6S1lZcElna0Ri?oc=5",
     "description": "India VIX Falls to 15.98 as Markets Open Flat on Global Cues HDFC Sky",
@@ -558,6 +545,21 @@
       "India market"
     ],
     "score": 6
+  },
+  {
+    "title": "AI investment opportunities, rising global bond yields, high valuations driving FPI outflows from India: PwCs Ranen Banerjee - The Tribune",
+    "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPM1RXQ2Qyb180dURsN0ZmWDN1V1V1RWItdFlBa1lPVnRFUmlZX0JuenlSdm5vS2k4elFBQXk1TnBEZ0hWekg5WFdQVDB1OVVyWnVmcWJBMFV5T2U2SVQ2NzJTNnBwaVBzSkFrMi1zdU1kTnpYQ1ZSaDVRTlZqOW9mSkFEcmYweDZGTWhXZTBhUVV3MXIyazRoZmFPdW50ZXpCbEQ4U2QtMms0TVNJZk5sV3pKamJLRnlvcTlWc1BiNkdYOGJ6a2hqZkZGS0dnSzhuYUc0V2lOSUgtOHhVS1V6YUlIaFA5X2g4bzNuTC1aLWtHTXNOWUVHR9IB_AFBVV95cUxOZmN5X09EaVZwN3dfa3M5UENIZk52ZnVGR2c4bGJOZF9iV1ZVb0RhVF9YMC1HS29rSmQwVnVtWjBrRGkwWFBnOFd1MHczS0dVSnlNb0Fmam9TcDdqRXNGZ1IxelVOd3diLV9HYnRRTkZEaHZQQkp1SkJxUW1fVWllOXl6Y2VNamN6LUtzTFZDdGI2RFhJbUdDYWpIWlpZdWlwdndnZXpaQmxjay1abnB1bXUzSFFoQ2ktT0xDZjRDQ0RiX0R5OFd1M0VWZzNGWWRsRThDNEtnb21GRjZqY29kTXRjSmt6dmg5VkJMbjNDbFdPWnZPdExFSy0zbmU?oc=5",
+    "description": "AI investment opportunities, rising global bond yields, high valuations driving FPI outflows from India: PwCs Ranen Banerjee The Tribune",
+    "published": "2026-10-29T09:47:29+00:00",
+    "source": "The Tribune",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "India market",
+      "macro / flows"
+    ],
+    "score": 4
   },
   {
     "title": "Direct plans to become default option from November 1: How choosing direct plans could change your mutual fund SIP returns? - Upstox",
@@ -841,11 +843,11 @@
     "score": 2
   },
   {
-    "title": "AI Bubble Hedge? 5 ETFs That Could Protect Investors Without Shorting Nvidia - TradingView",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOVVVqc1Z1UWRMdWtjOXIxRm5KdFY4bmFCcmpHeHVtOERKLUhhR3BuR3pXZmpVUE5ORjA1U3hkU3hQVjUxcUFTQnFxbEVvbVRILUhaVzlSUWh2Z2ZPRV9UNkZFeTFKaHFDSWRiR0E5cG9kb1BVeHk5ZXRpT1VndkdNTVZUdi0yOXJpa0xCY0c3eHV6ZGVRZmdLWTZDUk9VQVlEX2NuNGRDUWFQakpkTHNuM0MzdjFMVXJObUJlMTN1azlXS28zNndkZmlNNkhDYWc?oc=5",
-    "description": "AI Bubble Hedge? 5 ETFs That Could Protect Investors Without Shorting Nvidia TradingView",
+    "title": "AI Bubble Hedge? 5 ETFs To Protect Investors Without Shorting Nvidia - iShares 0-3 Month Treasury Bond ET - Benzinga",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPZWtuM2tidV9IVkpaa2o2QU16RDBTaks4SUlyeHE4VldlNmhkRFgwb3UxTlo4aHF5Q1FXVGlNQl9QdC1yaEVIRzNkclh5SFVPbWVmOWdBeHE3Y00zUUw0X0ZiaHFLNEdFZXlBZHo1ZHJtYzhCMVc3aWhKdXdua0RxUVBmZUQ4aTlXRW92eURmQ2ZqN2xwNHptLS1nNm9pYnhpRnVfemh1UHFWR2xoY2hoVVhESzhDTmRlbnJjQUQ2U2RFUlkxRjNiWWNLMHM?oc=5",
+    "description": "AI Bubble Hedge? 5 ETFs To Protect Investors Without Shorting Nvidia - iShares 0-3 Month Treasury Bond ET Benzinga",
     "published": "2026-10-28T15:14:59+00:00",
-    "source": "TradingView",
+    "source": "Benzinga",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -867,24 +869,11 @@
     "score": 2
   },
   {
-    "title": "Diwali 2026: Sensex plunged 10,000 points, Nifty dropped 12% since last Diwali. Will Samvat 2083 bring som - The Economic Times",
-    "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOY0lETjU2TElLbmQxWFJfUTJrRVhwdFQzZ3V5aERJck5XeER1eVZXbVB5cjVubklRcFFzY1VfejlMWmhObDlFY2lEMkdJa1k1ajZGUXlQLTVmWVl3ZlYyZWlNcmRVTV9sR1FZNndiMHhHa0g4V3JqZXVHMGFlR2xLQlFhejl4WVJMWlBwbmFyQ1hTbjVRNVk0RzZ2RXJ0N0prRnhINWg2b0dORlBiTmlMcUFuMUVlclp5TnhHVklNUy0wVElLY1R4VFFaWTJtUWs0ZVhLYTRTOUpfd0huSkhCNEdIci15QlEwODA0bi1NVEFrbTFJUUt6ZUYzSEZPWTJieXRRQ0pxVDN4SDJuRk9NUdIBlgJBVV95cUxPZkJuSkVMWnJkTXg5ZDUwV0RJdEdqcG45ZEIydmRTSVVwdS1UdnhFaVk2YU9QaDZVZXJndkZrZ2FlbUNkTG5YV0thVG00c2MzN3JwSDM2NTE3VE1xVkxvYXBTcXFzandDMFI5dXJUN2ludVFUZ3g1a21Mb3ZCQy03UTliQUIycTZhNFViMGNySnhlb1h2cEVBMkZtOE9fUjgzczMwS2xfQnVHRmw5RVdZVkNIX0h3VEtfN1hyUlN3aXFacFZjWGc5RTdTRkRKVVFxaFljZ0xkUmhfSDhraVVxZ2JzeG1idkxBRnQ4NHhoOGlOLXJNTWVQam9SLU9JY25TaDJmS292T0d3YkhDSjdGXzFtWUFMUQ?oc=5",
-    "description": "Diwali 2026: Sensex plunged 10,000 points, Nifty dropped 12% since last Diwali. Will Samvat 2083 bring som The Economic Times",
-    "published": "2026-10-28T09:39:34+00:00",
-    "source": "The Economic Times",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 2
-  },
-  {
-    "title": "SC disposes of Mahua Moitra's plea on disclosure of AIF, FPI owners - Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQaDVQXzk2MXVkeVJsSENEMzdwWThNcFdzVXV6X2VBUUpveXZoeXhuYWtOVlR1RTkwTlR4UF9oSHY2MV9xSGFfYWxGR3lKV2ZqY2hKbzdtNDA3MHRQTDFza1pSUHd0RlBEOHpSU1JXN3hVaHJtWFlmdXlNWHotZHRBVjVKNjdyaHJSZ1djS0lvWEJ3WlNzQ2c1UktZQ3R1SUV6aTBXTUFPbnp5UDk4NXZncWMyaERqMUZzZnpKeGMzLTJxdm1QQXAwT2N4MNIB0AFBVV95cUxPcDJudjhXekQ4eG5kV2o2amxqNW44cXQ4T01wUVRhWVFMUE1uNVZxOVlHeElQM2R3SlM4V252LXJ2cVo2N3ZqRTZjeXp3ZzZPOGJFZ19NMExiZlJ4SXRzVDgxS1QtbmJOY2lneGxjSUxYd2RwUkpYbUVKSkp3Y2k0V0UtS1VVLWREYVJRSFVtQks3MS1pZDFNcmg5VFNFdzFEcnJEWGJyam1UV2FsaGRvUnI2bnA3TGtVWWtoTW1zRldKYTV2aktRNUxaUmpCTGxE?oc=5",
-    "description": "SC disposes of Mahua Moitra's plea on disclosure of AIF, FPI owners Business Standard",
-    "published": "2026-10-29T08:48:26+00:00",
-    "source": "Business Standard",
+    "title": "SC Rejects Mahua Moitra's Plea, Refuses To Direct SEBI To Disclose AIF, FPI Beneficial Owners - Times Now",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNcEVWZmZMSllXMXVkZTBfWDQxTzNzVzV3aTV5NlFONnYydjcwWjZjWmJvTWpaYnlQSkZDc1JUZ285WXQ4TjlWckNmYmVfOTVkLWdoankzaV96b2V1WWxZVzBBVHRKR1ZLWlN1Q0JvOTB0a1BxTkVuNjB1aHhnZ0hPZS1Ma3BNTHF6cE55Wl9MQXhoNnQwanpjODE5Z0RjbUpteUF5eWktTHN5ZVRoQ3E1clhXSndKM0JfM2NwUldUZFFOelY1YTZfclEzWFBKamQxeGQyOUJSNlhXRWPSAeABQVVfeXFMTmVRb1pLNXg3a3BQalNPUmpCbU1ZaVFzdExzQ0lRYnFFQXY2QVMtTUNQREd6TlVBZUphcVNmTFhmeFNYN1RNTjhQU2xkMndka2hCZkdSanM5a29od1ZPQ09McUo0ZEFyaTdWeWM2SkVIRjBOd2xsYmV5blUzYVBfYkdiYU4teHFmWGljekhCbFB2UUx4NXpaQk9JSDZVTEZjSGp1M2hUTmpvTndocXJxa09mTFFocVFGWERtdEdFMmVTcEFTellUUmxsbzBWQS16bzBCZENDYzdtWTUzdjB3TW4?oc=5",
+    "description": "SC Rejects Mahua Moitra's Plea, Refuses To Direct SEBI To Disclose AIF, FPI Beneficial Owners Times Now",
+    "published": "2026-10-29T09:21:44+00:00",
+    "source": "Times Now",
     "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -1166,6 +1155,19 @@
     "score": 1
   },
   {
+    "title": "Bitcoin: FOMC Correction Sparks Low Sweep Warning - blockchain.news",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcXRyVHpkOGllLUsyMDlPcVFReF9GbkFhVVdVSU90d2JteTl0YzRBdTJKaXJPOGZDV3lOTmpCSDF4UklpZ2dPY1VCMjlHN2xYSXRGVXl6dkpaQUJGME52WnZzTmdWbUJ3bkVkQ0t5QmFFcDg4OEN6bndVbC1CV3A4bFB6Ui1QOTRYYVE?oc=5",
+    "description": "Bitcoin: FOMC Correction Sparks Low Sweep Warning blockchain.news",
+    "published": "2026-10-29T01:20:00+00:00",
+    "source": "blockchain.news",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling"
+    ],
+    "score": 1
+  },
+  {
     "title": "D-St set for a negative opening as GIFT Nifty signals weak start - The Economic Times",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZExNYmk0R2NfYTN5a0hoZEFmbDNvOXVLM0VDMjdKMjJOUWxrNVVCWEpKckRWOUI4QkwxODktREdiZnJaN0d5blFYNGRkZF9CRWlZVEVKZmhWc19QeEdNb2U2X1pxNnNOUEtQM1VKcWlXZG9rNzN3UnJZSWpBcTNubTRObzFTaGExT1E4ZjVhV1BxWllOcGp3V0tTMDEtRXJWMWROQXdBam13Q2tSNFlaaFBGWnBGcTMteUZKVnhhdVRhV1EwZV9Cd0Jwd2bSAdIBQVVfeXFMUEZxUTY2WnRqa29QeGdEWG40c204VmpVa0RGS2VSSmZ6dkNtSWdNUlhlQlR2YTNnNmNwVGhJWm1rMVk5ZmR3cmJoaE1HRWpoRGQ5Z3l5YnUzblVxN0xZaWlWelBGMEs4UTFPN3VjdVc5SEdjeXNuLWQ4RTgxaG9ZOGhfZ2NkX1NRZEVVTGpOY3A0Sm1ZaFZsQWFjRDlfaTlmOEJ5eXhZWldsZS0xREt2YUlORERBRmZ6Q2Q1bzFfdzN1a3hSSUNfTVRkU1RwanVpT2ZB?oc=5",
     "description": "D-St set for a negative opening as GIFT Nifty signals weak start The Economic Times",
@@ -1435,32 +1437,6 @@
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "China AI bubble bursts as tech stocks erase $480 billion - YourStory.com",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOUtKQzNvV0VEVWxDREt0MUM3NklRazRLT1ZBd1F3aWgxSDRKY1VkdGdZM2FhLURaWjVYNHAybTRMN1cxdU9sYlhCQU9kNWQxc2xBMXhiNmJtWkdsY2ZfUFB1TDhNS2VuRDVDYmpfSzFFQzRHaWdCcnFn?oc=5",
-    "description": "China AI bubble bursts as tech stocks erase $480 billion YourStory.com",
-    "published": "2026-10-28T10:03:47+00:00",
-    "source": "YourStory.com",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk"
-    ],
-    "score": 1
-  },
-  {
-    "title": "DXO ViewPoint 6 Offers Image Correction Without Crops - Fstoppers",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQemw1MnRKLUR2Sm13MTQyUXJVZVJ4RGM3RGtuWXJvZGpzUXFRWi1Hb3l6QnJSMWxJWTNVV1pka0poTm1EdW85U2FDcDhPV0V1NTdKTmlwSG03T082LW9HNkQyVlZVaHlwcnRVNE45OUlrS2tHZjE3bEdPVXdjMlhBU0JjSXZtZ1dDT3ZfUFV2Tm9SSGFxUnloSW1JYw?oc=5",
-    "description": "DXO ViewPoint 6 Offers Image Correction Without Crops Fstoppers",
-    "published": "2026-10-28T09:50:55+00:00",
-    "source": "Fstoppers",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
     ],
     "score": 1
   }
