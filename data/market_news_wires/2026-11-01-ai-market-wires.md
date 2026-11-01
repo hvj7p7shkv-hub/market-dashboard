@@ -1,22 +1,12 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-01 05:07
+Generated: 2026-11-01 05:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. Wall Street tumbles as AI spending concerns trigger tech selloff, Nasdaq posts biggest fall since June - India's News.Net
-
-- Source: India's News.Net
-- Published: 2026-10-31T07:39:33+00:00
-- Themes: AI / tech risk, market selling, India market
-- Score: 14
-- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxQOERnUkZwd25UeWt4c25KcHlRV19jWHd1eU5JM2V4enNvbkJTX0FKZjJ1aWhYWDhsOFViQlE0Wjg0Y2E3cTdldDVWMlNidzlkenpjdk9pWmpEblpQa0ZXc1pjTXR2TTlmUGdJYzN5V2dvcHBUOWdPekxHTkpjOGpmSGdNYWZzeHBvb1ZoVUhIa0w1Sm84VjAtbXJ5MWlIWEhiek1OYTFBSUFVUkpFUzBOYy03bkxEeGhfMnRYaURvRGhjYVJqdkotY18xZEd4YlZuZ0F0Y19ILXdWTGc?oc=5
-
-Wall Street tumbles as AI spending concerns trigger tech selloff, Nasdaq posts biggest fall since June India's News.Net
-
-### 2. Sensex falls 493 points, Nifty declines for sixth straight day as crude oil rises to USD 91/barrel - DD News
+### 1. Sensex falls 493 points, Nifty declines for sixth straight day as crude oil rises to USD 91/barrel - DD News
 
 - Source: DD News
 - Published: 2026-10-31T09:10:01+00:00
@@ -26,7 +16,7 @@ Wall Street tumbles as AI spending concerns trigger tech selloff, Nasdaq posts b
 
 Sensex falls 493 points, Nifty declines for sixth straight day as crude oil rises to USD 91/barrel DD News
 
-### 3. Sensex Falls 460 Points, Nifty Drops Below 22,700 as Rising Oil Prices Extend Market Losing Streak - INDIA New England News
+### 2. Sensex Falls 460 Points, Nifty Drops Below 22,700 as Rising Oil Prices Extend Market Losing Streak - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-31T07:54:46+00:00
@@ -36,7 +26,7 @@ Sensex falls 493 points, Nifty declines for sixth straight day as crude oil rise
 
 Sensex Falls 460 Points, Nifty Drops Below 22,700 as Rising Oil Prices Extend Market Losing Streak INDIA New England News
 
-### 4. Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off - Livemint
+### 3. Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off - Livemint
 
 - Source: Livemint
 - Published: 2026-10-31T18:37:22+00:00
@@ -46,7 +36,7 @@ Sensex Falls 460 Points, Nifty Drops Below 22,700 as Rising Oil Prices Extend Ma
 
 Why did investors dump technology stocks this week? AI spending concerns trigger Wall Street sell-off Livemint
 
-### 5. AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint investors - Moneycontrol.com
+### 4. AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint investors - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-31T17:35:44+00:00
@@ -56,7 +46,7 @@ Why did investors dump technology stocks this week? AI spending concerns trigger
 
 AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint investors Moneycontrol.com
 
-### 6. AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint investors - Moneycontrol.com
+### 5. AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint investors - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-31T17:35:44+00:00
@@ -66,7 +56,7 @@ AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint 
 
 AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint investors Moneycontrol.com
 
-### 7. 'AI Dollar Is Here': Deutsche Bank Flags Risks To US Currency Amid AI-driven Equity Selloff - NDTV Profit
+### 6. 'AI Dollar Is Here': Deutsche Bank Flags Risks To US Currency Amid AI-driven Equity Selloff - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-31T16:57:36+00:00
@@ -75,6 +65,16 @@ AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint 
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNbWIyWUppa1FVYjNMSElSUVpRa3R3VWhISDFVMmNfSjNXSzNRYnFhZzZ5YVQyb1R4VU1nNWJjakVLcHBaN3pRWFRNNlVRaGZRNjhaYjM3SUV6LWEzc25CN2hFS0FETUFWRkJIR1VyTVJHSUtKaHNnSmU5U0ZxQnU1Vnp5N2VoZzVCLU9mQlNJdnp0WHRmOGljVFJhbHAwRkl2RVpvNWRkS25oQlpKcnd6STRYTFRaTjJrVm1CMktmNHU1bTJoOW8td2p1ci3SAdQBQVVfeXFMUDFaQ2g2ZnF3T2ZKa1NDbWEyQ3pnRlNFRUhsTU9Cd0p5THNHYll3QndRTTBXeGhuNHRYU253Q0Qza2ljMnBtTWE5ZElDZlYxWGdqNVp0ZDlDUUM0NU9kMGNCSy1ueThiM2R3NHFZVk9YejRoazFKZnRBRjBQV3ZNYU5iUHhpcGhPVlBPbFEyMEJSZjNfR0xhd3VoZ0JwZW9LaXo1ZTdYd2U0eGlMMGVxaFZGWE12Xzh1ODY2dTRBTWNXbUtJWGJxemwySzVTVVAyNldSWjQ?oc=5
 
 'AI Dollar Is Here': Deutsche Bank Flags Risks To US Currency Amid AI-driven Equity Selloff NDTV Profit
+
+### 7. Tech and chip makers lose $1 trillion in massive AI sell-off - Mashable
+
+- Source: Mashable
+- Published: 2026-10-31T14:28:41+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMifEFVX3lxTE9saDdmZUNpMVJzTkU5eG1QZXZyZDhKVTlNQTJ0NzlKOGFULU45eTZ6MHZWeWw4UlFjcVlDUFZFUnprdjlXNklReHZvWVJ3QWNTaHpEb3F0ejlpcTNQT3ZBQ1dmcXhlOW94SlhOYThmSHptOW5HSHNneHJJcWQ?oc=5
+
+Tech and chip makers lose $1 trillion in massive AI sell-off Mashable
 
 ### 8. Tech selloff deepens as investors question the cost of the AI buildout - NetNewsLedger
 
@@ -86,17 +86,7 @@ AI spending concerns deepen Wall Street selloff as Big Tech earnings disappoint 
 
 Tech selloff deepens as investors question the cost of the AI buildout NetNewsLedger
 
-### 9. Nasdaq Enters Correction Amid AI Earnings Risks, Google Loses $500B - KuCoin
-
-- Source: KuCoin
-- Published: 2026-10-31T11:03:24+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTBSTkZZckpTTms4OFBGdWt4MXptUndyd0tCRDBzTnljdHpuNFNfRkdpeTJEWk9SUENvVXNMOVJLeFV0NVJ0ekcwZkZIRXluTU4ycEFHSE5hUm9WUWVFVFJoMGNUdXFWRGVXSnREdjhXQ1ZoM3FSbGJXbDBuQlhoX0tIdlp1cmhMQnlRSVN3Q0M3QUEzbEk5Ty1jRGZ1QnZz?oc=5
-
-Nasdaq Enters Correction Amid AI Earnings Risks, Google Loses $500B KuCoin
-
-### 10. AI Sell-Off Spreads Beyond Tech as Credit Risks Rise — Is a Deeper Market Correction Building? - Action Forex
+### 9. AI Sell-Off Spreads Beyond Tech as Credit Risks Rise — Is a Deeper Market Correction Building? - Action Forex
 
 - Source: Action Forex
 - Published: 2026-10-31T08:57:46+00:00
@@ -106,7 +96,7 @@ Nasdaq Enters Correction Amid AI Earnings Risks, Google Loses $500B KuCoin
 
 AI Sell-Off Spreads Beyond Tech as Credit Risks Rise — Is a Deeper Market Correction Building? Action Forex
 
-### 11. US Stocks Fall as Alphabet’s AI Spending and Weak Amazon Outlook Deepen Tech Sell-Off - Tekedia
+### 10. US Stocks Fall as Alphabet’s AI Spending and Weak Amazon Outlook Deepen Tech Sell-Off - Tekedia
 
 - Source: Tekedia
 - Published: 2026-10-31T08:57:06+00:00
@@ -116,7 +106,7 @@ AI Sell-Off Spreads Beyond Tech as Credit Risks Rise — Is a Deeper Market Corr
 
 US Stocks Fall as Alphabet’s AI Spending and Weak Amazon Outlook Deepen Tech Sell-Off Tekedia
 
-### 12. S&P 500 drops as tech stocks fall on AI concerns, while energy stocks rally amid Middle East tensions. - Pluang
+### 11. S&P 500 drops as tech stocks fall on AI concerns, while energy stocks rally amid Middle East tensions. - Pluang
 
 - Source: Pluang
 - Published: 2026-10-31T08:25:13+00:00
@@ -126,7 +116,7 @@ US Stocks Fall as Alphabet’s AI Spending and Weak Amazon Outlook Deepen Tech S
 
 S&P 500 drops as tech stocks fall on AI concerns, while energy stocks rally amid Middle East tensions. Pluang
 
-### 13. Wall Street closes sharply lower as AI cash burn fears spark tech selloff - صحيفة مال
+### 12. Wall Street closes sharply lower as AI cash burn fears spark tech selloff - صحيفة مال
 
 - Source: صحيفة مال
 - Published: 2026-10-31T07:15:27+00:00
@@ -136,7 +126,7 @@ S&P 500 drops as tech stocks fall on AI concerns, while energy stocks rally amid
 
 Wall Street closes sharply lower as AI cash burn fears spark tech selloff صحيفة مال
 
-### 14. Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2% - INDIA New England News
+### 13. Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2% - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-31T07:11:02+00:00
@@ -146,27 +136,17 @@ Wall Street closes sharply lower as AI cash burn fears spark tech selloff صحي
 
 Sensex, Nifty Fall for Second Straight Session as Small-Cap Stocks Slide Over 2% INDIA New England News
 
-### 15. OpenAI cuts fundraising goal to $20 billion as tech selloff chills AI bets - Chosunbiz
-
-- Source: Chosunbiz
-- Published: 2026-10-31T05:13:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPeV8zUS1wZ0ZIZFNPdFEtX2JnanJMdFNqSVhxSXkwcUVySEJxMWQtSlp4TFBCdkpGOFNpcXlDMnRnOWZoUlRnYVhVUFNOQ2VYYjEwSzUwcTZIQ05DVmdZcDdRYmVvRU5VcUowMFRVTjhSMHpBUGtsV1VCU0N0R2FObjNrc1VYVUZYWXI4STJn0gGOAUFVX3lxTE95XzNRLXBnRkhkU090US1fYmdqckx0U2pJWHFJeTBxRXJIQnExZC1KWnhMUEJ2SkY4U2lxeUMydGc5ZmhSVGdhWFVQU05DZVhiMTBLNTBxNkhDTkNWZ1lwN1FiZW9FTlVxSjAwVFVOOFIwekFQa2xXVUJTQ3RHYU5uM2tzVVhVRlhZcjhJMmc?oc=5
-
-OpenAI cuts fundraising goal to $20 billion as tech selloff chills AI bets Chosunbiz
-
-### 16. Why Google’s advertising business is worrying investors amidst an AI stock selloff - The Indian Express
+### 14. Why Google’s advertising business is worrying investors amidst an AI stock selloff - The Indian Express
 
 - Source: The Indian Express
 - Published: 2026-11-01T02:32:36+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPU214SW5scGJiMzA5enlDbHRNVDNtQVlDVVJkRHlMcnNkMkhJT2FZUkZLa2RGbTFVM0RqbUxUOEZ5dmxrZkVpWG41NzVfMTVKOGhMcjhnZjBpd0huSFVwSFQwNExPb3I1cnJwZHlqTnE1TW9JTFdqbkV0S1QzZGQ1dW5Mdjk2ZDFKVlpyTDZFc0lCeFVXc2RQS0psS2s1Q3hDc21PaG43UnFmZXRFd3ZnUmlVRlBfbHJXQ2lLOWxMN18waHRabnc?oc=5
+- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPU214SW5scGJiMzA5enlDbHRNVDNtQVlDVVJkRHlMcnNkMkhJT2FZUkZLa2RGbTFVM0RqbUxUOEZ5dmxrZkVpWG41NzVfMTVKOGhMcjhnZjBpd0huSFVwSFQwNExPb3I1cnJwZHlqTnE1TW9JTFdqbkV0S1QzZGQ1dW5Mdjk2ZDFKVlpyTDZFc0lCeFVXc2RQS0psS2s1Q3hDc21PaG43UnFmZXRFd3ZnUmlVRlBfbHJXQ2lLOWxMN18waHRabnfSAcwBQVVfeXFMUGZnMDNJc2psNThlbGc5QURVOVFycm80UUVqY2pnMzRMeVUyVEFSQlhUd1h2X0dDelRNLVJQazhVNGVJU0kyRkR5Um1FVUc1dTdzZFFUYjJzWG9qeUFMOWxHRmxnOXRtekJwMXdfU01RbHQ2dU9NUTlRSmlkNlNaOU1iOEQtT0FjSXdDdVBobWVrTFlLRVhkNHRzcXJLcmk1SUJFTEVydXJSRDZISzg0Q3g2Um52REh6ZG9fUWNJVjM0Nm9CNjBzaExJRUtH?oc=5
 
 Why Google’s advertising business is worrying investors amidst an AI stock selloff The Indian Express
 
-### 17. 3 AI Infrastructure Stocks To Watch After The Data Center Selloff - Yahoo Finance
+### 15. 3 AI Infrastructure Stocks To Watch After The Data Center Selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-31T23:11:35+00:00
@@ -176,7 +156,7 @@ Why Google’s advertising business is worrying investors amidst an AI stock sel
 
 3 AI Infrastructure Stocks To Watch After The Data Center Selloff Yahoo Finance
 
-### 18. Nikkei 225 Plunges to 63,290.11 as AI Selloff Ends Three-Day Rally Despite BoJ Hold - BBN Times
+### 16. Nikkei 225 Plunges to 63,290.11 as AI Selloff Ends Three-Day Rally Despite BoJ Hold - BBN Times
 
 - Source: BBN Times
 - Published: 2026-10-31T22:00:29+00:00
@@ -186,17 +166,7 @@ Why Google’s advertising business is worrying investors amidst an AI stock sel
 
 Nikkei 225 Plunges to 63,290.11 as AI Selloff Ends Three-Day Rally Despite BoJ Hold BBN Times
 
-### 19. Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks - Stocktwits
-
-- Source: Stocktwits
-- Published: 2026-10-31T18:19:47+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMirwJBVV95cUxNYkdrZ3FQQ3Z5Y2swSDZsd3hjZzhkSnQzMzZiOC1rc0V0Xy1uN2VBblBVSlJSSHdIMFRpZ3VrTWMzZmFhRVlCVk1RSzE3U196TlpkTDRFa3k4WVVBSEdVVnV4X2RDMlNrTWJXWEJSR1dnRTltbWJSSFRLTmhVeWIzSzNwSVVQLXhxVlRUeE9aWFI4Tm5JenRwSTcyUExHejNQdk0wMGRRUzE0WDIzcVZoUTZ2WHU5U2lKOWE1Q3NNeU9nTVNKel92ck9BeU1ZMTUyQkp2LUdQNGZyZ1d2amhENUpSOG9vXzBHWDh4R0E0b3FCN21fV18wSnFhLW5hYUwzT3hITUlGWm5KM3JLOGpuM3A3RXdRQllKSVZtQ29rMk5NV0lUSE40N3hZR0s3YWs?oc=5
-
-Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Completely Just A Joke,’ Says AI Sell-Off Could Bottom In Two Weeks Stocktwits
-
-### 20. Why did US stock market crash? $2 trillion AI selloff, explained simply - Geo News
+### 17. Why did US stock market crash? $2 trillion AI selloff, explained simply - Geo News
 
 - Source: Geo News
 - Published: 2026-10-31T16:57:00+00:00
@@ -206,7 +176,7 @@ Jordi Visser Calls Chamath Palihapitiya’s Bitcoin Going To Zero Tale ‘Comple
 
 Why did US stock market crash? $2 trillion AI selloff, explained simply Geo News
 
-### 21. The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks - 24/7 Wall St.
+### 18. The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-10-31T15:54:00+00:00
@@ -216,7 +186,7 @@ Why did US stock market crash? $2 trillion AI selloff, explained simply Geo News
 
 The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks 24/7 Wall St.
 
-### 22. [Nasdaq 100 faces third technical correction of the year on AI returns worries] - Shanghai Metals Market
+### 19. [Nasdaq 100 faces third technical correction of the year on AI returns worries] - Shanghai Metals Market
 
 - Source: Shanghai Metals Market
 - Published: 2026-10-31T15:06:00+00:00
@@ -226,7 +196,7 @@ The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks 24/7 Wall S
 
 [Nasdaq 100 faces third technical correction of the year on AI returns worries] Shanghai Metals Market
 
-### 23. The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks - Yahoo Finance
+### 20. The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-10-31T14:54:06+00:00
@@ -236,17 +206,7 @@ The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks 24/7 Wall S
 
 The Nasdaq 100 Briefly Fell Into a Correction as the AI Trade Cracks Yahoo Finance
 
-### 24. Tech Selloff Drags S&P 500 Lower as Defensive Sectors Shine - Economic Slowdown Warning - https://www.siam.in/
-
-- Source: https://www.siam.in/
-- Published: 2026-10-31T13:07:49+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNUFNSenJ4dXgteV9wTUV1Mm1fUlJrLWhJazExd2RRYVpVN0dfcF8ydHUzbXEwYkN4QmtEYXgyVkJEbW41OTNBUDN3ZXlvaDY2NmVWSVJ2T1d6NmFKdkhOOC1hYmdBR2NYOWdkbHBaRUp5ZktBX1pBSXR1Zy1fdElReGNoZlRXT0xXYmNNZVNiZXpRNDZYN1dvTlRxY2VHX0RFZWc?oc=5
-
-Tech Selloff Drags S&P 500 Lower as Defensive Sectors Shine - Economic Slowdown Warning https://www.siam.in/
-
-### 25. OpenAI cuts fundraising target by $10 billion to $20 billion amid AI market selloff - ET Enterprise AI
+### 21. OpenAI cuts fundraising target by $10 billion to $20 billion amid AI market selloff - ET Enterprise AI
 
 - Source: ET Enterprise AI
 - Published: 2026-10-31T12:30:42+00:00
@@ -256,7 +216,7 @@ Tech Selloff Drags S&P 500 Lower as Defensive Sectors Shine - Economic Slowdown 
 
 OpenAI cuts fundraising target by $10 billion to $20 billion amid AI market selloff ET Enterprise AI
 
-### 26. OpenAI Slashes Fundraising Goal by $10 Billion as AI Stock Selloff Hits Investor Interest - Cryptonews.net
+### 22. OpenAI Slashes Fundraising Goal by $10 Billion as AI Stock Selloff Hits Investor Interest - Cryptonews.net
 
 - Source: Cryptonews.net
 - Published: 2026-10-31T12:15:39+00:00
@@ -266,17 +226,7 @@ OpenAI cuts fundraising target by $10 billion to $20 billion amid AI market sell
 
 OpenAI Slashes Fundraising Goal by $10 Billion as AI Stock Selloff Hits Investor Interest Cryptonews.net
 
-### 27. OpenAI Cuts Latest Funding Goal by $10 Billion Amid Tech Selloff - TOKENPOST
-
-- Source: TOKENPOST
-- Published: 2026-10-31T12:10:50+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NmV5QXpjaFFCV2dPTl91cGM4RHAyTWhWODgyNmlZakFUSTFyRl9ZRVQ2eE9DWTFnMUVTUjlFTXVwbkFpUWZQSl9TTEhZcU5raVdMR2FTa0k?oc=5
-
-OpenAI Cuts Latest Funding Goal by $10 Billion Amid Tech Selloff TOKENPOST
-
-### 28. OpenAI cuts fundraising target by $10 billion amid AI market selloff - ThePrint
+### 23. OpenAI cuts fundraising target by $10 billion amid AI market selloff - ThePrint
 
 - Source: ThePrint
 - Published: 2026-10-31T12:00:56+00:00
@@ -286,17 +236,7 @@ OpenAI Cuts Latest Funding Goal by $10 Billion Amid Tech Selloff TOKENPOST
 
 OpenAI cuts fundraising target by $10 billion amid AI market selloff ThePrint
 
-### 29. OpenAI slashes funding goal by $10B amid tech selloff: FT - TradingView
-
-- Source: TradingView
-- Published: 2026-10-31T11:55:29+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQUnBiaEl6RU84dkhjbFd2UmFlYzRGaG1EOXUxNFE1SmdfU0U2VzJFSHN5RW1jUGZ4d2lnOHEtNndDQzFHVmNpbHg2ZThRM3NHTEwtbVZBSG9nZU9rS0p6TV9ldnlkYVZzakFHUHh2UHhRNkx2Z3I1RTh3LWM4XzBPekhWbWxCX2hZcmh2cnZPekNTemNSZEVveWpDSU5PWUZsVHBEWXFKWnJVTHkzS0pwYkFyRUtRUmFBckE?oc=5
-
-OpenAI slashes funding goal by $10B amid tech selloff: FT TradingView
-
-### 30. OpenAI slashes funding goal by $10B amid tech selloff: FT - Seeking Alpha
+### 24. OpenAI slashes funding goal by $10B amid tech selloff: FT - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-10-31T11:55:29+00:00
@@ -306,17 +246,7 @@ OpenAI slashes funding goal by $10B amid tech selloff: FT TradingView
 
 OpenAI slashes funding goal by $10B amid tech selloff: FT Seeking Alpha
 
-### 31. AI Overspending Fears Hammer Magnificent Seven, But Tesla (NASDAQ: TSLA) Defies The Selloff - Foreign Policy Journal
-
-- Source: Foreign Policy Journal
-- Published: 2026-10-31T11:12:55+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQzdjNkotZWttVHg0blUtT19RblNjSTNWVWVMUkQ5VlBidHg2bVA0aXNtYlpTenROQU1HVFNMU1JGdTJhSmhTOXFzUXU4dEZaRFJodlR3QTI1Ml9kWUF0N200SXZhaEtIX3FhT1hDenRRLWhlbXJETDY1SEhsUHhnY19LZGNLWkVFaGRpMGJuaEM1bjVEeEFxOXVsQlhuWEFaSFNna2FrdmVxSG9uWkdLYTEtTm1oTDdxdGQ5TWgyX0doeGhTa1NwNjZNRndFNnpMTmc?oc=5
-
-AI Overspending Fears Hammer Magnificent Seven, But Tesla (NASDAQ: TSLA) Defies The Selloff Foreign Policy Journal
-
-### 32. Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next - Moneycontrol.com
+### 25. Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-31T10:49:35+00:00
@@ -326,7 +256,7 @@ AI Overspending Fears Hammer Magnificent Seven, But Tesla (NASDAQ: TSLA) Defies 
 
 Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next Moneycontrol.com
 
-### 33. Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next - Moneycontrol.com
+### 26. Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-31T10:49:35+00:00
@@ -336,7 +266,7 @@ Is the AI boom cracking? Wall Street's tech sell-off raises questions over what 
 
 Is the AI boom cracking? Wall Street's tech sell-off raises questions over what comes next Moneycontrol.com
 
-### 34. BofA’s Michael Hartnett prefers Mag7 bonds over AI shares after selloff - Invezz
+### 27. BofA’s Michael Hartnett prefers Mag7 bonds over AI shares after selloff - Invezz
 
 - Source: Invezz
 - Published: 2026-10-31T10:03:46+00:00
@@ -346,7 +276,7 @@ Is the AI boom cracking? Wall Street's tech sell-off raises questions over what 
 
 BofA’s Michael Hartnett prefers Mag7 bonds over AI shares after selloff Invezz
 
-### 35. Nifty extends losing streak to 7th day, Sensex falls for 4th session - DD News
+### 28. Nifty extends losing streak to 7th day, Sensex falls for 4th session - DD News
 
 - Source: DD News
 - Published: 2026-10-31T08:48:14+00:00
@@ -356,7 +286,7 @@ BofA’s Michael Hartnett prefers Mag7 bonds over AI shares after selloff Invezz
 
 Nifty extends losing streak to 7th day, Sensex falls for 4th session DD News
 
-### 36. OpenAI Slashes Fundraising Goal by $10 Billion as AI Stock Selloff Hits Investor Interest - CoinGape
+### 29. OpenAI Slashes Fundraising Goal by $10 Billion as AI Stock Selloff Hits Investor Interest - CoinGape
 
 - Source: CoinGape
 - Published: 2026-10-31T08:47:30+00:00
@@ -366,7 +296,7 @@ Nifty extends losing streak to 7th day, Sensex falls for 4th session DD News
 
 OpenAI Slashes Fundraising Goal by $10 Billion as AI Stock Selloff Hits Investor Interest CoinGape
 
-### 37. What's fuelling the Nasdaq crash? AI spending fears, Intel rout and Anthropic debt concerns drive selloff - Moneycontrol.com
+### 30. What's fuelling the Nasdaq crash? AI spending fears, Intel rout and Anthropic debt concerns drive selloff - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-10-31T07:35:22+00:00
@@ -376,7 +306,7 @@ OpenAI Slashes Fundraising Goal by $10 Billion as AI Stock Selloff Hits Investor
 
 What's fuelling the Nasdaq crash? AI spending fears, Intel rout and Anthropic debt concerns drive selloff Moneycontrol.com
 
-### 38. AI selloff shakes Wall Street, and Google’s first space data centre switches on - MyBroadband
+### 31. AI selloff shakes Wall Street, and Google’s first space data centre switches on - MyBroadband
 
 - Source: MyBroadband
 - Published: 2026-10-31T05:56:28+00:00
@@ -386,7 +316,7 @@ What's fuelling the Nasdaq crash? AI spending fears, Intel rout and Anthropic de
 
 AI selloff shakes Wall Street, and Google’s first space data centre switches on MyBroadband
 
-### 39. Even OpenAI Is Feeling the AI Selloff? ChatGPT Maker Reportedly Cuts Funding Target by $10 Billion as Inv - Benzinga
+### 32. Even OpenAI Is Feeling the AI Selloff? ChatGPT Maker Reportedly Cuts Funding Target by $10 Billion as Inv - Benzinga
 
 - Source: Benzinga
 - Published: 2026-10-31T05:50:17+00:00
@@ -396,17 +326,7 @@ AI selloff shakes Wall Street, and Google’s first space data centre switches o
 
 Even OpenAI Is Feeling the AI Selloff? ChatGPT Maker Reportedly Cuts Funding Target by $10 Billion as Inv Benzinga
 
-### 40. AI Spending Backfires? Tech Giants Face a Brutal Market Selloff - Infomance
-
-- Source: Infomance
-- Published: 2026-10-31T05:07:54+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQQXZoaTBYYXZuZkdjUDJLakRCT1NTM2owMVQxckhHX0FYakhFcXpJNHNsQzdTNVZwTjE5ZW9mXzdaTGI3djl6WDd1dndRQnZqYUdEdnJKWENyNVFuREt0bE9Kc1NCTnNvZzBkd3NKTEJIWGZoLVlDYlJZZE9LVy1oV2t3Y2dubXppZnpxODNQWENVd0NyazlKdVV3?oc=5
-
-AI Spending Backfires? Tech Giants Face a Brutal Market Selloff Infomance
-
-### 41. Kotak Adds 5 Midcap Stocks to Model Portfolio After Up To 16% Monthly Fall - Dalal Street Investment Journal
+### 33. Kotak Adds 5 Midcap Stocks to Model Portfolio After Up To 16% Monthly Fall - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-10-31T10:32:52+00:00
@@ -416,7 +336,7 @@ AI Spending Backfires? Tech Giants Face a Brutal Market Selloff Infomance
 
 Kotak Adds 5 Midcap Stocks to Model Portfolio After Up To 16% Monthly Fall Dalal Street Investment Journal
 
-### 42. India’s Forex Reserves Fall by $66 Billion in Seven Weeks, Biggest Decline in 28 Years - Dainik Jagran MP CG
+### 34. India’s Forex Reserves Fall by $66 Billion in Seven Weeks, Biggest Decline in 28 Years - Dainik Jagran MP CG
 
 - Source: Dainik Jagran MP CG
 - Published: 2026-10-31T08:23:50+00:00
@@ -426,37 +346,7 @@ Kotak Adds 5 Midcap Stocks to Model Portfolio After Up To 16% Monthly Fall Dalal
 
 India’s Forex Reserves Fall by $66 Billion in Seven Weeks, Biggest Decline in 28 Years Dainik Jagran MP CG
 
-### 43. Indian Markets Fall for Eighth Straight Week as Foreign Selling and Global Risks Weigh - INDIA New England News
-
-- Source: INDIA New England News
-- Published: 2026-10-31T05:31:52+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPSGVCNkRqTkl5eWJ1TFlQRXdMQ0lQM2hqajNPX1E2cmdET0hTczNOdVdRZ0loLWZCejdQUmZyUnFuc3d6MlEyd2dfcUZiWTh0enJsOUtFWlp6dnVUZTE5aUpuMDFZRnEzTmp2TlJ5cXZXR0lTQnI0aGoyS0c2UnBVUjdmU252dVFwcTduaHZEQW1rRGhrbVNGaVpObml4SWtHRExUUjBNaDRUM2FBRGRlR2NKcU1JZw?oc=5
-
-Indian Markets Fall for Eighth Straight Week as Foreign Selling and Global Risks Weigh INDIA New England News
-
-### 44. Mutual fund NFOs: 2 new funds will open for subscription this week. Check dates and key details - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-01T04:44:41+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOSWdITTl1eHZfWUFWck5kUVlIMnlLMFM5ZnR3Rk5NYTBWbkd1THFxS2lQaXNYRjhxLUYwaFFINkt5cDVlYk9ycmtsQS1Gc1FHNWljUmwzQzBoYU1iYUNQb3BoZ0lyZDkteldwQ2FOQU1hdnhEckNHbWRBUGh3dHBEaEZiZmhjUmgxbERvck12OVVybXBJbGIzRnZfVUJ0dFhRdWEwRXdtT3RyaldFV2pIdkZRMlJpb196dkQwamRFOTY4MDF4eS1DdTc5V1ZQTXh6VmVyQmh1T1FmUlZBQW9sMGZHU1g2U21tbjZrN0p3?oc=5
-
-Mutual fund NFOs: 2 new funds will open for subscription this week. Check dates and key details The Economic Times
-
-### 45. Past return is just one metric to pick a mutual fund: Know what to do - Business Standard
-
-- Source: Business Standard
-- Published: 2026-11-01T00:30:00+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxPcVY4MThEbjZxcEVRV0x1U2pkSmhzU0JnOXR3MHE5Z01KMDd1Mm9CZU10RjQ4d0lRQndrdUNRcWJraWNNM3Yzb2ZyYkdteWJ1djdMWHZZaUhYbU91NTBpYnlxeGYtTlo1UllmaU5xQ1JBbF96Qk9MRHk1V0h2aDBpdTVwU0dSZE43WEdjaGxtVjJuQW9wTk1YaWY2dVR2M0ppeUY4ODRTZnFpelIxaVhzTklabnN3b3F2cjlQaVFRR1dvZVVQaE5rdFp3bThHUUpScnE5WEdjT2hmdTBWSDBlbFlSX3pPVlBIcmktTUFFNFJJYm9TZmVSNGdzQkdUNVBiN2daV9IBigJBVV95cUxOeWJXU0c5dkV3TXJUd29qcUFDYkNpQmRYTXJ6R0tnVy1ZSzU2c2p2SmtRTDBBaTJOV19hWFRVc3o2R2lHTVBmU005eVhiM1AzQkVVM2RwVjZld2JOVm5lRmNsSjVKTTBSZnBmUHE3X2N5c3Z0SVp4TzhHZHFTOV8tYlBSNms3VW9BamlSX0d3THUtelBhaWhlWHJ2X1J1V18yREFOYTh1VGhfOE1qclItdUxhU3JNbFJaLWFYVDN4NU1NNXl2WWVQRm43dnRpVFNhcnE2eW9ZQU53dkxYcVNSZlg3OXdzVWtSRTJ6S0NqLTdCLXJyM0haS3NPcHc1aFFURGJUYTktMVpadw?oc=5
-
-Past return is just one metric to pick a mutual fund: Know what to do Business Standard
-
-### 46. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+### 35. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-31T18:31:19+00:00
@@ -466,7 +356,7 @@ Past return is just one metric to pick a mutual fund: Know what to do Business S
 
 Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
 
-### 47. Sensex ends in red on selling in IT stocks, rising crude oil prices - DD India
+### 36. Sensex ends in red on selling in IT stocks, rising crude oil prices - DD India
 
 - Source: DD India
 - Published: 2026-10-31T16:21:55+00:00
@@ -476,7 +366,7 @@ Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentidea
 
 Sensex ends in red on selling in IT stocks, rising crude oil prices DD India
 
-### 48. Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies - NDTV Profit
+### 37. Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-10-31T13:50:53+00:00
@@ -486,7 +376,7 @@ Sensex ends in red on selling in IT stocks, rising crude oil prices DD India
 
 Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies NDTV Profit
 
-### 49. HDFC Large Cap Fund Completes 30 Years Rs.10,000 Monthly SIP Grows to over Rs.8.46 Crore - Investment Guru India
+### 38. HDFC Large Cap Fund Completes 30 Years Rs.10,000 Monthly SIP Grows to over Rs.8.46 Crore - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-10-31T09:27:46+00:00
@@ -496,7 +386,7 @@ Sensex, Nifty Surge After Fed Keeps Rates Steady; Rupee Rallies NDTV Profit
 
 HDFC Large Cap Fund Completes 30 Years Rs.10,000 Monthly SIP Grows to over Rs.8.46 Crore Investment Guru India
 
-### 50. Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News
+### 39. Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News
 
 - Source: DD News
 - Published: 2026-10-31T09:12:36+00:00
@@ -506,7 +396,7 @@ HDFC Large Cap Fund Completes 30 Years Rs.10,000 Monthly SIP Grows to over Rs.8.
 
 Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI DD News
 
-### 51. 10 Best Smallcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
+### 40. 10 Best Smallcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-31T09:04:37+00:00
@@ -516,7 +406,7 @@ Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 
 
 10 Best Smallcap Mutual Funds by Rolling Returns (2026) Myinvestmentideas
 
-### 52. 10 Best Midcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
+### 41. 10 Best Midcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-31T09:01:36+00:00
@@ -526,7 +416,7 @@ Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 
 
 10 Best Midcap Mutual Funds by Rolling Returns (2026) Myinvestmentideas
 
-### 53. Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict - DD News
+### 42. Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict - DD News
 
 - Source: DD News
 - Published: 2026-10-31T08:18:40+00:00
@@ -536,7 +426,7 @@ Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 
 
 Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD News
 
-### 54. Nifty, Sensex see nearly 2 pc gain amid renewed FII buying, easing bond yields - bfsi.economictimes.indiatimes.com
+### 43. Nifty, Sensex see nearly 2 pc gain amid renewed FII buying, easing bond yields - bfsi.economictimes.indiatimes.com
 
 - Source: bfsi.economictimes.indiatimes.com
 - Published: 2026-10-31T06:49:53+00:00
@@ -546,7 +436,7 @@ Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD Ne
 
 Nifty, Sensex see nearly 2 pc gain amid renewed FII buying, easing bond yields bfsi.economictimes.indiatimes.com
 
-### 55. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
+### 44. Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-31T06:18:06+00:00
@@ -556,7 +446,7 @@ Nifty, Sensex see nearly 2 pc gain amid renewed FII buying, easing bond yields b
 
 Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New England News
 
-### 56. Your SIP corpus has grown. Should your investment strategy change too? - Moneycontrol.com
+### 45. Your SIP corpus has grown. Should your investment strategy change too? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-01T04:27:40+00:00
@@ -566,7 +456,37 @@ Sensex Plunges 1,045 Points, Nifty Hits 2026 Low as Oil Prices Surge INDIA New E
 
 Your SIP corpus has grown. Should your investment strategy change too? Moneycontrol.com
 
-### 57. Diwali Bonus: Should You Prepay Your Home Loan Or Invest In Mutual Funds? - Outlook Money
+### 46. Mutual funds, institutional investors vital for market growth: BSEC chief - The Daily Star
+
+- Source: The Daily Star
+- Published: 2026-10-31T17:58:07+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEVmUkRiT1c0S0tEOWs5OGNGUmlRemdvallmVTJoQ2N6UFFZTVEta3VqQlF6VUxSaU5ScUk5cGx0MlU4MzZ4aEl6bEl1WkhjNXg2eS1zSVRPdWVpTTBjNHRtbXk5LVZBWkZ4VG91Y1Q1bnY3YzQ5SEt3S0g0eVJjSUpnTTlfdHVOaS00NmZYUzNTVGlqNzNCd2JNTGFRR2wyWnhEQTkxVlZhWTRVd0J4MFpPb3FPeVNaOHc?oc=5
+
+Mutual funds, institutional investors vital for market growth: BSEC chief The Daily Star
+
+### 47. ₹1 Lakh Diwali Bonus: Should You Repay Your Home Loan or Invest in Mutual Funds? - Newsd.in
+
+- Source: Newsd.in
+- Published: 2026-10-31T16:57:27+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxOeGZaeVVlZXJuS0kwaW1EaEZScXZwbG5BZXBLSmlwNlMwdGo2VGhQT3ctWTVWR3ZBTzczNENCTW1qR0JkSFd1enlJQTFDbFBmZWt3TTR1SFh2eE01MFcyU1VqVm5FZ0FiVTMza3NRUkc1MEE2TFlTTmJYVUoxY01xbS0zcWkwT3Ayc19IRGZVT2ZoYzkzSzV2SENHd9IBoAFBVV95cUxNME5oY21LSWVCei1JUEhSUVRjR0dfTFhaUVM5RHdoQzh1YzFXR0tiZ2ZzLTktcGNvaEFydFJldTNpdnJkSWFCN2VEUnc0MGpBMUFNUGxWN2Nsc1ZuYjlaUUE5cnVZQjc4MnpKRHlNZG1hZkdCTEgxcmNCMjBUeGFlS0pUSjZxYlNqaDZ4RFBzMkFDRk5LRzF5Z1B4MHZJVEhj?oc=5
+
+₹1 Lakh Diwali Bonus: Should You Repay Your Home Loan or Invest in Mutual Funds? Newsd.in
+
+### 48. Big Changes from November 1: Mutual Funds, Pensions, and Phone Calls to See New Rules - Lokmat Times
+
+- Source: Lokmat Times
+- Published: 2026-10-31T15:09:20+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPUFRZTFBXZFJkQnFnY2tvcW5uRTFlSWhqbl9uSlNwRzlzbVZXRjB2RmFna1RJaS1fM3YtdVh6WFJPR1pLV2FzNkFSdzRRdUxWcjViMElnUS1VT3l6ekxBQlo5SFVxOEhjQzhaa0FCSjR4eGhxSnVrRGxDMW5hOUhacFMzMUUwYTZxakRkY0Fhd0RPbm13Qm5famc0YmZDVjZVWWJXTnh0ZDlCVjZ1Qmt0a3dYampKRkZmdE5kcDl5ZnJCZl8yVEwzQVhhd9IB0AFBVV95cUxPekl0cm5HdnVJdGZqMnFRX3dnWWx6WTdvcERPUUhHc25KZ190SlBzUjZQSXp0eU40RmtZYjkzZEUtWUNJUlFCYW8wTFF3YmdvblZqX3Vobl92NjFtR25yM3AtSlFnRkZrZGp5RXBTV3E3aTBteW9XNzl2WlRuYUxPeDhVQlphVUJHNHBNVWpLNDc4Z2Z2TUd6a3VoVGVhQ3NwOWlWOUNYVDFncGd1MlNTNWl2Z0Zfd3VTQU9EUDAtTkkzTEpVTFBSRTBLN2xISWFN?oc=5
+
+Big Changes from November 1: Mutual Funds, Pensions, and Phone Calls to See New Rules Lokmat Times
+
+### 49. Diwali Bonus: Should You Prepay Your Home Loan Or Invest In Mutual Funds? - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-10-31T11:33:23+00:00
@@ -576,7 +496,7 @@ Your SIP corpus has grown. Should your investment strategy change too? Moneycont
 
 Diwali Bonus: Should You Prepay Your Home Loan Or Invest In Mutual Funds? Outlook Money
 
-### 58. Mutual Funds returns - BusinessLine
+### 50. Mutual Funds returns - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-10-31T11:33:00+00:00
@@ -586,7 +506,7 @@ Diwali Bonus: Should You Prepay Your Home Loan Or Invest In Mutual Funds? Outloo
 
 Mutual Funds returns BusinessLine
 
-### 59. 6 Hybrid Mutual Funds With Positive Returns Every Year Since 2017 (Up to 18.2% CAGR) - Myinvestmentideas
+### 51. 6 Hybrid Mutual Funds With Positive Returns Every Year Since 2017 (Up to 18.2% CAGR) - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-31T10:59:11+00:00
@@ -596,7 +516,17 @@ Mutual Funds returns BusinessLine
 
 6 Hybrid Mutual Funds With Positive Returns Every Year Since 2017 (Up to 18.2% CAGR) Myinvestmentideas
 
-### 60. Tech Taper: Mutual funds are reducing exposure to Indian IT stocks - Open Magazine
+### 52. Why investment restriction - Want to invest in gold through mutual funds? Here are the options after Gold FoF curbs - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-31T10:27:22+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMihwJBVV95cUxNUnhZT3puV3JoVkhSRGZ6a1VEaEtXTXg3RnkyRGNCMklGc0d3Tlg3UjRFakNjZXVlMThCdjhaZ1RFd1Z4NnZHeEx4NnVUdWFZQ3ZQM0JCWHMxNG10cHBlQktXb2R5U0h3dmFPYzltTXlCZWtqVTJwTzF2YlNZUHFRVzhPOHlnX1Y0ZS14OEhKeFhvTlQ4R2VUVkJ0bmVBZkJVa3VNbEdmRVNMeEt6Y3V3NUJXM2ZhcE1YYm81aXJqcnBFenhxZUNMMjE4Z2I3cTFmdzMwd3NlUjV0NUhOeWROZFU2cThxZzJGTFJybzJQRjJuSmdxVm5TRURLQWhQWV9pQTlvbVoyQQ?oc=5
+
+Why investment restriction - Want to invest in gold through mutual funds? Here are the options after Gold FoF curbs The Economic Times
+
+### 53. Tech Taper: Mutual funds are reducing exposure to Indian IT stocks - Open Magazine
 
 - Source: Open Magazine
 - Published: 2026-10-31T10:24:51+00:00
@@ -606,17 +536,17 @@ Mutual Funds returns BusinessLine
 
 Tech Taper: Mutual funds are reducing exposure to Indian IT stocks Open Magazine
 
-### 61. Top 10 balanced advantage mutual funds with highest net equity holding. Check details - The Economic Times
+### 54. Top 10 balanced advantage mutual funds with highest net equity holding. Check details - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-10-31T09:39:18+00:00
+- Published: 2026-10-31T09:26:17+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxNSUVyOGhPRHZBUHM2bkZxT0p4OHoyOW9lOVBvZE9ZMlZnSFVsUDI0S2U3TWxhS3hwLXl2Yy1fUHRTLWVLd2JaX1BsQzJYcTczSEIyXzNFT1ZSVzI0OUJ4bHE4alZKeGM1U09MTVRta0VTN2ZvV2tEYXh0LXFWWUtaYlNQQlNrdHJKSDNoRzh3M1pIOEJ1TXFodkJzZ2VXR3Q0Q2dzUENXaHhqZE43b1JqZ3Q0bUJoUVpEMnJsZjBiNjZfd3I2NXI0Z1hRZXo5b2NkUVhQUXBxWGhOQTAxcjE4NTVCOG01c3ExNHluVGlseXhLaW9maW5R?oc=5
+- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQVXczMjRpby1vOHhXMUFwY2xweFJkeHVQZHNLMW5aTkJGQmdZLWEyaFZJVFoxZERPdkl2TlBoSlI3RVlUT200QU4xOVc3OGdCZzRkMm51WXd1ai10YW1Hem1kM2tfN2FGa21UMnZQVHFwVWlWaEFCVGtlbzZXVExTODNFUmppb2JnbF96emlZTWhvTmNGQm5qNmxzTUpfX05SUzRtNkFqVDB6UF8xdDZGOXYxRV9SR3JISXJXakpKYTZfNU0wazNGa19nZnpYYnBabWVGb3UwUmZ2S2praDI5S0NJakxVa0lIdWxfS3RR?oc=5
 
 Top 10 balanced advantage mutual funds with highest net equity holding. Check details The Economic Times
 
-### 62. HDFC Large Cap Fund turns Rs 10,000 monthly SIP to over Rs 8 crore in 30 years - The Economic Times
+### 55. HDFC Large Cap Fund turns Rs 10,000 monthly SIP to over Rs 8 crore in 30 years - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-31T09:10:42+00:00
@@ -626,7 +556,17 @@ Top 10 balanced advantage mutual funds with highest net equity holding. Check de
 
 HDFC Large Cap Fund turns Rs 10,000 monthly SIP to over Rs 8 crore in 30 years The Economic Times
 
-### 63. Best Mid Cap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) - Myinvestmentideas
+### 56. 10 Best Largecap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
+
+- Source: Myinvestmentideas
+- Published: 2026-10-31T09:00:59+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5QdVBUcDFQWU9uallCZUF2eUllNW93OVN6TzZZQkhCQTdRSEYwaGxOeXNHU0ExWmhNc3JiUG9RNm54RHVaUXpPYW45eVJId1I2T3ByYUQ0bjdNMHp1a0FVVVBCRnN1M3JZM3JXZGZUcmFXc3F6Z0hJ?oc=5
+
+10 Best Largecap Mutual Funds by Rolling Returns (2026) Myinvestmentideas
+
+### 57. Best Mid Cap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-10-31T08:51:14+00:00
@@ -636,7 +576,17 @@ HDFC Large Cap Fund turns Rs 10,000 monthly SIP to over Rs 8 crore in 30 years T
 
 Best Mid Cap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) Myinvestmentideas
 
-### 64. Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks - INDIA New England News
+### 58. Best Large Cap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) - Myinvestmentideas
+
+- Source: Myinvestmentideas
+- Published: 2026-10-31T08:49:53+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMickFVX3lxTE1SUnp6TFk4QmZsQklvOVB4Z3lOWkJFUjZvZTd4cTNxTFdHcWdweGV3T3JDWHJSeFIteGNwSjZ0TEp5QmJ5bHJoTjBJVDJGTTUwaUgzZ3c2WUJJVmIyOHJ0UFJRZzJVOUtwZEE1M0EwN1Vjdw?oc=5
+
+Best Large Cap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) Myinvestmentideas
+
+### 59. Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-31T07:57:03+00:00
@@ -646,7 +596,17 @@ Best Mid Cap Mutual Funds for 2026 – Live Returns (1Y, 3Y, 5Y & 10Y) Myinvestm
 
 Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks INDIA New England News
 
-### 65. Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally - Upstox
+### 60. Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-10-31T07:26:26+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZ2pwTUJBS0hQQlYyTnlaRkhtbFZPWlREX2U5R0s2Z05KcVBlUDlPWGhLeGtIMzNuOHl5VUJRT19sUXJGMEtPZnBnT1B0MzlvanlrbENsQVBGZHBjTGw0TTEyaElpeVZjTmE2cjd1UUtBdVNJR0dPWThHdGhxTERENjRjaTZNcWlMVHo1MVQzNlAxTTFjbE54ZUk1Zl9zOEFxTDFuOTBLeVdZcHhuT1lyWDFHdnFmNlpyMnJWOTQ5b0JZNURKb09iU01PU1cwN1U3ZVJ6U0c2azVBVkpKTTNjMmU5RWpJR3M?oc=5
+
+Business News Live, Share Market News - Read Latest Finance News, IPO, Mutual Funds News The Economic Times
+
+### 61. Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally - Upstox
 
 - Source: Upstox
 - Published: 2026-10-31T06:23:22+00:00
@@ -656,7 +616,17 @@ Sensex Jumps 1,534 Points as Falling Oil Prices Lift Indian Stocks INDIA New Eng
 
 Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent leads rally Upstox
 
-### 66. Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally - INDIA New England News
+### 62. Migdal Mutual Funds Ltd - ETF Bond Market (MTF-F79.TA) Seasonal Returns Chart - Yahoo Finance - Yahoo! Finance Canada
+
+- Source: Yahoo! Finance Canada
+- Published: 2026-10-31T06:02:39+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiakFVX3lxTFAzSEc0OWhqclk2V29URTN0Qk9YMFJqUnBaVVNmRTY4dHpIRE5saDZzTjcwYmxxX0hWS0FsSnk4NU9fSlNsQUN5dGtFRTJhc0xtLTNBQnhtUTRtRjhxckUxMXhFVGx3SE16NGc?oc=5
+
+Migdal Mutual Funds Ltd - ETF Bond Market (MTF-F79.TA) Seasonal Returns Chart - Yahoo Finance Yahoo! Finance Canada
+
+### 63. Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally - INDIA New England News
 
 - Source: INDIA New England News
 - Published: 2026-10-31T05:57:08+00:00
@@ -666,7 +636,7 @@ Market weekly wrap: SENSEX, NIFTY50 rise 2%; NIFTY Smallcap 100 jumps 4%, Trent 
 
 Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally INDIA New England News
 
-### 67. Apple Overtakes Nvidia as World's Most Valuable Company at $5 Trillion as AI Stocks Slide - Coinpaper
+### 64. Apple Overtakes Nvidia as World's Most Valuable Company at $5 Trillion as AI Stocks Slide - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-10-31T12:58:38+00:00
@@ -676,7 +646,7 @@ Sensex Jumps 879 Points, Nifty Closes Above 22,500 as IT Stocks Lead Rally INDIA
 
 Apple Overtakes Nvidia as World's Most Valuable Company at $5 Trillion as AI Stocks Slide Coinpaper
 
-### 68. Stock Market Next Week: Crude Oil, US Midterm Elections, PMI Data Among 7 Cues To Watch - Outlook Money
+### 65. Stock Market Next Week: Crude Oil, US Midterm Elections, PMI Data Among 7 Cues To Watch - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-10-31T11:52:53+00:00
@@ -686,7 +656,7 @@ Apple Overtakes Nvidia as World's Most Valuable Company at $5 Trillion as AI Sto
 
 Stock Market Next Week: Crude Oil, US Midterm Elections, PMI Data Among 7 Cues To Watch Outlook Money
 
-### 69. Sensex, Nifty open flat amid weak global cues; IT stocks buck trend - DD News
+### 66. Sensex, Nifty open flat amid weak global cues; IT stocks buck trend - DD News
 
 - Source: DD News
 - Published: 2026-10-31T11:27:00+00:00
@@ -696,27 +666,7 @@ Stock Market Next Week: Crude Oil, US Midterm Elections, PMI Data Among 7 Cues T
 
 Sensex, Nifty open flat amid weak global cues; IT stocks buck trend DD News
 
-### 70. Sensex, Nifty extend gains in early trade amid positive global cues - DD News
-
-- Source: DD News
-- Published: 2026-10-31T08:42:29+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQVkpKWndPbXpadG5ER1VXOWhrV2ROWHVmdnA2QzF4NkdoRFZVdnc1UmNIcWlvTUV4UjlXN3ROU2dpa2hySVRBbjFBYzExblNwMnJMX1hTQy1pZG1Gb2JoZHFVNG16emtuSUxyVEZZdXpDY0VNazVJNjdXbThGaW5ESGp4bTVaRGoxZHg1Vl9WcjA3ZEttZUNR?oc=5
-
-Sensex, Nifty extend gains in early trade amid positive global cues DD News
-
-### 71. Sensex jumps 828 points, Nifty closes above 24,200 on IT, banking gains - DD News
-
-- Source: DD News
-- Published: 2026-10-31T08:23:38+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQNkNxcnNZa0xxcWdFSUg0UmtUN1dmRWgtamVCOEN4NHNUZHJxZllDdjRZWUh2RTV0R2tfVzM0bzd4UjN0M0pNZmJXMlROaktHcDVqb1hKSHZMay1pcXViel9FdXZDOEQ1OU1YMjVmWG5ORmE4aFJhMWt5ZVhzQU1sVTVYTUlsLWZUM2t2YjBlaS16Z0tLeGJzTU1n?oc=5
-
-Sensex jumps 828 points, Nifty closes above 24,200 on IT, banking gains DD News
-
-### 72. Massive tech sell-off has Nasdaq 100 entering another correction - Morning Brew
+### 67. Massive tech sell-off has Nasdaq 100 entering another correction - Morning Brew
 
 - Source: Morning Brew
 - Published: 2026-10-31T05:41:25+00:00
@@ -726,7 +676,7 @@ Sensex jumps 828 points, Nifty closes above 24,200 on IT, banking gains DD News
 
 Massive tech sell-off has Nasdaq 100 entering another correction Morning Brew
 
-### 73. Nifty Outlook: Index may consolidate in 21,700–23,500 range; Expert recommends buying Union Bank, Apollo Micro Systems | Exclusive - ET Now
+### 68. Nifty Outlook: Index may consolidate in 21,700–23,500 range; Expert recommends buying Union Bank, Apollo Micro Systems | Exclusive - ET Now
 
 - Source: ET Now
 - Published: 2026-11-01T02:19:01+00:00
@@ -736,7 +686,7 @@ Massive tech sell-off has Nasdaq 100 entering another correction Morning Brew
 
 Nifty Outlook: Index may consolidate in 21,700–23,500 range; Expert recommends buying Union Bank, Apollo Micro Systems | Exclusive ET Now
 
-### 74. Nasdaq 100 Nears Correction as Tech Stocks Slide, Reddit Plunges 29% and Alphabet Loses $475 Billion - Hokanews
+### 69. Nasdaq 100 Nears Correction as Tech Stocks Slide, Reddit Plunges 29% and Alphabet Loses $475 Billion - Hokanews
 
 - Source: Hokanews
 - Published: 2026-11-01T01:44:00+00:00
@@ -746,17 +696,7 @@ Nifty Outlook: Index may consolidate in 21,700–23,500 range; Expert recommends
 
 Nasdaq 100 Nears Correction as Tech Stocks Slide, Reddit Plunges 29% and Alphabet Loses $475 Billion Hokanews
 
-### 75. Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once? - CryptoRank
-
-- Source: CryptoRank
-- Published: 2026-10-31T19:46:03+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQUVdoNVBoQXV1S3dUQnNPSXhTUjdFbmxkRDd1Wlg0cFNSVkVnVUtrMlNBLXhpOEFHWVFJaHBxWDdsSEk3YWJzWkRfUktTc1NfU1U3WmRZb2hDT1hkdndkOU5DM3U3NG5KX1BnRk1vR2hZSzJvcF9jbk1Nb2MxQ2JROXdFNlBudGVGbENwYUhJS21lSmN6Ymg1aThNZDBCeGxkQld2ZXpueUg4UDZNUlJrTktHV3ZHRnNwQkZVbWhlenh6Rm9k?oc=5
-
-Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Falling at Once? CryptoRank
-
-### 76. OpenAI Cuts Funding Target by $10 Billion as AI Stock Crash Threatens $1.25 Trillion Valuation - Coinpaper
+### 70. OpenAI Cuts Funding Target by $10 Billion as AI Stock Crash Threatens $1.25 Trillion Valuation - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-10-31T18:38:48+00:00
@@ -766,7 +706,27 @@ Bitcoin, Gold, Silver & Stocks Face a Market-Wide Sell-Off: Why Is Everything Fa
 
 OpenAI Cuts Funding Target by $10 Billion as AI Stock Crash Threatens $1.25 Trillion Valuation Coinpaper
 
-### 77. Two Fed Officials Just Called for More Rate Hikes, Starting Soon - 24/7 Wall St.
+### 71. US-India trade deal at ‘finish line’, Gor hopes for ‘exciting outcomes’ ahead of G20; Quad holds... - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-31T16:11:49+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxPbDRDOXUxWWg2dVNJbXNiT2RBSG5fa1BxYVpaVnpiRXloVVRlUFAzX0FQdTh4ZEI2bFdBTjB1SEVpUnVndUQ3MXNHbC1TaldCOGRYLVdUckFScWRRUWJqanFiVVk3Wm1zMWhoZlpLajRHam1ENXFHTXdDTjdaamZ2SW1QbDNYb1pKRlZLRTJGSVpqN0NzVUJKT2NKZk9HYnVDRW8yZEVnd2VTd3B3dHRIOHI4U1V5eGxESmtoYi1paTZfazJOYlRlUXQzVG5WcnlZOFpXVXhhR1M4Y0N2VzFfRHpkMFo2LWJvNzU3QldCQnJGdE9mamhHOHhBQ293THZUbHJFddIBhAJBVV95cUxPbDRDOXUxWWg2dVNJbXNiT2RBSG5fa1BxYVpaVnpiRXloVVRlUFAzX0FQdTh4ZEI2bFdBTjB1SEVpUnVndUQ3MXNHbC1TaldCOGRYLVdUckFScWRRUWJqanFiVVk3Wm1zMWhoZlpLajRHam1ENXFHTXdDTjdaamZ2SW1QbDNYb1pKRlZLRTJGSVpqN0NzVUJKT2NKZk9HYnVDRW8yZEVnd2VTd3B3dHRIOHI4U1V5eGxESmtoYi1paTZfazJOYlRlUXQzVG5WcnlZOFpXVXhhR1M4Y0N2VzFfRHpkMFo2LWJvNzU3QldCQnJGdE9mamhHOHhBQ293THZUbHJFdQ?oc=5
+
+US-India trade deal at ‘finish line’, Gor hopes for ‘exciting outcomes’ ahead of G20; Quad holds... Moneycontrol.com
+
+### 72. Woman takes up challenge to travel across India with just Rs 10,000. Spends Rs 2,000 in 6 states: Video - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-31T15:33:12+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxOcFJtVHRCYTBXbWdiU0ZGMzZNVVB6QlNxU2hRT2dOSmw0MFV1NnQzZTdxcS01MGZYUzhNSm5hQzR6TFlwbFRKVnc2OWVfRWg1MW9GNUp4OTBtdUZZdTVlNVBncEF2R3lRcDdtNnNmQUtZRlZpT1Vqc3J1d1ZGZUZCWUEyeHVDUGwwdVJXQ0pLSDFXOWxlODgzZTJmOUhTdjlHNmxsLXA0OGRyYlRBdHAzTWlkU2pZYWdubWhESEk4OU9rUVpJalJtTnROa2dydmZVYV95dVdNTWFtZExDQmdnS2t3ektzYUd2NmIxNXl6RER0QdIB8gFBVV95cUxOcFJtVHRCYTBXbWdiU0ZGMzZNVVB6QlNxU2hRT2dOSmw0MFV1NnQzZTdxcS01MGZYUzhNSm5hQzR6TFlwbFRKVnc2OWVfRWg1MW9GNUp4OTBtdUZZdTVlNVBncEF2R3lRcDdtNnNmQUtZRlZpT1Vqc3J1d1ZGZUZCWUEyeHVDUGwwdVJXQ0pLSDFXOWxlODgzZTJmOUhTdjlHNmxsLXA0OGRyYlRBdHAzTWlkU2pZYWdubWhESEk4OU9rUVpJalJtTnROa2dydmZVYV95dVdNTWFtZExDQmdnS2t3ektzYUd2NmIxNXl6RER0QQ?oc=5
+
+Woman takes up challenge to travel across India with just Rs 10,000. Spends Rs 2,000 in 6 states: Video Moneycontrol.com
+
+### 73. Two Fed Officials Just Called for More Rate Hikes, Starting Soon - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-10-31T15:27:00+00:00
@@ -776,7 +736,7 @@ OpenAI Cuts Funding Target by $10 Billion as AI Stock Crash Threatens $1.25 Tril
 
 Two Fed Officials Just Called for More Rate Hikes, Starting Soon 24/7 Wall St.
 
-### 78. Lenovo's 7.9% Slide Exposes a Gap Between AI Ambition and PC Reality - ad-hoc-news.de
+### 74. Lenovo's 7.9% Slide Exposes a Gap Between AI Ambition and PC Reality - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-10-31T13:41:10+00:00
@@ -786,7 +746,27 @@ Two Fed Officials Just Called for More Rate Hikes, Starting Soon 24/7 Wall St.
 
 Lenovo's 7.9% Slide Exposes a Gap Between AI Ambition and PC Reality ad-hoc-news.de
 
-### 79. Tera Software Attributes Share Price Volatility to Market Forces, Denies Undisclosed Material Events - TipRanks
+### 75. Wall Street braces for market volatility as Democrats eye control of Congress in US midterm elections - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-31T13:27:16+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxPSHI0VktmWmRmMHl5WVc0RFlERkt2UGpKaEpyT0Nmdks3d0FmRXMwMURmVWZMcHlyNkpnRGFod1Vwb3JGLVhVekszd05EUVNzRlhsY19JOUhkRE5ZN3RvTktyWS1haGwtZlJVRXRiMzBHeFZfakNPaUdhUG5OcWRXbENTOU9mNGV1ZVMtM0dfUnlRbzUydGtrZVFNNWNIOV9uRzZOMU5FbGxTRmxScDA2N0VPcnk0Q2FzLW0zM1FScTVDQm9yMy0tZVl5U1g1Tk9QNW9pM1poNzV2by0tN1pocnl0X21pM0NqdEo4eU52STJBb2ktZlNjaUE4VmJlX0nSAf8BQVVfeXFMT0hyNFZLZlpkZjB5eVlXNERZREZLdlBqSmhKck9DZnZLN3dBZkVzMDFEZlVmTHB5cjZKZ0RhaHdVcG9yRi1YVXpLM3dORFFTc0ZYbGNfSTlIZEROWTd0b05LclktYWhsLWZSVUV0YjMwR3hWX2pDT2lHYVBuTnFkV2xDUzlPZjRldWVTLTNHX1J5UW81MnRra2VRTTVjSDlfbkc2TjFORWxsU0ZsUnAwNjdFT3J5NENhcy1tMzNRUnE1Q0JvcjMtLWVZeVNYNU5PUDVvaTNaaDc1dm8tLTdaaHJ5dF9taTNDanRKOHlOdkkyQW9pLWZTY2lBOFZiZV9J?oc=5
+
+Wall Street braces for market volatility as Democrats eye control of Congress in US midterm elections Moneycontrol.com
+
+### 76. Japan's OMRON begins production of blood pressure monitors at first India plant in Tamil Nadu - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-31T12:43:12+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxPWWhKa2JtWkRVZGZSRjBSaDliSjloQUl5bEFjMnZJcVJmZ3R6dnBRcVpDd2gtQTY2QndCTkNKNm1ZSWlRT014OW9xVWVTYW4taWdHbzBUcWdCSGMyd2NnS2lOQ0VpcXFBak1ZbFRFNUwzRDNNbWV1bnB4SG9jc2lVWHFTY0F5VHB4OGhwNFRiUHpUWmdtT1NSY282djFNaDZBblZNSGYzd3p3X2h6NnZna0R1X2tZb1JiaWlsSU5QaTlZLXY0ODUtQUliMG53M3g3dUFMOUJmeF8zTzJUdUZEOE95MnJUMjhTT1HSAeoBQVVfeXFMT1loSmtibVpEVWRmUkYwUmg5Yko5aEFJeWxBYzJ2SXFSZmd0enZwUXFaQ3doLUE2NkJ3Qk5DSjZtWUlpUU9NeDlvcVVlU2FuLWlnR28wVHFnQkhjMndjZ0tpTkNFaXFxQWpNWWxURTVMM0QzTW1ldW5weEhvY3NpVVhxU2NBeVRweDhocDRUYlB6VFpnbU9TUmNvNnYxTWg2QW5WTUhmM3d6d19oejZ2Z2tEdV9rWW9SYmlpbElOUGk5WS12NDg1LUFJYjBudzN4N3VBTDlCZnhfM08yVHVGRDhPeTJyVDI4U09R?oc=5
+
+Japan's OMRON begins production of blood pressure monitors at first India plant in Tamil Nadu Moneycontrol.com
+
+### 77. Tera Software Attributes Share Price Volatility to Market Forces, Denies Undisclosed Material Events - TipRanks
 
 - Source: TipRanks
 - Published: 2026-10-31T12:32:47+00:00
@@ -796,7 +776,17 @@ Lenovo's 7.9% Slide Exposes a Gap Between AI Ambition and PC Reality ad-hoc-news
 
 Tera Software Attributes Share Price Volatility to Market Forces, Denies Undisclosed Material Events TipRanks
 
-### 80. Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey - The Economic Times
+### 78. Gold Falls Below $4,000; Silver Hits 11‑Month Low This Week - HDFC Sky
+
+- Source: HDFC Sky
+- Published: 2026-10-31T12:23:50+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPRm9MRXVRcmViZjh1cFhoWkpwWHo3Zjd3WjlpME1KN3huVGE0Z3Jubjhld25YSGpGdFc0aVRfRVppeGRBNTNqTldDTVJ2MEY2elo1Q3g0aHlhR3lTeC1WSGp0NHF3ZTM4NkU5QktDRktvWDhXalZhZThnd3h3TWgxN2pUWkVqMjZzblBRMVFJa3dJUQ?oc=5
+
+Gold Falls Below $4,000; Silver Hits 11‑Month Low This Week HDFC Sky
+
+### 79. Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-10-31T12:06:29+00:00
@@ -805,3 +795,13 @@ Tera Software Attributes Share Price Volatility to Market Forces, Denies Undiscl
 - Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWmIyV19LMzdmU2lhc0owaXdiRW5rdURuVDNTVVF0cjlWdEFtdE12Uk16dzBPano0WWVMM3pwOUtCeUxVd3JHMUREN3A4SjV2T2dtNjVzVEE1a3hoSTk2M0NLN1dYUDEtLUxTMmw0UmpMMG90c0h5VU8zSmlkU1Jrel9YVEtkYk1PQmNuMk8tRElLOGlmaTViZVktT3U3NWZsMXpZcUw4VGRUUVJ0MC15SUVhMktOVVJSZlNXekJkSFpLWTlrWUNRSGVjZjRYdThXMTBtb2VqdXQ5dks2Y2lod2FNYlpBc2dyQmxLX05OZUVqOUl4YnNJdjFJRm1OZ9IBgwJBVV95cUxPbndXMTRwVW8tYThiSVlqTVVTM2NBSjJUOFRMWmFxSEw0a0NTdEVzXzVQNkVfdVlxWXNLVU9pR2RyRzBGR2pNY25xNEI4M3h2SmE2T281X2c2c1JCZVlmQnBzVmNiUkxMTzJDdDJEYUZ0MUpYM0MtUjZDUGRKX1gxZnN6X01FalJ5MTMwWGpfMEhtTktnVkczbmpYSXZ2MzVXZk5PZ3d3eHFFSG5YZHdVaFUxZE1VMFZaZXB6Nnd0Y01FdFFVb2RETktoVHBob0ROMW5TSXp1aThiY1lsUUJWUkF1NTBXRmVFZU5ZalctUEwwV3hBNWVjb0lndEIzRHU2dENZ?oc=5
 
 Sebi to release FII compliance consultation paper within weeks, says chairman Tuhin Kanta Pandey The Economic Times
+
+### 80. ‘Mockery of democratic process’: BJP MP Sambit Patra hits out at INDIA bloc’s ‘mock parliament’ - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-10-31T11:52:10+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa000aXctZ1ptNmw0V0Q4Z0xvZzZiSS1oR0dINU9BMGRnS0lBdGp3cEZMQUdJd2dfNHo0TGdkYVdJNlN4c1ZLNGRVTnExazJtajNYVnItUUdQdXRfbUh3aThtN21acERVNEdOZHVxU2lBS0ZoeUtwa2xpUlNkR2NzR1N0SEJaRHVFblJxaFhvbHlfZVptckRjaVpnc0RETmhMQWIyUTZ1QkMzZ2RMMXZ6VV9uTjQ1QkVSN3ZzbTJRbzFhbkJlZVA1ekV6OGtFbDd4T3hjdVkwNU7SAdgBQVVfeXFMTmtNNGl3LWdabTZsNFdEOGdMb2c2YkktaEdHSDVPQTBkZ0tJQXRqd3BGTEFHSXdnXzR6NExnZGFXSTZTeHNWSzRkVU5xMWsybWozWFZyLVFHUHV0X21Id2k4bTdtWnBEVTRHTmR1cVNpQUtGaHlLcGtsaVJTZEdjc0dTdEhCWkR1RW5ScWhYb2x5X2VabXJEY2laZ3NERE5oTEFiMlE2dUJDM2dkTDF2elVfbk40NUJFUjd2c20yUW8xYW5CZWVQNXpFejhrRWw3eE94Y3VZMDVO?oc=5
+
+‘Mockery of democratic process’: BJP MP Sambit Patra hits out at INDIA bloc’s ‘mock parliament’ Moneycontrol.com
