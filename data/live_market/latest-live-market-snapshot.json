@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-10-30T22:22:42+05:30",
+  "generated_at": "2026-11-01T08:40:22+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
-      "advancers": 17,
-      "decliners": 41,
+      "downloaded_count": 60,
+      "coverage_pct": 100.0,
+      "advancers": 18,
+      "decliners": 42,
       "unchanged": 0,
-      "ad_ratio": 0.41,
-      "up_turnover_share_pct": 64.3,
-      "down_turnover_share_pct": 35.7,
+      "ad_ratio": 0.43,
+      "up_turnover_share_pct": 64.2,
+      "down_turnover_share_pct": 35.8,
       "high_volume_decliners": 5,
-      "intraday_quotes": 58,
+      "intraday_quotes": 60,
       "daily_fallbacks": 0,
       "as_of_date": "2026-10-30",
       "as_of_timestamp": "2026-10-30 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -62,6 +62,14 @@
         "average_volume_ratio_20d": 0.597
       },
       {
+        "sector": "Utilities",
+        "count": 2,
+        "advancers": 1,
+        "decliners": 1,
+        "average_1d_pct": -0.712,
+        "average_volume_ratio_20d": 0.66
+      },
+      {
         "sector": "Consumer non-durables",
         "count": 4,
         "advancers": 1,
@@ -86,14 +94,6 @@
         "average_volume_ratio_20d": 0.699
       },
       {
-        "sector": "Utilities",
-        "count": 1,
-        "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -1.434,
-        "average_volume_ratio_20d": 0.483
-      },
-      {
         "sector": "Commercial services",
         "count": 1,
         "advancers": 0,
@@ -110,20 +110,20 @@
         "average_volume_ratio_20d": 2.426
       },
       {
+        "sector": "Finance",
+        "count": 12,
+        "advancers": 2,
+        "decliners": 10,
+        "average_1d_pct": -2.519,
+        "average_volume_ratio_20d": 0.905
+      },
+      {
         "sector": "Technology services",
         "count": 2,
         "advancers": 0,
         "decliners": 2,
         "average_1d_pct": -2.565,
         "average_volume_ratio_20d": 1.06
-      },
-      {
-        "sector": "Finance",
-        "count": 11,
-        "advancers": 2,
-        "decliners": 9,
-        "average_1d_pct": -2.746,
-        "average_volume_ratio_20d": 0.93
       },
       {
         "sector": "Process industries",
@@ -1629,6 +1629,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 103.48,
+        "previous_close": 103.47,
+        "day_move_pct": 0.0097,
+        "session_volume": 1139234.0,
+        "average_volume_20d": 1360771.0,
+        "volume_ratio_20d": 0.837,
+        "turnover_proxy": 117887938.0,
+        "quote_date": "2026-10-30",
+        "quote_timestamp": "2026-10-30 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1748,6 +1765,23 @@
         "alert": ""
       },
       {
+        "symbol": "INDIGRID",
+        "ticker": "INDIGRID.NS",
+        "name": "IndiGrid Infrastructure Trust",
+        "sector": "Finance",
+        "ltp": 168.38,
+        "previous_close": 168.43,
+        "day_move_pct": -0.0297,
+        "session_volume": 533551.0,
+        "average_volume_20d": 854803.0,
+        "volume_ratio_20d": 0.624,
+        "turnover_proxy": 89839320.0,
+        "quote_date": "2026-10-30",
+        "quote_timestamp": "2026-10-30 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "ELPROINTL",
         "ticker": "ELPROINTL.NS",
         "name": "Elpro International Ltd",
@@ -1803,20 +1837,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 498,
-      "coverage_pct": 99.6,
+      "downloaded_count": 500,
+      "coverage_pct": 100.0,
       "advancers": 110,
-      "decliners": 387,
+      "decliners": 389,
       "unchanged": 1,
       "ad_ratio": 0.28,
       "up_turnover_share_pct": 46.1,
       "down_turnover_share_pct": 53.9,
       "high_volume_decliners": 52,
       "intraday_quotes": 498,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 2,
       "as_of_date": "2026-10-30",
       "as_of_timestamp": "2026-10-30 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -1917,11 +1951,11 @@
       },
       {
         "sector": "Financial Services",
-        "count": 100,
+        "count": 101,
         "advancers": 17,
-        "decliners": 83,
-        "average_1d_pct": -1.965,
-        "average_volume_ratio_20d": 0.946
+        "decliners": 84,
+        "average_1d_pct": -1.95,
+        "average_volume_ratio_20d": 0.942
       },
       {
         "sector": "Consumer Durables",
@@ -1949,11 +1983,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
+        "count": 63,
         "advancers": 6,
-        "decliners": 56,
-        "average_1d_pct": -2.526,
-        "average_volume_ratio_20d": 0.911
+        "decliners": 57,
+        "average_1d_pct": -2.523,
+        "average_volume_ratio_20d": 0.91
       },
       {
         "sector": "Construction",
@@ -6068,6 +6102,23 @@
         "alert": "Exceptional move (-7.03%) on 4.9x 20-day volume"
       },
       {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 237.61,
+        "previous_close": 243.37,
+        "day_move_pct": -2.3668,
+        "session_volume": 1106643.0,
+        "average_volume_20d": 1297326.0,
+        "volume_ratio_20d": 0.853,
+        "turnover_proxy": 262949444.0,
+        "quote_date": "2026-10-30",
+        "quote_timestamp": "2026-10-30 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
+        "alert": ""
+      },
+      {
         "symbol": "HBLENGINE",
         "ticker": "HBLENGINE.NS",
         "name": "HBL Engineering Ltd.",
@@ -6507,6 +6558,23 @@
         "quote_date": "2026-10-30",
         "quote_timestamp": "2026-10-30 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "ICICIPRULI",
+        "ticker": "ICICIPRULI.NS",
+        "name": "ICICI Prudential Life Insurance Company Ltd.",
+        "sector": "Financial Services",
+        "ltp": 410.0,
+        "previous_close": 411.95,
+        "day_move_pct": -0.4734,
+        "session_volume": 773913.0,
+        "average_volume_20d": 1513512.0,
+        "volume_ratio_20d": 0.511,
+        "turnover_proxy": 317304330.0,
+        "quote_date": "2026-10-30",
+        "quote_timestamp": "2026-10-30 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
