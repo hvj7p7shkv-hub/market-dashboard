@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-02 03:08
+Generated: 2026-11-02 03:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,7 +26,27 @@ India Large Caps Gain Favor Amid Global AI Selloff, Small-Cap Slump Bloomberg.co
 
 Intel's record plunge triggers global chip selloff India's News.Net
 
-### 3. Trade Setup for Today: GIFT Nifty Steady Amid Wall Street Sell-Off and Crude Oil Dip as of November 2, 2026 - scanx.trade
+### 3. Apple overtakes Nvidia as world's most valuable company amid tech selloff - Profit by Pakistan Today
+
+- Source: Profit by Pakistan Today
+- Published: 2026-11-02T03:01:26+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSkdtNFFxdzd2NnhCNlNlMi1RUHpCUXBDdTBHOVI1dnJ6c1hLdUFGU1JmbDdxNllkcjh1czVZUVRNSGJrS3B0WVlnb2p1RURzR1Y5bk9xMEd5c1oxTW5zZmFzeTA1MXpoLXR2QkJ6MG1sNmFJRE5JNWZqelNUTnVBT0lTZjVCdGhRbXNyUFhNNUpGc3JaOU1oRjlYYUFOV1JyQW5pWHhNS25wanhmSWdpckdoMnZzbVBrdTRJ?oc=5
+
+Apple overtakes Nvidia as world's most valuable company amid tech selloff Profit by Pakistan Today
+
+### 4. Apple overtakes Nvidia as world's most valuable company amid tech selloff - Investify
+
+- Source: Investify
+- Published: 2026-11-02T03:00:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxQdzY1SHpoazZ0VkRpckg2YXdrNlpTR1BvR0FlbDJOdVI2ZkNoVU5XVWdVVGo5UF9hcXBvbU5ZNkJIUWM4SzZBWVV5eFBoZ01tVndwQjdGT0xOMng2NHl1VEg5ODU3ZER3dkI4WW1tTm9hd25Ja09RbzAyWkk5cTFVWjZ4TFIzTFdkakw3TTVVcnpObTJSZE4yRUdVN1VXWXpFUUZONERmRnRjdDFURU1ydE9fNXdJLUE?oc=5
+
+Apple overtakes Nvidia as world's most valuable company amid tech selloff Investify
+
+### 5. Trade Setup for Today: GIFT Nifty Steady Amid Wall Street Sell-Off and Crude Oil Dip as of November 2, 2026 - scanx.trade
 
 - Source: scanx.trade
 - Published: 2026-11-02T02:49:02+00:00
@@ -36,7 +56,7 @@ Intel's record plunge triggers global chip selloff India's News.Net
 
 Trade Setup for Today: GIFT Nifty Steady Amid Wall Street Sell-Off and Crude Oil Dip as of November 2, 2026 scanx.trade
 
-### 4. GIFT Nifty jumps nearly 200 pts, signals strong start for Sensex, Nifty as crude falls amid Asian weakness - Moneycontrol.com
+### 6. GIFT Nifty jumps nearly 200 pts, signals strong start for Sensex, Nifty as crude falls amid Asian weakness - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-02T02:48:56+00:00
@@ -46,7 +66,17 @@ Trade Setup for Today: GIFT Nifty Steady Amid Wall Street Sell-Off and Crude Oil
 
 GIFT Nifty jumps nearly 200 pts, signals strong start for Sensex, Nifty as crude falls amid Asian weakness Moneycontrol.com
 
-### 5. Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2 - NDTV Profit
+### 7. Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook - Bloomberg.com
+
+- Source: Bloomberg.com
+- Published: 2026-11-02T02:15:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGUyS2diYVFSbnZmdklpSmxqNFhqREJobEZCUjhZV3BhQzhCOUdScEp4N09WOGJyQk9XU05qVDlVMkotSEpobUhKWGEwejVrUm05WlN2NmdzYTNJbFltNmtPTU8yemVvMFVOZlQ4WGhqZEZzMVRzZEhFUHJxVTZOZEtFQ0NWYVZlUmJoVnl1VGVhUWotWWRMcmJPN211TkNEb1dyWTBuZXQ4ZGtWSVEzag?oc=5
+
+Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook Bloomberg.com
+
+### 8. Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2 - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-02T01:29:17+00:00
@@ -56,17 +86,7 @@ GIFT Nifty jumps nearly 200 pts, signals strong start for Sensex, Nifty as crude
 
 Stock Market Today: Gift Nifty, Tech Stocks Selloff To Oil Prices; Five Key Factors For Sensex, Nifty 50 On Nov 2 NDTV Profit
 
-### 6. Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-11-02T00:15:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxNdGUyS2diYVFSbnZmdklpSmxqNFhqREJobEZCUjhZV3BhQzhCOUdScEp4N09WOGJyQk9XU05qVDlVMkotSEpobUhKWGEwejVrUm05WlN2NmdzYTNJbFltNmtPTU8yemVvMFVOZlQ4WGhqZEZzMVRzZEhFUHJxVTZOZEtFQ0NWYVZlUmJoVnl1VGVhUWotWWRMcmJPN211TkNEb1dyWTBuZXQ4ZGtWSVEzag?oc=5
-
-Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook Bloomberg.com
-
-### 7. Wall Street closes sharply lower as AI cash burn fears spark tech selloff - Virginia Business
+### 9. Wall Street closes sharply lower as AI cash burn fears spark tech selloff - Virginia Business
 
 - Source: Virginia Business
 - Published: 2026-11-01T18:44:25+00:00
@@ -76,7 +96,7 @@ Japanese Stocks Fall on Tech Selloff, Kioxia’s Profit Outlook Bloomberg.com
 
 Wall Street closes sharply lower as AI cash burn fears spark tech selloff Virginia Business
 
-### 8. Nasdaq Slumps Amid AI Stock Selloff; CoreWeave (CRWV) Sees Risin - GuruFocus
+### 10. Nasdaq Slumps Amid AI Stock Selloff; CoreWeave (CRWV) Sees Risin - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-11-01T16:28:49+00:00
@@ -86,7 +106,7 @@ Wall Street closes sharply lower as AI cash burn fears spark tech selloff Virgin
 
 Nasdaq Slumps Amid AI Stock Selloff; CoreWeave (CRWV) Sees Risin GuruFocus
 
-### 9. BlackRock says AI selloff reshapes oil, Treasury trade in October - Traders Union
+### 11. BlackRock says AI selloff reshapes oil, Treasury trade in October - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-01T16:09:24+00:00
@@ -96,7 +116,7 @@ Nasdaq Slumps Amid AI Stock Selloff; CoreWeave (CRWV) Sees Risin GuruFocus
 
 BlackRock says AI selloff reshapes oil, Treasury trade in October Traders Union
 
-### 10. Nvidia Stock Selloff Puts AI Hardware Leaders Back On Watch - Simply Wall St
+### 12. Nvidia Stock Selloff Puts AI Hardware Leaders Back On Watch - Simply Wall St
 
 - Source: Simply Wall St
 - Published: 2026-11-01T12:54:35+00:00
@@ -106,7 +126,7 @@ BlackRock says AI selloff reshapes oil, Treasury trade in October Traders Union
 
 Nvidia Stock Selloff Puts AI Hardware Leaders Back On Watch Simply Wall St
 
-### 11. Nvidia Stock Risks $194 as AI Selloff Wipes Out $836 Billion - The Market Periodical
+### 13. Nvidia Stock Risks $194 as AI Selloff Wipes Out $836 Billion - The Market Periodical
 
 - Source: The Market Periodical
 - Published: 2026-11-01T07:41:38+00:00
@@ -116,7 +136,7 @@ Nvidia Stock Selloff Puts AI Hardware Leaders Back On Watch Simply Wall St
 
 Nvidia Stock Risks $194 as AI Selloff Wipes Out $836 Billion The Market Periodical
 
-### 12. KLCI Remain Range Bound Amid Global AI Selloff, Political Uncertainty - BusinessToday Malaysia
+### 14. KLCI Remain Range Bound Amid Global AI Selloff, Political Uncertainty - BusinessToday Malaysia
 
 - Source: BusinessToday Malaysia
 - Published: 2026-11-02T02:11:39+00:00
@@ -126,7 +146,7 @@ Nvidia Stock Risks $194 as AI Selloff Wipes Out $836 Billion The Market Periodic
 
 KLCI Remain Range Bound Amid Global AI Selloff, Political Uncertainty BusinessToday Malaysia
 
-### 13. Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap - Bloomberg.com
+### 15. Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-02T01:47:00+00:00
@@ -136,7 +156,7 @@ KLCI Remain Range Bound Amid Global AI Selloff, Political Uncertainty BusinessTo
 
 Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap Bloomberg.com
 
-### 14. Asian stocks to fall as tech rout fuels AI fears - The Edge Singapore
+### 16. Asian stocks to fall as tech rout fuels AI fears - The Edge Singapore
 
 - Source: The Edge Singapore
 - Published: 2026-11-01T22:32:44+00:00
@@ -146,7 +166,7 @@ Asian Stocks to Fall as Tech Rout Fuels AI Fears: Markets Wrap Bloomberg.com
 
 Asian stocks to fall as tech rout fuels AI fears The Edge Singapore
 
-### 15. AI investors hedge against losses amid tech stock selloff - The Jerusalem Post
+### 17. AI investors hedge against losses amid tech stock selloff - The Jerusalem Post
 
 - Source: The Jerusalem Post
 - Published: 2026-11-01T20:38:11+00:00
@@ -156,7 +176,7 @@ Asian stocks to fall as tech rout fuels AI fears The Edge Singapore
 
 AI investors hedge against losses amid tech stock selloff The Jerusalem Post
 
-### 16. OpenAI Cuts Funding Target by $10 Billion Amid Tech Selloff - Cirebon Times
+### 18. OpenAI Cuts Funding Target by $10 Billion Amid Tech Selloff - Cirebon Times
 
 - Source: Cirebon Times
 - Published: 2026-11-01T19:21:14+00:00
@@ -166,7 +186,7 @@ AI investors hedge against losses amid tech stock selloff The Jerusalem Post
 
 OpenAI Cuts Funding Target by $10 Billion Amid Tech Selloff Cirebon Times
 
-### 17. AI Stock Selloff Could Boost Crypto Markets Over the Next Six Months, Defiance Capital CEO Says - Hokanews
+### 19. AI Stock Selloff Could Boost Crypto Markets Over the Next Six Months, Defiance Capital CEO Says - Hokanews
 
 - Source: Hokanews
 - Published: 2026-11-01T17:55:00+00:00
@@ -176,7 +196,7 @@ OpenAI Cuts Funding Target by $10 Billion Amid Tech Selloff Cirebon Times
 
 AI Stock Selloff Could Boost Crypto Markets Over the Next Six Months, Defiance Capital CEO Says Hokanews
 
-### 18. AI Stock Selloff Erases 5 Trillion as Markets Diverge - SuaraGarut.ID
+### 20. AI Stock Selloff Erases 5 Trillion as Markets Diverge - SuaraGarut.ID
 
 - Source: SuaraGarut.ID
 - Published: 2026-11-01T15:38:21+00:00
@@ -186,7 +206,7 @@ AI Stock Selloff Could Boost Crypto Markets Over the Next Six Months, Defiance C
 
 AI Stock Selloff Erases 5 Trillion as Markets Diverge SuaraGarut.ID
 
-### 19. Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) - Seeking Alpha
+### 21. Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-01T15:30:27+00:00
@@ -196,7 +216,7 @@ AI Stock Selloff Erases 5 Trillion as Markets Diverge SuaraGarut.ID
 
 Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) Seeking Alpha
 
-### 20. Tech selloff may ease pressure on the Federal Reserve, says BMO economist - Crypto Briefing
+### 22. Tech selloff may ease pressure on the Federal Reserve, says BMO economist - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-11-01T13:39:04+00:00
@@ -206,7 +226,7 @@ Trending stocks this week as markets slide on tech selloff (SP500:) (DJI:) Seeki
 
 Tech selloff may ease pressure on the Federal Reserve, says BMO economist Crypto Briefing
 
-### 21. Stock market forecast: Goldman Sachs, JPMorgan, Morgan Stanley predict what's next after tech selloff - Beinsure
+### 23. Stock market forecast: Goldman Sachs, JPMorgan, Morgan Stanley predict what's next after tech selloff - Beinsure
 
 - Source: Beinsure
 - Published: 2026-11-01T13:29:35+00:00
@@ -216,7 +236,7 @@ Tech selloff may ease pressure on the Federal Reserve, says BMO economist Crypto
 
 Stock market forecast: Goldman Sachs, JPMorgan, Morgan Stanley predict what's next after tech selloff Beinsure
 
-### 22. Tube Investments of India Ltd Falls to 52-Week Low of Rs 2128.2 as Sell-Off Deepens - MarketsMojo
+### 24. Tube Investments of India Ltd Falls to 52-Week Low of Rs 2128.2 as Sell-Off Deepens - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-11-01T12:01:30+00:00
@@ -226,17 +246,17 @@ Stock market forecast: Goldman Sachs, JPMorgan, Morgan Stanley predict what's ne
 
 Tube Investments of India Ltd Falls to 52-Week Low of Rs 2128.2 as Sell-Off Deepens MarketsMojo
 
-### 23. OpenAI Slashes Funding Goal by $10 Billion to $20 Billion as AI Stock Selloff Intensifies - TipRanks
+### 25. S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff - BBN Times
 
-- Source: TipRanks
-- Published: 2026-11-01T11:27:19+00:00
+- Source: BBN Times
+- Published: 2026-11-01T07:24:01+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxQamFrTV93Mm1FZl9fUUdScGMtSXlxRTAxT1hXY0lPSjcxTlNaZkRuT0dFXzJMV3BCSWduaEp1V0VEYlgyZVp4QlpaYk4xNnJ4a2pfcWlvMjFsMWVOaldFNXprSWNKbEVrRjR4anBtMDVfSjR2RlhaZFpLNUI3c2FteDAtdXpZbGR0SjNZcTVyTXM0dXJUUGxueFIwVDJJWmhobVF6ZXB1NjZfbS05RkNmb3VaN2R2STcw?oc=5
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPVExNRW9xTGFoOVE1bWdtQzF6Mm5xUkZyMk43RU9RVDBhOVJ2N0NDNm5aN3RBRnpYc3VUZEpJcUFlbnlSMlJ3NHpaZnZyYnRmNl81WEFFZ3JHeUs1c3U0TXQ0VzlSTjJLMW1Wb1pvRjBqSl9DY0IzREVIZTBPM3hyS2x2RzhudEw4dWVLQWMtSDZjSXV5MXdqWnB5WVZUbEYxTV94eFRKRmJ3R2hnU0I0amgxM1RvTkl0aXc3MVYwRQ?oc=5
 
-OpenAI Slashes Funding Goal by $10 Billion to $20 Billion as AI Stock Selloff Intensifies TipRanks
+S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff BBN Times
 
-### 24. OpenAI Cuts Funding Target by $10 Billion as AI Stock Selloff Pressures Valuation - Tekedia
+### 26. OpenAI Cuts Funding Target by $10 Billion as AI Stock Selloff Pressures Valuation - Tekedia
 
 - Source: Tekedia
 - Published: 2026-11-01T07:11:48+00:00
@@ -246,17 +266,17 @@ OpenAI Slashes Funding Goal by $10 Billion to $20 Billion as AI Stock Selloff In
 
 OpenAI Cuts Funding Target by $10 Billion as AI Stock Selloff Pressures Valuation Tekedia
 
-### 25. Ashish Kacholia To Launch Mutual Fund? Here's What Ace Investor Said - NDTV Profit
+### 27. FPI Outflows Hit Rs 2.95 Lakh Crore in 2026 as Foreign Investors Extend Equity Selloff - Siliconindia
 
-- Source: NDTV Profit
-- Published: 2026-11-02T02:50:23+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVhOeTdFdnB3cTc3ZTh4WVh4cWdhVDh3VW9aYmxHdjVseDdOV3FmZy1hMXJsWTV2SkRDazQwWl9EcDVCcHIzZGNjX0VBV3B4dWhfa3ZJbEQ4Q0s3M1ZmRE5TQkptM3I1RnhvZkJlT1dDTk50bHVKT2h2Zkd3YlRfZl9xUUpUME9HamhjMktiTm5aa1Z3Vl81UDIxRjRnYkptS2JBag?oc=5
+- Source: Siliconindia
+- Published: 2026-11-02T03:24:25+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQUnZyVV82YjBoTmZLNUxFUlZXYzljYjd0R180NDJ3TjFqUnoyTExYRUg0UkdnaEdRQU9aVEF4WW4wSXdaNG4tR3dHSFpmdVZZeGh0TnBqMnhsS052M3prMDgwTC1hRlNIMGhycWc2OHFCRXFuRk0wbVBrdkQ0TU9QN3pVT21ja3pMdVV0aWhYR1owdUVZbEVfQnJyZnBVMTNFanU5MVRQenl5UTVCOF96Tkd6NkNSaDNTMXU5a1JyaWt5V3dvYTByTDJVNkNoUGZWdDJYS01NSzhaMkc5cTRlN2RfOA?oc=5
 
-Ashish Kacholia To Launch Mutual Fund? Here's What Ace Investor Said NDTV Profit
+FPI Outflows Hit Rs 2.95 Lakh Crore in 2026 as Foreign Investors Extend Equity Selloff Siliconindia
 
-### 26. Pre-Market Update: GIFT Nifty Signals Positive Start; Reliance Earnings, Crude Oil and Global Cues in Focus - Dalal Street Investment Journal
+### 28. Pre-Market Update: GIFT Nifty Signals Positive Start; Reliance Earnings, Crude Oil and Global Cues in Focus - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-02T02:47:20+00:00
@@ -266,7 +286,7 @@ Ashish Kacholia To Launch Mutual Fund? Here's What Ace Investor Said NDTV Profit
 
 Pre-Market Update: GIFT Nifty Signals Positive Start; Reliance Earnings, Crude Oil and Global Cues in Focus Dalal Street Investment Journal
 
-### 27. Moved abroad, selling mutual funds to buy a house in India? Know the tax rules - Livemint
+### 29. Moved abroad, selling mutual funds to buy a house in India? Know the tax rules - Livemint
 
 - Source: Livemint
 - Published: 2026-11-01T18:11:43+00:00
@@ -276,7 +296,7 @@ Pre-Market Update: GIFT Nifty Signals Positive Start; Reliance Earnings, Crude O
 
 Moved abroad, selling mutual funds to buy a house in India? Know the tax rules Livemint
 
-### 28. Mutual Fund AUM: Which city dominates mutual fund investments? Check the complete list of top 10 cities - ET Now
+### 30. Mutual Fund AUM: Which city dominates mutual fund investments? Check the complete list of top 10 cities - ET Now
 
 - Source: ET Now
 - Published: 2026-11-01T17:49:35+00:00
@@ -286,7 +306,17 @@ Moved abroad, selling mutual funds to buy a house in India? Know the tax rules L
 
 Mutual Fund AUM: Which city dominates mutual fund investments? Check the complete list of top 10 cities ET Now
 
-### 29. Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks continue to end war. What are ex - The Economic Times
+### 31. 4 Fidelity Mutual Funds to Buy as Volatility Continues - TradingView
+
+- Source: TradingView
+- Published: 2026-11-01T13:40:33+00:00
+- Themes: market selling
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQR1VnNHdpUF8tbXRlV1VtYnVPeWdCTG96djl5aWlSYU1mWms5Y09xbzhFY3BKLTZXeW1jdTdtUEdwOWZTTXNyclo0Xzl6RXRobmYtVU02QWtMVXlDNVZuQ2g0U1lBWDloa1F4Zl90TWkyVFliT1JleVd4M0hRcU1TVXN0MmpoMERKQUpGbGMxRV81SlpxRzVGNGdETlNoaWpfTzNuenNCSU9iTmxXRFE?oc=5
+
+4 Fidelity Mutual Funds to Buy as Volatility Continues TradingView
+
+### 32. Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks continue to end war. What are ex - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-02T02:17:08+00:00
@@ -296,17 +326,7 @@ Mutual Fund AUM: Which city dominates mutual fund investments? Check the complet
 
 Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks continue to end war. What are ex The Economic Times
 
-### 30. 12 key Indian mutual funds score zero on climate scenario analysis and stress testing. Should you be worri - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-02T01:00:00+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxNeEZwTnZRNTV4UkNCcU1QVE0xYzNndVhRajdieDhmOVVYc3cyVEtSTmlaU25IOGFSRUtTUnkyZjZ0MDk0UDlfeXBwa0g0SlJRVWxtMGpUc3N6YjBYT05qSlVUNEtfWU5fVTdBdlJJcE5TSzlyNHllYkNMOURKbHN0OGpjbVRzcTJJeVk1MXNEdU5xYm1hMU1oaUtZMEtMWV9TdU0ydUREN3RHOTNwWHFtRUY0amRuTTJ6VjJkWU4wZ2xCMTVyWjlyZGtxMVZRaHB1emVTV0ZfSlB1aGVCVnpES0t5UWo1MXY1QVh6LWZXbVREWXVVcWVESHBOVEJMTUF3b1hUUjJB0gGLAkFVX3lxTE9SY0c0d0lZSzVrbTFaaGFHVG1LZDIydDZFei1PRXktbWd4Vkx2Z3VSYVBTQnBHU2pvYk1jb25NQ0l5SC1iVk9Ja3FxSTFkSXdiNEhTVUZfR0ZmVS1YbzFDR0VyQncyZDBVY3NvU0VJS2tJd2RmVzdNbkRZQjYzVExFSjAxTFo5dHEzUVpVeXp4OU1DTVJKVFA4ZkhMWk5HejNwYUNlenpSWnIweUpVbVJoVG82aFVRbkFwOVVEVGVFdDE3RkxxN1gwSVBTVVFUTVVxUXNnTWVaRmdHcWlmM1Y3VjgwV21QaVNMS0pzcHVLa3MyTk1jN3RNU3JDYWZRMzVweXRaYm1DbWNqaw?oc=5
-
-12 key Indian mutual funds score zero on climate scenario analysis and stress testing. Should you be worri The Economic Times
-
-### 31. Most wanted stocks 2026: 6 stocks mutual funds are buying even as markets slump - The Economic Times
+### 33. Most wanted stocks 2026: 6 stocks mutual funds are buying even as markets slump - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-02T01:00:00+00:00
@@ -316,7 +336,17 @@ Oil Price Today (November 2): Crude oil falls to $111 as Iran-Qatar talks contin
 
 Most wanted stocks 2026: 6 stocks mutual funds are buying even as markets slump The Economic Times
 
-### 32. Markets watch oil prices, FPI flows amid broader weakness - The Goan
+### 34. 12 key Indian mutual funds score zero on climate scenario analysis and stress testing. Should you be worri - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-02T01:00:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMihgJBVV95cUxNeEZwTnZRNTV4UkNCcU1QVE0xYzNndVhRajdieDhmOVVYc3cyVEtSTmlaU25IOGFSRUtTUnkyZjZ0MDk0UDlfeXBwa0g0SlJRVWxtMGpUc3N6YjBYT05qSlVUNEtfWU5fVTdBdlJJcE5TSzlyNHllYkNMOURKbHN0OGpjbVRzcTJJeVk1MXNEdU5xYm1hMU1oaUtZMEtMWV9TdU0ydUREN3RHOTNwWHFtRUY0amRuTTJ6VjJkWU4wZ2xCMTVyWjlyZGtxMVZRaHB1emVTV0ZfSlB1aGVCVnpES0t5UWo1MXY1QVh6LWZXbVREWXVVcWVESHBOVEJMTUF3b1hUUjJB0gGLAkFVX3lxTE9SY0c0d0lZSzVrbTFaaGFHVG1LZDIydDZFei1PRXktbWd4Vkx2Z3VSYVBTQnBHU2pvYk1jb25NQ0l5SC1iVk9Ja3FxSTFkSXdiNEhTVUZfR0ZmVS1YbzFDR0VyQncyZDBVY3NvU0VJS2tJd2RmVzdNbkRZQjYzVExFSjAxTFo5dHEzUVpVeXp4OU1DTVJKVFA4ZkhMWk5HejNwYUNlenpSWnIweUpVbVJoVG82aFVRbkFwOVVEVGVFdDE3RkxxN1gwSVBTVVFUTVVxUXNnTWVaRmdHcWlmM1Y3VjgwV21QaVNMS0pzcHVLa3MyTk1jN3RNU3JDYWZRMzVweXRaYm1DbWNqaw?oc=5
+
+12 key Indian mutual funds score zero on climate scenario analysis and stress testing. Should you be worri The Economic Times
+
+### 35. Markets watch oil prices, FPI flows amid broader weakness - The Goan
 
 - Source: The Goan
 - Published: 2026-11-01T18:05:20+00:00
@@ -326,17 +356,7 @@ Most wanted stocks 2026: 6 stocks mutual funds are buying even as markets slump 
 
 Markets watch oil prices, FPI flows amid broader weakness The Goan
 
-### 33. Rosen Law investigates BlackRock mutual funds over alleged misleading information - scanx.trade
-
-- Source: scanx.trade
-- Published: 2026-11-01T16:20:07+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOT2YtdUdBcmlURzFncE9PNEhtRzhSUVp0WURfNDJsUXNfS2poQ1N6Q2VfbHhCSWdaZUdwYy00YkRETFNqR0NjQTQwUUJBaEswU0JMMlYxSUltRk5Zc1dUTGh6RS1BQmUwQU1mUTFUS0NudlRhcFd5WFhEUnVudzIyWFhQcmtFdml5aFBCMVJhdWtUVUd1QWtrUkN2T0dOeFJma3Q5MWpHTzc1N09ndnBpYWZPSTlKOG53U1FVTVl6QmNhaFdJUmVIcTA5NGZONTZNTGVfYg?oc=5
-
-Rosen Law investigates BlackRock mutual funds over alleged misleading information scanx.trade
-
-### 34. HDFC Large Cap Fund Turns 30; Rs 10,000 Monthly SIP Reaches Rs 8.46 Crore - Outlook Money
+### 36. HDFC Large Cap Fund Turns 30; Rs 10,000 Monthly SIP Reaches Rs 8.46 Crore - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-11-01T12:45:45+00:00
@@ -346,7 +366,7 @@ Rosen Law investigates BlackRock mutual funds over alleged misleading informatio
 
 HDFC Large Cap Fund Turns 30; Rs 10,000 Monthly SIP Reaches Rs 8.46 Crore Outlook Money
 
-### 35. Q2 earnings, US Midterm elections, Crude oil above $113 and Muhurat trading among key market triggers to watch next week - Dailyhunt
+### 37. Q2 earnings, US Midterm elections, Crude oil above $113 and Muhurat trading among key market triggers to watch next week - Dailyhunt
 
 - Source: Dailyhunt
 - Published: 2026-11-01T11:17:59+00:00
@@ -356,7 +376,7 @@ HDFC Large Cap Fund Turns 30; Rs 10,000 Monthly SIP Reaches Rs 8.46 Crore Outloo
 
 Q2 earnings, US Midterm elections, Crude oil above $113 and Muhurat trading among key market triggers to watch next week Dailyhunt
 
-### 36. JioBlackRock Plans 5 New Mutual Funds: Life Cycle Fund, Silver ETF and 3 Debt Schemes Explained - Trade Brains
+### 38. JioBlackRock Plans 5 New Mutual Funds: Life Cycle Fund, Silver ETF and 3 Debt Schemes Explained - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-11-01T10:00:37+00:00
@@ -366,7 +386,7 @@ Q2 earnings, US Midterm elections, Crude oil above $113 and Muhurat trading amon
 
 JioBlackRock Plans 5 New Mutual Funds: Life Cycle Fund, Silver ETF and 3 Debt Schemes Explained Trade Brains
 
-### 37. Quote on FPI flows 01.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 39. Quote on FPI flows 01.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-01T07:19:18+00:00
@@ -376,7 +396,7 @@ JioBlackRock Plans 5 New Mutual Funds: Life Cycle Fund, Silver ETF and 3 Debt Sc
 
 Quote on FPI flows 01.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 38. Your SIP corpus has grown. Should your investment strategy change too? - Moneycontrol.com
+### 40. Your SIP corpus has grown. Should your investment strategy change too? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-01T04:27:40+00:00
@@ -386,17 +406,37 @@ Quote on FPI flows 01.11.2026 from Dr. V K Vijayakumar, Chief Investment Strateg
 
 Your SIP corpus has grown. Should your investment strategy change too? Moneycontrol.com
 
-### 39. Indian shares set for positive start on talks to end Iran war, strong Reliance earnings - Reuters
+### 41. Tech sell-off triggers risk off trade | Gold, Silver slide | Crude cools off after Friday rally - Moneycontrol.com
 
-- Source: Reuters
-- Published: 2026-11-02T02:42:00+00:00
+- Source: Moneycontrol.com
+- Published: 2026-11-02T03:11:21+00:00
+- Themes: market selling, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQLVlsWmk5MWtGOU96eTNtcHB5a20weExkS2oxNmZDMEhsYklrV1ZMUEtvMEFKb0JaSkwyVlNvazc1N2hKVVlucmgyZzhYVUhMYTQ3Wmo5Z0o4RWI2TzkwY2VuMTNzT1JQN0JDRFFVQWQ4ektnNzlFN2ZraTJmVHUzc0o2YVRvbTl3dDhZY21XbVE3cUdKaVJFcFczVDNueGNFanFhZmZfZWtacFo0c3JOcm5mcWJfQkV6bTdTYjMzWVp6d0lkNzNjWVF0d1pUVzRyV2lzWW1pODdIRGZ4b182el9kTXJFSXhrSDRka21sUWFtb3R60gH6AUFVX3lxTE9FNnBQSnJuS01qbG1CLVBubVZab0x5Mm9zN01XbjBYem1DMkRwbkVfRXN4YUFraG9yeEp3NjgyYUlGN2MzQ1lTQ28wWjFEd1ltQ3diUzVmU3JRVHc2Vzc1TjViNmRBOVZFUkl1bDgybV9iNEs4Q3FpUF8wSDNmRU9nQ3l2MEFSbkM3Zkp2dkxnaGZwXzRzMmtFRC1tV2pqMGlNUVM5YjV0dUdhai1pNVctX1FVTTJONmhHN1NQS3JVU05EclBwR0t5SFc2ckh6MFRmbkdhTHI3UXhOVzVfQ2Y0RVRFZXhzbkNZdXpheEdOcFhDTklZd2VnZ2c?oc=5
+
+Tech sell-off triggers risk off trade | Gold, Silver slide | Crude cools off after Friday rally Moneycontrol.com
+
+### 42. Indian shares set for positive start on talks to end Iran war, strong Reliance earnings - Business Recorder
+
+- Source: Business Recorder
+- Published: 2026-11-02T03:05:32+00:00
 - Themes: India market, macro / flows
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRV9nWF8tcV9tRkNYTENXRnRyTDhkcnRoZEJmMFJ1Wm1USDJwbDNxcEFuU0xNbE9JSnRJb2xScTBmWWVpZWJ5SmlhXzdBajNuSDhnOWdULWQ4UUZ2T3RRdjhpNWxZb08tcEQxR01tdks4dkhLTUN1WjJiZVFSa1JCbHBRdGVsZVZqNzFoQ2ZDdF9zbE9MeUlvRHhzZGRRM05SeGxlaFB1MFZjWVB3TVZjbTBfUlprRTZ2eTA3bFBFQVpLdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPNGNTMjFrVUFGaG1ON0dXWEdFNm4tN05jOXl3TjZhZlhxeHdybjFGZjhWbS0ycjZuZ09wLWF5eG56RHItVENiREtqWjB2S0FIczhPTW1vaUdPSXFrem1ORHg5Tl9CZVpZMFhQbnlfT2NsS0JmenkxUFFkR1NhMFdscHVmc0xzVk5XQ3NJS3dTbzVOSHlMZHpSU0ZjNEozQVdjQW9mdjUxbEM2NGFUeC15RWxEVnAxTGJQOUdvQnR0R1FTUDhB0gFWQVVfeXFMTTQtZXlSbFVXQmh6SV8zY2w1OW9TVlBEem1lQVZuWnV4aDlhemVqWkJfdXdLaENvS0VucHg0c2o0emVmOHc3d2hWaXdPWlVkQ0NadFRBb0E?oc=5
 
-Indian shares set for positive start on talks to end Iran war, strong Reliance earnings Reuters
+Indian shares set for positive start on talks to end Iran war, strong Reliance earnings Business Recorder
 
-### 40. GIFT Nifty Jumps 170 Points: Nifty, Sensex Likely To Open Higher; US-Iran Developments In Focus - News18
+### 43. Indian shares set for positive start on talks to end Iran war, strong Reliance earnings - Investify
+
+- Source: Investify
+- Published: 2026-11-02T03:05:32+00:00
+- Themes: India market, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxPN3hfNTZsT09DTUJtamZ5WlFTZEozWUJEWHFlZFhfYmlNdzlZcV9zZEQzQmYtMWtjNm1vYnlRejB4NEFqdVM5SWVRUV9xVkh4VHJYR2xIbzdpXzl2QnlGUHlTbFBYUkU3dzl6ZFZXcGdhajI3NHVRRzN0QnhWUnNoN3pHQm5WTUo5SDE5TEtMakRSSnd3X0hXb201ZmpRWXZzWDc3aGttMFZVNUhWWGxRRlhXbmRWbE16TldBNjNMQml6eWZmTmtuNQ?oc=5
+
+Indian shares set for positive start on talks to end Iran war, strong Reliance earnings Investify
+
+### 44. GIFT Nifty Jumps 170 Points: Nifty, Sensex Likely To Open Higher; US-Iran Developments In Focus - News18
 
 - Source: News18
 - Published: 2026-11-02T02:40:02+00:00
@@ -406,17 +446,7 @@ Indian shares set for positive start on talks to end Iran war, strong Reliance e
 
 GIFT Nifty Jumps 170 Points: Nifty, Sensex Likely To Open Higher; US-Iran Developments In Focus News18
 
-### 41. Sensex options volumes soar to record highs as oil boils - Livemint
-
-- Source: Livemint
-- Published: 2026-11-02T02:30:54+00:00
-- Themes: India market, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxQV09rUjZTRk5ZVjdaRWxnZTRMM21GdDNXNFJlLVVkQnF1UkotZUo2bkNnbWQweTAtTmVuTVRuR1F4ZzJGc3ZpVDd1VUxuRzJ6ckp4d3hYVVRlRjg3VC1LcVZjaUhzSndfVjhTN1kzeVF5ZG45T2lFb3dkOW1OcE53aEJLVEdWTGJiXzZNYkEwa3BjWFltN1FpdFlYeDA4dEU0a0xmZXZwYUM4Q0tneTJsWFBOSWVTYjU5X3U2YkFNajBkT3h0OVdrQUhlVjBLMmlEc2hfZlVqWGVxbmZwRFJ4QzlNSFNtM0tra1VnVVV5WDI5YWpESG1YdFlNSEJoUEhHNDB1UU5TMy1vdW9GUGc2QtIBlgJBVV95cUxPVUs3M1hmRGdKZWstZEZKS2puTG83ZmFhQWI4bi03UDJBY2tjVjhaQWpYUGR4MXFPajE2RF93Vkd2UG12U3hXUnRCTVVjR2Vwc0swSEVGNVRHa000d3piaUNzTzctcHVkZ1JGSzZvMnd1bXNqOFpabU5fNnJHUWY0WVVGWFlXdDlldkNWYWEtVm5JT2tyRUdkNDg0WXNIdzQyWktySml5NFhacDFvTWE0SXBJQ3JaSFJNY1ZCUi15bjRnR2Y4UkNfbExQaTY0TGFUTDNSR244cmt6VEhrX1otU3BSdXVLM1RkNHNFTktSZUFocHJPbm10U29teFdKMnplUWVQc1BaU1BiQlM1OVlDQmVEa182dw?oc=5
-
-Sensex options volumes soar to record highs as oil boils Livemint
-
-### 42. Nifty outlook: 200-point opening gain, Reliance results and FII activity in focus - BusinessLine
+### 45. Nifty outlook: 200-point opening gain, Reliance results and FII activity in focus - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-02T01:58:32+00:00
@@ -426,7 +456,7 @@ Sensex options volumes soar to record highs as oil boils Livemint
 
 Nifty outlook: 200-point opening gain, Reliance results and FII activity in focus BusinessLine
 
-### 43. AI trade falters after disappointing tech earnings - Yahoo Finance
+### 46. AI trade falters after disappointing tech earnings - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-01T22:39:25+00:00
@@ -436,7 +466,7 @@ Nifty outlook: 200-point opening gain, Reliance results and FII activity in focu
 
 AI trade falters after disappointing tech earnings Yahoo Finance
 
-### 44. Infineon Expands GaN and AI Power Network as Intel's Soft Guidance Weighs on Chip Stocks - ad-hoc-news.de
+### 47. Infineon Expands GaN and AI Power Network as Intel's Soft Guidance Weighs on Chip Stocks - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-01T13:41:29+00:00
@@ -446,7 +476,7 @@ AI trade falters after disappointing tech earnings Yahoo Finance
 
 Infineon Expands GaN and AI Power Network as Intel's Soft Guidance Weighs on Chip Stocks ad-hoc-news.de
 
-### 45. Crude Oil Prices Face Volatile Week Amid US-Iran Tensions, Brent Near $118 As Hormuz Supply Risks Persist - Free Press Journal
+### 48. Crude Oil Prices Face Volatile Week Amid US-Iran Tensions, Brent Near $118 As Hormuz Supply Risks Persist - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-01T11:22:18+00:00
@@ -456,7 +486,7 @@ Infineon Expands GaN and AI Power Network as Intel's Soft Guidance Weighs on Chi
 
 Crude Oil Prices Face Volatile Week Amid US-Iran Tensions, Brent Near $118 As Hormuz Supply Risks Persist Free Press Journal
 
-### 46. Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday - The Economic Times
+### 49. Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-01T06:37:22+00:00
@@ -466,7 +496,7 @@ Crude Oil Prices Face Volatile Week Amid US-Iran Tensions, Brent Near $118 As Ho
 
 Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday The Economic Times
 
-### 47. Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday - The Economic Times
+### 50. Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-01T06:37:00+00:00
@@ -476,7 +506,7 @@ Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to w
 
 Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to watch on Monday The Economic Times
 
-### 48. Nasdaq 100 falls as crude rallies to $88 - scanx.trade
+### 51. Nasdaq 100 falls as crude rallies to $88 - scanx.trade
 
 - Source: scanx.trade
 - Published: 2026-11-01T03:33:42+00:00
@@ -486,7 +516,37 @@ Can Nifty, Sensex extend gains after rallying up to 2% last week? 4 factors to w
 
 Nasdaq 100 falls as crude rallies to $88 scanx.trade
 
-### 49. Stocks to watch today, November 2: Reliance Q2, Indian Oil profit surge, Tata Motors Iveco stake in focus - Business Upturn
+### 52. Rupee's surprise Friday recovery faces test from weak peers, fragile risk - BusinessLine
+
+- Source: BusinessLine
+- Published: 2026-11-02T03:22:59+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNclpKT2R2WjR1SDBYc1FUQUtPTk5kaG1SeVpMeWctd1o1LTFkcEVjQmZSeUxZVUdGd3FVSHhYVTM3aWxhZGNqYXZIcVhRQWJ1WF9xZUswWm5LazI0a0RRdThrRUwzczkydVZfdVNuZHlYVjRNUUNPZlJGN3ROOER5T0lnamt5dlhRM3U4cEdDREEyb3BHbTFuODR0d3MyNlNMNkxZWDhTVjNKUVZBYjZrMHhqYzE4Um4yZWJCWE1jd2NsbzhmTFRsSGktZ0xVUjdLd1BlNFRDWmo1d9IB4AFBVV95cUxQYzZQcUxSak5ZTGgxSmtTZFB6QUd0MkptMkw3akItdlpaS2g2NXE5MzNETm5ZX3BuQVhzZmdqb01nTGdpUnpiUWtGSkFJLXhvel92WDM2LTFnaEhnYk1JaGZ1NkJhSjdMRDN3VHlvV0ZNSlgyQTZFR0JMRnpnRVU0RlgxbEl3SXg3RjNoSUhpVWRKdGlOVUxfalhoeHFiNDRxalA1a1pJdEotWWFzbkFtSi1ydkJwMVB3cmpkWWhFbFZxLXBnN2VTbDhyeVVuY2djVEFMUXVBRERBTjBOTVNXUg?oc=5
+
+Rupee's surprise Friday recovery faces test from weak peers, fragile risk BusinessLine
+
+### 53. Nifty’s comeback or a largecap trap? Anand James decodes breadth, IT and Swiggy - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-02T03:16:43+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOZHBEVzIxWmEwX3dFcC1uMTNCcldZeTF3MG9ObnRWejQ5TE0wWjU4SkJQUHR5ZE1ldVdxdnpMdmZQaDRUUmZDbG9QR2d0Vl9pWGJVUzVJNE5GWElNR0xlZU9fRkxmMHZ3X3Y2dm5zQlc4c05RWjQ0MUlfSnRUVlRadXdsYUdBQThPSXhZZFoxajdLMDI3VVRIaVc2cVJqQWRkVDEteEtTTzdEOHJXVVh6M01sdEt0YXdaT0U2VmpJTDU3VTU0YXFBdVhQYThnUDkwWTg2WUd5MTJFQXB0aVpIYXF5N3TSAeoBQVVfeXFMTXNTTXUxVks5Q1MtTFFZS2FFOU5jU0FLNEJQZVBZeUgzV1VZMko3cmE2M3J5YnpldlBfaFY2WUxWODNmd29RcGtaTDFtWENEYmotTlhZMXU0cWtwSERIQ1RPcHNiMUpDWncwLVdESFE4eXkzTHZYUEJ0MEpwS05UQ1loQ2swRS1HaVpDTVhuS1J3V240blI1cWU2ekJ4RkJBSkZ1VThJNV9CcjQxcHhMSmRhTGRYeC0yUUpYaDRDcFB0VmhySVdSYVRuNkFmN09NcEdUN19OMTdPUkJlWjJZd1ZXYy1SaUhHR2xn?oc=5
+
+Nifty’s comeback or a largecap trap? Anand James decodes breadth, IT and Swiggy The Economic Times
+
+### 54. Spotify bets on artist-first music as India’s listening habits shift - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-11-02T02:56:13+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQWkdkRTdsaTI3cVRzZjBKU2Q5ZnVic1l1NXJRMVRkZFppTWRxblYxQ3pSaGt5TXZObmgtaU5PNzAxUUZlOE9icWZYX2U5S3h4Y0d3dVZPaHMxeEFJSFVpajJDbmdKVXRHRUlGS3lRLW42NDRqMERZbXc0UkdTa2k3OHBxdkM4emM0MDg5NWhpUlVBaWVsLS1sOWVnakZ1a210eGE2UmpXTVNZc0ZUeGtEWkhPTXI1dllSZVZoeVNySGpndFZFaVZuWmZqa0Z2NmPSAc8BQVVfeXFMUFpHZEU3bGkyN3FUc2YwSlNkOWZ1YnNZdTVyUTFUZGRaaU1kcW5WMUN6UmhreU12Tm5oLWlOTzcwMVFGZThPYnFmWF9lOUt4eGNHd3VWT2hzMXhBSUhVaWoyQ25nSlV0R0VJRkt5US1uNjQ0ajBEWW13NFJHU2tpNzhwcXZDOHpjNDA4OTVoaVJVQWllbC0tbDllZ2pGdWttdHhhNlJqV01TWXNGVHhrRFpIT01yNXZZUmVWaHlTckhqZ3RWRWlWblpmamtGdjZj?oc=5
+
+Spotify bets on artist-first music as India’s listening habits shift Moneycontrol.com
+
+### 55. Stocks to watch today, November 2: Reliance Q2, Indian Oil profit surge, Tata Motors Iveco stake in focus - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-11-02T02:51:12+00:00
@@ -496,7 +556,7 @@ Nasdaq 100 falls as crude rallies to $88 scanx.trade
 
 Stocks to watch today, November 2: Reliance Q2, Indian Oil profit surge, Tata Motors Iveco stake in focus Business Upturn
 
-### 50. Bulls back, but global clouds refuse to clear - The Hans India
+### 56. Bulls back, but global clouds refuse to clear - The Hans India
 
 - Source: The Hans India
 - Published: 2026-11-02T02:14:16+00:00
@@ -506,7 +566,7 @@ Stocks to watch today, November 2: Reliance Q2, Indian Oil profit surge, Tata Mo
 
 Bulls back, but global clouds refuse to clear The Hans India
 
-### 51. Granules India shares in focus after USFDA concludes Hyderabad facility inspection with 11 observations - Moneycontrol.com
+### 57. Granules India shares in focus after USFDA concludes Hyderabad facility inspection with 11 observations - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-02T02:04:31+00:00
@@ -516,7 +576,7 @@ Bulls back, but global clouds refuse to clear The Hans India
 
 Granules India shares in focus after USFDA concludes Hyderabad facility inspection with 11 observations Moneycontrol.com
 
-### 52. Oil prices slip more than 1% as talks continue on ending Iran war - Business Standard
+### 58. Oil prices slip more than 1% as talks continue on ending Iran war - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-02T02:01:25+00:00
@@ -526,7 +586,7 @@ Granules India shares in focus after USFDA concludes Hyderabad facility inspecti
 
 Oil prices slip more than 1% as talks continue on ending Iran war Business Standard
 
-### 53. India, UAE discuss West Asia crisis as Foreign Secretary Vikram Misri meets Reem Al Hashimy - Moneycontrol.com
+### 59. India, UAE discuss West Asia crisis as Foreign Secretary Vikram Misri meets Reem Al Hashimy - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-02T01:53:59+00:00
@@ -536,17 +596,37 @@ Oil prices slip more than 1% as talks continue on ending Iran war Business Stand
 
 India, UAE discuss West Asia crisis as Foreign Secretary Vikram Misri meets Reem Al Hashimy Moneycontrol.com
 
-### 54. Asian Markets Today: Nikkei, ASX 200 Slip After Wall Street Losses; Brent Crude Near $111 - NDTV Profit
+### 60. Brent Crude Cools Off To $111/Barrel After Report Signals US Diplomatic Push On Iran, OPEC+ Countries Keep Dec Targets Steady - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-11-02T01:36:58+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMilAJBVV95cUxQYzRxNE5zUExBNmJGQnV6c0Njd0NuT1Zfd1FLeTdzQXFERlBGWHJBQnFPdjdLejktODZFNUpvRXV5eUZsY21LREhxeGoxLVlqU2dLSkxIUk9CVHY1N1RlZGFMQnZ0dXpyZVhYT0ZTZ2tzSk9sMFJ1eDJfTWQwYXI0d1l2R1BwZjgxOVBpZl9ZWldCekpRNVhMZ3hrSGV3c2RIU05DUlUwbm5hZEl6Mm5Rb0N0aXJyd1lOTDBfamFEVGw2X3VKOVlkczlGV1RvanhmUnRBOHZxRnlzUkxtR1JnSzJfRlRncDg1V0pUVklGbG9iQ0NiajhQX29nU3NmNG5Ud2oya2hCcmFKaUxxSHpnbnBGLWHSAZQCQVVfeXFMUGM0cTROc1BMQTZiRkJ1enNDY3dDbk9WX3dRS3k3c0FxREZQRlhyQUJxT3Y3S3o5LTg2RTVKb0V1eXlGbGNtS0RIcXhqMS1ZalNnS0pMSFJPQlR2NTdUZWRhTEJ2dHV6cmVYWE9GU2drc0pPbDBSdXgyX01kMGFyNHdZdkdQcGY4MTlQaWZfWVpXQnpKUTVYTGd4a0hld3NkSFNOQ1JVMG5uYWRJejJuUW9DdGlycndZTkwwX2phRFRsNl91SjlZZHM5RldUb2p4ZlJ0QTh2cUZ5c1JMbUdSZ0syX0ZUZ3A4NVdKVFZJRmxvYkNDYmo4UF9vZ1NzZjRuVHdqMmtoQnJhSmlMcUh6Z25wRi1h?oc=5
+
+Brent Crude Cools Off To $111/Barrel After Report Signals US Diplomatic Push On Iran, OPEC+ Countries Keep Dec Targets Steady NDTV Profit
+
+### 61. Asian Markets Today: Nikkei, ASX 200 Slip After Wall Street Falls; Kospi Bucks The Trend - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-02T01:17:00+00:00
-- Themes: macro / flows
+- Themes: market selling
 - Score: 1
 - Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxOcjdkNnBuV3NhVlpDX2lGZmNVdDc2bklic0gzOHNZUTZhWllZOGtndnlQQnlJeVJJX2M0RUoxZjBwS2lDcmZJN0NHWXp1enYxZnpzbk5nYXZ4MFZZclBDOW4yNC0xMXN3S1Q1RjhtYThncUZXT0hwWnI0cjlqV19uc1VHd2ZzZDZ3QzFwbXRneFB4WGphdHlhNGswZW1QelhFQWp4bXFmVlRneWoxbW9WaGhDa3lrNHBkNmhqVnZDdWZKQWNsSjZ4Z3BMQk5KNElFLTJGeGNtSFlZODV4NURhY09vc0l6UWlvMXdkYXJhRFpuZDREckZfRnN0ZEJrc0J0dWM2NUtELXNEcGpiUWfSAZYCQVVfeXFMTlZvZTdycVozajVPb0h4MjRKM0NrVnpmdUI3MzZZc3JEcHRmVFBPUmFfcGwyY25xRXZIaDdkNldHQ1FRZ2N3c1J5dW5Tc2VDNHRSczNKUExqQzJmaTlOdnZQdXZpOXBMZWVFZ202c3d5OWd3UTJpbXNhTHNxZ2h4dy1wS2p2cDAtaThxeW9TUFVyWS11TXZOdzhJUWItbUZ0MjlKaTlHR0FxdXZqRkZRV2JzU0dtXzlpVmF1M2xzbE1ldF8zeU8yeEJXOGl3SmVFUFE3WjctdHhjY3JMSVFWZ3VrczFYNXBKTWZ6bW9QdXp0UHI1QmNqQlg3dXR0bzRZWDJQamhzSGM2YjFBLW02Q3JsQkpEamc?oc=5
 
-Asian Markets Today: Nikkei, ASX 200 Slip After Wall Street Losses; Brent Crude Near $111 NDTV Profit
+Asian Markets Today: Nikkei, ASX 200 Slip After Wall Street Falls; Kospi Bucks The Trend NDTV Profit
 
-### 55. Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout - Bloomberg.com
+### 62. Fidelity India Active ETF Releases Product Disclosure Statement for ASX-Listed Fund - Kalkine Media
+
+- Source: Kalkine Media
+- Published: 2026-11-02T01:14:46+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxOUjJveDJfUlIxS1Z4R0JDeHJKYkRMazFnQVVnTXlyR3doQW1DTHNmeWlsRFdqZUZCUlp2Q0I1Tl9qV20xblZYdXpwN0QwTV9tSEt4VTEwRHdxWXIwR0JmNlJ6U2JoSFVLajRsd0I0aVREUlpEazFXUTQ3NHNyb1M0SEdvWXIxS3Y2a0ZpYkE1X2tHakpza09UZlIzX3NzdkpYRURfZFNCSVFHaEFRelFubHNHVlh6Q0NZaXFuYXhFTGl2ek9oUXRpSnpB?oc=5
+
+Fidelity India Active ETF Releases Product Disclosure Statement for ASX-Listed Fund Kalkine Media
+
+### 63. Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-02T01:00:00+00:00
@@ -556,17 +636,17 @@ Asian Markets Today: Nikkei, ASX 200 Slip After Wall Street Losses; Brent Crude 
 
 Foreigners Make Record Withdrawal From Taiwan Stocks on AI Rout Bloomberg.com
 
-### 56. If new investors see markets fall 5-10%, panic and exit, they may never return: says JioBlackRock AMC’s Swaminathan - Livemint
+### 64. If new investors see markets fall 5-10%, panic and exit, they may never return: says JioBlackRock AMC’s Swaminathan - Livemint
 
 - Source: Livemint
 - Published: 2026-11-02T00:30:27+00:00
 - Themes: market selling
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxNXzIxUXdFTTQtLUFlb3VKTnNicU1XbWdCYVBhSkM5b2RJZDF5NUhhMzJmQWFLZGtxaF9wOVFfTnFrZEVrOFloeXg4cTkxcU9OT3IzTDJjVE8wUnBXdldISUtIR0dieFZranlyVGpsQzlneGJtUXQyVFBZMTRySHh0QVdPc0FLODR4QW8xWnJ1UzBMT3FOa3gxSWlYcl9ZMTYyOEZCdVBqY3dUNWhJWUNlWm1ZbDlCdkc5aVd5NHNuM0xVZkpDV2dkVm9lMmxveHVpQ2xXZEVNME9wQ2RXczV2dGotNTFfcTI3eTNKeTZKeDJjdHVYN1loTGlMN2VBN1VCbWxBUHptVHUtUVk5aXc?oc=5
+- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxNXzIxUXdFTTQtLUFlb3VKTnNicU1XbWdCYVBhSkM5b2RJZDF5NUhhMzJmQWFLZGtxaF9wOVFfTnFrZEVrOFloeXg4cTkxcU9OT3IzTDJjVE8wUnBXdldISUtIR0dieFZranlyVGpsQzlneGJtUXQyVFBZMTRySHh0QVdPc0FLODR4QW8xWnJ1UzBMT3FOa3gxSWlYcl9ZMTYyOEZCdVBqY3dUNWhJWUNlWm1ZbDlCdkc5aVd5NHNuM0xVZkpDV2dkVm9lMmxveHVpQ2xXZEVNME9wQ2RXczV2dGotNTFfcTI3eTNKeTZKeDJjdHVYN1loTGlMN2VBN1VCbWxBUHptVHUtUVk5aXfSAZMCQVVfeXFMTkl4WlRYbmlxeFgzaTRzd0FZSWUzc1pxVVEweHZaQ0hwVW5tTDZEd0VfWFJXU2RqdUtNQWg3b0dRc1B3VmNvWVRoZUgxRmU0XzJoMXhnNWY2enNYNzRzUmJPUjNqQXc1T0luRGlZTmUwVmZRcFBmaDVsSVNZWHVqTkdIVVE3SVNZUUtyQVRiMW1pMDRIUHhUaGxZZUFYMkhoWlRRejZIbkc3WUFJWUhlVmk0b3h6a0tmUlljMGhQa29uN05rMUotd1F5emN0UWZZQUlXeVBOVm9FeV9GdjZFWkNnQk1sR0tuTG5Gb2hyejJmM1lIUXNRY2h2MmhFenR2b2thc0s5OUlHTmVOR2l1UHJHRGs?oc=5
 
 If new investors see markets fall 5-10%, panic and exit, they may never return: says JioBlackRock AMC’s Swaminathan Livemint
 
-### 57. FPIs turn net buyers as AI trade worries trigger allocation shift - The Economic Times
+### 65. FPIs turn net buyers as AI trade worries trigger allocation shift - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-02T00:23:30+00:00
@@ -576,7 +656,7 @@ If new investors see markets fall 5-10%, panic and exit, they may never return: 
 
 FPIs turn net buyers as AI trade worries trigger allocation shift The Economic Times
 
-### 58. FPIs turn net buyers as AI trade worries trigger allocation shift - The Economic Times
+### 66. FPIs turn net buyers as AI trade worries trigger allocation shift - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-02T00:23:30+00:00
@@ -586,7 +666,7 @@ FPIs turn net buyers as AI trade worries trigger allocation shift The Economic T
 
 FPIs turn net buyers as AI trade worries trigger allocation shift The Economic Times
 
-### 59. AI champions vs the rest: Which markets have lost the most since the peak? - Moneycontrol.com
+### 67. AI champions vs the rest: Which markets have lost the most since the peak? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-01T23:30:13+00:00
@@ -596,7 +676,7 @@ FPIs turn net buyers as AI trade worries trigger allocation shift The Economic T
 
 AI champions vs the rest: Which markets have lost the most since the peak? Moneycontrol.com
 
-### 60. AI champions vs the rest: Which markets have lost the most since the peak? - Moneycontrol.com
+### 68. AI champions vs the rest: Which markets have lost the most since the peak? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-01T23:30:13+00:00
@@ -606,7 +686,7 @@ AI champions vs the rest: Which markets have lost the most since the peak? Money
 
 AI champions vs the rest: Which markets have lost the most since the peak? Moneycontrol.com
 
-### 61. CBOE Volatility Index (^VIX) charts, data and news - Yahoo Finance Singapore
+### 69. CBOE Volatility Index (^VIX) charts, data and news - Yahoo Finance Singapore
 
 - Source: Yahoo Finance Singapore
 - Published: 2026-11-01T21:54:05+00:00
@@ -616,7 +696,7 @@ AI champions vs the rest: Which markets have lost the most since the peak? Money
 
 CBOE Volatility Index (^VIX) charts, data and news Yahoo Finance Singapore
 
-### 62. Times Dhandho: Silver and gold cushion investors from turmoil - The Times of India
+### 70. Times Dhandho: Silver and gold cushion investors from turmoil - The Times of India
 
 - Source: The Times of India
 - Published: 2026-11-01T18:51:00+00:00
@@ -626,7 +706,7 @@ CBOE Volatility Index (^VIX) charts, data and news Yahoo Finance Singapore
 
 Times Dhandho: Silver and gold cushion investors from turmoil The Times of India
 
-### 63. Wall Street Review: Small Caps Beat Tech Again Amid AI Cost Concerns - NTD News
+### 71. Wall Street Review: Small Caps Beat Tech Again Amid AI Cost Concerns - NTD News
 
 - Source: NTD News
 - Published: 2026-11-01T18:16:18+00:00
@@ -636,7 +716,7 @@ Times Dhandho: Silver and gold cushion investors from turmoil The Times of India
 
 Wall Street Review: Small Caps Beat Tech Again Amid AI Cost Concerns NTD News
 
-### 64. Nifty 50 Closes October at 23,053 as Foreign Investor Outflows Remain a Concern - www.nationpathindia.com
+### 72. Nifty 50 Closes October at 23,053 as Foreign Investor Outflows Remain a Concern - www.nationpathindia.com
 
 - Source: www.nationpathindia.com
 - Published: 2026-11-01T17:59:14+00:00
@@ -646,7 +726,7 @@ Wall Street Review: Small Caps Beat Tech Again Amid AI Cost Concerns NTD News
 
 Nifty 50 Closes October at 23,053 as Foreign Investor Outflows Remain a Concern www.nationpathindia.com
 
-### 65. 'Earnings growth concentrated in pockets calls for stock-specific bets' - Business Standard
+### 73. 'Earnings growth concentrated in pockets calls for stock-specific bets' - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-01T17:32:39+00:00
@@ -656,7 +736,7 @@ Nifty 50 Closes October at 23,053 as Foreign Investor Outflows Remain a Concern 
 
 'Earnings growth concentrated in pockets calls for stock-specific bets' Business Standard
 
-### 66. AppLovin's 9.3% Friday Slide Ties to Tech-Wide AI Jitters, Not a Fresh Company Shock - ad-hoc-news.de
+### 74. AppLovin's 9.3% Friday Slide Ties to Tech-Wide AI Jitters, Not a Fresh Company Shock - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-01T16:50:40+00:00
@@ -666,7 +746,7 @@ Nifty 50 Closes October at 23,053 as Foreign Investor Outflows Remain a Concern 
 
 AppLovin's 9.3% Friday Slide Ties to Tech-Wide AI Jitters, Not a Fresh Company Shock ad-hoc-news.de
 
-### 67. From Rally To Rout: Why India’s Equity Market Continues To Bleed - Free Press Journal
+### 75. From Rally To Rout: Why India’s Equity Market Continues To Bleed - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-01T16:10:19+00:00
@@ -676,7 +756,7 @@ AppLovin's 9.3% Friday Slide Ties to Tech-Wide AI Jitters, Not a Fresh Company S
 
 From Rally To Rout: Why India’s Equity Market Continues To Bleed Free Press Journal
 
-### 68. Marvell's Lumentum Talks: A Stock-Swap Question Dressed Up as a Sell-Off - ad-hoc-news.de
+### 76. Marvell's Lumentum Talks: A Stock-Swap Question Dressed Up as a Sell-Off - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-01T15:41:15+00:00
@@ -686,7 +766,7 @@ From Rally To Rout: Why India’s Equity Market Continues To Bleed Free Press Jo
 
 Marvell's Lumentum Talks: A Stock-Swap Question Dressed Up as a Sell-Off ad-hoc-news.de
 
-### 69. FPI inflows not significantly correlated to LTCG - BusinessLine
+### 77. FPI inflows not significantly correlated to LTCG - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-01T15:12:44+00:00
@@ -696,7 +776,7 @@ Marvell's Lumentum Talks: A Stock-Swap Question Dressed Up as a Sell-Off ad-hoc-
 
 FPI inflows not significantly correlated to LTCG BusinessLine
 
-### 70. F5 (FFIV) On Fresh 2027 Guidance Is The Selloff A Buying Opportunity - Simply Wall St
+### 78. F5 (FFIV) On Fresh 2027 Guidance Is The Selloff A Buying Opportunity - Simply Wall St
 
 - Source: Simply Wall St
 - Published: 2026-11-01T14:52:53+00:00
@@ -706,7 +786,7 @@ FPI inflows not significantly correlated to LTCG BusinessLine
 
 F5 (FFIV) On Fresh 2027 Guidance Is The Selloff A Buying Opportunity Simply Wall St
 
-### 71. Nebius Stock: A Sector-Wide AI Spending Scrutiny, a $3.5 Billion Citi Backstop, and the November 12 - ad-hoc-news.de
+### 79. Nebius Stock: A Sector-Wide AI Spending Scrutiny, a $3.5 Billion Citi Backstop, and the November 12 - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-01T14:41:56+00:00
@@ -716,7 +796,7 @@ F5 (FFIV) On Fresh 2027 Guidance Is The Selloff A Buying Opportunity Simply Wall
 
 Nebius Stock: A Sector-Wide AI Spending Scrutiny, a $3.5 Billion Citi Backstop, and the November 12 ad-hoc-news.de
 
-### 72. Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog
+### 80. Share Market News: Nifty 50 Outlook & Prediction - Liquide Blog
 
 - Source: Liquide Blog
 - Published: 2026-11-01T14:15:05+00:00
@@ -725,83 +805,3 @@ Nebius Stock: A Sector-Wide AI Spending Scrutiny, a $3.5 Billion Citi Backstop, 
 - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPeVc1Wm5pRHZKQ2RzSTRkMnZoSmMzQ3BBQlBubHRuOFJ0ekxENlVlZFoyMGEzNGZRMjEyMDdQYTI1bTFrTTBCNm1POEd3dXVMdDM3RTh3MnhfbmQ5bTlQeTVHajlLTElzcl9XTjdaYlVlSjdlQm1yQ2QwSzVyQ3Qyc09qR21jQWZpc3J0N2xsbExoaUEzVkJza0lR?oc=5
 
 Share Market News: Nifty 50 Outlook & Prediction Liquide Blog
-
-### 73. 91% of Microsoft India staff got hikes of 5% or less as buyout concerns grow: Report - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-01T13:57:43+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPX2ZkMVlhQzEtTkJ2UFgxUjhPcXVobmdYOVNnQUhrOVpXLTh4TWhPeWlScUpZdzlJZ0NPRDBtbTV0b0piZDJwMVRqbURaVWdwQWNZQkJTdEtzS2tNWDl0MEtZNE9pY2NYZmZDQ0pSZnVSRnVsNDc1bmxWYTJ1M011aWRrZHpPUXZSdFZmRXJvTU9TMUxMXzFkVjd0SmNMNnBQYzRsTVNia3hQVk5CVG56a1l3UmE3aDNtei1wVVdPNG1hc0o0MnVlQ1FERFBZdGNkb05ZZ2tuTdIB1wFBVV95cUxPX2ZkMVlhQzEtTkJ2UFgxUjhPcXVobmdYOVNnQUhrOVpXLTh4TWhPeWlScUpZdzlJZ0NPRDBtbTV0b0piZDJwMVRqbURaVWdwQWNZQkJTdEtzS2tNWDl0MEtZNE9pY2NYZmZDQ0pSZnVSRnVsNDc1bmxWYTJ1M011aWRrZHpPUXZSdFZmRXJvTU9TMUxMXzFkVjd0SmNMNnBQYzRsTVNia3hQVk5CVG56a1l3UmE3aDNtei1wVVdPNG1hc0o0MnVlQ1FERFBZdGNkb05ZZ2tuTQ?oc=5
-
-91% of Microsoft India staff got hikes of 5% or less as buyout concerns grow: Report Moneycontrol.com
-
-### 74. India's first indigenous bullet train under development: Check speed, design and passenger features - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-01T12:26:58+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOX2Vkb3ZRend1eC04WFJPRU9jbW43cFN0UDlLLTBMbFdlVWJ0ZTV0VkJFXzE2cUxkWVl1dWJxMHZ2Z0VxMWp5TS10WUhTbERVLVhoUDhLcHZGQjFGaVBud2JOY0Y3ZzhXVkM4NE5ncUNuczV1QjNZdzRjem8wQTd6aVBTalYxV1cyUFZRSWFBNWVRXzl3Vk16NVVqOGo2WmstemNnTjlfUUNzX1pFbWVUU1V1QVZaenI4RFRVWlI0aHBwcGVwVUhXRzhFTGJ2R1hPRjFfTm41aVJNVndXQ1UtdzBmM0JtQnIxU1JV0gHrAUFVX3lxTE5fZWRvdlF6d3V4LThYUk9FT2NtbjdwU3RQOUstMExsV2VVYnRlNXRWQkVfMTZxTGRZWXV1YnEwdnZnRXExanlNLXRZSFNsRFUtWGhQOEtwdkZCMUZpUG53Yk5jRjdnOFdWQzg0TmdxQ25zNXVCM1l3NGN6bzBBN3ppUFNqVjFXVzJQVlFJYUE1ZVFfOXdWTXo1VWo4ajZaay16Y2dOOV9RQ3NfWkVtZVRTVXVBVlp6cjhEVFVaUjRocHBwZXBVSFdHOEVMYnZHWE9GMV9ObjVpUk1Wd1dDVS13MGYzQm1CcjFTUlU?oc=5
-
-India's first indigenous bullet train under development: Check speed, design and passenger features Moneycontrol.com
-
-### 75. IonQ's Friday Slump Traces Back to AI Spending Fears, While Rome Project Enters Phase Two - ad-hoc-news.de
-
-- Source: ad-hoc-news.de
-- Published: 2026-11-01T12:10:56+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQYU1WNGUzdzZBWkhkcHc0Y1ZVZUFHQzNGVlYycmZmUmh5U0VMQkhMUmFYamRCazc0eGU5MlNJX3JkV0pkWnk5TU5ubE1RR3NkdGRlYjlSQVRMZlp2MU1pMThtTmlRZVhGV2tma0pNWXRMelczcjdST052cnYweF9PcDJtdkRjOUttUDR4V0Rxc0p4dGRDYkY5LUFfb1lLQ0g1MENkVmQ1dkpYaTN4UjhNcHQ2R2pmQThtZzFwTk9IcVdrbHFfMjFDQ2luT1BBc0ZEM05OS3dMVGREZnc0MjFUM1JVWE5ldWpabV9mUTNpY3FrQQ?oc=5
-
-IonQ's Friday Slump Traces Back to AI Spending Fears, While Rome Project Enters Phase Two ad-hoc-news.de
-
-### 76. US Hedge Funds Just Sold Every AI Stock They Bought Since 2025 - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-01T11:31:14+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOaW9meEdBajNVUDMtckhNYlVqYUpwbWNaWkp3Z3hrXzdsdUs2UFE5RU9kc0JPR01yZVRSVFNTWXZsRmt6c1ctV0s2SWlqTzFoNENEc1JaMTJwclhKYnRhQUhrc1NQRkEway0yd0llcFhUeGFiNmNQY0JJc20tY0VhaG1NbUZvZ01IOFdmNmtDOFNxczA?oc=5
-
-US Hedge Funds Just Sold Every AI Stock They Bought Since 2025 Yahoo Finance
-
-### 77. AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-01T11:00:00+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi5gFBVV95cUxOLXlkUVhJS3B6Y1JETnlNMFNfcnFJR1g2TkI0Q0QtcWJnVlZzVnJUbnY0ZUNzV3B2Qjl1dlhkSkZ4c0YwQzNCM0lueHE5Uk9zeTBnM0k2U2puM25rbmZFdVZXcDAzYTFDcGgydENMQjZOUnhrM1gwaERMYm9rSGU0Rm1hX1otQjVxdzRIbkQ2bjk0V3NaSkw0QmVaOGhqNlB2WWZfRGFDVFAzVnhGTFpjM0FlWlJzNjRsX0FKT0liZDJCVlJORm5uOHF3N2xlTUxNU1FiVnRVTlk3RldvZ1JBNDM2RGd6UQ?oc=5
-
-AI stocks just lost $5 trillion — but history says the stock market's sweetest stretch starts now Yahoo Finance
-
-### 78. JP Nadda on INDIA bloc rally: Foolish drama, will be final nail in coffin of Congress' political future - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-01T10:29:55+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi7wFBVV95cUxOMVVQSmkyU0tKR0xqZkU5RWZuS3VQTnp4WVk2UjAycWVjam9sSUh4UF90MEo4WVhXSXdBYkszMGRCZnc4VFFYblhwWDF6aE5xYXRBZkIwLW1sYTROVkFrdllfVDJuNURreDFVR3dKR3hhYVZFMGcwTTlvUEJBeVdKX1lMNUFPZnphZnd2UnZrenUwalRwa1dRelY4NXl4R0tWVXl0Z2JfRTNOeFQyMXV1djBpMkdwR0d4SGViMkVuMlRaWlFNbWQyMHd4R2hLaS1iTnBXdlcwVmhPSDBvMkJ4Q3JmVXl6TFdjd0lHRUZDa9IB7wFBVV95cUxOMVVQSmkyU0tKR0xqZkU5RWZuS3VQTnp4WVk2UjAycWVjam9sSUh4UF90MEo4WVhXSXdBYkszMGRCZnc4VFFYblhwWDF6aE5xYXRBZkIwLW1sYTROVkFrdllfVDJuNURreDFVR3dKR3hhYVZFMGcwTTlvUEJBeVdKX1lMNUFPZnphZnd2UnZrenUwalRwa1dRelY4NXl4R0tWVXl0Z2JfRTNOeFQyMXV1djBpMkdwR0d4SGViMkVuMlRaWlFNbWQyMHd4R2hLaS1iTnBXdlcwVmhPSDBvMkJ4Q3JmVXl6TFdjd0lHRUZDaw?oc=5
-
-JP Nadda on INDIA bloc rally: Foolish drama, will be final nail in coffin of Congress' political future Moneycontrol.com
-
-### 79. Nasdaq's 5.3% October Swoon: AI Capex Fears Meet a History of 24% Rebound Years - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-01T10:25:00+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9LczJ5a2lhNEdnVjRxVVRtX0ZkOFlYQldwRlhsM1RnRy1ZZzFReWN0aHk3NGVsZGFDVTVEQjdCaC1IclFTbnZfV2lhRy1uZ0ZzX3hNNEdESjE4Tzc4UGdPSlI4NXE1Wk5OS1pfX1Z1SFpmOWp1eEE?oc=5
-
-Nasdaq's 5.3% October Swoon: AI Capex Fears Meet a History of 24% Rebound Years BigGo Finance
-
-### 80. Amit Shah slams Rahul Gandhi over INDIA bloc rally on 1984 anti-Sikh riots anniversary, says it rubs salt... - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-01T10:12:59+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMijwJBVV95cUxQNEt4Tm80TTNLZVRiZjB3TEM0VjF3T1BzeHJUS3VPWnYyNDBGYnNLcWJ2S3Y5d2I5RGxaQmI1MlJuWE5SSWQxOUlVUEZsT2I0V2tSbzR2a3BZUTBUbllfQm91b1Z5cFd4cVhWaHVmSkkzSERJVzdFU2tLYzgxeFdGem5Fa3pKZmJQckJRQ2NxVnZyMVBVVTlXSEp2MjN3WlNKVFkxWjlaR0syT3R1Z0lYUldEalJodlN2ZENsa0xrZERxaFNyZElfemFKT0Q2WnF4S3VTVktINmRXVTl4Vm1UUHVlUVZ2bFF2SWkyV2I2S2FaLXM0NlpVVTJuVlRtNTU0NGZMY0hFVTdfczZVMEEw0gGPAkFVX3lxTFA0S3hObzRNM0tlVGJmMHdMQzRWMXdPUHN4clRLdU9adjI0MEZic0txYnZLdjl3YjlEbFpCYjUyUm5YTlJJZDE5SVVQRmxPYjRXa1JvNHZrcFlRMFRuWV9Cb3VvVnlwV3hxWFZodWZKSTNIRElXN0VTa0tjODF4V0Z6bkVrekpmYlByQlFDY3FWdnIxUFVVOVdISnYyM3daU0pUWTFaOVpHSzJPdHVnSVhSV0RqUmh2U3ZkQ2xrTGtkRHFoU3JkSV96YUpPRDZacXhLdVNWS0g2ZFdVOXhWbVRQdWVRVnZsUXZJaTJXYjZLYVotczQ2WlVVMm5WVG01NTQ0ZkxjSEVVN19zNlUwQTA?oc=5
-
-Amit Shah slams Rahul Gandhi over INDIA bloc rally on 1984 anti-Sikh riots anniversary, says it rubs salt... Moneycontrol.com
