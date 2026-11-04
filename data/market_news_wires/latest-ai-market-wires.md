@@ -1,32 +1,62 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-03 12:31
+Generated: 2026-11-04 03:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. Super Micro Drops 5% Ahead of Earnings as AI Server Selloff Extends; Dell Falls 4%, HPE Slides 3% - 24/7 Wall St.
+### 1. Shopify stock outlook after Q3 earnings selloff: What our AI model says By Investing.com - Investing.com India
 
-- Source: 24/7 Wall St.
-- Published: 2026-11-02T18:51:00+00:00
+- Source: Investing.com India
+- Published: 2026-11-03T15:26:09+00:00
+- Themes: AI / tech risk, market selling, India market, macro / flows
+- Score: 13
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQc3RONzh2NW5TeFZxb1VmaFJHdDRRZW1GeG94eWVEXzdfeHNGUUhMbkNUOHlweVFKRW1fVDg0UnlMb3hnUjhlenRqVmI5bHAwSThUbGtlakNVRGdLZ01OWllHZ3U4VEFzRVJrd1NrZ3BSYkw3ZXZMc0dLUVpHNXl0VTZ2eTRLZkhRTEN6dHJzbWEwSXJiOU4zdk41Z0xSR09JRWRZbUh3cXotdGNkMFgyTl8tOTRjMTFVaV9vdFhUUTlROE83c1E5ZmI3VQ?oc=5
+
+Shopify stock outlook after Q3 earnings selloff: What our AI model says By Investing.com Investing.com India
+
+### 2. Japanese Stocks Fall As AI Investment Concerns Weigh on Technology Stocks; Oil Falls - Moomoo
+
+- Source: Moomoo
+- Published: 2026-11-03T09:20:12+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 10
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNSTlqbFN3ZEdQSXVFU0JzS1RRa3Z4UkFFWnBYbmFNVW1UamZFbk91SF80VmdLNkR6RHJXRklfS250MDhMcnp4NDdIcndtcjNNUFFOZnpfblRiRGJJSUw3czB0M1o5SloxcV84ZnN6cEtRTkhqbTR2NG9BRmMzZGFxQjR2T01CaTVYeXgwbVFKeFd3bkk5ZktBbHI1YTdJZElISlFYVExjNVpRNXZhWVhKNFFuMEREci1OTGRBcndpNXVPRnhUZnFQS0VlbE5qZWIyWGc?oc=5
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxPQjdaSUg3RzBaTHBnckRjdmJfVmNENU9xOEFrVlZCc3pER0RrMlJ5VE05U3k1T0FyWk5TOTd1WElNRklLZnFDcmtyak1yUk9tWmhNYTZoMWFyMnkwb0RsbVdVSEUweHljUnppUUc5SHVtMERMXzZSRy1ycDRoSjlJaDgwcmFyMHJ5QXpiaTI4M1dUVFlMb3ZLb1NfMGxrLVgybmZENlFPOXJ3UTByUE5v?oc=5
 
-Super Micro Drops 5% Ahead of Earnings as AI Server Selloff Extends; Dell Falls 4%, HPE Slides 3% 24/7 Wall St.
+Japanese Stocks Fall As AI Investment Concerns Weigh on Technology Stocks; Oil Falls Moomoo
 
-### 2. AI Infrastructure Stocks Selloff: Intel Crash, AMD Earnings & NVIDIA Outlook - Intellectia AI
+### 3. AMD (NASDAQ:AMD) Q3 Earnings: Can AI Chip Growth Reverse the Stock’s 23% Selloff? - Stocks Down Under
 
-- Source: Intellectia AI
-- Published: 2026-11-03T06:17:26+00:00
+- Source: Stocks Down Under
+- Published: 2026-11-03T20:06:24+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTE11SmYwdDk4cG50Yzhjb3drTzFYbGhWTXAtOUhKbTB4bFNsdEVyWlZYZEZXSU1tZE5HWER1eGhtR3ZYRnB6Q0hGeTAxeWlraFpWLVZQclJ4YW90YVRRUkxlZXFQbkhjdG1oZW4zYkNqc1hRdTBBcVRpUEsyeXM3NVk?oc=5
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE9pNmp0Q1hsN29oXzExNU5KTVlLLVIzbG9XU19WX2FackZ1emw1dWJ6c3haUC1xNnZMcmlDSEFZa09wYnVNcFE1ZEdIajBKTnJGdjBvN200VzFWeGliZDlQY0tLX21ocVRJZnc3aDE3TVZsS3pVY2RyS2Vncw?oc=5
 
-AI Infrastructure Stocks Selloff: Intel Crash, AMD Earnings & NVIDIA Outlook Intellectia AI
+AMD (NASDAQ:AMD) Q3 Earnings: Can AI Chip Growth Reverse the Stock’s 23% Selloff? Stocks Down Under
 
-### 3. Sensex Surges Over 600 Points, Nifty Extends Winning Streak as Crude Oil Prices Fall - Business News This Week
+### 4. Chip stocks rebound as Nvidia, AMD and Intel gain after $3.7 trillion semiconductor sell-off | Hindustan Times - Hindustan Times
+
+- Source: Hindustan Times
+- Published: 2026-11-03T15:43:38+00:00
+- Themes: AI / tech risk, market selling
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxPUGRZNFdWV3BsWVNMVkZ1UVBBZXpTS1R0RDNhTnRESWthY1lPdjdCMUxJMDBTelQyd1U1UFNPM3JBLVBVUG5rT2FyQi1PTTVrMkg0WE1jX3pNLXVjSkJlMENycGt1TDBRUVdEblR3VDlaYlJwbUR3Zm40aHJJVUt2WkI2cy0xV2FuNUxzR3o2YWNsdXNHczdVMEpRVnROcDVCWWdkVEZnaUNzN2JWejROU1FZSFdOdml5RDhDcUU4YkF1MEhESFQ0R3cxMDJXN3QzYkFnaWhqRG9DRmNleG1yaGdpRUVnRi00Zl9KZFhkZkZEd9IB9wFBVV95cUxOeVJsNlRVQWVvakxHaU85b3VNbVdQM2xZRWxKLXk1MXUtcXdXUk5Cci1LZEp0NUoyRjgwaVh5Yy12dVFNZTVvYy1SRk9wNDJKS1d4clBSSHZ2and6OXlWbjFtMDlpdXphd1FZR0RFN2ZfX0xDWWR1TjFpcHJ1Q29pWUd0bXAxRXNLS2xuZmpzSGM5REgzYWFsSUs2RGFJc1IzZkdnQk5rY1pORmQ3OUxiaVhhMm9DZnNJd2R6cndmWUx0WXdNTTlJY2pteU8wdmotS0cyTWRkUUd2LUdvQzRhdWY2TVVnbU1lX1dwbzlTR2ZFV1VsUFBv?oc=5
+
+Chip stocks rebound as Nvidia, AMD and Intel gain after $3.7 trillion semiconductor sell-off | Hindustan Times Hindustan Times
+
+### 5. Sensex, Nifty Extend Rally on Crude Correction, FII Boost - Rediff
+
+- Source: Rediff
+- Published: 2026-11-03T10:58:30+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzRhaVBKT1ZxaHhMRVRJMXpRNWJoWFhNSGJDR1hkc0FpM05XcEh6LUhXUnpNajVsQURPdkVTT0xYNWU5eWRhV0JKZGRadVhkT0ZoQzZxTDN5SkZkZEprLWJJMzlYRnJzS0ZQeUlFV0NwNmtUVE9kcF80eHVIWC1QczFRS1pDVkZzbFlJNFN6Sk91RTlQTXNFWmRad3c2TjJyOUZxT3JYbnpSZy1nNG9ScUM4dy12UEZTcmt5Q2RuQnpBXzI2UVRxWVpZQdIBzgFBVV95cUxNT2tPLXRoOU9oRG5nOUUyOWhNUG1OOW5wcjdmQjFVdF9CNU9rWDlqVlpTay1EaVRtU1RTRVBxQ0JJeW5LMDM4Wm5Ub2gwby1BNmRSVktwOF8zbENybE1iWGY4YW94Wnh4clJtd1lJbFJpWTlLbVVCam1OZTlDOEVPTXN4d3lBMi1lZngwUXlzSGRuay1yR0VLUEhFM3YxVUZxVmp4X25mTVBqc2xwdDYyX2xMaFlFSGpuUWZ3MnFOX2JIUTBrV24weHAtcm5NZw?oc=5
+
+Sensex, Nifty Extend Rally on Crude Correction, FII Boost Rediff
+
+### 6. Sensex Surges Over 600 Points, Nifty Extends Winning Streak as Crude Oil Prices Fall - Business News This Week
 
 - Source: Business News This Week
 - Published: 2026-11-03T04:48:43+00:00
@@ -36,37 +66,57 @@ AI Infrastructure Stocks Selloff: Intel Crash, AMD Earnings & NVIDIA Outlook Int
 
 Sensex Surges Over 600 Points, Nifty Extends Winning Streak as Crude Oil Prices Fall Business News This Week
 
-### 4. Macro Insights: The AI Selloff, Hyperscaler Earnings, And The Fed Pause - Seeking Alpha
+### 7. Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff - Bloomberg.com
 
-- Source: Seeking Alpha
-- Published: 2026-11-02T17:30:00+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQeFFVbjhZNjB5ZVNaODVjUXQ3cXRUZDB2TU1ZNWktZzlIYkctRzZFNlJHUWhmT3g4ZnJCRkVJSzBLM1F5OHVwMnhxMUQ4dTlfYkk1ZzVrNktLc0laZmxBNTFuanZ2UkZaMXdJMkVzcGlXYjFrTEluRlVYbXk1QXVhdjJkNndVWlYyT3hBUUhkNnl4WktfdVpUYnU1dV9ITUNucGJON1UxcGtaRGhPMXc?oc=5
-
-Macro Insights: The AI Selloff, Hyperscaler Earnings, And The Fed Pause Seeking Alpha
-
-### 5. Morning Call Sheet: Tech selloff, AI spending risks and Fed rate outlook - CNBC
-
-- Source: CNBC
-- Published: 2026-11-02T14:47:05+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNUFJISnY1ajE1Tk1XNXVkOVVteUdqSmZCR25Fcm5jNHZ4SG80T2MtclZ6blJXZ0I2bk9QOW1vclJvUnpnMkotWnRZNm1za0UzeHFpOWp6VFVucEx5dTViZzEzQ2VfYzlKY3pld0xxUm02Vk1ZMWNXVl9yQnV1dHIxblFaTEpOLUJMVTFCOFlRSHQzWlE2WmNQOEJLUERhYkJPd2xOb2RNZ3RIZ2w3dER2czZoNA?oc=5
-
-Morning Call Sheet: Tech selloff, AI spending risks and Fed rate outlook CNBC
-
-### 6. Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff - Bloomberg
-
-- Source: Bloomberg
-- Published: 2026-11-03T11:45:44+00:00
+- Source: Bloomberg.com
+- Published: 2026-11-03T19:31:19+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxQR1czb0ZkMWd3UVdFOV9OQXlKQ01WamJqZ1N3UThFTVpRelVBX0kxbnNZU2U4b2pvSUNPWnRRYll2NVpXRHdIMktRbkRzZXVUS3YtLWJYbi1RdXFrNk1veGhfMFVsckVqZEF2TDVlaVY3V2RBSW1Eek9kZThKR2FQb2dPQWxraGFKbllXY3gzVE45b2p0S0NrRTlTMnBpWjNKdEpJeFkwdktDeW9MR2h6TnFB?oc=5
 
-Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff Bloomberg
+Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff Bloomberg.com
 
-### 7. Sensex Surges 5% In Four-Day Rally: How Crude Correction And FII Inflows Fuelled Market - The Daily Jagran
+### 8. Nasdaq-100 Enters a Correction as AI Selloff Accelerates - TipRanks
+
+- Source: TipRanks
+- Published: 2026-11-03T15:34:37+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxQVHZpS0FRaWdHUnQ4U28tVnozSUxEd05VNzdvM1JlcENPcGV2Z2RRcXhqREZ1UEpDMzhUbjZzeDhPaDlza1ctRDFxdlViV1BfV3ktcXlha3RHaHh5c0pyUlRhQXZIMWhvWXdvZkg1dmJraXprOGU3SU9DMVF2QmV5cUlDczVFTkJEa0p6RzN3UQ?oc=5
+
+Nasdaq-100 Enters a Correction as AI Selloff Accelerates TipRanks
+
+### 9. Nvidia, SK Hynix, SanDisk Spike Up To 7% Ahead Of AMD Earnings As Chips Rebound From Multi-Week Selloff - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-11-03T15:04:24+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPaFdvOU5EXzZqeXUwend1YU9pTHd6dXVoOGF5emNLdDR1dG5vckFpRTk5NlBXMFJPYlVFai1BSlhFQkFDWVBMWUpMNXBMWjBhb3NJVUpTUTBQcnFzT2JSMjJCVkM0X21HaEdxbURSY3JWTmlha3FfR1JQLUE1WmVlRWppSno1cU1jZEN6bmc0WTBoalgyNW1fOTVXWElodWRaOTh6U1VRTXBJbVRFTWswMFd4YmFGNU40eGVZNkcyRmVzbF9ON1RRQVNoZzdTVml0M3BLX3BJUEswZGxi0gHkAUFVX3lxTE9ELVNIdGxvZXFLeExobENfYk9fVmRXaUM4OFlWOUJ1Tm1jTmppNmM5dXdHNGlMbXV0R0J3eVdIQXdZdzU2TzV4aUxNakpPdVktSFNmTXJVQkhpRHBUX0g5UUlKcUdBS2tpQjJYUWN6N2E4QkZzRXBBN3RDRHVGRjNoaDlsQXJjVmlVYnVoZzJRbUN6bkpTcmN0cWJXOHNUR3FxaUdPQUhhcUtVZWx2NXYzSlpfUXZPdzZybVFlY2hhenJyWjNtdTBOOHREdmpTOGZKbkpvOF9HM0FEOUNlWlV4OWNVbQ?oc=5
+
+Nvidia, SK Hynix, SanDisk Spike Up To 7% Ahead Of AMD Earnings As Chips Rebound From Multi-Week Selloff NDTV Profit
+
+### 10. Nasdaq-100 in correction again as AI earnings ‘not good enough’ - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-03T14:40:20+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNOEZudTdpVWZJM2NWRGEtMkdCcE82VmlVSWhvUEtwRWtaa3ppS3I5amJQWXg1UnFpRUZ0YU5Gd1R1TlBma1pvZGtvempmRlZqQk9qY1RiQnFiZk1PVjc4Z2xjZHRfVjdCYjRqYWdDVlJBRXVZWUN3ZkRwLVlXS3hvN1Z6dE9ESnJVcFJpVXMwYjRFNmRiMWpTTzlkSTJTSndXQ3RGMVhUM1V2NU5D?oc=5
+
+Nasdaq-100 in correction again as AI earnings ‘not good enough’ Yahoo Finance
+
+### 11. Nasdaq 100 Crashes Into Third Correction of 2026 as AI Stock Selloff Erases Trillions in Market Value - Coinpaper
+
+- Source: Coinpaper
+- Published: 2026-11-03T13:20:27+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEoyYVRyYWx5UC1NNXFhTWlJS055RWk5X0RlSTh6Sk9XcG1LdW0tTHFfak11ZkVGYlVmcExfVm9oNE42eXBXQjh6WnpONW1mQzVTTWtDUlNEZHE1ckdSQV9iU282a2g0NWpWX3VyQVlpZWtlcFRkbHVsSkt4emVrY0lUSWZ5OEdSR01nUFA5Qk81QW91TG41elFpazlrNG01?oc=5
+
+Nasdaq 100 Crashes Into Third Correction of 2026 as AI Stock Selloff Erases Trillions in Market Value Coinpaper
+
+### 12. Sensex Surges 5% In Four-Day Rally: How Crude Correction And FII Inflows Fuelled Market - The Daily Jagran
 
 - Source: The Daily Jagran
 - Published: 2026-11-03T11:14:00+00:00
@@ -76,7 +126,7 @@ Copper, Tin Fall With Base Metals on Renewed AI Stocks Selloff Bloomberg
 
 Sensex Surges 5% In Four-Day Rally: How Crude Correction And FII Inflows Fuelled Market The Daily Jagran
 
-### 8. Apple overtakes Nvidia as world's most valuable company amid tech selloff - Investify
+### 13. Apple overtakes Nvidia as world's most valuable company amid tech selloff - Investify
 
 - Source: Investify
 - Published: 2026-11-03T10:45:42+00:00
@@ -86,27 +136,17 @@ Sensex Surges 5% In Four-Day Rally: How Crude Correction And FII Inflows Fuelled
 
 Apple overtakes Nvidia as world's most valuable company amid tech selloff Investify
 
-### 9. SK Hynix Falls With the Chip Sector as Oracle's $20 Billion Funding Plan Puts AI Returns Back in the - ad-hoc-news.de
-
-- Source: ad-hoc-news.de
-- Published: 2026-11-03T10:40:46+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxQWXItNk51U0pKZVNLendINEVzTFRlcHpLcURTUjEteDJTX01VTFlIR1hyeFZmMUtjUGxHTGdUUEJfRkM4QU45Y1diQmFFelZBZVFSM2YwZWpJNy1YVVdqSkw0RVl4Y0lQUTdKMERmeTFxOUc3dGtOeWZHZFBvTVJoN19KdkJINlBCWHRIZDFNbGk3Wk5tVXBHNm1pcklRYlJ4NnprTy1BVGZWVFpzQzdvbXRUYzNJYWlOREpOY0lJSzNKa00wcXpobjdsem9mYXUxZG02eHdFTkhJdnNSUUxMT3pORXFrc2lUWHVnX1JYWXlrckJuNDc1d1Z3QkwyVnRy?oc=5
-
-SK Hynix Falls With the Chip Sector as Oracle's $20 Billion Funding Plan Puts AI Returns Back in the ad-hoc-news.de
-
-### 10. Hedge funds unwind AI bets as tech selloff accelerates - Hedgeweek
+### 14. Hedge funds unwind AI bets as tech selloff accelerates - Hedgeweek
 
 - Source: Hedgeweek
-- Published: 2026-11-03T09:56:15+00:00
+- Published: 2026-11-03T09:59:25+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUGxKWlRiWGZ2OXpfclpGQmpPeFpwa0haVzNFemN0YzRtdkJuTlpiMjhlZXlkeGxXSkJTOFhxbGJVU3U1QVNoWEhxQlFSVFdieWpfaF9TU3FWRmhEeG1GdVBfT0Y0TlhSbkozdE5xaHJSWEtyRlo5WThXckFNVkFTNjdveHFxNDY5?oc=5
 
 Hedge funds unwind AI bets as tech selloff accelerates Hedgeweek
 
-### 11. 3 Semiconductor Stocks Retail Investors Are Watching After The Chip Selloff - Simply Wall St
+### 15. 3 Semiconductor Stocks Retail Investors Are Watching After The Chip Selloff - Simply Wall St
 
 - Source: Simply Wall St
 - Published: 2026-11-03T09:46:53+00:00
@@ -116,17 +156,7 @@ Hedge funds unwind AI bets as tech selloff accelerates Hedgeweek
 
 3 Semiconductor Stocks Retail Investors Are Watching After The Chip Selloff Simply Wall St
 
-### 12. Chinese Stocks Fall as Nvidia Tightens China AI Access - marketscreener.com
-
-- Source: marketscreener.com
-- Published: 2026-11-03T07:44:26+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeklyajVQZ29tNFR3UWxPMkc4d2RkamJWZ0FncjcwdkpkeHFLOHVyRDFmalZIZGVNNXhZQ3FpZUI4RlJGbUFPVHhleWlUbmpWX0t1aFcyc2I5V0RUNlc2SnBTWjZYWExqb2YwMjNjUTNmS2JtM2JPMjJqcU1IS2luSERTVGE1Qlhhby1PU3FLV3UxN2pxV0VEN2htU0FjNk80V0VPRk5vaEZIVUE?oc=5
-
-Chinese Stocks Fall as Nvidia Tightens China AI Access marketscreener.com
-
-### 13. Copper, tin fall with base metals on renewed AI stocks selloff - Moneyweb
+### 16. Copper, tin fall with base metals on renewed AI stocks selloff - Moneyweb
 
 - Source: Moneyweb
 - Published: 2026-11-03T06:45:18+00:00
@@ -136,7 +166,7 @@ Chinese Stocks Fall as Nvidia Tightens China AI Access marketscreener.com
 
 Copper, tin fall with base metals on renewed AI stocks selloff Moneyweb
 
-### 14. Copper, tin fall with base metals on renewed AI stock sell-off - The Edge Malaysia
+### 17. Copper, tin fall with base metals on renewed AI stock sell-off - The Edge Malaysia
 
 - Source: The Edge Malaysia
 - Published: 2026-11-03T05:22:54+00:00
@@ -146,17 +176,7 @@ Copper, tin fall with base metals on renewed AI stocks selloff Moneyweb
 
 Copper, tin fall with base metals on renewed AI stock sell-off The Edge Malaysia
 
-### 15. Copper, tin fall with base metals on renewed AI stocks selloff - The Edge Malaysia
-
-- Source: The Edge Malaysia
-- Published: 2026-11-03T05:22:54+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTE00ZDgzZ0RjTEo5Vkc3SXFKVGtCNXo4OXJPeWVCQy1MSjFPbVVYTlJkelJTZzYzbjNBWUFBZ0pRd0dCc1Z1ektKalVDa1FOcmNaVXo0?oc=5
-
-Copper, tin fall with base metals on renewed AI stocks selloff The Edge Malaysia
-
-### 16. Dalal Street Continues Festivities, Oil Falls 7%: Sensex Over 450 Points Up, Nifty Above 23,500 - ABP Live English
+### 18. Dalal Street Continues Festivities, Oil Falls 7%: Sensex Over 450 Points Up, Nifty Above 23,500 - ABP Live English
 
 - Source: ABP Live English
 - Published: 2026-11-03T03:46:57+00:00
@@ -166,7 +186,7 @@ Copper, tin fall with base metals on renewed AI stocks selloff The Edge Malaysia
 
 Dalal Street Continues Festivities, Oil Falls 7%: Sensex Over 450 Points Up, Nifty Above 23,500 ABP Live English
 
-### 17. Nifty Outlook - Oil falls sharply by Geojit Investments Ltd - Investment Guru India
+### 19. Nifty Outlook - Oil falls sharply by Geojit Investments Ltd - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-03T03:46:37+00:00
@@ -176,47 +196,137 @@ Dalal Street Continues Festivities, Oil Falls 7%: Sensex Over 450 Points Up, Nif
 
 Nifty Outlook - Oil falls sharply by Geojit Investments Ltd Investment Guru India
 
-### 18. Semiconductor Selloff Returns: TSMC ADR Falls Below $400, Taiwan Stocks Plunge More Than 700 Points in Early Trading - BigGo Finance
+### 20. Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year - WSJ
 
-- Source: BigGo Finance
-- Published: 2026-11-03T02:36:00+00:00
+- Source: WSJ
+- Published: 2026-11-04T00:45:29+00:00
 - Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE84SXI3dXpUeGhuVVBWemQtWXlkRXZLUlhhcUZXb0VxTUdzcGJRYVpuZzZQZHoyVS11T3dwYW95LUtxdF80NFlhSUtxNmo2b0h3dkczaEI1SjRxVHhDSGpaZmlacnA4ODNsTUZTdWdScWMyYUk2eGc?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0dCXzNIVWRZZmZVTWM2U25pX18zb0RtZlIwYjd0RUpuYzdpRUJBdl9pT3pjQkVpa29KU043MjhLOWhaLTBkUGxFZHVIcFNzWkFKQXkyMUVUakJIVlo5X3lPTlJWMGgtNFc2WDd4OE5BNkY4UzNOdjRVTDU0ZjBHZUkybEd2RkVVbHB4c2RrSl92OW8?oc=5
 
-Semiconductor Selloff Returns: TSMC ADR Falls Below $400, Taiwan Stocks Plunge More Than 700 Points in Early Trading BigGo Finance
+Deepening Tech Selloff Pushes Nasdaq Toward Its Worst Month in Over a Year WSJ
 
-### 19. Tech Selloff Doesn’t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks - TradingView
+### 21. US tech stocks recover after selloff spooks investors over AI spending - The Guardian
 
-- Source: TradingView
-- Published: 2026-11-02T22:46:19+00:00
+- Source: The Guardian
+- Published: 2026-11-03T22:23:24+00:00
 - Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE10dVo4U3g0VEd6SDVTbTBTWldkME05MVJaaE5hQlYyaEt1ZEt0OUJfTldyNjFkcGxvbV9rYWpVS01CNGh3MDk0cWdGMnpPQmRTbW5hRkIwOVB6ZFZ0NklGZGlqSGIxQ0lX?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxQNHk1ZjhfMklrX0ZsaExCalhYZHVyZjg2Z0NhQTZJWk8yLXNISkZJU0ptOVE1WmJ6OTVBN0dfdlB3VnpDRENzdFBJc0kyeHBacFVPa21iOTlGb0RIcHlFSGVlQmJ2RmZSdkRlVGNpeTkzbnBJSFlmTUNWc2N0OGVKQ0RoQThKVmRyOWhCRg?oc=5
 
-Tech Selloff Doesn’t Spook Dan Ives for Halloween: Here Are His 6 AI Stock Picks TradingView
+US tech stocks recover after selloff spooks investors over AI spending The Guardian
 
-### 20. Stocks fall as AI worries weigh on Wall Street despite oil price drop - The Business Journal
+### 22. The Big AI Stock Selloff Is Happening at a Bad Time - Bloomberg.com
 
-- Source: The Business Journal
-- Published: 2026-11-02T22:04:06+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiekFVX3lxTFBjc1g0V0c2dVFTdVg5UXZwTGNoc0Z6WTQxdjUyUlFVNzRwNjItV0NJdU9JLXp1akREVW1oc0pTRTlRRVV1d0wxUzV1Vmh5TkFHMDNMYmdmZUQ3Ykx3X052UXpHNHY5NnZ2Ulppc1p5ck9WcTh0ajNuamVR?oc=5
-
-Stocks fall as AI worries weigh on Wall Street despite oil price drop The Business Journal
-
-### 21. Tech selloff: are AI spending concerns justified? - MoneyWeek
-
-- Source: MoneyWeek
-- Published: 2026-11-02T14:51:03+00:00
+- Source: Bloomberg.com
+- Published: 2026-11-03T20:57:24+00:00
 - Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOZzI0TU9kUFV3eWVkWVBjUHNpaVZ2LS1CMXZmMlBzMTc0cTNQdTBFVFVUa0F2bVpJa3F1SjRXR3pLWUUyckxkY0NXakNBLUFPWkY2UDY1VG9hOS1OVlRTUEM5WWl6c01GZFdKVVRua1luSTRUbFd0WHFUUm1YRWpacjdZWTY5UQ?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQVEtWFFWZGRUTC11RUsteUVDZXdKaGtmZHFmcjhFdUpoVUtnbFVEYUc1cDZSTlJRR1RHZ3FHRGZwNkNLN3dTUU1HOFpFYVBoZ1QzbHIzZ1FpR2VuNDJjclFKeU5vTm0zVFRnWG44SElPRDZWUWd3RDlwQjV0TU5KczBhOVVOM2Y1RW05dlpINHk3UVN4U3R3Und2aUxSelVsSG42dFllY2w?oc=5
 
-Tech selloff: are AI spending concerns justified? MoneyWeek
+The Big AI Stock Selloff Is Happening at a Bad Time Bloomberg.com
 
-### 22. Nasdaq-100 tumbles into its third correction this year as AI worries mount - MarketWatch
+### 23. After the AI Selloff: The Credit Signals That Will Decide What Comes Next - Financial Sense
+
+- Source: Financial Sense
+- Published: 2026-11-03T20:36:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPeE9OcG96VXRmMjFyRjNsblkyc2FwWkgxYUVQUlkxa2lyNkxYcTgzYzZWVGxJWWV1WmVWT1VkQ0JXazAteEs3OHJPWTc5a0pZcjJDeVp1N0dvZHh5Ym5WSC15WU00RXJkOGYtNUpzRFRlcjN6VjI3MGRuN01McEpMZXV5cDJNcHJKazJZLThEdGR0cXp0QU5ub2lNMXdvd3BaNTdj?oc=5
+
+After the AI Selloff: The Credit Signals That Will Decide What Comes Next Financial Sense
+
+### 24. Cipher Digital Soars 9%, IREN Up 8% as AI Data Center Stocks Rebound After Selloff - TIKR.com
+
+- Source: TIKR.com
+- Published: 2026-11-03T15:19:18+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTUhYd0NCYUxDMGtxbHExdTYxSUgtbnBYVzlwVUZzUXpoaktRakJySjJRSXNvRFBQbndNSzAyQktZZDJreG0xblpfNzNrR3hPU1ZUNWhFT3BCdHBSd09TWmE4NzBkdnB4SjBOVGFyUm5QY0ZvNkp5STdGZDlxYmtHY2U3OFdSdVJYQzI2RVBnUXdKbFZRV3BZVmtDcXZvMGVqVURsc3BxTGktZw?oc=5
+
+Cipher Digital Soars 9%, IREN Up 8% as AI Data Center Stocks Rebound After Selloff TIKR.com
+
+### 25. The AI Selloff Meets Election Day - InvestorPlace
+
+- Source: InvestorPlace
+- Published: 2026-11-03T15:14:38+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBlWWlHNHQ4MzltbVBrNF8yTVBNS2k4R29fckVuS085eGdTMHNiUWgxdmxweGFuUkxyaC0yNGk5ak1qUkpUam5hWHV5S3NaaHVKNmZSeDBReE1YcmoxVHhwWTNiSVZPUVVKSFo3NHI2Sy1Vb3ZXanVR?oc=5
+
+The AI Selloff Meets Election Day InvestorPlace
+
+### 26. Nasdaq rises as chip stocks rebound, while Apple and Palantir shares fall - Invezz
+
+- Source: Invezz
+- Published: 2026-11-03T15:07:50+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPVTF4T2xIaEdEUlBkUGxzQUpMbDgyZG1CdlJUdGJjeUlCclFlX0pVSTd0S0JCaEFjNk1YTTcyajBYM1BjdGEyNmMyeTBkdHBaTlV4bzNYVC1UY3pUUnQ0WGlCY0JDM1pob3VSc1RpVWc4NGZiaTB5TFJfcjI1cDJTQm9wbXNIaGVlcTdSN21hVUVDeWw2c19WbDc3WW5ZU25PRnM3X01LcG1qMWhqbUNjZw?oc=5
+
+Nasdaq rises as chip stocks rebound, while Apple and Palantir shares fall Invezz
+
+### 27. Caterpillar’s Sell-Off: Is the Market Missing Its AI Power Play? - MarketBeat
+
+- Source: MarketBeat
+- Published: 2026-11-03T14:54:30+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFFhVlZab1RURE5HZzBkSVMydlBCNmJzOURnaDhXVHYxN2RGa2t1Q0ZjWm0zR3lveHJMUVEwaExMYU5Ud1RlcTg1aXljZXZibjR5M2F4VHhsTjRBcnE2M1JyclZfYndvVHk3WmRSTU9adWxfcjJYa0Nkb0hGRktNVGVudlRBSzRWZElTT2FsQVZpOENEZzE1MTRXLUc3UmM?oc=5
+
+Caterpillar’s Sell-Off: Is the Market Missing Its AI Power Play? MarketBeat
+
+### 28. Brutal AI selloff stirs renewed recession fears - Kuwait Times
+
+- Source: Kuwait Times
+- Published: 2026-11-03T14:48:39+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPMHI5a3RWLXQyczBEWnZrM05ma2lkX0tjSksta2t4RjZ4WlU5V2J0ZXZyTHFaLWNjSUlTZW5HZTBSNmRzZ0QybFNVZHFLMFRSUGhkekRDbVNueFlqU193cmJ1TUpYbl9kS2pnaHJTbW1Qd2pvU1dFNGJ3d1BxdDZabktIMjhkODZzR1R2RnVYbHBGOTdTTndEbFFIONIBnwFBVV95cUxQZ0pVN0d4NWFKU0tnbkhlTGxJMkljRUxXc3A5ZGUwdnAxMHZfam8tcVFCUVhFdGItVkItY2l5bHk3aWhwTVlCNFpBM2tIa2pHRzdud3dNS0JxUml2NTRpa3pINldaYXpnVm13TVVhRGljWmY2QWFQTnRpZFJtMnRSbGgxZ19QQkU0M2JHT3NHa1ltTUlKQlZiRG1iWTJXeUE?oc=5
+
+Brutal AI selloff stirs renewed recession fears Kuwait Times
+
+### 29. European Stocks Fall Amid Artificial Intelligence Concerns and Middle East Tensions - صحيفة مال
+
+- Source: صحيفة مال
+- Published: 2026-11-03T13:53:37+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMib0FVX3lxTFBlaV9sUkJsTGEtbXBDWVM3Uk5rOVdiTHVVS01kRlp3a2JwVER1RkNPSkllWlBEaWlqWmhWZFJYNUFaMUtVS1gwanlnLU5RTmhRMEk4X25sRnNKWnJvYWJhcjdIcmVVYV9KOGpVVGV3Yw?oc=5
+
+European Stocks Fall Amid Artificial Intelligence Concerns and Middle East Tensions صحيفة مال
+
+### 30. Dan Ives Calls Tech Selloff a 'Gut Check' — Names His Top Stocks to Own for the Next 5 Years - Benzinga
+
+- Source: Benzinga
+- Published: 2026-11-03T13:02:11+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxPaFA4aDdnS0UzOW9QX3J4bE41dUNBMWpxNTVILUJUNmFVS1E0d3JHeV9OcW9fTEluNlpFNUhPOWM2bUl3SkJUNXFzb1FtamxrdWsyZGFjRnF3UjlTQkJPbjJiNm1LcGRxQ3AweS1RcXR2ZzNJN21aR0U2Um1CMXZjV181M2NrTGtMM2pqWGs5NWN1OWl3V0l3cUFfMGtQN19TbUMtbENOUmxGUHNZbDVDczBvMmtCcjBBcU5FSjBEcTBqZGRkVnd1UXpXeVlUSjFZR05rOFNRcjRFWHIxdEE?oc=5
+
+Dan Ives Calls Tech Selloff a 'Gut Check' — Names His Top Stocks to Own for the Next 5 Years Benzinga
+
+### 31. Marvell Stock Crashes 13% as PLTR Slides Despite 96% Revenue Growth, Deepening AI Stock Selloff - Coinpaper
+
+- Source: Coinpaper
+- Published: 2026-11-03T12:50:27+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxNdEZYN3VPR0pzU1VRZjk4emJGNHpTZUp1MlZVN01yTWJzWEZJTDJDY05NeURJc0Z5bUdwcENWWVFvQ1VWN0R2LUhHMWRUaUhYaExhcFZTS2ZMNGN0clZFQjE5QWw1c1RQSTQzSDg1Y2dRcW1oMU5PUE85ZU1pQzdCM2s2WmFQZXdLWkFHanJ5RFNYc3JLb184c1BnVmFSMnZRa2JCR2ctUVUtcmdZNmZPR1psUjBzR01mcnNORw?oc=5
+
+Marvell Stock Crashes 13% as PLTR Slides Despite 96% Revenue Growth, Deepening AI Stock Selloff Coinpaper
+
+### 32. Nasdaq 100 Forecast: AI Selloff Puts 28,000 Support at Risk - FXEmpire
+
+- Source: FXEmpire
+- Published: 2026-11-03T12:37:02+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNQ08wY2pYdy0tRTJqLWJNaWRrZGhUWkE5eTRkY1NfS2Rad2tYZDFMZ21PbGVpWm1pSjB0S2xPaXhlM1dqbTgxQkxBTVZkMVl2a2JMUE95QXlhUG5FTFM3c05sM0xGMWVWZ0IxaUJCRGRDb2NjdWQ0SmpVX1ZsUHI0U3BpdlZocFVIMktYbDU4OE9RaExSTVE4VE5CRVdJZlJZWXZPc2E5Wnp2YUlv?oc=5
+
+Nasdaq 100 Forecast: AI Selloff Puts 28,000 Support at Risk FXEmpire
+
+### 33. Nasdaq-100 tumbles into its third correction this year as AI worries mount - MarketWatch
 
 - Source: MarketWatch
 - Published: 2026-11-03T11:56:00+00:00
@@ -226,7 +336,7 @@ Tech selloff: are AI spending concerns justified? MoneyWeek
 
 Nasdaq-100 tumbles into its third correction this year as AI worries mount MarketWatch
 
-### 23. European Stocks Rally As Semiconductor Selloff Weighs On Wall Street - MarketForces Africa
+### 34. European Stocks Rally As Semiconductor Selloff Weighs On Wall Street - MarketForces Africa
 
 - Source: MarketForces Africa
 - Published: 2026-11-03T09:51:26+00:00
@@ -236,7 +346,17 @@ Nasdaq-100 tumbles into its third correction this year as AI worries mount Marke
 
 European Stocks Rally As Semiconductor Selloff Weighs On Wall Street MarketForces Africa
 
-### 24. London-listed technology trusts slide as global AI sell-off deepens - Proactive financial news
+### 35. Wall Street’s AI Sell-Off Exposes a Weak Spot in the Bank of Mom and Dad - Realtor.com
+
+- Source: Realtor.com
+- Published: 2026-11-03T09:47:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPN2JBdXh6RjY2RWVmcHhJQmpYS0xXMllsV1VTM3ZaNVc2VUdncFF2eVpZd3c0T2ExYkk4U3JBVlFBb2JKUkJqVlQ3STVjTzNTMUhIMWtFeXBRYWkwaFM0MGY3OElSZ2RaZ3AzdG9TRUlYTUl4LU1TalN6V0RFM2dMMDJCZkNsOXpNVlNRczhR?oc=5
+
+Wall Street’s AI Sell-Off Exposes a Weak Spot in the Bank of Mom and Dad Realtor.com
+
+### 36. London-listed technology trusts slide as global AI sell-off deepens - Proactive financial news
 
 - Source: Proactive financial news
 - Published: 2026-11-03T09:20:00+00:00
@@ -246,17 +366,7 @@ European Stocks Rally As Semiconductor Selloff Weighs On Wall Street MarketForce
 
 London-listed technology trusts slide as global AI sell-off deepens Proactive financial news
 
-### 25. "Samsung Electronics at 190,000 won, SK Hynix at 900,000 won": Downside scenarios for semiconductor correction... "Prioritize cash over additional buying" - 재경일보
-
-- Source: 재경일보
-- Published: 2026-11-03T09:15:04+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiYkFVX3lxTFBpZEpoRjhndVY0cW5naXhpOG1MZnlNcG15VzI2SmdDZjk4ZEVTTmRJZDFmNEItVm5SOFVtNDVqZnNOd1dfRVF1QWVZZ3hvV2xuUmxjRlpmczJJLWZHUDlWZzh3?oc=5
-
-"Samsung Electronics at 190,000 won, SK Hynix at 900,000 won": Downside scenarios for semiconductor correction... "Prioritize cash over additional buying" 재경일보
-
-### 26. ECB Warns AI Market Correction Could Expose Europe’s Financial Vulnerabilities - EU Today
+### 37. ECB Warns AI Market Correction Could Expose Europe’s Financial Vulnerabilities - EU Today
 
 - Source: EU Today
 - Published: 2026-11-03T09:10:45+00:00
@@ -266,7 +376,7 @@ London-listed technology trusts slide as global AI sell-off deepens Proactive fi
 
 ECB Warns AI Market Correction Could Expose Europe’s Financial Vulnerabilities EU Today
 
-### 27. Chart of the Day: Nasdaq 100 Slips Into Correction 📉 AI Rally Loses Steam - What’s Next for US100? (03.11.2026) - XTB.com
+### 38. Chart of the Day: Nasdaq 100 Slips Into Correction 📉 AI Rally Loses Steam - What’s Next for US100? (03.11.2026) - XTB.com
 
 - Source: XTB.com
 - Published: 2026-11-03T09:04:17+00:00
@@ -276,27 +386,7 @@ ECB Warns AI Market Correction Could Expose Europe’s Financial Vulnerabilities
 
 Chart of the Day: Nasdaq 100 Slips Into Correction 📉 AI Rally Loses Steam - What’s Next for US100? (03.11.2026) XTB.com
 
-### 28. Europe stocks fall on AI concerns, escalating Iran tensions - شبكة تواصل الإخبارية
-
-- Source: شبكة تواصل الإخبارية
-- Published: 2026-11-03T08:54:55+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTE5iWEZqcHdnc3NwTXRrb3BrNU0wSjhwN3FTcUVGU00xWU9oM2N5Rml1Y3NJcDBMdWJHX3U5d3hzMGQ3ZlJWc2RGWVd3QXNsQm5pSUpZ?oc=5
-
-Europe stocks fall on AI concerns, escalating Iran tensions شبكة تواصل الإخبارية
-
-### 29. U.S. AI Market Faces Correction as Tech Stocks Decline - KuCoin
-
-- Source: KuCoin
-- Published: 2026-11-03T08:54:49+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0VKYl9TVG05QXladk9WZ2VYZUNSVW5RZDhSdjNja1M0Uzg1bU9PWmNFUWwxMXpueDFFRkNDRkc2OElWcnNWWnNadGlGYlhkSHRvWU5hQXBjTlFmVWM0VkVFZWU0S3B4NUpPcEhQXzRtZlJWTUhJUUtIdEFHN3QwTVVvTENmdEtRa0o3cjJRbw?oc=5
-
-U.S. AI Market Faces Correction as Tech Stocks Decline KuCoin
-
-### 30. Europe stocks fall on AI concerns, escalating Iran tensions - TradingView
+### 39. Europe stocks fall on AI concerns, escalating Iran tensions - TradingView
 
 - Source: TradingView
 - Published: 2026-11-03T08:05:51+00:00
@@ -306,37 +396,17 @@ U.S. AI Market Faces Correction as Tech Stocks Decline KuCoin
 
 Europe stocks fall on AI concerns, escalating Iran tensions TradingView
 
-### 31. KOSPI tumbles over 3% as foreign sell-off continues on AI concerns - Aju Press
+### 40. Market Take | Anthropic's Q3 Raises Red Flags. Can Its Missing ARR Reverse the AI Selloff? - Moomoo
 
-- Source: Aju Press
-- Published: 2026-11-03T07:56:05+00:00
+- Source: Moomoo
+- Published: 2026-11-03T07:56:02+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMiV0FVX3lxTE5xUmJ6YktMMUEtQnBUS0xuSWVHSkk5QWpmOVp0RWIwSVE0ci1xMk5OR1RITjhUdzVMMndkNnVFQ051RTdIWHVjVU8tZmJKT1ppdE95R2ctd9IBV0FVX3lxTE5xUmJ6YktMMUEtQnBUS0xuSWVHSkk5QWpmOVp0RWIwSVE0ci1xMk5OR1RITjhUdzVMMndkNnVFQ051RTdIWHVjVU8tZmJKT1ppdE95R2ctdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSm5CYm5rdktBRWNtalA0Q3BfdTh2YkkwNHozSzNQd0VPZlM1RVZVdG9SQzVHSkJUbV9PTWthcm1RQ3VILVpCRmtybThLT3M4dVk2Vm85ZFJFaThmZGdiRlFFNGxDS0hyaE1wYTZQZGduV21xdnE0bk9fa2NodnNFM2Vmd2FRZmpzWjJoOUV6NkJtN3pfaXozbk5TYkxLZTRWTDdreTNZbV8?oc=5
 
-KOSPI tumbles over 3% as foreign sell-off continues on AI concerns Aju Press
+Market Take | Anthropic's Q3 Raises Red Flags. Can Its Missing ARR Reverse the AI Selloff? Moomoo
 
-### 32. The AI Selloff Meets Election Day - InvestorPlace
-
-- Source: InvestorPlace
-- Published: 2026-11-03T07:32:02+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTFBlWWlHNHQ4MzltbVBrNF8yTVBNS2k4R29fckVuS085eGdTMHNiUWgxdmxweGFuUkxyaC0yNGk5ak1qUkpUam5hWHV5S3NaaHVKNmZSeDBReE1YcmoxVHhwWTNiSVZPUVVKSFo3NHI2Sy1Vb3ZXanVR?oc=5
-
-The AI Selloff Meets Election Day InvestorPlace
-
-### 33. Nasdaq-100 Tumbles Into Its Third Correction This Year as AI Worries Mount - 富途牛牛
-
-- Source: 富途牛牛
-- Published: 2026-11-03T06:49:40+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxNelNJMkRrNnN6S1pVQzdFRS1VMUVuTzd6QVJ4ZzJuOGRqWkF5dDVkTHRHRjFDVFhrWWx4SDNweUp5S2lDTVd3bjljei1aNlYxTFpHTFRoNXpSSktoQjRST2pWVjhycnhNVUozTmZjS00wbEU3VTV5b2l0UXk1TzMzM0hENjdVRi1nTU1IMVcwVzhxTG5sWFptaWlOUHJPY25XeGc?oc=5
-
-Nasdaq-100 Tumbles Into Its Third Correction This Year as AI Worries Mount 富途牛牛
-
-### 34. "Samsung Electronics at 190,000 Won, SK hynix at 900,000 Won"... Expert Outlines Downside Scenario Amid Semiconductor Correction - The Asia Business Daily - 아시아경제
+### 41. "Samsung Electronics at 190,000 Won, SK hynix at 900,000 Won"... Expert Outlines Downside Scenario Amid Semiconductor Correction - The Asia Business Daily - 아시아경제
 
 - Source: 아시아경제
 - Published: 2026-11-03T06:47:44+00:00
@@ -346,357 +416,7 @@ Nasdaq-100 Tumbles Into Its Third Correction This Year as AI Worries Mount 富�
 
 "Samsung Electronics at 190,000 Won, SK hynix at 900,000 Won"... Expert Outlines Downside Scenario Amid Semiconductor Correction - The Asia Business Daily 아시아경제
 
-### 35. Stock Markets Rally: Sensex Jumps 615 Pts Amid Crude Fall, FIIs - Rediff MoneyWiz
-
-- Source: Rediff MoneyWiz
-- Published: 2026-11-03T05:05:13+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd2RSZXM5bU5IWm92S0RYdElOV3JvUWZlTzNtUDhBYlRTM1JlRFBhNUNiTW5FN1lLeFZIcFQ4bjczWUxtWGdVSUw1emszMWhjVmIwUV9objR4ZXc1c2hrbTlQbkRZNVhtc2J3d2ttR3RDTGg0RERpYnR5dWRKVk5UNzV2M1h3X2ZBU0dzVFZlSkRWQWpNZHhRbEVuQ2hKV2IwVG1Xd2ZlbnlIZ1R2ME5jMW9TcFQ3ZF810gG4AUFVX3lxTE53ZFJlczltTkhab3ZLRFh0SU5Xcm9RZmVPM21QOEFiVFMzUmVEUGE1Q2JNbkU3WUt4VkhwVDhuNzNZTG1YZ1VJTDV6azMxaGNWYjBRX2huNHhldzVzaGttOVBuRFk1WG1zYnd3a21HdENMaDRERGlidHl1ZEpWTlQ3NXYzWHdfZkFTR3NUVmVKRFZBak1keFFsRW5DaEpXYjBUbVd3ZmVueUhnVHYwTmMxb1NwVDdkXzU?oc=5
-
-Stock Markets Rally: Sensex Jumps 615 Pts Amid Crude Fall, FIIs Rediff MoneyWiz
-
-### 36. South Korean shares slide nearly 3% as tech selloff deepens; won strengthens - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-03T04:30:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMizwJBVV95cUxOdjhKaHRfbVZvNGYwY1puUmdXUHBYNm5rMWFDbEpXdjBxMEFwcVNPNzF5Um82MXZSZlgtMUxPY3YySHhPMVBJSm5DS3UtQTljeXNJMlViRE0tTFNyZ1hvaFRDR0pmWEZkLTNyUHp2OUpVd0VsaEphTlZVbGlLRS1EUkowVEJVX1V2UTlRMURyek9BRzQ1THA4MkdneEVUR1YwdUlFYmc4RHhIbHB4YUFLaGxJdlFqd2VSbEZFWE9UV1RJTnFBMGJsV3dacW92ek9KQkxRSEpZYUxsNXRqbVhyUTk1aTJDclV5UlJiT242cFpZcGZkMFNvSjRXWWFmNmtSa3RXNDNOUF9TUkhhRlFSaWRMNW02MDNlc0tIV2VzV05LVEo0NlF6RTVMR0YtX1ZobU80MUtHOEI2alBnSzZhTFF3SnJWM21DeENaVkhyONIB6wFBVV95cUxOWWNhcEtNdWZqZklOV1p0NG1HMTZ5OXNWa3RJS0U3a0Q1RTdBbnNyakpKZmVfQ0FiQmJ6X3VtUTU3dk95TEFXNlFqZERUelNobzcwaEROWlhzMi1xd2hlWEdMSXN5V0ZpcmFqWVV1aVBvc0dXNkJ4WHVKaDN3SXZVbEtYMTVaSjQyM2dUeG0tQnpJd2g5bzEzWTE0Q0ZRM2VUN2M4VV9Yb00ybUpWYlZNcU9sVm9ORXlTMjJxaXJMQlhlTjFndUp4SV9nOHJwNV9Gc045NkQ4Z3ZGZWVOU2t5dlRkemdqV0RpdTMw?oc=5
-
-South Korean shares slide nearly 3% as tech selloff deepens; won strengthens The Economic Times
-
-### 37. Deutsche Bank Reverses Stance, Backs Tech Stocks, Sees AI Selloff as Overdone and "Sweet Spot" Prices Emerging - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-03T03:01:25+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFBxOVp5ZXh1Zk1ZNXNNSW1GMTUzcHRyZW15Tlo0bW9saDUydGd0TEFmMER3LVE5eDF4bHZkR3o1V1FlREI0TjgyR01jdW5ySV9PZTZaYTVnVDZkdUgxeVZyOVRKVWRwbDF6U0dxbnp1bkctdWZsZ0E?oc=5
-
-Deutsche Bank Reverses Stance, Backs Tech Stocks, Sees AI Selloff as Overdone and "Sweet Spot" Prices Emerging BigGo Finance
-
-### 38. Wall Street Worries About AI Investment Returns as Nasdaq 100 Enters Technical Correction Again - NAI500
-
-- Source: NAI500
-- Published: 2026-11-03T02:57:26+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOTU52SDBXUWpJeGNRamlFWGIwYldmaGVzdHduNGw0X3g5cWZrX0lxYnd5eE1VeTljUktFaEc1OGF0OTRhXzVRTVpDUVR1SWlyM0xjdFBZSklsbW90QWI3d2tLalZBQVBGTzVVZzYzcnVZU1AwektjTHhjMzFmZF9fMHB4X2E5LS11WklvcGFTSU10REowTUxzeExQU3BoUTNmTW1UN2JFYUZUblRVTUdEUkJSTV8xdjZpRENVVXZwWkhYVkhuM2NB?oc=5
-
-Wall Street Worries About AI Investment Returns as Nasdaq 100 Enters Technical Correction Again NAI500
-
-### 39. Nasdaq-100 tumbles into its third correction this year as AI worries mount - Longbridge
-
-- Source: Longbridge
-- Published: 2026-11-03T02:03:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiUkFVX3lxTFBucHBHVDIxOUFDYU9URUdUZjNMU0ljZXAtVjNqd0NRMFpHUW1tQmFCZDdyR09UNE1BSnBNSHdRQUh4RU9FRjJKbkF4NDVCN09uVHc?oc=5
-
-Nasdaq-100 tumbles into its third correction this year as AI worries mount Longbridge
-
-### 40. South Korean Stocks Fall on AI Spending Concerns - TradingView
-
-- Source: TradingView
-- Published: 2026-11-03T01:18:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxNUUxkeGFacmZWbHRMYm92ZkFkbUQ4VEphS1JKRVdwSnl0ZVpicWNyUk9yd1hzcURQbk5ETm0wSy1mUGYxOUdBblpqQ1J3bXlRcVNKaUZfWHg5QjhTUW5ralc5WDlCdUFkSUV1NFdvamVWWUpXMmdmdlhvQjFUVXg1cGlBS1pkMjV4YmEtemFZMVQwRWxOVzZReF82eXZsT1Zr?oc=5
-
-South Korean Stocks Fall on AI Spending Concerns TradingView
-
-### 41. Samsung, SK hynix Slide on U.S. AI Selloff; KOSPI Tests 5,700 - Seoul Economic Daily
-
-- Source: Seoul Economic Daily
-- Published: 2026-11-03T00:47:15+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQd1pJcHJRRmQxOUhIRkNaQmdZMUZLNTlmSEhfMGxLUGxvMkhoYkpOX2t2RWlnc2tIRlFfYzNsY0c4TnI3bHQwdmxLU0dYVWEwNERvanliVlVqY2FEaktZRmtMV0wzZXVwbUVWRzNQZzZDU1p1d01mbHNUVXd3ZXNsckFkOXhIUGVFbVcxN0k4d1JnaEptU0FxbkZXUGg3cHM?oc=5
-
-Samsung, SK hynix Slide on U.S. AI Selloff; KOSPI Tests 5,700 Seoul Economic Daily
-
-### 42. ROI-Brutal AI selloff stirs recession fears: McGeever - Devdiscourse
-
-- Source: Devdiscourse
-- Published: 2026-11-02T23:30:30+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxPTk1YTHdhODRHaHFEQzYxcG44b2daSFNjU0pQU0NtMEczZm9aY3BaUXAyOU9WQnVWRGRMQWo0d2FxeUgxSTlUanNWRE8zSXk2X2FoU3hEVmx2THA3dC00MzZVMTVrMnduTERNTVNXOUtHc1gxSnl3dDFFdG9FaHQyTm5KemxPTHhDdlRTdnVOSzJYQmdjQldublVaS0l1T0x0QjVKbVJVYlh5bDFjQnRidGdHWlXSAbQBQVVfeXFMT05NWEx3YTg0R2hxREM2MXBuOG9nWkhTY1NKUFNDbTBHM2ZvWmNwWlFwMjlPVkJ1VkRkTEFqNHdhcXlIMUk5VGpzVkRPM0l5Nl9haFN4RFZsdkxwN3QtNDM2VTE1azJ3bkxETU1TVzlLR3NYMUp5d3QxRXRvRWh0Mk5uSnpsT0x4Q3ZUU3Z1TksyWEJnY0JXbm5VWktJdU9MdEI1Sm1SVWJYeWwxY0J0YnRnR1pV?oc=5
-
-ROI-Brutal AI selloff stirs recession fears: McGeever Devdiscourse
-
-### 43. Doubts Over AI Investment Returns Spread, Nasdaq 100 Enters Third Correction of the Year - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-02T23:05:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9DY09WRmFWeHdtRmUwNXdoY0t1bGhtOFlpVXRZMkZwWHRkRkFNcVdkSmdTbkxSdnEtMkJ3N2RUN1h1RWNxbktIc2I5blNuU2d6aW9wTDVBLTBVWm5RMzNlcUJ1YXhKVEs5cUk1V2FocTg3Ty1nSUE?oc=5
-
-Doubts Over AI Investment Returns Spread, Nasdaq 100 Enters Third Correction of the Year BigGo Finance
-
-### 44. White House: AI Funding Ample, No Wholesale Selloff - Briefs Finance
-
-- Source: Briefs Finance
-- Published: 2026-11-02T22:37:54+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMikAFBVV95cUxPbFMwOUEzcExTZWpNdkMxVWRNdklxY3cydnBfNklDc3RDekNRTm9abXJiSE4tYWxJYVJSMkdJQVY5SEljOUI1VVdfNFBTR2QxdE5XOTYtYjM0N2pXVlMxWnhwZkVBRUZGelFSSzdTRU9EZFY3TXJBTXVqdHVjN0szbGxtOU9fS1Bnem5TcGlrVzU?oc=5
-
-White House: AI Funding Ample, No Wholesale Selloff Briefs Finance
-
-### 45. Stocks kick off November lower as AI sell-off hits Tech - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-02T21:30:23+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOM1NpR0JtbTNJSklPdW9ZYXV3QXFkSk1wN182ZGpZTE1mRElSOW03cF83RTRPa1NZcjV5cWotZ0Vnc2R6VlQ2SWE5dENFbml0bnlIcFZaUFNZOHROaGNsMmpXZjhBVjRnMktGRFZzdmZsa3BvLVFyY29Hck5kemgtNzYyVUtldUwwbGxjVVlnUDFyU3p6YzVpY2RmOFJFemhab2VpZg?oc=5
-
-Stocks kick off November lower as AI sell-off hits Tech Yahoo Finance
-
-### 46. US Tech Stocks Enter Correction on AI and Midterm Election Risks - Bloomberg
-
-- Source: Bloomberg
-- Published: 2026-11-02T21:15:33+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0c0ajcwSC1TMmdqcklFOVR5M1lxNzFzRHZ0MTBILTlITXBKYXpFbTBaN2dFdnVNbmR4U2Jsa2kyYngzVnp5Tkd3OG9mNmpXd0EwY0ttem9zeGhGRmg3S0ZFNnIyNXNHdE1DSGJNU3E1UkNoR0N1bDFNbjIyUDcyaHJKaDhEQVUtbjlrWXBRZi1WS3IxVnhnMVN2S1NacTczejdUaWVjM1o3Y1A5bnQ5QXdlNA?oc=5
-
-US Tech Stocks Enter Correction on AI and Midterm Election Risks Bloomberg
-
-### 47. The Semiconductor Selloff Was A Gift Heading Into 2027 (NASDAQ:SMH) - Seeking Alpha
-
-- Source: Seeking Alpha
-- Published: 2026-11-02T21:03:45+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxOY2E4YlE4RXJXbEdud2E0cUZwYmVMY2VyTEU3aExzSUdwU3o0SjFqVW9wQkZBVkF5b3hwNHRMMDlKOXRzSVJHeFhkWDRKNVVaMXp5VkItWEY5Y3l6VU5Va3VMVW1NTlJ3SlNieTBQdy0yZll6T3E3UFZuSkM1aEVLRkVpejdZSGdHYzllUnQ2M0VqRUk?oc=5
-
-The Semiconductor Selloff Was A Gift Heading Into 2027 (NASDAQ:SMH) Seeking Alpha
-
-### 48. Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears - Bloomberg
-
-- Source: Bloomberg
-- Published: 2026-11-02T21:03:02+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNSGJTUDVwRnhqVmZaRHNFX1l5MUtGYnhoLWVVMXBkODNXTmdzR3FycktGYkdJUVBtbXc4ejZmTlBLVUdxZXZ6UXJ1WENNWE1SS2thM1lweUtvdGdNX3RHa0x6Y0FCOFJmNTAtWGRLZEZhRGdEM1VOdWJ0T2FiUDhJR29aNW14Y0NPbkVUemxfODZkS3FJLXMtQk9VQjJsTng4NVpCekI4UEJqVEp2bkNSX1czUVBIQQ?oc=5
-
-Nasdaq 100 Enters Correction as Megacap Results Amplify AI Fears Bloomberg
-
-### 49. GLOBAL MARKETS-US tech selloff drags global stocks back into the red - Devdiscourse
-
-- Source: Devdiscourse
-- Published: 2026-11-02T20:22:53+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQQnRQRkFSb1BJczBzSFoxUHdVcHVFMURHc1BZWnZHamw2M1l3Ykhjdm1MQTJpWm0zUEdVOFNkWnV3elVJVXFGckhEa05YVnhNRkQ5Zm5YeFlQQmJXUUVmb2RxVnFnZXNNUi1ZWllYWlU4T1hNRTZmU2pDaFh6OG85U0hyWkYwTWFaNkptOTJDaUtERVBoRGtDUUwtdDVoSC1OZWplelhVYUJHSkIzWFVLWWFmNl9pckd3bjl3TExPczA0cnpCUXVWLThhRdIBywFBVV95cUxQQnRQRkFSb1BJczBzSFoxUHdVcHVFMURHc1BZWnZHamw2M1l3Ykhjdm1MQTJpWm0zUEdVOFNkWnV3elVJVXFGckhEa05YVnhNRkQ5Zm5YeFlQQmJXUUVmb2RxVnFnZXNNUi1ZWllYWlU4T1hNRTZmU2pDaFh6OG85U0hyWkYwTWFaNkptOTJDaUtERVBoRGtDUUwtdDVoSC1OZWplelhVYUJHSkIzWFVLWWFmNl9pckd3bjl3TExPczA0cnpCUXVWLThhRQ?oc=5
-
-GLOBAL MARKETS-US tech selloff drags global stocks back into the red Devdiscourse
-
-### 50. US tech selloff drags global stocks back into the red - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-02T20:22:29+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxON2lCUmNHMEFyNjNyRXFBa09oMXZDZGdJX3dldjI2X2pqc2dvYmFRb19rVzRFcmc2V0JGTDYxOW9sM25sN1poaV9IaEVZdVBHeXJiWGVFTE5zdXc5VzUwZXR3aXlvTUc4ek5NTElWdy0zbkJOODhPZG9KWk9FMHdLSEs1TFVfNGwtN1ZDOEc0ajlBYi1O?oc=5
-
-US tech selloff drags global stocks back into the red Yahoo Finance
-
-### 51. Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-02T19:46:02+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNRWJ0cjNKMlVNOTdLZ1BudXNKT3dyT3FyNnNPcjg1UzVuVFBNdUk5ME8zR0F2UlhyQk0xdUpDTTdTOHlhdHFmTWc4OGhGS0tNVDR4eU5yMm43dWdxRldyZG9VRGJaNUlYU0VoQkdSdkpaTDhLNHBBbzhSYWFhdFpfZFlyUldoc3NDTmxjZ3hBMjBKZw?oc=5
-
-Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience Yahoo Finance
-
-### 52. Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience - Decrypt
-
-- Source: Decrypt
-- Published: 2026-11-02T19:46:02+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE1uNnNIajlheXF3TGdrRFN2NlBHbXkxaklIZDRwX0dWdmFFc1ZDRWIzelF0TUljUjFHNXRCNURNQjJWZTVTbGd1aDJCdkxfcVgwY2NnaE1sSGcwZE12WEROOURIai1nNkdMX25mbjJQdXluTnFDNUh6Q1dn?oc=5
-
-Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience Decrypt
-
-### 53. Tech Correction Deepens: Big Tech AI Spending and Rising Capital Costs Shake Stock Market - Barron's
-
-- Source: Barron's
-- Published: 2026-11-02T19:32:35+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMijAFBVV95cUxNR0dJNmFMYmh0T2NRRnFUN3FlLVl4MVpLZVVFTDVZNlBGSWRlamJINm9Vb2otdDJtUkhfaExtUXF3c0JoYXpTc2lITjYzXzZLQ3Vnb3dmSnFVRUpOVElPR2cycFVSN2RqZkI2eGpyOXlUczFucVAzUkFTd3NhS3N1Q085TnRCSDJWU0NnSw?oc=5
-
-Tech Correction Deepens: Big Tech AI Spending and Rising Capital Costs Shake Stock Market Barron's
-
-### 54. Tech Correction Deepens: Big Tech AI Spending and Rising Capital Costs Shake Stock Market - Barron's
-
-- Source: Barron's
-- Published: 2026-11-02T19:30:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOazNaeDlHbkdMRWp6R01Hd1BPX0U5NUZETzVpZXVYa1lVbVBrLVhEeHdhdEhzU19TM2s0OVE4RWFxRl9iRzhsVVRYUWxVb0xhY3BWV3p1eUFDMEtpUWNiamdNOEVYSFhFR2lBZm5FTF83cGswQm1seS0yZHpPWnQyQWNKRC0xZ2xyLURGXzRMWEp1dHRVMmRCZ0ZxOUtQN0Jmb2Zmc0VQcUZ4dw?oc=5
-
-Tech Correction Deepens: Big Tech AI Spending and Rising Capital Costs Shake Stock Market Barron's
-
-### 55. S&P 500 slips 4% from its peak as AI selloff stirs recession fears - Crypto Briefing
-
-- Source: Crypto Briefing
-- Published: 2026-11-02T17:14:43+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMibkFVX3lxTE8wY0doTTJRbTl0N2xyRGl6cF9jVWVkcDBOalV4eU9WVzFxWU5NZmVob3FjNTl2dUgwMi04RzJuRmM5cGRVNVZ0R3I4dnBzejZUeGlxVzN2TDBhcVNaOU9aTXlYQ3Roak1teGhuelh3?oc=5
-
-S&P 500 slips 4% from its peak as AI selloff stirs recession fears Crypto Briefing
-
-### 56. AI sell-off: strong demand vs. funding needs - Barclays Private Bank
-
-- Source: Barclays Private Bank
-- Published: 2026-11-02T17:06:31+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMib0FVX3lxTE5LU2stRzFzRW1pcnJvSFdwX1k5TWJRdV9WMklOQjBNTE5uQzB0U3JJUHgyUEtFZXFPOHAzRWlxckZlVHk2Z3RGc2JmTlA1TklsZ085bW5NNC03R3duejhUS242bTNDNEN4cmFYalpabw?oc=5
-
-AI sell-off: strong demand vs. funding needs Barclays Private Bank
-
-### 57. A lasting AI sell-off is one of the biggest risks to the economy, BofA warns - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-02T16:15:46+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxONzFqNmIybWdUa2M0bF9hbHgtX2Q1cjhrckVOU2ZmVzF6RnJReERCUEtFV0xFUW1JV3BJQ1BNUFdSR1UzNDJLRVk4c2xtaVg1bGhxZUEtc2liYzZ1akxzWnVqV2ZlUUpNa1FtSUR1RUVYUU5aT05Zcm5xbVVFQlY4ZDRYcXBsMWo1eFR4V0I4NjI0MlVLdW5SMUlobklOYVhZWEZKYkxCQ3M3TEhvVTJCYjZHblFoVTh6aEJETkpqM0pHVUNhR0RXOHNCQ2E?oc=5
-
-A lasting AI sell-off is one of the biggest risks to the economy, BofA warns Yahoo Finance
-
-### 58. A lasting AI sell-off is one of the biggest risks to the economy, BofA warns - AOL.co.uk
-
-- Source: AOL.co.uk
-- Published: 2026-11-02T16:15:46+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE1yZkdDUUpZQjNoTFZoTU9mdDltbWpqSkNIMWE3czRjZXBnWHZqS0ZUMExqX3pJdVgzNU1wSkF1Rm9GeHZOYjdTczRMWTRhYU5qNzRIbURpRTlFY2E1aGFaR3BsTXgzOV81UmtWdTdjSW02OV9NRXFWLQ?oc=5
-
-A lasting AI sell-off is one of the biggest risks to the economy, BofA warns AOL.co.uk
-
-### 59. BofA warns of risks of a prolonged AI correction for the global economy — Fortune - UA.NEWS
-
-- Source: UA.NEWS
-- Published: 2026-11-02T16:14:02+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOREV6RmZnUFlSbE5qVzBiSTBwNkVBdmpYb1VaVHJEaEg2akpOenpHTXlPdmRkVU95RTZfUFRKeTBodThBd0dKbWFKbEd2cVpRUThicFJyaFlib08tV2dTVjZwQzYyQXRZb1ZUemdnbkg3ZkJ0Y1ZxVGdGX2F2dWQtZWpXQXBkNEZfeW9uMVVhMjZFSkZPTUlPajI5Z2NJcUdTZDM4SlJHM2VraHo4?oc=5
-
-BofA warns of risks of a prolonged AI correction for the global economy — Fortune UA.NEWS
-
-### 60. Live Take | Marvell's $115B AI Bet: Why Does the Selloff Continue? - Moomoo
-
-- Source: Moomoo
-- Published: 2026-11-02T16:09:55+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPRnl6aDdSVEZaNFhLeC1faWIwNTNpY0gyUnNQU25halV4Z3ExT2h2T1U1WXJJYjc0T3E4VWNCLUhieHlEYVRPc3Y2cnNhVzVrT2o3Y0Y4MnAxYkhnREVvQnJrSjh1bGc0WEZrOGZucnI0dkwzTVNmcEtJVWFVRGJIMzdhODBkTGhzNVZ5VFNkaE1tdEZ2UXJyZjBpQUgtajA?oc=5
-
-Live Take | Marvell's $115B AI Bet: Why Does the Selloff Continue? Moomoo
-
-### 61. Global AI sell-off eases after bruising end of month performance - City AM
-
-- Source: City AM
-- Published: 2026-11-02T15:53:13+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxPdzI0ZTlJTFc5M1NWSENlcU96X3FlOHA3aHBCXzhsZVF4WFRRa3JOM1cyVXo2cHJ3dGM4MUpsQ1BJMldsbTRUUUpNODRzMldrdkxRbms2UVZhclVkZ1g0ZXNiWGEzSnJXbE8wZllsOUlQT1hmUDRXZGpabUc0dE5wTXRiS3U3OWFaZmU5a0VEQVNoQQ?oc=5
-
-Global AI sell-off eases after bruising end of month performance City AM
-
-### 62. MARKETS LIVE: Capital spend and cash burn trigger severe Big Tech selloff - Proactive financial news
-
-- Source: Proactive financial news
-- Published: 2026-11-02T15:47:09+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVFd4SzBSSjlMZU1XYndtNGhDLWZoNlBqaTNRSXcyd3lTOWlUNkc1TFpvOHROaTl6YWVRZWV6VmtDRXE3TmEzN2xBcld0OWdVaU9XRWF3SzFKcXRGTDdRNFA4V1d5UnAxczR0WU1IM2ZuNDZxbkJ3Sl9ZLVkxX1QzQm9Ddmg0d3hJNmp2SmpWTmRfQmxPamZOT1NJQVdOVEdVRW5Tb2VpWDR0eGI3SUF3OERmeG5WLWFtYkFfeDViN3ZGY1dLWFBRNENqSXJTUGRKWUF6R195U0xnSUk?oc=5
-
-MARKETS LIVE: Capital spend and cash burn trigger severe Big Tech selloff Proactive financial news
-
-### 63. Makhlouf: Domestic financial system 'not that exposed' to AI valuation correction - Irish Examiner
-
-- Source: Irish Examiner
-- Published: 2026-11-02T14:47:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMic0FVX3lxTFBYY1lPZlJjd0hXNWdsX3U2alE3N3dGY2tpVEZEcG9nTktaYkVyck9lQWdQWk9tX1BkOVhvb0VlbFZBelBpMU1QeU1saW9WczBQMUFxOUVUSkwxczJkRXJjZHRaZkg2TVUtWGJHYnM4X3lOM00?oc=5
-
-Makhlouf: Domestic financial system 'not that exposed' to AI valuation correction Irish Examiner
-
-### 64. ROI-Brutal AI selloff stirs recession fears: McGeever - marketscreener.com
-
-- Source: marketscreener.com
-- Published: 2026-11-02T14:13:32+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxObzVNQWxqQXplY3pUck00NlppNC1mRVRzeXM4QThXNjdwV0kyRzJNWGs5Q1FmQ2s1aXZXUDdPeVZqN09lVm53M1FNUTc1bUozMHhoVUdYMVNZRWxXVlN6LXAzenVaeVYyTUpjRGRyeGtEYTFJdjNsZEpVSEN2S1ZHOHdiQ1VZOWZ1VHA0TFNjOFl1Qlhyc1h2UHJMSTZ6dzVPYlBDcUJOaTY?oc=5
-
-ROI-Brutal AI selloff stirs recession fears: McGeever marketscreener.com
-
-### 65. Eisman Warns AI Price Cuts and Fading Token Demand Could Spark a 'Massive Correction' - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-02T14:05:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5QOVRzaVVKRDhjZ3pzNXZKX0ZjcFhJYjY2dkdidGxYdU1mQnEtZHVibkhjWFhOMHNnenRLdldWN0NTaFhlNGdyWFZsemg3OXIyUlRRRzNOS25wRENXWlk4U1dNTHlrOG5zMERva1hiOHV4XzU4a0E?oc=5
-
-Eisman Warns AI Price Cuts and Fading Token Demand Could Spark a 'Massive Correction' BigGo Finance
-
-### 66. COMMENTARY: Brutal AI selloff stirs recession fears - Reuters
-
-- Source: Reuters
-- Published: 2026-11-02T14:01:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWE8zaUFuYVVHZHM4aDVEdEN1TzVfbjVQa0xXWG1UNXpHcTlja19HTUtZbDUyTno2bXVwWDBvUm43eUVNbmZVblhrX1dTS2FGSTNLaU1zcDhSWWczS2dGUks5NFFYYTljcW43REtWYWZSRnBzV2ZFeTFNdmlzMno2WXFiTWY0RDBwTmtBdFRZWWMta1NUSktYdnVfTUF1c2NqTkhfaUJfNTVwaXI1QUhPV01SZnZxbzZW?oc=5
-
-COMMENTARY: Brutal AI selloff stirs recession fears Reuters
-
-### 67. ‘Big Short’ Investor Steve Eisman Warns AI Price Cuts and Slowing Usage Could Trigger a Massive Stock Market Correction — ‘...Could Go Into a Recession Immediately’ - TradingView
-
-- Source: TradingView
-- Published: 2026-11-02T13:41:34+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiugJBVV95cUxOUWh4ZnBFYmh0bC1zUmF5MDhKMlZpdTh5V0pjam10dGU5OFRHeTA3ajc0bFBsc3lVU3JpN2gzblZhb05JSWF4amV6LXJmYWpva25HbklBR1pOQjh3SnlIaVpncE5MeFoyU1dHQ29QWnUxTGh1MndfSmFodzRjZ1FQVDhEclBpZGVJMXdwbGlRSDV5dVVUU2xHV1hqYUNVbk51cV9BclRtRnM4dmIxN09DNUR2QkhuejM2UVJhNHpwNEVGLUpVTXBhTXJjc2VHOTFHNUJRNmFMN1o5dVZxekNpano3YVB6UmFJQlUwOHpicElpNGFVaUZ0Y2JQSVdVSmpmd3hGa19WRnQwbncyRnpqT0VIeHJ6Q1hta2Y4Y1dqeVVuQUNHbjlGYjFvY2FfRENZNHY0WHpWOElPZw?oc=5
-
-‘Big Short’ Investor Steve Eisman Warns AI Price Cuts and Slowing Usage Could Trigger a Massive Stock Market Correction — ‘...Could Go Into a Recession Immediately’ TradingView
-
-### 68. Asian FX slips ahead of inflation data, Korean stocks buck AI selloff - Malaya Business Insight
-
-- Source: Malaya Business Insight
-- Published: 2026-11-02T13:15:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxORnpOT1FzcjVaTnl6ejdyZ0RVRXBZS1J6ZmNKa1ZxMWN4VWQ0NHZLZDJpUFl5S3NzVFBrMHJWZEhDOEdaeWp2LXVPaFhtZmptNnZqNzdMXzMzQl9xZ0oyWk00Z04yakhOeVBBMVJJdDI4RkROcmlpZ3RxeXZlNEVMM2pFZDEwVWg2Z3g0M0tnUENMQi02Q1hZWERyVlhkSWF4QzdEQTJLdTdNLXc?oc=5
-
-Asian FX slips ahead of inflation data, Korean stocks buck AI selloff Malaya Business Insight
-
-### 69. Astera Labs Fell Harder Than the Market in the AI Selloff. Here’s What November 3 Must Show - TIKR.com
-
-- Source: TIKR.com
-- Published: 2026-11-02T13:07:30+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxONkk0Uk45NzRSRGlsSi1qT202TGlXUTdTQ015ams5T3N4MmtSbmpjbm5Ic0tGU05jNktrX1pYMkVUbXBHRTlzQ1FPbGtJQTA5UXN5Y3JSdGQ3Vi1DRVBWcTNwa2Zjell2SzNYQUxnT3ViMXdQTmJfU0t5TmthUEtmYnkxeFlUMkVGVnhZalJkYnZrU2Y2bnd2NFpfOGY5NE1nX3JSMlJWR1E1MGZSbl9qdk9FRF93U2s?oc=5
-
-Astera Labs Fell Harder Than the Market in the AI Selloff. Here’s What November 3 Must Show TIKR.com
-
-### 70. Live: Nifty above 23,700; Capital market stocks gain, SBI falls after Q2 | Closing Bell - Moneycontrol.com
+### 42. Live: Nifty above 23,700; Capital market stocks gain, SBI falls after Q2 | Closing Bell - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-03T09:32:20+00:00
@@ -706,7 +426,7 @@ Astera Labs Fell Harder Than the Market in the AI Selloff. Here’s What Novembe
 
 Live: Nifty above 23,700; Capital market stocks gain, SBI falls after Q2 | Closing Bell Moneycontrol.com
 
-### 71. Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big movers at open - CNBC TV18 - LinkedIn
+### 43. Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big movers at open - CNBC TV18 - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-11-03T06:56:45+00:00
@@ -716,7 +436,7 @@ Live: Nifty above 23,700; Capital market stocks gain, SBI falls after Q2 | Closi
 
 Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big movers at open - CNBC TV18 LinkedIn
 
-### 72. Sensex jumps over 600 points, Nifty gains as crude oil retreat and FII buying lift markets - Telegraph India
+### 44. Sensex jumps over 600 points, Nifty gains as crude oil retreat and FII buying lift markets - Telegraph India
 
 - Source: Telegraph India
 - Published: 2026-11-03T05:10:33+00:00
@@ -726,7 +446,7 @@ Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big mover
 
 Sensex jumps over 600 points, Nifty gains as crude oil retreat and FII buying lift markets Telegraph India
 
-### 73. Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big movers at open - CNBC TV18
+### 45. Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big movers at open - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-03T04:39:41+00:00
@@ -736,7 +456,17 @@ Sensex jumps over 600 points, Nifty gains as crude oil retreat and FII buying li
 
 Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big movers at open CNBC TV18
 
-### 74. Over 100 Million SIP Accounts Drive India Mutual Fund Participation - Asianet Newsable
+### 46. Tech Sell-Off Hits Wall Street; Nifty Extends Breakout Rally - HDFC Sky
+
+- Source: HDFC Sky
+- Published: 2026-11-03T03:40:28+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiaEFVX3lxTE44NEwxbHp4YU8zT1NtVVdFanFBNU0wTDVNdGNFdlhEVU9sTlF0bWV1UlFyMkJZZXR2T0RtQlk5TThGMS1ZUjlRYnRtS1hlTG40dXBWSElSWVVZeGxCV2lVaEtNM1YyUFZM?oc=5
+
+Tech Sell-Off Hits Wall Street; Nifty Extends Breakout Rally HDFC Sky
+
+### 47. Over 100 Million SIP Accounts Drive India Mutual Fund Participation - Asianet Newsable
 
 - Source: Asianet Newsable
 - Published: 2026-11-03T06:21:21+00:00
@@ -746,7 +476,77 @@ Nifty 500: Trident jumps 10%, KEC falls 6% on Q2 results; here are the big mover
 
 Over 100 Million SIP Accounts Drive India Mutual Fund Participation Asianet Newsable
 
-### 75. Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10% returns. Are you investe - The Economic Times
+### 48. Explained: Why Sebi is making direct mutual fund plans default option starting November 1? - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-04T00:23:51+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdE0wMVZMQldzOTVOSGJXODlQQmZiRTF2dGZ5MFdNQWN4QXBzWnNpakdFbXFmSEY4UFAydW9odTdlVUNqSnhzSFp2WkZFWE5WWnlpbmF0ZWpnbTdCcktnbkI2eUtBLTE1NFBkTy1PZ3pLeTczUFRycDRkSkNYUU5YTU9JSUFzb09fdnRrd1h1a2ZxNUZ4cXo3YjdiU0daN0tmb1RGR2trTlBMQUZUTnpTcE5KY1JZY2diV0FjMjdaUXlJMFcteFk3a0R5TVozN1RjVXVNREY0ancxNzh4bk9CVDdGNVVsR1Q1SWVRdTZR0gHuAUFVX3lxTE90TTAxVkxCV3M5NU5IYlc4OVBCZmJFMXZ0ZnkwV01BY3hBcHNac2lqR0VtcWZIRjhQUDJ1b2h1N2VVQ2pKeHNIWnZaRkVYTlZaeWluYXRlamdtN0JyS2duQjZ5S0EtMTU0UGRPLU9nekt5NzNQVHJwNGRKQ1hRTlhNT0lJQXNvT192dGt3WHVrZnE1RnhxejdiN2JTR1o3S2ZvVEZHa2tOUExBRlROelNwTkpjUlljZ2JXQWMyN1pReUkwVy14WTdrRHlNWjM3VGNVdU1ERjRqdzE3OHhuT0JUN0Y1VWxHVDVJZVF1NlE?oc=5
+
+Explained: Why Sebi is making direct mutual fund plans default option starting November 1? The Economic Times
+
+### 49. Smallcap funds attract Rs. 9,039 crore in September; SIP inflows hit record high - Cafemutual
+
+- Source: Cafemutual
+- Published: 2026-11-03T19:24:19+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOWXBjWFA1S1c0MGpBaEZhRmZwUE9RRlg2M0NudnNpbXI0V3Y2bFNEZXZFdUp2UFZWSTRFZFd1UzE3Ni1nMEh1NHNEckQ1WWtGcXVtdExXbUJtWXFhMkowZ0VxTXdNVFZRRkF2Wm1uRlI0UlZwOEU2TTItNDFDTDNMMTFIZXlRN2VCejlDbUlOUmtWdkxiX3psNV9DYnIwdUtYNzRmc25DQXM1M3h3a01XT2ppb1JCeFp4MzR3NA?oc=5
+
+Smallcap funds attract Rs. 9,039 crore in September; SIP inflows hit record high Cafemutual
+
+### 50. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+
+- Source: Myinvestmentideas
+- Published: 2026-11-03T19:12:46+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RnRaTlJBSWxFVDdNZXJPcVB1VGF4M0h3ajhDYWZlZjFncWdMazFVX2hLRUp4amtsWThkSHdNVXpQYUp2NXZHU2JDU0szQTBlY2gtVTFyQ1dJS3h1MkpxcW5DcVY?oc=5
+
+Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
+
+### 51. Equity mutual fund inflows rise 19 pc to Rs 29,328 crore in August: AMFI data - DD News
+
+- Source: DD News
+- Published: 2026-11-03T15:57:54+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOUGNucGZfeVVNOEstRjVjSmhsTzdBUEVzQ1h5WDhETW42SEZnOXVkQjlCNlk1OEM1cURYWkZmNVQ5c3hyeW00UTVPQWR5TE93SEkxcWhOQUV3QW1WTC1zdERVaUM5Q0tjTkRYUzBXVFpoQ243a0dscUtiUWxXZ0ZvVUJVQnRYMkxzZnJKcTVtWnVYQkNhZmtpSVJ2cHVja3p6d0Nn?oc=5
+
+Equity mutual fund inflows rise 19 pc to Rs 29,328 crore in August: AMFI data DD News
+
+### 52. Best Mutual Funds in India: Top Funds by Category - Moneyexcel
+
+- Source: Moneyexcel
+- Published: 2026-11-03T15:31:18+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiW0FVX3lxTFBpaXFkOHdOVjBmNjFOOTh6VFAzRlVycUJlZHVTRldzelFTUDlZWjliTk5haGQzc2dpX3lUUTRxTmJDWUYyVDZLRUswMjRXc0VLQi1GbDFnX3o3OGs?oc=5
+
+Best Mutual Funds in India: Top Funds by Category Moneyexcel
+
+### 53. Affle 3i (NSE:AFFLE) Analyst Meet with Six Mutual Funds - Kalkine India
+
+- Source: Kalkine India
+- Published: 2026-11-03T12:06:00+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSENPMlVuZWFRMVNHcnlzX1J1aUJuWEt4QXBsb3RNT1c4OVg2SXdTaDRmcTYxSEZaS1E5cXNhemxkdEpZeTZJZXlPazRuYXRLN1FBVEQ4M09YTXl4ODg5YWl4amM3bDFPTVVUcEp0SnRCZE9mZWpVdm5fdmFsQ1N0d0NSUy1rWnBfTHJWV0NZMUh0QlItS3pCcERGSHNSQlZORVNRdTNPa2tnWFBoclVNdE9vMEdFdUZXQ0hiVU1wTEo?oc=5
+
+Affle 3i (NSE:AFFLE) Analyst Meet with Six Mutual Funds Kalkine India
+
+### 54. Quant Mutual Fund reduces exposure to frontline IT stocks as part of profit-booking exercise - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-03T10:28:57+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxPUGtrb2NfN210OVM1RGdJTDZiSVBhVTVPdVBWZDJsSjh1OXg4b2w2cFZxSFBQUUtpZTZXd0MzQno5MnBiblNqZWFFSnQxYUhTOGlDTUpFU05ORW5oQ1daak1JVHV1VGU0el9RbkhuTDFQbThORFIxcHZ1b3lzZWEzZXIxX05fLWMtLWlJelB6MWZhVzhOZHFiQ01ndlJqT0RFZ0pyZWRTNWllSjFfdmxJb2ZKWEIzWDRCZ0VON012WEZoc0NHWmw3UWJ6aXB4ZWI4RjYxaG5lbEVLYXYyU2NMNUtRRi1Ib2M1QnhPUzMtdFkwRVXSAfMBQVVfeXFMT1Bra29jXzdtdDlTNURnSUw2YklQYVU1T3VQVmQybEo4dTl4OG9sNnBWcUhQUFFLaWU2V3dDM0J6OTJwYm5TamVhRUp0MWFIUzhpQ01KRVNOTkVuaENXWmpNSVR1dVRlNHpfUW5IbkwxUG04TkRSMXB2dW95c2VhM2VyMV9OXy1jLS1pSXpQejFmYVc4TmRxYkNNZ3ZSak9ERWdKcmVkUzVpZUoxX3ZsSW9mSlhCM1g0QmdFTjdNdlhGaHNDR1psN1FiemlweGViOEY2MWhuZWxFS2F2MlNjTDVLUUYtSG9jNUJ4T1MzLXRZMEVV?oc=5
+
+Quant Mutual Fund reduces exposure to frontline IT stocks as part of profit-booking exercise The Economic Times
+
+### 55. Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10% returns. Are you investe - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-03T10:00:26+00:00
@@ -756,7 +556,7 @@ Over 100 Million SIP Accounts Drive India Mutual Fund Participation Asianet News
 
 Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10% returns. Are you investe The Economic Times
 
-### 76. Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10% returns. Are you investe - The Economic Times
+### 56. Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10% returns. Are you investe - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-03T10:00:25+00:00
@@ -766,7 +566,17 @@ Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10
 
 Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10% returns. Are you investe The Economic Times
 
-### 77. Rupee gains 12 paise against dollar, supported by FII inflows - The Times of India
+### 57. Life Cycle Funds explained: How SEBI’s new target-date mutual funds work in India - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-03T05:33:14+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxNUkpCWVJ5NTcxcUJwd25pTHBmekl6WjRQXzN6dGFSN2tIaW5XTEpYOWFfcmtfTU91MTBPN1VfOWJIbVlaNjYwMDJ2RHFfYTNfYVZQb0EyRFpmbjdzSjNLN2RhR211TnBLX0s2a1dpMTZCelptWUFGUXB4cm1YNGo0bDJ2Yk9sNVdpQ1dGV1lydTA0SURQQjhmZzg4VnVjdm1EeV9LcFZ1d240dEFLUWsyWjZsUkxNMU5Nam9aWXdDdkxyRlUzSlZkeHN4dXlQN2hLQVc1d1NDR0VSaHB4OEZCS281eElfQjljMkJ5Z1VCWUMyanIxTU1ZVm9vaUoyVHlPTEtaZ3NZZTZwV2EtQUNIeTRDWTBPUWszUlJXRw?oc=5
+
+Life Cycle Funds explained: How SEBI’s new target-date mutual funds work in India The Economic Times
+
+### 58. Rupee gains 12 paise against dollar, supported by FII inflows - The Times of India
 
 - Source: The Times of India
 - Published: 2026-11-03T05:32:00+00:00
@@ -776,7 +586,7 @@ Nifty down 8% since last Diwali, but these 8 equity mutual funds deliver over 10
 
 Rupee gains 12 paise against dollar, supported by FII inflows The Times of India
 
-### 78. Stock Markets Today: Sensex, Nifty extend rally on falling crude prices and FII inflows - Rediff
+### 59. Stock Markets Today: Sensex, Nifty extend rally on falling crude prices and FII inflows - Rediff
 
 - Source: Rediff
 - Published: 2026-11-03T05:05:58+00:00
@@ -786,22 +596,212 @@ Rupee gains 12 paise against dollar, supported by FII inflows The Times of India
 
 Stock Markets Today: Sensex, Nifty extend rally on falling crude prices and FII inflows Rediff
 
-### 79. Life Cycle Funds explained: How SEBI’s new target-date mutual funds work in India - The Economic Times
+### 60. Rupee Gains 12 Paise to 94.72 vs US Dollar on Oil, FII Inflows - Rediff
 
-- Source: The Economic Times
-- Published: 2026-11-03T04:47:29+00:00
-- Themes: India market
+- Source: Rediff
+- Published: 2026-11-03T05:05:11+00:00
+- Themes: India market, macro / flows
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxQeHMxZHV3TVlRdHZJNzM4TWtZYVltcnZoTy04SW9ZcmtESFNWVXBUdEV6elVxNTN3S1JpSUx6SldkNUlWek9JdTE5b0FZZ0FjYnRIRUV5cS0xR3hGNDRpZnVkQ1BzeENMVlJudlM1OUc5a3E2QXpjaGpSRTNzakdiZEpHQXVuSmRPU1RYbTlETTliMENFcXMwY3lFc2QyWXFFdlJGRlhFM1NRT0xGZUJPZGxFTkgzeXBCRy16eWlRckJKVWdNSlNxQ1dHX21JVGRwWmJfTkc4NHdIdENVRlFfRnhVaWs1NEx4OVdILUp4aXlLLS1FMGxKR2Y2N3o2U1N1Vmw3RmVLcklRM0Q2TEE?oc=5
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxNallSREVyR09ZTm1uTHhjMVBEeFVvUThLV3p1RUNhdl9DS0xEdmU1WGZGd1k4YXQ4cTJnOWNJRzJQWkl0ZjRfZzg2VHRDMEd1dnBqM1ZwWjREZGN0N2lLelBwZHVXLWNjZmNHNWRGOUdyRGhuazI1dE9FV1JUVlNGS0Rid09EYUd4VFpmeW9tRl93MFFPY3hXTTBBWHZhZDdQb0trOFBUb3lObk9FWG9keXhOVdIBuAFBVV95cUxOd2NYLUo4Y3RISGZKX085cmgtQlRxeVhFU1VxV2ZwUzRzcEl2TjBiN3FiSEN4Snd6V0NyWHZtTFl4bGo5djg5RnVuWllBT1AtOTdMaGVDWWVvZ3hadldmeHJOUWNMMmlaam9BN2pRRFhHVmk0MW12OVh3RUVkQkN3ZUFDTFpJYVktV2tsdUcwS3RyRmRoeEtfRVdyNE0weV9TU1ZvaGdGbWlYR3M0YzhXa3l6V3UwRVhL?oc=5
 
-Life Cycle Funds explained: How SEBI’s new target-date mutual funds work in India The Economic Times
+Rupee Gains 12 Paise to 94.72 vs US Dollar on Oil, FII Inflows Rediff
 
-### 80. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+### 61. 10 Best Largecap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
 
 - Source: Myinvestmentideas
-- Published: 2026-11-02T22:21:53+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RnRaTlJBSWxFVDdNZXJPcVB1VGF4M0h3ajhDYWZlZjFncWdMazFVX2hLRUp4amtsWThkSHdNVXpQYUp2NXZHU2JDU0szQTBlY2gtVTFyQ1dJS3h1MkpxcW5DcVY?oc=5
+- Published: 2026-11-04T00:10:03+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMid0FVX3lxTE5QdVBUcDFQWU9uallCZUF2eUllNW93OVN6TzZZQkhCQTdRSEYwaGxOeXNHU0ExWmhNc3JiUG9RNm54RHVaUXpPYW45eVJId1I2T3ByYUQ0bjdNMHp1a0FVVVBCRnN1M3JZM3JXZGZUcmFXc3F6Z0hJ?oc=5
 
-Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
+10 Best Largecap Mutual Funds by Rolling Returns (2026) Myinvestmentideas
+
+### 62. Mutual funds, institutional investors vital for market growth: BSEC chief - The Daily Star
+
+- Source: The Daily Star
+- Published: 2026-11-03T21:48:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEVmUkRiT1c0S0tEOWs5OGNGUmlRemdvallmVTJoQ2N6UFFZTVEta3VqQlF6VUxSaU5ScUk5cGx0MlU4MzZ4aEl6bEl1WkhjNXg2eS1zSVRPdWVpTTBjNHRtbXk5LVZBWkZ4VG91Y1Q1bnY3YzQ5SEt3S0g0eVJjSUpnTTlfdHVOaS00NmZYUzNTVGlqNzNCd2JNTGFRR2wyWnhEQTkxVlZhWTRVd0J4MFpPb3FPeVNaOHc?oc=5
+
+Mutual funds, institutional investors vital for market growth: BSEC chief The Daily Star
+
+### 63. Sensex Jumps 1,225 Points as Strong Corporate Earnings Fuel Rally in Indian Stocks - INDIA New England News
+
+- Source: INDIA New England News
+- Published: 2026-11-03T17:46:11+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0h0Tk1FOXZJamZtRHZ0WmFjZWRsdzh1d3k0WXRMTTB2SUxXMTNpOWJTVEJnWDJ4aTAzYXJxenNQV0RHSXljM3JKbWExTk9qMWtSWmdxUGM3UHZWN2dPMGZ3Y0htUklWYllLcElPV19IVFFtbjlUOUdVanFsVGNPdmtPRVpMcEdpR2JwNHhHck45eTctZ1Y5T3lrSkN5UjB3WXM2OXVjemtzMnRSY3lB?oc=5
+
+Sensex Jumps 1,225 Points as Strong Corporate Earnings Fuel Rally in Indian Stocks INDIA New England News
+
+### 64. Small-cap mutual funds: How much should you invest? Experts recommend 10-20% allocation, warn against excessive exposure - Livemint
+
+- Source: Livemint
+- Published: 2026-11-03T17:15:51+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxQaDJyYjZxSXlNOUZnX1lBcFBEOXZ6dDRTRFhHLXVNU1UtZmxXNHRyYzF0U1h5TFczRlNpRWpIOURGMDFvc1c4eUVGTHZpdU14ZGM0QjBXQWlDOGtUNVNHc3Z1dEpTSjJWaUtIYVZQUWhxVjljS1RRSDZJY0RIX3lBU1NsWHA1MjFibmQ0bDN6cVRDTDhZRlVBVEpJaDFab0ZSMkRaajhSMEFXSjRVclg5WWV4WjBKSV9CMG1lekllaUdoTzAwOW1ub20zejRuMlhaRWZlaGk4SnFiNzh5d1NGblFnVy00R2FBWThmUTlRd0d5bW9iemM1R1BOMEVoaFdvMGFHSHUtRFM5Q19VcnhuadIBlgJBVV95cUxOUkh3M21ybXZqUEdyc29malBrdThwZG93bjdJWmFtUUNVR0lRT0dORVFmOEtEOHJQX0xzaUU5R2pwT0tYdnZjRjlfVGNPcU40M20zTlctMGg3bV9jWGl6d0V5NHY2ZGtfZFJQRklVdnVuTnJKUUlWU1lfc25WUUdzdjhWcV9DOVRGWGtSMlA0bHNacWc2Y3BZcndkSEhyYzRLcVNoa3ljb0dkQmRPQWJ1a0ZiT0oxVFZackdRU2pDUlVrSzBMeGppU01qdDdXUGFsMFoxNnhGZXZlQWRDeVgxZGtrQmdBZUtUSHlELUFxM19mZGluNmEzTGVfZlVZd1pFWmk1MVRDZ2tyVGhCQk1wdl9MSE9udw?oc=5
+
+Small-cap mutual funds: How much should you invest? Experts recommend 10-20% allocation, warn against excessive exposure Livemint
+
+### 65. Sensex Surges 1,225 Points as Crude Retreat and Foreign Buying Extend India Rally to Fourth Session - BigGo Finance
+
+- Source: BigGo Finance
+- Published: 2026-11-03T14:55:00+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE8zaVYyakN4VnplOWJuT21kZWtGaDNHNmQtdzlWckRsWTBhb1BKcHk1VVAwSFVsRkdZYmg4NkJtZDV3UEtyX0tJeDZEbDA1QzZRTXkzZXh4SUM4MHlfMFY2NGctajZEczNndmprbXZxSmlDSGJpY3c?oc=5
+
+Sensex Surges 1,225 Points as Crude Retreat and Foreign Buying Extend India Rally to Fourth Session BigGo Finance
+
+### 66. Rs 85,000 Salary, Rs 35,000 SIP & Just Rs 3,200 In Bank: Money Lessons From Young Investor's Mistakes - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-11-03T14:24:18+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxOMHhYUUVYbGVlYmpDTG9TTUhJZmdLYkFYQmxzYlZpb09FR1JyTGNzY29jZWNJcWNLUDhRbk9nZjU4TFR5bFNhdFNTN0xRWHc3ZmhIWmdwSU51bnRfVmRseEFkaTVmM2xYNW1WUXkwT2xrR1ZDVFRtNjNuN0FCWGJJUnpmSHBjWlRSanVXVHU3WWJQTi1nNVljX0VMLVZWNGFQa0JGUjF6Sndfb0VQWnVkZ3FiMXVGSGpEWm5TR3BlUGh5M0N3aVFETWs0UXNRRTdRLWJpWEJocDdnMTIyb29TM296YTNjWHgtUm1oaXFuZFB6czJsQkHSAf4BQVVfeXFMTTdaanZzVkVUTDZWTWJOZldGbkRSTUhQLXhTVkRSWllVM3AyR296VGlMTmNMMkFtRWJ6TUNmSHN3dGtUVlFPa0l3V0xsN0FtYjdzd0hRSGs3aVMzMHplZTR4UndMNExEcGxxZk00dTg3dUZINHNSaTFlZ1ctemE2V1hNTDZjbm5KN0d6d19TTWY5cmhhM0dWcGE3VGN6b3o3emYtZ19xUC1ISTVEanlWVkhfaDhBbkJwekxvUEo5WmI0ZUJLX1JJM0xJMldFdWRPQUw4SU11a2VURy1QUDdNWmoydUx1MkFvcmY0X1ViVUw1cXlSbTdDVzgzcmpKRHc?oc=5
+
+Rs 85,000 Salary, Rs 35,000 SIP & Just Rs 3,200 In Bank: Money Lessons From Young Investor's Mistakes NDTV Profit
+
+### 67. Diwali rally continues: Sensex surges 1,225 points, Nifty gains 1.58% on FII inflows - NewsDrum
+
+- Source: NewsDrum
+- Published: 2026-11-03T11:04:29+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxOUjgzRGowTGh0TDJZRDlrZWR3Tmc1RXh0MXliSzFSSExkTFBDWmdFTHhQQnk4V3B5Uk82VlQydGNSMk56cmRJQjgyVVNuckk3Rkx0aFFIRjNSQnRCYUIxcnFRU0Y2RmEzY2NlRlM3ZTBLUUpReXM0Rkx4VmMzeURkbEVTblBmaEVPQmh5Wi05LWh5blVjS3A2WnQtdmhmVnNRbXFDcEJKc3BOaERBbUQtTElJUDdSMTlrTmdUU3Zn0gG-AUFVX3lxTE5SODNEajBMaHRMMllEOWtlZHdOZzVFeHQxeWJLMVJITGRMUENaZ0VMeFBCeThXcHlSTzZWVDJ0Y1IyTnpyZElCODJVU25ySTdGTHRoUUhGM1JCdEJhQjFycVFTRjZGYTNjY2VGUzdlMEtRSlF5czRGTHhWYzN5RGRsRVNuUGZoRU9CaHlaLTktaHluVWNLcDZadC12aGZWc1FtcUNwQkpzcE5oREFtRC1MSUlQN1IxOWtOZ1RTdmc?oc=5
+
+Diwali rally continues: Sensex surges 1,225 points, Nifty gains 1.58% on FII inflows NewsDrum
+
+### 68. Rupee Gains 9 Paise to 94.75 vs US Dollar on FII Inflows - Rediff
+
+- Source: Rediff
+- Published: 2026-11-03T10:41:13+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNeUtjVFh2SjFPUjVvSFAxMng1NnJLSFAySGVDLTZxb3VWWFJHa2JzUmhJcUItME9YdFRERUFjRTg1T1dkYWstZjZBbXlKallfVGJacm1EUDRucGw4NklkQmtsenZrRWwyR0ZoNVc4MTg3YTBBbWM4ZWpPNVBqMW1YblVmMVVmZ2RkdFhhYVZQMll6bzcwemlfTzdvSXBYLWZyd0Z0NkxFRGxrSlRGM1ZJ0gG0AUFVX3lxTE03dVlJTDBJOTIxTE5Qa05SZnVfbzdLYV9XS1Zvc2g3SW1sajBYNzBhN3dmN0lKRHFCS0Z2V21BODJBZDJHaUJYS2ZPUUstdWt0TWN6RWVHN2duckFtNndjeEtLLUppOGRnMS1IV2ZaLU1XangybS00WmhzcW1OZzl0OGhEM2hYM2FJUjh3RU8zZkIyRDB3cEUzUmp2ODhTYnBBYk4yNWtBeHEwaXdKY1VPdUU0Sg?oc=5
+
+Rupee Gains 9 Paise to 94.75 vs US Dollar on FII Inflows Rediff
+
+### 69. Migdal Mutual Funds Ltd. - ETF Stock Market Fund (MTF-F75.TA) Seasonal Returns Chart - Yahoo! Finance Canada
+
+- Source: Yahoo! Finance Canada
+- Published: 2026-11-03T10:25:39+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiakFVX3lxTE1RRFNzanNyMmo4dEp0OHBSdlJjeG1WT1haOThEcS0ybDJzMzlucHdEYWxEUnZtdXdxUGpSOElJVGgtTVdQcWw4NWg4R19JeDFyVlJ1Y1Z1SlhuN3VVeVM2TERDLTQ5R2FSU2c?oc=5
+
+Migdal Mutual Funds Ltd. - ETF Stock Market Fund (MTF-F75.TA) Seasonal Returns Chart Yahoo! Finance Canada
+
+### 70. Market rally continues on FII inflows, Sensex closes 1,225 points higher; Nifty gains 1.58% - The Tribune
+
+- Source: The Tribune
+- Published: 2026-11-03T10:22:27+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOV0ZQdnRoQUtkeW1wSDNmZ1UwdTQ3bmUzWF9MWGNjLUFGcXFhcjdXMFR1NklKcElBaTVZT1NZYUJNOTc3SWtJM0xaeFB5QmpsUWZVSTRtVWVsWkNONWJNUGc5cExfVnZQRVV3UTRIcFgwc0lpM0R4RmhoNkN3NFg0dDZzaXhBekFwUVl5QmtlRlB6SzlTamxuNGpKUkk3X3pCdDhNbno5c3VsbXhZbkIwbFhxTjZjMnlMcFpzQnpqbUk1MW5ULVdwWVB0MDk5RFHSAc8BQVVfeXFMTldGUHZ0aEFLZHltcEgzZmdVMHU0N25lM1hfTFhjYy1BRnFxYXI3VzBUdTZJSnBJQWk1WU9TWWFCTTk3N0lrSTNMWnhQeUJqbFFmVUk0bVVlbFpDTjViTVBnOXBMX1Z2UEVVd1E0SHBYMHNJaTNEeEZoaDZDdzRYNHQ2c2l4QXpBcFFZeUJrZUZQeks5U2psbjRqSlJJN196QnQ4TW56OXN1bG14WW5CMGxYcU42YzJ5THBac0J6am1JNTFuVC1XcFlQdDA5OURR?oc=5
+
+Market rally continues on FII inflows, Sensex closes 1,225 points higher; Nifty gains 1.58% The Tribune
+
+### 71. Market rally continues on FII inflows, Sensex closes 1,225 points higher; Nifty gains 1.58% - ANI News
+
+- Source: ANI News
+- Published: 2026-11-03T10:17:00+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxOSlp3Y3dXNEZrRU1uUVNTX1Z6OHkzMFZXUUxzRGV6dlZCRXQyci1aMUdqNnZFbHY2TDdZQWplMXhqOFdNYlNrRnh3QzcxaHZOSjRmTXoxcnZPOURGVUFsUWhWMExvRHJYYUFyWmRsR0FFUS11WjZTZXRueFl2WGdvZkVhRkp0TTZrVnRseVNybFVwNGlybXJxdjB3N29Bd3pDVDJFcWVFVk9IRDJlSUg2OWxxSzVlTUxzT0FLMlNjQ2NCVnJfY2phT2tBdDAtcXRNcmlB?oc=5
+
+Market rally continues on FII inflows, Sensex closes 1,225 points higher; Nifty gains 1.58% ANI News
+
+### 72. These 14 equity mutual funds lose over 10% in October. Were they part of your portfolio? - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-03T10:00:16+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxOcVFUSXN4VHFuWU5GSHVBX3cyN0UwNlRONV9JaG9ZRmR4UDNjQ0pxYlFwVDdOT1BES2I1ajR2bHVQRjZiTThodXhTRmJ3SENNeGNzWnJFS1VKR2p1NXR1YnpOUDJRVnA2V2o2cUlvZlhPbC1Sa3lrQkNvSF9pUFRSZ2ZTaWh2bE5nUlRURE1hX3QwRnA0YXM4Sk9Fb3lMYmV4b0hXa2JuZUo1SlRsY3VJa0lrZDFLSXcwOW1aa0JEV05hMG4zR2l5WDFET3JlYVV5bkd5MVhyeW9XZU1QT3NibVFkei1UTHpIdy1BZXB0UGM5emJVUmlocldhVkpjY3VhaWgwd1VqRVZ1ckVpV1g4bGVlc29Ra042LWc?oc=5
+
+These 14 equity mutual funds lose over 10% in October. Were they part of your portfolio? The Economic Times
+
+### 73. Over 100 million SIP accounts active despite weak equity markets | Tap to know more | Inshorts - Inshorts
+
+- Source: Inshorts
+- Published: 2026-11-03T09:31:40+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOMThfTll2YVR4SWVMVXBoYWQtenRwTXQ5S192MWpudi1VeUtzRUZVbk1HbkZ0NW5hSzZmdjY2UExPQmtGSlNzU2tFaUliMFJlRHg5M2Y1VGsxdFl2YkpiN2traTdocHlvMXFLVU56S1BnZDRLdTlUV1ZXTVdORkxfQy1BSHBObFhaR0x0a2pYcFc0cEpLTWV4OTdqN0prVVBVa0HSAaIBQVVfeXFMTjE4X05ZdmFUeEllTFVwaGFkLXp0cE10OUtfdjFqbnYtVXlLc0VGVW5NR25GdDVuYUs2ZnY2NlBMT0JrRkpTc1NrRWlJYjBSZUR4OTNmNVRrMXRZdmJKYjdra2k3aHB5bzFxS1VOektQZ2Q0S3U5VFdWV01XTkZMX0MtQUhwTmxYWkdMdGtqWHBXNHBKS01leDk3ajdKa1VQVWtB?oc=5
+
+Over 100 million SIP accounts active despite weak equity markets | Tap to know more | Inshorts Inshorts
+
+### 74. 8 Best Charles Schwab Mutual Funds Of 2026 - Forbes
+
+- Source: Forbes
+- Published: 2026-11-03T09:08:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE8tTmxOOGNUclVudm0tWThBVnJ3YjlleUhnSzdjWTlaTEtxeDNOaEFVaGRjNmwtQXpEWlZwS3JSS3BacURrWTNBUWVENGVVd3pSRzdLaVBPd3dKREhyZ0FiQ19ZVmNfUDJxZlk4WElLd1hCWmgz?oc=5
+
+8 Best Charles Schwab Mutual Funds Of 2026 Forbes
+
+### 75. Best Vanguard Mutual Funds - Forbes
+
+- Source: Forbes
+- Published: 2026-11-03T09:08:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE1DRFJOLWVIdUVjNnM3R0xNQklndzRsbkszamtVQkJxRmFibFl1THpZSVVFdVUtTzlZU3l3MEN4SGtrcHJCcjBxNlNsdnMwWEZMUFB0aWk2djZTZ2ktMU9lOGJfdHdQQ1NQS0dfdnZ1Q2p6aEU5VXVONw?oc=5
+
+Best Vanguard Mutual Funds Forbes
+
+### 76. Can you gift equity mutual funds to your HUF or daughter to save LTCG tax? What investors should know - Upstox
+
+- Source: Upstox
+- Published: 2026-11-03T08:50:40+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFdUNFdYM1pYWHlISGFxZXkxMlh2ZnhhU3RCVDdsSGxQNi16RlY4bjZ5bG5qdGZabnF1eXhHMGJuTVZPTUJZNEJ4aVA2QjFXck95RmZDdkU1Z1VCOXZ2WTQ3a1ZqNGl0NDc5OW5nU1FvYVc3LXZOUWNab0I4dG5TNl9zX1lTNnhXa205VERTLWhFWGpzaEcyWW5xeEJVaUhUOVdEb2VtNUsyeGQ5SDhLai1GWm9HOWszSGV1bTBSc1dIc2hjWmx2OFVDTENNd2h5blNlcXUtMlhUSXQxNm44WG01eDRrbWl6dW9fRUNHQnVETTg?oc=5
+
+Can you gift equity mutual funds to your HUF or daughter to save LTCG tax? What investors should know Upstox
+
+### 77. Buy These 3 Goldman Sachs Mutual Funds for Stupendous Returns - TradingView
+
+- Source: TradingView
+- Published: 2026-11-03T07:50:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxPVGVnWDV4eFY1NWxNRERjQ0V3QlFySGpoTnRNNWV2VVRRamI5MGYydzJjTGlsY25TTHppV3dvQ3QydFZEX1JQa1ZFajRyQUFyQjk1M1RjUmtqYUhpNFRqMEhJdG1UNTIybHFfTVMzWEN3Uk1GcVlGeXg2RnhaQjQ2bnR3SHRITGZ3a3Z1MmplQXZEZmdGaWhSTmxiNzdMVWYzel9rUmJxS2dodnk0RlhBbWVkLVA2QnVz?oc=5
+
+Buy These 3 Goldman Sachs Mutual Funds for Stupendous Returns TradingView
+
+### 78. Retail SIP Investors Stay the Course as Over 100 Million Accounts Continue Market Contributions - Dainik Jagran MP CG
+
+- Source: Dainik Jagran MP CG
+- Published: 2026-11-03T07:02:05+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPcUlvQlJENmN0ZTRycUJRSmg0VGpzb0FfdFF5VTdJQXc1ODhyREFrSVc4eGpjZmR5LWZUdEc0bllsREZHMkc0UDJNY05ZbmsyelhpeENrRjVHMUlqY0pmcmFFQ0E2emtaY1NRRjhKdTZmVUF2THBTcnRydGpqVzM0NmdKaDJMOFZhN2t6UkNPUEk1VFViSWxxSjExZ3ROajFyOUxrZFFfV01NQUlaU0I3UWZzLUo5akk?oc=5
+
+Retail SIP Investors Stay the Course as Over 100 Million Accounts Continue Market Contributions Dainik Jagran MP CG
+
+### 79. Video | Cameron Brandt, EPFR Global: AI Story Turning In India's Favour, But FII Headwinds May Not Be Over Y - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-11-03T06:50:14+00:00
+- Themes: AI / tech risk, India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxOaldPUGVIWUFMZjFvREQ4ZTBic1h4TkRLWG9NNDNnaHRsblNXY0o3VzNtQlVPcXJWQ1VnX1JXeGZ2U1VNcWxWVXE0ZGxQSS15aG96VE03R3lzMzB2aGZQZjN3OWdxNEVlRjVHdGRBRFFJSE9LMTdiRHkyTC0xbW42NjJNNlZkVzNUQk9VY1ZUajFkNXhGT09NZHZXSzNMVENLM0Y1OFRmZU1ZakdJRmQzS2F0X0RfQmJsdHV6NFJNQnExMlE4Rk0wcE1pVlgxeVNwRXo0ZEdZNDhuZlJ2UWxLT3pyUVg?oc=5
+
+Video | Cameron Brandt, EPFR Global: AI Story Turning In India's Favour, But FII Headwinds May Not Be Over Y NDTV Profit
+
+### 80. Nomura sees Nifty crossing 24,000 as earnings deliver and FII selling eases - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-11-03T06:43:31+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOXpVLW56VktrMDZVaERlWnFtWlJSbjBsSHNpQmVxLVA3eE56Rk9ZUWRmTHZETGdhbHNNRmFJYUtMeFdHYnJxaGttNjNGNXI5eWJJdXplQmZSZ1YzRl9Cc09halNrNjdVRlBHT3pYMDZ4RnowY05HODNrUTk5dmxUYlQtSVFfclp6UDNlN18tVkRPYk5ZX1B6b0k3NERobU1hZ0hHNUlia0xWQlM4WTVwV2xnSVB6T1VvLXdGV3NfYzFNMVNQMEVBMVY5aE42QjV1a21uXy130gHbAUFVX3lxTE1nLUVKMXdVd2JlVWRsb05JUUkzRERORlJKR3VFeDB3d1R0OU9PNF9iUXM0NzFIbXFjT2ttVllWZVhXcE9kLXVpWEd4NXZ6eHlrX3pKa1BjOVlVcXhVRGdYMHpIczZ1VUZIV0Rtblg0VFplWk5BUm1MaWFPYW0wZEdyU05pb081X1hua29QMURwbzFJVnk0QlV1R3RlTlRHTzdjeFZhU2IxZGtKd2FsQU0zdm1aMjNieURIYl9xSG5qU1M0YlU0ZlpEaXFfaFItazMtQXEwbl9uUFdZRQ?oc=5
+
+Nomura sees Nifty crossing 24,000 as earnings deliver and FII selling eases Moneycontrol.com
