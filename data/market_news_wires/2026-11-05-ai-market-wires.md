@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-05 10:37
+Generated: 2026-11-05 11:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,15 +26,15 @@ Asia’s Richest Banker Sees AI Correction Boosting Flows to India Bloomberg.com
 
 Nifty 50 Rises as Asian Chip Stocks Fall After US Midterm Elections Analytics Insight
 
-### 3. Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% - The Tribune
+### 3. Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% - India's News.Net
 
-- Source: The Tribune
-- Published: 2026-11-04T10:37:58+00:00
+- Source: India's News.Net
+- Published: 2026-11-04T17:34:00+00:00
 - Themes: market selling, India market
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHdPdGtKVHAxYmxKZnE5aGk2ellUcG1Iakpha1p5TzRBY1RBVjVfNC04Vi02amtMWGQwUkxtb1NzdmN1SndGSm1nOWhYVVZkWWRHN2Y1cFpyRDc5eXhpWkVEYjdxTEV6WWp4TnpOcDZIQllZeVA3ZXJpNWtGY0NCeGN0NGlSZVVDSGNjNngtX2JrRzVkbzM2Z3dGQWxjeFc3YWx0UzBzWDVoazRXSHk0SzJVLURydmlQSUs3RWpkS19jS2FPWHdrazZkNHBuUHpjZVJXSUxhNNIB2wFBVV95cUxQM1dfdEVERTFsVVNLWEcwWUZyNEZ3QTBGQURyUUtHWnQ1alVaWFRTY2J2bzJaRm1JdHRGcWpha2txMTAwV3FuWXdXcVE2QWNIc2RrLTdrTDNuRG5rV3BNOEJDVF9GQlN4VlllanoyMmo0dTlPNGQySmNhRE9qQ2xoVnBQblNoSGlNQWp5NEE0eHF1VTFPZXNrLVZCX01jNHVIU19SMFdYZjN1clRvakdPMDZFdDVNQlpIS1g5dk5fM2tCUFdRa3ZTTjFnOVJhM1VqUnVFNnJCQ21QdUU?oc=5
+- Score: 10
+- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxNOW1zWno5ZjVURTMwWVpJWFFFLVRFNzRfTzFicVRJOXJZODFvZjBOU0MzM1BpUmRpYkNmR3JtelZ2a1BpNloyNW1wOV9nOFNXQkl5U3NDSE9TMTZral9RNjVDR0FpNER4aHB5cHVGXzQ0dGE3M0ZXS2c1R3RsSTdVU0F0eFFvS3l3RHd0ZW5rRmFoeEEybWRuWVBwVzduYThqeXZaLVVmelptY29XMndfVHo3d2Rud1o2M1dLeXJxNGtvLU1VU21jT09tTHlFQmRyZkc0dw?oc=5
 
-Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% The Tribune
+Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% India's News.Net
 
 ### 4. Global AI correction could boost capital flows in Indian markets: Uday Kotak - The Hawk
 
@@ -46,27 +46,17 @@ Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap s
 
 Global AI correction could boost capital flows in Indian markets: Uday Kotak The Hawk
 
-### 5. Global AI correction could boost capital flows in Indian markets: Uday Kotak - IANS LIVE
+### 5. Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally - TradingView
 
-- Source: IANS LIVE
-- Published: 2026-11-05T09:12:00+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3FrV0ZYSTZBdUh4WkpUT1JEWjFscXExUWwxMUh3UDJiU21hTi1yNVYydlJPcWZWQWlMNEdPWjdkWkZKcmtTWUd0c2pzN0toRjkzeng3cGxTaUJ0Si1yQnZnWVNmZXVFVXVfSjdTTTk1Tm5HZTNlLXA4Um1HQmRtbXVPMmpHQ2ItTjRSckFUSkIwT3k0eGtVQlB5di1Sc0J6NUo0Tw?oc=5
-
-Global AI correction could boost capital flows in Indian markets: Uday Kotak IANS LIVE
-
-### 6. Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an ' - Benzinga
-
-- Source: Benzinga
+- Source: TradingView
 - Published: 2026-11-05T09:08:34+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMilgJBVV95cUxOdFVsdHJHaTNOVHRqTG9ZSDJVSi1oN1o2Z3pEZk54U3dqMm82T25pU28zcnFvTVo3cXY1T0dhbXJEeW9XdE9jMUQzQXpiblZSczN5ZEJKWmlIYjY5QXNDRlg0T0ltZzk4aklUZjV5b2ttNXA3eGR1S2Y1OWRhb2ZRSXhLMGxVbmw4YWhJU3BsSDdMcm1MV3RxV1VLQkJJOWo3S1JWR00xaE4yd1VjdUlMQjhzZnJnWVVVNzV2SmxsTC1iME02X29WYl9iNV9jNHAwb0RockFhbGZJWllzSVAxcDlPcHZBUDd3dUpQUW5TSmVDTlFmNW9ZeEVUdmM2c2NXYlNWX18yRDNBY3lnV09USmNIdnFoZw?oc=5
+- Link: https://news.google.com/rss/articles/CBMinwJBVV95cUxQeUhYT0c1N1ZjMkVpZXc3eWhuZk1ocUNFOXdtWGZ2QThMcEVoZkFTRkhxVnZ1RlhfRUpDQW05NkkxbXFqdWw5Sl9xT2RpamxSLTZfMmphdGJMUmRDTGZ2TElYazVHOUhVVHdoclhpRWJHNWtMYllvMXVOOG1LZzAyWERKdFVfTzBQc0ZfVS03Sk9FZUFjMGx4Qm5OX3MwcFk2eHJPTlFnRXliYm81TnBtNVUxX015VGRlM1pxc20tZWdraWhNTUhHT1hDT1pxZ0ZSU3NjUVVHMGZGVFJ6dU1PNmdWYlVVUlBMczR4cjVuZy1FMlJqekFMeHNuVGxqSnZmZ2ljTC05ek9xRWQ4SzlvMFdEYlFUNnBfdXJlQi16cw?oc=5
 
-Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an ' Benzinga
+Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But Tom Lee Calls AI Selloff an 'Overreaction,' Predicts 20% Tech Rally TradingView
 
-### 7. Nifty Auto Surges Nearly 3%, Auto Stocks Zoom On Crude Oil Price Fall - Free Press Journal
+### 6. Nifty Auto Surges Nearly 3%, Auto Stocks Zoom On Crude Oil Price Fall - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-05T07:14:47+00:00
@@ -76,7 +66,7 @@ Dan Ives Warns Chip Stocks Aren't Done Falling, Sees Another 12% Drop — But To
 
 Nifty Auto Surges Nearly 3%, Auto Stocks Zoom On Crude Oil Price Fall Free Press Journal
 
-### 8. Diwali Fireworks On Dalal Street! Sensex Soars 1,610 Points, Nifty Jumps 1.74% As Crude Falls Below $100 - Republic World
+### 7. Diwali Fireworks On Dalal Street! Sensex Soars 1,610 Points, Nifty Jumps 1.74% As Crude Falls Below $100 - Republic World
 
 - Source: Republic World
 - Published: 2026-11-05T06:01:55+00:00
@@ -86,7 +76,7 @@ Nifty Auto Surges Nearly 3%, Auto Stocks Zoom On Crude Oil Price Fall Free Press
 
 Diwali Fireworks On Dalal Street! Sensex Soars 1,610 Points, Nifty Jumps 1.74% As Crude Falls Below $100 Republic World
 
-### 9. Sensex Jumps Over 1,400 Points as Crude Oil Prices Fall After US Midterm Results - News Mobile
+### 8. Sensex Jumps Over 1,400 Points as Crude Oil Prices Fall After US Midterm Results - News Mobile
 
 - Source: News Mobile
 - Published: 2026-11-05T04:56:22+00:00
@@ -96,7 +86,7 @@ Diwali Fireworks On Dalal Street! Sensex Soars 1,610 Points, Nifty Jumps 1.74% A
 
 Sensex Jumps Over 1,400 Points as Crude Oil Prices Fall After US Midterm Results News Mobile
 
-### 10. Korea stocks fall as foreigners sell and chip, AI shares slide after US vote - Chosunbiz
+### 9. Korea stocks fall as foreigners sell and chip, AI shares slide after US vote - Chosunbiz
 
 - Source: Chosunbiz
 - Published: 2026-11-05T00:20:00+00:00
@@ -106,27 +96,27 @@ Sensex Jumps Over 1,400 Points as Crude Oil Prices Fall After US Midterm Results
 
 Korea stocks fall as foreigners sell and chip, AI shares slide after US vote Chosunbiz
 
-### 11. Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before They Skyrocket Once Again - The Motley Fool
+### 10. Global AI Correction Could Boost Capital Inflows to Indian Markets: Uday Kotak - Lokmat Times
 
-- Source: The Motley Fool
-- Published: 2026-11-04T11:36:00+00:00
+- Source: Lokmat Times
+- Published: 2026-11-05T10:36:57+00:00
 - Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQem5VeThlWExRTkY4ZzUwc1RpWWdjYnVXbkpyU3J0clF3TkRWeEVCUUc3dVdmY3A0djlrd21WYjJTOUJzWjN5alRPUExtVU5LdVQyenNndk5qdFJETTVFb3AxZzYyNmFqYzJjb1N3WDAwd0hpbVZ6RlVEVDRJR0g4eWxjSXJRcWRhN3JtNWUzYkZyNklwaUxkREM3MXFNU256V3BRX2djWm9Jd3JNbGd2TGo0OUNOcFJwR2tFZElEVkJBS2xXYXdveTdMc0FmbEFHYnc?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQNGN1Z21jMGluNWVpVkhaLVBXMXctVWo2QW9pR0ppQVlEbTFQTkhreml1SWcyS2JpekI1XzFpRWpYVTE5azRXbnV0NWxwT3lOY3pnR2tfc045YlRjMk9meWhrS1ZuR19FMUI0X3J3Z0ZGcTZfVnBkb0s3b3JUWWtPdWZnQllfVzFUUk1hX2xFVDBES2F3YzlkckptNUFRNkNsWDNITFoxeWxZOThTeFBEYU9BVk5OLUZBSi1aQVJHTEZoX2xvY0ZaajJn0gHKAUFVX3lxTFA0Y3VnbWMwaW41ZWlWSFotUFcxdy1VajZBb2lHSmlBWURtMVBOSGt6aXVJZzJLYml6QjVfMWlFalhVMTlrNFdudXQ1bHBPeU5jemdHa19zTjliVGMyT2Z5aGtLVm5HX0UxQjRfcndnRkZxNl9WcGRvSzdvclRZa091ZmdCWV9XMVRSTWFfbEVUMERLYXdjOWRySm01QVE2Q2xYM0hMWjF5bFk5OFN4UERhT0FWTk4tRkFKLVpBUkdMRmhfbG9jRlpqMmc?oc=5
 
-Semiconductor Sell-Off: The Best Chip Stocks to Buy Right Now Before They Skyrocket Once Again The Motley Fool
+Global AI Correction Could Boost Capital Inflows to Indian Markets: Uday Kotak Lokmat Times
 
-### 12. AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates - WSJ
+### 11. AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates - WSJ
 
 - Source: WSJ
-- Published: 2026-11-05T09:47:47+00:00
+- Published: 2026-11-05T09:47:52+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxPWXJzcWk4MlFxcUhTQV9qNEloN2tSdDQ5cFVYblN2TDhpdWR0V3JyWFhMZXFGT205aVpqa1Fwa0gwblEzUGRycHg2LVZSQ1FsN09EMWdSREU4OUdrQzVhOGhGellFNzV0cEFQX2gxTmNnZkhyMTZNR293REljWEtCUF83VDhyZ0VpbkEycVhuVTJwMWM2Q2RGWXRCbkxjbGtNSXpJT2tR?oc=5
 
 AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates WSJ
 
-### 13. Copper price consolidates as AI equities selloff spreads to industrial metals market - Traders Union
+### 12. Copper price consolidates as AI equities selloff spreads to industrial metals market - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-05T09:24:26+00:00
@@ -136,7 +126,7 @@ AI Selloff Extends, Treasurys Gain as Blue Wave Reverberates WSJ
 
 Copper price consolidates as AI equities selloff spreads to industrial metals market Traders Union
 
-### 14. Coherent (COHR) Following AI Infrastructure Optimism Is The Selloff A Valuation Reset - Simply Wall St
+### 13. Coherent (COHR) Following AI Infrastructure Optimism Is The Selloff A Valuation Reset - Simply Wall St
 
 - Source: Simply Wall St
 - Published: 2026-11-05T08:33:36+00:00
@@ -146,17 +136,7 @@ Copper price consolidates as AI equities selloff spreads to industrial metals ma
 
 Coherent (COHR) Following AI Infrastructure Optimism Is The Selloff A Valuation Reset Simply Wall St
 
-### 15. After an 11% tech sell-off, are AI valuations attractive again? - Investing.com
-
-- Source: Investing.com
-- Published: 2026-11-05T08:10:48+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNRENSVHRYbnhTUVY5Zll0cXVJVi1qMEF2SVltcHZxOHE2bG9UUlhHUUpDZzA2RU1iZmlSQ0o2c0RPQzVXdGZqVUlDODVFbV9sTkduaUI5blRjMTVLWmFRVE5rMHJBSlNCVUpTd3JmbVRMRV9rendJWGUyLXV6dnVUeGRiSG5nWXFPU3F6VGpGTTNXakg2cTRfYnNFVVZwNzNWcUVmeXV1bEV1ck5nb1NjTUMxaHd0Zjg?oc=5
-
-After an 11% tech sell-off, are AI valuations attractive again? Investing.com
-
-### 16. Asian Stocks Shed Nearly $550B as Bitcoin Gains 4% Amid AI Selloff - www.tokenpost.com
+### 14. Asian Stocks Shed Nearly $550B as Bitcoin Gains 4% Amid AI Selloff - www.tokenpost.com
 
 - Source: www.tokenpost.com
 - Published: 2026-11-05T08:10:31+00:00
@@ -166,7 +146,7 @@ After an 11% tech sell-off, are AI valuations attractive again? Investing.com
 
 Asian Stocks Shed Nearly $550B as Bitcoin Gains 4% Amid AI Selloff www.tokenpost.com
 
-### 17. Celestica Inc. Faces Correction Risk as Electronics Manufacturing and AI Infrastructure Demand Outlook Clouds - kalkine.ca
+### 15. Celestica Inc. Faces Correction Risk as Electronics Manufacturing and AI Infrastructure Demand Outlook Clouds - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-11-05T08:02:00+00:00
@@ -176,7 +156,7 @@ Asian Stocks Shed Nearly $550B as Bitcoin Gains 4% Amid AI Selloff www.tokenpost
 
 Celestica Inc. Faces Correction Risk as Electronics Manufacturing and AI Infrastructure Demand Outlook Clouds kalkine.ca
 
-### 18. Copper surrenders gains as AI selloff offsets macro optimism - TradingView
+### 16. Copper surrenders gains as AI selloff offsets macro optimism - TradingView
 
 - Source: TradingView
 - Published: 2026-11-05T07:53:35+00:00
@@ -186,7 +166,7 @@ Celestica Inc. Faces Correction Risk as Electronics Manufacturing and AI Infrast
 
 Copper surrenders gains as AI selloff offsets macro optimism TradingView
 
-### 19. S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff - BBN Times
+### 17. S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff - BBN Times
 
 - Source: BBN Times
 - Published: 2026-11-05T07:47:08+00:00
@@ -196,7 +176,7 @@ Copper surrenders gains as AI selloff offsets macro optimism TradingView
 
 S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff BBN Times
 
-### 20. AI selloff drags Nikkei lower despite broad-based market gains - The Economic Times
+### 18. AI selloff drags Nikkei lower despite broad-based market gains - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-05T07:42:40+00:00
@@ -206,7 +186,7 @@ S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI 
 
 AI selloff drags Nikkei lower despite broad-based market gains The Economic Times
 
-### 21. Higher Risk of Correction in US Equity Mkts, Led By AI Stocks - https://www.fintechbiznews.com/
+### 19. Higher Risk of Correction in US Equity Mkts, Led By AI Stocks - https://www.fintechbiznews.com/
 
 - Source: https://www.fintechbiznews.com/
 - Published: 2026-11-05T07:00:22+00:00
@@ -216,7 +196,7 @@ AI selloff drags Nikkei lower despite broad-based market gains The Economic Time
 
 Higher Risk of Correction in US Equity Mkts, Led By AI Stocks https://www.fintechbiznews.com/
 
-### 22. Nifty Auto Up 2.9% vs Nifty 50’s 1.7% as Oil Falls 20% This Week: Why Auto Stocks Are Rising - NiftyTrader
+### 20. Nifty Auto Up 2.9% vs Nifty 50’s 1.7% as Oil Falls 20% This Week: Why Auto Stocks Are Rising - NiftyTrader
 
 - Source: NiftyTrader
 - Published: 2026-11-05T06:58:09+00:00
@@ -226,7 +206,7 @@ Higher Risk of Correction in US Equity Mkts, Led By AI Stocks https://www.fintec
 
 Nifty Auto Up 2.9% vs Nifty 50’s 1.7% as Oil Falls 20% This Week: Why Auto Stocks Are Rising NiftyTrader
 
-### 23. AI Data-Center Risk: Infrastructure Selloff or Application-Layer Opportunity? - Moomoo
+### 21. AI Data-Center Risk: Infrastructure Selloff or Application-Layer Opportunity? - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-05T06:30:37+00:00
@@ -236,7 +216,7 @@ Nifty Auto Up 2.9% vs Nifty 50’s 1.7% as Oil Falls 20% This Week: Why Auto Sto
 
 AI Data-Center Risk: Infrastructure Selloff or Application-Layer Opportunity? Moomoo
 
-### 24. US Vs Asia Stocks: China Outpaces Peers As Support Measures Stabilize Markets Amid Midterms-Led Tech Selloff - TradingView
+### 22. US Vs Asia Stocks: China Outpaces Peers As Support Measures Stabilize Markets Amid Midterms-Led Tech Selloff - TradingView
 
 - Source: TradingView
 - Published: 2026-11-05T06:03:57+00:00
@@ -246,7 +226,7 @@ AI Data-Center Risk: Infrastructure Selloff or Application-Layer Opportunity? Mo
 
 US Vs Asia Stocks: China Outpaces Peers As Support Measures Stabilize Markets Amid Midterms-Led Tech Selloff TradingView
 
-### 25. Nifty, Sensex defy Asia-wide selloff, stand tall in sea of red this quarter - Business Today
+### 23. Nifty, Sensex defy Asia-wide selloff, stand tall in sea of red this quarter - Business Today
 
 - Source: Business Today
 - Published: 2026-11-05T03:24:06+00:00
@@ -256,7 +236,7 @@ US Vs Asia Stocks: China Outpaces Peers As Support Measures Stabilize Markets Am
 
 Nifty, Sensex defy Asia-wide selloff, stand tall in sea of red this quarter Business Today
 
-### 26. Nasdaq-100 Enters Correction as Doubts Over AI Investment Payoff and Midterm Elections Weigh - BigGo Finance
+### 24. Nasdaq-100 Enters Correction as Doubts Over AI Investment Payoff and Midterm Elections Weigh - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-04T22:35:00+00:00
@@ -266,7 +246,7 @@ Nifty, Sensex defy Asia-wide selloff, stand tall in sea of red this quarter Busi
 
 Nasdaq-100 Enters Correction as Doubts Over AI Investment Payoff and Midterm Elections Weigh BigGo Finance
 
-### 27. Copper Prices Drop to 3-Month Low Amid AI Stock Selloff - KuCoin
+### 25. Copper Prices Drop to 3-Month Low Amid AI Stock Selloff - KuCoin
 
 - Source: KuCoin
 - Published: 2026-11-04T21:34:08+00:00
@@ -276,7 +256,7 @@ Nasdaq-100 Enters Correction as Doubts Over AI Investment Payoff and Midterm Ele
 
 Copper Prices Drop to 3-Month Low Amid AI Stock Selloff KuCoin
 
-### 28. AI's Building Boom Meets A Blue Wave. 'Neocloud' Stocks Fall. - Investor's Business Daily
+### 26. AI's Building Boom Meets A Blue Wave. 'Neocloud' Stocks Fall. - Investor's Business Daily
 
 - Source: Investor's Business Daily
 - Published: 2026-11-04T19:01:00+00:00
@@ -286,7 +266,7 @@ Copper Prices Drop to 3-Month Low Amid AI Stock Selloff KuCoin
 
 AI's Building Boom Meets A Blue Wave. 'Neocloud' Stocks Fall. Investor's Business Daily
 
-### 29. Nikkei 225 Closes at 62,188.63 After Sharp AI-Driven Selloff - ad-hoc-news.de
+### 27. Nikkei 225 Closes at 62,188.63 After Sharp AI-Driven Selloff - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-04T17:39:43+00:00
@@ -296,7 +276,7 @@ AI's Building Boom Meets A Blue Wave. 'Neocloud' Stocks Fall. Investor's Busines
 
 Nikkei 225 Closes at 62,188.63 After Sharp AI-Driven Selloff ad-hoc-news.de
 
-### 30. After the AI Selloff, Wall Street Searches for Answers - Investing.com Nigeria
+### 28. After the AI Selloff, Wall Street Searches for Answers - Investing.com Nigeria
 
 - Source: Investing.com Nigeria
 - Published: 2026-11-04T16:43:53+00:00
@@ -306,7 +286,7 @@ Nikkei 225 Closes at 62,188.63 After Sharp AI-Driven Selloff ad-hoc-news.de
 
 After the AI Selloff, Wall Street Searches for Answers Investing.com Nigeria
 
-### 31. RIOT Stock Jumps 14%, Defies AI Selloff After Democrats’ Congress Win — Here’s Why - TipRanks
+### 29. RIOT Stock Jumps 14%, Defies AI Selloff After Democrats’ Congress Win — Here’s Why - TipRanks
 
 - Source: TipRanks
 - Published: 2026-11-04T15:51:50+00:00
@@ -316,7 +296,7 @@ After the AI Selloff, Wall Street Searches for Answers Investing.com Nigeria
 
 RIOT Stock Jumps 14%, Defies AI Selloff After Democrats’ Congress Win — Here’s Why TipRanks
 
-### 32. Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns - Yahoo Finance
+### 30. Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-04T14:29:26+00:00
@@ -326,7 +306,7 @@ RIOT Stock Jumps 14%, Defies AI Selloff After Democrats’ Congress Win — Here
 
 Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight Position Aids Relative Returns Yahoo Finance
 
-### 33. Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech - GuruFocus
+### 31. Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-11-04T12:47:19+00:00
@@ -336,7 +316,7 @@ Micron Technology (MU) Pulls Back Amid Broader AI Memory Sell-Off; Underweight P
 
 Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech GuruFocus
 
-### 34. Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech - Yahoo Finance
+### 32. Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-04T12:15:53+00:00
@@ -346,7 +326,7 @@ Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech GuruFocus
 
 Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech Yahoo Finance
 
-### 35. Premarket movers: Trump Media, AI infrastructure stocks fall; AMD jumps - Investing.com
+### 33. Premarket movers: Trump Media, AI infrastructure stocks fall; AMD jumps - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-04T12:10:05+00:00
@@ -356,7 +336,7 @@ Nasdaq Sinks 5% in October as AI Stock Selloff Hits Tech Yahoo Finance
 
 Premarket movers: Trump Media, AI infrastructure stocks fall; AMD jumps Investing.com
 
-### 36. AI Data Centre Stocks Fall as Democratic Midterm Victory Raises Regulatory Concerns - Yahoo Finance
+### 34. AI Data Centre Stocks Fall as Democratic Midterm Victory Raises Regulatory Concerns - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-04T11:39:33+00:00
@@ -366,17 +346,17 @@ Premarket movers: Trump Media, AI infrastructure stocks fall; AMD jumps Investin
 
 AI Data Centre Stocks Fall as Democratic Midterm Victory Raises Regulatory Concerns Yahoo Finance
 
-### 37. The AI sell-off saved Apple from a sell-off of its own - Yahoo Finance
+### 35. Investment losses total $44M as net investment income falls at MidCap Financial (MFIC). - Stock Titan
 
-- Source: Yahoo Finance
-- Published: 2026-11-04T11:00:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxOekR3ZmQyR2d6ajJlMzBNd0ZKcThDblF3ZVZYRF9rM2dXQUYteHVBa245QXVtSXJxTXdfS3dmQTZVQ3owWmRwYk9VV2gza1ZReVRxYmVyWnh5T3BuWkdObFFoY3Zyazl1QnRtdHZJeGVQWVlHbVNVV3l2SXliM3NVTVFkNm5kMWFsVTZ2TkU3ZzFWSUNza3djZnRZYlAyUEl5cE5iUE84YzZLVjRNWl9rZ3QwU2g?oc=5
+- Source: Stock Titan
+- Published: 2026-11-05T11:12:36+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxNU25rOVc3aFJZbTFFSzZIUU84am41cmtOSmFSVzFIdy14THNNUi1icG5uWEY5NEJUNXhwbF9VSjBsd19mZzdmbUFGejJieWlaTUo0d0pubVVva21YZ1ZMTmZfLXQ0VlhIYnZsVkNVWEpZOGx3RDhGOXp5cFBpU1RUeVZhZDgzbnVvcUtBdENzbjQyZ0taZ3FaT3JBUkRvWE9HbDg0SUpudC05V052d3U1eXJYX2tRZ0FONU9zeXdTYVQ1akpUeUctQUFRbw?oc=5
 
-The AI sell-off saved Apple from a sell-off of its own Yahoo Finance
+Investment losses total $44M as net investment income falls at MidCap Financial (MFIC). Stock Titan
 
-### 38. Cummins India Q2 results: Net profit falls 27% to ₹467 cr, sales rise 4% - Business Standard
+### 36. Cummins India Q2 results: Net profit falls 27% to ₹467 cr, sales rise 4% - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-05T07:12:03+00:00
@@ -386,7 +366,7 @@ The AI sell-off saved Apple from a sell-off of its own Yahoo Finance
 
 Cummins India Q2 results: Net profit falls 27% to ₹467 cr, sales rise 4% Business Standard
 
-### 39. How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors - Value Research
+### 37. How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors - Value Research
 
 - Source: Value Research
 - Published: 2026-11-04T13:04:24+00:00
@@ -396,7 +376,7 @@ Cummins India Q2 results: Net profit falls 27% to ₹467 cr, sales rise 4% Busin
 
 How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors Value Research
 
-### 40. SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth Building - Kalkine India
+### 38. SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth Building - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-11-04T12:51:00+00:00
@@ -406,7 +386,17 @@ How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors Value Researc
 
 SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth Building Kalkine India
 
-### 41. Uday Kotak says $700 bn outstanding FII payments will boost market, sees AI worries driving flows to India - The Economic Times
+### 39. Gujarat’s Investment Instinct: Milan Parikh on Navigating Market Volatility, SIP Discipline, and Digital Investing - Ahmedabad Mirror
+
+- Source: Ahmedabad Mirror
+- Published: 2026-11-05T10:38:38+00:00
+- Themes: market selling
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxPZkRZQXBhdTBqVFVwbzNkQkhCMS1MLVd6a19LYWxoOUdCV2V2b1I3alNCYktOV1E3d04zLUlzRzBpdElWcEJJQWxKZ3hIX081am85M2w3NzcwODEyUEJ5S2gwWHJSV0hoWVZsaGlDeGJXQjlwQ0JMNndMMkxwQUxQZVFKdU5fM2p0Ymh6RTZfa0swR0hnWmQ2S1h2VzFaam41eWFvcDFmcWxySS1vX0loZm55M3M1OFFjRDhPUGF6ejlPTHhVb3BuVEJJd2NZU1FES1JNczlrWl9QYnRFamNQakF3UkQ2Nl9qcnBHdA?oc=5
+
+Gujarat’s Investment Instinct: Milan Parikh on Navigating Market Volatility, SIP Discipline, and Digital Investing Ahmedabad Mirror
+
+### 40. Uday Kotak says $700 bn outstanding FII payments will boost market, sees AI worries driving flows to India - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-05T08:57:38+00:00
@@ -416,7 +406,7 @@ SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth
 
 Uday Kotak says $700 bn outstanding FII payments will boost market, sees AI worries driving flows to India The Economic Times
 
-### 42. Makers Laboratories deploys Rs 8.4823 crore in mutual funds - Multibagg AI
+### 41. Makers Laboratories deploys Rs 8.4823 crore in mutual funds - Multibagg AI
 
 - Source: Multibagg AI
 - Published: 2026-11-05T08:51:07+00:00
@@ -426,7 +416,7 @@ Uday Kotak says $700 bn outstanding FII payments will boost market, sees AI worr
 
 Makers Laboratories deploys Rs 8.4823 crore in mutual funds Multibagg AI
 
-### 43. U.S. Midterm Results: Trump Setback, Crude Oil And FII Flows; What Lies Ahead For Indian Markets? - Business Today
+### 42. U.S. Midterm Results: Trump Setback, Crude Oil And FII Flows; What Lies Ahead For Indian Markets? - Business Today
 
 - Source: Business Today
 - Published: 2026-11-05T06:52:08+00:00
@@ -436,7 +426,7 @@ Makers Laboratories deploys Rs 8.4823 crore in mutual funds Multibagg AI
 
 U.S. Midterm Results: Trump Setback, Crude Oil And FII Flows; What Lies Ahead For Indian Markets? Business Today
 
-### 44. From cheaper oil to FII flows: How US midterm results could help Dalal Street - India Today
+### 43. From cheaper oil to FII flows: How US midterm results could help Dalal Street - India Today
 
 - Source: India Today
 - Published: 2026-11-05T04:48:13+00:00
@@ -446,17 +436,37 @@ U.S. Midterm Results: Trump Setback, Crude Oil And FII Flows; What Lies Ahead Fo
 
 From cheaper oil to FII flows: How US midterm results could help Dalal Street India Today
 
-### 45. Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gains 1.5% - TradingView
+### 44. Samvat 2083 | Peak pessimism behind Indian markets? Fund managers see earnings, FII flows improving - CNBC TV18
 
-- Source: TradingView
-- Published: 2026-11-04T11:01:34+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPMUNkd1M5SE5RNGwwSVppTnN2VkMxblBJb2N0S2hkVjNjWUtxdkpkQlh4TS1UZ0lWX282UHFnTEhYcG1wemtWS3ZwMWxKdGppd3BsLV9BckVqRWZhWGROM3c1ZXUwTnR4dW15VVJGaUFGSVBxMFBUSGc4allGelJXVEhKR3VUWkpIVVRZbWhURHNOWTR0S2FrQU9vNkZNaTFvVW9aV2JBVnZTY0dLRzN2dEVRbTA5b0gxZEw3QU42TTNBc0pSNkpvUF8yZlNjVXRVUENOd2l1Tmk0XzJj?oc=5
+- Source: CNBC TV18
+- Published: 2026-11-05T11:19:26+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPVy1Cc1lOaHhnN01pcGNudkZyVjFoTGxBN2ZJWHQycHFHOWF3SFo2QjA0QW16OXJadlZMWXdiTGhIVXRwb1JDeGFleC1oN2o2bHhWZHh6LWQ4N05XSENwQkdIRW5yaWRfdnJ2UzB3UnBheEVEZVhZSXhzdnFwMVZ2enFuSVkwNWthRkZ2czBZNUM3Q2FDeWRRS9IBngFBVV95cUxNZkdXNEVFd3R3RnBvMWJZZl9Mb1lScWQtbDJjWlczRXo1bTVaamRTeTdtRWdlQmdxa2UwMFF1TFFIVzdlVmtoYW5jWk82eUNVcVAwcF9WcUMzYVBKQS1XLUpiRi1zWDdFTlJmSHh0OUo4OU52bFBGRnllTHVsVDJuSzY4VEJRQm5UUlZJT1M3TURudXRNaXY4WVRPSS1CZw?oc=5
 
-Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gains 1.5% TradingView
+Samvat 2083 | Peak pessimism behind Indian markets? Fund managers see earnings, FII flows improving CNBC TV18
 
-### 46. New Samvat brings opportunities in mutual funds, equities and gold: Experts - IndiaIPO
+### 45. Indian markets regulator approves net settlement of cash market trades for mutual funds - Reuters
+
+- Source: Reuters
+- Published: 2026-11-05T11:15:43+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQYmdqRXA5SHV5S3VGV2hmdm54emlXeFBtU1VocUw2cTJZNkp3d2VSZ0JOTVdQMVluS3o3TmRkV0F4Y3hUS2t1d0E2NUFfOFNxZnVxcTdaWDVyMThjbDhjbkxtU2tJOFQyeHliSlhyZzJMYk15TDd4Rjg0czVJcEROVk5lUzJJTHJQT3ZabHI3dEZhQzRlYU1KaUR0WlVPQkYtZnRqVE1rUEtuMXhmLWs1WE92VkZZSG02M1R3cHlJWDlTZHlLeTZuUjhGMjNlUQ?oc=5
+
+Indian markets regulator approves net settlement of cash market trades for mutual funds Reuters
+
+### 46. Indian markets regulator approves net settlement of cash market trades for mutual funds - www.marketscreener.com
+
+- Source: www.marketscreener.com
+- Published: 2026-11-05T11:15:37+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZTZVcUd1cEY3VVo2QlRETmh3OGRzSmhXNHhXREZPM1IxQmxmRHpveEFZRUgyYzZYeFNUTUZkWmJPdkRtOVlmZV8wSmhFM1VNVWJUcFE3dkZLaDBnVVVRQW1aOVlsYTFYMS1VXzdiV1V3RXVKSDZiaXdvRUx6cHhsVTd6dE5LV2xVc1BiQ19HelFEdzZiV0hyMXhyNHBDQmZGeFgwbmxCZTQ1S0VEalZwc3FvcGliZzV6X3lEdm1wQU1Xd2pIeXFzMFRmeDNuZDg0OFJlZEpIVQ?oc=5
+
+Indian markets regulator approves net settlement of cash market trades for mutual funds www.marketscreener.com
+
+### 47. New Samvat brings opportunities in mutual funds, equities and gold: Experts - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-05T09:19:25+00:00
@@ -466,7 +476,7 @@ Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gain
 
 New Samvat brings opportunities in mutual funds, equities and gold: Experts IndiaIPO
 
-### 47. India small-cap stock surges 10% after earnings, AI pick gains 16% - Investing.com India
+### 48. India small-cap stock surges 10% after earnings, AI pick gains 16% - Investing.com India
 
 - Source: Investing.com India
 - Published: 2026-11-05T04:14:48+00:00
@@ -476,7 +486,7 @@ New Samvat brings opportunities in mutual funds, equities and gold: Experts Indi
 
 India small-cap stock surges 10% after earnings, AI pick gains 16% Investing.com India
 
-### 48. Stock Market Today: Crude Crash Brings Early Diwali On D-Street As Sensex Surges 1,600 Points, Nifty Jumps 1.7% - Outlook Money
+### 49. Stock Market Today: Crude Crash Brings Early Diwali On D-Street As Sensex Surges 1,600 Points, Nifty Jumps 1.7% - Outlook Money
 
 - Source: Outlook Money
 - Published: 2026-11-05T03:57:54+00:00
@@ -485,16 +495,6 @@ India small-cap stock surges 10% after earnings, AI pick gains 16% Investing.com
 - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPNjJ4NTB2Yk1Tc0J2OWFENVZkX01wQXRVdGt5UzRSZm45bXpHc0FtNGs1M1MtTXB2VEM1TGprN3N5VjBpZFhUaHJEOExtU0gzUjNVWVhVY2FlSERzRGxOeVNtNHNhVDBKTTFKOHgxbC02V0RTbHNSM0NNQzRCQXdOeXIzNmFTbFFNR0hSZUlhNW1JLTM0M0I0NUp1QWg1UFNYdlRlcENTT3I2Y3RBN2plX2ZodFpUWTNFTG0yYWpYOXo2emJ1UFHSAdMBQVVfeXFMUFRsU1BwVWJiTDN1d2hyWWNhNEZtSHRUSjJReXVUV3VZTC1FYXhnX0JpT0x2TEVSdllrOTVabmlwTWFURk5mMXpmNjlTcmNJSTY0UzBYYVFhaFUtd0NwYzdubmd5a1NDeU96UHZEZ2VSY01XcVlQakhOOVR5OUVtVi1maWlVaHBQZWk0eGlwTXhoQV9KRTBDSC1wLWwzX05kWHk0aERIcTF4VjlyZTBMUlQ2Y0pETm5xcnhPZHhHQ2dsMGdsNkc4S3BDWGZXWksxYVdHTQ?oc=5
 
 Stock Market Today: Crude Crash Brings Early Diwali On D-Street As Sensex Surges 1,600 Points, Nifty Jumps 1.7% Outlook Money
-
-### 49. Indian stocks likely to open higher as crude oil falls - NewsBytes
-
-- Source: NewsBytes
-- Published: 2026-11-05T02:53:48+00:00
-- Themes: market selling, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxOU19uRzZaNGhVUG5mWm1odXFvQ19VRkY5Y2Q5dGFrMWVpa3ZuOVp1NUc2T0toNmpfb1lsS0NGOEx3aWhuT0RFVnBLSUZaRHh5SGdGNF9CZGd4amp1aGU1ZmhGbVVQejcyUTRtQWhvaVZPRzZnNE5mLW84UURPVW9Zd3VUaENlNGFwZjhLMlZvTDE1d25CMl9DdHJ6dVRBd1A0WFhBeg?oc=5
-
-Indian stocks likely to open higher as crude oil falls NewsBytes
 
 ### 50. MP calls on Competition Bureau to review impact of big banks’ dominance over mutual funds - The Globe and Mail
 
@@ -546,27 +546,17 @@ Market Wrap: Sensex, Nifty Give Up Early Gains on IT Drag Kalkine India
 
 Meitav's Mutual Funds Division Soars: Surge in Market Share Driven by Record-Breaking Inflows PR Newswire
 
-### 55. 13 equity mutual funds offer over 15% return on SIP investments since last Diwali. Do you own any? - The Economic Times
+### 55. Why did market rally today? Sensex zooms 2,009 pts, Nifty above 24,500. Trump’s setback, 6 other factors b - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-11-04T11:20:09+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxObTFzWWpvVC1LSkJQNjkxd2RwTWxad01SUXRqUkpCNUtuSTlUaGdob1Qzd3Q4LUFXMkpNUC1nV2Q1akJWVTV5amlrQXF2SDFQbExjMHdodC1HUVNFWGpCX1dEeC1EMTltS3REd3dJYWVOV2lRbVJ2THVIbzJFbHVrTDZnZXZSeW5wcW9IRnFxbXU5SnFENWxSSTdLcjVjM1hkMnBXQ1pQblFFLXVuYWJEMzR2Q1huMEprTWplMTdnMTFZcFNOZ0RSZW96aEx2el9SeXhGTHhWNUJqQUNYSTlobTVEeEt3Q2xUUzg1akZ6Yy1ZQnfSAfgBQVVfeXFMTmNuYUJRc1FtYXVyR3RpZjlld3VVb3l4bUg2QzlUM1JHNlFWZTNHckVvVFBObXg2eGNublR4UG1vdi12WDdOZVMyRFFVR2U1ME00QTJid3BsbnpkWUt3TjhJdUxCVW5EZjQ1cnpaYVo4akxfVzU5Qmh5cGFpNGxIT1ZzTHZwcVFhb2lPX0tCS2czeEJHUk00Nk5GR1p3WXRJeTZNODdUN3cwVUZyMERsQnhtUlJQWDE4Tkd5RFRQRTNCUUxILThIWXU3b2VVd1M5OHZRbzBJeFFpWno5TXk3MURWeFBNeVB3Z3JFZkE1SFhwa0UyUTE0b1c?oc=5
+- Published: 2026-11-05T10:24:25+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZDNtNklfbXozSW5uMVB1a21Yc2Q3eHlNc0lfOEE0SVMxRXFEUFRFb19MZ0R5NGNOUTQ1bjBoWENqX0Zwb1g3OHljN2loM3FuOXFqaEowMHhIMkloVGNuRkcwR1ZwVmFHWTFuZXR1MzRyV3VndkdTdm9tbmtXd1o5X05zRjB0Z2VwQlZtQ2dNSUlVMlZmX25lOEVCRUpiSGRka2p6dV9Pa2QyeWNlTFkxanA0ZG11dmh5alVlbEVlY0NSQzFTYWRobUFDMlR0TTNNYkFISndQY1lzVFczODAySVFlZ2EwVHk2QnJBRnlDN0hka0dFQmc4Rzl30gH_AUFVX3lxTE1sdWJnN1hJZEsxOGZpZndac0FINU9aYVNISXRRQVJJcmQ3Q0ZlWVlrMW1PeUlocUVOMjJhMkF2LXRFaVFHNk5JcGswdE9wOW5CNVR5clI2bVVwR3ROZG1jNnRxWmdKWjFkdG4yVlZSNDZWck9ibkdyczJMRS0wUS1NWWpZM0hyanBOZTVSQzdaVUlNMnkwd3BZOVdHVGZnQ1B3OU9USE1UZU44WDkxazE1azQzcEZUejJrUUM0TnVFOVdEUWpRelNpMGpmV254dS0tV2E5eW0yMmpuMGc2U0Vxa3BHazBUdU9YTnM0ZjhEN20yZTQ3amlMajk3YlNOZw?oc=5
 
-13 equity mutual funds offer over 15% return on SIP investments since last Diwali. Do you own any? The Economic Times
+Why did market rally today? Sensex zooms 2,009 pts, Nifty above 24,500. Trump’s setback, 6 other factors b The Economic Times
 
-### 56. Sensex Rallies 5th Day on FII Inflows, Easing Crude Prices - Rediff MoneyWiz
-
-- Source: Rediff MoneyWiz
-- Published: 2026-11-04T10:51:26+00:00
-- Themes: India market, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxNZzlDSFBhQk5HMXF4MmZwVnlNUDVpOGZaUC0ySW5iNWFFN1BIQ0dwM0ZOdGNjdmt1enFPNDNFZVJ0ZW9vMHpNekdTNTItdmd0RlZXZjFnNU1DUW10R3ZmS05FdnNxcEdKa2VzeHZ5MVVTS3N0d0d0ZUlORk1VRFdfRGhvRVpza1AyN3pLaWlVMjYwT2d0X1d6aU5zSW5aeEtleXM2bGlRRlBTLXAtMFHSAbMBQVVfeXFMTkFkbDNqQmsxdkJBWU55R0NLcjJ4MUZ2MnpjTi1UaVIyOUVIaTFlVVdOSnRCNzFMWkw4U1paQ0ZHQ2dSOU5KZ2IxSFpBcThWSzZURDBRT0RxNXJhV3BYc0Z2Y1BBTkxBSXRQZUh4cGZNb0VQSWg1b2k0ZkNJWkdfamtpaHdaeGxVLXBwYng4aXh2ZUhMNzJqcWtTYU9TSTlUMVNEdERzSHZHMExBNTRfc282dFk?oc=5
-
-Sensex Rallies 5th Day on FII Inflows, Easing Crude Prices Rediff MoneyWiz
-
-### 57. Has FII sentiment towards India weakened? Raamdeo Agrawal shares his view - Business Today
+### 56. Has FII sentiment towards India weakened? Raamdeo Agrawal shares his view - Business Today
 
 - Source: Business Today
 - Published: 2026-11-05T09:49:52+00:00
@@ -576,7 +566,7 @@ Sensex Rallies 5th Day on FII Inflows, Easing Crude Prices Rediff MoneyWiz
 
 Has FII sentiment towards India weakened? Raamdeo Agrawal shares his view Business Today
 
-### 58. Sensex Today | Stock Market Live: Sensex erases 500 pts form day's high, Nifty at 23,800; IT stocks - IndiaIPO
+### 57. Sensex Today | Stock Market Live: Sensex erases 500 pts form day's high, Nifty at 23,800; IT stocks - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-05T09:19:28+00:00
@@ -586,7 +576,7 @@ Has FII sentiment towards India weakened? Raamdeo Agrawal shares his view Busine
 
 Sensex Today | Stock Market Live: Sensex erases 500 pts form day's high, Nifty at 23,800; IT stocks IndiaIPO
 
-### 59. Oil India Ltd. Shares Hit Intraday Low Amid Price Pressure on 5.16% Decline - MarketsMojo
+### 58. Oil India Ltd. Shares Hit Intraday Low Amid Price Pressure on 5.16% Decline - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-11-05T08:03:45+00:00
@@ -596,17 +586,7 @@ Sensex Today | Stock Market Live: Sensex erases 500 pts form day's high, Nifty a
 
 Oil India Ltd. Shares Hit Intraday Low Amid Price Pressure on 5.16% Decline MarketsMojo
 
-### 60. Why is stock market rising today? Sensex zooms 1,700 pts, Nifty above 24,450. Trump’s setback, 6 other fac - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-05T07:37:47+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxPZDNtNklfbXozSW5uMVB1a21Yc2Q3eHlNc0lfOEE0SVMxRXFEUFRFb19MZ0R5NGNOUTQ1bjBoWENqX0Zwb1g3OHljN2loM3FuOXFqaEowMHhIMkloVGNuRkcwR1ZwVmFHWTFuZXR1MzRyV3VndkdTdm9tbmtXd1o5X05zRjB0Z2VwQlZtQ2dNSUlVMlZmX25lOEVCRUpiSGRka2p6dV9Pa2QyeWNlTFkxanA0ZG11dmh5alVlbEVlY0NSQzFTYWRobUFDMlR0TTNNYkFISndQY1lzVFczODAySVFlZ2EwVHk2QnJBRnlDN0hka0dFQmc4Rzl30gH_AUFVX3lxTE1sdWJnN1hJZEsxOGZpZndac0FINU9aYVNISXRRQVJJcmQ3Q0ZlWVlrMW1PeUlocUVOMjJhMkF2LXRFaVFHNk5JcGswdE9wOW5CNVR5clI2bVVwR3ROZG1jNnRxWmdKWjFkdG4yVlZSNDZWck9ibkdyczJMRS0wUS1NWWpZM0hyanBOZTVSQzdaVUlNMnkwd3BZOVdHVGZnQ1B3OU9USE1UZU44WDkxazE1azQzcEZUejJrUUM0TnVFOVdEUWpRelNpMGpmV254dS0tV2E5eW0yMmpuMGc2U0Vxa3BHazBUdU9YTnM0ZjhEN20yZTQ3amlMajk3YlNOZw?oc=5
-
-Why is stock market rising today? Sensex zooms 1,700 pts, Nifty above 24,450. Trump’s setback, 6 other fac The Economic Times
-
-### 61. Sensex Surges Over 1,500 Points, Nifty 50 Crosses 24,400: 5 Key Factors Driving the Stock Market Rally - Dalal Street Investment Journal
+### 59. Sensex Surges Over 1,500 Points, Nifty 50 Crosses 24,400: 5 Key Factors Driving the Stock Market Rally - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-05T06:46:29+00:00
@@ -616,7 +596,7 @@ Why is stock market rising today? Sensex zooms 1,700 pts, Nifty above 24,450. Tr
 
 Sensex Surges Over 1,500 Points, Nifty 50 Crosses 24,400: 5 Key Factors Driving the Stock Market Rally Dalal Street Investment Journal
 
-### 62. Sensex Today | Stock Market Live: Sensex surges over 1,500 pts, Nifty nears 24,400; auto jumps over - IndiaIPO
+### 60. Sensex Today | Stock Market Live: Sensex surges over 1,500 pts, Nifty nears 24,400; auto jumps over - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-05T06:35:16+00:00
@@ -626,7 +606,7 @@ Sensex Surges Over 1,500 Points, Nifty 50 Crosses 24,400: 5 Key Factors Driving 
 
 Sensex Today | Stock Market Live: Sensex surges over 1,500 pts, Nifty nears 24,400; auto jumps over IndiaIPO
 
-### 63. Indian markets surge as oil prices fall, US-Iran peace hopes lift sentiment - Free Press Kashmir
+### 61. Indian markets surge as oil prices fall, US-Iran peace hopes lift sentiment - Free Press Kashmir
 
 - Source: Free Press Kashmir
 - Published: 2026-11-05T06:34:43+00:00
@@ -636,7 +616,7 @@ Sensex Today | Stock Market Live: Sensex surges over 1,500 pts, Nifty nears 24,4
 
 Indian markets surge as oil prices fall, US-Iran peace hopes lift sentiment Free Press Kashmir
 
-### 64. Sensex jumps 1,400 points, Nifty crosses 24,300 - NewsBytes
+### 62. Sensex jumps 1,400 points, Nifty crosses 24,300 - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-11-05T04:42:14+00:00
@@ -646,7 +626,7 @@ Indian markets surge as oil prices fall, US-Iran peace hopes lift sentiment Free
 
 Sensex jumps 1,400 points, Nifty crosses 24,300 NewsBytes
 
-### 65. IndiGo, SpiceJet shares surge up to 7% as Brent crude price falls - Business Today
+### 63. IndiGo, SpiceJet shares surge up to 7% as Brent crude price falls - Business Today
 
 - Source: Business Today
 - Published: 2026-11-05T03:58:55+00:00
@@ -656,7 +636,7 @@ Sensex jumps 1,400 points, Nifty crosses 24,300 NewsBytes
 
 IndiGo, SpiceJet shares surge up to 7% as Brent crude price falls Business Today
 
-### 66. Nifty, Sensex rally: Diwali fireworks! 5 reasons why stock market is rising today - Business Today
+### 64. Nifty, Sensex rally: Diwali fireworks! 5 reasons why stock market is rising today - Business Today
 
 - Source: Business Today
 - Published: 2026-11-05T03:54:32+00:00
@@ -666,7 +646,7 @@ IndiGo, SpiceJet shares surge up to 7% as Brent crude price falls Business Today
 
 Nifty, Sensex rally: Diwali fireworks! 5 reasons why stock market is rising today Business Today
 
-### 67. Samvat 2082: Sensex, Nifty set to post worst show in 15 years - Business Standard
+### 65. Samvat 2082: Sensex, Nifty set to post worst show in 15 years - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-05T01:45:00+00:00
@@ -676,7 +656,7 @@ Nifty, Sensex rally: Diwali fireworks! 5 reasons why stock market is rising toda
 
 Samvat 2082: Sensex, Nifty set to post worst show in 15 years Business Standard
 
-### 68. US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views - Livemint
+### 66. US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views - Livemint
 
 - Source: Livemint
 - Published: 2026-11-05T01:07:34+00:00
@@ -686,7 +666,7 @@ Samvat 2082: Sensex, Nifty set to post worst show in 15 years Business Standard
 
 US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nifty, gold, silver rates? Experts' views Livemint
 
-### 69. U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling - WSJ
+### 67. U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling - WSJ
 
 - Source: WSJ
 - Published: 2026-11-05T00:05:38+00:00
@@ -696,7 +676,7 @@ US Midterm Election Results 2026 impact: What Trump's loss mean for Sensex, Nift
 
 U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling WSJ
 
-### 70. Trade Setup for November 5: Top 15 things to know before the opening bell as oil prices fall below $100 a... - Moneycontrol.com
+### 68. Trade Setup for November 5: Top 15 things to know before the opening bell as oil prices fall below $100 a... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-04T17:55:10+00:00
@@ -706,7 +686,7 @@ U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling WSJ
 
 Trade Setup for November 5: Top 15 things to know before the opening bell as oil prices fall below $100 a... Moneycontrol.com
 
-### 71. AMD forecast exceeds estimates after AI chip demand soars - Taipei Times
+### 69. AMD forecast exceeds estimates after AI chip demand soars - Taipei Times
 
 - Source: Taipei Times
 - Published: 2026-11-04T16:00:00+00:00
@@ -716,7 +696,7 @@ Trade Setup for November 5: Top 15 things to know before the opening bell as oil
 
 AMD forecast exceeds estimates after AI chip demand soars Taipei Times
 
-### 72. Indian stock market rises on Rs 21,607 crore FII buying - Multibagg AI
+### 70. Indian stock market rises on Rs 21,607 crore FII buying - Multibagg AI
 
 - Source: Multibagg AI
 - Published: 2026-11-04T15:02:16+00:00
@@ -726,15 +706,35 @@ AMD forecast exceeds estimates after AI chip demand soars Taipei Times
 
 Indian stock market rises on Rs 21,607 crore FII buying Multibagg AI
 
-### 73. Why midcaps and smallcaps are slumping despite Nifty recovery, expert explains - India TV News
+### 71. A $0.31 dividend accompanies falling investment income at MidCap Financial (MFIC). - Stock Titan
 
-- Source: India TV News
-- Published: 2026-11-04T11:33:44+00:00
+- Source: Stock Titan
+- Published: 2026-11-05T11:11:18+00:00
 - Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOVFBKWGVMTGIwbUJKckZmYllCVDh2dThyS0N2eDFLRlJxelU0MkxPRjdnaG5CWkFFN1R0TnV4bUFhLTdzYmtiRTFYRmxkQ1U2OVVxWWdjS0JKaGEwLUstS3JvOTZ6QXBnVklwanliUHpkd3FCNmg5bDczcWxIQzVqMjJUcU41WmZTNUVwZmwxVDhNUzV5N1FZaWdQdS00czgyNmVOYlU4TWUyLUV4WkxmZndsbjhWdVBtWVRJTE00bTdXRzRjZlBmWUxrcUlselgzMVk1M9IB2gFBVV95cUxOTHlJZklSQjQ1WFFYbnV0eGZ4d093OU90VmNQcnFJOW9USnhNXzJpdkhVNm9pdXhFdDhIU0tPLXRJLXY3Tkw1eTRCdUZSQ1BPUGlTc1VTNkI2TzFJV09QRXRqNEVuY25PeV9oZU1QSWhRRldkcUUweXhCWkRPRnN3Xzk0VE5idWhCVlNxSnVDWXVyN25STXJobVJpR3UwRnh3dnpsLXQtZTc4djVNUy11YlZ5RWhrMnpnVjlSZVpZbkFBRkU1MFpNQnRIOHNtR2xRMk5KUVA3Q1dnUQ?oc=5
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxPVjJWdVo5ZWpqNWN5bk9XS1VwMnhuUGtHVzdpR08wVnZZUkJoazJNR1pOWnNzV0F5TmpyY1U2OUZpNW56V3ByWG96aU90a1FkemRzRzNZR3hmbGtpSmEzSGZrMkZlWnRic1RYRUkxOVJkQ0dMRUlBTlE1VXpDcnA1aVRwMnZRdGR3S2JldzJwYktSaFpRYkhKRVJMOTcxWnNMelNQSGY1QklCcHVKREdNelJ6a3hRaVhKd1dIV01mUTlOUGg3UWhnU0prNA?oc=5
 
-Why midcaps and smallcaps are slumping despite Nifty recovery, expert explains India TV News
+A $0.31 dividend accompanies falling investment income at MidCap Financial (MFIC). Stock Titan
+
+### 72. A $0.31 dividend accompanies falling investment income at MidCap Financial (MFIC). - Stock Titan
+
+- Source: Stock Titan
+- Published: 2026-11-05T11:06:38+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPQnZyOVlHZDFKTTB6aFJpcHFTU21DektvUjNmQXVfTnN0WUFHNTd0NXN2V3ZQSlNlaS1XLXRHVS0xb3FXcWpqd3Y5dWlnUGV5T3RxcFBwd1EtRlBINVcwczk2Z2lRZVM0Z3VTc1JFMDNSMkNuLUl4MnZITjBFNjBlQWxNdXZXTC1IdVBBTzQ3LVB4SEl2UGlzWkl5SGM3N3I1eHpROWw0UG9uRGJ2RGhXRl9nOC1oU3RSUW1UQXNNYw?oc=5
+
+A $0.31 dividend accompanies falling investment income at MidCap Financial (MFIC). Stock Titan
+
+### 73. Why an AI bubble burst could expose European automakers with weak partners - Automotive News
+
+- Source: Automotive News
+- Published: 2026-11-05T10:45:00+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxOMHRtMDhZYi1nUlJOOVVvekROY212RnVEMDlkWnhxc3FWZEpEcjhieWdIYW1udkMxaFRHa2dfRnNOZ2JwWjRzQ0VmWHV3ZzY1UXdkUklvMzQwZ01vRGVJbl9MMzhYYUN3YTFHNUs3TnNHVVFxNnhoRUlIS1pobzhSWlU3Z0pJLWtLUVdQQjlvTQ?oc=5
+
+Why an AI bubble burst could expose European automakers with weak partners Automotive News
 
 ### 74. Data Patterns (India) Ltd Sees Sharp Open Interest Surge Amid Mixed Market Signals - MarketsMojo
 
@@ -796,12 +796,12 @@ Hitachi Energy India Ltd Hits Intraday Low Amid Price Pressure on 5 Nov 2026 Mar
 
 JP Morgan, BofA bullish on Indian stocks, see $115 billion FII inflows; bet on banks, realty Zee Business
 
-### 80. Solar Industries India Ltd Hits Intraday Low Amid Price Pressure on 5 Nov 2026 - MarketsMojo
+### 80. Cathie Wood Buys $11.2M in Palantir as PLTR Stock Extends Selloff to 7 Sessions - TipRanks
 
-- Source: MarketsMojo
-- Published: 2026-11-05T06:56:15+00:00
-- Themes: India market
+- Source: TipRanks
+- Published: 2026-11-05T07:26:39+00:00
+- Themes: market selling
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNM2hJNlBHTjhDZmk5T3VxUXlQZENYcGZ6anBHS0kyd0tRMDc4WFhXWC1TS1d0X3hVVGthTk83REd5bklfbGxQdzdJTktwaGJ6QUhCSDZVS1ByOFJ5ZnVkMGs4MUFiT29TeDljR3JyMmtDZEdRWHdtVW1sYTRxdHpHMTdhQzFBTTdfblZjSUtVem1KSUMydGV6YXNOSkxKZ3k0bjdqWkkxNlNMRllrSEVxSmxmMXZldzRQZktnVXI5SkM4UW9XcVcxU3VHdWQ0dHRLa0E?oc=5
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxPbW1rZUFRTEZpdzcxRmhvZGtBS3Jfa1Q0Z3g1LWxqTE5LT2tzWDNPS05JWjhHbC1JYkNuZVNmaHQyT0xJZzNURlE2YmpySE43MmlmVG15R3hTSG5sUTJFdVNHeWpZRWhwR3BRWEdkRjFJNUs3S19NWkZiTG5WbVBmZ1ZNanotRW1WZ1VxMXBvRjU0VE5lWXRBa1luLUJUdVd3NmwxUTJLeDJXVks1?oc=5
 
-Solar Industries India Ltd Hits Intraday Low Amid Price Pressure on 5 Nov 2026 MarketsMojo
+Cathie Wood Buys $11.2M in Palantir as PLTR Stock Extends Selloff to 7 Sessions TipRanks
