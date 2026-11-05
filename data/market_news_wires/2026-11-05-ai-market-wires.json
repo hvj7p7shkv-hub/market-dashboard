@@ -31,11 +31,11 @@
     "score": 12
   },
   {
-    "title": "Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% - ANI News",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOcXk5MjF6YzlXeVpfd09pSHZXVWRHX3F6Z3pjZjJUR00yeFVUYWVCanJIN2I0U0JiU3hIWlJkMVJ4SmtLdTc5SlJsOS05NDlaQ0RGSzBrS3pjVWpuSWloNURoZFVvYlpjaDd2NEVRRDNzcXpUbXhuOTVBMVQ5LTRIekh0RlRLdDlDeHJvUVVuNmtTNTBnNllDNUVZLVU0WV9YcnFQOVZvRHpMYWdwUjFJQVdUYUFtLUxlcDBEWm5oNjVLbWU3aDNoSFkybVE2aXdYdnhJVW81ODhqb1VxeXA2Mg?oc=5",
-    "description": "Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% ANI News",
-    "published": "2026-11-04T10:27:00+00:00",
-    "source": "ANI News",
+    "title": "Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% - The Tribune",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPeHdPdGtKVHAxYmxKZnE5aGk2ellUcG1Iakpha1p5TzRBY1RBVjVfNC04Vi02amtMWGQwUkxtb1NzdmN1SndGSm1nOWhYVVZkWWRHN2Y1cFpyRDc5eXhpWkVEYjdxTEV6WWp4TnpOcDZIQllZeVA3ZXJpNWtGY0NCeGN0NGlSZVVDSGNjNngtX2JrRzVkbzM2Z3dGQWxjeFc3YWx0UzBzWDVoazRXSHk0SzJVLURydmlQSUs3RWpkS19jS2FPWHdrazZkNHBuUHpjZVJXSUxhNNIB2wFBVV95cUxQM1dfdEVERTFsVVNLWEcwWUZyNEZ3QTBGQURyUUtHWnQ1alVaWFRTY2J2bzJaRm1JdHRGcWpha2txMTAwV3FuWXdXcVE2QWNIc2RrLTdrTDNuRG5rV3BNOEJDVF9GQlN4VlllanoyMmo0dTlPNGQySmNhRE9qQ2xoVnBQblNoSGlNQWp5NEE0eHF1VTFPZXNrLVZCX01jNHVIU19SMFdYZjN1clRvakdPMDZFdDVNQlpIS1g5dk5fM2tCUFdRa3ZTTjFnOVJhM1VqUnVFNnJCQ21QdUU?oc=5",
+    "description": "Sensex, Nifty extend rally for fifth session amid volatility; Midcap, Smallcap stocks surge up to 2% The Tribune",
+    "published": "2026-11-04T10:37:58+00:00",
+    "source": "The Tribune",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -52,6 +52,21 @@
     "source": "The Hawk",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling",
+      "macro / flows"
+    ],
+    "score": 8
+  },
+  {
+    "title": "Global AI correction could boost capital flows in Indian markets: Uday Kotak - IANS LIVE",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR3FrV0ZYSTZBdUh4WkpUT1JEWjFscXExUWwxMUh3UDJiU21hTi1yNVYydlJPcWZWQWlMNEdPWjdkWkZKcmtTWUd0c2pzN0toRjkzeng3cGxTaUJ0Si1yQnZnWVNmZXVFVXVfSjdTTTk1Tm5HZTNlLXA4Um1HQmRtbXVPMmpHQ2ItTjRSckFUSkIwT3k0eGtVQlB5di1Sc0J6NUo0Tw?oc=5",
+    "description": "Global AI correction could boost capital flows in Indian markets: Uday Kotak IANS LIVE",
+    "published": "2026-11-05T09:12:00+00:00",
+    "source": "IANS LIVE",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "AI / tech risk",
       "market selling",
@@ -245,6 +260,20 @@
     "score": 7
   },
   {
+    "title": "S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff - BBN Times",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVExNRW9xTGFoOVE1bWdtQzF6Mm5xUkZyMk43RU9RVDBhOVJ2N0NDNm5aN3RBRnpYc3VUZEpJcUFlbnlSMlJ3NHpaZnZyYnRmNl81WEFFZ3JHeUs1c3U0TXQ0VzlSTjJLMW1Wb1pvRjBqSl9DY0IzREVIZTBPM3hyS2x2RzhudEw4dWVLQWMtSDZjSXV5MXdqWnB5WVZUbEYxTV94eFRKRmJ3R2hnU0I0amgxM1RvTkl0aXc3MVYwRQ?oc=5",
+    "description": "S&P 500 Slips to 7,580.07 in Worst Day Since June as Intel and Amazon Deepen AI Selloff BBN Times",
+    "published": "2026-11-05T07:47:08+00:00",
+    "source": "BBN Times",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
+  },
+  {
     "title": "AI selloff drags Nikkei lower despite broad-based market gains - The Economic Times",
     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOblJiY2E5Y3ptd2FGWXNqZHRVSnZTYmo3UC00Skxxc3ZHWVBuM3I0MXlHM094TjE1ZVpDTzNHOEl2LXdjM19rTkhNd2xvY045RU1OVGRwaUhuZ1A2Z1B3dnpuLW9PNzdjUW9oZHdtdm1MUGJrUDB5dGFhb0tUZDF2WmkzZGtZY0U5OF9mMTRSdm9pMGJZR0lONzU4M2hQWk9LVUhNYXZCb1NrSVJXSDFGazBRVXVqeG9QaWwxeXJmY09SdzVZbGJJWVlseVZzZGdPZS1xQXZ6YmtCSzdEbEVSVEhB0gHbAUFVX3lxTE5tRHpaRHNhQVkzSVRRM3piQ2JMWG55RGtDMnB4YnFDdFlrSWROdWZDdE1wZGt2ZzNHY1NsUWdySWRNdHpqbEpWRWp3VWtTU0tQdXJTamI4Ylo0Q1luRWU4WG4wd0RiZGlaWl9YR1FjVGpya2FZLWxmZENvVm01Zmt6Qi10TjhsVkh6blpiYnE2ZkEyS2dURUVoRWN5SjliX0liaWVRTHQyNlpTaEpSTFZ4Z0gtUndxTzRHTTRPbFpNTExwRExrZzdld0tDNDd0ZVg2WTZKQUNYWjhfSQ?oc=5",
     "description": "AI selloff drags Nikkei lower despite broad-based market gains The Economic Times",
@@ -363,20 +392,6 @@
     "description": "AI's Building Boom Meets A Blue Wave. 'Neocloud' Stocks Fall. Investor's Business Daily",
     "published": "2026-11-04T19:01:00+00:00",
     "source": "Investor's Business Daily",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Global Stocks Fall Amid AI Fears, US Midterm Sweep Odds - RS Web Solutions",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdjA1bktXZ0U2eGxhMHJjYW12OTZYUVNPcWx6MG96QzJHdG9TLXVtckRaU2N4ZG5kZ3NJRUFxbmVuSzd0T011YWJwN2FDMUVSMTNWa0tpTXNBcDVmN2ZrQkFEVXJ5N2dla3Vqczk5U3ltMTlOT1lDbHRCaVduaXdPTEVzbmF4QVhjbnZIbnVVcGdDNk90aHpWVjd2LUkwRG1lVDVmWVcxZUl1T0JuVDNwR3hQTm1TbGVPWGY0RA?oc=5",
-    "description": "Global Stocks Fall Amid AI Fears, US Midterm Sweep Odds RS Web Solutions",
-    "published": "2026-11-04T18:00:00+00:00",
-    "source": "RS Web Solutions",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
@@ -622,6 +637,17 @@
     "score": 4
   },
   {
+    "title": "New Samvat brings opportunities in mutual funds, equities and gold: Experts - IndiaIPO",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMVR5dUNUMnF4eTlyVjlkZk9QdWpaX1pQOElFeDl2QWNKODVWd3RwTkZmV25BTmg4NWlaOVBhb0E1ZFpFUklIVmFhQzUzcXNsWDdGVkJRNjc2bGFTMXRqRXJCbElzMXp5bGgxUHM2YUNMSlZRN1QyYjFNOUlDN0NHRE9PSkNqQkNsX05ENVVBUGc4VkxVV2JuVmE1Mk8wbmthRUREYUo1elV6a2JGdVE?oc=5",
+    "description": "New Samvat brings opportunities in mutual funds, equities and gold: Experts IndiaIPO",
+    "published": "2026-11-05T09:19:25+00:00",
+    "source": "IndiaIPO",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [],
+    "score": 3
+  },
+  {
     "title": "India small-cap stock surges 10% after earnings, AI pick gains 16% - Investing.com India",
     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXBSc3Y2cGY2Y2h0OEJGTTZiU0RsTU9mNG1yVVFiXzFVVnBWb0pKQkl3R0tlWEo1SmowUzh5dTFWTmtoc2FZNEotYy03ZzlCVWhBdlA1REZvdHdUeGFHUGtNZktQWFkxMFFvZFQzcDFGUWFxTGFCT0hBZ0JWUGFZSFlyT3VWUjBiUHMxTlhpWmpSUUtjUm01ekJncTFYZ214b056TnNLdE5HUV93d2xHTTZLTnIzMlY3a3c?oc=5",
     "description": "India small-cap stock surges 10% after earnings, AI pick gains 16% Investing.com India",
@@ -648,6 +674,31 @@
       "India market",
       "macro / flows"
     ],
+    "score": 3
+  },
+  {
+    "title": "Indian stocks likely to open higher as crude oil falls - NewsBytes",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOU19uRzZaNGhVUG5mWm1odXFvQ19VRkY5Y2Q5dGFrMWVpa3ZuOVp1NUc2T0toNmpfb1lsS0NGOEx3aWhuT0RFVnBLSUZaRHh5SGdGNF9CZGd4amp1aGU1ZmhGbVVQejcyUTRtQWhvaVZPRzZnNE5mLW84UURPVW9Zd3VUaENlNGFwZjhLMlZvTDE1d25CMl9DdHJ6dVRBd1A0WFhBeg?oc=5",
+    "description": "Indian stocks likely to open higher as crude oil falls NewsBytes",
+    "published": "2026-11-05T02:53:48+00:00",
+    "source": "NewsBytes",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "market selling",
+      "macro / flows"
+    ],
+    "score": 3
+  },
+  {
+    "title": "MP calls on Competition Bureau to review impact of big banks’ dominance over mutual funds - The Globe and Mail",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOcjF2RlhDaDA3Nld6UmlhM3dDekRRZzdjWUxyc19rQV9KSDBOQUo0aWxseXA4X2R1M1F1TnhpWHl2YUEzVlVoTE44SnVwcU44WTF3WUxGakhNbnNKbkYxNmlBM0ZGNGRZckx1ZXd2cmhOSFVPNjBtRkx6cFdMQTJyeEVETEcyczFIUGRGb1U1OXZ1WmhLWGFraVkwcWtyREJoMllUUmhKRUFfOU0?oc=5",
+    "description": "MP calls on Competition Bureau to review impact of big banks’ dominance over mutual funds The Globe and Mail",
+    "published": "2026-11-04T23:39:34+00:00",
+    "source": "The Globe and Mail",
+    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [],
     "score": 3
   },
   {
@@ -686,17 +737,6 @@
     "score": 3
   },
   {
-    "title": "New Samvat brings opportunities in mutual funds, equities and gold: Experts - Business Standard",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQa05aeW5WNGRTVWEwMk0zd3V6RUhHdXdNRS04ZFBJdVBBby1KS1FkNXJnU2R2WGl0ejhQZWo2c0FvTzg2Smt6RnJ4aGpBdHRTWkpTS3ZfbWFYQkRNN2ppZkJmSnVWS2QxMWgwN0xsTlJ1UmM2QmZCTGxQdkJMNTdkYlcyZzVlX0VzQTQ1OTRYVmtkejFNeHlZR0pudUtYblM3RkZPZl95RzhBWTMxSWV1dmxseWdvWWtNcDI2MkxLUDAzTjJkSDdKV3Vlcko5TjZTeUZic082a9IB3AFBVV95cUxPTGlyY1RhUzZ4TUJydXJROHdfZjdVeXpWc2dPazZaVk9qNm9qdmtLMlB2R09QWTR2bTdJUjZZQTZNYXpjZGFFV0FkanBwR2lyMkVVU29mVk94SWVsZE1xZ0Z3U3hBTWlEaTFzQlEweDNhVkpYSXF4YlJ6MmlKU0tGOUlSRHN4US1zb3NxSUQ4bzk5bkZsa25pc0JkbnluM1Brcmx6cUJraDFJQzVkbS1FcFZLYWVHbTFoUzNrT1JLN1dwUEVYQm9KdmRMMWl4R2dKaTFqMjNfNHVWZGF1?oc=5",
-    "description": "New Samvat brings opportunities in mutual funds, equities and gold: Experts Business Standard",
-    "published": "2026-11-04T14:31:29+00:00",
-    "source": "Business Standard",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
-    "score": 3
-  },
-  {
     "title": "Meitav's Mutual Funds Division Soars: Surge in Market Share Driven by Record-Breaking Inflows - PR Newswire",
     "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRVZTb1VnVXBiRWs4eWoyUVZnTmxCNG5CeDEtMEVhdHUxbjJHVFhKUG54Y2pFeU8zOEtpb01ucnNGejNzNlI0cGJYeXlBdVIwdmlmTHg4RWNSY0dvamxpSUdvMVd3MVUtNVpnTXpDVGp5WVBDOGRfZi1GblFQbnh6LVlWRTFfTjJlZUJsdUlSVDJSMVVad1pZc2ctN0JoRDFZTTlfMmtUWEdHb1dTa0otWFlaYmkzLUxmcDBxWmRWQkU4d1hodGEyeXY1bE5pUkRyUUZPRnFwNzhuT2gzWm1sdk9rQnA?oc=5",
     "description": "Meitav's Mutual Funds Division Soars: Surge in Market Share Driven by Record-Breaking Inflows PR Newswire",
@@ -730,17 +770,6 @@
       "India market",
       "macro / flows"
     ],
-    "score": 3
-  },
-  {
-    "title": "SIP Inflows, Equity Funds & Market Trends: Anand Rathi On Samvat 2083 - Business Today",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNajN1azhtbjkwNFljeUdxeGNKZ0pyYnlXQV9CSnNXRmJ3ZDZYVjhGMTdvWDZzM3V3T1pkWWFhZHg0X01jcFFfbTgzbnl2cWN1cHFFSVlKdkdLalFoNU1ENWhpVGJCdzRDYm43eEZwdGdjVlFDM3pxUWJFdlhDU3RKc3dZMkQzNEdENmtZeXlRM2JpSXlJMXhUVGFWRVhpUUExVTRMcExzTmdwOWRiQjlEUmtzSWlqUEJRZUl6QXJTMUozRTV5TXg2TWFyV3Z4U0R3ek9Z0gHYAUFVX3lxTE9tYXBsOEZPWEJGUmJWdWE2dV9FSmdORi11VU5xRjY2ZnRjR1A5dzAwZFQ1bnZOYXotRjdtS0p4Rk9FQVl6VFlnZVVuc1lEUGtfZGJPR1AyRFlXdGVTaHFrbl82dVlDamZ1WkRrUlktMEw1bnU4bDRNWFhkdkpVOGlyY2xjTWI5aEJWdmZlcFppQ1NRQTFqTWVsSTlUcEtfWEtvV0dzMjBHcmV3WDJVR1ZLYU4zUU1DTTZveHJtVjZKeDBURExlb2VDNm9oQlVBcW53QmU0QmlvRg?oc=5",
-    "description": "SIP Inflows, Equity Funds & Market Trends: Anand Rathi On Samvat 2083 Business Today",
-    "published": "2026-11-04T10:13:54+00:00",
-    "source": "Business Today",
-    "feed": "\"(\"mutual funds\" OR SIP OR AMFI OR FII OR FPI) (India OR equity OR market) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [],
     "score": 3
   },
   {
@@ -871,6 +900,19 @@
     "source": "Business Today",
     "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "India market"
+    ],
+    "score": 2
+  },
+  {
+    "title": "Samvat 2082: Sensex, Nifty set to post worst show in 15 years - Business Standard",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzBGeXNTSVBhbFYydmlGX1hFRzdRaWU0YmphaDluN0t0dHRTd1dkTGthWm00X2JiR2hXd1Y4TGdnVW90UGJvZGI0NWdKejh6bV9jVWdmSXhwbG9UZmhiZU43d1lLeDA3QlIzeGJabUdUUUpOY18zeFc4ekhfRDRrYURRdjEweGRfVnFQM1hjTzNIekpGNmdoTmZibFdvTEc5b29xcDJPTHRBZEc2Q1I0TGZrekdsS3BrTUUtTFh4bW9KWGRn?oc=5",
+    "description": "Samvat 2082: Sensex, Nifty set to post worst show in 15 years Business Standard",
+    "published": "2026-11-05T01:45:00+00:00",
+    "source": "Business Standard",
+    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
     ],
@@ -1032,19 +1074,6 @@
     "source_url": "https://news.google.com/rss/search?q=%28%22mutual%20funds%22%20OR%20SIP%20OR%20AMFI%20OR%20FII%20OR%20FPI%29%20%28India%20OR%20equity%20OR%20market%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "Cathie Wood Buys $11.2M in Palantir as PLTR Stock Extends Selloff to 7 Sessions - TipRanks",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbW1rZUFRTEZpdzcxRmhvZGtBS3Jfa1Q0Z3g1LWxqTE5LT2tzWDNPS05JWjhHbC1JYkNuZVNmaHQyT0xJZzNURlE2YmpySE43MmlmVG15R3hTSG5sUTJFdVNHeWpZRWhwR3BRWEdkRjFJNUs3S19NWkZiTG5WbVBmZ1ZNanotRW1WZ1VxMXBvRjU0VE5lWXRBa1luLUJUdVd3NmwxUTJLeDJXVks1?oc=5",
-    "description": "Cathie Wood Buys $11.2M in Palantir as PLTR Stock Extends Selloff to 7 Sessions TipRanks",
-    "published": "2026-11-05T07:26:39+00:00",
-    "source": "TipRanks",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling"
     ],
     "score": 1
   },
