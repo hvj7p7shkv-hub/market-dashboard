@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-05 03:07
+Generated: 2026-11-05 03:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -386,17 +386,7 @@ Sensex Falls 540 Points From Day's High On Profit Booking, Nifty Turns Red After
 
 Sensex falls 700 pts from day's high, Nifty near 23,750: Profit booking among key factors behind markets... Moneycontrol.com
 
-### 39. AI stocks fall as Texas governor result raises data center risks - CNBC
-
-- Source: CNBC
-- Published: 2026-11-04T05:16:01+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxPQU1VSTBqemVnZlFrUzRXdmxINTE4a3R1V0YwSU9lSlpXcXJxeVVyZnJZdjZOSzI5aVF6OVlONWdHNWdXX2N3M3hZUzZ1clZjRlpNZHh1VWxndTBYVm5meElici1nT1lKSy1nNFQxVjV1cGlBYjJpT05Fa3k1LXVxTmVlaUjSAYQBQVVfeXFMT0FNVUkwanplZ2ZRa1M0V3ZsSDUxOGt0dVdGMElPZUpaV3FycXlVcmZyWXY2TksyOWlRejlZTjVnRzVnV19jdzN4WVM2dXJWY0ZaTWR4dVVsZ3UwWFZuZnhJYnItZ09ZSkstZzRUMVY1dXBpQWIyaU9ORWt5NS11cU5lZWlI?oc=5
-
-AI stocks fall as Texas governor result raises data center risks CNBC
-
-### 40. Stock Market Update: Nifty Opens 68.6 Points Lower, Sensex Falls 64.74 Points - Analytics Insight
+### 39. Stock Market Update: Nifty Opens 68.6 Points Lower, Sensex Falls 64.74 Points - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-11-04T05:00:00+00:00
@@ -406,7 +396,7 @@ AI stocks fall as Texas governor result raises data center risks CNBC
 
 Stock Market Update: Nifty Opens 68.6 Points Lower, Sensex Falls 64.74 Points Analytics Insight
 
-### 41. Stock Market Today: Sensex falls over 60 points, Nifty slips below 23,750; 4-day rally ends - Zee Business
+### 40. Stock Market Today: Sensex falls over 60 points, Nifty slips below 23,750; 4-day rally ends - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-04T03:50:29+00:00
@@ -415,6 +405,16 @@ Stock Market Update: Nifty Opens 68.6 Points Lower, Sensex Falls 64.74 Points An
 - Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOREJzWWJOdzlxN1Q0LUN1Sk0zQXE2STlJTXE1Skd3RnFQMHdBZHBlS3ExenVMSXpNVGQwQV9RY3Y0UzltMUxEZkZqNkFCVTdSWFpweU5Sdi1uVnpGVzZIYnNNWldfUFFMcmQ1YnN4Snc1am5XeVVPUFdwRnJ0a2hJZ2tFME1FUHZyZnliNDlQOHJUQkxRYjR2b0ROQ1ZBUlFkSXpFTG4zVjJOdkZjcXlRY1V4QUJnNkFmT1B4b283M1pxUXY0UHRzaENaZDJSdGc?oc=5
 
 Stock Market Today: Sensex falls over 60 points, Nifty slips below 23,750; 4-day rally ends Zee Business
+
+### 41. Linde India Q2 FY27: Revenue Grows 12.3%, Net Profit Falls 30.5% Amid Margin Pressure - Trade Brains
+
+- Source: Trade Brains
+- Published: 2026-11-04T05:54:41+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxOeE9zVDd6TkJpMDZvakJncEQtY1V2OEtEV3RMektya0dXanZxSnB4S3YtZFJad3l1cGJ6cENCM1B0Q1ZHSDhRMmZSQlhBV0NQQjVYS3lzeHdqZVZfWHV4V3N2Y041NVk5cG9STjNnT0ZhYkpGemZYLVZXTWYwUWdUWXpiN1pvRUZ5YWNjRDhZd1VaZGx3aXZfd2VaWWthbGpJc2xleVA5ckp6SG1vWTMwdEZnQUlqT2hMWkNzOVRlVVFYU2VJ?oc=5
+
+Linde India Q2 FY27: Revenue Grows 12.3%, Net Profit Falls 30.5% Amid Margin Pressure Trade Brains
 
 ### 42. Markets Rally, But KKalpana Industries (India) Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off - MarketsMojo
 
@@ -426,17 +426,7 @@ Stock Market Today: Sensex falls over 60 points, Nifty slips below 23,750; 4-day
 
 Markets Rally, But KKalpana Industries (India) Ltd Sinks to 52-Week Low in Stock-Specific Sell-Off MarketsMojo
 
-### 43. India's stock market volatility since last Diwali saw 60 stocks lose up to 96% - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-04T03:28:13+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMi5AFBVV95cUxObnVyM011NkZRa25NRVhPSXR1SHdONElqMDNOc0x1aDc3STU3R0VxY1hMSWktc1lMYmNEXzNKMTZCeG5JdkNVV09ybi1oNnh5NEpLMmtuYmsyd3RXTHNMRzMtYnJqQnV2akhEOXVybF83THlYcVBHam9XS2lmZEFEOEI1cWpfcVN3Z2x0UFczV1lQMmd3TGVFODdXajJCb0VtbENnVmplRmtaN1RVbkxOTjFVTW45OC01WXJoRHpreG0zUlRZanlOaFdRemV2TEkySk9nblNkTU9xcnNTZFBtNVp1a2bSAeoBQVVfeXFMTk9yNVdPLU5JSFlzelBCNVp3VnpuXzV5NlZ6NDY1dFlweFJLVVlXc2lsemVhYldQUmRQZTF1R3M2dy0zR0oybUxFdlJiYXlsSElFeVRyYUVXTmViVEFyQ095Tkx1SmlENzg0clhsenBselM3TWxrOXJocmhGdENkSWJDQUREai10RUl5aWt1cFdESkhnM1o2QTcxbERhUzJhdkF2bUl5UzJSckNkYVRPRUhsZHFLZm4wSmt2a1dZLWg1V0xJNUZ2dS1HbkgxOTE5dVBJVkE0T0tZTEItOUlsRjhtMnN5aXpRZkZ3?oc=5
-
-India's stock market volatility since last Diwali saw 60 stocks lose up to 96% The Economic Times
-
-### 44. How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors - Value Research
+### 43. How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors - Value Research
 
 - Source: Value Research
 - Published: 2026-11-04T13:04:24+00:00
@@ -446,7 +436,7 @@ India's stock market volatility since last Diwali saw 60 stocks lose up to 96% T
 
 How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors Value Research
 
-### 45. SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth Building - Kalkine India
+### 44. SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth Building - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-11-04T12:51:00+00:00
@@ -456,7 +446,7 @@ How Does FII Buying and Selling Affect Mutual Fund NAVs? 4 Factors Value Researc
 
 SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth Building Kalkine India
 
-### 46. Sensex, Nifty gain in early trade amid FII inflows, easing in crude oil prices - Mid-Day
+### 45. Sensex, Nifty gain in early trade amid FII inflows, easing in crude oil prices - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-11-04T04:48:00+00:00
@@ -466,17 +456,17 @@ SIP Investing India 2026 – Rupee Cost Averaging, Benefits and Long-Term Wealth
 
 Sensex, Nifty gain in early trade amid FII inflows, easing in crude oil prices Mid-Day
 
-### 47. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+### 46. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
-- Published: 2026-11-04T19:22:57+00:00
+- Published: 2026-11-04T22:54:32+00:00
 - Themes: India market
 - Score: 4
 - Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RnRaTlJBSWxFVDdNZXJPcVB1VGF4M0h3ajhDYWZlZjFncWdMazFVX2hLRUp4amtsWThkSHdNVXpQYUp2NXZHU2JDU0szQTBlY2gtVTFyQ1dJS3h1MkpxcW5DcVY?oc=5
 
 Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
 
-### 48. Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gains 1.5% - TradingView
+### 47. Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gains 1.5% - TradingView
 
 - Source: TradingView
 - Published: 2026-11-04T11:01:34+00:00
@@ -486,27 +476,7 @@ Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentidea
 
 Broader markets outperform Sensex, Nifty: Smallcap 100 jumps 2%, Midcap 100 gains 1.5% TradingView
 
-### 49. Raj Rayon Industries Limited puts Rs 73.9951 crore into mutual funds - Multibagg AI
-
-- Source: Multibagg AI
-- Published: 2026-11-04T07:46:04+00:00
-- Themes: AI / tech risk
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQcDUyZnVXS2lqZ0wyUTdGbUlKNDB1YnRSQ0tneFMzRE5mYTB4aUw3cF96TWZsS296R2M1RURfSndyT1JzekM2c3JpVlltVmpCd2lYbzdMR281WDlOdWQ1VGNxZFRWeHZrRjVhR3JfSTM1ZTMxNG00YVZ3cVJGd2VadlVSQ3N6S29VQU1DeVZkOTBmWVFpeUdBTnpQeWxodnFRWEtFS3liUGFXdDFNMDNFNG5XT2FIajh0Nmc?oc=5
-
-Raj Rayon Industries Limited puts Rs 73.9951 crore into mutual funds Multibagg AI
-
-### 50. GIFT Nifty signals strong opening; FPI buying, easing crude oil prices lift sentiment - Dailyhunt
-
-- Source: Dailyhunt
-- Published: 2026-11-04T03:26:13+00:00
-- Themes: India market, macro / flows
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxPV3ozb1ZfLVBsZkM5YjBqWGpIX0hVeTlwclp3RlB2d3VPTHFrcGI1TWRDQk9NNzVlVV82R1RFcWd2M0RPQzk2MnlHRnZtVTJVM2hkYlBZcUV1ZFhVakZaeGJPTWZZcVBuaFNLQlBVc3BJMi1tWjhkZWdJLXY5cmlNLTI5bkJoUUlrcXBDamMxOVdkZDhHLTdvUVR2RC1WTnNXODhHVk9YaWlidXVCUjVtOGpjcXkxQzhHbkNGUE9hYVdwWUhBLWY4N3BSUVg3Qk9vcGFqLVExWGxzbndORDBRZjBhU0VJTTlIZV9ZclFXTDRPVkt5bG5ITHpiOTNDUUlDRkE?oc=5
-
-GIFT Nifty signals strong opening; FPI buying, easing crude oil prices lift sentiment Dailyhunt
-
-### 51. Mutual funds equity buying eases to 3-month low of ₹43,024 crore in October - Business Standard
+### 48. Mutual funds equity buying eases to 3-month low of ₹43,024 crore in October - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-04T17:40:32+00:00
@@ -516,7 +486,7 @@ GIFT Nifty signals strong opening; FPI buying, easing crude oil prices lift sent
 
 Mutual funds equity buying eases to 3-month low of ₹43,024 crore in October Business Standard
 
-### 52. New entrants eat into SIP inflows of listed Mutual funds - TradingView
+### 49. New entrants eat into SIP inflows of listed Mutual funds - TradingView
 
 - Source: TradingView
 - Published: 2026-11-04T16:46:45+00:00
@@ -526,7 +496,7 @@ Mutual funds equity buying eases to 3-month low of ₹43,024 crore in October Bu
 
 New entrants eat into SIP inflows of listed Mutual funds TradingView
 
-### 53. Market Wrap: Sensex, Nifty Give Up Early Gains on IT Drag - Kalkine India
+### 50. Market Wrap: Sensex, Nifty Give Up Early Gains on IT Drag - Kalkine India
 
 - Source: Kalkine India
 - Published: 2026-11-04T15:01:16+00:00
@@ -536,7 +506,7 @@ New entrants eat into SIP inflows of listed Mutual funds TradingView
 
 Market Wrap: Sensex, Nifty Give Up Early Gains on IT Drag Kalkine India
 
-### 54. Meitav's Mutual Funds Division Soars: Surge in Market Share Driven by Record-Breaking Inflows - PR Newswire
+### 51. Meitav's Mutual Funds Division Soars: Surge in Market Share Driven by Record-Breaking Inflows - PR Newswire
 
 - Source: PR Newswire
 - Published: 2026-11-04T13:48:01+00:00
@@ -546,7 +516,7 @@ Market Wrap: Sensex, Nifty Give Up Early Gains on IT Drag Kalkine India
 
 Meitav's Mutual Funds Division Soars: Surge in Market Share Driven by Record-Breaking Inflows PR Newswire
 
-### 55. Sensex Rises 384 Points, Nifty Closes Above 23,950 As Midcap Stocks Rally - TradingView
+### 52. Sensex Rises 384 Points, Nifty Closes Above 23,950 As Midcap Stocks Rally - TradingView
 
 - Source: TradingView
 - Published: 2026-11-04T12:31:56+00:00
@@ -556,7 +526,7 @@ Meitav's Mutual Funds Division Soars: Surge in Market Share Driven by Record-Bre
 
 Sensex Rises 384 Points, Nifty Closes Above 23,950 As Midcap Stocks Rally TradingView
 
-### 56. 13 equity mutual funds offer over 15% return on SIP investments since last Diwali. Do you own any? - The Economic Times
+### 53. 13 equity mutual funds offer over 15% return on SIP investments since last Diwali. Do you own any? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-04T11:20:09+00:00
@@ -566,7 +536,7 @@ Sensex Rises 384 Points, Nifty Closes Above 23,950 As Midcap Stocks Rally Tradin
 
 13 equity mutual funds offer over 15% return on SIP investments since last Diwali. Do you own any? The Economic Times
 
-### 57. Sensex Rallies 5th Day on FII Inflows, Easing Crude Prices - Rediff MoneyWiz
+### 54. Sensex Rallies 5th Day on FII Inflows, Easing Crude Prices - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-11-04T10:51:26+00:00
@@ -576,7 +546,7 @@ Sensex Rises 384 Points, Nifty Closes Above 23,950 As Midcap Stocks Rally Tradin
 
 Sensex Rallies 5th Day on FII Inflows, Easing Crude Prices Rediff MoneyWiz
 
-### 58. SIP Inflows, Equity Funds & Market Trends: Anand Rathi On Samvat 2083 - Business Today
+### 55. SIP Inflows, Equity Funds & Market Trends: Anand Rathi On Samvat 2083 - Business Today
 
 - Source: Business Today
 - Published: 2026-11-04T10:13:54+00:00
@@ -586,7 +556,7 @@ Sensex Rallies 5th Day on FII Inflows, Easing Crude Prices Rediff MoneyWiz
 
 SIP Inflows, Equity Funds & Market Trends: Anand Rathi On Samvat 2083 Business Today
 
-### 59. Markets fell, but some mutual funds gained up to 17.82%. Here are the top performers - Moneycontrol.com
+### 56. Markets fell, but some mutual funds gained up to 17.82%. Here are the top performers - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-04T06:52:29+00:00
@@ -596,7 +566,7 @@ SIP Inflows, Equity Funds & Market Trends: Anand Rathi On Samvat 2083 Business T
 
 Markets fell, but some mutual funds gained up to 17.82%. Here are the top performers Moneycontrol.com
 
-### 60. Sensex, Nifty trade higher in early deals despite mixed global cues - IBTimes India
+### 57. Sensex, Nifty trade higher in early deals despite mixed global cues - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-11-04T06:22:38+00:00
@@ -606,7 +576,7 @@ Markets fell, but some mutual funds gained up to 17.82%. Here are the top perfor
 
 Sensex, Nifty trade higher in early deals despite mixed global cues IBTimes India
 
-### 61. Stock Markets Today: Sensex, Nifty Gain as FIIs Return, Oil Prices Ease - Rediff
+### 58. Stock Markets Today: Sensex, Nifty Gain as FIIs Return, Oil Prices Ease - Rediff
 
 - Source: Rediff
 - Published: 2026-11-04T05:11:41+00:00
@@ -616,7 +586,7 @@ Sensex, Nifty trade higher in early deals despite mixed global cues IBTimes Indi
 
 Stock Markets Today: Sensex, Nifty Gain as FIIs Return, Oil Prices Ease Rediff
 
-### 62. Stock Markets Rally: FII Inflows & Easing Crude Boost Sensex - Rediff MoneyWiz
+### 59. Stock Markets Rally: FII Inflows & Easing Crude Boost Sensex - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-11-04T05:01:02+00:00
@@ -626,7 +596,7 @@ Stock Markets Today: Sensex, Nifty Gain as FIIs Return, Oil Prices Ease Rediff
 
 Stock Markets Rally: FII Inflows & Easing Crude Boost Sensex Rediff MoneyWiz
 
-### 63. Sensex, Nifty Open Higher; FPIs, Soft Crude Support Sentiment - HDFC Sky
+### 60. Sensex, Nifty Open Higher; FPIs, Soft Crude Support Sentiment - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-11-04T04:55:14+00:00
@@ -636,7 +606,7 @@ Stock Markets Rally: FII Inflows & Easing Crude Boost Sensex Rediff MoneyWiz
 
 Sensex, Nifty Open Higher; FPIs, Soft Crude Support Sentiment HDFC Sky
 
-### 64. Sensex, Nifty open flat as IT stocks drag, but FII buying supports market sentiment - bfsi.economictimes.indiatimes.com
+### 61. Sensex, Nifty open flat as IT stocks drag, but FII buying supports market sentiment - bfsi.economictimes.indiatimes.com
 
 - Source: bfsi.economictimes.indiatimes.com
 - Published: 2026-11-04T04:37:10+00:00
@@ -646,7 +616,17 @@ Sensex, Nifty Open Higher; FPIs, Soft Crude Support Sentiment HDFC Sky
 
 Sensex, Nifty open flat as IT stocks drag, but FII buying supports market sentiment bfsi.economictimes.indiatimes.com
 
-### 65. U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling - WSJ
+### 62. Samvat 2082: Sensex, Nifty set to post worst show in 15 years - Business Standard
+
+- Source: Business Standard
+- Published: 2026-11-05T01:45:00+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPTzBGeXNTSVBhbFYydmlGX1hFRzdRaWU0YmphaDluN0t0dHRTd1dkTGthWm00X2JiR2hXd1Y4TGdnVW90UGJvZGI0NWdKejh6bV9jVWdmSXhwbG9UZmhiZU43d1lLeDA3QlIzeGJabUdUUUpOY18zeFc4ekhfRDRrYURRdjEweGRfVnFQM1hjTzNIekpGNmdoTmZibFdvTEc5b29xcDJPTHRBZEc2Q1I0TGZrekdsS3BrTUUtTFh4bW9KWGRn?oc=5
+
+Samvat 2082: Sensex, Nifty set to post worst show in 15 years Business Standard
+
+### 63. U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling - WSJ
 
 - Source: WSJ
 - Published: 2026-11-05T00:05:38+00:00
@@ -656,7 +636,7 @@ Sensex, Nifty open flat as IT stocks drag, but FII buying supports market sentim
 
 U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling WSJ
 
-### 66. Trade Setup for November 5: Top 15 things to know before the opening bell as oil prices fall below $100 a... - Moneycontrol.com
+### 64. Trade Setup for November 5: Top 15 things to know before the opening bell as oil prices fall below $100 a... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-04T17:55:10+00:00
@@ -666,7 +646,7 @@ U.S. Stocks Slide as Amazon, Intel Earnings Spark More AI Selling WSJ
 
 Trade Setup for November 5: Top 15 things to know before the opening bell as oil prices fall below $100 a... Moneycontrol.com
 
-### 67. AMD forecast exceeds estimates after AI chip demand soars - Taipei Times
+### 65. AMD forecast exceeds estimates after AI chip demand soars - Taipei Times
 
 - Source: Taipei Times
 - Published: 2026-11-04T16:00:00+00:00
@@ -676,7 +656,7 @@ Trade Setup for November 5: Top 15 things to know before the opening bell as oil
 
 AMD forecast exceeds estimates after AI chip demand soars Taipei Times
 
-### 68. Indian stock market rises on Rs 21,607 crore FII buying - Multibagg AI
+### 66. Indian stock market rises on Rs 21,607 crore FII buying - Multibagg AI
 
 - Source: Multibagg AI
 - Published: 2026-11-04T15:02:16+00:00
@@ -686,7 +666,7 @@ AMD forecast exceeds estimates after AI chip demand soars Taipei Times
 
 Indian stock market rises on Rs 21,607 crore FII buying Multibagg AI
 
-### 69. Why midcaps and smallcaps are slumping despite Nifty recovery, expert explains - India TV News
+### 67. Why midcaps and smallcaps are slumping despite Nifty recovery, expert explains - India TV News
 
 - Source: India TV News
 - Published: 2026-11-04T11:33:44+00:00
@@ -696,7 +676,7 @@ Indian stock market rises on Rs 21,607 crore FII buying Multibagg AI
 
 Why midcaps and smallcaps are slumping despite Nifty recovery, expert explains India TV News
 
-### 70. India rupee set to resume slide as foreign inflows remain weak - Reuters
+### 68. India rupee set to resume slide as foreign inflows remain weak - Reuters
 
 - Source: Reuters
 - Published: 2026-11-04T08:45:01+00:00
@@ -706,7 +686,7 @@ Why midcaps and smallcaps are slumping despite Nifty recovery, expert explains I
 
 India rupee set to resume slide as foreign inflows remain weak Reuters
 
-### 71. Dollar, Global Stocks Fall as Democrats Sweep U.S. Midterms - Seoul Economic Daily
+### 69. Dollar, Global Stocks Fall as Democrats Sweep U.S. Midterms - Seoul Economic Daily
 
 - Source: Seoul Economic Daily
 - Published: 2026-11-04T06:30:11+00:00
@@ -716,7 +696,7 @@ India rupee set to resume slide as foreign inflows remain weak Reuters
 
 Dollar, Global Stocks Fall as Democrats Sweep U.S. Midterms Seoul Economic Daily
 
-### 72. Sensex, Nifty rebound in morning trade as foreign buying lifts sentiment - National Herald
+### 70. Sensex, Nifty rebound in morning trade as foreign buying lifts sentiment - National Herald
 
 - Source: National Herald
 - Published: 2026-11-04T06:15:10+00:00
@@ -726,7 +706,7 @@ Dollar, Global Stocks Fall as Democrats Sweep U.S. Midterms Seoul Economic Daily
 
 Sensex, Nifty rebound in morning trade as foreign buying lifts sentiment National Herald
 
-### 73. Will Samvat 2083 trigger India’s big bull run? All eyes on 17% earnings boom - The Financial Express
+### 71. Will Samvat 2083 trigger India’s big bull run? All eyes on 17% earnings boom - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-11-04T05:47:36+00:00
@@ -736,7 +716,7 @@ Sensex, Nifty rebound in morning trade as foreign buying lifts sentiment Nationa
 
 Will Samvat 2083 trigger India’s big bull run? All eyes on 17% earnings boom The Financial Express
 
-### 74. Market Update: Sensex Recovers Over 600 Points From Day's Low, Nifty Reclaims 23,900; Realty, Metal Stocks - News18
+### 72. Market Update: Sensex Recovers Over 600 Points From Day's Low, Nifty Reclaims 23,900; Realty, Metal Stocks - News18
 
 - Source: News18
 - Published: 2026-11-04T05:41:08+00:00
@@ -746,7 +726,7 @@ Will Samvat 2083 trigger India’s big bull run? All eyes on 17% earnings boom T
 
 Market Update: Sensex Recovers Over 600 Points From Day's Low, Nifty Reclaims 23,900; Realty, Metal Stocks News18
 
-### 75. Apple Drops 4.5% Premarket as Nasdaq-100 Correction Meets Election Day - Around Prague
+### 73. Apple Drops 4.5% Premarket as Nasdaq-100 Correction Meets Election Day - Around Prague
 
 - Source: Around Prague
 - Published: 2026-11-04T05:08:22+00:00
@@ -755,6 +735,26 @@ Market Update: Sensex Recovers Over 600 Points From Day's Low, Nifty Reclaims 23
 - Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPNVdaUHJuOGFYYUMzZGo1S0Q1RWVxZ193Qkk5WkdlYmFBV3Z3X0FVUmhjTDRNQW1OU2dnMmtyR3pXRk15YVNsb2pkRG1XaHlsaWVwUUF5QnBlNjZwLWNONDFKdzhaN2ZmaVdXUGtyVDFESjl6THU1M0J2TkE0SjFzUkFreU1MWjZyVGpXQnAyR3lqWW1yazV5RnF5WGJCN3pmZ080eGVFOA?oc=5
 
 Apple Drops 4.5% Premarket as Nasdaq-100 Correction Meets Election Day Around Prague
+
+### 74. From record highs to correction: What's next for gold and silver? - Business Standard
+
+- Source: Business Standard
+- Published: 2026-11-05T03:05:34+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQYW1jTVBUOEZ6QzJ5LWlhRDBTNjRlVTNjSnNDNmlpQmhISFN3RWJjZFFTRWsyQTZqWjd6U2lVRU1HbFFUMTB1aUlLYjZOUTlQV215Tlk0bHVnMGpTNXM0NUdKanFUNndIU3BRSlB6XzFxWTF3QXM1VWdjdWFqR2o5MXNVMVh1SldhYzAtZ2R3QzlWajBzZENpTE03N2VkVllfckpPT294TjFMVUc4cng0VU9TOFlLc0dFY01nWEx4YTIwV2VKQjlXZF9B0gHPAUFVX3lxTE1TUWFnaVNnV1Ztenh0Wi10dFprZzY1V0lyQ0h3ekJCTjVTM0pZQjBvV2pKaUZuZDZfUU95dFNlTWpDSkpvZEFrcGdDWm5COFVwYk5SYzNOcE1GRWs5QzZSdVoycXBuQ3FfeGNvS2NxSWI2MHlYUThIYzd2ampUZFhYU2pjQVNxRVQzZHJkU2NRYy10VnZXUXE3N1V2ZGNBWkJYTC1Oc1pJQ2REbDRNTWQ5eWUxTEM0VENhUEhkYi1ueWlXRFJ4Y2VtUzVqdFBHbw?oc=5
+
+From record highs to correction: What's next for gold and silver? Business Standard
+
+### 75. Small Cap Miners Drop: Accent Resources (ASX:ACS), Australian Silica Quartz (ASX:ASQ) and North Stawell Minerals (ASX:NSM) Shares Fall - Kalkine
+
+- Source: Kalkine
+- Published: 2026-11-05T02:57:00+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxPbHlkekpiTEFRYlJIOGxtUTFpODFGRV9PT01TTTlELUZBWlFnVFF2MXQ0WGs1Y1MxU1dTbUljZUY1Uy1ESXV4UnNtcHNaaTZORXBSWW13NzlnLTNPU0tXSXd1RjZ5UksyV2dZM0Q5alkwbHBhTi1WaG9qWHYwcW9saGhDSXAxLWkwUFBHUDhJMS1jWGwwUFlrckY0UEpXMWMwbFFEYTFUUVNDTS1PSDl6UGtyTlI4WHBGdWdBbmpOQThHakY4NldNUER5WlgxS3o3UGdjdld5anU3Zy02WGpNZndXNF9lUU4wcTNySk9PcWVBbUNkZlBnVHV0djE?oc=5
+
+Small Cap Miners Drop: Accent Resources (ASX:ACS), Australian Silica Quartz (ASX:ASQ) and North Stawell Minerals (ASX:NSM) Shares Fall Kalkine
 
 ### 76. Trade Setup for Today: Wall Street Surge and FII Buying Set Stage for Gap-Up Opening as of November 5, 2026 - scanx.trade
 
