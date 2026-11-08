@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 10:41 IST",
+  "generated_at": "2026-11-08 11:10 IST",
   "wire_file": "2026-11-08-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -24,11 +24,11 @@
   "posture": {
     "stance": "India relief, AI overhang",
     "wire_count": "18",
-    "wire_total_count": "87",
+    "wire_total_count": "80",
     "wire_scope_date": "2026-11-08",
     "ai_wire_count": "11",
-    "selling_wire_count": "9",
-    "india_wire_count": "12",
+    "selling_wire_count": "8",
+    "india_wire_count": "11",
     "weak_index_count": "7",
     "valid_index_count": "25"
   },
@@ -41,7 +41,7 @@
     {
       "label": "Wire Bias · 2026-11-08",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-08 has 12 India-market wires, 9 selling/risk wires, and 11 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-08 has 11 India-market wires, 8 selling/risk wires, and 11 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-08",
@@ -23216,7 +23216,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-08T10:40:54+05:30",
+    "generated_at": "2026-11-08T11:10:35+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35746,15 +35746,6 @@
       "description": "AI stock selloff drives investors to China, India, and overlooked Asian sectors Yahoo! Finance Canada"
     },
     {
-      "published": "2026-11-08T01:08:13+00:00",
-      "score": 12.0,
-      "themes": "['AI / tech risk', 'market selling', 'India market']",
-      "source": "Investing.com India",
-      "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkN1Y0UwbzZXQ2RTa3laVUJJcTFNYWVIMEZaNHBvbDFPZUREVGFEdGRCZ1pSaWMtZUdUeXhOaGpqREFPUGlmZXI4Y0xib0VITkpyQXQyckJqcVg0M3RuTEhxaWxuZ0JOYVEwYTRGaE9HZG83dGRQVlJDN2RLV2dpY1hudEhaVWtPMmtxY1N0TXRTdnVVMFh5eHF5S2RBRUswdFptQ3UyMHJqMEJUZmI3andGZFNnTThsVFlNdDZwR3ZTcFdtdmttZm01eEJNdw?oc=5",
-      "description": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com Investing.com India"
-    },
-    {
       "published": "2026-11-08T01:02:48+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
@@ -35773,15 +35764,6 @@
       "description": "Nvidia vs Intel: Which Chip Stock Is Riskier as AI Selloff Hits Both and Nvidia's Nov. 17 Earnings Test Looms International Business Times Australia"
     },
     {
-      "published": "2026-11-07T05:30:00+00:00",
-      "score": 10.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Fortune India",
-      "title": "Samvat 2082 scorecard: Sensex, Nifty fall nearly 4%, while midcap and smallcap indices outperform - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMWtjenJ3YWhxdk1LYWFwMm9EMlVkZ2huQ2VGOFYyRVhCM3NqZnhNRmIwVGZDNEJ5UGtvV21reTlNVk55MzVKSUhJVzFuQklsbkFWMW1KcmdKRGlHaDFWZ18wV2NmRjhNRTRaTXVWUHdpaW0yQkh4WV9YelVrcFBoUUI2cXZjMkh6ZW1DV1RPeEEtMVI3ejN4VkNFUEwxLWFLV0dGSEFSRFE2bzY5TzUyZU5QSmhHWmF3Vk9ONWRPa2xDUVVGaUdCZGV3WUpFUVB3U1hGc09hMFBuelHSAegBQVVfeXFMT0lmT1U0SmpaNnBLWmtfd0dMZmR2TkRtaDh4N1N1YjhTNGsydWlUcjdmMlozS3BnajlfNVpGdWxLNEdqM1pNQjF2aEFaUDF3c2tYREZ6dk5lUGM1VWFTMTBpN3k2TXhzbC01aFZJMEVBMmViWmlIOFNlX3hKMVhaRE80by1EQ0p3LXUzemNNZExzZmZ3cDJLWWZYVEV4LVp6bVhiYzBva0gzMlFpMk9xVWZLcjFfQVdqc0ZHaGhNWHZtTEYxRTluZXlDRDd5TWNGdzJoVERHZkxwMVF2MUlmRGVDcFpHaVRJcw?oc=5",
-      "description": "Samvat 2082 scorecard: Sensex, Nifty fall nearly 4%, while midcap and smallcap indices outperform Fortune India"
-    },
-    {
       "published": "2026-11-08T00:52:00+00:00",
       "score": 9.0,
       "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
@@ -35798,15 +35780,6 @@
       "title": "AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidia (NASDAQ: NVDA) And Broadcom (NASDAQ: AVGO) Cratering - Foreign Policy Journal",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbW1EcEFta2hIY3dra050a0p5LTdxc3AzX1YxcDV6RmIyczJ6RGJ6d085c05MemxLUWZvWVhteFI2RWFtR25FUW5OZUJKM2p4OWRPRjVKcFBZcEVMNEIyVC1oeV9pZEFSYU9kUmtMeEtsbGtYRm9CZkp5MVd4b0RnN1Nhc0I0TDFkcUl5SVZ3VXRRZldGTXFBdUF4eEVEWHh1dFo4WndUUWliWjFnV0tkYTk1SFJ1TG04TEhicTYzd2szQmdUa0V0WFJucFotT0pvU2hxMlpYNDllYjNBMU1WNG45Zkx4ME5tTTdRdi15cGtDb09JZmN3LUtaSjRsSjh2VUdvWjFIRQ?oc=5",
       "description": "AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidia (NASDAQ: NVDA) And Broadcom (NASDAQ: AVGO) Cratering Foreign Policy Journal"
-    },
-    {
-      "published": "2026-11-07T21:55:30+00:00",
-      "score": 8.0,
-      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
-      "source": "MLQ.ai",
-      "title": "December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets - MLQ.ai",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFpmZWItVkk3b2w3LTNUVUU2MHZqS0Q2NXFsRWdFS0xmdEF0QURJTXJMc2ptOHlDQzBSM1JlTEx3ekdJeWc5Mnd2WEc3Q3J6OUJsWDNjZGxEYmZ1Qk1lVVlEOUg4WEZrXzk5bGV0cWxxcGZselQtTmUybGU0WVhSYnVwNlhGRzBvQ2tBaGo5OEdzMnJQY3JUMFVRek5QNFJ3M3FMcEh3ZUVoQzBzZzJDX1dOYXViejJCOXRYdA?oc=5",
-      "description": "December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets MLQ.ai"
     },
     {
       "published": "2026-11-07T19:01:00+00:00",
@@ -35987,15 +35960,6 @@
       "title": "Why Is Micron Technology (MU) At The Center Of A Global Chip Selloff? - Simply Wall St",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQOUttdmJZY3lBY3c4NzRKUGxTd0NzNmtjNng2NDdSQnJUaXFqMG9GS3pOMG5zMWRRTHBfQWtfSUNaTl94Tk53QVpKWno4UWh1Y2JKWnFBX0lnQVZCZmtYcXFHb0JnbkFCVks1TzN3NkVYWDl0dWFTcnpTTk9SYnY1ZGw1Szl6X1F4a3daRDB1T1dMXzhYaEgxOXdHbTdNV2VDbWdwQ2czUE9BRXFZTWoyZHZLLXJYMmVVYjRtVzJKU244Rm43UXMxdlNyaldQcFN5UkVmOUZ5Y9IB3AFBVV95cUxNQXFyRHZYQVhXdXVNVVlaZ0FYcFdveHBJbEFvZ09KSWgxYlJWRHRVYU5uTmdmS0c2aXc0ejhQUnJTVHlBeHp5MzZlVjBaX09pM3p5SnhiR2Z1SHM5dnB3bHVWYkNwMjJReFd2NElCUVpJOXJXRWRuUU82ZkZEZDdPZE1CTVJlYU8taGtlMVZ6TWxtb3pMc3U0SEtBQVp1bWpHS1gwUFZOaHBTeW9zVUl2SHMyWjVpeGlITld3TWRJNXNLa3dDUThyZjZ0b3dFUFhrS2ptTjRubVdsSURy?oc=5",
       "description": "Why Is Micron Technology (MU) At The Center Of A Global Chip Selloff? Simply Wall St"
-    },
-    {
-      "published": "2026-11-07T12:30:06+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Asianet Newsable",
-      "title": "AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - Asianet Newsable",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOcmRNSEMxdUE4V2lRUVA3NVdUMnlaSDBoRXhqTWJpVHpIRHRTVHVJMVNjNEw3aXQyMFJneTZOc0FwdzF4UlJHV0VFaDlSQUJWUm8ycUlCU0NJZXFUeXhWaWNhd19IZmtXWVFTeHVvNlB4WU9vZVJSOGwzdVR0YzViY2JCRnBjb1p6dEJZRUlYaEppSDVneHFDejhMRkk1azB5VFdWaC1lUDIxeUg1SmNoLWdOc1NGWGp1YUoxZnJpci12dUlBMUF5LVVjazJfc1Rodi1zSm5HQXdMSGZQa0s2QU9QM0p5dUxqb2VhWFF6ZzNESC1tYXfSAfsBQVVfeXFMT2hsMVZQdlVhVGJYTVZLbnNINGsyTkFGbzFlOFRLNWtGR29MZW05c3J1V1ZtOXprZXdvUm5lUTVCS2hNT0x5RlJYeFp4MWttZFRtejZ1NDNGYjBvMkpJODk0c1kxNHJ1bkh2QV90VlNVT1dqQl9nOHg1M1Y4TnROT1VYOEg1cnJVRVNQMHJRS1l1X3puN2VvTnJ1V2RTT2tnWEE0cGdRMl9mOEdNZTIzcGhHVXhhYlZEanBxeXFHUU5oV1QtSlFJMDc0cG0tM1ZXN2REVmtxTG5UU3htSnhHbElGeDJ2X1ppYVpNVjNHZkNiNkZLZTVTakZ1bkE?oc=5",
-      "description": "AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ Asianet Newsable"
     },
     {
       "published": "2026-11-07T11:50:03+00:00",
@@ -36232,15 +36196,6 @@
       "description": "Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows Mid-Day"
     },
     {
-      "published": "2026-11-07T05:27:22+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "HungryGoWhere",
-      "title": "HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong - HungryGoWhere",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNUNTdUt0d3BSV3BIdGw0c2NOM09lT0pYNUxjZUF1WmtoVENMUTFjeXJzUGtLY1RVa2s5NC1BeXMxU09aaVFrb1ZvVHhYMy1tMC11alFUbXdRdWhlYUhhaGI2Vmc4ZU03RVE?oc=5",
-      "description": "HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong HungryGoWhere"
-    },
-    {
       "published": "2026-11-08T03:15:06+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
@@ -36300,7 +36255,7 @@
       "themes": "['India market']",
       "source": "Livemint",
       "title": "Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcUxabVZOMTh0VFhMdENVVDdHaFRXSzJiakpTRTEzYVhqanpxXzhwN2xLY3J5Y3puTE8xM2dya29zZkMxcXl4cThJUzNXNjlqbUJqcWF4RHdJcmxwTDk0cGs1aHNZd3pfeDZvQ1RIbHFGanJiYU5mdEZlVlFQcE1jM0w2Tk91RnR3YThIRWR6YUNtQ3Z6akJVLVZSWXk0UkU5V1hJQzJHcDRBQ1JXZTV1NlFTaS03MkljMENMTjBVNGNFVFlTdGVrZk8wQWZwbG5NSnFoRGJHMVBqZXZnUkRwd2M2b0JfYzFDbFlOUldMUDIwSVBlT0laQ2dGM2V4MXRBSWZ6b3REeV9aZjExcEI3SEd3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcUxabVZOMTh0VFhMdENVVDdHaFRXSzJiakpTRTEzYVhqanpxXzhwN2xLY3J5Y3puTE8xM2dya29zZkMxcXl4cThJUzNXNjlqbUJqcWF4RHdJcmxwTDk0cGs1aHNZd3pfeDZvQ1RIbHFGanJiYU5mdEZlVlFQcE1jM0w2Tk91RnR3YThIRWR6YUNtQ3Z6akJVLVZSWXk0UkU5V1hJQzJHcDRBQ1JXZTV1NlFTaS03MkljMENMTjBVNGNFVFlTdGVrZk8wQWZwbG5NSnFoRGJHMVBqZXZnUkRwd2M2b0JfYzFDbFlOUldMUDIwSVBlT0laQ2dGM2V4MXRBSWZ6b3REeV9aZjExcEI3SEd30gGXAkFVX3lxTFBPRTFnUVY5clY0SFE4YXdqM0tueVlDcWxDcEhzV2c5UlVTcTdDb1RIdWw2RW5PYzM1WXBpd3JHMzM0Rm9lS2ZFTkFFOXZGSWpQZFROS3Z0a3BKcm1qcDVPbmZ1OTBmb19UdEJVRGxxWTJEYlZxUF9XSDNZY01zMVBRTTBVM1FQcDJxODZLdWVqZTZoZ243VXMxVTFUeDBhaWJqUjZuc215YUNTelhWbzJzUUN2a0RMbU04XzUwZGg0Y2UweldOR2F3N0Etb0NodGdlMHE0aE5WOFRfZk9MRkFuaDZSbl9RQUlfbTlKVmZDZlctdTEwcjg3M2MteUtiamFrNDltUnNaU21UanlzSm1kRDRpRG5xWQ?oc=5",
       "description": "Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? Livemint"
     },
     {
@@ -36329,6 +36284,15 @@
       "title": "5 things you probably didn’t know about the Indian rupee - IndulgExpress",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOa29kQzNWYTJSNE50WjlXRlVFRE1mMzV0ZU5rSWItNC0yUDBRWXNIUnlNMVhEZHdUUkZRSFd6UmU2YjNBQkJCLVBiVDlFQk5QanVsb3pLVnJGQnZTQkpfRTcxVXJURzBnN21rWnRDR1R6dW53aGtpSU9MNGtyUjBCQWlQRlVWdVdQWTdvWGpmZklXSFNrcjBKTnBGSjNwcWFaWVdiV2hUbG9Bb1hwRkHSAbsBQVVfeXFMTXJZTEJpajFhbDJLVGI0NlEwQjY3WlJNQTlaWjVMaDlhMkFwWWJIcVBsRGMtYTdXSy1HY3pZR1I0SHY0UzZ4Z0ItNmZHckI3LVBSUF9xMjRZVXh2Qzc1QTRsNFZrTFdXOVhyZUQ2OFNzYVN2Z0hHaFFRbDJ4dzVRSGEwVVM4Umh3ZUtzUkEyUGtabUdOeEI2dDVWS3JMUnh5b1RRNEZmVEJ5NEdMcjBUX3hac2JDbGtrTFJTNA?oc=5",
       "description": "5 things you probably didn’t know about the Indian rupee IndulgExpress"
+    },
+    {
+      "published": "2026-11-08T03:02:31+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "ad-hoc-news.de",
+      "title": "Deutsche Bank Wins a Lighter Capital Load for 2027 While Racing to Prove Its AI Story - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa3JjTlNQU1VkMmV6N3kwR0FRVXR0bWQxR3NzdUswQW45a0ZYb3phdlhacmpaYmNuUHl1aTY0bkVXMDNxZk4zWUdsbEFUUGM4RDhPUnc2MElsWldSejZ4ZC11MEZjUU9WU2x5LVN1NUgxemxZVGNhTVMwNWxad0NUNDZ0N0hGc203aksyQVRSYW9MOFlHYWptQWo5cklHd1o2dUZwVS1UQXI2OEhwdGpSN2xYUXhIVWZzME5ZMXRXWV80N01nbTNZZlM3RlhtLW50dFlzLVF2cThzbXZGZzVfc3VRUlNwblRIQk1qU1F3?oc=5",
+      "description": "Deutsche Bank Wins a Lighter Capital Load for 2027 While Racing to Prove Its AI Story ad-hoc-news.de"
     },
     {
       "published": "2026-11-08T02:29:00+00:00",
@@ -36464,33 +36428,6 @@
       "title": "Market weekly wrap: SENSEX jumps 6,568 pts, NIFTY50 rallies 9% as FIIs return; top factors explained - Upstox",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmhSWUxsZmJ6Y19vbDNFdHRadjAxcWdrYU9iMTRWTnBDR0FTR21tdVJXcTBFQ1JYWmpMTHY3VmdkVGNGVU1uMmFXbnkwT3FDMjN5TU1DODg4RHhWTER0bWVPOFB5eE1uSUZ2aVNzZXZqQ3p0Sk5TMWgxSFo3SnlEZFEtWEtkLUZ2bURLdGRkc29XWk5GSU5lTEsySTJHMENGdzFRZEZwRlc3ZkJqQkJSMDF4aXMtODZXV3F4Qm1tY2dhSmpXTGVXdHhOOTRWNDhWSFJQa05FbktvMUVyVUhONWt4VE1fR093cElSMHNB?oc=5",
       "description": "Market weekly wrap: SENSEX jumps 6,568 pts, NIFTY50 rallies 9% as FIIs return; top factors explained Upstox"
-    },
-    {
-      "published": "2026-11-07T05:36:55+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Telangana Today",
-      "title": "US stocks post biggest weekly decline since April 2025 as AI investment fears deepen - Telangana Today",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOWXNudDhCbEdTX1dDRTFLcWdXNHZBNUZmVHAtZE1SYWIybEt3c1BSWThqeWI2LU1ydG5SSkdEMEhLNzhuVDFyVGN5bGZIeHYzRHViaE5YRHFHVlRTenR1dndoemlZVk1LbG1KRlUyNVRBdVVvSWp6aURZTzNxNF9KX1JXbC1CQkptWlZqWWpwTWpsN3NPR0dValZuZHZfUXlqVVVDNjZyTVJvOTJtdFpCOQ?oc=5",
-      "description": "US stocks post biggest weekly decline since April 2025 as AI investment fears deepen Telangana Today"
-    },
-    {
-      "published": "2026-11-07T05:16:50+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "IndulgExpress",
-      "title": "Sydney Sweeney shares fall vacation moments with boyfriend Scooter Braun: A look at their relationship timeline - IndulgExpress",
-      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxOcWZ1cWZOaGpnaDVGcTVFQjR6SDdfYTJlT1BnX2Zta3BkWHdGOGtpQUhfbGhhcUd3ZTl2SHFscVU0VGppako5QWg1VmJIM21BSnlBdFBBWllyQ19SNG5HdzV6dEJlNkJPNWlDTHlidjhWMGhrcjVQTkg4c3hLcTd3TTRqNS0zaGZFM3kxQ0hLaE1VdzM4TFlSempTcEkyQTRZV1RaTnZROERwVjhCbVJ0MHVLaW1QWWpwV0g1WUVhU1d3T3J0TXlHYlFJc3JtTmdpQ2lFYTBWRGkwZDI0cWdnSHZ1dlhnQjBxMUE3ODhubWFCaGFKclh3dkNabklqSFRCX1VF0gGQAkFVX3lxTFBNdFpRYi1KU0R4b25aQXJzWlhKMjdrbW9QLU05NGVEWmh4OTFBbDNsS2NKVVpjVU8ydGN4NmZDZWJZVlFiMjhyTkllZHFvN19xeFF0a3RLemR5RlVGQVVoVUlwTHNwRTNWZG5McFhsRm53YzJ5VEc3aTBwLXBTalZ2NGNWeEd3enBDU2szZ0xmUTNRbzNkdlBfSXFkb3ItSy1SMHVrMW5xNmdnOVROY3VMQVZBSDRnWHprV2YxNGZlM25XX2dYZ19LbE5pc1VsVmM5Ml9hWG92dVVjQUU0QW1ZZDZOM2FTODBfb0VjU2E2cEh5QV9IdUtFdzVhQUtQRkVwRjdXb3ZHUGlIRERzNjJO?oc=5",
-      "description": "Sydney Sweeney shares fall vacation moments with boyfriend Scooter Braun: A look at their relationship timeline IndulgExpress"
-    },
-    {
-      "published": "2026-11-07T05:11:08+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Business Standard",
-      "title": "India should scrap capital gains tax on foreign investors: Edelweiss chief - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZHdLbF92Z05FS2dQNEQ2WUhYMjQzcVNEUUF2VkpFQngzcnA0OXNTQ3hsVTFlZi03aW00NEE5SmZRcUpxRUplc1hMNFk5cU1XQUhmMm5IN1VrQ0twaDF3Z2VoNmdwQk80QUN5N2tfOXZDR1pjN0JmMVZHay10OW5ScFhVWkd0Q1d1bUdwMEszU2RheXI0eFV1anJEZ3NRSy02RnljWndqZEotMnFXRlM3TXlmUWxGT19weTBaYzlHdWNLRHFNbnJIMDMyOG9VVmVYWVhZRNIB2gFBVV95cUxPY0hRS05OLWE3LUJtT3NnM1haejFvWFYxM3UtbFYwaGwwUjZNUm9YbTRMaHlCTGFQbTBaSTI5WW00R2hYTmZWcEtrd0Z2N0dJeFkxTEVVeVMyZTNWNVBKaEJHYXlXNC0xX01uSi1Bd084RmVBbkJiN2ZuYll3NnpGOGxPZGV0OVdWaWRYQU5xci11MW10cGlzQlhHSEdtS1JRQklZaFdUOEF4YnVJNFFiMUVVQlptR1R5NEl3ZW1sSDN4bXZXTDU0UGFJNWJxQnVmVWVCem1Kb0NMdw?oc=5",
-      "description": "India should scrap capital gains tax on foreign investors: Edelweiss chief Business Standard"
     }
   ]
 }
