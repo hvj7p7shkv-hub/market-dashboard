@@ -1,12 +1,32 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-08 03:07
+Generated: 2026-11-08 03:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
 ## Highest-Relevance Wires
 
-### 1. AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com
+### 1. Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - The Tribune
+
+- Source: The Tribune
+- Published: 2026-11-08T03:12:25+00:00
+- Themes: AI / tech risk, market selling, India market
+- Score: 12
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3hHb0VUNzNwNnVlT2F2NUZfUVRyd0JPOXdzV2RLbXl6a0VfYlZTYlEwWDVpcHRTX3RyVXFUQTdMSTRkNURDazM0WkNSYkZ1ZlVXd3JWdHItNDJvTm83N0R1T19GbXBzdGJDenpVZmxubll6Q0JIRXRfVTdKUjUtTDFhelJnZllCM2wtS1JNYVhmd3RZcVlrRkkxYnhkN09UNktDN3ZiSFYzaGxnb2hQcFZTOXcwOUlVWmhHNUZfOUFhRWZGVFVFOFhndHNlMmJZajhad0pkMNIB2wFBVV95cUxNYnBHaUdFS1JiR3UzLTlEVjRDcm1rN2M0aDI3R2c1aUpWTEg2Q09jcjd5VXVCTl9veEZSUXQtcGpKUWMtaW5NOVp0X2ZmWWRxTzhkNmdJVzhyU3RtbkVKeW1xN0NRVzNFTjJIYzRzTEQxSnBaa2FWNHlkWmVwWFhnN0xMdmFoeFBKeXJLWVg0MDFZR2x4bkJEQ2xGdHBDQ0gzZ0lwWFc0QlpFLVVJbEVkXy1NdzE4a3U3c1ZUYld5YXZzTTFKVi0tVFhLYnlEV0FURThYcVE1UngzWUU?oc=5
+
+Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week The Tribune
+
+### 2. AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com India
+
+- Source: Investing.com India
+- Published: 2026-11-08T01:08:13+00:00
+- Themes: AI / tech risk, market selling, India market
+- Score: 12
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkN1Y0UwbzZXQ2RTa3laVUJJcTFNYWVIMEZaNHBvbDFPZUREVGFEdGRCZ1pSaWMtZUdUeXhOaGpqREFPUGlmZXI4Y0xib0VITkpyQXQyckJqcVg0M3RuTEhxaWxuZ0JOYVEwYTRGaE9HZG83dGRQVlJDN2RLV2dpY1hudEhaVWtPMmtxY1N0TXRTdnVVMFh5eHF5S2RBRUswdFptQ3UyMHJqMEJUZmI3andGZFNnTThsVFlNdDZwR3ZTcFdtdmttZm01eEJNdw?oc=5
+
+AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com Investing.com India
+
+### 3. AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-08T01:02:48+00:00
@@ -16,7 +36,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com Investing.com
 
-### 2. Nvidia vs Intel: Which Chip Stock Is Riskier as AI Selloff Hits Both and Nvidia's Nov. 17 Earnings Test Looms - International Business Times Australia
+### 4. Nvidia vs Intel: Which Chip Stock Is Riskier as AI Selloff Hits Both and Nvidia's Nov. 17 Earnings Test Looms - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-11-07T08:16:01+00:00
@@ -26,7 +46,7 @@ AI stock selloff drives investors to China, India, and overlooked Asian sectors 
 
 Nvidia vs Intel: Which Chip Stock Is Riskier as AI Selloff Hits Both and Nvidia's Nov. 17 Earnings Test Looms International Business Times Australia
 
-### 3. Samvat 2082 scorecard: Sensex, Nifty fall nearly 4%, while midcap and smallcap indices outperform - Fortune India
+### 5. Samvat 2082 scorecard: Sensex, Nifty fall nearly 4%, while midcap and smallcap indices outperform - Fortune India
 
 - Source: Fortune India
 - Published: 2026-11-07T05:30:00+00:00
@@ -36,7 +56,7 @@ Nvidia vs Intel: Which Chip Stock Is Riskier as AI Selloff Hits Both and Nvidia'
 
 Samvat 2082 scorecard: Sensex, Nifty fall nearly 4%, while midcap and smallcap indices outperform Fortune India
 
-### 4. AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidia (NASDAQ: NVDA) And Broadcom (NASDAQ: AVGO) Cratering - Foreign Policy Journal
+### 6. AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidia (NASDAQ: NVDA) And Broadcom (NASDAQ: AVGO) Cratering - Foreign Policy Journal
 
 - Source: Foreign Policy Journal
 - Published: 2026-11-07T11:02:00+00:00
@@ -46,7 +66,7 @@ Samvat 2082 scorecard: Sensex, Nifty fall nearly 4%, while midcap and smallcap i
 
 AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidia (NASDAQ: NVDA) And Broadcom (NASDAQ: AVGO) Cratering Foreign Policy Journal
 
-### 5. December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets - MLQ.ai
+### 7. December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets - MLQ.ai
 
 - Source: MLQ.ai
 - Published: 2026-11-07T21:55:30+00:00
@@ -56,7 +76,7 @@ AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidi
 
 December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets MLQ.ai
 
-### 6. Nvidia Shares Rebound After Historic Semiconductor Selloff - Demokratis.co.id
+### 8. Nvidia Shares Rebound After Historic Semiconductor Selloff - Demokratis.co.id
 
 - Source: Demokratis.co.id
 - Published: 2026-11-07T19:01:00+00:00
@@ -66,7 +86,7 @@ December Fed hike odds near 77% after jobs surprise, as AI selloff pressure move
 
 Nvidia Shares Rebound After Historic Semiconductor Selloff Demokratis.co.id
 
-### 7. Nasdaq Suffers Biggest Daily Fall Since April 2025 as AI Infrastructure Selloff Deepens - Tekedia
+### 9. Nasdaq Suffers Biggest Daily Fall Since April 2025 as AI Infrastructure Selloff Deepens - Tekedia
 
 - Source: Tekedia
 - Published: 2026-11-07T11:49:34+00:00
@@ -76,7 +96,7 @@ Nvidia Shares Rebound After Historic Semiconductor Selloff Demokratis.co.id
 
 Nasdaq Suffers Biggest Daily Fall Since April 2025 as AI Infrastructure Selloff Deepens Tekedia
 
-### 8. Western Digital (WDC) Falls With AI Hardware Selloff On An Undervalued Narrative - Yahoo Finance
+### 10. Western Digital (WDC) Falls With AI Hardware Selloff On An Undervalued Narrative - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-07T09:13:35+00:00
@@ -86,7 +106,7 @@ Nasdaq Suffers Biggest Daily Fall Since April 2025 as AI Infrastructure Selloff 
 
 Western Digital (WDC) Falls With AI Hardware Selloff On An Undervalued Narrative Yahoo Finance
 
-### 9. Anthropic IPO Valuation Could Fall $800B Amid AI Stock Selloff - The Coin Republic
+### 11. Anthropic IPO Valuation Could Fall $800B Amid AI Stock Selloff - The Coin Republic
 
 - Source: The Coin Republic
 - Published: 2026-11-07T04:30:00+00:00
@@ -96,7 +116,7 @@ Western Digital (WDC) Falls With AI Hardware Selloff On An Undervalued Narrative
 
 Anthropic IPO Valuation Could Fall $800B Amid AI Stock Selloff The Coin Republic
 
-### 10. Nasdaq Climbs as Technology Stocks Rebound After AI Selloff - SSBCrack
+### 12. Nasdaq Climbs as Technology Stocks Rebound After AI Selloff - SSBCrack
 
 - Source: SSBCrack
 - Published: 2026-11-07T03:40:16+00:00
@@ -106,7 +126,17 @@ Anthropic IPO Valuation Could Fall $800B Amid AI Stock Selloff The Coin Republic
 
 Nasdaq Climbs as Technology Stocks Rebound After AI Selloff SSBCrack
 
-### 11. Why the AI stock sell-off could matter far beyond Wall Street - Malay Mail
+### 13. BASF's Automotive Plastics Wins Land as Sector-Wide Tech Selloff Bites - ad-hoc-news.de
+
+- Source: ad-hoc-news.de
+- Published: 2026-11-08T03:23:10+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQODJEYUptY2tpTzZDV0pWRF9STzhMcXZ2WTRNYURFWEdJQnIxWDJkOFRkblBjOWdka3dtdVUwc210ZlFfM0ptUGNvSW5QTDd1cHdqZlJuVnV1S2xaVmdtS0dhQXRmOEgxeW1kcmlSU3VUTmw2a1ItaEtaTDRCSnpjaTE5MDRsVFVib0xYY0R4QlhzQ1g4M01aRmlmV19PMFBxQmdtbi01ZWtMSW8yanFLd3REMUgtUHVqS0VHYldMdEpQMzZ3a3k5c2QxbTVhSnJlcS1sYXZqSUtOZw?oc=5
+
+BASF's Automotive Plastics Wins Land as Sector-Wide Tech Selloff Bites ad-hoc-news.de
+
+### 14. Why the AI stock sell-off could matter far beyond Wall Street - Malay Mail
 
 - Source: Malay Mail
 - Published: 2026-11-07T23:01:54+00:00
@@ -116,7 +146,7 @@ Nasdaq Climbs as Technology Stocks Rebound After AI Selloff SSBCrack
 
 Why the AI stock sell-off could matter far beyond Wall Street Malay Mail
 
-### 12. Why the AI stock sell-off could matter far beyond Wall Street - Newswav
+### 15. Why the AI stock sell-off could matter far beyond Wall Street - Newswav
 
 - Source: Newswav
 - Published: 2026-11-07T23:00:00+00:00
@@ -126,7 +156,7 @@ Why the AI stock sell-off could matter far beyond Wall Street Malay Mail
 
 Why the AI stock sell-off could matter far beyond Wall Street Newswav
 
-### 13. AI stocks erase $13.2 trillion in market value as selloff deepens - Crypto Briefing
+### 16. AI stocks erase $13.2 trillion in market value as selloff deepens - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-11-07T20:36:00+00:00
@@ -136,7 +166,7 @@ Why the AI stock sell-off could matter far beyond Wall Street Newswav
 
 AI stocks erase $13.2 trillion in market value as selloff deepens Crypto Briefing
 
-### 14. Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% - Las Vegas Review-Journal
+### 17. Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% - Las Vegas Review-Journal
 
 - Source: Las Vegas Review-Journal
 - Published: 2026-11-07T20:29:24+00:00
@@ -146,7 +176,7 @@ AI stocks erase $13.2 trillion in market value as selloff deepens Crypto Briefin
 
 Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% Las Vegas Review-Journal
 
-### 15. The AI Selloff Just Got Messy. Here’s 3 Ways It Can Resolve (NYSEARCA:SPY) - Seeking Alpha
+### 18. The AI Selloff Just Got Messy. Here’s 3 Ways It Can Resolve (NYSEARCA:SPY) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-07T18:52:30+00:00
@@ -156,7 +186,7 @@ Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% La
 
 The AI Selloff Just Got Messy. Here’s 3 Ways It Can Resolve (NYSEARCA:SPY) Seeking Alpha
 
-### 16. The Unlikely Stock That Could “Cushion” an AI Selloff - InvestorPlace
+### 19. The Unlikely Stock That Could “Cushion” an AI Selloff - InvestorPlace
 
 - Source: InvestorPlace
 - Published: 2026-11-07T17:58:30+00:00
@@ -166,7 +196,7 @@ The AI Selloff Just Got Messy. Here’s 3 Ways It Can Resolve (NYSEARCA:SPY) See
 
 The Unlikely Stock That Could “Cushion” an AI Selloff InvestorPlace
 
-### 17. NVIDIA sparks valuation debate after selloff (NVDA:NASDAQ) - Seeking Alpha
+### 20. NVIDIA sparks valuation debate after selloff (NVDA:NASDAQ) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-07T17:43:27+00:00
@@ -176,7 +206,7 @@ The Unlikely Stock That Could “Cushion” an AI Selloff InvestorPlace
 
 NVIDIA sparks valuation debate after selloff (NVDA:NASDAQ) Seeking Alpha
 
-### 18. Aspex Management Loses 16% in October as AI Stock Selloff Hits Asian Hedge Funds - Tekedia
+### 21. Aspex Management Loses 16% in October as AI Stock Selloff Hits Asian Hedge Funds - Tekedia
 
 - Source: Tekedia
 - Published: 2026-11-07T17:27:18+00:00
@@ -186,7 +216,7 @@ NVIDIA sparks valuation debate after selloff (NVDA:NASDAQ) Seeking Alpha
 
 Aspex Management Loses 16% in October as AI Stock Selloff Hits Asian Hedge Funds Tekedia
 
-### 19. Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction - BusinessLine
+### 22. Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-07T16:32:19+00:00
@@ -196,7 +226,7 @@ Aspex Management Loses 16% in October as AI Stock Selloff Hits Asian Hedge Funds
 
 Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden variety correction BusinessLine
 
-### 20. Down Isn’t Cheap: How Far Can The AI Trade Still Fall? (NASDAQ:SMH) - Seeking Alpha
+### 23. Down Isn’t Cheap: How Far Can The AI Trade Still Fall? (NASDAQ:SMH) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-07T16:00:43+00:00
@@ -206,7 +236,7 @@ Dow Jones, S&P 500, Nasdaq: Last week’s AI stocks crash is not your garden var
 
 Down Isn’t Cheap: How Far Can The AI Trade Still Fall? (NASDAQ:SMH) Seeking Alpha
 
-### 21. Siemens Charts Healthineers Split and UK Rail Hub as AI Selloff Drags Shares Lower - ad-hoc-news.de
+### 24. Siemens Charts Healthineers Split and UK Rail Hub as AI Selloff Drags Shares Lower - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-07T14:42:08+00:00
@@ -216,7 +246,7 @@ Down Isn’t Cheap: How Far Can The AI Trade Still Fall? (NASDAQ:SMH) Seeking Al
 
 Siemens Charts Healthineers Split and UK Rail Hub as AI Selloff Drags Shares Lower ad-hoc-news.de
 
-### 22. S&P 500 Rises to 7,376.86 Despite a Sell-off in Technology and Semiconductor Stocks - BBN Times
+### 25. S&P 500 Rises to 7,376.86 Despite a Sell-off in Technology and Semiconductor Stocks - BBN Times
 
 - Source: BBN Times
 - Published: 2026-11-07T14:00:56+00:00
@@ -226,7 +256,7 @@ Siemens Charts Healthineers Split and UK Rail Hub as AI Selloff Drags Shares Low
 
 S&P 500 Rises to 7,376.86 Despite a Sell-off in Technology and Semiconductor Stocks BBN Times
 
-### 23. Intel Stock What Oracle AI Deals Mean After The Selloff - Simply Wall St
+### 26. Intel Stock What Oracle AI Deals Mean After The Selloff - Simply Wall St
 
 - Source: Simply Wall St
 - Published: 2026-11-07T13:23:31+00:00
@@ -236,7 +266,7 @@ S&P 500 Rises to 7,376.86 Despite a Sell-off in Technology and Semiconductor Sto
 
 Intel Stock What Oracle AI Deals Mean After The Selloff Simply Wall St
 
-### 24. Berkshire Hathaway shares outperform amid AI-driven market selloff - Traders Union
+### 27. Berkshire Hathaway shares outperform amid AI-driven market selloff - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-07T12:55:22+00:00
@@ -246,7 +276,7 @@ Intel Stock What Oracle AI Deals Mean After The Selloff Simply Wall St
 
 Berkshire Hathaway shares outperform amid AI-driven market selloff Traders Union
 
-### 25. Why Is Micron Technology (MU) At The Center Of A Global Chip Selloff? - Simply Wall St
+### 28. Why Is Micron Technology (MU) At The Center Of A Global Chip Selloff? - Simply Wall St
 
 - Source: Simply Wall St
 - Published: 2026-11-07T12:34:19+00:00
@@ -256,7 +286,7 @@ Berkshire Hathaway shares outperform amid AI-driven market selloff Traders Union
 
 Why Is Micron Technology (MU) At The Center Of A Global Chip Selloff? Simply Wall St
 
-### 26. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - Asianet Newsable
+### 29. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - Asianet Newsable
 
 - Source: Asianet Newsable
 - Published: 2026-11-07T12:30:06+00:00
@@ -266,7 +296,7 @@ Why Is Micron Technology (MU) At The Center Of A Global Chip Selloff? Simply Wal
 
 AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ Asianet Newsable
 
-### 27. Asian Tech Stocks Plunge as Wall Street AI Sell-Off Triggers Heavy Losses in Chipmakers - Tekedia
+### 30. Asian Tech Stocks Plunge as Wall Street AI Sell-Off Triggers Heavy Losses in Chipmakers - Tekedia
 
 - Source: Tekedia
 - Published: 2026-11-07T11:50:03+00:00
@@ -276,7 +306,7 @@ AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buy
 
 Asian Tech Stocks Plunge as Wall Street AI Sell-Off Triggers Heavy Losses in Chipmakers Tekedia
 
-### 28. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - Stocktwits
+### 31. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-11-07T11:46:27+00:00
@@ -286,7 +316,7 @@ Asian Tech Stocks Plunge as Wall Street AI Sell-Off Triggers Heavy Losses in Chi
 
 AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ Stocktwits
 
-### 29. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - TradingView
+### 32. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - TradingView
 
 - Source: TradingView
 - Published: 2026-11-07T11:44:03+00:00
@@ -296,7 +326,7 @@ AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buy
 
 AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ TradingView
 
-### 30. Post-midterm AI sell-off rattles global markets amid Big Tech jitters - DW.com
+### 33. Post-midterm AI sell-off rattles global markets amid Big Tech jitters - DW.com
 
 - Source: DW.com
 - Published: 2026-11-07T11:06:12+00:00
@@ -306,7 +336,7 @@ AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buy
 
 Post-midterm AI sell-off rattles global markets amid Big Tech jitters DW.com
 
-### 31. Goldman Sachs sees healthcare as next defensive investment amid AI stock correction - BusinessLine
+### 34. Goldman Sachs sees healthcare as next defensive investment amid AI stock correction - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-07T09:04:21+00:00
@@ -316,7 +346,7 @@ Post-midterm AI sell-off rattles global markets amid Big Tech jitters DW.com
 
 Goldman Sachs sees healthcare as next defensive investment amid AI stock correction BusinessLine
 
-### 32. AI Stock Sell-Off & NFP Shock - Binance
+### 35. AI Stock Sell-Off & NFP Shock - Binance
 
 - Source: Binance
 - Published: 2026-11-07T08:50:54+00:00
@@ -326,7 +356,7 @@ Goldman Sachs sees healthcare as next defensive investment amid AI stock correct
 
 AI Stock Sell-Off & NFP Shock Binance
 
-### 33. Samsung vs SK Hynix: Which Korean Chip Stock Is Riskier After Record Profits Failed to Stop a Brutal Selloff - International Business Times Australia
+### 36. Samsung vs SK Hynix: Which Korean Chip Stock Is Riskier After Record Profits Failed to Stop a Brutal Selloff - International Business Times Australia
 
 - Source: International Business Times Australia
 - Published: 2026-11-07T08:16:53+00:00
@@ -336,7 +366,7 @@ AI Stock Sell-Off & NFP Shock Binance
 
 Samsung vs SK Hynix: Which Korean Chip Stock Is Riskier After Record Profits Failed to Stop a Brutal Selloff International Business Times Australia
 
-### 34. AI Data Center Selloff Shows Investors’ Election Fears - JournalArta
+### 37. AI Data Center Selloff Shows Investors’ Election Fears - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-07T08:01:58+00:00
@@ -346,7 +376,7 @@ Samsung vs SK Hynix: Which Korean Chip Stock Is Riskier After Record Profits Fai
 
 AI Data Center Selloff Shows Investors’ Election Fears JournalArta
 
-### 35. European stocks fall amid growing concerns over artificial intelligence - سانا
+### 38. European stocks fall amid growing concerns over artificial intelligence - سانا
 
 - Source: سانا
 - Published: 2026-11-07T07:50:00+00:00
@@ -356,7 +386,7 @@ AI Data Center Selloff Shows Investors’ Election Fears JournalArta
 
 European stocks fall amid growing concerns over artificial intelligence سانا
 
-### 36. European shares join global sell-off after AI fears hammer Asian markets - DW.com
+### 39. European shares join global sell-off after AI fears hammer Asian markets - DW.com
 
 - Source: DW.com
 - Published: 2026-11-07T06:43:59+00:00
@@ -366,7 +396,7 @@ European stocks fall amid growing concerns over artificial intelligence سانا
 
 European shares join global sell-off after AI fears hammer Asian markets DW.com
 
-### 37. SoftBank Stock Slides 59% Amid AI Selloff and Credit Concerns - KuCoin
+### 40. SoftBank Stock Slides 59% Amid AI Selloff and Credit Concerns - KuCoin
 
 - Source: KuCoin
 - Published: 2026-11-07T06:04:46+00:00
@@ -376,7 +406,7 @@ European shares join global sell-off after AI fears hammer Asian markets DW.com
 
 SoftBank Stock Slides 59% Amid AI Selloff and Credit Concerns KuCoin
 
-### 38. AI stocks fall amid fears of tighter US regulations - Pajhwok Afghan News
+### 41. AI stocks fall amid fears of tighter US regulations - Pajhwok Afghan News
 
 - Source: Pajhwok Afghan News
 - Published: 2026-11-07T04:56:33+00:00
@@ -386,7 +416,7 @@ SoftBank Stock Slides 59% Amid AI Selloff and Credit Concerns KuCoin
 
 AI stocks fall amid fears of tighter US regulations Pajhwok Afghan News
 
-### 39. Tech stock sell-off raises questions about AI boom and data center growth | Dollars & Sense - Yahoo Finance
+### 42. Tech stock sell-off raises questions about AI boom and data center growth | Dollars & Sense - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-07T04:44:00+00:00
@@ -396,7 +426,7 @@ AI stocks fall amid fears of tighter US regulations Pajhwok Afghan News
 
 Tech stock sell-off raises questions about AI boom and data center growth | Dollars & Sense Yahoo Finance
 
-### 40. Wall Street stocks rally after heavy AI-related selloff - The Economic Times
+### 43. Wall Street stocks rally after heavy AI-related selloff - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-07T04:04:36+00:00
@@ -406,17 +436,7 @@ Tech stock sell-off raises questions about AI boom and data center growth | Doll
 
 Wall Street stocks rally after heavy AI-related selloff The Economic Times
 
-### 41. AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week - Chicago Tribune
-
-- Source: Chicago Tribune
-- Published: 2026-11-07T03:13:30+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMia0FVX3lxTFBzU3hKSGJqRnVJRXBMMmZpXzJmb3g4ZlNfSjdGRmU1TkJELUk1S3g0UkVDUFpXc1FuY1FKUjZ4NC0xaldjaHBxQUxrTFlCWVJZWGVEc2VDMmYyZ0x1dXctWDR0ZkdwZ05JaU5R?oc=5
-
-AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week Chicago Tribune
-
-### 42. Nifty 50 gained 1.91% in October, outperforming other market-cap segments: Motilal Oswal Mutual Fund - Investment Guru India
+### 44. Nifty 50 gained 1.91% in October, outperforming other market-cap segments: Motilal Oswal Mutual Fund - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-07T06:42:48+00:00
@@ -426,7 +446,7 @@ AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss fo
 
 Nifty 50 gained 1.91% in October, outperforming other market-cap segments: Motilal Oswal Mutual Fund Investment Guru India
 
-### 43. From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead? - Livemint
+### 45. From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead? - Livemint
 
 - Source: Livemint
 - Published: 2026-11-07T11:18:52+00:00
@@ -436,7 +456,7 @@ Nifty 50 gained 1.91% in October, outperforming other market-cap segments: Motil
 
 From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead? Livemint
 
-### 44. Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing - Business News This Week
+### 46. Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing - Business News This Week
 
 - Source: Business News This Week
 - Published: 2026-11-08T02:08:35+00:00
@@ -446,7 +466,7 @@ From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed 
 
 Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing Business News This Week
 
-### 45. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+### 47. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-11-07T19:03:00+00:00
@@ -456,7 +476,7 @@ Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital 
 
 Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
 
-### 46. Franklin India Liquid Fund completes 28 years: What a ₹10,000 monthly SIP would be worth - CNBC TV18
+### 48. Franklin India Liquid Fund completes 28 years: What a ₹10,000 monthly SIP would be worth - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-07T09:02:41+00:00
@@ -466,7 +486,7 @@ Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentidea
 
 Franklin India Liquid Fund completes 28 years: What a ₹10,000 monthly SIP would be worth CNBC TV18
 
-### 47. Nifty 50 gains 1.91%, microcaps crash nearly 9% in October: Should investors shift SIPs to large caps? - Business Today
+### 49. Nifty 50 gains 1.91%, microcaps crash nearly 9% in October: Should investors shift SIPs to large caps? - Business Today
 
 - Source: Business Today
 - Published: 2026-11-07T08:48:09+00:00
@@ -476,7 +496,7 @@ Franklin India Liquid Fund completes 28 years: What a ₹10,000 monthly SIP woul
 
 Nifty 50 gains 1.91%, microcaps crash nearly 9% in October: Should investors shift SIPs to large caps? Business Today
 
-### 48. 10 Best Smallcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
+### 50. 10 Best Smallcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-11-07T07:29:18+00:00
@@ -486,7 +506,7 @@ Nifty 50 gains 1.91%, microcaps crash nearly 9% in October: Should investors shi
 
 10 Best Smallcap Mutual Funds by Rolling Returns (2026) Myinvestmentideas
 
-### 49. Tata Mutual Fund Launches SIP Awareness Campaign, Takes Investor Education to 325 Cinema Screens - MediaNews4U
+### 51. Tata Mutual Fund Launches SIP Awareness Campaign, Takes Investor Education to 325 Cinema Screens - MediaNews4U
 
 - Source: MediaNews4U
 - Published: 2026-11-07T06:32:44+00:00
@@ -496,7 +516,7 @@ Nifty 50 gains 1.91%, microcaps crash nearly 9% in October: Should investors shi
 
 Tata Mutual Fund Launches SIP Awareness Campaign, Takes Investor Education to 325 Cinema Screens MediaNews4U
 
-### 50. Quote on FPI Flows in Indian Markets for the week of 2–6 November 2026 by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth - Investment Guru India
+### 52. Quote on FPI Flows in Indian Markets for the week of 2–6 November 2026 by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-07T11:43:59+00:00
@@ -506,7 +526,7 @@ Tata Mutual Fund Launches SIP Awareness Campaign, Takes Investor Education to 32
 
 Quote on FPI Flows in Indian Markets for the week of 2–6 November 2026 by Dheeraj Gaur, Chief Investment Strategy Officer at Choice Wealth Investment Guru India
 
-### 51. Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 53. Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-07T11:13:41+00:00
@@ -516,7 +536,7 @@ Quote on FPI Flows in Indian Markets for the week of 2–6 November 2026 by Dhee
 
 Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 52. Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investors Buy on November 8? - Dalal Street Investment Journal
+### 54. Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investors Buy on November 8? - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-07T10:35:32+00:00
@@ -526,7 +546,7 @@ Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strateg
 
 Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investors Buy on November 8? Dalal Street Investment Journal
 
-### 53. Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how small savings grow your money over 5 to 25 yrs - Livemint
+### 55. Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how small savings grow your money over 5 to 25 yrs - Livemint
 
 - Source: Livemint
 - Published: 2026-11-07T09:40:19+00:00
@@ -536,7 +556,7 @@ Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investo
 
 Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how small savings grow your money over 5 to 25 yrs Livemint
 
-### 54. 11 Mutual Funds With Positive Returns Every Year in the Last 5 Years - Myinvestmentideas
+### 56. 11 Mutual Funds With Positive Returns Every Year in the Last 5 Years - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-11-07T08:35:06+00:00
@@ -546,7 +566,7 @@ Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how sma
 
 11 Mutual Funds With Positive Returns Every Year in the Last 5 Years Myinvestmentideas
 
-### 55. Gold hits strong weekly gain as crude oil falls over 12% - The Assam Tribune
+### 57. Gold hits strong weekly gain as crude oil falls over 12% - The Assam Tribune
 
 - Source: The Assam Tribune
 - Published: 2026-11-07T08:04:34+00:00
@@ -556,7 +576,7 @@ Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how sma
 
 Gold hits strong weekly gain as crude oil falls over 12% The Assam Tribune
 
-### 56. Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows - Mid-Day
+### 58. Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-11-07T07:10:00+00:00
@@ -566,7 +586,7 @@ Gold hits strong weekly gain as crude oil falls over 12% The Assam Tribune
 
 Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows Mid-Day
 
-### 57. HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong - HungryGoWhere
+### 59. HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong - HungryGoWhere
 
 - Source: HungryGoWhere
 - Published: 2026-11-07T05:27:22+00:00
@@ -576,7 +596,7 @@ Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows Mid-Day
 
 HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong HungryGoWhere
 
-### 58. Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments - Livemint
+### 60. Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments - Livemint
 
 - Source: Livemint
 - Published: 2026-11-07T04:43:37+00:00
@@ -586,7 +606,17 @@ HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG 
 
 Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments Livemint
 
-### 59. Thai stocks fall 2.16% as global technology sell-off hits chipmakers - Pattaya Mail
+### 61. AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-11-08T03:15:06+00:00
+- Themes: AI / tech risk, India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdXVrcjMycThwUzU0SDF3Ri10bTRZVDdDZEctWmhnZGhlTUxKRlJEbFhNSUhhTzhCSDU0MXk3VDFONkstQjBnNzRuZjNzS2lhYXpnb09IUnZMTDllTTRhM0pFaHZYZzlxdjEzdzFIaWFERThtbS1yOFEyMHEyMW1nZk9jcGVUVmR6TTlURno5QWpmWll0V3ctR1NlM1pXdzl0Tng4MG1vNGpueFpwLU92akF6ZGRqa1ZBSW43ZGp4dUhSZHVuM3Y3bHI5WVR6ZlJybmJ6MHk0ZU53RHdoN0HSAeMBQVVfeXFMUE9EUnNLV0pMejNjSnlsUjZTR1RMRlZBN19YOTQ5NEFvR3E4NXJmR2RTUDY4YnRGNkp5S1o4b1hFRzg2VWs0Q0ZicENQSVVBUWh1NFZtUzZTcF9Gd05ZTEdQb1VBX1dOSGFtSzdUTmtUYUxuanA1SWczZnZlVU0wcVhlbUZUUXNFZmdxakcxQkNHRDJIOXF6dVAtNjF2MlY1NUlYT1pROWg5UHQtVzJwNTcxdGo4Wnp2UWk1WDBGcVE2b0VoMk9mLVg2cWdVdW5LZkt2QXd4dnNTdmpNd0RpOWRSbk0?oc=5
+
+AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week Moneycontrol.com
+
+### 62. Thai stocks fall 2.16% as global technology sell-off hits chipmakers - Pattaya Mail
 
 - Source: Pattaya Mail
 - Published: 2026-11-07T20:40:58+00:00
@@ -596,7 +626,7 @@ Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warn
 
 Thai stocks fall 2.16% as global technology sell-off hits chipmakers Pattaya Mail
 
-### 60. AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? - Yahoo Finance
+### 63. AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-07T16:01:02+00:00
@@ -606,7 +636,7 @@ Thai stocks fall 2.16% as global technology sell-off hits chipmakers Pattaya Mai
 
 AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? Yahoo Finance
 
-### 61. Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 - TradingView
+### 64. Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 - TradingView
 
 - Source: TradingView
 - Published: 2026-11-07T10:31:23+00:00
@@ -616,7 +646,7 @@ AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? Y
 
 Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 TradingView
 
-### 62. Foreign fund inflows push Sensex, Nifty to strong weekly gains - The Assam Tribune
+### 65. Foreign fund inflows push Sensex, Nifty to strong weekly gains - The Assam Tribune
 
 - Source: The Assam Tribune
 - Published: 2026-11-07T07:56:22+00:00
@@ -626,7 +656,7 @@ Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 Trad
 
 Foreign fund inflows push Sensex, Nifty to strong weekly gains The Assam Tribune
 
-### 63. Stock market muhurat trading date and time 2026 on Diwali day 8 Nov: MCX, Sensex, Nifty - What investors should know - Livemint
+### 66. Stock market muhurat trading date and time 2026 on Diwali day 8 Nov: MCX, Sensex, Nifty - What investors should know - Livemint
 
 - Source: Livemint
 - Published: 2026-11-07T07:34:02+00:00
@@ -636,7 +666,7 @@ Foreign fund inflows push Sensex, Nifty to strong weekly gains The Assam Tribune
 
 Stock market muhurat trading date and time 2026 on Diwali day 8 Nov: MCX, Sensex, Nifty - What investors should know Livemint
 
-### 64. Muhurat Trading 2026: Sensex, Nifty has 80% strike rate. Will this trend continue as Samvat 2083 kicks off - The Economic Times
+### 67. Muhurat Trading 2026: Sensex, Nifty has 80% strike rate. Will this trend continue as Samvat 2083 kicks off - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-07T04:56:39+00:00
@@ -646,27 +676,17 @@ Stock market muhurat trading date and time 2026 on Diwali day 8 Nov: MCX, Sensex
 
 Muhurat Trading 2026: Sensex, Nifty has 80% strike rate. Will this trend continue as Samvat 2083 kicks off The Economic Times
 
-### 65. Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on - The Times of India
+### 68. Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on - The Times of India
 
 - Source: The Times of India
 - Published: 2026-11-08T02:03:00+00:00
 - Themes: India market
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYjJkRU8waGZOOFNjWi02MGFuX0FhOXhiUllRajJTaUlIa3JINllqTzR6ZXZCa3NzcjYxd0dkc1ZpbGNfa3lKVmJ6X0RoazlXbHdVWHBBU0lnMy1LUGpxVWVtNHdETzctSi04NS1qdTZTV2otREpOYklfNWF1SjQwemMtS2RDMkw1SzM0cUZiRmRObzBwRDZ6d0lvcWJlMko3QzBLVlVRZVk2aTlVUVpETXdETjdMejluS19ndkJWYVZac1d1T0IwZFVhMV90MU5WYmF0ak03blZ2TWE5alQyeXptU0VzWHFEcmx6NDBPQ2FwckZ4RE44WWg3UdIB-wFBVV95cUxPYjJkRU8waGZOOFNjWi02MGFuX0FhOXhiUllRajJTaUlIa3JINllqTzR6ZXZCa3NzcjYxd0dkc1ZpbGNfa3lKVmJ6X0RoazlXbHdVWHBBU0lnMy1LUGpxVWVtNHdETzctSi04NS1qdTZTV2otREpOYklfNWF1SjQwemMtS2RDMkw1SzM0cUZiRmRObzBwRDZ6d0lvcWJlMko3QzBLVlVRZVk2aTlVUVpETXdETjdMejluS19ndkJWYVZac1d1T0IwZFVhMV90MU5WYmF0ak03blZ2TWE5alQyeXptU0VzWHFEcmx6NDBPQ2FwckZ4RE44WWg3UQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbU5BLVBBR2RnQTJibWNyUm83aVdtSTZYdFY5OTFNdjZmWDdQeVFja3QzcWdIN0YxVS1sUzFHZkthT3JXZWpFZVBnTk9OMEUzeGg4S013anRGbXA1STZjVWpDTTA5SE5VUXhsU2VfVW12b3pJSndTblF4WEk1c3hhOVE2QWVna1hNZkRmdmVlakhZaFFuRWFIdjg4aVlvLVhvSlEtaXRIbkx5T1QyekstaE5NRUMtTTc2cXdKS0wyM1Q2WlVFX3NfX3dOQ3FiS2ZjdlUyWElBZDh6ckNzZ1QxZ3ZCQVV1bVR0a0RDTTcwUjJ4Qm9xdUHSAfsBQVVfeXFMT2IyZEVPMGhmTjhTY1otNjBhbl9BYTl4YlJZUWoyU2lJSGtySDZZak80emV2Qmtzc3I2MXdHZHNWaWxjX2t5SlZiel9EaGs5V2x3VVhwQVNJZzMtS1BqcVVlbTR3RE83LUotODUtanU2U1dqLURKTmJJXzVhdUo0MHpjLUtkQzJMNUszNHFGYkZkTm8wcEQ2endJb3FiZTJKN0MwS1ZVUWVZNmk5VVFaRE13RE43THo5bktfZ3ZCVmFWWnNXdU9CMGRVYTFfdDFOVmJhdGpNN25Wdk1hOWpUMnl6bVNFc1hxRHJsejQwT0NhcHJGeEROOFloN1E?oc=5
 
 Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on The Times of India
 
-### 66. Daily Voice: Nilesh Shah bets on earnings recovery in Samvat 2083, picks three sectors to watch - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-08T02:02:36+00:00
-- Themes: macro / flows
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUC1HTGhVVW9WZ0VDdHJsUmlRLTVUVXBoaVR3MENBM3FMZWN1Vlplc0N2dmhLS2xuQ21kd1htZkNXMzgxcU1sdHd1aldkSFJZa3ZEMHlILXg4RmRrT0pjcXJCNEl6SHRvTmJ1N0NkalZ4bjFORjVrOGRzd3RkVnM2NkxnOU04eHp0eWtpY0RkeG1GMjdQbkYxVkxJTHlHb2tES0ZJTDhUUkxZQkVSXzM3T0l0TEs3LTRsakVJeWljR08wOUxlYXpHblFZd2hTNXluNHdsaWdYWDZHbWZ4LU0tS19YaTRlNXRHVENobTJDZlFXLW93Y0HSAfsBQVVfeXFMTllkaDBqYUthNUttblFPZjFlY1Z0X0paSUJVaUVBdmg2bzNPbnlnOWZRTjc4VlNRRTRKQjQ0dVk2WWlJMjFpOUpEVUVoYnFfZldaSVZhTE9ZSUxRdm1yX1pucHBzajNtREozZTFnWkFIYnNnSFN2OXV2Q0pSbG55ZDh3WUtsOS0yRTlTSXR5T0tfbXAzX1NFcldFb2dsNDN3cW5yVTF0Ny1Qa0wxS2dxMDlOVmJjNE1lR3RKc01xTHlybFF5aDNWazhId1k0RkZDTkl5RHBFaUlLclprVlUzMGZGQ1BjQXVhREs4Y1EwWG5ueVkzaG45Q0R2R28?oc=5
-
-Daily Voice: Nilesh Shah bets on earnings recovery in Samvat 2083, picks three sectors to watch Moneycontrol.com
-
-### 67. WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears - Multibagg AI
+### 69. WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears - Multibagg AI
 
 - Source: Multibagg AI
 - Published: 2026-11-07T19:27:58+00:00
@@ -676,7 +696,7 @@ Daily Voice: Nilesh Shah bets on earnings recovery in Samvat 2083, picks three s
 
 WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears Multibagg AI
 
-### 68. OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash - Coinpaper
+### 70. OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-11-07T17:17:22+00:00
@@ -686,17 +706,7 @@ WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears Multibagg AI
 
 OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash Coinpaper
 
-### 69. Tata Steel Q2 Net Profit Jumps 16% to Rs 3,700 Cr on India Growth - Rediff MoneyWiz
-
-- Source: Rediff MoneyWiz
-- Published: 2026-11-07T16:19:35+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3pKMDRSVXdyckpNTmRKYkpmRWFUSkhRbFhad1JMY3MwZmJXQXhQY21qVzIzbk1YcUR3cG5nMVpBVlZ4bGVrTWVKSGJhbTFWdlRuVmxZcjJhNmhBSi02Tlp6RHBmbndURFNUQnZxM1NvQlBvZjl4OW55R0hwdG5SdUFLNERWMjNaQ0JVWmdNdU9MeGFmdlBJQ1NIQXYwaVNzUDNORzlrY0pPZzFnNnMyV3ZMbnA4RVHSAbwBQVVfeXFMTmQ4MWFBYkM0dFg2Q0twMXhpZXVRYUZwRjV1LUQzeGVMTUlVLWVmZnZDbUItdFBaVFJZR1dYX2xBMlNEUVBtekpmUVgxX2U3RXNuQzRBUEdxZTlpRUdSdGxOLVJDemtLWlVWaDJpUV9uNnhlX3YydHZvLTR6Rm1BYlRJamZ4QXNXdVBQemZseUpEbldFak5zZEE0TWRiZUlab1ZfeUI1QkY5N0xBTUk2cEt1dThjZ3hrRHVSS3o?oc=5
-
-Tata Steel Q2 Net Profit Jumps 16% to Rs 3,700 Cr on India Growth Rediff MoneyWiz
-
-### 70. Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet
+### 71. Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet
 
 - Source: TheStreet
 - Published: 2026-11-07T14:17:00+00:00
@@ -706,7 +716,7 @@ Tata Steel Q2 Net Profit Jumps 16% to Rs 3,700 Cr on India Growth Rediff MoneyWi
 
 Jim Cramer sends a strong signal to Nvidia stock investors TheStreet
 
-### 71. Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Trading Tells You - 24/7 Wall St.
+### 72. Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Trading Tells You - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-11-07T14:17:00+00:00
@@ -716,7 +726,7 @@ Jim Cramer sends a strong signal to Nvidia stock investors TheStreet
 
 Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Trading Tells You 24/7 Wall St.
 
-### 72. Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains - Livemint
+### 73. Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains - Livemint
 
 - Source: Livemint
 - Published: 2026-11-07T12:30:24+00:00
@@ -726,7 +736,7 @@ Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Tra
 
 Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains Livemint
 
-### 73. WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified - Stocktwits
+### 74. WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-11-07T12:08:56+00:00
@@ -736,7 +746,7 @@ Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's
 
 WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified Stocktwits
 
-### 74. Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil - Rediff
+### 75. Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil - Rediff
 
 - Source: Rediff
 - Published: 2026-11-07T10:32:34+00:00
@@ -745,16 +755,6 @@ WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘I
 - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2VUVkNTZF9pcDlwdUlKbko2dEZ3Y1BDX3VXNDkxOGRtRUpBYVVDQlBoVmJHdVhCVDV3QVpfYTFaVHVrYjRxUHRZaTFSMG1waFZzLVE3aXNtemVvLV9MdlRwZi1PaVVxbl9KQzhQTDhUWnFiYnRyblJzVnVRVndpMHdsOVlvZWNKRjVxeEltZ3luUmlzNjdtVUFNZ3Q0MFVkZFBYMGRlQ2FQMFRDMnFFcEU4LXQtQ0ptbUkzSklpYw?oc=5
 
 Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil Rediff
-
-### 75. Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook - BusinessLine
-
-- Source: BusinessLine
-- Published: 2026-11-07T10:30:00+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDNNTnJJRUc3Ni1PUDdiSTdwUHVmX2FZN1haaG5xUVZ5NkhxOXdldlpKRWpQLXZTRmVQbW82QTY4QW5DdXl4UF80M2cyRVdnazZxMFlzRmZ6emRJUlFzZWdVeE8ycTh6WXB4ZUxUaF9DZGxYTHUyeklqQ0ZHWWJlRzMzcVFsWVpHVUZPblRMcHREUmtQeDdCLWg5TktwVElsUjh3R0MxVk1NcWhFVmJzUHVmYWU4aHZ1TnA3eA?oc=5
-
-Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook BusinessLine
 
 ### 76. Anthropic IPO faces test after recent selloff: What Wall Street experts are saying - Invezz
 

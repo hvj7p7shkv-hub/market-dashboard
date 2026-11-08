@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 08:40 IST",
+  "generated_at": "2026-11-08 09:10 IST",
   "wire_file": "2026-11-08-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -22,36 +22,36 @@
     "nifty500_date_mismatches": 0
   },
   "posture": {
-    "stance": "Constructive but selective",
-    "wire_count": "4",
-    "wire_total_count": "86",
+    "stance": "India relief, AI overhang",
+    "wire_count": "7",
+    "wire_total_count": "87",
     "wire_scope_date": "2026-11-08",
-    "ai_wire_count": "1",
-    "selling_wire_count": "1",
-    "india_wire_count": "3",
+    "ai_wire_count": "5",
+    "selling_wire_count": "4",
+    "india_wire_count": "6",
     "weak_index_count": "7",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-08 02:08",
-      "title": "Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing - Business News This Week",
-      "text": "Latest dated headline · Business News This Week. Today's unique wire set contains 4 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-08 03:23",
+      "title": "BASF's Automotive Plastics Wins Land as Sector-Wide Tech Selloff Bites - ad-hoc-news.de",
+      "text": "Latest dated headline · ad-hoc-news.de. Today's unique wire set contains 7 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-08",
-      "title": "Risk-off still dominates the wires",
-      "text": "The latest wire slice for 2026-11-08 has 1 selling/risk wires and 1 AI/tech-risk wires, so the bias remains defensive."
+      "title": "India relief, global AI overhang",
+      "text": "The latest wire slice for 2026-11-08 has 6 India-market wires, 4 selling/risk wires, and 5 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-08",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week - Moneycontrol.com"
     },
     {
-      "label": "Funds",
-      "title": "Mutual fund participation is still visible",
-      "text": "Fund-related wires are active, but this dashboard should be read for category dispersion rather than a single fund-flow signal."
+      "label": "Flows · 2026-11-08",
+      "title": "Foreign-flow and risk appetite lens",
+      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - The Tribune"
     }
   ],
   "indices": [
@@ -19886,78 +19886,6 @@
           "emerging": false
         },
         {
-          "symbol": "GAIL",
-          "name": "GAIL (India) Ltd.",
-          "ticker": "GAIL.NS",
-          "sector": "Oil Gas & Consumable Fuels",
-          "downloaded": true,
-          "download_note": "",
-          "source_index": "NIFTY 500",
-          "benchmark_ticker": "^CRSLDX",
-          "last_date": "2026-11-06",
-          "last": 185.79,
-          "return_1d_pct": -0.11,
-          "return_5d_pct": 10.65,
-          "return_20d_pct": 11.49,
-          "volume": 7812989.0,
-          "avg_volume_20": 8870815.0,
-          "volume_ratio_20d": 0.88,
-          "turnover_proxy": 1451575226.31,
-          "rsi_14": 71.78,
-          "rsi_5d_ago": 49.0,
-          "above_sma_10": true,
-          "above_sma_20": true,
-          "above_sma_50": true,
-          "above_sma_100": true,
-          "above_sma_200": true,
-          "distance_sma_20_pct": 8.57,
-          "distance_sma_50_pct": 8.11,
-          "ma200_roc20_pct": 0.36,
-          "supertrend_bullish": false,
-          "new_high20": false,
-          "within_3pct_ath": true,
-          "at_ath": false,
-          "rs_acceleration_pct": -2.79,
-          "rs_ratio": 0.00766856,
-          "rs_ratio_sma_50": 0.00756171,
-          "rs_distance_sma_50_pct": 1.41,
-          "rs_return_20d_pct": 0.37,
-          "rs_above_50dma": true,
-          "trend_raw": 1.0,
-          "breakout_raw": 0.5,
-          "volume_raw": 0.88,
-          "setup_score": 4.12,
-          "setup_quality": "Actionable watch",
-          "primary_setup": "Breakout retest",
-          "setup_tags": "breakout, retest, pivot, volume, inverse-head-and-shoulders, base, reversal",
-          "setup_pivot_level": 177.17,
-          "setup_breakout_date": "2026-11-03",
-          "setup_volume_ratio": 2.04,
-          "setup_retest_gap_pct": 3.58,
-          "setup_flag_depth_pct": null,
-          "setup_impulse_return_pct": null,
-          "setup_neckline_level": null,
-          "setup_commentary": "Prior resistance has been cleared on higher volume and price is back near that pivot. This is the kind of retest zone where follow-through can matter more than chasing a stretched candle. Secondary patterns: Possible inverse H&S.",
-          "rotation_signal": "Strengthening",
-          "rotation_score": 5.17,
-          "woe": 3,
-          "constructive": true,
-          "sector_rs": -2.3764705882,
-          "ath_new_high_raw": 1.0,
-          "stock_rs_percentile": 74.8995983936,
-          "rs_acceleration_percentile": 59.6385542169,
-          "sector_theme_rs_percentile": 77.5100401606,
-          "ath_new_high_percentile": 82.9317269076,
-          "trend_structure_percentile": 90.9638554217,
-          "breakout_base_quality_percentile": 82.9317269076,
-          "volume_confirmation_percentile": 49.297188755,
-          "leader_score": 74.024670109,
-          "rank": 46,
-          "portfolio_rule": "Hold if owned",
-          "exceptional": false,
-          "emerging": false
-        },
-        {
           "symbol": "ULTRACEMCO",
           "name": "UltraTech Cement Ltd.",
           "ticker": "ULTRACEMCO.NS",
@@ -20023,6 +19951,78 @@
           "trend_structure_percentile": 44.2771084337,
           "breakout_base_quality_percentile": 82.9317269076,
           "volume_confirmation_percentile": 79.5180722892,
+          "leader_score": 74.024670109,
+          "rank": 46,
+          "portfolio_rule": "Hold if owned",
+          "exceptional": false,
+          "emerging": false
+        },
+        {
+          "symbol": "GAIL",
+          "name": "GAIL (India) Ltd.",
+          "ticker": "GAIL.NS",
+          "sector": "Oil Gas & Consumable Fuels",
+          "downloaded": true,
+          "download_note": "",
+          "source_index": "NIFTY 500",
+          "benchmark_ticker": "^CRSLDX",
+          "last_date": "2026-11-06",
+          "last": 185.79,
+          "return_1d_pct": -0.11,
+          "return_5d_pct": 10.65,
+          "return_20d_pct": 11.49,
+          "volume": 7812989.0,
+          "avg_volume_20": 8870815.0,
+          "volume_ratio_20d": 0.88,
+          "turnover_proxy": 1451575226.31,
+          "rsi_14": 71.78,
+          "rsi_5d_ago": 49.0,
+          "above_sma_10": true,
+          "above_sma_20": true,
+          "above_sma_50": true,
+          "above_sma_100": true,
+          "above_sma_200": true,
+          "distance_sma_20_pct": 8.57,
+          "distance_sma_50_pct": 8.11,
+          "ma200_roc20_pct": 0.36,
+          "supertrend_bullish": false,
+          "new_high20": false,
+          "within_3pct_ath": true,
+          "at_ath": false,
+          "rs_acceleration_pct": -2.79,
+          "rs_ratio": 0.00766856,
+          "rs_ratio_sma_50": 0.00756171,
+          "rs_distance_sma_50_pct": 1.41,
+          "rs_return_20d_pct": 0.37,
+          "rs_above_50dma": true,
+          "trend_raw": 1.0,
+          "breakout_raw": 0.5,
+          "volume_raw": 0.88,
+          "setup_score": 4.12,
+          "setup_quality": "Actionable watch",
+          "primary_setup": "Breakout retest",
+          "setup_tags": "breakout, retest, pivot, volume, inverse-head-and-shoulders, base, reversal",
+          "setup_pivot_level": 177.17,
+          "setup_breakout_date": "2026-11-03",
+          "setup_volume_ratio": 2.04,
+          "setup_retest_gap_pct": 3.58,
+          "setup_flag_depth_pct": null,
+          "setup_impulse_return_pct": null,
+          "setup_neckline_level": null,
+          "setup_commentary": "Prior resistance has been cleared on higher volume and price is back near that pivot. This is the kind of retest zone where follow-through can matter more than chasing a stretched candle. Secondary patterns: Possible inverse H&S.",
+          "rotation_signal": "Strengthening",
+          "rotation_score": 5.17,
+          "woe": 3,
+          "constructive": true,
+          "sector_rs": -2.3764705882,
+          "ath_new_high_raw": 1.0,
+          "stock_rs_percentile": 74.8995983936,
+          "rs_acceleration_percentile": 59.6385542169,
+          "sector_theme_rs_percentile": 77.5100401606,
+          "ath_new_high_percentile": 82.9317269076,
+          "trend_structure_percentile": 90.9638554217,
+          "breakout_base_quality_percentile": 82.9317269076,
+          "volume_confirmation_percentile": 49.297188755,
           "leader_score": 74.024670109,
           "rank": 47,
           "portfolio_rule": "Hold if owned",
@@ -23216,7 +23216,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-08T08:40:36+05:30",
+    "generated_at": "2026-11-08T09:10:35+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35710,6 +35710,24 @@
   ],
   "wires": [
     {
+      "published": "2026-11-08T03:12:25+00:00",
+      "score": 12.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market']",
+      "source": "The Tribune",
+      "title": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3hHb0VUNzNwNnVlT2F2NUZfUVRyd0JPOXdzV2RLbXl6a0VfYlZTYlEwWDVpcHRTX3RyVXFUQTdMSTRkNURDazM0WkNSYkZ1ZlVXd3JWdHItNDJvTm83N0R1T19GbXBzdGJDenpVZmxubll6Q0JIRXRfVTdKUjUtTDFhelJnZllCM2wtS1JNYVhmd3RZcVlrRkkxYnhkN09UNktDN3ZiSFYzaGxnb2hQcFZTOXcwOUlVWmhHNUZfOUFhRWZGVFVFOFhndHNlMmJZajhad0pkMNIB2wFBVV95cUxNYnBHaUdFS1JiR3UzLTlEVjRDcm1rN2M0aDI3R2c1aUpWTEg2Q09jcjd5VXVCTl9veEZSUXQtcGpKUWMtaW5NOVp0X2ZmWWRxTzhkNmdJVzhyU3RtbkVKeW1xN0NRVzNFTjJIYzRzTEQxSnBaa2FWNHlkWmVwWFhnN0xMdmFoeFBKeXJLWVg0MDFZR2x4bkJEQ2xGdHBDQ0gzZ0lwWFc0QlpFLVVJbEVkXy1NdzE4a3U3c1ZUYld5YXZzTTFKVi0tVFhLYnlEV0FURThYcVE1UngzWUU?oc=5",
+      "description": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week The Tribune"
+    },
+    {
+      "published": "2026-11-08T01:08:13+00:00",
+      "score": 12.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market']",
+      "source": "Investing.com India",
+      "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkN1Y0UwbzZXQ2RTa3laVUJJcTFNYWVIMEZaNHBvbDFPZUREVGFEdGRCZ1pSaWMtZUdUeXhOaGpqREFPUGlmZXI4Y0xib0VITkpyQXQyckJqcVg0M3RuTEhxaWxuZ0JOYVEwYTRGaE9HZG83dGRQVlJDN2RLV2dpY1hudEhaVWtPMmtxY1N0TXRTdnVVMFh5eHF5S2RBRUswdFptQ3UyMHJqMEJUZmI3andGZFNnTThsVFlNdDZwR3ZTcFdtdmttZm01eEJNdw?oc=5",
+      "description": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com Investing.com India"
+    },
+    {
       "published": "2026-11-08T01:02:48+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
@@ -35798,6 +35816,15 @@
       "title": "Nasdaq Climbs as Technology Stocks Rebound After AI Selloff - SSBCrack",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPWXFXeFBnMHl2S1diUTNhZm9yc1NINC0xcElVOGZrUktXR2J6eWlMYjNuY1NLMmZBek52WTZCZm1JZi1MVFpoazhfZnNMSEx0WnN3bE5oVkRTTE1BR09mdVZfajh2dm1GdnZEalI4b0FlTFE4N1RPOTJRX1cwRzViRTBWcEtxa3Y3RlFvR3NxTQ?oc=5",
       "description": "Nasdaq Climbs as Technology Stocks Rebound After AI Selloff SSBCrack"
+    },
+    {
+      "published": "2026-11-08T03:23:10+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "ad-hoc-news.de",
+      "title": "BASF's Automotive Plastics Wins Land as Sector-Wide Tech Selloff Bites - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQODJEYUptY2tpTzZDV0pWRF9STzhMcXZ2WTRNYURFWEdJQnIxWDJkOFRkblBjOWdka3dtdVUwc210ZlFfM0ptUGNvSW5QTDd1cHdqZlJuVnV1S2xaVmdtS0dhQXRmOEgxeW1kcmlSU3VUTmw2a1ItaEtaTDRCSnpjaTE5MDRsVFVib0xYY0R4QlhzQ1g4M01aRmlmV19PMFBxQmdtbi01ZWtMSW8yanFLd3REMUgtUHVqS0VHYldMdEpQMzZ3a3k5c2QxbTVhSnJlcS1sYXZqSUtOZw?oc=5",
+      "description": "BASF's Automotive Plastics Wins Land as Sector-Wide Tech Selloff Bites ad-hoc-news.de"
     },
     {
       "published": "2026-11-07T23:01:54+00:00",
@@ -36070,15 +36097,6 @@
       "description": "Wall Street stocks rally after heavy AI-related selloff The Economic Times"
     },
     {
-      "published": "2026-11-07T03:13:30+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Chicago Tribune",
-      "title": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week - Chicago Tribune",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzU3hKSGJqRnVJRXBMMmZpXzJmb3g4ZlNfSjdGRmU1TkJELUk1S3g0UkVDUFpXc1FuY1FKUjZ4NC0xaldjaHBxQUxrTFlCWVJZWGVEc2VDMmYyZ0x1dXctWDR0ZkdwZ05JaU5R?oc=5",
-      "description": "AI stocks halt their brutal, worldwide sell-off as Wall Street trims its loss for the week Chicago Tribune"
-    },
-    {
       "published": "2026-11-07T06:42:48+00:00",
       "score": 6.0,
       "themes": "['India market']",
@@ -36232,6 +36250,15 @@
       "description": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments Livemint"
     },
     {
+      "published": "2026-11-08T03:15:06+00:00",
+      "score": 2.0,
+      "themes": "['AI / tech risk', 'India market']",
+      "source": "Moneycontrol.com",
+      "title": "AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdXVrcjMycThwUzU0SDF3Ri10bTRZVDdDZEctWmhnZGhlTUxKRlJEbFhNSUhhTzhCSDU0MXk3VDFONkstQjBnNzRuZjNzS2lhYXpnb09IUnZMTDllTTRhM0pFaHZYZzlxdjEzdzFIaWFERThtbS1yOFEyMHEyMW1nZk9jcGVUVmR6TTlURno5QWpmWll0V3ctR1NlM1pXdzl0Tng4MG1vNGpueFpwLU92akF6ZGRqa1ZBSW43ZGp4dUhSZHVuM3Y3bHI5WVR6ZlJybmJ6MHk0ZU53RHdoN0HSAeMBQVVfeXFMUE9EUnNLV0pMejNjSnlsUjZTR1RMRlZBN19YOTQ5NEFvR3E4NXJmR2RTUDY4YnRGNkp5S1o4b1hFRzg2VWs0Q0ZicENQSVVBUWh1NFZtUzZTcF9Gd05ZTEdQb1VBX1dOSGFtSzdUTmtUYUxuanA1SWczZnZlVU0wcVhlbUZUUXNFZmdxakcxQkNHRDJIOXF6dVAtNjF2MlY1NUlYT1pROWg5UHQtVzJwNTcxdGo4Wnp2UWk1WDBGcVE2b0VoMk9mLVg2cWdVdW5LZkt2QXd4dnNTdmpNd0RpOWRSbk0?oc=5",
+      "description": "AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week Moneycontrol.com"
+    },
+    {
       "published": "2026-11-07T20:40:58+00:00",
       "score": 2.0,
       "themes": "['market selling']",
@@ -36291,17 +36318,8 @@
       "themes": "['India market']",
       "source": "The Times of India",
       "title": "Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on - The Times of India",
-      "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPYjJkRU8waGZOOFNjWi02MGFuX0FhOXhiUllRajJTaUlIa3JINllqTzR6ZXZCa3NzcjYxd0dkc1ZpbGNfa3lKVmJ6X0RoazlXbHdVWHBBU0lnMy1LUGpxVWVtNHdETzctSi04NS1qdTZTV2otREpOYklfNWF1SjQwemMtS2RDMkw1SzM0cUZiRmRObzBwRDZ6d0lvcWJlMko3QzBLVlVRZVk2aTlVUVpETXdETjdMejluS19ndkJWYVZac1d1T0IwZFVhMV90MU5WYmF0ak03blZ2TWE5alQyeXptU0VzWHFEcmx6NDBPQ2FwckZ4RE44WWg3UdIB-wFBVV95cUxPYjJkRU8waGZOOFNjWi02MGFuX0FhOXhiUllRajJTaUlIa3JINllqTzR6ZXZCa3NzcjYxd0dkc1ZpbGNfa3lKVmJ6X0RoazlXbHdVWHBBU0lnMy1LUGpxVWVtNHdETzctSi04NS1qdTZTV2otREpOYklfNWF1SjQwemMtS2RDMkw1SzM0cUZiRmRObzBwRDZ6d0lvcWJlMko3QzBLVlVRZVk2aTlVUVpETXdETjdMejluS19ndkJWYVZac1d1T0IwZFVhMV90MU5WYmF0ak03blZ2TWE5alQyeXptU0VzWHFEcmx6NDBPQ2FwckZ4RE44WWg3UQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbU5BLVBBR2RnQTJibWNyUm83aVdtSTZYdFY5OTFNdjZmWDdQeVFja3QzcWdIN0YxVS1sUzFHZkthT3JXZWpFZVBnTk9OMEUzeGg4S013anRGbXA1STZjVWpDTTA5SE5VUXhsU2VfVW12b3pJSndTblF4WEk1c3hhOVE2QWVna1hNZkRmdmVlakhZaFFuRWFIdjg4aVlvLVhvSlEtaXRIbkx5T1QyekstaE5NRUMtTTc2cXdKS0wyM1Q2WlVFX3NfX3dOQ3FiS2ZjdlUyWElBZDh6ckNzZ1QxZ3ZCQVV1bVR0a0RDTTcwUjJ4Qm9xdUHSAfsBQVVfeXFMT2IyZEVPMGhmTjhTY1otNjBhbl9BYTl4YlJZUWoyU2lJSGtySDZZak80emV2Qmtzc3I2MXdHZHNWaWxjX2t5SlZiel9EaGs5V2x3VVhwQVNJZzMtS1BqcVVlbTR3RE83LUotODUtanU2U1dqLURKTmJJXzVhdUo0MHpjLUtkQzJMNUszNHFGYkZkTm8wcEQ2endJb3FiZTJKN0MwS1ZVUWVZNmk5VVFaRE13RE43THo5bktfZ3ZCVmFWWnNXdU9CMGRVYTFfdDFOVmJhdGpNN25Wdk1hOWpUMnl6bVNFc1hxRHJsejQwT0NhcHJGeEROOFloN1E?oc=5",
       "description": "Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on The Times of India"
-    },
-    {
-      "published": "2026-11-08T02:02:36+00:00",
-      "score": 1.0,
-      "themes": "['macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Daily Voice: Nilesh Shah bets on earnings recovery in Samvat 2083, picks three sectors to watch - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNUC1HTGhVVW9WZ0VDdHJsUmlRLTVUVXBoaVR3MENBM3FMZWN1Vlplc0N2dmhLS2xuQ21kd1htZkNXMzgxcU1sdHd1aldkSFJZa3ZEMHlILXg4RmRrT0pjcXJCNEl6SHRvTmJ1N0NkalZ4bjFORjVrOGRzd3RkVnM2NkxnOU04eHp0eWtpY0RkeG1GMjdQbkYxVkxJTHlHb2tES0ZJTDhUUkxZQkVSXzM3T0l0TEs3LTRsakVJeWljR08wOUxlYXpHblFZd2hTNXluNHdsaWdYWDZHbWZ4LU0tS19YaTRlNXRHVENobTJDZlFXLW93Y0HSAfsBQVVfeXFMTllkaDBqYUthNUttblFPZjFlY1Z0X0paSUJVaUVBdmg2bzNPbnlnOWZRTjc4VlNRRTRKQjQ0dVk2WWlJMjFpOUpEVUVoYnFfZldaSVZhTE9ZSUxRdm1yX1pucHBzajNtREozZTFnWkFIYnNnSFN2OXV2Q0pSbG55ZDh3WUtsOS0yRTlTSXR5T0tfbXAzX1NFcldFb2dsNDN3cW5yVTF0Ny1Qa0wxS2dxMDlOVmJjNE1lR3RKc01xTHlybFF5aDNWazhId1k0RkZDTkl5RHBFaUlLclprVlUzMGZGQ1BjQXVhREs4Y1EwWG5ueVkzaG45Q0R2R28?oc=5",
-      "description": "Daily Voice: Nilesh Shah bets on earnings recovery in Samvat 2083, picks three sectors to watch Moneycontrol.com"
     },
     {
       "published": "2026-11-07T19:27:58+00:00",
@@ -36320,15 +36338,6 @@
       "title": "OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash - Coinpaper",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0JrZFFkcHM3THVyMzE0MDllbHBGMnVwNVYxVkxHWC1jMlU2NEVtVU1jUmVEOVM0b3dIWHZHNDBONjNjOThCTVdZLXgyZGM0SUhUQlAyN1UxcTVlUmhCTWFyV1hzVzBDR1RDTldwSUs3NWNhelJlV1hzOEphWDlxS1ZfcVJya3piR3J0S3ZjamN4dG8yWGRNWXVRVFBSNFhIdnM0Y2NmdkRUSVZXMFo1dEFJTVF2eEdaSGdQYnVNdw?oc=5",
       "description": "OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash Coinpaper"
-    },
-    {
-      "published": "2026-11-07T16:19:35+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Rediff MoneyWiz",
-      "title": "Tata Steel Q2 Net Profit Jumps 16% to Rs 3,700 Cr on India Growth - Rediff MoneyWiz",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQ3pKMDRSVXdyckpNTmRKYkpmRWFUSkhRbFhad1JMY3MwZmJXQXhQY21qVzIzbk1YcUR3cG5nMVpBVlZ4bGVrTWVKSGJhbTFWdlRuVmxZcjJhNmhBSi02Tlp6RHBmbndURFNUQnZxM1NvQlBvZjl4OW55R0hwdG5SdUFLNERWMjNaQ0JVWmdNdU9MeGFmdlBJQ1NIQXYwaVNzUDNORzlrY0pPZzFnNnMyV3ZMbnA4RVHSAbwBQVVfeXFMTmQ4MWFBYkM0dFg2Q0twMXhpZXVRYUZwRjV1LUQzeGVMTUlVLWVmZnZDbUItdFBaVFJZR1dYX2xBMlNEUVBtekpmUVgxX2U3RXNuQzRBUEdxZTlpRUdSdGxOLVJDemtLWlVWaDJpUV9uNnhlX3YydHZvLTR6Rm1BYlRJamZ4QXNXdVBQemZseUpEbldFak5zZEE0TWRiZUlab1ZfeUI1QkY5N0xBTUk2cEt1dThjZ3hrRHVSS3o?oc=5",
-      "description": "Tata Steel Q2 Net Profit Jumps 16% to Rs 3,700 Cr on India Growth Rediff MoneyWiz"
     },
     {
       "published": "2026-11-07T14:17:00+00:00",
@@ -36374,15 +36383,6 @@
       "title": "Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil - Rediff",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2VUVkNTZF9pcDlwdUlKbko2dEZ3Y1BDX3VXNDkxOGRtRUpBYVVDQlBoVmJHdVhCVDV3QVpfYTFaVHVrYjRxUHRZaTFSMG1waFZzLVE3aXNtemVvLV9MdlRwZi1PaVVxbl9KQzhQTDhUWnFiYnRyblJzVnVRVndpMHdsOVlvZWNKRjVxeEltZ3luUmlzNjdtVUFNZ3Q0MFVkZFBYMGRlQ2FQMFRDMnFFcEU4LXQtQ0ptbUkzSklpYw?oc=5",
       "description": "Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil Rediff"
-    },
-    {
-      "published": "2026-11-07T10:30:00+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "BusinessLine",
-      "title": "Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDNNTnJJRUc3Ni1PUDdiSTdwUHVmX2FZN1haaG5xUVZ5NkhxOXdldlpKRWpQLXZTRmVQbW82QTY4QW5DdXl4UF80M2cyRVdnazZxMFlzRmZ6emRJUlFzZWdVeE8ycTh6WXB4ZUxUaF9DZGxYTHUyeklqQ0ZHWWJlRzMzcVFsWVpHVUZPblRMcHREUmtQeDdCLWg5TktwVElsUjh3R0MxVk1NcWhFVmJzUHVmYWU4aHZ1TnA3eA?oc=5",
-      "description": "Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook BusinessLine"
     },
     {
       "published": "2026-11-07T10:03:19+00:00",
@@ -36482,6 +36482,15 @@
       "title": "U.S. Stocks Suffer Sharp Selloff as Retail Dip-Buying Turns More Cautious - NAI500",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNG92SDVmaHRwblBrUVladHRQRTB6NmFHeFBxUmlpbWlEVEJVMnZtM3BBM096c2hudVlzanZsY3JuQTZOalhhbGRhbHFIMEVUTzl6YlYxLWRfQV9BT0ZSSzJNMHl5VTVONHdIdGZvbU1uQm42TkFNYm0yLUl1VWhMWlZjZElTQ19WMEtSdGlKdHdsMHlFM1pNeElIWmtPQWh6TV9hbkVxSWE?oc=5",
       "description": "U.S. Stocks Suffer Sharp Selloff as Retail Dip-Buying Turns More Cautious NAI500"
+    },
+    {
+      "published": "2026-11-07T04:13:32+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Univest",
+      "title": "Nifty 50 Prediction for Monday: 9 Nov Levels, 25,000 in Focus - Univest",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1la2VuNzJ1YWVOZk1CSFNKcTBiM1pqek9qMzYzR00yaHd6ZzhDYkFESW03Nnl2SGM3THB0WHZXaEZIUUg2eHRYdXM4OWFwRDJHNVBhdFVBR1RUMWhhWFV2WUlpLUJkVGVYeUtj?oc=5",
+      "description": "Nifty 50 Prediction for Monday: 9 Nov Levels, 25,000 in Focus Univest"
     }
   ]
 }
