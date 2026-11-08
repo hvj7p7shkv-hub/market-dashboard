@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 13:11 IST",
+  "generated_at": "2026-11-08 13:41 IST",
   "wire_file": "2026-11-08-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "24",
+    "wire_count": "25",
     "wire_total_count": "75",
     "wire_scope_date": "2026-11-08",
-    "ai_wire_count": "10",
-    "selling_wire_count": "7",
-    "india_wire_count": "17",
+    "ai_wire_count": "9",
+    "selling_wire_count": "6",
+    "india_wire_count": "16",
     "weak_index_count": "7",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-08 07:20",
-      "title": "Mutual fund NFO: Only 1 new fund will open for subscription this week. Check dates and key details - The Economic Times",
-      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 24 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-08 07:54",
+      "title": "Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times",
+      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 25 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-08",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-08 has 17 India-market wires, 7 selling/risk wires, and 10 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-08 has 16 India-market wires, 6 selling/risk wires, and 9 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-08",
@@ -49,9 +49,9 @@
       "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - Times of Oman"
     },
     {
-      "label": "Flows · 2026-11-08",
-      "title": "Foreign-flow and risk appetite lens",
-      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: Samvat 2082: Record DII buying offset record FPI outflows - Rediff"
+      "label": "India Trigger · 2026-11-08",
+      "title": "Crude is the local swing factor",
+      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard"
     }
   ],
   "indices": [
@@ -23216,7 +23216,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-08T13:11:04+05:30",
+    "generated_at": "2026-11-08T13:40:52+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35737,15 +35737,6 @@
       "description": "AI stock selloff drives investors to China, India, and overlooked Asian sectors Yahoo! Finance Canada"
     },
     {
-      "published": "2026-11-08T01:08:13+00:00",
-      "score": 12.0,
-      "themes": "['AI / tech risk', 'market selling', 'India market']",
-      "source": "Investing.com India",
-      "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkN1Y0UwbzZXQ2RTa3laVUJJcTFNYWVIMEZaNHBvbDFPZUREVGFEdGRCZ1pSaWMtZUdUeXhOaGpqREFPUGlmZXI4Y0xib0VITkpyQXQyckJqcVg0M3RuTEhxaWxuZ0JOYVEwYTRGaE9HZG83dGRQVlJDN2RLV2dpY1hudEhaVWtPMmtxY1N0TXRTdnVVMFh5eHF5S2RBRUswdFptQ3UyMHJqMEJUZmI3andGZFNnTThsVFlNdDZwR3ZTcFdtdmttZm01eEJNdw?oc=5",
-      "description": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com Investing.com India"
-    },
-    {
       "published": "2026-11-08T01:02:48+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
@@ -35989,15 +35980,6 @@
       "description": "SoftBank Stock Slides 59% as AI Selloff Raises Credit Concerns CryptoRank"
     },
     {
-      "published": "2026-11-07T07:50:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "سانا",
-      "title": "European stocks fall amid growing concerns over artificial intelligence - سانا",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAwLUxLR3liWmlxSEpsLVlxb0NNVnJIbURoY2ZqN2FoanhqRnBXSmljSVVzX2pTbVFUM0lrajRSNVFqRzhrWU5iNVFLc3g?oc=5",
-      "description": "European stocks fall amid growing concerns over artificial intelligence سانا"
-    },
-    {
       "published": "2026-11-07T11:18:52+00:00",
       "score": 5.0,
       "themes": "['India market', 'macro / flows']",
@@ -36025,15 +36007,6 @@
       "description": "Are SIP Investors Bailing Out FIIs? Nilesh Shah Explains India's Financialisation Trend Business Today"
     },
     {
-      "published": "2026-11-08T02:08:35+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "Business News This Week",
-      "title": "Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing - Business News This Week",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTXBGeFpqWnU1ZzJVTmVQUzZyUUZieFJaRnFHbkRBNFpkU2dmY2oxN0ttNU4xSVpicE50Q1ZEVnJ6RnBET3BOMUdtaWpHRFVLakxGU0dzR29OY2JuLWotUThZTldsMTdxLV9TRkwyTHRQY1lwSmcyS1RJMG51Qi1qeDQyVG9tZmZoQmxqdU9scHlKWThLWWVjWXJvQlhYVmdzVWhDOE1pek82eDBIRlItUG1sYnp2TnpjSHFwZTA0S01CSWdPTm9rcnBTeGxvUUd5R1FwenhMc3dBblZmb083azhWa0ZNRnNsZWZwam5NYmFQVmQ3anVoaFU5a0xGRUVyNnEza3Ruc3B2Nkhfc3ZLTHd3?oc=5",
-      "description": "Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing Business News This Week"
-    },
-    {
       "published": "2026-11-07T19:03:00+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -36059,6 +36032,33 @@
       "title": "Nifty 50 gains 1.91%, microcaps crash nearly 9% in October: Should investors shift SIPs to large caps? - Business Today",
       "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOSmZsVWoycDBSSlVUQkdScVpnYnQ1aXc5cGtoNGNuWTlXWmhqR1FYN194Wk9YRGZ2VWRvZmdNTFkwMFBOQ1dVakdnak0yNDN6dms5alY3ZnMtSHdnSkxDc1lTWTE5b3VkOWMydG5XMmk1S1pld2UwS3VhTFY0Yi16RUNMS2JxUmF5MmNCbWd4NkR4N3V3N2VNTUlqd0hrZFE4ZDhFZGlMZG9SM2psbmpwQVltS0ZBanF2T3dRUWYycC1yLXV1ODVMTTlEM0NwRUdTUE1VSDZxbHBTQklPMVRlelZmeGw3Rlo1YzNHNGxKM3FaUUUwMUHSAfsBQVVfeXFMTzc4RHFlb1hRZDhVRlZtV0piN0tXWTBDNHVLRkNod2RHY0psSkowYWdEQnFMdFZkUS0tQU1uXy1oQ0pjTzMzWWY1U2plU3laUzZuNC1ET2Rtc2ZZTWo5TzBBZjl2Q0Fzd2NXRlp6cUFyc0ZsazN4Mmg5djlwOXhMNTJIVHhHbWE4RjR6cnZCR0EtYWhNNl9IY0RXWXZWbWtrNmo0dW5LVVVCQ3dva3V3MUtXZ0Y0dkhDSVg0eUJOSy1GZXVOVjJhcGpXQkh4VEprb3ZDd19ONDhIcGhmMURUUTFEYWxMV3ZoQldnc0lnVURrdU81UUxkdkZVbWM?oc=5",
       "description": "Nifty 50 gains 1.91%, microcaps crash nearly 9% in October: Should investors shift SIPs to large caps? Business Today"
+    },
+    {
+      "published": "2026-11-08T07:54:51+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "The Economic Times",
+      "title": "Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNWE9NSGtubXpCMWdBVC1jajN2NnRneVgxMUZnVEtFWkl6M2F6ckUxVmtJLXk1TUxNTTF4d19iMWQyVFVrbU1zUFhLek9aT0ItM181ZE5DTkNZOTJ3bnJkNm1TYWpCMUdwaER2YWJjRkRiektsVFpBUW9LN1pUdHhMVDlmekJCOGhQZlJ4OVJzNl9lV19rdDZjVEl4cWxjajBMM0o2TVEtenM3OFF6eTZtLWJMODJrb05WVTVnY2d5Z1lfZUhaNGRQMG9kQjIyd1N3V2RFQ1o0RWZNRWx2UWRhdEJWanRadzJ0N1M4MjRGeDRDVlBkcHBpaXozb1dyREFWOWVlNWZmT0xPd1pfSUFhYmotSmY0UzVGR3hkd1gwNDIyb1dtWWhB?oc=5",
+      "description": "Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain The Economic Times"
+    },
+    {
+      "published": "2026-11-08T07:48:07+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "Business Standard",
+      "title": "Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUzliN293RkVNVmZtTHdMWTFjN0RSaXVubVJDa1YtNzZZSUw3MFFXQVo1UnJfT25CY01HVnFNckVQblh4bUszWmNhbkFMN2dsTVc3c1hFRC1vSlkxVHpjSU5JMVd0bDFDZjJVSHo0aDk1UzNOdGd4UkVTNG9lZ3UtNHFtWWh2WjYyRVJOQ01iTlJlaGcwY1NzRzBfMkdsQWU2RVUzaXJOdkFvUTc2cGlTa2lFcFhBVUE4WDc2eEIyOGl5M1EyLXIwWjlUTlJGTjB1V1BUMGJINzIxaVgwS0FSMU5HOFo0bjFJajdEU2dNTFlQOWRTczhZZVFQMzfSAYICQVVfeXFMTm9hMkd3MnQ2bUdEd0ZjZmQxdF9QVmFIS2lfV0VqU1d0aTVyTkptd1BfR21uTVhQTHBSVHNQVG51SElUeDllZHdwWTY3aFBDTlRRc0MwOTBod1ozYUMybXhvMVMwSE5VaEh0YlY3YzByNWZ1MGFwMmsxbmVESThaQUFManM0MXFLQTBmcVMwVXdnRHdweXpGS2dpdXpNWkotR2NWeGZESUtyYlFVY0dpbXdfTGpUYUJnRGFzUE91b0s1Mk5QcEhfMU1jOGM0bk95UHp2dmJUOWxBV2c3dzVpejhLbWJPM2VZb2t4TFdWenpHcXE2djF2TFc5bEx0bENhclpn?oc=5",
+      "description": "Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile Business Standard"
+    },
+    {
+      "published": "2026-11-08T06:53:47+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "The Daily Star",
+      "title": "Mutual funds, institutional investors vital for market growth: BSEC chief - The Daily Star",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEVmUkRiT1c0S0tEOWs5OGNGUmlRemdvallmVTJoQ2N6UFFZTVEta3VqQlF6VUxSaU5ScUk5cGx0MlU4MzZ4aEl6bEl1WkhjNXg2eS1zSVRPdWVpTTBjNHRtbXk5LVZBWkZ4VG91Y1Q1bnY3YzQ5SEt3S0g0eVJjSUpnTTlfdHVOaS00NmZYUzNTVGlqNzNCd2JNTGFRR2wyWnhEQTkxVlZhWTRVd0J4MFpPb3FPeVNaOHc?oc=5",
+      "description": "Mutual funds, institutional investors vital for market growth: BSEC chief The Daily Star"
     },
     {
       "published": "2026-11-08T06:49:56+00:00",
@@ -36106,15 +36106,6 @@
       "description": "Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investors Buy on November 8? Dalal Street Investment Journal"
     },
     {
-      "published": "2026-11-07T09:40:19+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Livemint",
-      "title": "Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how small savings grow your money over 5 to 25 yrs - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQY1JRTTlkekFNR3N0S3R6c0xxd3BPNk80VUN2UGFzdUxtbC1jM2haU29zOFF1WDFuS1dlSGhQUlFZbVF6Z2pGc2dtbEdxNlJDSVp4dFJQQ011cjNrTDMyN0luU2ZoeWxqOVJsZTVYWm9IanJ6VkdoTHJVVTQtOVI3Tno5WV9faWdidmlhcU1JWThUWjRXd3N0UDFtVUZka2lPUlc2MmllWGhfaG1CWmtHMXk5UXp3MVlIZEZZanAtVEtWbHhGeTN6LTFOVENtdmhDbS1BMExSWk5CQkNqWmpXRldWS2wtZkcwTlVaVGRLRnlUVmVpSU16X2tjVVR5aUNVZ2xZeWpPcHUwZ01HUEMwbtIBlgJBVV95cUxPX2NZbDloU0pZcUJ3ckotUGRBTWYtN3NpVXdhM1ZWajlhbkl4R0k5cENRSXl6RXdZdXkyV0RBdEpsV2I4MVU3R2xPUjRhakJXQzhsU3czT2lvX3JBNk50QkozaS13cGUxYU5DVXhtelFXcmFLLTdqMVB5dzJfSGNYb05CY0J6X21MWTVfbmthdHkxTmVYOVlGVXcwTElWRllUby03bXpzbkUyQ0Z6aFBpcXo2UkgyWHZNV3p4aWhJZmpyQjY4S09qSTJOZVVsQU9FbEVpOGZKVG9yc0FJY0YzQ2xyOHNSbnNXOGR3Z1I4NHVtYzF5UW1BYkRLWVNZVnRkX1B4TVo0NDk2Qm5qUEtqcEM3VWc0Zw?oc=5",
-      "description": "Just ₹50 daily SIP in mutual funds: Build over ₹20 lakh in 25 years; how small savings grow your money over 5 to 25 yrs Livemint"
-    },
-    {
       "published": "2026-11-07T08:35:06+00:00",
       "score": 3.0,
       "themes": "[]",
@@ -36122,15 +36113,6 @@
       "title": "11 Mutual Funds With Positive Returns Every Year in the Last 5 Years - Myinvestmentideas",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbzFOVXB1UUNvaDJSR3NFc0w3Q1doaFUwZFY0NmdhNzlRdmVrU3dNLTQtaV8wSTNsR3hubzNIQlJQUWRmbXB0a291MHRHX21VRXpZQURpbDZBNTVfemo4NFVvWklhZnVRcVVUVUNqT0xRdzlXNkxpQk93S3owRXN0NmhyYzNpUXJFaEk0?oc=5",
       "description": "11 Mutual Funds With Positive Returns Every Year in the Last 5 Years Myinvestmentideas"
-    },
-    {
-      "published": "2026-11-07T08:04:34+00:00",
-      "score": 3.0,
-      "themes": "['market selling', 'macro / flows']",
-      "source": "The Assam Tribune",
-      "title": "Gold hits strong weekly gain as crude oil falls over 12% - The Assam Tribune",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNRTN0LUR3cDJvUWR6aVh2c0RxYXNLNkR4WFg0Vy1JTlVJLXRRVVBQdnpiMGk5SmxkSHhST19uRHFoY1Z4VXQ5WC1MVm5KdWRDaVNsZlhVN0FtZFhJZkpneE9TaEd2Sk9ublFPR29LaVM5Vm5vamlyU1lTZWNvcXU1aWlFU1FFVHJ1M1lENXExYThROW9iRzBZbGY3aVZ6VFNoYnRF0gGjAUFVX3lxTE1FM3QtRHdwMm9RZHppWHZzRHFhc0s2RHhYWDRXLUlOVUktdFFVUFB2emIwaTlKbGRIeFJPX25EcWhjVnhVdDlYLUxWbkp1ZENpU2xmWFU3QW1kWElmSmd4T1NoR3ZKT25uUU9Hb0tpUzlWbm9qaXJTWVNlY29xdTVpaUVTUUVUcnUzWUQ1cTFhOFE5b2JHMFlsZjdpVnpUU2hidEU?oc=5",
-      "description": "Gold hits strong weekly gain as crude oil falls over 12% The Assam Tribune"
     },
     {
       "published": "2026-11-08T06:53:28+00:00",
@@ -36178,6 +36160,24 @@
       "description": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? Yahoo Finance"
     },
     {
+      "published": "2026-11-07T13:01:00+00:00",
+      "score": 2.0,
+      "themes": "['AI / tech risk', 'macro / flows']",
+      "source": "Investor's Business Daily",
+      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout - Investor's Business Daily",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5",
+      "description": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout Investor's Business Daily"
+    },
+    {
+      "published": "2026-11-07T12:28:43+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Eastern Mirror",
+      "title": "Nifty, Sensex post strongest weekly gains in over a year amid strong foreign inflows - Eastern Mirror",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWphWV8wS0dFM29raUZSZk5USTFEOWt5VHRMRWtYTFFhTUdKdjZqQThpRjVWblpnX0ljNmtXTkFaU1NESjFFWmxxQ1MyeDlCVUVzam9jMkFRM29Fd0d5bkZoMGlWWnRmTmpFQkhHZ0RaREpnSHlZdkQtaTd6cGVfckpuSHA1TW1KM2NFM2p3Z0JGQjR4QTlORUpVYlpONWlKRnVNZTRLbGkzVXZ2UVFramtjMTBiTk91RjJYaVpR?oc=5",
+      "description": "Nifty, Sensex post strongest weekly gains in over a year amid strong foreign inflows Eastern Mirror"
+    },
+    {
       "published": "2026-11-07T10:31:23+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -36185,15 +36185,6 @@
       "title": "Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 - TradingView",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWXRQc1I2QkZiR1VBcTlSNVZmV0ZzdG11cGM3dGZPS1FXWUczb0NneDlpU0MxaVNwcFF1Q00zdnlFbHJHblB4cG03OUE2MGd0cTU0YklwQkMyQktiTjBIRjBPNkZHOE1iTDZTQTkteDJLbkp1ZEw4em5fdEFyV2JxdENHeHkwQmFsbFpWZUJYa2IzVUxldjFBeDFxYWdDd1RGSlFKRmo3Nm9PTHdpUFQ4UXNEVGI0RTBPR1FvUUlPRnRaZ0VwWDlZSg?oc=5",
       "description": "Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 TradingView"
-    },
-    {
-      "published": "2026-11-07T07:56:22+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "The Assam Tribune",
-      "title": "Foreign fund inflows push Sensex, Nifty to strong weekly gains - The Assam Tribune",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTUt1RTk2aGU5QzRoM1dUWlpzTjRqaU02ckRNQWlFVkZldUFOLWxBTGdBS3ZBR3RyTzFBLW5NRldaMHdfSDg5aXAyUWUtVDUyekJHZ2RWY0lfM1VKTDR2X2ZqR0JVSFRaMUxuMHE5bmxjTGkyNVZTcU5FN2lvMjlsWVJLTVlZMExSQ0ZnbWdXOUhqMjlUS28yeU5iMEhIMnJVdklabUln0gGrAUFVX3lxTFBnVXRWeWJIeWxkZ3ZKY3NzR29qb3lJWjZPYkE0UlR1QzI0d082eGFTd3hYS0EzdU1xOExTSUxYSVpkU0NodXhUMkpEei1scGdSRmNGR2J1VWp5dUlBTDBrNnZxaWtjeTdQLWsyREc2S2VmN1M0VFJaLUI2OE1xTWc4SXhaSzNyX0Y3S2FZRy16Um5WWGhNTXluNkRtcEROcXZOeG9sMUVEUlYwTQ?oc=5",
-      "description": "Foreign fund inflows push Sensex, Nifty to strong weekly gains The Assam Tribune"
     },
     {
       "published": "2026-11-08T06:13:13+00:00",
@@ -36356,6 +36347,15 @@
       "title": "Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil - Rediff",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNY2VUVkNTZF9pcDlwdUlKbko2dEZ3Y1BDX3VXNDkxOGRtRUpBYVVDQlBoVmJHdVhCVDV3QVpfYTFaVHVrYjRxUHRZaTFSMG1waFZzLVE3aXNtemVvLV9MdlRwZi1PaVVxbl9KQzhQTDhUWnFiYnRyblJzVnVRVndpMHdsOVlvZWNKRjVxeEltZ3luUmlzNjdtVUFNZ3Q0MFVkZFBYMGRlQ2FQMFRDMnFFcEU4LXQtQ0ptbUkzSklpYw?oc=5",
       "description": "Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil Rediff"
+    },
+    {
+      "published": "2026-11-07T10:30:00+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "BusinessLine",
+      "title": "Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook - BusinessLine",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZDNNTnJJRUc3Ni1PUDdiSTdwUHVmX2FZN1haaG5xUVZ5NkhxOXdldlpKRWpQLXZTRmVQbW82QTY4QW5DdXl4UF80M2cyRVdnazZxMFlzRmZ6emRJUlFzZWdVeE8ycTh6WXB4ZUxUaF9DZGxYTHUyeklqQ0ZHWWJlRzMzcVFsWVpHVUZPblRMcHREUmtQeDdCLWg5TktwVElsUjh3R0MxVk1NcWhFVmJzUHVmYWU4aHZ1TnA3eA?oc=5",
+      "description": "Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook BusinessLine"
     },
     {
       "published": "2026-11-07T10:03:19+00:00",
