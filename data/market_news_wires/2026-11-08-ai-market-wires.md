@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-08 09:07
+Generated: 2026-11-08 09:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -116,15 +116,15 @@ AI Stocks Fall, Oil Bounces Back After ‘Blue Wave’ Drop EnergyNow.com
 
 Nasdaq Suffers Biggest Daily Fall Since April 2025 as AI Infrastructure Selloff Deepens Tekedia
 
-### 12. Western Digital (WDC) Falls With AI Hardware Selloff On An Undervalued Narrative - Yahoo Finance
+### 12. Diwali Muhurat Trading 2026 LIVE: Sensex Jumps 233 Points, Sun Pharma Lead Rally; Bank Nifty Falls - Goodreturns
 
-- Source: Yahoo Finance
-- Published: 2026-11-07T09:13:35+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxOT2dXR3U5bk1SN3pMdS1hR05pMHpJZFU1MVYxSzJqUXhwNHg2c25TUkY5U0ZBQW1TemI4aW1jTUVzQndkNVBXUFhuWGsxX280RERsX3FFc2RzSzJBX0R0aHpWbVRpYXM1RVVqMW1HdFptMl80a2diV3p3RG96SEFQYUhQZExra21EN011WTdFUml0dmhJbVJGNA?oc=5
+- Source: Goodreturns
+- Published: 2026-11-08T09:24:03+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVZTb1hlTWZPSXloLVc0Mmo1WmI1QUQzek5tWFM0cUdSLXpCT2dQV09aSmlVcEhzdXFKU1MtMmFxM19EWjBTUkZIb0hNbmozSk54NmVkSU05SWV4YXQzYkdQeWlZVHVkRTk4Z3V5ZlRNMHZ0bTE4cG9QWFN5ZVNTb0RYTWE2NUVhekhIeGdCZ3pwWmdaX0J4SUJxMUxCckE1SUFlVklVUFBBZzVjeGh0Wi1uLTVFR0tMUVU5c1hlNnZqZjZzYTN0bE5TbjZXeXhJbnc5bE5kZjlYa2li?oc=5
 
-Western Digital (WDC) Falls With AI Hardware Selloff On An Undervalued Narrative Yahoo Finance
+Diwali Muhurat Trading 2026 LIVE: Sensex Jumps 233 Points, Sun Pharma Lead Rally; Bank Nifty Falls Goodreturns
 
 ### 13. Berkshire Hathaway Spends $9.6 Billion Buying Back Its Own Shares as AI Selloff Hits U.S. Stocks - Hokanews
 
@@ -336,7 +336,17 @@ Are SIP Investors Bailing Out FIIs? Nilesh Shah Explains India's Financialisatio
 
 Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
 
-### 34. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - Livemint
+### 34. HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong - HungryGoWhere
+
+- Source: HungryGoWhere
+- Published: 2026-11-08T09:05:52+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiakFVX3lxTE5kNUNTdUt0d3BSV3BIdGw0c2NOM09lT0pYNUxjZUF1WmtoVENMUTFjeXJzUGtLY1RVa2s5NC1BeXMxU09aaVFrb1ZvVHhYMy1tMC11alFUbXdRdWhlYUhhaGI2Vmc4ZU03RVE?oc=5
+
+HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong HungryGoWhere
+
+### 35. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - Livemint
 
 - Source: Livemint
 - Published: 2026-11-08T08:28:07+00:00
@@ -346,7 +356,7 @@ Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentidea
 
 Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds Livemint
 
-### 35. Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times
+### 36. Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T07:54:51+00:00
@@ -356,7 +366,7 @@ Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year
 
 Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain The Economic Times
 
-### 36. Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard
+### 37. Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-08T07:48:07+00:00
@@ -366,7 +376,17 @@ Equity mutual funds rally up to 9% in a week; banking & financial services funds
 
 Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile Business Standard
 
-### 37. These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? - The Economic Times
+### 38. Mutual funds, institutional investors vital for market growth: BSEC chief - The Daily Star
+
+- Source: The Daily Star
+- Published: 2026-11-08T06:53:47+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQOEVmUkRiT1c0S0tEOWs5OGNGUmlRemdvallmVTJoQ2N6UFFZTVEta3VqQlF6VUxSaU5ScUk5cGx0MlU4MzZ4aEl6bEl1WkhjNXg2eS1zSVRPdWVpTTBjNHRtbXk5LVZBWkZ4VG91Y1Q1bnY3YzQ5SEt3S0g0eVJjSUpnTTlfdHVOaS00NmZYUzNTVGlqNzNCd2JNTGFRR2wyWnhEQTkxVlZhWTRVd0J4MFpPb3FPeVNaOHc?oc=5
+
+Mutual funds, institutional investors vital for market growth: BSEC chief The Daily Star
+
+### 39. These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T06:36:11+00:00
@@ -376,7 +396,7 @@ Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile Business Sta
 
 These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? The Economic Times
 
-### 38. Samvat 2083: Which Mutual Funds & Investment Themes Should Investors Focus On For Better Returns? - Business Today
+### 40. Samvat 2083: Which Mutual Funds & Investment Themes Should Investors Focus On For Better Returns? - Business Today
 
 - Source: Business Today
 - Published: 2026-11-08T03:30:33+00:00
@@ -386,7 +406,7 @@ These 14 equity mutual funds lost over 5% since last Diwali. Were they part of y
 
 Samvat 2083: Which Mutual Funds & Investment Themes Should Investors Focus On For Better Returns? Business Today
 
-### 39. Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 41. Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-07T11:13:41+00:00
@@ -396,7 +416,7 @@ Samvat 2083: Which Mutual Funds & Investment Themes Should Investors Focus On Fo
 
 Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 40. Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investors Buy on November 8? - Dalal Street Investment Journal
+### 42. Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investors Buy on November 8? - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-07T10:35:32+00:00
@@ -406,17 +426,17 @@ Quote on FPI flows 07.11.2026 from Dr. V K Vijayakumar, Chief Investment Strateg
 
 Muhurat Trading 2026: Gold ETFs, Silver ETFs and Mutual Funds - What Can Investors Buy on November 8? Dalal Street Investment Journal
 
-### 41. Diwali Muhurat Trading 2026 LIVE: Sensex, Nifty Trade Higher; M&M, ICICI, Tata Steel, Titan Lead Rally - Goodreturns
+### 43. Indian Stock Market vs Global Markets: Nifty 50 underperforms Dow Jones, Nasdaq, Nikkei and others during Samvat 2082 - Where does India stand? - ET Now
 
-- Source: Goodreturns
-- Published: 2026-11-08T08:59:55+00:00
+- Source: ET Now
+- Published: 2026-11-08T08:51:01+00:00
 - Themes: India market
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUVZTb1hlTWZPSXloLVc0Mmo1WmI1QUQzek5tWFM0cUdSLXpCT2dQV09aSmlVcEhzdXFKU1MtMmFxM19EWjBTUkZIb0hNbmozSk54NmVkSU05SWV4YXQzYkdQeWlZVHVkRTk4Z3V5ZlRNMHZ0bTE4cG9QWFN5ZVNTb0RYTWE2NUVhekhIeGdCZ3pwWmdaX0J4SUJxMUxCckE1SUFlVklVUFBBZzVjeGh0Wi1uLTVFR0tMUVU5c1hlNnZqZjZzYTN0bE5TbjZXeXhJbnc5bE5kZjlYa2li?oc=5
+- Link: https://news.google.com/rss/articles/CBMimAJBVV95cUxPeGcwR1dwVm9hdk1VSlZ4SHlpV0dFYV9TV2FaMlZaRzY2MWdGYmhQMWo5dldEcGc4MjZETWdyeUtWZ0JWclY2SGkxZVh2U0lNbEdzZmRmeTFzYzFlb090ZFRQQmhYek45UnpXbDA0LVdvWmJadzlPQUhVcllwN0N6VEdiVThvZjFyanR2dUY5N1l4RTBaampYcjFLRUVxMi04Tm5NVC02SXZtQlg4MGduazZfWTVBeUlMaHNEUXduR1NLWHczUy1NWUVvV1Bxam5vY01JakJZaUp3dHNlTUNaVk1tV0hzc2o4RVdHLWF6ekxjOGZreWMzSmRLaUl5d1AxQXBYcFFwdFN1WTJLMjFQMkRsMy03U2gx0gGeAkFVX3lxTE82TzE5dG5iWHpHLWdYYnFEZFUxZURtSEJFY2N3RU5fcXNaX1lxQTM0NkFBSllqNFl2U2NvdFBrM2d4VmNSMm0ycC1FT25ZYmxNa1JHSnhFbkI4STVLalRIRld1WWZnZTlELUxvNDdRSWVuUFdvc1JIV19uc0IzODBJT3FSN1RGZjRXdjlBQ3Z2VW9zUTJ2Ml9WU0tmQlpsVmxILW8zV3RKMHppc1JreWZ3UWx6MTY2emRXT2RJbkgxT2RNcm54U2xTanItcTNHUUNkdFhEeHpEV29ndW5HSllSSGxCTnFyWG8xU3dEYk5QWDJvYmhjcFRYaXA1ejlycEFELTE3Q1oxOUhQQTQ5SEszQzYxX3JDcHJtUVBFcVE?oc=5
 
-Diwali Muhurat Trading 2026 LIVE: Sensex, Nifty Trade Higher; M&M, ICICI, Tata Steel, Titan Lead Rally Goodreturns
+Indian Stock Market vs Global Markets: Nifty 50 underperforms Dow Jones, Nasdaq, Nikkei and others during Samvat 2082 - Where does India stand? ET Now
 
-### 42. Muhurat Trading: Nifty, Sensex posted gains in 8 of last 10 Diwali sessions - The Hawk
+### 44. Muhurat Trading: Nifty, Sensex posted gains in 8 of last 10 Diwali sessions - The Hawk
 
 - Source: The Hawk
 - Published: 2026-11-08T06:53:28+00:00
@@ -426,7 +446,7 @@ Diwali Muhurat Trading 2026 LIVE: Sensex, Nifty Trade Higher; M&M, ICICI, Tata S
 
 Muhurat Trading: Nifty, Sensex posted gains in 8 of last 10 Diwali sessions The Hawk
 
-### 43. Nifty bulls reclaim 25,000 mark as FIIs step up India buying: 5 factors that will determine D-Street's fat - The Economic Times
+### 45. Nifty bulls reclaim 25,000 mark as FIIs step up India buying: 5 factors that will determine D-Street's fat - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T06:43:07+00:00
@@ -436,7 +456,7 @@ Muhurat Trading: Nifty, Sensex posted gains in 8 of last 10 Diwali sessions The 
 
 Nifty bulls reclaim 25,000 mark as FIIs step up India buying: 5 factors that will determine D-Street's fat The Economic Times
 
-### 44. AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week - Moneycontrol.com
+### 46. AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-08T03:15:06+00:00
@@ -446,7 +466,7 @@ Nifty bulls reclaim 25,000 mark as FIIs step up India buying: 5 factors that wil
 
 AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities in a week Moneycontrol.com
 
-### 45. Thai stocks fall 2.16% as global technology sell-off hits chipmakers - Pattaya Mail
+### 47. Thai stocks fall 2.16% as global technology sell-off hits chipmakers - Pattaya Mail
 
 - Source: Pattaya Mail
 - Published: 2026-11-07T20:40:58+00:00
@@ -456,17 +476,7 @@ AI stocks lose their shine, India gains: FPIs pump Rs 38,971 crore into equities
 
 Thai stocks fall 2.16% as global technology sell-off hits chipmakers Pattaya Mail
 
-### 46. AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-07T16:01:02+00:00
-- Themes: AI / tech risk
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUVuT0pxeUQ3RHFBcW56bW9VS2R4SVpma1lDVEN6bzcxY2ctMnY4dXFEWlRpTkRoX1UzS1dOWUd2cVVPbkRqNUo2RDdsOUhIM1JhalpnSXRfY1V1MUFSbklvbFlYa1NwN2s0SC1YMS1vRnZ3aGxFc3VjYzh6dmk1NTNDaGhwbzNDNHQzc2Z3M09JVUZaWXgw?oc=5
-
-AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? Yahoo Finance
-
-### 47. These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout - Investor's Business Daily
+### 48. These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout - Investor's Business Daily
 
 - Source: Investor's Business Daily
 - Published: 2026-11-07T13:01:00+00:00
@@ -476,7 +486,7 @@ AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? Y
 
 These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout Investor's Business Daily
 
-### 48. Nifty, Sensex post strongest weekly gains in over a year amid strong foreign inflows - Eastern Mirror
+### 49. Nifty, Sensex post strongest weekly gains in over a year amid strong foreign inflows - Eastern Mirror
 
 - Source: Eastern Mirror
 - Published: 2026-11-07T12:28:43+00:00
@@ -486,7 +496,7 @@ These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Hol
 
 Nifty, Sensex post strongest weekly gains in over a year amid strong foreign inflows Eastern Mirror
 
-### 49. Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 - TradingView
+### 50. Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 - TradingView
 
 - Source: TradingView
 - Published: 2026-11-07T10:31:23+00:00
@@ -496,7 +506,7 @@ Nifty, Sensex post strongest weekly gains in over a year amid strong foreign inf
 
 Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 TradingView
 
-### 50. Sylvain Chomet’s Dior Ad Faces AI Accusations And We Apologize - Cartoon Brew
+### 51. Sylvain Chomet’s Dior Ad Faces AI Accusations And We Apologize - Cartoon Brew
 
 - Source: Cartoon Brew
 - Published: 2026-11-08T08:52:07+00:00
@@ -506,7 +516,27 @@ Diwali Rally Lifts Sensex 8.82%, Nifty 8.58% In Best Weekly Gain Since 2021 Trad
 
 Sylvain Chomet’s Dior Ad Faces AI Accusations And We Apologize Cartoon Brew
 
-### 51. Trading setup for the day: Gift Nifty signals positive start to Muhurat Trading - The Economic Times
+### 52. Dan Ives Sees A ‘Multiyear Tech Bull Market’ Despite AI Stock Rout — ‘This Was Just A... Scary Moment’ - TradingView
+
+- Source: TradingView
+- Published: 2026-11-08T08:42:38+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMVI2ZEtWaThFUXVPSE1nWnZFVXR6endvT0s0TmdKWUpSOHJrWlFMVUs3aHpJcVZiTnNhbUVGeUlTa01lVDlDQjQ4UFdfSmo1OWdUNjc0bndrZUFfbzB1RTMzQ1hfQ1N6SXhwQVpLNnREd0hvdG5OMUlRV2dYY0xBUWF5cE91aGMxRWVEZlB6VmpLUmZFdkdFLTVHNHlaemlZeEdFZDZ3QzdYQW41MHV3LW4zNi10eW8za3daN2xuQXdDeTZpZEdyVURka1RvZzV0azkzQlRsX2FRbHNfWXlaLUlud2g2ZUticGc?oc=5
+
+Dan Ives Sees A ‘Multiyear Tech Bull Market’ Despite AI Stock Rout — ‘This Was Just A... Scary Moment’ TradingView
+
+### 53. INDIA VIX Stock Price, India VIX Market Indices, India VIX Price, Stock Performance & Comparison - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-11-08T08:41:38+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMibkFVX3lxTFAxeUVHdTFQTm14bW5VMU1Fc3dSV3NWYXNscUNWM0YzelRRNEZwR1BIbDR4N0pfZ0FHcnBDQ1RoanFqcTZpdDRIZXd1UkMxYVMwME5RVklOV1FERzY3aUY1dUgxOW90U0p6ZDQ5TTF3?oc=5
+
+INDIA VIX Stock Price, India VIX Market Indices, India VIX Price, Stock Performance & Comparison Moneycontrol.com
+
+### 54. Trading setup for the day: Gift Nifty signals positive start to Muhurat Trading - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T08:00:44+00:00
@@ -516,7 +546,7 @@ Sylvain Chomet’s Dior Ad Faces AI Accusations And We Apologize Cartoon Brew
 
 Trading setup for the day: Gift Nifty signals positive start to Muhurat Trading The Economic Times
 
-### 52. Samvat 2082: Record DII buying offset record FPI outflows - Rediff
+### 55. Samvat 2082: Record DII buying offset record FPI outflows - Rediff
 
 - Source: Rediff
 - Published: 2026-11-08T06:13:13+00:00
@@ -526,7 +556,7 @@ Trading setup for the day: Gift Nifty signals positive start to Muhurat Trading 
 
 Samvat 2082: Record DII buying offset record FPI outflows Rediff
 
-### 53. Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? - Livemint
+### 56. Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? - Livemint
 
 - Source: Livemint
 - Published: 2026-11-08T04:28:33+00:00
@@ -536,7 +566,7 @@ Samvat 2082: Record DII buying offset record FPI outflows Rediff
 
 Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? Livemint
 
-### 54. Intel Rides Chip Rally as Insider Buying and a $300 Million Israel Hit Frame the Q4 Test - ad-hoc-news.de
+### 57. Intel Rides Chip Rally as Insider Buying and a $300 Million Israel Hit Frame the Q4 Test - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-08T03:32:48+00:00
@@ -546,7 +576,7 @@ Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samv
 
 Intel Rides Chip Rally as Insider Buying and a $300 Million Israel Hit Frame the Q4 Test ad-hoc-news.de
 
-### 55. 5 things you probably didn’t know about the Indian rupee - IndulgExpress
+### 58. 5 things you probably didn’t know about the Indian rupee - IndulgExpress
 
 - Source: IndulgExpress
 - Published: 2026-11-08T03:30:00+00:00
@@ -556,17 +586,7 @@ Intel Rides Chip Rally as Insider Buying and a $300 Million Israel Hit Frame the
 
 5 things you probably didn’t know about the Indian rupee IndulgExpress
 
-### 56. Deutsche Bank Wins a Lighter Capital Load for 2027 While Racing to Prove Its AI Story - ad-hoc-news.de
-
-- Source: ad-hoc-news.de
-- Published: 2026-11-08T03:02:31+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOa3JjTlNQU1VkMmV6N3kwR0FRVXR0bWQxR3NzdUswQW45a0ZYb3phdlhacmpaYmNuUHl1aTY0bkVXMDNxZk4zWUdsbEFUUGM4RDhPUnc2MElsWldSejZ4ZC11MEZjUU9WU2x5LVN1NUgxemxZVGNhTVMwNWxad0NUNDZ0N0hGc203aksyQVRSYW9MOFlHYWptQWo5cklHd1o2dUZwVS1UQXI2OEhwdGpSN2xYUXhIVWZzME5ZMXRXWV80N01nbTNZZlM3RlhtLW50dFlzLVF2cThzbXZGZzVfc3VRUlNwblRIQk1qU1F3?oc=5
-
-Deutsche Bank Wins a Lighter Capital Load for 2027 While Racing to Prove Its AI Story ad-hoc-news.de
-
-### 57. Muhurat Trading 2026: Nifty may see big gap-up opening, but there's a catch; expert picks 3 stocks - TradingView
+### 59. Muhurat Trading 2026: Nifty may see big gap-up opening, but there's a catch; expert picks 3 stocks - TradingView
 
 - Source: TradingView
 - Published: 2026-11-08T02:29:00+00:00
@@ -576,7 +596,7 @@ Deutsche Bank Wins a Lighter Capital Load for 2027 While Racing to Prove Its AI 
 
 Muhurat Trading 2026: Nifty may see big gap-up opening, but there's a catch; expert picks 3 stocks TradingView
 
-### 58. MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times
+### 60. MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T02:07:20+00:00
@@ -586,7 +606,7 @@ Muhurat Trading 2026: Nifty may see big gap-up opening, but there's a catch; exp
 
 MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates The Economic Times
 
-### 59. Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on - The Times of India
+### 61. Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on - The Times of India
 
 - Source: The Times of India
 - Published: 2026-11-08T02:03:00+00:00
@@ -596,7 +616,7 @@ MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates The Econ
 
 Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on The Times of India
 
-### 60. Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift? - Yahoo Finance
+### 62. Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift? - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-07T23:25:39+00:00
@@ -606,7 +626,7 @@ Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on 
 
 Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift? Yahoo Finance
 
-### 61. WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears - Multibagg AI
+### 63. WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears - Multibagg AI
 
 - Source: Multibagg AI
 - Published: 2026-11-07T19:27:58+00:00
@@ -616,7 +636,7 @@ Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift? Yahoo
 
 WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears Multibagg AI
 
-### 62. OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash - Coinpaper
+### 64. OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-11-07T17:17:22+00:00
@@ -626,7 +646,7 @@ WITCH Stocks Seen Resilient as IT Defies Sharp-Dip Fears Multibagg AI
 
 OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Center Backlash Coinpaper
 
-### 63. Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains - TradingView
+### 65. Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains - TradingView
 
 - Source: TradingView
 - Published: 2026-11-07T15:33:37+00:00
@@ -636,7 +656,7 @@ OpenAI CFO Says AI Investment Will Continue Despite $2.5T Stock Rout and Data Ce
 
 Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's driving the disconnect? SAMCO explains TradingView
 
-### 64. Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet
+### 66. Jim Cramer sends a strong signal to Nvidia stock investors - TheStreet
 
 - Source: TheStreet
 - Published: 2026-11-07T14:17:00+00:00
@@ -646,7 +666,7 @@ Diwali cheer missing? Nifty lights up, but your portfolio may be burning; what's
 
 Jim Cramer sends a strong signal to Nvidia stock investors TheStreet
 
-### 65. Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Trading Tells You - 24/7 Wall St.
+### 67. Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Trading Tells You - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-11-07T14:17:00+00:00
@@ -656,7 +676,7 @@ Jim Cramer sends a strong signal to Nvidia stock investors TheStreet
 
 Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Trading Tells You 24/7 Wall St.
 
-### 66. Markets likely to deliver moderate returns in Samvat 2083; Kotak MF favours quality over momentum - India's News.Net
+### 68. Markets likely to deliver moderate returns in Samvat 2083; Kotak MF favours quality over momentum - India's News.Net
 
 - Source: India's News.Net
 - Published: 2026-11-07T13:03:00+00:00
@@ -666,7 +686,17 @@ Eric Balchunas Calls It a "Five Alarm Fire" Sell-Off. Here's What Record ETF Tra
 
 Markets likely to deliver moderate returns in Samvat 2083; Kotak MF favours quality over momentum India's News.Net
 
-### 67. WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified - Stocktwits
+### 69. Diwali 2026: Stock market enters Samvat 2083 with Nifty 50 above 25,000: Key support, resistance levels. Targets to know - TradingView
+
+- Source: TradingView
+- Published: 2026-11-07T12:34:24+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMigwJBVV95cUxNd09uYmh3RGRCb2gzejZncFJrU3hIVDJnUzNGTkRfSnFnUjN6TS1hSTZkMWlHM2NnY2JOUW9HTDRnLVZYYkJndEdMZEJ3VFpHaHA2TS1MRkthZE9vWm5fUkZGbWxpaVNfLWNUSzdkVDRmbzdEdi01elphT3l3ZXJhTmlqNy1FNHJXSkM3WVNKR2RwdXJZWnNjUnpBRS1ZS01PWUhGbWxRQW9EV05TaXVEY3Vnc3k5MDEwNnZMRF85aGRyOElvM05wc1o5WVNOLU1WSURWM2lwRllTNnl5WlFxRE5ZSDhsVGV1N2xKQ3otMDA5TUJ6bENhTmx0U2FjcHRzNldR?oc=5
+
+Diwali 2026: Stock market enters Samvat 2083 with Nifty 50 above 25,000: Key support, resistance levels. Targets to know TradingView
+
+### 70. WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-11-07T12:08:56+00:00
@@ -676,7 +706,7 @@ Markets likely to deliver moderate returns in Samvat 2083; Kotak MF favours qual
 
 WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘In No Way’ Justified Stocktwits
 
-### 68. Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil - Rediff
+### 71. Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil - Rediff
 
 - Source: Rediff
 - Published: 2026-11-07T10:32:34+00:00
@@ -686,7 +716,7 @@ WULF Stock Rebounds From Lowest Close In Over A Year, B. Riley Says Selloff ‘I
 
 Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil Rediff
 
-### 69. Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook - BusinessLine
+### 72. Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-07T10:30:00+00:00
@@ -696,7 +726,7 @@ Samvat 2082: DIIs' Record Buying Offsets FPI Outflow Amid Global Turmoil Rediff
 
 Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook BusinessLine
 
-### 70. Anthropic IPO faces test after recent selloff: What Wall Street experts are saying - Invezz
+### 73. Anthropic IPO faces test after recent selloff: What Wall Street experts are saying - Invezz
 
 - Source: Invezz
 - Published: 2026-11-07T10:03:19+00:00
@@ -705,13 +735,3 @@ Nifty and Nifty Bank Prediction for November 9-13, 2026: Key Levels and Outlook 
 - Link: https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdUhqTWJubHBUT3RpbGYzc1M3UUFVQmxQaHFXTUZXbGxvWEVabzBqQ0oycklNNUdUNjNOYkY0YnNFbXBVTXdRTXh2Q0JLeWY5Rklkc2sxblRqOU9vSUhERVFXTWpSUE10emg4Um9JWlNkVlhjbThtS0RIQ0RkVXcyZXk5aG12Si1oU0szeHowcUY2ZDBpRFV1eVNlYktpZkl3eGNqaFFmX2NmWExQMW1ETW9CQnp6STBB?oc=5
 
 Anthropic IPO faces test after recent selloff: What Wall Street experts are saying Invezz
-
-### 71. Diwali 2026: Stock market enters Samvat 2083 with Nifty 50 above 25,000: Key support, resistance levels. Targets to know - Livemint
-
-- Source: Livemint
-- Published: 2026-11-07T09:19:13+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRXR1dWwyVzZQY0pjN2dJOGJrZTJjYmQ0Z0tPMjFUYWF5cTN2Q3dVSm1Gd0twRVhhRENPdzdmT1RFZExDTUVVaDRNcEY5LTEtVVNTekg3UDhGd2dZbUZ3ZkV0U3RNNXhmdjBWTHdTN3JocjZhdGtyVUlxQUpaUTdZRElTVnZCdlN1N2x1U01Zcms5bElEaGRZRU5DOVZ2OEhwMHpZbnp6ZV9RMUpDeTBtMzQ3d0tpNGllR01Sd2dTeWJJQlJtTE9KV21JUFJwdzEwRHY2MWkyZ0NMajFoOTFQN0NoWWlEY1dVYnpXQi1fUW9zcmxuTUZqN2hMOTXSAYICQVVfeXFMTXdrSG4wSjNxd0hGQ25LcXgwS2lOT0RVTU9INGR1T24wNnZVeV9SaTQxZlJsVE1TQUgzY2hFNjViQmhpOW5xTm1lRTdyWk1fUjVIaU1VdkdfLXc1cUd4TEZzenZJRFN4bVUwS1BLOU1PdjBvbU5kWWo3azR4TmF3cERpVWI3N0lBelRPN0dEbnhkaEJidlJ5S2Jlck82VTZrUl9VZkVPSXBfbnl4ZWh1SHVQQlFkNS05bkxoUzYzV3JJVnhaaVdPZTdyZWVpTldlOFpJYURTYWtRTE5iVXdfdVpyY0RJV0l1TVNSVEVEZC1jc29abTdVUzU4X1lnU2NTamhn?oc=5
-
-Diwali 2026: Stock market enters Samvat 2083 with Nifty 50 above 25,000: Key support, resistance levels. Targets to know Livemint
