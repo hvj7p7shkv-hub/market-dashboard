@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 10:10 IST",
+  "generated_at": "2026-11-08 10:41 IST",
   "wire_file": "2026-11-08-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,12 +23,12 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "13",
-    "wire_total_count": "85",
+    "wire_count": "18",
+    "wire_total_count": "87",
     "wire_scope_date": "2026-11-08",
-    "ai_wire_count": "7",
-    "selling_wire_count": "6",
-    "india_wire_count": "8",
+    "ai_wire_count": "11",
+    "selling_wire_count": "9",
+    "india_wire_count": "12",
     "weak_index_count": "7",
     "valid_index_count": "25"
   },
@@ -36,22 +36,22 @@
     {
       "label": "Newest Wire · 2026-11-08 04:28",
       "title": "Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? - Livemint",
-      "text": "Latest dated headline · Livemint. Today's unique wire set contains 13 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · Livemint. Today's unique wire set contains 18 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-08",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-08 has 8 India-market wires, 6 selling/risk wires, and 7 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-08 has 12 India-market wires, 9 selling/risk wires, and 11 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-08",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Global AI sell-off makes India attractive for foreign portfolio investors - IANS LIVE"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - Times of Oman"
     },
     {
       "label": "Flows · 2026-11-08",
       "title": "Foreign-flow and risk appetite lens",
-      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: 5 things you probably didn’t know about the Indian rupee - IndulgExpress"
+      "text": "Flow and currency language is present in today's wires, so breadth confirmation matters more than an index-only read. Representative wire: Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - Times of Oman"
     }
   ],
   "indices": [
@@ -23216,7 +23216,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-08T10:10:35+05:30",
+    "generated_at": "2026-11-08T10:40:54+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35710,6 +35710,15 @@
   ],
   "wires": [
     {
+      "published": "2026-11-08T04:18:00+00:00",
+      "score": 12.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market']",
+      "source": "Times of Oman",
+      "title": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - Times of Oman",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNSjhNaUdPN3Y1V2lzR3M0ZFdtMHc4NjJLeWVaY1Q4cHVZRm16cXVuYURnb3ZuTFZzMmJLVDJyVkRfWTBrdlNfd0xnc0VhM2tnTXY1UnN6b21vVWJEU1ZjYXA5RGNwdGdRc3ZYWmZ2c1k1aG5DQmxLZG9qTXNUVGxDcjFETDFhOTR4S1JEbGUyMUdpQXF4SjhGZlBoeXBSWnpTRWt0eUFBeXZfYzltLWhjTGpBNzdmV2h5QWZqYzhjQ1dseVhZbk9XaExncTZXeTU4?oc=5",
+      "description": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week Times of Oman"
+    },
+    {
       "published": "2026-11-08T04:08:00+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
@@ -35726,6 +35735,24 @@
       "title": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - The Tribune",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPa3hHb0VUNzNwNnVlT2F2NUZfUVRyd0JPOXdzV2RLbXl6a0VfYlZTYlEwWDVpcHRTX3RyVXFUQTdMSTRkNURDazM0WkNSYkZ1ZlVXd3JWdHItNDJvTm83N0R1T19GbXBzdGJDenpVZmxubll6Q0JIRXRfVTdKUjUtTDFhelJnZllCM2wtS1JNYVhmd3RZcVlrRkkxYnhkN09UNktDN3ZiSFYzaGxnb2hQcFZTOXcwOUlVWmhHNUZfOUFhRWZGVFVFOFhndHNlMmJZajhad0pkMNIB2wFBVV95cUxNYnBHaUdFS1JiR3UzLTlEVjRDcm1rN2M0aDI3R2c1aUpWTEg2Q09jcjd5VXVCTl9veEZSUXQtcGpKUWMtaW5NOVp0X2ZmWWRxTzhkNmdJVzhyU3RtbkVKeW1xN0NRVzNFTjJIYzRzTEQxSnBaa2FWNHlkWmVwWFhnN0xMdmFoeFBKeXJLWVg0MDFZR2x4bkJEQ2xGdHBDQ0gzZ0lwWFc0QlpFLVVJbEVkXy1NdzE4a3U3c1ZUYld5YXZzTTFKVi0tVFhLYnlEV0FURThYcVE1UngzWUU?oc=5",
       "description": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week The Tribune"
+    },
+    {
+      "published": "2026-11-08T01:30:00+00:00",
+      "score": 12.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market']",
+      "source": "Yahoo! Finance Canada",
+      "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors - Yahoo! Finance Canada",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZTlNMFVoM3ZrUEx4Y3JFYmFaV2pMWGVRbEMzd3pOeWVVcmkzMVEzaEd2R1pzdUN3WlU4UGdwWVIwbDJLMzNzb1RobVZVU1B3Umx5ajlFMllCN2pvbGlvWXpyd09MUExRM3BSNmRlTl9UOURvRzNILUswTWRmbGhCdFRRbHB1dkVaZlE?oc=5",
+      "description": "AI stock selloff drives investors to China, India, and overlooked Asian sectors Yahoo! Finance Canada"
+    },
+    {
+      "published": "2026-11-08T01:08:13+00:00",
+      "score": 12.0,
+      "themes": "['AI / tech risk', 'market selling', 'India market']",
+      "source": "Investing.com India",
+      "title": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com - Investing.com India",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMkN1Y0UwbzZXQ2RTa3laVUJJcTFNYWVIMEZaNHBvbDFPZUREVGFEdGRCZ1pSaWMtZUdUeXhOaGpqREFPUGlmZXI4Y0xib0VITkpyQXQyckJqcVg0M3RuTEhxaWxuZ0JOYVEwYTRGaE9HZG83dGRQVlJDN2RLV2dpY1hudEhaVWtPMmtxY1N0TXRTdnVVMFh5eHF5S2RBRUswdFptQ3UyMHJqMEJUZmI3andGZFNnTThsVFlNdDZwR3ZTcFdtdmttZm01eEJNdw?oc=5",
+      "description": "AI stock selloff drives investors to China, India, and overlooked Asian sectors By Investing.com Investing.com India"
     },
     {
       "published": "2026-11-08T01:02:48+00:00",
@@ -35852,6 +35879,15 @@
       "title": "AI stocks erase $13.2 trillion in market value as selloff deepens - Crypto Briefing",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92OE90YTRYRE5PanBNTzFWS2xxYXBsZHlZYklpNDBmcUJvZ0VYWWdxd0NyVmo5eHhEbGJkRHc4bm00ZmRLVEhhWEhIRFFudEpQWEhuY2tZMUtNU09ucHZUeTRZNDd0clk4ZDNJdmdsSFE?oc=5",
       "description": "AI stocks erase $13.2 trillion in market value as selloff deepens Crypto Briefing"
+    },
+    {
+      "published": "2026-11-07T20:29:24+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Las Vegas Review-Journal",
+      "title": "Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% - Las Vegas Review-Journal",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODVCQUV6d3Zsc2pCWWhHUWRDOVkzbVRucGpOODBJQkhtNjJMa3dTS0pkRzNuZEEyeENMOUNDNnBuc3JxTGw0ai1fQWwyc1VUcVBhbVh2bThQUTJpRHlGUmMwZkRORXQwS3MxeVR5akNaWWZIM3hPZ0Q5X0hRX1ZFS0l6bjNLSHlvY3RKTThLcVFJbko4b29NelpKYXBvamQyNjNxODNjMEtkUXZ3VG00VzdaVF9KWkhJWmUxOV81RQ?oc=5",
+      "description": "Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% Las Vegas Review-Journal"
     },
     {
       "published": "2026-11-07T18:52:30+00:00",
@@ -36016,6 +36052,15 @@
       "description": "Samsung vs SK Hynix: Which Korean Chip Stock Is Riskier After Record Profits Failed to Stop a Brutal Selloff International Business Times Australia"
     },
     {
+      "published": "2026-11-07T08:15:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "CryptoRank",
+      "title": "SoftBank Stock Slides 59% as AI Selloff Raises Credit Concerns - CryptoRank",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSGdCV1d1ZDdTcFBtQkcwNE1RT0ZfSVlrT1BpTDlhTnczSHBIRzFGamJVbDhsLWhHcEhJTjhFSmRmczdTSXpua3gzV3NfbHloYnNWVDBIdmthU0VIa1QwdTF3X29BeXhWazlvM2VsNWlnMERyQWNOMHVFTFhDVFVzbUZ1Ymp0QThZYWNqWUNqVkxVZTdjYnlqSHZqMl9KOUY0?oc=5",
+      "description": "SoftBank Stock Slides 59% as AI Selloff Raises Credit Concerns CryptoRank"
+    },
+    {
       "published": "2026-11-07T08:01:58+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -36043,15 +36088,6 @@
       "description": "European shares join global sell-off after AI fears hammer Asian markets DW.com"
     },
     {
-      "published": "2026-11-07T06:04:46+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "KuCoin",
-      "title": "SoftBank Stock Slides 59% Amid AI Selloff and Credit Concerns - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSzJGYi1JTFg2VVB5Wk5PcFU3Tm94Y1lvQ0pxQlJRcGdLajRmU2Rfb3did29sTG94VVdKTkZmQzRlSGtVeXJ0OGF1X2FqamE4VGdkWDdyOGRFME1TLUZlZk5Uek81cEg2UUdyejlYNXd2dy1icktmVTNZbkpySXQ3TjdnR0lPS1lFblY2bnQtR0ZOT29vTkF0c0hn?oc=5",
-      "description": "SoftBank Stock Slides 59% Amid AI Selloff and Credit Concerns KuCoin"
-    },
-    {
       "published": "2026-11-07T05:59:34+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -36059,24 +36095,6 @@
       "title": "Post-midterm AI sell-off rattles global markets amid Big Tech jitters - DW.com",
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFdvYWd2LXFINzR1akFoQlF2bkU5MktNNGtnMmN3aUlnTVFGc09nN3Y4eUdXQWgzOE5yQmw4SS1WVmZPcG9yZW5lOHlNTjhWOThZbUFkM2VYempBSjBja0k3SXk4M3MzLVo2S0p3V2haWXpQclhnbzhUUlVNUEQ5eC1rQnNzUlpvNlduejB0WmdPTTcyVURXVWs5X0RaQ2dQdGxNOGRBYmJ6NkU?oc=5",
       "description": "Post-midterm AI sell-off rattles global markets amid Big Tech jitters DW.com"
-    },
-    {
-      "published": "2026-11-07T04:56:33+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Pajhwok Afghan News",
-      "title": "AI stocks fall amid fears of tighter US regulations - Pajhwok Afghan News",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLURqbWVpNm1FanpnbGpfQjU2OWdpWnE3ZG9rRFdmTURsS2FucGlERlhzX0NkSmN2ZjhHWHZCV1RMemVCbUR3STVqWlRKQ2lFMzdPN1paWkxjU0pYVGdvbjRFU0hySFM1bENuWFNNZnVtQnBzemFhem5haTZCaS0yV3RHbE96dzZXWVlR?oc=5",
-      "description": "AI stocks fall amid fears of tighter US regulations Pajhwok Afghan News"
-    },
-    {
-      "published": "2026-11-07T04:44:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Yahoo Finance",
-      "title": "Tech stock sell-off raises questions about AI boom and data center growth | Dollars & Sense - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFQxMG1LUWNjSjNvc3pLY0tMWDdzaWtYNFNCV21oTENoQ0Jib3Ffc0dOVkNIdGV4U0ZpRThJMmN3aFhJa2M0TXNFeGhKaFBKVzFwU3Myck9fLURYZXNkVEREdldiUEhHQWs0dnVUdXhTdW5WSFZuX2JHSU9DYU1WVnF3TS1YNEhFQXk0eVFUVldUTm9EdlE?oc=5",
-      "description": "Tech stock sell-off raises questions about AI boom and data center growth | Dollars & Sense Yahoo Finance"
     },
     {
       "published": "2026-11-07T06:42:48+00:00",
@@ -36223,15 +36241,6 @@
       "description": "HanBroth: Sip and savour Busan-style pork soup at Beauty World by MasterChef SG winner Derek Cheong HungryGoWhere"
     },
     {
-      "published": "2026-11-07T04:43:37+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Livemint",
-      "title": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNWjNnMVZiTk5XVVEwZnpFUFpHZng2UW5zcENlZHhYdXhBb0lmU3hBRjdscko4cjJhVzdWMFpkWUN0U0JfVmhwcmR0cXplUDVhS19rU0I0WERtYXVQLVctaGZLLUh6UHFQeUJWVFVBeURxRXJuWHdYLUZ4SWx5SG81WEZiVjRaeC0wUlpCd1N4N2NBWm5Qc19aNFp3clNVbWUyZWJaNjV0ZWtlSzlQMnNVQkprUzByX19jQVU4XzdsSzMtSklzRWZ3elQxZWEwYmI1NF9pTTZIMmxJV2dORHZQUUxlMGNTeHdKRXlRUkpWM0lveTRnNlRkV0xCS0RLSExvaGNra09wTV8wc1hpNlVyStIBlgJBVV95cUxOUTlMSmpjSnJmTzN5M0NQTmtfMGlEb2FlTmc3SGZJQkg3WENrcG53bnQ2Vll5UTdpTkJ4Y0lsbXBkWDlHWGVyMEJXeVBoWnM0c3BvTzB0Y3lha0NoYmlLUWFtWGhETWJUMWJIcFU1bkpLaGMwdFhhLXIwdnJHRWlFUld1Q05yM3ZTbXJXZzU0NC1jYXlFVXNPa2p1elNXOFlIZDVYRzlfMmFPcUd6NzF1TGZYanVNWU1ETjNuMlZ0cExxUTdKNWctLU1iRlplcHNWZ3JjZ293Z3FibU5pcm01aTAwbG45YkZFeWhra2JmRWRRMy1WZldtc2QwazgwdnhqRHF1X05JVnJmQ3VFakp1WW1BcV9mZw?oc=5",
-      "description": "Gold ETF folios surge 164% in 3 years, outpacing equity mutual funds: Study warns against FOMO-driven gold investments Livemint"
-    },
-    {
       "published": "2026-11-08T03:15:06+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
@@ -36286,21 +36295,12 @@
       "description": "Stock market muhurat trading date and time 2026 on Diwali day 8 Nov: MCX, Sensex, Nifty - What investors should know Livemint"
     },
     {
-      "published": "2026-11-07T04:56:39+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Muhurat Trading 2026: Sensex, Nifty has 80% strike rate. Will this trend continue as Samvat 2083 kicks off - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxON0dGZFMxclAxRE1GTFUzWUtsdG9hMmdlWFNBM0t6T1lXQ1BSY29zQmtFUlkwSXlBem55M0M5STd2STZXMjczajZHUGU2SnJIN3JJYnFraHBZVHBEM0lLRGsxY1c3anJscngtLU9BTkR3UnNUUjVrZGN4NmJfNzRJWVdSQWdBSW53UzdHX2FjQnktUm1MT0NwNFRHNFZHVkpTbmdqdGdQdWh4U0dGVE1uclZPbXFQdnFkYWJxVlBYODdIcWFiVENXeDFlZEdJamVBMndnMGE2MTR1WjN4UzZnaXVSb1ZyN0NwMmtZTnk4UEtIai1lR0pkWkVOQjZxWDVUcGhjLWJOMNIBjAJBVV95cUxPbE15bUhzMXhkT0pnTGZNTW5YVVlCQWMxQXhwNmdpMWVRNi1VRXRZaWozY3RVa2lNeXMzSlBDMkFFWmY0Y19ZcENMNEtIelBEcUNPZVN3V09uMFZ3Tm9KT09UU1cxSi1QT3ZsZE44UFNwRVZZWjlOZTJIV3Zwck1BODUzcElCaWNoM2c0WGx2cUkwTTcyT2w1Ql9VUlNhQ085dUdfZDRPRDRjQWJSX1FxRFZhem9ESWN3NUNqekhFcUdrVWxoVHQ0WDA1WVJkM2lSRWVyVVBJbzA1Z2VtaGEtT3dySXk5b29KMnVkTUJSMEpUMHFXQTRxY0VkZ0RkNTFPYnQ1ZGN1ck9iQ3lv?oc=5",
-      "description": "Muhurat Trading 2026: Sensex, Nifty has 80% strike rate. Will this trend continue as Samvat 2083 kicks off The Economic Times"
-    },
-    {
       "published": "2026-11-08T04:28:33+00:00",
       "score": 1.0,
       "themes": "['India market']",
       "source": "Livemint",
       "title": "Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcUxabVZOMTh0VFhMdENVVDdHaFRXSzJiakpTRTEzYVhqanpxXzhwN2xLY3J5Y3puTE8xM2dya29zZkMxcXl4cThJUzNXNjlqbUJqcWF4RHdJcmxwTDk0cGs1aHNZd3pfeDZvQ1RIbHFGanJiYU5mdEZlVlFQcE1jM0w2Tk91RnR3YThIRWR6YUNtQ3Z6akJVLVZSWXk0UkU5V1hJQzJHcDRBQ1JXZTV1NlFTaS03MkljMENMTjBVNGNFVFlTdGVrZk8wQWZwbG5NSnFoRGJHMVBqZXZnUkRwd2M2b0JfYzFDbFlOUldMUDIwSVBlT0laQ2dGM2V4MXRBSWZ6b3REeV9aZjExcEI3SEd30gGXAkFVX3lxTFBPRTFnUVY5clY0SFE4YXdqM0tueVlDcWxDcEhzV2c5UlVTcTdDb1RIdWw2RW5PYzM1WXBpd3JHMzM0Rm9lS2ZFTkFFOXZGSWpQZFROS3Z0a3BKcm1qcDVPbmZ1OTBmb19UdEJVRGxxWTJEYlZxUF9XSDNZY01zMVBRTTBVM1FQcDJxODZLdWVqZTZoZ243VXMxVTFUeDBhaWJqUjZuc215YUNTelhWbzJzUUN2a0RMbU04XzUwZGg0Y2UweldOR2F3N0Etb0NodGdlMHE0aE5WOFRfZk9MRkFuaDZSbl9RQUlfbTlKVmZDZlctdTEwcjg3M2MteUtiamFrNDltUnNaU21UanlzSm1kRDRpRG5xWQ?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNcUxabVZOMTh0VFhMdENVVDdHaFRXSzJiakpTRTEzYVhqanpxXzhwN2xLY3J5Y3puTE8xM2dya29zZkMxcXl4cThJUzNXNjlqbUJqcWF4RHdJcmxwTDk0cGs1aHNZd3pfeDZvQ1RIbHFGanJiYU5mdEZlVlFQcE1jM0w2Tk91RnR3YThIRWR6YUNtQ3Z6akJVLVZSWXk0UkU5V1hJQzJHcDRBQ1JXZTV1NlFTaS03MkljMENMTjBVNGNFVFlTdGVrZk8wQWZwbG5NSnFoRGJHMVBqZXZnUkRwd2M2b0JfYzFDbFlOUldMUDIwSVBlT0laQ2dGM2V4MXRBSWZ6b3REeV9aZjExcEI3SEd3?oc=5",
       "description": "Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? Livemint"
     },
     {
@@ -36311,6 +36311,15 @@
       "title": "Trading setup for the day: Gift Nifty signals positive start to Muhurat Trading - The Economic Times",
       "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNRlhJc2lGT0YwY1ZocDhGMFdLQXRpMnFwdWtHMElxX0Jud2JtaVdOaElSV0xlNXFVbWhKcWJjdk56bkpDLVR1Z2tFd2NhQ1NsTnlrSUtROFN0UElEU004Z2xUZVFlMm9rWXl5VWw4cVFFRFFXQldibHJ5T2RVSm1KTy1tcUQwRTJxQ1VKcXBmcjcxUFdsRTRmSlJ6YnA4UXJQZkhaRGNFYWIwanl4TVJncjJJSVg3ekhVRXZuS19TSnJ0Z2lkRmMxZzVYRTQzTnpPSzhLRHh6Q1JhbFg0czZmczRCM2IzbXfSAewBQVVfeXFMTTdUV1NfYk9xeU1XNndkbnVhU2FodXVzT0JRaDR5cTJFQlhQSC0wVjAzZ0x3YVMyeDNqQ1QzQzdvY3o0ampTRmtKV0xiNjJQR1pHWEUtSzdqY2xKdlhZaUhNZVJZaWtVX1ZlSzItelMtVFdrWUY5akR5QzBUMWZQSmhPU2kyaFN1SFV2M01oSHpSS19OMUc3aUphWUE3bG9XM29wZ3locnMxVzUtelJYaWR6LUR1UjNfZm5DVDMtSEVyOXlwM0lfX0dZaWNFRk8xdlBIQm1UYUdMbkJlMG1GNjIyRC1Pblg1TnV0ZXY?oc=5",
       "description": "Trading setup for the day: Gift Nifty signals positive start to Muhurat Trading The Economic Times"
+    },
+    {
+      "published": "2026-11-08T03:32:48+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "ad-hoc-news.de",
+      "title": "Intel Rides Chip Rally as Insider Buying and a $300 Million Israel Hit Frame the Q4 Test - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxORnltV1VqQkZuemxxeWtEekpuMHRGNXF4SG5Jdk13Y3dzZHhINDN1MkpiRWwtdmdUeUhmQUdnMUVYeUo1SzJ5bEJ6SmlhSW5sR0FxdUp0V1hydEZ3Ym9fVjhETVFoZ2VuMkNYcm5wbkdQTzgzeWdHZVdCVFhtYjFFN1czempwVGRHQXF0d3YtV01vcWpfcGEwaEdQcFRuVWtZNXVMeUhrTDJ0VDlYemxaQzV6YlNRNldHX25TRjYzWjJ3R2Y1SlJ5WFY5d0hkRFhJajZLTFNJU3BGM0ZzRURHd0h6WjJ4aXF4UlpCVFdQd1Q?oc=5",
+      "description": "Intel Rides Chip Rally as Insider Buying and a $300 Million Israel Hit Frame the Q4 Test ad-hoc-news.de"
     },
     {
       "published": "2026-11-08T03:30:00+00:00",
@@ -36329,6 +36338,15 @@
       "title": "Muhurat Trading 2026: Nifty may see big gap-up opening, but there's a catch; expert picks 3 stocks - TradingView",
       "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQRUh5MzhoTHFORjU5NS13blYyaF9DcG1rbVAwTk9NVHYzWUtTejNTd0VGYzNJS0JIWW95M2JZdnhaTjlPdlRUUUd0Y1hGbkdGb0plZnoyVmJMbXlxMzhTWWpMOS1YLUgyR05URkFoOEJjTjRtMW9JQ0VHYzY2LVI0WDlNcTdVa0U0X1YtVUg4SDk3MWhjaFJXVWNfdzVRQTJISEI0SGFzVTg5VFBlZU5FUG9sRDNHNno2MjBlblY4Q3BiT1phR3dNdWRhVUFhSFVQVXRhNUtzdE5DUWxQbW9WejlCVUZXeU1GLXJjc1ZNdw?oc=5",
       "description": "Muhurat Trading 2026: Nifty may see big gap-up opening, but there's a catch; expert picks 3 stocks TradingView"
+    },
+    {
+      "published": "2026-11-08T02:07:20+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN3VQZ0QyMlhPWmZ0Y1R4ZmwyV2dOazdRcmt1bzN4SUhpUlpXcXZOYWRBVVpYaExSQ3Z4Qlp2RlYxTTAzTjBWdks4OGZBaHlWUnI0VUZJMGI3eGFIVlEtSGZ0U2huSGVpZ0hvYVZXb1ZCTkZMQXpycVBqTDJ1MENtbV9KMHg4N2c0cHJvYjRZTlU1VUdKbElHcVVYeGc4alJLSS1j?oc=5",
+      "description": "MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates The Economic Times"
     },
     {
       "published": "2026-11-08T02:03:00+00:00",
