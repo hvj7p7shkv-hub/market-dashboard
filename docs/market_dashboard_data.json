@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 12:10 IST",
+  "generated_at": "2026-11-08 12:39 IST",
   "wire_file": "2026-11-08-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "20",
+    "wire_count": "22",
     "wire_total_count": "77",
     "wire_scope_date": "2026-11-08",
-    "ai_wire_count": "10",
-    "selling_wire_count": "7",
-    "india_wire_count": "14",
+    "ai_wire_count": "9",
+    "selling_wire_count": "6",
+    "india_wire_count": "15",
     "weak_index_count": "7",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-08 06:13",
-      "title": "Samvat 2082: Record DII buying offset record FPI outflows - Rediff",
-      "text": "Latest dated headline · Rediff. Today's unique wire set contains 20 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-08 06:53",
+      "title": "Mutual fund NFO: Only 1 new fund will open for subscription this week. Check dates and key details - The Economic Times",
+      "text": "Latest dated headline · The Economic Times. Today's unique wire set contains 22 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-08",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-08 has 14 India-market wires, 7 selling/risk wires, and 10 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-08 has 15 India-market wires, 6 selling/risk wires, and 9 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-08",
@@ -3774,6 +3774,26 @@
         "source": "Nifty Indices constituents + Yahoo history"
       },
       {
+        "symbol": "AFCONS",
+        "company": "Afcons Infrastructure Ltd.",
+        "ticker": "AFCONS.NS",
+        "last_date": "2026-11-06",
+        "last_price": 215.88,
+        "open": null,
+        "day_high": 216.45,
+        "day_low": 212.64,
+        "previous_close": 219.44,
+        "change_pct": -1.62,
+        "year_high": 446.95,
+        "year_low": 203.6,
+        "distance_from_52w_high_pct": -51.7,
+        "fresh_52w_high": false,
+        "within_3pct_52w_high": false,
+        "volume": 374100,
+        "traded_value": null,
+        "source": "Nifty Indices constituents + Yahoo history"
+      },
+      {
         "symbol": "SWANCORP",
         "company": "Swan Corp Ltd.",
         "ticker": "SWANCORP.NS",
@@ -3910,26 +3930,6 @@
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
         "volume": 4957158,
-        "traded_value": null,
-        "source": "Nifty Indices constituents + Yahoo history"
-      },
-      {
-        "symbol": "GALLANTT",
-        "company": "Gallantt Ispat Ltd.",
-        "ticker": "GALLANTT.NS",
-        "last_date": "2026-11-06",
-        "last_price": 534.4,
-        "open": null,
-        "day_high": 538.4,
-        "day_low": 527.05,
-        "previous_close": 535.95,
-        "change_pct": -0.29,
-        "year_high": 948.0,
-        "year_low": 496.25,
-        "distance_from_52w_high_pct": -43.63,
-        "fresh_52w_high": false,
-        "within_3pct_52w_high": false,
-        "volume": 185792,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -4442,7 +4442,7 @@
     "near_count": 31,
     "technical_leaders_count": 25,
     "technical_overlay_count": 3,
-    "total_count": 499
+    "total_count": 500
   },
   "mutual_fund_navs": {
     "funds": [
@@ -23216,7 +23216,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-08T12:10:36+05:30",
+    "generated_at": "2026-11-08T12:39:47+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35719,15 +35719,6 @@
       "description": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week Times of Oman"
     },
     {
-      "published": "2026-11-08T04:05:57+00:00",
-      "score": 12.0,
-      "themes": "['AI / tech risk', 'market selling', 'India market']",
-      "source": "Social News XYZ",
-      "title": "Global AI sell-off makes India attractive for foreign portfolio investors - Social News XYZ",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRZTU5hVzd6TnQyQUl3cDMwUDBlVE5fSmJJWmNUVUx1d0lqRmY4RnhBZWl0U2RwSDZxb0pfZnZtYUc3WU5lUDREUEdZeW5Oa3pKNWtHYnJ2OU1abEZ3d1V4U2pGTDdGREUyWnBjR2t5Xy1yNEhJdHJONlczU2Q2dGJGVjBUREEzODdYcWlYSDNuT0lteTlLZ3o1SElZVWRHUmVOcDhFVHJ1TEpiLUNKNGxB0gGyAUFVX3lxTE02NFlNTmFXN3pOdDJBSXdwMzBQMGVUTl9KYklaY1RVTHV3SWpGZjhGeEFlaXRTZHBINnFvSl9mdm1hRzdZTmVQNERQR1l5bk5reko1a0dicnY5TVpsRnd3VXhTakZMN0ZERTJacGNHa3lfLXI0SEl0ck42VzNTZDZ0YkZWMFREQTM4N1hxaVhIM25PSW15OUtnejVISVlVZEdSZU5wOEVUcnVMSmItQ0o0bEE?oc=5",
-      "description": "Global AI sell-off makes India attractive for foreign portfolio investors Social News XYZ"
-    },
-    {
       "published": "2026-11-08T03:12:25+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
@@ -35780,6 +35771,15 @@
       "title": "AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidia (NASDAQ: NVDA) And Broadcom (NASDAQ: AVGO) Cratering - Foreign Policy Journal",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPbW1EcEFta2hIY3dra050a0p5LTdxc3AzX1YxcDV6RmIyczJ6RGJ6d085c05MemxLUWZvWVhteFI2RWFtR25FUW5OZUJKM2p4OWRPRjVKcFBZcEVMNEIyVC1oeV9pZEFSYU9kUmtMeEtsbGtYRm9CZkp5MVd4b0RnN1Nhc0I0TDFkcUl5SVZ3VXRRZldGTXFBdUF4eEVEWHh1dFo4WndUUWliWjFnV0tkYTk1SFJ1TG04TEhicTYzd2szQmdUa0V0WFJucFotT0pvU2hxMlpYNDllYjNBMU1WNG45Zkx4ME5tTTdRdi15cGtDb09JZmN3LUtaSjRsSjh2VUdvWjFIRQ?oc=5",
       "description": "AI Sell-Off Triggers Worst Market Rout Since April 2025 Tariff Shock, With Nvidia (NASDAQ: NVDA) And Broadcom (NASDAQ: AVGO) Cratering Foreign Policy Journal"
+    },
+    {
+      "published": "2026-11-07T21:55:30+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "MLQ.ai",
+      "title": "December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets - MLQ.ai",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTFpmZWItVkk3b2w3LTNUVUU2MHZqS0Q2NXFsRWdFS0xmdEF0QURJTXJMc2ptOHlDQzBSM1JlTEx3ekdJeWc5Mnd2WEc3Q3J6OUJsWDNjZGxEYmZ1Qk1lVVlEOUg4WEZrXzk5bGV0cWxxcGZselQtTmUybGU0WVhSYnVwNlhGRzBvQ2tBaGo5OEdzMnJQY3JUMFVRek5QNFJ3M3FMcEh3ZUVoQzBzZzJDX1dOYXViejJCOXRYdA?oc=5",
+      "description": "December Fed hike odds near 77% after jobs surprise, as AI selloff pressure moves into credit markets MLQ.ai"
     },
     {
       "published": "2026-11-07T19:01:00+00:00",
@@ -35998,24 +35998,6 @@
       "description": "European stocks fall amid growing concerns over artificial intelligence سانا"
     },
     {
-      "published": "2026-11-07T06:43:59+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "DW.com",
-      "title": "European shares join global sell-off after AI fears hammer Asian markets - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMjFLNDFvcVVFVTM0LU9ZTUMtYVZhcGhiTTRJVElXUHFZMHRLMGxyZ2xsX1djamVfOUNGdGxnbkZZc1lTVHNPSHotU1JMNEpuSnRBNHlBeDB0WFZVSWpoRUpSZmJCU0ttbmVZOGhBZmlPazNDckswNGRPS2hMRXFvN2V0OU04MmFVMmU2cFJSY0FxdUhVTWs2VHptU1ctNW8ybEUyYm44bzlCamplNDRIWVRWZkdaaXdLa3poVlBuNFN3MmNSWjE3ONIByAFBVV95cUxNbUx2MmJUZFFFeF84ZHBkcXI0UnBBd0hpWWFsWXhYdE8ySTN5YUk4NTFSVWpheXlVWGkxUVV6UG5uc0pzMDdlYjA4UGdKWWk4Y3BvWFVuODlLcXo0QnpQZGlHeXZWeExjeEk3cG0zZXRRdUtuSUJza3ZsVmRXejVTTHNIWXh3VzNoSEVMWlFFSTNWaHhZLVNNVlRuRXM4NGpMWVNjcFJUb2pTZW15WDB2aVpnTjlPT2dnb2xaZ09mMm1kNHFnMjhMZw?oc=5",
-      "description": "European shares join global sell-off after AI fears hammer Asian markets DW.com"
-    },
-    {
-      "published": "2026-11-07T06:42:48+00:00",
-      "score": 6.0,
-      "themes": "['India market']",
-      "source": "Investment Guru India",
-      "title": "Nifty 50 gained 1.91% in October, outperforming other market-cap segments: Motilal Oswal Mutual Fund - Investment Guru India",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWURyeXlXUy01X3NOU1VZUndRdk5WN0pyRU1uY1hjNG1OaEJPOGRXdzVpa1VKXzZpRjhBUWd2VDV0WlFhT3BTZUItbjJsQ3ZiejN4eWlWMHNCVFU2VjlreTE1cFNERUIwUjdLSGNUcWp1bnhKOF94cmUxY3VLNTktQ2Y5Zk9wWFdWUTFyM1dOVy0wUGpET0h4bXJ0SU1HWjZRcHFBV0pERzZMelQtMDBLVkdKSVNlR25KVWdGek04R0ZLV0N1by1tTktLenBUOF9KZU1QY01vOTNTajdBLXJCZk1nbkplZw?oc=5",
-      "description": "Nifty 50 gained 1.91% in October, outperforming other market-cap segments: Motilal Oswal Mutual Fund Investment Guru India"
-    },
-    {
       "published": "2026-11-07T11:18:52+00:00",
       "score": 5.0,
       "themes": "['India market', 'macro / flows']",
@@ -36025,6 +36007,15 @@
       "description": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead? Livemint"
     },
     {
+      "published": "2026-11-08T06:53:33+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Mutual fund NFO: Only 1 new fund will open for subscription this week. Check dates and key details - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQaUVqTHg0d1E5UWkySTh2UEYwb0N3UHBOY0I0VlM1bDJVZlJPSFpzWVJqdjhKYlBTOVNNMnNVcWYzVFdESl8zbTU1alhZb2pXbG8zZGg5ZC1rOS1MZ1dLam9KRG9iRXFYUEEyMEZKTmhFR0ZtMVZKMVFOTU5ZOFdKNkdjcTF4YURpSGNOMTAzN0d1UW50Y2ZhS1ZFdENJQklYd2M5ZEl5UjNfQVZRVDRNeEttMFRTb0c1MmJYSXNOanU1WnNIMjFvaWgwNENqQXh3emp5a2pSdjl1d3h5Z1VjZUxRT2xnQlJrYmhKV1ItcEdhNEVfU2t0SGR5SFhlUQ?oc=5",
+      "description": "Mutual fund NFO: Only 1 new fund will open for subscription this week. Check dates and key details The Economic Times"
+    },
+    {
       "published": "2026-11-08T05:30:10+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -36032,15 +36023,6 @@
       "title": "Are SIP Investors Bailing Out FIIs? Nilesh Shah Explains India's Financialisation Trend - Business Today",
       "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeHRwNUNCZnp3R1N4cXRra3YwbFQ0TE5qLWp3dWx1bG1mbjdvaUNJNko4MDFJWm5KLVducmJwS3F5eFp0LXZIRWU0X2FSbVpkYVVDcXFLbmR2emFaNVQtU0dILUJxWjdqUVlnQWY1d1BvcGtKNWJTSTFEQzZzNENFRnYxMTU3b01BZGQ3QWx1VURzS3A4dXZ3VDNNb012Y1hZbVZkS19ETjN4SkpGWDc4QTZuN01MYWNZV01SdEF2eE12a2VlWVJOYXBPQVc5UDViQmRPTGVuTURFUEtJZ3g1azA0MVpkRlUtX2ZKRGhB0gHzAUFVX3lxTFBKRlBBN3pSTDRzakNRd1M1WTM0aXBxelRNZXhsZjVvWEhYRDdCZld0ZWdNdGlCcC1NSzc5MTgxSkNfUnhBbTJMaUtrZDlIRFhQU0k5YlhHU2k4MVJSSzFoam1MY0FWeDVLOTAwVTlXV0dKLVZSaTZrTGdBUHZ0TWstWDltUnNBZnU2SWctZFp6bTg2T2xLTVo5ck5vWWstT3JXMmNkZUJMZXJQWUQ1V2g5amI5dkZXSHFQdnVTNXBuaWJtWVpKcDQwZGhNQjZDNDVDbG5TVjhMU21ueWotbmQ5ZTVyWThEY0xyTEFVWkRiRXIwZw?oc=5",
       "description": "Are SIP Investors Bailing Out FIIs? Nilesh Shah Explains India's Financialisation Trend Business Today"
-    },
-    {
-      "published": "2026-11-08T02:08:35+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "Business News This Week",
-      "title": "Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing - Business News This Week",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNTXBGeFpqWnU1ZzJVTmVQUzZyUUZieFJaRnFHbkRBNFpkU2dmY2oxN0ttNU4xSVpicE50Q1ZEVnJ6RnBET3BOMUdtaWpHRFVLakxGU0dzR29OY2JuLWotUThZTldsMTdxLV9TRkwyTHRQY1lwSmcyS1RJMG51Qi1qeDQyVG9tZmZoQmxqdU9scHlKWThLWWVjWXJvQlhYVmdzVWhDOE1pek82eDBIRlItUG1sYnp2TnpjSHFwZTA0S01CSWdPTm9rcnBTeGxvUUd5R1FwenhMc3dBblZmb083azhWa0ZNRnNsZWZwam5NYmFQVmQ3anVoaFU5a0xGRUVyNnEza3Ruc3B2Nkhfc3ZLTHd3?oc=5",
-      "description": "Tre Sessanta Financial Services Launches ‘ShreeVaah’ Mobile App for Digital Wealth Management, Mutual Fund Investments and Multi-Asset Investing Business News This Week"
     },
     {
       "published": "2026-11-07T19:03:00+00:00",
@@ -36077,6 +36059,15 @@
       "title": "10 Best Smallcap Mutual Funds by Rolling Returns (2026) - Myinvestmentideas",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9GaGNuSllhc0RBX1RJT05IMU5iVzQwNkdtbS1Jckd6a2drSXlyT2prZzFBeU04ZU9zVjJ4NW5GakJoV2lST3B2dlUwTTU3Y191b2FGcEdFMXRPblNlTlJqcm10RlhuZ2k5bWI5RGxFSVNNdU1Cejhj?oc=5",
       "description": "10 Best Smallcap Mutual Funds by Rolling Returns (2026) Myinvestmentideas"
+    },
+    {
+      "published": "2026-11-08T06:49:56+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "The Economic Times",
+      "title": "These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPMUl6S01sMG8yUzFsRHNIbDNHb2s1dmxBOGIzU2p3bzRHZ1dfZHRvQUdLMUZIczgxTF9KZEVEUXZtV0NTQ1d3WnhLR2J3NkJ2eFlYNGozbU1KckFTYmFwQ096MWwxWFh5c0FxS1lVS2IxSkowaXhlN0xXTUIzUmNJNC00VmtMQTljclZfRXZxVEliZjRnZGhaUV9Cc0luVmFxMno1QjNwdEFHcmNMNHpTb09RU1ozNUhMMDBvdTliVkVvS281N2FIeVhMOWhLQk5NZ1FzZTE1VktwVmJBMDFqdFc3MktVNkpEejM0?oc=5",
+      "description": "These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? The Economic Times"
     },
     {
       "published": "2026-11-08T03:30:33+00:00",
@@ -36151,6 +36142,24 @@
       "description": "Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows Mid-Day"
     },
     {
+      "published": "2026-11-08T06:53:28+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "The Hawk",
+      "title": "Muhurat Trading: Nifty, Sensex posted gains in 8 of last 10 Diwali sessions - The Hawk",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdlp4VVludVFzeE90eGphc2ozMk1scDdGaEJpRWI4WDdSVnl4Q1VLemRuNTRJNTBkZGQzYzVhUnYxWUVrV1ppQTIxaURHYlRBNXdGSk1NNzZsRUpGSzQyTnNpQ1R4aV8yS1Bqa1E3WUJQYXlGMzVFWTFCSldtUGhZeXVpZTBwS0Y3NEZ4ZzU1SGpERmJLTElqUlk3em5xaVdpczR2Sjh5U1ZnTVF1SDkyd0ExM3hQVXg3NFFOWjI4WQ?oc=5",
+      "description": "Muhurat Trading: Nifty, Sensex posted gains in 8 of last 10 Diwali sessions The Hawk"
+    },
+    {
+      "published": "2026-11-08T06:43:07+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Nifty bulls reclaim 25,000 mark as FIIs step up India buying: 5 factors that will determine D-Street's fat - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPVnh1QVQwQXppTncweDNHamR2MVY0MUE4bW0tdVZadVFpRG1fakZXWkttcTJHaFZ1UDktLUhEcl9jQzFGQ01Ga3FwWGxPNUI4cmhBd3g4cWFhYXJjOTFDc2x2dDFYaTVkZDJPMUdXNmN6ZVJGUkdkU2tnb0NmLUVnSF9fdlpnSXp2d1VuVk9aTHpMXzZ2cnVLQ0tHYmtpMXZLRjNBcXl3WWhMSjNqYWF3djNBVldTTXVlemdwQk45Vl9QTWhtbmZnTFRCOTZ6ZG5iVEJIckhuNy1sYWhTekcwc25sdkREVXhyRzRFT0lxbkl6b1gzSlpaXzc3ZTctYW1scDluSUdUczc1M09kc1lQZF9vLWd6NGfSAZwCQVVfeXFMTV9VVEpJOG42V1lqZENDLWpKcXM0eDZHcWpUT1ZRU2JDTHZSbkFoZ0tBdjdZcXJudDh6Vi05VTlGaFhyMS1vTGlSb2YxSkkzWXo4bUNoY0RzTlBuNlFJUDZ3ZDY2SExReHFyTWNzNGVQX0VDcnlqZURJcEFXNDN4QkVVRlhtUW1PNXNNZ1F1bnRxUThQOENXSjhEMHptT2FYTzhERFhCTFN0WjJpcVpXclhUUUwtbHJlc1VhT2FBY1pSR0VtRjBqb0hvdUtYc3puVzNkcXVNMjBNVlE5YTI2Zkc1a09vRHZGamxzNnVMTzIzRERRUU4ydDY5X3V0dlFLTXE5UjUxZ25hSzFlT1JjSklCMUFjWUtCV2xlSlk?oc=5",
+      "description": "Nifty bulls reclaim 25,000 mark as FIIs step up India buying: 5 factors that will determine D-Street's fat The Economic Times"
+    },
+    {
       "published": "2026-11-08T03:15:06+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
@@ -36176,15 +36185,6 @@
       "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSUVuT0pxeUQ3RHFBcW56bW9VS2R4SVpma1lDVEN6bzcxY2ctMnY4dXFEWlRpTkRoX1UzS1dOWUd2cVVPbkRqNUo2RDdsOUhIM1JhalpnSXRfY1V1MUFSbklvbFlYa1NwN2s0SC1YMS1vRnZ3aGxFc3VjYzh6dmk1NTNDaGhwbzNDNHQzc2Z3M09JVUZaWXgw?oc=5",
       "description": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst? Yahoo Finance"
-    },
-    {
-      "published": "2026-11-07T13:01:00+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'macro / flows']",
-      "source": "Investor's Business Daily",
-      "title": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout - Investor's Business Daily",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd2FkMG42Rmh3aXFzM0xLX2hESGVCcnR6NW1MWjhiaFZjNGtST2pXOGY4dzVnUzFnQy13dHY5OGh0QzlnRjlxcmZrbEhEcGFtc00xWjY3S2g2NGZzTllfMzNMaGdWTmNfUEgyTEVRekF6aWZNLTRUOGNzcTRQVjdBb2M1c0Fia21VUTM1QWw2UXRodw?oc=5",
-      "description": "These 7 Stocks Are Analyst Favorites For Magnificent Earnings Growth; Amazon Holds Up Amid AI Rout Investor's Business Daily"
     },
     {
       "published": "2026-11-07T10:31:23+00:00",
