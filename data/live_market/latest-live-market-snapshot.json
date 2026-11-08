@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-06T17:07:53+05:30",
+  "generated_at": "2026-11-08T08:40:36+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
-      "advancers": 27,
-      "decliners": 31,
+      "downloaded_count": 60,
+      "coverage_pct": 100.0,
+      "advancers": 28,
+      "decliners": 32,
       "unchanged": 0,
-      "ad_ratio": 0.87,
-      "up_turnover_share_pct": 76.7,
-      "down_turnover_share_pct": 23.3,
+      "ad_ratio": 0.88,
+      "up_turnover_share_pct": 76.6,
+      "down_turnover_share_pct": 23.4,
       "high_volume_decliners": 6,
-      "intraday_quotes": 58,
+      "intraday_quotes": 60,
       "daily_fallbacks": 0,
       "as_of_date": "2026-11-06",
       "as_of_timestamp": "2026-11-06 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -39,11 +39,11 @@
       },
       {
         "sector": "Finance",
-        "count": 11,
-        "advancers": 6,
+        "count": 12,
+        "advancers": 7,
         "decliners": 5,
-        "average_1d_pct": 0.577,
-        "average_volume_ratio_20d": 0.989
+        "average_1d_pct": 0.556,
+        "average_volume_ratio_20d": 0.96
       },
       {
         "sector": "Health services",
@@ -67,7 +67,7 @@
         "advancers": 1,
         "decliners": 0,
         "average_1d_pct": 0.26,
-        "average_volume_ratio_20d": 2.579
+        "average_volume_ratio_20d": 2.577
       },
       {
         "sector": "Commercial services",
@@ -118,20 +118,20 @@
         "average_volume_ratio_20d": 0.714
       },
       {
+        "sector": "Utilities",
+        "count": 2,
+        "advancers": 0,
+        "decliners": 2,
+        "average_1d_pct": -2.29,
+        "average_volume_ratio_20d": 0.703
+      },
+      {
         "sector": "Consumer services",
         "count": 1,
         "advancers": 0,
         "decliners": 1,
         "average_1d_pct": -2.365,
         "average_volume_ratio_20d": 0.538
-      },
-      {
-        "sector": "Utilities",
-        "count": 1,
-        "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -4.571,
-        "average_volume_ratio_20d": 0.53
       },
       {
         "sector": "Retail trade",
@@ -151,10 +151,10 @@
         "ltp": 629.4,
         "previous_close": 524.7,
         "day_move_pct": 19.9543,
-        "session_volume": 4889057.0,
+        "session_volume": 4888937.0,
         "average_volume_20d": 100260.0,
-        "volume_ratio_20d": 48.764,
-        "turnover_proxy": 3077172595.0,
+        "volume_ratio_20d": 48.763,
+        "turnover_proxy": 3077097067.0,
         "quote_date": "2026-11-06",
         "quote_timestamp": "2026-11-06 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -563,10 +563,10 @@
         "ltp": 629.4,
         "previous_close": 524.7,
         "day_move_pct": 19.9543,
-        "session_volume": 4889057.0,
+        "session_volume": 4888937.0,
         "average_volume_20d": 100260.0,
-        "volume_ratio_20d": 48.764,
-        "turnover_proxy": 3077172595.0,
+        "volume_ratio_20d": 48.763,
+        "turnover_proxy": 3077097067.0,
         "quote_date": "2026-11-06",
         "quote_timestamp": "2026-11-06 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -648,10 +648,10 @@
         "ltp": 169.55,
         "previous_close": 169.11,
         "day_move_pct": 0.2602,
-        "session_volume": 13865.0,
+        "session_volume": 13856.0,
         "average_volume_20d": 5377.0,
-        "volume_ratio_20d": 2.579,
-        "turnover_proxy": 2350811.0,
+        "volume_ratio_20d": 2.577,
+        "turnover_proxy": 2349285.0,
         "quote_date": "2026-11-06",
         "quote_timestamp": "2026-11-06 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -1092,10 +1092,10 @@
         "ltp": 629.4,
         "previous_close": 524.7,
         "day_move_pct": 19.9543,
-        "session_volume": 4889057.0,
+        "session_volume": 4888937.0,
         "average_volume_20d": 100260.0,
-        "volume_ratio_20d": 48.764,
-        "turnover_proxy": 3077172595.0,
+        "volume_ratio_20d": 48.763,
+        "turnover_proxy": 3077097067.0,
         "quote_date": "2026-11-06",
         "quote_timestamp": "2026-11-06 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -1612,6 +1612,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 105.38,
+        "previous_close": 105.39,
+        "day_move_pct": -0.0095,
+        "session_volume": 1202991.0,
+        "average_volume_20d": 1374479.0,
+        "volume_ratio_20d": 0.875,
+        "turnover_proxy": 126771188.0,
+        "quote_date": "2026-11-06",
+        "quote_timestamp": "2026-11-06 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1731,6 +1748,23 @@
         "alert": ""
       },
       {
+        "symbol": "INDIGRID",
+        "ticker": "INDIGRID.NS",
+        "name": "IndiGrid Infrastructure Trust",
+        "sector": "Finance",
+        "ltp": 171.4,
+        "previous_close": 170.86,
+        "day_move_pct": 0.316,
+        "session_volume": 490303.0,
+        "average_volume_20d": 762213.0,
+        "volume_ratio_20d": 0.643,
+        "turnover_proxy": 84037931.0,
+        "quote_date": "2026-11-06",
+        "quote_timestamp": "2026-11-06 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "ELPROINTL",
         "ticker": "ELPROINTL.NS",
         "name": "Elpro International Ltd",
@@ -1738,10 +1772,10 @@
         "ltp": 169.55,
         "previous_close": 169.11,
         "day_move_pct": 0.2602,
-        "session_volume": 13865.0,
+        "session_volume": 13856.0,
         "average_volume_20d": 5377.0,
-        "volume_ratio_20d": 2.579,
-        "turnover_proxy": 2350811.0,
+        "volume_ratio_20d": 2.577,
+        "turnover_proxy": 2349285.0,
         "quote_date": "2026-11-06",
         "quote_timestamp": "2026-11-06 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -1786,20 +1820,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 498,
-      "coverage_pct": 99.6,
-      "advancers": 220,
-      "decliners": 275,
+      "downloaded_count": 500,
+      "coverage_pct": 100.0,
+      "advancers": 221,
+      "decliners": 276,
       "unchanged": 3,
       "ad_ratio": 0.8,
       "up_turnover_share_pct": 69.0,
       "down_turnover_share_pct": 31.0,
       "high_volume_decliners": 52,
       "intraday_quotes": 498,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 2,
       "as_of_date": "2026-11-06",
       "as_of_timestamp": "2026-11-06 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -1819,20 +1853,20 @@
         "average_volume_ratio_20d": 3.076
       },
       {
+        "sector": "Financial Services",
+        "count": 101,
+        "advancers": 57,
+        "decliners": 43,
+        "average_1d_pct": 0.432,
+        "average_volume_ratio_20d": 1.121
+      },
+      {
         "sector": "Telecommunication",
         "count": 10,
         "advancers": 2,
         "decliners": 8,
         "average_1d_pct": 0.426,
         "average_volume_ratio_20d": 1.13
-      },
-      {
-        "sector": "Financial Services",
-        "count": 100,
-        "advancers": 56,
-        "decliners": 43,
-        "average_1d_pct": 0.41,
-        "average_volume_ratio_20d": 1.113
       },
       {
         "sector": "Consumer Durables",
@@ -1940,11 +1974,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
+        "count": 63,
         "advancers": 15,
-        "decliners": 47,
-        "average_1d_pct": -1.872,
-        "average_volume_ratio_20d": 1.946
+        "decliners": 48,
+        "average_1d_pct": -1.851,
+        "average_volume_ratio_20d": 1.933
       },
       {
         "sector": "Media Entertainment & Publication",
@@ -6051,6 +6085,23 @@
         "alert": ""
       },
       {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 293.87,
+        "previous_close": 295.42,
+        "day_move_pct": -0.5247,
+        "session_volume": 3160493.0,
+        "average_volume_20d": 2903797.0,
+        "volume_ratio_20d": 1.088,
+        "turnover_proxy": 928774062.0,
+        "quote_date": "2026-11-06",
+        "quote_timestamp": "2026-11-06 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
+        "alert": ""
+      },
+      {
         "symbol": "HBLENGINE",
         "ticker": "HBLENGINE.NS",
         "name": "HBL Engineering Ltd.",
@@ -6490,6 +6541,23 @@
         "quote_date": "2026-11-06",
         "quote_timestamp": "2026-11-06 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "ICICIPRULI",
+        "ticker": "ICICIPRULI.NS",
+        "name": "ICICI Prudential Life Insurance Company Ltd.",
+        "sector": "Financial Services",
+        "ltp": 438.9,
+        "previous_close": 427.65,
+        "day_move_pct": 2.6307,
+        "session_volume": 3099911.0,
+        "average_volume_20d": 1626571.0,
+        "volume_ratio_20d": 1.906,
+        "turnover_proxy": 1360550919.0,
+        "quote_date": "2026-11-06",
+        "quote_timestamp": "2026-11-06 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
@@ -9985,10 +10053,10 @@
         "ltp": 692.95,
         "previous_close": 698.65,
         "day_move_pct": -0.8159,
-        "session_volume": 81841.0,
+        "session_volume": 81810.0,
         "average_volume_20d": 98136.0,
         "volume_ratio_20d": 0.834,
-        "turnover_proxy": 56711722.0,
+        "turnover_proxy": 56690240.0,
         "quote_date": "2026-11-06",
         "quote_timestamp": "2026-11-06 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
