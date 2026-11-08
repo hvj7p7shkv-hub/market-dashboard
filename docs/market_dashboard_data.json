@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08 11:10 IST",
+  "generated_at": "2026-11-08 11:40 IST",
   "wire_file": "2026-11-08-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "18",
-    "wire_total_count": "80",
+    "wire_count": "19",
+    "wire_total_count": "78",
     "wire_scope_date": "2026-11-08",
     "ai_wire_count": "11",
     "selling_wire_count": "8",
-    "india_wire_count": "11",
+    "india_wire_count": "12",
     "weak_index_count": "7",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-08 04:28",
-      "title": "Muhurat Trading 2026 today: Nifty 50's 7-day bull streak sets the stage for Samvat 2083 — what should investors expect? - Livemint",
-      "text": "Latest dated headline · Livemint. Today's unique wire set contains 18 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-08 05:30",
+      "title": "Are SIP Investors Bailing Out FIIs? Nilesh Shah Explains India's Financialisation Trend - Business Today",
+      "text": "Latest dated headline · Business Today. Today's unique wire set contains 19 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-08",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-08 has 11 India-market wires, 8 selling/risk wires, and 11 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-08 has 12 India-market wires, 8 selling/risk wires, and 11 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-08",
@@ -23216,7 +23216,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-08T11:10:35+05:30",
+    "generated_at": "2026-11-08T11:40:26+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35719,13 +35719,13 @@
       "description": "Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week Times of Oman"
     },
     {
-      "published": "2026-11-08T04:08:00+00:00",
+      "published": "2026-11-08T04:05:57+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
-      "source": "IANS LIVE",
-      "title": "Global AI sell-off makes India attractive for foreign portfolio investors - IANS LIVE",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTlhCM25zZW93bTdJNENDbGlObk5HN3pfR2ZWY1BXZzc0SDZTQzlkTGxYYTBtc2FQTlBSNGNoR0E0SDhkVllyVTZ6UFplNlNxbW92WnRkWDBjdVdidGlteXRnX0tNWTVGNTk2LVF2TlZHdHVFV0ZjS2k4VVRtbnFZQVBHY3VnRGJNSU5YMWpaOGlUREhadFcyZERPX1VxV2dKSDlZcg?oc=5",
-      "description": "Global AI sell-off makes India attractive for foreign portfolio investors IANS LIVE"
+      "source": "Social News XYZ",
+      "title": "Global AI sell-off makes India attractive for foreign portfolio investors - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNjRZTU5hVzd6TnQyQUl3cDMwUDBlVE5fSmJJWmNUVUx1d0lqRmY4RnhBZWl0U2RwSDZxb0pfZnZtYUc3WU5lUDREUEdZeW5Oa3pKNWtHYnJ2OU1abEZ3d1V4U2pGTDdGREUyWnBjR2t5Xy1yNEhJdHJONlczU2Q2dGJGVjBUREEzODdYcWlYSDNuT0lteTlLZ3o1SElZVWRHUmVOcDhFVHJ1TEpiLUNKNGxB0gGyAUFVX3lxTE02NFlNTmFXN3pOdDJBSXdwMzBQMGVUTl9KYklaY1RVTHV3SWpGZjhGeEFlaXRTZHBINnFvSl9mdm1hRzdZTmVQNERQR1l5bk5reko1a0dicnY5TVpsRnd3VXhTakZMN0ZERTJacGNHa3lfLXI0SEl0ck42VzNTZDZ0YkZWMFREQTM4N1hxaVhIM25PSW15OUtnejVISVlVZEdSZU5wOEVUcnVMSmItQ0o0bEE?oc=5",
+      "description": "Global AI sell-off makes India attractive for foreign portfolio investors Social News XYZ"
     },
     {
       "published": "2026-11-08T03:12:25+00:00",
@@ -35827,6 +35827,15 @@
       "description": "BASF's Automotive Plastics Wins Land as Sector-Wide Tech Selloff Bites ad-hoc-news.de"
     },
     {
+      "published": "2026-11-07T23:56:51+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "InvestorPlace",
+      "title": "The Unlikely Stock That Could “Cushion” an AI Selloff - InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdE9keFdLQ0JMcFVJQVlHTUVBUWllSmh5a2oxUnNYWlVIeEdKR2tHTWRCOXlhT0xXSjJwR1F2Tk0zSXhENFNTMVI2N2FDZWlYcmR2alVBeDZrOWY4M2hQd1JmSEhFZ1BTbnh0T1BtbUJNbi1vQ05VaVRUQkRqYzZ0cEtKNEJ4X0xpTDF2VmxTT01abUFaeFZRcC1DSGFKdw?oc=5",
+      "description": "The Unlikely Stock That Could “Cushion” an AI Selloff InvestorPlace"
+    },
+    {
       "published": "2026-11-07T23:01:54+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35834,15 +35843,6 @@
       "title": "Why the AI stock sell-off could matter far beyond Wall Street - Malay Mail",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPVlVjd1MtV2NXbnpTaU5sWTRhTnpGQmxqRmhrM0ZmRzk4LWRnSy02UFJlREpHMWZnbzIweG1nTURrbEhLX29PcTNSMDBCSzZscFNkSG1kam5yY2lCZ0IzU1U2X2JGYzhGdWRkaWdQRV9SaEZKcWVtaWxRSnVKUWhCSlVPTHlwRjYyVGhMOGZtMnZ1dVJWVjhtcU5tRlVRNGxrUEtDU0wwY3RaZTZpcFFJS1dMb0p0OHPSAbwBQVVfeXFMT3dDUlp5SzhrVzdtVmtqaEdlZGJpbjBjR0lpVU9vbmlvWE0tWjB1amoyNi11b3NiOTVmZFVlVHJISElRdmR1QUNJdFVmc2tpaGJCckNfTm9wSDZPd3h1cnZBWThHdEVXSDAyMTh3MHVsRm1yalZ2VmFDLWtEZTJXbzgtejJQbjFPeU83NGRQbU9EMVpRVHFOTU1iN0NJcXZvY2M2MktTOGM4eEQ2Szd6S3dod1lrWDZUaHFLU3Q?oc=5",
       "description": "Why the AI stock sell-off could matter far beyond Wall Street Malay Mail"
-    },
-    {
-      "published": "2026-11-07T23:00:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Newswav",
-      "title": "Why the AI stock sell-off could matter far beyond Wall Street - Newswav",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNGdEel9jTnlVejFQTGlIM25mTUs3YXhmRnhFUjUxQmotM2ZSb2hLaWt1Y19JbWNvbndZTXRFdC1iMFVJZWh6TFBLdm1BZUQ4Ums5Yy1XNy1hT3ZNb1R4ZlpYOVdaZ3ozME9KZ0Q3NnJMUGZiTTN3WjRERHYzcHc0a2ZUSmhWWEV3ODdwajcwR0VJSTFySG1jdFhQZmUwdXk2dDBBWA?oc=5",
-      "description": "Why the AI stock sell-off could matter far beyond Wall Street Newswav"
     },
     {
       "published": "2026-11-07T20:36:00+00:00",
@@ -35854,15 +35854,6 @@
       "description": "AI stocks erase $13.2 trillion in market value as selloff deepens Crypto Briefing"
     },
     {
-      "published": "2026-11-07T20:29:24+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Las Vegas Review-Journal",
-      "title": "Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% - Las Vegas Review-Journal",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOODVCQUV6d3Zsc2pCWWhHUWRDOVkzbVRucGpOODBJQkhtNjJMa3dTS0pkRzNuZEEyeENMOUNDNnBuc3JxTGw0ai1fQWwyc1VUcVBhbVh2bThQUTJpRHlGUmMwZkRORXQwS3MxeVR5akNaWWZIM3hPZ0Q5X0hRX1ZFS0l6bjNLSHlvY3RKTThLcVFJbko4b29NelpKYXBvamQyNjNxODNjMEtkUXZ3VG00VzdaVF9KWkhJWmUxOV81RQ?oc=5",
-      "description": "Brutal sell-off for AI stocks sends Wall Street reeling; S&P 500 tumbles 4.4% Las Vegas Review-Journal"
-    },
-    {
       "published": "2026-11-07T18:52:30+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35870,15 +35861,6 @@
       "title": "The AI Selloff Just Got Messy. Here’s 3 Ways It Can Resolve (NYSEARCA:SPY) - Seeking Alpha",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQbHVobUxpWERSX2ZDVWhrNkJKSG44YTA3SEIxMWI1cUR6YjZfZVJRS3l4ZTBxenlUSzFOMGtZMjE4OEljajJWLWhlTU9FVkpHWUxfaktaY00xM25UZU4zdU84UlRuVzRWQVNELTRrMUhNOVd5Yk9LVzZ3d0V3ajlYSDZVUGdGMV9VckgxMjNQNG5QQkRQTnpfMkFJcEFtUXM?oc=5",
       "description": "The AI Selloff Just Got Messy. Here’s 3 Ways It Can Resolve (NYSEARCA:SPY) Seeking Alpha"
-    },
-    {
-      "published": "2026-11-07T17:58:30+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "InvestorPlace",
-      "title": "The Unlikely Stock That Could “Cushion” an AI Selloff - InvestorPlace",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdE9keFdLQ0JMcFVJQVlHTUVBUWllSmh5a2oxUnNYWlVIeEdKR2tHTWRCOXlhT0xXSjJwR1F2Tk0zSXhENFNTMVI2N2FDZWlYcmR2alVBeDZrOWY4M2hQd1JmSEhFZ1BTbnh0T1BtbUJNbi1vQ05VaVRUQkRqYzZ0cEtKNEJ4X0xpTDF2VmxTT01abUFaeFZRcC1DSGFKdw?oc=5",
-      "description": "The Unlikely Stock That Could “Cushion” an AI Selloff InvestorPlace"
     },
     {
       "published": "2026-11-07T17:43:27+00:00",
@@ -36052,15 +36034,6 @@
       "description": "European shares join global sell-off after AI fears hammer Asian markets DW.com"
     },
     {
-      "published": "2026-11-07T05:59:34+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "DW.com",
-      "title": "Post-midterm AI sell-off rattles global markets amid Big Tech jitters - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFdvYWd2LXFINzR1akFoQlF2bkU5MktNNGtnMmN3aUlnTVFGc09nN3Y4eUdXQWgzOE5yQmw4SS1WVmZPcG9yZW5lOHlNTjhWOThZbUFkM2VYempBSjBja0k3SXk4M3MzLVo2S0p3V2haWXpQclhnbzhUUlVNUEQ5eC1rQnNzUlpvNlduejB0WmdPTTcyVURXVWs5X0RaQ2dQdGxNOGRBYmJ6NkU?oc=5",
-      "description": "Post-midterm AI sell-off rattles global markets amid Big Tech jitters DW.com"
-    },
-    {
       "published": "2026-11-07T06:42:48+00:00",
       "score": 6.0,
       "themes": "['India market']",
@@ -36077,6 +36050,15 @@
       "title": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead? - Livemint",
       "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPX3JOeW5Td3pxS3RrQ3BMODFYRHI0VnhlS1B3TjFaZ2Y0VkhhekJReGhFeWQ5b0hPUUVZVDRRVFd5NEJoWHVzUnFOQzZsNmhkMk9rNzJwS193U0tBdWVoRjlMVDRMa3pzMTFFbzlqUGJFcXZabk5iekVnZmlZWXRBQkpRQ0o5eW5Rc3ZTa2xVM2NwS1lFYkRNU2lKa3VjTVprMEdVSWVVQ1M2TEZfcURON2ZJaFBCM2ozeHpmTDFkYnN2Z1pkQmNWUUl6eUxMRUczclhLTGJ4ME9CQ2lnRTZZM2RpaFl3SDFQbWpQMUN2dWJ6blJBY3JQY0IxUlU3MW0xVl8yVlBQZ9IBjAJBVV95cUxPd0lZSl9aYzJWTWpkWDczTk5LdEV4c3hXbnZ2Z1MtaHZsQ1ZEZ3FoM2stRERLTVd6QUlmSzVUa1I0SnBUU3BHMXJuUmZ3ZTFBTHNHSjFiQUpkRlVpX3pPQzM1OVM1TXFvN3hyUnptLTJqNXFPNm1VWFlzSl9Da3Q4WElLN2tLQWdod2dVMkpSSkItanZsYUo3dm5HX1lXOXRISHZzVDVvRHE5VDZIUzRMN0pQZDlqeGtrQmtoX1JocXBRRVRsZVF0MEVXZFBwU21YRThtb2x6V3A3MjcxXzlOZV91Znc4UjNsSEY5OFJBUlo2SjExQzVHVC10ZnJtS0N0OEFKVTBubGNCeERw?oc=5",
       "description": "From Diwali 2025 to Diwali 2026: How Sensex, Nifty 50, rupee, crude oil changed in Samvat 2082 | What lies ahead? Livemint"
+    },
+    {
+      "published": "2026-11-08T05:30:10+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "Business Today",
+      "title": "Are SIP Investors Bailing Out FIIs? Nilesh Shah Explains India's Financialisation Trend - Business Today",
+      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQeHRwNUNCZnp3R1N4cXRra3YwbFQ0TE5qLWp3dWx1bG1mbjdvaUNJNko4MDFJWm5KLVducmJwS3F5eFp0LXZIRWU0X2FSbVpkYVVDcXFLbmR2emFaNVQtU0dILUJxWjdqUVlnQWY1d1BvcGtKNWJTSTFEQzZzNENFRnYxMTU3b01BZGQ3QWx1VURzS3A4dXZ3VDNNb012Y1hZbVZkS19ETjN4SkpGWDc4QTZuN01MYWNZV01SdEF2eE12a2VlWVJOYXBPQVc5UDViQmRPTGVuTURFUEtJZ3g1azA0MVpkRlUtX2ZKRGhB0gHzAUFVX3lxTFBKRlBBN3pSTDRzakNRd1M1WTM0aXBxelRNZXhsZjVvWEhYRDdCZld0ZWdNdGlCcC1NSzc5MTgxSkNfUnhBbTJMaUtrZDlIRFhQU0k5YlhHU2k4MVJSSzFoam1MY0FWeDVLOTAwVTlXV0dKLVZSaTZrTGdBUHZ0TWstWDltUnNBZnU2SWctZFp6bTg2T2xLTVo5ck5vWWstT3JXMmNkZUJMZXJQWUQ1V2g5amI5dkZXSHFQdnVTNXBuaWJtWVpKcDQwZGhNQjZDNDVDbG5TVjhMU21ueWotbmQ5ZTVyWThEY0xyTEFVWkRiRXIwZw?oc=5",
+      "description": "Are SIP Investors Bailing Out FIIs? Nilesh Shah Explains India's Financialisation Trend Business Today"
     },
     {
       "published": "2026-11-07T19:03:00+00:00",
@@ -36322,6 +36304,15 @@
       "description": "Samvat 2083 outlook: Stocks, sectors and levels investors should keep an eye on The Times of India"
     },
     {
+      "published": "2026-11-07T23:25:39+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Yahoo Finance",
+      "title": "Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift? - Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXc4cWk4UDFWUktmWU1yei1pNU9kdlg4WkxXbHpsMm13NjBYM3FfclRteVJwdTFuMzdkc2ZoSzFlb2U4Mi1jRTVzREg4eFV5bTFpamZiWjMxZ3RXSURFbWJWaWRCSEZITk5McnlUMGVMZThoQkNacmZiSnljcmIybWl1MGtIN0F4dmI4ZkZwS1E2SDVIdHc?oc=5",
+      "description": "Record Revenue, 52-Week Lows: Is the Massive Selloff in IREN Stock a Gift? Yahoo Finance"
+    },
+    {
       "published": "2026-11-07T19:27:58+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -36419,15 +36410,6 @@
       "title": "Anthropic IPO Valuation Talks Drop Toward $1.2T After Selloff - TronWeekly",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aZmkwZzkwVE1Ga1p3RzlxTjlFVF9JaE5rMEhLTk9SMDQ5S0ZRaGd0Z1NBTjZORGpXQzM1WWhWeC11dldXS21yT043Qm1hekxSVEU3UjNsTkJfQ3BoXzlMdFJiaTQ3MnRWdE1TSDRCT0lfU3VLcW9ReU1OWkJOc2c?oc=5",
       "description": "Anthropic IPO Valuation Talks Drop Toward $1.2T After Selloff TronWeekly"
-    },
-    {
-      "published": "2026-11-07T05:51:31+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Upstox",
-      "title": "Market weekly wrap: SENSEX jumps 6,568 pts, NIFTY50 rallies 9% as FIIs return; top factors explained - Upstox",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcmhSWUxsZmJ6Y19vbDNFdHRadjAxcWdrYU9iMTRWTnBDR0FTR21tdVJXcTBFQ1JYWmpMTHY3VmdkVGNGVU1uMmFXbnkwT3FDMjN5TU1DODg4RHhWTER0bWVPOFB5eE1uSUZ2aVNzZXZqQ3p0Sk5TMWgxSFo3SnlEZFEtWEtkLUZ2bURLdGRkc29XWk5GSU5lTEsySTJHMENGdzFRZEZwRlc3ZkJqQkJSMDF4aXMtODZXV3F4Qm1tY2dhSmpXTGVXdHhOOTRWNDhWSFJQa05FbktvMUVyVUhONWt4VE1fR093cElSMHNB?oc=5",
-      "description": "Market weekly wrap: SENSEX jumps 6,568 pts, NIFTY50 rallies 9% as FIIs return; top factors explained Upstox"
     }
   ]
 }
