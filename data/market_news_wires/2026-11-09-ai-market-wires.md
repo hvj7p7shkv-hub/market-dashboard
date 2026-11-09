@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-09 05:37
+Generated: 2026-11-09 06:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -156,7 +156,17 @@ New York Stocks Face "AI Correction" Test Ahead of CPI, CoreWeave Earnings; Dece
 
 3 AI Chip Stocks to Buy in November After the October Sell-Off Yahoo Finance
 
-### 16. Samvat 2083 outlook: 8 triggers that could turn Sensex, Nifty correction into a rally by next Diwali - The Economic Times
+### 16. Nifty 50: Global Sell-Off Turns India’s Rally Into 8.6% Weekly Gain - JournalArta
+
+- Source: JournalArta
+- Published: 2026-11-09T05:58:49+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUNXSFVZWVVKVnc0X3NLd0tlTjFHQ0k4VXJaVFF5d1cteVNTbkVNeUFyT29lX3Rlam0xZU9nWUZRUmlfOUZJai1XMGI3ZDZ2aC01aUUtV3dQZTNtWEFvTURxNEFmQUxvVlQzeVQyVVBqOEd4XzZKZnJuUU1KR0tqMmNscnVtSHZHNzFLNjZsZnMtT284X0hvVDNn?oc=5
+
+Nifty 50: Global Sell-Off Turns India’s Rally Into 8.6% Weekly Gain JournalArta
+
+### 17. Samvat 2083 outlook: 8 triggers that could turn Sensex, Nifty correction into a rally by next Diwali - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-09T04:55:45+00:00
@@ -166,7 +176,7 @@ New York Stocks Face "AI Correction" Test Ahead of CPI, CoreWeave Earnings; Dece
 
 Samvat 2083 outlook: 8 triggers that could turn Sensex, Nifty correction into a rally by next Diwali The Economic Times
 
-### 17. Sensex falls 100 points, Nifty slips below 25,000 - News Karnataka
+### 18. Sensex falls 100 points, Nifty slips below 25,000 - News Karnataka
 
 - Source: News Karnataka
 - Published: 2026-11-09T04:55:29+00:00
@@ -176,7 +186,7 @@ Samvat 2083 outlook: 8 triggers that could turn Sensex, Nifty correction into a 
 
 Sensex falls 100 points, Nifty slips below 25,000 News Karnataka
 
-### 18. Sensex falls 500 pts from day’s high, Nifty below 24,950: Profit booking among key factors behind market... - Moneycontrol.com
+### 19. Sensex falls 500 pts from day’s high, Nifty below 24,950: Profit booking among key factors behind market... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-09T04:53:42+00:00
@@ -186,7 +196,7 @@ Sensex falls 100 points, Nifty slips below 25,000 News Karnataka
 
 Sensex falls 500 pts from day’s high, Nifty below 24,950: Profit booking among key factors behind market... Moneycontrol.com
 
-### 19. Sensex falls 150 points to 80,800: Nifty also down 50 points at 24,940; IT and auto shares see the heaviest... - Bhaskar English
+### 20. Sensex falls 150 points to 80,800: Nifty also down 50 points at 24,940; IT and auto shares see the heaviest... - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-11-09T04:19:47+00:00
@@ -196,7 +206,7 @@ Sensex falls 500 pts from day’s high, Nifty below 24,950: Profit booking among
 
 Sensex falls 150 points to 80,800: Nifty also down 50 points at 24,940; IT and auto shares see the heaviest... Bhaskar English
 
-### 20. Tech Sector Attempts Fragile Comeback Following AI Regulatory Selloff - InteractiveCrypto
+### 21. Tech Sector Attempts Fragile Comeback Following AI Regulatory Selloff - InteractiveCrypto
 
 - Source: InteractiveCrypto
 - Published: 2026-11-09T04:08:57+00:00
@@ -206,7 +216,7 @@ Sensex falls 150 points to 80,800: Nifty also down 50 points at 24,940; IT and a
 
 Tech Sector Attempts Fragile Comeback Following AI Regulatory Selloff InteractiveCrypto
 
-### 21. Opening Bell: Sensex Falls 180 Points, Nifty 50 Slips Below 24,920 Amid Cautious Trading on U.S.-Iran Talks - Dalal Street Investment Journal
+### 22. Opening Bell: Sensex Falls 180 Points, Nifty 50 Slips Below 24,920 Amid Cautious Trading on U.S.-Iran Talks - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-09T04:08:33+00:00
@@ -216,7 +226,7 @@ Tech Sector Attempts Fragile Comeback Following AI Regulatory Selloff Interactiv
 
 Opening Bell: Sensex Falls 180 Points, Nifty 50 Slips Below 24,920 Amid Cautious Trading on U.S.-Iran Talks Dalal Street Investment Journal
 
-### 22. Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus - Yahoo Finance
+### 23. Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T03:48:00+00:00
@@ -226,7 +236,7 @@ Opening Bell: Sensex Falls 180 Points, Nifty 50 Slips Below 24,920 Amid Cautious
 
 Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus Yahoo Finance
 
-### 23. Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags - NDTV Profit
+### 24. Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-09T03:46:41+00:00
@@ -236,7 +246,7 @@ Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD
 
 Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags NDTV Profit
 
-### 24. UBS CEO says AI investors were 'pricing perfection' until sector's sharp correction - The Standard (HK)
+### 25. UBS CEO says AI investors were 'pricing perfection' until sector's sharp correction - The Standard (HK)
 
 - Source: The Standard (HK)
 - Published: 2026-11-09T03:00:57+00:00
@@ -245,16 +255,6 @@ Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS
 - Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNS2FhV2FlS0NwX1RqU3cweUQ1eHlPNWFMei1oSWhERTBUczdoc2N5ZFVCR3RlbEx5ajRPeFhfX1NMZjZFUHBINW5SUmhKWmwxSUhRNmc0TGhjNGZxWFpkdXAtYjVDcy1VRmNoQjctdDJXSzJZSW1HejU2QXV4X0o2OXpDS3NNTXppX3Y5UzltaUdUZ2FHV1AxMTA5b2VDMUZjOXdfN3ZVc2g5RUpHV0FJa3dCdGlfRUlTVmdFbWRtTWVWTTNTVmF2cFRsY2Z2dzJ3UE84?oc=5
 
 UBS CEO says AI investors were 'pricing perfection' until sector's sharp correction The Standard (HK)
-
-### 25. UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction - CNA
-
-- Source: CNA
-- Published: 2026-11-09T02:43:20+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxQcWFURUFoZ2xIajEwdEMwX0ZhNXVGbHBPak53MDdfdV9panVLbElLTno1T2xUVGxWWVlOM1Q1aENZbnZPTWFOMXFseUtFNmI2cmJNXzhGb0h5QmFfWkZQUXA5YjZ0d2lwbUtEd3VDRnhnY0VkaHhCRUpUWWp0UGtkNWhBSDNicHVHVUhpUmtfV0ZaQVhjNUt0OGJUcjlpb3gzMUJFbFEzZHAzaHc3ZEpXamNhcXR4M29zdm94d2VtNGhDTC1mWkdnRVRZUHJLQQ?oc=5
-
-UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction CNA
 
 ### 26. UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction - Reuters
 
@@ -506,7 +506,17 @@ Taiwan Will Limit Short Sales After AI Selloff Pushes Stocks Into Bear Market TO
 
 Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near-term correction; wait and watch BusinessLine
 
-### 51. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+### 51. AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may become midcap in H1 CY27 - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-09T05:44:27+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPWmozd3h4c3FMUGNQMVNicU01VUFlcWZjendUSy1tR2tEdWZqNEFZeXlRcDNFRm5aUE84d0lRa1pJeFJkTU94VVR5WDVfM0FvazJzQ3ZGbVpLZ2pRS3NlNk9nSW1SamcybFdqOFRxVmNqMGRiUXFodVowWTZCUjJzV292djVJY1VCZlZiLV9FNlJnMkh0aVRrd2lPTHpCYWlmR0FscXRSTmFoWHNUQWdxbmprRWlyekRLbEp5ejItNUtCZGpaeWNNeWxQNnR4TXFvVkdhSmJnbXBqREd4SXUzTlk4UDJaYk1Mb19PRGlTdDZyU2hnQmfSAfsBQVVfeXFMTzAxNkFhRlpES3B6OXFtNVFJR2J3QXVaanJVMEZRM0VyV3ViSUY0c2ZpNllIRy1oMHQxLUthOElETFJ5WGJDclFYMXpILUxvb3F0bjVVY3NuamZPSGFfYkM2UFdXd0lIY21kaVVFTWVaZDJfU3lqYWpCY2xzWllBOElPM2Jld05KcmFjRHZKaUR1NXh6dzVSYjhzUVhwYVdtWC1UdHpFS1p5Zjd2OXh1em5FRGE5aTR6dnNXdm00Q2ZIR3RuZ2ZiNll4M3BMQ2pOQS1OU1F6Vk91bGV2bzkzcWk5TmxwUzNYdnRBVG40cDhSVGlFTG1sYXEtMEU?oc=5
+
+AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may become midcap in H1 CY27 The Economic Times
+
+### 52. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-11-08T18:44:24+00:00
@@ -516,7 +526,7 @@ Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near
 
 Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
 
-### 52. Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors... - Moneycontrol.com
+### 53. Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-08T17:37:53+00:00
@@ -526,7 +536,7 @@ Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentidea
 
 Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors... Moneycontrol.com
 
-### 53. Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap surges 1% - Fortune India
+### 54. Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap surges 1% - Fortune India
 
 - Source: Fortune India
 - Published: 2026-11-08T10:33:57+00:00
@@ -536,7 +546,7 @@ Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices
 
 Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap surges 1% Fortune India
 
-### 54. Diwali 2026: How a ₹1,000 Monthly SIP Can Help Build Wealth - India Business Trade
+### 55. Diwali 2026: How a ₹1,000 Monthly SIP Can Help Build Wealth - India Business Trade
 
 - Source: India Business Trade
 - Published: 2026-11-08T09:10:10+00:00
@@ -546,7 +556,7 @@ Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap
 
 Diwali 2026: How a ₹1,000 Monthly SIP Can Help Build Wealth India Business Trade
 
-### 55. US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF - BW Businessworld
+### 56. US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-11-09T05:24:11+00:00
@@ -556,7 +566,7 @@ Diwali 2026: How a ₹1,000 Monthly SIP Can Help Build Wealth India Business Tra
 
 US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF BW Businessworld
 
-### 56. Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance
+### 57. Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T02:07:47+00:00
@@ -566,7 +576,7 @@ US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis 
 
 Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets Yahoo Finance
 
-### 57. Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert - Business Today
+### 58. Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert - Business Today
 
 - Source: Business Today
 - Published: 2026-11-09T01:05:02+00:00
@@ -576,7 +586,7 @@ Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets Yahoo
 
 Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert Business Today
 
-### 58. Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 - Livemint
+### 59. Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 - Livemint
 
 - Source: Livemint
 - Published: 2026-11-08T12:36:18+00:00
@@ -586,7 +596,7 @@ Too many mutual funds? Why three well-chosen schemes may work better than 10, ex
 
 Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 Livemint
 
-### 59. Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat - Lokmat Times
+### 60. Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat - Lokmat Times
 
 - Source: Lokmat Times
 - Published: 2026-11-08T10:57:27+00:00
@@ -596,7 +606,7 @@ Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in 
 
 Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat Lokmat Times
 
-### 60. Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event - Mile High on the Cheap
+### 61. Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event - Mile High on the Cheap
 
 - Source: Mile High on the Cheap
 - Published: 2026-11-08T09:59:10+00:00
@@ -606,7 +616,7 @@ Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive O
 
 Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event Mile High on the Cheap
 
-### 61. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - Livemint
+### 62. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - Livemint
 
 - Source: Livemint
 - Published: 2026-11-08T08:28:07+00:00
@@ -616,7 +626,7 @@ Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event Mile High
 
 Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds Livemint
 
-### 62. Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times
+### 63. Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T07:54:51+00:00
@@ -626,7 +636,7 @@ Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year
 
 Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain The Economic Times
 
-### 63. Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard
+### 64. Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-08T07:48:19+00:00
@@ -636,17 +646,17 @@ Equity mutual funds rally up to 9% in a week; banking & financial services funds
 
 Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile Business Standard
 
-### 64. These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? - The Economic Times
+### 65. These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-11-08T06:57:57+00:00
+- Published: 2026-11-08T06:36:11+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQdjIyY1lHSVo4Si1mTEEwOXJfSlc1b01tWWhEWkZ5NGxCYS02ZF81NXoxTFAzWmdvay1BT1ZzbC1MV3pudU5VSjZPLU1NOWV3ODdfMDFOS3pUOVN0UmlrMlRYU3hJd215aE1zXzJ2eGFxNE5ieEl3Y3pxUC1fanotZmJNU2l5UmpTV0lyRklMMmJpd3VkNzUxNVN1RWtiQXZycGxpcVNpTlQ1UlV2bThEblE1VnhMV2dYcUY2bS0tc3g4czZpalFWeGlabU5VY05qS00tbzhJYS1BeEtEX1NXNXZKbGRoa0dwcUdhZGFrRHJDMUozUFNfNmxYVVFsY1c4OHR4NEFaMnBwckVLdHZLN2l6ZUNRNGlnNkx6ZA?oc=5
+- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPWXN6cDdmbU5BZ0hUZ1JsZS1XM2xaVUhBODRsNlRzWGZ6Snk4b0RVUXlGMFVXXzR2ZGstUkxfSGFVa1pscF9ZZTlZeTFIYXRFUmNBLUpmdDcwS2E4MklIY0M1UmFxb2lIOXdFbjFqZHpaamVUTXg1Wkk4elE4ZzNaS2tLV3FrcE1XYnhtVnBaS2UzWTBGS0tGNFJFNzhEdmZzUUZQSHdvcnBfT0xUbHlzWE1va0xBY3Y2cE5JUmVPRGliQ2hsYW1rcXBrQW9IQ1hNQ1RneTY3V3psRTFMWHZLZ1FLV191LWdSZVZiX0FGeURRdkFoOEtV?oc=5
 
 These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? The Economic Times
 
-### 65. Deutsche Bank's India Exit Clears a Hurdle While Frankfurt Frets Over AI - ad-hoc-news.de
+### 66. Deutsche Bank's India Exit Clears a Hurdle While Frankfurt Frets Over AI - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-09T05:31:19+00:00
@@ -656,7 +666,7 @@ These 14 equity mutual funds lost over 5% since last Diwali. Were they part of y
 
 Deutsche Bank's India Exit Clears a Hurdle While Frankfurt Frets Over AI ad-hoc-news.de
 
-### 66. GIFT Nifty 55 pts Higher Points to Firm Open for Sensex, Nifty - JournalArta
+### 67. GIFT Nifty 55 pts Higher Points to Firm Open for Sensex, Nifty - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-09T05:30:42+00:00
@@ -666,7 +676,7 @@ Deutsche Bank's India Exit Clears a Hurdle While Frankfurt Frets Over AI ad-hoc-
 
 GIFT Nifty 55 pts Higher Points to Firm Open for Sensex, Nifty JournalArta
 
-### 67. Sensex, Nifty open higher amid positive global cues - Telangana Today
+### 68. Sensex, Nifty open higher amid positive global cues - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-11-09T04:21:21+00:00
@@ -676,7 +686,7 @@ GIFT Nifty 55 pts Higher Points to Firm Open for Sensex, Nifty JournalArta
 
 Sensex, Nifty open higher amid positive global cues Telangana Today
 
-### 68. Stock Market Rally Fizzles Out As Bears Take Control Of D-Street, Sensex Sheds 150 Points While Nifty - Free Press Journal
+### 69. Stock Market Rally Fizzles Out As Bears Take Control Of D-Street, Sensex Sheds 150 Points While Nifty - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-09T04:08:34+00:00
@@ -686,7 +696,7 @@ Sensex, Nifty open higher amid positive global cues Telangana Today
 
 Stock Market Rally Fizzles Out As Bears Take Control Of D-Street, Sensex Sheds 150 Points While Nifty Free Press Journal
 
-### 69. "Don't Sell in Panic": Brokerages Say Selloff Is Flows, Not Fundamentals - Seoul Economic Daily
+### 70. "Don't Sell in Panic": Brokerages Say Selloff Is Flows, Not Fundamentals - Seoul Economic Daily
 
 - Source: Seoul Economic Daily
 - Published: 2026-11-09T01:16:32+00:00
@@ -696,7 +706,7 @@ Stock Market Rally Fizzles Out As Bears Take Control Of D-Street, Sensex Sheds 1
 
 "Don't Sell in Panic": Brokerages Say Selloff Is Flows, Not Fundamentals Seoul Economic Daily
 
-### 70. Muhurat Trading: Sensex, Nifty break 9-year Diwali streak; why the rally fizzled - IndiaIPO
+### 71. Muhurat Trading: Sensex, Nifty break 9-year Diwali streak; why the rally fizzled - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-08T14:33:38+00:00
@@ -706,7 +716,27 @@ Stock Market Rally Fizzles Out As Bears Take Control Of D-Street, Sensex Sheds 1
 
 Muhurat Trading: Sensex, Nifty break 9-year Diwali streak; why the rally fizzled IndiaIPO
 
-### 71. editors take trump iran war risk fii buying market rally - Zee Business
+### 72. Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do? - Livemint
+
+- Source: Livemint
+- Published: 2026-11-09T05:52:10+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxPenFIQjZEUTg1S3hVY3FlVjJBUVg2NnVJR1gwcEZxRWRnOHBVS2FRYkkxRFpxRWxRZk5GVkJpR2x1cURXWDJFZHVSZzRIXzVjSi15bmpzZ2l0QjFPdlRhaDBjb0RZb0N5cWlRbUVPWVlTaFhvcDJCcFUzX3Zwc2R1VGVGYlpSbWxIdTRORy04M25VSkU2bmFPaUJITGU4cjhEZEpvSmExaUtFc205d1dILXkzUUtnN0hrT2FLdTh0Z3dtVmYzUV9WSmJnZ2dyZTV2N1dfOFBfZFZpdlhlM0lQR1lvNXdFd2xaR1NVVFBsSi02OVZMeG1wTVoyTzlNd9IBgwJBVV95cUxPWWh0VEFPVFhESlBGYXNoYmxBLXAwNGhtY1RUa3hKZ2JXbTl4aTdJNVdhMlBoUnF0bWpCSzllSERDVTgwSjVfVzRPekw0XzlqUWtHY19KYXNIaFRvU3BsX3ZLaHV5R21LcUhOendJY1QtRE1EMTF5OHRJdl9HTWhnakZkaFljMHdRbk9QOTVVRHpHVmhER0V3a2dwLVY3U2djS0xVTzU5RnAtMXltWjlrQ19wX0F4cDdQc1ZXd1c2Yk5EM1BQa1ZzRktOYk8zeDdjU21QbTVaRGpyTDVvNXhfeFhtZFVOWmV2WURPaWJoU0Q5R1hxMDlxU19YSjFLVmdTNVFr?oc=5
+
+Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do? Livemint
+
+### 73. Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com
+
+- Source: Bloomberg.com
+- Published: 2026-11-09T05:04:00+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5
+
+Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com
+
+### 74. editors take trump iran war risk fii buying market rally - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-09T04:51:01+00:00
@@ -716,7 +746,7 @@ Muhurat Trading: Sensex, Nifty break 9-year Diwali streak; why the rally fizzled
 
 editors take trump iran war risk fii buying market rally Zee Business
 
-### 72. Asian markets bounce back after a recovery for AI stocks on Wall Street - Yahoo Finance
+### 75. Asian markets bounce back after a recovery for AI stocks on Wall Street - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T04:22:34+00:00
@@ -726,17 +756,7 @@ editors take trump iran war risk fii buying market rally Zee Business
 
 Asian markets bounce back after a recovery for AI stocks on Wall Street Yahoo Finance
 
-### 73. Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-11-09T04:10:00+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQR1JWME4tcFN3Vlh6UlhVeEN3c2FlRUFkUWRrczJ6OUZ1QWRkRndtMy1nZFhBaU5Lc0dzaXU2ZjJnNUtwN2RSa3dyLXlwUV9QanZmaC1Wb2xhbUVZekZhaXdXZkpSazFDVnJqZWIweWtvdGczQi0xTnB1aEhiSy00aVFsMWdYaE1sRkN3NlU2YmVJdzhv?oc=5
-
-Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com
-
-### 74. The Third Correction in Trump 2.0 Years - Bloomberg.com
+### 76. The Third Correction in Trump 2.0 Years - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-09T04:04:18+00:00
@@ -746,7 +766,7 @@ Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com
 
 The Third Correction in Trump 2.0 Years Bloomberg.com
 
-### 75. A painful correction: how ‘Blue Wave’ fears and macro shocks triggered Wall Street’s reality check - The Standard (HK)
+### 77. A painful correction: how ‘Blue Wave’ fears and macro shocks triggered Wall Street’s reality check - The Standard (HK)
 
 - Source: The Standard (HK)
 - Published: 2026-11-08T19:34:25+00:00
@@ -756,7 +776,7 @@ The Third Correction in Trump 2.0 Years Bloomberg.com
 
 A painful correction: how ‘Blue Wave’ fears and macro shocks triggered Wall Street’s reality check The Standard (HK)
 
-### 76. MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times
+### 78. MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T19:18:40+00:00
@@ -766,7 +786,7 @@ A painful correction: how ‘Blue Wave’ fears and macro shocks triggered Wall 
 
 MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates The Economic Times
 
-### 77. Stock market on Monday: Nifty support levels, US tech rebound and stocks to watch after Muhurat session - ET Now
+### 79. Stock market on Monday: Nifty support levels, US tech rebound and stocks to watch after Muhurat session - ET Now
 
 - Source: ET Now
 - Published: 2026-11-08T16:46:51+00:00
@@ -776,7 +796,7 @@ MCX India Share Price Today, MCX India Stock Price Live NSE/BSE Updates The Econ
 
 Stock market on Monday: Nifty support levels, US tech rebound and stocks to watch after Muhurat session ET Now
 
-### 78. Market Musings 071126: Not the end for the AI investment boom - Stockopedia
+### 80. Market Musings 071126: Not the end for the AI investment boom - Stockopedia
 
 - Source: Stockopedia
 - Published: 2026-11-08T16:15:35+00:00
@@ -785,23 +805,3 @@ Stock market on Monday: Nifty support levels, US tech rebound and stocks to watc
 - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxPX2pzX3Q3ZzBWb21jY0g4ZkxKanZ1b09IYXJ6YWRCemdqMktLdVMzLWx4RWFKZjMyakp2ZjFMdmM5REtWSUpUZDJwV3c3bkR3aU1yUE5ua1lyNUZCMjYxcDdDY1k0ellTVk9xZnBweFYxVHE3VlhBT0RhWmQ4MllWVEQzczRULVBWQkdRaVRjZTlaVUZVZWdwSnktYzU3SnlPU3RPUUpKVWg?oc=5
 
 Market Musings 071126: Not the end for the AI investment boom Stockopedia
-
-### 79. ‘Hard to recover the investment’: Gita Gopinath warns $1 trillion AI bet could correct, flags US recession risk - Livemint
-
-- Source: Livemint
-- Published: 2026-11-08T12:37:26+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeU9haW9pbDFqQVByX1lzR2lZUHJEZE5vWVZiazBqQ2xLVTduNU55MmFla1RQY1NFeGNMcFluUndhTGRLdWk2SlFGYlhVLWJlYWtlWk81RVJHMmtkbm1XRW5JYVFYSVZsbnc0aGJfN0sxQVBYdVBLTGF6ZjI0dVlWWk1rTEhrOXRGSWVIRmJaWGxkb0MtTWpjNUE4WllRQjN4RWRYeVpFdFpnVkhELW40NUdYS0dhbXJTeFlfekVmQ0wxMkdTQjkxLXp4WWdXLUJLM0EzcEVMN2M2T1dXM29KNVlJRmNHUG1nc2ZNQTJ30gHzAUFVX3lxTE40WXBlWEhheTN2WjFKRzhLaV82a3Bpc2RmcVF6UHB5aXk2NFhkbk80RVZrOUFwOXI3WFY5Q0oyRHUteXVzMTB2X1BYQ2hOek1CVC1IOEFmRVZ2c0tYZzh0eUpfVU55bFBIX2pScWVwZDAtVDJrU191eTFWZkJ0bFVkd0IwNV90LXdZZUstLU1KVWlWS2V2bVMxd2FNN2NGMW1RN2l3M2VCN2FwVUJCcDVjcV9JdTdpVWFvQ2U5VlE2VjVYSk5zMW9NV3dDLWxjQ0w1TEdqNXhJR3ZZbXc3eFBUei1sTmRFZU9FODh4d2hCaExvSQ?oc=5
-
-‘Hard to recover the investment’: Gita Gopinath warns $1 trillion AI bet could correct, flags US recession risk Livemint
-
-### 80. As Nasdaq Slips Into Correction, Cathie Wood Adds to Positions, Says 'The More the Market Worries, the Longer the Bull Runs' - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-08T10:08:51+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE45ZnZrQ0h1Sko1VTFCMk1aUmlaRmRLbF9FQkpaeVlETEJWUkZ5U2hSS0NEVFVYRHItZGlDZHBUUXlNQVBWTDVzUkJJajhVQjZwZUdocjc5enpQa0ROb19handUWmZUdFdFYTZCSDZlR2ZHMjluMEE?oc=5
-
-As Nasdaq Slips Into Correction, Cathie Wood Adds to Positions, Says 'The More the Market Worries, the Longer the Bull Runs' BigGo Finance
