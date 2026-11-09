@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-09 06:37
+Generated: 2026-11-09 07:07
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -256,7 +256,17 @@ Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD
 
 Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS Top Drags NDTV Profit
 
-### 26. UBS CEO says AI investors were 'pricing perfection' until sector's sharp correction - The Standard (HK)
+### 26. GLOBAL MARKETS-Wall Street stocks rally after heavy AI-related selloff - Metrobank Wealth Insights
+
+- Source: Metrobank Wealth Insights
+- Published: 2026-11-09T03:05:35+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGZHMWd6ODlETUVDVmJMMVA5dW9XX3RmVW9oY3M3d0stUlFuVzVBVUkyN0tTT2hpZXNRWlNyaFNOemZiMEFaLTVDY1daWkNvemJCR0tvWUFoaEJNR1dNMmh2d29YNExJel9ubUFSbEluVDhBM1h4Z1ZiTTFTU2J6VnNiR0N3U3JKcU5sWUlXRUJiWXEwejJZdDBqU2diaEp6QTdIQWNmamExNEt6RktPQTBKYUdpUQ?oc=5
+
+GLOBAL MARKETS-Wall Street stocks rally after heavy AI-related selloff Metrobank Wealth Insights
+
+### 27. UBS CEO says AI investors were 'pricing perfection' until sector's sharp correction - The Standard (HK)
 
 - Source: The Standard (HK)
 - Published: 2026-11-09T03:00:57+00:00
@@ -266,7 +276,7 @@ Stock Market Today: Sensex Drops, Nifty 50 Around 24,900; HCL Tech, Infosys, TCS
 
 UBS CEO says AI investors were 'pricing perfection' until sector's sharp correction The Standard (HK)
 
-### 27. UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction - Reuters
+### 28. UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction - Reuters
 
 - Source: Reuters
 - Published: 2026-11-09T02:43:00+00:00
@@ -276,7 +286,7 @@ UBS CEO says AI investors were 'pricing perfection' until sector's sharp correct
 
 UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp correction Reuters
 
-### 28. Gita Gopinath warns of correction in AI boom - Social News XYZ
+### 29. Gita Gopinath warns of correction in AI boom - Social News XYZ
 
 - Source: Social News XYZ
 - Published: 2026-11-09T02:03:14+00:00
@@ -285,16 +295,6 @@ UBS CEO says AI investors had been pricing for 'perfection' until sector's sharp
 - Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdDk3NHFnYUsyWHhlTi02QjB5d0xQcjZ1SmwwQ0hPSXVxS1FmUHYwcXA2dUN2dGpvamZnZVQyaWRsMC1JWXNxQldCS0N0SkZrOUZBLWdENVlldEpSZG9LNGpjbTF2UGVZam43UzhQNVJGdEpWMzdqZTNxQ0ZFaTVsZjNabEctamI4bjlV0gGLAUFVX3lxTE50OTc0cWdhSzJYeGVOLTZCMHl3TFByNnVKbDBDSE9JdXFLUWZQdjBxcDZ1Q3Z0am9qZmdlVDJpZGwwLUlZc3FCV0JLQ3RKRms5RkEtZ0Q1WWV0SlJkb0s0amNtMXZQZVlqbjdTOFA1UkZ0SlYzN2plM3FDRkVpNWxmM1psRy1qYjhuOVU?oc=5
 
 Gita Gopinath warns of correction in AI boom Social News XYZ
-
-### 29. GLOBAL MARKETS-Wall Street stocks rally after heavy AI-related selloff - Metrobank Wealth Insights
-
-- Source: Metrobank Wealth Insights
-- Published: 2026-11-09T00:53:03+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNVGZHMWd6ODlETUVDVmJMMVA5dW9XX3RmVW9oY3M3d0stUlFuVzVBVUkyN0tTT2hpZXNRWlNyaFNOemZiMEFaLTVDY1daWkNvemJCR0tvWUFoaEJNR1dNMmh2d29YNExJel9ubUFSbEluVDhBM1h4Z1ZiTTFTU2J6VnNiR0N3U3JKcU5sWUlXRUJiWXEwejJZdDBqU2diaEp6QTdIQWNmamExNEt6RktPQTBKYUdpUQ?oc=5
-
-GLOBAL MARKETS-Wall Street stocks rally after heavy AI-related selloff Metrobank Wealth Insights
 
 ### 30. Sensex & Nifty fall in Muhurat trade for first time since 2017 - The Economic Times
 
@@ -512,7 +512,7 @@ Taiwan Will Limit Short Sales After AI Selloff Pushes Stocks Into Bear Market TO
 - Published: 2026-11-09T04:55:50+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxOMlJFZTFHbHY3RDd2WE5rYW1SNEd5ellBQVIwdVhXdHdoNXoxVkM0QWlCWWhLQS0tRHpiRVZfU0ZSZUlQdkV3WnNSeE9kYURUdGJlRWZ1TkRUUXI0YU1Zd1REbF9lN3VyYWExTHV2dWxPNkRUZlN3bjRGNEI2T3k1WUp3NERma3RvbDFWdlRhR25aVTN6V09lM0JaazFFbjJkNG04ZGU5eVlkWEtfMk1RMTZDT0lGQzJBRHZfTFI2Qk9odjZNTDZtRkVSNUdzbTQxLThrTjZwX2ZRbmJKN2tuVkxuTWdJWnI2NjhDeERUV2MzNDFrcGVMSGZhM041T0xqbF8zNDVkYkFTWkRSLUtnZ1pva1NodWpjUUHSAaACQVVfeXFMUE5FUV9NRUd4aUxBdXJrcjV2SmVyajJpa2VOcnJtZWZ3SWNTbVdEMkJBRHV6LV9YeGcxLUEweTBOOEF6X0VPalMyalZjZGZUa3pnajVOZ1BsRDdPaFRYNWE4T3VobmxsNm9HeWNJQktSZ1Y2ZmJqUjBPSUdmV2NpTXFsSHktc1doRDFwNVNFTmpMN3J5Yy1zdTNKT3diRU9GWC1Lb2o5bHFvZWFESEtqX3I1ZUpZVTdOZlpGUllQR0JsLWtfdnV6dnN0cktzRmpHWlBweGNoSzN3dUlyUm1EYzBDSkF6R004elB4V2IycjFISWxQbnUyeTRSVm5GS2x1Ujk1MFMzeU1Oc21BZ0xTeUdrTk80U3BpU1hTZzNGN19l?oc=5
+- Link: https://news.google.com/rss/articles/CBMioAJBVV95cUxQTkVRX01FR3hpTEF1cmtyNXZKZXJqMmlrZU5ycm1lZndJY1NtV0QyQkFEdXotX1h4ZzEtQTB5ME44QXpfRU9qUzJqVmNkZlRremdqNU5nUGxEN09oVFg1YThPdWhubGw2b0d5Y0lCS1JnVjZmYmpSME9JR2ZXY2lNcWxIeS1zV2hEMXA1U0VOakw3cnljLXN1M0pPd2JFT0ZYLUtvajlscW9lYURIS2pfcjVlSllVN05mWkZSWVBHQmwta192dXp2c3RyS3NGakdaUHB4Y2hLM3d1SXJSbURjMENKQXpHTTh6UHhXYjJyMUhJbFBudTJ5NFJWbkZLbHVSOTUwUzN5TU5zbUFnTFN5R2tOTzRTcGlTWFNnM0Y3X2XSAaACQVVfeXFMUE5FUV9NRUd4aUxBdXJrcjV2SmVyajJpa2VOcnJtZWZ3SWNTbVdEMkJBRHV6LV9YeGcxLUEweTBOOEF6X0VPalMyalZjZGZUa3pnajVOZ1BsRDdPaFRYNWE4T3VobmxsNm9HeWNJQktSZ1Y2ZmJqUjBPSUdmV2NpTXFsSHktc1doRDFwNVNFTmpMN3J5Yy1zdTNKT3diRU9GWC1Lb2o5bHFvZWFESEtqX3I1ZUpZVTdOZlpGUllQR0JsLWtfdnV6dnN0cktzRmpHWlBweGNoSzN3dUlyUm1EYzBDSkF6R004elB4V2IycjFISWxQbnUyeTRSVm5GS2x1Ujk1MFMzeU1Oc21BZ0xTeUdrTk80U3BpU1hTZzNGN19l?oc=5
 
 Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near-term correction; wait and watch BusinessLine
 
@@ -566,17 +566,27 @@ Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap
 
 Diwali 2026: How a ₹1,000 Monthly SIP Can Help Build Wealth India Business Trade
 
-### 57. US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF - BW Businessworld
+### 57. Sip & Shop Artisan Market - Castanet Kamloops
+
+- Source: Castanet Kamloops
+- Published: 2026-11-09T07:07:06+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE96UWZ2eXRWTi1EVGNkZklHbm1MdVNzYnI4QUNkUHZLM1ZyeW80N2t4eXI1YW5jVFRtU1hTMXFQcEs1QlkzcVNGelBLSDRPcm1najY5Wk5GWFQycHB3RExCbDRhMFZDeWJBMHR6NjNmbzNVMjZNN0xQVmJR?oc=5
+
+Sip & Shop Artisan Market Castanet Kamloops
+
+### 58. US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF - BW Businessworld
 
 - Source: BW Businessworld
-- Published: 2026-11-09T05:24:11+00:00
+- Published: 2026-11-09T05:27:54+00:00
 - Themes: India market, macro / flows
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkR3YjhBYklfS19fbW9jcGY2dHhQUTFZWTdTOUdrcGN6bU9TRFdZcjRtdnRuQ2ZSeURSZ2tkc1l2QjlfUTlVRjVvNkFXYS00XzZoVnFZeGRjVExZd1BLWTRhVFhqZ195dl9CYTcyRDAzWlU1TF9nLXZkbTlMVklWSW9tM3RCbmxIVXk3UmcwbHdtQUJnNldrdjg0N2pZN1A2Y1B0QWFBcktwZ2M1R1BVWDM5XzhaYnFSdW5QbU9INA?oc=5
 
 US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF BW Businessworld
 
-### 58. Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance
+### 59. Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T02:07:47+00:00
@@ -586,7 +596,7 @@ US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis 
 
 Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets Yahoo Finance
 
-### 59. Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert - Business Today
+### 60. Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert - Business Today
 
 - Source: Business Today
 - Published: 2026-11-09T01:05:02+00:00
@@ -596,7 +606,7 @@ Asian stocks steady as AI, Mideast jitters recede; dollar firm on Fed bets Yahoo
 
 Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert Business Today
 
-### 60. Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 - Livemint
+### 61. Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 - Livemint
 
 - Source: Livemint
 - Published: 2026-11-08T12:36:18+00:00
@@ -606,7 +616,7 @@ Too many mutual funds? Why three well-chosen schemes may work better than 10, ex
 
 Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 Livemint
 
-### 61. Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat - Lokmat Times
+### 62. Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat - Lokmat Times
 
 - Source: Lokmat Times
 - Published: 2026-11-08T10:57:27+00:00
@@ -616,7 +626,7 @@ Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in 
 
 Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat Lokmat Times
 
-### 62. Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event - Mile High on the Cheap
+### 63. Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event - Mile High on the Cheap
 
 - Source: Mile High on the Cheap
 - Published: 2026-11-08T09:59:10+00:00
@@ -626,7 +636,7 @@ Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive O
 
 Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event Mile High on the Cheap
 
-### 63. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - Livemint
+### 64. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - Livemint
 
 - Source: Livemint
 - Published: 2026-11-08T08:28:07+00:00
@@ -636,7 +646,7 @@ Free Clothes, Free Books & Grocery Discounts at Shop, Swap & Sip Event Mile High
 
 Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds Livemint
 
-### 64. Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times
+### 65. Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-08T07:54:51+00:00
@@ -646,7 +656,7 @@ Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year
 
 Equity mutual funds rally up to 9% in a week; banking & financial services funds top the chart. Check 8 funds with over 8.5% gain The Economic Times
 
-### 65. Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard
+### 66. Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-08T07:48:19+00:00
@@ -655,16 +665,6 @@ Equity mutual funds rally up to 9% in a week; banking & financial services funds
 - Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxQUzliN293RkVNVmZtTHdMWTFjN0RSaXVubVJDa1YtNzZZSUw3MFFXQVo1UnJfT25CY01HVnFNckVQblh4bUszWmNhbkFMN2dsTVc3c1hFRC1vSlkxVHpjSU5JMVd0bDFDZjJVSHo0aDk1UzNOdGd4UkVTNG9lZ3UtNHFtWWh2WjYyRVJOQ01iTlJlaGcwY1NzRzBfMkdsQWU2RVUzaXJOdkFvUTc2cGlTa2lFcFhBVUE4WDc2eEIyOGl5M1EyLXIwWjlUTlJGTjB1V1BUMGJINzIxaVgwS0FSMU5HOFo0bjFJajdEU2dNTFlQOWRTczhZZVFQMzfSAYICQVVfeXFMTm9hMkd3MnQ2bUdEd0ZjZmQxdF9QVmFIS2lfV0VqU1d0aTVyTkptd1BfR21uTVhQTHBSVHNQVG51SElUeDllZHdwWTY3aFBDTlRRc0MwOTBod1ozYUMybXhvMVMwSE5VaEh0YlY3YzByNWZ1MGFwMmsxbmVESThaQUFManM0MXFLQTBmcVMwVXdnRHdweXpGS2dpdXpNWkotR2NWeGZESUtyYlFVY0dpbXdfTGpUYUJnRGFzUE91b0s1Mk5QcEhfMU1jOGM0bk95UHp2dmJUOWxBV2c3dzVpejhLbWJPM2VZb2t4TFdWenpHcXE2djF2TFc5bEx0bENhclpn?oc=5
 
 Samvat 2083: Oil prices, FPI flows to keep Indian equities volatile Business Standard
-
-### 66. These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-08T06:57:57+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQdjIyY1lHSVo4Si1mTEEwOXJfSlc1b01tWWhEWkZ5NGxCYS02ZF81NXoxTFAzWmdvay1BT1ZzbC1MV3pudU5VSjZPLU1NOWV3ODdfMDFOS3pUOVN0UmlrMlRYU3hJd215aE1zXzJ2eGFxNE5ieEl3Y3pxUC1fanotZmJNU2l5UmpTV0lyRklMMmJpd3VkNzUxNVN1RWtiQXZycGxpcVNpTlQ1UlV2bThEblE1VnhMV2dYcUY2bS0tc3g4czZpalFWeGlabU5VY05qS00tbzhJYS1BeEtEX1NXNXZKbGRoa0dwcUdhZGFrRHJDMUozUFNfNmxYVVFsY1c4OHR4NEFaMnBwckVLdHZLN2l6ZUNRNGlnNkx6ZA?oc=5
-
-These 14 equity mutual funds lost over 5% since last Diwali. Were they part of your portfolio? The Economic Times
 
 ### 67. Sensex, Nifty open lower as IT stocks drag, investors book profits after sharp rally - PSU Watch
 
@@ -736,15 +736,15 @@ Stock Market Rally Fizzles Out As Bears Take Control Of D-Street, Sensex Sheds 1
 
 Muhurat Trading: Sensex, Nifty break 9-year Diwali streak; why the rally fizzled IndiaIPO
 
-### 74. Strong FII buying, stable macro-outlook to support equities ahead of Budget: Axis Directs Hemang Gor - The Tribune
+### 74. Indian Stock Markets Gain Momentum Driven by Strong FII Inflow Surge - Asianet Newsable
 
-- Source: The Tribune
-- Published: 2026-11-09T06:17:30+00:00
+- Source: Asianet Newsable
+- Published: 2026-11-09T06:20:07+00:00
 - Themes: India market
 - Score: 1
-- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSDVuMW1JMU5CMjNkSjUyWnVPNzVJWWFGV3BtXzlqOUZPZHQtY2Y5TllTSGo4OHRLbjl4aHlsR20zWk1IR1RXekN0TUFlbE5ZZks2eEVYUk83UC1mUklVb2gyQlFybThsRDhDSW1HVnJmQnBxeHRDVmNjYkY2ZlNOOVlwcDJ1T0Q1NWVObkJVOWtzelVGaFJQQklsbWF4TzVzakJ0em9SUzc2SXVvNWhZdl9zSkRCbDdibEMtOVVOaXJTUnhLbUV0Q25DcW9rVVczQW93WldRb3FQd9IB3gFBVV95cUxOTWFJZ0Jkb2hvNGVFb1ZOVTlYLTNYcVEwbkZ4eXpLZFZKeXJFZVJTRWRzNUVpYXY1YXBHdDN2Vm83aUlHZUFxeGtWbW10UTg5S2dMWDYtSHRDZWpFNHZCWDloam1IMTlPX1VaNGFieExyRjR3M1JKaDI1dlVnT005TzIwWkVzQkRDdlo5eUQ5WmxUZkNodXN2aVhnMkxjSWxraHgzZzhFdHdrYktvZHQzOTFSRTMxdjRWcmNtYktRZlRacG4xalNFRFdKdS14eGRpV0lZMW9obG0zcmt4elE?oc=5
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNUGNPamxEOTdOVXFOdWc2YThFZXR4VkZiUmJsaHByZ0Rlb0dOQko2TllyR1dCNGtjUkFTcmVqR3NPMkdBQUg3bHZaZngwQzREdDh2UHFuX2FILXVhMUZCd3JpR29WczVjTkhzMHB2UjdybDE0TjdLUmFnVGsyM3JvcHF3VlY2MlZLZFBKenN2dWxtVW1pN1J1RGNjeVIwWmJUYnBvRzF2SldOVzE1UTZBQVpzV2dLLU1iV3J5UmFaWnFPeXBEZ3kxNm530gHPAUFVX3lxTE91UTg4UHBvT3o2QXFQWExSRDMxUE5tMldDcGVxN0ljUURlcDkyNndOckxYTXNjQmhZMG1FOGxXMzdQc2Y5NDRZQktTc0pxMGQ1NkkyLXU3cnA1S3AxQWZXYWIwWVRtZkdSeHBrRGlUeXNCVGxvUE0xOUNMUFJuUnItZ2NZMGhOOEFUMkFibEF1aE5OdGN3VnM4OWs0aW1JaS1ZMlNLTjB5eGdibjNiZ2t0bkFOWXhYb1pkZHRaU1gwQmdRR2FOLUVQWVRReG5rRQ?oc=5
 
-Strong FII buying, stable macro-outlook to support equities ahead of Budget: Axis Directs Hemang Gor The Tribune
+Indian Stock Markets Gain Momentum Driven by Strong FII Inflow Surge Asianet Newsable
 
 ### 75. History Suggests Last Week's Selloff Was a Buying Opportunity - State Street SPDR S&P 500 ETF Trust (ARCA - Benzinga
 
@@ -756,7 +756,17 @@ Strong FII buying, stable macro-outlook to support equities ahead of Budget: Axi
 
 History Suggests Last Week's Selloff Was a Buying Opportunity - State Street SPDR S&P 500 ETF Trust (ARCA Benzinga
 
-### 76. Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do? - Livemint
+### 76. IBM Pushes Deeper Into Quantum and AI Governance as Shares Edge Lower - ad-hoc-news.de
+
+- Source: ad-hoc-news.de
+- Published: 2026-11-09T05:53:20+00:00
+- Themes: AI / tech risk
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi2AFBVV95cUxPSnBubjBtM1cyVTRfX2pjQ0FUVVk0OU40bHFiWmxfNEpCeEpqMnM3MkdJMnQ5WjZ5QWs4ZnM4MWF4TUFPTzkxd2J5UjBCaVBKeWQ5ZS1BZGtwMUJtNEE4dkFuNURNczBaN2tjSktnS09keS1xX2o4MHAyeURKQjEzekZZYmNrVHZJSWdFNFlSOTB4Sm5sbWFjN19VSzN2VHdtc2FoVXFaNjB2dmdyNTFhZms5TWRVcWprYWRtb0xvLWt5NkJTcGFlV1BKblU4M1VKQ3VZQ2gtV28?oc=5
+
+IBM Pushes Deeper Into Quantum and AI Governance as Shares Edge Lower ad-hoc-news.de
+
+### 77. Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do? - Livemint
 
 - Source: Livemint
 - Published: 2026-11-09T05:52:10+00:00
@@ -766,7 +776,7 @@ History Suggests Last Week's Selloff Was a Buying Opportunity - State Street SPD
 
 Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | What should investors do? Livemint
 
-### 77. Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com
+### 78. Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-09T05:04:00+00:00
@@ -776,7 +786,7 @@ Bosch shares falls 3% after stock split, bonus issue, Q2 results announcement | 
 
 Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com
 
-### 78. editors take trump iran war risk fii buying market rally - Zee Business
+### 79. editors take trump iran war risk fii buying market rally - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-09T04:51:01+00:00
@@ -786,7 +796,7 @@ Asian Markets at Risk of Pressure on Nvidia Probe: Markets Wrap Bloomberg.com
 
 editors take trump iran war risk fii buying market rally Zee Business
 
-### 79. Asian markets bounce back after a recovery for AI stocks on Wall Street - Yahoo Finance
+### 80. Asian markets bounce back after a recovery for AI stocks on Wall Street - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T04:22:34+00:00
@@ -795,13 +805,3 @@ editors take trump iran war risk fii buying market rally Zee Business
 - Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeVZFbUc0WkhmYlNnT0NqVThldDJrczRXVmdkbnM0eDIwbFkwQTVBQXhSelJsNmRKYWgyemQwOEZjdXJtd0Q5MVpxTzJHd0Y4VlVhYVVFaERibG5RM2tuR2xST0cwMUdvMHpOQjhiSHBNNUNQZm1jS1pSOUcyLU5mM2dnNUotQ3JvQ2d5QThvTU55RXk4bmlrTHR5cW9vdWJTYlBWdkYteU1hZw?oc=5
 
 Asian markets bounce back after a recovery for AI stocks on Wall Street Yahoo Finance
-
-### 80. The Third Correction in Trump 2.0 Years - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-11-09T04:04:18+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDFXSXdKalFHcGhlZ1lrRXVUd3Y0VWVfTlpvbXhidl94RjdPMzBNODQ1NkQ4OGFJd3hDMWdKWmJSQ2ZhOVQ1bnhSNHEwOWx3MkZvZ0Y5cmoyRUVWY1hUSTVzVllpMmlBUnE0Ymtwek9IenJjREJIQk04QlA1LU9SODM5TENBdXl6VFE3OFk4cDlMX1BMUmwweVBxREllUzNn?oc=5
-
-The Third Correction in Trump 2.0 Years Bloomberg.com
