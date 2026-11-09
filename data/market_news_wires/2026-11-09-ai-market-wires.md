@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-09 10:07
+Generated: 2026-11-09 10:37
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,17 +26,7 @@ FPI Inflows of Rs 46,000 Crore: AI Sell-Off Helps India Univest
 
 GIFT Nifty Rises Over 100 Points: Sensex, Nifty Eye Positive Start As Asian Markets Recover From AI Selloff News18
 
-### 3. Asia’s richest banker sees AI correction boosting flows to India - The Edge Malaysia
-
-- Source: The Edge Malaysia
-- Published: 2026-11-08T22:21:37+00:00
-- Themes: AI / tech risk, market selling, India market, macro / flows
-- Score: 13
-- Link: https://news.google.com/rss/articles/CBMiUEFVX3lxTFA5OWk5NkYzUDFnZTMxZ2QtZHBHdE5NcjJ5MmNOamVaZjNLZ2tSY3VUN2VLcmhrRUJDUE1nOHg1cUtpdVpOM1lYTk53SHBTZU9N?oc=5
-
-Asia’s richest banker sees AI correction boosting flows to India The Edge Malaysia
-
-### 4. Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - India's News.Net
+### 3. Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week - India's News.Net
 
 - Source: India's News.Net
 - Published: 2026-11-08T12:04:00+00:00
@@ -46,7 +36,7 @@ Asia’s richest banker sees AI correction boosting flows to India The Edge Mala
 
 Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity inflows this week India's News.Net
 
-### 5. Global AI Rout and AI Sell-Off: What It Means for India - Univest
+### 4. Global AI Rout and AI Sell-Off: What It Means for India - Univest
 
 - Source: Univest
 - Published: 2026-11-09T07:19:00+00:00
@@ -56,7 +46,7 @@ Global AI sell-off triggers FPI return to Indian markets; Rs 38,971 crore equity
 
 Global AI Rout and AI Sell-Off: What It Means for India Univest
 
-### 6. Nifty 50 Falls 0.18%, Ending Eight-Year Muhurat Winning Streak - Multibagg AI
+### 5. Nifty 50 Falls 0.18%, Ending Eight-Year Muhurat Winning Streak - Multibagg AI
 
 - Source: Multibagg AI
 - Published: 2026-11-08T21:20:54+00:00
@@ -66,17 +56,7 @@ Global AI Rout and AI Sell-Off: What It Means for India Univest
 
 Nifty 50 Falls 0.18%, Ending Eight-Year Muhurat Winning Streak Multibagg AI
 
-### 7. Stock markets decline as crude oil surge weighs on sentiment; Sensex drops 388 points, Nifty slips below 24,500 - Telegraph India
-
-- Source: Telegraph India
-- Published: 2026-11-08T10:14:00+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 10
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPZUYzOElKUHI4eVRldmRFMHQ4UXVBRHVQVTBfQTAtVi1wZC1nZ2lET2h3LWhVWjRUTDczR0NjYklsWHY4QWZhN2lVTjhHRTZZTGoyQW05OFlIcVRrSHU1bWgtZ3g4MHpjQzRQbG1LamZreEhaVFNpNW5HOGNkSHZCb3J2T1hDYXM2QXZia2NSYWd1SkNMdFRfc2U2Q2ZpMVNoQkRlNEdSZTlCV2JNd0dqbGNLWUJ2cl9PVVVqYmNHYy04YlRW0gHKAUFVX3lxTE9LWDg3WkJ2bmhlWTlUc3FOQzN4MHYwR1BPTDN4aGlRN3dyRFlzeVlRc0pGTWxUVUxVc3NXUEhDb1VyaExnOFBsYnNneTRURmpXeHBPc3VCbGVTZjd4Nm85VnFQY051UkIxSE9MandkeV93ajZhODhXRlZrNnhBMTlEbERNdDFQTjZYbTl6dk1yelVubmQyVk05M21EdVFGWWpLOHR1MG0wcDM5WmhKUTkteTZRNlRZR1VWQzdlRVE0bVBjd3VSbjBJUXc?oc=5
-
-Stock markets decline as crude oil surge weighs on sentiment; Sensex drops 388 points, Nifty slips below 24,500 Telegraph India
-
-### 8. GIFT Nifty up 55 pts, signals firm start for Sensex, Nifty as Asian markets rebound, crude oil falls - Moneycontrol.com
+### 6. GIFT Nifty up 55 pts, signals firm start for Sensex, Nifty as Asian markets rebound, crude oil falls - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-09T03:00:18+00:00
@@ -86,7 +66,17 @@ Stock markets decline as crude oil surge weighs on sentiment; Sensex drops 388 p
 
 GIFT Nifty up 55 pts, signals firm start for Sensex, Nifty as Asian markets rebound, crude oil falls Moneycontrol.com
 
-### 9. SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff - Reuters
+### 7. Stock Market Correction Or Crash? 3 Charts For The Week Ahead After The AI Sell-Off - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-09T10:14:59+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxNT2NvZ09fUk1pQVc4d3hJb2czakUwcXJXSUJWV1RHcVVOUk56aTA4SE1xNG9MVmZPbkpTZmg0cGxoeXAwTDdBaVU3NVRkZE1JamVPWFFmekZXaE8xaVRtaFB3amRwTWozME1hRThUZnVoVnpCV1YzdlkwZVJNUDgyWnVieVRqTnJaX20zeTNKeXJCeVpXSnRvR1JZRW8?oc=5
+
+Stock Market Correction Or Crash? 3 Charts For The Week Ahead After The AI Sell-Off Yahoo Finance
+
+### 8. SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff - Reuters
 
 - Source: Reuters
 - Published: 2026-11-09T08:09:45+00:00
@@ -96,7 +86,7 @@ GIFT Nifty up 55 pts, signals firm start for Sensex, Nifty as Asian markets rebo
 
 SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff Reuters
 
-### 10. US stocks face volatile week as AI selloff, inflation data and tech earnings loom - The Economic Times
+### 9. US stocks face volatile week as AI selloff, inflation data and tech earnings loom - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-09T05:23:08+00:00
@@ -106,7 +96,7 @@ SoftBank to face scrutiny of AI strategy at second-quarter earnings after sellof
 
 US stocks face volatile week as AI selloff, inflation data and tech earnings loom The Economic Times
 
-### 11. Markets slip into red after opening in green, Sensex falls 93.95 points; Nifty below 24,950 - Telegraph India
+### 10. Markets slip into red after opening in green, Sensex falls 93.95 points; Nifty below 24,950 - Telegraph India
 
 - Source: Telegraph India
 - Published: 2026-11-09T04:58:36+00:00
@@ -116,7 +106,7 @@ US stocks face volatile week as AI selloff, inflation data and tech earnings loo
 
 Markets slip into red after opening in green, Sensex falls 93.95 points; Nifty below 24,950 Telegraph India
 
-### 12. AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy - Yahoo Finance
+### 11. AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T03:34:00+00:00
@@ -126,7 +116,7 @@ Markets slip into red after opening in green, Sensex falls 93.95 points; Nifty b
 
 AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led Selloff, Nvidia Controversy Yahoo Finance
 
-### 13. South Korea shares rise on chip rebound after AI-led selloff - Livemint
+### 12. South Korea shares rise on chip rebound after AI-led selloff - Livemint
 
 - Source: Livemint
 - Published: 2026-11-09T02:35:05+00:00
@@ -136,7 +126,7 @@ AMD, AVGO, INTC, MU: Chip Stocks Inch Higher As Investors Look Past Midterms-Led
 
 South Korea shares rise on chip rebound after AI-led selloff Livemint
 
-### 14. South Korea shares rise on chip rebound after AI-led selloff - TradingView
+### 13. South Korea shares rise on chip rebound after AI-led selloff - TradingView
 
 - Source: TradingView
 - Published: 2026-11-09T02:33:00+00:00
@@ -146,7 +136,7 @@ South Korea shares rise on chip rebound after AI-led selloff Livemint
 
 South Korea shares rise on chip rebound after AI-led selloff TradingView
 
-### 15. Malaysia Morning Wrap | Wall Street Rebounds After Rout; Bursa Slumps as AI Selloff Hits Asian Markets - Moomoo
+### 14. Malaysia Morning Wrap | Wall Street Rebounds After Rout; Bursa Slumps as AI Selloff Hits Asian Markets - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-09T01:01:38+00:00
@@ -156,7 +146,7 @@ South Korea shares rise on chip rebound after AI-led selloff TradingView
 
 Malaysia Morning Wrap | Wall Street Rebounds After Rout; Bursa Slumps as AI Selloff Hits Asian Markets Moomoo
 
-### 16. iM Securities: "AI Investment Fears Overdone — Semiconductor Selloff Is Just a Speed Adjustment Signal" - BigGo Finance
+### 15. iM Securities: "AI Investment Fears Overdone — Semiconductor Selloff Is Just a Speed Adjustment Signal" - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-08T23:25:00+00:00
@@ -166,7 +156,7 @@ Malaysia Morning Wrap | Wall Street Rebounds After Rout; Bursa Slumps as AI Sell
 
 iM Securities: "AI Investment Fears Overdone — Semiconductor Selloff Is Just a Speed Adjustment Signal" BigGo Finance
 
-### 17. New York Stocks Face "AI Correction" Test Ahead of CPI, CoreWeave Earnings; December Tightening Odds at 80% - BigGo Finance
+### 16. New York Stocks Face "AI Correction" Test Ahead of CPI, CoreWeave Earnings; December Tightening Odds at 80% - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-08T22:55:00+00:00
@@ -176,7 +166,7 @@ iM Securities: "AI Investment Fears Overdone — Semiconductor Selloff Is Just a
 
 New York Stocks Face "AI Correction" Test Ahead of CPI, CoreWeave Earnings; December Tightening Odds at 80% BigGo Finance
 
-### 18. 3 AI Chip Stocks to Buy in November After the October Sell-Off - Yahoo Finance
+### 17. 3 AI Chip Stocks to Buy in November After the October Sell-Off - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-08T11:05:00+00:00
@@ -186,7 +176,7 @@ New York Stocks Face "AI Correction" Test Ahead of CPI, CoreWeave Earnings; Dece
 
 3 AI Chip Stocks to Buy in November After the October Sell-Off Yahoo Finance
 
-### 19. Seoul stocks fall amid AI sector uncertainties - Tripuratimes
+### 18. Seoul stocks fall amid AI sector uncertainties - Tripuratimes
 
 - Source: Tripuratimes
 - Published: 2026-11-09T09:48:17+00:00
@@ -196,7 +186,7 @@ New York Stocks Face "AI Correction" Test Ahead of CPI, CoreWeave Earnings; Dece
 
 Seoul stocks fall amid AI sector uncertainties Tripuratimes
 
-### 20. Asian tech stocks rebound as investors reassess AI selloff - Hedgeweek
+### 19. Asian tech stocks rebound as investors reassess AI selloff - Hedgeweek
 
 - Source: Hedgeweek
 - Published: 2026-11-09T09:27:24+00:00
@@ -206,7 +196,7 @@ Seoul stocks fall amid AI sector uncertainties Tripuratimes
 
 Asian tech stocks rebound as investors reassess AI selloff Hedgeweek
 
-### 21. Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? - Invezz
+### 20. Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? - Invezz
 
 - Source: Invezz
 - Published: 2026-11-09T09:17:28+00:00
@@ -216,7 +206,7 @@ Asian tech stocks rebound as investors reassess AI selloff Hedgeweek
 
 Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? Invezz
 
-### 22. SoftBank’s Mobile Arm Braces for Possible AI Correction in US - Bloomberg.com
+### 21. SoftBank’s Mobile Arm Braces for Possible AI Correction in US - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-09T09:12:52+00:00
@@ -226,7 +216,7 @@ Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? 
 
 SoftBank’s Mobile Arm Braces for Possible AI Correction in US Bloomberg.com
 
-### 23. Big Tech Faces Tougher Scrutiny of AI Spending After Selloff - PYMNTS.com
+### 22. Big Tech Faces Tougher Scrutiny of AI Spending After Selloff - PYMNTS.com
 
 - Source: PYMNTS.com
 - Published: 2026-11-09T09:02:03+00:00
@@ -236,7 +226,7 @@ SoftBank’s Mobile Arm Braces for Possible AI Correction in US Bloomberg.com
 
 Big Tech Faces Tougher Scrutiny of AI Spending After Selloff PYMNTS.com
 
-### 24. Sensex Falls 141 Points, Nifty 50 Slips Below 24,950 as Investors Assess U.S.-Iran Talks - Dalal Street Investment Journal
+### 23. Sensex Falls 141 Points, Nifty 50 Slips Below 24,950 as Investors Assess U.S.-Iran Talks - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-09T08:58:47+00:00
@@ -246,7 +236,7 @@ Big Tech Faces Tougher Scrutiny of AI Spending After Selloff PYMNTS.com
 
 Sensex Falls 141 Points, Nifty 50 Slips Below 24,950 as Investors Assess U.S.-Iran Talks Dalal Street Investment Journal
 
-### 25. Asian Equities Tumble as AI Selloff Deepens - WSJ
+### 24. Asian Equities Tumble as AI Selloff Deepens - WSJ
 
 - Source: WSJ
 - Published: 2026-11-09T08:37:34+00:00
@@ -256,7 +246,7 @@ Sensex Falls 141 Points, Nifty 50 Slips Below 24,950 as Investors Assess U.S.-Ir
 
 Asian Equities Tumble as AI Selloff Deepens WSJ
 
-### 26. AI Valuations Face Correction Risk Amid Fierce Competition, Says Gita Gopinath - BW People
+### 25. AI Valuations Face Correction Risk Amid Fierce Competition, Says Gita Gopinath - BW People
 
 - Source: BW People
 - Published: 2026-11-09T08:37:21+00:00
@@ -266,7 +256,7 @@ Asian Equities Tumble as AI Selloff Deepens WSJ
 
 AI Valuations Face Correction Risk Amid Fierce Competition, Says Gita Gopinath BW People
 
-### 27. Sensex falls 700 pts from day’s high, Nifty near 24,850: Profit booking among key factors behind market... - Moneycontrol.com
+### 26. Sensex falls 700 pts from day’s high, Nifty near 24,850: Profit booking among key factors behind market... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-09T08:01:22+00:00
@@ -276,7 +266,7 @@ AI Valuations Face Correction Risk Amid Fierce Competition, Says Gita Gopinath B
 
 Sensex falls 700 pts from day’s high, Nifty near 24,850: Profit booking among key factors behind market... Moneycontrol.com
 
-### 28. IT Stocks Crash! TCS, Infosys, HCL Tech lead Rs 50,000 crore mcap erosion as Nifty IT falls 2% – Here's what triggered selloff - Zee Business
+### 27. IT Stocks Crash! TCS, Infosys, HCL Tech lead Rs 50,000 crore mcap erosion as Nifty IT falls 2% – Here's what triggered selloff - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-09T07:50:09+00:00
@@ -286,7 +276,7 @@ Sensex falls 700 pts from day’s high, Nifty near 24,850: Profit booking among 
 
 IT Stocks Crash! TCS, Infosys, HCL Tech lead Rs 50,000 crore mcap erosion as Nifty IT falls 2% – Here's what triggered selloff Zee Business
 
-### 29. Stock Market Today: Sensex Falls, Nifty 50 Below 24,900; HCL Tech, Tata Steel, Infosys Top Drags - NDTV Profit
+### 28. Stock Market Today: Sensex Falls, Nifty 50 Below 24,900; HCL Tech, Tata Steel, Infosys Top Drags - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-09T07:30:00+00:00
@@ -296,7 +286,7 @@ IT Stocks Crash! TCS, Infosys, HCL Tech lead Rs 50,000 crore mcap erosion as Nif
 
 Stock Market Today: Sensex Falls, Nifty 50 Below 24,900; HCL Tech, Tata Steel, Infosys Top Drags NDTV Profit
 
-### 30. Sensex Today | Nifty 50 | Indian Stock Market Live: Markets Under Pressure After Diwali Muhurat Session, Nifty Falls Below 25,000 As IT Shares Decline - The Sunday Guardian
+### 29. Sensex Today | Nifty 50 | Indian Stock Market Live: Markets Under Pressure After Diwali Muhurat Session, Nifty Falls Below 25,000 As IT Shares Decline - The Sunday Guardian
 
 - Source: The Sunday Guardian
 - Published: 2026-11-09T06:35:39+00:00
@@ -306,7 +296,7 @@ Stock Market Today: Sensex Falls, Nifty 50 Below 24,900; HCL Tech, Tata Steel, I
 
 Sensex Today | Nifty 50 | Indian Stock Market Live: Markets Under Pressure After Diwali Muhurat Session, Nifty Falls Below 25,000 As IT Shares Decline The Sunday Guardian
 
-### 31. Nifty 50: Global Sell-Off Turns India’s Rally Into 8.6% Weekly Gain - JournalArta
+### 30. Nifty 50: Global Sell-Off Turns India’s Rally Into 8.6% Weekly Gain - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-09T06:20:42+00:00
@@ -315,6 +305,16 @@ Sensex Today | Nifty 50 | Indian Stock Market Live: Markets Under Pressure After
 - Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxQSUNXSFVZWVVKVnc0X3NLd0tlTjFHQ0k4VXJaVFF5d1cteVNTbkVNeUFyT29lX3Rlam0xZU9nWUZRUmlfOUZJai1XMGI3ZDZ2aC01aUUtV3dQZTNtWEFvTURxNEFmQUxvVlQzeVQyVVBqOEd4XzZKZnJuUU1KR0tqMmNscnVtSHZHNzFLNjZsZnMtT284X0hvVDNn?oc=5
 
 Nifty 50: Global Sell-Off Turns India’s Rally Into 8.6% Weekly Gain JournalArta
+
+### 31. Asian stocks rebounds after AI sell-off, Taiwan’s Taiex leads gains - FXStreet
+
+- Source: FXStreet
+- Published: 2026-11-09T05:30:07+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNNGtDSTU3WUZRMmQxcDBaQU9tQy13Y29xd0NINlJ6OWFybHR6ckx0VmNTcmRHbEJTMmstYXdKRS1hVkk5Zzl2OWYyQXRIOHhNMUdELVJ4T25JRC1CYzJtbDVPMnRubDBwV0ZKN3dBbHpheWYyYkhRa2hROURkZV82RDMwUnBmYmY0SE43WnpYWlo3alhrbDVENlpXN1V1NElVOW41TGUxSmNhWHRX?oc=5
+
+Asian stocks rebounds after AI sell-off, Taiwan’s Taiex leads gains FXStreet
 
 ### 32. Samvat 2083 outlook: 8 triggers that could turn Sensex, Nifty correction into a rally by next Diwali - The Economic Times
 
@@ -576,17 +576,7 @@ Astera Labs: Fairly Valued After The AI Sell-Off, But Risks Remain (Rating Upgra
 
 Sensex Falls 29 Points, Nifty Slips Below 25,000 In Muhurat Trade BW Businessworld
 
-### 58. Muhurat Trading 2026: Sensex Falls 29 Points, Nifty Slips 44; First Loss Since 2017 - Dainik Jagran MP CG
-
-- Source: Dainik Jagran MP CG
-- Published: 2026-11-08T10:24:32+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMirwFBVV95cUxNNHdfMFA0eUNIVWRZOFQ0YmkxdVU3aVhDTVhIVnFWMUs3TXRYbnVqM29jNGo2eF94UFhNdUcyN2xHV1J2c2tNeUVZOG1lNmRFM1VlWGVoSEZxczB2ekVnTThRa0xuTkYtOExJSExFcWMxUmE3ZmhmTTJMd2VqMlg4VTQxbGhlbFc4NEZ3S1RaS0hBWFZYdTFvVFpUazBrZ0tGWXFSQWNjekI4M3o3NlFF?oc=5
-
-Muhurat Trading 2026: Sensex Falls 29 Points, Nifty Slips 44; First Loss Since 2017 Dainik Jagran MP CG
-
-### 59. Mid and smallcap stocks could see strong gains in 2027, but expect volatility, says Deepak Shenoy, Capital - The Economic Times
+### 58. Mid and smallcap stocks could see strong gains in 2027, but expect volatility, says Deepak Shenoy, Capital - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-09T08:59:37+00:00
@@ -596,7 +586,7 @@ Muhurat Trading 2026: Sensex Falls 29 Points, Nifty Slips 44; First Loss Since 2
 
 Mid and smallcap stocks could see strong gains in 2027, but expect volatility, says Deepak Shenoy, Capital The Economic Times
 
-### 60. Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near-term correction; wait and watch - BusinessLine
+### 59. Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near-term correction; wait and watch - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-09T04:55:50+00:00
@@ -606,7 +596,7 @@ Mid and smallcap stocks could see strong gains in 2027, but expect volatility, s
 
 Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near-term correction; wait and watch BusinessLine
 
-### 61. Quant Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP returns in 10 years - The Economic Times
+### 60. Quant Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP returns in 10 years - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-09T09:50:45+00:00
@@ -616,7 +606,7 @@ Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near
 
 Quant Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP returns in 10 years The Economic Times
 
-### 62. AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may become midcap in H1 CY27 - The Economic Times
+### 61. AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may become midcap in H1 CY27 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-09T05:44:27+00:00
@@ -626,7 +616,7 @@ Quant Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP
 
 AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may become midcap in H1 CY27 The Economic Times
 
-### 63. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+### 62. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-11-08T18:44:24+00:00
@@ -636,7 +626,7 @@ AMFI reshuffle: Jio Platforms and NSE may get largecap status, Vedanta may becom
 
 Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
 
-### 64. Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors... - Moneycontrol.com
+### 63. Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-08T17:37:53+00:00
@@ -646,17 +636,17 @@ Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentidea
 
 Dalal Street Week Ahead: Q2 earnings, US & India inflation, FII flow, oil prices among 10 key factors... Moneycontrol.com
 
-### 65. Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap surges 1% - Fortune India
+### 64. RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report - The Economic Times
 
-- Source: Fortune India
-- Published: 2026-11-08T10:33:57+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQNUIwNFFpdVFCOWVuZFFLNDhOUVZfR3JtVGVqUnhXekRrV1EyVWkzenZ4RElrdDlGTGpGbXRCNFB1T3pxVHVlWjN4MVpnZ3lJS3FVZlB5Um9CQ0dtYnRpSVZmcFN6Qkwzcmp0SXZUSTlnb0FOSUppSDlCbFhNNWMwRGh2aXplRnRONGI0bGR0WG80WWE5LXZVNk0yamNGaXZjRHUtRm9xLXFKZXV0TWowSlUxTmROa1kyMGdQUHY5UzhMX2czNkNjQ9IB1gFBVV95cUxNYncwUTFQN2lmN2NlWTIxVV85UkdweHdrM0o0R2d5cHJBSC04OHBWSGxBSnFTeG5kVEtfQTZBanp2YjZBZTVWZVdnaTJheXFlMi0yVTFlNHZCTE5Tc1A3N1BmUWJSTnBOeTVCZ3JmNHlKa1FaMmlPLUtXX3ItRnpNenhpMUplZC1scFhRTWtwclQxb1ZYYS1MRDk4TU4tS01fMS1pMWhNQnJYVUZjb29qSXV1RUVlbnZpNzBhTzk0SDkzdk90RGpFRmkxQi1SN18xbnVfQk1R?oc=5
+- Source: The Economic Times
+- Published: 2026-11-09T10:04:34+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxOazlZaW94Sm5wMGhrNkY0Nm92c0J3TGlYclhqZFVQb2Ftd1oyV3J1ZmZfcWlXSEZfOVVVZ2VGMFgtdlJVTm4yaUZmbGRtSDdaS0tKOEtZSU9vWXpNZzVJVVVzb0hmaVhqS0V0TTRLckFGUXFGbi1odllGNUpBbGZ2QmVIN3lsMHhhNmdGeWF5cXg0ckxOVHhKVGVBYThTcjFwTkVjYXlhYmtqZ0c3S183MzRFZWtIQUZLVVJyXzZZZ2h2ZlJJLW1PM2d4ZFRWdHNaWnVEQjFOSzRFdkwxZk1XOVhFWnJiTmdYOUJB0gHwAUFVX3lxTE02T1RZd1NZRWt5b2dfU2NjUTBoSFktdHdRTTFqamZBbUgzTkJ3MUFCZkRzY2dxNi1vdWlUaE9PckFnZlJBRGp4VVpDOGZ5TGZqaHcycGpOUVFLcW9tbmRpODEyNUx5bUVxbm1yNHhzTnRZdEk4T0NocFc0TURNWElwZW5NUkp2OU80WHdXZnp1YVJ6OTdWODhoU25Oc05pUzNsMkVBbHlMQjJUcG9EZVo5QzBzV3l1Szl4SjRIZFFYc25wX0hUaEtiUDNrOFhuajdYOWZueVZBQ29UZWk5VnRLSXItMDZuLXdFN19FanlJSw?oc=5
 
-Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap surges 1% Fortune India
+RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report The Economic Times
 
-### 66. ₹50,000 crore in six sessions. Are foreign investors finally returning to India? Reema Tendulkar explains the opportunities and risks. #IndianStockMarket #FII #Nifty - LinkedIn
+### 65. ₹50,000 crore in six sessions. Are foreign investors finally returning to India? Reema Tendulkar explains the opportunities and risks. #IndianStockMarket #FII #Nifty - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-11-09T09:10:51+00:00
@@ -666,7 +656,7 @@ Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap
 
 ₹50,000 crore in six sessions. Are foreign investors finally returning to India? Reema Tendulkar explains the opportunities and risks. #IndianStockMarket #FII #Nifty LinkedIn
 
-### 67. Sip & Shop Artisan Market - Castanet Kamloops
+### 66. Sip & Shop Artisan Market - Castanet Kamloops
 
 - Source: Castanet Kamloops
 - Published: 2026-11-09T08:05:15+00:00
@@ -676,7 +666,7 @@ Muhurat Trading 2026: Sensex ends flat, Nifty slips below 25,000; Nifty Smallcap
 
 Sip & Shop Artisan Market Castanet Kamloops
 
-### 68. US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF - BW Businessworld
+### 67. US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-11-09T05:27:54+00:00
@@ -686,7 +676,7 @@ Sip & Shop Artisan Market Castanet Kamloops
 
 US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF BW Businessworld
 
-### 69. Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance
+### 68. Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T04:54:00+00:00
@@ -696,7 +686,7 @@ US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis 
 
 Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets Yahoo Finance
 
-### 70. NSE Chief Sees FII Comeback As Crude Cools, Rupee Stabilises - BW Businessworld
+### 69. NSE Chief Sees FII Comeback As Crude Cools, Rupee Stabilises - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-11-09T02:58:22+00:00
@@ -706,7 +696,7 @@ Asian stocks bounce as AI, Mideast jitters recede; dollar firm on Fed bets Yahoo
 
 NSE Chief Sees FII Comeback As Crude Cools, Rupee Stabilises BW Businessworld
 
-### 71. Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert - Business Today
+### 70. Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert - Business Today
 
 - Source: Business Today
 - Published: 2026-11-09T01:05:02+00:00
@@ -716,7 +706,7 @@ NSE Chief Sees FII Comeback As Crude Cools, Rupee Stabilises BW Businessworld
 
 Too many mutual funds? Why three well-chosen schemes may work better than 10, explains expert Business Today
 
-### 72. Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 - Livemint
+### 71. Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 - Livemint
 
 - Source: Livemint
 - Published: 2026-11-08T12:36:18+00:00
@@ -726,7 +716,7 @@ Too many mutual funds? Why three well-chosen schemes may work better than 10, ex
 
 Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in scheme risk ratings in November 2026 Livemint
 
-### 73. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - TradingView
+### 72. Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds - TradingView
 
 - Source: TradingView
 - Published: 2026-11-08T11:34:10+00:00
@@ -736,7 +726,7 @@ Investing in HDFC, ICICI Pru or Quant mutual funds? Check the latest changes in 
 
 Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year SIP returns; check top 5 funds TradingView
 
-### 74. Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat - Lokmat Times
+### 73. Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat - Lokmat Times
 
 - Source: Lokmat Times
 - Published: 2026-11-08T10:57:27+00:00
@@ -746,17 +736,17 @@ Top small-cap mutual funds: Quant beats Nippon, SBI and HDFC with 24.98% 10-year
 
 Muhurat Trade: Sensex, Nifty End Marginally Lower Despite FPI Inflow, Positive Outlook for New Samvat Lokmat Times
 
-### 75. RBI's $239bn Forward Position Limits Rupee Gains Despite FPI - Rediff MoneyWiz
+### 74. Sensex Closes 107 Points Higher, Nifty Reclaims 25,000 as PSU Banks Surge 3.7% While IT Slides - Pragativadi
 
-- Source: Rediff MoneyWiz
-- Published: 2026-11-09T09:36:30+00:00
-- Themes: India market, macro / flows
+- Source: Pragativadi
+- Published: 2026-11-09T10:18:12+00:00
+- Themes: India market
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQUTdVTlM0d3R5U0VTRDZmUkMwM3lNY0hyajFWYmNPa3BLdlZFRGlNd3lLWXlqQUpxVDBZRWtDWlhlSkY0bkp1OGNCUVdXanJ0bE5fSzRSbmY4bkJoRHhKTDlTb0RwVG9YMWJmbkdKaEpaanlGTkU2V2FLaEpFVmV2cXpoSFQyb0Jxd3prSFRTU2FlMHl5YlRNbnJNbUltQS0zbFJnY1Jld0pkei16STk3YdIBtgFBVV95cUxNQTA0cVlWZjlsYzNxcS14SFYwRlhRWDdBRnVxaVM3RFBBNzg3ZERwTHhmaHItYnZXQTczZnVMZnEyMDZjcHJ4bnRvOHlmcGV5SElQbE9USnI2ZVhuTllSNDR3RjRJazExaFpTQlZJbktpMGRvN2FyZy14ZjYyQ0dkWXk3cV9Wd19KTV9ENWx3dnN2azVEc0pYemRoRFp0TWdDbEhpRDNrbEthaS1jX09fd290OW1fQQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPQmJCTEo4aUR2VGkzSjZpNzZJX0N6d1c5R3ZFelI4eUZvOHNmcEU4SWNsLWt4WDBvNFlqUm5aYXFtSDRHanNnRUFtaUNlQ1dEWTJaV0hmNzlCLU9YNXpFQ0JTdk9SMmswQTNvZDdvdE9iZFIzekNhOUFUNVotTEZPNGR6TXRJTFQwUklxbmpCVUhEUDZsSC1Gd0FNbnFhdm5Hc2ozQ1kyUEdrQWFkMGlHYTlpQmpGb3M?oc=5
 
-RBI's $239bn Forward Position Limits Rupee Gains Despite FPI Rediff MoneyWiz
+Sensex Closes 107 Points Higher, Nifty Reclaims 25,000 as PSU Banks Surge 3.7% While IT Slides Pragativadi
 
-### 76. A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options - Moomoo
+### 75. A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-09T08:32:06+00:00
@@ -766,7 +756,7 @@ RBI's $239bn Forward Position Limits Rupee Gains Despite FPI Rediff MoneyWiz
 
 A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options Moomoo
 
-### 77. Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumble: Motilal Oswal - News18
+### 76. Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumble: Motilal Oswal - News18
 
 - Source: News18
 - Published: 2026-11-09T07:39:07+00:00
@@ -776,7 +766,7 @@ A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options Moom
 
 Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumble: Motilal Oswal News18
 
-### 78. FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 - Business Today
+### 77. FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 - Business Today
 
 - Source: Business Today
 - Published: 2026-11-09T07:05:21+00:00
@@ -786,7 +776,7 @@ Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumbl
 
 FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 Business Today
 
-### 79. Sensex, Nifty open lower as IT stocks drag, investors book profits after sharp rally - PSU Watch
+### 78. Sensex, Nifty open lower as IT stocks drag, investors book profits after sharp rally - PSU Watch
 
 - Source: PSU Watch
 - Published: 2026-11-09T05:56:40+00:00
@@ -796,12 +786,22 @@ FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Sa
 
 Sensex, Nifty open lower as IT stocks drag, investors book profits after sharp rally PSU Watch
 
-### 80. Deutsche Bank's India Exit Clears a Hurdle While Frankfurt Frets Over AI - ad-hoc-news.de
+### 79. GIFT Nifty 55 pts Higher Points to Firm Open for Sensex, Nifty - JournalArta
 
-- Source: ad-hoc-news.de
-- Published: 2026-11-09T05:31:19+00:00
-- Themes: AI / tech risk, India market
+- Source: JournalArta
+- Published: 2026-11-09T05:30:42+00:00
+- Themes: India market
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxQaDMxN1NmQU5mbXRONWtWdDRjX29UcHoxNnhCYXV0TkV3UGhJTFFvclhkUGh5UXcxcmpkclg4NnVfSG5KdUJzdmZmcElpN3JRLTRlZlBncVNSWWlucjlHY2dVaE0zQVBNa0lPZ0VabWV1aGlOTU9ucHF3S1gxZ2hFV2RDajF3akY2SWV3czZDUGVxRW5KS3BpbGNScUp5dktaNmotbVdVZm1sU3dhcy1kajlJSVBmUk1uSXBNay1DT3V0bjIyRTRRTVg4dmVzNVNDdGRmMWZ3bnZyTy1R?oc=5
+- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQN0VVelh4ZGF4YUpDNHFTZ01wdUc1dHEtNkV3cWlyaXNOQU9DTFRiZ1pETk54RmYydXBGUXFGLUJCTFpQTG9ncmFDRGtuWi0xdTNOSVdNT05mMmZFWnJsTEtIcV9WQnYyZE9fcmVEc2d2OW9IbUtzNjZzelhVcHlERnkxLUZweEc4aWU1RDhMb0ZVeFVsNlE?oc=5
 
-Deutsche Bank's India Exit Clears a Hurdle While Frankfurt Frets Over AI ad-hoc-news.de
+GIFT Nifty 55 pts Higher Points to Firm Open for Sensex, Nifty JournalArta
+
+### 80. Sensex, Nifty open higher amid positive global cues - Telangana Today
+
+- Source: Telangana Today
+- Published: 2026-11-09T04:21:21+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxQbWhXMG1VTXhKMFFQQTZ6VG14Yi1HZV9jMlVOZnpSVDRYcC04MHZXSzZ2dXRZMi1aUlBwSGFQUzBYRlk0QnhGVmZRWjR2T1J3ZVVnVk81aXM1cGtKVENPc1RyeG9OS1pGYmlUVk1wY2txTll1T011NndDYUZZVnVEMkNEOA?oc=5
+
+Sensex, Nifty open higher amid positive global cues Telangana Today
