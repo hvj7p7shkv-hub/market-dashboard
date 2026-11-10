@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 13:11 IST",
+  "generated_at": "2026-11-10 13:41 IST",
   "wire_file": "2026-11-10-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,30 +23,30 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "27",
-    "wire_total_count": "134",
+    "wire_count": "28",
+    "wire_total_count": "132",
     "wire_scope_date": "2026-11-10",
-    "ai_wire_count": "16",
-    "selling_wire_count": "16",
+    "ai_wire_count": "17",
+    "selling_wire_count": "17",
     "india_wire_count": "7",
     "weak_index_count": "8",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-10 07:35",
-      "title": "SoftBank Posts $7B Loss as Tech Selloff Hammers Portfolio - The Tech Buzz",
-      "text": "Latest dated headline · The Tech Buzz. Today's unique wire set contains 27 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-10 08:00",
+      "title": "Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost",
+      "text": "Latest dated headline · Firstpost. Today's unique wire set contains 28 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-10",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-10 has 7 India-market wires, 16 selling/risk wires, and 16 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-10 has 7 India-market wires, 17 selling/risk wires, and 17 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-10",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Wall Street brokerages call AI stock selloff overdone, see buying opportunity in tech stocks - The Economic Times"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost"
     },
     {
       "label": "India Trigger · 2026-11-10",
@@ -466,12 +466,12 @@
       "name": "Hang Seng",
       "ticker": "^HSI",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 07:25:00+00:00",
+      "quote_timestamp": "2026-11-10 07:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 24448.95,
-      "last": 24561.19,
-      "return_1d_pct": 0.4590799930531242,
+      "last": 24522.16,
+      "return_1d_pct": 0.2994441063497888,
       "return_5d_pct": 4.512522772092065,
       "return_20d_pct": 0.9813563192817565,
       "rsi_14": 57.44,
@@ -788,7 +788,7 @@
       "advancers": 5,
       "decliners": 0,
       "advance_decline_ratio": null,
-      "average_1d_pct": 1.82,
+      "average_1d_pct": 1.79,
       "average_5d_pct": -2.88,
       "above_20dma_pct": 40.0,
       "above_50dma_pct": 40.0
@@ -1079,12 +1079,12 @@
         "name": "Hang Seng",
         "ticker": "^HSI",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 07:25:00+00:00",
+        "quote_timestamp": "2026-11-10 07:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 24448.95,
-        "last": 24561.19,
-        "return_1d_pct": 0.4590799930531242,
+        "last": 24522.16,
+        "return_1d_pct": 0.2994441063497888,
         "return_5d_pct": 4.512522772092065,
         "return_20d_pct": 0.9813563192817565,
         "rsi_14": 57.44,
@@ -23211,7 +23211,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-10T13:11:02+05:30",
+    "generated_at": "2026-11-10T13:41:17+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35613,6 +35613,15 @@
       "description": "Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3% Moneycontrol.com"
     },
     {
+      "published": "2026-11-10T03:09:20+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "BigGo Finance",
+      "title": "AI Selloff Overdone? Asian Chip Stocks Stage Fierce Comeback; South Korean Market's Opening Surge Triggers Circuit Breaker - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdXdyd1VHS1g5dDVlOTdrUjJGdkR6Sy1ZdTNBY0pUelJSdlBEVWJKdFl4eGs1d1V3Y0FhaENPZFV4MzZYVlVVb055QjRtWTNWSUxJQkNqaDZWdUZHTi1GeU5fdFV1MHFNVktqZ2VSeHZYTEN4RFE?oc=5",
+      "description": "AI Selloff Overdone? Asian Chip Stocks Stage Fierce Comeback; South Korean Market's Opening Surge Triggers Circuit Breaker BigGo Finance"
+    },
+    {
       "published": "2026-11-10T02:43:00+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35766,6 +35775,15 @@
       "description": "SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff Reuters"
     },
     {
+      "published": "2026-11-10T08:00:24+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Firstpost",
+      "title": "Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPNXB1cDVaVkg4bmI2TnVwR2xHX3psTEdtMU5JeVBmNFNYOU5TZ2dIU0c3YWZzNkplSDgtVy1GbTRlaWVFZWFTVUdlZFN3bHVDSlpUUE40THZzWWppQVdKNTBZX2twajduendUcmZJOFhiQm1CQ2lWenZJSi0yd0EwOThRNUJoY3puOVBDRURsRXkxb0RrX3EyYzMtcnRGTGFValY1SXV0eFRrclU1VlViQXR5ck1MWXRTc1RMcGp30gHDAUFVX3lxTFB1VjZTM212MmsxVk03aU5feU5jcmRmWXVuZndaWW1fM1B4eDlpVFpNa011ZHNKeGpVVmxlcTNpSFNVT0JoV2N6NlB1cEExUTdfRlM5dllGZmd6VGhnTkV3cFlBa3VIYmdWRzFJY1B5amFDZV82MjdLMlhTczU4XzEtUW9ETTBnUFFjWDhJMHdHNkFIU0VSV1ZKWXRmNVZ3cjJuelZCUnNTRk10ZDNfQl9XZjllalltdDZxN29wSzBsWlJKMA?oc=5",
+      "description": "Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpost"
+    },
+    {
       "published": "2026-11-10T07:35:48+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35807,7 +35825,7 @@
       "themes": "['AI / tech risk', 'market selling']",
       "source": "The Economic Times",
       "title": "Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNFhMbDlQTWJSQ3NTdWRpT2lQNVNSZ1R1WDV6d2JzcE5WSy1sc2NBNGp2Zk90UENwdGJWTS1tM1lkM282d3QzTmQ0STc4RTlONV9GZzFRamMyazgzZ2JtYnBJWVZiYk5uTjREYndVV05oU3ltdW52d21fOTFqV1g2TnlJYXhoci03YlpaWkIwbDczTDRLQUZXQTdjWjRLMGc3am10MUJjb3ZMNTZsbjVQUVJsNll1Y3JCZUNLSEF3Z1dMS3pLRjc1R0N4SGc4eTUzZjJ4cllKZURRbVN4SlRSSERyaTZtdTltSmpJbWdHQWRVS18tV2hHVlpObFLSAYICQVVfeXFMT00yYlcybzczMFZ3Z0hoWTd5NUlZdGNHMlpFc0N0cnZMcEI3NTRXem5KZDVOdXZkNnM2TEdIVWdaMzM1ZzdZWlBmT1ctQ2JaSU1SRjQtMkgyaHVyVm1MN2lfM0xWZ1c4QW9PM0FjNVoxT2hvSkFWTzdYN0k5MkRfdkQ3RWo5ZXIzQUFYcEU1RmVzOVlueUMxTlZnSDlIcWxLa0dOSzgyTEFOUy1CV0dGT2l1Q012aHg0UFNidk1TazlRd2RBVEZvZGR2ZDVJWVh6cWlsS2dCOGxxYTU4aE93VXk5TF9udThLZE9uQWJxd0NzVERSemYtNS02Y2xTY2kwZ2p3?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOYnlLdjllSW14QkNDSlIxdnVWQmhaNW5DNzVMM0xBcEF0VTM2bmQ5aUd5cHRWdVBjTmVvSWFmYUFydkNMQ3piYkJyZzZTcHc2S2gyMHNVRXBZRVZfYmJ5NzU5a2o1QTExOUQ0RHA1NC1QVzNhcjhmcmNCVGJhbTBNRGVaQTZRd2M2cEU5eUU0M3lwV2gxZGxxVlR1cWRLcEVfZzdhQ1dYODlZcUNrRlFhNzdHLUVGNHBCOTUxdHVLWi1Nd0d1c0paOFdkTjhBQXZ6UkszN1E2NHg3WDl2TTJHTVVaNFVTYU1FdnhUVEtxcFZnT0Q4UW1XQXBZaklQd1laanRnU0Y1ZTU?oc=5",
       "description": "Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street The Economic Times"
     },
     {
@@ -35854,15 +35872,6 @@
       "title": "Why the AI Selloff Got It Wrong - InvestorPlace",
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNnppNlBFc0lMa1BkZ3lGbXhQN1VvUWZ5M0FfNEMtMFpaV29LbERldnN2U2tVeFE3eEwwTDVRczMyTUx3NExwN09pVjljTDNPakJCa3pKUW1WSHVTNkJXSkt6eTdWU3VDYl8zOUxQUFo4WE1N?oc=5",
       "description": "Why the AI Selloff Got It Wrong InvestorPlace"
-    },
-    {
-      "published": "2026-11-10T00:35:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "BigGo Finance",
-      "title": "Philadelphia Semiconductor Index Plunges 30% in Five Weeks; Tech Sector Valuation Falls Below Broader Market for First Time in Nine Years - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CWVNLMnFKTW1JYk9QX0ZMVmxXbnQxcWJPYXdQNGlwNnBaeGduMHB4Mkh4b25ZZU9xWkJ0QW1CSkJ2RzByVDR2WGlLd2pTRzJaem5mREVBbzROcDhoYlFLSExfNnE2bTlMVjJBdU54aF9LWFBsTXc?oc=5",
-      "description": "Philadelphia Semiconductor Index Plunges 30% in Five Weeks; Tech Sector Valuation Falls Below Broader Market for First Time in Nine Years BigGo Finance"
     },
     {
       "published": "2026-11-09T23:40:00+00:00",
@@ -36252,24 +36261,6 @@
       "description": "Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? Invezz"
     },
     {
-      "published": "2026-11-09T08:00:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Moomoo",
-      "title": "Nvidia Selloff Draws a Massive $95M Bullish Options Bet | Smart Money Option - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObWJxMWRMYjQydFRvMEQyTWdoYWZsanpmbG9WWXFCRHpNTkFFUlJ6ZmstMlVLbi1hUGJJbmZlcTVwb29pcWRBbDFaUU9nSVZGSjZRd3ZRcm4zOWNJS1ZjTWh3ZUVwcGUxdi1PT1RCaHlXQnNEZXkya1NCY3VYY0s5T05obVlqVjJ4RkZaX1lWZmpDa0l4cDZFSHNDUVo2Ym9EVXMzVVRfRUlMblF6UTV2Sk9fMFI?oc=5",
-      "description": "Nvidia Selloff Draws a Massive $95M Bullish Options Bet | Smart Money Option Moomoo"
-    },
-    {
-      "published": "2026-11-09T07:50:09+00:00",
-      "score": 7.0,
-      "themes": "['market selling', 'India market']",
-      "source": "Zee Business",
-      "title": "IT Stocks Crash! TCS, Infosys, HCL Tech lead Rs 50,000 crore mcap erosion as Nifty IT falls 2% – Here's what triggered selloff - Zee Business",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQa09SM3E1X0hEZWEtZVl0b2pzYzlVNW52V0h2M244ZngxbWlWNkJIVWR1RF9YNzZkUTlsTEhXZ29DenFEcUlfZzhZTUQ1S1ZuQV9aczA2VXdXdUs2LS1GczZ1cXBYODFWZ0JxUThuY3ZteGthNzQ4Q2FVZ1Y0VlZxSXRnVnEwMnRIY2w0ekg3dVB0UFlGUF9kUjgxNDJwSllIM2dDY1dmMFRkckc5Z1JWRFRMWjdrbTZqcEhJdW8zeGNTaDJPa0JiSjdwOEs0T012YUZPanB3NDJXZU8tU2JmSnZReTl5bnl2ZG40Z0NaR3ZKYWRSTEkxdQ?oc=5",
-      "description": "IT Stocks Crash! TCS, Infosys, HCL Tech lead Rs 50,000 crore mcap erosion as Nifty IT falls 2% – Here's what triggered selloff Zee Business"
-    },
-    {
       "published": "2026-11-10T00:51:53+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -36369,15 +36360,6 @@
       "description": "India VIX jumps 68% in three weeks despite 7% rally in Sensex, Nifty The Economic Times"
     },
     {
-      "published": "2026-11-09T18:58:03+00:00",
-      "score": 3.0,
-      "themes": "['India market']",
-      "source": "India Tribune - Chicago",
-      "title": "Sensex, Nifty end higher in volatile trade as PSU Banks, Pharma stocks lead gains - India Tribune - Chicago",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFRkZEtOaHh1OWJyTHFwRnVUcW8yVG5GWUdkY2RfbWh0Y3NnS3psaHdNUHhhWFcxUlpLb20wb1pqR3FvRmpFaWVqNk1TallSSHE3T3hQU0hVWGg3eHlVMTVIaFRXUi01aHFaTWJHbXdFMEJDNlFGVXc5OG1fOUEyZHVLY3BkNFdJOUsxS040dDNMM0RnMEF5ZDNJdzdHbjlaMjdpYlB1QTZ2WFVB?oc=5",
-      "description": "Sensex, Nifty end higher in volatile trade as PSU Banks, Pharma stocks lead gains India Tribune - Chicago"
-    },
-    {
       "published": "2026-11-09T15:02:30+00:00",
       "score": 3.0,
       "themes": "['India market', 'macro / flows']",
@@ -36423,6 +36405,15 @@
       "description": "FPI investments in FAR G-Secs rise nearly ₹8,000 crore as rupee gains, bond yields ease CNBC TV18"
     },
     {
+      "published": "2026-11-09T10:43:20+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "Telegraph India",
+      "title": "Markets end in the green as falling crude prices lift sentiment, Sensex climbs 107.25 points - Telegraph India",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQZzh2T1l1X3BYMG1BbUZKRDFsQXJZWkNCcGlteVNnUUpUMEd3WWVXNmlJb0pvcnVNSm9Ta1lUSTNqYmZQU0JLNmhNQUZqeWdQM09PbG1OS2FOY0tDUmZQMTkxRFFLaVV6Nkpxd3p2MW9ob0VDZjQ3a3NldkwyMDdYck1UenB4dERFS0xmNEVzdnZ5STJWRUk4ZUdtaDJMeHlLUmh6NlM4N2FaekdfdnhDYW5TSG5lRmhrQm5jemdsRUFCYXJGeVBhbk15UnRzV1BHS0dQU0l6OTB0cm9aem5WatIB4AFBVV95cUxQZzh2T1l1X3BYMG1BbUZKRDFsQXJZWkNCcGlteVNnUUpUMEd3WWVXNmlJb0pvcnVNSm9Ta1lUSTNqYmZQU0JLNmhNQUZqeWdQM09PbG1OS2FOY0tDUmZQMTkxRFFLaVV6Nkpxd3p2MW9ob0VDZjQ3a3NldkwyMDdYck1UenB4dERFS0xmNEVzdnZ5STJWRUk4ZUdtaDJMeHlLUmh6NlM4N2FaekdfdnhDYW5TSG5lRmhrQm5jemdsRUFCYXJGeVBhbk15UnRzV1BHS0dQU0l6OTB0cm9aem5Wag?oc=5",
+      "description": "Markets end in the green as falling crude prices lift sentiment, Sensex climbs 107.25 points Telegraph India"
+    },
+    {
       "published": "2026-11-09T10:27:40+00:00",
       "score": 3.0,
       "themes": "[]",
@@ -36448,15 +36439,6 @@
       "title": "₹50,000 crore in six sessions. Are foreign investors finally returning to India? Reema Tendulkar explains the opportunities and risks. #IndianStockMarket #FII #Nifty - LinkedIn",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcDdyc3g4bUVWZGRkZTZXcDBwTEVITV9zV1ZyU1dJRDk5VFBIOXppMXpUWENoTTBKM0ZYcEdhLVBTQmdVemJoWXY0NVBLczMxTXBXVGZEZE1DcEcweE9fSzl2THdhOTE1aWgxLXVWUlJEUWo3UXpuR0xzT0Y2NG8tM0dOcVM2SHgyRkw3aGhaTXNRV1IyMl9NOENCZmxUYWRmMWxxUw?oc=5",
       "description": "₹50,000 crore in six sessions. Are foreign investors finally returning to India? Reema Tendulkar explains the opportunities and risks. #IndianStockMarket #FII #Nifty LinkedIn"
-    },
-    {
-      "published": "2026-11-09T08:05:15+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Castanet Kamloops",
-      "title": "Sip & Shop Artisan Market - Castanet Kamloops",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBldW16NGxVTjROdjVTS29sTGFJQkJVbEszVGJaX3FvaEJUUDVkZDNwck5mSE54azhFbms3Rm40cWxtU1hnU1JQakhQZXcyMjkzOXRlVXlXQW1QQ01aWXljOF84SFJ3Z0xPZUV6U2s5bjhqWnV1TDZWaktB?oc=5",
-      "description": "Sip & Shop Artisan Market Castanet Kamloops"
     },
     {
       "published": "2026-11-10T00:36:21+00:00",
@@ -36556,24 +36538,6 @@
       "title": "A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options - Moomoo",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXMwX1llcHFiZ0F2MjlhTmJoSGtmcTF1VV9MV1JsR1plVE1RQ3VSOHBLRTdQb0k3dkVGbUpzUXdoZmNpQ28tbTZoT0dqUjFCZmlzQjlBY3E5dHRCUVUyN0VyRFJUSXhvSkNsTUViRW1PS3pHcmg3Mkxlam9uck9pRk43X1VoNV9tOFQ5UEVscDBNa0FBb01MVXFzblg4ajNGMkloSzJDNUFaOE56?oc=5",
       "description": "A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options Moomoo"
-    },
-    {
-      "published": "2026-11-09T07:39:07+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "News18",
-      "title": "Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumble: Motilal Oswal - News18",
-      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYlllMW02R2t4Y3VvV00tSE5xTWdDQjA4d2RGdllqYXBrWGZkdFk3QmZkYWtpZGJQRS0tSThGSjA5SFQ0R1JkblhkUUIwOWs3LXJCZEtWbVE3RW9KT1BRaVhNZWxraFNjaWN4SG9VaHg1YUZFQkNuSTA2YXNuRE5GNlhJQmhBOENhNDM5aGs4MlhiTlo4Ni1nQVNVWjlqYy1tanBPOEZoY0t4dkJXVG1oZEJYREltNWhfT1ZLNF9JWmx2V3ladnJKTFhIT1lmZ2I0VTlHUzltSDAtNGtUdlhXTEFtejBDX1nSAecBQVVfeXFMUGJZZTFtNkdreGN1b1dNLUhOcU1nQ0IwOHdkRnZZamFwa1hmZHRZN0JmZGFraWRiUEUtLUk4RkowOUhUNEdSZG5YZFFCMDlrNy1yQmRLVm1RN0VvSk9QUWlYTWVsa2hTY2ljeEhvVWh4NWFGRUJDbkkwNmFzbkRORjZYSUJoQThDYTQzOWhrODJYYk5aODYtZ0FTVVo5amMtbWpwTzhGaGNLeHZCV1RtaGRCWERJbTVoX09WSzRfSVpsdld5WnZySkxYSE9ZZmdiNFU5R1M5bUgwLTRrVHZYV0xBbXowQ19Z?oc=5",
-      "description": "Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumble: Motilal Oswal News18"
-    },
-    {
-      "published": "2026-11-09T07:39:07+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "News18",
-      "title": "Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumble: Motilal Oswal - News18",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQSG5jYzBBN3BkRzZwbmNqdF8xVXh6Yzk1R3IzTW9HQkliY0tUTGRtMkJQT1Zscy1hS2lGX1VvVnltdElOT1JuTHl2TFJpbktVRUI4cFhrOXNXT01hT3ZDRHFveTRNQzVpbjE3MW1Xc3ZWa0FTeFZVT1k1ekNPQ2F3X1djYzRyQWN2NWtDWE90bS1FakJsMkhIbVpSenZTOWJwYjR0YUxNaHN0c2NzTFFucFNMVHllbEo0b0E5bnlsckpCc05taTVBVmFTYXRTLXJsYUhud2x3cjNjMzBkVlYwX2V30gHnAUFVX3lxTFBiWWUxbTZHa3hjdW9XTS1ITnFNZ0NCMDh3ZEZ2WWphcGtYZmR0WTdCZmRha2lkYlBFLS1JOEZKMDlIVDRHUmRuWGRRQjA5azctckJkS1ZtUTdFb0pPUFFpWE1lbGtoU2NpY3hIb1VoeDVhRkVCQ25JMDZhc25ETkY2WElCaEE4Q2E0MzloazgyWGJOWjg2LWdBU1VaOWpjLW1qcE84RmhjS3h2QldUbWhkQlhESW01aF9PVks0X0labHZXeVp2ckpMWEhPWWZnYjRVOUdTOW1IMC00a1R2WFdMQW16MENfWQ?oc=5",
-      "description": "Nifty Outperforms Broader Markets In October As Smallcap, Microcap Indices Tumble: Motilal Oswal News18"
     },
     {
       "published": "2026-11-10T07:07:57+00:00",
@@ -36702,6 +36666,15 @@
       "description": "Credo Technology jumps as investors buy the dip after recent selloff Quiver Quantitative"
     },
     {
+      "published": "2026-11-09T16:02:06+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "ad-hoc-news.de",
+      "title": "UBS Chief Pushes Back on AI Pessimism as Takeover Chatter and Capital Hopes Drive the Stock - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNQTh5cnhhSXMtQnZuZUtpbjJhNjh5SjBxM1liend0WVdsY2N1c2dGNG4wT1Y1M3hPc011VkhuV3hCLUs0SVc0cXFUS3dvX1QxWExPNXdaR2pKVFY5anBZNWRndXVVbU10Q2FhR01rMExoQVBjQXpTQWlKV1ZOcEFkY0V5UWJjelhPTDk0eDd2N1JBSGl0NFZaWjVNak1KRWpaLXpVSWs1b2JQRUtzdGRlN2ptS1pPN2dEVnp6SVVkZ3czcWFLVWlEZEtzZWVkNDZ1ZlFvaGZrMFg3czFUeUN5UkE4QV9sQ2RndDVSeEUxSkJWZi04X2c?oc=5",
+      "description": "UBS Chief Pushes Back on AI Pessimism as Takeover Chatter and Capital Hopes Drive the Stock ad-hoc-news.de"
+    },
+    {
       "published": "2026-11-09T15:36:17+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -36763,6 +36736,15 @@
       "title": "Ahluwalia Contracts (India) Ltd is Rated Sell - MarketsMojo",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMU8xR29rZWZBUlFnaGVtQm51WmZvZm9xY2p2MDg2TzJDeFlfcklwajVaM05qUGxmZUF4eUlZa0hmOGV0SnZ5OVNQX1doVFo5OWtmQl9uRWpsOF85U1NIUDlrSzNwaE1qQUd6bHFkbkpTRUxISWVVNTdCb05DOTJEWEhhb19TYUtQdjhnQTJfVzhkd0txZmZkZl9oaFpobDRtcXdBRjltcV8?oc=5",
       "description": "Ahluwalia Contracts (India) Ltd is Rated Sell MarketsMojo"
+    },
+    {
+      "published": "2026-11-09T10:57:30+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBN9IB-AFBVV95cUxNb254V2pMS2d5OGtCdXdLZnpJanl1eUdfem5iNDBqcHI0TzZwLTVWUnliNHhtLWlmc21KeXR1a2g3LWgyc1UzRjFWcnhXZ2JCbkt6bUNmb2ZxeEJFTWdiUWJHQVV1dldYcmQ2Wko3X1A2QTRfNXIyeWdiZmtBQ3lMaUpaTmhTaDhqTU1ucExBb0hLRTRLMElzRTBGQlJHazRWd2E4VDEzTkdNTXN1NVZnTkF2ZVhpVkNIZV85TW9pS2hkR1NyQlY0WEw1elQzbEVJREVtNWctZnM0Z3kzNXE3ZXllQjY5TjlhV3cyTVlOaERVQ3drMmNBNw?oc=5",
+      "description": "SAT upholds SEBI fraud findings against former Ricoh India CEO Takano, cuts penalty to Rs 10 lakh Moneycontrol.com"
     },
     {
       "published": "2026-11-09T10:01:04+00:00",
