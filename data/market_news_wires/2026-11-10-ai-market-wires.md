@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-10 11:51
+Generated: 2026-11-10 12:31
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,15 +26,15 @@ Gita Gopinath Warns AI Investment Boom Could Face Major Market Correction INDIA 
 
 Quantum X Labs reports progress in AI quantum error correction By Investing.com Investing.com India
 
-### 3. Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3% - Moneycontrol.com
+### 3. Oil Selloff To Nvidia Recovery: Five Reasons Wall Street Futures Are Mixed Amid AI Bubble Fears - NDTV Profit
 
-- Source: Moneycontrol.com
-- Published: 2026-11-09T11:57:27+00:00
-- Themes: AI / tech risk, market selling, India market
-- Score: 12
-- Link: https://news.google.com/rss/articles/CBMi8wFBVV95cUxNYUpmX0FOX1VFeC1EM0xQdHFEcHVTZTJCRUVSSmN5QVVETGdFQ0dDcjF5RGw4RklGSU1CVFVSTWNUYTZWQVF2ZTN0a0Z0anh6VkpoTnplUEFOcGFIcmxnSHA2OWRoMGNnbW5wZTZfSE5ZUmZnVEpEQlItY00wVW1RRzJSOHRjMXNkTGV1LUNkd1IweFE1Z0lsVTFXZ3NZM25kRDY2cFF1ZzJxVDlDb2pteDhJNjZBMWZQNFkteC0yZkNRaWxjQThhNU16VjRqc1dDaHEybkRlQ0o4NlJ2RElhNWtlLUc0eE5wZU5NQk5pQTZ5M2fSAfgBQVVfeXFMTVZJd3p0Z3BIYW15c3AzU1MyRmk1a2d6TlhqOWhTMVBzY3ZYVG1qTm1aUy0xQXBBOFRaRk1MeHo3U2s0VGFoaENObFI3cklIeDdRdzV3dnNCZGNTdWxGaTFLZHVLVlFNcEs2NmlrenFvZ3RWb2ZxVjkxQ1M4MmtPd0RIZXFISjVyUHNRX0ZuQm04ZUltV0FhT1VTZ09NRy1CZ3FfQ0V5QUxySjZoZnRkTHpaY1hzZ3NMeVJRVUcyampmR0psbmxHcEN5ekZSMWNPZUlkT2lhU0oxU1BQdmRNNHJhY2wtUnk1d0s3UlpFUmdsZjVRNzlOSnQ?oc=5
+- Source: NDTV Profit
+- Published: 2026-11-10T11:46:10+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxObXRFTjFmaHdhaGxWNFRsanpxSWxnUnRRUXFhSTRPTWMxbTVRTDZ6UFVMUllCbEQ0UzVHM0hfV0ppU2lrS3dPMnRiQzlteFNxT1I0aElGNmh4Q2ZENndCTTBVWkh5VS1qYzdxekZxX0V0WHk4RkFGcjRDMWVXdWRZMEhtN0Zxb01FblJueEd6aUFUazNTYUdWYUgwOG9xdFdvX2ZJaUlYTVlOWlZSdWVyR2FfbHFxX0g5OEc1STVtcjhZQlF1T2p3SkktQkhnYmxSY241RtIB3AFBVV95cUxPdUpGUmRzR2xjVWp2ZEh4aWJCcmVIYkpmTFp4N29RZ3RMb1BnWHZnYU5LVDBqa2phc0ZOYVctclFFY1c0UkJhbnNEalF1SjdKVnRLSUlaYjZuZE0wUXJvX2dHS0NWNlNjZDY4S2RONkpPazJsLUpJZUxtOW10YXVVM1ZEazAzNTVNRVg0Z28wSHpMUkg2ZlRHUWlkZzVLS3ZOWlFYVHFLVXZIVW9uTU5GTDdVQ3ZEcGZkeHBULWx3MmQ0RU1nRnI4OFJTcHI3WlVnNktNMElhYjU5S2lR?oc=5
 
-Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3% Moneycontrol.com
+Oil Selloff To Nvidia Recovery: Five Reasons Wall Street Futures Are Mixed Amid AI Bubble Fears NDTV Profit
 
 ### 4. Mutual funds' Nifty 50 allocation falls to 21-year low in Sept quarter - BusinessLine
 
@@ -106,17 +106,7 @@ SoftBank to face scrutiny of AI strategy at second-quarter earnings after sellof
 
 The AI Stock Selloff Overlooks Good News—and Earnings Growth Barron's
 
-### 11. Wall Street Calls AI Sell-Off Overdone as Earnings Put the Rebound to the Test - Brave New Coin
-
-- Source: Brave New Coin
-- Published: 2026-11-09T21:00:50+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxNam1WZUNSampQd0FINnlINFhRa2lKVmNFLXNrbExzMl9pRnRFUWxLNTVXME1mZ1BHZ2gyU2pVYldwX21YS21zWHBHS2ZUdC0wdUFEVm5wSU5DVnJlYndHNU1ES3hIeFpuUXFjalE1V25rMWFtZDlRdW1zaUxpMDEyaXM5c3FBaXc?oc=5
-
-Wall Street Calls AI Sell-Off Overdone as Earnings Put the Rebound to the Test Brave New Coin
-
-### 12. UBS Says Tech Selloff Reflects Positioning Reset, Not Structural AI Investment Slowdown - bloomingbit
+### 11. UBS Says Tech Selloff Reflects Positioning Reset, Not Structural AI Investment Slowdown - bloomingbit
 
 - Source: bloomingbit
 - Published: 2026-11-09T20:09:49+00:00
@@ -126,7 +116,7 @@ Wall Street Calls AI Sell-Off Overdone as Earnings Put the Rebound to the Test B
 
 UBS Says Tech Selloff Reflects Positioning Reset, Not Structural AI Investment Slowdown bloomingbit
 
-### 13. HSBC sees tech selloff as a buying opportunity amid AI regulation fears - Seeking Alpha
+### 12. HSBC sees tech selloff as a buying opportunity amid AI regulation fears - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-09T16:47:00+00:00
@@ -136,17 +126,7 @@ UBS Says Tech Selloff Reflects Positioning Reset, Not Structural AI Investment S
 
 HSBC sees tech selloff as a buying opportunity amid AI regulation fears Seeking Alpha
 
-### 14. Morgan Stanley Says S&P 500 Correction Is In Its ‘Final Innings,’ Calls Chip Selloff An ‘Entry Point’ - TradingView
-
-- Source: TradingView
-- Published: 2026-11-09T15:28:58+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxORGN0cU5QaGRRSUZmYU5OMmw4OUN2czcydE84djNmcTJ3UGdMX25Hc0R5dlJRMGlTamZDUmxGdnNuazctbmlFQU9naVp3S3l3TXBKSjBIeEJTQ2MtYTQwTkM0Q0RGVnB3THJVOUlHSUF4MGNjbF9ZSHJrMmFpdUhVOUJneXIzUGJ1NUx3eTdXMmVTUFUtS3duWVplMU9TVzloTkwzWVlEaXdUN2l2VHZWWmkyRnVodkl1ZldHZnFLOFRrQVRHNHFwbjdacG9jNVZRRXhtcnBQTXhRYVlmMDhGRE1BZDlWbTJmQW9NTzdn?oc=5
-
-Morgan Stanley Says S&P 500 Correction Is In Its ‘Final Innings,’ Calls Chip Selloff An ‘Entry Point’ TradingView
-
-### 15. Dell and HPE Were AI Winners Until the Selloff. Can Earnings Put Them Back on Track? - Yahoo Finance
+### 13. Dell and HPE Were AI Winners Until the Selloff. Can Earnings Put Them Back on Track? - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T14:04:29+00:00
@@ -156,7 +136,7 @@ Morgan Stanley Says S&P 500 Correction Is In Its ‘Final Innings,’ Calls Chip
 
 Dell and HPE Were AI Winners Until the Selloff. Can Earnings Put Them Back on Track? Yahoo Finance
 
-### 16. Goldman Sachs sees Europe AI stock opportunities amid tech selloff By Investing.com - Investing.com Nigeria
+### 14. Goldman Sachs sees Europe AI stock opportunities amid tech selloff By Investing.com - Investing.com Nigeria
 
 - Source: Investing.com Nigeria
 - Published: 2026-11-09T13:48:50+00:00
@@ -166,7 +146,7 @@ Dell and HPE Were AI Winners Until the Selloff. Can Earnings Put Them Back on Tr
 
 Goldman Sachs sees Europe AI stock opportunities amid tech selloff By Investing.com Investing.com Nigeria
 
-### 17. Sensex falls over 300 points, Nifty slips below 24,300 as crude prices rise - DD News
+### 15. Sensex falls over 300 points, Nifty slips below 24,300 as crude prices rise - DD News
 
 - Source: DD News
 - Published: 2026-11-09T13:20:29+00:00
@@ -176,7 +156,7 @@ Goldman Sachs sees Europe AI stock opportunities amid tech selloff By Investing.
 
 Sensex falls over 300 points, Nifty slips below 24,300 as crude prices rise DD News
 
-### 18. AI stocks fall after midterm results as Nvidia CEO faces investigation - WAFB
+### 16. AI stocks fall after midterm results as Nvidia CEO faces investigation - WAFB
 
 - Source: WAFB
 - Published: 2026-11-09T12:36:03+00:00
@@ -186,7 +166,7 @@ Sensex falls over 300 points, Nifty slips below 24,300 as crude prices rise DD N
 
 AI stocks fall after midterm results as Nvidia CEO faces investigation WAFB
 
-### 19. Goldman Sachs backs Nvidia with $300 price target, sees upside after AI selloff - Firstpost
+### 17. Goldman Sachs backs Nvidia with $300 price target, sees upside after AI selloff - Firstpost
 
 - Source: Firstpost
 - Published: 2026-11-09T12:35:43+00:00
@@ -196,37 +176,17 @@ AI stocks fall after midterm results as Nvidia CEO faces investigation WAFB
 
 Goldman Sachs backs Nvidia with $300 price target, sees upside after AI selloff Firstpost
 
-### 20. AI stocks fall after midterm results as Nvidia CEO faces investigation - WAFB
+### 18. Anthropic pushes ahead with IPO despite AI selloff - Semafor
 
-- Source: WAFB
-- Published: 2026-11-09T12:18:00+00:00
+- Source: Semafor
+- Published: 2026-11-10T12:23:00+00:00
 - Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxOR0F3Z0M0TWpVZERjbjliTnZ4a216WG1aTFNMNkxkaVRubTNtYTB2ZTZuRGpKUnMwSXYzN3VJSnRfMkVIWGZMM0RBOVdPdGlKVmZLeW5sYkhhZmU4NnNTWnFhSVVUTWZMb2xLNVBEdVhHalRMRXE1SWpFUWFmRWM3X0trQXotMUNGOFoySnZ6V3RmVHBBSEp5LTU1aHMxdEVsQUHSAbYBQVVfeXFMTkZWTEUyOGxMd0NHNzlZZ24zT0tReVRPM2daNHpVa2hXZEtaSldiam43ZXVncTZJS3ZIaUd3TzlXYUdiREVUSllnd2lTb0FyN2gxelZBMEJ4XzlxTndidFh3em95MjM0bzV4ektMZXEzVVN6SjczT2I2eEp0Zl9FNlF6RGNnVk5ZVUNHU2hCUXdKM1djd2NQYUc3ZjNVamlLRWI0c2NNdVhmbVVZQ193STRIcGt2UGc?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxQbWFTdEVPbjQyNHVDcjVDQ2xxcFkxdUIzM1VyVE12YlJyQlBxWVh3bFdvaWJuRDZQeWFNam9hMzI3T3NOYUxmNTNhZUQwRzhXMGRSeG1vdGhodU52dXo4SzEtLXJKTC1lLW9qZFZxUG9Sc1F2bmdPUFJXX0dpS2M5ZGln?oc=5
 
-AI stocks fall after midterm results as Nvidia CEO faces investigation WAFB
+Anthropic pushes ahead with IPO despite AI selloff Semafor
 
-### 21. HSBC says tech selloff appears overdone amid AI regulation concerns By Investing.com - Investing.com Nigeria
-
-- Source: Investing.com Nigeria
-- Published: 2026-11-09T12:03:47+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOTDVkb053b3Z4UXNHSkx1WVU1X0xnVnNxMlIweHZnck9uVHI4VWxFVDhkZkYwSlM5MDFqZWoyWTRkMFFCZ0pWa3kzNDhKWFlqYlBjdXVVVE8zUjQ0d1dmQ3JseGVCQWlLUzVTeFcwekE3Zk5FODBEbnhBNjdsRUlMY2ZhQVcyNnZ5dmdnWWt1LTRpeVdwYmU2LThVa0lnTHAzbUNlOFlobklzejM5YnA5SHpJQ3MxME8xRmg2X0N2RUp5T2F4NW9j?oc=5
-
-HSBC says tech selloff appears overdone amid AI regulation concerns By Investing.com Investing.com Nigeria
-
-### 22. Sensex, Nifty Close at 8-Month High as Crude Falls to $97, Foreign Investor Inflows Strengthen – Monday Market Report - Moneylife
-
-- Source: Moneylife
-- Published: 2026-11-09T11:54:35+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxObHhfUDIzYktjcXB3TUpTMlh2T19wOFdvQ3QtcjhuTGpYelFPSFZrR3ktZ3UycFBDN2VfejZQRU04Y2wtYWRnSFFWVzFnTnVWa0VxM1RUTjBnWmNtcW05SzN2UjZjQUVBYkFOR21zeTNSbWp0V3pfX1I1cjAtZnlCTVVTSEtNT3pESjZ1eDB1eW5WSWdaT2ZOR212X2Z5Njcxdy1pZHUtMXlocjg3UUhFeWVMQlVLbkJ3Vl9mSy12TXJaMW5jcV9qbUVIY0FBZ0dLSUFsTlJtVWNGd2RwWEs0Wm9kaHkwMzY0eVdF?oc=5
-
-Sensex, Nifty Close at 8-Month High as Crude Falls to $97, Foreign Investor Inflows Strengthen – Monday Market Report Moneylife
-
-### 23. AI Selloff Cut Copper’s US Premium, Favoring LME-Priced Producers - Crux Investor
+### 19. AI Selloff Cut Copper’s US Premium, Favoring LME-Priced Producers - Crux Investor
 
 - Source: Crux Investor
 - Published: 2026-11-10T11:48:49+00:00
@@ -236,7 +196,27 @@ Sensex, Nifty Close at 8-Month High as Crude Falls to $97, Foreign Investor Infl
 
 AI Selloff Cut Copper’s US Premium, Favoring LME-Priced Producers Crux Investor
 
-### 24. Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. - Pluang
+### 20. Huang’s affair: Nvidia shares rebound in premarket trade after sharp sell-off, $1.57 trillion in market value wiped out - Livemint
+
+- Source: Livemint
+- Published: 2026-11-10T11:41:20+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxNN3lfbGFhZnA1WG1jcC1FWDFFZ1pXaHBxZi01U3llMHhpdEp5M0QydnZYc1lhaFJydnUyeFB0dno5bF82U2N2dV82YUVWQ3Qyc1RSdUQxZk1NOGZGM2NUeWdDaWowSjEzdTQ2eDhTNW4xa0dQYWJxWFBrcGh5WWZYUThlQ0E1OTJyUkg5QmxRTU9RR01EajduR29WU1NtNDMyRmItalBYTXZLMWZvT08yS2VYb1JsMFRDT25VMTNhZXp1VWp0TUh1VTlzNkpqOS1kOEZ0RzJjTzd4VkNQcHJOMnJ5UDQyRDNZTnFEQTZyb3RlRXJuYl9TMVIxdXlDOVp6TEk3dkFxUFdjQUE0OWVPLTAwbw?oc=5
+
+Huang’s affair: Nvidia shares rebound in premarket trade after sharp sell-off, $1.57 trillion in market value wiped out Livemint
+
+### 21. Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks - BigGo Finance
+
+- Source: BigGo Finance
+- Published: 2026-11-10T11:35:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE1TT2RXeWZsLW1CVmktX25wdHZXdk1ESlU5RVlvRUpDMWlKSFZiZEZvaDcwQ21jRy0zT1pheTZNWERJV2drZG1SMl91azIyNDVpVEVTOUN3VHY3bXBBSG54UTdXaVdOODZySFVEc0VGeFAwWVp3U1E?oc=5
+
+Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks BigGo Finance
+
+### 22. Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. - Pluang
 
 - Source: Pluang
 - Published: 2026-11-10T11:26:47+00:00
@@ -246,7 +226,7 @@ AI Selloff Cut Copper’s US Premium, Favoring LME-Priced Producers Crux Investo
 
 Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. Pluang
 
-### 25. Stock Futures Waver Before CPI as Nvidia Rebounds After Huang Scandal Selloff - BigGo Finance
+### 23. Stock Futures Waver Before CPI as Nvidia Rebounds After Huang Scandal Selloff - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-10T09:35:00+00:00
@@ -256,7 +236,7 @@ Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex 
 
 Stock Futures Waver Before CPI as Nvidia Rebounds After Huang Scandal Selloff BigGo Finance
 
-### 26. Artificial Intelligence Selloff: Politics & Investing Don't Mix - RealClearMarkets
+### 24. Artificial Intelligence Selloff: Politics & Investing Don't Mix - RealClearMarkets
 
 - Source: RealClearMarkets
 - Published: 2026-11-10T09:17:57+00:00
@@ -266,17 +246,17 @@ Stock Futures Waver Before CPI as Nvidia Rebounds After Huang Scandal Selloff Bi
 
 Artificial Intelligence Selloff: Politics & Investing Don't Mix RealClearMarkets
 
-### 27. Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall - ThePrint
+### 25. Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall - ThePrint
 
 - Source: ThePrint
 - Published: 2026-11-10T09:06:54+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPMkxOUG5JNVlvU1B2M1BnWXFrU0lCVVh2dFdGeUVjMkZFRE5JTU95ckpyNDhFMkJRUXJfR2NkZXVnekFfdVREZkJCRWRqOG1kY3hfS2pKbzRTREQ4aDg0dDZ4cDFDTVFPclBReGdZMU42aUF1bG9RSmxZVG0tOEhRS2VoQkY5NXFQYVhiLUF6UF9udFJ0VUcxRGJLSUpLUURFWjZBN3RHTWNlTHJIUnpfUEJmTnpYY2VUNmtPdHNLY9IBxAFBVV95cUxPT2tiOUJ6UWZVanRPWmZyQnl4R19kcUJLUmFyUmRvSEN0YTFMNEhjNkt6SVFOVzRmc01PdDJDUGY2M3Z0bFgyT3FqSzVnTlJSNnI2NXh4dXc4N2M2VFFwdkJEaVhqMEl0YVIxOXBtQ3gyQjV0aTNpem1hVHVWblM2OTdlVFB6ZWlQQ2VlN0l2TU9TRmVaaG81VGFLYmNGZHdxU1gwVHZDNERISURFa05JbEZqaERTaFhIN2I3eDd6OWlMQjI2?oc=5
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxPT2tiOUJ6UWZVanRPWmZyQnl4R19kcUJLUmFyUmRvSEN0YTFMNEhjNkt6SVFOVzRmc01PdDJDUGY2M3Z0bFgyT3FqSzVnTlJSNnI2NXh4dXc4N2M2VFFwdkJEaVhqMEl0YVIxOXBtQ3gyQjV0aTNpem1hVHVWblM2OTdlVFB6ZWlQQ2VlN0l2TU9TRmVaaG81VGFLYmNGZHdxU1gwVHZDNERISURFa05JbEZqaERTaFhIN2I3eDd6OWlMQjI20gHEAUFVX3lxTE9Pa2I5QnpRZlVqdE9aZnJCeXhHX2RxQktSYXJSZG9IQ3RhMUw0SGM2S3pJUU5XNGZzTU90MkNQZjYzdnRsWDJPcWpLNWdOUlI2cjY1eHh1dzg3YzZUUXB2QkRpWGowSXRhUjE5cG1DeDJCNXRpM2l6bWFUdVZuUzY5N2VUUHplaVBDZWU3SXZNT1NGZVpobzVUYUtiY0Zkd3FTWDBUdkM0REhJREVrTklsRmpoRFNoWEg3Yjd4N3o5aUxCMjY?oc=5
 
 Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall ThePrint
 
-### 28. Gold falls 21.4% globally from its peak, but rupee depreciation and higher import duties limit India's... - Moneycontrol.com
+### 26. Gold falls 21.4% globally from its peak, but rupee depreciation and higher import duties limit India's... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-10T08:47:14+00:00
@@ -286,7 +266,7 @@ Nvidia stocks fall to lowest since April, major stock indexes rally as Brent pri
 
 Gold falls 21.4% globally from its peak, but rupee depreciation and higher import duties limit India's... Moneycontrol.com
 
-### 29. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
+### 27. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T08:32:01+00:00
@@ -296,7 +276,7 @@ Gold falls 21.4% globally from its peak, but rupee depreciation and higher impor
 
 Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street The Economic Times
 
-### 30. Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost
+### 28. Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost
 
 - Source: Firstpost
 - Published: 2026-11-10T08:00:24+00:00
@@ -306,7 +286,7 @@ Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities
 
 Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpost
 
-### 31. Wall Street brokerages call AI stock selloff overdone, see buying opportunity in tech stocks - The Economic Times
+### 29. Wall Street brokerages call AI stock selloff overdone, see buying opportunity in tech stocks - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T07:12:00+00:00
@@ -316,7 +296,7 @@ Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpo
 
 Wall Street brokerages call AI stock selloff overdone, see buying opportunity in tech stocks The Economic Times
 
-### 32. 5 Tech Stocks Hitting 52-Week Highs in the AI Correction - Cabot Wealth Network
+### 30. 5 Tech Stocks Hitting 52-Week Highs in the AI Correction - Cabot Wealth Network
 
 - Source: Cabot Wealth Network
 - Published: 2026-11-10T07:03:13+00:00
@@ -326,7 +306,7 @@ Wall Street brokerages call AI stock selloff overdone, see buying opportunity in
 
 5 Tech Stocks Hitting 52-Week Highs in the AI Correction Cabot Wealth Network
 
-### 33. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
+### 31. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T06:13:43+00:00
@@ -336,17 +316,7 @@ Wall Street brokerages call AI stock selloff overdone, see buying opportunity in
 
 Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street The Economic Times
 
-### 34. AI Stocks Take a Beating, but Morgan Stanley Says 'Selloff Is Overdone': Data Centers Are Delayed, Not Canceled - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-10T04:55:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTFBCQ3N2cGN0c2dRck5HOXozbjNJcVpCUExPeXIzRVU1bGdFUE1lNmJfUkN3VjdocGtGTk15R0lya2hsWF8yb1JONFBPQkNNeXczZGptaVZfUXdpN1d2MVNqcFNwVHZrb3ZzM2I4ajZwamN6U0VxR0E?oc=5
-
-AI Stocks Take a Beating, but Morgan Stanley Says 'Selloff Is Overdone': Data Centers Are Delayed, Not Canceled BigGo Finance
-
-### 35. Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global Sell-Off - BW Businessworld
+### 32. Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global Sell-Off - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-11-10T04:21:49+00:00
@@ -356,7 +326,7 @@ AI Stocks Take a Beating, but Morgan Stanley Says 'Selloff Is Overdone': Data Ce
 
 Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global Sell-Off BW Businessworld
 
-### 36. Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk - Moomoo
+### 33. Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-10T02:32:34+00:00
@@ -366,7 +336,7 @@ Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global S
 
 Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk Moomoo
 
-### 37. Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - The Globe and Mail
+### 34. Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - The Globe and Mail
 
 - Source: The Globe and Mail
 - Published: 2026-11-10T02:25:40+00:00
@@ -376,7 +346,7 @@ Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Ma
 
 Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) The Globe and Mail
 
-### 38. Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - Yahoo Finance
+### 35. Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-10T02:20:00+00:00
@@ -386,7 +356,7 @@ Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (
 
 Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) Yahoo Finance
 
-### 39. AI selloff puts the data center boom in doubt - Modern Ghana
+### 36. AI selloff puts the data center boom in doubt - Modern Ghana
 
 - Source: Modern Ghana
 - Published: 2026-11-09T23:40:00+00:00
@@ -396,7 +366,7 @@ Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (
 
 AI selloff puts the data center boom in doubt Modern Ghana
 
-### 40. Jim Roppel: AI Is In A Severe Correction, But The Multidecade Supercycle Isn't Dead - Investor's Business Daily
+### 37. Jim Roppel: AI Is In A Severe Correction, But The Multidecade Supercycle Isn't Dead - Investor's Business Daily
 
 - Source: Investor's Business Daily
 - Published: 2026-11-09T23:34:00+00:00
@@ -406,7 +376,7 @@ AI selloff puts the data center boom in doubt Modern Ghana
 
 Jim Roppel: AI Is In A Severe Correction, But The Multidecade Supercycle Isn't Dead Investor's Business Daily
 
-### 41. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - Stocktwits
+### 38. AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-11-09T23:12:18+00:00
@@ -416,7 +386,7 @@ Jim Roppel: AI Is In A Severe Correction, But The Multidecade Supercycle Isn't D
 
 AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buying — ‘Beware Period Is Over’ Stocktwits
 
-### 42. How To Value Bitcoin Miners After The AI Selloff And Texas Shock - Forbes
+### 39. How To Value Bitcoin Miners After The AI Selloff And Texas Shock - Forbes
 
 - Source: Forbes
 - Published: 2026-11-09T23:06:22+00:00
@@ -426,7 +396,7 @@ AI Selloff Has Investors Panicking, But Ed Yardeni Says It’s Time To Start Buy
 
 How To Value Bitcoin Miners After The AI Selloff And Texas Shock Forbes
 
-### 43. Nvidia Stock Forecast: Is the Selloff a Buying Opportunity or a Warning for Investors? - finchannel
+### 40. Nvidia Stock Forecast: Is the Selloff a Buying Opportunity or a Warning for Investors? - finchannel
 
 - Source: finchannel
 - Published: 2026-11-09T23:06:18+00:00
@@ -436,7 +406,7 @@ How To Value Bitcoin Miners After The AI Selloff And Texas Shock Forbes
 
 Nvidia Stock Forecast: Is the Selloff a Buying Opportunity or a Warning for Investors? finchannel
 
-### 44. Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks - WSJ
+### 41. Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks - WSJ
 
 - Source: WSJ
 - Published: 2026-11-09T23:04:00+00:00
@@ -446,7 +416,7 @@ Nvidia Stock Forecast: Is the Selloff a Buying Opportunity or a Warning for Inve
 
 Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks WSJ
 
-### 45. WSJ: Anthropic targets Nasdaq debut next week under ticker ANT despite tech selloff - investingLive
+### 42. WSJ: Anthropic targets Nasdaq debut next week under ticker ANT despite tech selloff - investingLive
 
 - Source: investingLive
 - Published: 2026-11-09T21:39:04+00:00
@@ -456,7 +426,7 @@ Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Sto
 
 WSJ: Anthropic targets Nasdaq debut next week under ticker ANT despite tech selloff investingLive
 
-### 46. Taiwan Tightens Short-Selling Rules After AI Selloff, Stocks Post Biggest Gain in 3 Months - Seoul Economic Daily
+### 43. Taiwan Tightens Short-Selling Rules After AI Selloff, Stocks Post Biggest Gain in 3 Months - Seoul Economic Daily
 
 - Source: Seoul Economic Daily
 - Published: 2026-11-09T21:30:05+00:00
@@ -466,7 +436,7 @@ WSJ: Anthropic targets Nasdaq debut next week under ticker ANT despite tech sell
 
 Taiwan Tightens Short-Selling Rules After AI Selloff, Stocks Post Biggest Gain in 3 Months Seoul Economic Daily
 
-### 47. Why the AI Selloff Got It Wrong - InvestorPlace
+### 44. Why the AI Selloff Got It Wrong - InvestorPlace
 
 - Source: InvestorPlace
 - Published: 2026-11-09T21:06:05+00:00
@@ -476,7 +446,7 @@ Taiwan Tightens Short-Selling Rules After AI Selloff, Stocks Post Biggest Gain i
 
 Why the AI Selloff Got It Wrong InvestorPlace
 
-### 48. Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off - Benzinga
+### 45. Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off - Benzinga
 
 - Source: Benzinga
 - Published: 2026-11-09T19:04:19+00:00
@@ -486,7 +456,7 @@ Why the AI Selloff Got It Wrong InvestorPlace
 
 Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off Benzinga
 
-### 49. AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says - Crypto Briefing
+### 46. AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-11-09T18:59:24+00:00
@@ -496,7 +466,7 @@ Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off Benzi
 
 AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says Crypto Briefing
 
-### 50. UBS CEO Sergio Ermotti: AI Stock Correction Stemmed From "Priced for Perfection"; Bank's Own AI Rollout Slowed by Credit Suisse Integration - finance.biggo.com
+### 47. UBS CEO Sergio Ermotti: AI Stock Correction Stemmed From "Priced for Perfection"; Bank's Own AI Rollout Slowed by Credit Suisse Integration - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-11-09T18:15:00+00:00
@@ -506,7 +476,7 @@ AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilb
 
 UBS CEO Sergio Ermotti: AI Stock Correction Stemmed From "Priced for Perfection"; Bank's Own AI Rollout Slowed by Credit Suisse Integration finance.biggo.com
 
-### 51. Nvidia Stocks Fall 4.25% as Board Opens Independent Probe Tied to CEO - TradingView
+### 48. Nvidia Stocks Fall 4.25% as Board Opens Independent Probe Tied to CEO - TradingView
 
 - Source: TradingView
 - Published: 2026-11-09T17:45:20+00:00
@@ -516,7 +486,7 @@ UBS CEO Sergio Ermotti: AI Stock Correction Stemmed From "Priced for Perfection"
 
 Nvidia Stocks Fall 4.25% as Board Opens Independent Probe Tied to CEO TradingView
 
-### 52. US market remains tied to tech stocks despite sharp AI sell-off - The Economic Times
+### 49. US market remains tied to tech stocks despite sharp AI sell-off - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-09T17:43:49+00:00
@@ -526,7 +496,7 @@ Nvidia Stocks Fall 4.25% as Board Opens Independent Probe Tied to CEO TradingVie
 
 US market remains tied to tech stocks despite sharp AI sell-off The Economic Times
 
-### 53. Schwab Trading Activity Index™: STAX Score Rises in October Despite AI Selloff - Business Wire
+### 50. Schwab Trading Activity Index™: STAX Score Rises in October Despite AI Selloff - Business Wire
 
 - Source: Business Wire
 - Published: 2026-11-09T17:30:00+00:00
@@ -536,7 +506,7 @@ US market remains tied to tech stocks despite sharp AI sell-off The Economic Tim
 
 Schwab Trading Activity Index™: STAX Score Rises in October Despite AI Selloff Business Wire
 
-### 54. Banks, investors grow wary of AI debt, spooked by market selloff - Reuters
+### 51. Banks, investors grow wary of AI debt, spooked by market selloff - Reuters
 
 - Source: Reuters
 - Published: 2026-11-09T16:22:20+00:00
@@ -546,7 +516,7 @@ Schwab Trading Activity Index™: STAX Score Rises in October Despite AI Selloff
 
 Banks, investors grow wary of AI debt, spooked by market selloff Reuters
 
-### 55. Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks - Reuters
+### 52. Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks - Reuters
 
 - Source: Reuters
 - Published: 2026-11-09T15:43:10+00:00
@@ -556,7 +526,7 @@ Banks, investors grow wary of AI debt, spooked by market selloff Reuters
 
 Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks Reuters
 
-### 56. Wall Street Says The AI Selloff Missed The Point - Finimize
+### 53. Wall Street Says The AI Selloff Missed The Point - Finimize
 
 - Source: Finimize
 - Published: 2026-11-09T15:41:48+00:00
@@ -566,7 +536,7 @@ Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks
 
 Wall Street Says The AI Selloff Missed The Point Finimize
 
-### 57. The AI sell-off rocked Wall Street last week. Why it sets up the market for a big year-end rally - CNBC
+### 54. The AI sell-off rocked Wall Street last week. Why it sets up the market for a big year-end rally - CNBC
 
 - Source: CNBC
 - Published: 2026-11-09T15:21:18+00:00
@@ -576,7 +546,7 @@ Wall Street Says The AI Selloff Missed The Point Finimize
 
 The AI sell-off rocked Wall Street last week. Why it sets up the market for a big year-end rally CNBC
 
-### 58. Cramer’s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO - Yahoo Finance
+### 55. Cramer’s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T15:14:18+00:00
@@ -586,7 +556,7 @@ The AI sell-off rocked Wall Street last week. Why it sets up the market for a bi
 
 Cramer’s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO Yahoo Finance
 
-### 59. Wall Street brokerages say AI sell-off overdone, downplay Democratic regulation risks - The Globe and Mail
+### 56. Wall Street brokerages say AI sell-off overdone, downplay Democratic regulation risks - The Globe and Mail
 
 - Source: The Globe and Mail
 - Published: 2026-11-09T14:56:00+00:00
@@ -596,7 +566,7 @@ Cramer’s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board I
 
 Wall Street brokerages say AI sell-off overdone, downplay Democratic regulation risks The Globe and Mail
 
-### 60. Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks - CNA
+### 57. Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks - CNA
 
 - Source: CNA
 - Published: 2026-11-09T14:37:01+00:00
@@ -606,7 +576,7 @@ Wall Street brokerages say AI sell-off overdone, downplay Democratic regulation 
 
 Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks CNA
 
-### 61. Dell and HPE stocks drop 40% amid AI selloff; u... - Pluang
+### 58. Dell and HPE stocks drop 40% amid AI selloff; u... - Pluang
 
 - Source: Pluang
 - Published: 2026-11-09T14:33:30+00:00
@@ -616,7 +586,7 @@ Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks
 
 Dell and HPE stocks drop 40% amid AI selloff; u... Pluang
 
-### 62. Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks - TradingView
+### 59. Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks - TradingView
 
 - Source: TradingView
 - Published: 2026-11-09T14:31:50+00:00
@@ -626,7 +596,7 @@ Dell and HPE stocks drop 40% amid AI selloff; u... Pluang
 
 Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks TradingView
 
-### 63. Wall St brokerages say AI selloff overdone, downplay Democrat regulation risks - TradingView
+### 60. Wall St brokerages say AI selloff overdone, downplay Democrat regulation risks - TradingView
 
 - Source: TradingView
 - Published: 2026-11-09T14:31:50+00:00
@@ -636,7 +606,7 @@ Wall St brokerages say AI selloff overdone, downplay Democratic regulation risks
 
 Wall St brokerages say AI selloff overdone, downplay Democrat regulation risks TradingView
 
-### 64. Nvidia: A CEO Scandal, A Selloff, And A $235 Billion Question (NASDAQ:NVDA) - Seeking Alpha
+### 61. Nvidia: A CEO Scandal, A Selloff, And A $235 Billion Question (NASDAQ:NVDA) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-09T14:30:00+00:00
@@ -646,7 +616,7 @@ Wall St brokerages say AI selloff overdone, downplay Democrat regulation risks T
 
 Nvidia: A CEO Scandal, A Selloff, And A $235 Billion Question (NASDAQ:NVDA) Seeking Alpha
 
-### 65. Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors, Demonstrating Up to 20% Fewer Logical Decoding Failures - The Manila Times
+### 62. Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors, Demonstrating Up to 20% Fewer Logical Decoding Failures - The Manila Times
 
 - Source: The Manila Times
 - Published: 2026-11-09T14:18:51+00:00
@@ -656,7 +626,7 @@ Nvidia: A CEO Scandal, A Selloff, And A $235 Billion Question (NASDAQ:NVDA) Seek
 
 Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors, Demonstrating Up to 20% Fewer Logical Decoding Failures The Manila Times
 
-### 66. Quantum X Labs Expands AI-Powered Quantum Error Correction Program... - Quantisnow
+### 63. Quantum X Labs Expands AI-Powered Quantum Error Correction Program... - Quantisnow
 
 - Source: Quantisnow
 - Published: 2026-11-09T14:07:46+00:00
@@ -666,7 +636,7 @@ Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM 
 
 Quantum X Labs Expands AI-Powered Quantum Error Correction Program... Quantisnow
 
-### 67. Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever - Yahoo Finance
+### 64. Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-09T14:03:46+00:00
@@ -676,7 +646,7 @@ Quantum X Labs Expands AI-Powered Quantum Error Correction Program... Quantisnow
 
 Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forever Yahoo Finance
 
-### 68. Citi Dialed Back Its US Stock Call After The AI Selloff - Finimize
+### 65. Citi Dialed Back Its US Stock Call After The AI Selloff - Finimize
 
 - Source: Finimize
 - Published: 2026-11-09T13:45:17+00:00
@@ -686,7 +656,17 @@ Nasdaq Stock Market Correction: 3 AI Stocks You Can Buy Right Now and Hold Forev
 
 Citi Dialed Back Its US Stock Call After The AI Selloff Finimize
 
-### 69. Western Digital stock faces AI policy risk after election selloff - ad-hoc-news.de
+### 66. Nvidia Stock’s (NVDA) Sell-Off Looks Overdone Ahead of Q3 - TipRanks
+
+- Source: TipRanks
+- Published: 2026-11-09T13:17:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNczZJb0NuWWI2VU5OeEczTHpBMWhVbWh0ZHpoLWxGcDhzSXl5QnE0aDNhcXk2bEFzVUFiS2xwYW1XRENJWXlDdk9SR2dROWhSMDdJWGdETVoxZUFfUlNqdXJURUFHVk95ZjBsOTdXWGtYXzREZXNJYkowV1Q2YWpkaTRnV1FJcEpUVlRxY1gxRWdfNEVHa3NF?oc=5
+
+Nvidia Stock’s (NVDA) Sell-Off Looks Overdone Ahead of Q3 TipRanks
+
+### 67. Western Digital stock faces AI policy risk after election selloff - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-09T13:03:53+00:00
@@ -696,17 +676,7 @@ Citi Dialed Back Its US Stock Call After The AI Selloff Finimize
 
 Western Digital stock faces AI policy risk after election selloff ad-hoc-news.de
 
-### 70. Cantor sees AI infrastructure stock selloff as overreaction By Investing.com - Investing.com Canada
-
-- Source: Investing.com Canada
-- Published: 2026-11-09T12:09:18+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOdW1mdW40VVpXcm5QTHF6azVKQU9pWk1iTml2QnBJN1BkRlVRUGV2LXY2MFVxcWNNMTE5a3M3dkN4MUhXd2pMdEp0cndpdFA1NjZGaWlfQWpTU0QweUtFQlktSEFIS0gtLW5HXzYydV84SGh5MUl4aWhqSzZFOEFwdEtWQXJwWlhobEFncVltNXl5b1k2dlRyRGZkTFBoUnFIVThZd3U0ZUwyeXBxaHpBeXlxWWRpMEpCN2FDQQ?oc=5
-
-Cantor sees AI infrastructure stock selloff as overreaction By Investing.com Investing.com Canada
-
-### 71. Foreign investors keep faith in 83 stocks despite prolonged India selloff - The Economic Times
+### 68. Foreign investors keep faith in 83 stocks despite prolonged India selloff - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T00:51:53+00:00
@@ -716,7 +686,7 @@ Cantor sees AI infrastructure stock selloff as overreaction By Investing.com Inv
 
 Foreign investors keep faith in 83 stocks despite prolonged India selloff The Economic Times
 
-### 72. Could Fall Alberta Drilling Make Westgate (TSXV:WGT) A Smallcap Standout? - Kalkine Media
+### 69. Could Fall Alberta Drilling Make Westgate (TSXV:WGT) A Smallcap Standout? - Kalkine Media
 
 - Source: Kalkine Media
 - Published: 2026-11-09T22:14:00+00:00
@@ -726,7 +696,7 @@ Foreign investors keep faith in 83 stocks despite prolonged India selloff The Ec
 
 Could Fall Alberta Drilling Make Westgate (TSXV:WGT) A Smallcap Standout? Kalkine Media
 
-### 73. Promoter holding in Nifty 50 firms falls to 40% - BusinessLine
+### 70. Promoter holding in Nifty 50 firms falls to 40% - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-09T15:02:45+00:00
@@ -736,7 +706,7 @@ Could Fall Alberta Drilling Make Westgate (TSXV:WGT) A Smallcap Standout? Kalkin
 
 Promoter holding in Nifty 50 firms falls to 40% BusinessLine
 
-### 74. Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today
+### 71. Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today
 
 - Source: Business Today
 - Published: 2026-11-10T10:27:39+00:00
@@ -746,7 +716,17 @@ Promoter holding in Nifty 50 firms falls to 40% BusinessLine
 
 Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report Business Today
 
-### 75. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
+### 72. AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-10T05:59:09+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMimwJBVV95cUxNWUo0TjJfckNpaWxDT25nM2VJSlZRTUotTW5sNnhIX2I1X2doc1U2SnNUbFUzMzBlckhxaC02RXVGWW9JLUVyNndrQWoyZ0FJa0IwWE52TW5KTUl6OXhWX01WbmhxczV6QXJQVHNKb3g5azNfYzdSY1FsT2JDU0JzQnFWMzdWUW5DenlwbEFlSXdGb0xIVDZlam5zbXg2UmVlaDRkRFRNSTNtYWVSa1BiNDF1aUZQQ1RVakFrcXJ4cWNLa3lrejRfRlRQdzM3MjRDcUh0ZUFFRGxoY05hYXBkUEQzSkNjak5EVS1WcmZjMWU5VVBtSkJvZ0I4VVdOdWE0dlBFYmxjaHlncVdiVFczNl9VcjlCTXo3cVFZ?oc=5
+
+AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap The Economic Times
+
+### 73. Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-11-09T23:58:52+00:00
@@ -756,17 +736,7 @@ Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift 
 
 Best Mutual Fund to Invest Now: 40 Funds Compared, Live Returns Myinvestmentideas
 
-### 76. Bangladesh's mutual fund industry: A roadmap to 5% of GDP - The Business Standard
-
-- Source: The Business Standard
-- Published: 2026-11-09T19:05:00+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQbUxVaXRlSTJqUzQ2U1Jfb1VvLVRnOVVVcjd2d3Z2ekRYU1BCRnpGVXFkMDZtX1lmZ3ViWGFGem5VWDJaazVNUjFDUU9FZ3lmQVVtX2lSbFR5SEIxX19NdEpGRTBPaEpxbm1yOUZhNkFRaWFHR3pyYjc2N1JNcENGRGlZeTFDRnNuS0taQXB1UXZ0a1cxU09yWGxvemk?oc=5
-
-Bangladesh's mutual fund industry: A roadmap to 5% of GDP The Business Standard
-
-### 77. Motilal Oswal Midcap Fund vs HSBC Midcap Fund: 7-year CAGR and expense ratio compared; which fund delivered higher returns on Rs 10,000 monthly SIP? - ET Now
+### 74. Motilal Oswal Midcap Fund vs HSBC Midcap Fund: 7-year CAGR and expense ratio compared; which fund delivered higher returns on Rs 10,000 monthly SIP? - ET Now
 
 - Source: ET Now
 - Published: 2026-11-09T16:54:45+00:00
@@ -776,7 +746,17 @@ Bangladesh's mutual fund industry: A roadmap to 5% of GDP The Business Standard
 
 Motilal Oswal Midcap Fund vs HSBC Midcap Fund: 7-year CAGR and expense ratio compared; which fund delivered higher returns on Rs 10,000 monthly SIP? ET Now
 
-### 78. Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict - DD News
+### 75. Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News
+
+- Source: DD News
+- Published: 2026-11-09T13:20:06+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWh5NURUUU9wLV9PY1JiZ1pmMFJUNVRvdG1EMHFJYlpIbjhzalBMTHJGWDdBcGQ4MUtkWnpWLTNmVGZsc2pBNVlLSFVVV0dWcjJ4eFo0ZnJNUzE3dWY5YUwxdlhyUmFKVVZKLVZ5Zm91dU1nN1p2RW1RYzkwZzdaSkJFY3g4VWFTMkZzS3ZhendCUUFlUU9tamRpX2hXb0s1MjVIaG9zTHBZSW1ST2U0UlYwdWRoRDR4NmNn?oc=5
+
+Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI DD News
+
+### 76. Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict - DD News
 
 - Source: DD News
 - Published: 2026-11-09T13:17:15+00:00
@@ -786,17 +766,17 @@ Motilal Oswal Midcap Fund vs HSBC Midcap Fund: 7-year CAGR and expense ratio com
 
 Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD News
 
-### 79. RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune
+### 77. RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune
 
 - Source: The Tribune
 - Published: 2026-11-10T10:31:43+00:00
 - Themes: India market, macro / flows
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1MxcGloU0lVb2J3QWtabEc4NmE4QVNVOTZYTHNEOWtvRl9VTkZ0cnJqYkZ4UFVNR195SllwT2RRSjJmekJYMEJ2Q2VoX1pnTVVFcWVoc0hIM0FmSnB1elVNejNEbm9oTTM1N2JjM08tRDBfc1k5LVRYR0l4RE9na0VpVFlLYkJETU4weE5UazYzaWFTdlNZS1V6Vkp4Q2VxMFNlWGs4OEVNRkVpd3JfMU5yQ3dyYjhOSnBvckp4NGktUGFnb2RR0gHXAUFVX3lxTFB6WE5OOWVwUXJKV2hnLWZfSDUxMGd5cTNDeEc1TTJXZkFIV3ktTmhYdmJtR1p3emNZYXpXMmluMVdQLTcwN1RLN0lpY2Y2OHhVei0zdER0UE15RlFqMEY3bURMZFdZZnNlNGY2SEg3WWtaMS1vWnZobnBNRnNXQUZ1Y1lrUHkxY0swQTlMbWJvaGNZYU1ldU9PNjlrZjNuYWJNVDViWUhFdmN3c3NNM005SXVzTF81c19nVXNSRnRZcTd3MTIyVFR6a1dBeHVNb244SzBaZDJV?oc=5
+- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRm5rX3RzUmlfWGx5dzhESGNfQnFCRUVKclhkZVNpOW1LMWtDTlYwdnhnQXlxY2VzY0l1bWdhckw0VWdteVFJaWRHQjI3YVVqaVJFazhCZ1c3VFZQMUx5WHZrSUJOTVh5RUEyMTZyQzNnclRab0pkTDhrcWdmUWhORGdxUmVNZURIUE0ycU9vcVpQSjZNUE80YjZMQlFsalF3YjlEaVVOUDBKXzdXRDVaUll6cFVWdkFPTXV5VUVBMVRRd2h2cHViRzhUQXVvVWpfNXhv0gHXAUFVX3lxTFB6WE5OOWVwUXJKV2hnLWZfSDUxMGd5cTNDeEc1TTJXZkFIV3ktTmhYdmJtR1p3emNZYXpXMmluMVdQLTcwN1RLN0lpY2Y2OHhVei0zdER0UE15RlFqMEY3bURMZFdZZnNlNGY2SEg3WWtaMS1vWnZobnBNRnNXQUZ1Y1lrUHkxY0swQTlMbWJvaGNZYU1ldU9PNjlrZjNuYWJNVDViWUhFdmN3c3NNM005SXVzTF81c19nVXNSRnRZcTd3MTIyVFR6a1dBeHVNb244SzBaZDJV?oc=5
 
 RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report The Tribune
 
-### 80. Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns - Yahoo Finance Singapore
+### 78. Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns - Yahoo Finance Singapore
 
 - Source: Yahoo Finance Singapore
 - Published: 2026-11-10T09:49:00+00:00
@@ -805,3 +785,23 @@ RBI’s USD 239 billion net short dollar position may cap rupee gains despite FP
 - Link: https://news.google.com/rss/articles/CBMifkFVX3lxTE5LcEVadjJIVkR4Mkt1YnRjLUhvY0xFYXkwZnd6Zm8zYmQtdk1IRHdHMVRGVHhYdEtiTjUzSkM0SVJiSnc5enNod2FBbnRJMHhtMDA0ZS1Da3FfOWZCaXI4QUlwY0JPTEtJQXdLcUtwSmlZSlNSZmlLcHR5TTBaQQ?oc=5
 
 Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns Yahoo Finance Singapore
+
+### 79. Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says - Seoul Economic Daily
+
+- Source: Seoul Economic Daily
+- Published: 2026-11-10T09:00:47+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGJGbkdGbTkzWHJyeVVobmk2emJFT2xodUN1SC14S0psOG8zLWwxTjRjSUl5aHQ3UGU5UjJUMG1sNTJvZDdYNThkVnd6TWk3N0psYVBhRXFlR2MwNUZ5bnVNTHF5LVVOM1pFZV95LTNPdmlNOWRBbnRTVjcxdUxpdGdrZXd5N09kaDhPdEl0WTBwU3lRU19vZlFUTjQ4RkU?oc=5
+
+Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says Seoul Economic Daily
+
+### 80. Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained - Livemint
+
+- Source: Livemint
+- Published: 2026-11-10T08:40:20+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxPUzRpN1hNRTRLVTgtcGtObjVfNWMyQnpiNlNDVUplU0lTaTFUTzg3THIxYy1VeDVVNVRJOEZCTXRaTEdoZERac1M2MGltVFgtRlNsRnNGZEpJdUNqel9uZFhoblpDdXZ6UkFWemQ5aHFubElzYnR6T3E3eVdGTXJxNTNMOHIxbVVuX29lXzJYOUFDZkoyeHNLR1FLYTNlM3FtUUxXcXNMdE5GVmEwSC1jel9IYl9ZdHZsX3czQ2M2SGdtc1Q4SWxPN2ltbThVdGNHazNMalFZa2FwTTNMemNBbWg0cEIwei1vbU00QktSU1I5ZUFsN1F4dUp3WXNaNVpxRDFUU1F5NGJhSTZZWnfSAZMCQVVfeXFMT2k4cDdaTTNqVHkzZzQ2eGhkc1lGdkoxal9UX3RCeEtLZXZzSTh0czJkQzhuMF9Gems4UE44OGhiYmFTaXN0by12WmdDNG5La1c3VUdpZkRCU1BOWlFPbURiTVFpbF85aW5GQTIxNTFabTRRenB1SjRhWXdhSFVOZ194cVhTZ0lpc2YzRFVLWWVncUlGcmlZRzlOZE00enN2RUNJZUFtU2FZZTRCanBmV0pWbjZzOW56NlFYeGZrNERBaXlmbDhkeVVDRWt5OGtHeGEwZ25KbFQ1NEVOR0ZPZWFFVlE3cUM4RmxsOThlbTVudTZ4RWppeWZ5dmFmNG9JWFpuSDctWi0yVVd3MFFnUGpWVkE?oc=5
+
+Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained Livemint
