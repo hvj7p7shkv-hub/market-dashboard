@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 08:41 IST",
+  "generated_at": "2026-11-10 09:11 IST",
   "wire_file": "2026-11-10-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -22,12 +22,12 @@
     "nifty500_date_mismatches": 0
   },
   "posture": {
-    "stance": "India relief, AI overhang",
-    "wire_count": "8",
-    "wire_total_count": "147",
+    "stance": "Constructive but selective",
+    "wire_count": "7",
+    "wire_total_count": "145",
     "wire_scope_date": "2026-11-10",
-    "ai_wire_count": "5",
-    "selling_wire_count": "5",
+    "ai_wire_count": "4",
+    "selling_wire_count": "4",
     "india_wire_count": "3",
     "weak_index_count": "8",
     "valid_index_count": "25"
@@ -36,12 +36,12 @@
     {
       "label": "Newest Wire · 2026-11-10 02:32",
       "title": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk - Moomoo",
-      "text": "Latest dated headline · Moomoo. Today's unique wire set contains 8 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · Moomoo. Today's unique wire set contains 7 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-10",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-10 has 3 India-market wires, 5 selling/risk wires, and 5 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-10 has 3 India-market wires, 4 selling/risk wires, and 4 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-10",
@@ -432,12 +432,12 @@
       "name": "KOSPI",
       "ticker": "^KS11",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 02:50:00+00:00",
+      "quote_timestamp": "2026-11-10 03:20:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 5018.85,
-      "last": 5234.15,
-      "return_1d_pct": 4.289823375837476,
+      "last": 5236.28,
+      "return_1d_pct": 4.332261041259966,
       "return_5d_pct": -14.340646812556235,
       "return_20d_pct": -21.38688530809051,
       "rsi_14": 30.33,
@@ -461,12 +461,12 @@
       "name": "Hang Seng",
       "ticker": "^HSI",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 02:55:00+00:00",
+      "quote_timestamp": "2026-11-10 03:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 24448.95,
-      "last": 24534.94,
-      "return_1d_pct": 0.35171341559765423,
+      "last": 24547.6,
+      "return_1d_pct": 0.40349542118294224,
       "return_5d_pct": 4.512522772092065,
       "return_20d_pct": 0.9813563192817565,
       "rsi_14": 57.44,
@@ -490,12 +490,12 @@
       "name": "Shanghai Composite",
       "ticker": "000001.SS",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 02:55:00+00:00",
+      "quote_timestamp": "2026-11-10 03:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 3660.79,
-      "last": 3669.66,
-      "return_1d_pct": 0.24225381343849772,
+      "last": 3664.47,
+      "return_1d_pct": 0.10056951153896154,
       "return_5d_pct": 0.6256402513190817,
       "return_20d_pct": -3.593396291497808,
       "rsi_14": 42.23,
@@ -519,12 +519,12 @@
       "name": "ASX 200",
       "ticker": "^AXJO",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 02:50:00+00:00",
+      "quote_timestamp": "2026-11-10 03:20:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 9029.7,
-      "last": 9134.1,
-      "return_1d_pct": 1.1561780768390983,
+      "last": 9152.9,
+      "return_1d_pct": 1.364388547212858,
       "return_5d_pct": 1.955628016852029,
       "return_20d_pct": 2.806494153822814,
       "rsi_14": 63.76,
@@ -783,7 +783,7 @@
       "advancers": 5,
       "decliners": 0,
       "advance_decline_ratio": null,
-      "average_1d_pct": 1.79,
+      "average_1d_pct": 1.82,
       "average_5d_pct": -2.88,
       "above_20dma_pct": 40.0,
       "above_50dma_pct": 40.0
@@ -840,12 +840,12 @@
         "name": "KOSPI",
         "ticker": "^KS11",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 02:50:00+00:00",
+        "quote_timestamp": "2026-11-10 03:20:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 5018.85,
-        "last": 5234.15,
-        "return_1d_pct": 4.289823375837476,
+        "last": 5236.28,
+        "return_1d_pct": 4.332261041259966,
         "return_5d_pct": -14.340646812556235,
         "return_20d_pct": -21.38688530809051,
         "rsi_14": 30.33,
@@ -1045,12 +1045,12 @@
         "name": "Shanghai Composite",
         "ticker": "000001.SS",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 02:55:00+00:00",
+        "quote_timestamp": "2026-11-10 03:25:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 3660.79,
-        "last": 3669.66,
-        "return_1d_pct": 0.24225381343849772,
+        "last": 3664.47,
+        "return_1d_pct": 0.10056951153896154,
         "return_5d_pct": 0.6256402513190817,
         "return_20d_pct": -3.593396291497808,
         "rsi_14": 42.23,
@@ -1074,12 +1074,12 @@
         "name": "Hang Seng",
         "ticker": "^HSI",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 02:55:00+00:00",
+        "quote_timestamp": "2026-11-10 03:25:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 24448.95,
-        "last": 24534.94,
-        "return_1d_pct": 0.35171341559765423,
+        "last": 24547.6,
+        "return_1d_pct": 0.40349542118294224,
         "return_5d_pct": 4.512522772092065,
         "return_20d_pct": 0.9813563192817565,
         "rsi_14": 57.44,
@@ -23206,7 +23206,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-10T08:40:57+05:30",
+    "generated_at": "2026-11-10T09:10:48+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35630,9 +35630,9 @@
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
       "source": "Brave New Coin",
-      "title": "Wall Street Calls AI Sell-Off Overdone as Earnings Put the Rebound to the Test - Brave New Coin",
+      "title": "AI Sell-Off Overdone? Wall Street Faces an Earnings Test - Brave New Coin",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNam1WZUNSampQd0FINnlINFhRa2lKVmNFLXNrbExzMl9pRnRFUWxLNTVXME1mZ1BHZ2gyU2pVYldwX21YS21zWHBHS2ZUdC0wdUFEVm5wSU5DVnJlYndHNU1ES3hIeFpuUXFjalE1V25rMWFtZDlRdW1zaUxpMDEyaXM5c3FBaXc?oc=5",
-      "description": "Wall Street Calls AI Sell-Off Overdone as Earnings Put the Rebound to the Test Brave New Coin"
+      "description": "AI Sell-Off Overdone? Wall Street Faces an Earnings Test Brave New Coin"
     },
     {
       "published": "2026-11-09T20:09:49+00:00",
@@ -35779,15 +35779,6 @@
       "description": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk Moomoo"
     },
     {
-      "published": "2026-11-10T02:20:26+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "The Globe and Mail",
-      "title": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPRGduT1M3SFhRVFNKR1Y3OGE1R0d2Y01kZ2pRdmxnS3BIZkQzZ1MtZ1hieWtPUVlRckZ2dGJHUk1OUFNrbWxZd3o2TnN0ek80MGVqRWF1VElGdHBqNGxqaG1rX0FnSkFnYzVhc2gyQ04zYjVHb25CRGpqVmNIVHVpR1BjSUNRYkM4TjhRR0hSWndfOGMwRXFMWS0zLUhpTjdoSWFJdFNnM3JfVWxuS1M3YmJFbHgzazdsSnpjWHZHTFVweHZpUFF4NGhrTGRDa0VjaWhHN2NrRG5iTnRxWVBEcTgyYlE3cGNLQ0tSVHMzR0xMQm1Ic080bXctVXd1M0pGaXhUTlZSZDdicWRRY1h6cWVB?oc=5",
-      "description": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) The Globe and Mail"
-    },
-    {
       "published": "2026-11-10T02:20:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35899,13 +35890,13 @@
       "published": "2026-11-09T21:29:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "KCCI",
-      "title": "Nvidia shares fall after report of CEO investigation - KCCI",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JVjdGV0M4MEg4ZkNfMlFSOVBGb0pKeEFYTVIyeXd1UWJZbHp3OGdHTEVVR3FBYkpKY3B4dDc3OXlWR3RXdFBQdjgxOGdiVmU2clo1RW1hZk52bkVFN09LWUdJMk5Xdk5zZFBXS0tOMGVtcTlDM1hnSzNnOFZ3SWc?oc=5",
-      "description": "Nvidia shares fall after report of CEO investigation KCCI"
+      "source": "WESH",
+      "title": "Nvidia shares fall after report of CEO investigation - WESH",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jbkVvaDVBMnJfYURfZE1lbnM2UUV6REIwT203QUdzSjM3S2dBMTNZRVdtN2lSV3BjSE9jS1J2WXlBcld2NVF4eUVsaTRNUmh3b0VGbC10SVZHQ21Bc2tiNnhsNDl0d3V1OE1ra29IV3lMdjJGem9KekxNTTlwY0U?oc=5",
+      "description": "Nvidia shares fall after report of CEO investigation WESH"
     },
     {
-      "published": "2026-11-09T21:09:12+00:00",
+      "published": "2026-11-09T21:05:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
       "source": "BigGo Finance",
@@ -35936,9 +35927,9 @@
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
       "source": "Benzinga",
-      "title": "Short Nvidia, Long the Drama: Traders Pile Into Leveraged ETFs Amid Selloff - NVIDIA (NASDAQ:NVDA) - Benzinga",
+      "title": "Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0RDZXg4N1FheW8zNmpyTk9mYnFmSlVRTkU1SlhXOGlPMFVxT0xvcXNyY1NFRnFTeG5pUlpFVEcyU3QwVTlRZGxtbXhvVlc2U0hZOVdtZzVaM1k4X1hkWjdJeTRvR2h4cEZCOUZudjc1ekc3bUttWjNIT1pQZmw2N2ZSUnIzRXhnNzdpQXo4eHdIZHVTMWVUWHgzR3V4MmVjLXBwQ1ZUOEZfLUFabWNPTGdCY2xpaU5hR1pkaGl0N2gyWE4yVG5pNEhteFA?oc=5",
-      "description": "Short Nvidia, Long the Drama: Traders Pile Into Leveraged ETFs Amid Selloff - NVIDIA (NASDAQ:NVDA) Benzinga"
+      "description": "Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off Benzinga"
     },
     {
       "published": "2026-11-09T18:15:00+00:00",
@@ -36011,15 +36002,6 @@
       "title": "The AI sell-off rocked Wall Street last week. Why it sets up the market for a big year-end rally - CNBC",
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQb0ZIZU56UFJiMlFXLTBNaVg5QVAyZUlQZjJxTGRqNFdpbU1ZbkxUTXQ0dWJYRmZqeENUZTBDbzhqUF9CRU9zNmRvaWxYU04xYzVJZU0xd2RSZWY2Qm1VY3lVblpONlpaejVXTkx5TUM4b21BTFg5OFNxLWNoZEdCVg?oc=5",
       "description": "The AI sell-off rocked Wall Street last week. Why it sets up the market for a big year-end rally CNBC"
-    },
-    {
-      "published": "2026-11-09T15:14:18+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Yahoo Finance",
-      "title": "Cramer’s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc3h5dlh3Q0xZRlc5b0hQREU2TUlpV1dmQVp2bjQ4cjNPVmp3Mno4dkVURFl6dGhuSHNDemNwRWhFcllkVU1KVWpHa0p5a0lOUmlNQXEwZlJwd0FJMFY5a3UxWDdXc01tcWNRZncyLWJDSEVfQXFnemFNLWdjRkQ0LVBJbmd1NmIzMDMtTU4zSlBibGsyMHJyQ1c0dFc?oc=5",
-      "description": "Cramer’s Advice For Nvidia Makes Even More Sense Now As Stock Drops As Board Investigates CEO Yahoo Finance"
     },
     {
       "published": "2026-11-09T14:56:00+00:00",
@@ -36499,15 +36481,6 @@
       "description": "Citi, HSBC turn bullish on India as oil slide, AI rotation lift markets Business Standard"
     },
     {
-      "published": "2026-11-09T03:30:05+00:00",
-      "score": 3.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "BW Businessworld",
-      "title": "US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF - BW Businessworld",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVkR3YjhBYklfS19fbW9jcGY2dHhQUTFZWTdTOUdrcGN6bU9TRFdZcjRtdnRuQ2ZSeURSZ2tkc1l2QjlfUTlVRjVvNkFXYS00XzZoVnFZeGRjVExZd1BLWTRhVFhqZ195dl9CYTcyRDAzWlU1TF9nLXZkbTlMVklWSW9tM3RCbmxIVXk3UmcwbHdtQUJnNldrdjg0N2pZN1A2Y1B0QWFBcktwZ2M1R1BVWDM5XzhaYnFSdW5QbU9INA?oc=5",
-      "description": "US Midterm Results Could Boost India’s FPI Inflows, Ease Rupee Pressure: Axis MF BW Businessworld"
-    },
-    {
       "published": "2026-11-10T00:36:21+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -36596,6 +36569,15 @@
       "title": "US Dollar: Correction risk as rates ease – ING - FXStreet",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkhKbldiRkFOWnNFVXVHUGh6SEZvZEJKRTVpZGNyelowaEV2bEoyeFlYZjAyd0NZdVU5bGFPLThDNXpDaTZEczV3MlQ0Q2xjNEhBTFNjX3RORjFLUjEtckJnZ0hJeXNkODRnQUpTaFp4X21jZ2FwbHhNVVdWUzc5aDh0U1g4NzZPRy1wcWR3VQ?oc=5",
       "description": "US Dollar: Correction risk as rates ease – ING FXStreet"
+    },
+    {
+      "published": "2026-11-09T08:32:06+00:00",
+      "score": 2.0,
+      "themes": "['market selling', 'macro / flows']",
+      "source": "Moomoo",
+      "title": "A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options - Moomoo",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXMwX1llcHFiZ0F2MjlhTmJoSGtmcTF1VV9MV1JsR1plVE1RQ3VSOHBLRTdQb0k3dkVGbUpzUXdoZmNpQ28tbTZoT0dqUjFCZmlzQjlBY3E5dHRCUVUyN0VyRFJUSXhvSkNsTUViRW1PS3pHcmg3Mkxlam9uck9pRk43X1VoNV9tOFQ5UEVscDBNa0FBb01MVXFzblg4ajNGMkloSzJDNUFaOE56?oc=5",
+      "description": "A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options Moomoo"
     },
     {
       "published": "2026-11-09T07:39:07+00:00",
@@ -36715,15 +36697,6 @@
       "description": "From AI stocks to Gold – Has the great rotation begun? [Video] FXStreet"
     },
     {
-      "published": "2026-11-09T19:53:19+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Barchart.com",
-      "title": "Broadcom Stock Is Down Over 25% in 3 Months. How to Play the Selloff Here. - Barchart.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQak5kSHdPdkI1dDI3VURaMFZrMEp5S0dTRldoUmZSTkpCOEtWTjVwNDBhVGgwOS1JWDhjUThTUGg5RE1hRFh5WklEVEJPeFRLdjBlX2tjY3pRTndzUzJqLXA0V2JWVG52emJNbFBMWWg3NnloLVNleWt0VDBGMW9WSk1DdExfc3kwOTNTOGs3M0lNaHBrNHhMeFhLazJrdVkwSDdqTGd5NVh6OTh1NDRhdjJzanZ5dw?oc=5",
-      "description": "Broadcom Stock Is Down Over 25% in 3 Months. How to Play the Selloff Here. Barchart.com"
-    },
-    {
       "published": "2026-11-09T19:46:47+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -36785,6 +36758,15 @@
       "title": "Morgan Stanley says S&P 500 correction is nearing an end, with a likely year-end rally ahead - Quartz",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9jZ3g2Tjg3c0w4bGZTcGRscDA5NTNNZHZaeWlYUGlHR1JEdWl2YWszZ0wzWEF0UGlZUlpkLXdVM2gwdHUyMG9rNHd0NWloMzZPaVdJeVJ5Qk5TdWRBSzBDTVgyaFBwWkRiY19oVmRKNzVXRFFrTlh5UFdxZw?oc=5",
       "description": "Morgan Stanley says S&P 500 correction is nearing an end, with a likely year-end rally ahead Quartz"
+    },
+    {
+      "published": "2026-11-09T14:02:00+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "Stock Titan",
+      "title": "Preliminary AI tests found up to 20% fewer failures in IBM quantum error checks - Stock Titan",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSl9qcHo1SW5KZURWU2V0WUpKR211LUhGUk5hZFBDQlBKZ1pjaF9TN3dpbWhSRmVRZmxBeGd4SFcxeWJoWjVYeUlZa3pfOFpUVFd1b1JydXV0cXFMTklCalhDVENHVHVXWEdvRzhpcnR1dmluQUd1TU9lU2dXN1Z0NDF6MFUtUS00Y2c3Z1E0c255SDlybW9JWG9hZklNV1BXTU5KOTd6c1FYTVgzX2VSdk5uSlJfdTl4TmxVMA?oc=5",
+      "description": "Preliminary AI tests found up to 20% fewer failures in IBM quantum error checks Stock Titan"
     },
     {
       "published": "2026-11-09T12:10:48+00:00",
