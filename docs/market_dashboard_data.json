@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 13:41 IST",
+  "generated_at": "2026-11-10 14:10 IST",
   "wire_file": "2026-11-10-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -9,15 +9,15 @@
     "index_expected": 26,
     "index_coverage_pct": 96.2,
     "index_valid_coverage_pct": 96.2,
-    "breadth_downloaded": 58,
+    "breadth_downloaded": 60,
     "breadth_expected": 60,
-    "breadth_coverage_pct": 96.7,
+    "breadth_coverage_pct": 100.0,
     "india_market_date": "2026-11-09",
     "breadth_as_of_date": "2026-11-09",
-    "breadth_date_mismatches": 2,
-    "nifty500_downloaded": 498,
+    "breadth_date_mismatches": 0,
+    "nifty500_downloaded": 500,
     "nifty500_expected": 500,
-    "nifty500_coverage_pct": 99.6,
+    "nifty500_coverage_pct": 100.0,
     "nifty500_as_of_date": "2026-11-09",
     "nifty500_date_mismatches": 0
   },
@@ -29,14 +29,14 @@
     "ai_wire_count": "17",
     "selling_wire_count": "17",
     "india_wire_count": "7",
-    "weak_index_count": "8",
+    "weak_index_count": "7",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-10 08:00",
-      "title": "Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost",
-      "text": "Latest dated headline · Firstpost. Today's unique wire set contains 28 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-10 08:25",
+      "title": "Goldman CEO: AI financing demand is still strong despite recent tech selloff - Seeking Alpha",
+      "text": "Latest dated headline · Seeking Alpha. Today's unique wire set contains 28 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-10",
@@ -46,7 +46,7 @@
     {
       "label": "AI / Chips · 2026-11-10",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Goldman CEO: AI financing demand is still strong despite recent tech selloff - Seeking Alpha"
     },
     {
       "label": "India Trigger · 2026-11-10",
@@ -466,12 +466,12 @@
       "name": "Hang Seng",
       "ticker": "^HSI",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 07:55:00+00:00",
+      "quote_timestamp": "2026-11-10 08:05:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 24448.95,
-      "last": 24522.16,
-      "return_1d_pct": 0.2994441063497888,
+      "last": 24522.99,
+      "return_1d_pct": 0.3028392548184433,
       "return_5d_pct": 4.512522772092065,
       "return_20d_pct": 0.9813563192817565,
       "rsi_14": 57.44,
@@ -668,117 +668,117 @@
       "region": "Europe",
       "name": "DAX",
       "ticker": "^GDAXI",
-      "last_date": "2026-11-09",
-      "quote_timestamp": "2026-11-09 16:25:00+00:00",
+      "last_date": "2026-11-10",
+      "quote_timestamp": "2026-11-10 08:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-11-06",
-      "previous_close": 25820.36,
-      "last": 26261.18,
-      "return_1d_pct": 1.7072586252490973,
-      "return_5d_pct": 0.00832140346673782,
-      "return_20d_pct": 2.9221587579980612,
-      "rsi_14": 52.42,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-11-09",
+      "previous_close": 26267.19,
+      "last": 26526.18,
+      "return_1d_pct": 0.9859838062887594,
+      "return_5d_pct": 1.1011840192062694,
+      "return_20d_pct": 3.914559318173172,
+      "rsi_14": 58.65,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 25632.82,
-      "distance_sma_20_pct": 0.73,
+      "sma_20": 25682.29,
+      "distance_sma_20_pct": 2.28,
       "above_sma_20": true,
-      "sma_50": 25555.61,
-      "distance_sma_50_pct": 1.04,
+      "sma_50": 25555.79,
+      "distance_sma_50_pct": 2.78,
       "above_sma_50": true,
-      "sma_200": 24925.07,
-      "distance_sma_200_pct": 3.59,
+      "sma_200": 24932.29,
+      "distance_sma_200_pct": 5.35,
       "above_sma_200": true,
-      "region_reference_date": "2026-11-09"
+      "region_reference_date": "2026-11-10"
     },
     {
       "region": "Europe",
       "name": "FTSE 100",
       "ticker": "^FTSE",
-      "last_date": "2026-11-09",
-      "quote_timestamp": "2026-11-09 16:25:00+00:00",
+      "last_date": "2026-11-10",
+      "quote_timestamp": "2026-11-10 08:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-11-06",
-      "previous_close": 10673.9,
-      "last": 10779.32,
-      "return_1d_pct": 0.9876419866873709,
-      "return_5d_pct": -0.5209735044458097,
-      "return_20d_pct": 1.1542800557131416,
-      "rsi_14": 47.97,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-11-09",
+      "previous_close": 10782.9,
+      "last": 10832.31,
+      "return_1d_pct": 0.4582178996149988,
+      "return_5d_pct": 0.20072469245853153,
+      "return_20d_pct": 1.1880351365659791,
+      "rsi_14": 53.91,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 10735.28,
-      "distance_sma_20_pct": -0.57,
-      "above_sma_20": false,
-      "sma_50": 10693.17,
-      "distance_sma_50_pct": -0.18,
-      "above_sma_50": false,
-      "sma_200": 10537.42,
-      "distance_sma_200_pct": 1.3,
+      "sma_20": 10741.61,
+      "distance_sma_20_pct": 0.38,
+      "above_sma_20": true,
+      "sma_50": 10692.34,
+      "distance_sma_50_pct": 0.85,
+      "above_sma_50": true,
+      "sma_200": 10540.59,
+      "distance_sma_200_pct": 2.3,
       "above_sma_200": true,
-      "region_reference_date": "2026-11-09"
+      "region_reference_date": "2026-11-10"
     },
     {
       "region": "Europe",
       "name": "CAC 40",
       "ticker": "^FCHI",
-      "last_date": "2026-11-09",
-      "quote_timestamp": "2026-11-09 16:25:00+00:00",
+      "last_date": "2026-11-10",
+      "quote_timestamp": "2026-11-10 08:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-11-06",
-      "previous_close": 8139.0,
-      "last": 8236.03,
-      "return_1d_pct": 1.1921645587603003,
-      "return_5d_pct": 2.1278848371325543,
-      "return_20d_pct": 4.301624031206619,
-      "rsi_14": 60.01,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-11-09",
+      "previous_close": 8233.3,
+      "last": 8316.02,
+      "return_1d_pct": 1.0046971266053584,
+      "return_5d_pct": 2.306374433317404,
+      "return_20d_pct": 5.112039605683627,
+      "rsi_14": 64.64,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 7939.92,
-      "distance_sma_20_pct": 2.51,
+      "sma_20": 7959.94,
+      "distance_sma_20_pct": 3.43,
       "above_sma_20": true,
-      "sma_50": 8026.95,
-      "distance_sma_50_pct": 1.4,
+      "sma_50": 8024.93,
+      "distance_sma_50_pct": 2.6,
       "above_sma_50": true,
-      "sma_200": 8203.09,
-      "distance_sma_200_pct": -0.78,
-      "above_sma_200": false,
-      "region_reference_date": "2026-11-09"
+      "sma_200": 8203.92,
+      "distance_sma_200_pct": 0.36,
+      "above_sma_200": true,
+      "region_reference_date": "2026-11-10"
     },
     {
       "region": "Europe",
       "name": "Euro Stoxx 50",
       "ticker": "^STOXX50E",
-      "last_date": "2026-11-09",
-      "quote_timestamp": "2026-11-09 16:25:00+00:00",
+      "last_date": "2026-11-10",
+      "quote_timestamp": "2026-11-10 08:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-11-06",
-      "previous_close": 6170.49,
-      "last": 6290.69,
-      "return_1d_pct": 1.9479766188046588,
-      "return_5d_pct": 0.639018014206183,
-      "return_20d_pct": -0.046650091568012364,
-      "rsi_14": 48.08,
-      "stale_days": 1,
+      "technical_as_of_date": "2026-11-09",
+      "previous_close": 6290.45,
+      "last": 6348.57,
+      "return_1d_pct": 0.9239343306391534,
+      "return_5d_pct": 1.8521538915344582,
+      "return_20d_pct": 1.439077775742792,
+      "rsi_14": 56.24,
+      "stale_days": 0,
       "is_stale": false,
       "is_outlier": false,
       "data_note": "",
-      "sma_20": 6166.79,
-      "distance_sma_20_pct": 0.06,
+      "sma_20": 6171.25,
+      "distance_sma_20_pct": 1.93,
       "above_sma_20": true,
-      "sma_50": 6242.5,
-      "distance_sma_50_pct": -1.15,
-      "above_sma_50": false,
-      "sma_200": 6114.84,
-      "distance_sma_200_pct": 0.91,
+      "sma_50": 6239.91,
+      "distance_sma_50_pct": 0.81,
+      "above_sma_50": true,
+      "sma_200": 6116.51,
+      "distance_sma_200_pct": 2.84,
       "above_sma_200": true,
-      "region_reference_date": "2026-11-09"
+      "region_reference_date": "2026-11-10"
     }
   ],
   "regional_breadth": [
@@ -799,10 +799,10 @@
       "advancers": 4,
       "decliners": 0,
       "advance_decline_ratio": null,
-      "average_1d_pct": 1.46,
-      "average_5d_pct": 0.56,
-      "above_20dma_pct": 75.0,
-      "above_50dma_pct": 50.0
+      "average_1d_pct": 0.84,
+      "average_5d_pct": 1.37,
+      "above_20dma_pct": 100.0,
+      "above_50dma_pct": 100.0
     },
     {
       "region": "India",
@@ -1079,12 +1079,12 @@
         "name": "Hang Seng",
         "ticker": "^HSI",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 07:55:00+00:00",
+        "quote_timestamp": "2026-11-10 08:05:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 24448.95,
-        "last": 24522.16,
-        "return_1d_pct": 0.2994441063497888,
+        "last": 24522.99,
+        "return_1d_pct": 0.3028392548184433,
         "return_5d_pct": 4.512522772092065,
         "return_20d_pct": 0.9813563192817565,
         "rsi_14": 57.44,
@@ -1104,64 +1104,63 @@
         "region_reference_date": "2026-11-10"
       },
       {
-        "region": "India",
-        "name": "Nifty Midcap 50",
-        "ticker": "^NSEMDCP50",
-        "last_date": "2026-11-09",
-        "quote_timestamp": "2026-11-09 09:55:00+00:00",
+        "region": "Europe",
+        "name": "FTSE 100",
+        "ticker": "^FTSE",
+        "last_date": "2026-11-10",
+        "quote_timestamp": "2026-11-10 08:25:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-11-06",
-        "previous_close": 17490.0,
-        "last": 17589.5,
-        "return_1d_pct": 0.5688965122927492,
-        "return_5d_pct": 5.914621381201934,
-        "return_20d_pct": 5.8018594674910995,
-        "rsi_14": 62.39,
-        "stale_days": 1,
+        "technical_as_of_date": "2026-11-09",
+        "previous_close": 10782.9,
+        "last": 10832.31,
+        "return_1d_pct": 0.4582178996149988,
+        "return_5d_pct": 0.20072469245853153,
+        "return_20d_pct": 1.1880351365659791,
+        "rsi_14": 53.91,
+        "stale_days": 0,
         "is_stale": false,
         "is_outlier": false,
         "data_note": "",
-        "sma_20": 16764.05,
-        "distance_sma_20_pct": 4.33,
+        "sma_20": 10741.61,
+        "distance_sma_20_pct": 0.38,
         "above_sma_20": true,
-        "sma_50": 17334.08,
-        "distance_sma_50_pct": 0.9,
+        "sma_50": 10692.34,
+        "distance_sma_50_pct": 0.85,
         "above_sma_50": true,
-        "sma_200": 17198.84,
-        "distance_sma_200_pct": 1.69,
+        "sma_200": 10540.59,
+        "distance_sma_200_pct": 2.3,
         "above_sma_200": true,
-        "region_reference_date": "2026-11-09"
+        "region_reference_date": "2026-11-10"
       }
     ]
   },
   "india_breadth": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
+      "downloaded_count": 60,
       "raw_downloaded_count": 60,
       "as_of_date": "2026-11-09",
       "expected_date": "",
       "date_aligned": true,
       "date_counts": {
-        "2026-11-09": 58,
-        "2026-11-06": 2
+        "2026-11-09": 60
       },
-      "excluded_date_mismatch": 2,
-      "advancers": 45,
+      "excluded_date_mismatch": 0,
+      "advancers": 47,
       "decliners": 13,
       "unchanged": 0,
-      "advance_decline_ratio": 3.46,
+      "advance_decline_ratio": 3.62,
       "up_turnover_share_pct": 89.6,
       "down_turnover_share_pct": 10.4,
       "high_volume_decliners": 3,
-      "above_20dma_pct": 77.6,
-      "above_50dma_pct": 63.8,
-      "coverage_pct": 96.7,
-      "ad_ratio": 3.46,
-      "intraday_quotes": 58,
+      "above_20dma_pct": 78.3,
+      "above_50dma_pct": 65.0,
+      "coverage_pct": 100.0,
+      "ad_ratio": 3.62,
+      "intraday_quotes": 60,
       "daily_fallbacks": 0,
       "as_of_timestamp": "2026-11-09 15:25 IST",
-      "stale_rows_excluded": 2,
+      "stale_rows_excluded": 0,
       "technical_as_of_date": "2026-11-09",
       "breadth_as_of_timestamp": "2026-11-09 15:25 IST",
       "breadth_layer": "Live/delayed"
@@ -1250,10 +1249,10 @@
         "last": 168.42,
         "return_1d_pct": 4.93,
         "return_5d_pct": 6.621923911427552,
-        "volume": 10062362.0,
-        "avg_volume_20": 13374142.25,
+        "volume": 10062366.0,
+        "avg_volume_20": 13374142.45,
         "volume_ratio_20d": 0.75,
-        "turnover_proxy": 1694702989.615265,
+        "turnover_proxy": 1694703663.2952576,
         "above_20dma": true,
         "above_50dma": true
       },
@@ -1412,20 +1411,20 @@
     ],
     "sector_breadth": [
       {
-        "sector": "Utilities",
-        "count": 1,
-        "advancers": 1,
-        "decliners": 0,
-        "average_1d_pct": 5.04,
-        "average_volume_ratio_20d": 0.446
-      },
-      {
         "sector": "Health technology",
         "count": 7,
         "advancers": 6,
         "decliners": 1,
         "average_1d_pct": 4.274,
         "average_volume_ratio_20d": 1.815
+      },
+      {
+        "sector": "Utilities",
+        "count": 2,
+        "advancers": 2,
+        "decliners": 0,
+        "average_1d_pct": 2.643,
+        "average_volume_ratio_20d": 0.605
       },
       {
         "sector": "Commercial services",
@@ -1436,20 +1435,20 @@
         "average_volume_ratio_20d": 0.834
       },
       {
-        "sector": "Finance",
-        "count": 11,
-        "advancers": 7,
-        "decliners": 4,
-        "average_1d_pct": 1.773,
-        "average_volume_ratio_20d": 0.582
-      },
-      {
         "sector": "Retail trade",
         "count": 1,
         "advancers": 1,
         "decliners": 0,
         "average_1d_pct": 1.745,
         "average_volume_ratio_20d": 0.492
+      },
+      {
+        "sector": "Finance",
+        "count": 12,
+        "advancers": 8,
+        "decliners": 4,
+        "average_1d_pct": 1.681,
+        "average_volume_ratio_20d": 0.583
       },
       {
         "sector": "Health services",
@@ -2213,7 +2212,7 @@
         "distance_from_52w_high_pct": -3.0,
         "fresh_52w_high": true,
         "within_3pct_52w_high": false,
-        "volume": 2127710,
+        "volume": 2127894,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2333,7 +2332,7 @@
         "distance_from_52w_high_pct": -1.61,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 5461332,
+        "volume": 5461836,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2373,7 +2372,7 @@
         "distance_from_52w_high_pct": 0.0,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 1340411,
+        "volume": 1340519,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2473,7 +2472,7 @@
         "distance_from_52w_high_pct": -1.08,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 409023,
+        "volume": 409024,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2493,7 +2492,7 @@
         "distance_from_52w_high_pct": -0.7,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 139908,
+        "volume": 139958,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2633,7 +2632,7 @@
         "distance_from_52w_high_pct": -2.8,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 260143,
+        "volume": 260165,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       }
@@ -2655,7 +2654,7 @@
         "distance_from_52w_high_pct": 0.0,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 1340411,
+        "volume": 1340519,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2835,7 +2834,7 @@
         "distance_from_52w_high_pct": -0.7,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 139908,
+        "volume": 139958,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -2935,7 +2934,7 @@
         "distance_from_52w_high_pct": -1.02,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 5146983,
+        "volume": 5148257,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3015,7 +3014,7 @@
         "distance_from_52w_high_pct": -1.05,
         "fresh_52w_high": false,
         "within_3pct_52w_high": true,
-        "volume": 257362,
+        "volume": 257434,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3035,7 +3034,7 @@
         "distance_from_52w_high_pct": -1.08,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 409023,
+        "volume": 409024,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3095,7 +3094,7 @@
         "distance_from_52w_high_pct": -1.61,
         "fresh_52w_high": true,
         "within_3pct_52w_high": true,
-        "volume": 5461332,
+        "volume": 5461836,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3567,19 +3566,19 @@
         "symbol": "HEG",
         "company": "H.E.G. Ltd.",
         "ticker": "HEG.NS",
-        "last_date": "2026-11-06",
-        "last_price": 293.87,
+        "last_date": "2026-11-09",
+        "last_price": 289.18,
         "open": null,
-        "day_high": 303.24,
-        "day_low": 281.49,
-        "previous_close": 295.42,
-        "change_pct": -0.52,
+        "day_high": 296.6,
+        "day_low": 287.3,
+        "previous_close": 293.87,
+        "change_pct": -1.6,
         "year_high": 753.9,
         "year_low": 191.71,
-        "distance_from_52w_high_pct": -61.02,
+        "distance_from_52w_high_pct": -61.64,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 3160493,
+        "volume": 1759060,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3599,7 +3598,7 @@
         "distance_from_52w_high_pct": -60.82,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 321645,
+        "volume": 321650,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3639,7 +3638,7 @@
         "distance_from_52w_high_pct": -57.79,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1009788,
+        "volume": 1010010,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3659,7 +3658,7 @@
         "distance_from_52w_high_pct": -56.6,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 11186392,
+        "volume": 11189518,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3799,7 +3798,7 @@
         "distance_from_52w_high_pct": -53.04,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 1159171,
+        "volume": 1159172,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3939,7 +3938,7 @@
         "distance_from_52w_high_pct": -49.46,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 392240,
+        "volume": 392272,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -3979,7 +3978,7 @@
         "distance_from_52w_high_pct": -46.67,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 864165,
+        "volume": 864765,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -4121,7 +4120,7 @@
         "distance_from_52w_high_pct": -6.57,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 592281,
+        "volume": 592383,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -4161,7 +4160,7 @@
         "distance_from_52w_high_pct": -10.99,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 298416,
+        "volume": 298449,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -4181,7 +4180,7 @@
         "distance_from_52w_high_pct": -22.85,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 651876,
+        "volume": 651916,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -4281,7 +4280,7 @@
         "distance_from_52w_high_pct": -15.55,
         "fresh_52w_high": false,
         "within_3pct_52w_high": false,
-        "volume": 190036,
+        "volume": 190037,
         "traded_value": null,
         "source": "Nifty Indices constituents + Yahoo history"
       },
@@ -12547,13 +12546,13 @@
     "benchmark_ticker": "^CRSLDX",
     "summary": {
       "source_count": 500,
-      "downloaded_count": 498,
+      "downloaded_count": 500,
       "advancers": 313,
-      "decliners": 183,
+      "decliners": 185,
       "unchanged": 2,
-      "advance_decline_ratio": 1.71,
-      "up_turnover_share_pct": 73.5,
-      "down_turnover_share_pct": 26.5,
+      "advance_decline_ratio": 1.69,
+      "up_turnover_share_pct": 73.4,
+      "down_turnover_share_pct": 26.6,
       "high_volume_decliners": 15,
       "above_20dma_pct": 75.5,
       "above_50dma_pct": 51.8,
@@ -12712,7 +12711,7 @@
         }
       ],
       "as_of_date": "2026-11-09",
-      "coverage_pct": 99.6,
+      "coverage_pct": 100.0,
       "raw_downloaded_count": 498,
       "date_counts": {
         "2026-11-09": 498
@@ -12720,11 +12719,11 @@
       "excluded_date_mismatch": 0,
       "expected_date": "",
       "date_aligned": true,
-      "ad_ratio": 1.71,
+      "ad_ratio": 1.69,
       "intraday_quotes": 498,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 2,
       "as_of_timestamp": "2026-11-09 15:25 IST",
-      "stale_rows_excluded": 2,
+      "stale_rows_excluded": 0,
       "technical_as_of_date": "2026-11-09",
       "breadth_as_of_timestamp": "2026-11-09 15:25 IST",
       "breadth_layer": "Live/delayed"
@@ -12759,11 +12758,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
+        "count": 63,
         "advancers": 48,
-        "decliners": 14,
-        "average_1d_pct": 1.66,
-        "average_volume_ratio_20d": 1.017
+        "decliners": 15,
+        "average_1d_pct": 1.608,
+        "average_volume_ratio_20d": 1.01
       },
       {
         "sector": "Textiles",
@@ -12783,11 +12782,11 @@
       },
       {
         "sector": "Financial Services",
-        "count": 100,
+        "count": 101,
         "advancers": 66,
-        "decliners": 33,
-        "average_1d_pct": 0.872,
-        "average_volume_ratio_20d": 0.923
+        "decliners": 34,
+        "average_1d_pct": 0.862,
+        "average_volume_ratio_20d": 0.928
       },
       {
         "sector": "Automobile and Auto Components",
@@ -23211,36 +23210,28 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-10T13:41:17+05:30",
+    "generated_at": "2026-11-10T14:10:40+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
       "summary": {
         "source_count": 60,
-        "downloaded_count": 58,
-        "coverage_pct": 96.7,
-        "advancers": 45,
+        "downloaded_count": 60,
+        "coverage_pct": 100.0,
+        "advancers": 47,
         "decliners": 13,
         "unchanged": 0,
-        "ad_ratio": 3.46,
+        "ad_ratio": 3.62,
         "up_turnover_share_pct": 89.6,
         "down_turnover_share_pct": 10.4,
         "high_volume_decliners": 3,
-        "intraday_quotes": 58,
+        "intraday_quotes": 60,
         "daily_fallbacks": 0,
         "as_of_date": "2026-11-09",
         "as_of_timestamp": "2026-11-09 15:25 IST",
-        "stale_rows_excluded": 2
+        "stale_rows_excluded": 0
       },
       "sector_breadth": [
-        {
-          "sector": "Utilities",
-          "count": 1,
-          "advancers": 1,
-          "decliners": 0,
-          "average_1d_pct": 5.04,
-          "average_volume_ratio_20d": 0.446
-        },
         {
           "sector": "Health technology",
           "count": 7,
@@ -23248,6 +23239,14 @@
           "decliners": 1,
           "average_1d_pct": 4.274,
           "average_volume_ratio_20d": 1.815
+        },
+        {
+          "sector": "Utilities",
+          "count": 2,
+          "advancers": 2,
+          "decliners": 0,
+          "average_1d_pct": 2.643,
+          "average_volume_ratio_20d": 0.605
         },
         {
           "sector": "Commercial services",
@@ -23258,20 +23257,20 @@
           "average_volume_ratio_20d": 0.834
         },
         {
-          "sector": "Finance",
-          "count": 11,
-          "advancers": 7,
-          "decliners": 4,
-          "average_1d_pct": 1.773,
-          "average_volume_ratio_20d": 0.582
-        },
-        {
           "sector": "Retail trade",
           "count": 1,
           "advancers": 1,
           "decliners": 0,
           "average_1d_pct": 1.745,
           "average_volume_ratio_20d": 0.492
+        },
+        {
+          "sector": "Finance",
+          "count": 12,
+          "advancers": 8,
+          "decliners": 4,
+          "average_1d_pct": 1.681,
+          "average_volume_ratio_20d": 0.583
         },
         {
           "sector": "Health services",
@@ -24773,6 +24772,23 @@
           "alert": "Exceptional move (+12.06%) on 3.3x 20-day volume"
         },
         {
+          "symbol": "PGINVIT",
+          "ticker": "PGINVIT.NS",
+          "name": "Powergrid Infrastructure Invesment Trust",
+          "sector": "Utilities",
+          "ltp": 105.64,
+          "previous_close": 105.38,
+          "day_move_pct": 0.2467,
+          "session_volume": 1054975.0,
+          "average_volume_20d": 1381296.0,
+          "volume_ratio_20d": 0.764,
+          "turnover_proxy": 111447558.0,
+          "quote_date": "2026-11-09",
+          "quote_timestamp": "2026-11-09 09:15 IST",
+          "quote_type": "Yahoo 5-minute quote",
+          "alert": ""
+        },
+        {
           "symbol": "TORNTPHARM",
           "ticker": "TORNTPHARM.NS",
           "name": "Torrent Pharmaceuticals Ltd",
@@ -24892,6 +24908,23 @@
           "alert": ""
         },
         {
+          "symbol": "INDIGRID",
+          "ticker": "INDIGRID.NS",
+          "name": "IndiGrid Infrastructure Trust",
+          "sector": "Finance",
+          "ltp": 172.55,
+          "previous_close": 171.4,
+          "day_move_pct": 0.671,
+          "session_volume": 438206.0,
+          "average_volume_20d": 734783.0,
+          "volume_ratio_20d": 0.596,
+          "turnover_proxy": 75612447.0,
+          "quote_date": "2026-11-09",
+          "quote_timestamp": "2026-11-09 09:15 IST",
+          "quote_type": "Yahoo 5-minute quote",
+          "alert": ""
+        },
+        {
           "symbol": "ELPROINTL",
           "ticker": "ELPROINTL.NS",
           "name": "Elpro International Ltd",
@@ -24947,20 +24980,20 @@
     "nifty500": {
       "summary": {
         "source_count": 500,
-        "downloaded_count": 498,
-        "coverage_pct": 99.6,
+        "downloaded_count": 500,
+        "coverage_pct": 100.0,
         "advancers": 313,
-        "decliners": 183,
+        "decliners": 185,
         "unchanged": 2,
-        "ad_ratio": 1.71,
-        "up_turnover_share_pct": 73.5,
-        "down_turnover_share_pct": 26.5,
+        "ad_ratio": 1.69,
+        "up_turnover_share_pct": 73.4,
+        "down_turnover_share_pct": 26.6,
         "high_volume_decliners": 15,
         "intraday_quotes": 498,
-        "daily_fallbacks": 0,
+        "daily_fallbacks": 2,
         "as_of_date": "2026-11-09",
         "as_of_timestamp": "2026-11-09 15:25 IST",
-        "stale_rows_excluded": 2
+        "stale_rows_excluded": 0
       },
       "sector_breadth": [
         {
@@ -24989,11 +25022,11 @@
         },
         {
           "sector": "Capital Goods",
-          "count": 62,
+          "count": 63,
           "advancers": 48,
-          "decliners": 14,
-          "average_1d_pct": 1.66,
-          "average_volume_ratio_20d": 1.017
+          "decliners": 15,
+          "average_1d_pct": 1.608,
+          "average_volume_ratio_20d": 1.01
         },
         {
           "sector": "Textiles",
@@ -25013,11 +25046,11 @@
         },
         {
           "sector": "Financial Services",
-          "count": 100,
+          "count": 101,
           "advancers": 66,
-          "decliners": 33,
-          "average_1d_pct": 0.872,
-          "average_volume_ratio_20d": 0.923
+          "decliners": 34,
+          "average_1d_pct": 0.862,
+          "average_volume_ratio_20d": 0.928
         },
         {
           "sector": "Automobile and Auto Components",
@@ -29212,6 +29245,23 @@
           "alert": ""
         },
         {
+          "symbol": "HEG",
+          "ticker": "HEG.NS",
+          "name": "H.E.G. Ltd.",
+          "sector": "Capital Goods",
+          "ltp": 289.18,
+          "previous_close": 293.87,
+          "day_move_pct": -1.5959,
+          "session_volume": 1759060.0,
+          "average_volume_20d": 3014059.0,
+          "volume_ratio_20d": 0.584,
+          "turnover_proxy": 508684958.0,
+          "quote_date": "2026-11-09",
+          "quote_timestamp": "2026-11-09 00:00 IST",
+          "quote_type": "Yahoo daily-close fallback",
+          "alert": ""
+        },
+        {
           "symbol": "HBLENGINE",
           "ticker": "HBLENGINE.NS",
           "name": "HBL Engineering Ltd.",
@@ -29651,6 +29701,23 @@
           "quote_date": "2026-11-09",
           "quote_timestamp": "2026-11-09 15:25 IST",
           "quote_type": "Yahoo 5-minute quote",
+          "alert": ""
+        },
+        {
+          "symbol": "ICICIPRULI",
+          "ticker": "ICICIPRULI.NS",
+          "name": "ICICI Prudential Life Insurance Company Ltd.",
+          "sector": "Financial Services",
+          "ltp": 438.4,
+          "previous_close": 438.9,
+          "day_move_pct": -0.1139,
+          "session_volume": 2437888.0,
+          "average_volume_20d": 1707685.0,
+          "volume_ratio_20d": 1.428,
+          "turnover_proxy": 1068770084.0,
+          "quote_date": "2026-11-09",
+          "quote_timestamp": "2026-11-09 00:00 IST",
+          "quote_type": "Yahoo daily-close fallback",
           "alert": ""
         },
         {
@@ -35613,6 +35680,15 @@
       "description": "Nifty IT index falls over 1% as global AI stocks stage recovery; Mphasis, HCL Tech, Infosys down 2-3% Moneycontrol.com"
     },
     {
+      "published": "2026-11-10T08:25:00+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Seeking Alpha",
+      "title": "Goldman CEO: AI financing demand is still strong despite recent tech selloff - Seeking Alpha",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQzNOSUM1Z1BpYWsyMWJtMUhfUEQwd0tjcTZRTVREck1scUs2c1N1VFFyUzZPUzZFeHFINFZIRVRzSVVXWTk0WnBtNVZ6WG15aFJVNXc5UzJrZFpvbjRQRFdUSEZRcXVBSWl0Z2FsVzg0X1NVaHRBMm1BQzdyRmdKeg?oc=5",
+      "description": "Goldman CEO: AI financing demand is still strong despite recent tech selloff Seeking Alpha"
+    },
+    {
       "published": "2026-11-10T03:09:20+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35757,24 +35833,6 @@
       "description": "S&P 500: AI-led selloff and earnings resilience – Deutsche Bank FXStreet"
     },
     {
-      "published": "2026-11-09T08:31:52+00:00",
-      "score": 8.0,
-      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
-      "source": "The Edge Malaysia",
-      "title": "SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff - The Edge Malaysia",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9oY0h1bTVWUU9BUFVZWU1UTzV3eUY2enI5bmR1VzE2V09qX2xGb0pEVVA4aTdUX0RoYlllVUk5VEFCVnBLSlVEQzA3eTE4VTg5?oc=5",
-      "description": "SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff The Edge Malaysia"
-    },
-    {
-      "published": "2026-11-09T08:09:45+00:00",
-      "score": 8.0,
-      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
-      "source": "Reuters",
-      "title": "SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNZnVnMXhRbnJHdFlrTVpLZ1ZhTFR3VmJGeWx3MlFURk9aT1R5TXU2NEtacHY3U2JpUWpTYWJhRkZHdUJVLWFoNTNPMU51QWhxbVJ0RkxCRzY4MC1iU1VVTE9KclFXcGdSeE13SV9lM1hIemdLNFJuWXVLUkFBeDdUaTNqMEVFWUxzUHNKVmZzRG5sM2oyVmZwRl9xeVl5UDlReDQ1QWZZalJvV3piSVhiQVRqUlM5QXNWLXdtdWhDbU5zRGo2bE9QVzhGRQ?oc=5",
-      "description": "SoftBank to face scrutiny of AI strategy at second-quarter earnings after selloff Reuters"
-    },
-    {
       "published": "2026-11-10T08:00:24+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35811,15 +35869,6 @@
       "description": "5 Tech Stocks Hitting 52-Week Highs in the AI Correction Cabot Wealth Network"
     },
     {
-      "published": "2026-11-10T06:32:42+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Coinpedia",
-      "title": "SoftBank Stock Surges 15% As Asian Tech Shares Recover From AI Selloff - Coinpedia",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2dqT3ZQSnNvWGM2enhHSElGaXQwb2k1Tmg2bmZJa1pqcjE4bnBldl80VXR1WFdIdEZ2Zm9wM2ZUYzI2SG9CWmJmeXRLSUg5eTcxd2RhV3huOWNJRXZDck5xRkRYUGZrcUxiZHNVbzQ4RXQyM3pwSU53bkpHblF0MUdhZUJHYUFOWmpId05Ic0poa0tiNGZQbVBEcXZ1dlU1UFF6VlF6dDZVa0RoWUhCa2c2Y9IBswFBVV95cUxNN2dqT3ZQSnNvWGM2enhHSElGaXQwb2k1Tmg2bmZJa1pqcjE4bnBldl80VXR1WFdIdEZ2Zm9wM2ZUYzI2SG9CWmJmeXRLSUg5eTcxd2RhV3huOWNJRXZDck5xRkRYUGZrcUxiZHNVbzQ4RXQyM3pwSU53bkpHblF0MUdhZUJHYUFOWmpId05Ic0poa0tiNGZQbVBEcXZ1dlU1UFF6VlF6dDZVa0RoWUhCa2c2Yw?oc=5",
-      "description": "SoftBank Stock Surges 15% As Asian Tech Shares Recover From AI Selloff Coinpedia"
-    },
-    {
       "published": "2026-11-10T06:13:43+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35847,15 +35896,6 @@
       "description": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk Moomoo"
     },
     {
-      "published": "2026-11-10T02:31:59+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "The Globe and Mail",
-      "title": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - The Globe and Mail",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOOFJFQ3BIUFdPMXA2R1hROFNOMUVmNk9HWmI5MnRSZXZJd3pac3hMdTJ0SDAwWVRCUHk4V1FPVHp0ZmRFd0dpaTB3LV9CWmhUaVlPYXdldlhtdG5HeE91cHhDZGZRLWRUWWk3VFVHZUJaeXRUTXRneFZFbEk3VVZ2RjN1VHFTZGFrVVlvTGxNazZwc3ViZ2VWdnhsdjl5R1ItdjhhU3FpYmxKOE1kMzNaUlozLUxQOTV6U2c0WURiaFBGZF9KVzRpMFk3WHBieHZBM0lSR29UY3NIQ2VUb1JyOHo0UkYyV2h3WTBHZWNNQktSZEhpT1RVRUZQNHdheWxxMnR1UmN4Q2JNV21FZ2c?oc=5",
-      "description": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) The Globe and Mail"
-    },
-    {
       "published": "2026-11-10T02:20:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35863,6 +35903,15 @@
       "title": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - Yahoo Finance",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDVhMmwzVDl2aHJydmpyZ1VON0tsTGlVR1RjRVFNQk9EUlJLenc5eUNDRldGRHVYd0pVRWp2WXV5dldBNlpyNjlOX005TU54MnUycVNfTUhlaWFna0l2V1VpTTNybjlsc1NuX0Y4QnBFZlgyQUN4V2ZCdllGanVhRFRyclJKcTV0eUVRXzFiNTNlVDBzc2VaMGo2ZGpSQQ?oc=5",
       "description": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) Yahoo Finance"
+    },
+    {
+      "published": "2026-11-10T02:20:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "AOL.com",
+      "title": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPV20yRGtQbGNMX09WRzdPMl9ERDlyajhhc2QzRVJrSzQxa0tEUklGZElXOHBZMU1VT0NSb3RNaTdTVkRqSER0ZEhWNm9nR2ZzRFlxTXNMb213a0xtRkxxS1hKSThncGRnbHhQSllZOHJxMm1jek5LMmNzRUdUdm1aN1pn?oc=5",
+      "description": "Nasdaq Stock Market Correction: 2 Stocks I Wouldn't Hesitate to Buy the Dip On (Hint: It's Not Nvidia) AOL.com"
     },
     {
       "published": "2026-11-10T01:11:02+00:00",
@@ -35971,6 +36020,15 @@
       "title": "Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0RDZXg4N1FheW8zNmpyTk9mYnFmSlVRTkU1SlhXOGlPMFVxT0xvcXNyY1NFRnFTeG5pUlpFVEcyU3QwVTlRZGxtbXhvVlc2U0hZOVdtZzVaM1k4X1hkWjdJeTRvR2h4cEZCOUZudjc1ekc3bUttWjNIT1pQZmw2N2ZSUnIzRXhnNzdpQXo4eHdIZHVTMWVUWHgzR3V4MmVjLXBwQ1ZUOEZfLUFabWNPTGdCY2xpaU5hR1pkaGl0N2gyWE4yVG5pNEhteFA?oc=5",
       "description": "Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off Benzinga"
+    },
+    {
+      "published": "2026-11-09T18:59:24+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Crypto Briefing",
+      "title": "AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PVmxSZk1DM2w1dFdUdGF0ZGJYRVBQX2JHMktEaHJDaXNqZzNka1hYaHZpcFRLUEg0T1lZYmJINmJSWlJNNXFrN1g1TTRtQVhoQTRXWnFleTFGa0t0N1ctVDlNSnBBR282ZG1NTEc5dw?oc=5",
+      "description": "AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says Crypto Briefing"
     },
     {
       "published": "2026-11-09T18:15:00+00:00",
@@ -36144,6 +36202,15 @@
       "description": "Citi Dialed Back Its US Stock Call After The AI Selloff Finimize"
     },
     {
+      "published": "2026-11-09T13:03:53+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "ad-hoc-news.de",
+      "title": "Western Digital stock faces AI policy risk after election selloff - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaEFZUUQ1TkRLRVNUd2Y0b0hQYjFfUFIyMGxHMG5QbzVSUnNWOGtLc3ZZSnBmYVBPREZxdDF4VW9uUHpIQkVyWklZb3duRllfNzFDTTg3LXU1aGFoRnQ4SnRoNnlJcFIzMHBiSE5vS3NibXItNlNYZFJfV2x4VkRXNjE2bGpWVmctYVRRUVZla2JFZ0hPUlJaVFRqQzZZZDdpUWw3VjNIT3FLdXd0LVEwNEgwcmFVMWxpc0twLXBuUWJiQkJyZnNV?oc=5",
+      "description": "Western Digital stock faces AI policy risk after election selloff ad-hoc-news.de"
+    },
+    {
       "published": "2026-11-09T12:09:18+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -36169,6 +36236,15 @@
       "title": "€25bn selector says AI selloff was overreaction - Citywire",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPQXJBb0IxRlVNZ0t4RFg1dklwTzk1OWlxOEVZbXR3QzI0SHBvTEdvVllPUWpMVUlFX3V5Sm5ueWJWX1RSUWc3a0xVUmFFR211WjBqLTdSc09IdEY0aFRkSllYRm53ZTFpUjBtQ2hBNFNEdGhNSklyMkxRLVN2Qy1xa2RMbGxhYUp2TnhnTnRSdjZ3NEZ1?oc=5",
       "description": "€25bn selector says AI selloff was overreaction Citywire"
+    },
+    {
+      "published": "2026-11-09T10:51:52+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Invezz",
+      "title": "Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? - Invezz",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNMVRZMC1wTkc4TmRxaUFIWTVJVC1pNElSZkpWSWljemxzUkhlUHNSUmlpb1VXa1JKek1GQUVvaXdyekVyR3hndUw3Tm5vM2NwYnA0T0gtbXh0YlNhVkVmNVFzZEY2RWd1VTY2N0RRc3owSzVTSmwtNi1xTmh2RXQtamlBS0MwWDZ6LWNwRWcyMGlxMFFIMV9vS2xSa0JYdTBQdW5SR3lad3VXX1VXYkw1TV80ZUdoZzJ5Y0VBX2h3?oc=5",
+      "description": "Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? Invezz"
     },
     {
       "published": "2026-11-09T10:29:00+00:00",
@@ -36252,13 +36328,13 @@
       "description": "Sensex Falls 141 Points, Nifty 50 Slips Below 24,950 as Investors Assess U.S.-Iran Talks Dalal Street Investment Journal"
     },
     {
-      "published": "2026-11-09T08:34:20+00:00",
+      "published": "2026-11-09T08:48:48+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "Invezz",
-      "title": "Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? - Invezz",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZ1R2RVNaM3Vldl93MUxuV204Y2E2a1FkYVAxbndyZUx0cDNyd1NVOEFJNS15NkwtSmpQNXI1N3JzcnRjWjE1Q0l2UGx6amtjUHBweThPNWtOanlLRl94NUliRklCaDFyYlhTV1hLajFzZkVPN24zMS0tWTJSTkRnUnJwdFVIcS1wNG1wc1JLemdrZk1lUTVodHh3LW51Nk1wQXNncC1YQk5icnhrLUhLMA?oc=5",
-      "description": "Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? Invezz"
+      "source": "Communications Today",
+      "title": "SoftBank’s AI investment strategy under scrutiny after market selloff - Communications Today",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUU3TmNsYXBkM0ZtTGNJcmlVX1BNQ3FjTl9nWkRDcmhKRmhOUFdlSy15TmxFY2VrNGk1eHV3a2FCakI4a1ZQUnJXSUJCOWd4Skd2TWFaZk9WMlktTTBKeVNzV1g4c21odzBKRnJSMEJ4dTFPOFJ6TF9zY2t1T0pxdzFHVzZfSV9pSGtWZkcxSXEyc2EyRlJxbU9GY0prajh1eEtQOXVaQlVwNkE?oc=5",
+      "description": "SoftBank’s AI investment strategy under scrutiny after market selloff Communications Today"
     },
     {
       "published": "2026-11-10T00:51:53+00:00",
@@ -36459,15 +36535,6 @@
       "description": "Nvidia scandal risks AI 'domino effect' | Market Talk Reuters"
     },
     {
-      "published": "2026-11-09T23:20:00+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "Counterview",
-      "title": "The $5.5 trillion AI mirage: Can India turn Wall Street’s panic into profit? - Counterview",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMjBYYkFiRDZUV0tuMkw2dVV2OXVIc25WUURxWUR5TEZJWXBmeHk0R3R4OGhieWF3S2ViTFpwV0FvbE55QjZSd01GSnAtZVQ4VDJfQUM2ZGltaU9CVjM4UkJqM3M4YWFJS2htbFVZdFd5bVh2YnlfRkVmOHprOUlnUnZ3?oc=5",
-      "description": "The $5.5 trillion AI mirage: Can India turn Wall Street’s panic into profit? Counterview"
-    },
-    {
       "published": "2026-11-09T15:19:31+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk']",
@@ -36529,15 +36596,6 @@
       "title": "US Dollar: Correction risk as rates ease – ING - FXStreet",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkhKbldiRkFOWnNFVXVHUGh6SEZvZEJKRTVpZGNyelowaEV2bEoyeFlYZjAyd0NZdVU5bGFPLThDNXpDaTZEczV3MlQ0Q2xjNEhBTFNjX3RORjFLUjEtckJnZ0hJeXNkODRnQUpTaFp4X21jZ2FwbHhNVVdWUzc5aDh0U1g4NzZPRy1wcWR3VQ?oc=5",
       "description": "US Dollar: Correction risk as rates ease – ING FXStreet"
-    },
-    {
-      "published": "2026-11-09T08:32:06+00:00",
-      "score": 2.0,
-      "themes": "['market selling', 'macro / flows']",
-      "source": "Moomoo",
-      "title": "A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options - Moomoo",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYXMwX1llcHFiZ0F2MjlhTmJoSGtmcTF1VV9MV1JsR1plVE1RQ3VSOHBLRTdQb0k3dkVGbUpzUXdoZmNpQ28tbTZoT0dqUjFCZmlzQjlBY3E5dHRCUVUyN0VyRFJUSXhvSkNsTUViRW1PS3pHcmg3Mkxlam9uck9pRk43X1VoNV9tOFQ5UEVscDBNa0FBb01MVXFzblg4ajNGMkloSzJDNUFaOE56?oc=5",
-      "description": "A Scary Selloff Meets Strong Earnings Just in Time for CPI | Weekly Options Moomoo"
     },
     {
       "published": "2026-11-10T07:07:57+00:00",
@@ -36727,6 +36785,15 @@
       "title": "Hedge funds decline 1.4% in October as technology selloff hits performance - Hedgeweek",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd3RiV3UzazlVS2E4ektPNndoOGdVUTNlSTlQUjJxM2ZtMmNleVFwVkFlUWNqcWlBOGowa1hrR3pPUFVMamowbkxMVXUzUjRCN0tuUFdBeG8tXzQ4ZUxabGtDZldHTlI1T051ekRGZl9hM1Q2ZEo4dUdmYUpnbkdnaDhQeGxSSkxOejdKZjdXcGNSRkxPSlRncVpvMXZhNEZHbmc?oc=5",
       "description": "Hedge funds decline 1.4% in October as technology selloff hits performance Hedgeweek"
+    },
+    {
+      "published": "2026-11-09T12:02:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Blockchain News",
+      "title": "Micron Technology (MU) Stock Price Prediction: Oversold selloff meets heavy bullish positioning on Binance Futures - Blockchain News",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaUhMeFJrSEFLblJQUFhMU2JpYm96V29McFdjQUVvWkVTN1ByVDdEODZtNVI3OUh4MkYtQ084ZlVObjFWLUxtd28wWFNacXl4SzhqUEhzMXhGcnFhSnRoMXdTNmRpb2dXUGhuNWQ0TEJ3RVVSMFg4UDg0MWRPY0dYMnowRTRzbm1BWE1GOHVaUkh0OUxjQUN1akRlWjZDb2FHNGVpZlBpMTI2QQ?oc=5",
+      "description": "Micron Technology (MU) Stock Price Prediction: Oversold selloff meets heavy bullish positioning on Binance Futures Blockchain News"
     },
     {
       "published": "2026-11-09T11:15:04+00:00",
