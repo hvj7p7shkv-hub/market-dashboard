@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-11-10 09:11 IST",
+  "generated_at": "2026-11-10 09:40 IST",
   "wire_file": "2026-11-10-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
-    "index_valid": 25,
-    "index_stale": 0,
+    "index_valid": 24,
+    "index_stale": 1,
     "index_outliers": 0,
     "index_expected": 26,
     "index_coverage_pct": 96.2,
-    "index_valid_coverage_pct": 96.2,
+    "index_valid_coverage_pct": 92.3,
     "breadth_downloaded": 58,
     "breadth_expected": 60,
     "breadth_coverage_pct": 96.7,
@@ -22,31 +22,31 @@
     "nifty500_date_mismatches": 0
   },
   "posture": {
-    "stance": "Constructive but selective",
-    "wire_count": "7",
-    "wire_total_count": "145",
+    "stance": "India relief, AI overhang",
+    "wire_count": "9",
+    "wire_total_count": "143",
     "wire_scope_date": "2026-11-10",
-    "ai_wire_count": "4",
-    "selling_wire_count": "4",
+    "ai_wire_count": "5",
+    "selling_wire_count": "5",
     "india_wire_count": "3",
-    "weak_index_count": "8",
-    "valid_index_count": "25"
+    "weak_index_count": "7",
+    "valid_index_count": "24"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-10 02:32",
-      "title": "Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk - Moomoo",
-      "text": "Latest dated headline · Moomoo. Today's unique wire set contains 7 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-10 03:50",
+      "title": "The Nasdaq Fell Into Correction Territory Recently. Should You Buy the Dip? - AOL.com",
+      "text": "Latest dated headline · AOL.com. Today's unique wire set contains 9 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-10",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-10 has 3 India-market wires, 4 selling/risk wires, and 4 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-10 has 3 India-market wires, 5 selling/risk wires, and 5 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-10",
       "title": "Asian AI and chip risk-off",
-      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Post-Midterms AI Selloff on Data-Center Buildout Concerns Appears Overdone -- Market Talk - Moomoo"
+      "text": "AI/chip-linked selling is still the key external risk cluster. Representative wire: Japan's Nikkei surges nearly 3% as AI stocks extend rebound; SoftBank jumps 14% - The Economic Times"
     }
   ],
   "indices": [
@@ -403,12 +403,12 @@
       "name": "Nikkei 225",
       "ticker": "^N225",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 02:35:00+00:00",
+      "quote_timestamp": "2026-11-10 03:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 58775.5,
-      "last": 60475.78,
-      "return_1d_pct": 2.8928401289652905,
+      "last": 60050.46,
+      "return_1d_pct": 2.1692047494279,
       "return_5d_pct": -7.133198883020575,
       "return_20d_pct": -14.870069104113314,
       "rsi_14": 32.53,
@@ -432,12 +432,12 @@
       "name": "KOSPI",
       "ticker": "^KS11",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 03:20:00+00:00",
+      "quote_timestamp": "2026-11-10 03:50:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 5018.85,
-      "last": 5236.28,
-      "return_1d_pct": 4.332261041259966,
+      "last": 5199.07,
+      "return_1d_pct": 3.590856930488129,
       "return_5d_pct": -14.340646812556235,
       "return_20d_pct": -21.38688530809051,
       "rsi_14": 30.33,
@@ -461,12 +461,12 @@
       "name": "Hang Seng",
       "ticker": "^HSI",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 03:25:00+00:00",
+      "quote_timestamp": "2026-11-10 03:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 24448.95,
-      "last": 24547.6,
-      "return_1d_pct": 0.40349542118294224,
+      "last": 24514.7,
+      "return_1d_pct": 0.26892771305515595,
       "return_5d_pct": 4.512522772092065,
       "return_20d_pct": 0.9813563192817565,
       "rsi_14": 57.44,
@@ -489,28 +489,28 @@
       "region": "Asia",
       "name": "Shanghai Composite",
       "ticker": "000001.SS",
-      "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 03:25:00+00:00",
+      "last_date": "2026-11-09",
+      "quote_timestamp": "2026-11-09 06:55:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
-      "technical_as_of_date": "2026-11-09",
-      "previous_close": 3660.79,
-      "last": 3664.47,
-      "return_1d_pct": 0.10056951153896154,
-      "return_5d_pct": 0.6256402513190817,
-      "return_20d_pct": -3.593396291497808,
-      "rsi_14": 42.23,
-      "stale_days": 0,
-      "is_stale": false,
+      "technical_as_of_date": "2026-11-06",
+      "previous_close": 3649.18,
+      "last": 3661.22,
+      "return_1d_pct": 0.329905026610966,
+      "return_5d_pct": 1.3937114177902554,
+      "return_20d_pct": -4.316283010722288,
+      "rsi_14": 40.57,
+      "stale_days": 1,
+      "is_stale": true,
       "is_outlier": false,
-      "data_note": "",
-      "sma_20": 3686.48,
-      "distance_sma_20_pct": -0.7,
+      "data_note": "older than the Asia session (2026-11-10)",
+      "sma_20": 3693.3,
+      "distance_sma_20_pct": -1.19,
       "above_sma_20": false,
-      "sma_50": 3816.48,
-      "distance_sma_50_pct": -4.08,
+      "sma_50": 3821.37,
+      "distance_sma_50_pct": -4.51,
       "above_sma_50": false,
-      "sma_200": 3982.22,
-      "distance_sma_200_pct": -8.07,
+      "sma_200": 3984.33,
+      "distance_sma_200_pct": -8.41,
       "above_sma_200": false,
       "region_reference_date": "2026-11-10"
     },
@@ -519,12 +519,12 @@
       "name": "ASX 200",
       "ticker": "^AXJO",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 03:20:00+00:00",
+      "quote_timestamp": "2026-11-10 03:50:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 9029.7,
-      "last": 9152.9,
-      "return_1d_pct": 1.364388547212858,
+      "last": 9151.0,
+      "return_1d_pct": 1.3433425480778416,
       "return_5d_pct": 1.955628016852029,
       "return_20d_pct": 2.806494153822814,
       "rsi_14": 63.76,
@@ -779,14 +779,14 @@
   "regional_breadth": [
     {
       "region": "Asia",
-      "count": 5,
-      "advancers": 5,
+      "count": 4,
+      "advancers": 4,
       "decliners": 0,
       "advance_decline_ratio": null,
-      "average_1d_pct": 1.82,
-      "average_5d_pct": -2.88,
-      "above_20dma_pct": 40.0,
-      "above_50dma_pct": 40.0
+      "average_1d_pct": 1.84,
+      "average_5d_pct": -3.75,
+      "above_20dma_pct": 50.0,
+      "above_50dma_pct": 50.0
     },
     {
       "region": "Europe",
@@ -840,12 +840,12 @@
         "name": "KOSPI",
         "ticker": "^KS11",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 03:20:00+00:00",
+        "quote_timestamp": "2026-11-10 03:50:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 5018.85,
-        "last": 5236.28,
-        "return_1d_pct": 4.332261041259966,
+        "last": 5199.07,
+        "return_1d_pct": 3.590856930488129,
         "return_5d_pct": -14.340646812556235,
         "return_20d_pct": -21.38688530809051,
         "rsi_14": 30.33,
@@ -923,35 +923,6 @@
         "region_reference_date": "2026-11-09"
       },
       {
-        "region": "Asia",
-        "name": "Nikkei 225",
-        "ticker": "^N225",
-        "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 02:35:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-11-09",
-        "previous_close": 58775.5,
-        "last": 60475.78,
-        "return_1d_pct": 2.8928401289652905,
-        "return_5d_pct": -7.133198883020575,
-        "return_20d_pct": -14.870069104113314,
-        "rsi_14": 32.53,
-        "stale_days": 0,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 63671.89,
-        "distance_sma_20_pct": -7.69,
-        "above_sma_20": false,
-        "sma_50": 65145.95,
-        "distance_sma_50_pct": -9.78,
-        "above_sma_50": false,
-        "sma_200": 61990.28,
-        "distance_sma_200_pct": -5.19,
-        "above_sma_200": false,
-        "region_reference_date": "2026-11-10"
-      },
-      {
         "region": "US",
         "name": "S&P 500",
         "ticker": "^GSPC",
@@ -979,6 +950,35 @@
         "distance_sma_200_pct": 0.71,
         "above_sma_200": true,
         "region_reference_date": "2026-11-09"
+      },
+      {
+        "region": "Asia",
+        "name": "Nikkei 225",
+        "ticker": "^N225",
+        "last_date": "2026-11-10",
+        "quote_timestamp": "2026-11-10 03:55:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-11-09",
+        "previous_close": 58775.5,
+        "last": 60050.46,
+        "return_1d_pct": 2.1692047494279,
+        "return_5d_pct": -7.133198883020575,
+        "return_20d_pct": -14.870069104113314,
+        "rsi_14": 32.53,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 63671.89,
+        "distance_sma_20_pct": -7.69,
+        "above_sma_20": false,
+        "sma_50": 65145.95,
+        "distance_sma_50_pct": -9.78,
+        "above_sma_50": false,
+        "sma_200": 61990.28,
+        "distance_sma_200_pct": -5.19,
+        "above_sma_200": false,
+        "region_reference_date": "2026-11-10"
       }
     ],
     "laggards": [
@@ -1042,44 +1042,15 @@
       },
       {
         "region": "Asia",
-        "name": "Shanghai Composite",
-        "ticker": "000001.SS",
-        "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 03:25:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-11-09",
-        "previous_close": 3660.79,
-        "last": 3664.47,
-        "return_1d_pct": 0.10056951153896154,
-        "return_5d_pct": 0.6256402513190817,
-        "return_20d_pct": -3.593396291497808,
-        "rsi_14": 42.23,
-        "stale_days": 0,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 3686.48,
-        "distance_sma_20_pct": -0.7,
-        "above_sma_20": false,
-        "sma_50": 3816.48,
-        "distance_sma_50_pct": -4.08,
-        "above_sma_50": false,
-        "sma_200": 3982.22,
-        "distance_sma_200_pct": -8.07,
-        "above_sma_200": false,
-        "region_reference_date": "2026-11-10"
-      },
-      {
-        "region": "Asia",
         "name": "Hang Seng",
         "ticker": "^HSI",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 03:25:00+00:00",
+        "quote_timestamp": "2026-11-10 03:55:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 24448.95,
-        "last": 24547.6,
-        "return_1d_pct": 0.40349542118294224,
+        "last": 24514.7,
+        "return_1d_pct": 0.26892771305515595,
         "return_5d_pct": 4.512522772092065,
         "return_20d_pct": 0.9813563192817565,
         "rsi_14": 57.44,
@@ -1124,6 +1095,35 @@
         "above_sma_50": true,
         "sma_200": 17198.84,
         "distance_sma_200_pct": 1.69,
+        "above_sma_200": true,
+        "region_reference_date": "2026-11-09"
+      },
+      {
+        "region": "Europe",
+        "name": "FTSE 100",
+        "ticker": "^FTSE",
+        "last_date": "2026-11-09",
+        "quote_timestamp": "2026-11-09 16:25:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-11-06",
+        "previous_close": 10673.9,
+        "last": 10779.32,
+        "return_1d_pct": 0.9876419866873709,
+        "return_5d_pct": -0.5209735044458097,
+        "return_20d_pct": 1.1542800557131416,
+        "rsi_14": 47.97,
+        "stale_days": 1,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 10735.28,
+        "distance_sma_20_pct": -0.57,
+        "above_sma_20": false,
+        "sma_50": 10693.17,
+        "distance_sma_50_pct": -0.18,
+        "above_sma_50": false,
+        "sma_200": 10537.42,
+        "distance_sma_200_pct": 1.3,
         "above_sma_200": true,
         "region_reference_date": "2026-11-09"
       }
@@ -23206,7 +23206,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-10T09:10:48+05:30",
+    "generated_at": "2026-11-10T09:40:41+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35860,15 +35860,6 @@
       "description": "Investors Brush Off Election, Selloff and Even Nvidia’s Spy Scandal to Buy Stocks WSJ"
     },
     {
-      "published": "2026-11-09T22:01:13+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "InvestorPlace",
-      "title": "Why the AI Selloff Got It Wrong - InvestorPlace",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNnppNlBFc0lMa1BkZ3lGbXhQN1VvUWZ5M0FfNEMtMFpaV29LbERldnN2U2tVeFE3eEwwTDVRczMyTUx3NExwN09pVjljTDNPakJCa3pKUW1WSHVTNkJXSkt6eTdWU3VDYl8zOUxQUFo4WE1N?oc=5",
-      "description": "Why the AI Selloff Got It Wrong InvestorPlace"
-    },
-    {
       "published": "2026-11-09T21:39:04+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35887,13 +35878,13 @@
       "description": "Taiwan Tightens Short-Selling Rules After AI Selloff, Stocks Post Biggest Gain in 3 Months Seoul Economic Daily"
     },
     {
-      "published": "2026-11-09T21:29:00+00:00",
+      "published": "2026-11-09T21:11:02+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
-      "source": "WESH",
-      "title": "Nvidia shares fall after report of CEO investigation - WESH",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jbkVvaDVBMnJfYURfZE1lbnM2UUV6REIwT203QUdzSjM3S2dBMTNZRVdtN2lSV3BjSE9jS1J2WXlBcld2NVF4eUVsaTRNUmh3b0VGbC10SVZHQ21Bc2tiNnhsNDl0d3V1OE1ra29IV3lMdjJGem9KekxNTTlwY0U?oc=5",
-      "description": "Nvidia shares fall after report of CEO investigation WESH"
+      "source": "InvestorPlace",
+      "title": "Why the AI Selloff Got It Wrong - InvestorPlace",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zNnppNlBFc0lMa1BkZ3lGbXhQN1VvUWZ5M0FfNEMtMFpaV29LbERldnN2U2tVeFE3eEwwTDVRczMyTUx3NExwN09pVjljTDNPakJCa3pKUW1WSHVTNkJXSkt6eTdWU3VDYl8zOUxQUFo4WE1N?oc=5",
+      "description": "Why the AI Selloff Got It Wrong InvestorPlace"
     },
     {
       "published": "2026-11-09T21:05:00+00:00",
@@ -35930,6 +35921,15 @@
       "title": "Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off - Benzinga",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPS0RDZXg4N1FheW8zNmpyTk9mYnFmSlVRTkU1SlhXOGlPMFVxT0xvcXNyY1NFRnFTeG5pUlpFVEcyU3QwVTlRZGxtbXhvVlc2U0hZOVdtZzVaM1k4X1hkWjdJeTRvR2h4cEZCOUZudjc1ekc3bUttWjNIT1pQZmw2N2ZSUnIzRXhnNzdpQXo4eHdIZHVTMWVUWHgzR3V4MmVjLXBwQ1ZUOEZfLUFabWNPTGdCY2xpaU5hR1pkaGl0N2gyWE4yVG5pNEhteFA?oc=5",
       "description": "Short Nvidia, Long Drama: Traders Pile into Leveraged ETFs During Sell-Off Benzinga"
+    },
+    {
+      "published": "2026-11-09T18:59:24+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Crypto Briefing",
+      "title": "AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says - Crypto Briefing",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5PVmxSZk1DM2w1dFdUdGF0ZGJYRVBQX2JHMktEaHJDaXNqZzNka1hYaHZpcFRLUEg0T1lZYmJINmJSWlJNNXFrN1g1TTRtQVhoQTRXWnFleTFGa0t0N1ctVDlNSnBBR282ZG1NTEc5dw?oc=5",
+      "description": "AI selloff could push Bitcoin toward $65K before capital returns to crypto, Hilbert CIO says Crypto Briefing"
     },
     {
       "published": "2026-11-09T18:15:00+00:00",
@@ -36092,6 +36092,15 @@
       "title": "Citi Dialed Back Its US Stock Call After The AI Selloff - Finimize",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONldIbW1GUFIwYnViWEdkU3RHLTJZMEtXVHFRUkF6RDR6eHVISjAwTnlPZ1V4ZjJRTHI0WGxTREVycHlTOVROU3l5dlNQc2lCUmZNY3Y3Nno0YnRsSFI0dmhwUlEwdXNsSkN1cnNWTldwS2NTT0kyZU15bzEzRkZKb1lrOXA5dE04NWNHRg?oc=5",
       "description": "Citi Dialed Back Its US Stock Call After The AI Selloff Finimize"
+    },
+    {
+      "published": "2026-11-09T13:03:53+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "ad-hoc-news.de",
+      "title": "Western Digital stock faces AI policy risk after election selloff - ad-hoc-news.de",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaEFZUUQ1TkRLRVNUd2Y0b0hQYjFfUFIyMGxHMG5QbzVSUnNWOGtLc3ZZSnBmYVBPREZxdDF4VW9uUHpIQkVyWklZb3duRllfNzFDTTg3LXU1aGFoRnQ4SnRoNnlJcFIzMHBiSE5vS3NibXItNlNYZFJfV2x4VkRXNjE2bGpWVmctYVRRUVZla2JFZ0hPUlJaVFRqQzZZZDdpUWw3VjNIT3FLdXd0LVEwNEgwcmFVMWxpc0twLXBuUWJiQkJyZnNV?oc=5",
+      "description": "Western Digital stock faces AI policy risk after election selloff ad-hoc-news.de"
     },
     {
       "published": "2026-11-09T12:09:18+00:00",
@@ -36283,6 +36292,15 @@
       "description": "Sensex falls 700 pts from day’s high, Nifty near 24,850: Profit booking among key factors behind market... Moneycontrol.com"
     },
     {
+      "published": "2026-11-09T04:40:01+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Asianet Newsable",
+      "title": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus - Asianet Newsable",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOUkVuMFpSRy1BVW1PVU9FSzV3QVFGdFZKNVJnSUhxQ3ZjZGRBVzY0SW5CcnM3X216ZXVZb3NCWklBWU1MMnFxU3hER3dDVVJlallUUXptMndraFU1Q2JuTk4xSkU0S0NhTzdLV3h5aVZPaFRGOEh3QWNOWlNkYVZUaGp2MDZsdlFfdDZBRjVIbHNjMXZIaGVGX1lMVW9ZVUVVNDRrRld3a1ZCc3p0M2NJdDE1VWIxZ3J1NHNhNlB5azhJZlR6Yl9XNWktRzlzMmw1THlkX1hEWnZIYWo4UG55aXI0UnU5cmtEaUpR0gHwAUFVX3lxTFBXYlBQX3p4U1J4YWNKYjZhVkhTQUdYQXpVTmRGN1ZZbHRCVklWNlpqaGtpMDR4eVRGUzV3RzJXbXA1aXdFWHFKX1lrYmVQVWNKT0JhLTBqMmN5cmp3bE1uLXkycGpoR2xuWHAzUG9MMlA5U012ZnlfblU1MlpCRzk5VExTVGF5aEhjWWFLbzdmckhkZ01Ic2ZHRGZ4Q1dBWC1NcWdGQi0xS2JET2tFZ3AwSGo3cDJacmItOUN4WHhfckVRWElFNUpkb3hEQ0tVa0doT1lwcGhkVVduRXp0WGFYWURHM1B3TWRjeWlUN3dIdg?oc=5",
+      "description": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus Asianet Newsable"
+    },
+    {
       "published": "2026-11-09T04:19:47+00:00",
       "score": 7.0,
       "themes": "['market selling', 'India market']",
@@ -36290,15 +36308,6 @@
       "title": "Sensex falls 150 points to 80,800: Nifty also down 50 points at 24,940; IT and auto shares see the heaviest... - Bhaskar English",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUklPci1UZW53dXdCMmlfd2VrVmZYcng3V0FZZ05DSVRoLTF2WDdvZm16R0JiaUM3cDZOY1JmUDZYZlhDNGlpem5uZWJTZVcydk1sd3FtV0c3d3NIS2htSEpjQnJNVVRsdGx1ZmkxdUlEMm9qekJoNEJMeU9UaEZUbzFLNzlOMTRlY21xanl4QUs3QklraXlqNGI2VkZ2dVdtS0dWOGlOc25HU0tjaGRyc09ZRWdXMWVkWlBfSNIBwgFBVV95cUxQWnAteVVPUmVpOF9LWU9ZVG1CQThONk5VSW5uQnB6NmFybXRUekxCY1N0TzhEZlRqd2Vlb3hTLU82czZHcGRpWDN0Y2N0bHVvS0pBMkY2cllLNGZDMk10T2tGN2F6b1JYNmV1NDJSaHI1LUx5YXVqTlcyQ1R6X3BDM0hCUURyOVVSaUNxbWY1dHdXa3VUYWNzQVAwZlYzUUxKMGxjeHhVVlVjTVNJX2tpc3YxLVpOXzlFZVlvdGFDYXE5UQ?oc=5",
       "description": "Sensex falls 150 points to 80,800: Nifty also down 50 points at 24,940; IT and auto shares see the heaviest... Bhaskar English"
-    },
-    {
-      "published": "2026-11-09T03:48:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "TradingView",
-      "title": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPa3ZKcU5pWlNKQmd6a3ZhZ0lhRUZSZjZ5UWhhLUxYZVgyX2sxSGpSdXBzSktJZ3Jxc1VXNVdZeUtmN0I2b1JxWWpTSEFQSW04VjRQeWw0ZGtNeEZyelY2cUJDLXJGYUswOC0zSHlDVXc1amp3Y0FNeHVIcFpvZHVreHZtRnQ2X09ob0pSNVF0ajEzTlVGcUxveXZ2d3FGVXFYZ2dUQm1NLXF1MmRmVHNlTkk5OEZreVhnQlpodWNiM0ZKZENUVFhWZ3NLMWpQWkg3aElQa0dVTXkzcV8yZ1FOVFUtOTkwRmN6VkE?oc=5",
-      "description": "Dow, S&P 500, Nasdaq Futures Rebound After Sharp AI Selloff Last Week: NVDA, AMD, VIR, SNDK In Focus TradingView"
     },
     {
       "published": "2026-11-10T00:51:53+00:00",
@@ -36355,6 +36364,15 @@
       "description": "Nifty Prediction Today – November 09, 2026: Nifty 50 Futures: Scope for a near-term correction; wait and watch BusinessLine"
     },
     {
+      "published": "2026-11-09T10:06:06+00:00",
+      "score": 5.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Nippon India Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP returns in 10 years - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOQlZma3FpcW5jZEJYZmZ4SFptQlk0cEd3dHlGcFRzSHFrR3hPcjd5Y1pBOGNxRk5jR1ZRWjZJT3BreWhSSzhrSDVmbUk4Zm92VnBHeGlGcnJXU0ZQYlN2UDZVajkzM1p0Wll5cDdZWlJHb2VNUVlDamNBTkszWkZhZGlyQUN5M0VKUWJDRC04eW1VSEt0bnBBNjE4emlDa2lsSWRkdTdXWWY2R0VpX0paeWNoU3JFX0s2dEk4dmZjZV9DVEhZQUNuTjY5Rm80ZjRpX19UYmNMQndtSkR2VXJETC0wem42Mk5adm9QVGVtZDFwZEdrTVg1YTUtS1I2MUtnV0VtQUJneTN2bE93UWc?oc=5",
+      "description": "Nippon India Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP returns in 10 years The Economic Times"
+    },
+    {
       "published": "2026-11-09T16:54:45+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -36371,24 +36389,6 @@
       "title": "Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI - DD News",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMWh5NURUUU9wLV9PY1JiZ1pmMFJUNVRvdG1EMHFJYlpIbjhzalBMTHJGWDdBcGQ4MUtkWnpWLTNmVGZsc2pBNVlLSFVVV0dWcjJ4eFo0ZnJNUzE3dWY5YUwxdlhyUmFKVVZKLVZ5Zm91dU1nN1p2RW1RYzkwZzdaSkJFY3g4VWFTMkZzS3ZhendCUUFlUU9tamRpX2hXb0s1MjVIaG9zTHBZSW1ST2U0UlYwdWRoRDR4NmNn?oc=5",
       "description": "Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI DD News"
-    },
-    {
-      "published": "2026-11-09T09:50:45+00:00",
-      "score": 4.0,
-      "themes": "['India market']",
-      "source": "The Economic Times",
-      "title": "Quant Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP returns in 10 years - The Economic Times",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPSVloR2dRTUJaRWlJMFpVM3NNaHdWT3l0cW1zZVdrdmVoNDkxekI0ZzlMQy14YmQ0YXhoNlpPU0R0NVZ0aS1pZVd0bmdYWGZaeGMxNnF5Ti1Nd2cza2x2ZUM5SDBGY3phLWZTVEFiNTA1X3V5My1ESERCbDIzVjZBNFNET1k5Nm9KY0kySkRKdGNvclZDRWt5T2tDSl85UjdpMFNoX3BnZjlvNmdRd2hLSGJ3S2F0LU5iY1FseDJHNW9fOTRRRXVYME90emNYMExOakZJTm1McVFrM0JVZHlJUnJaZWtNVVA5ZThXU0hGR1ZaNmpH?oc=5",
-      "description": "Quant Small Cap, Motilal Oswal Midcap among 5 equity MFs that gave up to 24% SIP returns in 10 years The Economic Times"
-    },
-    {
-      "published": "2026-11-09T18:58:03+00:00",
-      "score": 3.0,
-      "themes": "['India market']",
-      "source": "India Tribune - Chicago",
-      "title": "Sensex, Nifty end higher in volatile trade as PSU Banks, Pharma stocks lead gains - India Tribune - Chicago",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUFRkZEtOaHh1OWJyTHFwRnVUcW8yVG5GWUdkY2RfbWh0Y3NnS3psaHdNUHhhWFcxUlpLb20wb1pqR3FvRmpFaWVqNk1TallSSHE3T3hQU0hVWGg3eHlVMTVIaFRXUi01aHFaTWJHbXdFMEJDNlFGVXc5OG1fOUEyZHVLY3BkNFdJOUsxS040dDNMM0RnMEF5ZDNJdzdHbjlaMjdpYlB1QTZ2WFVB?oc=5",
-      "description": "Sensex, Nifty end higher in volatile trade as PSU Banks, Pharma stocks lead gains India Tribune - Chicago"
     },
     {
       "published": "2026-11-09T15:02:30+00:00",
@@ -36470,15 +36470,6 @@
       "title": "Sip & Shop Artisan Market - Castanet Kamloops",
       "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBldW16NGxVTjROdjVTS29sTGFJQkJVbEszVGJaX3FvaEJUUDVkZDNwck5mSE54azhFbms3Rm40cWxtU1hnU1JQakhQZXcyMjkzOXRlVXlXQW1QQ01aWXljOF84SFJ3Z0xPZUV6U2s5bjhqWnV1TDZWaktB?oc=5",
       "description": "Sip & Shop Artisan Market Castanet Kamloops"
-    },
-    {
-      "published": "2026-11-09T05:09:56+00:00",
-      "score": 3.0,
-      "themes": "['AI / tech risk', 'India market', 'macro / flows']",
-      "source": "Business Standard",
-      "title": "Citi, HSBC turn bullish on India as oil slide, AI rotation lift markets - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOY01GVlhnV05tMXpYRldrbUk4SFB5cm5SM0tJTEFpaVNVZ3lXZWltdWdfanAwdm4xZmZ0andSLS1DSWU5R3JwRFQ4akRXc1BFZzBiTWNVWWhjdlh1ZTZ1TmFieGU1bG1FdXpkVjVjdkxXakNmb0hONEtXU0lUR3JKMmRMMnRiZTZ6anBrUTR3elVXenV5M3F6Umx2aXcxdmV3QjlFeHNKLWlvd3pDVlVlNWNPSmdaUTRKWTRzUVRXUWZweWRvZ3J4R1pCRjFibVFPRlBlSUFtVmpiaW030gHiAUFVX3lxTE8yY2FwbVp0cHluWGp5MjJBZlJaZEs3YTVpSDFneVUzZ1pXRHp2T3BEN0Y0NHdQNTljU3d0bnJYcXpXMHQyTDhWSi1vbXVQVklNODQ3UzdzaVVPM2l3Tl9uXzdRVnotaXM1NVFpTmZsWWdTZk1Ea0RRN0NZMHYzYXp6WkNQQjNsRXliT3kxSjdMYjVEYXFGbVBnRW12RzQzUEwweVlLenZkSGtEQVkwbmhtRDJzdUpCNi1NUFRyamM0bjV4MTdwOVZYb3pwdXJqT3pDUDRyc0RsS0FXd1VZSUg1TlE?oc=5",
-      "description": "Citi, HSBC turn bullish on India as oil slide, AI rotation lift markets Business Standard"
     },
     {
       "published": "2026-11-10T00:36:21+00:00",
@@ -36661,6 +36652,24 @@
       "description": "Stock Market Rally Fizzles Out As Bears Take Control Of D-Street, Sensex Sheds 150 Points While Nifty Free Press Journal"
     },
     {
+      "published": "2026-11-10T03:50:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "AOL.com",
+      "title": "The Nasdaq Fell Into Correction Territory Recently. Should You Buy the Dip? - AOL.com",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNSnNCU0dWNUsyU0dCNE1qRWhpRHhlai1POVVhNXpsdFJKZmt1SlBQOFRYd2RSS2hSMXlNQ0g0STg4U19YX2pyU2hTeTVLRXN2M29RODVJRnhiOUFzeXR4Q0FfSndRTjVCRU5kTm1vYU1tWHozeFpOTkJ2SGFXLS00cVl4SVd2d1lyZVF3VUhB?oc=5",
+      "description": "The Nasdaq Fell Into Correction Territory Recently. Should You Buy the Dip? AOL.com"
+    },
+    {
+      "published": "2026-11-10T03:22:19+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "The Economic Times",
+      "title": "Japan's Nikkei surges nearly 3% as AI stocks extend rebound; SoftBank jumps 14% - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQOFpESkhPbXNIV0tvSWxvc0twcDdzN1huZFRlRkJqT1dCNHZFYjBCRGFVTHowRDU4VlBNdjNJa0NYNHR6T1VsN1piQzlqS2RFNVZuMnpMa0djaUNfd0FsbXdBbmFjWVFRQVF2TmdMU3hjNkxtNUJ2eVpmNzdyZVNsN29NcEFMT1pFaVJLMk9SX094ZUhZQXR2T0FNREhwUVF2RXgxam13YVpfa19tazFFRUh3N3RtRXdUMmpKWnF4WnVmTGhpblRVRldxYmxUZ0g3SHU0T3RxUGk5RFNMa3E3clRNcDN1aFE?oc=5",
+      "description": "Japan's Nikkei surges nearly 3% as AI stocks extend rebound; SoftBank jumps 14% The Economic Times"
+    },
+    {
       "published": "2026-11-10T00:24:15+00:00",
       "score": 1.0,
       "themes": "['India market']",
@@ -36677,15 +36686,6 @@
       "title": "Stocks climb as buyers step in despite Nvidia woes - The Edge Malaysia",
       "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBhUzB1RFdadXdEUjVQQjJIYnI1Rm1jSlJMekxXcmZtMnZPMHhpVTVMaHN2akNRYWlqbWJqSXI0TEhTWVozc2lkdmc0LUJsMmVF?oc=5",
       "description": "Stocks climb as buyers step in despite Nvidia woes The Edge Malaysia"
-    },
-    {
-      "published": "2026-11-09T21:45:57+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "ad-hoc-news.de",
-      "title": "Nikkei 225 rebounds 2.33 percent to 58,775.50 after sell-off - ad-hoc-news.de",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdk96cTdwcVJqQXlhT052bFJhRlhxOU9XajI0dTBwVTdrRVM5bV9PQ0ZYV0dRUDExaHd4WFhzbnhDNlBmdFY2ektndjM5dWFuQ2xxSVgwbFZNcWxudGMzbi1ITF9RbEhLQjAtUmFvVVVwWFE3V3h5YWtHWTByenYzTUdYVU10bUt1MllxMDM5ZUFnd281R29lbFZZLTQ1NEhyYlNqTUc3S3N0ajJSVFpkWFBHU2IwZFczVEFVZmRwVQ?oc=5",
-      "description": "Nikkei 225 rebounds 2.33 percent to 58,775.50 after sell-off ad-hoc-news.de"
     },
     {
       "published": "2026-11-09T20:50:19+00:00",
@@ -36841,6 +36841,15 @@
       "description": "Strong FII buying, stable macro-outlook to support equities ahead of Budget: Axis Directs Hemang Gor The Tribune"
     },
     {
+      "published": "2026-11-09T06:07:18+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Benzinga",
+      "title": "History Suggests Last Week's Selloff Was a Buying Opportunity - State Street SPDR S&P 500 ETF Trust (ARCA - Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORG5hRnRtSlV4dGsyQVJybU1pU1RQQUg5akV2VVNLX0pmRDFnbjJwXzByOWh5Yk4ycGFIODJWdDNad0NuRzlKcGw0cmpjY0k5SVJ3ajlIbU1nZzFZZldsQTdkN0x2Nk5PM2dDMDVOQW1GaWFsODJYdjkxY2V1ZHNTOENWTHk0Wk1DVjR3Wld4RjhMc1B5UjEyT3QxM3A5UEU?oc=5",
+      "description": "History Suggests Last Week's Selloff Was a Buying Opportunity - State Street SPDR S&P 500 ETF Trust (ARCA Benzinga"
+    },
+    {
       "published": "2026-11-09T05:52:10+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -36857,33 +36866,6 @@
       "title": "editors take trump iran war risk fii buying market rally - Zee Business",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOelI3dDVPOXpWUjBvOVg2Q3pTaG80T28ybGVaX043Y3JDbWx2UFZqdVdNT1ZCOFJsdDFhZmRpczdtc3JBWG5GNG56ZnIwQUViaERuM3hMX0wwOC1CRUdNNGpoR2c5bE56OWEzMWxweHVZYmpBWXZDN1hwRXVzQkozMzlVNld4SE1yUU5OdzhWM3RObjVGYW53LWtSZHp0SFBmNW9OZ0swZGNMZFZRa2xBVGlR?oc=5",
       "description": "editors take trump iran war risk fii buying market rally Zee Business"
-    },
-    {
-      "published": "2026-11-09T04:03:00+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Bloomberg.com",
-      "title": "The Third Correction in Trump 2.0 Years - Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTDFXSXdKalFHcGhlZ1lrRXVUd3Y0VWVfTlpvbXhidl94RjdPMzBNODQ1NkQ4OGFJd3hDMWdKWmJSQ2ZhOVQ1bnhSNHEwOWx3MkZvZ0Y5cmoyRUVWY1hUSTVzVllpMmlBUnE0Ymtwek9IenJjREJIQk04QlA1LU9SODM5TENBdXl6VFE3OFk4cDlMX1BMUmwweVBxREllUzNn?oc=5",
-      "description": "The Third Correction in Trump 2.0 Years Bloomberg.com"
-    },
-    {
-      "published": "2026-11-09T04:00:00+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "The Star",
-      "title": "How AI just blew up a key tenet of computer science - The Star",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNenZWNkEwZllRbmxjWmdobHIwaV9ESzBiMEt5dy1GcjhYMjNmM0dTR3JEUkFnenFTZThGTDAtMVN0eUZVQ3VOZGZjS2toVTRaSzBQM0hvUnlYRTBLN201QTNGLU5iX2VjWktLRDRJLXRwUjJUQzhERERIblE4Q0pNcUxCb01aSnFFcUFYR25neVJBbmpZOVBvbFpKcHhWcGwxVF85UnZfYw?oc=5",
-      "description": "How AI just blew up a key tenet of computer science The Star"
-    },
-    {
-      "published": "2026-11-09T03:50:16+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "Stocktwits",
-      "title": "How Are Dow, S&P 500, Nasdaq Futures Trading After Last Week’s AI Bloodbath? - Stocktwits",
-      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPVFY2TDhFNEpkSVE0dFJqRGV0M2EyOVY0WnRwVU1aNndQZzJ4aGdaQVk0ZUN2N0dDM2JlY0w2cEJfZ2hEVTAwWksxYk5tUFhyRzFzRWJUZGtYTjRUTjQ0VWFvSkhvWUstQnVzRkQxZXNBTWpzTy1BS25Gd1BJc2liLTBaMHU0OE8tZlluOERaNWFJamNHbDJ6YmlhV1d0MHQyV3U5dVlWNFloYXRvWUowLWQ2Q2VzYk01dzY1V055blV6X3JhSGRuNGxQVDEtREpnaTRvUmlSYjNhWndabGY2d09URjV6OGpHcllfUW5hbE00NWVR?oc=5",
-      "description": "How Are Dow, S&P 500, Nasdaq Futures Trading After Last Week’s AI Bloodbath? Stocktwits"
     }
   ]
 }
