@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10 15:41 IST",
+  "generated_at": "2026-11-10 16:11 IST",
   "wire_file": "2026-11-10-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "40",
-    "wire_total_count": "131",
+    "wire_count": "42",
+    "wire_total_count": "130",
     "wire_scope_date": "2026-11-10",
-    "ai_wire_count": "21",
-    "selling_wire_count": "20",
-    "india_wire_count": "15",
+    "ai_wire_count": "20",
+    "selling_wire_count": "21",
+    "india_wire_count": "17",
     "weak_index_count": "7",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-10 09:37",
-      "title": "Bharat Forge to begin Army deliveries of India’s first private-sector towed artillery gun - Moneycontrol.com",
-      "text": "Latest dated headline · Moneycontrol.com. Today's unique wire set contains 40 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-10 10:31",
+      "title": "RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune",
+      "text": "Latest dated headline · The Tribune. Today's unique wire set contains 42 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-10",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-10 has 15 India-market wires, 20 selling/risk wires, and 21 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-10 has 17 India-market wires, 21 selling/risk wires, and 20 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-10",
@@ -669,12 +669,12 @@
       "name": "DAX",
       "ticker": "^GDAXI",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 09:55:00+00:00",
+      "quote_timestamp": "2026-11-10 10:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 26267.19,
-      "last": 26576.75,
-      "return_1d_pct": 1.1785065449329002,
+      "last": 26579.78,
+      "return_1d_pct": 1.1900391715216951,
       "return_5d_pct": 1.1011840192062694,
       "return_20d_pct": 3.914559318173172,
       "rsi_14": 58.65,
@@ -698,12 +698,12 @@
       "name": "FTSE 100",
       "ticker": "^FTSE",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 09:55:00+00:00",
+      "quote_timestamp": "2026-11-10 10:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 10782.9,
-      "last": 10814.74,
-      "return_1d_pct": 0.2952808854441713,
+      "last": 10818.2,
+      "return_1d_pct": 0.32736836480646847,
       "return_5d_pct": 0.20072469245853153,
       "return_20d_pct": 1.1880351365659791,
       "rsi_14": 53.91,
@@ -727,12 +727,12 @@
       "name": "CAC 40",
       "ticker": "^FCHI",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 09:55:00+00:00",
+      "quote_timestamp": "2026-11-10 10:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 8233.3,
-      "last": 8319.27,
-      "return_1d_pct": 1.044170971565439,
+      "last": 8323.43,
+      "return_1d_pct": 1.0946993908953262,
       "return_5d_pct": 2.306374433317404,
       "return_20d_pct": 5.112039605683627,
       "rsi_14": 64.64,
@@ -756,12 +756,12 @@
       "name": "Euro Stoxx 50",
       "ticker": "^STOXX50E",
       "last_date": "2026-11-10",
-      "quote_timestamp": "2026-11-10 09:55:00+00:00",
+      "quote_timestamp": "2026-11-10 10:25:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-09",
       "previous_close": 6290.45,
-      "last": 6363.72,
-      "return_1d_pct": 1.164781808237647,
+      "last": 6363.41,
+      "return_1d_pct": 1.1598527716166984,
       "return_5d_pct": 1.8521538915344582,
       "return_20d_pct": 1.439077775742792,
       "rsi_14": 56.24,
@@ -799,7 +799,7 @@
       "advancers": 4,
       "decliners": 0,
       "advance_decline_ratio": null,
-      "average_1d_pct": 0.92,
+      "average_1d_pct": 0.94,
       "average_5d_pct": 1.37,
       "above_20dma_pct": 100.0,
       "above_50dma_pct": 100.0
@@ -1079,12 +1079,12 @@
         "name": "FTSE 100",
         "ticker": "^FTSE",
         "last_date": "2026-11-10",
-        "quote_timestamp": "2026-11-10 09:55:00+00:00",
+        "quote_timestamp": "2026-11-10 10:25:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-09",
         "previous_close": 10782.9,
-        "last": 10814.74,
-        "return_1d_pct": 0.2952808854441713,
+        "last": 10818.2,
+        "return_1d_pct": 0.32736836480646847,
         "return_5d_pct": 0.20072469245853153,
         "return_20d_pct": 1.1880351365659791,
         "rsi_14": 53.91,
@@ -23210,7 +23210,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-10T15:41:14+05:30",
+    "generated_at": "2026-11-10T16:11:02+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -35707,15 +35707,6 @@
       "description": "Goldman CEO: AI financing demand is still strong despite recent tech selloff Seeking Alpha"
     },
     {
-      "published": "2026-11-10T03:09:20+00:00",
-      "score": 8.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "BigGo Finance",
-      "title": "AI Selloff Overdone? Asian Chip Stocks Stage Fierce Comeback; South Korean Market's Opening Surge Triggers Circuit Breaker - BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBOdXdyd1VHS1g5dDVlOTdrUjJGdkR6Sy1ZdTNBY0pUelJSdlBEVWJKdFl4eGs1d1V3Y0FhaENPZFV4MzZYVlVVb055QjRtWTNWSUxJQkNqaDZWdUZHTi1GeU5fdFV1MHFNVktqZ2VSeHZYTEN4RFE?oc=5",
-      "description": "AI Selloff Overdone? Asian Chip Stocks Stage Fierce Comeback; South Korean Market's Opening Surge Triggers Circuit Breaker BigGo Finance"
-    },
-    {
       "published": "2026-11-10T02:43:00+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35860,6 +35851,15 @@
       "description": "Goldman Sachs defends Nvidia with $300 price target after AI selloff Crypto Briefing"
     },
     {
+      "published": "2026-11-10T09:35:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "BigGo Finance",
+      "title": "Stock Futures Waver Before CPI as Nvidia Rebounds After Huang Scandal Selloff - BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5SX3Q2M0RrejlJQmtva1ZMRnpUNWNMM3FPQ2hwWVlkWEJmb1ZBbHVwbERvUXRONXVrU2tKOGM1QXkwdkV0dkozQmhhNnZFalE0QWsyOUNzY0lrMVFtZGVjbUtINURJVmpGT21RUEVwSks5OXFTNnc?oc=5",
+      "description": "Stock Futures Waver Before CPI as Nvidia Rebounds After Huang Scandal Selloff BigGo Finance"
+    },
+    {
       "published": "2026-11-10T09:17:57+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35923,7 +35923,7 @@
       "description": "Wall Street brokerages call AI stock selloff overdone, see buying opportunity in tech stocks The Economic Times"
     },
     {
-      "published": "2026-11-10T07:03:25+00:00",
+      "published": "2026-11-10T07:03:13+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
       "source": "Cabot Wealth Network",
@@ -36310,24 +36310,6 @@
       "description": "Micron, SanDisk stocks crash nearly 30% in a week: has AI selloff gone too far? Invezz"
     },
     {
-      "published": "2026-11-09T10:29:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "KuCoin",
-      "title": "Wall Street Sees Tech Stock Selloff as Buying Opportunity as Cathie Wood Says Midterms Won't Stop AI Revolution - KuCoin",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdzhJOTk2NXh0YmFVOTdSdWJjRnkwMjJ6aC1sTGc2dm80ajNwaThjb3ExWjgyVHotenJfOWt1dlpMNTlTTWpHRkVoWDN4dWJlMjFKNDI2WW9oeTd5REZFaEJZTWRZR3VFQTVpY3QxaG4wMHJWRVExRnItZjc5TVhZRmJqUjFqOGFBell6dw?oc=5",
-      "description": "Wall Street Sees Tech Stock Selloff as Buying Opportunity as Cathie Wood Says Midterms Won't Stop AI Revolution KuCoin"
-    },
-    {
-      "published": "2026-11-09T10:25:07+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Yahoo Finance",
-      "title": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaVlpNjBPSk5CcWpIVmc4RnVtUmsxT00wUFVZTXNrYzJqU2w1VGFoUUlUVS02TXVDODhpanJQSUlrNEUzLUo5c0czMXRaYVdSUzdubzBSTG5lVnVEUUE4bW9HSmVHZGV0ZVhYazJsOWw1WDdLMzYxRU1BaEVfbWpWTWtkTDZhakdWd1l5aU1DZk1abDJKY1JRM1VHQnU2Snl5X2xCMHQwaXJ5bWJxYzZPMFFybnlXOWhGSlByeGFDRXZGY291RzJkeW01dHN2a3Fsd0Jn?oc=5",
-      "description": "Anthropic's IPO dilemma after the AI sell-off: 'Damned if you do, damned if you don't' Yahoo Finance"
-    },
-    {
       "published": "2026-11-10T00:51:53+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -36391,6 +36373,15 @@
       "description": "Equity Mutual Fund Inflows Rise Over 30% in September; Industry AUM at Rs 82.64 Lakh Crore: AMFI DD News"
     },
     {
+      "published": "2026-11-10T10:31:43+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "The Tribune",
+      "title": "RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOb1MxcGloU0lVb2J3QWtabEc4NmE4QVNVOTZYTHNEOWtvRl9VTkZ0cnJqYkZ4UFVNR195SllwT2RRSjJmekJYMEJ2Q2VoX1pnTVVFcWVoc0hIM0FmSnB1elVNejNEbm9oTTM1N2JjM08tRDBfc1k5LVRYR0l4RE9na0VpVFlLYkJETU4weE5UazYzaWFTdlNZS1V6Vkp4Q2VxMFNlWGs4OEVNRkVpd3JfMU5yQ3dyYjhOSnBvckp4NGktUGFnb2RR0gHXAUFVX3lxTFB6WE5OOWVwUXJKV2hnLWZfSDUxMGd5cTNDeEc1TTJXZkFIV3ktTmhYdmJtR1p3emNZYXpXMmluMVdQLTcwN1RLN0lpY2Y2OHhVei0zdER0UE15RlFqMEY3bURMZFdZZnNlNGY2SEg3WWtaMS1vWnZobnBNRnNXQUZ1Y1lrUHkxY0swQTlMbWJvaGNZYU1ldU9PNjlrZjNuYWJNVDViWUhFdmN3c3NNM005SXVzTF81c19nVXNSRnRZcTd3MTIyVFR6a1dBeHVNb244SzBaZDJV?oc=5",
+      "description": "RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report The Tribune"
+    },
+    {
       "published": "2026-11-10T09:01:34+00:00",
       "score": 3.0,
       "themes": "['India market']",
@@ -36407,6 +36398,15 @@
       "title": "Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says - Seoul Economic Daily",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGJGbkdGbTkzWHJyeVVobmk2emJFT2xodUN1SC14S0psOG8zLWwxTjRjSUl5aHQ3UGU5UjJUMG1sNTJvZDdYNThkVnd6TWk3N0psYVBhRXFlR2MwNUZ5bnVNTHF5LVVOM1pFZV95LTNPdmlNOWRBbnRTVjcxdUxpdGdrZXd5N09kaDhPdEl0WTBwU3lRU19vZlFUTjQ4RkU?oc=5",
       "description": "Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says Seoul Economic Daily"
+    },
+    {
+      "published": "2026-11-10T06:16:21+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "cfo.economictimes.indiatimes.com",
+      "title": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report - cfo.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNZjdZYkhmdjJISzFjaXV5RFREMzU3T29zbS1hNjRqWU5MRXJ2b3JFQV9ydWdNQk81V3dlMF83ejJlU3FtTGtFVFZoZlFSQnkzNl9IaElSSWpWZEZDR0szd2lCOGpQTHNRYkJXclFGbWo5T3Y1YmtITmg1Wk9TMWlDUU0wVUNmQ092SDJBU193UDl6LXlXbUVJTTdPNEdHdkFhS1RJdXNmckFJel9qVmFKMnItNjl3Mmd2d1ZXZGlnUm0wNEUxV2twVFVRTzdtZWt0ckpPYm01N01RMXhzRDB30gHkAUFVX3lxTFBJaHFLamRZVWZmVVRDVjR0WU9yY09hMHZCaWgyZjRhWC1zNEYwNmlVUjVaNVAtVnJ1Z3VURFlkLVpMQ2hLLXNScEFPRnN2UXRoUk85U0p0RlZia25zWndZQlpKWVJWbXhEbVlqMFF2QjJYZE1zWmpYWFVlMnB0RnZLSG9XQjhuQVNTd21QNDlVUTJOdmppZ1Zxb2h3VFUyYXdyclcxYXhfWFMzRkYteVI0aUxacnUxRHBLYkc1X2tIbXFCalZneWRmcmZqeUw3djNJWU8yVTFvdmh0V1NsQk9GeGFOZw?oc=5",
+      "description": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report cfo.economictimes.indiatimes.com"
     },
     {
       "published": "2026-11-10T05:15:52+00:00",
@@ -36427,13 +36427,13 @@
       "description": "Stock Market Holiday Today: BSE, NSE Shut For Trading; Asian Markets Rally, Crude Oil Falls ETV Bharat"
     },
     {
-      "published": "2026-11-10T02:51:05+00:00",
+      "published": "2026-11-09T16:36:43+00:00",
       "score": 3.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "bfsi.economictimes.indiatimes.com",
-      "title": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report - bfsi.economictimes.indiatimes.com",
-      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPXzMzVzJwQVpVSF9pVGd4Y0pZNVc3ckxjMHZRNVQ2TmhlNUFMb0R4UHFybXBRb1BLQ2RZb1RBNGt3M05IRnFIYTVqMXRZZW84QjhnY29kMU1ORkJINTh4a2wtQlVWdVJEV0E3a1hKUV9fbGs1eXZjQ3Y0blFtWTR4MTdfQTdYMThOWmIzbU1uLUZJWHdza21qdjVwNmNYVkdQcHhMZ0lKSXkyUWc5QnFpT3VzUG03NUFCUUNXZk02dEtGQWhiT2lsaFdqeVFRQk41SzlpdXhLTzBGd25H0gHiAUFVX3lxTE5MQXJvUWItM19EbXBOMnpEQTZlSS1hdzBaQ2s3QlRCWlh3am5xTFVhOUgyUm80eVJOUXBWN2ZYb1BCVDBwZTJOVThXaG1kRF9PTkpfdlI1Wkd3cWY3aTYtb1dOMGxkTUt3RnhPY25GNTFTUTdIbEtrNUh0TVpEYVVwX05Sdi1Eb05EUFQ3Z0FVS2JDejluYzltOW5IYWpkYlZzWFpxVmtCS3dhNWZPSXJzRGhyNGdqczV1dndzUmV6Ni1FNDhtdFN6cVE1SHlqRXJ2bV9Wd0RsUHRSNjRXblNpZ0E?oc=5",
-      "description": "RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report bfsi.economictimes.indiatimes.com"
+      "themes": "['India market']",
+      "source": "INDIA New England News",
+      "title": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains - INDIA New England News",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNMmNUQ1l0RW1zWEx3QTgwMUZlYS03SUpSMFIyTUdsaUJWb1RxaktDQnVFZF9pN29EVFY2bFh0OWV4MHJCbW5pU25TV20xdXNjVWJsYnloc2NQS1RWNXBwTDBHWktjakNJZDQxR1loa3oydk5aN1RHYTNvUjFjYlZCY2tJV1dNellTVEVlZTA1UlhiLUxVUVFwblBNaXRyaHJDYVl4Sg?oc=5",
+      "description": "Sensex, Nifty Close Higher as Banking and Pharmaceutical Stocks Lead Gains INDIA New England News"
     },
     {
       "published": "2026-11-09T15:02:30+00:00",
@@ -36479,15 +36479,6 @@
       "title": "FPI investments in FAR G-Secs rise nearly ₹8,000 crore as rupee gains, bond yields ease - CNBC TV18",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ2Ytb1F4Y3pIM1B0ZmZjXzZhOHRoeUc1d2hfVmg5MkFsLUd6b28zTDRZTVk5alBmbmNIdmd4eXlCV1FNcmJmem5BNmRvMG91RFNka3pLNnlRY0ttMEktNnVxV1RIWm50WVNXX0ZURmNwbVFKSjNldnJ2MnNORHdGSTJMVk1uNlRkd285dkU0ZzhXOXdPZnkxWEk5dFJpX29JSG9oTjdRNmJrVDBoQVlXZERoa1JWMFhPc1ZEa3NyaWl3czlRaHhJNzVwdGbSAdIBQVVfeXFMT2IxRXRzSUZqeUhXaGZrallrQ1J1cUFNbncyUURjRkV5T1ZtRHU1RFUyanNVaFhYUkRveEh1bXJIcHJaSEo4dlZqU1NyYUtaWkZVdGFuaFR1ckd6YnB0V0hXcVg3X3VFLUtEX0tTdjJxTm1HeGJvZXF3TEQ1WkE4eFcxOUVBMlp3Zk9OLW5vWEM0Wk1abGN2SWFYY01PQkZmRDZyVXZPS3dTUlFmc19BSjBTb1ZNYjA3ZV9QdEEzTnlEYkN3VjJPY2ZiV3NjNnBWeERR?oc=5",
       "description": "FPI investments in FAR G-Secs rise nearly ₹8,000 crore as rupee gains, bond yields ease CNBC TV18"
-    },
-    {
-      "published": "2026-11-09T10:27:40+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "ET Now",
-      "title": "AMFI Rejig H1 CY27: NSE, Jio Platforms may enter largecap category; check stocks facing upgrades, downgrades - ET Now",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPN0pjNFFYUjVsZ2VwQ01LOW5PTTdlVjJGQW9kSUtReU9MRkdmQUotSE1ZMEUzTFZXeE1VM1BTYkJXZjNlVjR2TFdpb3dOdkh3NzFtVmczS2kyd3FoRFhWalZyOWFMd0s2SlVDLXg0eTdwcGk5WW5uUmdNbDJWTnhpOWlfS0R1Y1RFREozenpNV2pWTi1UVzZoWVRUY3pnTDJKejM1bURGRmQ0ZkM3RjZwSGxJMzNEQ0lZeEpmd1JFdDdCZThEdzd3TmstUmJ3dFVZSlJ3N2VUZWo4a2lwZjhCRS1odWlRZXItaWhabtIB8gFBVV95cUxPRjJiaHY1bTk4M1pXQW9EV29kb3hRQUkzUHBCcU40UXlLSlE1TGxXYlRITXJmdG1lZnB0TjVoSV9vTUo1M2NJWWl6NWJ4RzgyRzB0dzMxeWZoaHRuYlBWMVJPQ3lpeE54WGhPRkswMHRlSFhQUHlkVHJrTzAyQWFZYnd6MG1HMFZ6cEZfWGRsaFpWeFZ3ZE5mY2w2ZTY0YzF5V1lWeXY1VG9oNlJkLW1DRkJOUlVQTTh2ZGZsdGE0LVJqcG44dnYtTDR6YmRRY1R1cUN5aC1sNG94Y1hXcEFqSlotR2VnUHhla1I4bmY0ejUwZw?oc=5",
-      "description": "AMFI Rejig H1 CY27: NSE, Jio Platforms may enter largecap category; check stocks facing upgrades, downgrades ET Now"
     },
     {
       "published": "2026-11-10T08:37:42+00:00",
@@ -36553,22 +36544,13 @@
       "description": "Dow Jones, Nasdaq, S&P 500 preview: Inflation data, earnings loom after AI rout Yahoo Finance Singapore"
     },
     {
-      "published": "2026-11-09T10:25:07+00:00",
-      "score": 2.0,
-      "themes": "['India market']",
-      "source": "NDTV Profit",
-      "title": "Stock Market Highlights: Nifty Reclaims 25,000 After Muhurat Dip; Sensex Ends 100 Pts Higher. Check Key Gainers - NDTV Profit",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZmxRSVlEM2EzLVNFZjNYSjlPMG9ONXZVOGJoQ3BJMkJEZWU5Y2Q5MklUVDl3ZGVwemNuTG1IVWtrbTFCRDJHTEpnZmZNWnVDcTVFZmtJYjdreno3RlVCRWVMbjJuMGUyZldEeUNjUWVCTXRDSkMwaFE0WE1CbkdFT0hxTmVLMTZFWVBxMHlZYXhFZFhRNTVIaVVfV19Md0VHQ1N1SXp5dkRabjN0M3lOTHE4WWNEVkJqRFkyOXRaNEN4c05qSHdpaEFJU00td3REU0RBUUFOUnZWSHfSAeMBQVVfeXFMUE1vNVZkR0pETG9lU0JzR2VNVVhMcFRtMVZwTEJnenQ5NGIwRlh3LUhFVlZCYllKQVhtcXNUNkw1dlFGMzFBM0pPYldOcExJdHd6alJZS2h4ODdSZVNOYmNXQk9USGdRSEhFZFplcGdLcnhfLWVjLUFvLTJpSHlsU0FZZzJLTVoxbE5yQ1gxT04ybUQzTmo0YkhTWlpJR1BaWVoyZWRXV2RBT2ZFYWVPMGcwaVZEdFRxc0VzTXRJT0toeHJVWFk5MEtZWkxzTHNDNjgtZEpCY2Y3WnhnZmdrLThzNEE?oc=5",
-      "description": "Stock Market Highlights: Nifty Reclaims 25,000 After Muhurat Dip; Sensex Ends 100 Pts Higher. Check Key Gainers NDTV Profit"
-    },
-    {
-      "published": "2026-11-09T10:10:11+00:00",
-      "score": 2.0,
-      "themes": "['market selling', 'macro / flows']",
-      "source": "FXStreet",
-      "title": "US Dollar: Correction risk as rates ease – ING - FXStreet",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNQkhKbldiRkFOWnNFVXVHUGh6SEZvZEJKRTVpZGNyelowaEV2bEoyeFlYZjAyd0NZdVU5bGFPLThDNXpDaTZEczV3MlQ0Q2xjNEhBTFNjX3RORjFLUjEtckJnZ0hJeXNkODRnQUpTaFp4X21jZ2FwbHhNVVdWUzc5aDh0U1g4NzZPRy1wcWR3VQ?oc=5",
-      "description": "US Dollar: Correction risk as rates ease – ING FXStreet"
+      "published": "2026-11-10T10:02:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "The Motley Fool",
+      "title": "Stock Market Sell-Off: Meet the Unstoppable Vanguard ETF Obliterating the S&P 500 in 2026 - The Motley Fool",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNakVCdmZDcUVWVU5vc1V6VXRHU3RvczdSY2pqQUVIWEQzNXVvb0NSUnNxdElKTElDYTdtZlRySTMyb09JZnZoVzFDR2hKT0hMSmdhTEFUb1hFaXJrLUhuTXRXWU52WkV5bUFxWlo1S1RGRXRWU19ZWkJucERBT2NwSDVPd2tYTnRsWGNkLVZldFpZZi1HVFE?oc=5",
+      "description": "Stock Market Sell-Off: Meet the Unstoppable Vanguard ETF Obliterating the S&P 500 in 2026 The Motley Fool"
     },
     {
       "published": "2026-11-10T09:37:48+00:00",
@@ -36589,15 +36571,6 @@
       "description": "Should India scrap capital gains tax for FIIs? ‘Case for foreign investors is very strong, not so for domestic investors’ | Expert Take ET Now"
     },
     {
-      "published": "2026-11-10T08:52:45+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "The Financial Express",
-      "title": "AI stocks under pressure after US midterms: What changed and what investors should watch - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNHh2RGhlcWQzaGRJdmdpNDZUdi0tck85dzhNUEdpTm90WDJQcV9MS2xNZHBNMExaZllFY3B1MDZJd3RJeW53ZEk3WFpPTHl1cTRYd2dLVFktS3VpVGNNbmFZejd1UzM0ZXVxX1B4Y0FKbUtxdEk4VGZjaWJUS0lISm56N1dvenRmcWdlM1JLLWxjRXVlVWI3NDVvSEJ2OUZWUDdyY3dqTlZPbHhmT3VGRHI4UHpraloxLXhLWi0wTkVLa3V5NEl1aWFrM0VFaE9LSE9FdGpocms2NVNNTTg1bTdLNDFSYm1uZTlZcUJGTl82eEHSAfoBQVVfeXFMTlZHTG9MZXYyNWdQRTU5STZ5S1ZDaDJ3b19LZ0twcDVfTmxTNmRYQjB3VVlCeTJRcE11am1lbDl2dEZkeG5fLWNCY2xUQUtvTzgzVE51SGp2TWVKaG42TFFWb2NFeEoya2FNNUNESG5fZTM5M1J3UFRyWHk1Q3U2WHlBMTR5N09tRTU3bzlKQ3N2Q0VwN0hKMFBId01NYy1sZkdMNm5jM0p2MU15SlJpT2x2ZHJNTDRra1lucVhQUzJReWdQa09uUUFrZXZlUnNOaUNzd01lMzZaUW9aejdNMTMxdFg5R0oteXAzMFpTMWk3bmttZWxaSF9rQQ?oc=5",
-      "description": "AI stocks under pressure after US midterms: What changed and what investors should watch The Financial Express"
-    },
-    {
       "published": "2026-11-10T08:39:35+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -36605,6 +36578,15 @@
       "title": "SK Hynix stock gains as Asian chip shares rebound - ad-hoc-news.de",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOb1huVmVJRGIzdlEzVEltMGl0aHdlcWdFakJjVmJzQ0tIWEhpMkN1enQ5ZFhHeGRyNlFZcjEzQVB3M0g0NVFtdzhRdk91bmhQLVFsQjVXdm5uSnBXVE4tLXNWeXlyenA3RjctT2hBN19SLWswSUhIWGVleDg4Si1Db0N3a1EzSnBzTW5NdDU3YUhlTm9pT3N1OE1NYmc0WW5TU0ZTTmtvMVBzb0t1M3d4SVFR?oc=5",
       "description": "SK Hynix stock gains as Asian chip shares rebound ad-hoc-news.de"
+    },
+    {
+      "published": "2026-11-10T08:28:22+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "bfsi.economictimes.indiatimes.com",
+      "title": "FIIs may revive India equity investments as global headwinds ease, domestic fundamentals remain strong: Repo.. - bfsi.economictimes.indiatimes.com",
+      "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNSl9WOUxjbkRBOHREY3VoZ0doci05VHhVdzlQb2x2WHVCOU91ZEJNdHJ0TU9BYnBGT2VJM205b3VoSS1BdHJCajNYdFlCWlQ4U19pUmQ5b2lBb3R5WTE1NmFpbWRKRTNILTlxX3ZKaENtNThXWlQ3R0FtWDByVWlMVnRiVEQ1ZzJzSHhtWDJRb2kyaTQwRWJoZFhBN2dzSE9BRzdRVGhhVGY4RktoOVhNUzlfM0l0MGkzb3BOOTFzb2dDQ1JHV191VlZmWFBlWFdvSmhTVnZQSENXaVFSUEMxS3pHWFdfNHdjUFp0NDU5MzJueVQzN0tDTGVYRjFsUHE0VEVZ0gGDAkFVX3lxTE1KX1Y5TGNuREE4dERjdWhnR2hyLTlUeFV3OVBvbHZYdUI5T3VkQk10cnRNT0FicEZPZUkzbTlvdWhJLUF0ckJqM1h0WUJaVDhTX2lSZDlvaUFvdHlZMTU2YWltZEpFM0gtOXFfdkpoQ201OFdaVDdHQW1YMHJVaUxWdGJURDVnMnNIeG1YMlFvaTJpNDBFYmhkWEE3Z3NIT0FHN1FUaGFUZjhGS2g5WE1TOV8zSXQwaTNvcE45MXNvZ0NDUkdXX3VWVmZYUGVYV29KaFNWdlBIQ1dpUVJQQzFLekdYV180d2NQWnQ0NTkzMm55VDM3S0NMZVhGMWxQcTRURVk?oc=5",
+      "description": "FIIs may revive India equity investments as global headwinds ease, domestic fundamentals remain strong: Repo.. bfsi.economictimes.indiatimes.com"
     },
     {
       "published": "2026-11-10T07:45:01+00:00",
@@ -36785,6 +36767,15 @@
       "title": "JM Financial AMC Plans SIF After Rs 700 Crore Fund Close - Multibagg AI",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1NobWFNeFlNbnR6RDkyVDlQNU5pTGJyTHA2VE12N2d3Z1ZrQWJLYldUcGVYQzdYNkROcVpOM1I0aS1kNTVEM1BKWlNsVjhUNVpqTUwtNWJVMHl6ZGVxNW9oOE5iNV9FdllPZFhWMUx1dzRlTmdwOGFCUUxfUjJ6cVZ5M3pZVWZmbjRnV2JnQzgydDJVdzhGSUJFLTVXZ185SDFRSUE0b1RCd3lhNWxwNg?oc=5",
       "description": "JM Financial AMC Plans SIF After Rs 700 Crore Fund Close Multibagg AI"
+    },
+    {
+      "published": "2026-11-09T12:11:27+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "India bonds continue rally ahead of inflation data - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVGowRDQyeWVCRk9XTjhxNUpmbG5XMlFWU0pXSU9ncy1PN0RQdUhfRGRPMG9xbEo1RVJOWjlZV2ZTLTB4dGlzaWpXams1Q1Y2ZzFsbWI4UWVRNnQxeF9SMVJVakJsWGc1Qm5wanhtN1JyTUpmWjh2VS1DLXdVaWVkdUVPMmFxdlJaZEluS29JQkZJWEo5Z3pqcU9aUzFlb0RyN2pWZ29XNGVwLWpxd0ZmRnhOWUxlcXA0dUHSAb8BQVVfeXFMTXZMeUNKRzZvN2JsQm55clZiSVlaejhIREhZWmtXdWw2ODhsWjJaLXNkdmVHelJVWHFaRzdQSDQ0MGlhcWhYNTVjdUFQdmJNMHhQc0NlT29EdUxzdm1vSG5fcllVMmw1QjJRU1FnQjdIZXQ5ZUtEazRRcFBIWVdEZFNZZ3Y0MndEV3BKWkhXUkUtMF9UZ0NNdjlUSVI5MEx5NWRGTVF4UkFuNmZtV25kNG5rTERUX3ZIa0kzcWxIRzg?oc=5",
+      "description": "India bonds continue rally ahead of inflation data The Economic Times"
     },
     {
       "published": "2026-11-09T12:10:48+00:00",
