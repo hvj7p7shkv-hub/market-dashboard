@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-11 03:08
+Generated: 2026-11-11 03:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -36,7 +36,17 @@ Mutual funds' Nifty 50 allocation falls to 21-year low in Sept quarter BusinessL
 
 Fed Governor Bowman Warns: If AI Investment Returns Disappoint, U.S. Stock Valuations Could Face Sharp Correction BigGo Finance
 
-### 4. US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6% - Moneycontrol.com
+### 4. Fed's Bowman warns of a stock correction if AI bets don't pay off and says there is still work to do on inflation - MLQ.ai
+
+- Source: MLQ.ai
+- Published: 2026-11-10T22:09:26+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTJqaGpvZFZpTm1ka3EwQUxHNTZPTGtGcHRXME11TEtBdWE3U2Y4VzN4aENCc2ZnNG5Cdk85MGNKc0cyOFg0ZWQtN3dQeER4dXN3VlJaRFZJY0VSWVJJZFJQYnUyZ3NqclZMMjZJa19sSHNkNzZtVlR3djhVZ2JXUFpIYVhEX09vSmN1R0RSMlpUM1Z4V2hudlgteWhmaTM5a0hVZFl5QVhFbURCc2ZzOHFjRGRieTUzaF9xdmVxTGtZS3lfcDk1d3ZxLUc?oc=5
+
+Fed's Bowman warns of a stock correction if AI bets don't pay off and says there is still work to do on inflation MLQ.ai
+
+### 5. US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6% - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-10T21:46:50+00:00
@@ -45,16 +55,6 @@ Fed Governor Bowman Warns: If AI Investment Returns Disappoint, U.S. Stock Valua
 - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxOSHpaejVOeWdaZDNiQTV5TjdoTmtYemhqWGc2OVM1LWdKdlgxTThZRTJxS1ZobWlSZnRabm8yazNLT2dkeVlfdkNyNS1CMzIxMFB4bzB6dDdzaW56MTAzN1ZNNXVkelMwTnhGTjk1UExHSDg0Um5ROVplQmNUM1UzeEZCTW05bW1YZnFVem9oUmZpX2N4TmRQRVJNdVd2Q1k5VDVScUEtZHZ2VzczdDUwTDNKVlhad1dEc2NkSm1GM2trWkRMRE56RE80Y2lBWG83ZWJlb3pneDU1UUJxR0JubU1TWdIB6AFBVV95cUxQdENkb2d0Vy1CRFNKbk1OempwMTJJUjZVME56cjRacldweVpEX1p3LW91NUFXQ1Z0d0JHZDhhRkYtck1ETV9seGwzZjR3XzBGc0Q5RHZsX2pMYlllbTdnTEhhOG1fX1BvUm9KQm5wM2cyYVM5a3pZakQ1T2V6c2kzdmdyYWdVY0lyQkdQUHI4ek1xMTFxR1FFaUhXcW1naGdac1N6RHpGbFZ0Y0FJS0pOc2NEZ2JqLUIzT3d2QkFoUThMcGxmNDVMYjVqaXdJaFJPbW5idWpSeC0wOUV3NUt1c0JVYlpVcUhr?oc=5
 
 US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6% Moneycontrol.com
-
-### 5. Fed's Bowman warns of a stock correction if AI bets don't pay off and says there is still work to do on inflation - MLQ.ai
-
-- Source: MLQ.ai
-- Published: 2026-11-10T21:34:33+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxNdTJqaGpvZFZpTm1ka3EwQUxHNTZPTGtGcHRXME11TEtBdWE3U2Y4VzN4aENCc2ZnNG5Cdk85MGNKc0cyOFg0ZWQtN3dQeER4dXN3VlJaRFZJY0VSWVJJZFJQYnUyZ3NqclZMMjZJa19sSHNkNzZtVlR3djhVZ2JXUFpIYVhEX09vSmN1R0RSMlpUM1Z4V2hudlgteWhmaTM5a0hVZFl5QVhFbURCc2ZzOHFjRGRieTUzaF9xdmVxTGtZS3lfcDk1d3ZxLUc?oc=5
-
-Fed's Bowman warns of a stock correction if AI bets don't pay off and says there is still work to do on inflation MLQ.ai
 
 ### 6. Nvidia selloff deepens, adding to AI jitters - Reuters
 
@@ -116,7 +116,17 @@ Ivana Delevska: Semiconductor selloff did not reflect earnings gains Traders Uni
 
 Nvidia Stock (NVDA) Falls 7% as CEO Affair Scandal Fuels $400B Two-Day Selloff TipRanks
 
-### 12. BOE’s Breeden Sees AI Selloff as a Welcome Price Correction - Bloomberg.com
+### 12. AI Chip Stocks are Cheapest in 15 Years. Is the Sell-Off Over? - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-10T14:21:41+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxQRG1HQmp5enZLZEd5c1Mtc3g5LWFNVkJRamtITTg0ZU1uUHBUUVRDVTZhYUlKa0tDMUtpbmpKbEQ3UkNnNXZmQng4Xy1BbHVIX0h6Q2ppY3pPWXdaZ092b0xZczczVlJEOW1WbHdvWWNPdUNqZ1E3M1lBZFNCWUJZYXR1bHItWDhrMk5nOWRBRGxvVmZZRHc?oc=5
+
+AI Chip Stocks are Cheapest in 15 Years. Is the Sell-Off Over? Yahoo Finance
+
+### 13. BOE’s Breeden Sees AI Selloff as a Welcome Price Correction - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-10T11:16:50+00:00
@@ -126,7 +136,7 @@ Nvidia Stock (NVDA) Falls 7% as CEO Affair Scandal Fuels $400B Two-Day Selloff T
 
 BOE’s Breeden Sees AI Selloff as a Welcome Price Correction Bloomberg.com
 
-### 13. Goldman CEO: AI financing demand is still strong despite recent tech selloff - Seeking Alpha
+### 14. Goldman CEO: AI financing demand is still strong despite recent tech selloff - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-10T08:25:00+00:00
@@ -136,7 +146,7 @@ BOE’s Breeden Sees AI Selloff as a Welcome Price Correction Bloomberg.com
 
 Goldman CEO: AI financing demand is still strong despite recent tech selloff Seeking Alpha
 
-### 14. AI stocks fall after midterm results as Nvidia CEO faces investigation - WAFB
+### 15. AI stocks fall after midterm results as Nvidia CEO faces investigation - WAFB
 
 - Source: WAFB
 - Published: 2026-11-10T04:57:51+00:00
@@ -146,7 +156,7 @@ Goldman CEO: AI financing demand is still strong despite recent tech selloff See
 
 AI stocks fall after midterm results as Nvidia CEO faces investigation WAFB
 
-### 15. Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation - www.tokenpost.com
+### 16. Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation - www.tokenpost.com
 
 - Source: www.tokenpost.com
 - Published: 2026-11-11T00:59:00+00:00
@@ -156,7 +166,7 @@ AI stocks fall after midterm results as Nvidia CEO faces investigation WAFB
 
 Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation www.tokenpost.com
 
-### 16. Watch Hot Inflation, AI Selloff & Anthropic IPO - Bloomberg.com
+### 17. Watch Hot Inflation, AI Selloff & Anthropic IPO - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-10T23:48:36+00:00
@@ -166,7 +176,7 @@ Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation
 
 Watch Hot Inflation, AI Selloff & Anthropic IPO Bloomberg.com
 
-### 17. The AI sell-off tells investors that valuations will always matter - The Business Times
+### 18. The AI sell-off tells investors that valuations will always matter - The Business Times
 
 - Source: The Business Times
 - Published: 2026-11-10T23:00:00+00:00
@@ -176,7 +186,7 @@ Watch Hot Inflation, AI Selloff & Anthropic IPO Bloomberg.com
 
 The AI sell-off tells investors that valuations will always matter The Business Times
 
-### 18. US stocks fall on hot inflation report as Nvidia tumbles again - AFP.com
+### 19. US stocks fall on hot inflation report as Nvidia tumbles again - AFP.com
 
 - Source: AFP.com
 - Published: 2026-11-10T22:03:32+00:00
@@ -186,7 +196,7 @@ The AI sell-off tells investors that valuations will always matter The Business 
 
 US stocks fall on hot inflation report as Nvidia tumbles again AFP.com
 
-### 19. US stocks fall on hot inflation report as Nvidia tumbles again - CNA
+### 20. US stocks fall on hot inflation report as Nvidia tumbles again - CNA
 
 - Source: CNA
 - Published: 2026-11-10T21:54:00+00:00
@@ -195,16 +205,6 @@ US stocks fall on hot inflation report as Nvidia tumbles again AFP.com
 - Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxNVXZQNlNoNGltVWhERXdid3F2YWZqR2ZfMU5idUFiWEx1N01fR0JNMHlLWjQwR3prenpRYnktU01vU3Z4VkFxTm9MWXNuTFY1d1VITm9nRzc3cGl6N2hELUV0bEstMVRlbXY5WjFLVkhidjVjTFJObDcyckp5ZjZZSXl5UDZCNFJqS0M5dUdwSE93QkR6ZHc?oc=5
 
 US stocks fall on hot inflation report as Nvidia tumbles again CNA
-
-### 20. What Does Nvidia’s Selloff Mean for a 68-Year-Old With $940,000 of a $2.3 Million IRA in the Stock? - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-10T21:16:16+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQUHB6OHFwMjZvcUpWazhQNW4teWx1Ynd3UTA0QmpGeUs2YWhwb2VIWTU3UHlkNmtaam80dzZvdzJHSVkwVzdvdWNQQlREakJCWnRkbG4zVUx3eFVQYmpqUmtRWW0xODhWVlVXWlV5b25ndjJEMzYzTTluUUJ5c3p6S1dTQlNnRUd6cXpKR0NaaUpOUkdWS0k0?oc=5
-
-What Does Nvidia’s Selloff Mean for a 68-Year-Old With $940,000 of a $2.3 Million IRA in the Stock? Yahoo Finance
 
 ### 21. What Does Nvidia's Selloff Mean for a 68-Year-Old With $940,000 of a $2.3 Million IRA in the Stock? - 24/7 Wall St.
 
@@ -316,7 +316,17 @@ Applied Materials, Inc. (AMAT) Was Bought Back After a Semiconductor Sell-Off: I
 
 Why last week's AI sell-off doesn't prove the bubble has burst NZ Herald
 
-### 32. AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 - Yahoo Finance
+### 32. Sensex Falls as Oil Concerns Weigh on Markets - DD News
+
+- Source: DD News
+- Published: 2026-11-10T16:00:27+00:00
+- Themes: market selling, India market, macro / flows
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5yTjMxMUV0dlhKcVBNZEFtaDNHVHNZekx6d0ZZcUZyRHFGUDBDMGg4RnFYSXZzNVBPR1VzdjVJWFNUZWNDaHNBNEpBaU1BYUZWVkN4dmNRZ2FYeHZONl9NVXQyUWEwSi1yVTZHMUFzRGVDczFPTjhMNWd4QQ?oc=5
+
+Sensex Falls as Oil Concerns Weigh on Markets DD News
+
+### 33. AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-10T15:58:12+00:00
@@ -326,7 +336,7 @@ Why last week's AI sell-off doesn't prove the bubble has burst NZ Herald
 
 AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 Yahoo Finance
 
-### 33. Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before November 17? - kalkine.ca
+### 34. Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before November 17? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-11-10T14:45:00+00:00
@@ -336,7 +346,7 @@ AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Down
 
 Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before November 17? kalkine.ca
 
-### 34. Pension funds hold up to 11% of assets in AI companies, raising selloff risk - Pensions & Investments
+### 35. Pension funds hold up to 11% of assets in AI companies, raising selloff risk - Pensions & Investments
 
 - Source: Pensions & Investments
 - Published: 2026-11-10T14:00:00+00:00
@@ -346,7 +356,7 @@ Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before
 
 Pension funds hold up to 11% of assets in AI companies, raising selloff risk Pensions & Investments
 
-### 35. Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Correction Benchmarking Across IBM Processors, Reports Up to 20% Fewer Decoding Failures - Quiver Quantitative
+### 36. Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Correction Benchmarking Across IBM Processors, Reports Up to 20% Fewer Decoding Failures - Quiver Quantitative
 
 - Source: Quiver Quantitative
 - Published: 2026-11-10T13:21:00+00:00
@@ -356,7 +366,7 @@ Pension funds hold up to 11% of assets in AI companies, raising selloff risk Pen
 
 Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Correction Benchmarking Across IBM Processors, Reports Up to 20% Fewer Decoding Failures Quiver Quantitative
 
-### 36. Quantum X Labs tests AI error correction on three IBM quantum processors - StreetInsider
+### 37. Quantum X Labs tests AI error correction on three IBM quantum processors - StreetInsider
 
 - Source: StreetInsider
 - Published: 2026-11-10T13:14:53+00:00
@@ -366,7 +376,7 @@ Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Cor
 
 Quantum X Labs tests AI error correction on three IBM quantum processors StreetInsider
 
-### 37. Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors - Yahoo! Finance Canada
+### 38. Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors - Yahoo! Finance Canada
 
 - Source: Yahoo! Finance Canada
 - Published: 2026-11-10T13:12:00+00:00
@@ -376,7 +386,7 @@ Quantum X Labs tests AI error correction on three IBM quantum processors StreetI
 
 Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors Yahoo! Finance Canada
 
-### 38. Anthropic pushes ahead with IPO despite AI selloff - Semafor
+### 39. Anthropic pushes ahead with IPO despite AI selloff - Semafor
 
 - Source: Semafor
 - Published: 2026-11-10T12:23:00+00:00
@@ -386,7 +396,7 @@ Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program
 
 Anthropic pushes ahead with IPO despite AI selloff Semafor
 
-### 39. Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out - Livemint
+### 40. Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out - Livemint
 
 - Source: Livemint
 - Published: 2026-11-10T11:41:20+00:00
@@ -396,7 +406,7 @@ Anthropic pushes ahead with IPO despite AI selloff Semafor
 
 Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out Livemint
 
-### 40. Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks - BigGo Finance
+### 41. Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-10T11:35:00+00:00
@@ -406,7 +416,7 @@ Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $
 
 Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks BigGo Finance
 
-### 41. Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. - Pluang
+### 42. Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. - Pluang
 
 - Source: Pluang
 - Published: 2026-11-10T11:26:47+00:00
@@ -416,7 +426,7 @@ Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks BigGo F
 
 Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. Pluang
 
-### 42. Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall - ThePrint
+### 43. Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall - ThePrint
 
 - Source: ThePrint
 - Published: 2026-11-10T09:06:54+00:00
@@ -426,7 +436,7 @@ Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex 
 
 Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall ThePrint
 
-### 43. Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost
+### 44. Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost
 
 - Source: Firstpost
 - Published: 2026-11-10T08:00:24+00:00
@@ -436,7 +446,7 @@ Nvidia stocks fall to lowest since April, major stock indexes rally as Brent pri
 
 Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpost
 
-### 44. 5 Tech Stocks Hitting 52-Week Highs in the AI Correction - Cabot Wealth Network
+### 45. 5 Tech Stocks Hitting 52-Week Highs in the AI Correction - Cabot Wealth Network
 
 - Source: Cabot Wealth Network
 - Published: 2026-11-10T07:03:13+00:00
@@ -446,7 +456,7 @@ Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpo
 
 5 Tech Stocks Hitting 52-Week Highs in the AI Correction Cabot Wealth Network
 
-### 45. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
+### 46. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T06:13:43+00:00
@@ -456,7 +466,7 @@ Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpo
 
 Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street The Economic Times
 
-### 46. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
+### 47. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T06:13:43+00:00
@@ -466,7 +476,7 @@ Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities
 
 Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street The Economic Times
 
-### 47. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
+### 48. Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T06:13:00+00:00
@@ -476,7 +486,7 @@ Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities
 
 Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street The Economic Times
 
-### 48. Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global Sell-Off - BW Businessworld
+### 49. Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global Sell-Off - BW Businessworld
 
 - Source: BW Businessworld
 - Published: 2026-11-10T04:21:49+00:00
@@ -486,7 +496,7 @@ Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities
 
 Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global Sell-Off BW Businessworld
 
-### 49. Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today
+### 50. Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today
 
 - Source: Business Today
 - Published: 2026-11-10T10:27:39+00:00
@@ -496,7 +506,7 @@ Sensex Reclaims 80,000 After Eight Months, Nifty Crosses 24,700 Despite Global S
 
 Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report Business Today
 
-### 50. SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better - Livemint
+### 51. SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better - Livemint
 
 - Source: Livemint
 - Published: 2026-11-10T17:01:22+00:00
@@ -506,7 +516,7 @@ Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift 
 
 SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-yr data reveals what worked better Livemint
 
-### 51. Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict - DD News
+### 52. Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict - DD News
 
 - Source: DD News
 - Published: 2026-11-10T16:07:27+00:00
@@ -516,7 +526,7 @@ SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-y
 
 Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD News
 
-### 52. AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap - The Economic Times
+### 53. AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T05:59:08+00:00
@@ -526,7 +536,7 @@ Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD Ne
 
 AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap The Economic Times
 
-### 53. GIFT Nifty signals flat start for Sensex, Nifty; Asian markets gain as US inflation fuels Fed rate hike... - Moneycontrol.com
+### 54. GIFT Nifty signals strong start for Sensex, Nifty; Asian markets gain as US inflation fuels Fed rate hike... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-11T02:48:08+00:00
@@ -534,9 +544,9 @@ AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks tha
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxOLUxOU09EOXdPdXB5LWtjelExMHVSZTQ1UlM5Nl9BaVRIZDQ1NHAxNGpyQ0VMR2dDRGRJYkJlckFUbjgxX3JIRllra1pGQmdjUXJ2WFBEWG9fak5ydlpmRDlDT005N1oyVm0yelVIWnR6X0gxWW5ZTnlIcmFRQlR2cWtXbFp2LXZ2dW1BekQydlotX2xJNnJMTDJQaUFtZ1p6dXBmbFQ5Q1pwRUJHbmlvV3hHUWRnbHJOZzk5ZTBtdThTVU52cHF3aENnS3dXVVlEeDJ0Nl83dWJZY2pkaGxscUFDbFRHa2YzQnBBYXJvVzdPM3ZkZENNX09wODVvVWZObEHSAYcCQVVfeXFMT2pLMDJpbmMxZWlpYl9iQkh5SW5WdE12WUtNZnpueEMwd0RqREpUM0o3TFF2VzlrNGRES1RlTllYcUJyOGZWZFRlTXNKd3NnNkRlYTBNdzBCZktaN0NwU2ZaVUJNaVI2RENPVUZKcTNHMTNPdlZnNC1nOS1HX3R2aTROTm13SXR4QmQxQm1ORndSNWozcU95VXAxZ0Rjdng4ZFhhNHNkbkdrbWNLeTZEMEZPQVczNTB0Z1hqTGxOOGROM3R3OGhwSXMwTFRMMGxTWVZnM2xPbFNIeklBNm1CTFJxaHNacHhsQWVZbTM1amhRYS1pX1pnN0hRZDQwd3JFTk5sQ3cwUW8?oc=5
 
-GIFT Nifty signals flat start for Sensex, Nifty; Asian markets gain as US inflation fuels Fed rate hike... Moneycontrol.com
+GIFT Nifty signals strong start for Sensex, Nifty; Asian markets gain as US inflation fuels Fed rate hike... Moneycontrol.com
 
-### 54. New to mutual funds? 4 fund categories experts suggest for first-time investors - Zee Business
+### 55. New to mutual funds? 4 fund categories experts suggest for first-time investors - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-10T12:31:05+00:00
@@ -546,7 +556,7 @@ GIFT Nifty signals flat start for Sensex, Nifty; Asian markets gain as US inflat
 
 New to mutual funds? 4 fund categories experts suggest for first-time investors Zee Business
 
-### 55. RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune
+### 56. RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune
 
 - Source: The Tribune
 - Published: 2026-11-10T10:31:43+00:00
@@ -556,7 +566,7 @@ New to mutual funds? 4 fund categories experts suggest for first-time investors 
 
 RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report The Tribune
 
-### 56. Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns - Yahoo Finance Singapore
+### 57. Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns - Yahoo Finance Singapore
 
 - Source: Yahoo Finance Singapore
 - Published: 2026-11-10T09:49:00+00:00
@@ -566,7 +576,7 @@ RBI’s USD 239 billion net short dollar position may cap rupee gains despite FP
 
 Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns Yahoo Finance Singapore
 
-### 57. Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says - Seoul Economic Daily
+### 58. Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says - Seoul Economic Daily
 
 - Source: Seoul Economic Daily
 - Published: 2026-11-10T09:00:47+00:00
@@ -576,7 +586,7 @@ Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns Yahoo Finance S
 
 Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says Seoul Economic Daily
 
-### 58. Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained - Livemint
+### 59. Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained - Livemint
 
 - Source: Livemint
 - Published: 2026-11-10T08:40:20+00:00
@@ -586,7 +596,7 @@ Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says Seou
 
 Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained Livemint
 
-### 59. RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report - cfo.economictimes.indiatimes.com
+### 60. RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report - cfo.economictimes.indiatimes.com
 
 - Source: cfo.economictimes.indiatimes.com
 - Published: 2026-11-10T06:16:21+00:00
@@ -596,7 +606,7 @@ Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from m
 
 RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report cfo.economictimes.indiatimes.com
 
-### 60. AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint
+### 61. AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? - Livemint
 
 - Source: Livemint
 - Published: 2026-11-10T05:15:52+00:00
@@ -606,7 +616,7 @@ RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: 
 
 AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for large cap upgrade - Vedanta in mid cap? Livemint
 
-### 61. Stock Market Holiday Today: BSE, NSE Shut For Trading; Asian Markets Rally, Crude Oil Falls - ETV Bharat
+### 62. Stock Market Holiday Today: BSE, NSE Shut For Trading; Asian Markets Rally, Crude Oil Falls - ETV Bharat
 
 - Source: ETV Bharat
 - Published: 2026-11-10T04:13:17+00:00
@@ -616,7 +626,7 @@ AMFI Rejig: Reliance's Jio Platforms, NSE, Lenskart, LG among 7 stocks set for l
 
 Stock Market Holiday Today: BSE, NSE Shut For Trading; Asian Markets Rally, Crude Oil Falls ETV Bharat
 
-### 62. Mahindra sees staying power in renewed FPI interest in India - The Hans India
+### 63. Mahindra sees staying power in renewed FPI interest in India - The Hans India
 
 - Source: The Hans India
 - Published: 2026-11-11T00:26:09+00:00
@@ -626,7 +636,7 @@ Stock Market Holiday Today: BSE, NSE Shut For Trading; Asian Markets Rally, Crud
 
 Mahindra sees staying power in renewed FPI interest in India The Hans India
 
-### 63. US stocks fall as inflation data boosts bets on larger Fed rate hike - Free Malaysia Today
+### 64. US stocks fall as inflation data boosts bets on larger Fed rate hike - Free Malaysia Today
 
 - Source: Free Malaysia Today
 - Published: 2026-11-10T21:21:02+00:00
@@ -636,7 +646,7 @@ Mahindra sees staying power in renewed FPI interest in India The Hans India
 
 US stocks fall as inflation data boosts bets on larger Fed rate hike Free Malaysia Today
 
-### 64. NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump - TradingView
+### 65. NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump - TradingView
 
 - Source: TradingView
 - Published: 2026-11-10T18:07:00+00:00
@@ -646,7 +656,7 @@ US stocks fall as inflation data boosts bets on larger Fed rate hike Free Malays
 
 NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump TradingView
 
-### 65. FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 - Business Today
+### 66. FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 - Business Today
 
 - Source: Business Today
 - Published: 2026-11-10T17:37:47+00:00
@@ -656,7 +666,7 @@ NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump TradingView
 
 FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 Business Today
 
-### 66. US Treasury yields rise as Fed's Waller presses rate hike case - The Economic Times
+### 67. US Treasury yields rise as Fed's Waller presses rate hike case - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T10:55:56+00:00
@@ -665,16 +675,6 @@ FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Sa
 - Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY1YwSTl1MHpmbHdDdk9DVUI5RjNRTUJqLVlEOU1PaHd0RlIwQWE3ZVdRcGdKUU9ud0VLNFlJNk80Wi05NG1ZOFhtMmhOclZVT1dIVS1VYTVieHRNdjUtaTZSSjVhSjNreUxSeWhqTkc1dDUyNFo2Rl9pQ3lEV3BsSFN6bHhwSFFRLVE4NHppcnU5ZTNTV293dzFKMGVacUVCOVUwTWQxVklraTRVZjFTM3c1QjFqN1k5SC0wazJlSWxRSnFtY29SQdIBzgFBVV95cUxPamtLeXgyQko5STJYZXhodlRUUDl0TlBiMjUyMTRIRWI3Q0RhRDBoaUNQbG9xM203ZTl6OVRoa1FnVlo2ckRfcUlFSGo3YVo5Y202TkNMaGUzbGROYUNCU19FYmxKOFdFc1pQd0QzU1Z3RDRaSlllYU0tYmJpM1VvWkNyNzhEOUdjLVBwd3NkeUo2SmNGX1VPYm16aXoyd2ppYlBub1hDZjZzUVdNY2x5T1lVYkRsWlpYcWRYa0VNN1MwX1YyZWhldDRpdVl1Zw?oc=5
 
 US Treasury yields rise as Fed's Waller presses rate hike case The Economic Times
-
-### 67. Oil prices fall as Trump signals pause in military action against Iran - Business Standard
-
-- Source: Business Standard
-- Published: 2026-11-10T09:37:58+00:00
-- Themes: market selling, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPLVBoWUFGRTNQMmxGYk84QW5Mc19jRUs4SEVWRkJTM0hUOGFmd3M3cGhNaWNhNHJZTTNCY1lwTkxyY3pwbTZTVG9GMlFaQVNNbDVsaEdEVkphRDVpUkl0TmpFSlh0cWxlVEhjR3IwOTI0bEJlMm1VNXJxS1VvZ2FCOFhfeFJtUU5hTENWTmRscFQzUVRxTWNIMzhrejcxRTMxbVg0bEZRcUJXbk1CYmlHdU12ZVhZakVYeHVNVExpZWdyMmhuYW1JdXU0VWRXYkhuaUJBenBiNzh5VWM30gHiAUFVX3lxTE01QUtWRXVaN2xwdUNVd0NMMHRXTi1YX0EzZ082cUVRZG9TLUJCb2FZUWhOY0M1R2g0QnFRLXY4YlNPSUpCQkpZQUh6S2xFTUZFRTBvcDBqM1RlTVFSV3ZlcFQzYWtQam54NF85U3IzRjNnclBtYzRsTHJ1RmgtVUFVT0ZieXNoNW53ZzdsMnRkNUpLR3ZtNTdXak1LZENXUXBiRGVsVnAwMnhOaUN3dHh3N1Y5Y3dGZVBnN2ZkdHBDWG9zTHl2ZDZKRS1YZURmLVZIZU02ZmEyUVI2eE1CZEQ4YUE?oc=5
-
-Oil prices fall as Trump signals pause in military action against Iran Business Standard
 
 ### 68. GIFT Nifty Gains High Hopes for Wednesday as Oil Cools Below $100 After Diwali Break - NiftyTrader
 
@@ -696,7 +696,27 @@ GIFT Nifty Gains High Hopes for Wednesday as Oil Cools Below $100 After Diwali B
 
 Brent Crude Falls Nearly 6% to Lowest Since August as Trump Backs Off Iran Strikes NiftyTrader
 
-### 70. AI sharpens hurricane forecasts, but humans still call the shots - The Star
+### 70. Hidden pain! Why did investors lose money in 750 smallcaps when Nifty rallied 2500 points? - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-11T03:22:04+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQbmtHejNtMzEwcTJwRVVZUEhvZTFub0tYak02S2lxekMzT20tcXhFWkt0S2J0N3dyMHd5UU5yTGJ6bUhWdWoyUXZvN2t3aUZSU0tTQ1lMcU9TNHlSTmxNLXg3QVlaeU1uVUhHVTRZcTBhWHIzR1FqLV9tS0VhaGNMYnVuUVRqQV9nNGxZQldaN1RORTJENUhpSEN6eHR3aDI4VnlxMHlsRFZZRV9hVGJaS3VXc3RJLUtGSUZiN2EwSk9JSWZPQXNaZHZocGZKM0w5TnBOWWt6aC1MeFBzb2d0MEJhQVRrbEx2Y1FxRWZJc2NaNjJH0gH6AUFVX3lxTE1rOG45VVVWUXp1ZzRFanYzQXFaZWY2NTYweU1VblNPVE5HYTVya1ZWNEpQcHAxTDBDU1FVTmhSRzRpbTNEa0x6eC1NVEtmbzZ6X0Y4LXJCS0pSVmN1UHdkSE1yaGRuZ1pFNld5bDlUV004QUsxVXc0WE0teUMyMEJ2a183TFYwMjlQa2VRWHFJbnpqNTVSb011WVl3T1VSNWZSSVhlcnhmNVU1bUlMRF9GdmQwdjJJa1J0WGxjOVJyMEJzTmZpN3B5S2JWYllXdndPQk10M1lNNl9tMUhjZ0l3VENjb2V3X3A3MUJCWHJ0TVBSRmhSRmtFckE?oc=5
+
+Hidden pain! Why did investors lose money in 750 smallcaps when Nifty rallied 2500 points? The Economic Times
+
+### 71. Indian stocks poised for higher open on softer crude, robust foreign buying - Livemint
+
+- Source: Livemint
+- Published: 2026-11-11T03:10:35+00:00
+- Themes: macro / flows
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxObnJZMmU0enhZbXFzSHQtenNrYWY5TjZaZmF2czJVVndOOHhmRmtBOUVKMFZDUmNWNG1fR0lPaXRyek1mYURDVlg4OFlNSFczUW1DSjhRZGNfNEVzYVIxY2JfRU9ScEtkYWxuVFNEVUJwREtoTk13Yk53T1JaNU5ON2NKaTNUNnd3VjRYVUNRanBydmNwd0VScm1IUjVfUDE5YmlzbVZNeWtvY0F1Qk83eHFoTTFnUnJYY2FXZV8wWjBVcWh5VEpuTWp1b1Q2MFNob3hpZF8tc3pfMmxt0gHiAUFVX3lxTFBrMzJZRHl3MTRqZG85Szk2ZmNwc1c5cTN3NTJxWml3N2dTSUttVUt4Wk90VEotYVpDYmlrOW81UUZUTlNMMU82bmlrT0FWbTZQaXhVeEpmWFVSdzlvYVViZWViSWlXUWl1dEh0NEZLUjRreDBnVDI3MlNmdnJiSHpRUnRyNm43SWxmRm5lVndZTllYTkExNUZsWWhhT3hid3ZidjNFM19CT0dMWGlFOUo5NzlzTU9ObTVGUmVSeHY1S1BBT1ZjTzVvOWRmWG5hX2tzRzlSeGVjcWEyUUJuZFRlcnc?oc=5
+
+Indian stocks poised for higher open on softer crude, robust foreign buying Livemint
+
+### 72. AI sharpens hurricane forecasts, but humans still call the shots - The Star
 
 - Source: The Star
 - Published: 2026-11-11T03:00:00+00:00
@@ -706,7 +726,7 @@ Brent Crude Falls Nearly 6% to Lowest Since August as Trump Backs Off Iran Strik
 
 AI sharpens hurricane forecasts, but humans still call the shots The Star
 
-### 71. D-St set for a cautious opening as GIFT Nifty signals muted start - The Economic Times
+### 73. D-St set for a cautious opening as GIFT Nifty signals muted start - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-11T02:39:00+00:00
@@ -716,7 +736,17 @@ AI sharpens hurricane forecasts, but humans still call the shots The Star
 
 D-St set for a cautious opening as GIFT Nifty signals muted start The Economic Times
 
-### 72. Nifty 50 Year-End Target Maintained At 26,200: BofA; Prefers Large-Caps; Upgrades Hospitals, Telecom - NDTV Profit
+### 74. Nifty at 25,500: Book profits or bet on new highs? Market expert picks 2 stocks to buy for Samvat 2083 - TradingView
+
+- Source: TradingView
+- Published: 2026-11-11T02:28:00+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaEZ1QnhRNTV6NHl4VktOenNGbDFVTVZHb2YwZkpjM2c2aHZkaVNIZkpnd1pnNkh3aVNqUUhpMVpKU2N1bm55X1dtb1EwdUJiTENnZ1hMTWFpN2pzb3VMOW5pYXF1YjBGNzZNOWRMTi1lanU2Q2hRSjg1eEZ0WHAzdjY2VXpTLW5GZm0zYnJLdVdIYkRFU3QwX3piamhUTTY0MFNmRGJfYmRuUXRSN2d2RGpoWjJXWThSWlFaRnRyWDhZc0VPQWNiX01XeVZKb195S1B5YXZvYk44ZkY5U25zM3ZveGdxSmJCOWVESU0yekFscEZnd1E?oc=5
+
+Nifty at 25,500: Book profits or bet on new highs? Market expert picks 2 stocks to buy for Samvat 2083 TradingView
+
+### 75. Nifty 50 Year-End Target Maintained At 26,200: BofA; Prefers Large-Caps; Upgrades Hospitals, Telecom - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-11T02:07:34+00:00
@@ -726,7 +756,7 @@ D-St set for a cautious opening as GIFT Nifty signals muted start The Economic T
 
 Nifty 50 Year-End Target Maintained At 26,200: BofA; Prefers Large-Caps; Upgrades Hospitals, Telecom NDTV Profit
 
-### 73. RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback - NDTV Profit
+### 76. RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-11T01:58:56+00:00
@@ -736,7 +766,7 @@ Nifty 50 Year-End Target Maintained At 26,200: BofA; Prefers Large-Caps; Upgrade
 
 RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeback NDTV Profit
 
-### 74. Futures Rise, CoreWeave Jumps In Good News For AI - Investor's Business Daily
+### 77. Futures Rise, CoreWeave Jumps In Good News For AI - Investor's Business Daily
 
 - Source: Investor's Business Daily
 - Published: 2026-11-11T01:25:00+00:00
@@ -746,7 +776,7 @@ RIL, HDFC Bank, Axis To Max Healthcare: Jefferies Picks 12 Stocks For FPI Comeba
 
 Futures Rise, CoreWeave Jumps In Good News For AI Investor's Business Daily
 
-### 75. Direxion Semiconductor Bear 3X ETF seen unsuita... - Pluang
+### 78. Direxion Semiconductor Bear 3X ETF seen unsuita... - Pluang
 
 - Source: Pluang
 - Published: 2026-11-10T20:56:48+00:00
@@ -756,7 +786,7 @@ Futures Rise, CoreWeave Jumps In Good News For AI Investor's Business Daily
 
 Direxion Semiconductor Bear 3X ETF seen unsuita... Pluang
 
-### 76. US stocks fall after a discouraging update on inflation - Yahoo! Finance Canada
+### 79. US stocks fall after a discouraging update on inflation - Yahoo! Finance Canada
 
 - Source: Yahoo! Finance Canada
 - Published: 2026-11-10T18:36:45+00:00
@@ -766,7 +796,7 @@ Direxion Semiconductor Bear 3X ETF seen unsuita... Pluang
 
 US stocks fall after a discouraging update on inflation Yahoo! Finance Canada
 
-### 77. HDFC Bank to RIL: 12 stocks on Jefferies’ radar as FIIs pump $8.2bn in India since mid-Oct - IndiaIPO
+### 80. HDFC Bank to RIL: 12 stocks on Jefferies’ radar as FIIs pump $8.2bn in India since mid-Oct - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-10T18:35:06+00:00
@@ -775,33 +805,3 @@ US stocks fall after a discouraging update on inflation Yahoo! Finance Canada
 - Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxPVVpXdW9jQmhDVEotOEdSME1OQlV4MmxOS0xNeFAzbkxDRFhmV3owSVY3YVlCb0MtV3JuMFNYb3BmYkh0NTNRTTZTLXI1YW81S0RtblRINmdKWE5aWVhCYl9NbWpMTE5lTW9UalpHSXlVb0JqdC02WEhBX3hrSkFzZzljVVJrdTFvX2dOdFFaQk1fOWpWLVNTUDZLamNMQ1RGMHRYeW1MNi1uRFV2aWtRRndKUF9UbzVmb0hXbVd5WQ?oc=5
 
 HDFC Bank to RIL: 12 stocks on Jefferies’ radar as FIIs pump $8.2bn in India since mid-Oct IndiaIPO
-
-### 78. Nvidia Is No Stranger to Corrections, but This One Comes With National Security Risk - Inc.com
-
-- Source: Inc.com
-- Published: 2026-11-10T17:26:24+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxPR0ZLWFVnTldIR3pCdUt5RmM2dE9ITjJvWkpvVTBla2V1dllWNC1jNTliVDFVekYwV05QaDN2YXFtNGxFTTV6ZlA1djVDUEZqNU5UQkwtR3NQWDEycHZMaVRyMGQwdjhOY3d6dDAxYXhyc0w2UEhMT01DSWVTbk9VVHQxZjBPRFF2ZktwV3dmaG5HSjJUenN4LWJMX1JwUG1kTWNFX2ZiNDdBRzBZcWJSUw?oc=5
-
-Nvidia Is No Stranger to Corrections, but This One Comes With National Security Risk Inc.com
-
-### 79. Quantum X Labs Reports Quantum Error Correction Gains Using IBM Processor Data - HPCwire
-
-- Source: HPCwire
-- Published: 2026-11-10T16:41:34+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxPMnZxRERpMEk3NzdUUzktUk9ITTZwR1FNbl82blBoTTlNN0haODROV3BLX2FGSllTUllDNUI4Y1ZlZ3BkZ0VZSExxSW90VWFoZmtXTktGZGhIY1NNX0dOb2NoRTd1SkZsQVI4d2RCOHNsbU85aXZFSmhSRmdvYjg1VFVTTmdRS3ZvTVF3SmZIbHM3d0Etam5aU3dnMXRfcVozOUdZTGFKbjFtV1RncHBMTnlNQU9ZSU0?oc=5
-
-Quantum X Labs Reports Quantum Error Correction Gains Using IBM Processor Data HPCwire
-
-### 80. AI stocks: Is the easy money over? Aswath Damodaran warns investors of a new market reality ahead of Anthr - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-10T15:59:14+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQlNFS1lCNmVaRV9GOWtmd2xUdkkzdzRuamNGa0xWOWo4cTlUSWlMNWpxUmhUWXZVQ2lKUnFnRDRKSi1DaXZDWXpXQlFrQ0toWmJuRV8zS0g2QzlVc3I2dUVNUThMM2dzSGFhbFN3RDNHTVBTMTB2LWlVNWxsTGU4MXBkVzBCWGJ4bkJDY3NFc0M4cVFiSWREczZ3Tzc4OUhPTzIwa2lkS1NlSHRjYThOdUpIQktYU1VudGxWQm9ncm93TWd6ZFFHSmJncmNRTE1ZejFlNk9OVnQ2Yms1dG55UE1zX1NvQ05IRkZ6Z0RDMXJhVXpOSW1KTkJwSmdiYlZ3QTNnZXlrOWxHWkI3aVVRWjJoTEJIM1dPc3Q1LTNQeVN5NDY4NldKMWN30gGvAkFVX3lxTE9GeGx4aTEzUjVMdDZaZmYtSEpaeEFCekhjdlVmSktyMUZRQU1QeHJnN2FKYnp4Y25XZWRQR1ZpSEJzektyWjNmWTByQWtOZ1VDMTBMMjJ0U2xtaGMwRWc3b0NwYS1zOEpZZThHSHdxTDUtMFFkeGwtNmh0LUhVTkU1X0t1QWd1V2VpUDRac1pFRHY0ZWpkX09mNDU0R01qMC1FbUQyTFMydWV3dmhLcEY1QkpRUEhzR3Z2dk1oT1haYUZneUU1NjdjN1J2N3VzREJhMWtsb3JNZk5OaHFjdVhZZnRDaEE3MnktYVMwTDRYWDNjUDV6dkFWNGJQVWJibW9BaTVIS1J4eEZWRUI5eGlReEhyeG5KaHNRaDJBdS0tdF9hYlJyVlFiSVdoaUFRNA?oc=5
-
-AI stocks: Is the easy money over? Aswath Damodaran warns investors of a new market reality ahead of Anthr The Economic Times
