@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-11 05:38
+Generated: 2026-11-11 06:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -19,7 +19,7 @@ NVIDIA Scandal & AI Selloff In the US: India’s Neocloud Boom Faces Twin Tests 
 ### 2. Domestic Mutual Funds' Nifty 50 Allocation Falls Below 50% For First Time In 21 Years - BW Businessworld
 
 - Source: BW Businessworld
-- Published: 2026-11-11T04:26:15+00:00
+- Published: 2026-11-11T04:26:44+00:00
 - Themes: market selling, India market
 - Score: 9
 - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1dSTGtaZXVtanJiX0NheG9icmpVT1N2YjZFOGJ6VXlDN2RsMld4V2tKYkhoaGk4VVNlMzRZTmdBSjBXemFjSEkzcHRIcERpenRhSXpMZGdFYmUzLUxWYnFpSnhTMllDQ3o5X3JDSWJod0YtOGM0eUNCMzEyZUFwRDY5eW9pT2xLanBReTZfNTRCaFFEdi1lQ2dCcjI4Z0drX0lHazdQNFRvZ0ZNajlmOFkzTlBQUVItd1kxTXpEbkxka3NnMmc?oc=5
@@ -336,7 +336,17 @@ Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? M
 
 Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? Moomoo
 
-### 34. Why last week's AI sell-off doesn't prove the bubble has burst - NZ Herald
+### 34. Applied Materials, Inc. (AMAT) Was Bought Back After a Semiconductor Sell-Off: Is the Opportunity Back? - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-10T16:14:53+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxPSndFMVVreTJfajR2MWRQSm9OeFVNSWZzM0RwRXNoQklWTTJsS1pWVGo0UGxpcGpDNkZGd211WFRLcEg3RnhRM2MzNVNfM3cwTEgxUHhhd0VBbXllYkRWemNmRzZzdUNCZThmSzdmdkx6cXNxMjNvVlRWY1hMUzVYRlJVZl9qZjR1WDlCUHZlblM0NnpGS2d2ZjRoTjA4aVU?oc=5
+
+Applied Materials, Inc. (AMAT) Was Bought Back After a Semiconductor Sell-Off: Is the Opportunity Back? Yahoo Finance
+
+### 35. Why last week's AI sell-off doesn't prove the bubble has burst - NZ Herald
 
 - Source: NZ Herald
 - Published: 2026-11-10T16:02:48+00:00
@@ -345,16 +355,6 @@ Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? M
 - Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxNQVRqb1lyVEh3RU9vNWFhS3FlMFJSNWJJVWlMVzRYZnp3RE1SQnZGRUlpVGNCT1lGVWNMclYxUDJ0enJQbGZhMFRTd196ZHRwVmlENGdSaXVGN0thaExRRFplTHRFLTgzLWt3bTRJNjhid0FmeGxZVWNQWGdITmtLeURuZWszNXdIUDBHeTFfc1dJZ3dvXzJkZ1JPQi05R3BWQjBab3dHblFBNzBQU3I2d0VKZG81ZHN2RlF5bF85V2FoS2NmNlNxSlB6bFJKRDdrRzZJY1NVUmpZYktadlRNN2ZpOA?oc=5
 
 Why last week's AI sell-off doesn't prove the bubble has burst NZ Herald
-
-### 35. Sensex Falls as Oil Concerns Weigh on Markets - DD News
-
-- Source: DD News
-- Published: 2026-11-10T16:00:27+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5yTjMxMUV0dlhKcVBNZEFtaDNHVHNZekx6d0ZZcUZyRHFGUDBDMGg4RnFYSXZzNVBPR1VzdjVJWFNUZWNDaHNBNEpBaU1BYUZWVkN4dmNRZ2FYeHZONl9NVXQyUWEwSi1yVTZHMUFzRGVDczFPTjhMNWd4QQ?oc=5
-
-Sensex Falls as Oil Concerns Weigh on Markets DD News
 
 ### 36. AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 - Yahoo Finance
 
@@ -516,15 +516,15 @@ Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities
 
 Is AI selloff a window to buy? Morgan Stanley sees multiple buying opportunities on Wall Street The Economic Times
 
-### 52. Nifty IT Rebounds In October After A 36% Fall From Record. But Has The Rally Gone Too Far Already? - NDTV Profit
+### 52. Nifty trades above 25,350: Is benchmark index heading towards 26,000 before any meaningful correction?... - Moneycontrol.com
 
-- Source: NDTV Profit
-- Published: 2026-11-11T04:38:48+00:00
+- Source: Moneycontrol.com
+- Published: 2026-11-11T05:34:04+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTWVUamJKVHZKSW5TZDBmQWwyWTVXUGl0akpGZ2VsQzZtajQwU2NWTWRVX0lYZUQ4d0NpcVpzOHdaRG9MbktnTHNfR2trOGRQS2Rqb2d6eUhHTW9GX0MzekV4bUVkR0tRYzZtVGFNY0JPZzFKcFVHVjZ0N3JFVC1KZjBwS3dRd1Y5eWVTbENtS3VlWW12VzN6YlZ6TGxsNkRmTEtqY3JabnFSUUgzTGhLclhDWVo3V3Y2SkIzanItZG9hY2NWc0ZjTGc4N2dsNzl6ZVlsVkhjXzg1WHB0NFVqMm5UYWgwVzNEeUtKV29GbGxaUk9SMng3TjVQdXBHMGFEaktoRDZBbU_SAZACQVVfeXFMTnBRUlo3UmZxaTVleDFNeVFta2hESS1uaXVDWVRTeGhQaS0yVzRmeDA5eXBRZmdzZmN2MlhnZ3o1OF9RWm0yU1RZaGFvS1d5WHVzRDVlaGJKYzNRQjQ4YmVBZG9aekZhZVhINkF3Mk1lZGJrdTBTbFFWZVJpRnBBTVZFd0NuU3FqcTlLa2luMTcxU3Z6RmVfalo3bWdHRnNvM1hzdHFHUnVoY3AxbzlRWHNFb2ZYVlk5WUpGdlJRSG5JMnBOcVNNb2F3N0JDelRvNEJmMEdmcEU2WHdJSlg0SmtWRGxkN3Rpb0hUU2pTcl9wUXZ4SDdicGtPZC1UMk5keEZWY0ZKdXpseWg4SlVNSUc?oc=5
+- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxOMEdYSmhocXdCMHF6OHlHVUk1bWtSZ0FnYl9RRE4zbm5aYW42dzNjcXkxc2FDVW5sdW90TGdmYV9rWkFLbkdva3gyanUwcnlxX09UUmstbjRIMDJFZ2VXZmktVTBsb3JtSlVPakJRUFRXQ3lWQ19xQ3NoOUFRY2FKVEs1aWM2c2tNaWtORjJBWF90aTlrUTRzektQUDBDcnktS0dSdGYtckhCTXIxTFZOVGVSY0t6OHh0ajFCWTN2VWZUTGJMWllCUUhBQ1p5MWlYMmtqb3U4MzhUeFZYaktNU18tZzJOamZxSUd0NTBFSEFicGxBZ0t6Z3RzOXFYNFBaTkhhV2FHbXpINDNzRU5PQ1otbmVnaHVMTHfSAZ8CQVVfeXFMT1FIUVZGSEQwVjNnaUZlbDQ5OWtVRXJQSU5WMGJnZERjQ0VmSW14QlRYVWptcDhaTkJhdXBxdGZCcGNoanZkckZjbkxqcFdDcDV3TDJzUFdvVFo1X0xhOGk4b294QVYyN21UaUNKbGtWTGNFaFRMdU9LOXhKMURna3FabVoyS1E2MEg4RnBtV2p5b2xGemR6YXMyVEh4NUxZQWYxYzdkeUI4eEhHRWhjMndUNmVoQXV1NnBfUnJJUUFQdDR0MV9QWGE5WGViaHM2M181Q1FWcTVGYndvemJkaUVpTEZuUDg2VXZxazA0MS13QkdmdUU0SlN6dGZDaGV5MFVVR1FwdnJueFhxRm1jeHJibmVNeUhnTXdVWV9sMUE?oc=5
 
-Nifty IT Rebounds In October After A 36% Fall From Record. But Has The Rally Gone Too Far Already? NDTV Profit
+Nifty trades above 25,350: Is benchmark index heading towards 26,000 before any meaningful correction?... Moneycontrol.com
 
 ### 53. Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today
 
@@ -576,37 +576,17 @@ SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-y
 
 Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD News
 
-### 58. AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-10T05:59:09+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMimwJBVV95cUxNWUo0TjJfckNpaWxDT25nM2VJSlZRTUotTW5sNnhIX2I1X2doc1U2SnNUbFUzMzBlckhxaC02RXVGWW9JLUVyNndrQWoyZ0FJa0IwWE52TW5KTUl6OXhWX01WbmhxczV6QXJQVHNKb3g5azNfYzdSY1FsT2JDU0JzQnFWMzdWUW5DenlwbEFlSXdGb0xIVDZlam5zbXg2UmVlaDRkRFRNSTNtYWVSa1BiNDF1aUZQQ1RVakFrcXJ4cWNLa3lrejRfRlRQdzM3MjRDcUh0ZUFFRGxoY05hYXBkUEQzSkNjak5EVS1WcmZjMWU5VVBtSkJvZ0I4VVdOdWE0dlBFYmxjaHlncVdiVFczNl9VcjlCTXo3cVFZ?oc=5
-
-AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap The Economic Times
-
-### 59. AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-10T05:59:08+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMingJBVV95cUxNT3pPSkNtUFVyS0F2dUQwWUt4dEVGMFd4cTBSUFJROU5RcGgzbVBCakswTllsUnViNzFORUJtb3ozeEJxTlJOMGM5ckNyS1dOaDVONnczd3JIR0ozUkF0SWhhMUtYbXJqWko0Yld2SzdGM1FhSTNTc0xQaG9yMzdfTnhBck10ZnFHZFo1ZmtsNGJCdnE3dXIzM000eC1FWlRvUHBIYUZyWnA4TkNBakVMSzRHRWptTnZicUdWZW5pbkxYUmVjUGhPajdaM0ZhMTFsanhqTFROR05xOEVoWXRpbDJFek1fTEhFQnNVQi03a29QRTZidl9yVGFTVUtuNFJuXzBrTkxYa3VtUWVKSzhieTZSRWlNc0J0V3dkZURn?oc=5
-
-AMFI Reshuffle: Lenskart Solutions, Zydus Lifesciences among 5 midcap stocks that may get upgraded to largecap The Economic Times
-
-### 60. Bulls in action! Sensex zooms 1,300 pts intraday; oil, FII buying aid rally - Business Standard
+### 58. Bulls in action! Sensex zooms 1,300 pts intraday; oil, FII buying aid rally - Business Standard
 
 - Source: Business Standard
-- Published: 2026-11-11T04:27:44+00:00
+- Published: 2026-11-11T04:27:40+00:00
 - Themes: India market, macro / flows
 - Score: 3
 - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlBrN2ttTld4aEZ2bkpzeXRqTFVaR1FxZFNyeVdXN052TnV3MGZtZ0V5QWRUcXJlcGJJb2pRWlZmMy11UThQSTNKUVJxYi1CZm45SEdkOU1yZnp1dlhJOVdVODVrQkFYTlNWcVpJTFdMOEJBbkpuSDV5el9jZTJLYWtscVdEUzBqSW94WkVzemJ3RU04MmE4UWVXdHJ5czRxeVVSdnVZYk5VcG5BQjBVVTJHaDNiaGNDRVktZ3lZNWs2amRDbTJna2NZbzh6Tmk0dld4UmR30gHbAUFVX3lxTE5acWNsRUVJaXd1M3FhRnlXWkYxMXphTDlVbjBYUW5BcXE0X3FPNjVnSkQxeTEwS05WLV9zdGZrcEQ3cHlpMlFBNDV4WlRZaThaYllFbjBNbnB1LWJHQThnRTRPVnY5Sl9LTWJxTW1UU1VRdEhoUjMwaEdPbUw0eEtkREk5cGw5Rk94M2ZlZlhHSWxBd2ExQ2xLRkdFcWZuWllBR3lQUVgtZjNTdm5DQnc2OWpiYXRYYUw3ckpvYldsVVJvdGY4U2pfeU1hcko2b1hLUWJBbktzOUJOaw?oc=5
 
 Bulls in action! Sensex zooms 1,300 pts intraday; oil, FII buying aid rally Business Standard
 
-### 61. Sensex surges 1,350 pts, Nifty above 25,400: Strong FII buying among key factors behind market rally - Moneycontrol.com
+### 59. Sensex surges 1,350 pts, Nifty above 25,400: Strong FII buying among key factors behind market rally - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-11T04:03:09+00:00
@@ -616,7 +596,7 @@ Bulls in action! Sensex zooms 1,300 pts intraday; oil, FII buying aid rally Busi
 
 Sensex surges 1,350 pts, Nifty above 25,400: Strong FII buying among key factors behind market rally Moneycontrol.com
 
-### 62. Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong Q2 results - The Tribune
+### 60. Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong Q2 results - The Tribune
 
 - Source: The Tribune
 - Published: 2026-11-11T04:02:25+00:00
@@ -626,7 +606,7 @@ Sensex surges 1,350 pts, Nifty above 25,400: Strong FII buying among key factors
 
 Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong Q2 results The Tribune
 
-### 63. Market opens in green on Bhai Dhooj: Stock market surges, Sensex jumps 1,050 points, Nifty crosses 25,300 - India.com
+### 61. Market opens in green on Bhai Dhooj: Stock market surges, Sensex jumps 1,050 points, Nifty crosses 25,300 - India.com
 
 - Source: India.com
 - Published: 2026-11-11T04:01:07+00:00
@@ -636,7 +616,7 @@ Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong 
 
 Market opens in green on Bhai Dhooj: Stock market surges, Sensex jumps 1,050 points, Nifty crosses 25,300 India.com
 
-### 64. Sensex, Nifty 50 open higher on softer crude, robust foreign buying - Livemint
+### 62. Sensex, Nifty 50 open higher on softer crude, robust foreign buying - Livemint
 
 - Source: Livemint
 - Published: 2026-11-11T03:10:35+00:00
@@ -646,7 +626,17 @@ Market opens in green on Bhai Dhooj: Stock market surges, Sensex jumps 1,050 poi
 
 Sensex, Nifty 50 open higher on softer crude, robust foreign buying Livemint
 
-### 65. New to mutual funds? 4 fund categories experts suggest for first-time investors - Zee Business
+### 63. GIFT Nifty signals strong start for Sensex, Nifty; Asian markets gain as US inflation fuels Fed rate hike... - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-11-11T02:48:08+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxOLUxOU09EOXdPdXB5LWtjelExMHVSZTQ1UlM5Nl9BaVRIZDQ1NHAxNGpyQ0VMR2dDRGRJYkJlckFUbjgxX3JIRllra1pGQmdjUXJ2WFBEWG9fak5ydlpmRDlDT005N1oyVm0yelVIWnR6X0gxWW5ZTnlIcmFRQlR2cWtXbFp2LXZ2dW1BekQydlotX2xJNnJMTDJQaUFtZ1p6dXBmbFQ5Q1pwRUJHbmlvV3hHUWRnbHJOZzk5ZTBtdThTVU52cHF3aENnS3dXVVlEeDJ0Nl83dWJZY2pkaGxscUFDbFRHa2YzQnBBYXJvVzdPM3ZkZENNX09wODVvVWZObEHSAYcCQVVfeXFMT2pLMDJpbmMxZWlpYl9iQkh5SW5WdE12WUtNZnpueEMwd0RqREpUM0o3TFF2VzlrNGRES1RlTllYcUJyOGZWZFRlTXNKd3NnNkRlYTBNdzBCZktaN0NwU2ZaVUJNaVI2RENPVUZKcTNHMTNPdlZnNC1nOS1HX3R2aTROTm13SXR4QmQxQm1ORndSNWozcU95VXAxZ0Rjdng4ZFhhNHNkbkdrbWNLeTZEMEZPQVczNTB0Z1hqTGxOOGROM3R3OGhwSXMwTFRMMGxTWVZnM2xPbFNIeklBNm1CTFJxaHNacHhsQWVZbTM1amhRYS1pX1pnN0hRZDQwd3JFTk5sQ3cwUW8?oc=5
+
+GIFT Nifty signals strong start for Sensex, Nifty; Asian markets gain as US inflation fuels Fed rate hike... Moneycontrol.com
+
+### 64. New to mutual funds? 4 fund categories experts suggest for first-time investors - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-10T12:31:05+00:00
@@ -656,7 +646,7 @@ Sensex, Nifty 50 open higher on softer crude, robust foreign buying Livemint
 
 New to mutual funds? 4 fund categories experts suggest for first-time investors Zee Business
 
-### 66. RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune
+### 65. RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report - The Tribune
 
 - Source: The Tribune
 - Published: 2026-11-10T10:31:43+00:00
@@ -666,7 +656,7 @@ New to mutual funds? 4 fund categories experts suggest for first-time investors 
 
 RBI’s USD 239 billion net short dollar position may cap rupee gains despite FPI inflows: Report The Tribune
 
-### 67. Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns - Yahoo Finance Singapore
+### 66. Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns - Yahoo Finance Singapore
 
 - Source: Yahoo Finance Singapore
 - Published: 2026-11-10T09:49:00+00:00
@@ -676,7 +666,7 @@ RBI’s USD 239 billion net short dollar position may cap rupee gains despite FP
 
 Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns Yahoo Finance Singapore
 
-### 68. Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says - Seoul Economic Daily
+### 67. Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says - Seoul Economic Daily
 
 - Source: Seoul Economic Daily
 - Published: 2026-11-10T09:00:47+00:00
@@ -685,6 +675,16 @@ Grab These 3 Top-Ranked Nuveen Mutual Funds for Reliable Returns Yahoo Finance S
 - Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNOGJGbkdGbTkzWHJyeVVobmk2emJFT2xodUN1SC14S0psOG8zLWwxTjRjSUl5aHQ3UGU5UjJUMG1sNTJvZDdYNThkVnd6TWk3N0psYVBhRXFlR2MwNUZ5bnVNTHF5LVVOM1pFZV95LTNPdmlNOWRBbnRTVjcxdUxpdGdrZXd5N09kaDhPdEl0WTBwU3lRU19vZlFUTjQ4RkU?oc=5
 
 Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says Seoul Economic Daily
+
+### 68. Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained - Livemint
+
+- Source: Livemint
+- Published: 2026-11-10T08:40:20+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxPUzRpN1hNRTRLVTgtcGtObjVfNWMyQnpiNlNDVUplU0lTaTFUTzg3THIxYy1VeDVVNVRJOEZCTXRaTEdoZERac1M2MGltVFgtRlNsRnNGZEpJdUNqel9uZFhoblpDdXZ6UkFWemQ5aHFubElzYnR6T3E3eVdGTXJxNTNMOHIxbVVuX29lXzJYOUFDZkoyeHNLR1FLYTNlM3FtUUxXcXNMdE5GVmEwSC1jel9IYl9ZdHZsX3czQ2M2SGdtc1Q4SWxPN2ltbThVdGNHazNMalFZa2FwTTNMemNBbWg0cEIwei1vbU00QktSU1I5ZUFsN1F4dUp3WXNaNVpxRDFUU1F5NGJhSTZZWnfSAZMCQVVfeXFMT2k4cDdaTTNqVHkzZzQ2eGhkc1lGdkoxal9UX3RCeEtLZXZzSTh0czJkQzhuMF9Gems4UE44OGhiYmFTaXN0by12WmdDNG5La1c3VUdpZkRCU1BOWlFPbURiTVFpbF85aW5GQTIxNTFabTRRenB1SjRhWXdhSFVOZ194cVhTZ0lpc2YzRFVLWWVncUlGcmlZRzlOZE00enN2RUNJZUFtU2FZZTRCanBmV0pWbjZzOW56NlFYeGZrNERBaXlmbDhkeVVDRWt5OGtHeGEwZ25KbFQ1NEVOR0ZPZWFFVlE3cUM4RmxsOThlbTVudTZ4RWppeWZ5dmFmNG9JWFpuSDctWi0yVVd3MFFnUGpWVkE?oc=5
+
+Bhai Dooj 2026 financial gift: Gold ETFs for your sibling? How it differs from mutual funds? Process, rules explained Livemint
 
 ### 69. RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report - cfo.economictimes.indiatimes.com
 
@@ -696,7 +696,17 @@ Hold Core Assets in Mutual Funds, Use ETFs to Adjust, Mirae Strategist Says Seou
 
 RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: Report cfo.economictimes.indiatimes.com
 
-### 70. 3 reasons why the market is rallying today: Sensex, Nifty surge 1%, small & midcaps rally - The Financial Express
+### 70. India bonds slip as Treasury rout offsets oil slide - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-11T05:39:10+00:00
+- Themes: India market, macro / flows
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPRDVjZExLMGJVVmhMNldjOVVNd0ktMmdvNUxWNTRZZkNlQXRvRWR5QVFXVVBDeTBmbVVQZGgwdFVfcmdEbDRGR0gzcDNTVUxfcnQ3RHRJVG5aaDBxbk1qNkRNa2I4bUpwWGR6WnZpUW03cDIxSTJFRDJQUEN5ay1qaGhGWFlJc3BtcTNDLXJTMnY1UXRoSlBOQTZjck5wTVY4TGE4VVhPM1JPRFgtT1ZSMXV2emN3dHRKVVRn0gHAAUFVX3lxTFAtTnRCekk0d0VybWhqS19LRk00UmhYUzF5MzlwOTk5SHZRSTRBS0ZfS3VCX1A0N3ZkWm1NNFJNRzVlVDMxSEU5Rzcxd3I2VVVBN3o5MmdpVVQwdnF0aEgzZnVDTXBESXZ4Y3gySWotOW9McWZ6VVRuYlp2elFVZTlqamhQT3RBYVhwNUFhNTB2dmRKdkNLTnlsczE5NEFGZDk2M2h1QWVuSVJiSUtFMnFLYlZ6a0VuX3lzYUdCVzQwZw?oc=5
+
+India bonds slip as Treasury rout offsets oil slide The Economic Times
+
+### 71. 3 reasons why the market is rallying today: Sensex, Nifty surge 1%, small & midcaps rally - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-11-11T05:04:39+00:00
@@ -706,7 +716,7 @@ RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: 
 
 3 reasons why the market is rallying today: Sensex, Nifty surge 1%, small & midcaps rally The Financial Express
 
-### 71. Quote on FPI Expert insights November 2026 from Manoj Purohit, Partner & Leader, Financial Services Tax, Tax & Regulatory Services, BDO India - Investment Guru India
+### 72. Quote on FPI Expert insights November 2026 from Manoj Purohit, Partner & Leader, Financial Services Tax, Tax & Regulatory Services, BDO India - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-11T05:02:01+00:00
@@ -716,7 +726,7 @@ RBI's $239 bn forward dollar position to limit rupee gains despite FPI inflows: 
 
 Quote on FPI Expert insights November 2026 from Manoj Purohit, Partner & Leader, Financial Services Tax, Tax & Regulatory Services, BDO India Investment Guru India
 
-### 72. Avanti Feeds shares fall over 4% after Q2 net profit drops 55% YoY to Rs 69 crore - Business Upturn
+### 73. Avanti Feeds shares fall over 4% after Q2 net profit drops 55% YoY to Rs 69 crore - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-11-11T03:47:28+00:00
@@ -726,7 +736,7 @@ Quote on FPI Expert insights November 2026 from Manoj Purohit, Partner & Leader,
 
 Avanti Feeds shares fall over 4% after Q2 net profit drops 55% YoY to Rs 69 crore Business Upturn
 
-### 73. Stock Market Today: Sensex Jumps Over 1,300 Points, Nifty 50 Around 25,400; IndiGo, M&M, SBI Top Gainers - NDTV Profit
+### 74. Stock Market Today: Sensex Jumps Over 1,300 Points, Nifty 50 Around 25,400; IndiGo, M&M, SBI Top Gainers - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-11T03:45:41+00:00
@@ -736,7 +746,7 @@ Avanti Feeds shares fall over 4% after Q2 net profit drops 55% YoY to Rs 69 cror
 
 Stock Market Today: Sensex Jumps Over 1,300 Points, Nifty 50 Around 25,400; IndiGo, M&M, SBI Top Gainers NDTV Profit
 
-### 74. Mahindra sees staying power in renewed FPI interest in India - The Hans India
+### 75. Mahindra sees staying power in renewed FPI interest in India - The Hans India
 
 - Source: The Hans India
 - Published: 2026-11-11T00:26:09+00:00
@@ -746,7 +756,7 @@ Stock Market Today: Sensex Jumps Over 1,300 Points, Nifty 50 Around 25,400; Indi
 
 Mahindra sees staying power in renewed FPI interest in India The Hans India
 
-### 75. US stocks fall as inflation data boosts bets on larger Fed rate hike - Free Malaysia Today
+### 76. US stocks fall as inflation data boosts bets on larger Fed rate hike - Free Malaysia Today
 
 - Source: Free Malaysia Today
 - Published: 2026-11-10T21:21:02+00:00
@@ -756,7 +766,7 @@ Mahindra sees staying power in renewed FPI interest in India The Hans India
 
 US stocks fall as inflation data boosts bets on larger Fed rate hike Free Malaysia Today
 
-### 76. NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump - TradingView
+### 77. NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump - TradingView
 
 - Source: TradingView
 - Published: 2026-11-10T18:07:00+00:00
@@ -766,7 +776,7 @@ US stocks fall as inflation data boosts bets on larger Fed rate hike Free Malays
 
 NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump TradingView
 
-### 77. FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 - Business Today
+### 78. FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 - Business Today
 
 - Source: Business Today
 - Published: 2026-11-10T17:37:47+00:00
@@ -776,7 +786,7 @@ NVIDIA Governance Woes: 3 Areas to Buy From Amid AI Market Slump TradingView
 
 FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Samvat 2083 Business Today
 
-### 78. US Treasury yields rise as Fed's Waller presses rate hike case - The Economic Times
+### 79. US Treasury yields rise as Fed's Waller presses rate hike case - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-10T10:55:56+00:00
@@ -786,7 +796,7 @@ FPI Money Returns To India! NSE Chief Ashishkumar Chauhan Sees Good Omens For Sa
 
 US Treasury yields rise as Fed's Waller presses rate hike case The Economic Times
 
-### 79. GIFT Nifty Gains High Hopes for Wednesday as Oil Cools Below $100 After Diwali Break - NiftyTrader
+### 80. GIFT Nifty Gains High Hopes for Wednesday as Oil Cools Below $100 After Diwali Break - NiftyTrader
 
 - Source: NiftyTrader
 - Published: 2026-11-10T06:47:15+00:00
@@ -795,13 +805,3 @@ US Treasury yields rise as Fed's Waller presses rate hike case The Economic Time
 - Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNOWh2TUlGc1FQdy1vZ2VvVmNSV2UtdEZfZzFMbkRWRmZtSW15NmNOT1ZQay1FZGJEWWlxQXNlMkV6VEtkLTk2LWFDTDZnOGRidllJS2VKUXVtVnhsaS1xNHVZQWJhelhhWTFEOXE3N2FSa3lrMnRQaDA1cXNLNVVvM2pxMA?oc=5
 
 GIFT Nifty Gains High Hopes for Wednesday as Oil Cools Below $100 After Diwali Break NiftyTrader
-
-### 80. Point72 claims fired quant analyst used AI tools to steal code - The Star
-
-- Source: The Star
-- Published: 2026-11-11T05:00:00+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQY2JLZ08xaU5Qb3pPcmJVRno3cmNIanBxY2dtZHh4MDUzUWZIbWIwMEFDZHgtYkR5QjJsUkNKT0xiRHhoZGUzM3E5SWxVU1hGVk1pb054d1VkaXRnaGVkV3ZySDdReWp0Y2lYY29GNFkzWDFMXzk1RWpwQ09aQi1SVXNIM3EzN3ZNWjZfZFF5OFVxMkxtcjNxRHVUc3otaUlRMTFsTDBiWWFVYWtxYWdBaWxkTDdiQQ?oc=5
-
-Point72 claims fired quant analyst used AI tools to steal code The Star
