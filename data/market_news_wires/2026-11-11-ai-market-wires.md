@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-11 07:08
+Generated: 2026-11-11 07:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -56,17 +56,7 @@ Equity MF inflows fall 14% MoM to Rs 32,993 crore in October; smallcap inflows s
 
 Domestic Mutual Funds' Nifty 50 Allocation Falls Below 50% For First Time In 21 Years BW Businessworld
 
-### 6. Mutual funds' Nifty 50 allocation falls to 21-year low in Q2 - Cafemutual
-
-- Source: Cafemutual
-- Published: 2026-11-11T02:59:27+00:00
-- Themes: market selling, India market
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxPSjlsWDJLOE80TXI5WGR4MTluNUZZMEE3N05sU3h2bGFOWTNRN3o1WTMwc092NEhMcV8yMkh2c0JCbEhkdTdFN2Jyend6djdheUtBaEs5RkdLY2ZxVXBZeXRadDF5NDVtcml6MkVfY1NTVnlqNTFtN1JfZjN6SzBKel9BMkNmY3NRRmZZdzBKQzlBR2ExZVEyRzNtUXdsVE4tTWdGbzYzSQ?oc=5
-
-Mutual funds' Nifty 50 allocation falls to 21-year low in Q2 Cafemutual
-
-### 7. Mutual funds' Nifty 50 allocation falls to 21-year low in Sept quarter - BusinessLine
+### 6. Mutual funds' Nifty 50 allocation falls to 21-year low in Sept quarter - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-10T08:52:28+00:00
@@ -76,7 +66,7 @@ Mutual funds' Nifty 50 allocation falls to 21-year low in Q2 Cafemutual
 
 Mutual funds' Nifty 50 allocation falls to 21-year low in Sept quarter BusinessLine
 
-### 8. Fed Governor Bowman Warns: If AI Investment Returns Disappoint, U.S. Stock Valuations Could Face Sharp Correction - BigGo Finance
+### 7. Fed Governor Bowman Warns: If AI Investment Returns Disappoint, U.S. Stock Valuations Could Face Sharp Correction - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-10T22:35:00+00:00
@@ -86,7 +76,7 @@ Mutual funds' Nifty 50 allocation falls to 21-year low in Sept quarter BusinessL
 
 Fed Governor Bowman Warns: If AI Investment Returns Disappoint, U.S. Stock Valuations Could Face Sharp Correction BigGo Finance
 
-### 9. Fed's Bowman warns of a stock correction if AI bets don't pay off and says there is still work to do on inflation - MLQ.ai
+### 8. Fed's Bowman warns of a stock correction if AI bets don't pay off and says there is still work to do on inflation - MLQ.ai
 
 - Source: MLQ.ai
 - Published: 2026-11-10T22:09:26+00:00
@@ -96,7 +86,7 @@ Fed Governor Bowman Warns: If AI Investment Returns Disappoint, U.S. Stock Valua
 
 Fed's Bowman warns of a stock correction if AI bets don't pay off and says there is still work to do on inflation MLQ.ai
 
-### 10. US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6% - Moneycontrol.com
+### 9. US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6% - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-10T21:46:50+00:00
@@ -106,17 +96,7 @@ Fed's Bowman warns of a stock correction if AI bets don't pay off and says there
 
 US stocks fall as hotter inflation fuels Fed rate hike fears, Nvidia slides nearly 6% Moneycontrol.com
 
-### 11. Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out - Livemint
-
-- Source: Livemint
-- Published: 2026-11-10T20:50:08+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMitAFBVV95cUxQeUpBQjVpRVNNSUpQek9IQ1BaeV9TdVlDRVdQRWZZVFozOUN2SjhNWjlzOUt4d0xzS09uODFPRVhJbUwwbzBYYkVHR3UxVkZIbDQxOTZuNXBEUWROd25YUFRldE5JdlQwS0VfY1UtV3d4dThnWTRZdFY0YU00Y0pwYnlVM2pqVWxBUDJJdHNzT2R6c2QzdUNTckZ1ZVd1MEctWk9EajNFRFBfOGEyNE5BNVFmaUPSAboBQVVfeXFMTXBUalhoa2tMLW0ybjlzRUUzRExubjZJc1dLbTVUWGNEc1lBalRDdHI2Q0tKWE1lZ0lwS0tMdFc1eld3NFZiWl9VRmhJSDZhUlNhcC1vTWNfdUVnMmNuay1YVzhTQTRqZklhWDRfNTNpZVE1RjdkWm11azZmZUpUVUM4bHVIengtVXM2cndrQW1aYllzcWZnLTktNmdDVEdscHlsVC15ZDBackdSdjB1WkR5VEdUMi1RclFn?oc=5
-
-Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out Livemint
-
-### 12. Nvidia selloff deepens, adding to AI jitters - Reuters
+### 10. Nvidia selloff deepens, adding to AI jitters - Reuters
 
 - Source: Reuters
 - Published: 2026-11-10T20:46:17+00:00
@@ -126,7 +106,7 @@ Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out Livemint
 
 Nvidia selloff deepens, adding to AI jitters Reuters
 
-### 13. Nvidia selloff deepens, adding to AI jitters - TradingView
+### 11. Nvidia selloff deepens, adding to AI jitters - TradingView
 
 - Source: TradingView
 - Published: 2026-11-10T20:42:28+00:00
@@ -136,7 +116,7 @@ Nvidia selloff deepens, adding to AI jitters Reuters
 
 Nvidia selloff deepens, adding to AI jitters TradingView
 
-### 14. Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out - Bloomberg.com
+### 12. Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-10T20:30:00+00:00
@@ -146,7 +126,7 @@ Nvidia selloff deepens, adding to AI jitters TradingView
 
 Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out Bloomberg.com
 
-### 15. Wells Fargo upgrades US AI infrastructure view after chip selloff - Reuters
+### 13. Wells Fargo upgrades US AI infrastructure view after chip selloff - Reuters
 
 - Source: Reuters
 - Published: 2026-11-10T17:31:49+00:00
@@ -156,7 +136,7 @@ Fed’s Bowman Warns of Stock Correction If AI Bets Don’t Pan Out Bloomberg.co
 
 Wells Fargo upgrades US AI infrastructure view after chip selloff Reuters
 
-### 16. Ivana Delevska: Semiconductor selloff did not reflect earnings gains - Traders Union
+### 14. Ivana Delevska: Semiconductor selloff did not reflect earnings gains - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-10T17:25:14+00:00
@@ -166,7 +146,7 @@ Wells Fargo upgrades US AI infrastructure view after chip selloff Reuters
 
 Ivana Delevska: Semiconductor selloff did not reflect earnings gains Traders Union
 
-### 17. Nvidia Stock (NVDA) Falls 7% as CEO Affair Scandal Fuels $400B Two-Day Selloff - TipRanks
+### 15. Nvidia Stock (NVDA) Falls 7% as CEO Affair Scandal Fuels $400B Two-Day Selloff - TipRanks
 
 - Source: TipRanks
 - Published: 2026-11-10T17:13:19+00:00
@@ -176,7 +156,7 @@ Ivana Delevska: Semiconductor selloff did not reflect earnings gains Traders Uni
 
 Nvidia Stock (NVDA) Falls 7% as CEO Affair Scandal Fuels $400B Two-Day Selloff TipRanks
 
-### 18. AI Chip Stocks are Cheapest in 15 Years. Is the Sell-Off Over? - Yahoo Finance
+### 16. AI Chip Stocks are Cheapest in 15 Years. Is the Sell-Off Over? - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-10T14:21:41+00:00
@@ -186,7 +166,7 @@ Nvidia Stock (NVDA) Falls 7% as CEO Affair Scandal Fuels $400B Two-Day Selloff T
 
 AI Chip Stocks are Cheapest in 15 Years. Is the Sell-Off Over? Yahoo Finance
 
-### 19. BOE’s Breeden Sees AI Selloff as a Welcome Price Correction - Bloomberg.com
+### 17. BOE’s Breeden Sees AI Selloff as a Welcome Price Correction - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-10T11:16:50+00:00
@@ -196,7 +176,7 @@ AI Chip Stocks are Cheapest in 15 Years. Is the Sell-Off Over? Yahoo Finance
 
 BOE’s Breeden Sees AI Selloff as a Welcome Price Correction Bloomberg.com
 
-### 20. Goldman CEO: AI financing demand is still strong despite recent tech selloff - Seeking Alpha
+### 18. Goldman CEO: AI financing demand is still strong despite recent tech selloff - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-10T08:25:00+00:00
@@ -206,7 +186,7 @@ BOE’s Breeden Sees AI Selloff as a Welcome Price Correction Bloomberg.com
 
 Goldman CEO: AI financing demand is still strong despite recent tech selloff Seeking Alpha
 
-### 21. US stocks fall on hot inflation report as Nvidia tumbles again - CNA
+### 19. US stocks fall on hot inflation report as Nvidia tumbles again - CNA
 
 - Source: CNA
 - Published: 2026-11-11T06:54:11+00:00
@@ -216,7 +196,7 @@ Goldman CEO: AI financing demand is still strong despite recent tech selloff See
 
 US stocks fall on hot inflation report as Nvidia tumbles again CNA
 
-### 22. Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? - IndiaIPO
+### 20. Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-11T06:36:19+00:00
@@ -226,7 +206,7 @@ US stocks fall on hot inflation report as Nvidia tumbles again CNA
 
 Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? IndiaIPO
 
-### 23. Park: "Recent Stock Market Correction Signals Semiconductor Overreliance... Must Be Taken Seriously" - 아시아경제
+### 21. Park: "Recent Stock Market Correction Signals Semiconductor Overreliance... Must Be Taken Seriously" - 아시아경제
 
 - Source: 아시아경제
 - Published: 2026-11-11T06:25:06+00:00
@@ -236,7 +216,7 @@ Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? IndiaIPO
 
 Park: "Recent Stock Market Correction Signals Semiconductor Overreliance... Must Be Taken Seriously" 아시아경제
 
-### 24. Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? - Livemint
+### 22. Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? - Livemint
 
 - Source: Livemint
 - Published: 2026-11-11T06:13:40+00:00
@@ -246,7 +226,7 @@ Park: "Recent Stock Market Correction Signals Semiconductor Overreliance... Must
 
 Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? Livemint
 
-### 25. Anthropic IPO Lockup Risks Triggering AI Correction, Selby Says - Bloomberg.com
+### 23. Anthropic IPO Lockup Risks Triggering AI Correction, Selby Says - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-11T06:13:00+00:00
@@ -256,7 +236,7 @@ Mint Explainer | US AI sell-off: Are Indian AI-linked stocks next? Livemint
 
 Anthropic IPO Lockup Risks Triggering AI Correction, Selby Says Bloomberg.com
 
-### 26. US stocks fall on hot inflation report as Nvidia tumbles again - LinkedIn
+### 24. US stocks fall on hot inflation report as Nvidia tumbles again - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-11-11T05:29:42+00:00
@@ -266,7 +246,7 @@ Anthropic IPO Lockup Risks Triggering AI Correction, Selby Says Bloomberg.com
 
 US stocks fall on hot inflation report as Nvidia tumbles again LinkedIn
 
-### 27. Wall Street falls, Dalal Street roars! What powered the massive Sensex and Nifty rally? - NewsDrum
+### 25. Wall Street falls, Dalal Street roars! What powered the massive Sensex and Nifty rally? - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-11-11T04:38:33+00:00
@@ -276,7 +256,7 @@ US stocks fall on hot inflation report as Nvidia tumbles again LinkedIn
 
 Wall Street falls, Dalal Street roars! What powered the massive Sensex and Nifty rally? NewsDrum
 
-### 28. U.S. stocks fall as sticky inflation, Nvidia slump weigh on Wall Street - 巴士的報
+### 26. U.S. stocks fall as sticky inflation, Nvidia slump weigh on Wall Street - 巴士的報
 
 - Source: 巴士的報
 - Published: 2026-11-11T03:40:00+00:00
@@ -286,7 +266,7 @@ Wall Street falls, Dalal Street roars! What powered the massive Sensex and Nifty
 
 U.S. stocks fall as sticky inflation, Nvidia slump weigh on Wall Street 巴士的報
 
-### 29. Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation - www.tokenpost.com
+### 27. Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation - www.tokenpost.com
 
 - Source: www.tokenpost.com
 - Published: 2026-11-11T00:59:00+00:00
@@ -296,7 +276,7 @@ U.S. stocks fall as sticky inflation, Nvidia slump weigh on Wall Street 巴士�
 
 Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation www.tokenpost.com
 
-### 30. Watch Hot Inflation, AI Selloff & Anthropic IPO - Bloomberg.com
+### 28. Watch Hot Inflation, AI Selloff & Anthropic IPO - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-10T23:48:36+00:00
@@ -306,7 +286,7 @@ Anthropic Targets Nov. 19 or 20 for Nasdaq IPO as AI Selloff Pressures Valuation
 
 Watch Hot Inflation, AI Selloff & Anthropic IPO Bloomberg.com
 
-### 31. Nvidia stocks fall for second straight day after CEO's affair with alleged Chinese spy - CBS News
+### 29. Nvidia stocks fall for second straight day after CEO's affair with alleged Chinese spy - CBS News
 
 - Source: CBS News
 - Published: 2026-11-10T23:20:00+00:00
@@ -316,7 +296,7 @@ Watch Hot Inflation, AI Selloff & Anthropic IPO Bloomberg.com
 
 Nvidia stocks fall for second straight day after CEO's affair with alleged Chinese spy CBS News
 
-### 32. The AI sell-off tells investors that valuations will always matter - The Business Times
+### 30. The AI sell-off tells investors that valuations will always matter - The Business Times
 
 - Source: The Business Times
 - Published: 2026-11-10T23:00:00+00:00
@@ -326,7 +306,7 @@ Nvidia stocks fall for second straight day after CEO's affair with alleged Chine
 
 The AI sell-off tells investors that valuations will always matter The Business Times
 
-### 33. US stocks fall on hot inflation report as Nvidia tumbles again - AFP.com
+### 31. US stocks fall on hot inflation report as Nvidia tumbles again - AFP.com
 
 - Source: AFP.com
 - Published: 2026-11-10T22:03:32+00:00
@@ -336,7 +316,7 @@ The AI sell-off tells investors that valuations will always matter The Business 
 
 US stocks fall on hot inflation report as Nvidia tumbles again AFP.com
 
-### 34. What Does Nvidia's Selloff Mean for a 68-Year-Old With $940,000 of a $2.3 Million IRA in the Stock? - 24/7 Wall St.
+### 32. What Does Nvidia's Selloff Mean for a 68-Year-Old With $940,000 of a $2.3 Million IRA in the Stock? - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-11-10T21:16:00+00:00
@@ -346,7 +326,7 @@ US stocks fall on hot inflation report as Nvidia tumbles again AFP.com
 
 What Does Nvidia's Selloff Mean for a 68-Year-Old With $940,000 of a $2.3 Million IRA in the Stock? 24/7 Wall St.
 
-### 35. Anthropic IPO: Here's What Betting Markets Are Predicting After the AI Correction - The Motley Fool
+### 33. Anthropic IPO: Here's What Betting Markets Are Predicting After the AI Correction - The Motley Fool
 
 - Source: The Motley Fool
 - Published: 2026-11-10T21:02:00+00:00
@@ -356,7 +336,7 @@ What Does Nvidia's Selloff Mean for a 68-Year-Old With $940,000 of a $2.3 Millio
 
 Anthropic IPO: Here's What Betting Markets Are Predicting After the AI Correction The Motley Fool
 
-### 36. HIVE’s Aydin Kilic Says the AI Cloud Selloff Misreads Demand, and Lays Out How HIVE Is Funding Its Growth - The Wealth Advisor
+### 34. HIVE’s Aydin Kilic Says the AI Cloud Selloff Misreads Demand, and Lays Out How HIVE Is Funding Its Growth - The Wealth Advisor
 
 - Source: The Wealth Advisor
 - Published: 2026-11-10T20:01:00+00:00
@@ -366,7 +346,7 @@ Anthropic IPO: Here's What Betting Markets Are Predicting After the AI Correctio
 
 HIVE’s Aydin Kilic Says the AI Cloud Selloff Misreads Demand, and Lays Out How HIVE Is Funding Its Growth The Wealth Advisor
 
-### 37. 5 AI Heavyweights That Look Too Cheap to Ignore After the Sell-Off - MarketBeat
+### 35. 5 AI Heavyweights That Look Too Cheap to Ignore After the Sell-Off - MarketBeat
 
 - Source: MarketBeat
 - Published: 2026-11-10T19:49:52+00:00
@@ -376,7 +356,7 @@ HIVE’s Aydin Kilic Says the AI Cloud Selloff Misreads Demand, and Lays Out How
 
 5 AI Heavyweights That Look Too Cheap to Ignore After the Sell-Off MarketBeat
 
-### 38. Grab Holdings Stocks Fall 3.20% After $750 Million Bet on Malaysian AI Data Centers - Yahoo Finance
+### 36. Grab Holdings Stocks Fall 3.20% After $750 Million Bet on Malaysian AI Data Centers - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-10T19:35:26+00:00
@@ -386,7 +366,7 @@ HIVE’s Aydin Kilic Says the AI Cloud Selloff Misreads Demand, and Lays Out How
 
 Grab Holdings Stocks Fall 3.20% After $750 Million Bet on Malaysian AI Data Centers Yahoo Finance
 
-### 39. AMD and Coherent: What the Biggest Gainers Since the Midterm Selloff Say About the AI Trade - Barron's
+### 37. AMD and Coherent: What the Biggest Gainers Since the Midterm Selloff Say About the AI Trade - Barron's
 
 - Source: Barron's
 - Published: 2026-11-10T18:49:00+00:00
@@ -396,7 +376,7 @@ Grab Holdings Stocks Fall 3.20% After $750 Million Bet on Malaysian AI Data Cent
 
 AMD and Coherent: What the Biggest Gainers Since the Midterm Selloff Say About the AI Trade Barron's
 
-### 40. Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off - Fortune
+### 38. Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off - Fortune
 
 - Source: Fortune
 - Published: 2026-11-10T16:21:00+00:00
@@ -406,7 +386,7 @@ AMD and Coherent: What the Biggest Gainers Since the Midterm Selloff Say About t
 
 Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-off Fortune
 
-### 41. Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? - Moomoo
+### 39. Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-10T16:16:02+00:00
@@ -416,7 +396,7 @@ Anthropic sets IPO range valuing it at up to $1.4 trillion amid AI stock sell-of
 
 Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? Moomoo
 
-### 42. Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? - Moomoo
+### 40. Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-10T16:16:02+00:00
@@ -426,7 +406,7 @@ Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? M
 
 Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? Moomoo
 
-### 43. Applied Materials, Inc. (AMAT) Was Bought Back After a Semiconductor Sell-Off: Is the Opportunity Back? - Yahoo Finance
+### 41. Applied Materials, Inc. (AMAT) Was Bought Back After a Semiconductor Sell-Off: Is the Opportunity Back? - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-10T16:14:53+00:00
@@ -436,7 +416,7 @@ Live Take | Nvidia's Selloff Deepens: A Buying Opportunity or More Pain Ahead? M
 
 Applied Materials, Inc. (AMAT) Was Bought Back After a Semiconductor Sell-Off: Is the Opportunity Back? Yahoo Finance
 
-### 44. Why last week's AI sell-off doesn't prove the bubble has burst - NZ Herald
+### 42. Why last week's AI sell-off doesn't prove the bubble has burst - NZ Herald
 
 - Source: NZ Herald
 - Published: 2026-11-10T16:02:48+00:00
@@ -446,17 +426,7 @@ Applied Materials, Inc. (AMAT) Was Bought Back After a Semiconductor Sell-Off: I
 
 Why last week's AI sell-off doesn't prove the bubble has burst NZ Herald
 
-### 45. Sensex Falls as Oil Concerns Weigh on Markets - DD News
-
-- Source: DD News
-- Published: 2026-11-10T16:00:27+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMie0FVX3lxTE5yTjMxMUV0dlhKcVBNZEFtaDNHVHNZekx6d0ZZcUZyRHFGUDBDMGg4RnFYSXZzNVBPR1VzdjVJWFNUZWNDaHNBNEpBaU1BYUZWVkN4dmNRZ2FYeHZONl9NVXQyUWEwSi1yVTZHMUFzRGVDczFPTjhMNWd4QQ?oc=5
-
-Sensex Falls as Oil Concerns Weigh on Markets DD News
-
-### 46. AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 - Yahoo Finance
+### 43. AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-10T15:58:12+00:00
@@ -466,7 +436,7 @@ Sensex Falls as Oil Concerns Weigh on Markets DD News
 
 AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Downturn, Says UBS — Sees $1.5 Trillion Spending In 2028 Yahoo Finance
 
-### 47. Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before November 17? - kalkine.ca
+### 44. Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before November 17? - kalkine.ca
 
 - Source: kalkine.ca
 - Published: 2026-11-10T14:45:00+00:00
@@ -476,7 +446,7 @@ AI Stock Sell-Off Was A ‘Positioning Reset,’ Not Start Of AI Investment Down
 
 Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before November 17? kalkine.ca
 
-### 48. Pension funds hold up to 11% of assets in AI companies, raising selloff risk - Pensions & Investments
+### 45. Pension funds hold up to 11% of assets in AI companies, raising selloff risk - Pensions & Investments
 
 - Source: Pensions & Investments
 - Published: 2026-11-10T14:00:00+00:00
@@ -486,7 +456,7 @@ Can a 1.8% Pre-Market Rebound Reverse the Selloff in Nvidia (NASDAQ:NVDA) Before
 
 Pension funds hold up to 11% of assets in AI companies, raising selloff risk Pensions & Investments
 
-### 49. Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Correction Benchmarking Across IBM Processors, Reports Up to 20% Fewer Decoding Failures - Quiver Quantitative
+### 46. Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Correction Benchmarking Across IBM Processors, Reports Up to 20% Fewer Decoding Failures - Quiver Quantitative
 
 - Source: Quiver Quantitative
 - Published: 2026-11-10T13:21:00+00:00
@@ -496,7 +466,7 @@ Pension funds hold up to 11% of assets in AI companies, raising selloff risk Pen
 
 Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Correction Benchmarking Across IBM Processors, Reports Up to 20% Fewer Decoding Failures Quiver Quantitative
 
-### 50. Quantum X Labs tests AI error correction on three IBM quantum processors - StreetInsider
+### 47. Quantum X Labs tests AI error correction on three IBM quantum processors - StreetInsider
 
 - Source: StreetInsider
 - Published: 2026-11-10T13:14:53+00:00
@@ -506,7 +476,7 @@ Gix Internet Ltd. Subsidiary Quantum X Labs Expands AI-Powered Quantum Error Cor
 
 Quantum X Labs tests AI error correction on three IBM quantum processors StreetInsider
 
-### 51. Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors - Yahoo! Finance Canada
+### 48. Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors - Yahoo! Finance Canada
 
 - Source: Yahoo! Finance Canada
 - Published: 2026-11-10T13:12:00+00:00
@@ -516,7 +486,7 @@ Quantum X Labs tests AI error correction on three IBM quantum processors StreetI
 
 Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program to Three IBM Quantum Processors Yahoo! Finance Canada
 
-### 52. Anthropic pushes ahead with IPO despite AI selloff - Semafor
+### 49. Anthropic pushes ahead with IPO despite AI selloff - Semafor
 
 - Source: Semafor
 - Published: 2026-11-10T12:23:00+00:00
@@ -526,7 +496,7 @@ Gix Internet: Quantum X Labs Expands AI-Powered Quantum Error Correction Program
 
 Anthropic pushes ahead with IPO despite AI selloff Semafor
 
-### 53. Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out - Livemint
+### 50. Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out - Livemint
 
 - Source: Livemint
 - Published: 2026-11-10T11:41:20+00:00
@@ -536,7 +506,7 @@ Anthropic pushes ahead with IPO despite AI selloff Semafor
 
 Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $1.57 trillion in market value wiped out Livemint
 
-### 54. Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks - BigGo Finance
+### 51. Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-10T11:35:00+00:00
@@ -546,7 +516,7 @@ Jensen Huang scandal: Nvidia shares rebound in premarket after sharp sell-off, $
 
 Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks BigGo Finance
 
-### 55. Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. - Pluang
+### 52. Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. - Pluang
 
 - Source: Pluang
 - Published: 2026-11-10T11:26:47+00:00
@@ -556,7 +526,7 @@ Value Funds Outrun the S&P 500 as AI Sell-Off Hits Tech-Heavy Benchmarks BigGo F
 
 Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex cuts. Pluang
 
-### 56. Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall - ThePrint
+### 53. Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall - ThePrint
 
 - Source: ThePrint
 - Published: 2026-11-10T09:06:54+00:00
@@ -566,7 +536,7 @@ Nasdaq 100 briefly rebounds but AI selloff likely to resume amid expected capex 
 
 Nvidia stocks fall to lowest since April, major stock indexes rally as Brent prices fall ThePrint
 
-### 57. Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost
+### 54. Why Wall Street sees the AI selloff as overdone despite regulatory risks - Firstpost
 
 - Source: Firstpost
 - Published: 2026-11-10T08:00:24+00:00
@@ -576,7 +546,7 @@ Nvidia stocks fall to lowest since April, major stock indexes rally as Brent pri
 
 Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpost
 
-### 58. Nifty trades above 25,350: Is benchmark index heading towards 26,000 before any meaningful correction?... - Moneycontrol.com
+### 55. Nifty trades above 25,350: Is benchmark index heading towards 26,000 before any meaningful correction?... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-11T05:34:04+00:00
@@ -586,17 +556,27 @@ Why Wall Street sees the AI selloff as overdone despite regulatory risks Firstpo
 
 Nifty trades above 25,350: Is benchmark index heading towards 26,000 before any meaningful correction?... Moneycontrol.com
 
-### 59. Nifty IT Rebounds In October After A 36% Fall From Record. But Has The Rally Gone Too Far Already? - NDTV Profit
+### 56. Nifty IT Rebounds In October After A 36% Fall From Record. But Has The Rally Gone Too Far Already? - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-11T04:38:48+00:00
 - Themes: market selling, India market
 - Score: 6
-- Link: https://news.google.com/rss/articles/CBMiiAJBVV95cUxQTWVUamJKVHZKSW5TZDBmQWwyWTVXUGl0akpGZ2VsQzZtajQwU2NWTWRVX0lYZUQ4d0NpcVpzOHdaRG9MbktnTHNfR2trOGRQS2Rqb2d6eUhHTW9GX0MzekV4bUVkR0tRYzZtVGFNY0JPZzFKcFVHVjZ0N3JFVC1KZjBwS3dRd1Y5eWVTbENtS3VlWW12VzN6YlZ6TGxsNkRmTEtqY3JabnFSUUgzTGhLclhDWVo3V3Y2SkIzanItZG9hY2NWc0ZjTGc4N2dsNzl6ZVlsVkhjXzg1WHB0NFVqMm5UYWgwVzNEeUtKV29GbGxaUk9SMng3TjVQdXBHMGFEaktoRDZBbU_SAZACQVVfeXFMTnBRUlo3UmZxaTVleDFNeVFta2hESS1uaXVDWVRTeGhQaS0yVzRmeDA5eXBRZmdzZmN2MlhnZ3o1OF9RWm0yU1RZaGFvS1d5WHVzRDVlaGJKYzNRQjQ4YmVBZG9aekZhZVhINkF3Mk1lZGJrdTBTbFFWZVJpRnBBTVZFd0NuU3FqcTlLa2luMTcxU3Z6RmVfalo3bWdHRnNvM1hzdHFHUnVoY3AxbzlRWHNFb2ZYVlk5WUpGdlJRSG5JMnBOcVNNb2F3N0JDelRvNEJmMEdmcEU2WHdJSlg0SmtWRGxkN3Rpb0hUU2pTcl9wUXZ4SDdicGtPZC1UMk5keEZWY0ZKdXpseWg4SlVNSUc?oc=5
+- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxOcFFSWjdSZnFpNWV4MU15UW1raERJLW5pdUNZVFN4aFBpLTJXNGZ4MDl5cFFmZ3NmY3YyWGdnejU4X1FabTJTVFloYW9LV3lYdXNENWVoYkpjM1FCNDhiZUFkb1p6RmFlWEg2QXcyTWVkYmt1MFNsUVZlUmlGcEFNVkV3Q25TcWpxOUtraW4xNzFTdnpGZV9qWjdtZ0dGc28zWHN0cUdSdWhjcDFvOVFYc0VvZlhWWTlZSkZ2UlFIbkkycE5xU01vYXc3QkN6VG80QmYwR2ZwRTZYd0lKWDRKa1ZEbGQ3dGlvSFRTalNyX3BRdnhIN2Jwa09kLVQyTmR4RlZjRkp1emx5aDhKVU1JR9IBkAJBVV95cUxOcFFSWjdSZnFpNWV4MU15UW1raERJLW5pdUNZVFN4aFBpLTJXNGZ4MDl5cFFmZ3NmY3YyWGdnejU4X1FabTJTVFloYW9LV3lYdXNENWVoYkpjM1FCNDhiZUFkb1p6RmFlWEg2QXcyTWVkYmt1MFNsUVZlUmlGcEFNVkV3Q25TcWpxOUtraW4xNzFTdnpGZV9qWjdtZ0dGc28zWHN0cUdSdWhjcDFvOVFYc0VvZlhWWTlZSkZ2UlFIbkkycE5xU01vYXc3QkN6VG80QmYwR2ZwRTZYd0lKWDRKa1ZEbGQ3dGlvSFRTalNyX3BRdnhIN2Jwa09kLVQyTmR4RlZjRkp1emx5aDhKVU1JRw?oc=5
 
 Nifty IT Rebounds In October After A 36% Fall From Record. But Has The Rally Gone Too Far Already? NDTV Profit
 
-### 60. Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today
+### 57. AMFI data: MF inflows rise to ₹1.74 lakh crore in Oct as debt funds see strong inflows; equity flows dip 14% - Fortune India
+
+- Source: Fortune India
+- Published: 2026-11-11T07:27:37+00:00
+- Themes: India market, macro / flows
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMi7AFBVV95cUxNdzRFRHlUM0c1T0syNnRLNjRtdjlKM2U4Z19xdVlBY3F3TmhRckdDZ29xeWlvdFVBQVJtMTZXREYtallxU0RHWXlJYzFwSE12VTE2cGRKamRMWkFaRktwaGg3QTE1N1NJRUtlRVp2d1NhaTNqSjFXbnhmajlLbDFBZVRkTFgtYzYwcVdlR2pSMzUtVndyWDB4TEYwRVBVVkFiNGUtNXozbEo0c1ItS2FNWTR4cklsWHVST01JaWp2X3pZZG00RF84ckc2RjZoWGx6bnRCSzFIdzhLMGZqZ0l4RlhDWWJJX2o5X0lib9IB-gFBVV95cUxPY05Tbm5DZ256c1VfeWUwbFotbEhvdjM5bnNBVkhnZ1U3YjBqLXJWT1JHbVNLTXZIODI3NmhWdjVib2lKdlpJQk5xZFdER2xfbXhWZlZ4STEwNHBDNXduSUVxWHc1VktzQWRSUGJEMk9WNkxGbFk2dmJjWE5UVmZfVjNjaHNSY0RGemczcmZsLUZ2M3lnTjZXM1o5N3pjM0NkSUJGU2tkRzNhYWV0RWZuOUlFelFxSmhuS0UycU9WdEtTOEdKSWR3UEI1Z2FCYmNXRXJjT2M4QXg4ZVhESFVUTlBVMjRfLVJNeW9kTDlqVmQ4QlBBQXBjdWpn?oc=5
+
+AMFI data: MF inflows rise to ₹1.74 lakh crore in Oct as debt funds see strong inflows; equity flows dip 14% Fortune India
+
+### 58. Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report - Business Today
 
 - Source: Business Today
 - Published: 2026-11-10T10:27:39+00:00
@@ -606,7 +586,17 @@ Nifty IT Rebounds In October After A 36% Fall From Record. But Has The Rally Gon
 
 Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift beyond blue-chip stocks: Report Business Today
 
-### 61. SIP Inflows Fall To Rs 32,160 Crore In October; Equity MF Inflows Drop 14% - NDTV Profit
+### 59. Equity mutual fund inflows record Rs 32,993 crore in October, slows by 13.8% MoM: AMFI - The Tribune
+
+- Source: The Tribune
+- Published: 2026-11-11T07:27:34+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQUENUbG12SWVoRjBCZ1EtbE5sS2hLUWszVWo5c3NqUTJlLUNILUNja25RLVVLczlwUE50VjJiT3lnb1QtbHZoYVhnOWRabUpmM0hFY1JwanJBaXJaLUxlVEN2dUZ4Wk1RWFdPdlNuOGFESkJ2S2FzWWdTVWhBckdLUHdHTUVVeTc2Wk5IT2hWblIxR0ZScjRxM2EtOWlNYUVIQlRCbHAtdnR4ZnR2b0JXeV9FSXFxbURrdXhOSGdTM3BqSHRx0gHIAUFVX3lxTE5vbWgzOGNrTXZuck9wOTlUMjg5bWlPUWl6aWV5alNHUzdodDhOOG41dE5fZTFjMGZHR1diLTJ3R3JVTTBkRVI4LVJtUGx2YkFPQndybXYxSG9YalZTZk43UTk3YUoxZlpLLXJpOU4yWmJqd3AtcGZpRHBFb3dOQmpSalZJYWxyS2NXZU5RMktmaHozRjN5b1FfSVZxejNfSkVUUGhxcXktMWhBaUJERm9wRzFTV1E0dUNZZWRMa3FkcUdSbUdZUjFi?oc=5
+
+Equity mutual fund inflows record Rs 32,993 crore in October, slows by 13.8% MoM: AMFI The Tribune
+
+### 60. SIP Inflows Fall To Rs 32,160 Crore In October; Equity MF Inflows Drop 14% - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-11T06:47:50+00:00
@@ -615,6 +605,16 @@ Mutual funds cut Nifty 50 exposure to 21-year low of 49.4% as investments shift 
 - Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxPamhKVko4VU9IcHl1OWVQY1RSU0UxY0dCMF9PUnE3UXlmNlNhZXV5eGExUkFGNzhybGVwTHY3VFBNbU1ybDNMWXZ5Qkp2UkN2RDdIVWw1S3hiakNzRVVaaEVyLWg2WHBSZHllS3RoQUEwREdUclBSSEJCMEtranVEek80UlFTbDQyalQyVnpRb0k1cjhsaV8wY2oyZ05rdnlaREp4WWRZMnVZLXhwa1dzaExBTEh3Qk15RDhoSnNxUUNLUzhEZGgwcUEzQ2x5UTFTYktHNlBLR1hhUkZhYWV0a2VlX2VqZ25mOG5LdndwLVE4WnpFeDdKLU1zZmNtQXfSAYcCQVVfeXFMTTBKdzlmV3JtQnRFeVdSZ1VGZ1ViQlI1MEJCd0w3Nlkycjc4b2Z2QUxMQzQ0VFRZS1BiMG9JTWdBcEV3VHlGcHpEd3BaMHV5QXJFbzdtc0o0SllZeEZBTFFQZngyWkdxc1h0VWJteUVFQVB4Q3JfMmVRNHo1ZHpyNmxHWVkwaC15OU55RnhCcUFVbTFtSG5UdnE0cFpKWk5QdF9PRE9OUnktcGl6a2RMbW5hSkFzVFo4b3NDZVJNLUdPTERoZnMtdkpTdDVGN3dyU1ExRjMxaEVDNm55MmRCRDBPN2xOeXFrRzM5WUh5ajhnNnRWMF9Eck82Q2RGSzlVN0FqbTkyREk?oc=5
 
 SIP Inflows Fall To Rs 32,160 Crore In October; Equity MF Inflows Drop 14% NDTV Profit
+
+### 61. Small-cap, mid-cap funds lose momentum as equity inflows fall 14% in October: AMFI - The Financial Express
+
+- Source: The Financial Express
+- Published: 2026-11-11T06:46:17+00:00
+- Themes: market selling
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxPUlJGZTZLUS1ibFB2NUhSNzBQYVVBaWpSWEh3bXE2UE9veF9xTWM5a3k2ZXJhXy1TTy01N2VlZXlmVTVua2xHb0M4MVdhVnlZLVhVVThITEluVExybFd2Nkk5Q1l5aXlVRFZRSy1nUHl1TG9uZzdrTVR3YTB4ZkFSdkFMWFctLWJ0VXFZcnVIM3RGSk45RTNmY0FrY0pLSmNPZThxUm10U2wyOW1XcFllNUNXZFlvWjh4V21MU1VESWJxeWRsRUZBdVBuRFnSAdMBQVVfeXFMUHFqbFJBT0h5U21HVW9uZ1BYV3hmUHZxRVkxejZJT2VXNEw0ZVNvSkJwSGFURnZYX1pOcmlpVDRkVUhfU1VBU3hhY1R4N2U2M242UHZtaFg3STdTUWZ0OElrZmt3MTFLZE9tN1JQbDAyanhWOE5ZTXNhblVvX1hvUmU2cGRNT3B1MVF3LXU5aHM1dkNPdVcwTU9nWmFYOUtEUTJEVUhyWFZWMUZKYVRtbXBRVDhwZG9tZHFQRk4tVVFIVHJZTVhzTndWTV94UUJjejVEOA?oc=5
+
+Small-cap, mid-cap funds lose momentum as equity inflows fall 14% in October: AMFI The Financial Express
 
 ### 62. AMFI Data October 2026: Rs 1.74 lakh crore flows in after September rout—Equity, debt or ETFs, where did investors put money? - Zee Business
 
@@ -666,7 +666,17 @@ SIP vs lump sum: Which strategy delivers higher mutual fund returns? Global 30-y
 
 Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD News
 
-### 67. Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up today? Explained - India Infoline
+### 67. Sensex surges 1,000 pts, Nifty above 25,300: Strong FII buying among key factors behind market rally - Moneycontrol.com
+
+- Source: Moneycontrol.com
+- Published: 2026-11-11T07:20:39+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYUVPbUtNSXFXcTNtOWNZcmNtWkY4MGRSZFN6ZHFsN0pwbUllaEZmT3lQbVY0SnlsSnlvMUY0cXhldDN1X0M3U1JXZ3FKNjBqbzRqT1Ewc2Q3TzJ2N1hEWHBfS3o0cEcwYXh5VTgxeTlrZlN0WkJEVFVNXzNrSXpZTllCd19ZQ0ZNRUR1OGF1c2E0SmdpQXh6QWRpZFlDZ3ZOQXczSDdYbGFTaldFSnpEal9PaUJwVmpYdnVWMkU1c3NHYnV0MUliMWZQWHFHSGJjVkdmV3p2NjdOZGdpNjJnWUgyMXduLTdwYmFHNnlzSjEybjJOenBHeEJTdGJqQdIBgwJBVV95cUxQZFVkLUJWamNpcFJyUUZxakd3N1Bqd25mczhPOTJuT3I3ZWZLYVFJNXowZVZXekhmSlM2bmh6UHA5clZBQ0pQY1NmbXAwR3JfZ0E3S3QxTnh4SE9LaS04c2JqWDVqcDVzNS1vd1QzTXhlTTBEa3IzM0VKeldUckdlY0pJZ1pmUjMxRUZlWEI0MTF4Z3NKRFIxU0JEZm9GYzNqUmxrT3p4azFHSFJ5RHFuYmZaU3NFQmM2TGhHVE1ZWjFsXzNVLVZjU2NaV3BoWnZ0NEphdzk4UldabWE2c0NMRHd1WEZpRTM3ZHdoTXBDSGVTdFJyWFJ2bUlQRWNMdG9ib1dR?oc=5
+
+Sensex surges 1,000 pts, Nifty above 25,300: Strong FII buying among key factors behind market rally Moneycontrol.com
+
+### 68. Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up today? Explained - India Infoline
 
 - Source: India Infoline
 - Published: 2026-11-11T06:52:41+00:00
@@ -676,7 +686,7 @@ Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict DD Ne
 
 Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up today? Explained India Infoline
 
-### 68. Bulls in action! Sensex zooms 1,300 pts intraday; oil, FII buying aid rally - Business Standard
+### 69. Bulls in action! Sensex zooms 1,300 pts intraday; oil, FII buying aid rally - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-11T04:27:40+00:00
@@ -685,16 +695,6 @@ Sensex gains 1200 points, Nifty above 25,300. Why is the stock market going up t
 - Link: https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQlBrN2ttTld4aEZ2bkpzeXRqTFVaR1FxZFNyeVdXN052TnV3MGZtZ0V5QWRUcXJlcGJJb2pRWlZmMy11UThQSTNKUVJxYi1CZm45SEdkOU1yZnp1dlhJOVdVODVrQkFYTlNWcVpJTFdMOEJBbkpuSDV5el9jZTJLYWtscVdEUzBqSW94WkVzemJ3RU04MmE4UWVXdHJ5czRxeVVSdnVZYk5VcG5BQjBVVTJHaDNiaGNDRVktZ3lZNWs2amRDbTJna2NZbzh6Tmk0dld4UmR30gHbAUFVX3lxTE5acWNsRUVJaXd1M3FhRnlXWkYxMXphTDlVbjBYUW5BcXE0X3FPNjVnSkQxeTEwS05WLV9zdGZrcEQ3cHlpMlFBNDV4WlRZaThaYllFbjBNbnB1LWJHQThnRTRPVnY5Sl9LTWJxTW1UU1VRdEhoUjMwaEdPbUw0eEtkREk5cGw5Rk94M2ZlZlhHSWxBd2ExQ2xLRkdFcWZuWllBR3lQUVgtZjNTdm5DQnc2OWpiYXRYYUw3ckpvYldsVVJvdGY4U2pfeU1hcko2b1hLUWJBbktzOUJOaw?oc=5
 
 Bulls in action! Sensex zooms 1,300 pts intraday; oil, FII buying aid rally Business Standard
-
-### 69. Sensex surges 1,350 pts, Nifty above 25,400: Strong FII buying among key factors behind market rally - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-11T04:03:09+00:00
-- Themes: India market
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi_gFBVV95cUxNYUVPbUtNSXFXcTNtOWNZcmNtWkY4MGRSZFN6ZHFsN0pwbUllaEZmT3lQbVY0SnlsSnlvMUY0cXhldDN1X0M3U1JXZ3FKNjBqbzRqT1Ewc2Q3TzJ2N1hEWHBfS3o0cEcwYXh5VTgxeTlrZlN0WkJEVFVNXzNrSXpZTllCd19ZQ0ZNRUR1OGF1c2E0SmdpQXh6QWRpZFlDZ3ZOQXczSDdYbGFTaldFSnpEal9PaUJwVmpYdnVWMkU1c3NHYnV0MUliMWZQWHFHSGJjVkdmV3p2NjdOZGdpNjJnWUgyMXduLTdwYmFHNnlzSjEybjJOenBHeEJTdGJqQdIBgwJBVV95cUxQZFVkLUJWamNpcFJyUUZxakd3N1Bqd25mczhPOTJuT3I3ZWZLYVFJNXowZVZXekhmSlM2bmh6UHA5clZBQ0pQY1NmbXAwR3JfZ0E3S3QxTnh4SE9LaS04c2JqWDVqcDVzNS1vd1QzTXhlTTBEa3IzM0VKeldUckdlY0pJZ1pmUjMxRUZlWEI0MTF4Z3NKRFIxU0JEZm9GYzNqUmxrT3p4azFHSFJ5RHFuYmZaU3NFQmM2TGhHVE1ZWjFsXzNVLVZjU2NaV3BoWnZ0NEphdzk4UldabWE2c0NMRHd1WEZpRTM3ZHdoTXBDSGVTdFJyWFJ2bUlQRWNMdG9ib1dR?oc=5
-
-Sensex surges 1,350 pts, Nifty above 25,400: Strong FII buying among key factors behind market rally Moneycontrol.com
 
 ### 70. Nifty opens 1.17% higher, Sensex rallies 1143 points amid FII buying and strong Q2 results - The Tribune
 
