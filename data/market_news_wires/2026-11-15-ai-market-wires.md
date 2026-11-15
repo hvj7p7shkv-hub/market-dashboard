@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-15 05:38
+Generated: 2026-11-15 06:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,7 +16,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Nifty IT Falls 2% in November as AI Relief Fails to Lift Legacy JournalArta
 
-### 2. Global Stocks Fall as Nvidia Leadership Crisis Deepens AI Market Uncertainty and Fed Rate Fears - Tekedia
+### 2. Worried about mutual fund losses? Expert shares 5 ways to reduce portfolio risk and navigate equity market volatility - Livemint
+
+- Source: Livemint
+- Published: 2026-11-15T01:45:37+00:00
+- Themes: market selling, India market
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxNQVl0TEUtWmlXb25WeXpwQmdaU1BmMzgyd1doMjlmVC1yS0hUV2dOcm9UYmpkS2NpcHJzWDRDOHpRb2N0dGJZUkRWLTIxcld1U0M3Sl9VbjM5TlRleWhNNDdpS0stM3FrOE91RUNYTnZYREpiRmtCUnZ6WHFITjVfV0p3M1loWUstWUdlVVg2XzUyN3pnU0FVZFdnRzVTb2pWbWpyYTVha3dMQ2FxTzN3SUxjUXhuQ2lTbUwtWWpEVlAyUVBqM2Y3bl9CUi1CUDROLUVRR3EwTlJnUFNaSi1RTkh0QTl2VXQyU0RHM21JU2IwMGc4WG5kbzBXYTlvZXlWampyMUdkSmc0YVFxN08zWWZ30gGXAkFVX3lxTFB5TmpMcnNhTkJBbHhHak1tOHRCSDZfRng3VzdjNEY3TThjZFUzLUtDeE1WQm95aS04MmxjTlFVS1RZSm9aZk9hdmxBYWU0MGhEd2t2TjdyM1hOalhITGZLblJLWDFuN2U4XzhiSmlsZ0QzLVhnSW5tVmxrU3pjWkZQOEJvMXg4NE55bS05blJLaW9aUkdXRm56d2k1Wk5PUFJYLUtYTEtueFdYa3hNNXdtZnU1U2ZMUzVQeG1oN2tTRjVoSDNBVUw2Y2RDQnItdkFZSHFicldtUTBXU1JSQTVQR2RnQlR6ZXE4VzlBMHBMdFNtRW5xMTN2ZVNvM3I0YVVwOGxsMWtxVl9FeG9obHc4bS1kNXlKRQ?oc=5
+
+Worried about mutual fund losses? Expert shares 5 ways to reduce portfolio risk and navigate equity market volatility Livemint
+
+### 3. Global Stocks Fall as Nvidia Leadership Crisis Deepens AI Market Uncertainty and Fed Rate Fears - Tekedia
 
 - Source: Tekedia
 - Published: 2026-11-14T14:46:54+00:00
@@ -26,7 +36,7 @@ Nifty IT Falls 2% in November as AI Relief Fails to Lift Legacy JournalArta
 
 Global Stocks Fall as Nvidia Leadership Crisis Deepens AI Market Uncertainty and Fed Rate Fears Tekedia
 
-### 3. Sensex falls 180 points, Nifty drops 0.7% as CPI rises - Awaz The Voice
+### 4. Sensex falls 180 points, Nifty drops 0.7% as CPI rises - Awaz The Voice
 
 - Source: Awaz The Voice
 - Published: 2026-11-14T20:48:18+00:00
@@ -36,17 +46,17 @@ Global Stocks Fall as Nvidia Leadership Crisis Deepens AI Market Uncertainty and
 
 Sensex falls 180 points, Nifty drops 0.7% as CPI rises Awaz The Voice
 
-### 4. Is the US Stock Selloff Over? Wall Street Debates AI Bubble as S&P 500, Chip Stocks Diverge for 2027 - TradingKey
+### 5. Is the US Stock Selloff Over? Wall Street Debates AI Bubble as S&P 500, Chip Stocks Diverge for 2027 - TradingKey
 
 - Source: TradingKey
-- Published: 2026-11-14T13:09:53+00:00
+- Published: 2026-11-14T07:39:36+00:00
 - Themes: AI / tech risk, market selling
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMi3AFBVV95cUxPVGdqcnZNZERIazEwcm10Uk93ajhCX3Z6Q20tODVLMXdzSDRvRGh1Zk5OaWFHZ2c0bWx4RjVjYk4xN01wNDBiUHlpUTFqUlJNbkhrRThuMUdGd2RjX3FzcWZmT1ZkbVJlTUxoVXFjQXU3TWpPQUdKcnkxUlFxNkRIeU5Wd19SdWFWTGpXY0RUbWd0S0dWX25WMEhBMTRtZDgtbzVPTmoxZjFWbVI5cVBwcURXWGYzWVUyR2JlN1FMalQyZkVuZ2M5V3RjN0FkSTBCd0duZmdnNlpOOTFH?oc=5
 
 Is the US Stock Selloff Over? Wall Street Debates AI Bubble as S&P 500, Chip Stocks Diverge for 2027 TradingKey
 
-### 5. Big Tech AI Capex Up 66% in Three Years, but Free Cash Flow Plunges 84% — Hyundai Research Institute Warns of 2028 Correction - BigGo Finance
+### 6. Big Tech AI Capex Up 66% in Three Years, but Free Cash Flow Plunges 84% — Hyundai Research Institute Warns of 2028 Correction - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-15T02:55:00+00:00
@@ -56,7 +66,7 @@ Is the US Stock Selloff Over? Wall Street Debates AI Bubble as S&P 500, Chip Sto
 
 Big Tech AI Capex Up 66% in Three Years, but Free Cash Flow Plunges 84% — Hyundai Research Institute Warns of 2028 Correction BigGo Finance
 
-### 6. BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure - Crypto Briefing
+### 7. BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-11-15T02:12:32+00:00
@@ -66,7 +76,7 @@ Big Tech AI Capex Up 66% in Three Years, but Free Cash Flow Plunges 84% — Hyun
 
 BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure Crypto Briefing
 
-### 7. South Korea’s Kospi Rebounds 230.84 Points For Week Despite Late Tech Selloff - BusinessToday Malaysia
+### 8. South Korea’s Kospi Rebounds 230.84 Points For Week Despite Late Tech Selloff - BusinessToday Malaysia
 
 - Source: BusinessToday Malaysia
 - Published: 2026-11-15T01:44:29+00:00
@@ -76,7 +86,7 @@ BitMine chairman Tom Lee links AI selloff and Anthropic IPO to crypto pressure C
 
 South Korea’s Kospi Rebounds 230.84 Points For Week Despite Late Tech Selloff BusinessToday Malaysia
 
-### 8. Grok AI Sees 35% Chance XRP Falls to $0.80 by Year-End - JournalArta
+### 9. Grok AI Sees 35% Chance XRP Falls to $0.80 by Year-End - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-15T01:09:19+00:00
@@ -86,7 +96,7 @@ South Korea’s Kospi Rebounds 230.84 Points For Week Despite Late Tech Selloff 
 
 Grok AI Sees 35% Chance XRP Falls to $0.80 by Year-End JournalArta
 
-### 9. Smart Investor What’s Next: Nvidia Falls 12% After Huang Exits - JournalArta
+### 10. Smart Investor What’s Next: Nvidia Falls 12% After Huang Exits - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-14T14:26:32+00:00
@@ -96,7 +106,7 @@ Grok AI Sees 35% Chance XRP Falls to $0.80 by Year-End JournalArta
 
 Smart Investor What’s Next: Nvidia Falls 12% After Huang Exits JournalArta
 
-### 10. Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K - TradingView
+### 11. Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K - TradingView
 
 - Source: TradingView
 - Published: 2026-11-14T10:23:02+00:00
@@ -106,7 +116,7 @@ Smart Investor What’s Next: Nvidia Falls 12% After Huang Exits JournalArta
 
 Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K TradingView
 
-### 11. Wall Street Stocks Fall as Nvidia Turmoil Weighs on Tech - Demokratis.co.id
+### 12. Wall Street Stocks Fall as Nvidia Turmoil Weighs on Tech - Demokratis.co.id
 
 - Source: Demokratis.co.id
 - Published: 2026-11-14T09:26:51+00:00
@@ -116,7 +126,7 @@ Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,
 
 Wall Street Stocks Fall as Nvidia Turmoil Weighs on Tech Demokratis.co.id
 
-### 12. Investing in IT stocks through mutual funds? Should you continue your SIP amid AI disruption and earnings concerns? - Livemint
+### 13. Investing in IT stocks through mutual funds? Should you continue your SIP amid AI disruption and earnings concerns? - Livemint
 
 - Source: Livemint
 - Published: 2026-11-14T15:42:13+00:00
@@ -126,7 +136,7 @@ Wall Street Stocks Fall as Nvidia Turmoil Weighs on Tech Demokratis.co.id
 
 Investing in IT stocks through mutual funds? Should you continue your SIP amid AI disruption and earnings concerns? Livemint
 
-### 13. How Nvidia stock crash will impact Indian investors’ US mutual fund and ETF holdings - Livemint
+### 14. How Nvidia stock crash will impact Indian investors’ US mutual fund and ETF holdings - Livemint
 
 - Source: Livemint
 - Published: 2026-11-14T14:03:01+00:00
@@ -136,7 +146,7 @@ Investing in IT stocks through mutual funds? Should you continue your SIP amid A
 
 How Nvidia stock crash will impact Indian investors’ US mutual fund and ETF holdings Livemint
 
-### 14. SIP Strategy: Should You Continue, Increase Investments Or Rebalance Your Mutual Fund Portfolio? - Business Today
+### 15. SIP Strategy: Should You Continue, Increase Investments Or Rebalance Your Mutual Fund Portfolio? - Business Today
 
 - Source: Business Today
 - Published: 2026-11-14T09:30:09+00:00
@@ -146,7 +156,7 @@ How Nvidia stock crash will impact Indian investors’ US mutual fund and ETF ho
 
 SIP Strategy: Should You Continue, Increase Investments Or Rebalance Your Mutual Fund Portfolio? Business Today
 
-### 15. ₹10,000 monthly SIP in a mutual fund vs Post Office RD: Which builds a bigger corpus in 5 years? Check calculations - Livemint
+### 16. ₹10,000 monthly SIP in a mutual fund vs Post Office RD: Which builds a bigger corpus in 5 years? Check calculations - Livemint
 
 - Source: Livemint
 - Published: 2026-11-14T09:16:43+00:00
@@ -156,7 +166,7 @@ SIP Strategy: Should You Continue, Increase Investments Or Rebalance Your Mutual
 
 ₹10,000 monthly SIP in a mutual fund vs Post Office RD: Which builds a bigger corpus in 5 years? Check calculations Livemint
 
-### 16. Nvidia Stock Crash, $573 Bn Wiped Out: 13 Indian Mutual Funds With Exposure To The US Chipmaker - ETV Bharat
+### 17. Nvidia Stock Crash, $573 Bn Wiped Out: 13 Indian Mutual Funds With Exposure To The US Chipmaker - ETV Bharat
 
 - Source: ETV Bharat
 - Published: 2026-11-14T09:00:52+00:00
@@ -166,7 +176,7 @@ SIP Strategy: Should You Continue, Increase Investments Or Rebalance Your Mutual
 
 Nvidia Stock Crash, $573 Bn Wiped Out: 13 Indian Mutual Funds With Exposure To The US Chipmaker ETV Bharat
 
-### 17. Threshold limit - AMFI Rejig : Vedanta and HDFC AMC among 7 largecaps stocks that may get midcap status - The Economic Times
+### 18. Threshold limit - AMFI Rejig : Vedanta and HDFC AMC among 7 largecaps stocks that may get midcap status - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-14T07:18:47+00:00
@@ -176,17 +186,17 @@ Nvidia Stock Crash, $573 Bn Wiped Out: 13 Indian Mutual Funds With Exposure To T
 
 Threshold limit - AMFI Rejig : Vedanta and HDFC AMC among 7 largecaps stocks that may get midcap status The Economic Times
 
-### 18. HDFC Mutual Fund announces launch of Hybrid Long-Short Fund through its SIF platform H-SIF - The Economic Times
+### 19. Nippon India Small Cap Fund - Parag Parikh Flexi Cap Fund leads as 9 equity mutual funds cross Rs 70,000 crore AUM; top 4 manage over Rs 1 lakh crore each - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-11-14T05:42:05+00:00
+- Published: 2026-11-14T06:15:51+00:00
 - Themes: India market
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMi6wFBVV95cUxPYVJ6WmMzUkRjLXpfM1BuaS1rRDYtQm9qTW9STmliMWRuU3Q4SzB5bFZOMUFNbDRfTDFkMHRxQUZRMVNfcHFBcjRuOUxpZmlhanFkWk9ESUk3eVAzS2w1WGd0RzlzUnZod1hHMHJqRlRac2lDejFUbjV4NFlUOHZCODhubGsxUFRQWVA0TkFXTUlCR1NuVVVxcWx6OEVUeTQ2Z3dXYUE2ekxUdkN0X3piTXVqRFFhWTFDTjdycTN3bzlWTExhMXp6SWZONjBkQTN1VE9hdkp6TjRmcFN2bkNuNFc5OXp1ZlJjRTdF0gHwAUFVX3lxTFBxY2thLXA4a2lJT2VUakxWODlCak5feVFVM2lOMTU5U012WGFXNVRETUIxSTFCYnB4LUVKaG4zWGUycnFHRFM1ZVJhclIwck5SbTVIQnZudHRQY2E4SFV2THVLUTJ1MmNpcnJYN2RNdGlQc1dzdkZDMkdjUFZUQjBtTEZ2VlRrRzcycFhEUkxtWjhwdkt5VzJKQWZhdEVuNFBEVmY0NGxFN0pBaXpEM2plbDJEaUIxTUl0a3N2MVBDTi1aaHVYUXFtYW91ekk5NnlFQjlwcUI5VDVXZWdoSjVGRDZoYWR2U253QUs5b3ZLUw?oc=5
+- Link: https://news.google.com/rss/articles/CBMiugJBVV95cUxPbUZYWEl5TWx0MGFDYWVGbG9XSUkweHRJcVFjWDdtWjdLR2QxTUFDYkFtdW9NazNsTnNRX1hiTW5zZDg4dHFGRjBYWjExSDNwTFNGblpMMUJKcGYxRUtJMFZuclpJUWJmX09wbUM4YnZheEJpbV9CczU4X2RpcGdCYV9oalFZSHpsVGNFQ283clRzRkpUR3pnbXdXT25ucjgtUjN1V1FDenZIQXU1NFZfSHNpcVBWMHFWYXlNT1NfeW9sNXNfckhrV292NW94c1FxQkJNSXdtbWNKZ2ZUT2lobmxoU01KTVUyc3lqc0p2ZnhNeTZuTFdadzJoeXIxSDdKREVFVFJPNTZnTy10aXZDN0lkTm1mYjZfRHY5UTV2RnJzazVRWU45dXQ1Q2NyeUZZUlc5X0prVWdLQQ?oc=5
 
-HDFC Mutual Fund announces launch of Hybrid Long-Short Fund through its SIF platform H-SIF The Economic Times
+Nippon India Small Cap Fund - Parag Parikh Flexi Cap Fund leads as 9 equity mutual funds cross Rs 70,000 crore AUM; top 4 manage over Rs 1 lakh crore each The Economic Times
 
-### 19. Quote on FPI flows 15.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
+### 20. Quote on FPI flows 15.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-15T05:21:15+00:00
@@ -196,7 +206,7 @@ HDFC Mutual Fund announces launch of Hybrid Long-Short Fund through its SIF plat
 
 Quote on FPI flows 15.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India
 
-### 20. Why are more investors stopping their SIPs, holding off on new ones? - The Indian Express
+### 21. Why are more investors stopping their SIPs, holding off on new ones? - The Indian Express
 
 - Source: The Indian Express
 - Published: 2026-11-15T02:52:44+00:00
@@ -206,7 +216,7 @@ Quote on FPI flows 15.11.2026 from Dr. V K Vijayakumar, Chief Investment Strateg
 
 Why are more investors stopping their SIPs, holding off on new ones? The Indian Express
 
-### 21. Nvidia Earnings To Anthropic IPO: Nasdaq Faces Two-Headed AI Stress Test After Best Week Since August - NDTV Profit
+### 22. Nvidia Earnings To Anthropic IPO: Nasdaq Faces Two-Headed AI Stress Test After Best Week Since August - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-15T02:29:04+00:00
@@ -216,7 +226,7 @@ Why are more investors stopping their SIPs, holding off on new ones? The Indian 
 
 Nvidia Earnings To Anthropic IPO: Nasdaq Faces Two-Headed AI Stress Test After Best Week Since August NDTV Profit
 
-### 22. Sip & Shop Artisan Market brings holiday shopping to Monte Creek Winery - iNFOnews.ca
+### 23. Sip & Shop Artisan Market brings holiday shopping to Monte Creek Winery - iNFOnews.ca
 
 - Source: iNFOnews.ca
 - Published: 2026-11-14T16:00:00+00:00
@@ -226,7 +236,7 @@ Nvidia Earnings To Anthropic IPO: Nasdaq Faces Two-Headed AI Stress Test After B
 
 Sip & Shop Artisan Market brings holiday shopping to Monte Creek Winery iNFOnews.ca
 
-### 23. Best Mutual Funds to Invest in 2026: 35 Funds Compared (Live Returns) - Myinvestmentideas
+### 24. Best Mutual Funds to Invest in 2026: 35 Funds Compared (Live Returns) - Myinvestmentideas
 
 - Source: Myinvestmentideas
 - Published: 2026-11-14T14:11:11+00:00
@@ -235,16 +245,6 @@ Sip & Shop Artisan Market brings holiday shopping to Monte Creek Winery iNFOnews
 - Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RnRaTlJBSWxFVDdNZXJPcVB1VGF4M0h3ajhDYWZlZjFncWdMazFVX2hLRUp4amtsWThkSHdNVXpQYUp2NXZHU2JDU0szQTBlY2gtVTFyQ1dJS3h1MkpxcW5DcVY?oc=5
 
 Best Mutual Funds to Invest in 2026: 35 Funds Compared (Live Returns) Myinvestmentideas
-
-### 24. Sensex, Nifty tumble as rising crude revives inflation concerns - Awaz The Voice
-
-- Source: Awaz The Voice
-- Published: 2026-11-14T12:40:25+00:00
-- Themes: India market, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxQM19mbi1BU1JGMjN3dVFFdzF1RmlaZE44c1k5bmFLMjhEWG1NVXJ2cVhiLVNFSGU2NXlFRTJodFVJc08weU1nNDdMZVZFeUM3eHZfUUpmTE00UTRvQ1F0cTR0R3pYNVd1RVowcG9PYUl4OHByay1vR1RGOFlUXzZFR1VCMVZISDVZcHNGOXVuZDZ5MWVscW1wR21HZW1MVnBVQ3VDWnRJY2FzdDd6U2NfdkxXenVUQQ?oc=5
-
-Sensex, Nifty tumble as rising crude revives inflation concerns Awaz The Voice
 
 ### 25. 7 High Alpha Mutual Funds That Beat Category Avg by 8%+ a Year in 2026 - Myinvestmentideas
 
@@ -286,17 +286,7 @@ Large vs mid vs small-cap mutual funds: Which is best for long-term SIP? 10-year
 
 Debt mutual funds see Rs 1.13 lakh crore inflows in October after two months of outflows. What drove the turnaround? The Economic Times
 
-### 29. Parag Parikh Flexi Cap Fund leads as 9 equity mutual funds cross Rs 70,000 crore AUM; top 4 manage over Rs 1 lakh crore each - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-14T05:50:00+00:00
-- Themes: 
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMioAJBVV95cUxQdVNheVJVd2QwXzFFT3Q1SjNNb1QtaVFLLUplbG4xS05qRWJyM3JDbE9ialNwT0VscEZwY0dGa3RDY0tELUxtSjdKN1lPR05LXzVubVk0dmhEVW1ydG8yQ2tTU0hXVE0xVHhTTnhrdkxXcWU2a1hNQWgtal8tb1lSX2ZYZl9jYkp6QV92TkUzMVFIRUR5bG5UZXcwSEwyVURFZkdscFloYU1Ua0otMmx4Ti14R3NtUmRUbURGY0szRzc2aEZhY0xEVkM1WGp0dGdNNEs3OWRhc00zZjRTR2NfcUJsM1F1eE0wLVcyOG12WEFadzJVMTRyN3FsQVpqeFBCWG5IcXBTdnR2SzFTaGJCRThJdWFVSXZ4akxyNnBBVmk?oc=5
-
-Parag Parikh Flexi Cap Fund leads as 9 equity mutual funds cross Rs 70,000 crore AUM; top 4 manage over Rs 1 lakh crore each The Economic Times
-
-### 30. FPIs turn aggressive buyers in India amid domestic market resilience, global AI shocks - The Hans India
+### 29. FPIs turn aggressive buyers in India amid domestic market resilience, global AI shocks - The Hans India
 
 - Source: The Hans India
 - Published: 2026-11-15T04:14:56+00:00
@@ -306,17 +296,7 @@ Parag Parikh Flexi Cap Fund leads as 9 equity mutual funds cross Rs 70,000 crore
 
 FPIs turn aggressive buyers in India amid domestic market resilience, global AI shocks The Hans India
 
-### 31. Smallcaps jump 3.6%, PSU banks surge 7.5% as Sensex, Nifty extend weekly gains; what lies ahead? - TradingView
-
-- Source: TradingView
-- Published: 2026-11-15T04:14:00+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeWdwb3k5NVFXM3B3b2FxM2xMUFJEX2FobS1qd1ItcDBOQTJqR09rUHNOU2w2eGU3U3pnbVFrUmRxUjdRWmhybzNpaWtYZDlBV0V5UllvMnFyNTctWnJtOHA3cVZCbmJnNW90di0xUFVPZGtzVVNKUDlGdjFPbERWbGU1RmxiUkx0TTNuN2czcnVibTZmV21RV3M3clpvSlJFQXIza0tqcG9fU19Sa1JGWEJDYzVYQWt5aG5RS2hDTUNnbEg5a3JoV1VueTNVVnd1cERTZDNFYmZZUGEzOWtuYTNJdkFpMXdL?oc=5
-
-Smallcaps jump 3.6%, PSU banks surge 7.5% as Sensex, Nifty extend weekly gains; what lies ahead? TradingView
-
-### 32. FPIs turn aggressive buyers in India amid domestic market resilience, global AI shocks - The Hawk
+### 30. FPIs turn aggressive buyers in India amid domestic market resilience, global AI shocks - The Hawk
 
 - Source: The Hawk
 - Published: 2026-11-15T04:10:13+00:00
@@ -326,7 +306,7 @@ Smallcaps jump 3.6%, PSU banks surge 7.5% as Sensex, Nifty extend weekly gains; 
 
 FPIs turn aggressive buyers in India amid domestic market resilience, global AI shocks The Hawk
 
-### 33. Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week - The Economic Times
+### 31. Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-15T03:52:52+00:00
@@ -336,7 +316,7 @@ FPIs turn aggressive buyers in India amid domestic market resilience, global AI 
 
 Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week The Economic Times
 
-### 34. AI retreat fuels India's stock market comeback in great rotation trade - Business Standard
+### 32. AI retreat fuels India's stock market comeback in great rotation trade - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-15T02:40:16+00:00
@@ -346,7 +326,7 @@ Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch ou
 
 AI retreat fuels India's stock market comeback in great rotation trade Business Standard
 
-### 35. Markets Next Week: Key triggers that could move Dalal Street — Return of FIIs, Nvidia earnings, inflation and US trade deal - Business Today
+### 33. Markets Next Week: Key triggers that could move Dalal Street — Return of FIIs, Nvidia earnings, inflation and US trade deal - Business Today
 
 - Source: Business Today
 - Published: 2026-11-15T00:30:09+00:00
@@ -356,7 +336,7 @@ AI retreat fuels India's stock market comeback in great rotation trade Business 
 
 Markets Next Week: Key triggers that could move Dalal Street — Return of FIIs, Nvidia earnings, inflation and US trade deal Business Today
 
-### 36. When Nvidia Sneezed, Who In India Caught Cold? - Republic World
+### 34. When Nvidia Sneezed, Who In India Caught Cold? - Republic World
 
 - Source: Republic World
 - Published: 2026-11-14T18:35:10+00:00
@@ -366,17 +346,7 @@ Markets Next Week: Key triggers that could move Dalal Street — Return of FIIs,
 
 When Nvidia Sneezed, Who In India Caught Cold? Republic World
 
-### 37. Stable Declines 3.9% Amid Broad Crypto Market Selloff - CoinMarketCap
-
-- Source: CoinMarketCap
-- Published: 2026-11-14T17:05:00+00:00
-- Themes: market selling
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMicEFVX3lxTE5yd3FTc1hZZ1FvNF9lWGlLeFRCLXdXTHhuVVZ0WmVKUkozU1NXVFJPRFE5ZWlEQ09CbFdza0RUaGNKSGhlQXFvWmtSdlNaMXlmenYxTTgwc1BDaEhPTGtwb2tjTlVmQU1VWUtvV0M5ME4?oc=5
-
-Stable Declines 3.9% Amid Broad Crypto Market Selloff CoinMarketCap
-
-### 38. Two Brokers Cut Infineon Targets as Chip Stocks Buckle Before Nvidia Test - ad-hoc-news.de
+### 35. Two Brokers Cut Infineon Targets as Chip Stocks Buckle Before Nvidia Test - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-14T13:21:30+00:00
@@ -386,7 +356,7 @@ Stable Declines 3.9% Amid Broad Crypto Market Selloff CoinMarketCap
 
 Two Brokers Cut Infineon Targets as Chip Stocks Buckle Before Nvidia Test ad-hoc-news.de
 
-### 39. Patanjali Foods Q2: Profit Falls 19%, FMCG Segment Result Drops 39% - NiftyTrader
+### 36. Patanjali Foods Q2: Profit Falls 19%, FMCG Segment Result Drops 39% - NiftyTrader
 
 - Source: NiftyTrader
 - Published: 2026-11-14T13:12:36+00:00
@@ -396,17 +366,7 @@ Two Brokers Cut Infineon Targets as Chip Stocks Buckle Before Nvidia Test ad-hoc
 
 Patanjali Foods Q2: Profit Falls 19%, FMCG Segment Result Drops 39% NiftyTrader
 
-### 40. India may benefit as investors rethink AI bets amid falling returns: Report - Big News Network.com
-
-- Source: Big News Network.com
-- Published: 2026-11-14T10:29:00+00:00
-- Themes: AI / tech risk, India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPcEctZU13aFl0ZFN2WmlRZVJRTTJQUUxDUWx3RlNlcGdiUXNJMjBaYm9ZZ1ZhZzdvaGVtRjlwYWN4NkplX2N1eUxicnFEUktHTTY0bXVrLWxCaWRrbUd4VkxhR2plUWRSSHRHeU45VVNjUG5jLTRGcGU4ekRKMVFfeVNhU0RIWXRMMjFONkNhc3RUd3pTdFhXcmdJQXJiQWdaNmpEci12QjA4eTVYazBMVDBLWlhob09pQmtwVA?oc=5
-
-India may benefit as investors rethink AI bets amid falling returns: Report Big News Network.com
-
-### 41. Markets extend winning streak to third week on FII buying; rupee weakens 33 paise - Moneycontrol.com
+### 37. Markets extend winning streak to third week on FII buying; rupee weakens 33 paise - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-14T08:28:20+00:00
@@ -416,7 +376,7 @@ India may benefit as investors rethink AI bets amid falling returns: Report Big 
 
 Markets extend winning streak to third week on FII buying; rupee weakens 33 paise Moneycontrol.com
 
-### 42. Strong FII buying extends for third week as Nifty gains 0.6 pc - IANS LIVE
+### 38. Strong FII buying extends for third week as Nifty gains 0.6 pc - IANS LIVE
 
 - Source: IANS LIVE
 - Published: 2026-11-14T06:41:00+00:00
@@ -426,7 +386,7 @@ Markets extend winning streak to third week on FII buying; rupee weakens 33 pais
 
 Strong FII buying extends for third week as Nifty gains 0.6 pc IANS LIVE
 
-### 43. Sensex, Nifty surge 7% in Nov as FIIs pour Rs 79,300 crore into D-Street: 10 factors driving investors' comeback - Zee Business
+### 39. Sensex, Nifty surge 7% in Nov as FIIs pour Rs 79,300 crore into D-Street: 10 factors driving investors' comeback - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-14T06:21:21+00:00
@@ -436,7 +396,7 @@ Strong FII buying extends for third week as Nifty gains 0.6 pc IANS LIVE
 
 Sensex, Nifty surge 7% in Nov as FIIs pour Rs 79,300 crore into D-Street: 10 factors driving investors' comeback Zee Business
 
-### 44. Chartist Talk Nifty 50: 25,424 Is the Level to Beat Next Week - JournalArta
+### 40. Chartist Talk Nifty 50: 25,424 Is the Level to Beat Next Week - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-15T04:17:47+00:00
@@ -446,7 +406,7 @@ Sensex, Nifty surge 7% in Nov as FIIs pour Rs 79,300 crore into D-Street: 10 fac
 
 Chartist Talk Nifty 50: 25,424 Is the Level to Beat Next Week JournalArta
 
-### 45. Bitcoin Falls Below $64,000, Heads for Sixth Straight Weekly Loss - JournalArta
+### 41. Bitcoin Falls Below $64,000, Heads for Sixth Straight Weekly Loss - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-15T04:17:47+00:00
@@ -456,7 +416,7 @@ Chartist Talk Nifty 50: 25,424 Is the Level to Beat Next Week JournalArta
 
 Bitcoin Falls Below $64,000, Heads for Sixth Straight Weekly Loss JournalArta
 
-### 46. Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight - Stocktwits
+### 42. Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight - Stocktwits
 
 - Source: Stocktwits
 - Published: 2026-11-15T02:56:00+00:00
@@ -466,7 +426,7 @@ Bitcoin Falls Below $64,000, Heads for Sixth Straight Weekly Loss JournalArta
 
 Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight Stocktwits
 
-### 47. Nifty & Bank Nifty இந்த வாரம் (16 Nov’26 to 20 Nov’26) என்ன ஆகும்? எங்கு செல்லும்? - BusinessLine
+### 43. Nifty & Bank Nifty இந்த வாரம் (16 Nov’26 to 20 Nov’26) என்ன ஆகும்? எங்கு செல்லும்? - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-15T01:00:00+00:00
@@ -476,7 +436,7 @@ Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales B
 
 Nifty & Bank Nifty இந்த வாரம் (16 Nov’26 to 20 Nov’26) என்ன ஆகும்? எங்கு செல்லும்? BusinessLine
 
-### 48. XRP Falls to $0.96, Down 17.5% in a Week, as Traders Eye August Rebound - JournalArta
+### 44. XRP Falls to $0.96, Down 17.5% in a Week, as Traders Eye August Rebound - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-15T00:11:22+00:00
@@ -486,7 +446,7 @@ Nifty & Bank Nifty இந்த வாரம் (16 Nov’26 to 20 Nov’26) எ
 
 XRP Falls to $0.96, Down 17.5% in a Week, as Traders Eye August Rebound JournalArta
 
-### 49. Bitcoin Today: Falls 6.26% to $63,965 as Ether, Solana Drop - JournalArta
+### 45. Bitcoin Today: Falls 6.26% to $63,965 as Ether, Solana Drop - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-14T22:39:03+00:00
@@ -496,7 +456,7 @@ XRP Falls to $0.96, Down 17.5% in a Week, as Traders Eye August Rebound JournalA
 
 Bitcoin Today: Falls 6.26% to $63,965 as Ether, Solana Drop JournalArta
 
-### 50. India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs India's right to defend... - Moneycontrol.com
+### 46. India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs India's right to defend... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-14T16:52:31+00:00
@@ -506,7 +466,7 @@ Bitcoin Today: Falls 6.26% to $63,965 as Ether, Solana Drop JournalArta
 
 India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs India's right to defend... Moneycontrol.com
 
-### 51. Lenovo Builds Out AI Server Stack While Investors Weigh the Cost of the Story - ad-hoc-news.de
+### 47. Lenovo Builds Out AI Server Stack While Investors Weigh the Cost of the Story - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-14T16:30:55+00:00
@@ -516,7 +476,7 @@ India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs 
 
 Lenovo Builds Out AI Server Stack While Investors Weigh the Cost of the Story ad-hoc-news.de
 
-### 52. It’s Time For India To Outperform - BusinessLine
+### 48. It’s Time For India To Outperform - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-14T16:28:16+00:00
@@ -526,7 +486,7 @@ Lenovo Builds Out AI Server Stack While Investors Weigh the Cost of the Story ad
 
 It’s Time For India To Outperform BusinessLine
 
-### 53. Can This Pharma Company Capture a Larger Share of Multi-Billion-Dollar Respiratory Market Through Partnerships? - Trade Brains
+### 49. Can This Pharma Company Capture a Larger Share of Multi-Billion-Dollar Respiratory Market Through Partnerships? - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-11-14T14:30:37+00:00
@@ -536,7 +496,7 @@ It’s Time For India To Outperform BusinessLine
 
 Can This Pharma Company Capture a Larger Share of Multi-Billion-Dollar Respiratory Market Through Partnerships? Trade Brains
 
-### 54. Lenovo's AI Hardware Rollout Runs Into a Market That Has Stopped Paying for the Story - ad-hoc-news.de
+### 50. Lenovo's AI Hardware Rollout Runs Into a Market That Has Stopped Paying for the Story - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-14T14:01:49+00:00
@@ -546,7 +506,7 @@ Can This Pharma Company Capture a Larger Share of Multi-Billion-Dollar Respirato
 
 Lenovo's AI Hardware Rollout Runs Into a Market That Has Stopped Paying for the Story ad-hoc-news.de
 
-### 55. FPI Inflows Surge To ₹76,189 Crore In November As Foreign Investors Return After Two Months Of Selling - Free Press Journal
+### 51. FPI Inflows Surge To ₹76,189 Crore In November As Foreign Investors Return After Two Months Of Selling - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-14T12:23:52+00:00
@@ -556,7 +516,7 @@ Lenovo's AI Hardware Rollout Runs Into a Market That Has Stopped Paying for the 
 
 FPI Inflows Surge To ₹76,189 Crore In November As Foreign Investors Return After Two Months Of Selling Free Press Journal
 
-### 56. Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com
+### 52. Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com
 
 - Source: DW.com
 - Published: 2026-11-14T11:53:21+00:00
@@ -566,17 +526,7 @@ FPI Inflows Surge To ₹76,189 Crore In November As Foreign Investors Return Aft
 
 Is Claude-maker Anthropic going public just as the AI bubble bursts? DW.com
 
-### 57. Kaynes Technology India Ltd Technical Momentum Shifts Amid Bearish Sentiment - MarketsMojo
-
-- Source: MarketsMojo
-- Published: 2026-11-14T10:35:39+00:00
-- Themes: India market
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxQYmJUNU5GRElEV1dqLW9OSVNscGxuYXNpQlktSkg5eW1iWnZYLTdKeC1EOENrVGNfS1pfbmRyZXQ5OFA0ZXlBcXh3cDQ0WDV2dm92aHRtVzBTTF9nR2R6cS1DRDdsejFYVjhNNEhMdnljSzZ2RTZzMDZhcGMzZHpiY2ZVYWVpVmoyM2VZaVVTalp4V3Frb2FLQjlFZFltY2VpZ1Z5ZDNYMGRRRHc4ZzVDQmotTGNYaEpJRmVvSkpScldJMlU5ZmY1MERadlAycUU?oc=5
-
-Kaynes Technology India Ltd Technical Momentum Shifts Amid Bearish Sentiment MarketsMojo
-
-### 58. Chaithanya One Introduces Advanced SiLK Laser Vision Correction Technology in Kerala - Voice of Healthcare
+### 53. Chaithanya One Introduces Advanced SiLK Laser Vision Correction Technology in Kerala - Voice of Healthcare
 
 - Source: Voice of Healthcare
 - Published: 2026-11-14T09:42:41+00:00
@@ -586,7 +536,7 @@ Kaynes Technology India Ltd Technical Momentum Shifts Amid Bearish Sentiment Mar
 
 Chaithanya One Introduces Advanced SiLK Laser Vision Correction Technology in Kerala Voice of Healthcare
 
-### 59. Why the AI trade is hard to kill, but easy to frighten - Invezz
+### 54. Why the AI trade is hard to kill, but easy to frighten - Invezz
 
 - Source: Invezz
 - Published: 2026-11-14T09:32:03+00:00
@@ -596,7 +546,17 @@ Chaithanya One Introduces Advanced SiLK Laser Vision Correction Technology in Ke
 
 Why the AI trade is hard to kill, but easy to frighten Invezz
 
-### 60. India’s Trade Deficit Jumps 32% to $39.88 Billion as Record Exports Face an Import Surge - NiftyTrader
+### 55. Stocks fall but Wall Street notches a winning week after several turbulent days - Republican Herald
+
+- Source: Republican Herald
+- Published: 2026-11-14T08:17:51+00:00
+- Themes: market selling
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU5DSi1TWDRTZ0xXT2tpa3dzNkNvLWFtRnZCZjBoNGlzN29ndVhaeFl1Z1hrbTRyTUlBTVNIVUF2TjJnek1SOFktR203aXgwVjVHbGxEc2lnNlJkZ2RKWTRLVTJfQkVUVXlwbk5ZWktNaXRfQmtmcGw0OW9SMnVENUQzU2VsclJB?oc=5
+
+Stocks fall but Wall Street notches a winning week after several turbulent days Republican Herald
+
+### 56. India’s Trade Deficit Jumps 32% to $39.88 Billion as Record Exports Face an Import Surge - NiftyTrader
 
 - Source: NiftyTrader
 - Published: 2026-11-14T06:57:44+00:00
@@ -606,7 +566,7 @@ Why the AI trade is hard to kill, but easy to frighten Invezz
 
 India’s Trade Deficit Jumps 32% to $39.88 Billion as Record Exports Face an Import Surge NiftyTrader
 
-### 61. Top 14 Nifty Mid-Cap Stocks To Watch In November 2026 - Samco
+### 57. Top 14 Nifty Mid-Cap Stocks To Watch In November 2026 - Samco
 
 - Source: Samco
 - Published: 2026-11-14T06:51:23+00:00
@@ -616,7 +576,7 @@ India’s Trade Deficit Jumps 32% to $39.88 Billion as Record Exports Face an Im
 
 Top 14 Nifty Mid-Cap Stocks To Watch In November 2026 Samco
 
-### 62. 20 Best Stocks Under 50 Rs In India November 2026 For High Returns - Samco
+### 58. 20 Best Stocks Under 50 Rs In India November 2026 For High Returns - Samco
 
 - Source: Samco
 - Published: 2026-11-14T06:51:15+00:00
@@ -626,7 +586,17 @@ Top 14 Nifty Mid-Cap Stocks To Watch In November 2026 Samco
 
 20 Best Stocks Under 50 Rs In India November 2026 For High Returns Samco
 
-### 63. Nifty 50 Prediction for Monday: 16 Nov Levels, 25,200 Test - Univest
+### 59. 5 Best Small-Cap Stocks To Buy In India November 2026 | Top Picks & Guide - Samco
+
+- Source: Samco
+- Published: 2026-11-14T06:51:11+00:00
+- Themes: India market
+- Score: 1
+- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFRBTDFkTlBKeWlJUDlnSDdycmczUVhlZ3otYktuVkZSTGd0OEJKMkwzaDNzVER6SUdIRThLT28wWXdUaFNlWFRkOEsxcUZMYTZ0bjRwYS1XZ09oTEd0SFNOdWJTOURPUmIzbHkxLWtyQmZNN2wteGFHR2xkUWhhWWFMeEhwVHVQMnlTa1pKNC1wVXc?oc=5
+
+5 Best Small-Cap Stocks To Buy In India November 2026 | Top Picks & Guide Samco
+
+### 60. Nifty 50 Prediction for Monday: 16 Nov Levels, 25,200 Test - Univest
 
 - Source: Univest
 - Published: 2026-11-14T06:19:03+00:00
@@ -635,13 +605,3 @@ Top 14 Nifty Mid-Cap Stocks To Watch In November 2026 Samco
 - Link: https://news.google.com/rss/articles/CBMia0FVX3lxTE1la2VuNzJ1YWVOZk1CSFNKcTBiM1pqek9qMzYzR00yaHd6ZzhDYkFESW03Nnl2SGM3THB0WHZXaEZIUUg2eHRYdXM4OWFwRDJHNVBhdFVBR1RUMWhhWFV2WUlpLUJkVGVYeUtj?oc=5
 
 Nifty 50 Prediction for Monday: 16 Nov Levels, 25,200 Test Univest
-
-### 64. Stocks fall but Wall Street notches a winning week after several turbulent days - The Washington Post
-
-- Source: The Washington Post
-- Published: 2026-11-14T06:05:29+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0l6azQyZFF0dWM1TUJvTEMyak85ei05LTU3ZEZ3VC13ZVVocElSZEp2OU9fNXlGQmJwLXU5bEZHazhVcDBnUlZpdGdEeGhnOGRFMndYQ0RmdFBNSmF6VVRBcGx3VDJJdWY5ZlYwU05ONFE3aDI1UUMyajRaX1daTUtReWNpNXFjSlEwazRwNmZTcTlfTWxVRktRbVVaUXFMNlcxTExacGJ3cnJNUEttTTBxV1loamx1SENaZ3ZmSks?oc=5
-
-Stocks fall but Wall Street notches a winning week after several turbulent days The Washington Post
