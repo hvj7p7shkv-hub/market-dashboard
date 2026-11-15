@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 15:40 IST",
+  "generated_at": "2026-11-15 16:11 IST",
   "wire_file": "2026-11-15-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,11 +23,11 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "38",
-    "wire_total_count": "64",
+    "wire_count": "41",
+    "wire_total_count": "67",
     "wire_scope_date": "2026-11-15",
-    "ai_wire_count": "17",
-    "selling_wire_count": "14",
+    "ai_wire_count": "16",
+    "selling_wire_count": "16",
     "india_wire_count": "20",
     "weak_index_count": "5",
     "valid_index_count": "25"
@@ -36,12 +36,12 @@
     {
       "label": "Newest Wire · 2026-11-15 10:01",
       "title": "Stock Market This Week, WPI Inflation, ₹84,290 Crore FII Inflows & Crude Oil Among Key Triggers - Free Press Journal",
-      "text": "Latest dated headline · Free Press Journal. Today's unique wire set contains 37 headlines; the cards below are recalculated from this same set."
+      "text": "Latest dated headline · Free Press Journal. Today's unique wire set contains 40 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-15",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-15 has 19 India-market wires, 14 selling/risk wires, and 16 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-15 has 19 India-market wires, 16 selling/risk wires, and 15 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-15",
@@ -4427,8 +4427,8 @@
         "matched": true,
         "scheme_code": 152842.0,
         "scheme_name": "Nippon India Nifty 500 Equal Weight Index Fund - Direct Plan - Growth Option",
-        "nav": 10.0545,
-        "nav_date": "2026-08-10",
+        "nav": 10.0482,
+        "nav_date": "2026-08-13",
         "return_1d_pct": -0.93,
         "return_5d_pct": 0.92,
         "return_20d_pct": null,
@@ -4440,8 +4440,8 @@
         "matched": true,
         "scheme_code": 152875.0,
         "scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Direct Plan-Growth",
-        "nav": 8.5018,
-        "nav_date": "2026-08-10",
+        "nav": 8.543,
+        "nav_date": "2026-08-13",
         "return_1d_pct": -1.65,
         "return_5d_pct": 0.82,
         "return_20d_pct": null,
@@ -4453,8 +4453,8 @@
         "matched": true,
         "scheme_code": 153161.0,
         "scheme_name": "ICICI Prudential Nifty 500 Index Fund - Direct Plan - Growth",
-        "nav": 10.7339,
-        "nav_date": "2026-08-10",
+        "nav": 10.6959,
+        "nav_date": "2026-08-13",
         "return_1d_pct": -1.34,
         "return_5d_pct": 0.29,
         "return_20d_pct": null,
@@ -4466,8 +4466,8 @@
         "matched": true,
         "scheme_code": 118955.0,
         "scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-        "nav": 2298.07,
-        "nav_date": "2026-08-10",
+        "nav": 2295.275,
+        "nav_date": "2026-08-13",
         "return_1d_pct": -1.28,
         "return_5d_pct": -0.02,
         "return_20d_pct": null,
@@ -4479,8 +4479,8 @@
         "matched": true,
         "scheme_code": 130503.0,
         "scheme_name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
-        "nav": 163.491,
-        "nav_date": "2026-08-10",
+        "nav": 162.66,
+        "nav_date": "2026-08-13",
         "return_1d_pct": -1.11,
         "return_5d_pct": -0.27,
         "return_20d_pct": null,
@@ -4526,7 +4526,7 @@
         "return_60d_pct": null
       }
     ],
-    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-11-mutual-fund-navs.csv",
+    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-14-mutual-fund-navs.csv",
     "count": 8
   },
   "nifty50_rotation": {
@@ -18810,78 +18810,6 @@
           "emerging": false
         },
         {
-          "symbol": "SAILIFE",
-          "name": "Sai Life Sciences Ltd.",
-          "ticker": "SAILIFE.NS",
-          "sector": "Healthcare",
-          "downloaded": true,
-          "download_note": "",
-          "source_index": "NIFTY 500",
-          "benchmark_ticker": "^CRSLDX",
-          "last_date": "2026-11-13",
-          "last": 1928.8,
-          "return_1d_pct": 1.24,
-          "return_5d_pct": 8.05,
-          "return_20d_pct": 38.82,
-          "volume": 1504874.0,
-          "avg_volume_20": 2284073.0,
-          "volume_ratio_20d": 0.66,
-          "turnover_proxy": 2902600971.2,
-          "rsi_14": 83.6,
-          "rsi_5d_ago": 80.13,
-          "above_sma_10": true,
-          "above_sma_20": true,
-          "above_sma_50": true,
-          "above_sma_100": true,
-          "above_sma_200": true,
-          "distance_sma_20_pct": 20.92,
-          "distance_sma_50_pct": 23.14,
-          "ma200_roc20_pct": 6.34,
-          "supertrend_bullish": false,
-          "new_high20": true,
-          "within_3pct_ath": true,
-          "at_ath": true,
-          "rs_acceleration_pct": -12.61,
-          "rs_ratio": 0.07113204,
-          "rs_ratio_sma_50": 0.06671181,
-          "rs_distance_sma_50_pct": 6.63,
-          "rs_return_20d_pct": 0.98,
-          "rs_above_50dma": true,
-          "trend_raw": 1.0,
-          "breakout_raw": 1.0,
-          "volume_raw": 0.66,
-          "setup_score": 0.0,
-          "setup_quality": "No clear setup",
-          "primary_setup": "",
-          "setup_tags": "",
-          "setup_pivot_level": null,
-          "setup_breakout_date": null,
-          "setup_volume_ratio": null,
-          "setup_retest_gap_pct": null,
-          "setup_flag_depth_pct": null,
-          "setup_impulse_return_pct": null,
-          "setup_neckline_level": null,
-          "setup_commentary": "",
-          "rotation_signal": "Strengthening",
-          "rotation_score": 3.2,
-          "woe": 3,
-          "constructive": true,
-          "sector_rs": -1.115625,
-          "ath_new_high_raw": 2.0,
-          "stock_rs_percentile": 77.2088353414,
-          "rs_acceleration_percentile": 22.2891566265,
-          "sector_theme_rs_percentile": 86.8473895582,
-          "ath_new_high_percentile": 97.6907630522,
-          "trend_structure_percentile": 87.5502008032,
-          "breakout_base_quality_percentile": 97.6907630522,
-          "volume_confirmation_percentile": 50.4016064257,
-          "leader_score": 74.2398164085,
-          "rank": 41,
-          "portfolio_rule": "Hold if owned",
-          "exceptional": false,
-          "emerging": false
-        },
-        {
           "symbol": "ETERNAL",
           "name": "Eternal Ltd.",
           "ticker": "ETERNAL.NS",
@@ -18947,6 +18875,78 @@
           "trend_structure_percentile": 87.5502008032,
           "breakout_base_quality_percentile": 86.546184739,
           "volume_confirmation_percentile": 29.718875502,
+          "leader_score": 74.2398164085,
+          "rank": 41,
+          "portfolio_rule": "Hold if owned",
+          "exceptional": false,
+          "emerging": false
+        },
+        {
+          "symbol": "SAILIFE",
+          "name": "Sai Life Sciences Ltd.",
+          "ticker": "SAILIFE.NS",
+          "sector": "Healthcare",
+          "downloaded": true,
+          "download_note": "",
+          "source_index": "NIFTY 500",
+          "benchmark_ticker": "^CRSLDX",
+          "last_date": "2026-11-13",
+          "last": 1928.8,
+          "return_1d_pct": 1.24,
+          "return_5d_pct": 8.05,
+          "return_20d_pct": 38.82,
+          "volume": 1504874.0,
+          "avg_volume_20": 2284073.0,
+          "volume_ratio_20d": 0.66,
+          "turnover_proxy": 2902600971.2,
+          "rsi_14": 83.6,
+          "rsi_5d_ago": 80.13,
+          "above_sma_10": true,
+          "above_sma_20": true,
+          "above_sma_50": true,
+          "above_sma_100": true,
+          "above_sma_200": true,
+          "distance_sma_20_pct": 20.92,
+          "distance_sma_50_pct": 23.14,
+          "ma200_roc20_pct": 6.34,
+          "supertrend_bullish": false,
+          "new_high20": true,
+          "within_3pct_ath": true,
+          "at_ath": true,
+          "rs_acceleration_pct": -12.61,
+          "rs_ratio": 0.07113204,
+          "rs_ratio_sma_50": 0.06671181,
+          "rs_distance_sma_50_pct": 6.63,
+          "rs_return_20d_pct": 0.98,
+          "rs_above_50dma": true,
+          "trend_raw": 1.0,
+          "breakout_raw": 1.0,
+          "volume_raw": 0.66,
+          "setup_score": 0.0,
+          "setup_quality": "No clear setup",
+          "primary_setup": "",
+          "setup_tags": "",
+          "setup_pivot_level": null,
+          "setup_breakout_date": null,
+          "setup_volume_ratio": null,
+          "setup_retest_gap_pct": null,
+          "setup_flag_depth_pct": null,
+          "setup_impulse_return_pct": null,
+          "setup_neckline_level": null,
+          "setup_commentary": "",
+          "rotation_signal": "Strengthening",
+          "rotation_score": 3.2,
+          "woe": 3,
+          "constructive": true,
+          "sector_rs": -1.115625,
+          "ath_new_high_raw": 2.0,
+          "stock_rs_percentile": 77.2088353414,
+          "rs_acceleration_percentile": 22.2891566265,
+          "sector_theme_rs_percentile": 86.8473895582,
+          "ath_new_high_percentile": 97.6907630522,
+          "trend_structure_percentile": 87.5502008032,
+          "breakout_base_quality_percentile": 97.6907630522,
+          "volume_confirmation_percentile": 50.4016064257,
           "leader_score": 74.2398164085,
           "rank": 42,
           "portfolio_rule": "Hold if owned",
@@ -22068,7 +22068,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-15T15:39:59+05:30",
+    "generated_at": "2026-11-15T16:11:06+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34585,15 +34585,6 @@
       "description": "Smart Investor What’s Next: Nvidia Falls 12% After Huang Exits JournalArta"
     },
     {
-      "published": "2026-11-14T10:23:02+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "TradingView",
-      "title": "Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPNVo1Q3o3UzYzNkRXaUhsOWlRSlJSYWluU0RnNWVieWFuV0xSY0V3WXJrYUtyM2k2OFpIY2ExSHFPYkdqUEs5Yl9zdjR4Mmp3TzJqM0M2akNHSThWUzJCckR3WEZ3czg0X0h4Q3YwQVhldE5VM0t5YmFQdUNPVFVPaG9XTWVfb3JWX2JKckxxOU4xM2lKRjR6SjNsdTk5R2w0ZW10WkFDYWRTS1NRRXZWSkt4UkFUQkRpZENyUV85UHpOLUNwQU1UbWhIaWYxWS10YVFKV2Iwdk9jME1oZ1l5RnpSelZ2dlhTTFBUTEozbl9fYzJWRC1XQ19PTFJaQnJLdTZvZ2pyckpueUQzalcxMklkN3Y3dw?oc=5",
-      "description": "Eric Balchunas Calls Nvidia-Driven Market Sell-Off The '280th Nervous Breakdown,' Sees Bitcoin Base In The $60K TradingView"
-    },
-    {
       "published": "2026-11-15T08:50:02+00:00",
       "score": 5.0,
       "themes": "['AI / tech risk', 'India market', 'macro / flows']",
@@ -34639,15 +34630,6 @@
       "description": "Mutual fund NFOs: 9 new funds to open for subscription this week, 7 to launch tomorrow The Economic Times"
     },
     {
-      "published": "2026-11-15T06:05:55+00:00",
-      "score": 4.0,
-      "themes": "['AI / tech risk', 'India market', 'macro / flows']",
-      "source": "Social News XYZ",
-      "title": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - Social News XYZ",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNW92ZXZrM0FTOHo2WjhwSjJVcWIybnF6bnprdFlrRDJLT0IyU2dLblNYdFVEUWdrS1EyTndWQlZEVmxIdkt4eU1RWVJkdzBmUXdtVEM1WkQ0cU51WU1KenNzS045ck1QaUUtZDBsaXRyLVJOMkp1SEN1REhPNkFpN0JJMVZ1QkRSdU5OUVdXNHlsSXZSNkMtV1k1bE1lQ2tUNHlRaUlVYVk2dVVWb29RaUF1VGxaUTdmMGdxLWZBaHlwQnpDS1HSAcYBQVVfeXFMTTVvdmV2azNBUzh6Nlo4cEoyVXFiMm5xem56a3RZa0QyS09CMlNnS25TWHRVRFFna0tRMk53VkJWRFZsSHZLeHlNUVlSZHcwZlF3bVRDNVpENHFOdVlNSnpzc0tOOXJNUGlFLWQwbGl0ci1STjJKdUhDdURITzZBaTdCSTFWdUJEUnVOTlFXVzR5bEl2UjZDLVdZNWxNZUNrVDR5UWlJVWFZNnVVVm9vUWlBdVRsWlE3ZjBncS1mQWh5cEJ6Q0tR?oc=5",
-      "description": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week Social News XYZ"
-    },
-    {
       "published": "2026-11-15T10:01:10+00:00",
       "score": 3.0,
       "themes": "['India market', 'macro / flows']",
@@ -34657,6 +34639,15 @@
       "description": "Stock Market This Week, WPI Inflation, ₹84,290 Crore FII Inflows & Crude Oil Among Key Triggers Free Press Journal"
     },
     {
+      "published": "2026-11-15T08:50:05+00:00",
+      "score": 3.0,
+      "themes": "['India market', 'macro / flows']",
+      "source": "Rediff MoneyWiz",
+      "title": "Stock Market Drivers: WPI, FII, Crude Oil, Global Cues - Rediff MoneyWiz",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ1RaSXJvZWhkdjBsZFlQVWVSVUd0eVpsZGM4MnFpdkFuOFVVcVRQLVhmM0JPdlB5ZnRoVEpsMW9Dd21DVTZtZU9zQ0xEejdXdldCOEtMMEZKRjBhd1ZnSW40bWNDTGJnSWoyZnZzMDV4UVpMeEliZFRLRko2YVRHX3JwR24zLWV1YzdEX2xCTlB2d3dIRVJpcTZ1WnFJSEgwQzRfN9IBqgFBVV95cUxPUmU5SnJHUmJ2ZmlCd0Y0bWdPZGFKYXo5UGQwcGp1dnRrVDVQcXJzQ2gtTURsbTJNemlER1d6NTE2WThoa05ieGQ3WkNtbm5Lc0M5Q0pVNDFkdXU1MkhjZlhTUTlKYWJaaFFTZ0wxektyMDVOanc1OEdLbTJQeVlydHVGN1NDV0xjMnY2NUp2cHQ3bUxVT2syMll1SmpWUG1OMlQycEJTM3RJQQ?oc=5",
+      "description": "Stock Market Drivers: WPI, FII, Crude Oil, Global Cues Rediff MoneyWiz"
+    },
+    {
       "published": "2026-11-15T05:21:15+00:00",
       "score": 3.0,
       "themes": "['India market', 'macro / flows']",
@@ -34664,6 +34655,15 @@
       "title": "Quote on FPI flows 15.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited - Investment Guru India",
       "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRnlDbUkxYVZXMF9GNXFrZ3l4SHpiU2YzZHNsdy1HMy05OHlISmtyTWU3YTZYeVlUenVpOE8tZkh2eGJ1ekpYZnJfM1Azd2gtTFYwZ3RrQThVNUZOSjk4WEg1NDQ3V2NFa3BBcVZTVkdSWXZuaUxUUlh0R1FrX0UzS1p0T2lrSzNFX05pZk1MbXNsdHVoaTFfUEZVNEd2S2l1SzJxNFVRLXRoVTlmNWVrYm9DTm5yODQtMFBHRzJjV3ctSWZodTFWV2ZERzlwZFkzR2dselFhQ3NtTnJSY0RQX0lvYUpHY3d2aUJfYWZYTkU4Qlk?oc=5",
       "description": "Quote on FPI flows 15.11.2026 from Dr. V K Vijayakumar, Chief Investment Strategist, Geojit Investments Limited Investment Guru India"
+    },
+    {
+      "published": "2026-11-15T04:58:15+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Myinvestmentideas",
+      "title": "Best Mutual Funds to Invest in 2026: 35 Funds Compared (Live Returns) - Myinvestmentideas",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RnRaTlJBSWxFVDdNZXJPcVB1VGF4M0h3ajhDYWZlZjFncWdMazFVX2hLRUp4amtsWThkSHdNVXpQYUp2NXZHU2JDU0szQTBlY2gtVTFyQ1dJS3h1MkpxcW5DcVY?oc=5",
+      "description": "Best Mutual Funds to Invest in 2026: 35 Funds Compared (Live Returns) Myinvestmentideas"
     },
     {
       "published": "2026-11-15T02:52:44+00:00",
@@ -34711,15 +34711,6 @@
       "description": "Sip & Shop Artisan Market brings holiday shopping to Monte Creek Winery iNFOnews.ca"
     },
     {
-      "published": "2026-11-14T14:11:11+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Myinvestmentideas",
-      "title": "Best Mutual Funds to Invest in 2026: 35 Funds Compared (Live Returns) - Myinvestmentideas",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RnRaTlJBSWxFVDdNZXJPcVB1VGF4M0h3ajhDYWZlZjFncWdMazFVX2hLRUp4amtsWThkSHdNVXpQYUp2NXZHU2JDU0szQTBlY2gtVTFyQ1dJS3h1MkpxcW5DcVY?oc=5",
-      "description": "Best Mutual Funds to Invest in 2026: 35 Funds Compared (Live Returns) Myinvestmentideas"
-    },
-    {
       "published": "2026-11-14T10:54:18+00:00",
       "score": 3.0,
       "themes": "[]",
@@ -34727,15 +34718,6 @@
       "title": "7 High Alpha Mutual Funds That Beat Category Avg by 8%+ a Year in 2026 - Myinvestmentideas",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1HYXEtMHZmdnMzcGMwUTBqblp1QkN4YUFPQjlVdEQ1YTRobDAtWmZuYVVBcTdLRDdXYWNFVmNmRFlPdlBIQ2V2Sk5fc3JOandCNHdaclFjUjgweDhuRUYxcmdvUnI4TzhCQXdBREJn?oc=5",
       "description": "7 High Alpha Mutual Funds That Beat Category Avg by 8%+ a Year in 2026 Myinvestmentideas"
-    },
-    {
-      "published": "2026-11-14T10:18:00+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "BusinessLine",
-      "title": "Mutual Funds returns - BusinessLine",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUM2YkRobU5Xek9acG4xV2ZXZXd6d0tKc2Y5b3VPNzZ1NGUyOUQ3UXVtQl9ESlMzd2toSjUyUHFlQm1GdS1JS05sLWVaU0c3U0ZxaXUybzBtSllCZGE2U3h1cFlzRmtHN1ZzNnBoUzNVbE1qYmh5T2FQQ2lxRzJPbko4czlLMEtCX0hfdTY5cUJDdHdkU0lzVExkYURjWlVXSWc?oc=5",
-      "description": "Mutual Funds returns BusinessLine"
     },
     {
       "published": "2026-11-15T09:59:39+00:00",
@@ -34792,6 +34774,15 @@
       "description": "Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week The Economic Times"
     },
     {
+      "published": "2026-11-15T02:28:47+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "MarketsMojo",
+      "title": "Indian Energy Exchange Ltd Falls to 52-Week Low of Rs 99.55 as Sell-Off Deepens - MarketsMojo",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZktJY1c5bEdxendTSVY1NFY4bkh4Tm5GQXZDZDJ4MkZGMFVVWFFNRHI3U2hyY0Q0bFhfdXE0dDQ3V1JWVU5CR2hIRXBwbUt6OERmZ2Q1VDJSRHJxUWFqNl8xSWx6S3ZvaWxvMEh0RU9GUnhFWVhWdUNjdUJTTGVKZXZraXRyUkhoNXZNUkZzQ1Rha21ndlhLc2Y2NlZtbklhTXVIZU9fQ0tuN2xudnBGUWNTT05uUQ?oc=5",
+      "description": "Indian Energy Exchange Ltd Falls to 52-Week Low of Rs 99.55 as Sell-Off Deepens MarketsMojo"
+    },
+    {
       "published": "2026-11-15T02:19:26+00:00",
       "score": 2.0,
       "themes": "['market selling']",
@@ -34828,6 +34819,24 @@
       "description": "When Nvidia Sneezed, Who In India Caught Cold? Republic World"
     },
     {
+      "published": "2026-11-14T17:05:00+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "CoinMarketCap",
+      "title": "Dash Declines 4.3% Amid Broad Crypto Market Selloff - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE95U0VJajZMTFg5eWFrMktEa3hPbVh6LUdhcl9Gb3UzenYyU2wwZGVxSDFMejB0UV9Ub2djQ19weUZxTHNMWi1peXlYRGNCMjVNaFhUMlJ1bi1OX1NSTXk2THBWR3V2Qmh1NzZUVGdFb2c?oc=5",
+      "description": "Dash Declines 4.3% Amid Broad Crypto Market Selloff CoinMarketCap"
+    },
+    {
+      "published": "2026-11-14T17:05:00+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "CoinMarketCap",
+      "title": "Stable Declines 3.9% Amid Broad Crypto Market Selloff - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yd3FTc1hZZ1FvNF9lWGlLeFRCLXdXTHhuVVZ0WmVKUkozU1NXVFJPRFE5ZWlEQ09CbFdza0RUaGNKSGhlQXFvWmtSdlNaMXlmenYxTTgwc1BDaEhPTGtwb2tjTlVmQU1VWUtvV0M5ME4?oc=5",
+      "description": "Stable Declines 3.9% Amid Broad Crypto Market Selloff CoinMarketCap"
+    },
+    {
       "published": "2026-11-14T16:35:13+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -34844,6 +34853,15 @@
       "title": "Ethereum Drops 4.2% Amid Macro Selloff and ETF Outflows - CoinMarketCap",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTU1BVDFZNHJ6Y3M4azBBS0xNZG5KN3I1WVFVb0U4Skx3akt4MVM5dVJFT1NtU0N5aTc0LVBMX0dybGNmQUlHU1BVNF9BM2RyZXh2aW1IVmRsa2ZRcXFTekxwR3hqV0J1RWxVTXltUEM?oc=5",
       "description": "Ethereum Drops 4.2% Amid Macro Selloff and ETF Outflows CoinMarketCap"
+    },
+    {
+      "published": "2026-11-14T15:06:00+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "CoinMarketCap",
+      "title": "NEAR Protocol Drops 3.7% Amid Broad Crypto Market Selloff - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81cU45MFNkY19Za19FUnFDbzl0RGFFRzA1MjhpOWJWWDl2WC1LbU14MGR3ZVF6NldjbVRHaXZOVGhmYm5zdFFtOVBxREp0V1haeTNtNXZMbWZUTDY2LTRxazB4Z1BDVV9MSTktZnpqZ1A?oc=5",
+      "description": "NEAR Protocol Drops 3.7% Amid Broad Crypto Market Selloff CoinMarketCap"
     },
     {
       "published": "2026-11-14T13:21:30+00:00",
@@ -34867,10 +34885,10 @@
       "published": "2026-11-15T09:55:00+00:00",
       "score": 1.0,
       "themes": "['market selling']",
-      "source": "finance.biggo.com",
-      "title": "Taiwan Stocks Rebound Nearly 4,000 Points; Fund Managers Say Correction Nearing End, Eyeing Liquid Cooling, CPUs and Optical Communications for Next Year - finance.biggo.com",
+      "source": "BigGo Finance",
+      "title": "Taiwan Stocks Rebound Nearly 4,000 Points; Fund Managers Say Correction Nearing End, Eyeing Liquid Cooling, CPUs and Optical Communications for Next Year - BigGo Finance",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9wNFZlTEtEeEFtODUzWE9PMWRLdDVjeDUzbTB3Y1loMnN2bG5lUDdpQVo1Yk1oSHhjQWhxTXNlaDlHbXNLcm1sZ3phZ3pCN2I4aXlhQW1YRndlUk5ackJtZW0wWFREVVVBNlIteGtFMjdWelN4b2c?oc=5",
-      "description": "Taiwan Stocks Rebound Nearly 4,000 Points; Fund Managers Say Correction Nearing End, Eyeing Liquid Cooling, CPUs and Optical Communications for Next Year finance.biggo.com"
+      "description": "Taiwan Stocks Rebound Nearly 4,000 Points; Fund Managers Say Correction Nearing End, Eyeing Liquid Cooling, CPUs and Optical Communications for Next Year BigGo Finance"
     },
     {
       "published": "2026-11-15T09:24:29+00:00",
@@ -34916,6 +34934,15 @@
       "title": "Crypto's slow-motion selloff leaves investors weary as Bitcoin nears lows - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXhoUnBlRWxlRTJyOGs4OVZIaHdrNDl3bDUzMndIX2RHTlgxSXp2M0lHQnFGTXBzZVl5ZlN6ano2Z0dZLXdWVUtuOU1IZmc2cGxqSXQtRnpSLWdUcktJOXNvLVNRYjBVd3RSNW4za1JCYVZPZ1Q0bUFxaUVWYkY0RW8xS0tzU2NJaWlMdGVPY0F2dTR6ZVRadU1NR1Y1Xy0xemdOQzlkUXRzdFNuREZ1dWR1djlmTnZyT2RqR3ZHSTZZVFlkRWpZX3I0RlNsVGRVVHJOUVItWEpJUlp0SXNtb3JQcEPSAeoBQVVfeXFMTVg3WjItaUxOT1g4VDg2SDJ2WUJEbUphdVhnTl95OUJsMUtPQzNqT051RWNqWnFkam9ZM2FKVTl0dkFQc194MVo1Q0hJbkw3dTZVbHJfVjZjTjk4Ti15MGY3cXFBSjhaWHI1THdBZjB4ekNmVHNxWm1paW1GeVFTb0l4eUpIS1FoMGR5eGtldFNWbVNlUGwxRjNFR2EtYnhKQzZBSnZMSG5UaW5TbWZ1RGQySjFlMElBWElqeDVfZUdWSFJDeFVVSFN5V20wSk5DLXBCekdTZk45NDNkQUZnX2oxOXUyd2FNT2F3?oc=5",
       "description": "Crypto's slow-motion selloff leaves investors weary as Bitcoin nears lows Business Standard"
+    },
+    {
+      "published": "2026-11-15T05:10:00+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Bloomberg.com",
+      "title": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbkNtd29JSVN3NktDZF9RamdWQlQySzg4UzBEUFZkeWkxY2JINnFlZEFyMHd1c1FoSEsxcjZEN3F5V2R4WlZ6djdQQllXNDNqVWo1SnZWTlNpY3Ywb2w3QVNuTlI3UzdtUFg2RWFUYnktM3VRWFJUSWY0a1BIYUdxc19HVnk2ZGZxY2t3UXdEeGpqY0lhclFZVXhFN01vUXFxcFZ5b2E5WmxYX1lXSnJWMnprTQ?oc=5",
+      "description": "Crypto’s Slow-Motion Selloff Leaves Traders Weary and Hopeless Bloomberg.com"
     },
     {
       "published": "2026-11-15T05:01:35+00:00",
@@ -34990,15 +35017,6 @@
       "description": "The Week That Proved AI Is Real: MSFT +16%, AMZN +10%, META -10%, AAPL -4% - Winners, Losers and Key Takeaways TradingKey"
     },
     {
-      "published": "2026-11-14T16:52:31+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "Moneycontrol.com",
-      "title": "India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs India's right to defend... - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxORjIzdTR2MXYzaEJwV1Rnei1DX2p4ZFBJa2dGUHRwUDZ2eU1TdjZpT1NhUXQ2WFZ0Z1BUTmxxU2F3QUpNTnZpRnNUb2dSYWFMbHI4NW5ONnNIaWZ1cC1JcTFaR0g3WFpzbUNzWDJSdk1GZHlpSmw3cHBraG1oRm9fSkV2UzRNbGdUcjd6c2VPMXp1emtoUWpIdmdKWE9ieENsNUdLUGRhVzU2OXB5VWc3QjR4TC0wRWtYWVJ4YWFtR0YyT2N2Q3lCYkVCUnV1ZzJVZzQwQ21FZUVidnozRGRicC05elJMU21zUkQxOF9n0gHuAUFVX3lxTE5GMjN1NHYxdjNoQnBXVGd6LUNfanhkUElrZ0ZQdHBQNnZ5TVN2NmlPU2FRdDZYVnRnUFRObHFTYXdBSk1OdmlGc1RvZ1JhYUxscjg1bk42c0hpZnVwLUlxMVpHSDdYWnNtQ3NYMlJ2TUZkeWlKbDdwcGtobWhGb19KRXZTNE1sZ1RyN3pzZU8xenV6a2hRakh2Z0pYT2J4Q2w1R0tQZGFXNTY5cHlVZzdCNHhMLTBFa1hZUnhhYW1HRjJPY3ZDeUJiRUJSdXVnMlVnNDBDbUVlRWJ2ejNEZGJwLTl6UkxTbXNSRDE4X2c?oc=5",
-      "description": "India-US ties ‘global’, Pakistan relationship ‘regional’: Blinken backs India's right to defend... Moneycontrol.com"
-    },
-    {
       "published": "2026-11-14T16:30:55+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35015,6 +35033,15 @@
       "title": "It’s Time For India To Outperform - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOekt4a2lYZHlSWkxwQ2FhMFZXZWFHRHhFYnlsMlh5MTEwZUNfcXZEMTZlRmtfdW5mUFBjY2MyTkh5UnVCczBzWmdaVmQtVHV5MnBVcmdnYVRsUWdsX29nZFBjUEdacjdXOVk2aXUza3lvNDVLV25WSGk2eTZqT0FtY092dXhvSkRKck1WOXFEaEZJVXpfVjNma0VtTnJZTDV2SHFoRUV1NC1UVkxERGpaYldXNEvSAbQBQVVfeXFMTnpLeGtpWGR5UlpMcENhYTBWV2VhR0R4RWJ5bDJYeTExMGVDX3F2RDE2ZUZrX3VuZlBQY2NjMk5IeVJ1QnMwc1pnWlZkLVR1eTJwVXJnZ2FUbFFnbF9vZ2RQY1BHWnI3VzlZNml1M2t5bzQ1S1duVkhpNnk2ak9BbWNPdnV4b0pESnJNVjlxRGhGSVV6X1YzZmtFbU5yWUw1dkhxaEVFdTQtVFZMRERqWmJXVzRL?oc=5",
       "description": "It’s Time For India To Outperform BusinessLine"
+    },
+    {
+      "published": "2026-11-14T14:38:00+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "24/7 Wall St.",
+      "title": "Harvard Cut Nvidia by a Third and Bought AMD - 24/7 Wall St.",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNcmV1aE9qckN5S01UeTc3VHB6TmJLMGRKRUNGdU1UdG5QTVZLZng1bW1RSDNEd19jX0lyLW1wNnFNVHJRLXA1LUlzWDJOeE95dlhUdV9WMTRzYzltaTEzMGxZT2IzNWw0bzc0RzktM3hnMGJULXRIWmZubUJMOURXb0psTnJPMXNtS0R5MG1UbHhmQQ?oc=5",
+      "description": "Harvard Cut Nvidia by a Third and Bought AMD 24/7 Wall St."
     },
     {
       "published": "2026-11-14T14:30:37+00:00",
