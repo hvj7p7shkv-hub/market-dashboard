@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 13:40 IST",
+  "generated_at": "2026-11-15 14:10 IST",
   "wire_file": "2026-11-15-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "24",
-    "wire_total_count": "58",
+    "wire_count": "27",
+    "wire_total_count": "57",
     "wire_scope_date": "2026-11-15",
-    "ai_wire_count": "13",
-    "selling_wire_count": "10",
-    "india_wire_count": "13",
+    "ai_wire_count": "14",
+    "selling_wire_count": "11",
+    "india_wire_count": "14",
     "weak_index_count": "5",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-15 07:39",
-      "title": "Foreign investors pump Rs 84,290 crore into equities as India gains from global AI stock sell-off - Telegraph India",
-      "text": "Latest dated headline · Telegraph India. Today's unique wire set contains 24 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-15 08:00",
+      "title": "ETF Analyst Puts a $60K Floor Under Bitcoin as the Nvidia Selloff Rattles Markets - CryptoDaily",
+      "text": "Latest dated headline · CryptoDaily. Today's unique wire set contains 27 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-15",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-15 has 13 India-market wires, 10 selling/risk wires, and 13 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-15 has 14 India-market wires, 11 selling/risk wires, and 14 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-15",
@@ -22068,7 +22068,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-15T13:40:37+05:30",
+    "generated_at": "2026-11-15T14:10:32+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34522,6 +34522,15 @@
       "description": "Sensex falls 180 points, Nifty drops 0.7% as CPI rises Awaz The Voice"
     },
     {
+      "published": "2026-11-15T08:00:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "CryptoDaily",
+      "title": "ETF Analyst Puts a $60K Floor Under Bitcoin as the Nvidia Selloff Rattles Markets - CryptoDaily",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZHQ1alE5OGFjT1pwODJGWUNDNmw2bnpyQkx1cVRTUzc0czI5aHNBUEhPaTJsV3dzXzI4ZGtDbFJhaEZ5VUpRUFdMSWdhTWpkMmw2aktNSjQ0eElwYlRMbWVITGM4bF93d1JvXzN4WXVzdG9RWmZlaU51ZHdFd1NyMjBzeUZHWVZfT2hTU1pkNkVWUzl0QWhyWmw1ejFFek9paElxTnE5OHp0ekhUVGlwQVBqMXo?oc=5",
+      "description": "ETF Analyst Puts a $60K Floor Under Bitcoin as the Nvidia Selloff Rattles Markets CryptoDaily"
+    },
+    {
       "published": "2026-11-15T02:55:00+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -34621,6 +34630,15 @@
       "description": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week tennews.in"
     },
     {
+      "published": "2026-11-15T02:36:26+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "ET Now",
+      "title": "NFOs next week: Six new mutual fund offerings to open from November 16; minimum investment starts at Rs 100 - List - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMHVqZlp1dDBzSTZqN045dzFlcExtcUNzd2ZUeHQ5VGxZdFA2ZjUxRHVaUURzZ0s4TVh0a1FjRW9ZMXhiSHJQSWZ5MlpncF9maWp4M0Ruc29YZzlkS293dG53T1cxcU5tdXdOV2hsRlBZaS1xVU0ycXBnY3NUSThaU1hSM1JWVkhNZms5UnRIUV9zczdhdC01ZUVYZk5aWW1LTUdqS09JY0ZxcGEwNl9QTXRXWHJFRlE0LU1VQWc4dDJxaWRnY29wWDAyRdIB0AFBVV95cUxPNEI5VFBQQ290ZlZYendtSzkxbHhVcG03VUp3S3FlQklseXpCcEJoTFotR2JCSUllMm5SbnNpcFdxMkhrMlBxQnctcDBpc0lKTnd1aDM5cWlaVUhscGI2bE1zUFNib2I3aVg0Nm00eEJ2bU9rcEV1Y2htOUFwak0tRngtbEJuQjBtN1k2Y2NWUmdKVk5meGlhZXNiZl9QLTVGRGlLQjk5ZFZoUXhjcDROdWJFTnZVd2JBLW5aV0Y5b2dDdDE3MkRLbFdkYzdDWkky?oc=5",
+      "description": "NFOs next week: Six new mutual fund offerings to open from November 16; minimum investment starts at Rs 100 - List ET Now"
+    },
+    {
       "published": "2026-11-14T09:30:09+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -34675,6 +34693,15 @@
       "description": "Nvidia Earnings To Anthropic IPO: Nasdaq Faces Two-Headed AI Stress Test After Best Week Since August NDTV Profit"
     },
     {
+      "published": "2026-11-15T01:30:00+00:00",
+      "score": 3.0,
+      "themes": "[]",
+      "source": "Equitymaster",
+      "title": "5 Best Performing Mutual Funds of 2026 - Equitymaster",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KTER6dERUOFpvSWRBbnRVQnhOaHQydUZlU0doekVXcUJoOXdZTjdvTTJqeHd3NTRDWGhyLXdXcmlEaElPamFGY3hyMmVTLTNuN01zQkVtNlBfR1JZZkhnaTdzVFBnc2FYR2tHQXdHcDg?oc=5",
+      "description": "5 Best Performing Mutual Funds of 2026 Equitymaster"
+    },
+    {
       "published": "2026-11-14T18:29:50+00:00",
       "score": 3.0,
       "themes": "['India market']",
@@ -34718,15 +34745,6 @@
       "title": "Mutual Funds returns - BusinessLine",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeUM2YkRobU5Xek9acG4xV2ZXZXd6d0tKc2Y5b3VPNzZ1NGUyOUQ3UXVtQl9ESlMzd2toSjUyUHFlQm1GdS1JS05sLWVaU0c3U0ZxaXUybzBtSllCZGE2U3h1cFlzRmtHN1ZzNnBoUzNVbE1qYmh5T2FQQ2lxRzJPbko4czlLMEtCX0hfdTY5cUJDdHdkU0lzVExkYURjWlVXSWc?oc=5",
       "description": "Mutual Funds returns BusinessLine"
-    },
-    {
-      "published": "2026-11-14T08:23:10+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Livemint",
-      "title": "Large vs mid vs small-cap mutual funds: Which is best for long-term SIP? 10-year rolling returns from 1996–2026 compared - Livemint",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUy1OLXE5NUZXRWhiMDRpYWlNYmhtenRlQmNIY1NJY0t1VXdueG9XelJBSy0tWElaUWozbjZjcGlPaXJfMUFuczVuZlVVZlV3UEZNRXVHUzdLdTF3dEtaZFBOeS1ya0c4MWN4alF1YU9UelU4a2NKRVpOSHl3U1pFb083SFAwbE1tWjlmNWNMX0tKVHZaUnJmN3g3RURsb1BVWUJtamc1ZVFLd3hJdmRxTWxBZ29TSDFJSTV6djc0Nm5CNWFxRWVpbUNlWG9sNXE0UWpDV1JCTEc4M0xCQ1ZOVDJucTd1dkJobTkxakpZb2RULW9DZEQ5dFotSFJscHNwazN1OWZJOXJGOUVPeUxfQm05TDnSAZoCQVVfeXFMTXlQa1lUVHNCSXM1dmg0TVBMSDVkTkpHYkUzLVB6ZnFDYjNPQS13a2RKeUJZVVZoMkxBYjYwRnJXNFRJSFVGc1BVaHBfWGQwVkxCWThqZUxCNXdFNUtYZ3ctVjlXTUJYcVQ0a1VNYzZUQnVMQW1sNFZBQm83bm1tN0JDU2hqSWxmcFRuSHMzQVphR1pGTjBpSk1ISXJBTFcwQWRQX0J6T25fdUJpajNVN19URTNxSTFWQTZGenRyaVFIVkdTdlhJYXQxdTN2OGNUN2pYRUQ5aG1MR2hGak1Pb3NPQnNSNnRnZU5hMDFoejNEanAtdVZsNHFkRnM1eEtVQTFTQWFSWGdxSHdIWVVkemVldGlseWJHMV93?oc=5",
-      "description": "Large vs mid vs small-cap mutual funds: Which is best for long-term SIP? 10-year rolling returns from 1996–2026 compared Livemint"
     },
     {
       "published": "2026-11-15T07:20:06+00:00",
@@ -34801,15 +34819,6 @@
       "description": "When Nvidia Sneezed, Who In India Caught Cold? Republic World"
     },
     {
-      "published": "2026-11-14T15:06:00+00:00",
-      "score": 2.0,
-      "themes": "['market selling']",
-      "source": "CoinMarketCap",
-      "title": "Ethereum Drops 4.2% Amid Macro Selloff and ETF Outflows - CoinMarketCap",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTU1BVDFZNHJ6Y3M4azBBS0xNZG5KN3I1WVFVb0U4Skx3akt4MVM5dVJFT1NtU0N5aTc0LVBMX0dybGNmQUlHU1BVNF9BM2RyZXh2aW1IVmRsa2ZRcXFTekxwR3hqV0J1RWxVTXltUEM?oc=5",
-      "description": "Ethereum Drops 4.2% Amid Macro Selloff and ETF Outflows CoinMarketCap"
-    },
-    {
       "published": "2026-11-14T13:21:30+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk']",
@@ -34835,15 +34844,6 @@
       "title": "Strong FII Buying Extends For Third Week As Nifty Gains 0.6 Pc - Ommcom News",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM2c4Z1haTlhiVnlHSjYzbUZncFZyLW5vRGtZMVA0c1Nxd0ZmUDhzZUkzNm9sLTh5bTU3b1dUNUozTko4dFZhbDFrcFZuMUczc0Jta0E1RnlSWHlFaGsxd3NzcmN6ZTNhQndLWlNaa3ZfNzZHNU9xOHVLQmduUVNaMEl2RXZsVm0zZ2dJUm1VNE5oWmUyOFk3a0xHMGhMWVQzS0E?oc=5",
       "description": "Strong FII Buying Extends For Third Week As Nifty Gains 0.6 Pc Ommcom News"
-    },
-    {
-      "published": "2026-11-14T08:28:20+00:00",
-      "score": 2.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Moneycontrol.com",
-      "title": "Markets extend winning streak to third week on FII buying; rupee weakens 33 paise - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOU0F6bE9LdGY4cXU4dnNFWkcyMDcySGhkV0F3WkRJT3BfMlZQZWtJNm5iMDBXQ2FXNThzaWV6S1J6bl9SNlZWT0Q4SkY3WElBd2dtSUE5TC1KaTI1TWNmNVZWYS0yX1dsaDVHVWY5bVdzQVV5Y2RXd1NIX2NuaVY2cWozM0tKX1BudFlRSHU4UF9ORXJxYV9QcUZtTUpzLXpnWUJYUFI5TVVpNmtWMGVfVHd0Nk9nODhNMUgxWURGUC14R3VWY282alVVWUhNUkN3OWhlRzZRTU80YzZwcDBrZktudEphQdIB6wFBVV95cUxQYk5QeE5mMk5zNlBZaDU4RDYydm5CRy1ITjkwdW1iZ0dDb2dISW15aDhNUjdzWjRLQjFTaXVOdDNwTHlfMnBicHBjdEZNcnpGUG9zbmxSUFhwMGZQb0FmU2JFdGhmX1g5TEZzZE5EOHZoNWxscm5lNGlfZ1Q5ZlY5a2NMNVJlajVYUjFuVjRmeW9LTWFuUFhPZ3d6N1pqWjdDRUhheHRsVFZsTVphZkR1ZXVqTm9tc0FVUGFwamJTWFltMzJzUDctT09seW0xRlNQaXQ1emM5aXl1R3U5NlRmRGk2X3ZNeE5rSkcw?oc=5",
-      "description": "Markets extend winning streak to third week on FII buying; rupee weakens 33 paise Moneycontrol.com"
     },
     {
       "published": "2026-11-15T06:32:05+00:00",
@@ -34988,15 +34988,6 @@
       "title": "Why the AI trade is hard to kill, but easy to frighten - Invezz",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSWpabkZYU3ozNjMwVXVUNFZxYWM1Z1M5YS1meDZ1V2k4d05Tc0tHMEMyNkNDUVZBWS1OS3JsalN2V1VtbDJsdEdHLU9wVTI1bEZ5eERYOWtENUg2ZWg3QUVmSDdZODVJeklZUEdDQ0NqRkRSRFI2cW5ET0NXbXljb2prb2tuczBiSy1NM2VKZEprbDQ?oc=5",
       "description": "Why the AI trade is hard to kill, but easy to frighten Invezz"
-    },
-    {
-      "published": "2026-11-14T08:17:51+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Republican Herald",
-      "title": "Stocks fall but Wall Street notches a winning week after several turbulent days - Republican Herald",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUU5DSi1TWDRTZ0xXT2tpa3dzNkNvLWFtRnZCZjBoNGlzN29ndVhaeFl1Z1hrbTRyTUlBTVNIVUF2TjJnek1SOFktR203aXgwVjVHbGxEc2lnNlJkZ2RKWTRLVTJfQkVUVXlwbk5ZWktNaXRfQmtmcGw0OW9SMnVENUQzU2VsclJB?oc=5",
-      "description": "Stocks fall but Wall Street notches a winning week after several turbulent days Republican Herald"
     }
   ]
 }
