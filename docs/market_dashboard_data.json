@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15 14:10 IST",
+  "generated_at": "2026-11-15 14:41 IST",
   "wire_file": "2026-11-15-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "27",
-    "wire_total_count": "57",
+    "wire_count": "29",
+    "wire_total_count": "59",
     "wire_scope_date": "2026-11-15",
-    "ai_wire_count": "14",
-    "selling_wire_count": "11",
-    "india_wire_count": "14",
+    "ai_wire_count": "12",
+    "selling_wire_count": "10",
+    "india_wire_count": "17",
     "weak_index_count": "5",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-15 08:00",
-      "title": "ETF Analyst Puts a $60K Floor Under Bitcoin as the Nvidia Selloff Rattles Markets - CryptoDaily",
-      "text": "Latest dated headline · CryptoDaily. Today's unique wire set contains 27 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-15 08:58",
+      "title": "Will Sensex and Nifty extend gains? Key triggers for the stock market this week - Mathrubhumi English",
+      "text": "Latest dated headline · Mathrubhumi English. Today's unique wire set contains 29 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-15",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-15 has 14 India-market wires, 11 selling/risk wires, and 14 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-15 has 17 India-market wires, 10 selling/risk wires, and 12 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-15",
@@ -51,7 +51,7 @@
     {
       "label": "India Trigger · 2026-11-15",
       "title": "Crude is the local swing factor",
-      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - tennews.in"
+      "text": "Oil is active in the India read-through today, so local moves should be read with crude and rupee context. Representative wire: FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - Social News XYZ"
     }
   ],
   "indices": [
@@ -18810,78 +18810,6 @@
           "emerging": false
         },
         {
-          "symbol": "SAILIFE",
-          "name": "Sai Life Sciences Ltd.",
-          "ticker": "SAILIFE.NS",
-          "sector": "Healthcare",
-          "downloaded": true,
-          "download_note": "",
-          "source_index": "NIFTY 500",
-          "benchmark_ticker": "^CRSLDX",
-          "last_date": "2026-11-13",
-          "last": 1928.8,
-          "return_1d_pct": 1.24,
-          "return_5d_pct": 8.05,
-          "return_20d_pct": 38.82,
-          "volume": 1504874.0,
-          "avg_volume_20": 2284073.0,
-          "volume_ratio_20d": 0.66,
-          "turnover_proxy": 2902600971.2,
-          "rsi_14": 83.6,
-          "rsi_5d_ago": 80.13,
-          "above_sma_10": true,
-          "above_sma_20": true,
-          "above_sma_50": true,
-          "above_sma_100": true,
-          "above_sma_200": true,
-          "distance_sma_20_pct": 20.92,
-          "distance_sma_50_pct": 23.14,
-          "ma200_roc20_pct": 6.34,
-          "supertrend_bullish": false,
-          "new_high20": true,
-          "within_3pct_ath": true,
-          "at_ath": true,
-          "rs_acceleration_pct": -12.61,
-          "rs_ratio": 0.07113204,
-          "rs_ratio_sma_50": 0.06671181,
-          "rs_distance_sma_50_pct": 6.63,
-          "rs_return_20d_pct": 0.98,
-          "rs_above_50dma": true,
-          "trend_raw": 1.0,
-          "breakout_raw": 1.0,
-          "volume_raw": 0.66,
-          "setup_score": 0.0,
-          "setup_quality": "No clear setup",
-          "primary_setup": "",
-          "setup_tags": "",
-          "setup_pivot_level": null,
-          "setup_breakout_date": null,
-          "setup_volume_ratio": null,
-          "setup_retest_gap_pct": null,
-          "setup_flag_depth_pct": null,
-          "setup_impulse_return_pct": null,
-          "setup_neckline_level": null,
-          "setup_commentary": "",
-          "rotation_signal": "Strengthening",
-          "rotation_score": 3.2,
-          "woe": 3,
-          "constructive": true,
-          "sector_rs": -1.115625,
-          "ath_new_high_raw": 2.0,
-          "stock_rs_percentile": 77.2088353414,
-          "rs_acceleration_percentile": 22.2891566265,
-          "sector_theme_rs_percentile": 86.8473895582,
-          "ath_new_high_percentile": 97.6907630522,
-          "trend_structure_percentile": 87.5502008032,
-          "breakout_base_quality_percentile": 97.6907630522,
-          "volume_confirmation_percentile": 50.4016064257,
-          "leader_score": 74.2398164085,
-          "rank": 41,
-          "portfolio_rule": "Hold if owned",
-          "exceptional": false,
-          "emerging": false
-        },
-        {
           "symbol": "ETERNAL",
           "name": "Eternal Ltd.",
           "ticker": "ETERNAL.NS",
@@ -18947,6 +18875,78 @@
           "trend_structure_percentile": 87.5502008032,
           "breakout_base_quality_percentile": 86.546184739,
           "volume_confirmation_percentile": 29.718875502,
+          "leader_score": 74.2398164085,
+          "rank": 41,
+          "portfolio_rule": "Hold if owned",
+          "exceptional": false,
+          "emerging": false
+        },
+        {
+          "symbol": "SAILIFE",
+          "name": "Sai Life Sciences Ltd.",
+          "ticker": "SAILIFE.NS",
+          "sector": "Healthcare",
+          "downloaded": true,
+          "download_note": "",
+          "source_index": "NIFTY 500",
+          "benchmark_ticker": "^CRSLDX",
+          "last_date": "2026-11-13",
+          "last": 1928.8,
+          "return_1d_pct": 1.24,
+          "return_5d_pct": 8.05,
+          "return_20d_pct": 38.82,
+          "volume": 1504874.0,
+          "avg_volume_20": 2284073.0,
+          "volume_ratio_20d": 0.66,
+          "turnover_proxy": 2902600971.2,
+          "rsi_14": 83.6,
+          "rsi_5d_ago": 80.13,
+          "above_sma_10": true,
+          "above_sma_20": true,
+          "above_sma_50": true,
+          "above_sma_100": true,
+          "above_sma_200": true,
+          "distance_sma_20_pct": 20.92,
+          "distance_sma_50_pct": 23.14,
+          "ma200_roc20_pct": 6.34,
+          "supertrend_bullish": false,
+          "new_high20": true,
+          "within_3pct_ath": true,
+          "at_ath": true,
+          "rs_acceleration_pct": -12.61,
+          "rs_ratio": 0.07113204,
+          "rs_ratio_sma_50": 0.06671181,
+          "rs_distance_sma_50_pct": 6.63,
+          "rs_return_20d_pct": 0.98,
+          "rs_above_50dma": true,
+          "trend_raw": 1.0,
+          "breakout_raw": 1.0,
+          "volume_raw": 0.66,
+          "setup_score": 0.0,
+          "setup_quality": "No clear setup",
+          "primary_setup": "",
+          "setup_tags": "",
+          "setup_pivot_level": null,
+          "setup_breakout_date": null,
+          "setup_volume_ratio": null,
+          "setup_retest_gap_pct": null,
+          "setup_flag_depth_pct": null,
+          "setup_impulse_return_pct": null,
+          "setup_neckline_level": null,
+          "setup_commentary": "",
+          "rotation_signal": "Strengthening",
+          "rotation_score": 3.2,
+          "woe": 3,
+          "constructive": true,
+          "sector_rs": -1.115625,
+          "ath_new_high_raw": 2.0,
+          "stock_rs_percentile": 77.2088353414,
+          "rs_acceleration_percentile": 22.2891566265,
+          "sector_theme_rs_percentile": 86.8473895582,
+          "ath_new_high_percentile": 97.6907630522,
+          "trend_structure_percentile": 87.5502008032,
+          "breakout_base_quality_percentile": 97.6907630522,
+          "volume_confirmation_percentile": 50.4016064257,
           "leader_score": 74.2398164085,
           "rank": 42,
           "portfolio_rule": "Hold if owned",
@@ -22068,7 +22068,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-15T14:10:32+05:30",
+    "generated_at": "2026-11-15T14:40:48+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34594,15 +34594,6 @@
       "description": "Wall Street Stocks Fall as Nvidia Turmoil Weighs on Tech Demokratis.co.id"
     },
     {
-      "published": "2026-11-15T07:00:27+00:00",
-      "score": 5.0,
-      "themes": "['AI / tech risk', 'India market', 'macro / flows']",
-      "source": "The Hans India",
-      "title": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - The Hans India",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcldrWkg3LUNfdDJvWDZhWVBoRFZ6cDNZbFh1ODVVdG5kcGtfVy13aEJjZGRxakRWY0RLMm9rbUx3SjBNd2xHM043MGR3THdrZUVJa25NT3J6cFlHQjVXanFBMjFSZmZPbzNPM015RkNoQXdJZU4tcVdJdFJURlhaZllZS0xidHVXaFgzVzBnWTU5YVBybWRSMmVDSndWTHk4OWlmc1Y5SEZsY0FIZzd2RndWam1RUS1EM3JnNFVISFhxZE94TTZmV2lHeHJ0V1HSAdQBQVVfeXFMUDBHdEI0OXl3aG5nZUZIb0FHMTZNYVcxWXY2cmgxTWMxSk1RbGhDb3F5NE9mUDNHRldLY0lsYmx1elMtLU5fSmpzdlhCN29IdTJfTHROUnRNLTMzYXNsU3lFT1VHWUc0dFJna0lWei0yZHZMR28yZGlkenpUcG9OQU1WbmRJR1pnOXA0dks4VGRLMkI4czFUek54YmhkWF9jNHM0Q0Vmbkt1c1liendQWTlCeEUwYkxncEo3LWFEQ0ZsZkRHQmJUVVpMOXlCNC1xbTVjOWE?oc=5",
-      "description": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week The Hans India"
-    },
-    {
       "published": "2026-11-14T15:42:13+00:00",
       "score": 5.0,
       "themes": "['AI / tech risk', 'macro / flows']",
@@ -34621,13 +34612,22 @@
       "description": "How Nvidia stock crash will impact Indian investors’ US mutual fund and ETF holdings Livemint"
     },
     {
-      "published": "2026-11-15T07:17:48+00:00",
+      "published": "2026-11-15T06:57:54+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The Economic Times",
+      "title": "Mutual fund NFOs: 9 new funds to open for subscription this week, 7 to launch tomorrow - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPb0JXQlIwUHBQSzNRdk1Kd3VNUjdWX0RvT3VPU2F4WDFjNjBmYktCR2k1VDJCaU5BMXc2VURRR3lBWmdINW1SOEdULUtLQ0NJUTExWi1BX3kxTVRLWlZJbk9zVlpTMlIwdXZ2MnJaS1lhcTdTdEFaUjJuWWZncC1acEtoQl90THVrbFJ1bDRfX3plaF9xamdIQkRTb25wZ0szMlFEUEJsX0MxM3I4NjJwUDVieWQyVWk2X19WVXdnb3k1ZHVEZUdJTmpzLWRGZTVHRFRtNWV5dkhPSUtiQ0R3?oc=5",
+      "description": "Mutual fund NFOs: 9 new funds to open for subscription this week, 7 to launch tomorrow The Economic Times"
+    },
+    {
+      "published": "2026-11-15T06:05:55+00:00",
       "score": 4.0,
       "themes": "['AI / tech risk', 'India market', 'macro / flows']",
-      "source": "tennews.in",
-      "title": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - tennews.in",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQWNIUWxNOFZ2TnJxRHlIc3VNcFVxbVM5cEk1NWxlMWpTQzhibDI5NGdkZHpheEVZLV9oSHRpcm5nNFNYcTJld3BDM1ZUZVQ2SXhPRjhqN19SWmFPS005Q2xheExiX3hsRGZrOUVfdjh5TF85MjFCTWNxRUtXWmhPTTNyQ3BFdURjR3Y3cGprZTg3LXZDY1g1VkZ5MmRNX3FpSTJhQzZPTlNwMXhy?oc=5",
-      "description": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week tennews.in"
+      "source": "Social News XYZ",
+      "title": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - Social News XYZ",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNNW92ZXZrM0FTOHo2WjhwSjJVcWIybnF6bnprdFlrRDJLT0IyU2dLblNYdFVEUWdrS1EyTndWQlZEVmxIdkt4eU1RWVJkdzBmUXdtVEM1WkQ0cU51WU1KenNzS045ck1QaUUtZDBsaXRyLVJOMkp1SEN1REhPNkFpN0JJMVZ1QkRSdU5OUVdXNHlsSXZSNkMtV1k1bE1lQ2tUNHlRaUlVYVk2dVVWb29RaUF1VGxaUTdmMGdxLWZBaHlwQnpDS1HSAcYBQVVfeXFMTTVvdmV2azNBUzh6Nlo4cEoyVXFiMm5xem56a3RZa0QyS09CMlNnS25TWHRVRFFna0tRMk53VkJWRFZsSHZLeHlNUVlSZHcwZlF3bVRDNVpENHFOdVlNSnpzc0tOOXJNUGlFLWQwbGl0ci1STjJKdUhDdURITzZBaTdCSTFWdUJEUnVOTlFXVzR5bEl2UjZDLVdZNWxNZUNrVDR5UWlJVWFZNnVVVm9vUWlBdVRsWlE3ZjBncS1mQWh5cEJ6Q0tR?oc=5",
+      "description": "FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week Social News XYZ"
     },
     {
       "published": "2026-11-15T02:36:26+00:00",
@@ -34655,15 +34655,6 @@
       "title": "₹10,000 monthly SIP in a mutual fund vs Post Office RD: Which builds a bigger corpus in 5 years? Check calculations - Livemint",
       "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPN3BkTmtoUGVJUGo4UXRfbDB4eTFPSE5YQ0c2VUpRS2hneGFkVWlzdTBHRUNsbEhPV0tCcm1TaldSNDJTY3E0SndweWNhaWp5clZGVUxpUWR2N2tITEJNNE1uTXFXWVZ0TzdWbHJTNzgzaVMybXpJc2Q2U1AzS2ExZ2Z1ZVRGM0Z4elZwYXpNLTRiTjlULWNWYmgyelpTVF8yamhzQnhwNDJXY1dxdDB6akgtbnNQOFNJMmpfNjBLWHBFR0ZGX0I0M3BJZ3RYUy1fcTFNcXB2a2IyR2NKcXpRRkVxelhSRnc0RXlmLWdzdEs4QmFoaVBCekRXZnNyaFB5ME5taFloWU1kZEHSAZACQVVfeXFMTjlhLS1sNTF4eHctdHRtbmhsQUxURHdHWWc3d3VCYVQwbjZWamVBNDdkMmV0Z2trSzZzT2ZXZTQ4WnZ3ZGVHd0hGbjdmX3gtQ25GZldoR0VmX2tlVlNaQjdJaURMcFowVWZtcERGM1RlM1Vndk5RZXpmMEd2cG9KZFY1RE9lTzBXVm5xR3dTSzdrOXlkWnVuUkVHaUlOQXhmLW9zQTBRM2dOSUszbDEzWDR5a0xNMXNyQmFoMm5qY3FGMzRpX0NZaUhWVDdYTFROM1lldmllbzVVQmNqQ3JNU01qazV0aDFnTXJIX2hUZDE4NkhzWUw4X05iY0YzZF9ObDkxSjk4ckpYYThnUGhfQlc?oc=5",
       "description": "₹10,000 monthly SIP in a mutual fund vs Post Office RD: Which builds a bigger corpus in 5 years? Check calculations Livemint"
-    },
-    {
-      "published": "2026-11-14T09:00:52+00:00",
-      "score": 4.0,
-      "themes": "['AI / tech risk']",
-      "source": "ETV Bharat",
-      "title": "Nvidia Stock Crash, $573 Bn Wiped Out: 13 Indian Mutual Funds With Exposure To The US Chipmaker - ETV Bharat",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNSnN3SlZpWXJGb2ctT3MxWXJlc3lBYjRyVlhlaWtZR2VidDhGTTZYN2x6alRyb3dBUi1rWEltNmlkcFhDbExBdHFUTXNycXhJdHhxYkliSlRfaGl5aW5fYkZwRTRxRVNkTHdvNE5vRjY1TWFuZTkzdDd4bzNKQmppREpkaDJ1c2hkd1lqbTV3WXhOWWxOTjJqTTEtMXI2ZkVrTUw5ckxIblo4MWdiQzdRY1BTcVFQd1R0aHhLZVBXYmNiZ3VQVEVqUElFRnU1QlJ4ZkszYndtRWF4NVF2cVQ0M1NvTkQyYllH0gHuAUFVX3lxTE0yZUtoZl9zUF85SFo0cTFYS0xGa25heWM5VTliLWZoY1RJMzJoU09mcFpSQTBpYnVfX2NjdDZXbGhNdVNnU2IyNjVBX21USjdTRXlSMXRRS1JBQlFaNzBVTFFqYzZTZHo2eWY5bk1pYUExSWNqcTRlTHJZRkVXX0Z5UkpqblByVzNtVUUxb0dyZlpIOEpKTEVyZ1lNRENpbWkzOFdkLUhwY2FxbUlMNjY0T25XSzY5QTNMcFJNTVB1Z2VqVUd3MEpJVE5pUUZEbXRGOHEwajFkWV96MDNkUkZ2OVFpVkNCcEZWbUJIM0E?oc=5",
-      "description": "Nvidia Stock Crash, $573 Bn Wiped Out: 13 Indian Mutual Funds With Exposure To The US Chipmaker ETV Bharat"
     },
     {
       "published": "2026-11-15T05:51:17+00:00",
@@ -34747,6 +34738,15 @@
       "description": "Mutual Funds returns BusinessLine"
     },
     {
+      "published": "2026-11-15T08:58:31+00:00",
+      "score": 2.0,
+      "themes": "['India market']",
+      "source": "Mathrubhumi English",
+      "title": "Will Sensex and Nifty extend gains? Key triggers for the stock market this week - Mathrubhumi English",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSFl4TXlKcThjcGIyTWhUR0tDSlJDMWtmZGcwd3JiQ3ljbkZfZmNlWVBIXzFIbVJJNzBiYUo4QnBTeVFtaldhQS0xSWIxcDV2cVdzX1lsTWl0ZU5TZWMyaGNHRkd5NW9FTlRaaEVLZUc2WTk2YTMzdVRpcXRDc2ZiLW01YlR5VTJUMXpfMl9hdFZNeHFJczhGVXdOQ3NhV1dQNjlNeTR0a09RRkZEOFF0TWljMNIBuAFBVV95cUxOVWdtUzBFbDVtS0JLZFpGcGp6Z1ZYeTBiTmRycm5tM0ZkOGdsYmVMYjVUa2hDS1ExdS1Ha0RWeUN3ZE5meURYcmM1T1JfMzRCV2tKSmRCTTc3Q1o3OU85YTAyQkxxSlRLa0UyUDgyeGRVQlBWTW4xbW5lRl9reFpnX01XMzVieXFXSy1Nc0Rwd0pYMWlDVjlxWXlNMDNSa3ZwTHRjaW1yQTUtRVI5RUcxRWNEaWNzSVRF?oc=5",
+      "description": "Will Sensex and Nifty extend gains? Key triggers for the stock market this week Mathrubhumi English"
+    },
+    {
       "published": "2026-11-15T07:20:06+00:00",
       "score": 2.0,
       "themes": "['India market']",
@@ -34783,15 +34783,6 @@
       "description": "Will Sensex, Nifty continue their bull run or consolidate? 4 factors to watch out for this week The Economic Times"
     },
     {
-      "published": "2026-11-15T02:40:16+00:00",
-      "score": 2.0,
-      "themes": "['AI / tech risk', 'India market']",
-      "source": "Business Standard",
-      "title": "AI retreat fuels India's stock market comeback in great rotation trade - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPN2hpYVlVZnN6Q0RBTUMtVHFqbTd2Y2RlTHliV0RLTENfeENwb19sU3JLYlE2eUprbWFtUE5tLVJfQklWNHI0UzNsRGE2VjJWR0U0cmF0dGZ0eDhjS0VvR19LbG9CWWV4VDNCR3N5WGtKNlQtNUcybThDRDZQb2dqdWQzYWFrZ0JBLTM5alN6WDFNSFFLdmh1SDF5QTRGRXVMNzdXY0NVUUxkcDlXSllfdlllZDVqUENQZTZ0eUUxc1NrdW1yc3lHWlJWbTZ2dkRZ0gHWAUFVX3lxTE5oX3dlbW5paDJsTHdpR01CRzVXUl9CcEU5NVZPd1A5QU9JUGdaSW1rcVdVZkJjSzlnczU0UlZTXzV4Y1M0cERCWGE0dDZTdm1WampKQ19RLUM3c0VvOEFDTG5BZ2lKYnV4OVMxOWVQQkZIV0l4elZQR01NcjlQQ0RqeUExZmo3X1JUc21vUTBUT1h2WlBUcUZiVDZJVjhZSkZudVFIbzVfN21zNWtaTGlFUmhTZFBLQUdlTjRPdXotay1LRFdnREFHTHJCaEVVSEtLOFVxd3c?oc=5",
-      "description": "AI retreat fuels India's stock market comeback in great rotation trade Business Standard"
-    },
-    {
       "published": "2026-11-15T02:12:25+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk', 'India market']",
@@ -34817,6 +34808,15 @@
       "title": "When Nvidia Sneezed, Who In India Caught Cold? - Republic World",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPajZvOW1MTkJ4WmpOWUxtUl9taURtc1FmaklHZndidzdvLTBMZFc2UlBVU2tWaXkxU0JTN3gyZ0lOcVo2UmJzeGx1Tm5hMkwwRUVERmlhZEpQTGV1T3ZVMW92T2d5V2ZnMl9jcExwbWZJT3VKWXh5ZC1kNFgxMEtOT1dvSVU4RjJWS2hkV3dvQkQtUVFaODJwZDk2RGcybHdTa1HSAacBQVVfeXFMT3RROVlXZ2NmeUxHZWNxVFYyTEtVQUdnWEVHcFdSRGhzcmlkb2pmVElPZnNUV2FIbmd0ZjRmSHVDUUNnMGtpZ1FES2Vpa1c2RnRQNGtDLU9zUzIyUlF3WTd1cUtCZ0sxS3M4WXlzYmNhU3h1ZjBNRVI3QTNXbVFXem5KdDVlM1Y1d1J4VEJDUjVzNUhXWjVOdEtYVXRhMG1GWkN4Z0FqWGs?oc=5",
       "description": "When Nvidia Sneezed, Who In India Caught Cold? Republic World"
+    },
+    {
+      "published": "2026-11-14T15:06:00+00:00",
+      "score": 2.0,
+      "themes": "['market selling']",
+      "source": "CoinMarketCap",
+      "title": "Ethereum Drops 4.2% Amid Macro Selloff and ETF Outflows - CoinMarketCap",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1wTU1BVDFZNHJ6Y3M4azBBS0xNZG5KN3I1WVFVb0U4Skx3akt4MVM5dVJFT1NtU0N5aTc0LVBMX0dybGNmQUlHU1BVNF9BM2RyZXh2aW1IVmRsa2ZRcXFTekxwR3hqV0J1RWxVTXltUEM?oc=5",
+      "description": "Ethereum Drops 4.2% Amid Macro Selloff and ETF Outflows CoinMarketCap"
     },
     {
       "published": "2026-11-14T13:21:30+00:00",
@@ -34846,6 +34846,15 @@
       "description": "Strong FII Buying Extends For Third Week As Nifty Gains 0.6 Pc Ommcom News"
     },
     {
+      "published": "2026-11-15T08:38:41+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Livemint",
+      "title": "Nifty 50 above 25,000, holds key moving averages: Is Buy-On-Dips right strategy? Here's what stock market experts say - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNTlp2MHBfQU12V0NHY2F2dUZ0end3dlhEOXVhUUd3NjYxN2RuYjNlUHVsYWRZQTBpdmc1LXhUOFZZdm12Rzk1R2JmYVFtZ3VFSXhzTlJMWlZPd3BIWFJkTDdGZlZkX2NQeHF1QkxFVXptLUFubFpQcnVkYm9mTUhfckV0TTdMZldmNkt2MGtON05qRzB5NWpyazRIZ2JVN29PZkNPSS1TZm9XM21Cd3VtVzJlTkVMVTJMM2hFT21fTHRHTVdObWtncEtndHJCeGQ3Qm9UVGs3NWFjSDJUdFBiVUsyMVpyTWppYV81UG1Uc3ZuMVFsOG96UEQ3SXpScG12WWtQS2hSME5pUDg0Q2RuSNIBlgJBVV95cUxNM3NSX0JCampQTVVjVmtUSEphbnpDSGs1QVhNQ0JKZmUwOXg4ZW0tU3d2VzZyRmkzbXJ5el9YRjc0dU0yS1N1OTVIZUh5NGdXVk9xQmRJVEJQM1d2d2lLZWE4SXlkYVA5SWJBNXNKWjFKckZiYWFsWW92NVVPU2UtNkRyM2pHd2lKZTZreTJ2TFRiUWd3UWE0RHdRQ0ZfZVJlekpNcVRpTnVLdFc0T050eDRrZXRvUDBkUjMteDZCblVMLS04ejRRUWUxdzVyZVFPaEtKUDlqdDRReTk3eDVjWHVJWWd4bmFlTVFqajJVd1pZemVUNVhIOXpZNFdyR1plcUJENmE1Y2pRcUQyRUJzeEd6MXpKdw?oc=5",
+      "description": "Nifty 50 above 25,000, holds key moving averages: Is Buy-On-Dips right strategy? Here's what stock market experts say Livemint"
+    },
+    {
       "published": "2026-11-15T06:32:05+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -34853,6 +34862,15 @@
       "title": "Crypto's slow-motion selloff leaves investors weary as Bitcoin nears lows - Business Standard",
       "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYXhoUnBlRWxlRTJyOGs4OVZIaHdrNDl3bDUzMndIX2RHTlgxSXp2M0lHQnFGTXBzZVl5ZlN6ano2Z0dZLXdWVUtuOU1IZmc2cGxqSXQtRnpSLWdUcktJOXNvLVNRYjBVd3RSNW4za1JCYVZPZ1Q0bUFxaUVWYkY0RW8xS0tzU2NJaWlMdGVPY0F2dTR6ZVRadU1NR1Y1Xy0xemdOQzlkUXRzdFNuREZ1dWR1djlmTnZyT2RqR3ZHSTZZVFlkRWpZX3I0RlNsVGRVVHJOUVItWEpJUlp0SXNtb3JQcEPSAeoBQVVfeXFMTVg3WjItaUxOT1g4VDg2SDJ2WUJEbUphdVhnTl95OUJsMUtPQzNqT051RWNqWnFkam9ZM2FKVTl0dkFQc194MVo1Q0hJbkw3dTZVbHJfVjZjTjk4Ti15MGY3cXFBSjhaWHI1THdBZjB4ekNmVHNxWm1paW1GeVFTb0l4eUpIS1FoMGR5eGtldFNWbVNlUGwxRjNFR2EtYnhKQzZBSnZMSG5UaW5TbWZ1RGQySjFlMElBWElqeDVfZUdWSFJDeFVVSFN5V20wSk5DLXBCekdTZk45NDNkQUZnX2oxOXUyd2FNT2F3?oc=5",
       "description": "Crypto's slow-motion selloff leaves investors weary as Bitcoin nears lows Business Standard"
+    },
+    {
+      "published": "2026-11-15T05:01:35+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "'Hurt' after India snub, Suryakumar Yadav determined to make international comeback - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPZEtnTVIwR0hXQm1OOWVoTWMzWThLRTBsR3VuaVdsbFFfandpRWpGOGg2T2dMOHpnZlBlVTVvRG5lMmxKeVNLQ1ExMkZJeWlyS3pMbHdHdjBoclYyUnUtVlBmRWdxYXVoRXBYNUxlaFdoaFBNV1JDSFRld2lEb3c2ZmZ4WDlka3l6cUtYTlgtVXFxZ3RSQlFJUG9YWkpncjBHU3QxQ1lQZi1xaF9KVnoxUDRyNGJFamdoWEpOYTVQQUxCTnRKM0FxWVNTR2NBMUpnT1ZLYnZlWFA2bVhDcTk5RlVLZkrSAeQBQVVfeXFMT2RLZ01SMEdIV0JtTjllaE1jM1k4S0UwbEd1bmlXbGxRX2p3aUVqRjhoNk9nTDh6Z2ZQZVU1b0RuZTJsSnlTS0NRMTJGSXlpckt6TGx3R3YwaHJWMlJ1LVZQZkVncWF1aEVwWDVMZWhXaGhQTVdSQ0hUZXdpRG93NmZmeFg5ZGt5enFLWE5YLVVxcWd0UkJRSVBvWFpKZ3IwR1N0MUNZUGYtcWhfSlZ6MVA0cjRiRWpnaFhKTmE1UEFMQk50SjNBcVlTU0djQTFKZ09WS2J2ZVhQNm1YQ3E5OUZVS2ZK?oc=5",
+      "description": "'Hurt' after India snub, Suryakumar Yadav determined to make international comeback Moneycontrol.com"
     },
     {
       "published": "2026-11-15T04:17:47+00:00",
@@ -34864,15 +34882,6 @@
       "description": "Chartist Talk Nifty 50: 25,424 Is the Level to Beat Next Week JournalArta"
     },
     {
-      "published": "2026-11-15T04:17:47+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "JournalArta",
-      "title": "Bitcoin Falls Below $64,000, Heads for Sixth Straight Weekly Loss - JournalArta",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN0JfdVRvUlplZHQ2NGlWMUJxaEZKYm9TcUkySzBON1dZaHdkcE5XQlFLR3lOUGpybGVNcE1FTkVOV0FDNWlJb3ltQUNJTnlwOVV4R3V3RDlYdndIcWxhV3BuQUlTWHRKcW5oQkwyamthWWFoWjlRdzRKaWc2SHBBQ1ptU1d4dTdKREFxOEhQTjVDWTg?oc=5",
-      "description": "Bitcoin Falls Below $64,000, Heads for Sixth Straight Weekly Loss JournalArta"
-    },
-    {
       "published": "2026-11-15T02:56:00+00:00",
       "score": 1.0,
       "themes": "['market selling']",
@@ -34880,6 +34889,15 @@
       "title": "Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight - Stocktwits",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR19NaXljRlZieTBSTjdVYUs5anNCWlN1R0pBa2U4b1RPMVFsTGF5dV9IR1o5TVY2N2RILVVCNkJlbzlKd2t6ZXJhTHlEbFFyd3hTdVh1MkFUNWNycV9Bc0F0NTFfaEtwSHplaDhmWGJOUTlZc1p2aGRjRWwzdnJjcmJIVnltd05TRm1DazVWN3lKdEhRZGtweEI2N2lrZmNxa1BYYkZsMFNUY1FicjBlN2djdDFBeWNT?oc=5",
       "description": "Bitcoin Selloff Deepens As Bitwise CIO Warns Of ‘Wilderness’ Ahead, Whales Buy The Dip – But $57K Remains In Sight Stocktwits"
+    },
+    {
+      "published": "2026-11-15T02:10:53+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "Moneycontrol.com",
+      "title": "Daily Voice: Nifty could end 2026 at all-time high as market rally broadens, says Abhishek Banerjee - Moneycontrol.com",
+      "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQalFFWDF5cHFrNExCVzdBSWZ6QldDVkJyakhuREtlOXlWTlRZVWRCbVFRNVBCSU1fbnZURlVUZUJ5Z2tVd0MyM29MNS0zcVFiQ3Z6cmhobjViWnNqQTZaYVRjR1VnamlyMVRJUmY5YjE0YUJ6Z1g1NjU3RUUwN2FtLWtHendVaFI1aVlUb0ZmMFFXLWluWjFsbE01QVdjYzFFendGandhQjQ1enplN1ljZ2M4T2dOV3lrcmJRX0pwTXJjSVY0WThITkRZN3MxWExwMlpDR0Y5V05CVS1NQkZwN3BvMmNOd29rOGJ4NFNGN2FfMDVrOWVURlhR0gH6AUFVX3lxTFBqUUVYMXlwcWs0TEJXN0FJZnpCV0NWQnJqSG5ES2U5eVZOVFlVZEJtUVE1UEJJTV9udlRGVVRlQnlna1V3QzIzb0w1LTNxUWJDdnpyaGhuNWJac2pBNlphVGNHVWdqaXIxVElSZjliMTRhQnpnWDU2NTdFRTA3YW0ta0d6d1VoUjVpWVRvRmYwUVctaW5aMWxsTTVBV2NjMUV6d0Zqd2FCNDV6emU3WWNnYzhPZ05XeWtyYlFfSnBNcmNJVjRZOEhORFk3czFYTHAyWkNHRjlXTkJVLU1CRnA3cG8yY053b2s4Yng0U0Y3YV8wNWs5ZVRGWFE?oc=5",
+      "description": "Daily Voice: Nifty could end 2026 at all-time high as market rally broadens, says Abhishek Banerjee Moneycontrol.com"
     },
     {
       "published": "2026-11-15T01:00:00+00:00",
@@ -34907,6 +34925,15 @@
       "title": "Bitcoin Today: Falls 6.26% to $63,965 as Ether, Solana Drop - JournalArta",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVQ5NXMxenlPT1JycUhlZjFWWHNTblRJM0pFNG9LVHVyWVpJMzRJd2FKQTFRYzctQW9OM2l0bktLMEVlRUNDVlRrTWpWbzJNYVdOcC0zQTFEUVRsQmhtSENiLXlEQTVZdHBOUFk0aDdyWHRhU2R6eTAxQ09SQ2ZGSXVZZGZ3ZGNBdDRqM3pQakNKX3VpSmUxVmtQUV8waVFTS0VXY1gySWlrSy0zWjAwX3Jn?oc=5",
       "description": "Bitcoin Today: Falls 6.26% to $63,965 as Ether, Solana Drop JournalArta"
+    },
+    {
+      "published": "2026-11-14T20:04:26+00:00",
+      "score": 1.0,
+      "themes": "['AI / tech risk']",
+      "source": "TradingKey",
+      "title": "The Week That Proved AI Is Real: MSFT +16%, AMZN +10%, META -10%, AAPL -4% - Winners, Losers and Key Takeaways - TradingKey",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQdDlGT0RCTjZrNnJHZGpMV1BJUHY5TFVTR0RQWlBPUTV6ZUtrMy1Yd3ptRjVhcDM1WjJNMTg2T0lwS3FGM3FUN01BaWxYNUtrdDdFb1FQTXpqTWF4YXNJa1VlZUowN0lZVXc1TmkwamMwMDRJalIzZG5QS2VOVWNYVkJJOENBWjBHeGlIdlNyVzRONmo1MzdlamVZMGxqTVg3c3ZrdmNxNnd2all5OFJHbHViMjlxZllCNTA0WEZzbGNudnpoXy1wSDJSWFRFWXBmUzVPRFB4a0w?oc=5",
+      "description": "The Week That Proved AI Is Real: MSFT +16%, AMZN +10%, META -10%, AAPL -4% - Winners, Losers and Key Takeaways TradingKey"
     },
     {
       "published": "2026-11-14T16:52:31+00:00",
@@ -34961,15 +34988,6 @@
       "title": "FPI Inflows Surge To ₹76,189 Crore In November As Foreign Investors Return After Two Months Of Selling - Free Press Journal",
       "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNY2lsTnBBSlZZbTFBOEVIN19ZYkJkaTNlSDJhalFjSnhvR3djaGtPR0pETEQyaWV1RllPZUFTZFdNT0Riak9nNFNobzItdzBZVk9YdmJlb0FhTjdTdzRDY3hQbU9EQ3BPb1dqdkZSWkl6SFhTQjVmZmxyREFzMGd3bkt4WHRwNzFzWGR4N2tBOGFKb3duaGcxWWVUVHAtMk9LTDRjejdTaWY4M2h2Y3lFRFhCSVBQQlc5V3NjU3JLTy1PSFVmdi1vX2hDSTF0REVxSGlaTDd6S2vSAd4BQVVfeXFMTXJNZGpJaUJFbnJSZkY2UUNkeWVmMHh5SV9zZ2k4dkJmV3YwcWowZXZsS3dSV3lHZlRiY21EMFVHTzlPcUxwTEc4WjNYVy13dFR4SGZqMnVmSjhlZ1pNWkFxZ0c3Ui1QdF9VN2FNMHlrcDhVcHlRd2xqYzNHeW5vX3JZMnBiSTdfZEdmWkY4WldiVEFOVGlQV1NCU1FEWTQ0QkNPLTFYMTk0QklkeFZFaEZzU04weDZZRmpsczB6Rk8wdHk5VUJROHRzdkdkb0QxZk9mNWNCUEdHV250c1FB?oc=5",
       "description": "FPI Inflows Surge To ₹76,189 Crore In November As Foreign Investors Return After Two Months Of Selling Free Press Journal"
-    },
-    {
-      "published": "2026-11-14T11:53:21+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "DW.com",
-      "title": "Is Claude-maker Anthropic going public just as the AI bubble bursts? - DW.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWVJPMWF5cVBHQjhIYUZ4V1F1RmdRbTNvWEVDWmZXY2JZSGJMWE81akNWVHFQc0FsRDN0aFk0VmtfT1ZfdFVKdXUxcF91UFczV3lDbzVVSWVwX2YxV0JQdXd5b2FsVm9HRzl2STFFSjNwSWQtS3QtSnBLMm9IUjZCNHBhUmdXLXo5bDc2dWJzQkZGZ9IBkgFBVV95cUxQQmlPNUVGME9kZDNadXdsbk5TRkpXd0FmVDltVDBuRVFUX3REWFJDSWM2X3Z3SzlLbzViX1l2VGxJSl9Uc2dkcm9wVkV2SkdSWk5aYTg3bWw5VERKWnB0WC1xcXlPLU5BdmlZY3RJYnhiaHhoS2NTeTJ6NUtOeHpTV1lvNjUtQ2pCdEJrVTZ4Vm9NUQ?oc=5",
-      "description": "Is Claude-maker Anthropic going public just as the AI bubble bursts? DW.com"
     },
     {
       "published": "2026-11-14T09:42:41+00:00",
