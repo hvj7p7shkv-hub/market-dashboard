@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-16 08:08
+Generated: 2026-11-16 08:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,7 +16,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 How Nvidia's Fall Hits Your Mutual Fund Portfolio Upstox
 
-### 2. Nvidia Down 30% as AI Selloff Resumes Before Earnings - shattered.io
+### 2. Tokyo stocks fall on weak chip, AI shares amid Nvidia's uncertain future - 毎日新聞
+
+- Source: 毎日新聞
+- Published: 2026-11-16T08:03:45+00:00
+- Themes: AI / tech risk, market selling
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMic0FVX3lxTE0tazgtcWIxT3BKWks1RHVzNmU5Ulp1M3dRNUNBS212VTZNV0lDY0VoNF9MeFNXaXd6MmtvY1RsbmlCZHZiNzB2WGZKbW51cG01S3R2M0VZRl90M0xGWmxQMFFQbFhlQlJMSEFhZ05LclUzNGc?oc=5
+
+Tokyo stocks fall on weak chip, AI shares amid Nvidia's uncertain future 毎日新聞
+
+### 3. Nvidia Down 30% as AI Selloff Resumes Before Earnings - shattered.io
 
 - Source: shattered.io
 - Published: 2026-11-16T07:20:03+00:00
@@ -26,7 +36,7 @@ How Nvidia's Fall Hits Your Mutual Fund Portfolio Upstox
 
 Nvidia Down 30% as AI Selloff Resumes Before Earnings shattered.io
 
-### 3. AI selloff resumes as Nvidia earnings loom - TradingView
+### 4. AI selloff resumes as Nvidia earnings loom - TradingView
 
 - Source: TradingView
 - Published: 2026-11-16T07:00:00+00:00
@@ -36,7 +46,7 @@ Nvidia Down 30% as AI Selloff Resumes Before Earnings shattered.io
 
 AI selloff resumes as Nvidia earnings loom TradingView
 
-### 4. Morning Bid: AI selloff resumes as Nvidia earnings loom - Reuters
+### 5. Morning Bid: AI selloff resumes as Nvidia earnings loom - Reuters
 
 - Source: Reuters
 - Published: 2026-11-16T05:32:00+00:00
@@ -46,7 +56,7 @@ AI selloff resumes as Nvidia earnings loom TradingView
 
 Morning Bid: AI selloff resumes as Nvidia earnings loom Reuters
 
-### 5. MORNING BID EUROPE-AI selloff resumes as Nvidia earnings loom - marketscreener.com
+### 6. MORNING BID EUROPE-AI selloff resumes as Nvidia earnings loom - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-11-16T05:31:15+00:00
@@ -56,7 +66,7 @@ Morning Bid: AI selloff resumes as Nvidia earnings loom Reuters
 
 MORNING BID EUROPE-AI selloff resumes as Nvidia earnings loom marketscreener.com
 
-### 6. Asian Chip Stocks Fall as Investors Await Nvidia’s Earnings - www.tokenpost.com
+### 7. Asian Chip Stocks Fall as Investors Await Nvidia’s Earnings - www.tokenpost.com
 
 - Source: www.tokenpost.com
 - Published: 2026-11-16T04:56:00+00:00
@@ -66,7 +76,7 @@ MORNING BID EUROPE-AI selloff resumes as Nvidia earnings loom marketscreener.com
 
 Asian Chip Stocks Fall as Investors Await Nvidia’s Earnings www.tokenpost.com
 
-### 7. Malaysia Morning Wrap | AI Selloff Weighs on Wall Street; Malaysia Probes Nvidia Chip Diversion - Moomoo
+### 8. Malaysia Morning Wrap | AI Selloff Weighs on Wall Street; Malaysia Probes Nvidia Chip Diversion - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-16T00:13:04+00:00
@@ -76,7 +86,17 @@ Asian Chip Stocks Fall as Investors Await Nvidia’s Earnings www.tokenpost.com
 
 Malaysia Morning Wrap | AI Selloff Weighs on Wall Street; Malaysia Probes Nvidia Chip Diversion Moomoo
 
-### 8. China stocks fall as AI hardware selloff, weak data weigh - Investify
+### 9. Fed Gov. Michelle Bowman: Risk of "Large Correction" in Stocks if AI Doesn't Pan Out - The Motley Fool
+
+- Source: The Motley Fool
+- Published: 2026-11-16T08:10:00+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNQVlpSktzNWlnSWJnMkhOY1phZ0FLQlpmUDJ1bEVXLU5BZ0hIclJZdFZPUk1YT1hhMHkxRXFCMGJrdDZUbkxCNmxnS1VlcGc4eFZ1cTdpdzRERTQ1SmRwZzhobTUtczV4eDZ5cW5BSzEzNHIwUEFHc3R6UHBPdXUxbDdLal85RnZmYzI2d25CdXd0aldiamxucGpyMlIwLW9LSGlrSFNBUWhvazd2MkNHNGNTTUhadUJKbWJQVENhMVlaUjQ3b05j?oc=5
+
+Fed Gov. Michelle Bowman: Risk of "Large Correction" in Stocks if AI Doesn't Pan Out The Motley Fool
+
+### 10. China stocks fall as AI hardware selloff, weak data weigh - Investify
 
 - Source: Investify
 - Published: 2026-11-16T07:06:29+00:00
@@ -86,7 +106,7 @@ Malaysia Morning Wrap | AI Selloff Weighs on Wall Street; Malaysia Probes Nvidia
 
 China stocks fall as AI hardware selloff, weak data weigh Investify
 
-### 9. China Stocks Fall as AI Hardware Selloff and Weak Data Weigh - Daily Voice Of Asia
+### 11. China Stocks Fall as AI Hardware Selloff and Weak Data Weigh - Daily Voice Of Asia
 
 - Source: Daily Voice Of Asia
 - Published: 2026-11-16T06:15:43+00:00
@@ -96,7 +116,7 @@ China stocks fall as AI hardware selloff, weak data weigh Investify
 
 China Stocks Fall as AI Hardware Selloff and Weak Data Weigh Daily Voice Of Asia
 
-### 10. China’s stocks fall as AI hardware selloff, weak data weigh - Free Malaysia Today
+### 12. China’s stocks fall as AI hardware selloff, weak data weigh - Free Malaysia Today
 
 - Source: Free Malaysia Today
 - Published: 2026-11-16T05:35:48+00:00
@@ -106,7 +126,7 @@ China Stocks Fall as AI Hardware Selloff and Weak Data Weigh Daily Voice Of Asia
 
 China’s stocks fall as AI hardware selloff, weak data weigh Free Malaysia Today
 
-### 11. Nikkei briefly dips below ¥60,000 as AI, semiconductor selloff spreads across Asian markets - BigGo Finance
+### 13. Nikkei briefly dips below ¥60,000 as AI, semiconductor selloff spreads across Asian markets - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-16T04:25:00+00:00
@@ -116,7 +136,7 @@ China’s stocks fall as AI hardware selloff, weak data weigh Free Malaysia Toda
 
 Nikkei briefly dips below ¥60,000 as AI, semiconductor selloff spreads across Asian markets BigGo Finance
 
-### 12. KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul - Yahoo Finance
+### 14. KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-16T03:41:00+00:00
@@ -126,7 +146,7 @@ Nikkei briefly dips below ¥60,000 as AI, semiconductor selloff spreads across A
 
 KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul Yahoo Finance
 
-### 13. KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul - BeInCrypto
+### 15. KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul - BeInCrypto
 
 - Source: BeInCrypto
 - Published: 2026-11-16T03:28:19+00:00
@@ -136,7 +156,7 @@ KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul Yahoo Finance
 
 KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul BeInCrypto
 
-### 14. Advantest Sheds $12.7B as Tokyo Chip Stocks Fall Pre-Nvidia - FourWeekMBA
+### 16. Advantest Sheds $12.7B as Tokyo Chip Stocks Fall Pre-Nvidia - FourWeekMBA
 
 - Source: FourWeekMBA
 - Published: 2026-11-16T03:05:29+00:00
@@ -146,7 +166,7 @@ KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul BeInCrypto
 
 Advantest Sheds $12.7B as Tokyo Chip Stocks Fall Pre-Nvidia FourWeekMBA
 
-### 15. Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-Off - Yahoo Finance UK
+### 17. Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-Off - Yahoo Finance UK
 
 - Source: Yahoo Finance UK
 - Published: 2026-11-15T11:14:00+00:00
@@ -156,7 +176,7 @@ Advantest Sheds $12.7B as Tokyo Chip Stocks Fall Pre-Nvidia FourWeekMBA
 
 Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-Off Yahoo Finance UK
 
-### 16. Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind markets paring gains- Moneycontrol.com - LinkedIn
+### 18. Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind markets paring gains- Moneycontrol.com - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-11-16T07:30:28+00:00
@@ -166,17 +186,7 @@ Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-
 
 Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind markets paring gains- Moneycontrol.com LinkedIn
 
-### 17. Bernstein: AI Hardware Stocks Caught in Indiscriminate Selloff; Dell, SanDisk and Others "Unfairly Punished" - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-16T07:25:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9NWnoxMmkyamJMU1JFTFhOWTVDOXpIa20zS0pITFREaHR0Rl91OFhaWjJIQ1dqMzZGMkEtaE9TWndrTHlSRWMzLTR1bFhIeWk4ek9hQ3N3b0Z0Zm04ZVdnUU9wLXJBendaZURBUHNVUFJRdGpxNXc?oc=5
-
-Bernstein: AI Hardware Stocks Caught in Indiscriminate Selloff; Dell, SanDisk and Others "Unfairly Punished" BigGo Finance
-
-### 18. Equities: Nvidia sell-off weighs on Asian markets - Deutsche Bank - FXStreet
+### 19. Equities: Nvidia sell-off weighs on Asian markets - Deutsche Bank - FXStreet
 
 - Source: FXStreet
 - Published: 2026-11-16T07:22:46+00:00
@@ -185,16 +195,6 @@ Bernstein: AI Hardware Stocks Caught in Indiscriminate Selloff; Dell, SanDisk an
 - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMnFpZEgzbnR1Z0Zid1FKbkZieEJPN1BzR3NNRWY1QWZFUFdpTWJ6b1FsV1pUbWZUVUhXVlRNU3ZmUk9IVHVOOVZaYTFyeDZKbEh4cUdjbmdmUXhIc0VMM1FvNVlrUTF5dHRGOUEteThaRXlpb2txOHh1cGJyc3IzNUVZUmtta1ktMDJfWmlQSU5RbjltbkcxN09kTVNlN3RBY0ZqdHdRM3g?oc=5
 
 Equities: Nvidia sell-off weighs on Asian markets - Deutsche Bank FXStreet
-
-### 19. South Korea's Top Traders Sell Samsung Electronics, SK Hynix in Selloff, Pile Into Semiconductor Suppliers - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-16T06:55:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE9lRG9ycWVIeFNodG0xNkNQSGJSNkRPZndNVzVtamdwX29VanRnT1N5M1ZuYy1HampkN0dObnV6TTRGMi1CUGtGX0VUNWZDaEVqaU9qWmR5Rzc3ZjVoRTlOTTR3Y1pkMUxGWWsycVpuLXJmY0N6VFE?oc=5
-
-South Korea's Top Traders Sell Samsung Electronics, SK Hynix in Selloff, Pile Into Semiconductor Suppliers BigGo Finance
 
 ### 20. China stocks fall as AI rally concerns, weak economic data weigh on sentiment - The Economic Times
 
@@ -296,17 +296,7 @@ Pre-Market Update: GIFT Nifty Signals Positive Opening; Oil Prices, Inflation an
 
 Jensen Huang's Nvidia comeback talks spark 3% jump in stock-linked futures after brutal selloff Moneycontrol.com
 
-### 30. AI infrastructure sell-off erases $4.2T from industrial, energy stocks (XLE:NYSEARCA) - Seeking Alpha
-
-- Source: Seeking Alpha
-- Published: 2026-11-15T14:52:40+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzNlQkpvNF9BU3RTY1pTZEhYamFLYlNraVJiSWJlbTVRNDZzc2VQZlpiRGg0WlM4ai1hUVZwNnJhOEUxTDdad3I5cjh6eVRGRHlNMTROMVpSc3A2RnEtekV2OEViSUhMWU05bjJxQUg1N2FMc1E1ejVUb0FKTUFheEZZRDUwWjlMMHdrSl9MT2ZYdGdSLTdhVFJ5OFNxODdDcUFoWWpBb3RPUQ?oc=5
-
-AI infrastructure sell-off erases $4.2T from industrial, energy stocks (XLE:NYSEARCA) Seeking Alpha
-
-### 31. Anthropic's $64 billion IPO lands in the middle of an AI selloff - Startup Fortune
+### 30. Anthropic's $64 billion IPO lands in the middle of an AI selloff - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-11-15T12:44:04+00:00
@@ -316,7 +306,7 @@ AI infrastructure sell-off erases $4.2T from industrial, energy stocks (XLE:NYSE
 
 Anthropic's $64 billion IPO lands in the middle of an AI selloff Startup Fortune
 
-### 32. Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market correction - WION
+### 31. Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market correction - WION
 
 - Source: WION
 - Published: 2026-11-15T10:50:00+00:00
@@ -326,7 +316,7 @@ Anthropic's $64 billion IPO lands in the middle of an AI selloff Startup Fortune
 
 Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market correction WION
 
-### 33. Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correction likely - TradingView
+### 32. Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correction likely - TradingView
 
 - Source: TradingView
 - Published: 2026-11-16T05:50:00+00:00
@@ -336,7 +326,7 @@ Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market corre
 
 Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correction likely TradingView
 
-### 34. Nifty Outlook for November 16: Index may see near-term consolidation after Friday's fall; key levels to watch - CNBC TV18
+### 33. Nifty Outlook for November 16: Index may see near-term consolidation after Friday's fall; key levels to watch - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-15T12:44:20+00:00
@@ -346,7 +336,7 @@ Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correctio
 
 Nifty Outlook for November 16: Index may see near-term consolidation after Friday's fall; key levels to watch CNBC TV18
 
-### 35. Nifty Holds Above 25,000 Despite Friday’s Fall, Analysts See More Upside As Bullish Trend Remains Intact - Free Press Journal
+### 34. Nifty Holds Above 25,000 Despite Friday’s Fall, Analysts See More Upside As Bullish Trend Remains Intact - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-15T12:05:31+00:00
@@ -355,6 +345,16 @@ Nifty Outlook for November 16: Index may see near-term consolidation after Frida
 - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNSmlodVVJQmd4QUhKYVdOWGMxR1FvT29NWTNteXlXbTNSWnRFNl9QNzNDQ2h5T1NFMEZvc1MtWm9xLWJ6TWg4MWpYQ0NfNWJVWEREQzV4LU1DMHNLY1JUM1VLV00yM2ZjSndLemVWa2RZeXZNYVlXQmxIOEdoaUx4RncxS1ZwTjBIX29NVnZKaHg2NmdIVU5nWmV1UVF4dFVFblNqa0RLYllhMmhJV0czeUYzNVRETk9ZVG0zcUZFNXdzQkpPaXpNS2RPVWZEUGIxcF9meW9fR1ljUdIB3wFBVV95cUxPQWg0YnVTaGtPckJjYW1FdV9JdWpvSXI5cnB5VjJCdkxDQ2N3VFRIRV82ajBDNlEyLVktT3NsQVdBdGNldHdaMzJhekRaaTdDaEc4Um1QeG1fMWhTOHBzSjVFMmduVjVtZVRkN2hKUHZXNmd0dXBVcUpKZnQydE8tQ21HQjR5bmwyR0VOR1ZodjBTLXBxYlRaWGFUUDJPYTQxelZWeDZ4MHRmWGdnM3R5eU1HOEhyT0E0Qk50b214MDVVNm52N2Y4TlBZV1JMbzYyVC1SWWRwMVQ5bGpwLUgw?oc=5
 
 Nifty Holds Above 25,000 Despite Friday’s Fall, Analysts See More Upside As Bullish Trend Remains Intact Free Press Journal
+
+### 35. India’s mutual funds built stakes in 11 Nifty stocks before market rebound - Elets BFSI
+
+- Source: Elets BFSI
+- Published: 2026-11-16T08:21:38+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxPY3ZobE5kczNxUGtZdGx1QnV0VmRWOXdZaDFvak56TDIyZjEwUlNqdlE0NVJhb1lKbmlhLWtyYzFnelZIdC0wbHBMdlNSSE1od3d5U1JrdFN6RE96bXAwcHVFZHRnRFB6RXlWd1NWRkdXdlkyazl6c1M1MU94ZE9KdWEyMFF1ay1fYVd2Y1h4ZXhzWFpOUWVVY2pXTjQ?oc=5
+
+India’s mutual funds built stakes in 11 Nifty stocks before market rebound Elets BFSI
 
 ### 36. As India’s Mutual Fund Industry Outpaces Major Global Markets, Here’s Why You Should Consider Starting an SIP Today - Mid-Day
 
@@ -656,17 +656,27 @@ Stock Market This Week, WPI Inflation, ₹84,290 Crore FII Inflows & Crude Oil A
 
 Stock Market Drivers: WPI, FII, Crude Oil, Global Cues Rediff MoneyWiz
 
-### 66. Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut IPO - Morningstar
+### 66. FII inflows hit $9.1 billion, yet India lags: How Jefferies’ model portfolio beats MSCI - The Financial Express
+
+- Source: The Financial Express
+- Published: 2026-11-16T08:16:30+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQTWliSTZFdDFWa2gxM2dmQ0N0ZHU5ZGE5bXRack4taXUtTW9KUjZJTDdxQmNLMXVLUVp0emdUVjRRaWlqQ21kcDgzNmVvSEw3TjRTTDRpV0V1MUlybDFPV0k0Si1JaGZScXZ4MUZJMFlHaThYczVSV1V4OFZEWUk3cV9Vcy1LLUhGWDhsT3VtWEZkMUFGeWJsQmcyTUt0MjVrQ1QxZXE1MzQtODJ5c2RqYXdrTUxxRkdpcTM3emx3aVdzZW1DMVdHRmU3NVrSAdMBQVVfeXFMTnotNjdfdGpNLWczMHpWTW9oSV8wbFRQS3BJUHBSTXcyS3pMY3h5MGVxX1dBZGtiejhIcnF1djJvTXFsc0p3WGExLWlsM2otQnpISEpRbllhR0FrWGpRUHhYVG1RMUE3M3ZPYy1oUVQ0anFGcXg3OXlMcE51OHgxQjRUUVlHY2hFQzE3M2xGZDByRTlBOGswOGREMG4zVEMyalpqZ3pQOUtaSDNKNkdfNzJoMjA1VWVfbDJXQkhlMkJiSVpKUG81d3BWc2NNczhZY1B6OA?oc=5
+
+FII inflows hit $9.1 billion, yet India lags: How Jefferies’ model portfolio beats MSCI The Financial Express
+
+### 67. Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut IPO - Morningstar
 
 - Source: Morningstar
-- Published: 2026-11-16T07:07:48+00:00
+- Published: 2026-11-16T07:11:15+00:00
 - Themes: AI / tech risk, macro / flows
 - Score: 2
 - Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVTFjMXlJeldkX0ZiWUZKanBsenJ0cUQ2RXFkNXE5ZWgtR0FkMEhfS1FNa1ctVXVKTTdlb0hFV3lkeEgzVERLWURydVMydVhKaHdmSzRrX1plZGJUZ0lpN0gwNTF4RFNJUDBlV3dkM0VHSXpiTTRSWHAtM2tyVy1sdU1WZUI1MGJNRF81RkZKbDByY2JRRmRZUU5aMmJlZ0NxLVFtaXZJLTgwZnM?oc=5
 
 Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut IPO Morningstar
 
-### 67. India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran - Business Standard
+### 68. India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-16T05:18:10+00:00
@@ -676,7 +686,7 @@ Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut
 
 India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran Business Standard
 
-### 68. Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Systems down 3.70%, Krishna Defence declines 3.37% - Business Upturn
+### 69. Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Systems down 3.70%, Krishna Defence declines 3.37% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-11-16T05:05:29+00:00
@@ -686,7 +696,7 @@ India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran Busines
 
 Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Systems down 3.70%, Krishna Defence declines 3.37% Business Upturn
 
-### 69. PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines 2.08% - Business Upturn
+### 70. PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines 2.08% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-11-16T05:00:29+00:00
@@ -696,7 +706,7 @@ Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Sy
 
 PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines 2.08% Business Upturn
 
-### 70. FII buying in Nov crosses ₹80,000 cr; will the foreign money keep flowing into Indian equities? - Fortune India
+### 71. FII buying in Nov crosses ₹80,000 cr; will the foreign money keep flowing into Indian equities? - Fortune India
 
 - Source: Fortune India
 - Published: 2026-11-16T04:41:27+00:00
@@ -706,7 +716,7 @@ PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines
 
 FII buying in Nov crosses ₹80,000 cr; will the foreign money keep flowing into Indian equities? Fortune India
 
-### 71. Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView
+### 72. Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView
 
 - Source: TradingView
 - Published: 2026-11-16T04:19:00+00:00
@@ -716,7 +726,7 @@ FII buying in Nov crosses ₹80,000 cr; will the foreign money keep flowing into
 
 Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues TradingView
 
-### 72. Why is market rising today? Sensex jumps 700 pts, Nifty above 25,300 as D-Street’s rally resumes. 6 factor - The Economic Times
+### 73. Why is market rising today? Sensex jumps 700 pts, Nifty above 25,300 as D-Street’s rally resumes. 6 factor - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-16T04:09:34+00:00
@@ -726,7 +736,7 @@ Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, G
 
 Why is market rising today? Sensex jumps 700 pts, Nifty above 25,300 as D-Street’s rally resumes. 6 factor The Economic Times
 
-### 73. Indian shares rise on record foreign inflows, crude price drop - Reuters
+### 74. Indian shares rise on record foreign inflows, crude price drop - Reuters
 
 - Source: Reuters
 - Published: 2026-11-16T02:49:00+00:00
@@ -736,7 +746,7 @@ Why is market rising today? Sensex jumps 700 pts, Nifty above 25,300 as D-Street
 
 Indian shares rise on record foreign inflows, crude price drop Reuters
 
-### 74. Moneycontrol Pro Market Outlook | Can oil’s rebound halt India’s market rally? - Moneycontrol.com
+### 75. Moneycontrol Pro Market Outlook | Can oil’s rebound halt India’s market rally? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T02:34:18+00:00
@@ -746,7 +756,7 @@ Indian shares rise on record foreign inflows, crude price drop Reuters
 
 Moneycontrol Pro Market Outlook | Can oil’s rebound halt India’s market rally? Moneycontrol.com
 
-### 75. FPI buying likely driven by short covering; long-term flows await rate cues - Business Standard
+### 76. FPI buying likely driven by short covering; long-term flows await rate cues - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-16T01:43:00+00:00
@@ -756,7 +766,7 @@ Moneycontrol Pro Market Outlook | Can oil’s rebound halt India’s market rall
 
 FPI buying likely driven by short covering; long-term flows await rate cues Business Standard
 
-### 76. Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint
+### 77. Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - Livemint
 
 - Source: Livemint
 - Published: 2026-11-16T01:12:05+00:00
@@ -766,7 +776,7 @@ FPI buying likely driven by short covering; long-term flows await rate cues Busi
 
 Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues Livemint
 
-### 77. Monday Watchlist: Can FII build-up lift Nifty even as Tech flashes sell signal? - The Financial Express
+### 78. Monday Watchlist: Can FII build-up lift Nifty even as Tech flashes sell signal? - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-11-16T00:00:00+00:00
@@ -776,7 +786,7 @@ Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, G
 
 Monday Watchlist: Can FII build-up lift Nifty even as Tech flashes sell signal? The Financial Express
 
-### 78. Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg.com
+### 79. Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-16T07:02:00+00:00
@@ -786,7 +796,7 @@ Monday Watchlist: Can FII build-up lift Nifty even as Tech flashes sell signal? 
 
 Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap Bloomberg.com
 
-### 79. SEBI may ease rules for foreign investors, raise FPI beneficial ownership threshold to 25% - Moneycontrol.com
+### 80. SEBI may ease rules for foreign investors, raise FPI beneficial ownership threshold to 25% - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T06:34:07+00:00
@@ -795,13 +805,3 @@ Asian Stocks Brace for AI Pressure, Data Dump: Markets Wrap Bloomberg.com
 - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcGJtTlE5YU1YSi1WMTh2RU8yZWtmLWZkb21wSmRRZk8taVp3RlR5b3BIa0JuXzMzaU5QNWItTkI1Mm9rLWhHdkd3ODI5bDByY3NoODlvSEJPaHdLY2RKdlRRNUF5Z010bkpXWENLVE1SYzFmbjJDdFNVWDRPZ2hVZWRyRlEyemw4TmdHVkxpdjFUaThvd2VmeE50ODVTajVHYXZfQUlkc3BNdmFNSmN4M2JrdUNZeTlrb2g3ODdkaXZPM2dTQVlfM1JDa3lMZDhPX1E5TWNpcVhJeTdpdThlQmtCT0pTc3Iz0gHuAUFVX3lxTE14Zms2X0U1all3SmpYeUJFVnlIV01yalFDUVJVdFhiZE1vT3NpZVJIcFJVV3NhWVNsMEdvNTlNVHA4NGswOEhwYjdDZV9RRGZYcDc3ZG8tUHdvZDV1WjRfeUVVNU9kNEN0SU8xSWFGYjJYTkRncEhTZUVhTWNZZkRNMXFTLWVkd1A0N0UtcXczTFA2TzhzbVgtVm5ZeWdKbllYQ05qZ3RBdnJMSjVzLUhud1VOeHhwOHBaRGxRTk5neUJTc2hjLUtPX1U4U3F5OU4wb3ladXhDNHUwVDUxM2Y2YlkzQjluVld1dkJseWc?oc=5
 
 SEBI may ease rules for foreign investors, raise FPI beneficial ownership threshold to 25% Moneycontrol.com
-
-### 80. Jubilant Pharmova shares swing 8% as Q2 profit falls 74% - Business Upturn
-
-- Source: Business Upturn
-- Published: 2026-11-16T06:15:39+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxPajBNMTR5bHlPNkNIb29QQXRzQ3V3NkhMbTZkekF2RWZuMjRvNEhoU0xMOGJvOUVxSDlUcHgwLTJHazlNdkxsbGJOaHlBNFRTZ0xobmEyUDNmMDhWdHdCdzhWQXk4bTdXRi05NmMwNlVxRk8xcGhWVEFYUWZJUVl6cHdHR3pTc3M0QmRKbGdIQUxQQW11UkxCN2pyU1lzcl8tcU1PZktzd2hSUE1FT1pld1l3?oc=5
-
-Jubilant Pharmova shares swing 8% as Q2 profit falls 74% Business Upturn
