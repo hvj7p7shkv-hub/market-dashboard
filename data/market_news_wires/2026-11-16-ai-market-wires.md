@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-16 09:38
+Generated: 2026-11-16 10:25
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -196,7 +196,17 @@ Advantest Sheds $12.7B as Tokyo Chip Stocks Fall Pre-Nvidia FourWeekMBA
 
 Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-Off Yahoo Finance UK
 
-### 20. Japan Stocks Plunge 1,480 Points as AI Selloff Deepens - News On Japan
+### 20. Why SpaceX Stock Is Defying the AI Selloff After Starship Rocket Launch - Barron's
+
+- Source: Barron's
+- Published: 2026-11-16T10:09:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxNV0hNZl9SbjNBOC1LMDdwcVREZ1ZiWUFwNHVsUWp2LXZkUzYwcnBLeHI3Z1V6Q0hEcWkyajg0ODJUMHpTSmRoeUJMVU50Z0NtQ2pyMkpFdllLS2lqamFRdkdGNmVoeTF6eGdSbXVsa25INHRmYXkydUlTcGxPV3l4bkdUbw?oc=5
+
+Why SpaceX Stock Is Defying the AI Selloff After Starship Rocket Launch Barron's
+
+### 21. Japan Stocks Plunge 1,480 Points as AI Selloff Deepens - News On Japan
 
 - Source: News On Japan
 - Published: 2026-11-16T09:37:08+00:00
@@ -206,7 +216,7 @@ Technology Stocks Remain Central to S&P 500 Performance Despite AI-Related Sell-
 
 Japan Stocks Plunge 1,480 Points as AI Selloff Deepens News On Japan
 
-### 21. China stocks end near 16-month low as AI hardware selloff deepens - KLSE Screener
+### 22. China stocks end near 16-month low as AI hardware selloff deepens - KLSE Screener
 
 - Source: KLSE Screener
 - Published: 2026-11-16T08:42:07+00:00
@@ -216,7 +226,7 @@ Japan Stocks Plunge 1,480 Points as AI Selloff Deepens News On Japan
 
 China stocks end near 16-month low as AI hardware selloff deepens KLSE Screener
 
-### 22. London open: FTSE gains as investors shrug off Asian tech selloff - Sharecast.com
+### 23. London open: FTSE gains as investors shrug off Asian tech selloff - Sharecast.com
 
 - Source: Sharecast.com
 - Published: 2026-11-16T08:38:45+00:00
@@ -226,7 +236,7 @@ China stocks end near 16-month low as AI hardware selloff deepens KLSE Screener
 
 London open: FTSE gains as investors shrug off Asian tech selloff Sharecast.com
 
-### 23. Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind markets paring gains- Moneycontrol.com - LinkedIn
+### 24. Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind markets paring gains- Moneycontrol.com - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-11-16T07:30:28+00:00
@@ -236,7 +246,7 @@ London open: FTSE gains as investors shrug off Asian tech selloff Sharecast.com
 
 Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind markets paring gains- Moneycontrol.com LinkedIn
 
-### 24. Equities: Nvidia sell-off weighs on Asian markets - Deutsche Bank - FXStreet
+### 25. Equities: Nvidia sell-off weighs on Asian markets - Deutsche Bank - FXStreet
 
 - Source: FXStreet
 - Published: 2026-11-16T07:22:46+00:00
@@ -246,7 +256,7 @@ Sensex falls 400 pts from day's high, Nifty below 25,250: Key reasons behind mar
 
 Equities: Nvidia sell-off weighs on Asian markets - Deutsche Bank FXStreet
 
-### 25. China stocks fall as AI rally concerns, weak economic data weigh on sentiment - The Economic Times
+### 26. China stocks fall as AI rally concerns, weak economic data weigh on sentiment - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-16T05:39:22+00:00
@@ -256,7 +266,7 @@ Equities: Nvidia sell-off weighs on Asian markets - Deutsche Bank FXStreet
 
 China stocks fall as AI rally concerns, weak economic data weigh on sentiment The Economic Times
 
-### 26. Sensex slips 400 points as Nifty falls below 25,250 - NewsBytes
+### 27. Sensex slips 400 points as Nifty falls below 25,250 - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-11-16T05:30:13+00:00
@@ -266,7 +276,7 @@ China stocks fall as AI rally concerns, weak economic data weigh on sentiment Th
 
 Sensex slips 400 points as Nifty falls below 25,250 NewsBytes
 
-### 27. Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 - WSJ
+### 28. Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 - WSJ
 
 - Source: WSJ
 - Published: 2026-11-16T05:24:39+00:00
@@ -276,7 +286,7 @@ Sensex slips 400 points as Nifty falls below 25,250 NewsBytes
 
 Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. for Nov. 13 WSJ
 
-### 28. Asian Stocks Fall as Nvidia Fallout Deepens: Explained - JournalArta
+### 29. Asian Stocks Fall as Nvidia Fallout Deepens: Explained - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-16T05:17:40+00:00
@@ -286,7 +296,7 @@ Tech Stocks Fall as Next Week Brings Big Tests for the AI Trade | Markets P.M. f
 
 Asian Stocks Fall as Nvidia Fallout Deepens: Explained JournalArta
 
-### 29. Sensex falls 450 pts from day's high, Nifty near 25,200: Key reasons behind markets paring gains - Moneycontrol.com
+### 30. Sensex falls 450 pts from day's high, Nifty near 25,200: Key reasons behind markets paring gains - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T05:14:17+00:00
@@ -296,7 +306,7 @@ Asian Stocks Fall as Nvidia Fallout Deepens: Explained JournalArta
 
 Sensex falls 450 pts from day's high, Nifty near 25,200: Key reasons behind markets paring gains Moneycontrol.com
 
-### 30. Sensex and Nifty Set for Positive Start as Asian Stocks Fall - JournalArta
+### 31. Sensex and Nifty Set for Positive Start as Asian Stocks Fall - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-16T04:49:29+00:00
@@ -306,7 +316,7 @@ Sensex falls 450 pts from day's high, Nifty near 25,200: Key reasons behind mark
 
 Sensex and Nifty Set for Positive Start as Asian Stocks Fall JournalArta
 
-### 31. Nifty, Sensex open higher despite Wall Street selloff; TMPV leads losses - BusinessLine
+### 32. Nifty, Sensex open higher despite Wall Street selloff; TMPV leads losses - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-16T04:14:46+00:00
@@ -316,7 +326,7 @@ Sensex and Nifty Set for Positive Start as Asian Stocks Fall JournalArta
 
 Nifty, Sensex open higher despite Wall Street selloff; TMPV leads losses BusinessLine
 
-### 32. Pre-Market Update: GIFT Nifty Signals Positive Opening; Oil Prices, Inflation and Global Technology Selloff Remain Key Concerns - Dalal Street Investment Journal
+### 33. Pre-Market Update: GIFT Nifty Signals Positive Opening; Oil Prices, Inflation and Global Technology Selloff Remain Key Concerns - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-16T02:11:28+00:00
@@ -326,7 +336,7 @@ Nifty, Sensex open higher despite Wall Street selloff; TMPV leads losses Busines
 
 Pre-Market Update: GIFT Nifty Signals Positive Opening; Oil Prices, Inflation and Global Technology Selloff Remain Key Concerns Dalal Street Investment Journal
 
-### 33. Jensen Huang's Nvidia comeback talks spark 3% jump in stock-linked futures after brutal selloff - Moneycontrol.com
+### 34. Jensen Huang's Nvidia comeback talks spark 3% jump in stock-linked futures after brutal selloff - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T01:39:32+00:00
@@ -336,7 +346,17 @@ Pre-Market Update: GIFT Nifty Signals Positive Opening; Oil Prices, Inflation an
 
 Jensen Huang's Nvidia comeback talks spark 3% jump in stock-linked futures after brutal selloff Moneycontrol.com
 
-### 34. Anthropic's $64 billion IPO lands in the middle of an AI selloff - Startup Fortune
+### 35. AI infrastructure sell-off erases $4.2T from industrial, energy stocks (XLE:NYSEARCA) - Seeking Alpha
+
+- Source: Seeking Alpha
+- Published: 2026-11-15T14:52:40+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUzNlQkpvNF9BU3RTY1pTZEhYamFLYlNraVJiSWJlbTVRNDZzc2VQZlpiRGg0WlM4ai1hUVZwNnJhOEUxTDdad3I5cjh6eVRGRHlNMTROMVpSc3A2RnEtekV2OEViSUhMWU05bjJxQUg1N2FMc1E1ejVUb0FKTUFheEZZRDUwWjlMMHdrSl9MT2ZYdGdSLTdhVFJ5OFNxODdDcUFoWWpBb3RPUQ?oc=5
+
+AI infrastructure sell-off erases $4.2T from industrial, energy stocks (XLE:NYSEARCA) Seeking Alpha
+
+### 36. Anthropic's $64 billion IPO lands in the middle of an AI selloff - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-11-15T12:44:04+00:00
@@ -346,7 +366,7 @@ Jensen Huang's Nvidia comeback talks spark 3% jump in stock-linked futures after
 
 Anthropic's $64 billion IPO lands in the middle of an AI selloff Startup Fortune
 
-### 35. Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market correction - WION
+### 37. Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market correction - WION
 
 - Source: WION
 - Published: 2026-11-15T10:50:00+00:00
@@ -356,7 +376,7 @@ Anthropic's $64 billion IPO lands in the middle of an AI selloff Startup Fortune
 
 Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market correction WION
 
-### 36. Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correction likely - TradingView
+### 38. Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correction likely - TradingView
 
 - Source: TradingView
 - Published: 2026-11-16T06:28:52+00:00
@@ -366,7 +386,17 @@ Michael Burry doubled his bet against Nasdaq-100, warns of AI stock market corre
 
 Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correction likely TradingView
 
-### 37. Nifty Outlook for November 16: Index may see near-term consolidation after Friday's fall; key levels to watch - CNBC TV18
+### 39. Bank of India - Suzlon Energy among 5 midcap stocks that saw highest mutual fund buying in October - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-15T16:08:08+00:00
+- Themes: India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxObGRtTVVrbHJselpCUzdVcm8tQVpnenRQSkFKNW5qWlkzNDZseHBnR09UOXdkWld1TUdEQnhlUlJkUEROVktEZHJEdVlFODZOdTFLM05aOC1SSFZwdDRpUUxkbzdEZzFaczJ6cUhlT2lyUWcyYWJFQ1BTZTI0RlM5dmhrQzdRXzA4aC1yNDg1eV82cEh6VnlGdHl6SlBncjFvdjlWbWFfMHhsa2NHLVVZU1g0VENEdjlxUlhnaTBCcUVibHhFb0FMSmoxQkdDTXhUWm44NEthOGp5d2NaVUI4WWdNTUR4MXRqenNLYmEtTE1xZw?oc=5
+
+Bank of India - Suzlon Energy among 5 midcap stocks that saw highest mutual fund buying in October The Economic Times
+
+### 40. Nifty Outlook for November 16: Index may see near-term consolidation after Friday's fall; key levels to watch - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-15T12:44:20+00:00
@@ -376,7 +406,7 @@ Nifty Prediction Today – November 16, 2026: Nifty futures: Temporary correctio
 
 Nifty Outlook for November 16: Index may see near-term consolidation after Friday's fall; key levels to watch CNBC TV18
 
-### 38. Nifty Holds Above 25,000 Despite Friday’s Fall, Analysts See More Upside As Bullish Trend Remains Intact - Free Press Journal
+### 41. Nifty Holds Above 25,000 Despite Friday’s Fall, Analysts See More Upside As Bullish Trend Remains Intact - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-15T12:05:31+00:00
@@ -386,7 +416,7 @@ Nifty Outlook for November 16: Index may see near-term consolidation after Frida
 
 Nifty Holds Above 25,000 Despite Friday’s Fall, Analysts See More Upside As Bullish Trend Remains Intact Free Press Journal
 
-### 39. India’s mutual funds built stakes in 11 Nifty stocks before market rebound - Elets BFSI
+### 42. India’s mutual funds built stakes in 11 Nifty stocks before market rebound - Elets BFSI
 
 - Source: Elets BFSI
 - Published: 2026-11-16T08:21:38+00:00
@@ -396,7 +426,7 @@ Nifty Holds Above 25,000 Despite Friday’s Fall, Analysts See More Upside As Bu
 
 India’s mutual funds built stakes in 11 Nifty stocks before market rebound Elets BFSI
 
-### 40. As India’s Mutual Fund Industry Outpaces Major Global Markets, Here’s Why You Should Consider Starting an SIP Today - Mid-Day
+### 43. As India’s Mutual Fund Industry Outpaces Major Global Markets, Here’s Why You Should Consider Starting an SIP Today - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-11-16T06:48:00+00:00
@@ -406,7 +436,7 @@ India’s mutual funds built stakes in 11 Nifty stocks before market rebound Ele
 
 As India’s Mutual Fund Industry Outpaces Major Global Markets, Here’s Why You Should Consider Starting an SIP Today Mid-Day
 
-### 41. Saw the rally coming? How India's mutual funds raised stakes in 11 Nifty stocks before rebound to gain big - The Economic Times
+### 44. Saw the rally coming? How India's mutual funds raised stakes in 11 Nifty stocks before rebound to gain big - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-16T05:42:13+00:00
@@ -416,7 +446,7 @@ As India’s Mutual Fund Industry Outpaces Major Global Markets, Here’s Why Yo
 
 Saw the rally coming? How India's mutual funds raised stakes in 11 Nifty stocks before rebound to gain big The Economic Times
 
-### 42. Sensex, Nifty gain in early trade amid FII inflows, moderating crude oil prices - Mid-Day
+### 45. Sensex, Nifty gain in early trade amid FII inflows, moderating crude oil prices - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-11-16T05:05:00+00:00
@@ -426,7 +456,7 @@ Saw the rally coming? How India's mutual funds raised stakes in 11 Nifty stocks 
 
 Sensex, Nifty gain in early trade amid FII inflows, moderating crude oil prices Mid-Day
 
-### 43. WPI inflation, FII flows, crude oil prices to guide markets this week - The Times of India
+### 46. WPI inflation, FII flows, crude oil prices to guide markets this week - The Times of India
 
 - Source: The Times of India
 - Published: 2026-11-15T18:12:00+00:00
@@ -436,17 +466,7 @@ Sensex, Nifty gain in early trade amid FII inflows, moderating crude oil prices 
 
 WPI inflation, FII flows, crude oil prices to guide markets this week The Times of India
 
-### 44. Suzlon Energy among 5 midcap stocks that saw highest mutual fund buying in October - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-15T13:03:25+00:00
-- Themes: India market
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxNUEhPd2dmR0hncUNUdjVINkZnSy03WnhUQnl2WnhDUWNSeGVHMVdma0pVTU5CTHVDMFI2VHdXb1U3Q3hnazYyRUxpRDlhRkdfdUxNMmVMWnlDR0hldXZ1UXdBTTBPbHZOaHVGQUt0SGlEUmRBeTZoVWtZNDJTR0c2ekR0eGdPdTllQzJqNEltU2hGMmpGd2lmVkFSZWVCN3ZSSjliNkg1OTRzejM4Y0N3d2N4dTVfQmQwaktVRXJFcXZyT1Rtc25OM085WV9NSS1RUkc1bWNEMW4xLXNYdjRuVVBta0E3QVpmYzVzeU40Xy12bkNZUklnV2NfcXZETGVaNlZ3VURxWURNNVhPQUNnQmM0WlRTbnJJVmZUUw?oc=5
-
-Suzlon Energy among 5 midcap stocks that saw highest mutual fund buying in October The Economic Times
-
-### 45. SIP Trunking in India: 7 Things to Check Before Choosing a Provider - Ahmedabad Mirror
+### 47. SIP Trunking in India: 7 Things to Check Before Choosing a Provider - Ahmedabad Mirror
 
 - Source: Ahmedabad Mirror
 - Published: 2026-11-16T09:18:53+00:00
@@ -456,7 +476,7 @@ Suzlon Energy among 5 midcap stocks that saw highest mutual fund buying in Octob
 
 SIP Trunking in India: 7 Things to Check Before Choosing a Provider Ahmedabad Mirror
 
-### 46. Bandhan, Nippon or Invesco: Which small-cap mutual fund attracted more money and delivered better returns? - Moneycontrol.com
+### 48. Bandhan, Nippon or Invesco: Which small-cap mutual fund attracted more money and delivered better returns? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T07:44:16+00:00
@@ -466,7 +486,7 @@ SIP Trunking in India: 7 Things to Check Before Choosing a Provider Ahmedabad Mi
 
 Bandhan, Nippon or Invesco: Which small-cap mutual fund attracted more money and delivered better returns? Moneycontrol.com
 
-### 47. Stock Markets Today: Sensex, Nifty Gain on FII Inflows, Lower Crude - Rediff
+### 49. Stock Markets Today: Sensex, Nifty Gain on FII Inflows, Lower Crude - Rediff
 
 - Source: Rediff
 - Published: 2026-11-16T05:40:04+00:00
@@ -476,7 +496,7 @@ Bandhan, Nippon or Invesco: Which small-cap mutual fund attracted more money and
 
 Stock Markets Today: Sensex, Nifty Gain on FII Inflows, Lower Crude Rediff
 
-### 48. Sensex Rebounds 700 Points, Nifty Rallies 25,300 Amid FII Inflows And Lower Crude Prices - The Daily Jagran
+### 50. Sensex Rebounds 700 Points, Nifty Rallies 25,300 Amid FII Inflows And Lower Crude Prices - The Daily Jagran
 
 - Source: The Daily Jagran
 - Published: 2026-11-16T05:15:00+00:00
@@ -486,7 +506,7 @@ Stock Markets Today: Sensex, Nifty Gain on FII Inflows, Lower Crude Rediff
 
 Sensex Rebounds 700 Points, Nifty Rallies 25,300 Amid FII Inflows And Lower Crude Prices The Daily Jagran
 
-### 49. Stock Market Outlook: WPI, FII Flows and Crude Oil - newskarnataka.com
+### 51. Stock Market Outlook: WPI, FII Flows and Crude Oil - newskarnataka.com
 
 - Source: newskarnataka.com
 - Published: 2026-11-16T03:26:39+00:00
@@ -496,7 +516,7 @@ Sensex Rebounds 700 Points, Nifty Rallies 25,300 Amid FII Inflows And Lower Crud
 
 Stock Market Outlook: WPI, FII Flows and Crude Oil newskarnataka.com
 
-### 50. GIFT Nifty jumps 100 pts, signals firm start for Sensex, Nifty despite weak Asian markets; Nvidia, Fed in... - Moneycontrol.com
+### 52. GIFT Nifty jumps 100 pts, signals firm start for Sensex, Nifty despite weak Asian markets; Nvidia, Fed in... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T02:34:58+00:00
@@ -506,7 +526,7 @@ Stock Market Outlook: WPI, FII Flows and Crude Oil newskarnataka.com
 
 GIFT Nifty jumps 100 pts, signals firm start for Sensex, Nifty despite weak Asian markets; Nvidia, Fed in... Moneycontrol.com
 
-### 51. Stock Market Today: Gift Nifty, Oil Prices To FPI Inflows; Five Key Factors For Sensex, Nifty 50 On Nov 16 - NDTV Profit
+### 53. Stock Market Today: Gift Nifty, Oil Prices To FPI Inflows; Five Key Factors For Sensex, Nifty 50 On Nov 16 - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-16T01:23:49+00:00
@@ -516,7 +536,7 @@ GIFT Nifty jumps 100 pts, signals firm start for Sensex, Nifty despite weak Asia
 
 Stock Market Today: Gift Nifty, Oil Prices To FPI Inflows; Five Key Factors For Sensex, Nifty 50 On Nov 16 NDTV Profit
 
-### 52. Are your SIPs funding foreign investors' exit? What investors need to understand about FII selling and the - The Economic Times
+### 54. Are your SIPs funding foreign investors' exit? What investors need to understand about FII selling and the - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-16T01:00:00+00:00
@@ -526,7 +546,7 @@ Stock Market Today: Gift Nifty, Oil Prices To FPI Inflows; Five Key Factors For 
 
 Are your SIPs funding foreign investors' exit? What investors need to understand about FII selling and the The Economic Times
 
-### 53. FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - Eastern Mirror
+### 55. FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week - Eastern Mirror
 
 - Source: Eastern Mirror
 - Published: 2026-11-15T13:13:53+00:00
@@ -536,7 +556,17 @@ Are your SIPs funding foreign investors' exit? What investors need to understand
 
 FII inflows, Nvidia earnings, oil prices among key factors to drive stock market next week Eastern Mirror
 
-### 54. Mutual funds cut cash allocation by Rs 7,800 crore in October to Rs 1.74 lakh crore; Quant MF leads reduct - The Economic Times
+### 56. Apollo Pipes and Marathon Nextgen Realty among top 10 unique stocks held by mutual funds in October - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-16T09:40:44+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMimgJBVV95cUxQUURIelMyTnhENlNrN29SQVBOM2ttNjZTZ2ZLa0ZOQ2tMREd4YkJvNjdsU2hsMTBmUGg4QVMxT1AxU25CaVVmOEljSXFhY0ZCanNiWVZ6dGZIZm5DNHl3OFFIVDF0b0VOenN6Y2RwWE9MTmRuX055VTliUXlUUURURG5jb080N1dXQUswWDVCRkwtUXM1M1YwMm84RjFSWUlVNlR0N195UU9kbFBVS1poSTdNUTFFbFVFTTBBSGNWcWNRaDcycnNTNENCVFpYTS1BQkg4NGhZcTVxSjRyUEZWRndCRnl6S1V6WlZUUFkxTUNyVGJwdnRwdGoyTnZCcEpnRVJTYlZLRzQxRU1lc0wzVnZoQ05YREpacXc?oc=5
+
+Apollo Pipes and Marathon Nextgen Realty among top 10 unique stocks held by mutual funds in October The Economic Times
+
+### 57. Mutual funds cut cash allocation by Rs 7,800 crore in October to Rs 1.74 lakh crore; Quant MF leads reduct - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-16T09:25:22+00:00
@@ -546,7 +576,7 @@ FII inflows, Nvidia earnings, oil prices among key factors to drive stock market
 
 Mutual funds cut cash allocation by Rs 7,800 crore in October to Rs 1.74 lakh crore; Quant MF leads reduct The Economic Times
 
-### 55. Shankara Building among 5 stocks from which mutual funds made complete exit in October - The Economic Times
+### 58. Shankara Building among 5 stocks from which mutual funds made complete exit in October - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-16T09:22:39+00:00
@@ -556,7 +586,7 @@ Mutual funds cut cash allocation by Rs 7,800 crore in October to Rs 1.74 lakh cr
 
 Shankara Building among 5 stocks from which mutual funds made complete exit in October The Economic Times
 
-### 56. Top 5 Mutual Funds for Samvat 2083 | Chirag Muni Picks His Best Funds | Business Today - Business Today
+### 59. Top 5 Mutual Funds for Samvat 2083 | Chirag Muni Picks His Best Funds | Business Today - Business Today
 
 - Source: Business Today
 - Published: 2026-11-16T09:10:41+00:00
@@ -566,7 +596,7 @@ Shankara Building among 5 stocks from which mutual funds made complete exit in O
 
 Top 5 Mutual Funds for Samvat 2083 | Chirag Muni Picks His Best Funds | Business Today Business Today
 
-### 57. Large-Cap Vs Mid-Cap Vs Small-Cap SIP: Which Delivered The Highest Returns In 30 Years? - ETV Bharat
+### 60. Large-Cap Vs Mid-Cap Vs Small-Cap SIP: Which Delivered The Highest Returns In 30 Years? - ETV Bharat
 
 - Source: ETV Bharat
 - Published: 2026-11-16T08:32:34+00:00
@@ -576,7 +606,7 @@ Top 5 Mutual Funds for Samvat 2083 | Chirag Muni Picks His Best Funds | Business
 
 Large-Cap Vs Mid-Cap Vs Small-Cap SIP: Which Delivered The Highest Returns In 30 Years? ETV Bharat
 
-### 58. Large & Mid Cap Mutual Funds Attract ₹8,484 Crore in October: Check Top 5 Funds by 3-Year Returns - Trade Brains
+### 61. Large & Mid Cap Mutual Funds Attract ₹8,484 Crore in October: Check Top 5 Funds by 3-Year Returns - Trade Brains
 
 - Source: Trade Brains
 - Published: 2026-11-16T07:45:15+00:00
@@ -586,7 +616,7 @@ Large-Cap Vs Mid-Cap Vs Small-Cap SIP: Which Delivered The Highest Returns In 30
 
 Large & Mid Cap Mutual Funds Attract ₹8,484 Crore in October: Check Top 5 Funds by 3-Year Returns Trade Brains
 
-### 59. Falling Crude Prices, Stronger Rupee & More: Why FPI Inflows Are Breaking Records After Months Of Outflows - News18
+### 62. Falling Crude Prices, Stronger Rupee & More: Why FPI Inflows Are Breaking Records After Months Of Outflows - News18
 
 - Source: News18
 - Published: 2026-11-16T06:26:14+00:00
@@ -596,7 +626,7 @@ Large & Mid Cap Mutual Funds Attract ₹8,484 Crore in October: Check Top 5 Fund
 
 Falling Crude Prices, Stronger Rupee & More: Why FPI Inflows Are Breaking Records After Months Of Outflows News18
 
-### 60. Video | Mutual Funds' October Stock Picks: Jio Platforms, Airtel Among Top Buys; HDFC Bank Sold - NDTV Profit
+### 63. Video | Mutual Funds' October Stock Picks: Jio Platforms, Airtel Among Top Buys; HDFC Bank Sold - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-16T05:58:43+00:00
@@ -606,7 +636,7 @@ Falling Crude Prices, Stronger Rupee & More: Why FPI Inflows Are Breaking Record
 
 Video | Mutual Funds' October Stock Picks: Jio Platforms, Airtel Among Top Buys; HDFC Bank Sold NDTV Profit
 
-### 61. Indian Stock Markets Rally on FII Inflows, Lower Crude Oil - Rediff MoneyWiz
+### 64. Indian Stock Markets Rally on FII Inflows, Lower Crude Oil - Rediff MoneyWiz
 
 - Source: Rediff MoneyWiz
 - Published: 2026-11-16T04:52:19+00:00
@@ -616,7 +646,7 @@ Video | Mutual Funds' October Stock Picks: Jio Platforms, Airtel Among Top Buys;
 
 Indian Stock Markets Rally on FII Inflows, Lower Crude Oil Rediff MoneyWiz
 
-### 62. Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance - NDTV Profit
+### 65. Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-16T04:46:10+00:00
@@ -626,7 +656,7 @@ Indian Stock Markets Rally on FII Inflows, Lower Crude Oil Rediff MoneyWiz
 
 Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICICI Bank, Reliance NDTV Profit
 
-### 63. Best aggressive hybrid mutual funds to invest in November 2026 - The Economic Times
+### 66. Best aggressive hybrid mutual funds to invest in November 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-16T04:29:42+00:00
@@ -636,7 +666,7 @@ Mutual Funds Buy Jio Platforms, Airtel, Infosys In October; Dump HDFC Bank, ICIC
 
 Best aggressive hybrid mutual funds to invest in November 2026 The Economic Times
 
-### 64. Sensex Roars Past 82,200 In Early Trade, Nifty Crosses 25,300 As FII Buying Fuels Market Rally - Free Press Journal
+### 67. Sensex Roars Past 82,200 In Early Trade, Nifty Crosses 25,300 As FII Buying Fuels Market Rally - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-16T04:10:55+00:00
@@ -646,7 +676,7 @@ Best aggressive hybrid mutual funds to invest in November 2026 The Economic Time
 
 Sensex Roars Past 82,200 In Early Trade, Nifty Crosses 25,300 As FII Buying Fuels Market Rally Free Press Journal
 
-### 65. Sensex gains 600 pts, Nifty above 25,300: Strong FII inflows among key factors behind market rise - Moneycontrol.com
+### 68. Sensex gains 600 pts, Nifty above 25,300: Strong FII inflows among key factors behind market rise - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T04:05:23+00:00
@@ -656,17 +686,7 @@ Sensex Roars Past 82,200 In Early Trade, Nifty Crosses 25,300 As FII Buying Fuel
 
 Sensex gains 600 pts, Nifty above 25,300: Strong FII inflows among key factors behind market rise Moneycontrol.com
 
-### 66. Indian shares expected to open higher on record foreign flows, crude price drop - Business Recorder
-
-- Source: Business Recorder
-- Published: 2026-11-16T03:02:45+00:00
-- Themes: India market, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxQVU8ySkZNRWs1YVhyZGc3anM2eThfM0R4emZWMC1lM2pISlpOWEg1NkhQRkhsODFJeUE3UVg4dVpXV3Z2dEJxdkJzdDhWWmVERkd6ZzIzakFISm8xc3VYR1hMVGV5MjQweTRkdlZzNWRpRTFUa1VvMVgtY1R2YjVyS29zc0RMck5iblMtalpmbVl3ZDctVjJaT3NkcVJIdGhIZHFycEsyVndmLURFczlMTUw0QUFORFAtVXfSAVZBVV95cUxPbnE3Q3NkczBrRFRHSGI2bko3QlNDVU1vdFNLa29BSnc1RHREZkxTMHJycjhCMTJORmlCdnBDNXBHWVQ1bzdJYVZJakdid3hpakpyM2h1Zw?oc=5
-
-Indian shares expected to open higher on record foreign flows, crude price drop Business Recorder
-
-### 67. Stock market outlook: Nifty, FPI flows and global cues to watch this week - BusinessLine
+### 69. Stock market outlook: Nifty, FPI flows and global cues to watch this week - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-16T01:38:55+00:00
@@ -676,7 +696,7 @@ Indian shares expected to open higher on record foreign flows, crude price drop 
 
 Stock market outlook: Nifty, FPI flows and global cues to watch this week BusinessLine
 
-### 68. Stock market cues to watch today: GIFT Nifty, FII, crude, and other data - ET Now
+### 70. Stock market cues to watch today: GIFT Nifty, FII, crude, and other data - ET Now
 
 - Source: ET Now
 - Published: 2026-11-16T00:42:35+00:00
@@ -686,7 +706,7 @@ Stock market outlook: Nifty, FPI flows and global cues to watch this week Busine
 
 Stock market cues to watch today: GIFT Nifty, FII, crude, and other data ET Now
 
-### 69. Small-cap mutual funds: Should you continue your SIP? 10-year rolling returns reveal risks investors may be missing - Livemint
+### 71. Small-cap mutual funds: Should you continue your SIP? 10-year rolling returns reveal risks investors may be missing - Livemint
 
 - Source: Livemint
 - Published: 2026-11-15T16:14:09+00:00
@@ -696,7 +716,17 @@ Stock market cues to watch today: GIFT Nifty, FII, crude, and other data ET Now
 
 Small-cap mutual funds: Should you continue your SIP? 10-year rolling returns reveal risks investors may be missing Livemint
 
-### 70. Stock Markets This Week: WPI Inflation, Crude Oil, FII Trading Activity To Guide Movement, Say Analysts - NDTV Profit
+### 72. Large vs mid vs small-cap mutual funds: Which is best for long-term SIP? 10-year rolling returns from 1996–2026 compared - Cafemutual
+
+- Source: Cafemutual
+- Published: 2026-11-15T15:42:14+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQckk2RGNRWkEycWhhbjFaWXRrNURtX1U2SzZ5a3lETnVpQ0hCME1wS1RscmYtd3ZwVFExUjdKWTY2TExjcWJvckl3dlJlaUFDWGJ3dzZ6ZWwzWThPU19jeG5KQWduMDM3SWg4SXRVUHJWakdMTGVNR1BoM1hVazhrdm1JM3ByZ0x1a09KaEVIaUlGRS1mdlVoTExKMG1xNVZpNUdzenh1b2VVUE9MWDJ5SThnbGNLSW5ZYXl0MHpsM1NQSF9wTXV3R0xYQWhJZGpfTVV4NTlVbWFhVmdndGxrRnFrS3hEU1FWMDk5NUctZXJFZDBI?oc=5
+
+Large vs mid vs small-cap mutual funds: Which is best for long-term SIP? 10-year rolling returns from 1996–2026 compared Cafemutual
+
+### 73. Stock Markets This Week: WPI Inflation, Crude Oil, FII Trading Activity To Guide Movement, Say Analysts - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-15T11:29:40+00:00
@@ -706,17 +736,17 @@ Small-cap mutual funds: Should you continue your SIP? 10-year rolling returns re
 
 Stock Markets This Week: WPI Inflation, Crude Oil, FII Trading Activity To Guide Movement, Say Analysts NDTV Profit
 
-### 71. Stock Market This Week, WPI Inflation, ₹84,290 Crore FII Inflows & Crude Oil Among Key Triggers - Free Press Journal
+### 74. Money Is Rotating Out Of AI And Semiconductor Stocks: Where Is It Going? (SOX) - Seeking Alpha
 
-- Source: Free Press Journal
-- Published: 2026-11-15T10:01:10+00:00
-- Themes: India market, macro / flows
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxNMERjaDdDTGozMU9NOW5zRnAxYnNsNURxQXk0SHRlVmVsNFAwMFFvb1VYcEQ2QzlTTEZtVVp2NUpGZ3Y5MTNLQ3RXWmR5SkpoeHlUdzFPYlVDSzJsaVN6ZFprb3pTM1l4S3Y1djMzWEJCTVNXeGdzWl94djNJcWJxUXVTSjZnaEl3RjJiTVBGWmVoZHItcFdxa2ZYRl9QVF9mMkhwTU1iTVIzdkFNRElka3NMcXB0TkFjZkI5Y0MtaHVSWUxzVjlpMnR30gHPAUFVX3lxTFBMeTZqekpZV1hQVHJIMmR1TzJMZzljRGNNMXFZcXVzQjdqWW5zZEtNOWh6eWpkbjNYQ1BDcUNPTU1IcThVSl90dEhJNHd3bU1vOWdkMHhlOXlWcnczUHJJR3Nsd0hlYnM2S1BJUHMwMEc1UkQtZ2FOS3Z0VVlEXzN2Zl9hMm1mbW04SmktblNDOHBjd1JqWU0yZnFpRXJQek9HbEVNam1maEVYbVlRVkJxZ1o4VkdyaGZ3d3Fxa1VjMEIwdWFRbTZSa0xOS0pZZw?oc=5
+- Source: Seeking Alpha
+- Published: 2026-11-16T10:18:35+00:00
+- Themes: AI / tech risk
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEpOOEpxMHNFN0NJV05CLXJyaDV0R3k5MHJicVdHVjU1OEdRSXNKanhpVkJwcjlxb0ctQ2dMeWp0dXBRWHlRNkJNSTF6TFdUUnBBLWo3WDJTMloydnBYYjVBV0V5MkllLWVTWU14dGVKbUVXeDJnVWpuZUtQa09VSmpBT1lpYXpiaXdraGExYXpTbDdZaW1wbzJkakVncE9NWUhvUVdjeGprSER0YlZEV0ZUMlF1UzA3eHROSEQ1bWhDQnNSZGpPMFdR?oc=5
 
-Stock Market This Week, WPI Inflation, ₹84,290 Crore FII Inflows & Crude Oil Among Key Triggers Free Press Journal
+Money Is Rotating Out Of AI And Semiconductor Stocks: Where Is It Going? (SOX) Seeking Alpha
 
-### 72. FII inflows hit $9.1 billion, yet India lags: How Jefferies’ model portfolio beats MSCI - The Financial Express
+### 75. FII inflows hit $9.1 billion, yet India lags: How Jefferies’ model portfolio beats MSCI - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-11-16T08:16:30+00:00
@@ -726,7 +756,7 @@ Stock Market This Week, WPI Inflation, ₹84,290 Crore FII Inflows & Crude Oil A
 
 FII inflows hit $9.1 billion, yet India lags: How Jefferies’ model portfolio beats MSCI The Financial Express
 
-### 73. Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut IPO - Morningstar
+### 76. Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut IPO - Morningstar
 
 - Source: Morningstar
 - Published: 2026-11-16T07:11:15+00:00
@@ -736,7 +766,7 @@ FII inflows hit $9.1 billion, yet India lags: How Jefferies’ model portfolio b
 
 Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut IPO Morningstar
 
-### 74. India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran - Business Standard
+### 77. India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-16T05:18:10+00:00
@@ -746,7 +776,7 @@ Markets Brief: A Big Week Ahead as Nvidia to Report Earnings, Anthropic to Debut
 
 India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran Business Standard
 
-### 75. Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Systems down 3.70%, Krishna Defence declines 3.37% - Business Upturn
+### 78. Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Systems down 3.70%, Krishna Defence declines 3.37% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-11-16T05:05:29+00:00
@@ -756,7 +786,7 @@ India to benefit from unwinding of AI trade, says CEA Anantha Nageswaran Busines
 
 Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Systems down 3.70%, Krishna Defence declines 3.37% Business Upturn
 
-### 76. PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines 2.08% - Business Upturn
+### 79. PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines 2.08% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-11-16T05:00:29+00:00
@@ -766,7 +796,7 @@ Defence sector stocks today, November 16: Kaynes Technology falls 14.39%, DCX Sy
 
 PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines 2.08% Business Upturn
 
-### 77. FII buying in Nov crosses ₹80,000 cr; will the foreign money keep flowing into Indian equities? - Fortune India
+### 80. FII buying in Nov crosses ₹80,000 cr; will the foreign money keep flowing into Indian equities? - Fortune India
 
 - Source: Fortune India
 - Published: 2026-11-16T04:41:27+00:00
@@ -775,33 +805,3 @@ PSU stocks today, November 16: MTNL falls 2.83%, MMTC down 2.20%, NALCO declines
 - Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxONnpsZUpxMkd2RU10MU1ieVR4dmswMzlNMDhja3Z0RE1sbndYUW4xTWl6OWVralZpc003eFV5cnNGbnJIakE5Q1N1OExtTUtqa3BhckFrWGROTkgtOEFmUHZFZVZLeUlHNWVkSzJFeHRIXzhnUW94NmFXblhnRVhPb3FVejk3YkJsX3NRa3kwMUV2ZlQwOEpiM3l1VDBDd1JjVXpOazBOU2FoTldVZjFBWnFvcnQ0OWk4cHpwQjlJSFRvSTBBR1RsNmt5UWM4aGZB0gHeAUFVX3lxTE5GWkF0UW5nTHkySy1tNjN1YjNXUGd1ZmQwbjczbzJIcnc4UmZaR2tvbmx2SmFreUNoSHA4Sk9UTWh6ZldtdlZsZU03THdTTWlFdWhmT2VVR0kyekJqTkczU1hJQ1FDSTM2RXpFbVVVNDc0c1VHSmVnanhNekR3dWtoWkFiR0V0M3ROTFZQWEplazJSM0VjWVdaYWV6TjQ2Z0ppd2tHY0ZkelBUaVpvQmlGOTRzUlA0eURUcV81WjRCeDhCdGdyc3FjX2cxMVh3SjVJb29FRGQtSzZYNGg1Zw?oc=5
 
 FII buying in Nov crosses ₹80,000 cr; will the foreign money keep flowing into Indian equities? Fortune India
-
-### 78. Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues - TradingView
-
-- Source: TradingView
-- Published: 2026-11-16T04:19:00+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMi-gFBVV95cUxOVlpORHBoTUk5Z0c4aWdYdmNCS25yTXFTb0M2QWJJdTVjUTE2TWl2YmdEaDBSakN6TVQ2WXJzZHJXemZsOEN5bGs3UFNWZ3JRTnhQY1FIdFVzTFN1YkNZX29Zei10MHhzLTg3MU1TM2JpQ0YwaXdUSnY5ekd5cUxCMk5oaWRzTGQzbF9UOURONjFUdG5UVkV1V1E4RnlKcXRFT29rVjgxa2hMQkNZMVUxNlBpRkU2ZkhINERoSzdaMGdsRS1MeXE0Z082N1MzS0RRTkE4amJrVXlxcEIyUzhSMWdoV3FvZHN2c2dhZUh4ZHhQR0dLQTN1NE9B?oc=5
-
-Stock market outlook today,16 Nov: Sensex, Nifty prediction-DJIA, S&P, NASDAQ, GIFT Nifty, Kospi, Nikkei, Taiwan cues TradingView
-
-### 79. Why is market rising today? Sensex jumps 700 pts, Nifty above 25,300 as D-Street’s rally resumes. 6 factor - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-16T04:09:34+00:00
-- Themes: India market
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMijwJBVV95cUxQLVFqS1VzZ2NwYms1OF9FZ3R1bGczZzl1VlB1Q0xGRFZLLWZiQ0VnMVRrR0ZMSUg2V3lhamxMd29CT3RqeEJtMXBJT18tRUxsalpwbV8yVEJIOGFwUEo0el8xQlBoNFlQRzdoeFFUQmN2MUNLLTZleEp0V1lHT1FHb2czWkozbXBQeDVkdXpQLUNHTm52TnI0SXprX3ktMTlXMzJKNUYtQ2JsMnVrSUNoQ1hnWG1BekhncHIyV2NHQWdIR2pKTFJXeE1oNUxTVXFUMWFXSEpXZUJlY1h0RW1jMUpwZjh1ZE9MOU1tUUhzSnVNWDNzcnBBRE1qVGVYZHdSbV9kUWVuLWpWcV9sc0VJ0gGUAkFVX3lxTE1mX3JrUGFOeVJxTlNMWXJjWnBTOE9NTVg4ZDh5LWtzZC16aER5NWtvNVRsdUluWDhUdnA3cEUwaGJmOGN4YWh4M2tpcE5mckhMRkM0T2VLYUdIVnFPbWUteVZ1YmVvRzZWZm9kcTRidUozWWRJN0RmRExVLWVtZXB3RVJsQy0tUXg2cjFYZnhBdzVoVFdVcVc4WnotbFBjdDl4NUJMeWw3QlRrcVJuTkM0MUxKRHk2ZUJmMHVrUS15M1lsZHk4ZFFjOXVBQVVUNXhnaFRXUmtheTc3eklwazk5ODJpVEwtTWo2MWtwUlRMOTRrR2FzNG93ZWt0bnBkVGZidEk0QnRsYnQ0V1ZnS3RCUkJCSg?oc=5
-
-Why is market rising today? Sensex jumps 700 pts, Nifty above 25,300 as D-Street’s rally resumes. 6 factor The Economic Times
-
-### 80. Indian shares rise on record foreign inflows, crude price drop - Reuters
-
-- Source: Reuters
-- Published: 2026-11-16T02:49:00+00:00
-- Themes: India market, macro / flows
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPWW9UblBTWEw2RXJKNFlkNkJzRHU2WDFISVIxOUJ3ZE41S1lOb2RPTXJkOUlDeXlPVDJIdWRURERiYjZhRTBjazZuQ2U3ekF3eEoxcU1pQWd4eHVJM01QenRFTVI4Wi16Ty1nQXRjTDhzSmhvLW45eFZ1RjlkSjJVZHNDZmtMbHo5WVI4QmdsOXUtSXpuSjZfUk9nMjZabWlHYWkxMEJqVXZNcW9KNUNqc21iT0YtbWhFdFpfNA?oc=5
-
-Indian shares rise on record foreign inflows, crude price drop Reuters
