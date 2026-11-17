@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-17 10:38
+Generated: 2026-11-17 12:31
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -86,17 +86,47 @@ US Stocks Fall Back; Dow Drops 739 Points as AI-Linked Shares Face Selling Press
 
 AMD, Intel and Nvidia Fall as AI Chip Selloff Continues TradingView
 
-### 9. European stocks fall at the open as Deutsche Bank drops 5% and chipmakers slip on new US curbs before Nvidia results - MLQ.ai
+### 9. European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff - Bloomberg.com
 
-- Source: MLQ.ai
-- Published: 2026-11-17T08:50:47+00:00
+- Source: Bloomberg.com
+- Published: 2026-11-17T11:57:57+00:00
 - Themes: AI / tech risk, market selling
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxQS0JyQm5PYnAyNGdwRGV4OG42QWtPMGJ6bDMwdHZ1NmpNZnBaQW5oVEpoUmJmVU9mc1c0dFN2bTBXb1ZuY1g1S2hZUHItSXB4S3F0ZGl1R2RxN29EajJTckFIV1FWc1BPR0o1aVVoYjVOb2p1dEpIYXhzblVweTBIamc3X2FBQ0F1MG5Od29XN1JGWkNTNzZBWTRDRkxMc21FOTdGMFJQeG91cjZYZFl3MmZHNXJUTTRhZXMwVC1SSUw2eENhZXpIekl0MWlUblA1c3c?oc=5
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3B2Vm51YVUtX3hHRW1FX21JUXdGUWk1OGVtSlR5c2NmNjd2Z0VnOThOall1bGExUEh3UHhWWVFJQjhxNEVNcFJKMER2VDZfbEJja0ZhVktZLTljdS1nQlJ5Yk5sQ0lhSThMbEJKTXJsNDdtcUZIMTNMZEpPX1ZZZlYySkU1Vmw0WGFVcC1TdWo0UDdTZXgwZ1FYMndWUlo4QXduc3RkNU9FVGY5Y1EwZEZn?oc=5
 
-European stocks fall at the open as Deutsche Bank drops 5% and chipmakers slip on new US curbs before Nvidia results MLQ.ai
+European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff Bloomberg.com
 
-### 10. Tokyo stocks fall on US chip export controls, Nvidia earnings awaited - 毎日新聞
+### 10. Nasdaq Futures Muted as Chip Selloff Pauses Ahead of Nvidia Earnings - Barchart.com
+
+- Source: Barchart.com
+- Published: 2026-11-17T11:36:25+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNYk9xTXc1bXBtaVZBaDZfVWdMbFlIYzN1bkxmVjhBSzZJcU1WMW9Jalh1b05Zb0dfN3JEM3h4Ni1qSFptdFdXSHpOV1RJNGZSdVNaeXBqM2RmaGN1WDdscnplQnZwY3RKdS0wclNZZzNMZGpRYnNVQ1Zua0l6eElQLXU2NGRFRlJlbV9PWFJWR1RSSXV5bjhBbFBIVGwxNjdnTGNDR1NHY0pzbTdtdk1hTW13?oc=5
+
+Nasdaq Futures Muted as Chip Selloff Pauses Ahead of Nvidia Earnings Barchart.com
+
+### 11. Why Is the Stock Market Down Today? The AI Selloff Before Nvidia Earnings (17 November 2026) - Admirals
+
+- Source: Admirals
+- Published: 2026-11-17T10:15:32+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOS19yWWtEdmxNaG9CYjR0eHhXOWtVaTJyZmxBTVRkRGNKdVA1bHV6enpSMGU4U3pOaWJhU0NjMUdhTDh3d29SVy1hZE1ENHZBMUJxR1J2VVVMeG9qWEU0MUI1M2ZMRjQ3eXp5d1hGVXVDOFoyNG14MVZDRmE1OHZ5VGUwZVJKcjdaU3J3b1pRQTdCdDFVLU1OaUkwREx2bXNJR1ZJ?oc=5
+
+Why Is the Stock Market Down Today? The AI Selloff Before Nvidia Earnings (17 November 2026) Admirals
+
+### 12. European stocks fall as US chip curbs fuel fresh AI selloff - Anadolu Ajansı
+
+- Source: Anadolu Ajansı
+- Published: 2026-11-17T10:01:56+00:00
+- Themes: AI / tech risk, market selling
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxOSF9kRmNzcFExZVNuUnR5c3ZoeWdEMEVHLU5zSjB1YXVkMzQ5UkRUa1B2Wi1VY3dzZnUzOTYxQmx5bE11b0RNakFUUnkwSnVVZFdoYlF1eHhua0JmNlJTM0pxNkpfQXBnN0wwYjFxUG1udEpWR3JEZ0pkRWlYNVN6dlpuei1lUmVaem5Fb0RtVnZPTXV0dWFGLWhZQXE?oc=5
+
+European stocks fall as US chip curbs fuel fresh AI selloff Anadolu Ajansı
+
+### 13. Tokyo stocks fall on US chip export controls, Nvidia earnings awaited - 毎日新聞
 
 - Source: 毎日新聞
 - Published: 2026-11-17T08:33:35+00:00
@@ -106,17 +136,7 @@ European stocks fall at the open as Deutsche Bank drops 5% and chipmakers slip o
 
 Tokyo stocks fall on US chip export controls, Nvidia earnings awaited 毎日新聞
 
-### 11. European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-11-17T08:30:44+00:00
-- Themes: AI / tech risk, market selling
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxOa3B2Vm51YVUtX3hHRW1FX21JUXdGUWk1OGVtSlR5c2NmNjd2Z0VnOThOall1bGExUEh3UHhWWVFJQjhxNEVNcFJKMER2VDZfbEJja0ZhVktZLTljdS1nQlJ5Yk5sQ0lhSThMbEJKTXJsNDdtcUZIMTNMZEpPX1ZZZlYySkU1Vmw0WGFVcC1TdWo0UDdTZXgwZ1FYMndWUlo4QXduc3RkNU9FVGY5Y1EwZEZn?oc=5
-
-European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff Bloomberg.com
-
-### 12. Arm, Marvell Sink 8% in AI Chip Selloff Before Nvidia - shattered.io
+### 14. Arm, Marvell Sink 8% in AI Chip Selloff Before Nvidia - shattered.io
 
 - Source: shattered.io
 - Published: 2026-11-17T04:02:00+00:00
@@ -126,7 +146,7 @@ European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff Bloomberg.com
 
 Arm, Marvell Sink 8% in AI Chip Selloff Before Nvidia shattered.io
 
-### 13. Singapore semiconductor stocks fall nearly 4% as US tightens AI chip export controls - 联合早报
+### 15. Singapore semiconductor stocks fall nearly 4% as US tightens AI chip export controls - 联合早报
 
 - Source: 联合早报
 - Published: 2026-11-17T02:46:26+00:00
@@ -136,7 +156,7 @@ Arm, Marvell Sink 8% in AI Chip Selloff Before Nvidia shattered.io
 
 Singapore semiconductor stocks fall nearly 4% as US tightens AI chip export controls 联合早报
 
-### 14. Global stocks fall as Nvidia earnings, Anthropic debut put AI rally to test - Business Standard
+### 16. Global stocks fall as Nvidia earnings, Anthropic debut put AI rally to test - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-17T02:27:58+00:00
@@ -146,7 +166,7 @@ Singapore semiconductor stocks fall nearly 4% as US tightens AI chip export cont
 
 Global stocks fall as Nvidia earnings, Anthropic debut put AI rally to test Business Standard
 
-### 15. US stocks fall as Nvidia-led sell-off pushes Nasdaq into correction - BusinessLine
+### 17. US stocks fall as Nvidia-led sell-off pushes Nasdaq into correction - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-17T02:22:10+00:00
@@ -156,7 +176,7 @@ Global stocks fall as Nvidia earnings, Anthropic debut put AI rally to test Busi
 
 US stocks fall as Nvidia-led sell-off pushes Nasdaq into correction BusinessLine
 
-### 16. Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 17 Earnings Face a Major Test - Yahoo Finance
+### 18. Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 17 Earnings Face a Major Test - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-17T00:27:00+00:00
@@ -166,7 +186,7 @@ US stocks fall as Nvidia-led sell-off pushes Nasdaq into correction BusinessLine
 
 Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 17 Earnings Face a Major Test Yahoo Finance
 
-### 17. Wall Street Closes Lower Across the Board Amid Continuing AI Selloff, Nvidia Drops 4.1% - news.sbs.co.kr
+### 19. Wall Street Closes Lower Across the Board Amid Continuing AI Selloff, Nvidia Drops 4.1% - news.sbs.co.kr
 
 - Source: news.sbs.co.kr
 - Published: 2026-11-17T00:24:58+00:00
@@ -176,7 +196,17 @@ Qualcomm CEO: “There Is No AI Correction” at Qualcomm. Nvidia’s November 1
 
 Wall Street Closes Lower Across the Board Amid Continuing AI Selloff, Nvidia Drops 4.1% news.sbs.co.kr
 
-### 18. Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch
+### 20. Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-16T22:08:26+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5
+
+Stocks end lower ahead of Nvidia earnings and Anthropic IPO; oil drops Yahoo Finance
+
+### 21. Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies - MarketWatch
 
 - Source: MarketWatch
 - Published: 2026-11-16T21:17:00+00:00
@@ -186,7 +216,7 @@ Wall Street Closes Lower Across the Board Amid Continuing AI Selloff, Nvidia Dro
 
 Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies MarketWatch
 
-### 19. Micron, AMD and Other AI Stocks Fall as the Chip Sector's Selloff Intensifies - Moomoo
+### 22. Micron, AMD and Other AI Stocks Fall as the Chip Sector's Selloff Intensifies - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-16T19:09:53+00:00
@@ -196,7 +226,7 @@ Micron, AMD and other AI stocks fall as the chip sector’s selloff intensifies 
 
 Micron, AMD and Other AI Stocks Fall as the Chip Sector's Selloff Intensifies Moomoo
 
-### 20. Marvell Technology stock falls 6% as chip selloff deepens after Nvidia CEO exit - Crypto Briefing
+### 23. Marvell Technology stock falls 6% as chip selloff deepens after Nvidia CEO exit - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-11-16T18:26:49+00:00
@@ -206,7 +236,7 @@ Micron, AMD and Other AI Stocks Fall as the Chip Sector's Selloff Intensifies Mo
 
 Marvell Technology stock falls 6% as chip selloff deepens after Nvidia CEO exit Crypto Briefing
 
-### 21. Nasdaq 100: Chip Stocks Fall as Nvidia Earnings and Anthropic IPO Loom - FXEmpire
+### 24. Nasdaq 100: Chip Stocks Fall as Nvidia Earnings and Anthropic IPO Loom - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-11-16T15:30:07+00:00
@@ -216,7 +246,7 @@ Marvell Technology stock falls 6% as chip selloff deepens after Nvidia CEO exit 
 
 Nasdaq 100: Chip Stocks Fall as Nvidia Earnings and Anthropic IPO Loom FXEmpire
 
-### 22. Morning Bid: AI selloff resumes as Nvidia earnings loom By Reuters - Investing.com
+### 25. Morning Bid: AI selloff resumes as Nvidia earnings loom By Reuters - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-16T14:32:12+00:00
@@ -226,7 +256,7 @@ Nasdaq 100: Chip Stocks Fall as Nvidia Earnings and Anthropic IPO Loom FXEmpire
 
 Morning Bid: AI selloff resumes as Nvidia earnings loom By Reuters Investing.com
 
-### 23. SanDisk Falls 7% as AI Chip Selloff Hits Memory Stocks Despite Evercore’s $2,500 Target; Micron and Western Digital Drop 6% - Yahoo Finance
+### 26. SanDisk Falls 7% as AI Chip Selloff Hits Memory Stocks Despite Evercore’s $2,500 Target; Micron and Western Digital Drop 6% - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-16T14:13:09+00:00
@@ -236,7 +266,27 @@ Morning Bid: AI selloff resumes as Nvidia earnings loom By Reuters Investing.com
 
 SanDisk Falls 7% as AI Chip Selloff Hits Memory Stocks Despite Evercore’s $2,500 Target; Micron and Western Digital Drop 6% Yahoo Finance
 
-### 24. Global markets slide amid tech selloff, US restrictions on AI chips - Anadolu Ajansı
+### 27. Bitcoin stalls below $65,000 after weekend selloff as Nvidia earnings loom - CoinDesk
+
+- Source: CoinDesk
+- Published: 2026-11-17T11:36:07+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxNOTFYcjE2V0NKN1hheHU5YmpJZ2lRcXhQeGU5RGduVVVDc0dsNjFDck5PX0dyWmIwRExlak5GZlhtcWJvS0J6WjhjRVdLMkhtNUpXMXdVd0ZoUDBmU1JfX1ZTSldyZlJVZnBPTWtCMFRhV3hSUFJfYTgwOUEyNV9QZTFTa18xV3l2aE1uQkZGUGxjdnlZY1ozd3RUS0pDblZFMWlYbno2blBFY2ZDSTBHOHZJZlhvYzA?oc=5
+
+Bitcoin stalls below $65,000 after weekend selloff as Nvidia earnings loom CoinDesk
+
+### 28. European chip stocks fall after new U.S. curbs on AI chip access - Investing.com
+
+- Source: Investing.com
+- Published: 2026-11-17T11:25:44+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ0ctS0JTMXFrUzk4b0RsdXNoUEwtZVdiaTZyRUJRVnlzbGZzZlM1Vjg4bDBNMEd0Q3BJdExxQVpzRWRmUmpLMEY2TEIyUjk0QUE1eUZiNTd3cUpoWURDVWg3aVhaSFJTWjU5azBvZXh2WXVxWjdHdEVsRkNXOW9oUVRuNmQyRXNQYXFITmVLTnFuZ1p3RE9EdzQ1b1dVVVVXdEc1VnlwYkN2UWg3ZWdDWW8zX3VGTmx0OXpN?oc=5
+
+European chip stocks fall after new U.S. curbs on AI chip access Investing.com
+
+### 29. Global markets slide amid tech selloff, US restrictions on AI chips - Anadolu Ajansı
 
 - Source: Anadolu Ajansı
 - Published: 2026-11-17T09:55:54+00:00
@@ -246,7 +296,7 @@ SanDisk Falls 7% as AI Chip Selloff Hits Memory Stocks Despite Evercore’s $2,5
 
 Global markets slide amid tech selloff, US restrictions on AI chips Anadolu Ajansı
 
-### 25. Nvidia selloff deepens as AI stocks face renewed market jitters - The Business Standard
+### 30. Nvidia selloff deepens as AI stocks face renewed market jitters - The Business Standard
 
 - Source: The Business Standard
 - Published: 2026-11-17T08:41:27+00:00
@@ -256,7 +306,7 @@ Global markets slide amid tech selloff, US restrictions on AI chips Anadolu Ajan
 
 Nvidia selloff deepens as AI stocks face renewed market jitters The Business Standard
 
-### 26. US curbs on AI chip exports to Southeast Asia trigger selloff in data centre stocks - TradingView
+### 31. US curbs on AI chip exports to Southeast Asia trigger selloff in data centre stocks - TradingView
 
 - Source: TradingView
 - Published: 2026-11-17T08:29:50+00:00
@@ -266,7 +316,7 @@ Nvidia selloff deepens as AI stocks face renewed market jitters The Business Sta
 
 US curbs on AI chip exports to Southeast Asia trigger selloff in data centre stocks TradingView
 
-### 27. Global stock selloff intensifies as Nvidia earnings loom - Business Post
+### 32. Global stock selloff intensifies as Nvidia earnings loom - Business Post
 
 - Source: Business Post
 - Published: 2026-11-17T07:21:18+00:00
@@ -276,17 +326,17 @@ US curbs on AI chip exports to Southeast Asia trigger selloff in data centre sto
 
 Global stock selloff intensifies as Nvidia earnings loom Business Post
 
-### 28. 11:11 | Nifty Bank record high, crude oil fall, Mahanadi Coalfields IPO, Union budget 2027 challenges - CNBC TV18
+### 33. 11:11 | Nifty Bank Record High, Crude Oil Fall, Mahanadi Coalfields IPO, Union Budget 2027 challenges - LinkedIn
 
-- Source: CNBC TV18
-- Published: 2026-11-17T05:30:31+00:00
+- Source: LinkedIn
+- Published: 2026-11-17T05:30:14+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxPc1hob1RYODlkOU5LYWFISGdtRlM5aVZ3VV83ZjZVVXRDZG45Z25EdFY3QVBuellMT0EyaTRpeDY3ZXpwVDd6Z0dVamVSZEVpa01tTDBDNWhraUhUOG9NWnFncVV0M2Exa0J1Qk5FbU9lbzlnQlNQaXpwNlRxTUdfNTE0U3hiY0RFMlc0RG5Hd2gzQ3VLTTVvSmlBMmpFZ2dYYkotVEpTaHRyNnJXT3RsOE5kR2Y3eGZEVlVRNHAwUW03MTJkQlBJc25UYlgya3JUUzJHdDNWdEFrd9IB3wFBVV95cUxPRk5oZ3M1MENNMERWNU5rdXVBTUwxYW9QQkFiNFBITV9MZzlVeEp0MHZsdV9NZ0lHWFdNU2c3a3JJSVZEQzBKNzc5cV80QUMxaUdZLUtYenRGR1puWmYybmVWTHg3aXQycE1SS3RCcUxRa2tLc0MtaER3eXV1MlRNWEhfekhReEVfRDdmN2N3VUs4NDlRWjN5Y24wUTdob2JaUXpyM0VLZ0dDUEFpWWZkb014emF6bzFXTFFaVzNpTlFEUjhwMUN4ZzdPeTVhMXF5aXRNaFphS2EyOVk0STlR?oc=5
+- Link: https://news.google.com/rss/articles/CBMioAFBVV95cUxPcjg5d25SbC1fQUFqLUlrVHJEXzdDa1p0c01mRzcxMXFZS1RrZXd0STB3RkFFbVNsNlZ2TVFuZVdJWXFicGdnVWlnaFNYNml0YXZNX1ZvLU5UUnlTUXBHWFNBVW0zejh5ODJxWG40UTlFTXA0X3BFZm9KT2lTTXdWMnR1R1ZTTkJkcU91UEIyUWtGS3BOUXJ5UWZ2YTNsbUlI?oc=5
 
-11:11 | Nifty Bank record high, crude oil fall, Mahanadi Coalfields IPO, Union budget 2027 challenges CNBC TV18
+11:11 | Nifty Bank Record High, Crude Oil Fall, Mahanadi Coalfields IPO, Union Budget 2027 challenges LinkedIn
 
-### 29. China megacap tech stocks fall as U.S. tightens curbs on AI chip access - Yahoo Finance
+### 34. China megacap tech stocks fall as U.S. tightens curbs on AI chip access - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-17T05:25:00+00:00
@@ -296,7 +346,7 @@ Global stock selloff intensifies as Nvidia earnings loom Business Post
 
 China megacap tech stocks fall as U.S. tightens curbs on AI chip access Yahoo Finance
 
-### 30. Tokyo stocks fall in morning ahead of Nvidia earnings release - 毎日新聞
+### 35. Tokyo stocks fall in morning ahead of Nvidia earnings release - 毎日新聞
 
 - Source: 毎日新聞
 - Published: 2026-11-17T04:09:28+00:00
@@ -306,7 +356,17 @@ China megacap tech stocks fall as U.S. tightens curbs on AI chip access Yahoo Fi
 
 Tokyo stocks fall in morning ahead of Nvidia earnings release 毎日新聞
 
-### 31. GIFT Nifty flat, signals muted start for Sensex, Nifty as Nasdaq plunges 2.5%, Asian markets fall; crude... - Moneycontrol.com
+### 36. KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul - BeInCrypto
+
+- Source: BeInCrypto
+- Published: 2026-11-17T02:31:09+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMieEFVX3lxTE5Lb3JYbDl5QnFPamFrR1RoVU55QnhXMmhpOFpOWU5DRVVrM25VaTZ5SjQwbFhtcVNQTDVtWGJSMThacGVTVllfSVc3bE8zTlhFTGJXckYyUkpBVzQtS2xJOHJDa0FVMHBhUkh6VXQ2WHZLOV9uWXVRYQ?oc=5
+
+KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul BeInCrypto
+
+### 37. GIFT Nifty flat, signals muted start for Sensex, Nifty as Nasdaq plunges 2.5%, Asian markets fall; crude... - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-17T02:26:58+00:00
@@ -316,7 +376,7 @@ Tokyo stocks fall in morning ahead of Nvidia earnings release 毎日新聞
 
 GIFT Nifty flat, signals muted start for Sensex, Nifty as Nasdaq plunges 2.5%, Asian markets fall; crude... Moneycontrol.com
 
-### 32. AI Chip Selloff Opens Contrarian Opportunities for Decade-Long Investors - NAI500
+### 38. AI Chip Selloff Opens Contrarian Opportunities for Decade-Long Investors - NAI500
 
 - Source: NAI500
 - Published: 2026-11-17T02:13:19+00:00
@@ -326,7 +386,7 @@ GIFT Nifty flat, signals muted start for Sensex, Nifty as Nasdaq plunges 2.5%, A
 
 AI Chip Selloff Opens Contrarian Opportunities for Decade-Long Investors NAI500
 
-### 33. Why Did the Stock Market Fall Today? Nasdaq Slides 2.5% as AI Sell-Off Deepens - BBN Times
+### 39. Why Did the Stock Market Fall Today? Nasdaq Slides 2.5% as AI Sell-Off Deepens - BBN Times
 
 - Source: BBN Times
 - Published: 2026-11-16T23:00:32+00:00
@@ -336,7 +396,17 @@ AI Chip Selloff Opens Contrarian Opportunities for Decade-Long Investors NAI500
 
 Why Did the Stock Market Fall Today? Nasdaq Slides 2.5% as AI Sell-Off Deepens BBN Times
 
-### 34. Gold, silver extend losses as tech selloff, dollar pressure metals- Kitco PM Report - Kitco
+### 40. Stocks fall before Nvidia earnings, Anthropic IPO - The Edge Malaysia
+
+- Source: The Edge Malaysia
+- Published: 2026-11-16T23:00:16+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiU0FVX3lxTFBmb2gyWFVVWTFoUUJXUUFHVUc1cWFOcDNGaFBDVG5jOVFDUGFteUlaQ2lpbXZUUDJsd2JaTGZ2Um9MV0p5SGJqQ2FDVVJlekZkVU1V?oc=5
+
+Stocks fall before Nvidia earnings, Anthropic IPO The Edge Malaysia
+
+### 41. Gold, silver extend losses as tech selloff, dollar pressure metals- Kitco PM Report - Kitco
 
 - Source: Kitco
 - Published: 2026-11-16T22:39:45+00:00
@@ -346,7 +416,7 @@ Why Did the Stock Market Fall Today? Nasdaq Slides 2.5% as AI Sell-Off Deepens B
 
 Gold, silver extend losses as tech selloff, dollar pressure metals- Kitco PM Report Kitco
 
-### 35. 'Fast Money' traders weigh Nvidia selloff ahead of earnings - CNBC
+### 42. 'Fast Money' traders weigh Nvidia selloff ahead of earnings - CNBC
 
 - Source: CNBC
 - Published: 2026-11-16T22:35:00+00:00
@@ -356,7 +426,7 @@ Gold, silver extend losses as tech selloff, dollar pressure metals- Kitco PM Rep
 
 'Fast Money' traders weigh Nvidia selloff ahead of earnings CNBC
 
-### 36. Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq - Yahoo Finance
+### 43. Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-16T22:25:02+00:00
@@ -366,7 +436,7 @@ Gold, silver extend losses as tech selloff, dollar pressure metals- Kitco PM Rep
 
 Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq Yahoo Finance
 
-### 37. International Business: Stocks fall ahead of Nvidia earnings - Gulf Daily News (Bahrain)
+### 44. International Business: Stocks fall ahead of Nvidia earnings - Gulf Daily News (Bahrain)
 
 - Source: Gulf Daily News (Bahrain)
 - Published: 2026-11-16T21:23:25+00:00
@@ -376,17 +446,7 @@ Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattle
 
 International Business: Stocks fall ahead of Nvidia earnings Gulf Daily News (Bahrain)
 
-### 38. Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-11-16T21:05:18+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3BQd2lUam5YX1RGekdqV203U1BmRzNUQnlhem10ajRycVpfTUYzRWtOM2h1ZDd5M2tvUnNXeG1VOHRGTEl4VkJsSUhuQk41UlcyNU1EZDJaSTNTd2NvM3lDUDV5NU95SUtxSHZaZEpjSnMxRGgtamUtb0lYWUtHMTFZZDBLblVaeXhVTEhSa2ZPeF9y?oc=5
-
-Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg.com
-
-### 39. Daily Summary: Tech Stock Selloff Weighs on Markets, Fed Outlines AI Scenarios - XTB.com
+### 45. Daily Summary: Tech Stock Selloff Weighs on Markets, Fed Outlines AI Scenarios - XTB.com
 
 - Source: XTB.com
 - Published: 2026-11-16T19:23:04+00:00
@@ -396,7 +456,7 @@ Stocks Fall Before Nvidia Earnings, Anthropic IPO: Markets Wrap Bloomberg.com
 
 Daily Summary: Tech Stock Selloff Weighs on Markets, Fed Outlines AI Scenarios XTB.com
 
-### 40. US stocks fall before Nvidia earnings, Anthropic IPO - Moneycontrol.com
+### 46. US stocks fall before Nvidia earnings, Anthropic IPO - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-16T17:26:34+00:00
@@ -406,7 +466,7 @@ Daily Summary: Tech Stock Selloff Weighs on Markets, Fed Outlines AI Scenarios X
 
 US stocks fall before Nvidia earnings, Anthropic IPO Moneycontrol.com
 
-### 41. US stocks fall before Nvidia earnings, Anthropic IPO - The Edge Singapore
+### 47. US stocks fall before Nvidia earnings, Anthropic IPO - The Edge Singapore
 
 - Source: The Edge Singapore
 - Published: 2026-11-16T16:07:35+00:00
@@ -416,7 +476,7 @@ US stocks fall before Nvidia earnings, Anthropic IPO Moneycontrol.com
 
 US stocks fall before Nvidia earnings, Anthropic IPO The Edge Singapore
 
-### 42. Ultra Clean Holdings falls 8% amid broad semiconductor selloff (UCTT:NASDAQ) - Seeking Alpha
+### 48. Ultra Clean Holdings falls 8% amid broad semiconductor selloff (UCTT:NASDAQ) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-16T15:27:31+00:00
@@ -426,7 +486,7 @@ US stocks fall before Nvidia earnings, Anthropic IPO The Edge Singapore
 
 Ultra Clean Holdings falls 8% amid broad semiconductor selloff (UCTT:NASDAQ) Seeking Alpha
 
-### 43. Stock Market Today: S&P 500 and Nasdaq Fall as Nvidia Selloff Deepens - Coinpaper
+### 49. Stock Market Today: S&P 500 and Nasdaq Fall as Nvidia Selloff Deepens - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-11-16T15:03:57+00:00
@@ -436,17 +496,57 @@ Ultra Clean Holdings falls 8% amid broad semiconductor selloff (UCTT:NASDAQ) See
 
 Stock Market Today: S&P 500 and Nasdaq Fall as Nvidia Selloff Deepens Coinpaper
 
-### 44. Tech Stock Selloff Eases in Countdown to Nvidia: Markets Wrap - Bloomberg.com
+### 50. Chip stocks fall on US semiconductor restrictions: AlphaCheck - Yahoo Finance
 
-- Source: Bloomberg.com
-- Published: 2026-11-17T10:21:32+00:00
+- Source: Yahoo Finance
+- Published: 2026-11-16T15:00:19+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NYQzlGd3NpY1NLcXNmMm84U1pmQ1dKelhJSkRNY09iTHJVbnZfTGprZFNQWXBteHNCbnhmYVJXaDJIUEd6RkxXVlNEYzlVMzBMWnRQc0NZblllQlY3REtxN0hoQ1h2QTBzS3Q1QTh2OWdXbHBubm1IcGhBSndxNkVXa3JIMVpXUG5XV2RHcndCa2UtR1Z6NDkxTDZERXlMNmxFVUJHV2tRTXdpb1FEVkh4RlZZaTBoaWQw?oc=5
+
+Chip stocks fall on US semiconductor restrictions: AlphaCheck Yahoo Finance
+
+### 51. Stocks fall before Nvidia earnings, Anthropic IPO - Yahoo Finance Singapore
+
+- Source: Yahoo Finance Singapore
+- Published: 2026-11-16T14:56:58+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNeVN5ZG1HT1g0Z0RBZ2N1LTNJYkpublhKNXIwaVRJODFNRGhOSmNmR2s2VGlaLS1LYkhlV2YxaFZJYk1uaUEyMWVCODdaNUFreUNUbFo5b0RxUG9ULU55eWVNUVR4M1lKZWNjTENyMFo4X3pMSUtEUnkzLWdOS2dVVVM5YUJoSFc4S2M2RHRMVQ?oc=5
+
+Stocks fall before Nvidia earnings, Anthropic IPO Yahoo Finance Singapore
+
+### 52. UK stocks fall as investors on edge ahead of Nvidia results; UK data keeps rate bets intact - Reuters
+
+- Source: Reuters
+- Published: 2026-11-17T11:29:44+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxQSHFoREFNUWJRYTJxR0pTRnpHM2Q1NlhjQ1pjN0w3U1FWM09sclNuMlVNLWx4YXF0TURpOEdtSk9sc3BXTEpBakhLd21neWhod2pvZ1hRNVAtZWxNTlZmUXl4TXNJQ0MyTTFqa0tpRGVmOVpQZlRidlZzYkFLYnlNSXduLUtPSXo3QUJ0aVhlM0xWVFNh?oc=5
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNYlctZUJBbkJVek5qZEV4aFlDcm92RjZBd0ZQZU9LUnh4bkhDZWxabjh0QjNFMUowRE44RExiZmZLMnMtanZlSW1tbHN0THVrN1hQc3NPQjhKdnd0eEh5cGpfYjh6V284dW9ZZ3JVd0JSYU45cElUN01IMEl5SC1wNkRYT3hDVEhicXVhQTRoTUpPNzE2RjZuX1dBVUZDYmZ1ZnNUQU5kRkFmZnREU0w5SUQ1azJUV2lvaEZuTmU3Yw?oc=5
 
-Tech Stock Selloff Eases in Countdown to Nvidia: Markets Wrap Bloomberg.com
+UK stocks fall as investors on edge ahead of Nvidia results; UK data keeps rate bets intact Reuters
 
-### 45. Why is Anthropic's IPO six times oversubscribed despite the AI selloff? - FXStreet
+### 53. UK stocks fall as investors on edge ahead of Nvidia results; UK data keeps rate bets intact - Euronext Markets: Real-time Stock Market Data | live
+
+- Source: Euronext Markets: Real-time Stock Market Data | live
+- Published: 2026-11-17T11:29:08+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTE9jaXB1UjF2QnRhVjZ6R2RReUw0emZBQUd0MnZxb28xRi1EeEdkeDBiR2xLZXpoVVV3ckM0dTVvQ3g1dGxLWEp2dklFcTJ1NlBQLWVtSkVfUUlmUHp4WWp3TDF2OVl0RURwVFA3ZnVESEZGYnZZalhoNGhwTEF0cjk2eE96NTNRRFJBdnp4aVlvUHRDLXc3Yk1DUTEtMmZZM2NIWVNGdUdJek5DalBNTEc4S2NpTE91QXczNkZnWS1PYkE?oc=5
+
+UK stocks fall as investors on edge ahead of Nvidia results; UK data keeps rate bets intact Euronext Markets: Real-time Stock Market Data | live
+
+### 54. Ethereum Price Decline May Be Linked to Nvidia Selloff and Anthropic IPO, Says Tom Lee - Coinpedia
+
+- Source: Coinpedia
+- Published: 2026-11-17T10:46:32+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPN3hzaHUwaVVsdXpaUXNBaU5lX1pfVE5UbnprMEhBdDUtcUJxTU42SEl6R0tRUFZxell1NWFrOGxKbEIxVnNfTEhyUHpzQ2laWEFQRzJNTTVJNjJYV3JUR2lUS0x5UW5VZVhtMlFyTm5jUkxRZzhHVlkxZlRZdngtTjFVQnJHSlBuMHhHcGNEQzRpRzhxNlhYM2NvVnI1TEdzcVA3dTVIT2ZuVVdhRjBIU0N3aWNBaEdGdUxaQmhrb3QwT2PSAcgBQVVfeXFMTjBQa1E2b205LV9sUnpHSGNDNVFaS1pVWUZQN3hQQU5aem5VNlRyQ0VXdnVNbEZtdi1sdTh5b3prc0w4N0pCM05oS3ZvaDN0U3ZZNUtmTlo3dnNHcnFoNF9VNXdtTHNaZ285YlhtcFdKWWNjVUhCRnllWWdQTDV5VWJ0dmhvU3Ixd1AxR0JOT3VXNnNvQ3luREZhMVRlMGYtM2M3Sm1hbjdZbXNxdmtTUHlYM0t0bWRzMk1jbzJCTkxzcWJCTjByV3E?oc=5
+
+Ethereum Price Decline May Be Linked to Nvidia Selloff and Anthropic IPO, Says Tom Lee Coinpedia
+
+### 55. Why is Anthropic's IPO six times oversubscribed despite the AI selloff? - FXStreet
 
 - Source: FXStreet
 - Published: 2026-11-17T09:42:52+00:00
@@ -456,7 +556,7 @@ Tech Stock Selloff Eases in Countdown to Nvidia: Markets Wrap Bloomberg.com
 
 Why is Anthropic's IPO six times oversubscribed despite the AI selloff? FXStreet
 
-### 46. US chip export restrictions amplify Asian technology stock selloff - Thailand Business News
+### 56. US chip export restrictions amplify Asian technology stock selloff - Thailand Business News
 
 - Source: Thailand Business News
 - Published: 2026-11-17T09:36:38+00:00
@@ -466,7 +566,7 @@ Why is Anthropic's IPO six times oversubscribed despite the AI selloff? FXStreet
 
 US chip export restrictions amplify Asian technology stock selloff Thailand Business News
 
-### 47. South Korean Stocks Fall for Fourth Straight Session on AI Concerns - www.marketscreener.com
+### 57. South Korean Stocks Fall for Fourth Straight Session on AI Concerns - www.marketscreener.com
 
 - Source: www.marketscreener.com
 - Published: 2026-11-17T08:06:20+00:00
@@ -476,7 +576,7 @@ US chip export restrictions amplify Asian technology stock selloff Thailand Busi
 
 South Korean Stocks Fall for Fourth Straight Session on AI Concerns www.marketscreener.com
 
-### 48. Sensex falls 400 pts from day's high, Nifty below 25,400: Key reasons behind market paring gains - Moneycontrol.com
+### 58. Sensex falls 400 pts from day's high, Nifty below 25,400: Key reasons behind market paring gains - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-17T08:01:20+00:00
@@ -486,7 +586,7 @@ South Korean Stocks Fall for Fourth Straight Session on AI Concerns www.marketsc
 
 Sensex falls 400 pts from day's high, Nifty below 25,400: Key reasons behind market paring gains Moneycontrol.com
 
-### 49. China hedge funds post steep losses after AI stock selloff - Traders Union
+### 59. China hedge funds post steep losses after AI stock selloff - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-17T07:26:31+00:00
@@ -496,7 +596,7 @@ Sensex falls 400 pts from day's high, Nifty below 25,400: Key reasons behind mar
 
 China hedge funds post steep losses after AI stock selloff Traders Union
 
-### 50. Equities: Tech selloff spreads to Asia - Danske Bank - FXStreet
+### 60. Equities: Tech selloff spreads to Asia - Danske Bank - FXStreet
 
 - Source: FXStreet
 - Published: 2026-11-17T07:11:25+00:00
@@ -506,7 +606,7 @@ China hedge funds post steep losses after AI stock selloff Traders Union
 
 Equities: Tech selloff spreads to Asia - Danske Bank FXStreet
 
-### 51. Stock market today: Sensex, Nifty open higher despite global sell-off - BusinessLine
+### 61. Stock market today: Sensex, Nifty open higher despite global sell-off - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-17T04:22:32+00:00
@@ -516,7 +616,7 @@ Equities: Tech selloff spreads to Asia - Danske Bank FXStreet
 
 Stock market today: Sensex, Nifty open higher despite global sell-off BusinessLine
 
-### 52. Asian markets slide on Wall Street rout, Nvidia leads tech sell-off - Mettis Global
+### 62. Asian markets slide on Wall Street rout, Nvidia leads tech sell-off - Mettis Global
 
 - Source: Mettis Global
 - Published: 2026-11-17T04:11:00+00:00
@@ -526,7 +626,7 @@ Stock market today: Sensex, Nifty open higher despite global sell-off BusinessLi
 
 Asian markets slide on Wall Street rout, Nvidia leads tech sell-off Mettis Global
 
-### 53. AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China - Yahoo Finance
+### 63. AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-17T04:04:00+00:00
@@ -536,7 +636,7 @@ Asian markets slide on Wall Street rout, Nvidia leads tech sell-off Mettis Globa
 
 AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Restrictions Targeting China Yahoo Finance
 
-### 54. Nvidia Says New Decoder Cuts Quantum Error-Correction Research From 12 Weeks to 45 Minutes - BigGo Finance
+### 64. Nvidia Says New Decoder Cuts Quantum Error-Correction Research From 12 Weeks to 45 Minutes - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-17T03:25:00+00:00
@@ -546,7 +646,7 @@ AMD, MU, SKHY, AVGO: Chip Stocks Ease Overnight After Selloff On New US Chip Res
 
 Nvidia Says New Decoder Cuts Quantum Error-Correction Research From 12 Weeks to 45 Minutes BigGo Finance
 
-### 55. Taiwan Stocks Plunge 2,635 Points in a Single Day; Analyst Reveals Main Cause of AI Selloff: Data Centers Stuck on Permits - BigGo Finance
+### 65. Taiwan Stocks Plunge 2,635 Points in a Single Day; Analyst Reveals Main Cause of AI Selloff: Data Centers Stuck on Permits - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-17T02:55:00+00:00
@@ -556,7 +656,7 @@ Nvidia Says New Decoder Cuts Quantum Error-Correction Research From 12 Weeks to 
 
 Taiwan Stocks Plunge 2,635 Points in a Single Day; Analyst Reveals Main Cause of AI Selloff: Data Centers Stuck on Permits BigGo Finance
 
-### 56. 💻📉 AI jitters deepen as technology sell-off pulls Wall Street lower - Moomoo
+### 66. 💻📉 AI jitters deepen as technology sell-off pulls Wall Street lower - Moomoo
 
 - Source: Moomoo
 - Published: 2026-11-17T00:47:00+00:00
@@ -566,7 +666,7 @@ Taiwan Stocks Plunge 2,635 Points in a Single Day; Analyst Reveals Main Cause of
 
 💻📉 AI jitters deepen as technology sell-off pulls Wall Street lower Moomoo
 
-### 57. Nasdaq Tumbles 2.49% to 24,509.76 and Slips Into Correction Territory Ahead of Nvidia Results - BBN Times
+### 67. Nasdaq Tumbles 2.49% to 24,509.76 and Slips Into Correction Territory Ahead of Nvidia Results - BBN Times
 
 - Source: BBN Times
 - Published: 2026-11-16T23:40:14+00:00
@@ -576,7 +676,7 @@ Taiwan Stocks Plunge 2,635 Points in a Single Day; Analyst Reveals Main Cause of
 
 Nasdaq Tumbles 2.49% to 24,509.76 and Slips Into Correction Territory Ahead of Nvidia Results BBN Times
 
-### 58. Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms - Los Angeles Times
+### 68. Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms - Los Angeles Times
 
 - Source: Los Angeles Times
 - Published: 2026-11-16T21:42:00+00:00
@@ -586,7 +686,7 @@ Nasdaq Tumbles 2.49% to 24,509.76 and Slips Into Correction Territory Ahead of N
 
 Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms Los Angeles Times
 
-### 59. Investors reassess AI exposure as selloff hits Wall Street’s favorite trade - Crypto Briefing
+### 69. Investors reassess AI exposure as selloff hits Wall Street’s favorite trade - Crypto Briefing
 
 - Source: Crypto Briefing
 - Published: 2026-11-16T20:44:05+00:00
@@ -596,7 +696,7 @@ Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms Los Ang
 
 Investors reassess AI exposure as selloff hits Wall Street’s favorite trade Crypto Briefing
 
-### 60. NVIDIA’s NVQLink Speeds Up Quantum Error Correction, Anyon Says - Quantum Zeitgeist
+### 70. NVIDIA’s NVQLink Speeds Up Quantum Error Correction, Anyon Says - Quantum Zeitgeist
 
 - Source: Quantum Zeitgeist
 - Published: 2026-11-16T20:43:02+00:00
@@ -606,7 +706,7 @@ Investors reassess AI exposure as selloff hits Wall Street’s favorite trade Cr
 
 NVIDIA’s NVQLink Speeds Up Quantum Error Correction, Anyon Says Quantum Zeitgeist
 
-### 61. U.S. Stocks Fall as Nvidia Drama Continues - WSJ
+### 71. U.S. Stocks Fall as Nvidia Drama Continues - WSJ
 
 - Source: WSJ
 - Published: 2026-11-16T20:25:00+00:00
@@ -616,7 +716,7 @@ NVIDIA’s NVQLink Speeds Up Quantum Error Correction, Anyon Says Quantum Zeitge
 
 U.S. Stocks Fall as Nvidia Drama Continues WSJ
 
-### 62. Copper price hits four-month low on AI selloff, China weakness - Mining.com.au
+### 72. Copper price hits four-month low on AI selloff, China weakness - Mining.com.au
 
 - Source: Mining.com.au
 - Published: 2026-11-16T20:16:58+00:00
@@ -626,7 +726,7 @@ U.S. Stocks Fall as Nvidia Drama Continues WSJ
 
 Copper price hits four-month low on AI selloff, China weakness Mining.com.au
 
-### 63. Analysis-AI selloff has investors scrambling to measure their true exposure - The Lufkin Daily News
+### 73. Analysis-AI selloff has investors scrambling to measure their true exposure - The Lufkin Daily News
 
 - Source: The Lufkin Daily News
 - Published: 2026-11-16T19:28:09+00:00
@@ -636,7 +736,7 @@ Copper price hits four-month low on AI selloff, China weakness Mining.com.au
 
 Analysis-AI selloff has investors scrambling to measure their true exposure The Lufkin Daily News
 
-### 64. AI selloff has investors scrambling to measure their true exposure - Reuters
+### 74. AI selloff has investors scrambling to measure their true exposure - Reuters
 
 - Source: Reuters
 - Published: 2026-11-16T19:16:20+00:00
@@ -646,7 +746,27 @@ Analysis-AI selloff has investors scrambling to measure their true exposure The 
 
 AI selloff has investors scrambling to measure their true exposure Reuters
 
-### 65. Crypto Stocks Sink Up to 7.6% as Nvidia Slump Drags Nasdaq Into Correction - BigGo Finance
+### 75. Analysis-AI selloff has investors scrambling to measure their true exposure - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-16T19:15:46+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxPSmxDMjA4X2hLYmE5MnlqN3JRY1ZMZUdqdHRNVFFKM1VLcTQzSmZuWkMyWkdONTBsTXk2U1RtQS1jRTR6SUlYeWoybnQ2ekR4VWpabUZTYTZWUmlMUmxzcGdBQkZOWXplRzhqbzVSOXMxM215NmZlbFl6VkpzbzlUcUtJaU9Fakt4aTQtVk5aMA?oc=5
+
+Analysis-AI selloff has investors scrambling to measure their true exposure Yahoo Finance
+
+### 76. Microsoft faces further correction risk as AI investment concerns weigh on shares - Traders Union
+
+- Source: Traders Union
+- Published: 2026-11-16T17:07:25+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxNUlBjUGxVU1lEeXJ4TC1nczRNUWxZdXZaMGdMTm5QTmtSVUZLbFZELXZiSTFLbzBydmJzQVN5ZWYyWi1uSUtUSnNIYWVTS3dEcVRIbTVWTVlVbWFwWk9VVE9aLUFvb1AwM1lwQWNlbzlrQWpQTlNCWlRUVnY4SjdSamlDOGVSYU9Oc1MxejhB?oc=5
+
+Microsoft faces further correction risk as AI investment concerns weigh on shares Traders Union
+
+### 77. Crypto Stocks Sink Up to 7.6% as Nvidia Slump Drags Nasdaq Into Correction - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-16T16:25:00+00:00
@@ -656,17 +776,17 @@ AI selloff has investors scrambling to measure their true exposure Reuters
 
 Crypto Stocks Sink Up to 7.6% as Nvidia Slump Drags Nasdaq Into Correction BigGo Finance
 
-### 66. Stock Indexes Retreat as Chipmakers and AI Stocks Fall - Barchart.com
+### 78. Stock Indexes Retreat as Chipmakers and AI Stocks Fall - Yahoo Finance
 
-- Source: Barchart.com
+- Source: Yahoo Finance
 - Published: 2026-11-16T16:15:42+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2FtcHVySTJNSlBFTkxFeS1la2VGYlZaaV9vb0VLaEozOG5IS1hsR1hjOG9TT3NHMnRxdzJmUEU2eTJGR0EyUGd4SzFYbWVJOHdjSi15VE84Y0x6X09sV0loTE5oRUtfV0JNcjgydmsxZHAyQWx5dUtzeUJRTTQyY1JFMmJaS21IbDZfUlBVLWs5SWlpZm9jWERJRDhZajA?oc=5
+- Link: https://news.google.com/rss/articles/CBMiogFBVV95cUxQUF95UTY4NTd2MHduNklpb3luVmJzUWFhanVxaFdaZG9lYVlIMUlnMVNhTmJlLVBGTC1YQTdmZHc2VW1rbWhvRHZDelY0M1gybkRxMXpoRjJOWVh6Q19SQ18xZ2VhVUFPNzRnblQyOE03cTJOcmpHZlZSRkh3ZElfc003VW5Yc3MyRmh3NVNzWGkyajJUOGduUHZpdVJacElOM2c?oc=5
 
-Stock Indexes Retreat as Chipmakers and AI Stocks Fall Barchart.com
+Stock Indexes Retreat as Chipmakers and AI Stocks Fall Yahoo Finance
 
-### 67. NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing - NVIDIA Newsroom
+### 79. NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing - NVIDIA Newsroom
 
 - Source: NVIDIA Newsroom
 - Published: 2026-11-16T16:04:02+00:00
@@ -676,7 +796,7 @@ Stock Indexes Retreat as Chipmakers and AI Stocks Fall Barchart.com
 
 NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laboratory to Launch Quantum-Classical Codesign Platform, Plus Error-Correction Breakthrough to Advance Practical Quantum Computing NVIDIA Newsroom
 
-### 68. Tech selloff takes Sandisk lower by 8% (SNDK:NASDAQ) - Seeking Alpha
+### 80. Tech selloff takes Sandisk lower by 8% (SNDK:NASDAQ) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-16T15:46:57+00:00
@@ -685,123 +805,3 @@ NVIDIA Announces Collaboration With IBM and Fermi National Accelerator Laborator
 - Link: https://news.google.com/rss/articles/CBMigAFBVV95cUxPYTlCOUhTcXBZTXRtODByczRrQzF4OFVVSjRjbFAwb0U5RTRHYlVEMXdXd01QUDVCZTBDRXU3bmtoOTBxS1d6d2dHa3Jvd2o4U3lFZDl0a3BpZ2dHUm1wVXhVWUpzMXRIVlVXMml5LWU2WjVwdks0VGJsRlBkUWRVVw?oc=5
 
 Tech selloff takes Sandisk lower by 8% (SNDK:NASDAQ) Seeking Alpha
-
-### 69. Nifty rises 147 points despite Asian sell-off; Banks, FMCG support Sensex - TradingView
-
-- Source: TradingView
-- Published: 2026-11-16T12:10:56+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxNV3ZjWkM4QW9vdnlTOFBEVE81MDNTU3YzcUU3TE02Z2FFd29RTE4tV2UteURUMFJ3aFd6Y2FzdkJpMGNuME1oV09SM0UtS0xBOXd3dTM1bWRPM0ZUZW1SeVB0MFJTbk4zWTRxYVJhNHlTOGpGTHRsbFBBampoWTNoN3dOQWdBOWlqenFpblVTRVVqWnZCX0tvZlczRXJ4V2J6R2EtRlhvTXhybGoyQnVEVHJhQWt3RGRYS1Jta3JQMnNVSEpzU19v?oc=5
-
-Nifty rises 147 points despite Asian sell-off; Banks, FMCG support Sensex TradingView
-
-### 70. AI selloff has investors scrambling to measure their true exposure - Reuters
-
-- Source: Reuters
-- Published: 2026-11-16T11:46:09+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiekFVX3lxTE9FZ3dCaEtOR2VYWUJMUHN3cERUSGdEb3V6UElqNlhVcFBkWE1CLVhCaUxlUkJaYmRIb004cGlNbzZDdGRMRjFvcGl6SFNsNTc2bWt0a0R1aW43cWNZZVc3WUp3cGRRck9MUlNHUDdyTUVyTmlhUkp5TWNR?oc=5
-
-AI selloff has investors scrambling to measure their true exposure Reuters
-
-### 71. Analysis-AI selloff has investors scrambling to measure their true exposure - Merced Sun-Star
-
-- Source: Merced Sun-Star
-- Published: 2026-11-16T11:31:06+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxOSXVURVl1QlVhb3VESWloQ1lTWjFvTGZKakNKT3JFYnlfZVFIcUIzU1FqazlYYVVvU2tOZEcySlk5MGc2d0pYUjJMbldxOEdxbXpLZi03ZWpQdHFNSVM1OFI0Vjd3QVVJRXlVNWtBaTRDSUY3OUZIczhPVlNENmprVEQ1NUg?oc=5
-
-Analysis-AI selloff has investors scrambling to measure their true exposure Merced Sun-Star
-
-### 72. Analysis-AI selloff has investors scrambling to measure their true exposure - Tri-City Herald
-
-- Source: Tri-City Herald
-- Published: 2026-11-16T11:31:06+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxPZzJKOXlYYUhETm5tdDNTVkxmZkNvcmt5ZVVLSWpmV29yb1d1TF9mTi1ybDNWWGw5encyTWpoQ25jc2JmOTdwYnZINFMwU1dNaDFGYVZIRGZDcmFQVXRVV3ZqMGJuVGk3akdHLVJuUVRqUk9KSFVwOHYxaXRXX2REWVpuWW9fUQ?oc=5
-
-Analysis-AI selloff has investors scrambling to measure their true exposure Tri-City Herald
-
-### 73. Analysis-AI selloff has investors scrambling to measure their true exposure - Bellingham Herald
-
-- Source: Bellingham Herald
-- Published: 2026-11-16T11:31:06+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTXhSMVJYb0hkWjIzM0tPeWprQTRHLW9rYjhkTGswenZiZG9hdU0xZDg4SE1GMEpZeEMtVFQ4a3BYZk95dXltQ2lESzdqdHdFVGJDcHhadHhfTUNFcXJZc1VDcmE4VXJUb2ZQb3dIWXUtZkhwVC12U19XSVJ3dzBsV2xKS2xmTVhP?oc=5
-
-Analysis-AI selloff has investors scrambling to measure their true exposure Bellingham Herald
-
-### 74. AI selloff has investors scrambling to measure their true exposure - Yahoo
-
-- Source: Yahoo
-- Published: 2026-11-16T11:26:52+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMikgFBVV95cUxNVE1hdlB0dnhFdThYV3ZneGFDY3JGUjBWeHNlUzJSNHZYNjBrV1pxREJpcFlQeXlkUEdMY0lVOER3enppcG5MMmt5Q0p2RlNxN2ZOdGxrR2lPMUZGalI0UU1kWWVXTTNVLUdlTGJrOW9DTzlJLWNwTkdyQURHRFNsVGEtZFVMNVFMZTRRLXI3cm9iZw?oc=5
-
-AI selloff has investors scrambling to measure their true exposure Yahoo
-
-### 75. Anthropic's AI Beats Pokemon With "Memory Tidy-Up" — Self-Correction After Falling Off a Ledge Three Times - BigGo Finance
-
-- Source: BigGo Finance
-- Published: 2026-11-16T11:25:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE1ienh6NjRUX0ZKSzJwR3MtaTRiVnRmdGk1UGRXbXZrdFVtYnhDS0pxS3MyeU5JUTcyUnR5cHdQVnJ0aXc4aTJlTXc4a01jd1UtMVhkWUJXZjJCd2VHRnRZX3prZlVYX2d6OTZfYUtZd2NyZDIyT1E?oc=5
-
-Anthropic's AI Beats Pokemon With "Memory Tidy-Up" — Self-Correction After Falling Off a Ledge Three Times BigGo Finance
-
-### 76. Analysis-AI selloff has investors scrambling to measure their true exposure By Reuters - Investing.com
-
-- Source: Investing.com
-- Published: 2026-11-16T11:14:33+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQZTQ4cXN2OU9tdmxuMV9JWW9OY0xxMnFPNm11RTJmRE8yajV5cEJSNVUzY2szN2VPbzB1WkxQRGtWa0JWYnpaMjRxTTBSTGlPNHoxdkdxT1hOaEJlTGY4LVlKMlVqZW44RDZVdWFUbThObWZEOG9OZmk0cnpTWHBGR0NKamxHNk5EQ19ncHZweWI1dm5BSzYxeklEUlpPNGtjckNwV0hzTTYwek05eWtQeTlXOW1BdXpJRU0tdjFlbnNmakpRRjRvVFdxdw?oc=5
-
-Analysis-AI selloff has investors scrambling to measure their true exposure By Reuters Investing.com
-
-### 77. The CAC 40 Holds Steady as AI Correction Shakes Asia - Idéal Investisseur
-
-- Source: Idéal Investisseur
-- Published: 2026-11-16T11:13:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxNV2prc0M3bk5Ka1hiU01iM3JwLWVOSjFYaVdBenk5a2ExeXFuSk9HSUFJWE9hZldxa01YejhUVEMxc3pUMlVwNWdtbUhVNUNyT3FGT2tQZldBNzY4QUpnWlc0SlFlaGlGQmtSNFVodlhSVm40UFl3aUo0aGVCeDBjUTg1d05tYmJlQ1BuaWpjeERfSHA2V2d6RGczQWdPVDdfQ1pYck9QSkRuYVdNeUpoU3dDdXA5S1VxSDdacUUwZU1hZw?oc=5
-
-The CAC 40 Holds Steady as AI Correction Shakes Asia Idéal Investisseur
-
-### 78. Investors reassess AI exposure as selloff jolts global portfolios - Traders Union
-
-- Source: Traders Union
-- Published: 2026-11-16T11:11:24+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxNOXF6bFI4eFVNTm15SVZ5eUxOdDJPZm5qREJib3hYMXZMQjY5Q2VTczFCRGpET3VCaThiUUxWOGxxcUVqOXNxYmxIamRZQTNJdWJoZHlVd3hKZTIta2RBNjBOY25SeHpkcEpEQl83ZmtSbExyZ1lMeFpjSXFHSFlmNkpMZTFWNnZ5d3ZpaVlkWEJUUkMtU0UwV082WlpJYms?oc=5
-
-Investors reassess AI exposure as selloff jolts global portfolios Traders Union
-
-### 79. Analysis:AI selloff has investors scrambling to measure their true exposure - CNA
-
-- Source: CNA
-- Published: 2026-11-16T11:03:14+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOcV85XzFQQWtxWUZWZEZUZXpaSGlPQVhVazJwbi1KX2dFSWo4XzlER3lJbXVLOTdtWnhNa0tnaVNoQUhDcFRyQ0xkSGt3Vk82Q1RUTWI4bmk5ZGdRQjQ0WnEzbHdyT0tyaXozR1hvc1hYY2ZJTHRGeXFfS1VqWWlqM1g5WXM4eVpKRjBKT0dXREtPTlZEVllHV3JyZjhxZl96T3pwWkNOY0dCNWU5YndGOTJMeG9BT1pRc3MtUQ?oc=5
-
-Analysis:AI selloff has investors scrambling to measure their true exposure CNA
-
-### 80. AI selloff has investors scrambling to measure their true exposure - TradingView
-
-- Source: TradingView
-- Published: 2026-11-16T11:00:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRHdKeUx3aUtzdmNZMDJIT0dXejJGQjlUVUpUcU11clg4bXlDTTQ3NzVyWmFMZWtBX0NqdXFWWkpNU0NCT1BETGpobnZHOVNDaDVXekRBclRsOTVkSFFGakc3RU1SYnoyVGFFd3FrRHF2QUdVSUFnVmVTQmpTRXMtdjhVU1o3VURwbDdlaDFlR01uVjM3SW1UaHRuZUM5b3NsSGF6UGQteTRZd2hqZkYtNDdQQzZZdDRxcEhWR3RleC1HUWFfeFUxUUxKYlNTdWdSSnc?oc=5
-
-AI selloff has investors scrambling to measure their true exposure TradingView
