@@ -1,501 +1,501 @@
 symbol,company,ticker,last_date,last_price,open,day_high,day_low,previous_close,change_pct,year_high,year_low,distance_from_52w_high_pct,fresh_52w_high,within_3pct_52w_high,volume,traded_value,source
-LICHSGFIN,LIC Housing Finance Ltd.,LICHSGFIN.NS,2026-11-17,610.1,,610.75,596.15,585.1,4.27,610.75,458.9,-0.11,True,True,1712644,,Nifty Indices constituents + Yahoo history
-KOTAKBANK,Kotak Mahindra Bank Ltd.,KOTAKBANK.NS,2026-11-17,497.0,,498.4,492.2,494.2,0.57,498.4,345.5,-0.28,True,True,6499083,,Nifty Indices constituents + Yahoo history
-KARURVYSYA,Karur Vysya Bank Ltd.,KARURVYSYA.NS,2026-11-17,396.3,,397.85,391.05,390.25,1.55,397.85,236.63,-0.39,True,True,2175218,,Nifty Indices constituents + Yahoo history
-MAHABANK,Bank of Maharashtra,MAHABANK.NS,2026-11-17,94.24,,94.7,92.0,92.0,2.43,94.7,55.51,-0.49,True,True,17042500,,Nifty Indices constituents + Yahoo history
-INDHOTEL,Indian Hotels Co. Ltd.,INDHOTEL.NS,2026-11-17,900.25,,909.65,884.95,886.0,1.61,909.65,565.0,-1.03,True,True,3100052,,Nifty Indices constituents + Yahoo history
-DLF,DLF Ltd.,DLF.NS,2026-11-17,765.45,,773.65,752.25,754.75,1.42,773.65,489.4,-1.06,True,True,2333868,,Nifty Indices constituents + Yahoo history
-ETERNAL,Eternal Ltd.,ETERNAL.NS,2026-11-17,373.95,,378.0,369.15,371.1,0.77,378.0,212.6,-1.07,True,True,20538478,,Nifty Indices constituents + Yahoo history
-HONASA,Honasa Consumer Ltd.,HONASA.NS,2026-11-17,517.4,,524.0,501.4,501.95,3.08,524.0,248.4,-1.26,True,True,1964398,,Nifty Indices constituents + Yahoo history
-UNIONBANK,Union Bank of India,UNIONBANK.NS,2026-11-17,206.63,,209.7,206.13,205.6,0.5,209.7,145.87,-1.46,True,True,9212889,,Nifty Indices constituents + Yahoo history
-PVRINOX,PVR INOX Ltd.,PVRINOX.NS,2026-11-17,1662.9,,1690.0,1631.7,1641.2,1.32,1690.0,907.4,-1.6,True,True,416510,,Nifty Indices constituents + Yahoo history
-RKFORGE,Ramkrishna Forgings Ltd.,RKFORGE.NS,2026-11-17,790.4,,804.0,786.5,784.7,0.73,804.0,460.15,-1.69,True,True,766085,,Nifty Indices constituents + Yahoo history
-EMCURE,Emcure Pharmaceuticals Ltd.,EMCURE.NS,2026-11-17,2350.2,,2397.5,2335.2,2361.7,-0.49,2397.5,1312.3,-1.97,True,True,108062,,Nifty Indices constituents + Yahoo history
-PNB,Punjab National Bank,PNB.NS,2026-11-17,148.65,,151.67,143.9,144.59,2.81,151.67,98.5,-1.99,True,True,47409911,,Nifty Indices constituents + Yahoo history
-SHYAMMETL,Shyam Metalics and Energy Ltd.,SHYAMMETL.NS,2026-11-17,1322.8,,1354.0,1310.5,1315.9,0.52,1354.0,746.0,-2.3,True,True,312160,,Nifty Indices constituents + Yahoo history
-SAREGAMA,Saregama India Ltd,SAREGAMA.NS,2026-11-17,668.35,,685.0,659.2,653.45,2.28,685.0,307.05,-2.43,True,True,705622,,Nifty Indices constituents + Yahoo history
-GROWW,Billionbrains Garage Ventures Ltd.,GROWW.NS,2026-11-17,227.1,,233.4,226.0,224.92,0.97,233.4,142.11,-2.7,True,True,41635499,,Nifty Indices constituents + Yahoo history
-MOTILALOFS,Motilal Oswal Financial Services Ltd.,MOTILALOFS.NS,2026-11-17,1241.95,,1277.8,1201.2,1220.0,1.8,1277.8,614.9,-2.81,True,True,2111393,,Nifty Indices constituents + Yahoo history
-GLAND,Gland Pharma Ltd.,GLAND.NS,2026-11-17,3288.7,,3395.9,3270.1,3334.1,-1.36,3395.9,1573.6,-3.16,True,False,162409,,Nifty Indices constituents + Yahoo history
-ANGELONE,Angel One Ltd.,ANGELONE.NS,2026-11-17,354.2,,379.15,344.45,348.15,1.74,379.15,208.63,-6.58,True,False,47544947,,Nifty Indices constituents + Yahoo history
-ABDL,Allied Blenders and Distillers Ltd.,ABDL.NS,2026-11-17,791.1,,854.7,780.0,784.25,0.87,854.7,382.1,-7.44,True,False,2363294,,Nifty Indices constituents + Yahoo history
-BHARTIARTL,Bharti Airtel Ltd.,BHARTIARTL.NS,2026-11-17,2158.6,,2166.3,2135.8,2153.5,0.24,2174.5,1726.3,-0.73,False,True,3713073,,Nifty Indices constituents + Yahoo history
-MARICO,Marico Ltd.,MARICO.NS,2026-11-17,916.9,,918.95,907.55,913.65,0.36,925.0,707.25,-0.88,False,True,1156050,,Nifty Indices constituents + Yahoo history
-ICICIBANK,ICICI Bank Ltd.,ICICIBANK.NS,2026-11-17,1601.2,,1613.9,1578.8,1585.0,1.02,1616.0,1187.6,-0.92,False,True,7960644,,Nifty Indices constituents + Yahoo history
-ANANDRATHI,Anand Rathi Wealth Ltd.,ANANDRATHI.NS,2026-11-17,2385.1,,2393.7,2371.0,2381.2,0.16,2410.0,1353.85,-1.03,False,True,89712,,Nifty Indices constituents + Yahoo history
-ASAHIINDIA,Asahi India Glass Ltd.,ASAHIINDIA.NS,2026-11-17,1162.25,,1163.7,1136.8,1165.05,-0.24,1175.0,775.1,-1.09,False,True,143217,,Nifty Indices constituents + Yahoo history
-UNOMINDA,UNO Minda Ltd.,UNOMINDA.NS,2026-11-17,1388.9,,1390.0,1335.0,1348.0,3.03,1406.5,994.0,-1.25,False,True,595416,,Nifty Indices constituents + Yahoo history
-GAIL,GAIL (India) Ltd.,GAIL.NS,2026-11-17,187.36,,188.4,186.51,187.0,0.19,189.9,134.36,-1.34,False,True,3157566,,Nifty Indices constituents + Yahoo history
-PETRONET,Petronet LNG Ltd.,PETRONET.NS,2026-11-17,329.65,,330.9,327.3,326.0,1.12,336.3,235.35,-1.98,False,True,1176745,,Nifty Indices constituents + Yahoo history
-SUNTV,Sun TV Network Ltd.,SUNTV.NS,2026-11-17,659.75,,668.9,650.95,646.7,2.02,673.95,447.2,-2.11,False,True,160689,,Nifty Indices constituents + Yahoo history
-RADICO,Radico Khaitan Ltd,RADICO.NS,2026-11-17,4637.9,,4703.7,4616.2,4665.0,-0.58,4747.0,2500.0,-2.3,False,True,139513,,Nifty Indices constituents + Yahoo history
-MCX,Multi Commodity Exchange of India Ltd.,MCX.NS,2026-11-17,3684.6,,3748.0,3657.1,3729.6,-1.21,3772.6,1921.4,-2.33,False,True,1309690,,Nifty Indices constituents + Yahoo history
-NYKAA,FSN E-Commerce Ventures Ltd.,NYKAA.NS,2026-11-17,358.0,,362.35,356.4,365.2,-1.97,366.7,232.0,-2.37,False,True,1430014,,Nifty Indices constituents + Yahoo history
-FEDERALBNK,Federal Bank Ltd.,FEDERALBNK.NS,2026-11-17,362.5,,366.6,362.45,360.95,0.43,371.7,235.27,-2.48,False,True,3309523,,Nifty Indices constituents + Yahoo history
-DRREDDY,Dr. Reddy's Laboratories Ltd.,DRREDDY.NS,2026-11-17,1379.6,,1383.8,1368.7,1380.0,-0.03,1414.9,1101.0,-2.49,False,True,447301,,Nifty Indices constituents + Yahoo history
-ENGINERSIN,Engineers India Ltd.,ENGINERSIN.NS,2026-11-17,315.45,,321.0,309.5,312.05,1.09,323.65,163.55,-2.53,False,True,4107218,,Nifty Indices constituents + Yahoo history
-IGIL,International Gemological Institute Ltd.,IGIL.NS,2026-11-17,441.75,,443.7,429.9,438.9,0.65,453.65,287.0,-2.62,False,True,445727,,Nifty Indices constituents + Yahoo history
-JSWSTEEL,JSW Steel Ltd.,JSWSTEEL.NS,2026-11-17,1332.6,,1338.4,1312.0,1334.6,-0.15,1370.0,1073.2,-2.73,False,True,956224,,Nifty Indices constituents + Yahoo history
-360ONE,360 ONE WAM Ltd.,360ONE.NS,2026-11-17,1199.65,,1220.5,1170.05,1176.8,1.94,1236.2,906.05,-2.96,False,True,1161439,,Nifty Indices constituents + Yahoo history
-LENSKART,Lenskart Solutions Ltd.,LENSKART.NS,2026-11-17,740.15,,752.75,729.3,734.7,0.74,762.75,401.15,-2.96,False,True,5759636,,Nifty Indices constituents + Yahoo history
-APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,APOLLOHOSP.NS,2026-11-17,8790.5,,8819.0,8751.0,8771.0,0.22,9070.5,6696.5,-3.09,False,False,279709,,Nifty Indices constituents + Yahoo history
-PAYTM,One 97 Communications Ltd.,PAYTM.NS,2026-11-17,1897.2,,1908.0,1877.0,1890.8,0.34,1960.0,930.6,-3.2,False,False,1503373,,Nifty Indices constituents + Yahoo history
-MEESHO,Meesho Ltd.,MEESHO.NS,2026-11-17,252.52,,254.49,249.04,251.19,0.53,261.1,125.56,-3.29,False,False,10021815,,Nifty Indices constituents + Yahoo history
-ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,ADANIPORTS.NS,2026-11-17,1912.8,,1925.0,1900.0,1893.0,1.05,1979.0,1292.0,-3.35,False,False,1039381,,Nifty Indices constituents + Yahoo history
-PHOENIXLTD,Phoenix Mills Ltd.,PHOENIXLTD.NS,2026-11-17,2222.6,,2258.5,2186.3,2255.0,-1.44,2300.0,1465.6,-3.37,False,False,441757,,Nifty Indices constituents + Yahoo history
-MANKIND,Mankind Pharma Ltd.,MANKIND.NS,2026-11-17,2613.2,,2640.0,2611.0,2640.0,-1.02,2705.0,1909.7,-3.39,False,False,210109,,Nifty Indices constituents + Yahoo history
-WELSPUNLIV,Welspun Living Ltd.,WELSPUNLIV.NS,2026-11-17,258.05,,263.64,244.11,250.14,3.16,267.42,107.1,-3.5,False,False,7530964,,Nifty Indices constituents + Yahoo history
-AXISBANK,Axis Bank Ltd.,AXISBANK.NS,2026-11-17,1368.1,,1374.0,1345.4,1342.4,1.91,1418.3,1150.3,-3.54,False,False,4154644,,Nifty Indices constituents + Yahoo history
-TVSMOTOR,TVS Motor Company Ltd.,TVSMOTOR.NS,2026-11-17,4470.5,,4505.0,4433.2,4495.0,-0.55,4636.1,3228.0,-3.57,False,False,423371,,Nifty Indices constituents + Yahoo history
-GLENMARK,Glenmark Pharmaceuticals Ltd.,GLENMARK.NS,2026-11-17,2616.1,,2648.0,2608.8,2640.0,-0.91,2714.0,1810.0,-3.61,False,False,131804,,Nifty Indices constituents + Yahoo history
-NAVINFLUOR,Navin Fluorine International Ltd.,NAVINFLUOR.NS,2026-11-17,9785.0,,9950.0,9762.0,10002.0,-2.17,10165.0,5440.0,-3.74,False,False,73680,,Nifty Indices constituents + Yahoo history
-INDGN,Indegene Ltd.,INDGN.NS,2026-11-17,651.0,,668.65,650.95,666.2,-2.28,677.0,414.0,-3.84,False,False,240728,,Nifty Indices constituents + Yahoo history
-AUROPHARMA,Aurobindo Pharma Ltd.,AUROPHARMA.NS,2026-11-17,1787.8,,1811.0,1787.8,1794.0,-0.35,1859.9,1106.0,-3.88,False,False,594335,,Nifty Indices constituents + Yahoo history
-PPLPHARMA,Piramal Pharma Ltd.,PPLPHARMA.NS,2026-11-17,243.81,,247.99,239.26,244.93,-0.46,253.9,132.3,-3.97,False,False,2711076,,Nifty Indices constituents + Yahoo history
-COFORGE,Coforge Ltd.,COFORGE.NS,2026-11-17,2042.7,,2064.0,1992.2,2028.0,0.72,2127.9,1008.1,-4.0,False,False,1350173,,Nifty Indices constituents + Yahoo history
-ACUTAAS,Acutaas Chemicals Ltd.,ACUTAAS.NS,2026-11-17,3956.2,,3977.9,3882.1,3947.3,0.23,4130.0,1570.0,-4.21,False,False,164723,,Nifty Indices constituents + Yahoo history
-SONACOMS,Sona BLW Precision Forgings Ltd.,SONACOMS.NS,2026-11-17,895.35,,916.4,891.0,899.0,-0.41,934.9,437.7,-4.23,False,False,1105500,,Nifty Indices constituents + Yahoo history
-FLUOROCHEM,Gujarat Fluorochemicals Ltd.,FLUOROCHEM.NS,2026-11-17,4747.6,,4872.4,4739.0,4712.1,0.75,4958.9,2916.6,-4.26,False,False,53746,,Nifty Indices constituents + Yahoo history
-ABCAPITAL,Aditya Birla Capital Ltd.,ABCAPITAL.NS,2026-11-17,412.1,,414.5,406.1,408.5,0.88,430.7,287.7,-4.32,False,False,767933,,Nifty Indices constituents + Yahoo history
-POONAWALLA,Poonawalla Fincorp Ltd.,POONAWALLA.NS,2026-11-17,489.8,,497.5,488.85,490.5,-0.14,511.9,361.2,-4.32,False,False,624647,,Nifty Indices constituents + Yahoo history
-CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,CHOLAFIN.NS,2026-11-17,1867.8,,1881.0,1844.3,1850.0,0.96,1952.5,1299.4,-4.34,False,False,661579,,Nifty Indices constituents + Yahoo history
-THELEELA,Leela Palaces Hotels & Resorts Ltd.,THELEELA.NS,2026-11-17,674.55,,684.0,668.75,666.35,1.23,706.7,384.5,-4.55,False,False,90537,,Nifty Indices constituents + Yahoo history
-LALPATHLAB,Dr. Lal Path Labs Ltd.,LALPATHLAB.NS,2026-11-17,1983.2,,2015.5,1982.9,1993.0,-0.49,2079.0,1272.6,-4.61,False,False,53788,,Nifty Indices constituents + Yahoo history
-ATHERENERG,Ather Energy Ltd.,ATHERENERG.NS,2026-11-17,1926.5,,1972.0,1906.0,1939.6,-0.68,2021.5,589.0,-4.7,False,False,1571490,,Nifty Indices constituents + Yahoo history
-ZYDUSLIFE,Zydus Lifesciences Ltd.,ZYDUSLIFE.NS,2026-11-17,1203.6,,1213.0,1194.0,1189.9,1.15,1266.6,835.5,-4.97,False,False,384424,,Nifty Indices constituents + Yahoo history
-BAJFINANCE,Bajaj Finance Ltd.,BAJFINANCE.NS,2026-11-17,1117.65,,1126.9,1107.55,1110.0,0.69,1176.4,787.9,-4.99,False,False,2751985,,Nifty Indices constituents + Yahoo history
-MOTHERSON,Samvardhana Motherson International Ltd.,MOTHERSON.NS,2026-11-17,164.05,,165.49,162.38,162.98,0.66,173.27,102.82,-5.32,False,False,4840740,,Nifty Indices constituents + Yahoo history
-LT,Larsen & Toubro Ltd.,LT.NS,2026-11-17,4201.1,,4213.8,4137.5,4140.0,1.48,4440.0,3288.1,-5.38,False,False,1182400,,Nifty Indices constituents + Yahoo history
-TITAN,Titan Company Ltd.,TITAN.NS,2026-11-17,4903.6,,4939.0,4885.1,4844.9,1.21,5186.7,3751.0,-5.46,False,False,238015,,Nifty Indices constituents + Yahoo history
-INDIGO,InterGlobe Aviation Ltd.,INDIGO.NS,2026-11-17,5642.2,,5655.2,5595.0,5544.0,1.77,5970.0,3895.2,-5.49,False,False,412967,,Nifty Indices constituents + Yahoo history
-APLAPOLLO,APL Apollo Tubes Ltd.,APLAPOLLO.NS,2026-11-17,2183.9,,2257.7,2181.8,2250.2,-2.95,2312.3,1690.0,-5.55,False,False,341525,,Nifty Indices constituents + Yahoo history
-TECHM,Tech Mahindra Ltd.,TECHM.NS,2026-11-17,1755.4,,1771.3,1746.4,1764.0,-0.49,1860.0,1304.1,-5.62,False,False,1031288,,Nifty Indices constituents + Yahoo history
-EICHERMOT,Eicher Motors Ltd.,EICHERMOT.NS,2026-11-17,7755.0,,7767.5,7610.5,7650.0,1.37,8230.0,6442.0,-5.77,False,False,355377,,Nifty Indices constituents + Yahoo history
-DIVISLAB,Divi's Laboratories Ltd.,DIVISLAB.NS,2026-11-17,11134.5,,11187.0,11030.0,11080.0,0.49,11824.0,5647.5,-5.83,False,False,373652,,Nifty Indices constituents + Yahoo history
-ULTRACEMCO,UltraTech Cement Ltd.,ULTRACEMCO.NS,2026-11-17,12342.0,,12425.0,12215.0,12100.0,2.0,13110.0,10325.0,-5.86,False,False,86144,,Nifty Indices constituents + Yahoo history
-ANTHEM,Anthem Biosciences Ltd.,ANTHEM.NS,2026-11-17,930.5,,937.0,922.0,936.95,-0.69,989.1,579.15,-5.92,False,False,218173,,Nifty Indices constituents + Yahoo history
-HDFCAMC,HDFC Asset Management Company Ltd.,HDFCAMC.NS,2026-11-17,2726.7,,2758.7,2651.6,2650.0,2.89,2901.5,2205.6,-6.02,False,False,558491,,Nifty Indices constituents + Yahoo history
-CASTROLIND,Castrol India Ltd.,CASTROLIND.NS,2026-11-17,191.01,,192.04,189.51,190.13,0.46,203.4,170.1,-6.09,False,False,1526781,,Nifty Indices constituents + Yahoo history
-LGEINDIA,LG Electronics India Ltd.,LGEINDIA.NS,2026-11-17,1720.4,,1736.0,1710.9,1722.9,-0.15,1836.0,1304.1,-6.3,False,False,199037,,Nifty Indices constituents + Yahoo history
-PRESTIGE,Prestige Estates Projects Ltd.,PRESTIGE.NS,2026-11-17,1666.0,,1704.1,1629.9,1638.8,1.66,1778.4,1090.0,-6.32,False,False,418097,,Nifty Indices constituents + Yahoo history
-CUB,City Union Bank Ltd.,CUB.NS,2026-11-17,233.02,,237.0,231.1,232.4,0.27,248.85,169.84,-6.36,False,False,1849382,,Nifty Indices constituents + Yahoo history
-INDIANB,Indian Bank,INDIANB.NS,2026-11-17,936.5,,955.85,930.4,932.85,0.39,1000.9,764.05,-6.43,False,False,1673598,,Nifty Indices constituents + Yahoo history
-BOSCHLTD,Bosch Ltd.,BOSCHLTD.NS,2026-11-17,49085.0,,49400.0,48700.0,48795.0,0.59,52475.0,28610.0,-6.46,False,False,11994,,Nifty Indices constituents + Yahoo history
-CRAFTSMAN,Craftsman Automation Ltd.,CRAFTSMAN.NS,2026-11-17,11220.0,,11325.0,10991.0,11077.0,1.29,11999.0,6451.5,-6.49,False,False,8436,,Nifty Indices constituents + Yahoo history
-MEDANTA,Global Health Ltd.,MEDANTA.NS,2026-11-17,1441.3,,1453.4,1425.0,1454.0,-0.87,1544.0,956.0,-6.65,False,False,133371,,Nifty Indices constituents + Yahoo history
-LAURUSLABS,Laurus Labs Ltd.,LAURUSLABS.NS,2026-11-17,2320.6,,2329.2,2214.8,2220.0,4.53,2488.0,917.95,-6.73,False,False,3212096,,Nifty Indices constituents + Yahoo history
-BHEL,Bharat Heavy Electricals Ltd.,BHEL.NS,2026-11-17,432.35,,435.1,425.25,430.1,0.52,464.0,239.17,-6.82,False,False,3194160,,Nifty Indices constituents + Yahoo history
-KALYANKJIL,Kalyan Jewellers India Ltd.,KALYANKJIL.NS,2026-11-17,678.6,,714.9,677.05,708.15,-4.17,729.35,327.05,-6.96,False,False,12403384,,Nifty Indices constituents + Yahoo history
-ANURAS,Anupam Rasayan India Ltd.,ANURAS.NS,2026-11-17,1314.5,,1330.4,1311.0,1300.6,1.07,1415.0,1067.8,-7.1,False,False,339752,,Nifty Indices constituents + Yahoo history
-BEML,BEML Ltd.,BEML.NS,2026-11-17,2072.4,,2094.0,2048.8,2098.2,-1.23,2236.0,1355.0,-7.32,False,False,135481,,Nifty Indices constituents + Yahoo history
-HAL,Hindustan Aeronautics Ltd.,HAL.NS,2026-11-17,4761.6,,4803.0,4760.9,4789.0,-0.57,5149.9,3479.1,-7.54,False,False,204653,,Nifty Indices constituents + Yahoo history
-UNITDSPR,United Spirits Ltd.,UNITDSPR.NS,2026-11-17,1443.8,,1451.3,1436.0,1416.8,1.91,1563.4,1210.8,-7.65,False,False,201564,,Nifty Indices constituents + Yahoo history
-IDFCFIRSTB,IDFC First Bank Ltd.,IDFCFIRSTB.NS,2026-11-17,82.67,,82.98,81.24,81.3,1.69,89.61,58.08,-7.74,False,False,12954417,,Nifty Indices constituents + Yahoo history
-PNBHOUSING,PNB Housing Finance Ltd.,PNBHOUSING.NS,2026-11-17,1130.0,,1149.0,1128.8,1117.3,1.14,1224.8,729.6,-7.74,False,False,218558,,Nifty Indices constituents + Yahoo history
-MINDACORP,Minda Corporation Ltd.,MINDACORP.NS,2026-11-17,709.35,,721.75,701.65,706.65,0.38,769.0,468.5,-7.76,False,False,130183,,Nifty Indices constituents + Yahoo history
-JYOTICNC,Jyoti CNC Automation Ltd.,JYOTICNC.NS,2026-11-17,1044.1,,1068.05,1043.2,1073.1,-2.7,1134.6,580.1,-7.98,False,False,177956,,Nifty Indices constituents + Yahoo history
-ACE,Action Construction Equipment Ltd.,ACE.NS,2026-11-17,1166.45,,1185.0,1163.0,1180.0,-1.15,1268.0,745.1,-8.01,False,False,118345,,Nifty Indices constituents + Yahoo history
-PTCIL,PTC Industries Ltd.,PTCIL.NS,2026-11-17,23970.0,,24100.0,23460.0,24365.0,-1.62,26085.0,14499.0,-8.11,False,False,8715,,Nifty Indices constituents + Yahoo history
-SUNPHARMA,Sun Pharmaceutical Industries Ltd.,SUNPHARMA.NS,2026-11-17,1880.1,,1888.0,1860.6,1880.0,0.01,2046.9,1583.7,-8.15,False,False,641499,,Nifty Indices constituents + Yahoo history
-KAJARIACER,Kajaria Ceramics Ltd.,KAJARIACER.NS,2026-11-17,1168.6,,1185.8,1165.1,1201.9,-2.77,1275.0,869.6,-8.35,False,False,30813,,Nifty Indices constituents + Yahoo history
-GRAPHITE,Graphite India Ltd.,GRAPHITE.NS,2026-11-17,800.3,,807.7,784.2,799.95,0.04,874.35,516.2,-8.47,False,False,436089,,Nifty Indices constituents + Yahoo history
-VIJAYA,Vijaya Diagnostic Centre Ltd.,VIJAYA.NS,2026-11-17,1458.5,,1490.5,1457.1,1410.1,3.43,1593.6,848.0,-8.48,False,False,54612,,Nifty Indices constituents + Yahoo history
-URBANCO,Urban Company Ltd.,URBANCO.NS,2026-11-17,168.32,,173.15,168.25,171.7,-1.97,183.97,100.7,-8.51,False,False,7155401,,Nifty Indices constituents + Yahoo history
-OBEROIRLTY,Oberoi Realty Ltd.,OBEROIRLTY.NS,2026-11-17,1812.8,,1835.0,1761.7,1797.6,0.85,1986.1,1391.2,-8.73,False,False,303303,,Nifty Indices constituents + Yahoo history
-KPRMILL,K.P.R. Mill Ltd.,KPRMILL.NS,2026-11-17,1217.1,,1247.3,1200.0,1211.0,0.5,1334.0,796.1,-8.76,False,False,414372,,Nifty Indices constituents + Yahoo history
-ELGIEQUIP,Elgi Equipments Ltd.,ELGIEQUIP.NS,2026-11-17,593.15,,597.1,588.3,594.2,-0.18,653.4,408.25,-9.22,False,False,101681,,Nifty Indices constituents + Yahoo history
-NH,Narayana Hrudayalaya Ltd.,NH.NS,2026-11-17,1898.4,,1920.0,1883.3,1860.4,2.04,2093.3,1589.0,-9.31,False,False,87998,,Nifty Indices constituents + Yahoo history
-GMRAIRPORT,GMR Airports Ltd.,GMRAIRPORT.NS,2026-11-17,104.76,,105.26,101.5,101.8,2.91,115.64,84.11,-9.41,False,False,15680570,,Nifty Indices constituents + Yahoo history
-BHARTIHEXA,Bharti Hexacom Ltd.,BHARTIHEXA.NS,2026-11-17,1684.2,,1720.0,1684.2,1665.5,1.12,1860.0,1359.2,-9.45,False,False,54122,,Nifty Indices constituents + Yahoo history
-IPCALAB,Ipca Laboratories Ltd.,IPCALAB.NS,2026-11-17,1842.3,,1880.5,1837.0,1884.0,-2.21,2038.0,1361.7,-9.6,False,False,79371,,Nifty Indices constituents + Yahoo history
-LODHA,Lodha Developers Ltd.,LODHA.NS,2026-11-17,1213.9,,1237.8,1177.2,1192.8,1.77,1344.95,650.8,-9.74,False,False,723489,,Nifty Indices constituents + Yahoo history
-CIPLA,Cipla Ltd.,CIPLA.NS,2026-11-17,1389.4,,1399.4,1383.8,1394.5,-0.37,1539.7,1165.7,-9.76,False,False,495713,,Nifty Indices constituents + Yahoo history
-PERSISTENT,Persistent Systems Ltd.,PERSISTENT.NS,2026-11-17,5953.0,,6028.0,5915.0,6003.0,-0.83,6599.0,4244.5,-9.79,False,False,199455,,Nifty Indices constituents + Yahoo history
-PIDILITIND,Pidilite Industries Ltd.,PIDILITIND.NS,2026-11-17,1539.0,,1560.8,1538.6,1545.8,-0.44,1707.5,1259.0,-9.87,False,False,453969,,Nifty Indices constituents + Yahoo history
-RBLBANK,RBL Bank Ltd.,RBLBANK.NS,2026-11-17,387.15,,389.95,380.0,385.75,0.36,429.6,287.2,-9.88,False,False,1492435,,Nifty Indices constituents + Yahoo history
-SAILIFE,Sai Life Sciences Ltd.,SAILIFE.NS,2026-11-17,1760.7,,1815.0,1753.7,1928.8,-8.72,1954.8,783.85,-9.93,False,False,915436,,Nifty Indices constituents + Yahoo history
-NUVAMA,Nuvama Wealth Management Ltd.,NUVAMA.NS,2026-11-17,1860.5,,1919.0,1851.0,1847.8,0.69,2066.0,1096.9,-9.95,False,False,277380,,Nifty Indices constituents + Yahoo history
-GRASIM,Grasim Industries Ltd.,GRASIM.NS,2026-11-17,3065.3,,3105.0,3063.4,3084.4,-0.62,3411.1,2502.5,-10.14,False,False,349056,,Nifty Indices constituents + Yahoo history
-KPIL,Kalpataru Projects International Ltd.,KPIL.NS,2026-11-17,1338.1,,1378.8,1336.2,1349.5,-0.84,1490.0,1007.1,-10.19,False,False,105077,,Nifty Indices constituents + Yahoo history
-SBIN,State Bank of India,SBIN.NS,2026-11-17,1107.35,,1114.0,1091.95,1090.5,1.55,1234.7,933.9,-10.31,False,False,10179499,,Nifty Indices constituents + Yahoo history
-JSWINFRA,JSW Infrastructure Ltd.,JSWINFRA.NS,2026-11-17,336.0,,343.25,330.2,339.5,-1.03,375.5,233.42,-10.52,False,False,1120105,,Nifty Indices constituents + Yahoo history
-TBOTEK,TBO Tek Ltd.,TBOTEK.NS,2026-11-17,1584.5,,1616.3,1566.0,1614.3,-1.85,1772.5,1004.2,-10.61,False,False,64077,,Nifty Indices constituents + Yahoo history
-CAMS,Computer Age Management Services Ltd.,CAMS.NS,2026-11-17,755.15,,772.0,720.25,726.05,4.01,844.9,611.4,-10.62,False,False,3225177,,Nifty Indices constituents + Yahoo history
-IIFL,IIFL Finance Ltd.,IIFL.NS,2026-11-17,629.2,,665.45,628.35,652.35,-3.55,705.0,409.1,-10.75,False,False,2959598,,Nifty Indices constituents + Yahoo history
-PIRAMALFIN,Piramal Finance Ltd.,PIRAMALFIN.NS,2026-11-17,2075.1,,2126.9,2075.1,2119.2,-2.08,2326.4,1416.5,-10.8,False,False,129033,,Nifty Indices constituents + Yahoo history
-LTTS,L&T Technology Services Ltd.,LTTS.NS,2026-11-17,4211.8,,4249.3,4181.3,4247.2,-0.83,4726.0,3010.0,-10.88,False,False,36265,,Nifty Indices constituents + Yahoo history
-M&M,Mahindra & Mahindra Ltd.,M&M.NS,2026-11-17,3413.7,,3422.0,3341.0,3339.0,2.24,3839.9,2744.3,-11.1,False,False,1257370,,Nifty Indices constituents + Yahoo history
-GABRIEL,Gabriel India Ltd.,GABRIEL.NS,2026-11-17,1501.3,,1533.0,1485.3,1552.7,-3.31,1690.0,795.7,-11.17,False,False,205508,,Nifty Indices constituents + Yahoo history
-BANKINDIA,Bank of India,BANKINDIA.NS,2026-11-17,158.25,,159.3,153.21,152.97,3.45,178.36,123.64,-11.27,False,False,13790186,,Nifty Indices constituents + Yahoo history
-STARHEALTH,Star Health and Allied Insurance Company Ltd.,STARHEALTH.NS,2026-11-17,553.45,,570.1,553.4,572.9,-3.4,624.9,416.55,-11.43,False,False,188950,,Nifty Indices constituents + Yahoo history
-TORNTPHARM,Torrent Pharmaceuticals Ltd.,TORNTPHARM.NS,2026-11-17,4647.8,,4686.5,4644.0,4691.2,-0.93,5250.0,3672.3,-11.47,False,False,127832,,Nifty Indices constituents + Yahoo history
-SHREECEM,Shree Cement Ltd.,SHREECEM.NS,2026-11-17,24865.0,,25115.0,24700.0,24870.0,-0.02,28090.0,21355.0,-11.48,False,False,10803,,Nifty Indices constituents + Yahoo history
-ASIANPAINT,Asian Paints Ltd.,ASIANPAINT.NS,2026-11-17,2641.2,,2665.5,2598.0,2550.0,3.58,2985.7,2115.0,-11.54,False,False,1012013,,Nifty Indices constituents + Yahoo history
-AJANTPHARM,Ajanta Pharmaceuticals Ltd.,AJANTPHARM.NS,2026-11-17,3345.5,,3384.2,3333.0,3284.0,1.87,3796.0,2445.8,-11.87,False,False,31863,,Nifty Indices constituents + Yahoo history
-KIMS,Krishna Institute of Medical Sciences Ltd.,KIMS.NS,2026-11-17,755.9,,770.0,753.75,729.65,3.6,858.0,575.8,-11.9,False,False,133843,,Nifty Indices constituents + Yahoo history
-BELRISE,Belrise Industries Ltd.,BELRISE.NS,2026-11-17,236.26,,240.5,232.2,235.09,0.5,268.2,154.21,-11.91,False,False,9943329,,Nifty Indices constituents + Yahoo history
-GRANULES,Granules India Ltd.,GRANULES.NS,2026-11-17,813.55,,824.5,793.3,813.2,0.04,923.65,529.85,-11.92,False,False,1298774,,Nifty Indices constituents + Yahoo history
-CRISIL,CRISIL Ltd.,CRISIL.NS,2026-11-17,4284.4,,4323.0,4230.0,4244.7,0.94,4872.7,3686.0,-12.07,False,False,11513,,Nifty Indices constituents + Yahoo history
-BAJAJFINSV,Bajaj Finserv Ltd.,BAJAJFINSV.NS,2026-11-17,1860.5,,1881.0,1848.2,1865.0,-0.24,2118.5,1597.0,-12.18,False,False,333276,,Nifty Indices constituents + Yahoo history
-TATACAP,Tata Capital Ltd.,TATACAP.NS,2026-11-17,342.55,,351.85,342.5,351.45,-2.53,390.2,296.0,-12.21,False,False,546283,,Nifty Indices constituents + Yahoo history
-JSWCEMENT,JSW Cement Ltd.,JSWCEMENT.NS,2026-11-17,125.81,,126.3,124.73,125.36,0.36,143.4,106.65,-12.27,False,False,441096,,Nifty Indices constituents + Yahoo history
-MGL,Mahanagar Gas Ltd.,MGL.NS,2026-11-17,1107.4,,1127.4,1106.5,1158.6,-4.42,1263.5,900.0,-12.35,False,False,83524,,Nifty Indices constituents + Yahoo history
-TMCV,Tata Motors Ltd.,TMCV.NS,2026-11-17,445.85,,448.55,429.4,428.25,4.11,509.0,310.0,-12.41,False,False,7208582,,Nifty Indices constituents + Yahoo history
-CHALET,Chalet Hotels Ltd.,CHALET.NS,2026-11-17,823.3,,835.0,815.65,824.65,-0.16,939.95,691.35,-12.41,False,False,25421,,Nifty Indices constituents + Yahoo history
-NUVOCO,Nuvoco Vistas Corporation Ltd.,NUVOCO.NS,2026-11-17,348.55,,352.0,342.0,341.4,2.09,398.0,276.25,-12.42,False,False,136571,,Nifty Indices constituents + Yahoo history
-ALKEM,Alkem Laboratories Ltd.,ALKEM.NS,2026-11-17,5183.5,,5259.0,5144.5,5136.0,0.92,5933.5,4811.0,-12.64,False,False,85361,,Nifty Indices constituents + Yahoo history
-NEULANDLAB,Neuland Laboratories Ltd.,NEULANDLAB.NS,2026-11-17,21151.0,,21505.0,21049.0,21078.0,0.35,24225.0,11500.0,-12.69,False,False,42491,,Nifty Indices constituents + Yahoo history
-ABB,ABB India Ltd.,ABB.NS,2026-11-17,6915.0,,7033.5,6790.0,6895.0,0.29,7924.5,4637.5,-12.74,False,False,354001,,Nifty Indices constituents + Yahoo history
-LICI,Life Insurance Corporation of India,LICI.NS,2026-11-17,400.5,,404.0,399.8,400.0,0.12,460.5,360.75,-13.03,False,False,7334551,,Nifty Indices constituents + Yahoo history
-ADANIGREEN,Adani Green Energy Ltd.,ADANIGREEN.NS,2026-11-17,1418.7,,1425.3,1403.0,1406.6,0.86,1631.5,765.0,-13.04,False,False,1194963,,Nifty Indices constituents + Yahoo history
-BSE,BSE Ltd.,BSE.NS,2026-11-17,3866.1,,4003.3,3866.0,3887.4,-0.55,4446.8,2530.0,-13.06,False,False,5289507,,Nifty Indices constituents + Yahoo history
-JINDALSTEL,Jindal Steel Ltd.,JINDALSTEL.NS,2026-11-17,1135.4,,1141.4,1118.6,1157.8,-1.93,1306.2,977.1,-13.08,False,False,564222,,Nifty Indices constituents + Yahoo history
-DELHIVERY,Delhivery Ltd.,DELHIVERY.NS,2026-11-17,455.3,,465.8,439.05,436.3,4.35,524.0,364.65,-13.11,False,False,5932613,,Nifty Indices constituents + Yahoo history
-HYUNDAI,Hyundai Motor India Ltd.,HYUNDAI.NS,2026-11-17,2140.0,,2151.6,2084.0,2076.0,3.08,2463.5,1658.0,-13.13,False,False,739669,,Nifty Indices constituents + Yahoo history
-BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,BAJAJHLDNG.NS,2026-11-17,11255.0,,11415.0,11233.0,11096.0,1.43,12964.0,8588.0,-13.18,False,False,10802,,Nifty Indices constituents + Yahoo history
-AEGISVOPAK,Aegis Vopak Terminals Ltd.,AEGISVOPAK.NS,2026-11-17,278.65,,282.32,278.28,279.77,-0.4,320.95,158.0,-13.18,False,False,331149,,Nifty Indices constituents + Yahoo history
-AUBANK,AU Small Finance Bank Ltd.,AUBANK.NS,2026-11-17,993.15,,997.0,966.9,967.0,2.7,1144.1,831.65,-13.19,False,False,1243291,,Nifty Indices constituents + Yahoo history
-TATACONSUM,Tata Consumer Products Ltd.,TATACONSUM.NS,2026-11-17,1112.5,,1126.1,1111.5,1117.5,-0.45,1282.7,916.0,-13.27,False,False,540037,,Nifty Indices constituents + Yahoo history
+MAHABANK,Bank of Maharashtra,MAHABANK.NS,2026-11-17,95.42,,95.45,92.0,92.0,3.72,95.45,55.51,-0.03,True,True,21099432,,Nifty Indices constituents + Yahoo history
+KOTAKBANK,Kotak Mahindra Bank Ltd.,KOTAKBANK.NS,2026-11-17,498.0,,498.4,492.2,494.2,0.77,498.4,345.5,-0.08,True,True,7682624,,Nifty Indices constituents + Yahoo history
+KARURVYSYA,Karur Vysya Bank Ltd.,KARURVYSYA.NS,2026-11-17,396.1,,397.85,391.05,390.25,1.5,397.85,236.63,-0.44,True,True,2320965,,Nifty Indices constituents + Yahoo history
+LICHSGFIN,LIC Housing Finance Ltd.,LICHSGFIN.NS,2026-11-17,618.5,,621.45,596.15,585.1,5.71,621.45,458.9,-0.47,True,True,3929901,,Nifty Indices constituents + Yahoo history
+INDHOTEL,Indian Hotels Co. Ltd.,INDHOTEL.NS,2026-11-17,901.15,,909.65,884.95,886.0,1.71,909.65,565.0,-0.93,True,True,3334218,,Nifty Indices constituents + Yahoo history
+ETERNAL,Eternal Ltd.,ETERNAL.NS,2026-11-17,374.3,,378.0,369.15,371.1,0.86,378.0,212.6,-0.98,True,True,21746798,,Nifty Indices constituents + Yahoo history
+UNIONBANK,Union Bank of India,UNIONBANK.NS,2026-11-17,207.29,,209.7,206.13,205.6,0.82,209.7,145.87,-1.15,True,True,9897308,,Nifty Indices constituents + Yahoo history
+DLF,DLF Ltd.,DLF.NS,2026-11-17,764.5,,773.65,752.25,754.75,1.29,773.65,489.4,-1.18,True,True,2462153,,Nifty Indices constituents + Yahoo history
+PVRINOX,PVR INOX Ltd.,PVRINOX.NS,2026-11-17,1666.7,,1690.0,1631.7,1641.2,1.55,1690.0,907.4,-1.38,True,True,438292,,Nifty Indices constituents + Yahoo history
+HONASA,Honasa Consumer Ltd.,HONASA.NS,2026-11-17,516.5,,524.0,501.4,501.95,2.9,524.0,248.4,-1.43,True,True,2034874,,Nifty Indices constituents + Yahoo history
+RKFORGE,Ramkrishna Forgings Ltd.,RKFORGE.NS,2026-11-17,791.35,,804.0,786.5,784.7,0.85,804.0,460.15,-1.57,True,True,790275,,Nifty Indices constituents + Yahoo history
+PNB,Punjab National Bank,PNB.NS,2026-11-17,149.22,,151.67,143.9,144.59,3.2,151.67,98.5,-1.62,True,True,49380224,,Nifty Indices constituents + Yahoo history
+EMCURE,Emcure Pharmaceuticals Ltd.,EMCURE.NS,2026-11-17,2356.1,,2397.5,2335.2,2361.7,-0.24,2397.5,1312.3,-1.73,True,True,114299,,Nifty Indices constituents + Yahoo history
+SAREGAMA,Saregama India Ltd,SAREGAMA.NS,2026-11-17,669.6,,685.0,659.2,653.45,2.47,685.0,307.05,-2.25,True,True,734405,,Nifty Indices constituents + Yahoo history
+MOTILALOFS,Motilal Oswal Financial Services Ltd.,MOTILALOFS.NS,2026-11-17,1247.15,,1277.8,1201.2,1220.0,2.23,1277.8,614.9,-2.4,True,True,2259921,,Nifty Indices constituents + Yahoo history
+GROWW,Billionbrains Garage Ventures Ltd.,GROWW.NS,2026-11-17,227.8,,233.4,226.0,224.92,1.28,233.4,142.11,-2.4,True,True,45297456,,Nifty Indices constituents + Yahoo history
+SHYAMMETL,Shyam Metalics and Energy Ltd.,SHYAMMETL.NS,2026-11-17,1321.3,,1354.0,1310.5,1315.9,0.41,1354.0,746.0,-2.42,True,True,324229,,Nifty Indices constituents + Yahoo history
+GLAND,Gland Pharma Ltd.,GLAND.NS,2026-11-17,3288.7,,3395.9,3270.1,3334.1,-1.36,3395.9,1573.6,-3.16,True,False,173544,,Nifty Indices constituents + Yahoo history
+ANGELONE,Angel One Ltd.,ANGELONE.NS,2026-11-17,357.8,,379.15,344.45,348.15,2.77,379.15,208.63,-5.63,True,False,52854986,,Nifty Indices constituents + Yahoo history
+ABDL,Allied Blenders and Distillers Ltd.,ABDL.NS,2026-11-17,790.3,,854.7,780.0,784.25,0.77,854.7,382.1,-7.53,True,False,2413454,,Nifty Indices constituents + Yahoo history
+ICICIBANK,ICICI Bank Ltd.,ICICIBANK.NS,2026-11-17,1604.1,,1613.9,1578.8,1585.0,1.21,1616.0,1187.6,-0.74,False,True,9647283,,Nifty Indices constituents + Yahoo history
+BHARTIARTL,Bharti Airtel Ltd.,BHARTIARTL.NS,2026-11-17,2158.4,,2166.3,2135.8,2153.5,0.23,2174.5,1726.3,-0.74,False,True,4256553,,Nifty Indices constituents + Yahoo history
+MARICO,Marico Ltd.,MARICO.NS,2026-11-17,916.85,,918.95,907.55,913.65,0.35,925.0,707.25,-0.88,False,True,1286974,,Nifty Indices constituents + Yahoo history
+UNOMINDA,UNO Minda Ltd.,UNOMINDA.NS,2026-11-17,1391.8,,1392.0,1335.0,1348.0,3.25,1406.5,994.0,-1.05,False,True,683391,,Nifty Indices constituents + Yahoo history
+ASAHIINDIA,Asahi India Glass Ltd.,ASAHIINDIA.NS,2026-11-17,1160.15,,1163.7,1136.8,1165.05,-0.42,1175.0,775.1,-1.26,False,True,149672,,Nifty Indices constituents + Yahoo history
+GAIL,GAIL (India) Ltd.,GAIL.NS,2026-11-17,187.36,,188.4,186.51,187.0,0.19,189.9,134.36,-1.34,False,True,3701237,,Nifty Indices constituents + Yahoo history
+ANANDRATHI,Anand Rathi Wealth Ltd.,ANANDRATHI.NS,2026-11-17,2372.8,,2393.7,2367.4,2381.2,-0.35,2410.0,1353.85,-1.54,False,True,107198,,Nifty Indices constituents + Yahoo history
+SUNTV,Sun TV Network Ltd.,SUNTV.NS,2026-11-17,661.3,,668.9,650.95,646.7,2.26,673.95,447.2,-1.88,False,True,176656,,Nifty Indices constituents + Yahoo history
+PETRONET,Petronet LNG Ltd.,PETRONET.NS,2026-11-17,329.95,,330.9,327.3,326.0,1.21,336.3,235.35,-1.89,False,True,1306237,,Nifty Indices constituents + Yahoo history
+MCX,Multi Commodity Exchange of India Ltd.,MCX.NS,2026-11-17,3698.0,,3748.0,3657.1,3729.6,-0.85,3772.6,1921.4,-1.98,False,True,1429825,,Nifty Indices constituents + Yahoo history
+FEDERALBNK,Federal Bank Ltd.,FEDERALBNK.NS,2026-11-17,363.8,,366.6,361.8,360.95,0.79,371.7,235.27,-2.13,False,True,3829659,,Nifty Indices constituents + Yahoo history
+RADICO,Radico Khaitan Ltd,RADICO.NS,2026-11-17,4644.7,,4703.7,4616.2,4665.0,-0.44,4747.0,2500.0,-2.16,False,True,145334,,Nifty Indices constituents + Yahoo history
+IGIL,International Gemological Institute Ltd.,IGIL.NS,2026-11-17,443.5,,443.8,429.9,438.9,1.05,453.65,287.0,-2.24,False,True,473114,,Nifty Indices constituents + Yahoo history
+NYKAA,FSN E-Commerce Ventures Ltd.,NYKAA.NS,2026-11-17,358.35,,362.35,356.4,365.2,-1.88,366.7,232.0,-2.28,False,True,1611061,,Nifty Indices constituents + Yahoo history
+DRREDDY,Dr. Reddy's Laboratories Ltd.,DRREDDY.NS,2026-11-17,1380.5,,1383.8,1368.7,1380.0,0.04,1414.9,1101.0,-2.43,False,True,571618,,Nifty Indices constituents + Yahoo history
+JSWSTEEL,JSW Steel Ltd.,JSWSTEEL.NS,2026-11-17,1333.1,,1338.4,1312.0,1334.6,-0.11,1370.0,1073.2,-2.69,False,True,1049898,,Nifty Indices constituents + Yahoo history
+360ONE,360 ONE WAM Ltd.,360ONE.NS,2026-11-17,1201.9,,1220.5,1170.05,1176.8,2.13,1236.2,906.05,-2.77,False,True,1211335,,Nifty Indices constituents + Yahoo history
+PAYTM,One 97 Communications Ltd.,PAYTM.NS,2026-11-17,1904.2,,1909.0,1877.0,1890.8,0.71,1960.0,930.6,-2.85,False,True,1684917,,Nifty Indices constituents + Yahoo history
+LENSKART,Lenskart Solutions Ltd.,LENSKART.NS,2026-11-17,740.5,,752.75,729.3,734.7,0.79,762.75,401.15,-2.92,False,True,5924033,,Nifty Indices constituents + Yahoo history
+APOLLOHOSP,Apollo Hospitals Enterprise Ltd.,APOLLOHOSP.NS,2026-11-17,8789.5,,8819.0,8751.0,8771.0,0.21,9070.5,6696.5,-3.1,False,False,324898,,Nifty Indices constituents + Yahoo history
+MEESHO,Meesho Ltd.,MEESHO.NS,2026-11-17,252.89,,254.49,249.04,251.19,0.68,261.1,125.56,-3.14,False,False,11384808,,Nifty Indices constituents + Yahoo history
+PHOENIXLTD,Phoenix Mills Ltd.,PHOENIXLTD.NS,2026-11-17,2226.7,,2258.5,2186.3,2255.0,-1.25,2300.0,1465.6,-3.19,False,False,499962,,Nifty Indices constituents + Yahoo history
+AXISBANK,Axis Bank Ltd.,AXISBANK.NS,2026-11-17,1371.9,,1374.8,1345.4,1342.4,2.2,1418.3,1150.3,-3.27,False,False,4833341,,Nifty Indices constituents + Yahoo history
+GLENMARK,Glenmark Pharmaceuticals Ltd.,GLENMARK.NS,2026-11-17,2624.3,,2648.0,2608.8,2640.0,-0.59,2714.0,1810.0,-3.31,False,False,150510,,Nifty Indices constituents + Yahoo history
+MANKIND,Mankind Pharma Ltd.,MANKIND.NS,2026-11-17,2615.0,,2640.0,2611.0,2640.0,-0.95,2705.0,1909.7,-3.33,False,False,221978,,Nifty Indices constituents + Yahoo history
+ADANIPORTS,Adani Ports and Special Economic Zone Ltd.,ADANIPORTS.NS,2026-11-17,1912.4,,1925.0,1900.0,1893.0,1.02,1979.0,1292.0,-3.37,False,False,1112737,,Nifty Indices constituents + Yahoo history
+WELSPUNLIV,Welspun Living Ltd.,WELSPUNLIV.NS,2026-11-17,258.09,,263.64,244.11,250.14,3.18,267.42,107.1,-3.49,False,False,7804279,,Nifty Indices constituents + Yahoo history
+TVSMOTOR,TVS Motor Company Ltd.,TVSMOTOR.NS,2026-11-17,4472.8,,4505.0,4433.2,4495.0,-0.49,4636.1,3228.0,-3.52,False,False,472443,,Nifty Indices constituents + Yahoo history
+AUROPHARMA,Aurobindo Pharma Ltd.,AUROPHARMA.NS,2026-11-17,1793.8,,1811.0,1785.9,1794.0,-0.01,1859.9,1106.0,-3.55,False,False,634763,,Nifty Indices constituents + Yahoo history
+NAVINFLUOR,Navin Fluorine International Ltd.,NAVINFLUOR.NS,2026-11-17,9803.5,,9950.0,9762.0,10002.0,-1.98,10165.0,5440.0,-3.56,False,False,78084,,Nifty Indices constituents + Yahoo history
+ENGINERSIN,Engineers India Ltd.,ENGINERSIN.NS,2026-11-17,311.35,,321.0,309.5,312.05,-0.22,323.65,163.55,-3.8,False,False,4543500,,Nifty Indices constituents + Yahoo history
+PPLPHARMA,Piramal Pharma Ltd.,PPLPHARMA.NS,2026-11-17,244.15,,247.99,239.26,244.93,-0.32,253.9,132.3,-3.84,False,False,2805877,,Nifty Indices constituents + Yahoo history
+COFORGE,Coforge Ltd.,COFORGE.NS,2026-11-17,2045.5,,2064.0,1992.2,2028.0,0.86,2127.9,1008.1,-3.87,False,False,1457401,,Nifty Indices constituents + Yahoo history
+CHOLAFIN,Cholamandalam Investment and Finance Company Ltd.,CHOLAFIN.NS,2026-11-17,1875.9,,1881.0,1844.3,1850.0,1.4,1952.5,1299.4,-3.92,False,False,772448,,Nifty Indices constituents + Yahoo history
+FLUOROCHEM,Gujarat Fluorochemicals Ltd.,FLUOROCHEM.NS,2026-11-17,4764.3,,4872.4,4739.0,4712.1,1.11,4958.9,2916.6,-3.92,False,False,59352,,Nifty Indices constituents + Yahoo history
+SONACOMS,Sona BLW Precision Forgings Ltd.,SONACOMS.NS,2026-11-17,897.7,,916.4,891.0,899.0,-0.14,934.9,437.7,-3.98,False,False,1179424,,Nifty Indices constituents + Yahoo history
+INDGN,Indegene Ltd.,INDGN.NS,2026-11-17,649.95,,668.65,648.45,666.2,-2.44,677.0,414.0,-4.0,False,False,252961,,Nifty Indices constituents + Yahoo history
+ABCAPITAL,Aditya Birla Capital Ltd.,ABCAPITAL.NS,2026-11-17,413.4,,414.5,406.1,408.5,1.2,430.7,287.7,-4.02,False,False,858705,,Nifty Indices constituents + Yahoo history
+ACUTAAS,Acutaas Chemicals Ltd.,ACUTAAS.NS,2026-11-17,3957.0,,3977.9,3882.1,3947.3,0.25,4130.0,1570.0,-4.19,False,False,175694,,Nifty Indices constituents + Yahoo history
+LALPATHLAB,Dr. Lal Path Labs Ltd.,LALPATHLAB.NS,2026-11-17,1983.3,,2015.5,1982.8,1993.0,-0.49,2079.0,1272.6,-4.6,False,False,59329,,Nifty Indices constituents + Yahoo history
+APLAPOLLO,APL Apollo Tubes Ltd.,APLAPOLLO.NS,2026-11-17,2205.8,,2257.7,2180.8,2250.2,-1.97,2312.3,1690.0,-4.61,False,False,378981,,Nifty Indices constituents + Yahoo history
+THELEELA,Leela Palaces Hotels & Resorts Ltd.,THELEELA.NS,2026-11-17,673.5,,684.0,668.75,666.35,1.07,706.7,384.5,-4.7,False,False,95305,,Nifty Indices constituents + Yahoo history
+BAJFINANCE,Bajaj Finance Ltd.,BAJFINANCE.NS,2026-11-17,1120.75,,1126.9,1107.55,1110.0,0.97,1176.4,787.9,-4.73,False,False,3261442,,Nifty Indices constituents + Yahoo history
+POONAWALLA,Poonawalla Fincorp Ltd.,POONAWALLA.NS,2026-11-17,487.0,,497.5,486.4,490.5,-0.71,511.9,361.2,-4.86,False,False,1065257,,Nifty Indices constituents + Yahoo history
+ATHERENERG,Ather Energy Ltd.,ATHERENERG.NS,2026-11-17,1922.3,,1972.0,1906.0,1939.6,-0.89,2021.5,589.0,-4.91,False,False,1727664,,Nifty Indices constituents + Yahoo history
+ZYDUSLIFE,Zydus Lifesciences Ltd.,ZYDUSLIFE.NS,2026-11-17,1204.0,,1213.0,1194.0,1189.9,1.18,1266.6,835.5,-4.94,False,False,414371,,Nifty Indices constituents + Yahoo history
+MOTHERSON,Samvardhana Motherson International Ltd.,MOTHERSON.NS,2026-11-17,164.14,,165.49,162.38,162.98,0.71,173.27,102.82,-5.27,False,False,5193733,,Nifty Indices constituents + Yahoo history
+INDIGO,InterGlobe Aviation Ltd.,INDIGO.NS,2026-11-17,5652.2,,5665.4,5595.0,5544.0,1.95,5970.0,3895.2,-5.32,False,False,457406,,Nifty Indices constituents + Yahoo history
+TITAN,Titan Company Ltd.,TITAN.NS,2026-11-17,4903.6,,4939.0,4885.1,4844.9,1.21,5186.7,3751.0,-5.46,False,False,264635,,Nifty Indices constituents + Yahoo history
+EICHERMOT,Eicher Motors Ltd.,EICHERMOT.NS,2026-11-17,7775.5,,7778.0,7610.5,7650.0,1.64,8230.0,6442.0,-5.52,False,False,403111,,Nifty Indices constituents + Yahoo history
+LT,Larsen & Toubro Ltd.,LT.NS,2026-11-17,4191.8,,4213.8,4137.5,4140.0,1.25,4440.0,3288.1,-5.59,False,False,1322934,,Nifty Indices constituents + Yahoo history
+TECHM,Tech Mahindra Ltd.,TECHM.NS,2026-11-17,1755.8,,1771.3,1746.4,1764.0,-0.46,1860.0,1304.1,-5.6,False,False,1120398,,Nifty Indices constituents + Yahoo history
+DIVISLAB,Divi's Laboratories Ltd.,DIVISLAB.NS,2026-11-17,11149.0,,11187.0,11030.0,11080.0,0.62,11824.0,5647.5,-5.71,False,False,405571,,Nifty Indices constituents + Yahoo history
+ANTHEM,Anthem Biosciences Ltd.,ANTHEM.NS,2026-11-17,931.95,,937.0,922.0,936.95,-0.53,989.1,579.15,-5.78,False,False,233822,,Nifty Indices constituents + Yahoo history
+CASTROLIND,Castrol India Ltd.,CASTROLIND.NS,2026-11-17,191.31,,192.04,189.51,190.13,0.62,203.4,170.1,-5.94,False,False,1643533,,Nifty Indices constituents + Yahoo history
+ULTRACEMCO,UltraTech Cement Ltd.,ULTRACEMCO.NS,2026-11-17,12325.0,,12425.0,12215.0,12100.0,1.86,13110.0,10325.0,-5.99,False,False,94569,,Nifty Indices constituents + Yahoo history
+HDFCAMC,HDFC Asset Management Company Ltd.,HDFCAMC.NS,2026-11-17,2724.5,,2758.7,2651.6,2650.0,2.81,2901.5,2205.6,-6.1,False,False,588883,,Nifty Indices constituents + Yahoo history
+KALYANKJIL,Kalyan Jewellers India Ltd.,KALYANKJIL.NS,2026-11-17,684.65,,714.9,676.2,708.15,-3.32,729.35,327.05,-6.13,False,False,13190194,,Nifty Indices constituents + Yahoo history
+LAURUSLABS,Laurus Labs Ltd.,LAURUSLABS.NS,2026-11-17,2333.0,,2340.0,2214.8,2220.0,5.09,2488.0,917.95,-6.23,False,False,3678494,,Nifty Indices constituents + Yahoo history
+PRESTIGE,Prestige Estates Projects Ltd.,PRESTIGE.NS,2026-11-17,1667.5,,1704.1,1629.9,1638.8,1.75,1778.4,1090.0,-6.24,False,False,431815,,Nifty Indices constituents + Yahoo history
+BOSCHLTD,Bosch Ltd.,BOSCHLTD.NS,2026-11-17,49195.0,,49400.0,48700.0,48795.0,0.82,52475.0,28610.0,-6.25,False,False,12339,,Nifty Indices constituents + Yahoo history
+INDIANB,Indian Bank,INDIANB.NS,2026-11-17,938.0,,955.85,930.4,932.85,0.55,1000.9,764.05,-6.28,False,False,1815184,,Nifty Indices constituents + Yahoo history
+LGEINDIA,LG Electronics India Ltd.,LGEINDIA.NS,2026-11-17,1719.4,,1736.0,1710.9,1722.9,-0.2,1836.0,1304.1,-6.35,False,False,214499,,Nifty Indices constituents + Yahoo history
+CUB,City Union Bank Ltd.,CUB.NS,2026-11-17,232.91,,237.0,231.1,232.4,0.22,248.85,169.84,-6.41,False,False,1999309,,Nifty Indices constituents + Yahoo history
+CRAFTSMAN,Craftsman Automation Ltd.,CRAFTSMAN.NS,2026-11-17,11221.0,,11325.0,10991.0,11077.0,1.3,11999.0,6451.5,-6.48,False,False,9020,,Nifty Indices constituents + Yahoo history
+BHEL,Bharat Heavy Electricals Ltd.,BHEL.NS,2026-11-17,432.4,,435.1,425.25,430.1,0.53,464.0,239.17,-6.81,False,False,3520951,,Nifty Indices constituents + Yahoo history
+MEDANTA,Global Health Ltd.,MEDANTA.NS,2026-11-17,1438.2,,1453.4,1425.0,1454.0,-1.09,1544.0,956.0,-6.85,False,False,140172,,Nifty Indices constituents + Yahoo history
+ANURAS,Anupam Rasayan India Ltd.,ANURAS.NS,2026-11-17,1313.6,,1330.4,1310.6,1300.6,1.0,1415.0,1067.8,-7.17,False,False,399062,,Nifty Indices constituents + Yahoo history
+BEML,BEML Ltd.,BEML.NS,2026-11-17,2073.0,,2094.0,2048.8,2098.2,-1.2,2236.0,1355.0,-7.29,False,False,141968,,Nifty Indices constituents + Yahoo history
+PNBHOUSING,PNB Housing Finance Ltd.,PNBHOUSING.NS,2026-11-17,1133.7,,1149.0,1128.0,1117.3,1.47,1224.8,729.6,-7.44,False,False,273340,,Nifty Indices constituents + Yahoo history
+IDFCFIRSTB,IDFC First Bank Ltd.,IDFCFIRSTB.NS,2026-11-17,82.9,,82.98,81.24,81.3,1.97,89.61,58.08,-7.49,False,False,14210257,,Nifty Indices constituents + Yahoo history
+UNITDSPR,United Spirits Ltd.,UNITDSPR.NS,2026-11-17,1444.9,,1451.3,1436.0,1416.8,1.98,1563.4,1210.8,-7.58,False,False,213900,,Nifty Indices constituents + Yahoo history
+MINDACORP,Minda Corporation Ltd.,MINDACORP.NS,2026-11-17,709.6,,721.75,701.65,706.65,0.42,769.0,468.5,-7.72,False,False,134051,,Nifty Indices constituents + Yahoo history
+HAL,Hindustan Aeronautics Ltd.,HAL.NS,2026-11-17,4747.6,,4803.0,4744.3,4789.0,-0.86,5149.9,3479.1,-7.81,False,False,246341,,Nifty Indices constituents + Yahoo history
+PTCIL,PTC Industries Ltd.,PTCIL.NS,2026-11-17,24035.0,,24100.0,23460.0,24365.0,-1.35,26085.0,14499.0,-7.86,False,False,9141,,Nifty Indices constituents + Yahoo history
+JYOTICNC,Jyoti CNC Automation Ltd.,JYOTICNC.NS,2026-11-17,1045.1,,1068.05,1041.2,1073.1,-2.61,1134.6,580.1,-7.89,False,False,191328,,Nifty Indices constituents + Yahoo history
+ACE,Action Construction Equipment Ltd.,ACE.NS,2026-11-17,1166.35,,1185.0,1163.0,1180.0,-1.16,1268.0,745.1,-8.02,False,False,130402,,Nifty Indices constituents + Yahoo history
+KAJARIACER,Kajaria Ceramics Ltd.,KAJARIACER.NS,2026-11-17,1169.6,,1185.8,1165.1,1201.9,-2.69,1275.0,869.6,-8.27,False,False,31994,,Nifty Indices constituents + Yahoo history
+SUNPHARMA,Sun Pharmaceutical Industries Ltd.,SUNPHARMA.NS,2026-11-17,1877.0,,1888.0,1860.6,1880.0,-0.16,2046.9,1583.7,-8.3,False,False,759379,,Nifty Indices constituents + Yahoo history
+VIJAYA,Vijaya Diagnostic Centre Ltd.,VIJAYA.NS,2026-11-17,1459.9,,1490.5,1457.0,1410.1,3.53,1593.6,848.0,-8.39,False,False,58520,,Nifty Indices constituents + Yahoo history
+URBANCO,Urban Company Ltd.,URBANCO.NS,2026-11-17,168.5,,173.15,168.06,171.7,-1.86,183.97,100.7,-8.41,False,False,7398807,,Nifty Indices constituents + Yahoo history
+KPRMILL,K.P.R. Mill Ltd.,KPRMILL.NS,2026-11-17,1220.2,,1247.3,1200.0,1211.0,0.76,1334.0,796.1,-8.53,False,False,437042,,Nifty Indices constituents + Yahoo history
+OBEROIRLTY,Oberoi Realty Ltd.,OBEROIRLTY.NS,2026-11-17,1816.0,,1835.0,1761.7,1797.6,1.02,1986.1,1391.2,-8.56,False,False,318683,,Nifty Indices constituents + Yahoo history
+GRAPHITE,Graphite India Ltd.,GRAPHITE.NS,2026-11-17,798.75,,807.7,784.2,799.95,-0.15,874.35,516.2,-8.65,False,False,471714,,Nifty Indices constituents + Yahoo history
+BHARTIHEXA,Bharti Hexacom Ltd.,BHARTIHEXA.NS,2026-11-17,1697.7,,1720.0,1682.5,1665.5,1.93,1860.0,1359.2,-8.73,False,False,61426,,Nifty Indices constituents + Yahoo history
+NH,Narayana Hrudayalaya Ltd.,NH.NS,2026-11-17,1899.5,,1920.0,1883.3,1860.4,2.1,2093.3,1589.0,-9.26,False,False,95210,,Nifty Indices constituents + Yahoo history
+GMRAIRPORT,GMR Airports Ltd.,GMRAIRPORT.NS,2026-11-17,104.89,,105.26,101.5,101.8,3.04,115.64,84.11,-9.3,False,False,17615651,,Nifty Indices constituents + Yahoo history
+ELGIEQUIP,Elgi Equipments Ltd.,ELGIEQUIP.NS,2026-11-17,592.55,,597.1,588.3,594.2,-0.28,653.4,408.25,-9.31,False,False,108911,,Nifty Indices constituents + Yahoo history
+IPCALAB,Ipca Laboratories Ltd.,IPCALAB.NS,2026-11-17,1846.0,,1880.5,1837.0,1884.0,-2.02,2038.0,1361.7,-9.42,False,False,85620,,Nifty Indices constituents + Yahoo history
+RBLBANK,RBL Bank Ltd.,RBLBANK.NS,2026-11-17,388.6,,389.95,380.0,385.75,0.74,429.6,287.2,-9.54,False,False,1685004,,Nifty Indices constituents + Yahoo history
+CIPLA,Cipla Ltd.,CIPLA.NS,2026-11-17,1390.9,,1399.4,1383.8,1394.5,-0.26,1539.7,1165.7,-9.66,False,False,625914,,Nifty Indices constituents + Yahoo history
+NUVAMA,Nuvama Wealth Management Ltd.,NUVAMA.NS,2026-11-17,1864.0,,1919.0,1851.0,1847.8,0.88,2066.0,1096.9,-9.78,False,False,285153,,Nifty Indices constituents + Yahoo history
+PIDILITIND,Pidilite Industries Ltd.,PIDILITIND.NS,2026-11-17,1539.3,,1560.8,1536.7,1545.8,-0.42,1707.5,1259.0,-9.85,False,False,511348,,Nifty Indices constituents + Yahoo history
+LODHA,Lodha Developers Ltd.,LODHA.NS,2026-11-17,1212.0,,1237.8,1177.2,1192.8,1.61,1344.95,650.8,-9.89,False,False,773982,,Nifty Indices constituents + Yahoo history
+PERSISTENT,Persistent Systems Ltd.,PERSISTENT.NS,2026-11-17,5946.0,,6028.0,5915.0,6003.0,-0.95,6599.0,4244.5,-9.9,False,False,222900,,Nifty Indices constituents + Yahoo history
+GRASIM,Grasim Industries Ltd.,GRASIM.NS,2026-11-17,3063.7,,3105.0,3060.0,3084.4,-0.67,3411.1,2502.5,-10.18,False,False,386856,,Nifty Indices constituents + Yahoo history
+JSWINFRA,JSW Infrastructure Ltd.,JSWINFRA.NS,2026-11-17,337.2,,343.25,330.2,339.5,-0.68,375.5,233.42,-10.2,False,False,1179221,,Nifty Indices constituents + Yahoo history
+PIRAMALFIN,Piramal Finance Ltd.,PIRAMALFIN.NS,2026-11-17,2088.9,,2126.9,2073.9,2119.2,-1.43,2326.4,1416.5,-10.21,False,False,174402,,Nifty Indices constituents + Yahoo history
+SBIN,State Bank of India,SBIN.NS,2026-11-17,1106.75,,1114.0,1091.95,1090.5,1.49,1234.7,933.9,-10.36,False,False,11547159,,Nifty Indices constituents + Yahoo history
+TBOTEK,TBO Tek Ltd.,TBOTEK.NS,2026-11-17,1587.5,,1616.3,1566.0,1614.3,-1.66,1772.5,1004.2,-10.44,False,False,69539,,Nifty Indices constituents + Yahoo history
+IIFL,IIFL Finance Ltd.,IIFL.NS,2026-11-17,630.4,,665.45,626.8,652.35,-3.36,705.0,409.1,-10.58,False,False,3343671,,Nifty Indices constituents + Yahoo history
+SAILIFE,Sai Life Sciences Ltd.,SAILIFE.NS,2026-11-17,1747.0,,1815.0,1743.0,1928.8,-9.43,1954.8,783.85,-10.63,False,False,1149859,,Nifty Indices constituents + Yahoo history
+CAMS,Computer Age Management Services Ltd.,CAMS.NS,2026-11-17,753.9,,772.0,720.25,726.05,3.84,844.9,611.4,-10.77,False,False,3361524,,Nifty Indices constituents + Yahoo history
+BANKINDIA,Bank of India,BANKINDIA.NS,2026-11-17,159.11,,159.3,153.21,152.97,4.01,178.36,123.64,-10.79,False,False,15195258,,Nifty Indices constituents + Yahoo history
+LTTS,L&T Technology Services Ltd.,LTTS.NS,2026-11-17,4208.2,,4249.3,4181.3,4247.2,-0.92,4726.0,3010.0,-10.96,False,False,38896,,Nifty Indices constituents + Yahoo history
+GABRIEL,Gabriel India Ltd.,GABRIEL.NS,2026-11-17,1503.9,,1533.0,1485.3,1552.7,-3.14,1690.0,795.7,-11.01,False,False,209673,,Nifty Indices constituents + Yahoo history
+KPIL,Kalpataru Projects International Ltd.,KPIL.NS,2026-11-17,1323.9,,1378.8,1321.0,1349.5,-1.9,1490.0,1007.1,-11.15,False,False,192556,,Nifty Indices constituents + Yahoo history
+M&M,Mahindra & Mahindra Ltd.,M&M.NS,2026-11-17,3406.9,,3422.0,3341.0,3339.0,2.03,3839.9,2744.3,-11.28,False,False,1421740,,Nifty Indices constituents + Yahoo history
+SHREECEM,Shree Cement Ltd.,SHREECEM.NS,2026-11-17,24910.0,,25115.0,24700.0,24870.0,0.16,28090.0,21355.0,-11.32,False,False,12757,,Nifty Indices constituents + Yahoo history
+KIMS,Krishna Institute of Medical Sciences Ltd.,KIMS.NS,2026-11-17,759.1,,770.0,753.75,729.65,4.04,858.0,575.8,-11.53,False,False,139833,,Nifty Indices constituents + Yahoo history
+ASIANPAINT,Asian Paints Ltd.,ASIANPAINT.NS,2026-11-17,2639.7,,2665.5,2598.0,2550.0,3.52,2985.7,2115.0,-11.59,False,False,1070123,,Nifty Indices constituents + Yahoo history
+TORNTPHARM,Torrent Pharmaceuticals Ltd.,TORNTPHARM.NS,2026-11-17,4640.0,,4686.5,4638.1,4691.2,-1.09,5250.0,3672.3,-11.62,False,False,140081,,Nifty Indices constituents + Yahoo history
+GRANULES,Granules India Ltd.,GRANULES.NS,2026-11-17,815.55,,824.5,793.3,813.2,0.29,923.65,529.85,-11.7,False,False,1356225,,Nifty Indices constituents + Yahoo history
+AJANTPHARM,Ajanta Pharmaceuticals Ltd.,AJANTPHARM.NS,2026-11-17,3347.6,,3384.2,3333.0,3284.0,1.94,3796.0,2445.8,-11.81,False,False,35816,,Nifty Indices constituents + Yahoo history
+STARHEALTH,Star Health and Allied Insurance Company Ltd.,STARHEALTH.NS,2026-11-17,551.0,,570.1,550.6,572.9,-3.82,624.9,416.55,-11.83,False,False,272423,,Nifty Indices constituents + Yahoo history
+BELRISE,Belrise Industries Ltd.,BELRISE.NS,2026-11-17,236.27,,240.5,232.2,235.09,0.5,268.2,154.21,-11.91,False,False,10272806,,Nifty Indices constituents + Yahoo history
+JSWCEMENT,JSW Cement Ltd.,JSWCEMENT.NS,2026-11-17,126.1,,126.3,124.73,125.36,0.59,143.4,106.65,-12.06,False,False,538480,,Nifty Indices constituents + Yahoo history
+CRISIL,CRISIL Ltd.,CRISIL.NS,2026-11-17,4281.1,,4323.0,4230.0,4244.7,0.86,4872.7,3686.0,-12.14,False,False,12294,,Nifty Indices constituents + Yahoo history
+BAJAJFINSV,Bajaj Finserv Ltd.,BAJAJFINSV.NS,2026-11-17,1859.5,,1881.0,1848.2,1865.0,-0.29,2118.5,1597.0,-12.23,False,False,404550,,Nifty Indices constituents + Yahoo history
+TATACAP,Tata Capital Ltd.,TATACAP.NS,2026-11-17,342.2,,351.85,342.0,351.45,-2.63,390.2,296.0,-12.3,False,False,610031,,Nifty Indices constituents + Yahoo history
+TMCV,Tata Motors Ltd.,TMCV.NS,2026-11-17,446.3,,448.55,429.4,428.25,4.21,509.0,310.0,-12.32,False,False,8097004,,Nifty Indices constituents + Yahoo history
+ALKEM,Alkem Laboratories Ltd.,ALKEM.NS,2026-11-17,5200.0,,5259.0,5144.5,5136.0,1.25,5933.5,4811.0,-12.36,False,False,88600,,Nifty Indices constituents + Yahoo history
+MGL,Mahanagar Gas Ltd.,MGL.NS,2026-11-17,1106.5,,1127.4,1105.5,1158.6,-4.5,1263.5,900.0,-12.43,False,False,90835,,Nifty Indices constituents + Yahoo history
+NUVOCO,Nuvoco Vistas Corporation Ltd.,NUVOCO.NS,2026-11-17,348.4,,352.0,342.0,341.4,2.05,398.0,276.25,-12.46,False,False,149151,,Nifty Indices constituents + Yahoo history
+CHALET,Chalet Hotels Ltd.,CHALET.NS,2026-11-17,822.6,,835.0,815.65,824.65,-0.25,939.95,691.35,-12.48,False,False,28353,,Nifty Indices constituents + Yahoo history
+DELHIVERY,Delhivery Ltd.,DELHIVERY.NS,2026-11-17,458.2,,465.8,439.05,436.3,5.02,524.0,364.65,-12.56,False,False,6195555,,Nifty Indices constituents + Yahoo history
+ABB,ABB India Ltd.,ABB.NS,2026-11-17,6928.5,,7033.5,6790.0,6895.0,0.49,7924.5,4637.5,-12.57,False,False,371418,,Nifty Indices constituents + Yahoo history
+NEULANDLAB,Neuland Laboratories Ltd.,NEULANDLAB.NS,2026-11-17,21156.0,,21505.0,21049.0,21078.0,0.37,24225.0,11500.0,-12.67,False,False,44956,,Nifty Indices constituents + Yahoo history
+ADANIGREEN,Adani Green Energy Ltd.,ADANIGREEN.NS,2026-11-17,1420.9,,1425.3,1403.0,1406.6,1.02,1631.5,765.0,-12.91,False,False,1312306,,Nifty Indices constituents + Yahoo history
+BSE,BSE Ltd.,BSE.NS,2026-11-17,3870.4,,4003.3,3845.1,3887.4,-0.44,4446.8,2530.0,-12.96,False,False,5802026,,Nifty Indices constituents + Yahoo history
+AEGISVOPAK,Aegis Vopak Terminals Ltd.,AEGISVOPAK.NS,2026-11-17,279.2,,282.32,278.22,279.77,-0.2,320.95,158.0,-13.01,False,False,356141,,Nifty Indices constituents + Yahoo history
+AUBANK,AU Small Finance Bank Ltd.,AUBANK.NS,2026-11-17,995.1,,997.0,966.9,967.0,2.91,1144.1,831.65,-13.02,False,False,1414259,,Nifty Indices constituents + Yahoo history
+BAJAJHLDNG,Bajaj Holdings & Investment Ltd.,BAJAJHLDNG.NS,2026-11-17,11265.0,,11415.0,11233.0,11096.0,1.52,12964.0,8588.0,-13.11,False,False,11263,,Nifty Indices constituents + Yahoo history
+LICI,Life Insurance Corporation of India,LICI.NS,2026-11-17,400.05,,404.0,399.15,400.0,0.01,460.5,360.75,-13.13,False,False,7827972,,Nifty Indices constituents + Yahoo history
+JINDALSTEL,Jindal Steel Ltd.,JINDALSTEL.NS,2026-11-17,1132.1,,1141.4,1118.6,1157.8,-2.22,1306.2,977.1,-13.33,False,False,1037202,,Nifty Indices constituents + Yahoo history
 ICICIPRULI,ICICI Prudential Life Insurance Company Ltd.,ICICIPRULI.NS,2026-11-13,455.55,,471.05,454.45,466.95,-2.44,525.75,401.65,-13.35,False,False,1551301,,Nifty Indices constituents + Yahoo history
-BAJAJ-AUTO,Bajaj Auto Ltd.,BAJAJ-AUTO.NS,2026-11-17,10762.0,,10825.0,10706.0,10734.0,0.26,12470.0,8624.0,-13.7,False,False,155309,,Nifty Indices constituents + Yahoo history
-KFINTECH,Kfin Technologies Ltd.,KFINTECH.NS,2026-11-17,962.05,,985.0,932.75,950.9,1.17,1115.8,784.0,-13.78,False,False,2000732,,Nifty Indices constituents + Yahoo history
-LTFOODS,LT Foods Ltd.,LTFOODS.NS,2026-11-17,423.05,,424.45,414.75,424.45,-0.33,490.7,333.15,-13.79,False,False,227654,,Nifty Indices constituents + Yahoo history
-CDSL,Central Depository Services (India) Ltd.,CDSL.NS,2026-11-17,1440.1,,1479.9,1424.0,1433.9,0.43,1673.7,1116.3,-13.96,False,False,2043059,,Nifty Indices constituents + Yahoo history
-GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,GLAXO.NS,2026-11-17,2683.8,,2689.9,2663.7,2672.6,0.42,3120.7,2088.1,-14.0,False,False,20977,,Nifty Indices constituents + Yahoo history
-CPPLUS,Aditya Infotech Ltd.,CPPLUS.NS,2026-11-17,3971.4,,4036.8,3897.6,3963.4,0.2,4620.0,1348.3,-14.04,False,False,97233,,Nifty Indices constituents + Yahoo history
-NAM-INDIA,Nippon Life India Asset Management Ltd.,NAM-INDIA.NS,2026-11-17,1090.55,,1127.0,1071.95,1094.1,-0.32,1269.5,795.8,-14.1,False,False,767043,,Nifty Indices constituents + Yahoo history
-AARTIIND,Aarti Industries Ltd.,AARTIIND.NS,2026-11-17,473.9,,483.45,472.6,481.95,-1.67,551.75,338.05,-14.11,False,False,188294,,Nifty Indices constituents + Yahoo history
-NHPC,NHPC Ltd.,NHPC.NS,2026-11-17,74.55,,75.09,74.51,75.05,-0.67,86.83,68.79,-14.14,False,False,3600439,,Nifty Indices constituents + Yahoo history
-JKCEMENT,J.K. Cement Ltd.,JKCEMENT.NS,2026-11-17,5239.8,,5337.1,5230.7,5155.1,1.64,6105.0,4671.5,-14.17,False,False,36338,,Nifty Indices constituents + Yahoo history
-MAXHEALTH,Max Healthcare Institute Ltd.,MAXHEALTH.NS,2026-11-17,1016.8,,1039.0,1013.45,1009.9,0.68,1185.4,797.0,-14.22,False,False,4126371,,Nifty Indices constituents + Yahoo history
-SHRIRAMFIN,Shriram Finance Ltd.,SHRIRAMFIN.NS,2026-11-17,989.0,,995.7,976.0,978.4,1.08,1153.7,808.6,-14.28,False,False,2165051,,Nifty Indices constituents + Yahoo history
-INDUSINDBK,IndusInd Bank Ltd.,INDUSINDBK.NS,2026-11-17,922.45,,931.95,905.2,914.55,0.86,1077.85,750.5,-14.42,False,False,1788208,,Nifty Indices constituents + Yahoo history
-GESHIP,Great Eastern Shipping Co. Ltd.,GESHIP.NS,2026-11-17,1535.1,,1544.5,1516.3,1518.0,1.13,1798.0,1056.9,-14.62,False,False,265511,,Nifty Indices constituents + Yahoo history
-CEATLTD,Ceat Ltd.,CEATLTD.NS,2026-11-17,3521.6,,3595.0,3521.6,3540.3,-0.53,4128.3,3012.6,-14.7,False,False,38847,,Nifty Indices constituents + Yahoo history
-GODREJPROP,Godrej Properties Ltd.,GODREJPROP.NS,2026-11-17,1891.0,,1912.4,1834.0,1854.9,1.95,2218.0,1434.0,-14.74,False,False,545619,,Nifty Indices constituents + Yahoo history
-TATACOMM,Tata Communications Ltd.,TATACOMM.NS,2026-11-17,1798.8,,1860.0,1798.6,1772.9,1.46,2110.0,1322.5,-14.75,False,False,128760,,Nifty Indices constituents + Yahoo history
-CYIENT,Cyient Ltd.,CYIENT.NS,2026-11-17,1088.4,,1108.9,1082.2,1104.9,-1.49,1277.0,750.3,-14.77,False,False,174277,,Nifty Indices constituents + Yahoo history
-SIEMENS,Siemens Ltd.,SIEMENS.NS,2026-11-17,3534.3,,3608.6,3526.0,3580.9,-1.3,4149.4,2826.0,-14.82,False,False,105943,,Nifty Indices constituents + Yahoo history
-USHAMART,Usha Martin Ltd.,USHAMART.NS,2026-11-17,462.05,,469.9,461.4,481.75,-4.09,542.6,380.0,-14.85,False,False,116987,,Nifty Indices constituents + Yahoo history
-SBILIFE,SBI Life Insurance Company Ltd.,SBILIFE.NS,2026-11-17,1814.8,,1834.6,1814.0,1827.7,-0.71,2132.0,1607.7,-14.88,False,False,283181,,Nifty Indices constituents + Yahoo history
-AFFLE,Affle 3i Ltd.,AFFLE.NS,2026-11-17,1555.8,,1581.1,1535.1,1576.6,-1.32,1829.1,1251.3,-14.94,False,False,93096,,Nifty Indices constituents + Yahoo history
-CHOICEIN,Choice International Ltd.,CHOICEIN.NS,2026-11-17,730.0,,744.35,724.0,727.35,0.36,860.5,568.7,-15.17,False,False,558649,,Nifty Indices constituents + Yahoo history
-CGCL,Capri Global Capital Ltd.,CGCL.NS,2026-11-17,243.69,,247.2,241.01,246.27,-1.05,287.45,151.1,-15.22,False,False,3893219,,Nifty Indices constituents + Yahoo history
-ABBOTINDIA,Abbott India Ltd.,ABBOTINDIA.NS,2026-11-17,25950.0,,26135.0,25620.0,25980.0,-0.12,30655.0,24650.0,-15.35,False,False,4930,,Nifty Indices constituents + Yahoo history
-ITCHOTELS,ITC Hotels Ltd.,ITCHOTELS.NS,2026-11-17,179.94,,181.7,174.4,174.16,3.32,212.99,137.3,-15.52,False,False,4777004,,Nifty Indices constituents + Yahoo history
-LINDEINDIA,Linde India Ltd.,LINDEINDIA.NS,2026-11-17,6799.0,,7009.5,6794.0,6911.5,-1.63,8049.0,5544.0,-15.53,False,False,14320,,Nifty Indices constituents + Yahoo history
-DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,DEEPAKFERT.NS,2026-11-17,1419.4,,1429.0,1345.0,1261.8,12.49,1681.0,866.4,-15.56,False,False,1449622,,Nifty Indices constituents + Yahoo history
-CHENNPETRO,Chennai Petroleum Corporation Ltd.,CHENNPETRO.NS,2026-11-17,1413.0,,1452.0,1412.2,1428.2,-1.06,1677.5,765.5,-15.77,False,False,499280,,Nifty Indices constituents + Yahoo history
-ZENTEC,Zen Technologies Ltd.,ZENTEC.NS,2026-11-17,1721.5,,1758.0,1712.0,1743.7,-1.27,2043.7,1223.0,-15.77,False,False,97511,,Nifty Indices constituents + Yahoo history
-BANKBARODA,Bank of Baroda,BANKBARODA.NS,2026-11-17,273.63,,276.2,269.46,270.2,1.27,325.5,223.82,-15.94,False,False,12282353,,Nifty Indices constituents + Yahoo history
-BALKRISIND,Balkrishna Industries Ltd.,BALKRISIND.NS,2026-11-17,2332.0,,2350.1,2290.0,2288.2,1.91,2775.0,1964.7,-15.96,False,False,67954,,Nifty Indices constituents + Yahoo history
-DATAPATTNS,Data Patterns (India) Ltd.,DATAPATTNS.NS,2026-11-17,4197.5,,4287.5,4190.0,4190.0,0.18,5000.0,2131.0,-16.05,False,False,227993,,Nifty Indices constituents + Yahoo history
-BEL,Bharat Electronics Ltd.,BEL.NS,2026-11-17,397.35,,402.5,397.35,401.4,-1.01,473.45,354.55,-16.07,False,False,3437328,,Nifty Indices constituents + Yahoo history
-ACMESOLAR,ACME Solar Holdings Ltd.,ACMESOLAR.NS,2026-11-17,399.5,,410.25,398.75,402.4,-0.72,476.9,195.9,-16.23,False,False,248162,,Nifty Indices constituents + Yahoo history
-RELIANCE,Reliance Industries Ltd.,RELIANCE.NS,2026-11-17,1349.9,,1354.6,1335.0,1344.8,0.38,1611.8,1152.2,-16.25,False,False,7078518,,Nifty Indices constituents + Yahoo history
-HEROMOTOCO,Hero MotoCorp Ltd.,HEROMOTOCO.NS,2026-11-17,5338.5,,5431.5,5301.0,5385.0,-0.86,6388.5,4671.5,-16.44,False,False,373050,,Nifty Indices constituents + Yahoo history
-BALRAMCHIN,Balrampur Chini Mills Ltd.,BALRAMCHIN.NS,2026-11-17,652.0,,658.45,642.3,654.8,-0.43,780.95,393.55,-16.51,False,False,183280,,Nifty Indices constituents + Yahoo history
-ICICIAMC,ICICI Prudential Asset Management Company Ltd.,ICICIAMC.NS,2026-11-17,3009.0,,3047.9,3003.0,3040.4,-1.03,3611.0,2530.0,-16.67,False,False,127087,,Nifty Indices constituents + Yahoo history
-DIXON,Dixon Technologies (India) Ltd.,DIXON.NS,2026-11-17,13136.0,,13220.0,12800.0,12798.0,2.64,15775.0,9600.0,-16.73,False,False,256214,,Nifty Indices constituents + Yahoo history
-AIIL,Authum Investment & Infrastructure Ltd.,AIIL.NS,2026-11-17,568.1,,575.0,565.6,576.75,-1.5,683.0,400.0,-16.82,False,False,40356,,Nifty Indices constituents + Yahoo history
-NIVABUPA,Niva Bupa Health Insurance Company Ltd.,NIVABUPA.NS,2026-11-17,75.93,,77.44,75.92,78.77,-3.61,91.4,67.5,-16.93,False,False,296857,,Nifty Indices constituents + Yahoo history
-NAUKRI,Info Edge (India) Ltd.,NAUKRI.NS,2026-11-17,1165.0,,1186.4,1158.4,1169.9,-0.42,1402.8,908.3,-16.95,False,False,372270,,Nifty Indices constituents + Yahoo history
-DEEPAKNTR,Deepak Nitrite Ltd.,DEEPAKNTR.NS,2026-11-17,1575.6,,1608.5,1575.6,1594.9,-1.21,1897.9,1280.0,-16.98,False,False,55792,,Nifty Indices constituents + Yahoo history
-WOCKPHARMA,Wockhardt Ltd.,WOCKPHARMA.NS,2026-11-17,2007.0,,2049.7,1992.0,2004.5,0.12,2422.3,1086.7,-17.14,False,False,244431,,Nifty Indices constituents + Yahoo history
-ONESOURCE,Onesource Specialty Pharma Ltd.,ONESOURCE.NS,2026-11-17,1588.7,,1614.0,1580.1,1610.1,-1.33,1917.8,1057.0,-17.16,False,False,128585,,Nifty Indices constituents + Yahoo history
-ADANIENT,Adani Enterprises Ltd.,ADANIENT.NS,2026-11-17,2684.3,,2703.9,2659.1,2659.0,0.95,3245.0,1753.0,-17.28,False,False,751780,,Nifty Indices constituents + Yahoo history
-SOLARINDS,Solar Industries India Ltd.,SOLARINDS.NS,2026-11-17,18776.0,,19085.0,18753.0,18820.0,-0.23,22700.0,11646.0,-17.29,False,False,57243,,Nifty Indices constituents + Yahoo history
-NESTLEIND,Nestle India Ltd.,NESTLEIND.NS,2026-11-17,1284.0,,1308.0,1283.1,1297.0,-1.0,1553.0,1147.4,-17.32,False,False,426989,,Nifty Indices constituents + Yahoo history
-HOMEFIRST,Home First Finance Company India Ltd.,HOMEFIRST.NS,2026-11-17,1089.5,,1097.9,1068.1,1109.6,-1.81,1317.7,893.7,-17.32,False,False,54282,,Nifty Indices constituents + Yahoo history
-LTF,L&T Finance Ltd.,LTF.NS,2026-11-17,279.8,,282.7,277.1,279.0,0.29,338.6,229.2,-17.37,False,False,1321768,,Nifty Indices constituents + Yahoo history
-TARIL,Transformers And Rectifiers (India) Ltd.,TARIL.NS,2026-11-17,307.35,,311.15,305.1,314.8,-2.37,372.0,224.05,-17.38,False,False,536866,,Nifty Indices constituents + Yahoo history
-CANBK,Canara Bank,CANBK.NS,2026-11-17,134.49,,136.8,132.2,132.4,1.58,162.89,114.63,-17.44,False,False,30195603,,Nifty Indices constituents + Yahoo history
-IKS,Inventurus Knowledge Solutions Ltd.,IKS.NS,2026-11-17,1626.1,,1647.4,1607.6,1618.9,0.44,1970.0,1262.0,-17.46,False,False,59621,,Nifty Indices constituents + Yahoo history
-JSWENERGY,JSW Energy Ltd.,JSWENERGY.NS,2026-11-17,508.2,,515.75,508.0,514.55,-1.23,617.35,427.75,-17.68,False,False,584615,,Nifty Indices constituents + Yahoo history
-ASTERDM,Aster DM Quality Care Ltd.,ASTERDM.NS,2026-11-17,733.65,,756.25,733.35,750.0,-2.18,891.3,519.1,-17.69,False,False,585606,,Nifty Indices constituents + Yahoo history
-ICICIGI,ICICI Lombard General Insurance Company Ltd.,ICICIGI.NS,2026-11-17,1694.2,,1707.0,1690.0,1691.2,0.18,2059.4,1423.1,-17.73,False,False,201634,,Nifty Indices constituents + Yahoo history
-ENDURANCE,Endurance Technologies Ltd.,ENDURANCE.NS,2026-11-17,2525.1,,2554.2,2510.0,2540.2,-0.59,3072.0,2142.8,-17.8,False,False,16964,,Nifty Indices constituents + Yahoo history
-JINDALSAW,Jindal Saw Ltd.,JINDALSAW.NS,2026-11-17,263.01,,265.2,256.57,261.45,0.6,320.0,153.0,-17.81,False,False,1723641,,Nifty Indices constituents + Yahoo history
-POLYMED,Poly Medicure Ltd.,POLYMED.NS,2026-11-17,1662.4,,1687.2,1660.5,1681.2,-1.12,2024.0,1182.0,-17.87,False,False,14382,,Nifty Indices constituents + Yahoo history
-ADANIENSOL,Adani Energy Solutions Ltd.,ADANIENSOL.NS,2026-11-17,1468.6,,1479.0,1443.7,1438.5,2.09,1789.0,803.1,-17.91,False,False,925900,,Nifty Indices constituents + Yahoo history
-FINCABLES,Finolex Cables Ltd.,FINCABLES.NS,2026-11-17,1230.5,,1249.0,1216.6,1254.9,-1.94,1499.0,700.8,-17.91,False,False,440940,,Nifty Indices constituents + Yahoo history
-REDINGTON,Redington Ltd.,REDINGTON.NS,2026-11-17,344.3,,345.95,338.3,340.55,1.1,419.5,191.31,-17.93,False,False,1109398,,Nifty Indices constituents + Yahoo history
-LLOYDSME,Lloyds Metals And Energy Ltd.,LLOYDSME.NS,2026-11-17,1742.9,,1768.5,1722.0,1785.8,-2.4,2125.0,1042.9,-17.98,False,False,365219,,Nifty Indices constituents + Yahoo history
-PGEL,PG Electroplast Ltd.,PGEL.NS,2026-11-17,528.55,,545.8,527.45,566.8,-6.75,644.4,436.55,-17.98,False,False,473678,,Nifty Indices constituents + Yahoo history
-MRPL,Mangalore Refinery & Petrochemicals Ltd.,MRPL.NS,2026-11-17,174.0,,178.91,173.85,174.93,-0.53,212.31,136.02,-18.04,False,False,2999914,,Nifty Indices constituents + Yahoo history
-SCHAEFFLER,Schaeffler India Ltd.,SCHAEFFLER.NS,2026-11-17,3660.0,,3690.4,3598.6,3604.0,1.55,4467.7,3420.0,-18.08,False,False,34430,,Nifty Indices constituents + Yahoo history
-CEMPRO,Cemindia Projects Ltd.,CEMPRO.NS,2026-11-17,1350.0,,1359.4,1286.0,1298.6,3.96,1649.2,503.3,-18.14,False,False,278878,,Nifty Indices constituents + Yahoo history
-GICRE,General Insurance Corporation of India,GICRE.NS,2026-11-17,342.1,,343.85,339.35,344.5,-0.7,417.95,308.0,-18.15,False,False,412046,,Nifty Indices constituents + Yahoo history
-JUBLPHARMA,Jubilant Pharmova Ltd.,JUBLPHARMA.NS,2026-11-17,950.85,,987.0,946.8,964.1,-1.37,1162.0,786.05,-18.17,False,False,96364,,Nifty Indices constituents + Yahoo history
-JSL,Jindal Stainless Ltd.,JSL.NS,2026-11-17,722.25,,725.0,715.0,712.55,1.36,884.0,652.25,-18.3,False,False,100497,,Nifty Indices constituents + Yahoo history
-CGPOWER,CG Power and Industrial Solutions Ltd.,CGPOWER.NS,2026-11-17,800.8,,819.15,800.0,818.7,-2.19,980.9,525.5,-18.36,False,False,1870330,,Nifty Indices constituents + Yahoo history
-INDUSTOWER,Indus Towers Ltd.,INDUSTOWER.NS,2026-11-17,392.85,,397.35,392.4,396.2,-0.85,481.5,355.55,-18.41,False,False,1237500,,Nifty Indices constituents + Yahoo history
-PARADEEP,Paradeep Phosphates Ltd.,PARADEEP.NS,2026-11-17,138.9,,140.11,135.75,136.82,1.52,170.5,99.7,-18.53,False,False,552346,,Nifty Indices constituents + Yahoo history
-SAIL,Steel Authority of India Ltd.,SAIL.NS,2026-11-17,169.9,,171.3,166.54,168.75,0.68,209.7,124.0,-18.98,False,False,6877025,,Nifty Indices constituents + Yahoo history
-MRF,MRF Ltd.,MRF.NS,2026-11-17,128800.0,,129600.0,128325.0,127955.0,0.66,158990.0,115190.0,-18.99,False,False,2277,,Nifty Indices constituents + Yahoo history
-TATASTEEL,Tata Steel Ltd.,TATASTEEL.NS,2026-11-17,181.79,,183.22,179.65,182.26,-0.26,224.4,160.06,-18.99,False,False,12693070,,Nifty Indices constituents + Yahoo history
-OIL,Oil India Ltd.,OIL.NS,2026-11-17,430.15,,440.55,429.7,441.4,-2.55,531.0,395.6,-18.99,False,False,2309590,,Nifty Indices constituents + Yahoo history
-CANFINHOME,Can Fin Homes Ltd.,CANFINHOME.NS,2026-11-17,786.65,,788.25,765.0,766.0,2.7,971.5,693.0,-19.03,False,False,88215,,Nifty Indices constituents + Yahoo history
-CONCOR,Container Corporation of India Ltd.,CONCOR.NS,2026-11-17,440.2,,446.7,439.85,442.15,-0.44,543.7,404.25,-19.04,False,False,338873,,Nifty Indices constituents + Yahoo history
-MPHASIS,MphasiS Ltd.,MPHASIS.NS,2026-11-17,2406.5,,2446.7,2397.3,2455.0,-1.98,2975.0,2013.0,-19.11,False,False,113495,,Nifty Indices constituents + Yahoo history
-SAGILITY,Sagility Ltd.,SAGILITY.NS,2026-11-17,43.88,,44.1,42.9,43.4,1.11,54.3,35.83,-19.19,False,False,8640026,,Nifty Indices constituents + Yahoo history
-HINDUNILVR,Hindustan Unilever Ltd.,HINDUNILVR.NS,2026-11-17,2008.0,,2024.5,1999.5,2000.3,0.38,2488.0,1758.2,-19.29,False,False,517208,,Nifty Indices constituents + Yahoo history
-PWL,Physicswallah Ltd.,PWL.NS,2026-11-17,130.69,,133.31,128.31,129.45,0.96,161.99,77.72,-19.32,False,False,5624616,,Nifty Indices constituents + Yahoo history
-ADANIPOWER,Adani Power Ltd.,ADANIPOWER.NS,2026-11-17,204.97,,206.9,204.31,205.29,-0.16,254.2,128.1,-19.37,False,False,6595616,,Nifty Indices constituents + Yahoo history
-BIOCON,Biocon Ltd.,BIOCON.NS,2026-11-17,360.2,,363.15,359.65,362.2,-0.55,447.15,318.4,-19.45,False,False,1009900,,Nifty Indices constituents + Yahoo history
-TIMKEN,Timken India Ltd.,TIMKEN.NS,2026-11-17,3147.0,,3158.4,3084.7,3120.3,0.86,3925.0,2687.9,-19.82,False,False,19132,,Nifty Indices constituents + Yahoo history
-HDFCBANK,HDFC Bank Ltd.,HDFCBANK.NS,2026-11-17,815.55,,821.0,810.85,816.5,-0.12,1017.5,669.2,-19.85,False,False,22613182,,Nifty Indices constituents + Yahoo history
-BERGEPAINT,Berger Paints India Ltd.,BERGEPAINT.NS,2026-11-17,475.3,,482.8,470.3,470.3,1.06,594.55,391.1,-20.06,False,False,289520,,Nifty Indices constituents + Yahoo history
-TRAVELFOOD,Travel Food Services Ltd.,TRAVELFOOD.NS,2026-11-17,1174.8,,1196.0,1159.2,1167.1,0.66,1470.9,1035.3,-20.13,False,False,14992,,Nifty Indices constituents + Yahoo history
-BLUEJET,Blue Jet Healthcare Ltd.,BLUEJET.NS,2026-11-17,515.6,,526.1,511.0,512.95,0.52,647.8,325.0,-20.41,False,False,288829,,Nifty Indices constituents + Yahoo history
-SOBHA,Sobha Ltd.,SOBHA.NS,2026-11-17,1301.2,,1317.3,1236.6,1251.4,3.98,1636.1,1112.1,-20.47,False,False,270420,,Nifty Indices constituents + Yahoo history
-WELCORP,Welspun Corp Ltd.,WELCORP.NS,2026-11-17,2306.0,,2319.2,2182.0,2230.4,3.39,2900.0,710.0,-20.48,False,False,706250,,Nifty Indices constituents + Yahoo history
-CARTRADE,Cartrade Tech Ltd.,CARTRADE.NS,2026-11-17,2614.3,,2665.9,2611.2,2696.1,-3.03,3290.5,1600.0,-20.55,False,False,51119,,Nifty Indices constituents + Yahoo history
-CAPLIPOINT,Caplin Point Laboratories Ltd.,CAPLIPOINT.NS,2026-11-17,2375.0,,2387.5,2325.7,2346.8,1.2,2990.0,1500.3,-20.57,False,False,35579,,Nifty Indices constituents + Yahoo history
-DEVYANI,Devyani International Ltd.,DEVYANI.NS,2026-11-17,126.68,,128.7,125.51,129.87,-2.46,159.66,91.55,-20.66,False,False,241246,,Nifty Indices constituents + Yahoo history
-COALINDIA,Coal India Ltd.,COALINDIA.NS,2026-11-17,389.7,,398.5,387.75,397.5,-1.96,491.25,369.6,-20.67,False,False,18856549,,Nifty Indices constituents + Yahoo history
-POWERGRID,Power Grid Corporation of India Ltd.,POWERGRID.NS,2026-11-17,257.75,,261.75,257.3,262.2,-1.7,324.95,242.3,-20.68,False,False,6277680,,Nifty Indices constituents + Yahoo history
-CENTRALBK,Central Bank of India,CENTRALBK.NS,2026-11-17,32.44,,33.05,31.96,32.22,0.68,40.92,28.26,-20.72,False,False,13337490,,Nifty Indices constituents + Yahoo history
-RAINBOW,Rainbow Childrens Medicare Ltd.,RAINBOW.NS,2026-11-17,1276.3,,1288.7,1268.0,1271.5,0.38,1610.0,1084.0,-20.73,False,False,44300,,Nifty Indices constituents + Yahoo history
-FORTIS,Fortis Healthcare Ltd.,FORTIS.NS,2026-11-17,800.6,,812.0,797.45,803.2,-0.32,1010.1,704.95,-20.74,False,False,851975,,Nifty Indices constituents + Yahoo history
-AEGISLOG,Aegis Logistics Ltd.,AEGISLOG.NS,2026-11-17,1210.2,,1248.1,1200.2,1228.1,-1.46,1528.7,576.1,-20.83,False,False,450019,,Nifty Indices constituents + Yahoo history
-BLUESTARCO,Blue Star Ltd.,BLUESTARCO.NS,2026-11-17,1604.6,,1661.9,1582.7,1624.0,-1.19,2029.6,1432.3,-20.94,False,False,532439,,Nifty Indices constituents + Yahoo history
-SUPREMEIND,Supreme Industries Ltd.,SUPREMEIND.NS,2026-11-17,3215.0,,3281.2,3214.5,3307.5,-2.8,4074.8,3078.5,-21.1,False,False,78312,,Nifty Indices constituents + Yahoo history
-COROMANDEL,Coromandel International Ltd.,COROMANDEL.NS,2026-11-17,1970.9,,1980.0,1954.5,1955.0,0.81,2499.0,1651.1,-21.13,False,False,70038,,Nifty Indices constituents + Yahoo history
-EIHOTEL,EIH Ltd.,EIHOTEL.NS,2026-11-17,309.1,,313.35,306.5,316.55,-2.35,391.9,271.15,-21.13,False,False,76172,,Nifty Indices constituents + Yahoo history
-POWERINDIA,Hitachi Energy India Ltd.,POWERINDIA.NS,2026-11-17,30580.0,,30950.0,29785.0,30885.0,-0.99,38785.0,16111.0,-21.16,False,False,119768,,Nifty Indices constituents + Yahoo history
-HINDALCO,Hindalco Industries Ltd.,HINDALCO.NS,2026-11-17,926.8,,933.9,911.85,943.6,-1.78,1176.0,771.85,-21.19,False,False,4298341,,Nifty Indices constituents + Yahoo history
-BANDHANBNK,Bandhan Bank Ltd.,BANDHANBNK.NS,2026-11-17,173.79,,176.6,171.5,172.88,0.53,220.76,134.25,-21.28,False,False,5820840,,Nifty Indices constituents + Yahoo history
-SRF,SRF Ltd.,SRF.NS,2026-11-17,2472.6,,2491.5,2464.2,2475.0,-0.1,3143.0,2178.3,-21.33,False,False,56341,,Nifty Indices constituents + Yahoo history
-CANHLIFE,Canara HSBC Life Insurance Company Ltd.,CANHLIFE.NS,2026-11-17,131.06,,134.46,130.61,134.8,-2.77,166.69,117.5,-21.38,False,False,257762,,Nifty Indices constituents + Yahoo history
-CCL,CCL Products (I) Ltd.,CCL.NS,2026-11-17,975.0,,993.35,971.2,978.15,-0.32,1242.2,885.7,-21.51,False,False,54807,,Nifty Indices constituents + Yahoo history
-SAPPHIRE,Sapphire Foods India Ltd.,SAPPHIRE.NS,2026-11-17,208.18,,211.37,207.47,212.75,-2.15,265.4,139.91,-21.56,False,False,31891,,Nifty Indices constituents + Yahoo history
-SYRMA,Syrma SGS Technology Ltd.,SYRMA.NS,2026-11-17,1427.7,,1474.4,1426.3,1455.0,-1.88,1822.6,634.5,-21.67,False,False,717025,,Nifty Indices constituents + Yahoo history
-MANAPPURAM,Manappuram Finance Ltd.,MANAPPURAM.NS,2026-11-17,298.7,,305.9,298.4,303.8,-1.68,381.55,245.15,-21.71,False,False,2447418,,Nifty Indices constituents + Yahoo history
-IDEA,Vodafone Idea Ltd.,IDEA.NS,2026-11-17,12.35,,12.69,12.34,12.53,-1.44,15.79,8.13,-21.79,False,False,155049155,,Nifty Indices constituents + Yahoo history
-GILLETTE,Gillette India Ltd.,GILLETTE.NS,2026-11-17,7085.0,,7145.0,7067.5,7087.5,-0.04,9065.0,6860.0,-21.84,False,False,13454,,Nifty Indices constituents + Yahoo history
-BPCL,Bharat Petroleum Corporation Ltd.,BPCL.NS,2026-11-17,305.95,,309.25,305.6,302.0,1.31,391.65,266.6,-21.88,False,False,2387998,,Nifty Indices constituents + Yahoo history
-ELECON,Elecon Engineering Co. Ltd.,ELECON.NS,2026-11-17,452.2,,457.0,437.3,444.0,1.85,579.0,352.0,-21.9,False,False,318112,,Nifty Indices constituents + Yahoo history
-OFSS,Oracle Financial Services Software Ltd.,OFSS.NS,2026-11-17,9792.0,,9988.0,9784.0,9912.0,-1.21,12540.0,6234.5,-21.91,False,False,69315,,Nifty Indices constituents + Yahoo history
-GRAVITA,Gravita India Ltd.,GRAVITA.NS,2026-11-17,1493.9,,1508.0,1480.5,1497.9,-0.27,1913.6,1266.9,-21.93,False,False,53202,,Nifty Indices constituents + Yahoo history
-ERIS,Eris Lifesciences Ltd.,ERIS.NS,2026-11-17,1353.9,,1371.2,1300.2,1307.2,3.57,1740.0,1069.0,-22.19,False,False,93462,,Nifty Indices constituents + Yahoo history
-IOB,Indian Overseas Bank,IOB.NS,2026-11-17,31.69,,32.32,31.15,31.63,0.19,40.74,28.32,-22.21,False,False,6581525,,Nifty Indices constituents + Yahoo history
-SPLPETRO,Supreme Petrochem Ltd.,SPLPETRO.NS,2026-11-17,698.9,,706.45,695.05,704.65,-0.82,899.0,462.3,-22.26,False,False,18072,,Nifty Indices constituents + Yahoo history
-UCOBANK,UCO Bank,UCOBANK.NS,2026-11-17,24.93,,25.51,24.6,24.67,1.05,32.12,21.34,-22.38,False,False,7076646,,Nifty Indices constituents + Yahoo history
-HAVELLS,Havells India Ltd.,HAVELLS.NS,2026-11-17,1175.1,,1192.0,1170.8,1161.0,1.21,1514.7,999.2,-22.42,False,False,299535,,Nifty Indices constituents + Yahoo history
-APOLLOTYRE,Apollo Tyres Ltd.,APOLLOTYRE.NS,2026-11-17,418.2,,433.15,417.7,420.8,-0.62,539.2,365.3,-22.44,False,False,626595,,Nifty Indices constituents + Yahoo history
-VBL,Varun Beverages Ltd.,VBL.NS,2026-11-17,430.45,,439.15,430.2,437.0,-1.5,555.8,381.0,-22.55,False,False,1074156,,Nifty Indices constituents + Yahoo history
-HINDPETRO,Hindustan Petroleum Corporation Ltd.,HINDPETRO.NS,2026-11-17,393.5,,394.8,388.3,386.95,1.69,508.45,316.2,-22.61,False,False,2767798,,Nifty Indices constituents + Yahoo history
-LUPIN,Lupin Ltd.,LUPIN.NS,2026-11-17,1957.6,,1984.8,1953.4,1980.3,-1.15,2529.5,1892.9,-22.61,False,False,343010,,Nifty Indices constituents + Yahoo history
-ENRIN,Siemens Energy India Ltd.,ENRIN.NS,2026-11-17,3068.5,,3092.2,3026.1,3097.0,-0.92,3968.0,2115.0,-22.67,False,False,188094,,Nifty Indices constituents + Yahoo history
-FSL,Firstsource Solutions Ltd.,FSL.NS,2026-11-17,287.15,,289.65,286.5,287.35,-0.07,371.75,202.0,-22.76,False,False,116060,,Nifty Indices constituents + Yahoo history
-IREDA,Indian Renewable Energy Development Agency Ltd.,IREDA.NS,2026-11-17,117.6,,122.45,114.54,115.95,1.42,152.38,98.78,-22.82,False,False,17689121,,Nifty Indices constituents + Yahoo history
-NTPC,NTPC Ltd.,NTPC.NS,2026-11-17,319.35,,321.85,318.85,321.25,-0.59,414.4,292.05,-22.94,False,False,3095606,,Nifty Indices constituents + Yahoo history
-POLYCAB,Polycab India Ltd.,POLYCAB.NS,2026-11-17,7803.0,,7985.5,7745.0,7955.5,-1.92,10126.0,6663.0,-22.94,False,False,327043,,Nifty Indices constituents + Yahoo history
-IOC,Indian Oil Corporation Ltd.,IOC.NS,2026-11-17,145.45,,146.62,143.7,144.03,0.99,188.96,124.92,-23.03,False,False,5893100,,Nifty Indices constituents + Yahoo history
-ASHOKLEY,Ashok Leyland Ltd.,ASHOKLEY.NS,2026-11-17,165.7,,172.8,165.61,167.49,-1.07,215.42,138.03,-23.08,False,False,34022367,,Nifty Indices constituents + Yahoo history
-VTL,Vardhman Textiles Ltd.,VTL.NS,2026-11-17,529.05,,538.5,524.8,528.6,0.09,688.0,391.0,-23.1,False,False,145325,,Nifty Indices constituents + Yahoo history
-GVT&D,GE Vernova T&D India Ltd.,GVT&D.NS,2026-11-17,4329.0,,4390.0,4215.1,4337.0,-0.18,5650.0,2523.2,-23.38,False,False,332583,,Nifty Indices constituents + Yahoo history
-RECLTD,REC Ltd.,RECLTD.NS,2026-11-17,296.95,,300.5,296.7,297.75,-0.27,387.8,281.9,-23.43,False,False,1094747,,Nifty Indices constituents + Yahoo history
-BAJAJHFL,Bajaj Housing Finance Ltd.,BAJAJHFL.NS,2026-11-17,82.49,,82.95,81.45,81.95,0.66,107.95,72.65,-23.58,False,False,1951756,,Nifty Indices constituents + Yahoo history
-SBFC,SBFC Finance Ltd.,SBFC.NS,2026-11-17,87.25,,88.5,87.22,89.83,-2.87,114.28,77.25,-23.65,False,False,753579,,Nifty Indices constituents + Yahoo history
-SUNDARMFIN,Sundaram Finance Ltd.,SUNDARMFIN.NS,2026-11-17,4300.0,,4383.9,4293.5,4339.1,-0.9,5642.0,3816.0,-23.79,False,False,14679,,Nifty Indices constituents + Yahoo history
-EXIDEIND,Exide Industries Ltd.,EXIDEIND.NS,2026-11-17,378.05,,389.6,366.0,365.5,3.43,496.4,287.0,-23.84,False,False,4571025,,Nifty Indices constituents + Yahoo history
-HCLTECH,HCL Technologies Ltd.,HCLTECH.NS,2026-11-17,1355.7,,1381.3,1355.0,1384.6,-2.09,1780.1,1030.0,-23.84,False,False,1772997,,Nifty Indices constituents + Yahoo history
-BRIGADE,Brigade Enterprises Ltd.,BRIGADE.NS,2026-11-17,559.5,,572.0,536.05,549.15,1.88,735.0,450.75,-23.88,False,False,480376,,Nifty Indices constituents + Yahoo history
-MFSL,Max Financial Services Ltd.,MFSL.NS,2026-11-17,1437.0,,1448.4,1413.4,1401.1,2.56,1892.5,1172.6,-24.07,False,False,303485,,Nifty Indices constituents + Yahoo history
-TRIDENT,Trident Ltd.,TRIDENT.NS,2026-11-17,23.45,,23.8,23.21,23.35,0.43,30.94,20.15,-24.21,False,False,3278222,,Nifty Indices constituents + Yahoo history
-GODREJIND,Godrej Industries Ltd.,GODREJIND.NS,2026-11-17,1091.05,,1128.0,1075.45,1091.0,0.0,1443.0,744.2,-24.39,False,False,409866,,Nifty Indices constituents + Yahoo history
-ABSLAMC,Aditya Birla Sun Life AMC Ltd.,ABSLAMC.NS,2026-11-17,925.95,,932.0,894.0,895.75,3.37,1224.9,708.0,-24.41,False,False,146719,,Nifty Indices constituents + Yahoo history
-HDFCLIFE,HDFC Life Insurance Company Ltd.,HDFCLIFE.NS,2026-11-17,595.65,,604.75,595.65,604.5,-1.46,788.5,508.05,-24.46,False,False,1031424,,Nifty Indices constituents + Yahoo history
-ITI,ITI Ltd.,ITI.NS,2026-11-17,251.41,,255.58,251.0,255.32,-1.53,332.95,210.76,-24.49,False,False,213445,,Nifty Indices constituents + Yahoo history
-ZYDUSWELL,Zydus Wellness Ltd.,ZYDUSWELL.NS,2026-11-17,461.4,,468.25,461.4,466.15,-1.02,611.85,367.55,-24.59,False,False,53108,,Nifty Indices constituents + Yahoo history
-FORCEMOT,Force Motors Ltd.,FORCEMOT.NS,2026-11-17,19935.0,,20070.0,19280.0,19389.0,2.82,26450.0,16184.0,-24.63,False,False,47589,,Nifty Indices constituents + Yahoo history
-AADHARHFC,Aadhar Housing Finance Ltd.,AADHARHFC.NS,2026-11-17,424.05,,429.0,420.95,432.5,-1.95,563.0,416.05,-24.68,False,False,199964,,Nifty Indices constituents + Yahoo history
-CARBORUNIV,Carborundum Universal Ltd.,CARBORUNIV.NS,2026-11-17,1029.7,,1065.0,1028.7,1062.3,-3.07,1368.9,735.2,-24.78,False,False,61482,,Nifty Indices constituents + Yahoo history
-HBLENGINE,HBL Engineering Ltd.,HBLENGINE.NS,2026-11-17,791.3,,816.7,772.0,799.55,-1.03,1055.0,613.0,-25.0,False,False,973736,,Nifty Indices constituents + Yahoo history
-BRITANNIA,Britannia Industries Ltd.,BRITANNIA.NS,2026-11-17,4701.8,,4792.3,4701.5,4750.5,-1.03,6271.0,4499.9,-25.02,False,False,92539,,Nifty Indices constituents + Yahoo history
-HINDZINC,Hindustan Zinc Ltd.,HINDZINC.NS,2026-11-17,548.5,,555.0,540.15,550.2,-0.31,733.0,453.5,-25.17,False,False,1766609,,Nifty Indices constituents + Yahoo history
-JSWDULUX,JSW Dulux Ltd.,JSWDULUX.NS,2026-11-17,280.15,,285.7,280.0,282.2,-0.73,374.5,257.15,-25.19,False,False,129497,,Nifty Indices constituents + Yahoo history
-TITAGARH,Titagarh Rail Systems Ltd.,TITAGARH.NS,2026-11-17,725.95,,744.45,725.6,732.15,-0.85,971.0,568.7,-25.24,False,False,335196,,Nifty Indices constituents + Yahoo history
-IRB,IRB Infrastructure Developers Ltd.,IRB.NS,2026-11-17,17.9,,18.35,17.89,18.12,-1.21,23.95,15.68,-25.26,False,False,4449497,,Nifty Indices constituents + Yahoo history
-CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,CHAMBLFERT.NS,2026-11-17,371.8,,375.0,370.0,371.5,0.08,497.8,350.0,-25.31,False,False,151891,,Nifty Indices constituents + Yahoo history
-BHARATFORG,Bharat Forge Ltd.,BHARATFORG.NS,2026-11-17,1713.5,,1732.8,1713.3,1715.0,-0.09,2295.0,1347.5,-25.34,False,False,1006838,,Nifty Indices constituents + Yahoo history
-FACT,Fertilisers and Chemicals Travancore Ltd.,FACT.NS,2026-11-17,789.1,,801.0,788.1,808.2,-2.36,1058.6,652.1,-25.46,False,False,60396,,Nifty Indices constituents + Yahoo history
-NSLNISP,NMDC Steel Ltd.,NSLNISP.NS,2026-11-17,40.06,,40.38,39.55,39.95,0.28,53.75,33.01,-25.47,False,False,1436830,,Nifty Indices constituents + Yahoo history
-DMART,Avenue Supermarts Ltd.,DMART.NS,2026-11-17,3457.3,,3474.8,3441.0,3457.6,-0.01,4644.0,3102.3,-25.55,False,False,64226,,Nifty Indices constituents + Yahoo history
-TATACHEM,Tata Chemicals Ltd.,TATACHEM.NS,2026-11-17,636.3,,668.9,635.2,612.1,3.95,854.85,570.05,-25.57,False,False,10538431,,Nifty Indices constituents + Yahoo history
-EMAMILTD,Emami Ltd.,EMAMILTD.NS,2026-11-17,409.65,,417.5,407.15,413.6,-0.96,550.9,357.0,-25.64,False,False,333090,,Nifty Indices constituents + Yahoo history
-COLPAL,Colgate Palmolive (India) Ltd.,COLPAL.NS,2026-11-17,1710.7,,1731.8,1701.3,1703.8,0.4,2301.6,1563.9,-25.67,False,False,67648,,Nifty Indices constituents + Yahoo history
-EMMVEE,Emmvee Photovoltaic Power Ltd.,EMMVEE.NS,2026-11-17,275.87,,278.2,271.4,274.84,0.37,371.55,171.51,-25.75,False,False,1619569,,Nifty Indices constituents + Yahoo history
-NAVA,Nava Ltd.,NAVA.NS,2026-11-17,548.3,,560.8,548.2,574.75,-4.6,739.4,456.0,-25.85,False,False,78921,,Nifty Indices constituents + Yahoo history
-TATAINVEST,Tata Investment Corporation Ltd.,TATAINVEST.NS,2026-11-17,588.8,,618.35,588.5,576.45,2.14,795.0,538.85,-25.94,False,False,1689725,,Nifty Indices constituents + Yahoo history
-MSUMI,Motherson Sumi Wiring India Ltd.,MSUMI.NS,2026-11-17,39.66,,39.71,38.92,39.11,1.41,53.59,32.7,-25.99,False,False,4701349,,Nifty Indices constituents + Yahoo history
-JUBLINGREA,Jubilant Ingrevia Ltd.,JUBLINGREA.NS,2026-11-17,587.75,,593.45,587.75,591.65,-0.66,795.0,537.3,-26.07,False,False,89997,,Nifty Indices constituents + Yahoo history
-TATAPOWER,Tata Power Co. Ltd.,TATAPOWER.NS,2026-11-17,343.6,,347.85,343.25,345.5,-0.55,464.9,333.2,-26.09,False,False,4066707,,Nifty Indices constituents + Yahoo history
-TATATECH,Tata Technologies Ltd.,TATATECH.NS,2026-11-17,658.5,,668.7,657.35,664.6,-0.92,891.0,507.4,-26.09,False,False,176800,,Nifty Indices constituents + Yahoo history
-PREMIERENE,Premier Energies Ltd.,PREMIERENE.NS,2026-11-17,837.6,,842.75,813.1,822.5,1.84,1134.0,666.9,-26.14,False,False,1210018,,Nifty Indices constituents + Yahoo history
-APARINDS,Apar Industries Ltd.,APARINDS.NS,2026-11-17,14230.0,,14688.0,14222.0,14831.0,-4.05,19265.0,6801.0,-26.14,False,False,94850,,Nifty Indices constituents + Yahoo history
-HONAUT,Honeywell Automation India Ltd.,HONAUT.NS,2026-11-17,30640.0,,30740.0,30100.0,30495.0,0.48,41495.0,26220.0,-26.16,False,False,1472,,Nifty Indices constituents + Yahoo history
-DOMS,DOMS Industries Ltd.,DOMS.NS,2026-11-17,2033.1,,2034.0,2009.2,2014.1,0.94,2755.0,1775.0,-26.2,False,False,6059,,Nifty Indices constituents + Yahoo history
-RITES,RITES Ltd.,RITES.NS,2026-11-17,191.61,,194.42,190.2,191.75,-0.07,259.7,175.0,-26.22,False,False,345256,,Nifty Indices constituents + Yahoo history
-3MINDIA,3M India Ltd.,3MINDIA.NS,2026-11-17,27980.0,,28395.0,27910.0,28380.0,-1.41,38030.0,26410.0,-26.43,False,False,7028,,Nifty Indices constituents + Yahoo history
-PCBL,PCBL Chemical Ltd.,PCBL.NS,2026-11-17,274.85,,279.2,273.75,277.3,-0.88,374.0,226.5,-26.51,False,False,313375,,Nifty Indices constituents + Yahoo history
-BLUEDART,Blue Dart Express Ltd.,BLUEDART.NS,2026-11-17,4483.2,,4545.0,4442.5,4468.1,0.34,6108.5,4141.0,-26.61,False,False,8409,,Nifty Indices constituents + Yahoo history
-ARE&M,Amara Raja Energy & Mobility Ltd.,ARE&M.NS,2026-11-17,743.0,,755.85,731.4,738.8,0.57,1017.3,670.0,-26.96,False,False,223827,,Nifty Indices constituents + Yahoo history
-LEMONTREE,Lemon Tree Hotels Ltd.,LEMONTREE.NS,2026-11-17,122.62,,125.6,121.92,124.18,-1.26,167.87,99.61,-26.96,False,False,3961095,,Nifty Indices constituents + Yahoo history
-TEGA,Tega Industries Ltd.,TEGA.NS,2026-11-17,1604.0,,1625.0,1601.6,1605.0,-0.06,2198.0,1473.0,-27.02,False,False,102096,,Nifty Indices constituents + Yahoo history
-TRENT,Trent Ltd.,TRENT.NS,2026-11-17,3221.3,,3262.0,3197.3,3203.7,0.55,4417.8,2183.67,-27.08,False,False,442885,,Nifty Indices constituents + Yahoo history
-MARUTI,Maruti Suzuki India Ltd.,MARUTI.NS,2026-11-17,12662.0,,12815.0,12600.0,12571.0,0.72,17370.0,10985.0,-27.1,False,False,231167,,Nifty Indices constituents + Yahoo history
-PFIZER,Pfizer Ltd.,PFIZER.NS,2026-11-17,3831.7,,3872.9,3804.5,3847.4,-0.41,5257.0,3589.0,-27.11,False,False,9528,,Nifty Indices constituents + Yahoo history
-ONGC,Oil & Natural Gas Corporation Ltd.,ONGC.NS,2026-11-17,224.07,,226.35,224.0,226.99,-1.29,307.5,218.53,-27.13,False,False,5540189,,Nifty Indices constituents + Yahoo history
-CLEAN,Clean Science and Technology Ltd.,CLEAN.NS,2026-11-17,700.6,,715.65,686.0,724.0,-3.23,963.0,645.05,-27.25,False,False,96947,,Nifty Indices constituents + Yahoo history
-COHANCE,Cohance Lifesciences Ltd.,COHANCE.NS,2026-11-17,453.1,,458.4,452.4,457.6,-0.98,624.0,266.7,-27.39,False,False,123732,,Nifty Indices constituents + Yahoo history
-PFOCUS,Prime Focus Ltd.,PFOCUS.NS,2026-11-17,266.15,,269.9,264.0,267.6,-0.54,367.0,165.0,-27.48,False,False,2420019,,Nifty Indices constituents + Yahoo history
-VOLTAS,Voltas Ltd.,VOLTAS.NS,2026-11-17,1143.7,,1176.0,1142.6,1133.1,0.94,1582.5,930.5,-27.73,False,False,410552,,Nifty Indices constituents + Yahoo history
-TCS,Tata Consultancy Services Ltd.,TCS.NS,2026-11-17,2415.9,,2448.0,2384.0,2405.0,0.45,3350.0,1976.8,-27.88,False,False,1697297,,Nifty Indices constituents + Yahoo history
-UTIAMC,UTI Asset Management Company Ltd.,UTIAMC.NS,2026-11-17,850.85,,859.8,830.65,842.2,1.03,1180.0,781.8,-27.89,False,False,74040,,Nifty Indices constituents + Yahoo history
-NCC,NCC Ltd.,NCC.NS,2026-11-17,133.78,,135.95,131.6,134.58,-0.59,185.74,113.5,-27.97,False,False,1058148,,Nifty Indices constituents + Yahoo history
-SARDAEN,Sarda Energy and Minerals Ltd.,SARDAEN.NS,2026-11-17,449.25,,450.45,440.15,444.3,1.11,624.0,424.05,-28.0,False,False,228297,,Nifty Indices constituents + Yahoo history
-NATIONALUM,National Aluminium Co. Ltd.,NATIONALUM.NS,2026-11-17,320.5,,323.0,313.1,318.95,0.49,445.15,249.4,-28.0,False,False,1990976,,Nifty Indices constituents + Yahoo history
-HDBFS,HDB Financial Services Ltd.,HDBFS.NS,2026-11-17,572.5,,575.85,564.6,566.0,1.15,796.7,494.15,-28.14,False,False,172144,,Nifty Indices constituents + Yahoo history
-IEX,Indian Energy Exchange Ltd.,IEX.NS,2026-11-17,115.1,,117.75,114.76,115.54,-0.38,160.27,99.5,-28.18,False,False,4242648,,Nifty Indices constituents + Yahoo history
-ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,ZFCVINDIA.NS,2026-11-17,2184.0,,2212.0,2155.1,2207.5,-1.06,3044.0,2053.0,-28.25,False,False,34647,,Nifty Indices constituents + Yahoo history
-DABUR,Dabur India Ltd.,DABUR.NS,2026-11-17,383.0,,389.85,379.95,381.9,0.29,534.0,354.3,-28.28,False,False,931324,,Nifty Indices constituents + Yahoo history
-JIOFIN,Jio Financial Services Ltd.,JIOFIN.NS,2026-11-17,226.29,,228.7,225.36,226.0,0.13,316.85,202.51,-28.58,False,False,6124086,,Nifty Indices constituents + Yahoo history
-CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,CHOLAHLDNG.NS,2026-11-17,1431.1,,1441.4,1418.1,1460.0,-1.98,2008.0,1236.7,-28.73,False,False,53883,,Nifty Indices constituents + Yahoo history
-NMDC,NMDC Ltd.,NMDC.NS,2026-11-17,69.41,,69.66,67.9,68.92,0.71,97.49,65.15,-28.8,False,False,8434868,,Nifty Indices constituents + Yahoo history
-ITC,ITC Ltd.,ITC.NS,2026-11-17,292.8,,296.95,292.5,295.1,-0.78,412.0,252.8,-28.93,False,False,10553448,,Nifty Indices constituents + Yahoo history
-ANANTRAJ,Anant Raj Ltd.,ANANTRAJ.NS,2026-11-17,461.1,,470.1,456.0,462.8,-0.37,649.0,403.0,-28.95,False,False,807557,,Nifty Indices constituents + Yahoo history
-JMFINANCIL,JM Financial Ltd.,JMFINANCIL.NS,2026-11-17,113.37,,115.3,113.27,114.56,-1.04,159.73,103.0,-29.02,False,False,894256,,Nifty Indices constituents + Yahoo history
-SIGNATURE,Signatureglobal (India) Ltd.,SIGNATURE.NS,2026-11-17,817.45,,824.6,765.15,766.6,6.63,1153.9,695.0,-29.16,False,False,823678,,Nifty Indices constituents + Yahoo history
-PAGEIND,Page Industries Ltd.,PAGEIND.NS,2026-11-17,30955.0,,31825.0,30935.0,31465.0,-1.62,43855.0,29805.0,-29.42,False,False,28104,,Nifty Indices constituents + Yahoo history
-CIEINDIA,CIE Automotive India Ltd.,CIEINDIA.NS,2026-11-17,370.05,,371.7,361.55,368.4,0.45,526.0,341.0,-29.65,False,False,67987,,Nifty Indices constituents + Yahoo history
-ASTRAL,Astral Ltd.,ASTRAL.NS,2026-11-17,1242.8,,1267.5,1241.9,1257.0,-1.13,1768.7,1215.5,-29.73,False,False,217710,,Nifty Indices constituents + Yahoo history
-SCI,Shipping Corporation of India Ltd.,SCI.NS,2026-11-17,258.89,,263.97,258.83,265.0,-2.31,368.75,195.55,-29.79,False,False,1004730,,Nifty Indices constituents + Yahoo history
-ATUL,Atul Ltd.,ATUL.NS,2026-11-17,5035.0,,5149.0,5031.0,5166.0,-2.54,7180.0,4995.0,-29.87,False,False,18547,,Nifty Indices constituents + Yahoo history
-M&MFIN,Mahindra & Mahindra Financial Services Ltd.,M&MFIN.NS,2026-11-17,291.0,,296.45,286.7,286.85,1.45,415.0,253.4,-29.88,False,False,2201826,,Nifty Indices constituents + Yahoo history
-WIPRO,Wipro Ltd.,WIPRO.NS,2026-11-17,190.49,,193.32,190.05,194.6,-2.11,273.1,156.79,-30.25,False,False,9022492,,Nifty Indices constituents + Yahoo history
-GODREJCP,Godrej Consumer Products Ltd.,GODREJCP.NS,2026-11-17,887.2,,907.15,887.0,870.75,1.89,1273.9,777.2,-30.36,False,False,498132,,Nifty Indices constituents + Yahoo history
-NETWEB,Netweb Technologies India Ltd.,NETWEB.NS,2026-11-17,4037.2,,4135.0,3990.0,4059.0,-0.54,5813.0,2920.0,-30.55,False,False,484472,,Nifty Indices constituents + Yahoo history
-AMBER,Amber Enterprises India Ltd.,AMBER.NS,2026-11-17,6229.5,,6330.0,6222.0,6252.0,-0.36,8974.0,5400.5,-30.58,False,False,148950,,Nifty Indices constituents + Yahoo history
-ZENSARTECH,Zensar Technolgies Ltd.,ZENSARTECH.NS,2026-11-17,526.15,,539.35,526.1,539.1,-2.4,758.9,416.15,-30.67,False,False,197174,,Nifty Indices constituents + Yahoo history
-MMTC,MMTC Ltd.,MMTC.NS,2026-11-17,54.27,,54.68,53.5,53.91,0.67,78.35,49.41,-30.73,False,False,711878,,Nifty Indices constituents + Yahoo history
-SAMMAANCAP,Sammaan Capital Ltd.,SAMMAANCAP.NS,2026-11-17,133.15,,137.36,133.0,137.36,-3.06,192.34,111.42,-30.77,False,False,3292680,,Nifty Indices constituents + Yahoo history
-CONCORDBIO,Concord Biotech Ltd.,CONCORDBIO.NS,2026-11-17,558.7,,584.4,558.6,581.0,-3.84,807.5,493.5,-30.81,False,False,416274,,Nifty Indices constituents + Yahoo history
-JUBLFOOD,Jubilant Foodworks Ltd.,JUBLFOOD.NS,2026-11-17,427.45,,439.8,427.0,431.05,-0.84,619.0,397.8,-30.95,False,False,591731,,Nifty Indices constituents + Yahoo history
-J&KBANK,Jammu & Kashmir Bank Ltd.,J&KBANK.NS,2026-11-17,138.88,,141.08,136.98,137.32,1.14,201.75,97.35,-31.16,False,False,1647015,,Nifty Indices constituents + Yahoo history
-NTPCGREEN,NTPC Green Energy Ltd.,NTPCGREEN.NS,2026-11-17,82.5,,83.1,82.05,82.33,0.21,119.95,79.0,-31.22,False,False,701101,,Nifty Indices constituents + Yahoo history
-YESBANK,Yes Bank Ltd.,YESBANK.NS,2026-11-17,17.72,,18.14,17.7,18.02,-1.66,25.78,15.1,-31.26,False,False,82922144,,Nifty Indices constituents + Yahoo history
-WAAREEENER,Waaree Energies Ltd.,WAAREEENER.NS,2026-11-17,2441.0,,2474.9,2411.7,2441.0,0.0,3557.0,2161.5,-31.37,False,False,236065,,Nifty Indices constituents + Yahoo history
-UPL,UPL Ltd.,UPL.NS,2026-11-17,556.35,,568.5,556.3,563.45,-1.26,812.2,476.45,-31.5,False,False,1890049,,Nifty Indices constituents + Yahoo history
-RHIM,RHI MAGNESITA INDIA LTD.,RHIM.NS,2026-11-17,342.2,,342.7,326.2,330.15,3.65,499.6,323.05,-31.51,False,False,710931,,Nifty Indices constituents + Yahoo history
-HSCL,Himadri Speciality Chemical Ltd.,HSCL.NS,2026-11-17,561.15,,567.75,548.0,559.7,0.26,819.5,418.5,-31.53,False,False,782595,,Nifty Indices constituents + Yahoo history
-TECHNOE,Techno Electric & Engineering Company Ltd.,TECHNOE.NS,2026-11-17,944.5,,955.85,942.3,955.15,-1.12,1383.9,802.0,-31.75,False,False,70246,,Nifty Indices constituents + Yahoo history
-ABREL,Aditya Birla Real Estate Ltd.,ABREL.NS,2026-11-17,1253.3,,1275.0,1202.6,1203.0,4.18,1839.0,995.0,-31.85,False,False,239778,,Nifty Indices constituents + Yahoo history
-RAMCOCEM,The Ramco Cements Ltd.,RAMCOCEM.NS,2026-11-17,825.0,,831.0,811.6,819.7,0.65,1214.5,711.3,-32.07,False,False,24103,,Nifty Indices constituents + Yahoo history
-IGL,Indraprastha Gas Ltd.,IGL.NS,2026-11-17,146.62,,148.17,146.01,147.4,-0.53,216.5,125.63,-32.28,False,False,595161,,Nifty Indices constituents + Yahoo history
-TTML,Tata Teleservices (Maharashtra) Ltd.,TTML.NS,2026-11-17,37.06,,37.82,36.9,37.38,-0.86,54.78,31.22,-32.35,False,False,2521984,,Nifty Indices constituents + Yahoo history
-DCMSHRIRAM,DCM Shriram Ltd.,DCMSHRIRAM.NS,2026-11-17,894.6,,898.85,891.2,896.95,-0.26,1325.0,866.6,-32.48,False,False,5954,,Nifty Indices constituents + Yahoo history
-CROMPTON,Crompton Greaves Consumer Electricals Ltd.,CROMPTON.NS,2026-11-17,209.61,,214.71,209.53,211.38,-0.84,310.5,191.55,-32.49,False,False,1502927,,Nifty Indices constituents + Yahoo history
-AMBUJACEM,Ambuja Cements Ltd.,AMBUJACEM.NS,2026-11-17,386.6,,390.45,380.45,382.0,1.2,573.1,341.0,-32.54,False,False,1802574,,Nifty Indices constituents + Yahoo history
-PFC,Power Finance Corporation Ltd.,PFC.NS,2026-11-17,328.2,,330.65,327.1,332.8,-1.38,486.5,310.3,-32.54,False,False,3494481,,Nifty Indices constituents + Yahoo history
-CREDITACC,CreditAccess Grameen Ltd.,CREDITACC.NS,2026-11-17,1102.0,,1114.7,1095.0,1102.6,-0.05,1634.0,993.9,-32.56,False,False,63132,,Nifty Indices constituents + Yahoo history
-NATCOPHARM,NATCO Pharma Ltd.,NATCOPHARM.NS,2026-11-17,827.25,,842.95,822.0,828.65,-0.17,1226.8,773.6,-32.57,False,False,519798,,Nifty Indices constituents + Yahoo history
-PATANJALI,Patanjali Foods Ltd.,PATANJALI.NS,2026-11-17,401.0,,405.85,399.0,400.7,0.07,594.95,328.2,-32.6,False,False,615216,,Nifty Indices constituents + Yahoo history
-TENNIND,Tenneco Clean Air India Ltd.,TENNIND.NS,2026-11-17,442.6,,450.75,435.2,432.55,2.32,657.0,419.1,-32.63,False,False,664494,,Nifty Indices constituents + Yahoo history
-OLAELEC,Ola Electric Mobility Ltd.,OLAELEC.NS,2026-11-17,33.03,,34.38,32.94,33.73,-2.08,49.05,22.25,-32.66,False,False,41890043,,Nifty Indices constituents + Yahoo history
-FIVESTAR,Five-Star Business Finance Ltd.,FIVESTAR.NS,2026-11-17,435.55,,442.75,421.0,442.65,-1.6,647.0,338.15,-32.68,False,False,223447,,Nifty Indices constituents + Yahoo history
-DALBHARAT,Dalmia Bharat Ltd.,DALBHARAT.NS,2026-11-17,1520.0,,1548.1,1511.0,1514.9,0.34,2260.0,1319.0,-32.74,False,False,60841,,Nifty Indices constituents + Yahoo history
-GPIL,Godawari Power & Ispat Ltd.,GPIL.NS,2026-11-17,214.39,,223.5,214.25,223.45,-4.05,320.0,189.15,-33.0,False,False,753080,,Nifty Indices constituents + Yahoo history
-MUTHOOTFIN,Muthoot Finance Ltd.,MUTHOOTFIN.NS,2026-11-17,2776.7,,2800.0,2760.5,2777.0,-0.01,4149.5,2305.0,-33.08,False,False,168439,,Nifty Indices constituents + Yahoo history
-GODIGIT,Go Digit General Insurance Ltd.,GODIGIT.NS,2026-11-17,243.55,,246.45,242.3,250.35,-2.72,364.0,231.65,-33.09,False,False,77303,,Nifty Indices constituents + Yahoo history
-BAYERCROP,Bayer Cropscience Ltd.,BAYERCROP.NS,2026-11-17,3382.9,,3419.7,3377.0,3447.0,-1.86,5063.0,3226.1,-33.18,False,False,11573,,Nifty Indices constituents + Yahoo history
-INDIACEM,India Cements Ltd.,INDIACEM.NS,2026-11-17,324.5,,337.0,320.4,348.8,-6.97,485.8,286.5,-33.2,False,False,692155,,Nifty Indices constituents + Yahoo history
-TORNTPOWER,Torrent Power Ltd.,TORNTPOWER.NS,2026-11-17,1217.7,,1233.5,1208.7,1221.0,-0.27,1824.1,1147.5,-33.24,False,False,143935,,Nifty Indices constituents + Yahoo history
-VMM,Vishal Mega Mart Ltd.,VMM.NS,2026-11-17,93.13,,95.87,93.13,94.9,-1.87,139.5,84.16,-33.24,False,False,2261269,,Nifty Indices constituents + Yahoo history
-CUMMINSIND,Cummins India Ltd.,CUMMINSIND.NS,2026-11-17,4065.6,,4199.0,4046.2,4233.0,-3.95,6100.0,3883.1,-33.35,False,False,972063,,Nifty Indices constituents + Yahoo history
-BLS,BLS International Services Ltd.,BLS.NS,2026-11-17,226.7,,228.3,223.03,225.07,0.72,340.4,203.15,-33.4,False,False,234891,,Nifty Indices constituents + Yahoo history
-WHIRLPOOL,Whirlpool of India Ltd.,WHIRLPOOL.NS,2026-11-17,829.1,,843.0,826.0,835.5,-0.77,1245.0,706.0,-33.41,False,False,72059,,Nifty Indices constituents + Yahoo history
-ATGL,Adani Total Gas Ltd.,ATGL.NS,2026-11-17,572.2,,576.75,566.5,575.4,-0.56,859.85,462.8,-33.45,False,False,138359,,Nifty Indices constituents + Yahoo history
-IDBI,IDBI Bank Ltd.,IDBI.NS,2026-11-17,78.77,,80.6,78.76,79.68,-1.14,118.38,61.01,-33.46,False,False,7865121,,Nifty Indices constituents + Yahoo history
-TIINDIA,Tube Investments of India Ltd.,TIINDIA.NS,2026-11-17,2215.2,,2264.0,2215.1,2236.6,-0.96,3335.2,2005.2,-33.58,False,False,75178,,Nifty Indices constituents + Yahoo history
-JBMA,JBM Auto Ltd.,JBMA.NS,2026-11-17,488.8,,494.5,482.55,488.1,0.14,738.5,465.0,-33.81,False,False,72284,,Nifty Indices constituents + Yahoo history
-HUDCO,Housing & Urban Development Corporation Ltd.,HUDCO.NS,2026-11-17,162.46,,165.9,161.3,162.88,-0.26,246.85,141.81,-34.19,False,False,1128268,,Nifty Indices constituents + Yahoo history
-KEI,KEI Industries Ltd.,KEI.NS,2026-11-17,3881.8,,4020.0,3875.3,4040.0,-3.92,5899.0,3666.1,-34.2,False,False,477579,,Nifty Indices constituents + Yahoo history
-UBL,United Breweries Ltd.,UBL.NS,2026-11-17,1193.7,,1204.0,1183.3,1216.0,-1.83,1817.0,1128.6,-34.3,False,False,74507,,Nifty Indices constituents + Yahoo history
-HFCL,HFCL Ltd.,HFCL.NS,2026-11-17,185.44,,194.5,185.44,195.2,-5.0,282.25,59.82,-34.3,False,False,7950178,,Nifty Indices constituents + Yahoo history
-SCHNEIDER,Schneider Electric Infrastructure Ltd.,SCHNEIDER.NS,2026-11-17,1016.7,,1036.0,1015.1,1024.9,-0.8,1548.0,571.85,-34.32,False,False,66583,,Nifty Indices constituents + Yahoo history
-PINELABS,Pine Labs Ltd.,PINELABS.NS,2026-11-17,171.45,,174.24,169.79,169.69,1.04,262.0,134.73,-34.56,False,False,3954694,,Nifty Indices constituents + Yahoo history
-MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,MAZDOCK.NS,2026-11-17,1862.3,,1899.9,1858.6,1873.0,-0.57,2848.0,1687.5,-34.61,False,False,259796,,Nifty Indices constituents + Yahoo history
-INFY,Infosys Ltd.,INFY.NS,2026-11-17,1129.4,,1145.0,1128.2,1145.1,-1.37,1728.0,980.4,-34.64,False,False,3935829,,Nifty Indices constituents + Yahoo history
-AAVAS,Aavas Financiers Ltd.,AAVAS.NS,2026-11-17,1126.7,,1148.7,1112.2,1123.5,0.28,1724.6,1055.3,-34.67,False,False,111742,,Nifty Indices constituents + Yahoo history
-OLECTRA,Olectra Greentech Ltd.,OLECTRA.NS,2026-11-17,1012.25,,1029.7,1008.45,1025.25,-1.27,1556.0,866.6,-34.95,False,False,103916,,Nifty Indices constituents + Yahoo history
-BSOFT,Birlasoft Ltd.,BSOFT.NS,2026-11-17,307.5,,318.85,307.5,314.6,-2.26,474.0,267.05,-35.13,False,False,1189372,,Nifty Indices constituents + Yahoo history
-LTM,LTM Ltd.,LTM.NS,2026-11-17,4115.0,,4234.0,4112.5,4199.7,-2.02,6429.5,3528.0,-36.0,False,False,112042,,Nifty Indices constituents + Yahoo history
-SYNGENE,Syngene International Ltd.,SYNGENE.NS,2026-11-17,434.0,,442.0,433.0,444.3,-2.32,678.95,344.45,-36.08,False,False,270441,,Nifty Indices constituents + Yahoo history
-TMPV,Tata Motors Passenger Vehicles Ltd.,TMPV.NS,2026-11-17,259.9,,268.5,259.4,262.4,-0.95,408.0,259.1,-36.3,False,False,12623790,,Nifty Indices constituents + Yahoo history
-GRSE,Garden Reach Shipbuilders & Engineers Ltd.,GRSE.NS,2026-11-17,2121.1,,2159.0,2110.2,2130.3,-0.43,3339.0,1842.0,-36.47,False,False,142568,,Nifty Indices constituents + Yahoo history
-NIACL,The New India Assurance Company Ltd.,NIACL.NS,2026-11-17,154.02,,156.69,154.0,156.18,-1.38,242.6,116.97,-36.51,False,False,337704,,Nifty Indices constituents + Yahoo history
-BDL,Bharat Dynamics Ltd.,BDL.NS,2026-11-17,1033.5,,1053.4,1029.0,1033.0,0.05,1629.9,974.0,-36.59,False,False,556968,,Nifty Indices constituents + Yahoo history
-BIKAJI,Bikaji Foods International Ltd.,BIKAJI.NS,2026-11-17,486.0,,502.0,482.65,484.15,0.38,768.5,446.1,-36.76,False,False,222214,,Nifty Indices constituents + Yahoo history
-SBICARD,SBI Cards and Payment Services Ltd.,SBICARD.NS,2026-11-17,572.25,,578.5,570.1,578.3,-1.05,906.4,519.05,-36.87,False,False,275324,,Nifty Indices constituents + Yahoo history
-SONATSOFTW,Sonata Software Ltd.,SONATSOFTW.NS,2026-11-17,237.29,,242.47,237.29,241.11,-1.58,376.9,207.15,-37.04,False,False,241084,,Nifty Indices constituents + Yahoo history
-IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,IRCTC.NS,2026-11-17,450.2,,455.65,449.0,451.65,-0.32,716.45,435.0,-37.16,False,False,401424,,Nifty Indices constituents + Yahoo history
-RAILTEL,Railtel Corporation Of India Ltd.,RAILTEL.NS,2026-11-17,245.68,,252.88,244.9,246.31,-0.26,391.0,220.06,-37.17,False,False,382340,,Nifty Indices constituents + Yahoo history
-SJVN,SJVN Ltd.,SJVN.NS,2026-11-17,55.76,,56.95,55.75,56.58,-1.45,88.8,46.08,-37.21,False,False,1523253,,Nifty Indices constituents + Yahoo history
-INDIAMART,Indiamart Intermesh Ltd.,INDIAMART.NS,2026-11-17,1557.8,,1589.9,1555.3,1608.4,-3.15,2482.1,1465.4,-37.24,False,False,49500,,Nifty Indices constituents + Yahoo history
-NBCC,NBCC (India) Ltd.,NBCC.NS,2026-11-17,78.78,,79.88,77.67,78.22,0.72,125.85,67.02,-37.4,False,False,3731927,,Nifty Indices constituents + Yahoo history
-TEJASNET,Tejas Networks Ltd.,TEJASNET.NS,2026-11-17,403.25,,409.9,400.4,406.35,-0.76,644.75,294.0,-37.46,False,False,360828,,Nifty Indices constituents + Yahoo history
-AIAENG,AIA Engineering Ltd.,AIAENG.NS,2026-11-17,3231.2,,3262.0,3196.2,3186.0,1.42,5180.0,3082.7,-37.62,False,False,65282,,Nifty Indices constituents + Yahoo history
-ACC,ACC Ltd.,ACC.NS,2026-11-17,1238.7,,1250.0,1213.5,1220.1,1.52,1987.0,1115.0,-37.66,False,False,101637,,Nifty Indices constituents + Yahoo history
-COCHINSHIP,Cochin Shipyard Ltd.,COCHINSHIP.NS,2026-11-17,1148.0,,1173.0,1146.6,1158.0,-0.86,1842.8,1101.2,-37.7,False,False,690811,,Nifty Indices constituents + Yahoo history
-TATAELXSI,Tata Elxsi Ltd.,TATAELXSI.NS,2026-11-17,3706.3,,3770.0,3706.3,3750.0,-1.17,5950.0,2996.0,-37.71,False,False,67398,,Nifty Indices constituents + Yahoo history
-ECLERX,eClerx Services Ltd.,ECLERX.NS,2026-11-17,1547.6,,1572.9,1547.0,1567.9,-1.29,2497.5,1320.0,-38.03,False,False,28771,,Nifty Indices constituents + Yahoo history
-BATAINDIA,Bata India Ltd.,BATAINDIA.NS,2026-11-17,634.7,,641.2,631.0,632.25,0.39,1029.9,599.6,-38.37,False,False,40815,,Nifty Indices constituents + Yahoo history
-CESC,CESC Ltd.,CESC.NS,2026-11-17,125.81,,127.44,125.8,128.48,-2.08,204.5,122.15,-38.48,False,False,883444,,Nifty Indices constituents + Yahoo history
-RRKABEL,R R Kabel Ltd.,RRKABEL.NS,2026-11-17,1834.2,,1903.0,1832.7,1883.9,-2.64,2983.8,1281.3,-38.53,False,False,318850,,Nifty Indices constituents + Yahoo history
-BBTC,Bombay Burmah Trading Corporation Ltd.,BBTC.NS,2026-11-17,1256.8,,1264.9,1241.1,1262.3,-0.44,2048.0,1107.5,-38.63,False,False,13447,,Nifty Indices constituents + Yahoo history
-SUZLON,Suzlon Energy Ltd.,SUZLON.NS,2026-11-17,37.05,,37.73,37.01,37.43,-1.02,60.45,33.15,-38.71,False,False,27782628,,Nifty Indices constituents + Yahoo history
-GMDCLTD,Gujarat Mineral Development Corporation Ltd.,GMDCLTD.NS,2026-11-17,471.5,,481.65,471.5,477.15,-1.18,771.9,394.55,-38.92,False,False,442822,,Nifty Indices constituents + Yahoo history
-APTUS,Aptus Value Housing Finance India Ltd.,APTUS.NS,2026-11-17,188.51,,194.38,173.11,175.93,7.15,309.0,171.32,-38.99,False,False,25219920,,Nifty Indices constituents + Yahoo history
-KIRLOSENG,Kirloskar Oil Eng Ltd.,KIRLOSENG.NS,2026-11-17,1656.4,,1703.4,1654.7,1692.3,-2.12,2720.0,1058.5,-39.1,False,False,242961,,Nifty Indices constituents + Yahoo history
-TRITURBINE,Triveni Turbine Ltd.,TRITURBINE.NS,2026-11-17,477.0,,488.45,476.1,482.8,-1.2,787.6,428.35,-39.44,False,False,154978,,Nifty Indices constituents + Yahoo history
-EIDPARRY,E.I.D. Parry (India) Ltd.,EIDPARRY.NS,2026-11-17,650.85,,656.3,642.2,654.9,-0.62,1079.9,594.35,-39.73,False,False,208239,,Nifty Indices constituents + Yahoo history
-ESCORTS,Escorts Kubota Ltd.,ESCORTS.NS,2026-11-17,2400.4,,2418.9,2385.8,2401.8,-0.06,3987.8,2376.4,-39.81,False,False,58153,,Nifty Indices constituents + Yahoo history
-HEXT,Hexaware Technologies Ltd.,HEXT.NS,2026-11-17,485.9,,489.5,481.75,480.3,1.17,807.75,400.2,-39.85,False,False,80198,,Nifty Indices constituents + Yahoo history
-ZEEL,Zee Entertainment Enterprises Ltd.,ZEEL.NS,2026-11-17,71.18,,73.0,70.66,71.66,-0.67,118.35,60.6,-39.86,False,False,10706979,,Nifty Indices constituents + Yahoo history
-NLCINDIA,NLC India Ltd.,NLCINDIA.NS,2026-11-17,232.65,,236.8,232.55,235.99,-1.42,387.8,222.3,-40.01,False,False,452237,,Nifty Indices constituents + Yahoo history
-GODFRYPHLP,Godfrey Phillips India Ltd.,GODFRYPHLP.NS,2026-11-17,1794.6,,1831.3,1791.0,1807.0,-0.69,2995.0,1641.2,-40.08,False,False,93292,,Nifty Indices constituents + Yahoo history
-IRFC,Indian Railway Finance Corporation Ltd.,IRFC.NS,2026-11-17,82.02,,83.95,81.49,82.11,-0.11,137.17,73.05,-40.21,False,False,9816293,,Nifty Indices constituents + Yahoo history
-SUMICHEM,Sumitomo Chemical India Ltd.,SUMICHEM.NS,2026-11-17,342.05,,347.0,340.6,346.6,-1.31,572.05,310.85,-40.21,False,False,90962,,Nifty Indices constituents + Yahoo history
-JKTYRE,JK Tyre & Industries Ltd.,JKTYRE.NS,2026-11-17,363.95,,372.9,360.45,363.5,0.12,611.9,296.75,-40.52,False,False,575925,,Nifty Indices constituents + Yahoo history
-AWL,AWL Agri Business Ltd.,AWL.NS,2026-11-17,165.25,,167.9,164.81,165.21,0.02,282.9,159.65,-41.59,False,False,788823,,Nifty Indices constituents + Yahoo history
-IRCON,IRCON International Ltd.,IRCON.NS,2026-11-17,108.6,,111.47,107.38,109.08,-0.44,186.44,95.76,-41.75,False,False,1589261,,Nifty Indices constituents + Yahoo history
-IFCI,IFCI Ltd.,IFCI.NS,2026-11-17,61.55,,62.92,60.9,62.21,-1.06,107.5,46.23,-42.74,False,False,6468699,,Nifty Indices constituents + Yahoo history
-HINDCOPPER,Hindustan Copper Ltd.,HINDCOPPER.NS,2026-11-17,431.0,,439.05,425.3,430.55,0.1,760.05,308.5,-43.29,False,False,2691915,,Nifty Indices constituents + Yahoo history
-JWL,Jupiter Wagons Ltd.,JWL.NS,2026-11-17,202.84,,208.31,200.49,203.52,-0.33,358.25,169.08,-43.38,False,False,697940,,Nifty Indices constituents + Yahoo history
-GALLANTT,Gallantt Ispat Ltd.,GALLANTT.NS,2026-11-17,533.65,,544.4,532.8,543.1,-1.74,948.0,496.25,-43.71,False,False,314712,,Nifty Indices constituents + Yahoo history
-JPPOWER,Jaiprakash Power Ventures Ltd.,JPPOWER.NS,2026-11-17,13.68,,13.86,13.66,13.81,-0.94,24.5,12.5,-44.16,False,False,13565041,,Nifty Indices constituents + Yahoo history
-ABLBL,Aditya Birla Lifestyle Brands Ltd.,ABLBL.NS,2026-11-17,76.85,,78.4,76.7,78.26,-1.8,142.35,69.2,-46.01,False,False,274058,,Nifty Indices constituents + Yahoo history
-POLICYBZR,PB Fintech Ltd.,POLICYBZR.NS,2026-11-17,1051.6,,1094.9,1050.7,1081.2,-2.74,1964.2,916.0,-46.46,False,False,1471559,,Nifty Indices constituents + Yahoo history
-AFCONS,Afcons Infrastructure Ltd.,AFCONS.NS,2026-11-17,219.62,,232.32,219.37,215.63,1.85,415.4,203.6,-47.13,False,False,4388056,,Nifty Indices constituents + Yahoo history
-FIRSTCRY,Brainbees Solutions Ltd.,FIRSTCRY.NS,2026-11-17,177.32,,179.4,156.6,160.4,10.55,341.4,156.4,-48.06,False,False,74873845,,Nifty Indices constituents + Yahoo history
-THERMAX,Thermax Ltd.,THERMAX.NS,2026-11-17,2728.9,,2764.0,2727.0,2776.2,-1.7,5277.8,2666.6,-48.29,False,False,68306,,Nifty Indices constituents + Yahoo history
-RVNL,Rail Vikas Nigam Ltd.,RVNL.NS,2026-11-17,193.96,,199.69,192.31,194.36,-0.21,400.7,177.86,-51.59,False,False,4680262,,Nifty Indices constituents + Yahoo history
-JAINREC,Jain Resource Recycling Ltd.,JAINREC.NS,2026-11-17,287.5,,292.0,285.25,289.5,-0.69,593.95,264.3,-51.6,False,False,215506,,Nifty Indices constituents + Yahoo history
-MAPMYINDIA,C.E. Info Systems Ltd.,MAPMYINDIA.NS,2026-11-17,866.35,,887.45,857.8,876.05,-1.11,1810.0,790.05,-52.14,False,False,59804,,Nifty Indices constituents + Yahoo history
-ABFRL,Aditya Birla Fashion and Retail Ltd.,ABFRL.NS,2026-11-17,37.75,,38.47,37.67,39.29,-3.92,79.5,37.67,-52.52,False,False,2129799,,Nifty Indices constituents + Yahoo history
-PIIND,PI Industries Ltd.,PIIND.NS,2026-11-17,1671.0,,1696.0,1670.5,1680.0,-0.54,3582.0,1670.5,-53.35,False,False,284280,,Nifty Indices constituents + Yahoo history
-SWANCORP,Swan Corp Ltd.,SWANCORP.NS,2026-11-17,228.0,,232.0,227.3,232.49,-1.93,493.6,221.85,-53.81,False,False,128264,,Nifty Indices constituents + Yahoo history
-INTELLECT,Intellect Design Arena Ltd.,INTELLECT.NS,2026-11-17,540.9,,546.55,529.7,536.55,0.81,1172.4,478.0,-53.86,False,False,349701,,Nifty Indices constituents + Yahoo history
-KAYNES,Kaynes Technology India Ltd.,KAYNES.NS,2026-11-17,2886.5,,3024.6,2865.0,2980.0,-3.14,6347.0,2744.0,-54.52,False,False,3260800,,Nifty Indices constituents + Yahoo history
-NEWGEN,Newgen Software Technologies Ltd.,NEWGEN.NS,2026-11-17,425.0,,433.4,425.0,439.15,-3.22,950.6,401.05,-55.29,False,False,265816,,Nifty Indices constituents + Yahoo history
-SWIGGY,Swiggy Ltd.,SWIGGY.NS,2026-11-17,188.16,,192.3,188.15,190.7,-1.33,421.6,174.2,-55.37,False,False,6168496,,Nifty Indices constituents + Yahoo history
-RPOWER,Reliance Power Ltd.,RPOWER.NS,2026-11-17,17.91,,18.19,17.85,18.07,-0.89,42.38,15.98,-57.74,False,False,8087641,,Nifty Indices constituents + Yahoo history
-KPITTECH,KPIT Technologies Ltd.,KPITTECH.NS,2026-11-17,533.7,,546.3,528.85,536.3,-0.48,1284.9,470.1,-58.46,False,False,664102,,Nifty Indices constituents + Yahoo history
-KEC,Kec International Ltd.,KEC.NS,2026-11-17,321.9,,326.9,320.75,324.55,-0.82,800.0,299.0,-59.76,False,False,390123,,Nifty Indices constituents + Yahoo history
-INOXWIND,Inox Wind Ltd.,INOXWIND.NS,2026-11-17,60.16,,61.15,59.22,59.5,1.11,153.45,55.1,-60.8,False,False,11899043,,Nifty Indices constituents + Yahoo history
-LATENTVIEW,Latent View Analytics Ltd.,LATENTVIEW.NS,2026-11-17,199.01,,203.92,198.67,201.51,-1.24,517.5,183.0,-61.54,False,False,231663,,Nifty Indices constituents + Yahoo history
+HYUNDAI,Hyundai Motor India Ltd.,HYUNDAI.NS,2026-11-17,2131.9,,2151.6,2084.0,2076.0,2.69,2463.5,1658.0,-13.46,False,False,817533,,Nifty Indices constituents + Yahoo history
+TATACONSUM,Tata Consumer Products Ltd.,TATACONSUM.NS,2026-11-17,1110.0,,1126.1,1109.9,1117.5,-0.67,1282.7,916.0,-13.46,False,False,595274,,Nifty Indices constituents + Yahoo history
+BAJAJ-AUTO,Bajaj Auto Ltd.,BAJAJ-AUTO.NS,2026-11-17,10775.0,,10825.0,10706.0,10734.0,0.38,12470.0,8624.0,-13.59,False,False,184091,,Nifty Indices constituents + Yahoo history
+KFINTECH,Kfin Technologies Ltd.,KFINTECH.NS,2026-11-17,963.8,,985.0,932.75,950.9,1.36,1115.8,784.0,-13.62,False,False,2086108,,Nifty Indices constituents + Yahoo history
+JKCEMENT,J.K. Cement Ltd.,JKCEMENT.NS,2026-11-17,5272.8,,5337.1,5213.5,5155.1,2.28,6105.0,4671.5,-13.63,False,False,40432,,Nifty Indices constituents + Yahoo history
+CDSL,Central Depository Services (India) Ltd.,CDSL.NS,2026-11-17,1442.5,,1479.9,1424.0,1433.9,0.6,1673.7,1116.3,-13.81,False,False,2177035,,Nifty Indices constituents + Yahoo history
+NAM-INDIA,Nippon Life India Asset Management Ltd.,NAM-INDIA.NS,2026-11-17,1092.65,,1127.0,1071.95,1094.1,-0.13,1269.5,795.8,-13.93,False,False,816176,,Nifty Indices constituents + Yahoo history
+CPPLUS,Aditya Infotech Ltd.,CPPLUS.NS,2026-11-17,3973.3,,4036.8,3897.6,3963.4,0.25,4620.0,1348.3,-14.0,False,False,101864,,Nifty Indices constituents + Yahoo history
+GLAXO,Glaxosmithkline Pharmaceuticals Ltd.,GLAXO.NS,2026-11-17,2683.1,,2689.9,2663.7,2672.6,0.39,3120.7,2088.1,-14.02,False,False,23070,,Nifty Indices constituents + Yahoo history
+INDUSINDBK,IndusInd Bank Ltd.,INDUSINDBK.NS,2026-11-17,926.65,,931.95,905.2,914.55,1.32,1077.85,750.5,-14.03,False,False,2037481,,Nifty Indices constituents + Yahoo history
+LTFOODS,LT Foods Ltd.,LTFOODS.NS,2026-11-17,421.4,,424.45,414.75,424.45,-0.72,490.7,333.15,-14.12,False,False,243867,,Nifty Indices constituents + Yahoo history
+MAXHEALTH,Max Healthcare Institute Ltd.,MAXHEALTH.NS,2026-11-17,1017.3,,1039.0,1013.45,1009.9,0.73,1185.4,797.0,-14.18,False,False,4298574,,Nifty Indices constituents + Yahoo history
+NHPC,NHPC Ltd.,NHPC.NS,2026-11-17,74.52,,75.09,74.4,75.05,-0.71,86.83,68.79,-14.18,False,False,4010487,,Nifty Indices constituents + Yahoo history
+CEATLTD,Ceat Ltd.,CEATLTD.NS,2026-11-17,3535.0,,3595.0,3518.1,3540.3,-0.15,4128.3,3012.6,-14.37,False,False,41149,,Nifty Indices constituents + Yahoo history
+GESHIP,Great Eastern Shipping Co. Ltd.,GESHIP.NS,2026-11-17,1539.3,,1545.5,1516.3,1518.0,1.4,1798.0,1056.9,-14.39,False,False,298993,,Nifty Indices constituents + Yahoo history
+SHRIRAMFIN,Shriram Finance Ltd.,SHRIRAMFIN.NS,2026-11-17,986.55,,995.7,976.0,978.4,0.83,1153.7,808.6,-14.49,False,False,2361562,,Nifty Indices constituents + Yahoo history
+AARTIIND,Aarti Industries Ltd.,AARTIIND.NS,2026-11-17,471.45,,483.45,470.5,481.95,-2.18,551.75,338.05,-14.55,False,False,215491,,Nifty Indices constituents + Yahoo history
+SIEMENS,Siemens Ltd.,SIEMENS.NS,2026-11-17,3540.0,,3608.6,3526.0,3580.9,-1.14,4149.4,2826.0,-14.69,False,False,117863,,Nifty Indices constituents + Yahoo history
+CYIENT,Cyient Ltd.,CYIENT.NS,2026-11-17,1089.0,,1108.9,1082.2,1104.9,-1.44,1277.0,750.3,-14.72,False,False,187912,,Nifty Indices constituents + Yahoo history
+AFFLE,Affle 3i Ltd.,AFFLE.NS,2026-11-17,1557.6,,1581.1,1535.1,1576.6,-1.21,1829.1,1251.3,-14.84,False,False,100594,,Nifty Indices constituents + Yahoo history
+GODREJPROP,Godrej Properties Ltd.,GODREJPROP.NS,2026-11-17,1888.4,,1912.4,1834.0,1854.9,1.81,2218.0,1434.0,-14.86,False,False,584557,,Nifty Indices constituents + Yahoo history
+TATACOMM,Tata Communications Ltd.,TATACOMM.NS,2026-11-17,1796.1,,1860.0,1791.1,1772.9,1.31,2110.0,1322.5,-14.88,False,False,161236,,Nifty Indices constituents + Yahoo history
+DEEPAKFERT,Deepak Fertilisers & Petrochemicals Corp. Ltd.,DEEPAKFERT.NS,2026-11-17,1426.9,,1433.0,1345.0,1261.8,13.08,1681.0,866.4,-15.12,False,False,1607852,,Nifty Indices constituents + Yahoo history
+USHAMART,Usha Martin Ltd.,USHAMART.NS,2026-11-17,460.5,,469.9,460.2,481.75,-4.41,542.6,380.0,-15.13,False,False,143359,,Nifty Indices constituents + Yahoo history
+CGCL,Capri Global Capital Ltd.,CGCL.NS,2026-11-17,243.88,,247.2,241.01,246.27,-0.97,287.45,151.1,-15.16,False,False,3917100,,Nifty Indices constituents + Yahoo history
+SBILIFE,SBI Life Insurance Company Ltd.,SBILIFE.NS,2026-11-17,1808.5,,1834.6,1805.8,1827.7,-1.05,2132.0,1607.7,-15.17,False,False,337158,,Nifty Indices constituents + Yahoo history
+ABBOTINDIA,Abbott India Ltd.,ABBOTINDIA.NS,2026-11-17,26000.0,,26135.0,25620.0,25980.0,0.08,30655.0,24650.0,-15.19,False,False,5708,,Nifty Indices constituents + Yahoo history
+ITCHOTELS,ITC Hotels Ltd.,ITCHOTELS.NS,2026-11-17,180.22,,181.7,174.4,174.16,3.48,212.99,137.3,-15.39,False,False,4947227,,Nifty Indices constituents + Yahoo history
+CHOICEIN,Choice International Ltd.,CHOICEIN.NS,2026-11-17,727.7,,744.35,724.0,727.35,0.05,860.5,568.7,-15.43,False,False,571307,,Nifty Indices constituents + Yahoo history
+LINDEINDIA,Linde India Ltd.,LINDEINDIA.NS,2026-11-17,6801.5,,7009.5,6783.5,6911.5,-1.59,8049.0,5544.0,-15.5,False,False,15461,,Nifty Indices constituents + Yahoo history
+DATAPATTNS,Data Patterns (India) Ltd.,DATAPATTNS.NS,2026-11-17,4222.9,,4287.5,4190.0,4190.0,0.79,5000.0,2131.0,-15.54,False,False,258749,,Nifty Indices constituents + Yahoo history
+RELIANCE,Reliance Industries Ltd.,RELIANCE.NS,2026-11-17,1361.1,,1363.0,1335.0,1344.8,1.21,1611.8,1152.2,-15.55,False,False,9103664,,Nifty Indices constituents + Yahoo history
+CHENNPETRO,Chennai Petroleum Corporation Ltd.,CHENNPETRO.NS,2026-11-17,1416.3,,1452.0,1412.2,1428.2,-0.83,1677.5,765.5,-15.57,False,False,515213,,Nifty Indices constituents + Yahoo history
+ZENTEC,Zen Technologies Ltd.,ZENTEC.NS,2026-11-17,1722.0,,1758.0,1712.0,1743.7,-1.24,2043.7,1223.0,-15.74,False,False,102732,,Nifty Indices constituents + Yahoo history
+BANKBARODA,Bank of Baroda,BANKBARODA.NS,2026-11-17,274.15,,276.2,269.46,270.2,1.46,325.5,223.82,-15.78,False,False,13203705,,Nifty Indices constituents + Yahoo history
+BEL,Bharat Electronics Ltd.,BEL.NS,2026-11-17,398.7,,402.5,396.8,401.4,-0.67,473.45,354.55,-15.79,False,False,3833948,,Nifty Indices constituents + Yahoo history
+BALKRISIND,Balkrishna Industries Ltd.,BALKRISIND.NS,2026-11-17,2331.4,,2350.1,2290.0,2288.2,1.89,2775.0,1964.7,-15.99,False,False,74967,,Nifty Indices constituents + Yahoo history
+ACMESOLAR,ACME Solar Holdings Ltd.,ACMESOLAR.NS,2026-11-17,400.0,,410.25,398.75,402.4,-0.6,476.9,195.9,-16.12,False,False,253964,,Nifty Indices constituents + Yahoo history
+ICICIAMC,ICICI Prudential Asset Management Company Ltd.,ICICIAMC.NS,2026-11-17,3023.4,,3047.9,3001.0,3040.4,-0.56,3611.0,2530.0,-16.27,False,False,148377,,Nifty Indices constituents + Yahoo history
+BALRAMCHIN,Balrampur Chini Mills Ltd.,BALRAMCHIN.NS,2026-11-17,653.75,,658.8,642.3,654.8,-0.16,780.95,393.55,-16.29,False,False,208266,,Nifty Indices constituents + Yahoo history
+HEROMOTOCO,Hero MotoCorp Ltd.,HEROMOTOCO.NS,2026-11-17,5336.5,,5431.5,5301.0,5385.0,-0.9,6388.5,4671.5,-16.47,False,False,396382,,Nifty Indices constituents + Yahoo history
+AIIL,Authum Investment & Infrastructure Ltd.,AIIL.NS,2026-11-17,569.45,,575.0,565.6,576.75,-1.27,683.0,400.0,-16.63,False,False,42656,,Nifty Indices constituents + Yahoo history
+DEEPAKNTR,Deepak Nitrite Ltd.,DEEPAKNTR.NS,2026-11-17,1577.7,,1608.5,1575.0,1594.9,-1.08,1897.9,1280.0,-16.87,False,False,59025,,Nifty Indices constituents + Yahoo history
+NIVABUPA,Niva Bupa Health Insurance Company Ltd.,NIVABUPA.NS,2026-11-17,75.91,,77.44,75.76,78.77,-3.63,91.4,67.5,-16.95,False,False,347990,,Nifty Indices constituents + Yahoo history
+ADANIENT,Adani Enterprises Ltd.,ADANIENT.NS,2026-11-17,2693.5,,2703.9,2659.1,2659.0,1.3,3245.0,1753.0,-17.0,False,False,916250,,Nifty Indices constituents + Yahoo history
+WOCKPHARMA,Wockhardt Ltd.,WOCKPHARMA.NS,2026-11-17,2009.2,,2049.7,1992.0,2004.5,0.23,2422.3,1086.7,-17.05,False,False,258807,,Nifty Indices constituents + Yahoo history
+ONESOURCE,Onesource Specialty Pharma Ltd.,ONESOURCE.NS,2026-11-17,1590.3,,1614.0,1580.1,1610.1,-1.23,1917.8,1057.0,-17.08,False,False,138198,,Nifty Indices constituents + Yahoo history
+DIXON,Dixon Technologies (India) Ltd.,DIXON.NS,2026-11-17,13076.0,,13220.0,12800.0,12798.0,2.17,15775.0,9600.0,-17.11,False,False,287182,,Nifty Indices constituents + Yahoo history
+NESTLEIND,Nestle India Ltd.,NESTLEIND.NS,2026-11-17,1286.2,,1308.0,1282.9,1297.0,-0.83,1553.0,1147.4,-17.18,False,False,486098,,Nifty Indices constituents + Yahoo history
+HOMEFIRST,Home First Finance Company India Ltd.,HOMEFIRST.NS,2026-11-17,1090.9,,1097.9,1068.1,1109.6,-1.69,1317.7,893.7,-17.21,False,False,59223,,Nifty Indices constituents + Yahoo history
+NAUKRI,Info Edge (India) Ltd.,NAUKRI.NS,2026-11-17,1161.0,,1186.4,1158.4,1169.9,-0.76,1402.8,908.3,-17.24,False,False,497457,,Nifty Indices constituents + Yahoo history
+CANBK,Canara Bank,CANBK.NS,2026-11-17,134.73,,136.8,132.2,132.4,1.76,162.89,114.63,-17.29,False,False,31541633,,Nifty Indices constituents + Yahoo history
+LTF,L&T Finance Ltd.,LTF.NS,2026-11-17,280.07,,282.7,277.1,279.0,0.38,338.6,229.2,-17.29,False,False,1398453,,Nifty Indices constituents + Yahoo history
+IKS,Inventurus Knowledge Solutions Ltd.,IKS.NS,2026-11-17,1629.1,,1647.4,1607.6,1618.9,0.63,1970.0,1262.0,-17.3,False,False,60943,,Nifty Indices constituents + Yahoo history
+SOLARINDS,Solar Industries India Ltd.,SOLARINDS.NS,2026-11-17,18753.0,,19085.0,18714.0,18820.0,-0.36,22700.0,11646.0,-17.39,False,False,62882,,Nifty Indices constituents + Yahoo history
+TARIL,Transformers And Rectifiers (India) Ltd.,TARIL.NS,2026-11-17,307.25,,311.15,305.1,314.8,-2.4,372.0,224.05,-17.41,False,False,580621,,Nifty Indices constituents + Yahoo history
+JSWENERGY,JSW Energy Ltd.,JSWENERGY.NS,2026-11-17,508.8,,515.75,507.05,514.55,-1.12,617.35,427.75,-17.58,False,False,621357,,Nifty Indices constituents + Yahoo history
+PGEL,PG Electroplast Ltd.,PGEL.NS,2026-11-17,530.9,,545.8,527.1,566.8,-6.33,644.4,436.55,-17.61,False,False,525604,,Nifty Indices constituents + Yahoo history
+ASTERDM,Aster DM Quality Care Ltd.,ASTERDM.NS,2026-11-17,734.25,,756.25,732.45,750.0,-2.1,891.3,519.1,-17.62,False,False,630165,,Nifty Indices constituents + Yahoo history
+LLOYDSME,Lloyds Metals And Energy Ltd.,LLOYDSME.NS,2026-11-17,1748.8,,1768.5,1722.0,1785.8,-2.07,2125.0,1042.9,-17.7,False,False,386245,,Nifty Indices constituents + Yahoo history
+ICICIGI,ICICI Lombard General Insurance Company Ltd.,ICICIGI.NS,2026-11-17,1694.3,,1707.0,1690.0,1691.2,0.18,2059.4,1423.1,-17.73,False,False,227930,,Nifty Indices constituents + Yahoo history
+POLYMED,Poly Medicure Ltd.,POLYMED.NS,2026-11-17,1664.9,,1687.2,1657.0,1681.2,-0.97,2024.0,1182.0,-17.74,False,False,16527,,Nifty Indices constituents + Yahoo history
+REDINGTON,Redington Ltd.,REDINGTON.NS,2026-11-17,344.9,,345.95,338.3,340.55,1.28,419.5,191.31,-17.78,False,False,1225419,,Nifty Indices constituents + Yahoo history
+ENDURANCE,Endurance Technologies Ltd.,ENDURANCE.NS,2026-11-17,2524.1,,2554.2,2510.0,2540.2,-0.63,3072.0,2142.8,-17.84,False,False,18137,,Nifty Indices constituents + Yahoo history
+ADANIENSOL,Adani Energy Solutions Ltd.,ADANIENSOL.NS,2026-11-17,1468.4,,1479.0,1443.7,1438.5,2.08,1789.0,803.1,-17.92,False,False,984647,,Nifty Indices constituents + Yahoo history
+MRPL,Mangalore Refinery & Petrochemicals Ltd.,MRPL.NS,2026-11-17,174.15,,178.91,173.85,174.93,-0.45,212.31,136.02,-17.97,False,False,3160536,,Nifty Indices constituents + Yahoo history
+JINDALSAW,Jindal Saw Ltd.,JINDALSAW.NS,2026-11-17,262.45,,265.2,256.57,261.45,0.38,320.0,153.0,-17.98,False,False,1824585,,Nifty Indices constituents + Yahoo history
+JUBLPHARMA,Jubilant Pharmova Ltd.,JUBLPHARMA.NS,2026-11-17,952.5,,987.0,942.7,964.1,-1.2,1162.0,786.05,-18.03,False,False,131560,,Nifty Indices constituents + Yahoo history
+FINCABLES,Finolex Cables Ltd.,FINCABLES.NS,2026-11-17,1228.8,,1249.0,1216.6,1254.9,-2.08,1499.0,700.8,-18.03,False,False,497024,,Nifty Indices constituents + Yahoo history
+JSL,Jindal Stainless Ltd.,JSL.NS,2026-11-17,723.35,,725.0,715.0,712.55,1.52,884.0,652.25,-18.17,False,False,115172,,Nifty Indices constituents + Yahoo history
+CEMPRO,Cemindia Projects Ltd.,CEMPRO.NS,2026-11-17,1347.2,,1363.0,1286.0,1298.6,3.74,1649.2,503.3,-18.31,False,False,487741,,Nifty Indices constituents + Yahoo history
+PARADEEP,Paradeep Phosphates Ltd.,PARADEEP.NS,2026-11-17,139.22,,140.11,135.75,136.82,1.75,170.5,99.7,-18.35,False,False,577695,,Nifty Indices constituents + Yahoo history
+SCHAEFFLER,Schaeffler India Ltd.,SCHAEFFLER.NS,2026-11-17,3646.8,,3690.4,3598.6,3604.0,1.19,4467.7,3420.0,-18.37,False,False,37069,,Nifty Indices constituents + Yahoo history
+CGPOWER,CG Power and Industrial Solutions Ltd.,CGPOWER.NS,2026-11-17,800.15,,819.15,799.55,818.7,-2.27,980.9,525.5,-18.43,False,False,2149076,,Nifty Indices constituents + Yahoo history
+INDUSTOWER,Indus Towers Ltd.,INDUSTOWER.NS,2026-11-17,392.25,,397.35,391.55,396.2,-1.0,481.5,355.55,-18.54,False,False,1323792,,Nifty Indices constituents + Yahoo history
+OIL,Oil India Ltd.,OIL.NS,2026-11-17,431.1,,440.55,429.7,441.4,-2.33,531.0,395.6,-18.81,False,False,2411707,,Nifty Indices constituents + Yahoo history
+GICRE,General Insurance Corporation of India,GICRE.NS,2026-11-17,339.15,,343.85,336.9,344.5,-1.55,417.95,308.0,-18.85,False,False,530535,,Nifty Indices constituents + Yahoo history
+SAIL,Steel Authority of India Ltd.,SAIL.NS,2026-11-17,170.13,,171.3,166.54,168.75,0.82,209.7,124.0,-18.87,False,False,7401682,,Nifty Indices constituents + Yahoo history
+CANFINHOME,Can Fin Homes Ltd.,CANFINHOME.NS,2026-11-17,787.9,,788.85,765.0,766.0,2.86,971.5,693.0,-18.9,False,False,97559,,Nifty Indices constituents + Yahoo history
+MRF,MRF Ltd.,MRF.NS,2026-11-17,128920.0,,129600.0,128325.0,127955.0,0.75,158990.0,115190.0,-18.91,False,False,2394,,Nifty Indices constituents + Yahoo history
+TATASTEEL,Tata Steel Ltd.,TATASTEEL.NS,2026-11-17,181.95,,183.22,179.65,182.26,-0.17,224.4,160.06,-18.92,False,False,13748458,,Nifty Indices constituents + Yahoo history
+SAGILITY,Sagility Ltd.,SAGILITY.NS,2026-11-17,43.96,,44.1,42.9,43.4,1.29,54.3,35.83,-19.04,False,False,10810823,,Nifty Indices constituents + Yahoo history
+CONCOR,Container Corporation of India Ltd.,CONCOR.NS,2026-11-17,439.9,,446.7,438.85,442.15,-0.51,543.7,404.25,-19.09,False,False,357907,,Nifty Indices constituents + Yahoo history
+MPHASIS,MphasiS Ltd.,MPHASIS.NS,2026-11-17,2405.7,,2446.7,2397.3,2455.0,-2.01,2975.0,2013.0,-19.14,False,False,126674,,Nifty Indices constituents + Yahoo history
+HINDUNILVR,Hindustan Unilever Ltd.,HINDUNILVR.NS,2026-11-17,2010.4,,2024.5,1999.5,2000.3,0.5,2488.0,1758.2,-19.2,False,False,588474,,Nifty Indices constituents + Yahoo history
+ADANIPOWER,Adani Power Ltd.,ADANIPOWER.NS,2026-11-17,204.96,,206.9,204.31,205.29,-0.16,254.2,128.1,-19.37,False,False,7075174,,Nifty Indices constituents + Yahoo history
+PWL,Physicswallah Ltd.,PWL.NS,2026-11-17,130.59,,133.31,128.31,129.45,0.88,161.99,77.72,-19.38,False,False,5753862,,Nifty Indices constituents + Yahoo history
+BIOCON,Biocon Ltd.,BIOCON.NS,2026-11-17,360.4,,363.15,359.65,362.2,-0.5,447.15,318.4,-19.4,False,False,1088809,,Nifty Indices constituents + Yahoo history
+HDFCBANK,HDFC Bank Ltd.,HDFCBANK.NS,2026-11-17,816.0,,821.0,810.85,816.5,-0.06,1017.5,669.2,-19.8,False,False,24964871,,Nifty Indices constituents + Yahoo history
+TIMKEN,Timken India Ltd.,TIMKEN.NS,2026-11-17,3146.9,,3158.4,3084.7,3120.3,0.85,3925.0,2687.9,-19.82,False,False,22233,,Nifty Indices constituents + Yahoo history
+TRAVELFOOD,Travel Food Services Ltd.,TRAVELFOOD.NS,2026-11-17,1178.8,,1196.0,1159.2,1167.1,1.0,1470.9,1035.3,-19.86,False,False,16114,,Nifty Indices constituents + Yahoo history
+CARTRADE,Cartrade Tech Ltd.,CARTRADE.NS,2026-11-17,2630.6,,2665.9,2611.2,2696.1,-2.43,3290.5,1600.0,-20.05,False,False,55046,,Nifty Indices constituents + Yahoo history
+BERGEPAINT,Berger Paints India Ltd.,BERGEPAINT.NS,2026-11-17,475.0,,482.8,470.3,470.3,1.0,594.55,391.1,-20.11,False,False,313810,,Nifty Indices constituents + Yahoo history
+CENTRALBK,Central Bank of India,CENTRALBK.NS,2026-11-17,32.59,,33.05,31.96,32.22,1.15,40.92,28.26,-20.36,False,False,13895695,,Nifty Indices constituents + Yahoo history
+DEVYANI,Devyani International Ltd.,DEVYANI.NS,2026-11-17,127.13,,128.7,125.51,129.87,-2.11,159.66,91.55,-20.37,False,False,251592,,Nifty Indices constituents + Yahoo history
+CAPLIPOINT,Caplin Point Laboratories Ltd.,CAPLIPOINT.NS,2026-11-17,2378.3,,2387.5,2325.7,2346.8,1.34,2990.0,1500.3,-20.46,False,False,39445,,Nifty Indices constituents + Yahoo history
+COALINDIA,Coal India Ltd.,COALINDIA.NS,2026-11-17,390.5,,398.5,387.75,397.5,-1.76,491.25,369.6,-20.51,False,False,20366289,,Nifty Indices constituents + Yahoo history
+FORTIS,Fortis Healthcare Ltd.,FORTIS.NS,2026-11-17,802.4,,812.0,797.45,803.2,-0.1,1010.1,704.95,-20.56,False,False,897726,,Nifty Indices constituents + Yahoo history
+RAINBOW,Rainbow Childrens Medicare Ltd.,RAINBOW.NS,2026-11-17,1278.2,,1288.7,1268.0,1271.5,0.53,1610.0,1084.0,-20.61,False,False,49982,,Nifty Indices constituents + Yahoo history
+BLUESTARCO,Blue Star Ltd.,BLUESTARCO.NS,2026-11-17,1610.1,,1661.9,1582.7,1624.0,-0.86,2029.6,1432.3,-20.67,False,False,554689,,Nifty Indices constituents + Yahoo history
+POWERGRID,Power Grid Corporation of India Ltd.,POWERGRID.NS,2026-11-17,257.6,,261.75,257.0,262.2,-1.75,324.95,242.3,-20.73,False,False,7442573,,Nifty Indices constituents + Yahoo history
+WELCORP,Welspun Corp Ltd.,WELCORP.NS,2026-11-17,2297.0,,2319.2,2182.0,2230.4,2.99,2900.0,710.0,-20.79,False,False,775742,,Nifty Indices constituents + Yahoo history
+AEGISLOG,Aegis Logistics Ltd.,AEGISLOG.NS,2026-11-17,1210.4,,1248.1,1200.2,1228.1,-1.44,1528.7,576.1,-20.82,False,False,518809,,Nifty Indices constituents + Yahoo history
+SUPREMEIND,Supreme Industries Ltd.,SUPREMEIND.NS,2026-11-17,3224.3,,3281.2,3212.0,3307.5,-2.52,4074.8,3078.5,-20.87,False,False,83178,,Nifty Indices constituents + Yahoo history
+COROMANDEL,Coromandel International Ltd.,COROMANDEL.NS,2026-11-17,1973.8,,1980.0,1954.5,1955.0,0.96,2499.0,1651.1,-21.02,False,False,74347,,Nifty Indices constituents + Yahoo history
+BANDHANBNK,Bandhan Bank Ltd.,BANDHANBNK.NS,2026-11-17,174.35,,176.6,171.5,172.88,0.85,220.76,134.25,-21.02,False,False,6051605,,Nifty Indices constituents + Yahoo history
+EIHOTEL,EIH Ltd.,EIHOTEL.NS,2026-11-17,309.45,,313.35,306.5,316.55,-2.24,391.9,271.15,-21.04,False,False,78221,,Nifty Indices constituents + Yahoo history
+POWERINDIA,Hitachi Energy India Ltd.,POWERINDIA.NS,2026-11-17,30610.0,,30950.0,29785.0,30885.0,-0.89,38785.0,16111.0,-21.08,False,False,127029,,Nifty Indices constituents + Yahoo history
+HINDALCO,Hindalco Industries Ltd.,HINDALCO.NS,2026-11-17,928.1,,933.9,911.85,943.6,-1.64,1176.0,771.85,-21.08,False,False,4663252,,Nifty Indices constituents + Yahoo history
+BLUEJET,Blue Jet Healthcare Ltd.,BLUEJET.NS,2026-11-17,509.75,,526.1,508.85,512.95,-0.62,647.8,325.0,-21.31,False,False,433489,,Nifty Indices constituents + Yahoo history
+SOBHA,Sobha Ltd.,SOBHA.NS,2026-11-17,1287.0,,1317.3,1236.6,1251.4,2.84,1636.1,1112.1,-21.34,False,False,301828,,Nifty Indices constituents + Yahoo history
+CANHLIFE,Canara HSBC Life Insurance Company Ltd.,CANHLIFE.NS,2026-11-17,131.02,,134.46,130.61,134.8,-2.8,166.69,117.5,-21.4,False,False,266342,,Nifty Indices constituents + Yahoo history
+SYRMA,Syrma SGS Technology Ltd.,SYRMA.NS,2026-11-17,1432.4,,1474.4,1426.3,1455.0,-1.55,1822.6,634.5,-21.41,False,False,759493,,Nifty Indices constituents + Yahoo history
+SRF,SRF Ltd.,SRF.NS,2026-11-17,2467.9,,2491.5,2461.5,2475.0,-0.29,3143.0,2178.3,-21.48,False,False,80424,,Nifty Indices constituents + Yahoo history
+SAPPHIRE,Sapphire Foods India Ltd.,SAPPHIRE.NS,2026-11-17,208.12,,211.37,207.47,212.75,-2.18,265.4,139.91,-21.58,False,False,42655,,Nifty Indices constituents + Yahoo history
+CCL,CCL Products (I) Ltd.,CCL.NS,2026-11-17,973.7,,993.35,971.2,978.15,-0.45,1242.2,885.7,-21.61,False,False,102971,,Nifty Indices constituents + Yahoo history
+BPCL,Bharat Petroleum Corporation Ltd.,BPCL.NS,2026-11-17,306.75,,309.25,305.55,302.0,1.57,391.65,266.6,-21.68,False,False,2565682,,Nifty Indices constituents + Yahoo history
+GILLETTE,Gillette India Ltd.,GILLETTE.NS,2026-11-17,7099.0,,7145.0,7067.5,7087.5,0.16,9065.0,6860.0,-21.69,False,False,14990,,Nifty Indices constituents + Yahoo history
+MANAPPURAM,Manappuram Finance Ltd.,MANAPPURAM.NS,2026-11-17,298.65,,305.9,298.1,303.8,-1.7,381.55,245.15,-21.73,False,False,2625703,,Nifty Indices constituents + Yahoo history
+ELECON,Elecon Engineering Co. Ltd.,ELECON.NS,2026-11-17,453.1,,457.0,437.3,444.0,2.05,579.0,352.0,-21.74,False,False,337727,,Nifty Indices constituents + Yahoo history
+GRAVITA,Gravita India Ltd.,GRAVITA.NS,2026-11-17,1494.6,,1508.0,1480.5,1497.9,-0.22,1913.6,1266.9,-21.9,False,False,85747,,Nifty Indices constituents + Yahoo history
+OFSS,Oracle Financial Services Software Ltd.,OFSS.NS,2026-11-17,9787.5,,9988.0,9755.0,9912.0,-1.26,12540.0,6234.5,-21.95,False,False,80062,,Nifty Indices constituents + Yahoo history
+SPLPETRO,Supreme Petrochem Ltd.,SPLPETRO.NS,2026-11-17,700.8,,706.45,695.05,704.65,-0.55,899.0,462.3,-22.05,False,False,19877,,Nifty Indices constituents + Yahoo history
+ERIS,Eris Lifesciences Ltd.,ERIS.NS,2026-11-17,1356.0,,1371.2,1300.2,1307.2,3.73,1740.0,1069.0,-22.07,False,False,104084,,Nifty Indices constituents + Yahoo history
+IOB,Indian Overseas Bank,IOB.NS,2026-11-17,31.71,,32.32,31.15,31.63,0.25,40.74,28.32,-22.16,False,False,6912048,,Nifty Indices constituents + Yahoo history
+HINDPETRO,Hindustan Petroleum Corporation Ltd.,HINDPETRO.NS,2026-11-17,395.1,,395.2,388.3,386.95,2.11,508.45,316.2,-22.29,False,False,3322053,,Nifty Indices constituents + Yahoo history
+UCOBANK,UCO Bank,UCOBANK.NS,2026-11-17,24.95,,25.51,24.6,24.67,1.13,32.12,21.34,-22.32,False,False,7328061,,Nifty Indices constituents + Yahoo history
+HAVELLS,Havells India Ltd.,HAVELLS.NS,2026-11-17,1174.9,,1192.0,1170.8,1161.0,1.2,1514.7,999.2,-22.43,False,False,377333,,Nifty Indices constituents + Yahoo history
+VBL,Varun Beverages Ltd.,VBL.NS,2026-11-17,431.15,,439.15,430.2,437.0,-1.34,555.8,381.0,-22.43,False,False,1149399,,Nifty Indices constituents + Yahoo history
+NTPC,NTPC Ltd.,NTPC.NS,2026-11-17,321.3,,321.85,318.8,321.25,0.02,414.4,292.05,-22.47,False,False,3859436,,Nifty Indices constituents + Yahoo history
+IDEA,Vodafone Idea Ltd.,IDEA.NS,2026-11-17,12.24,,12.69,12.18,12.53,-2.31,15.79,8.13,-22.48,False,False,191868974,,Nifty Indices constituents + Yahoo history
+APOLLOTYRE,Apollo Tyres Ltd.,APOLLOTYRE.NS,2026-11-17,417.5,,433.15,417.3,420.8,-0.78,539.2,365.3,-22.57,False,False,675498,,Nifty Indices constituents + Yahoo history
+FSL,Firstsource Solutions Ltd.,FSL.NS,2026-11-17,287.7,,289.65,286.5,287.35,0.12,371.75,202.0,-22.61,False,False,131101,,Nifty Indices constituents + Yahoo history
+LUPIN,Lupin Ltd.,LUPIN.NS,2026-11-17,1955.2,,1984.8,1952.5,1980.3,-1.27,2529.5,1892.9,-22.7,False,False,390310,,Nifty Indices constituents + Yahoo history
+IOC,Indian Oil Corporation Ltd.,IOC.NS,2026-11-17,146.0,,146.62,143.7,144.03,1.37,188.96,124.92,-22.73,False,False,6394624,,Nifty Indices constituents + Yahoo history
+IREDA,Indian Renewable Energy Development Agency Ltd.,IREDA.NS,2026-11-17,117.54,,122.45,114.54,115.95,1.37,152.38,98.78,-22.86,False,False,18166244,,Nifty Indices constituents + Yahoo history
+ENRIN,Siemens Energy India Ltd.,ENRIN.NS,2026-11-17,3051.3,,3092.2,3026.1,3097.0,-1.48,3968.0,2115.0,-23.1,False,False,210354,,Nifty Indices constituents + Yahoo history
+VTL,Vardhman Textiles Ltd.,VTL.NS,2026-11-17,528.7,,538.5,524.8,528.6,0.02,688.0,391.0,-23.15,False,False,150755,,Nifty Indices constituents + Yahoo history
+POLYCAB,Polycab India Ltd.,POLYCAB.NS,2026-11-17,7781.0,,7985.5,7745.0,7955.5,-2.19,10126.0,6663.0,-23.16,False,False,354253,,Nifty Indices constituents + Yahoo history
+ASHOKLEY,Ashok Leyland Ltd.,ASHOKLEY.NS,2026-11-17,165.41,,172.8,164.82,167.49,-1.24,215.42,138.03,-23.22,False,False,37961140,,Nifty Indices constituents + Yahoo history
+RECLTD,REC Ltd.,RECLTD.NS,2026-11-17,297.65,,300.5,296.55,297.75,-0.03,387.8,281.9,-23.25,False,False,1191778,,Nifty Indices constituents + Yahoo history
+BAJAJHFL,Bajaj Housing Finance Ltd.,BAJAJHFL.NS,2026-11-17,82.7,,82.95,81.45,81.95,0.92,107.95,72.65,-23.39,False,False,2145299,,Nifty Indices constituents + Yahoo history
+GVT&D,GE Vernova T&D India Ltd.,GVT&D.NS,2026-11-17,4319.5,,4390.0,4215.1,4337.0,-0.4,5650.0,2523.2,-23.55,False,False,372143,,Nifty Indices constituents + Yahoo history
+SBFC,SBFC Finance Ltd.,SBFC.NS,2026-11-17,87.3,,88.5,87.2,89.83,-2.82,114.28,77.25,-23.61,False,False,773604,,Nifty Indices constituents + Yahoo history
+SUNDARMFIN,Sundaram Finance Ltd.,SUNDARMFIN.NS,2026-11-17,4305.0,,4383.9,4293.5,4339.1,-0.79,5642.0,3816.0,-23.7,False,False,16057,,Nifty Indices constituents + Yahoo history
+EXIDEIND,Exide Industries Ltd.,EXIDEIND.NS,2026-11-17,378.6,,389.6,366.0,365.5,3.58,496.4,287.0,-23.73,False,False,4732778,,Nifty Indices constituents + Yahoo history
+FORCEMOT,Force Motors Ltd.,FORCEMOT.NS,2026-11-17,20143.0,,20239.0,19280.0,19389.0,3.89,26450.0,16184.0,-23.84,False,False,64200,,Nifty Indices constituents + Yahoo history
+HCLTECH,HCL Technologies Ltd.,HCLTECH.NS,2026-11-17,1355.6,,1381.3,1350.6,1384.6,-2.09,1780.1,1030.0,-23.85,False,False,1973880,,Nifty Indices constituents + Yahoo history
+TRIDENT,Trident Ltd.,TRIDENT.NS,2026-11-17,23.54,,23.8,23.21,23.35,0.81,30.94,20.15,-23.92,False,False,3525450,,Nifty Indices constituents + Yahoo history
+BRIGADE,Brigade Enterprises Ltd.,BRIGADE.NS,2026-11-17,558.6,,572.0,536.05,549.15,1.72,735.0,450.75,-24.0,False,False,493209,,Nifty Indices constituents + Yahoo history
+PFOCUS,Prime Focus Ltd.,PFOCUS.NS,2026-11-17,278.55,,281.5,264.0,267.6,4.09,367.0,165.0,-24.1,False,False,3709897,,Nifty Indices constituents + Yahoo history
+MFSL,Max Financial Services Ltd.,MFSL.NS,2026-11-17,1434.5,,1448.4,1413.4,1401.1,2.38,1892.5,1172.6,-24.2,False,False,383823,,Nifty Indices constituents + Yahoo history
+ZYDUSWELL,Zydus Wellness Ltd.,ZYDUSWELL.NS,2026-11-17,462.2,,468.25,461.15,466.15,-0.85,611.85,367.55,-24.46,False,False,55934,,Nifty Indices constituents + Yahoo history
+AADHARHFC,Aadhar Housing Finance Ltd.,AADHARHFC.NS,2026-11-17,425.3,,429.0,420.95,432.5,-1.66,563.0,416.05,-24.46,False,False,235542,,Nifty Indices constituents + Yahoo history
+ITI,ITI Ltd.,ITI.NS,2026-11-17,251.45,,255.58,250.75,255.32,-1.52,332.95,210.76,-24.48,False,False,228791,,Nifty Indices constituents + Yahoo history
+ABSLAMC,Aditya Birla Sun Life AMC Ltd.,ABSLAMC.NS,2026-11-17,924.8,,932.0,894.0,895.75,3.24,1224.9,708.0,-24.5,False,False,188672,,Nifty Indices constituents + Yahoo history
+HDFCLIFE,HDFC Life Insurance Company Ltd.,HDFCLIFE.NS,2026-11-17,594.8,,604.75,593.65,604.5,-1.6,788.5,508.05,-24.57,False,False,1144208,,Nifty Indices constituents + Yahoo history
+GODREJIND,Godrej Industries Ltd.,GODREJIND.NS,2026-11-17,1087.25,,1128.0,1075.45,1091.0,-0.34,1443.0,744.2,-24.65,False,False,436277,,Nifty Indices constituents + Yahoo history
+HBLENGINE,HBL Engineering Ltd.,HBLENGINE.NS,2026-11-17,791.7,,816.7,772.0,799.55,-0.98,1055.0,613.0,-24.96,False,False,1007759,,Nifty Indices constituents + Yahoo history
+BRITANNIA,Britannia Industries Ltd.,BRITANNIA.NS,2026-11-17,4702.3,,4792.3,4697.2,4750.5,-1.01,6271.0,4499.9,-25.02,False,False,103203,,Nifty Indices constituents + Yahoo history
+HINDZINC,Hindustan Zinc Ltd.,HINDZINC.NS,2026-11-17,549.35,,555.0,540.15,550.2,-0.15,733.0,453.5,-25.05,False,False,1907904,,Nifty Indices constituents + Yahoo history
+TITAGARH,Titagarh Rail Systems Ltd.,TITAGARH.NS,2026-11-17,727.35,,744.45,724.0,732.15,-0.66,971.0,568.7,-25.09,False,False,360908,,Nifty Indices constituents + Yahoo history
+IRB,IRB Infrastructure Developers Ltd.,IRB.NS,2026-11-17,17.94,,18.35,17.89,18.12,-0.99,23.95,15.68,-25.09,False,False,4700732,,Nifty Indices constituents + Yahoo history
+CHAMBLFERT,Chambal Fertilizers & Chemicals Ltd.,CHAMBLFERT.NS,2026-11-17,372.75,,375.0,370.0,371.5,0.34,497.8,350.0,-25.12,False,False,164660,,Nifty Indices constituents + Yahoo history
+CARBORUNIV,Carborundum Universal Ltd.,CARBORUNIV.NS,2026-11-17,1025.1,,1065.0,1022.5,1062.3,-3.5,1368.9,735.2,-25.12,False,False,69659,,Nifty Indices constituents + Yahoo history
+TATACHEM,Tata Chemicals Ltd.,TATACHEM.NS,2026-11-17,639.95,,668.9,634.0,612.1,4.55,854.85,570.05,-25.14,False,False,10873237,,Nifty Indices constituents + Yahoo history
+BHARATFORG,Bharat Forge Ltd.,BHARATFORG.NS,2026-11-17,1713.2,,1732.8,1708.6,1715.0,-0.1,2295.0,1347.5,-25.35,False,False,1035986,,Nifty Indices constituents + Yahoo history
+FACT,Fertilisers and Chemicals Travancore Ltd.,FACT.NS,2026-11-17,788.8,,801.0,786.65,808.2,-2.4,1058.6,652.1,-25.49,False,False,63601,,Nifty Indices constituents + Yahoo history
+JSWDULUX,JSW Dulux Ltd.,JSWDULUX.NS,2026-11-17,279.0,,285.7,278.65,282.2,-1.13,374.5,257.15,-25.5,False,False,152152,,Nifty Indices constituents + Yahoo history
+COLPAL,Colgate Palmolive (India) Ltd.,COLPAL.NS,2026-11-17,1713.9,,1731.8,1701.3,1703.8,0.59,2301.6,1563.9,-25.53,False,False,70545,,Nifty Indices constituents + Yahoo history
+NAVA,Nava Ltd.,NAVA.NS,2026-11-17,550.3,,560.8,548.0,574.75,-4.25,739.4,456.0,-25.57,False,False,93950,,Nifty Indices constituents + Yahoo history
+DMART,Avenue Supermarts Ltd.,DMART.NS,2026-11-17,3455.7,,3474.8,3441.0,3457.6,-0.05,4644.0,3102.3,-25.59,False,False,70243,,Nifty Indices constituents + Yahoo history
+NSLNISP,NMDC Steel Ltd.,NSLNISP.NS,2026-11-17,39.96,,40.38,39.55,39.95,0.03,53.75,33.01,-25.66,False,False,1599489,,Nifty Indices constituents + Yahoo history
+EMAMILTD,Emami Ltd.,EMAMILTD.NS,2026-11-17,409.5,,417.5,407.15,413.6,-0.99,550.9,357.0,-25.67,False,False,356840,,Nifty Indices constituents + Yahoo history
+TATAINVEST,Tata Investment Corporation Ltd.,TATAINVEST.NS,2026-11-17,590.85,,618.35,587.5,576.45,2.5,795.0,538.85,-25.68,False,False,1724325,,Nifty Indices constituents + Yahoo history
+EMMVEE,Emmvee Photovoltaic Power Ltd.,EMMVEE.NS,2026-11-17,276.09,,278.2,271.4,274.84,0.45,371.55,171.51,-25.69,False,False,1783841,,Nifty Indices constituents + Yahoo history
+MSUMI,Motherson Sumi Wiring India Ltd.,MSUMI.NS,2026-11-17,39.7,,39.85,38.92,39.11,1.51,53.59,32.7,-25.92,False,False,5605916,,Nifty Indices constituents + Yahoo history
+TATAPOWER,Tata Power Co. Ltd.,TATAPOWER.NS,2026-11-17,344.2,,347.85,343.0,345.5,-0.38,464.9,333.2,-25.96,False,False,4303967,,Nifty Indices constituents + Yahoo history
+DOMS,DOMS Industries Ltd.,DOMS.NS,2026-11-17,2038.5,,2039.8,2009.2,2014.1,1.21,2755.0,1775.0,-26.01,False,False,7250,,Nifty Indices constituents + Yahoo history
+TATATECH,Tata Technologies Ltd.,TATATECH.NS,2026-11-17,659.25,,668.7,657.35,664.6,-0.8,891.0,507.4,-26.01,False,False,188446,,Nifty Indices constituents + Yahoo history
+HONAUT,Honeywell Automation India Ltd.,HONAUT.NS,2026-11-17,30700.0,,30740.0,30100.0,30495.0,0.67,41495.0,26220.0,-26.02,False,False,1558,,Nifty Indices constituents + Yahoo history
+JUBLINGREA,Jubilant Ingrevia Ltd.,JUBLINGREA.NS,2026-11-17,587.7,,593.45,587.0,591.65,-0.67,795.0,537.3,-26.08,False,False,121938,,Nifty Indices constituents + Yahoo history
+APARINDS,Apar Industries Ltd.,APARINDS.NS,2026-11-17,14227.0,,14688.0,14213.0,14831.0,-4.07,19265.0,6801.0,-26.15,False,False,102050,,Nifty Indices constituents + Yahoo history
+PREMIERENE,Premier Energies Ltd.,PREMIERENE.NS,2026-11-17,837.15,,842.75,813.1,822.5,1.78,1134.0,666.9,-26.18,False,False,1277511,,Nifty Indices constituents + Yahoo history
+RITES,RITES Ltd.,RITES.NS,2026-11-17,191.55,,194.42,190.2,191.75,-0.1,259.7,175.0,-26.24,False,False,369060,,Nifty Indices constituents + Yahoo history
+3MINDIA,3M India Ltd.,3MINDIA.NS,2026-11-17,27995.0,,28395.0,27910.0,28380.0,-1.36,38030.0,26410.0,-26.39,False,False,7268,,Nifty Indices constituents + Yahoo history
+LEMONTREE,Lemon Tree Hotels Ltd.,LEMONTREE.NS,2026-11-17,123.54,,125.6,121.92,124.18,-0.52,167.87,99.61,-26.41,False,False,4398274,,Nifty Indices constituents + Yahoo history
+BLUEDART,Blue Dart Express Ltd.,BLUEDART.NS,2026-11-17,4491.1,,4545.0,4442.5,4468.1,0.51,6108.5,4141.0,-26.48,False,False,8741,,Nifty Indices constituents + Yahoo history
+PCBL,PCBL Chemical Ltd.,PCBL.NS,2026-11-17,274.7,,279.2,273.75,277.3,-0.94,374.0,226.5,-26.55,False,False,341043,,Nifty Indices constituents + Yahoo history
+ARE&M,Amara Raja Energy & Mobility Ltd.,ARE&M.NS,2026-11-17,743.7,,755.85,731.4,738.8,0.66,1017.3,670.0,-26.89,False,False,234100,,Nifty Indices constituents + Yahoo history
+CLEAN,Clean Science and Technology Ltd.,CLEAN.NS,2026-11-17,702.25,,715.65,686.0,724.0,-3.0,963.0,645.05,-27.08,False,False,103426,,Nifty Indices constituents + Yahoo history
+ONGC,Oil & Natural Gas Corporation Ltd.,ONGC.NS,2026-11-17,224.01,,226.35,223.75,226.99,-1.31,307.5,218.53,-27.15,False,False,6235186,,Nifty Indices constituents + Yahoo history
+COHANCE,Cohance Lifesciences Ltd.,COHANCE.NS,2026-11-17,454.5,,458.4,452.4,457.6,-0.68,624.0,266.7,-27.16,False,False,157422,,Nifty Indices constituents + Yahoo history
+TEGA,Tega Industries Ltd.,TEGA.NS,2026-11-17,1600.8,,1625.0,1595.7,1605.0,-0.26,2198.0,1473.0,-27.17,False,False,107650,,Nifty Indices constituents + Yahoo history
+MARUTI,Maruti Suzuki India Ltd.,MARUTI.NS,2026-11-17,12640.0,,12815.0,12600.0,12571.0,0.55,17370.0,10985.0,-27.23,False,False,291900,,Nifty Indices constituents + Yahoo history
+VOLTAS,Voltas Ltd.,VOLTAS.NS,2026-11-17,1147.5,,1176.0,1141.7,1133.1,1.27,1582.5,930.5,-27.49,False,False,435791,,Nifty Indices constituents + Yahoo history
+PFIZER,Pfizer Ltd.,PFIZER.NS,2026-11-17,3810.3,,3872.9,3797.5,3847.4,-0.96,5257.0,3589.0,-27.52,False,False,13825,,Nifty Indices constituents + Yahoo history
+TRENT,Trent Ltd.,TRENT.NS,2026-11-17,3197.9,,3262.0,3191.0,3203.7,-0.18,4417.8,2183.67,-27.61,False,False,516975,,Nifty Indices constituents + Yahoo history
+TCS,Tata Consultancy Services Ltd.,TCS.NS,2026-11-17,2416.3,,2448.0,2384.0,2405.0,0.47,3350.0,1976.8,-27.87,False,False,1842192,,Nifty Indices constituents + Yahoo history
+NATIONALUM,National Aluminium Co. Ltd.,NATIONALUM.NS,2026-11-17,321.0,,323.0,313.1,318.95,0.64,445.15,249.4,-27.89,False,False,2108310,,Nifty Indices constituents + Yahoo history
+IEX,Indian Energy Exchange Ltd.,IEX.NS,2026-11-17,115.5,,117.75,114.76,115.54,-0.03,160.27,99.5,-27.93,False,False,4391524,,Nifty Indices constituents + Yahoo history
+SARDAEN,Sarda Energy and Minerals Ltd.,SARDAEN.NS,2026-11-17,449.25,,450.45,440.15,444.3,1.11,624.0,424.05,-28.0,False,False,237495,,Nifty Indices constituents + Yahoo history
+NCC,NCC Ltd.,NCC.NS,2026-11-17,133.73,,135.95,131.6,134.58,-0.63,185.74,113.5,-28.0,False,False,1105926,,Nifty Indices constituents + Yahoo history
+DABUR,Dabur India Ltd.,DABUR.NS,2026-11-17,383.9,,389.85,379.95,381.9,0.52,534.0,354.3,-28.11,False,False,975687,,Nifty Indices constituents + Yahoo history
+HDBFS,HDB Financial Services Ltd.,HDBFS.NS,2026-11-17,572.5,,575.85,564.6,566.0,1.15,796.7,494.15,-28.14,False,False,182880,,Nifty Indices constituents + Yahoo history
+UTIAMC,UTI Asset Management Company Ltd.,UTIAMC.NS,2026-11-17,846.15,,859.8,830.65,842.2,0.47,1180.0,781.8,-28.29,False,False,81998,,Nifty Indices constituents + Yahoo history
+CHOLAHLDNG,Cholamandalam Financial Holdings Ltd.,CHOLAHLDNG.NS,2026-11-17,1439.8,,1441.4,1418.1,1460.0,-1.38,2008.0,1236.7,-28.3,False,False,60234,,Nifty Indices constituents + Yahoo history
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Ltd.,ZFCVINDIA.NS,2026-11-17,2182.1,,2212.0,2155.1,2207.5,-1.15,3044.0,2053.0,-28.31,False,False,36831,,Nifty Indices constituents + Yahoo history
+JIOFIN,Jio Financial Services Ltd.,JIOFIN.NS,2026-11-17,226.66,,228.7,225.36,226.0,0.29,316.85,202.51,-28.46,False,False,6763417,,Nifty Indices constituents + Yahoo history
+SIGNATURE,Signatureglobal (India) Ltd.,SIGNATURE.NS,2026-11-17,823.0,,827.0,765.15,766.6,7.36,1153.9,695.0,-28.68,False,False,902053,,Nifty Indices constituents + Yahoo history
+NMDC,NMDC Ltd.,NMDC.NS,2026-11-17,69.51,,69.66,67.9,68.92,0.86,97.49,65.15,-28.7,False,False,9197920,,Nifty Indices constituents + Yahoo history
+ITC,ITC Ltd.,ITC.NS,2026-11-17,293.75,,296.95,292.3,295.1,-0.46,412.0,252.8,-28.7,False,False,11331156,,Nifty Indices constituents + Yahoo history
+ANANTRAJ,Anant Raj Ltd.,ANANTRAJ.NS,2026-11-17,462.5,,470.1,456.0,462.8,-0.06,649.0,403.0,-28.74,False,False,854616,,Nifty Indices constituents + Yahoo history
+JMFINANCIL,JM Financial Ltd.,JMFINANCIL.NS,2026-11-17,113.3,,115.3,113.1,114.56,-1.1,159.73,103.0,-29.07,False,False,946941,,Nifty Indices constituents + Yahoo history
+PAGEIND,Page Industries Ltd.,PAGEIND.NS,2026-11-17,30940.0,,31825.0,30875.0,31465.0,-1.67,43855.0,29805.0,-29.45,False,False,32023,,Nifty Indices constituents + Yahoo history
+ASTRAL,Astral Ltd.,ASTRAL.NS,2026-11-17,1246.4,,1267.5,1241.9,1257.0,-0.84,1768.7,1215.5,-29.53,False,False,228624,,Nifty Indices constituents + Yahoo history
+CIEINDIA,CIE Automotive India Ltd.,CIEINDIA.NS,2026-11-17,370.6,,371.7,361.55,368.4,0.6,526.0,341.0,-29.54,False,False,72491,,Nifty Indices constituents + Yahoo history
+SCI,Shipping Corporation of India Ltd.,SCI.NS,2026-11-17,259.27,,263.97,258.6,265.0,-2.16,368.75,195.55,-29.69,False,False,1074801,,Nifty Indices constituents + Yahoo history
+WIPRO,Wipro Ltd.,WIPRO.NS,2026-11-17,191.38,,193.32,190.01,194.6,-1.65,273.1,156.79,-29.92,False,False,9654613,,Nifty Indices constituents + Yahoo history
+M&MFIN,Mahindra & Mahindra Financial Services Ltd.,M&MFIN.NS,2026-11-17,290.55,,296.45,286.7,286.85,1.29,415.0,253.4,-29.99,False,False,2570703,,Nifty Indices constituents + Yahoo history
+ATUL,Atul Ltd.,ATUL.NS,2026-11-17,5024.0,,5149.0,5020.0,5166.0,-2.75,7180.0,4995.0,-30.03,False,False,20275,,Nifty Indices constituents + Yahoo history
+GODREJCP,Godrej Consumer Products Ltd.,GODREJCP.NS,2026-11-17,888.25,,907.15,886.4,870.75,2.01,1273.9,777.2,-30.27,False,False,515660,,Nifty Indices constituents + Yahoo history
+NETWEB,Netweb Technologies India Ltd.,NETWEB.NS,2026-11-17,4040.9,,4135.0,3990.0,4059.0,-0.45,5813.0,2920.0,-30.49,False,False,505993,,Nifty Indices constituents + Yahoo history
+AMBER,Amber Enterprises India Ltd.,AMBER.NS,2026-11-17,6228.5,,6330.0,6208.5,6252.0,-0.38,8974.0,5400.5,-30.59,False,False,159206,,Nifty Indices constituents + Yahoo history
+MMTC,MMTC Ltd.,MMTC.NS,2026-11-17,54.33,,54.68,53.5,53.91,0.78,78.35,49.41,-30.66,False,False,779192,,Nifty Indices constituents + Yahoo history
+J&KBANK,Jammu & Kashmir Bank Ltd.,J&KBANK.NS,2026-11-17,139.86,,141.08,136.98,137.32,1.85,201.75,97.35,-30.68,False,False,1749773,,Nifty Indices constituents + Yahoo history
+YESBANK,Yes Bank Ltd.,YESBANK.NS,2026-11-17,17.81,,18.14,17.7,18.02,-1.17,25.78,15.1,-30.92,False,False,88196419,,Nifty Indices constituents + Yahoo history
+ZENSARTECH,Zensar Technolgies Ltd.,ZENSARTECH.NS,2026-11-17,524.2,,539.35,523.05,539.1,-2.76,758.9,416.15,-30.93,False,False,228800,,Nifty Indices constituents + Yahoo history
+JUBLFOOD,Jubilant Foodworks Ltd.,JUBLFOOD.NS,2026-11-17,427.1,,439.8,426.9,431.05,-0.92,619.0,397.8,-31.0,False,False,647097,,Nifty Indices constituents + Yahoo history
+CONCORDBIO,Concord Biotech Ltd.,CONCORDBIO.NS,2026-11-17,556.7,,584.4,556.3,581.0,-4.18,807.5,493.5,-31.06,False,False,460487,,Nifty Indices constituents + Yahoo history
+WAAREEENER,Waaree Energies Ltd.,WAAREEENER.NS,2026-11-17,2446.6,,2474.9,2411.7,2441.0,0.23,3557.0,2161.5,-31.22,False,False,251968,,Nifty Indices constituents + Yahoo history
+NTPCGREEN,NTPC Green Energy Ltd.,NTPCGREEN.NS,2026-11-17,82.45,,83.1,82.05,82.33,0.15,119.95,79.0,-31.26,False,False,764548,,Nifty Indices constituents + Yahoo history
+SAMMAANCAP,Sammaan Capital Ltd.,SAMMAANCAP.NS,2026-11-17,132.16,,137.36,132.0,137.36,-3.79,192.34,111.42,-31.29,False,False,3870726,,Nifty Indices constituents + Yahoo history
+UPL,UPL Ltd.,UPL.NS,2026-11-17,557.6,,568.5,556.0,563.45,-1.04,812.2,476.45,-31.35,False,False,1968592,,Nifty Indices constituents + Yahoo history
+RHIM,RHI MAGNESITA INDIA LTD.,RHIM.NS,2026-11-17,342.7,,342.8,326.2,330.15,3.8,499.6,323.05,-31.41,False,False,796110,,Nifty Indices constituents + Yahoo history
+HSCL,Himadri Speciality Chemical Ltd.,HSCL.NS,2026-11-17,561.45,,567.75,548.0,559.7,0.31,819.5,418.5,-31.49,False,False,848846,,Nifty Indices constituents + Yahoo history
+ABREL,Aditya Birla Real Estate Ltd.,ABREL.NS,2026-11-17,1255.0,,1275.0,1202.6,1203.0,4.32,1839.0,995.0,-31.76,False,False,259815,,Nifty Indices constituents + Yahoo history
+TECHNOE,Techno Electric & Engineering Company Ltd.,TECHNOE.NS,2026-11-17,943.25,,955.85,942.1,955.15,-1.25,1383.9,802.0,-31.84,False,False,77213,,Nifty Indices constituents + Yahoo history
+RAMCOCEM,The Ramco Cements Ltd.,RAMCOCEM.NS,2026-11-17,824.95,,831.0,811.6,819.7,0.64,1214.5,711.3,-32.07,False,False,27721,,Nifty Indices constituents + Yahoo history
+DALBHARAT,Dalmia Bharat Ltd.,DALBHARAT.NS,2026-11-17,1532.6,,1548.1,1511.0,1514.9,1.17,2260.0,1319.0,-32.19,False,False,74540,,Nifty Indices constituents + Yahoo history
+CREDITACC,CreditAccess Grameen Ltd.,CREDITACC.NS,2026-11-17,1107.9,,1114.7,1095.0,1102.6,0.48,1634.0,993.9,-32.2,False,False,71642,,Nifty Indices constituents + Yahoo history
+IGL,Indraprastha Gas Ltd.,IGL.NS,2026-11-17,146.72,,148.17,146.01,147.4,-0.46,216.5,125.63,-32.23,False,False,612662,,Nifty Indices constituents + Yahoo history
+TTML,Tata Teleservices (Maharashtra) Ltd.,TTML.NS,2026-11-17,37.1,,37.82,36.9,37.38,-0.75,54.78,31.22,-32.27,False,False,2690094,,Nifty Indices constituents + Yahoo history
+PFC,Power Finance Corporation Ltd.,PFC.NS,2026-11-17,329.1,,330.65,327.1,332.8,-1.11,486.5,310.3,-32.35,False,False,4024303,,Nifty Indices constituents + Yahoo history
+AMBUJACEM,Ambuja Cements Ltd.,AMBUJACEM.NS,2026-11-17,387.55,,390.45,380.45,382.0,1.45,573.1,341.0,-32.38,False,False,1970414,,Nifty Indices constituents + Yahoo history
+CROMPTON,Crompton Greaves Consumer Electricals Ltd.,CROMPTON.NS,2026-11-17,209.85,,214.71,209.35,211.38,-0.72,310.5,191.55,-32.42,False,False,1740951,,Nifty Indices constituents + Yahoo history
+PATANJALI,Patanjali Foods Ltd.,PATANJALI.NS,2026-11-17,401.6,,405.85,399.0,400.7,0.22,594.95,328.2,-32.5,False,False,771130,,Nifty Indices constituents + Yahoo history
+NATCOPHARM,NATCO Pharma Ltd.,NATCOPHARM.NS,2026-11-17,827.0,,842.95,822.0,828.65,-0.2,1226.8,773.6,-32.59,False,False,543717,,Nifty Indices constituents + Yahoo history
+FIVESTAR,Five-Star Business Finance Ltd.,FIVESTAR.NS,2026-11-17,436.15,,442.75,421.0,442.65,-1.47,647.0,338.15,-32.59,False,False,233049,,Nifty Indices constituents + Yahoo history
+DCMSHRIRAM,DCM Shriram Ltd.,DCMSHRIRAM.NS,2026-11-17,892.75,,898.85,891.2,896.95,-0.47,1325.0,866.6,-32.62,False,False,6243,,Nifty Indices constituents + Yahoo history
+OLAELEC,Ola Electric Mobility Ltd.,OLAELEC.NS,2026-11-17,33.04,,34.38,32.94,33.73,-2.05,49.05,22.25,-32.64,False,False,44208306,,Nifty Indices constituents + Yahoo history
+GPIL,Godawari Power & Ispat Ltd.,GPIL.NS,2026-11-17,215.43,,223.5,214.0,223.45,-3.59,320.0,189.15,-32.68,False,False,864960,,Nifty Indices constituents + Yahoo history
+TENNIND,Tenneco Clean Air India Ltd.,TENNIND.NS,2026-11-17,441.25,,450.75,435.2,432.55,2.01,657.0,419.1,-32.84,False,False,700198,,Nifty Indices constituents + Yahoo history
+VMM,Vishal Mega Mart Ltd.,VMM.NS,2026-11-17,93.63,,95.87,93.12,94.9,-1.34,139.5,84.16,-32.88,False,False,2446228,,Nifty Indices constituents + Yahoo history
+GODIGIT,Go Digit General Insurance Ltd.,GODIGIT.NS,2026-11-17,243.3,,246.45,242.3,250.35,-2.82,364.0,231.65,-33.16,False,False,84235,,Nifty Indices constituents + Yahoo history
+MUTHOOTFIN,Muthoot Finance Ltd.,MUTHOOTFIN.NS,2026-11-17,2770.1,,2800.0,2760.5,2777.0,-0.25,4149.5,2305.0,-33.24,False,False,189354,,Nifty Indices constituents + Yahoo history
+IDBI,IDBI Bank Ltd.,IDBI.NS,2026-11-17,78.96,,80.6,78.66,79.68,-0.9,118.38,61.01,-33.3,False,False,7994899,,Nifty Indices constituents + Yahoo history
+TORNTPOWER,Torrent Power Ltd.,TORNTPOWER.NS,2026-11-17,1216.5,,1233.5,1208.7,1221.0,-0.37,1824.1,1147.5,-33.31,False,False,151817,,Nifty Indices constituents + Yahoo history
+TIINDIA,Tube Investments of India Ltd.,TIINDIA.NS,2026-11-17,2223.9,,2264.0,2213.9,2236.6,-0.57,3335.2,2005.2,-33.32,False,False,82497,,Nifty Indices constituents + Yahoo history
+BAYERCROP,Bayer Cropscience Ltd.,BAYERCROP.NS,2026-11-17,3375.6,,3419.7,3371.2,3447.0,-2.07,5063.0,3226.1,-33.33,False,False,12831,,Nifty Indices constituents + Yahoo history
+CUMMINSIND,Cummins India Ltd.,CUMMINSIND.NS,2026-11-17,4067.0,,4199.0,4046.2,4233.0,-3.92,6100.0,3883.1,-33.33,False,False,1036012,,Nifty Indices constituents + Yahoo history
+BLS,BLS International Services Ltd.,BLS.NS,2026-11-17,226.92,,228.3,223.03,225.07,0.82,340.4,203.15,-33.34,False,False,240557,,Nifty Indices constituents + Yahoo history
+WHIRLPOOL,Whirlpool of India Ltd.,WHIRLPOOL.NS,2026-11-17,829.5,,843.0,826.0,835.5,-0.72,1245.0,706.0,-33.37,False,False,75768,,Nifty Indices constituents + Yahoo history
+ATGL,Adani Total Gas Ltd.,ATGL.NS,2026-11-17,571.45,,576.75,566.5,575.4,-0.69,859.85,462.8,-33.54,False,False,153983,,Nifty Indices constituents + Yahoo history
+INDIACEM,India Cements Ltd.,INDIACEM.NS,2026-11-17,322.6,,337.0,320.4,348.8,-7.51,485.8,286.5,-33.59,False,False,714795,,Nifty Indices constituents + Yahoo history
+JBMA,JBM Auto Ltd.,JBMA.NS,2026-11-17,488.85,,494.5,482.55,488.1,0.15,738.5,465.0,-33.81,False,False,78109,,Nifty Indices constituents + Yahoo history
+HUDCO,Housing & Urban Development Corporation Ltd.,HUDCO.NS,2026-11-17,162.68,,165.9,161.3,162.88,-0.12,246.85,141.81,-34.1,False,False,1167659,,Nifty Indices constituents + Yahoo history
+UBL,United Breweries Ltd.,UBL.NS,2026-11-17,1196.4,,1204.0,1183.3,1216.0,-1.61,1817.0,1128.6,-34.16,False,False,78541,,Nifty Indices constituents + Yahoo history
+HFCL,HFCL Ltd.,HFCL.NS,2026-11-17,185.44,,194.5,185.44,195.2,-5.0,282.25,59.82,-34.3,False,False,8425527,,Nifty Indices constituents + Yahoo history
+MAZDOCK,Mazagoan Dock Shipbuilders Ltd.,MAZDOCK.NS,2026-11-17,1863.8,,1899.9,1858.6,1873.0,-0.49,2848.0,1687.5,-34.56,False,False,296139,,Nifty Indices constituents + Yahoo history
+AAVAS,Aavas Financiers Ltd.,AAVAS.NS,2026-11-17,1127.5,,1148.7,1112.2,1123.5,0.36,1724.6,1055.3,-34.62,False,False,118693,,Nifty Indices constituents + Yahoo history
+INFY,Infosys Ltd.,INFY.NS,2026-11-17,1129.8,,1145.0,1125.3,1145.1,-1.34,1728.0,980.4,-34.62,False,False,4414784,,Nifty Indices constituents + Yahoo history
+PINELABS,Pine Labs Ltd.,PINELABS.NS,2026-11-17,171.2,,174.24,169.79,169.69,0.89,262.0,134.73,-34.66,False,False,4211917,,Nifty Indices constituents + Yahoo history
+SCHNEIDER,Schneider Electric Infrastructure Ltd.,SCHNEIDER.NS,2026-11-17,1011.4,,1036.0,1008.0,1024.9,-1.32,1548.0,571.85,-34.66,False,False,74761,,Nifty Indices constituents + Yahoo history
+KEI,KEI Industries Ltd.,KEI.NS,2026-11-17,3851.8,,4020.0,3851.8,4040.0,-4.66,5899.0,3666.1,-34.7,False,False,531520,,Nifty Indices constituents + Yahoo history
+OLECTRA,Olectra Greentech Ltd.,OLECTRA.NS,2026-11-17,1013.25,,1029.7,1008.45,1025.25,-1.17,1556.0,866.6,-34.88,False,False,108274,,Nifty Indices constituents + Yahoo history
+BSOFT,Birlasoft Ltd.,BSOFT.NS,2026-11-17,305.75,,318.85,305.25,314.6,-2.81,474.0,267.05,-35.5,False,False,1390374,,Nifty Indices constituents + Yahoo history
+LTM,LTM Ltd.,LTM.NS,2026-11-17,4121.2,,4234.0,4085.1,4199.7,-1.87,6429.5,3528.0,-35.9,False,False,142357,,Nifty Indices constituents + Yahoo history
+SYNGENE,Syngene International Ltd.,SYNGENE.NS,2026-11-17,434.7,,442.0,433.0,444.3,-2.16,678.95,344.45,-35.97,False,False,279064,,Nifty Indices constituents + Yahoo history
+TMPV,Tata Motors Passenger Vehicles Ltd.,TMPV.NS,2026-11-17,259.75,,268.5,259.1,262.4,-1.01,408.0,259.1,-36.34,False,False,13642537,,Nifty Indices constituents + Yahoo history
+GRSE,Garden Reach Shipbuilders & Engineers Ltd.,GRSE.NS,2026-11-17,2123.7,,2159.0,2110.2,2130.3,-0.31,3339.0,1842.0,-36.4,False,False,148311,,Nifty Indices constituents + Yahoo history
+NIACL,The New India Assurance Company Ltd.,NIACL.NS,2026-11-17,154.25,,156.69,153.73,156.18,-1.24,242.6,116.97,-36.42,False,False,385666,,Nifty Indices constituents + Yahoo history
+BIKAJI,Bikaji Foods International Ltd.,BIKAJI.NS,2026-11-17,486.85,,502.0,482.65,484.15,0.56,768.5,446.1,-36.65,False,False,229201,,Nifty Indices constituents + Yahoo history
+BDL,Bharat Dynamics Ltd.,BDL.NS,2026-11-17,1032.4,,1053.4,1029.0,1033.0,-0.06,1629.9,974.0,-36.66,False,False,586923,,Nifty Indices constituents + Yahoo history
+SBICARD,SBI Cards and Payment Services Ltd.,SBICARD.NS,2026-11-17,572.75,,578.5,570.1,578.3,-0.96,906.4,519.05,-36.81,False,False,299420,,Nifty Indices constituents + Yahoo history
+SONATSOFTW,Sonata Software Ltd.,SONATSOFTW.NS,2026-11-17,237.78,,242.47,237.0,241.11,-1.38,376.9,207.15,-36.91,False,False,263082,,Nifty Indices constituents + Yahoo history
+IRCTC,Indian Railway Catering And Tourism Corporation Ltd.,IRCTC.NS,2026-11-17,450.85,,455.65,449.0,451.65,-0.18,716.45,435.0,-37.07,False,False,448748,,Nifty Indices constituents + Yahoo history
+SJVN,SJVN Ltd.,SJVN.NS,2026-11-17,55.86,,56.95,55.71,56.58,-1.27,88.8,46.08,-37.09,False,False,1628179,,Nifty Indices constituents + Yahoo history
+RAILTEL,Railtel Corporation Of India Ltd.,RAILTEL.NS,2026-11-17,245.44,,252.88,244.9,246.31,-0.35,391.0,220.06,-37.23,False,False,410556,,Nifty Indices constituents + Yahoo history
+ACC,ACC Ltd.,ACC.NS,2026-11-17,1244.5,,1250.0,1213.5,1220.1,2.0,1987.0,1115.0,-37.37,False,False,120255,,Nifty Indices constituents + Yahoo history
+NBCC,NBCC (India) Ltd.,NBCC.NS,2026-11-17,78.82,,79.88,77.67,78.22,0.77,125.85,67.02,-37.37,False,False,3933624,,Nifty Indices constituents + Yahoo history
+INDIAMART,Indiamart Intermesh Ltd.,INDIAMART.NS,2026-11-17,1554.3,,1589.9,1553.0,1608.4,-3.36,2482.1,1465.4,-37.38,False,False,52640,,Nifty Indices constituents + Yahoo history
+TEJASNET,Tejas Networks Ltd.,TEJASNET.NS,2026-11-17,402.85,,409.9,400.4,406.35,-0.86,644.75,294.0,-37.52,False,False,386383,,Nifty Indices constituents + Yahoo history
+AIAENG,AIA Engineering Ltd.,AIAENG.NS,2026-11-17,3233.1,,3262.0,3196.2,3186.0,1.48,5180.0,3082.7,-37.58,False,False,73882,,Nifty Indices constituents + Yahoo history
+TATAELXSI,Tata Elxsi Ltd.,TATAELXSI.NS,2026-11-17,3711.8,,3770.0,3706.3,3750.0,-1.02,5950.0,2996.0,-37.62,False,False,75738,,Nifty Indices constituents + Yahoo history
+COCHINSHIP,Cochin Shipyard Ltd.,COCHINSHIP.NS,2026-11-17,1149.0,,1173.0,1146.6,1158.0,-0.78,1842.8,1101.2,-37.65,False,False,740513,,Nifty Indices constituents + Yahoo history
+ECLERX,eClerx Services Ltd.,ECLERX.NS,2026-11-17,1548.5,,1572.9,1544.5,1567.9,-1.24,2497.5,1320.0,-38.0,False,False,31830,,Nifty Indices constituents + Yahoo history
+RRKABEL,R R Kabel Ltd.,RRKABEL.NS,2026-11-17,1848.8,,1903.0,1831.1,1883.9,-1.86,2983.8,1281.3,-38.04,False,False,364772,,Nifty Indices constituents + Yahoo history
+BATAINDIA,Bata India Ltd.,BATAINDIA.NS,2026-11-17,635.75,,641.2,631.0,632.25,0.55,1029.9,599.6,-38.27,False,False,44908,,Nifty Indices constituents + Yahoo history
+CESC,CESC Ltd.,CESC.NS,2026-11-17,125.81,,127.44,125.6,128.48,-2.08,204.5,122.15,-38.48,False,False,942735,,Nifty Indices constituents + Yahoo history
+SUZLON,Suzlon Energy Ltd.,SUZLON.NS,2026-11-17,37.11,,37.73,36.96,37.43,-0.85,60.45,33.15,-38.61,False,False,31185061,,Nifty Indices constituents + Yahoo history
+APTUS,Aptus Value Housing Finance India Ltd.,APTUS.NS,2026-11-17,189.59,,194.38,173.11,175.93,7.76,309.0,171.32,-38.64,False,False,26661802,,Nifty Indices constituents + Yahoo history
+BBTC,Bombay Burmah Trading Corporation Ltd.,BBTC.NS,2026-11-17,1251.5,,1264.9,1241.1,1262.3,-0.86,2048.0,1107.5,-38.89,False,False,16978,,Nifty Indices constituents + Yahoo history
+GMDCLTD,Gujarat Mineral Development Corporation Ltd.,GMDCLTD.NS,2026-11-17,471.6,,481.65,470.15,477.15,-1.16,771.9,394.55,-38.9,False,False,487157,,Nifty Indices constituents + Yahoo history
+KIRLOSENG,Kirloskar Oil Eng Ltd.,KIRLOSENG.NS,2026-11-17,1654.6,,1703.4,1653.7,1692.3,-2.23,2720.0,1058.5,-39.17,False,False,279913,,Nifty Indices constituents + Yahoo history
+TRITURBINE,Triveni Turbine Ltd.,TRITURBINE.NS,2026-11-17,477.8,,488.45,476.1,482.8,-1.04,787.6,428.35,-39.33,False,False,171917,,Nifty Indices constituents + Yahoo history
+EIDPARRY,E.I.D. Parry (India) Ltd.,EIDPARRY.NS,2026-11-17,651.55,,656.3,642.2,654.9,-0.51,1079.9,594.35,-39.67,False,False,216323,,Nifty Indices constituents + Yahoo history
+ESCORTS,Escorts Kubota Ltd.,ESCORTS.NS,2026-11-17,2400.2,,2418.9,2385.8,2401.8,-0.07,3987.8,2376.4,-39.81,False,False,63160,,Nifty Indices constituents + Yahoo history
+ZEEL,Zee Entertainment Enterprises Ltd.,ZEEL.NS,2026-11-17,71.24,,73.0,70.66,71.66,-0.59,118.35,60.6,-39.81,False,False,11477290,,Nifty Indices constituents + Yahoo history
+HEXT,Hexaware Technologies Ltd.,HEXT.NS,2026-11-17,486.0,,489.5,481.75,480.3,1.19,807.75,400.2,-39.83,False,False,85696,,Nifty Indices constituents + Yahoo history
+GODFRYPHLP,Godfrey Phillips India Ltd.,GODFRYPHLP.NS,2026-11-17,1797.9,,1831.3,1791.0,1807.0,-0.5,2995.0,1641.2,-39.97,False,False,99042,,Nifty Indices constituents + Yahoo history
+IRFC,Indian Railway Finance Corporation Ltd.,IRFC.NS,2026-11-17,82.18,,83.95,81.49,82.11,0.09,137.17,73.05,-40.09,False,False,10250198,,Nifty Indices constituents + Yahoo history
+NLCINDIA,NLC India Ltd.,NLCINDIA.NS,2026-11-17,232.15,,236.8,232.05,235.99,-1.63,387.8,222.3,-40.14,False,False,527566,,Nifty Indices constituents + Yahoo history
+SUMICHEM,Sumitomo Chemical India Ltd.,SUMICHEM.NS,2026-11-17,342.05,,347.0,340.6,346.6,-1.31,572.05,310.85,-40.21,False,False,99856,,Nifty Indices constituents + Yahoo history
+JKTYRE,JK Tyre & Industries Ltd.,JKTYRE.NS,2026-11-17,364.6,,372.9,360.45,363.5,0.3,611.9,296.75,-40.42,False,False,599236,,Nifty Indices constituents + Yahoo history
+AWL,AWL Agri Business Ltd.,AWL.NS,2026-11-17,166.14,,167.9,164.81,165.21,0.56,282.9,159.65,-41.27,False,False,893701,,Nifty Indices constituents + Yahoo history
+IRCON,IRCON International Ltd.,IRCON.NS,2026-11-17,108.6,,111.47,107.38,109.08,-0.44,186.44,95.76,-41.75,False,False,1664856,,Nifty Indices constituents + Yahoo history
+IFCI,IFCI Ltd.,IFCI.NS,2026-11-17,61.67,,62.92,60.9,62.21,-0.87,107.5,46.23,-42.63,False,False,6933714,,Nifty Indices constituents + Yahoo history
+HINDCOPPER,Hindustan Copper Ltd.,HINDCOPPER.NS,2026-11-17,433.15,,439.05,425.3,430.55,0.6,760.05,308.5,-43.01,False,False,2836303,,Nifty Indices constituents + Yahoo history
+JWL,Jupiter Wagons Ltd.,JWL.NS,2026-11-17,203.78,,208.31,200.49,203.52,0.13,358.25,169.08,-43.12,False,False,723037,,Nifty Indices constituents + Yahoo history
+GALLANTT,Gallantt Ispat Ltd.,GALLANTT.NS,2026-11-17,534.3,,544.4,532.05,543.1,-1.62,948.0,496.25,-43.64,False,False,339429,,Nifty Indices constituents + Yahoo history
+JPPOWER,Jaiprakash Power Ventures Ltd.,JPPOWER.NS,2026-11-17,13.69,,13.86,13.66,13.81,-0.87,24.5,12.5,-44.12,False,False,15175810,,Nifty Indices constituents + Yahoo history
+ABLBL,Aditya Birla Lifestyle Brands Ltd.,ABLBL.NS,2026-11-17,76.9,,78.4,76.7,78.26,-1.74,142.35,69.2,-45.98,False,False,282020,,Nifty Indices constituents + Yahoo history
+POLICYBZR,PB Fintech Ltd.,POLICYBZR.NS,2026-11-17,1048.7,,1094.9,1045.4,1081.2,-3.01,1964.2,916.0,-46.61,False,False,1634485,,Nifty Indices constituents + Yahoo history
+AFCONS,Afcons Infrastructure Ltd.,AFCONS.NS,2026-11-17,219.89,,232.32,219.37,215.63,1.98,415.4,203.6,-47.07,False,False,4454802,,Nifty Indices constituents + Yahoo history
+FIRSTCRY,Brainbees Solutions Ltd.,FIRSTCRY.NS,2026-11-17,177.82,,179.4,156.6,160.4,10.86,341.4,156.4,-47.91,False,False,81787023,,Nifty Indices constituents + Yahoo history
+THERMAX,Thermax Ltd.,THERMAX.NS,2026-11-17,2726.0,,2764.0,2723.9,2776.2,-1.81,5277.8,2666.6,-48.35,False,False,76626,,Nifty Indices constituents + Yahoo history
+JAINREC,Jain Resource Recycling Ltd.,JAINREC.NS,2026-11-17,288.55,,292.0,285.25,289.5,-0.33,593.95,264.3,-51.42,False,False,222665,,Nifty Indices constituents + Yahoo history
+RVNL,Rail Vikas Nigam Ltd.,RVNL.NS,2026-11-17,194.42,,199.69,192.31,194.36,0.03,400.7,177.86,-51.48,False,False,5123015,,Nifty Indices constituents + Yahoo history
+MAPMYINDIA,C.E. Info Systems Ltd.,MAPMYINDIA.NS,2026-11-17,867.05,,887.45,857.8,876.05,-1.03,1810.0,790.05,-52.1,False,False,62331,,Nifty Indices constituents + Yahoo history
+ABFRL,Aditya Birla Fashion and Retail Ltd.,ABFRL.NS,2026-11-17,37.71,,38.47,37.62,39.29,-4.02,79.5,37.62,-52.57,False,False,2408683,,Nifty Indices constituents + Yahoo history
+PIIND,PI Industries Ltd.,PIIND.NS,2026-11-17,1672.4,,1696.0,1667.6,1680.0,-0.45,3582.0,1667.6,-53.31,False,False,316303,,Nifty Indices constituents + Yahoo history
+INTELLECT,Intellect Design Arena Ltd.,INTELLECT.NS,2026-11-17,542.1,,546.55,529.7,536.55,1.03,1172.4,478.0,-53.76,False,False,366242,,Nifty Indices constituents + Yahoo history
+SWANCORP,Swan Corp Ltd.,SWANCORP.NS,2026-11-17,227.98,,232.0,227.3,232.49,-1.94,493.6,221.85,-53.81,False,False,143559,,Nifty Indices constituents + Yahoo history
+KAYNES,Kaynes Technology India Ltd.,KAYNES.NS,2026-11-17,2877.0,,3024.6,2865.0,2980.0,-3.46,6347.0,2744.0,-54.67,False,False,3400826,,Nifty Indices constituents + Yahoo history
+NEWGEN,Newgen Software Technologies Ltd.,NEWGEN.NS,2026-11-17,425.6,,433.4,424.4,439.15,-3.09,950.6,401.05,-55.23,False,False,305767,,Nifty Indices constituents + Yahoo history
+SWIGGY,Swiggy Ltd.,SWIGGY.NS,2026-11-17,187.96,,192.3,187.5,190.7,-1.44,421.6,174.2,-55.42,False,False,6733078,,Nifty Indices constituents + Yahoo history
+RPOWER,Reliance Power Ltd.,RPOWER.NS,2026-11-17,17.95,,18.19,17.85,18.07,-0.66,42.38,15.98,-57.65,False,False,8489501,,Nifty Indices constituents + Yahoo history
+KPITTECH,KPIT Technologies Ltd.,KPITTECH.NS,2026-11-17,532.75,,546.3,528.85,536.3,-0.66,1284.9,470.1,-58.54,False,False,726222,,Nifty Indices constituents + Yahoo history
+KEC,Kec International Ltd.,KEC.NS,2026-11-17,320.6,,326.9,319.7,324.55,-1.22,800.0,299.0,-59.92,False,False,530032,,Nifty Indices constituents + Yahoo history
+INOXWIND,Inox Wind Ltd.,INOXWIND.NS,2026-11-17,60.28,,61.15,59.22,59.5,1.31,153.45,55.1,-60.72,False,False,12735879,,Nifty Indices constituents + Yahoo history
+LATENTVIEW,Latent View Analytics Ltd.,LATENTVIEW.NS,2026-11-17,199.43,,203.92,198.53,201.51,-1.03,517.5,183.0,-61.46,False,False,243581,,Nifty Indices constituents + Yahoo history
 HEG,H.E.G. Ltd.,HEG.NS,2026-11-16,275.33,,282.01,271.5,277.85,-0.91,753.9,191.71,-63.48,False,False,880602,,Nifty Indices constituents + Yahoo history
-VEDL,Vedanta Ltd.,VEDL.NS,2026-11-17,255.23,,256.24,249.18,253.0,0.88,795.0,221.6,-67.9,False,False,4989632,,Nifty Indices constituents + Yahoo history
+VEDL,Vedanta Ltd.,VEDL.NS,2026-11-17,255.77,,256.24,249.18,253.0,1.09,795.0,221.6,-67.83,False,False,5297430,,Nifty Indices constituents + Yahoo history
