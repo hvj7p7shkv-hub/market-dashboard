@@ -88,21 +88,6 @@
     "score": 10
   },
   {
-    "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops - marketscreener.com",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbkg5SnVRTDU2Wm41akVHMVhscUo0QThsVHJmVHMyZ2xXM0JmVXNCWE1FZ1JoeTN1ZHJUNWFPbm9YUUtDd1BYMldlSnZvMzJCMkt4eGRfRVlZSTlUR2k0N0JDeU1NSHVGeHNGRnREck42RUxhZXBPNkVSbVVFTDg3amQ3Tzg0WDkzdlpGWjRDZ3pqT29yNmtRd0xuSWMxalBDV3labFBsUy13SXE0dlF4cTU5ZGFobWND?oc=5",
-    "description": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops marketscreener.com",
-    "published": "2026-11-16T19:11:47+00:00",
-    "source": "marketscreener.com",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling",
-      "macro / flows"
-    ],
-    "score": 10
-  },
-  {
     "title": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops - Yahoo Finance",
     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNGZzZDFSWFBvQXlyc0lqaEdJNEVmQkhRMmJsa0I1bm9sdF9Vd3FKZ21hT1NROFpUVkRLTzZVMnYwd01RTWpiaHBGMzd4RGdsWDBEWXhOUTFMVC13MEg4SWRxNkJ5UWdOb2RZQ0pGYlZELVYwWTNkOWFlaG0wS3A2WVNsUWEtUk1hRUV1VU5iRnFaSDBMTHdyQUUyZDdOM3M?oc=5",
     "description": "Stocks fall ahead of Nvidia earnings and Anthropic IPO; oil drops Yahoo Finance",
@@ -360,6 +345,20 @@
       "market selling"
     ],
     "score": 9
+  },
+  {
+    "title": "Global markets slide amid tech selloff, US restrictions on AI chips - Anadolu Ajansı",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYWt4dGdsYU5YSDNGRWVIeVRaZVVTUUkzbkhVMzRjbjNjVEp6N2pTR1ZXbzJ1RlFfTDFHSkoybmptOXlQU2J0ZnZuRTQwRGhFc3lWTjR1cTlZQ0tLd0k1NHFTR2pnaFFkMUd6VC1jck14ZG1fRWZmaWFpN184SUtQSmpDd0pYTGpUdmphbEN5a1dLQldHc1JuMzZwdDBBVVRTMVlodDdR?oc=5",
+    "description": "Global markets slide amid tech selloff, US restrictions on AI chips Anadolu Ajansı",
+    "published": "2026-11-17T09:55:54+00:00",
+    "source": "Anadolu Ajansı",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 8
   },
   {
     "title": "US curbs on AI chip exports to Southeast Asia trigger selloff in data centre stocks - TradingView",
@@ -640,18 +639,32 @@
     "score": 8
   },
   {
-    "title": "Chip stocks fall on US semiconductor restrictions: AlphaCheck - Yahoo Finance",
-    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0NYQzlGd3NpY1NLcXNmMm84U1pmQ1dKelhJSkRNY09iTHJVbnZfTGprZFNQWXBteHNCbnhmYVJXaDJIUEd6RkxXVlNEYzlVMzBMWnRQc0NZblllQlY3REtxN0hoQ1h2QTBzS3Q1QTh2OWdXbHBubm1IcGhBSndxNkVXa3JIMVpXUG5XV2RHcndCa2UtR1Z6NDkxTDZERXlMNmxFVUJHV2tRTXdpb1FEVkh4RlZZaTBoaWQw?oc=5",
-    "description": "Chip stocks fall on US semiconductor restrictions: AlphaCheck Yahoo Finance",
-    "published": "2026-11-16T15:00:19+00:00",
-    "source": "Yahoo Finance",
+    "title": "Why is Anthropic's IPO six times oversubscribed despite the AI selloff? - FXStreet",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWdVTXVmV1JUVk1PdEMxMXB4ejlWNktJR0Z5dzl6WXB0Skl6a3NYZXNKUGJERXU2SUUtVnlPMlhTNVB2dW9sNDJiZkNCZ3ltckZLTmlHY3pwd3RITDdobm8tOGQ4OVU2SEJzT2VXQXdEc0ZaZXdGakVNOWF1Y29LQ0lBRzBaaVNBTDJkYVBSQUswSjZIVXVCRjJkWEZ4RTRMSlBBWnpqenBPbTNidGY2N3dn?oc=5",
+    "description": "Why is Anthropic's IPO six times oversubscribed despite the AI selloff? FXStreet",
+    "published": "2026-11-17T09:42:52+00:00",
+    "source": "FXStreet",
     "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
     "themes": [
       "AI / tech risk",
       "market selling"
     ],
-    "score": 8
+    "score": 7
+  },
+  {
+    "title": "US chip export restrictions amplify Asian technology stock selloff - Thailand Business News",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTlZLSjNYLWU4MEp5eU9rOE95V1dwVDNoaEdYOVNJemRHMHNHU29aWjNiYVlsRnhFd0VRcXlYdzV0YkdBMkdsSDRNY1JMRks1X2VQQXVEME5yWmVqUUNaWmpBajFJUEJ2bjBzQUQxbF9ONXpBeFNIeTJMMjlLZG4xVkJBdzNqYVd1ODFoc2NZcmxDTTBoSnhpdG1CNU82UkZsM2g2WlBKR2NTUk5JMjBqYlpDQWZoMzJYeF9yaw?oc=5",
+    "description": "US chip export restrictions amplify Asian technology stock selloff Thailand Business News",
+    "published": "2026-11-17T09:36:38+00:00",
+    "source": "Thailand Business News",
+    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "market selling"
+    ],
+    "score": 7
   },
   {
     "title": "Asian Stocks to Fall Ahead of Nvidia, Anthropic: Markets Wrap - Bloomberg.com",
@@ -1046,20 +1059,6 @@
     "score": 7
   },
   {
-    "title": "AI selloff has investors scrambling to measure their true exposure - Yahoo",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVE1hdlB0dnhFdThYV3ZneGFDY3JGUjBWeHNlUzJSNHZYNjBrV1pxREJpcFlQeXlkUEdMY0lVOER3enppcG5MMmt5Q0p2RlNxN2ZOdGxrR2lPMUZGalI0UU1kWWVXTTNVLUdlTGJrOW9DTzlJLWNwTkdyQURHRFNsVGEtZFVMNVFMZTRRLXI3cm9iZw?oc=5",
-    "description": "AI selloff has investors scrambling to measure their true exposure Yahoo",
-    "published": "2026-11-16T11:26:52+00:00",
-    "source": "Yahoo",
-    "feed": "\"(AI OR \"artificial intelligence\" OR Nvidia OR semiconductor OR technology) (selloff OR \"market fall\" OR \"stocks fall\" OR correction) when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28AI%20OR%20%22artificial%20intelligence%22%20OR%20Nvidia%20OR%20semiconductor%20OR%20technology%29%20%28selloff%20OR%20%22market%20fall%22%20OR%20%22stocks%20fall%22%20OR%20correction%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "AI / tech risk",
-      "market selling"
-    ],
-    "score": 7
-  },
-  {
     "title": "Anthropic's AI Beats Pokemon With \"Memory Tidy-Up\" — Self-Correction After Falling Off a Ledge Three Times - BigGo Finance",
     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1ienh6NjRUX0ZKSzJwR3MtaTRiVnRmdGk1UGRXbXZrdFVtYnhDS0pxS3MyeU5JUTcyUnR5cHdQVnJ0aXc4aTJlTXc4a01jd1UtMVhkWUJXZjJCd2VHRnRZX3prZlVYX2d6OTZfYUtZd2NyZDIyT1E?oc=5",
     "description": "Anthropic's AI Beats Pokemon With \"Memory Tidy-Up\" — Self-Correction After Falling Off a Ledge Three Times BigGo Finance",
@@ -1154,20 +1153,6 @@
     "themes": [
       "AI / tech risk",
       "market selling"
-    ],
-    "score": 7
-  },
-  {
-    "title": "Closing Bell: Sensex gains 512 pts, Nifty reclaims 25,250 led by bank, FMCG shares; TMPV falls 9% - Zee Business",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT1c0eHNabzdBTWkweXpCS3AzNTB3YVZCV3hPWDhPNEFrSDlmOUFOYkZHd0V6ekFXam9ENkd5c2tqU1l1aG8xWS1QeVdXTWFPSFFHc1dtNlFmWW0yLUJIRk1DWHdlZ3pEN1RqdEJvSWd0VUNORFdWME4zMjI3SlFyak95RjhnUnRHek9kbWNhSzBSM2tZUEVUWDhvZ05GeVk5YkE?oc=5",
-    "description": "Closing Bell: Sensex gains 512 pts, Nifty reclaims 25,250 led by bank, FMCG shares; TMPV falls 9% Zee Business",
-    "published": "2026-11-16T10:02:41+00:00",
-    "source": "Zee Business",
-    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "market selling",
-      "India market"
     ],
     "score": 7
   },
@@ -1473,6 +1458,20 @@
     "score": 3
   },
   {
+    "title": "Live: Bank Nifty tops 62,400 for the first time ever; Nvidia results eyed | Closing Bell - Moneycontrol.com",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWXdIYXNrMHMtcnRPd0N2cHpsVkhuRC1qdzc0eGxBSFdkWnBjSEVzbnhRa3VMVENqRXRSTWNEOHdMUlZza1o0UUNRQmdqckZ3WHVtQnpzcVdORExydl9tSmw4amFYdld3bU11Y2J1U3NDMExIUkVQeng4LWhtWV9JLTN1X0YtNUpHX3YtbUNRSWtGT0tfeGk4TV90YmVZc0pXNzFxSzV5QkNwOU92dDljMFlzdHgydm82bk1TZ1hfTkJuY3FYZk04TWZzV2p3dTBtdUVsc1prOTRZMXhSeEhDb0s5XzlwNzFSbWpocGp30gHzAUFVX3lxTE9uQVgzQ25lUUx0cjVDb05BU1FIeElaMU54ZHB6R25EeUpma1lUWkNYSFJNTS1zQi13Uk9KN09RZ3VvOTQwV0stS0oyN3lablRPeUltMUlWTzdzNTd4TWVIQXkwa1NXSmhpZzZmaS1Dd1lMNDJBX3dfeEF1RzNWM1JJalREYnhHaW5XdHpMQlVZbTBFLTMxZFhGaGVMekFwMXlWU0NFaS13UllDZTBuZzJyRkZwS3IxQTEyMzRvU3gtUmduMXJTa1JIczMxcGtPUkQyZEFBSGJ3MlBiXzVsVVlFZk43UVZtLVRjaVMwUGF6STA4UQ?oc=5",
+    "description": "Live: Bank Nifty tops 62,400 for the first time ever; Nvidia results eyed | Closing Bell Moneycontrol.com",
+    "published": "2026-11-17T09:30:19+00:00",
+    "source": "Moneycontrol.com",
+    "feed": "\"(Nifty OR Sensex OR \"Indian shares\" OR midcap OR smallcap) (falls OR selloff OR correction OR \"risk off\") when:1d\" - Google News",
+    "source_url": "https://news.google.com/rss/search?q=%28Nifty%20OR%20Sensex%20OR%20%22Indian%20shares%22%20OR%20midcap%20OR%20smallcap%29%20%28falls%20OR%20selloff%20OR%20correction%20OR%20%22risk%20off%22%29%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
+    "themes": [
+      "AI / tech risk",
+      "India market"
+    ],
+    "score": 2
+  },
+  {
     "title": "I.T. Stocks Rebound: These Midcap I.T. Companies Could Lead India's Next Technology Sector Recovery - Business Today",
     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNbkxoUS1mM0JfUGJyZXc4VTRFUW9DMG9maFZkdzVDblJKWEpGTUJwQm5lUGhjWXJGMXNZMVdLNkltZktZamdKcmhUYllKN1lLVE1CRWl6T1NwbmZWbFhBTUg5Q0ppMmNTU052LThnRXlteUtVN3d5dnBueWhreWJVZkpwUXp4eGVSVnRIZkxEbFZDZ1dfaXlmd01pZjFHSm94MUJfRjNHaEN4SDNlM0lHclE4OG9CUWdjMXRsNF9aVnBEVHBzeFk3RWt1ZDAzendYNy1JaVJpNUJJUTlkRXBtdl9UQ2ducXpEWW9kQm5Gc2pzeHF0Y2d5SdIB_gFBVV95cUxOQVp5THVnSGc5bjJEcGZkdkRVZFNxa0ZfbFQ0QUFLVmFKelBqNFNKcWRicnBTMDA3WDlWVUZSNXZnWXA1SEFnMmJibGVYS3hBTmhLVURRNkZFeTN6MVFWcjRySG5KQzhwSkpoU2NKRTJqU1JjX1lhMlljejZiY3R3a1NFUFloVVU4dkZfV0VZT21wc2dVcnE3NG5Ka2FOaHVXc3Z6QmFnMHFuOTgxQ051N09Db0M2NjhISUd0V3RrY1JqNlRCWkJocjBmcFV1SzBKYXZNc3h3LXhCVm9xYk1YWlFuTjVwRWE4ZDF3LV90dUdKSUJWeENpUXJ5QUVOUQ?oc=5",
     "description": "I.T. Stocks Rebound: These Midcap I.T. Companies Could Lead India's Next Technology Sector Recovery Business Today",
@@ -1755,19 +1754,6 @@
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92U3Fjd2lHOGFGOGZCWE1YTDJpVmo0TktIVk5LUkx5NkE2R3B5M0Y5VjBmZWRYS25aNjB3SlhWMVFVUVNrRVZQX3YzM2FiOHg4b0FhN3kwY1dkejdFWWtFd0dNNlEtRVh4TjNLQnVzRFJWa1ZO?oc=5",
     "description": "20 Best Stocks Under 50 Rs In India November 2026 For High Returns Samco",
     "published": "2026-11-17T06:51:12+00:00",
-    "source": "Samco",
-    "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
-    "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
-    "themes": [
-      "India market"
-    ],
-    "score": 1
-  },
-  {
-    "title": "5 Best Small-Cap Stocks To Buy In India November 2026 | Top Picks & Guide - Samco",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVFRBTDFkTlBKeWlJUDlnSDdycmczUVhlZ3otYktuVkZSTGd0OEJKMkwzaDNzVER6SUdIRThLT28wWXdUaFNlWFRkOEsxcUZMYTZ0bjRwYS1XZ09oTEd0SFNOdWJTOURPUmIzbHkxLWtyQmZNN2wteGFHR2xkUWhhWWFMeEhwVHVQMnlTa1pKNC1wVXc?oc=5",
-    "description": "5 Best Small-Cap Stocks To Buy In India November 2026 | Top Picks & Guide Samco",
-    "published": "2026-11-17T06:51:10+00:00",
     "source": "Samco",
     "feed": "\"(\"broader market\" OR midcap OR smallcap) (selling OR correction OR fall OR volatility) India when:1d\" - Google News",
     "source_url": "https://news.google.com/rss/search?q=%28%22broader%20market%22%20OR%20midcap%20OR%20smallcap%29%20%28selling%20OR%20correction%20OR%20fall%20OR%20volatility%29%20India%20when%3A1d&hl=en-IN&gl=IN&ceid=IN:en",
