@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17 08:40 IST",
+  "generated_at": "2026-11-17 09:11 IST",
   "wire_file": "2026-11-17-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -14,7 +14,7 @@
     "breadth_coverage_pct": 98.3,
     "india_market_date": "2026-11-16",
     "breadth_as_of_date": "2026-11-16",
-    "breadth_date_mismatches": 26,
+    "breadth_date_mismatches": 29,
     "nifty500_downloaded": 499,
     "nifty500_expected": 500,
     "nifty500_coverage_pct": 99.8,
@@ -23,25 +23,25 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "19",
-    "wire_total_count": "171",
+    "wire_count": "20",
+    "wire_total_count": "169",
     "wire_scope_date": "2026-11-17",
-    "ai_wire_count": "12",
-    "selling_wire_count": "14",
+    "ai_wire_count": "13",
+    "selling_wire_count": "15",
     "india_wire_count": "7",
     "weak_index_count": "8",
     "valid_index_count": "25"
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-17 02:55",
-      "title": "Taiwan Stocks Plunge 2,635 Points in a Single Day; Analyst Reveals Main Cause of AI Selloff: Data Centers Stuck on Permits - BigGo Finance",
-      "text": "Latest dated headline · BigGo Finance. Today's unique wire set contains 19 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-17 03:00",
+      "title": "NVIDIA develops quantum error-correction decoder with 13,000x speedup - Interesting Engineering",
+      "text": "Latest dated headline · Interesting Engineering. Today's unique wire set contains 20 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-17",
       "title": "India relief, global AI overhang",
-      "text": "The latest wire slice for 2026-11-17 has 7 India-market wires, 14 selling/risk wires, and 12 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
+      "text": "The latest wire slice for 2026-11-17 has 7 India-market wires, 15 selling/risk wires, and 13 AI/tech-risk wires. The read is mixed: domestic relief is visible, but global tech pressure remains the overhang."
     },
     {
       "label": "AI / Chips · 2026-11-17",
@@ -437,12 +437,12 @@
       "name": "KOSPI",
       "ticker": "^KS11",
       "last_date": "2026-11-17",
-      "quote_timestamp": "2026-11-17 02:50:00+00:00",
+      "quote_timestamp": "2026-11-17 03:15:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-16",
       "previous_close": 5100.5,
-      "last": 5050.91,
-      "return_1d_pct": -0.9722545583766284,
+      "last": 5073.2,
+      "return_1d_pct": -0.5352378136947333,
       "return_5d_pct": 1.6268647350491605,
       "return_20d_pct": -11.57261850704705,
       "rsi_14": 35.46,
@@ -466,12 +466,12 @@
       "name": "Hang Seng",
       "ticker": "^HSI",
       "last_date": "2026-11-17",
-      "quote_timestamp": "2026-11-17 02:55:00+00:00",
+      "quote_timestamp": "2026-11-17 03:20:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-16",
       "previous_close": 23753.84,
-      "last": 23492.83,
-      "return_1d_pct": -1.098810833708963,
+      "last": 23590.03,
+      "return_1d_pct": -0.6896171227579462,
       "return_5d_pct": -2.8431053162273234,
       "return_20d_pct": -1.7901900868216858,
       "rsi_14": 46.24,
@@ -495,12 +495,12 @@
       "name": "Shanghai Composite",
       "ticker": "000001.SS",
       "last_date": "2026-11-17",
-      "quote_timestamp": "2026-11-17 02:55:00+00:00",
+      "quote_timestamp": "2026-11-17 03:20:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-16",
       "previous_close": 3602.57,
-      "last": 3574.93,
-      "return_1d_pct": -0.7671999570076915,
+      "last": 3595.8,
+      "return_1d_pct": -0.18804392236526635,
       "return_5d_pct": -1.5904187933205804,
       "return_20d_pct": -3.44016639872351,
       "rsi_14": 36.43,
@@ -524,12 +524,12 @@
       "name": "ASX 200",
       "ticker": "^AXJO",
       "last_date": "2026-11-17",
-      "quote_timestamp": "2026-11-17 02:50:00+00:00",
+      "quote_timestamp": "2026-11-17 03:15:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-16",
       "previous_close": 9044.7,
-      "last": 8903.5,
-      "return_1d_pct": -1.5611373761805658,
+      "last": 8890.9,
+      "return_1d_pct": -1.7004411574328193,
       "return_5d_pct": 0.16611847210372677,
       "return_20d_pct": 2.2496805861163427,
       "rsi_14": 58.84,
@@ -788,7 +788,7 @@
       "advancers": 0,
       "decliners": 5,
       "advance_decline_ratio": 0.0,
-      "average_1d_pct": -1.12,
+      "average_1d_pct": -0.86,
       "average_5d_pct": -0.23,
       "above_20dma_pct": 40.0,
       "above_50dma_pct": 20.0
@@ -1046,6 +1046,35 @@
         "region_reference_date": "2026-11-16"
       },
       {
+        "region": "Asia",
+        "name": "ASX 200",
+        "ticker": "^AXJO",
+        "last_date": "2026-11-17",
+        "quote_timestamp": "2026-11-17 03:15:00+00:00",
+        "quote_type": "Yahoo 5-minute quote",
+        "technical_as_of_date": "2026-11-16",
+        "previous_close": 9044.7,
+        "last": 8890.9,
+        "return_1d_pct": -1.7004411574328193,
+        "return_5d_pct": 0.16611847210372677,
+        "return_20d_pct": 2.2496805861163427,
+        "rsi_14": 58.84,
+        "stale_days": 0,
+        "is_stale": false,
+        "is_outlier": false,
+        "data_note": "",
+        "sma_20": 8939.65,
+        "distance_sma_20_pct": 1.18,
+        "above_sma_20": true,
+        "sma_50": 8821.19,
+        "distance_sma_50_pct": 2.53,
+        "above_sma_50": true,
+        "sma_200": 8838.43,
+        "distance_sma_200_pct": 2.33,
+        "above_sma_200": true,
+        "region_reference_date": "2026-11-17"
+      },
+      {
         "region": "US",
         "name": "Russell 2000",
         "ticker": "^RUT",
@@ -1073,35 +1102,6 @@
         "distance_sma_200_pct": -0.76,
         "above_sma_200": false,
         "region_reference_date": "2026-11-16"
-      },
-      {
-        "region": "Asia",
-        "name": "ASX 200",
-        "ticker": "^AXJO",
-        "last_date": "2026-11-17",
-        "quote_timestamp": "2026-11-17 02:50:00+00:00",
-        "quote_type": "Yahoo 5-minute quote",
-        "technical_as_of_date": "2026-11-16",
-        "previous_close": 9044.7,
-        "last": 8903.5,
-        "return_1d_pct": -1.5611373761805658,
-        "return_5d_pct": 0.16611847210372677,
-        "return_20d_pct": 2.2496805861163427,
-        "rsi_14": 58.84,
-        "stale_days": 0,
-        "is_stale": false,
-        "is_outlier": false,
-        "data_note": "",
-        "sma_20": 8939.65,
-        "distance_sma_20_pct": 1.18,
-        "above_sma_20": true,
-        "sma_50": 8821.19,
-        "distance_sma_50_pct": 2.53,
-        "above_sma_50": true,
-        "sma_200": 8838.43,
-        "distance_sma_200_pct": 2.33,
-        "above_sma_200": true,
-        "region_reference_date": "2026-11-17"
       },
       {
         "region": "US",
@@ -1143,10 +1143,11 @@
       "expected_date": "",
       "date_aligned": true,
       "date_counts": {
-        "2026-11-13": 34,
-        "2026-11-16": 26
+        "2026-11-13": 31,
+        "2026-11-16": 22,
+        "2026-11-17": 7
       },
-      "excluded_date_mismatch": 26,
+      "excluded_date_mismatch": 29,
       "advancers": 25,
       "decliners": 34,
       "unchanged": 0,
@@ -1154,8 +1155,8 @@
       "up_turnover_share_pct": 40.7,
       "down_turnover_share_pct": 59.3,
       "high_volume_decliners": 7,
-      "above_20dma_pct": 70.6,
-      "above_50dma_pct": 64.7,
+      "above_20dma_pct": 67.7,
+      "above_50dma_pct": 61.3,
       "coverage_pct": 98.3,
       "ad_ratio": 0.74,
       "intraday_quotes": 59,
@@ -22306,7 +22307,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-17T08:40:30+05:30",
+    "generated_at": "2026-11-17T09:10:55+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34720,6 +34721,15 @@
       "description": "AMD, Intel and Nvidia Fall as AI Chip Selloff Continues TradingView"
     },
     {
+      "published": "2026-11-17T02:46:26+00:00",
+      "score": 9.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "联合早报",
+      "title": "Singapore semiconductor stocks fall nearly 4% as US tightens AI chip export controls - 联合早报",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRmF2djM1YVFBUUZCdTNMVEU1VUJGZUI0enFkZ2g4RkxYRGhnSmdzcU12YkJWbTNreHF5bmVXcXJkYkhQUGpQbk1LS0xYMmthS0JQVmpQbzIzX1NyTUM3UkQxcXQ4QkgtblhwWDRVVDE1VTkxakpEcnVSWHMxZF9nc3dkQWlqenZkQTVTUGtmOFhwSWpsbi1KbUVXRnRfdFcxeHFNUFAyYkNrdE9CRlBxc0lRbUpxMHlDTmVPYjhMR3RreFE5dWc?oc=5",
+      "description": "Singapore semiconductor stocks fall nearly 4% as US tightens AI chip export controls 联合早报"
+    },
+    {
       "published": "2026-11-17T02:27:58+00:00",
       "score": 9.0,
       "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
@@ -34900,15 +34910,6 @@
       "description": "AI Chip Selloff Opens Contrarian Opportunities for Decade-Long Investors NAI500"
     },
     {
-      "published": "2026-11-17T02:00:00+00:00",
-      "score": 8.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "www.tokenpost.com",
-      "title": "AI bull case holds through selloff as Nvidia is not innovation’s sole driver, Tom Lee says - www.tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05TmdQUnlOZVBmSDJsMmIyaFVXbFZUVUUtY3BCMFhxWk5ia0dVZWJsNnYyOUo4X3JvbFlYRndZV1hnSW1LQURPUGdhdFRHZ0hKV2tzdDYyVzlIQQ?oc=5",
-      "description": "AI bull case holds through selloff as Nvidia is not innovation’s sole driver, Tom Lee says www.tokenpost.com"
-    },
-    {
       "published": "2026-11-16T23:00:32+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -34936,7 +34937,7 @@
       "description": "Stock Market Today, Nov. 16: Tech Selloff Deepens as AI Leadership Crisis Rattles Nasdaq Yahoo Finance"
     },
     {
-      "published": "2026-11-16T22:19:54+00:00",
+      "published": "2026-11-16T22:19:27+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
       "source": "CNBC",
@@ -34990,6 +34991,15 @@
       "description": "STMicroelectronics Falls as Sector-Wide Chip Selloff Appears to Pressure Shares Quiver Quantitative"
     },
     {
+      "published": "2026-11-16T16:07:35+00:00",
+      "score": 8.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "The Edge Singapore",
+      "title": "US stocks fall before Nvidia earnings, Anthropic IPO - The Edge Singapore",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOQTM0elZQMVZGNzdISXdod0o4bEJZVklqaHA1Z1ZJWVpfYXc4VWJmbTJxZFRLVUR5UUlfTXNWWXFmdGljRy1MOEoyb2xNWkFaQnA4MWc4RlR4TmZpeEhOR3gybjNtTkYzbGxrTVNCTkxpNE1DQm96eXYzRTZQRmN4V0dzdERuY25BdXdwaWpxYnFrUGZZczI0?oc=5",
+      "description": "US stocks fall before Nvidia earnings, Anthropic IPO The Edge Singapore"
+    },
+    {
       "published": "2026-11-16T15:27:31+00:00",
       "score": 8.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -35035,15 +35045,6 @@
       "description": "Fed Gov. Michelle Bowman: Risk of \"Large Correction\" in Stocks if AI Doesn't Pan Out The Motley Fool"
     },
     {
-      "published": "2026-11-16T08:07:35+00:00",
-      "score": 8.0,
-      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
-      "source": "Yahoo Finance Singapore",
-      "title": "US stocks fall before Nvidia earnings, Anthropic IPO - Yahoo Finance Singapore",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRk5xX3cyb3hfVGZkYTNRMUVoVUR0cm9jTWtPMjc2blVGeEJvMFhPcHRBQkIyc0JacWxsYy1Fcmsyb2ZnWVp4UHQzNjFkSTlncGdSODZpTVo0WXhoZ1h0M2xnYUFQbGh2cklVeFRtUHRjLTFTVEo4RGlyMmNEdmFCQ3YxYW4wQQ?oc=5",
-      "description": "US stocks fall before Nvidia earnings, Anthropic IPO Yahoo Finance Singapore"
-    },
-    {
       "published": "2026-11-16T08:06:34+00:00",
       "score": 8.0,
       "themes": "['market selling', 'India market', 'macro / flows']",
@@ -35069,6 +35070,15 @@
       "title": "KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul - BeInCrypto",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5Lb3JYbDl5QnFPamFrR1RoVU55QnhXMmhpOFpOWU5DRVVrM25VaTZ5SjQwbFhtcVNQTDVtWGJSMThacGVTVllfSVc3bE8zTlhFTGJXckYyUkpBVzQtS2xJOHJDa0FVMHBhUkh6VXQ2WHZLOV9uWXVRYQ?oc=5",
       "description": "KOSPI Falls Near 3% as Friday's Nvidia Selloff Reaches Seoul BeInCrypto"
+    },
+    {
+      "published": "2026-11-17T03:00:00+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "Interesting Engineering",
+      "title": "NVIDIA develops quantum error-correction decoder with 13,000x speedup - Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVU90NldQMVVZTlNzMFJuN0xBRlR3Q2ZPUFhmQ2dobFZRM25MVDdCRFV4THM1QnlweFhLU3NkZFVjT25BY1ZsYjN1VEd5OTVkZWVyUXVMblZMbElsU1lfZEcwZW1OTHZYUFNFaDNsQ3RtajZzZDNicUNuTGREVHlEUm5OUlNUZzJpN2xrdzNIS0JLcXBIOXZIU1V0dEE?oc=5",
+      "description": "NVIDIA develops quantum error-correction decoder with 13,000x speedup Interesting Engineering"
     },
     {
       "published": "2026-11-17T02:55:00+00:00",
@@ -35123,15 +35133,6 @@
       "title": "Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms - Los Angeles Times",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNRDFmeWs4Mm9sak00SUdyanU5R3pJZmREWUFPa0lhRGpMellwbG90YlgwNm5VbmZfZ2daNGZSN1hyZ0k3c0N2REQ2YXRWbHBJSDUtb3c0bG1tM0djR0NlQlVob0p1VkdGaTZRUnl2ZXF2X2kxN29seVN2M2NhcjQxR0lRWEdqa3NEZG5PM1BEdUlSaXhqZXVfeTFaaWgtSnRYOTVsQmNyOWM2dS1TR1o3SDV1TGdWQzJZai1ucjlvVTRTejVXV1NsZF95LUJhREY5?oc=5",
       "description": "Stocks tumble on Wall St. as Nvidia leads another sell-off in tech firms Los Angeles Times"
-    },
-    {
-      "published": "2026-11-16T20:55:01+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "www.tokenpost.com",
-      "title": "AI Selloff Spurs Portfolio Reviews as Hedge Funds Cut Exposure - www.tokenpost.com",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QUEJiaXc3MU8yRGN1WDUxbFVpNFR6aUV0M1F1eWZFS21NbUFRSEtQZHhsaXd1SUhmSTg0QTlGdGp0ektpVkhsVVFpWDE1M3FBbUdWbnBiYzBFZw?oc=5",
-      "description": "AI Selloff Spurs Portfolio Reviews as Hedge Funds Cut Exposure www.tokenpost.com"
     },
     {
       "published": "2026-11-16T20:44:05+00:00",
@@ -35440,15 +35441,6 @@
       "description": "Nifty, Sensex open higher despite Wall Street selloff; TMPV leads losses BusinessLine"
     },
     {
-      "published": "2026-11-16T03:11:30+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Yahoo Finance",
-      "title": "Western Digital Corp. (WDC) Faces Growing AI Spending Concerns After 17% Selloff - Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcEhTTHRPS2tEWHBBWGRrb3NubXBrRkl3MTlnWjRIcHlEeTBsNzR4Q1drNmVfRXdJcTRaeGd0U1FuN2Z3TzdQVUpNMjRCOU5IS0lnN19DeE9jeGNkdjl4TTA4N1VYbFdybW5HaGVBVVlTckNsNTg3eUtubXBQQXZ3emxkaVF1cEcxUEpSRVJXbURETXczaGxCbWln?oc=5",
-      "description": "Western Digital Corp. (WDC) Faces Growing AI Spending Concerns After 17% Selloff Yahoo Finance"
-    },
-    {
       "published": "2026-11-17T02:23:39+00:00",
       "score": 6.0,
       "themes": "['market selling', 'India market']",
@@ -35501,6 +35493,15 @@
       "title": "Altiva Equity Long-Short Reg Gr NAV, Mutual Fund Returns & Scheme History - HDFC Sky",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ILTdranVjSHZLV0JIeDQ3OF9mczk1UGpickNpTUYxdU5fWF82TWxmVFI5RTVwUkFKNzliRU5yTUpiYnRibHBFSW5tQWV1Mk13aFBwcVhZSjBBc1RZbk1kYzZ0QnZMQk1vMmlVT0ZNS0pVQQ?oc=5",
       "description": "Altiva Equity Long-Short Reg Gr NAV, Mutual Fund Returns & Scheme History HDFC Sky"
+    },
+    {
+      "published": "2026-11-16T13:47:12+00:00",
+      "score": 4.0,
+      "themes": "['macro / flows']",
+      "source": "Business Standard",
+      "title": "Rupee flies high in Asia on easing crude oil prices, foreign flows - Business Standard",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr?oc=5",
+      "description": "Rupee flies high in Asia on easing crude oil prices, foreign flows Business Standard"
     },
     {
       "published": "2026-11-16T13:45:40+00:00",
@@ -35564,15 +35565,6 @@
       "title": "Sensex roars 414.36 points in early trade; Nifty rallies 102.10 points as FII buying fuels market rally - Telegraph India",
       "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRVRDQnpIOWRYNmlBR2l4NWp5aGRPR0ZUdlU4dzVWWW83MW1vYXZFYnYxd3J3ck84RUVjTGVWUmM2WmZxeUFzZjFkUWhLS2F1dFl4Z2Y1MWVVRWhuZ0R6aGJlZkxnamJZMG1JeG1nOXNDb2h5SkdLRjZGRWdUYkRxUkEtQVVJaUFkOHNMWEo0XzcxeDJjM3hMMnQzejcydjEyZnphY3lMakQ2amtpdG1WSnYxeXhFRzREaEdyUkRWTEp5dnlheWFrNnZzMXo3b1FzZHpnT1JkWDN1SjhrNXBZYmpjSU5OMkhRNXfSAe8BQVVfeXFMTlVjbG9ONU40VXVFcFhJcVczV2VTT3pKR1E3Y0djaW1SX3pQVGk3WlFlU0NzRWdzb29FR0FjU0NIWWx4Uk9BTHVxTnIweUxjVWFRRk9BQ09FWjhuWURDRHdaNWFtTVhrYTFpOFA0QUpHSVBuSWxWVG9jaEtzNTQ4WWtDc2pLSzZxV3RqUWd6OU13WnV5NmxCVk1NcGNZckpqXzRNa3NxTnI1VEg4LS1tT3Btb3RuR0pXSVZJOGYyWGpvWUU5bTM3bVhKVTNLZ0NBa2ZSOElTUHFuaHc4eXY3U3pyWkZDZU1jYmZJSHR6ZmM?oc=5",
       "description": "Sensex roars 414.36 points in early trade; Nifty rallies 102.10 points as FII buying fuels market rally Telegraph India"
-    },
-    {
-      "published": "2026-11-16T03:27:44+00:00",
-      "score": 4.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "News Karnataka",
-      "title": "Stock Market Outlook: WPI, FII Flows and Crude Oil - News Karnataka",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUnZwUHJGNkZwRnpndkRKS2NxMGRKTmJtOTc2UlhRa3ZUNDNyd3dqSGRGSGtqTmJOel8yZlRjUjhwRnd1S2hJd0UtaGRxOXFHOGFMQ0JZMHJ6eW5jN3pyTEtxZmFsemg4a0NmeDJKRW9EcGlIZlpkYXNXcTNseWxKSEFPTlhOemZraEVuaE11TWp6WlJSZlJQSg?oc=5",
-      "description": "Stock Market Outlook: WPI, FII Flows and Crude Oil News Karnataka"
     },
     {
       "published": "2026-11-17T00:45:44+00:00",
@@ -35791,15 +35783,6 @@
       "description": "Sensex, Nifty gain over 0.5% as banks, FMCG shine; broader market slips Business Standard"
     },
     {
-      "published": "2026-11-16T13:47:33+00:00",
-      "score": 2.0,
-      "themes": "['India market', 'macro / flows']",
-      "source": "Business Standard",
-      "title": "Rupee emerges as Asia's best-performing currency on strong FPI inflows - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMzEzVG02SjY0N3NIMmJZaF9yTHF1TXotUm8zbnczcGlFTTRKLUpGdzFGRm1Mcmg0WWpzWmIwVW9tZm9SLVpoVFRrcDVuZzM3SWotc0xuQlNuSE1yZ2UzMHVIcHFJMmtrSzVpOUVKUWxJMUdXUnB6N1l1MllvT1Zfd0FxdURsX3JjX2hDblpMU1hRbDhTM25QLU5RVWJOdW43UVpSTTNoRlJfdUJZcURCOVd3ZjNLLVBoLUVac05CQWxfV0tMZ2FUU21sdGdldjdSNlJr0gHYAUFVX3lxTE1EY2lERFdKaVU5YjJhdS1iNFVOWHRnMEhSN0RBYUZSLWhzNDdoN0t4ZWFHR24tN041c3FONWgybkpRNkMyck43dXFtdkRGWnNWemV3bDdOVnFXNDEycncxRC1SRFJiaE5vMU9HS1FRTGRiSm1HaW9WYndUZFFpNDJpcmxwbFVkcU56dU9Fdk9IaWFPT0VoTWowZHhJQk5DRzJJTGtSWG1kRERoV2ZKT0pnQUlvWjRjRnNEY0dRQjNGRVliOGRKdEZIZDZ6VHlIbW9YTmtRVVhZOQ?oc=5",
-      "description": "Rupee emerges as Asia's best-performing currency on strong FPI inflows Business Standard"
-    },
-    {
       "published": "2026-11-16T13:14:00+00:00",
       "score": 2.0,
       "themes": "['India market', 'macro / flows']",
@@ -35951,6 +35934,15 @@
       "title": "Dalal Street’s big boys bounce back - The Hans India",
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaVZxOW9IT3JuNXdtNEJ4b2Z6YndnWmRYMWg4Z2J0THJtWVNNcWlnOHMzZ0tJMGpMX2RfV0M0YnB6VVVndG9GelV5WFVGSGNMYkYwQjdtZ2pCclNnNDc2X1dwelRJdWJNVGZtSUM5X2RfdXd5T2NNQ3ZCa3F0X1Y5M0c1d2F0aFVYUTJ3dlBYc0RkTV9DOXo4SkJ5d9IBoAFBVV95cUxOLUVFcEp6RnA4UHp5cENzV3dibE1FblRuZHBGbXVhNjYwc29ROG5SdGJwNHJ6NEJvM29HNXRTbDc2b3FhRldRQll2QVlFUk1fdUtxVmlUcW9SYm96OVAxUWgtUHdqWll2VjJyVFhSdGdpMDZ0T1VJQWpHTjc1d3diWmhyeWFKMDBHVXlhbzFDMUZJZEx0YkpQYXNIejBJcTRH?oc=5",
       "description": "Dalal Street’s big boys bounce back The Hans India"
+    },
+    {
+      "published": "2026-11-16T19:49:41+00:00",
+      "score": 1.0,
+      "themes": "['market selling']",
+      "source": "Bloomberg.com",
+      "title": "Bitcoin Options Traders Brace for Slide to $60,000 After Selloff - Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPLWdwVWxaMG5xZ2JlN1c1dURPTENWQjBQa2R0TC1PMUNybXczejBzSTMxWXg5NVhkUTBBTmRrVUozZ2M3bGdYNDVNd3Z0eTVIUlNpb0JCel9LbW8wM0dfZUhfWEh3MTdOUzV5MzgyVHNyWXhWd1Y3N3IwV25DUjQ2X0J2Z1h2VWxWWFhVTlJ4Y2tLX3ZaU1lSLWFMTEF5N0ZWaVF1ZkN5bE4?oc=5",
+      "description": "Bitcoin Options Traders Brace for Slide to $60,000 After Selloff Bloomberg.com"
     },
     {
       "published": "2026-11-16T19:17:26+00:00",
@@ -36106,13 +36098,13 @@
       "description": "Swiggy among 10 midcap stocks that dropped up to 50% in CY26 The Economic Times"
     },
     {
-      "published": "2026-11-16T10:25:07+00:00",
+      "published": "2026-11-16T10:21:12+00:00",
       "score": 1.0,
       "themes": "['India market']",
-      "source": "Business Standard",
-      "title": "Sebi may propose raising FPI beneficial ownership threshold to 25% - Business Standard",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRUNkWDFwNS1HbGx6MG5aam12NDRmeDF4RTd6amVaWEtXWHFXUEVwRElWakh3S2FSWllhc0tGdFRCMHp3NUcwRE01OHZkWXMtRFlZc0NhbGtBRmpLN2dBQjBhS2ZlbnJTTHB6M0s1OFJSbkdVOENQVEFjZ2p0SEFGOC1wNmZQNmRYNll1cjN0UWY4QkY5T0xFTFc5WHJHSFBLbTFJX2FDb0xmT3ozUVMzdjNoR0VFY3k2QTA5UENIeVhUWmRzZ0JEM0UyLUnSAdIBQVVfeXFMTUFGYnJnRUtzcTZ5REl5bDB5RkJsV2lTZFhQdEZBNndIOEVlcUlvTFBma1FDOUkwbnc0eWFsUjdNVm9Gay1Ka1VlbERnQVlJTXRkZXJ5R2VySXZnbi1McVpZSFBCeEl6SnJYTEJCSWd4QXhKbHRMeTlST09vTVRLMXdzRW14cmE2aVBSeDgwU2lxYnl4WTNaWDVVcVlJeHJZaHBXTzUwck0xUk1JT3pVVXNaWGViS0JGbmRMS19sM0ItdGZUWFZTT2U1V3FvR3ZyTW13?oc=5",
-      "description": "Sebi may propose raising FPI beneficial ownership threshold to 25% Business Standard"
+      "source": "The Economic Times",
+      "title": "Sebi may propose raising FPI beneficial ownership threshold to 25%; plans consultation paper - The Economic Times",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOUHQ2TWZXelVyRG4xUEk1aHozd0U4SGRmVGliU1RXRm5UZFd4VFF0MmpIc1BIS1EyWW9nT0tnYXFaZ1pSTmRnRnhRSXI1THExZ0tyZjh6ZVdJV3pZaG45S1pUZGhvX0JpQ1FleG5lTlZvOWNGaFpybHF4TWZYVEpnaEFWTWxldGx2R3dWNDM4SXRaZ1hyaUFzRjFlTDNyNGo3U0ZkdFRpQlZmR3liRHQ0MzJNZk5zbU15MG5TYkRZamx3WXhpSmNzbzdDT2tpZVVVd1ZWMVpUdVViajJRQnhiQ1BGWXI5ZVpFMC1pZGRDRUlYQ1lBTG9z0gH8AUFVX3lxTFBfVjEtdjNjYkIyYW1QaHBNYlRWLVZrbUFiMlRDV0JiLWxuNS1NS3BKNlhydTduWTBHRUUwa0tvVjRSTlpaVDAzRFhRcDVvMU9kOTFEcmNOX1R4X1JOUUNYTVJsY1hoZlRhbzNKN2d0dmZLMDV6UUZUTDc0Tm9vUF96TTUxRm8wVUtzdHB2YXc1OGxUYWpiUU1iQkZ6NUp2eEVNZ1J2WnB4VHFYdEFRdlVEZC1JS3FkMmhYTnVtMTRLT3d3UXIzRm04LUlQdzdfbVdWZjd4V2U1ZWJKS2JFb1Q1SER2Zm9sdXdHaHAxSm53anpmeUdNUzB5RHZJQw?oc=5",
+      "description": "Sebi may propose raising FPI beneficial ownership threshold to 25%; plans consultation paper The Economic Times"
     },
     {
       "published": "2026-11-16T10:16:37+00:00",
@@ -36158,15 +36150,6 @@
       "title": "SEBI may pitch raising FPI beneficial ownership threshold to 25 percent to ease compliance - Moneycontrol.com",
       "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQcGJtTlE5YU1YSi1WMTh2RU8yZWtmLWZkb21wSmRRZk8taVp3RlR5b3BIa0JuXzMzaU5QNWItTkI1Mm9rLWhHdkd3ODI5bDByY3NoODlvSEJPaHdLY2RKdlRRNUF5Z010bkpXWENLVE1SYzFmbjJDdFNVWDRPZ2hVZWRyRlEyemw4TmdHVkxpdjFUaThvd2VmeE50ODVTajVHYXZfQUlkc3BNdmFNSmN4M2JrdUNZeTlrb2g3ODdkaXZPM2dTQVlfM1JDa3lMZDhPX1E5TWNpcVhJeTdpdThlQmtCT0pTc3Iz0gHuAUFVX3lxTE14Zms2X0U1all3SmpYeUJFVnlIV01yalFDUVJVdFhiZE1vT3NpZVJIcFJVV3NhWVNsMEdvNTlNVHA4NGswOEhwYjdDZV9RRGZYcDc3ZG8tUHdvZDV1WjRfeUVVNU9kNEN0SU8xSWFGYjJYTkRncEhTZUVhTWNZZkRNMXFTLWVkd1A0N0UtcXczTFA2TzhzbVgtVm5ZeWdKbllYQ05qZ3RBdnJMSjVzLUhud1VOeHhwOHBaRGxRTk5neUJTc2hjLUtPX1U4U3F5OU4wb3ladXhDNHUwVDUxM2Y2YlkzQjluVld1dkJseWc?oc=5",
       "description": "SEBI may pitch raising FPI beneficial ownership threshold to 25 percent to ease compliance Moneycontrol.com"
-    },
-    {
-      "published": "2026-11-16T03:34:00+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "TradingView",
-      "title": "Stock recommendations for 16 November from MarketSmith India - TradingView",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOT2g5U0p3bWlPSVAtQTA2TGFKMlVteXh0cjBFQ0psUFhTejFLQnJadm10NlJJLTZuRFJwc0wzTE9yLWVyTUVwN3FqeUR3R0pNbm5adFdndlFWdXZmRzVmWGdTVURPNUtMSGgzUUhTTFMwY0U3bERJSFlBNVVtSElTM0c0VWw2NzlaMzVfc2hQVk9zRjdieWl1TnhiVHlQUWpyczYtS0FHaVZwRFlRb2FRMmQ3bG1Xc2lp?oc=5",
-      "description": "Stock recommendations for 16 November from MarketSmith India TradingView"
     }
   ]
 }
