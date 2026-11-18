@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-18 10:08
+Generated: 2026-11-18 10:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -36,7 +36,17 @@ GIFT Nifty falls 133 pts, signals weak start for Sensex, Nifty despite Nvidia ea
 
 Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com Investing.com India
 
-### 4. TSX drops more than 1% as global tech selloff deepens ahead of Nvidia earnings - Investing.com Canada
+### 4. Nifty 50 Faces Prolonged Volatility as Foreign Selling Persists - Multibagg AI
+
+- Source: Multibagg AI
+- Published: 2026-11-18T02:00:40+00:00
+- Themes: AI / tech risk, market selling, India market
+- Score: 12
+- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeWNUMnpoeDZjcTlLY3EzSlVGaXRqaGFlSWMxWWhSNEpIaEFTZTBlQ3dHZURuNjhwNnFzOWtncDh3YmJPeUxmRF95cndPNnd0eXhhczd2Ulp4cHFkWjhFcHdyNWtiRm1uN2p6QU55SFdXNXdnZ2NvN0VfeWNjaXpYc3RUTFVJSTZWTG1SSk1tWXp5T2lCOFFBc1BMUkN4SE1iLVlKdGpyMmI?oc=5
+
+Nifty 50 Faces Prolonged Volatility as Foreign Selling Persists Multibagg AI
+
+### 5. TSX drops more than 1% as global tech selloff deepens ahead of Nvidia earnings - Investing.com Canada
 
 - Source: Investing.com Canada
 - Published: 2026-11-17T21:46:36+00:00
@@ -46,25 +56,15 @@ Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By
 
 TSX drops more than 1% as global tech selloff deepens ahead of Nvidia earnings Investing.com Canada
 
-### 5. Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs - bfsi.economictimes.indiatimes.com
+### 6. Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs - ChiniMandi
 
-- Source: bfsi.economictimes.indiatimes.com
-- Published: 2026-11-18T05:21:32+00:00
+- Source: ChiniMandi
+- Published: 2026-11-18T04:31:40+00:00
 - Themes: market selling, India market, macro / flows
 - Score: 9
-- Link: https://news.google.com/rss/articles/CBMi8gFBVV95cUxQVjMxdHdUOVRpY3VraVBPVXJNUU1ocHJZSnJ3V0ZtUXFfRV9DdDdsZ0YzZFBTejZuVUVDbXlPaDNHQ3pLVnNQelcyaDBfYU03d2ZuOEhHOFl4U0hrUFp0cmxZUjRvQU5IUW1TWTVUOFMzRWpmeUVuTTVkNlQtZ2plQWZvcjByUzhRUEJ5bnh0a3ZkSFZRU3l4T09KbkFqbmxYT1JKRUNXeHpKYkpUeGotNUM2c1dEYWNRV3BZRUtTRjAtbThkdk9Gc09rVVZkaXFUOWZPT3ZJWXptRzNVa3pLUjVUT0szT2hBOWQxNzFyT29OUdIB8gFBVV95cUxQVjMxdHdUOVRpY3VraVBPVXJNUU1ocHJZSnJ3V0ZtUXFfRV9DdDdsZ0YzZFBTejZuVUVDbXlPaDNHQ3pLVnNQelcyaDBfYU03d2ZuOEhHOFl4U0hrUFp0cmxZUjRvQU5IUW1TWTVUOFMzRWpmeUVuTTVkNlQtZ2plQWZvcjByUzhRUEJ5bnh0a3ZkSFZRU3l4T09KbkFqbmxYT1JKRUNXeHpKYkpUeGotNUM2c1dEYWNRV3BZRUtTRjAtbThkdk9Gc09rVVZkaXFUOWZPT3ZJWXptRzNVa3pLUjVUT0szT2hBOWQxNzFyT29OUQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTGJRNlF2WEgwZzJ4TXFBWk9rX3VQSHFkalNySm9XYm04cWliWEE1ajBfby1WdmVGODBRNmhmLUJ4YmVrY2F3ajlPSFdsUWRsRGszd05JNDdOdTd3MVIyX0RVMGMxQlNJUkhiOUd2bTBZUHRHZFZkcWc1SEQ2TksxYnZiVm9JdHFUSHdCaE5vdmtMaFVLYW1IbWJZNVRmVEpzclVCTm8wb2RuOEROWjdVNkxEQWx1dmk4aEVjTG9lRHU?oc=5
 
-Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs bfsi.economictimes.indiatimes.com
-
-### 6. Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs - ANI News
-
-- Source: ANI News
-- Published: 2026-11-18T04:16:00+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxOaldNMHZsSUlQRjF3dmx6NHNxREllQzlBZHdSX3otekFhZnlEWXdXS3Y0OEFoV1gxaDBOYlVKNWVvOUZ6cE9VTXE4SEIwOU5nenlGLXpvWkVNaTBFVXNnNUdBNVVJTm5ULUNmRDZ0UlhzanFkOEVsNVB5bE0yM1pBN1VPVVBUbFdseElHY3VFNDZaUG94eUdwWVFiQ0Vfd0VrMFJMZ2N5SGZpLW1SRWF0TDhjM0pSajVtYi1vS0pqaV9sQW5NNVl0bGVTczRkQmpFRUMzaWZ3blpOTm5SNU1v?oc=5
-
-Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs ANI News
+Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs ChiniMandi
 
 ### 7. TCS, Infosys, other IT stocks fall up to 3% as Nvidia earnings beat eases AI fears; South Korea’s Kospi ri - The Economic Times
 
@@ -126,7 +126,17 @@ Tokyo stocks fall on U.S. chip export controls, Nvidia earnings awaited 毎日�
 
 Wall Street mixed but stable after AI selloff ahead of Nvidia earnings MySA
 
-### 13. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - The Batesville Daily Guard
+### 13. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - San Bernardino Sun
+
+- Source: San Bernardino Sun
+- Published: 2026-11-17T13:36:28+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMiZkFVX3lxTE1XMnlLZVBjSm11MDJHTVFHSFRqNjNoeXhNS0g5MFZVbTUxNEowbVp4MHNvZk9nQ1JPNzFfYWprdHhhR2JiSFRXaGtEbXFfb2gtSHJVM1Y5d2QxbldBbVl1Zy1xYzdFUQ?oc=5
+
+Wall Street stabilizes after another AI selloff ahead of Nvidia earnings San Bernardino Sun
+
+### 14. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - The Batesville Daily Guard
 
 - Source: The Batesville Daily Guard
 - Published: 2026-11-17T13:22:31+00:00
@@ -136,7 +146,7 @@ Wall Street mixed but stable after AI selloff ahead of Nvidia earnings MySA
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings The Batesville Daily Guard
 
-### 14. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Eagle-Tribune
+### 15. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Eagle-Tribune
 
 - Source: Eagle-Tribune
 - Published: 2026-11-17T13:22:31+00:00
@@ -146,7 +156,7 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings The Bat
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Eagle-Tribune
 
-### 15. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Tahlequah Daily Press
+### 16. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Tahlequah Daily Press
 
 - Source: Tahlequah Daily Press
 - Published: 2026-11-17T13:22:31+00:00
@@ -156,7 +166,7 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Eagle-T
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Tahlequah Daily Press
 
-### 16. Wall Street after another AI selloff ahead of Nvidia earnings - The Daily Review
+### 17. Wall Street after another AI selloff ahead of Nvidia earnings - The Daily Review
 
 - Source: The Daily Review
 - Published: 2026-11-17T13:11:07+00:00
@@ -166,17 +176,47 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Tahlequ
 
 Wall Street after another AI selloff ahead of Nvidia earnings The Daily Review
 
-### 17. Why Is the Stock Market Down Today? The AI Selloff Before Nvidia Earnings (17 November 2026) - Admirals
+### 18. Sensex falls 500 points, Nifty declines 0.63% as investors book profits after November rally - The Tribune
 
-- Source: Admirals
-- Published: 2026-11-17T10:15:32+00:00
+- Source: The Tribune
+- Published: 2026-11-18T10:27:41+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxOX2hIVlRtbTFyX0xNYzUycDRPMmpsMVFSVXJpYlNiTnFoY1lFTUd2aVBBMEh5aHJTWnJhZVpoTkQtWGNHVkRJZWNZZl9rTWpyZ0haTVF5NXZVdWhFQVp1LVg2STMyOGttaXFSOTA3VG8zYW9waDh2ZkdvT2xWQnFDNE1TT1JRc25Ob3pneVNLRUJrbEdPYThxZF8zcWlXUEd3Tmp4dUpFNWxXOFpSbzhKUlR5anpET05IeWY2UnlDOE9zaUhxaU1HUEpnSUllc1nSAdMBQVVfeXFMUDlZWmdFMFJacFd1YkJKamxWajhodWJ4RlRQTXpLcXdSaHVzNFlwT19OVGJjQmZqOVh2TGJqNHNXbGIxc0gxcmZYQUVOYzBEdDd6N0FoRGpzdnRJWTJsV053UlJOeWlHa2VYNnA1VGN5TThSamtmeGNDR21kZmhuSjVLczM3cjh0Zkd6TkZoN2Q5Q2gtNVYxcWU1RHAyRXdBTUJHcXZtVHp5LWJPelVKbmdaRG1HME5ld3hWWE5OWDhiOWFJQW9SZmdtWC15QmVnT0hMWQ?oc=5
+
+Sensex falls 500 points, Nifty declines 0.63% as investors book profits after November rally The Tribune
+
+### 19. Luxury stocks fall on fears AI sell-off will hit spending by wealthy US shoppers - Fashion United
+
+- Source: Fashion United
+- Published: 2026-11-18T10:25:34+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxPWDlzblVRb0dPU242dk1oUDQ3c193TER5VFBxdTJhTTZjUVVFMVBCcUZ0UXJRRTZqS2hCZlpSamo2ak1FOVpnWGdnU2doVWt0SWRsNzVxdUQ3YmdoZDNuall3Y2F5Zjc4Y25RTUpONHZRRHZ2YUxodFFiTXNnbU5xVldhY3Rmd2d0bGY1dTM2R2Fkc0FpVXlDLU5qNVEtMVN2aEN1bVZkYWRRRTRzbUhMLVFmN2hFeDJVdUJiUkkyVF9nTnZVTWY1QVVfUk1wemc?oc=5
+
+Luxury stocks fall on fears AI sell-off will hit spending by wealthy US shoppers Fashion United
+
+### 20. Equities: Sentiment recovers after selloff as Nvidia earnings provide a boost - Deutsche Bank - www.tmgm.com
+
+- Source: www.tmgm.com
+- Published: 2026-11-18T10:20:44+00:00
 - Themes: AI / tech risk, market selling, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxOS19yWWtEdmxNaG9CYjR0eHhXOWtVaTJyZmxBTVRkRGNKdVA1bHV6enpSMGU4U3pOaWJhU0NjMUdhTDh3d29SVy1hZE1ENHZBMUJxR1J2VVVMeG9qWEU0MUI1M2ZMRjQ3eXp5d1hGVXVDOFoyNG14MVZDRmE1OHZ5VGUwZVJKcjdaU3J3b1pRQTdCdDFVLU1OaUkwREx2bXNJR1ZJ?oc=5
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxNU2RjbXZKWHJUbENHUlZfUDRTblU4NGxjWU9pajRzS1E1cE1JM1lNX0lDWE1vcDRFUURXUjh6dlFPdmVNQmNKWTRNM2hHMnFQaHlUUlU3NldXdUNwcG54SnRwOWt0ZU9zOXUwcTRBTXVEV3Q2OUlkUThqMGhJamdJUW90ZC16b1p6VE1YMU9GUnpJTmwzcXBaemo2S0xfTmJpQWlJWm1pMnNLWVUweFMwcGktZWlZQ1pvVW9QN09MLS05MXZLZmhBaHk2TlMwbDRuM1E?oc=5
 
-Why Is the Stock Market Down Today? The AI Selloff Before Nvidia Earnings (17 November 2026) Admirals
+Equities: Sentiment recovers after selloff as Nvidia earnings provide a boost - Deutsche Bank www.tmgm.com
 
-### 18. Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank - FXStreet
+### 21. Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4% - India Today
+
+- Source: India Today
+- Published: 2026-11-18T10:17:16+00:00
+- Themes: market selling, India market
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxORERDcDdPejVjWEFtT2I0UHJ0T0dOME9OV3RvWnczNjRrazN5ZHRhYlhLOXd3eTFJNEczcU1LWDlFNnZwS1VYR1UtTUVqRmwwQ2R1cGNzRHZlYXViTUNnMF9oeWQ2V0ZyaGJ5TlFJRm5Id3ZwYXo1TTdEeDdjUVlJdkxLWTd3ZUwzWjFtcVZicERDZ1NwX2lOMVQ5N1RTb3lfUXhiMlhBU2ZyeXQzZzNpOEROdmkySlN6WVhjOU9sRXVpd0ktWk9PSGR3QlnSAdIBQVVfeXFMTzNUQlhWZEx0Tkt0cGtaUlotXzdxSlFEcG0wTnBlc2lpN2xhU3JSWUxUV0JQalM0TlpQYW1ESzY5elN5dC1pLUxnbTJIZ3h2ZUpSRnFiRlVkOEZVN0xiZURDLXVuT1UzX0NxR20zbGtzNjlHekhTOTNCalFEY29Tekt0c2tSMHp0a0g4Zm5BSGhydlBraWJjcWZTZUJkcW9YZnQ5Ulh6RHliLThjQXRyTGRxWUZsUnJORXVjS0dlTnBYVHpzN3ZxR1hIRUFTbjYzMXJ3?oc=5
+
+Sensex falls 500 points, Nifty settles at 25,228; Titan sinks over 4% India Today
+
+### 22. Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank - FXStreet
 
 - Source: FXStreet
 - Published: 2026-11-18T09:36:43+00:00
@@ -186,7 +226,7 @@ Why Is the Stock Market Down Today? The AI Selloff Before Nvidia Earnings (17 No
 
 Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank FXStreet
 
-### 19. Hong Kong Stocks Fall as AI Spending Caution Outweighs Strong Nvidia Forecast - marketscreener.com
+### 23. Hong Kong Stocks Fall as AI Spending Caution Outweighs Strong Nvidia Forecast - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-11-18T08:28:28+00:00
@@ -196,7 +236,7 @@ Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank FXStreet
 
 Hong Kong Stocks Fall as AI Spending Caution Outweighs Strong Nvidia Forecast marketscreener.com
 
-### 20. Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally - Fortune India
+### 24. Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally - Fortune India
 
 - Source: Fortune India
 - Published: 2026-11-18T06:08:02+00:00
@@ -206,7 +246,7 @@ Hong Kong Stocks Fall as AI Spending Caution Outweighs Strong Nvidia Forecast ma
 
 Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally Fortune India
 
-### 21. Sensex Falls 338 Points, Nifty 50 Declines 94 Points as Metal and IT Stocks Drag - Dalal Street Investment Journal
+### 25. Sensex Falls 338 Points, Nifty 50 Declines 94 Points as Metal and IT Stocks Drag - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-18T05:51:23+00:00
@@ -216,7 +256,7 @@ Sensex falls 366 points, Nifty slips below 25,300 as investors book profits afte
 
 Sensex Falls 338 Points, Nifty 50 Declines 94 Points as Metal and IT Stocks Drag Dalal Street Investment Journal
 
-### 22. Sensex falls 370 points, Nifty drops below 25,250 amid profit-taking - Telangana Today
+### 26. Sensex falls 370 points, Nifty drops below 25,250 amid profit-taking - Telangana Today
 
 - Source: Telangana Today
 - Published: 2026-11-18T04:40:10+00:00
@@ -226,7 +266,7 @@ Sensex Falls 338 Points, Nifty 50 Declines 94 Points as Metal and IT Stocks Drag
 
 Sensex falls 370 points, Nifty drops below 25,250 amid profit-taking Telangana Today
 
-### 23. Sensex falls 100 points; Nifty down 50 points: Oil prices remain flat; IT stocks witness selling - Bhaskar English
+### 27. Sensex falls 100 points; Nifty down 50 points: Oil prices remain flat; IT stocks witness selling - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-11-18T04:00:15+00:00
@@ -236,7 +276,7 @@ Sensex falls 370 points, Nifty drops below 25,250 amid profit-taking Telangana T
 
 Sensex falls 100 points; Nifty down 50 points: Oil prices remain flat; IT stocks witness selling Bhaskar English
 
-### 24. U.S. stocks fall for 4th straight day as AI sell-off deepens - 巴士的報
+### 28. U.S. stocks fall for 4th straight day as AI sell-off deepens - 巴士的報
 
 - Source: 巴士的報
 - Published: 2026-11-18T02:32:00+00:00
@@ -246,7 +286,7 @@ Sensex falls 100 points; Nifty down 50 points: Oil prices remain flat; IT stocks
 
 U.S. stocks fall for 4th straight day as AI sell-off deepens 巴士的報
 
-### 25. Japan Stocks Fall on AI Concerns Despite Nvidia Forecast; Trade Deficit Narrows - marketscreener.com
+### 29. Japan Stocks Fall on AI Concerns Despite Nvidia Forecast; Trade Deficit Narrows - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-11-18T00:24:18+00:00
@@ -256,7 +296,7 @@ U.S. stocks fall for 4th straight day as AI sell-off deepens 巴士的報
 
 Japan Stocks Fall on AI Concerns Despite Nvidia Forecast; Trade Deficit Narrows marketscreener.com
 
-### 26. New York Stocks Fall for Fourth Straight Session Ahead of Nvidia Earnings; Dow Plunges 1.6% - BigGo Finance
+### 30. New York Stocks Fall for Fourth Straight Session Ahead of Nvidia Earnings; Dow Plunges 1.6% - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-17T22:36:00+00:00
@@ -266,7 +306,7 @@ Japan Stocks Fall on AI Concerns Despite Nvidia Forecast; Trade Deficit Narrows 
 
 New York Stocks Fall for Fourth Straight Session Ahead of Nvidia Earnings; Dow Plunges 1.6% BigGo Finance
 
-### 27. Global Stocks Fall As AI Jitters, Strong Dollar Hit Major Indexes - MarketForces Africa
+### 31. Global Stocks Fall As AI Jitters, Strong Dollar Hit Major Indexes - MarketForces Africa
 
 - Source: MarketForces Africa
 - Published: 2026-11-17T20:15:33+00:00
@@ -276,7 +316,7 @@ New York Stocks Fall for Fourth Straight Session Ahead of Nvidia Earnings; Dow P
 
 Global Stocks Fall As AI Jitters, Strong Dollar Hit Major Indexes MarketForces Africa
 
-### 28. IREN stock falls 26% amid AI selloff despite ne... - Pluang
+### 32. IREN stock falls 26% amid AI selloff despite ne... - Pluang
 
 - Source: Pluang
 - Published: 2026-11-17T19:17:08+00:00
@@ -286,7 +326,7 @@ Global Stocks Fall As AI Jitters, Strong Dollar Hit Major Indexes MarketForces A
 
 IREN stock falls 26% amid AI selloff despite ne... Pluang
 
-### 29. Alibaba Stocks Fall 3.53% as US Closes Offshore AI Chip Access D - GuruFocus
+### 33. Alibaba Stocks Fall 3.53% as US Closes Offshore AI Chip Access D - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-11-17T19:02:09+00:00
@@ -296,7 +336,7 @@ IREN stock falls 26% amid AI selloff despite ne... Pluang
 
 Alibaba Stocks Fall 3.53% as US Closes Offshore AI Chip Access D GuruFocus
 
-### 30. CAC 40 Drops at Close: Global AI Correction Catches Up to Paris - Idéal Investisseur
+### 34. CAC 40 Drops at Close: Global AI Correction Catches Up to Paris - Idéal Investisseur
 
 - Source: Idéal Investisseur
 - Published: 2026-11-17T18:13:00+00:00
@@ -306,7 +346,7 @@ Alibaba Stocks Fall 3.53% as US Closes Offshore AI Chip Access D GuruFocus
 
 CAC 40 Drops at Close: Global AI Correction Catches Up to Paris Idéal Investisseur
 
-### 31. US stocks fall in countdown to Nvidia’s earnings test - Moneycontrol.com
+### 35. US stocks fall in countdown to Nvidia’s earnings test - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-17T14:51:29+00:00
@@ -316,7 +356,7 @@ CAC 40 Drops at Close: Global AI Correction Catches Up to Paris Idéal Investiss
 
 US stocks fall in countdown to Nvidia’s earnings test Moneycontrol.com
 
-### 32. Nvidia and other AI stocks hold steadier following their latest sell-off - Henry Herald
+### 36. Nvidia and other AI stocks hold steadier following their latest sell-off - Henry Herald
 
 - Source: Henry Herald
 - Published: 2026-11-17T14:09:14+00:00
@@ -326,7 +366,7 @@ US stocks fall in countdown to Nvidia’s earnings test Moneycontrol.com
 
 Nvidia and other AI stocks hold steadier following their latest sell-off Henry Herald
 
-### 33. Nasdaq slides into correction as AI selloff hits third day - Wealth Professional
+### 37. Nasdaq slides into correction as AI selloff hits third day - Wealth Professional
 
 - Source: Wealth Professional
 - Published: 2026-11-17T12:31:24+00:00
@@ -336,17 +376,37 @@ Nvidia and other AI stocks hold steadier following their latest sell-off Henry H
 
 Nasdaq slides into correction as AI selloff hits third day Wealth Professional
 
-### 34. Retail investors pour $1.6bn into Nvidia despite AI selloff - Hedgeweek
+### 38. Sensex Falls 500 Points, Nifty Sheds 159, Heres What Derailed Dalal Street’s Rally? - Free Press Journal
 
-- Source: Hedgeweek
-- Published: 2026-11-17T10:37:02+00:00
+- Source: Free Press Journal
+- Published: 2026-11-18T10:19:48+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOLS1BSGhKUlBoRkRqVUVPX1l6MGpZbVlIYm51WmNpdzJZUjlYaHE2XzdQeHBBSVVwdFAzYzNCbEZXTmxTOFkycVNjcTJSdHh2QllWY2Z5cXZGbUZOLWVDQzM5ZTM1MHpESzBCblM4aXVVVEFSNE1uaDJ5aFB0WmFaUTZQRExKRGtrWTJRUmxrUjBVdk1jUWptdmN4dTRYLUxaTm0zSkNIY3Rzbmg1aUthV284TDc5dFRRN0JGOdIBwgFBVV95cUxPWFhvd1JUS05lc216Xy1pblV2VWMyWkZmc1dobnZoaDJ0NlpUREVxTUVmY2VsMnlSdUJ4OEVLSXB2VFhmZUNvU2ZOWllHX1BoRTM5WTEydnhldHBUSENZWXp5bVhERDBfQU1JR1d2NFYtRXhTWWdRcnF0RWdEWDhWc3JBZDVYSG1LUWJ3aFJOaUpOY2cyNkhtM2ZIN1VIbWFEQkhLZEhiWDROQ2RQektxY2VveENjVGVYNlNYZjNZMTh1QQ?oc=5
+
+Sensex Falls 500 Points, Nifty Sheds 159, Heres What Derailed Dalal Street’s Rally? Free Press Journal
+
+### 39. Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-18T10:08:02+00:00
 - Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxQc1RscWNLV3JIT3N4ZmF6cFUxT1RSdkF0TkpSbTFZbVdpNTVVX0JEcUJXQjJQOUd6VW5RajZxM1ppell5S2FTaXA3dzVDUklvVDk3T3JEUWQ5dmpBRml4a2JwMzROVXlib01LVWF0YmdjS2hXalI5UDRSNlVZM3NDVS1MamFLUjdIRmEtckR3?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmdNeW9mSG4xRjFPdUpOalBoVlhOTGZJSUFRZmlUUXloX0VRV2s2X2N4UFZxUmQ2MExmUjNJV1E4eVlnZVlGWE9fTW5BV3NZR2pxNi1iclRPTUQxcUVnSGE1ZGd4SVZBX3o0NlNEcFJqN19xOURIbVcyVkRPUVdCM1VOZjRPbWR4aXY2V21qbjJ3aG1HNWNNSw?oc=5
 
-Retail investors pour $1.6bn into Nvidia despite AI selloff Hedgeweek
+Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. Yahoo Finance
 
-### 35. Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. - The Motley Fool
+### 40. Dalal Street Ends In Red As Sensex Falls Over 500 Points, Nifty Tests 25,200 - ABP Live English
+
+- Source: ABP Live English
+- Published: 2026-11-18T10:05:04+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMiugFBVV95cUxNdWplUEJVN1ZPdHlUNG5wdDJRcEYyTUpTYlBOdGh2OXFEOEJ1Sl9GYlZlTldsQXZMbzd3cWJXU2I0ZU5fbXNtU0FEWFZPaHBwVFpyMFR1aE9TLTFTMDJaeUhnNEtaVTk3WFNrWEotRlZJYjBpSFE0My1xV1lIVGZsQUhFZWdsQkxHejI3cHRYV0FpMlAxNjFUeVVfWkp0TW9BLUhDaWR1NW00c3pkZjAyWWgzcnRpcGI0emfSAb8BQVVfeXFMTlFBN1laN2RhNHBOX05taEpzaWFhVkFhNWNDYy05TlJQaTk3UkQ0VHBYVnFNczlQaHlHU2lFX3pXVkZDd1JlY1dxYWc4Sm9FaG9tTHF0bXFJSEU2YU5TTjc5WWJpY2RJbmRSSWFCcWpaV3Zob0xmTm9kMThRNk1NU1hRa0hJSTNTV25IWjJPSDdLYTBJcjUzUHM3eUQ5MmhQZGRoMkZEQlJxRTYycmhGM0lyODVNeTZ1bGJfZ1hhTWs?oc=5
+
+Dalal Street Ends In Red As Sensex Falls Over 500 Points, Nifty Tests 25,200 ABP Live English
+
+### 41. Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. - The Motley Fool
 
 - Source: The Motley Fool
 - Published: 2026-11-18T09:48:00+00:00
@@ -356,7 +416,7 @@ Retail investors pour $1.6bn into Nvidia despite AI selloff Hedgeweek
 
 Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. The Motley Fool
 
-### 36. Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn
+### 42. Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-11-18T08:51:48+00:00
@@ -366,7 +426,7 @@ Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wal
 
 Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag LinkedIn
 
-### 37. Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) - 아시아경제
+### 43. Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) - 아시아경제
 
 - Source: 아시아경제
 - Published: 2026-11-18T08:43:48+00:00
@@ -376,7 +436,7 @@ Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; 
 
 Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) 아시아경제
 
-### 38. Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers - Zee Business
+### 44. Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-18T08:22:07+00:00
@@ -386,7 +446,7 @@ Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correc
 
 Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers Zee Business
 
-### 39. Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 25,200. Key Reasons Explained - NDTV Profit
+### 45. Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 25,200. Key Reasons Explained - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-18T08:09:15+00:00
@@ -396,7 +456,7 @@ Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG s
 
 Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 25,200. Key Reasons Explained NDTV Profit
 
-### 40. Why is market falling today? Sensex slumps 700 points, Nifty below 25,200. 4 factors behind Rs 5 lakh cror - The Economic Times
+### 46. Why is market falling today? Sensex slumps 700 points, Nifty below 25,200. 4 factors behind Rs 5 lakh cror - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-18T07:42:17+00:00
@@ -406,17 +466,7 @@ Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 
 
 Why is market falling today? Sensex slumps 700 points, Nifty below 25,200. 4 factors behind Rs 5 lakh cror The Economic Times
 
-### 41. Stock Market Today: Sensex Falls 620 Points, Nifty 50 Below 25,200; Titan Tanks 5%, Caplin Point 8% - NDTV Profit
-
-- Source: NDTV Profit
-- Published: 2026-11-18T07:16:46+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMikwJBVV95cUxNemNCOG5ERGo5ZnM0Wk1lWDB3TlI0bUFkdUNVelMxckFJM1d4alFhbFJqNUNRQzVGTlMxRzBSTVJzT0dXSmQyU096MjFPemtkeEZJQ1Jpa3J5VXNnVndrY0pRQVhCT0ZxNzE2d3A4X3JrWG45bnhhLXBoMWtERDlkaDZtMXJiVWl3REk1SDhnd05sMmZMZFdldXhQeEhseHpyMnJDOFRXOGgtQlZfTmZzT29mV3lkbmd5cWNWSEdJZ0MxdU00VlVOZHhOakVDYmNKNm43Q3I1dklvWHE5bnRvM1pZd3BMT2I5eWt2VVcxTDNWckxFMWp3U2cxR0dydkNyZ2xVMmFwNWxtUzNicmcyMC1oSdIBmwJBVV95cUxONFBCb2t5V1U4TEpqZzlRWk1aSXlZQlduRmZDUTlnZUJlNmNRQVFlNlo2cXhjUnVBaGp6ZERRajA0TFFvZjFIdm9kM1p2TWc4eFhpdGJLTV85Ti00ZHFZcUFibExha1RsNWljR0t4anptaHFtUkxlM2U4WVVIay1MZ3IwRDhKSF9CQ2lqeTZjbGVkMGZSWDVnQ2dkb0gzeWdsVUdKeUtTbWJBeC1aSkVFY1EtM1NNbzFfb0NqZEEyeFJUQ1pLZzZQbEhic1FaQ2dMNU1QTFd4TkVocEw0NmsxY2VOUEZmZkFBdXlYb2xxQUs5V1U5bGdUWEppYklhNExScHd1QkY5MHhxZE5ZZ1pNV3BWY3dmUzJmbUxv?oc=5
-
-Stock Market Today: Sensex Falls 620 Points, Nifty 50 Below 25,200; Titan Tanks 5%, Caplin Point 8% NDTV Profit
-
-### 42. MSCI (MSCI) Could Be 20% Undervalued On AI Selloff Focus - Simply Wall St
+### 47. MSCI (MSCI) Could Be 20% Undervalued On AI Selloff Focus - Simply Wall St
 
 - Source: Simply Wall St
 - Published: 2026-11-18T07:09:57+00:00
@@ -426,17 +476,7 @@ Stock Market Today: Sensex Falls 620 Points, Nifty 50 Below 25,200; Titan Tanks 
 
 MSCI (MSCI) Could Be 20% Undervalued On AI Selloff Focus Simply Wall St
 
-### 43. Sensex falls 600 pts, Nifty below 25,200: Profit booking among key factors behind market decline - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-18T07:08:59+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxPRlFzdWtYZnBWenhUY2w3Slg1dUtuMTVZNEpVZTdEVHM0SU1IWW9KOVQ5SWxMYW05MnZ2c2hiVFl6cjdURC10MXZPRnFONGFObkdreGNIV1gxdU1FMld6TDhueUFRclVWT2MzZWtVQmQxaW1KQk9yMklYSExMSjJ0VC1yeUNtdld1QzZfZFhyRVFPRmdkNmgxdFNvS2xNRnRLUzY1MjJRNDgzQy1Zc0FybDBYMkVqZ3NrQXgtOUpWcUI2a2IzWWRfbDY4M3Ayb3c0Q21ZUW9sNHlkYzhJNTk0Z29zNEpnaWNyU3F2S0Vick_SAfYBQVVfeXFMUGY5UV9ud09FbENOTUtjcGVaMVVZOVBxbFBLdy11Uk10YkdjVHZXdFdIV0FQVFJMV1ZNeWpNQUpNTDRXcGhzVV9iT3c3enQ5NDhQVUdwbm9kYTJsLTlyaTJRZmNXSkhETkpzOEhLWVlQMTRWTm50MXREb2p0NXI0Zm1iamlYUXBhZVR5bklnSXlqdHBsUXQ3NXpwb1VBUzJTWC1CVnVwVmJpYWhCVFh1X0JaRFoxaGFIVkxNdkJBVld5Q1djMkdfWk40cmNsR0tvcVU3NmpvYjA3VGEwYnh6MzMyVE9LclBJbFk0WEdxYlZNQ1o2SWxR?oc=5
-
-Sensex falls 600 pts, Nifty below 25,200: Profit booking among key factors behind market decline Moneycontrol.com
-
-### 44. Education Ministry Bans Correction Tapes in CSAT After AI Cheating - 조선일보
+### 48. Education Ministry Bans Correction Tapes in CSAT After AI Cheating - 조선일보
 
 - Source: 조선일보
 - Published: 2026-11-18T07:02:54+00:00
@@ -446,7 +486,7 @@ Sensex falls 600 pts, Nifty below 25,200: Profit booking among key factors behin
 
 Education Ministry Bans Correction Tapes in CSAT After AI Cheating 조선일보
 
-### 45. Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks Drag - Dalal Street Investment Journal
+### 49. Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks Drag - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-18T06:46:41+00:00
@@ -456,7 +496,7 @@ Education Ministry Bans Correction Tapes in CSAT After AI Cheating 조선일보
 
 Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks Drag Dalal Street Investment Journal
 
-### 46. China, Hong Kong stocks fall as US-China tech tensions weigh on AI shares - The Economic Times
+### 50. China, Hong Kong stocks fall as US-China tech tensions weigh on AI shares - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-18T06:22:11+00:00
@@ -466,7 +506,7 @@ Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks 
 
 China, Hong Kong stocks fall as US-China tech tensions weigh on AI shares The Economic Times
 
-### 47. Sensex gains 11%, NSE over 10% till November 17; will momentum continue or will market witness a correction? - India TV News
+### 51. Sensex gains 11%, NSE over 10% till November 17; will momentum continue or will market witness a correction? - India TV News
 
 - Source: India TV News
 - Published: 2026-11-18T05:33:51+00:00
@@ -476,7 +516,7 @@ China, Hong Kong stocks fall as US-China tech tensions weigh on AI shares The Ec
 
 Sensex gains 11%, NSE over 10% till November 17; will momentum continue or will market witness a correction? India TV News
 
-### 48. The AI Trade Selloff Is Taking More Than Tech Stocks Down With It - Business Insider
+### 52. The AI Trade Selloff Is Taking More Than Tech Stocks Down With It - Business Insider
 
 - Source: Business Insider
 - Published: 2026-11-18T05:25:00+00:00
@@ -486,7 +526,7 @@ Sensex gains 11%, NSE over 10% till November 17; will momentum continue or will 
 
 The AI Trade Selloff Is Taking More Than Tech Stocks Down With It Business Insider
 
-### 49. Nifty Metal falls nearly 2%, Hindustan Zinc, SAIL, NALCO among top losers; what triggered the selloff? - Moneycontrol.com
+### 53. Nifty Metal falls nearly 2%, Hindustan Zinc, SAIL, NALCO among top losers; what triggered the selloff? - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-18T05:16:37+00:00
@@ -496,7 +536,7 @@ The AI Trade Selloff Is Taking More Than Tech Stocks Down With It Business Insid
 
 Nifty Metal falls nearly 2%, Hindustan Zinc, SAIL, NALCO among top losers; what triggered the selloff? Moneycontrol.com
 
-### 50. Stock Market Update: Nifty 50 Opens 64 Points Lower at 25,323.15, Sensex Falls 155 Points - Analytics Insight
+### 54. Stock Market Update: Nifty 50 Opens 64 Points Lower at 25,323.15, Sensex Falls 155 Points - Analytics Insight
 
 - Source: Analytics Insight
 - Published: 2026-11-18T05:11:58+00:00
@@ -506,7 +546,7 @@ Nifty Metal falls nearly 2%, Hindustan Zinc, SAIL, NALCO among top losers; what 
 
 Stock Market Update: Nifty 50 Opens 64 Points Lower at 25,323.15, Sensex Falls 155 Points Analytics Insight
 
-### 51. Sensex falls over 550 points, Nifty slips below 25,250 as D-Street’s explosive rally hits the brakes. Why - The Economic Times
+### 55. Sensex falls over 550 points, Nifty slips below 25,250 as D-Street’s explosive rally hits the brakes. Why - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-18T04:40:58+00:00
@@ -516,7 +556,7 @@ Stock Market Update: Nifty 50 Opens 64 Points Lower at 25,323.15, Sensex Falls 1
 
 Sensex falls over 550 points, Nifty slips below 25,250 as D-Street’s explosive rally hits the brakes. Why The Economic Times
 
-### 52. IT Stocks Fall: Wipro, Infosys, Mphasis, LTM, Others Trade Lower; Nifty IT Drops Over 1% - NDTV Profit
+### 56. IT Stocks Fall: Wipro, Infosys, Mphasis, LTM, Others Trade Lower; Nifty IT Drops Over 1% - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-18T04:20:16+00:00
@@ -526,7 +566,7 @@ Sensex falls over 550 points, Nifty slips below 25,250 as D-Street’s explosive
 
 IT Stocks Fall: Wipro, Infosys, Mphasis, LTM, Others Trade Lower; Nifty IT Drops Over 1% NDTV Profit
 
-### 53. Sensex, Nifty open in red; IT stocks drag markets, TCS falls over 2% - Zee Business
+### 57. Sensex, Nifty open in red; IT stocks drag markets, TCS falls over 2% - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-18T03:48:47+00:00
@@ -536,7 +576,7 @@ IT Stocks Fall: Wipro, Infosys, Mphasis, LTM, Others Trade Lower; Nifty IT Drops
 
 Sensex, Nifty open in red; IT stocks drag markets, TCS falls over 2% Zee Business
 
-### 54. Indian markets to open lower after Wall Street AI selloff - NewsBytes
+### 58. Indian markets to open lower after Wall Street AI selloff - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-11-18T03:24:35+00:00
@@ -546,7 +586,7 @@ Sensex, Nifty open in red; IT stocks drag markets, TCS falls over 2% Zee Busines
 
 Indian markets to open lower after Wall Street AI selloff NewsBytes
 
-### 55. Dow Jones Falls 849 Points as Nvidia Woes Hit US Stocks - HDFC Sky
+### 59. Dow Jones Falls 849 Points as Nvidia Woes Hit US Stocks - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-11-18T03:08:52+00:00
@@ -556,7 +596,7 @@ Indian markets to open lower after Wall Street AI selloff NewsBytes
 
 Dow Jones Falls 849 Points as Nvidia Woes Hit US Stocks HDFC Sky
 
-### 56. Fermilab, IBM and Nvidia Plan a Quantum Codesign Platform for Error Correction - Technology Org
+### 60. Fermilab, IBM and Nvidia Plan a Quantum Codesign Platform for Error Correction - Technology Org
 
 - Source: Technology Org
 - Published: 2026-11-18T03:05:00+00:00
@@ -566,7 +606,7 @@ Dow Jones Falls 849 Points as Nvidia Woes Hit US Stocks HDFC Sky
 
 Fermilab, IBM and Nvidia Plan a Quantum Codesign Platform for Error Correction Technology Org
 
-### 57. Five data-centre linked stocks fall more than 15% as US announces new chip export controls - The Edge Malaysia
+### 61. Five data-centre linked stocks fall more than 15% as US announces new chip export controls - The Edge Malaysia
 
 - Source: The Edge Malaysia
 - Published: 2026-11-18T01:54:12+00:00
@@ -576,7 +616,7 @@ Fermilab, IBM and Nvidia Plan a Quantum Codesign Platform for Error Correction T
 
 Five data-centre linked stocks fall more than 15% as US announces new chip export controls The Edge Malaysia
 
-### 58. Sensex slips over 400 points, Nifty falls below 25,250; Tata Group stocks, tech under pressure - The Financial Express
+### 62. Sensex slips over 400 points, Nifty falls below 25,250; Tata Group stocks, tech under pressure - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-11-18T01:41:11+00:00
@@ -586,7 +626,7 @@ Five data-centre linked stocks fall more than 15% as US announces new chip expor
 
 Sensex slips over 400 points, Nifty falls below 25,250; Tata Group stocks, tech under pressure The Financial Express
 
-### 59. U.S. Stocks Fall as Nvidia Crisis Weighs on Markets - SSBCrack
+### 63. U.S. Stocks Fall as Nvidia Crisis Weighs on Markets - SSBCrack
 
 - Source: SSBCrack
 - Published: 2026-11-17T22:37:10+00:00
@@ -596,7 +636,7 @@ Sensex slips over 400 points, Nifty falls below 25,250; Tata Group stocks, tech 
 
 U.S. Stocks Fall as Nvidia Crisis Weighs on Markets SSBCrack
 
-### 60. Stocks fall but Nvidia rebound lifts sentiment - Euronext Markets: Real-time Stock Market Data | live
+### 64. Stocks fall but Nvidia rebound lifts sentiment - Euronext Markets: Real-time Stock Market Data | live
 
 - Source: Euronext Markets: Real-time Stock Market Data | live
 - Published: 2026-11-17T22:14:38+00:00
@@ -606,7 +646,7 @@ U.S. Stocks Fall as Nvidia Crisis Weighs on Markets SSBCrack
 
 Stocks fall but Nvidia rebound lifts sentiment Euronext Markets: Real-time Stock Market Data | live
 
-### 61. Stocks fall on tech disruptions as Nvidia in focus - The Edge Malaysia
+### 65. Stocks fall on tech disruptions as Nvidia in focus - The Edge Malaysia
 
 - Source: The Edge Malaysia
 - Published: 2026-11-17T22:12:37+00:00
@@ -616,7 +656,7 @@ Stocks fall but Nvidia rebound lifts sentiment Euronext Markets: Real-time Stock
 
 Stocks fall on tech disruptions as Nvidia in focus The Edge Malaysia
 
-### 62. U.S. Stocks Fall as AI Doubts Fester - WSJ
+### 66. U.S. Stocks Fall as AI Doubts Fester - WSJ
 
 - Source: WSJ
 - Published: 2026-11-17T22:07:00+00:00
@@ -626,7 +666,7 @@ Stocks fall on tech disruptions as Nvidia in focus The Edge Malaysia
 
 U.S. Stocks Fall as AI Doubts Fester WSJ
 
-### 63. Dow plunges over 850 pts as Nvidia turmoil deepens selloff in tech stocks - The Economic Times
+### 67. Dow plunges over 850 pts as Nvidia turmoil deepens selloff in tech stocks - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-17T21:12:20+00:00
@@ -636,7 +676,7 @@ U.S. Stocks Fall as AI Doubts Fester WSJ
 
 Dow plunges over 850 pts as Nvidia turmoil deepens selloff in tech stocks The Economic Times
 
-### 64. Intel Stocks Fall 2.01% as Nvidia Cuts Stake 25% and Shareholders Sue - Yahoo Finance
+### 68. Intel Stocks Fall 2.01% as Nvidia Cuts Stake 25% and Shareholders Sue - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-17T19:06:32+00:00
@@ -646,7 +686,7 @@ Dow plunges over 850 pts as Nvidia turmoil deepens selloff in tech stocks The Ec
 
 Intel Stocks Fall 2.01% as Nvidia Cuts Stake 25% and Shareholders Sue Yahoo Finance
 
-### 65. European luxury stocks slip on fears that AI-related selloff will curb spending by wealthy Americans - The Globe and Mail
+### 69. European luxury stocks slip on fears that AI-related selloff will curb spending by wealthy Americans - The Globe and Mail
 
 - Source: The Globe and Mail
 - Published: 2026-11-17T16:51:57+00:00
@@ -656,7 +696,7 @@ Intel Stocks Fall 2.01% as Nvidia Cuts Stake 25% and Shareholders Sue Yahoo Fina
 
 European luxury stocks slip on fears that AI-related selloff will curb spending by wealthy Americans The Globe and Mail
 
-### 66. AppLovin Slides as AI Selloff and Legal Overhang Weigh on Sentiment - Quiver Quantitative
+### 70. AppLovin Slides as AI Selloff and Legal Overhang Weigh on Sentiment - Quiver Quantitative
 
 - Source: Quiver Quantitative
 - Published: 2026-11-17T16:20:00+00:00
@@ -666,7 +706,7 @@ European luxury stocks slip on fears that AI-related selloff will curb spending 
 
 AppLovin Slides as AI Selloff and Legal Overhang Weigh on Sentiment Quiver Quantitative
 
-### 67. US stocks fall on tech jitters ahead of Nvidia results - The Edge Singapore
+### 71. US stocks fall on tech jitters ahead of Nvidia results - The Edge Singapore
 
 - Source: The Edge Singapore
 - Published: 2026-11-17T16:16:22+00:00
@@ -676,7 +716,7 @@ AppLovin Slides as AI Selloff and Legal Overhang Weigh on Sentiment Quiver Quant
 
 US stocks fall on tech jitters ahead of Nvidia results The Edge Singapore
 
-### 68. U.S. stocks fall again as AI companies keep swinging - Washington Times
+### 72. U.S. stocks fall again as AI companies keep swinging - Washington Times
 
 - Source: Washington Times
 - Published: 2026-11-17T15:48:33+00:00
@@ -686,7 +726,7 @@ US stocks fall on tech jitters ahead of Nvidia results The Edge Singapore
 
 U.S. stocks fall again as AI companies keep swinging Washington Times
 
-### 69. US stocks fall again as AI companies keep swinging - Clinton Herald
+### 73. US stocks fall again as AI companies keep swinging - Clinton Herald
 
 - Source: Clinton Herald
 - Published: 2026-11-17T15:48:33+00:00
@@ -696,7 +736,7 @@ U.S. stocks fall again as AI companies keep swinging Washington Times
 
 US stocks fall again as AI companies keep swinging Clinton Herald
 
-### 70. Michael Burry Is Betting on an AI Stock Selloff. I’d Rather Buy the Dip. - Barchart.com
+### 74. Michael Burry Is Betting on an AI Stock Selloff. I’d Rather Buy the Dip. - Barchart.com
 
 - Source: Barchart.com
 - Published: 2026-11-17T14:00:03+00:00
@@ -706,7 +746,7 @@ US stocks fall again as AI companies keep swinging Clinton Herald
 
 Michael Burry Is Betting on an AI Stock Selloff. I’d Rather Buy the Dip. Barchart.com
 
-### 71. Interview: Nvidia's crisis could metastasize into broader selloff: B2BROKER CEO - Invezz
+### 75. Interview: Nvidia's crisis could metastasize into broader selloff: B2BROKER CEO - Invezz
 
 - Source: Invezz
 - Published: 2026-11-17T13:52:24+00:00
@@ -716,27 +756,27 @@ Michael Burry Is Betting on an AI Stock Selloff. I’d Rather Buy the Dip. Barch
 
 Interview: Nvidia's crisis could metastasize into broader selloff: B2BROKER CEO Invezz
 
-### 72. Chinese hedge funds suffer double-digit losses in October AI selloff - Hedgeweek
+### 76. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - IndiaIPO
 
-- Source: Hedgeweek
-- Published: 2026-11-17T10:37:02+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxPZzlfbG41cFFJU1hCbzcza1FVbW93ZG1pUTBteHpLc1BkV050YThyRjV6SzBIZ1dlWE1RZUF1NEU2dDI2OTJqajJtUjBCU250bmMxT0VBMGU2R09pV0RTTkVrekJhNkhsR1BXaFd6eXl2bjlzUEF0LWZmQlU1Q1YxQVJCMjVuUGJ6c2FpSHlPSkJENHJ4Y3lUeWZGZw?oc=5
+- Source: IndiaIPO
+- Published: 2026-11-18T10:32:17+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxNclpXYU5tc3BZQ2hlanUzS29VQmFYVV9TVklqOGdTX1A2Q1ZxSWxWMEk4ZHVZMl9KMVh1Z0VIVjZRQWNGZGlMbl91YTZSMlBUamE2bG9DYks5a0lwNE9NLXktQ0NsS1dEZHZyVXE5UmkxYTZwdTQ5dHVTT2hEMjBDZUpFSEVhZWpQSEViZkNXUFBONjE4R2FyaFdWdi1xRUVwR3RRSkRkSnVBczM2VjR2UlFWcWdEc3hXOXdIX3NVWQ?oc=5
 
-Chinese hedge funds suffer double-digit losses in October AI selloff Hedgeweek
+Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% IndiaIPO
 
-### 73. Situational Awareness rebuilt AI exposure ahead of October selloff - Hedgeweek
+### 77. Indian stock markets tumble as Sensex falls over 500 points - NewsBytes
 
-- Source: Hedgeweek
-- Published: 2026-11-17T10:32:58+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxNZWFKd1VFTWtCN2EybmRlYTBCRTZ4alR3U1hSZ1EyaHhudG5sRDg0TmdoZXpnWEdlWE9mT2ZtMDkwZlMxRWhuQ0tQSWc1M0ZWOWxJQmExemNaenF4S2pOZ1REcHFRbVhtMDM2MTZSYjYyTF9ldjlNTFFRbzZTZE9EeEJTeW5mb2trUzJGdzZoaEppYWIxbF91UQ?oc=5
+- Source: NewsBytes
+- Published: 2026-11-18T10:30:40+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYzZoUzVmSndSQXZGZ0lBSU9XSnJ4TDZKNkRIanktaUdSS1VIS19xa0dWRC1wUFBZWV80anZJeUFsR0x2QXF2S1R1WWl5dDZCV3AwUmdUU2xMTzdFU3ZrWndXVzJPNzB5UjNRZ2EtNVczRG9kZ0hDcG5DY1JySm5nYVFWWDlZbjg5LTY2VW9idDhrbXQycGhPVENtTzVKVnFJWFFyNjgtV29fb0k?oc=5
 
-Situational Awareness rebuilt AI exposure ahead of October selloff Hedgeweek
+Indian stock markets tumble as Sensex falls over 500 points NewsBytes
 
-### 74. Sensex Dips Amid Broad Market Weakness; Media Sector Shines as BSE CD Slumps - MarketsMojo
+### 78. Sensex Dips Amid Broad Market Weakness; Media Sector Shines as BSE CD Slumps - MarketsMojo
 
 - Source: MarketsMojo
 - Published: 2026-11-18T06:05:12+00:00
@@ -746,7 +786,7 @@ Situational Awareness rebuilt AI exposure ahead of October selloff Hedgeweek
 
 Sensex Dips Amid Broad Market Weakness; Media Sector Shines as BSE CD Slumps MarketsMojo
 
-### 75. Nifty 50 Today: Index Falls to 25,236 on November 18, 2026; Check 52-Week High and Low - Business News This Week
+### 79. Nifty 50 Today: Index Falls to 25,236 on November 18, 2026; Check 52-Week High and Low - Business News This Week
 
 - Source: Business News This Week
 - Published: 2026-11-18T05:40:22+00:00
@@ -756,7 +796,7 @@ Sensex Dips Amid Broad Market Weakness; Media Sector Shines as BSE CD Slumps Mar
 
 Nifty 50 Today: Index Falls to 25,236 on November 18, 2026; Check 52-Week High and Low Business News This Week
 
-### 76. Trade Setup for Today: Wall Street Slump and Commodity Sell-off Weigh on Sentiment; GIFT Nifty Points to Gap-Down as of November 18, 2026 - scanx.trade
+### 80. Trade Setup for Today: Wall Street Slump and Commodity Sell-off Weigh on Sentiment; GIFT Nifty Points to Gap-Down as of November 18, 2026 - scanx.trade
 
 - Source: scanx.trade
 - Published: 2026-11-18T02:56:58+00:00
@@ -765,43 +805,3 @@ Nifty 50 Today: Index Falls to 25,236 on November 18, 2026; Check 52-Week High a
 - Link: https://news.google.com/rss/articles/CBMigAJBVV95cUxNMGYzaXNXVlRHODI1X0NnMUwxVEFWdWYzQnV1cndtUDJra3dYRFBDM1JONVctaGh5bTczampiYUJMU3JTWWZVLVFzVWdJM2NST3BKcWRuVEZxY0xjWExlNk1SRXZyeGwtUXl0YUYyRW9TSlRVN2VXOVVnVlpTdzlDaEwtcVNNa1FtSDRfLWFKTGwxV3lwUS04VzNndFBTdGJfYVZLUnNnX0Z3allDSVVEd1kxdDBuaGZyMzRWVm12dF9zN1BqeGQtUDdEVWlUeFdNUzRmNHctNGx3X0pCQVZMbnZieHdwbDRrZzZPVzdjY2E5dEZuSTJfa2xLRV94Vm5q?oc=5
 
 Trade Setup for Today: Wall Street Slump and Commodity Sell-off Weigh on Sentiment; GIFT Nifty Points to Gap-Down as of November 18, 2026 scanx.trade
-
-### 77. Every fifth rupee invested through equity SIPs goes into smallcap mutual funds. A high-risk, high-reward b - The Economic Times
-
-- Source: The Economic Times
-- Published: 2026-11-18T06:36:15+00:00
-- Themes: India market, macro / flows
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxPVHJtQ1dFNkhySElwRFU3NllsYi15ejMtVE1kV29YXy1Ta1NLbi1yaHQ3MUxXMVpfaVU4eERhN0VSUVhuRS1Rbk9kNndWQTEyM2ZKRm9LcTlTV21MaHZXaGwwcmtQbXZBUzBsa0hJRlM0emZuR3Y0ODdheE9FVVhLc0hZbDVkM3NYSWtVcUtCZ29TNGI2cWh1bzBPZEVKSnlGU0ZuZ3hYX19yR2wxdjJoS3hYaHZxRi0yT3VRWDRHXzdxckh6dXRQVzdKT05ud05OODZXOEFMeGNtZjRzX2pBQlp6ZU1iSjc1bE55NVY0UVlpWXdiMU5BOFNGeXdZcWtqTGfSAYcCQVVfeXFMTU9ETVFEa2UxVF9RMnlyck9aaXpYbUVHeDh3UWQwYURUWjFBdUxJQnU3MzdCWWpaNkYtQko5WHlzMGQ4eGZnVFd5Qm5rNTBYR2RXb3I3OHJ6MTB1eFV6YlkybzA3SEdRRktFT2xQbFNTTEptQjNfeGFEZURxX29Nci1lRUg3UFprcXdKcTA5VUdaZ0lWeXBvVW4tNW9NbjFRWHNnYWtzSHc2ZWYxS2VSeU4wZm9oQlg1ckRKSXFPb3VTQnZibGpvZTIxajI1cVh2UmpLanBadlVOVEpRQ3hxSnV6U1hjVlFYUUFDZDhJaDlJaXJSZkZEdzMya083N0pjaXBUUlM3WjA?oc=5
-
-Every fifth rupee invested through equity SIPs goes into smallcap mutual funds. A high-risk, high-reward b The Economic Times
-
-### 78. Stock market cues to watch today: Nvidia earnings, GIFT Nifty, FII, crude and other data - ET Now
-
-- Source: ET Now
-- Published: 2026-11-18T00:41:23+00:00
-- Themes: AI / tech risk, India market, macro / flows
-- Score: 5
-- Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxORE9kRDlhZEYteHZNUmhYYXFhQUl6RjlEQ2gtaWJwaGl2TThCR1pQT2JtbGdXY3hwT2ozUFRBQmxhSXQyb3V5VkVETGFGS0VDbGt4YjZfS29NT1YzcWR5UDhlQTFXS3dzOGozMnFpMHVUcWg3UWFUbkhtem93N196WTkwZHZGa0pDWXI0eHg1LXpLYy1JZmxESTVaQW9RMm4xdVVZQ0I5VWdHVVJLTFMweE9WaC1IeW1ZenltVkowdm9BVnNjVGNzMWpsMmQxelBoc2JzeEZmZDFZb3I5NUxXbFNnNGk2VDZhaG96Zk42UkFnWUlsc19TMnF5UHYxWUHSAYQCQVVfeXFMTm85aUpLUWpHZUpRRFRURlBuMlNmUXZOakU3WV9SS2tvTUVJZkFidk9rSXN3andNbGNzOVZVd2RBbDdoYTlfMWlEX00ydHlRdnlOOTloX3NHZlpYV2hpbFdkSDVRTms0QUh4Q2VGU05aVVJjNTNudk5xRUpfd0xIQ0VnVnZmZmNIRGg2M2J1VjNkR0F1ODNqVmxDNkV4X0tkYmtsS1JpSzF0VC1SM1E1VFlwUzlnVUNoV2E0ejUxenVuRkVHQm9BNGNBVk1EWWkwbFRPaW5Oa2FPU3pqNlVVLThGVG1DRzlMM0dqU3Jyb3BGdlhjazY5UW92OXBzRmtoVnZteVE?oc=5
-
-Stock market cues to watch today: Nvidia earnings, GIFT Nifty, FII, crude and other data ET Now
-
-### 79. ITC leads mutual fund buying in October - The New Indian Express
-
-- Source: The New Indian Express
-- Published: 2026-11-18T02:47:06+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMimAFBVV95cUxPTTBETm5jU0ZQcG1pRTBRNUVvNVZhQ0w3cVF0eUdSOTRmcDc1MGxKeHI1aG1nNDhtMlpOdlpwaWRtUnlWQTVVb19BS3p2WDEyUXBnUmMwVTNJWVVYTEhpT3NYRmdUZjlja0k5eU13M3dMblhOTVdRMzJrY0hFVVVydDUtZEpsY3lfWDhpNTlieVJGbEliYzdUNNIBpgFBVV95cUxOSmE3ZlBnd0hoaXUtd2I2T2xCelFNM2g4RU5jNGtKOG11ay1mSWNBb2pkQjlyX29rUDJxV3R1WDU1QVViZVQzN0VhN1phRW45LWZWQUFlbG42N1N1ZXFzZ2VLdDZIM0NrY1VVekVtMnFOaUwwUnJlMVRvYTdLOWdDZ2NnbDJkNnd1alRtTmx1c09EbC1wV05kOWtmUzAxME1Od2dWWlNR?oc=5
-
-ITC leads mutual fund buying in October The New Indian Express
-
-### 80. Mutual fund AUM growth slows to 4% from 19% a year ago: Why your portfolio returns may tell a different story - Business Today
-
-- Source: Business Today
-- Published: 2026-11-17T19:05:04+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxOemJWSkFfM2VsUXlDQnV1N21IN1VscTJGOVYwQzFUVldxaHRkNXB1TVBIVXVHV3NiMEdCUG5qQi1JRHRhY2NQWS13YWN3dEQ4M19QS202TDczVFBHR183aEZzSEF5M2c4R3NaeDFPRkhfTl94QTRYMDNHVmpGQnozWHpFQUUxbllwbDNXUGhqWGlvU2tXNlhSRFVjWU05SU1qbEJQQjVtamxEX0JNZTVsMTVPdXZUTmJoTW94NXRmd3VQTGxzOVdtQWE1ZFRDUXh2VlpOWkl4QkZhaE1kQnQtMUhCQWRHZzUtWlZNcUt3QV96bU1FQTB2Ui1QRzZMajc4S0E?oc=5
-
-Mutual fund AUM growth slows to 4% from 19% a year ago: Why your portfolio returns may tell a different story Business Today
