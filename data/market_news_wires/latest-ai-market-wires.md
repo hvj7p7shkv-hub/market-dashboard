@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-18 12:19
+Generated: 2026-11-18 12:31
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -26,17 +26,7 @@ GIFT Nifty falls 133 pts, signals weak start for Sensex, Nifty despite Nvidia ea
 
 GIFT Nifty falls 133 pts, signals weak start for Sensex, Nifty despite Nvidia earnings boost, Asian rally Moneycontrol.com
 
-### 3. Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com - Investing.com India
-
-- Source: Investing.com India
-- Published: 2026-11-17T12:31:11+00:00
-- Themes: AI / tech risk, market selling, India market, macro / flows
-- Score: 14
-- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxNVTZzMmZQUjI0R1h5RC1FZ1VlWjhHNTVZVk1FR3Ruc1VLLU5SWVp1LTlvaE9NeGRKVmkwTDREUnhVUllXZ0I5WVlYcjJZakNQVXB1ai1TVU9saldMSDFjX1FKYWpXcWV5R1NpNXhsRGtqaURYN0JlYUtlMG5zTDBKYXA3eFc2TXRSN2ptLUc4OFFsWG9yeFN1NGNENHUxRnE4eDlkeDI5TTRuRlBOTHgzWE9pVFVwMGdwY2xVa0FR?oc=5
-
-Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com Investing.com India
-
-### 4. UBS sees India’s FY27 GDP at 7.2%; warns 12 economies may enter recession on AI sell-off - The Financial Express
+### 3. UBS sees India’s FY27 GDP at 7.2%; warns 12 economies may enter recession on AI sell-off - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-11-18T11:22:30+00:00
@@ -46,7 +36,7 @@ Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By
 
 UBS sees India’s FY27 GDP at 7.2%; warns 12 economies may enter recession on AI sell-off The Financial Express
 
-### 5. TSX drops more than 1% as global tech selloff deepens ahead of Nvidia earnings - Investing.com Canada
+### 4. TSX drops more than 1% as global tech selloff deepens ahead of Nvidia earnings - Investing.com Canada
 
 - Source: Investing.com Canada
 - Published: 2026-11-17T21:46:36+00:00
@@ -56,7 +46,7 @@ UBS sees India’s FY27 GDP at 7.2%; warns 12 economies may enter recession on A
 
 TSX drops more than 1% as global tech selloff deepens ahead of Nvidia earnings Investing.com Canada
 
-### 6. Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs - ChiniMandi
+### 5. Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs - ChiniMandi
 
 - Source: ChiniMandi
 - Published: 2026-11-18T04:31:40+00:00
@@ -66,7 +56,7 @@ TSX drops more than 1% as global tech selloff deepens ahead of Nvidia earnings I
 
 Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, global sell-off weighs ChiniMandi
 
-### 7. TCS, Infosys, other IT stocks fall up to 3% as Nvidia earnings beat eases AI fears; South Korea’s Kospi ri - The Economic Times
+### 6. TCS, Infosys, other IT stocks fall up to 3% as Nvidia earnings beat eases AI fears; South Korea’s Kospi ri - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-18T03:43:49+00:00
@@ -76,7 +66,7 @@ Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, globa
 
 TCS, Infosys, other IT stocks fall up to 3% as Nvidia earnings beat eases AI fears; South Korea’s Kospi ri The Economic Times
 
-### 8. European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff - Bloomberg.com
+### 7. European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-17T17:06:50+00:00
@@ -86,7 +76,7 @@ TCS, Infosys, other IT stocks fall up to 3% as Nvidia earnings beat eases AI fea
 
 European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff Bloomberg.com
 
-### 9. Asian chip stocks fall for a second day as NVIDIA earnings loom and Jensen Huang fallout begins - TweakTown
+### 8. Asian chip stocks fall for a second day as NVIDIA earnings loom and Jensen Huang fallout begins - TweakTown
 
 - Source: TweakTown
 - Published: 2026-11-17T16:46:07+00:00
@@ -96,7 +86,7 @@ European Stocks Fall as US Chip Curbs Ignite Fresh AI Selloff Bloomberg.com
 
 Asian chip stocks fall for a second day as NVIDIA earnings loom and Jensen Huang fallout begins TweakTown
 
-### 10. New York Stocks Fall Broadly Ahead of Nvidia Earnings; Chip Stocks Rebound on Anthropic IPO Optimism - BigGo Finance
+### 9. New York Stocks Fall Broadly Ahead of Nvidia Earnings; Chip Stocks Rebound on Anthropic IPO Optimism - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-17T15:35:00+00:00
@@ -106,7 +96,7 @@ Asian chip stocks fall for a second day as NVIDIA earnings loom and Jensen Huang
 
 New York Stocks Fall Broadly Ahead of Nvidia Earnings; Chip Stocks Rebound on Anthropic IPO Optimism BigGo Finance
 
-### 11. Tokyo stocks fall on U.S. chip export controls, Nvidia earnings awaited - 毎日新聞
+### 10. Tokyo stocks fall on U.S. chip export controls, Nvidia earnings awaited - 毎日新聞
 
 - Source: 毎日新聞
 - Published: 2026-11-17T14:18:33+00:00
@@ -116,7 +106,7 @@ New York Stocks Fall Broadly Ahead of Nvidia Earnings; Chip Stocks Rebound on An
 
 Tokyo stocks fall on U.S. chip export controls, Nvidia earnings awaited 毎日新聞
 
-### 12. Wall Street mixed but stable after AI selloff ahead of Nvidia earnings - MySA
+### 11. Wall Street mixed but stable after AI selloff ahead of Nvidia earnings - MySA
 
 - Source: MySA
 - Published: 2026-11-17T13:38:55+00:00
@@ -126,7 +116,7 @@ Tokyo stocks fall on U.S. chip export controls, Nvidia earnings awaited 毎日�
 
 Wall Street mixed but stable after AI selloff ahead of Nvidia earnings MySA
 
-### 13. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - San Bernardino Sun
+### 12. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - San Bernardino Sun
 
 - Source: San Bernardino Sun
 - Published: 2026-11-17T13:36:28+00:00
@@ -136,7 +126,7 @@ Wall Street mixed but stable after AI selloff ahead of Nvidia earnings MySA
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings San Bernardino Sun
 
-### 14. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - www.pressenterprise.com
+### 13. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - www.pressenterprise.com
 
 - Source: www.pressenterprise.com
 - Published: 2026-11-17T13:36:26+00:00
@@ -146,7 +136,7 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings San Ber
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings www.pressenterprise.com
 
-### 15. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - The Batesville Daily Guard
+### 14. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - The Batesville Daily Guard
 
 - Source: The Batesville Daily Guard
 - Published: 2026-11-17T13:22:31+00:00
@@ -156,7 +146,7 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings www.pre
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings The Batesville Daily Guard
 
-### 16. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Eagle-Tribune
+### 15. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Eagle-Tribune
 
 - Source: Eagle-Tribune
 - Published: 2026-11-17T13:22:31+00:00
@@ -166,7 +156,7 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings The Bat
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Eagle-Tribune
 
-### 17. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Tahlequah Daily Press
+### 16. Wall Street stabilizes after another AI selloff ahead of Nvidia earnings - Tahlequah Daily Press
 
 - Source: Tahlequah Daily Press
 - Published: 2026-11-17T13:22:31+00:00
@@ -176,7 +166,7 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Eagle-T
 
 Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Tahlequah Daily Press
 
-### 18. Wall Street after another AI selloff ahead of Nvidia earnings - The Daily Review
+### 17. Wall Street after another AI selloff ahead of Nvidia earnings - The Daily Review
 
 - Source: The Daily Review
 - Published: 2026-11-17T13:11:07+00:00
@@ -185,6 +175,16 @@ Wall Street stabilizes after another AI selloff ahead of Nvidia earnings Tahlequ
 - Link: https://news.google.com/rss/articles/CBMi6gFBVV95cUxOMUhFT3JBSkNITjBxQ2hUS0Q0OFVFMzBRX2RVWGF6TzlrckpIZUp6Y1BVclIybVppSUtYS3JPTFdKcVVoMDNXNGlvRWNsSk93cnIxMVFveVZsbEtkazZ4WTlqNEROMWFlSHdyaGp6ekpGczI3NHVPRnFST3F0WGxvZm11SkR6cGM2RjJiaUZnbGZpSDBJVEJJd1VvVU5vQmllVzJmbnJldEs4UVhmTktMT0dIOEE0SVpPVFBzSFlWX2l0dFlxUWtVUVVYMjhpVkpIQURuZ1RtUllMWVJvRk04LWRlSURwcEl3Rnc?oc=5
 
 Wall Street after another AI selloff ahead of Nvidia earnings The Daily Review
+
+### 18. Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com - Investing.com South Africa
+
+- Source: Investing.com South Africa
+- Published: 2026-11-17T12:40:14+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMivgFBVV95cUxORWlCeXRXczJLRUhScDBqMWRnT1FIQ01hWkwtaWpFbXlVTTJTak1pcm1jeF9OXy1NbVVRSDNMZUs1UzhERzJFTmZEVXAwTThrTmNjMmE2VkhmbjlWOFR5RDMxc0dOS2pNb29aUEFRZFNuNEVRQzlXVnhIUXAxRXpLYmVuREM0QWNOYnNtckdscDZMWmYtMDJvUmlxeWs2MVJtV3B4MlRBYl94enNPTU9oNXg2enhDbmZvR1hGMURn?oc=5
+
+Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com Investing.com South Africa
 
 ### 19. Sensex slumps 500 points, Nifty below 25,250 amid profit booking - IBTimes India
 
@@ -302,7 +302,7 @@ Sensex Falls 338 Points, Nifty 50 Declines 94 Points as Metal and IT Stocks Drag
 - Published: 2026-11-18T06:08:02+00:00
 - Themes: market selling, India market
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMDIzb0ZTeERaTXRqOUNHemwzRkFhS19TUnA5X0h1RWpZZk42Vkw4ODEtc3ExUDVpN2lQaEo0T1l4RFlYNFF5UDdvZFlock0wZUNZdlgwakwtSzRoVnBHclBwTXRCMHdfMDFobDVJQnJXR3U3S1piaGJ6VGs2RXJqRFdkTGo4YlVLSUxXRWZVMThGN3VwODhhMy01MDA4bzFHakI3UDBUTEFDellZRWdOQzhtN3hDWUpUdFZTUjFOdzRnWl9vMDc0c0Vwb2tqeDdSSzFlR0x2alU5QVd3RW9z0gHfAUFVX3lxTE8wMjNvRlN4RFpNdGo5Q0d6bDNGQWFLX1NScDlfSHVFallmTjZWTDg4MS1zcTFQNWk3aVBoSjRPWXhEWVg0UXlQN29kWWhyTTBlQ1l2WDBqTC1LNGhWcEdyUHBNdEIwd18wMWhsNUlCcldHdTdLWmJoYnpUazZFcmpEV2RMajhiVUtJTFdFZlUxOEY3dXA4OGEzLTUwMDhvMUdqQjdQMFRMQUN6WVlFZ05DOG03eENZSlR0VlNSMU53NGdaX28wNzRzRXBva2p4N1JLMWVHTHZqVTlBV3dFb3M?oc=5
+- Link: https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWFkMlNlek1PRzZrZlV3V3hpUTNfM1RLT3BFdFVaNzhUOHR0MGdkbkY5Rnhhckl2WEV6Y3NmZ2xpOFltLW9BY2VLLWtsZHJ2c2xEZTdrTFlqajlKMGJ6aDZaenR0WEtaUUVUUW1lQnZvVHVuVjJ1Qjd1VzN2c01URm40QU5YVWFnQ1hoOTcxT1Y1ekdzQjJiV1lLVkpjYTFKSHItVFZSNEhGeVFxTHdkaXFaQWJPV2tROVlZR1p0MlBtT3RuSlFOWDlKbWp0d1JNemfSAd8BQVVfeXFMTzAyM29GU3hEWk10ajlDR3psM0ZBYUtfU1JwOV9IdUVqWWZONlZMODgxLXNxMVA1aTdpUGhKNE9ZeERZWDRReVA3b2RZaHJNMGVDWXZYMGpMLUs0aFZwR3JQcE10QjB3XzAxaGw1SUJyV0d1N0taYmhielRrNkVyakRXZExqOGJVS0lMV0VmVTE4Rjd1cDg4YTMtNTAwOG8xR2pCN1AwVExBQ3pZWUVnTkM4bTd4Q1lKVHRWU1IxTnc0Z1pfbzA3NHNFcG9rang3UksxZUdMdmpVOUFXd0Vvcw?oc=5
 
 Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally Fortune India
 

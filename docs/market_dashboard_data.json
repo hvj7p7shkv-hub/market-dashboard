@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18 17:52 IST",
+  "generated_at": "2026-11-18 18:04 IST",
   "wire_file": "2026-11-18-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -23,7 +23,7 @@
   },
   "posture": {
     "stance": "India relief, AI overhang",
-    "wire_count": "102",
+    "wire_count": "101",
     "wire_total_count": "153",
     "wire_scope_date": "2026-11-18",
     "ai_wire_count": "27",
@@ -34,9 +34,9 @@
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-18 12:10",
-      "title": "Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in",
-      "text": "Latest dated headline · theopenpress.in. Today's unique wire set contains 101 headlines; the cards below are recalculated from this same set."
+      "label": "Newest Wire · 2026-11-18 12:23",
+      "title": "PNB to distribute SBI Mutual Fund products - The Financial Express",
+      "text": "Latest dated headline · The Financial Express. Today's unique wire set contains 100 headlines; the cards below are recalculated from this same set."
     },
     {
       "label": "Wire Bias · 2026-11-18",
@@ -669,12 +669,12 @@
       "name": "DAX",
       "ticker": "^GDAXI",
       "last_date": "2026-11-18",
-      "quote_timestamp": "2026-11-18 12:05:00+00:00",
+      "quote_timestamp": "2026-11-18 12:15:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-17",
       "previous_close": 26045.37,
-      "last": 26025.16,
-      "return_1d_pct": -0.07759146843298037,
+      "last": 26055.55,
+      "return_1d_pct": 0.03909194210314215,
       "return_5d_pct": -1.146524946749028,
       "return_20d_pct": 2.9281414908447267,
       "rsi_14": 50.65,
@@ -698,12 +698,12 @@
       "name": "FTSE 100",
       "ticker": "^FTSE",
       "last_date": "2026-11-18",
-      "quote_timestamp": "2026-11-18 12:05:00+00:00",
+      "quote_timestamp": "2026-11-18 12:15:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-17",
       "previous_close": 10689.9,
-      "last": 10638.7,
-      "return_1d_pct": -0.47895858185360574,
+      "last": 10646.4,
+      "return_1d_pct": -0.40692614907945623,
       "return_5d_pct": -0.5738608299382775,
       "return_20d_pct": -0.4015616265256705,
       "rsi_14": 46.55,
@@ -727,12 +727,12 @@
       "name": "CAC 40",
       "ticker": "^FCHI",
       "last_date": "2026-11-18",
-      "quote_timestamp": "2026-11-18 12:05:00+00:00",
+      "quote_timestamp": "2026-11-18 12:15:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-17",
       "previous_close": 8216.78,
-      "last": 8211.17,
-      "return_1d_pct": -0.06827919666583249,
+      "last": 8211.88,
+      "return_1d_pct": -0.05963881790586045,
       "return_5d_pct": -0.746619550902905,
       "return_20d_pct": 4.82605741349964,
       "rsi_14": 56.65,
@@ -756,12 +756,12 @@
       "name": "Euro Stoxx 50",
       "ticker": "^STOXX50E",
       "last_date": "2026-11-18",
-      "quote_timestamp": "2026-11-18 12:05:00+00:00",
+      "quote_timestamp": "2026-11-18 12:15:00+00:00",
       "quote_type": "Yahoo 5-minute quote",
       "technical_as_of_date": "2026-11-17",
       "previous_close": 6212.11,
-      "last": 6219.25,
-      "return_1d_pct": 0.11493899618475467,
+      "last": 6223.75,
+      "return_1d_pct": 0.1873781529131202,
       "return_5d_pct": -1.8293715225258356,
       "return_20d_pct": 1.4775355822211678,
       "rsi_14": 47.18,
@@ -796,10 +796,10 @@
     {
       "region": "Europe",
       "count": 4,
-      "advancers": 1,
-      "decliners": 3,
-      "advance_decline_ratio": 0.33,
-      "average_1d_pct": -0.13,
+      "advancers": 2,
+      "decliners": 2,
+      "advance_decline_ratio": 1.0,
+      "average_1d_pct": -0.06,
       "average_5d_pct": -1.07,
       "above_20dma_pct": 50.0,
       "above_50dma_pct": 50.0
@@ -903,12 +903,12 @@
         "name": "Euro Stoxx 50",
         "ticker": "^STOXX50E",
         "last_date": "2026-11-18",
-        "quote_timestamp": "2026-11-18 12:05:00+00:00",
+        "quote_timestamp": "2026-11-18 12:15:00+00:00",
         "quote_type": "Yahoo 5-minute quote",
         "technical_as_of_date": "2026-11-17",
         "previous_close": 6212.11,
-        "last": 6219.25,
-        "return_1d_pct": 0.11493899618475467,
+        "last": 6223.75,
+        "return_1d_pct": 0.1873781529131202,
         "return_5d_pct": -1.8293715225258356,
         "return_20d_pct": 1.4775355822211678,
         "rsi_14": 47.18,
@@ -22111,7 +22111,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-18T17:51:55+05:30",
+    "generated_at": "2026-11-18T18:04:06+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34377,15 +34377,6 @@
       "description": "GIFT Nifty falls 133 pts, signals weak start for Sensex, Nifty despite Nvidia earnings boost, Asian rally Moneycontrol.com"
     },
     {
-      "published": "2026-11-17T12:31:11+00:00",
-      "score": 14.0,
-      "themes": "['AI / tech risk', 'market selling', 'India market', 'macro / flows']",
-      "source": "Investing.com India",
-      "title": "Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com - Investing.com India",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVTZzMmZQUjI0R1h5RC1FZ1VlWjhHNTVZVk1FR3Ruc1VLLU5SWVp1LTlvaE9NeGRKVmkwTDREUnhVUllXZ0I5WVlYcjJZakNQVXB1ai1TVU9saldMSDFjX1FKYWpXcWV5R1NpNXhsRGtqaURYN0JlYUtlMG5zTDBKYXA3eFc2TXRSN2ptLUc4OFFsWG9yeFN1NGNENHUxRnE4eDlkeDI5TTRuRlBOTHgzWE9pVFVwMGdwY2xVa0FR?oc=5",
-      "description": "Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com Investing.com India"
-    },
-    {
       "published": "2026-11-18T11:22:30+00:00",
       "score": 12.0,
       "themes": "['AI / tech risk', 'market selling', 'India market']",
@@ -34521,6 +34512,15 @@
       "description": "Wall Street after another AI selloff ahead of Nvidia earnings The Daily Review"
     },
     {
+      "published": "2026-11-17T12:40:14+00:00",
+      "score": 9.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "Investing.com South Africa",
+      "title": "Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com - Investing.com South Africa",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORWlCeXRXczJLRUhScDBqMWRnT1FIQ01hWkwtaWpFbXlVTTJTak1pcm1jeF9OXy1NbVVRSDNMZUs1UzhERzJFTmZEVXAwTThrTmNjMmE2VkhmbjlWOFR5RDMxc0dOS2pNb29aUEFRZFNuNEVRQzlXVnhIUXAxRXpLYmVuREM0QWNOYnNtckdscDZMWmYtMDJvUmlxeWs2MVJtV3B4MlRBYl94enNPTU9oNXg2enhDbmZvR1hGMURn?oc=5",
+      "description": "Wall Street futures steady as tech selloff eases ahead of key Nvidia earnings By Investing.com Investing.com South Africa"
+    },
+    {
       "published": "2026-11-18T10:42:57+00:00",
       "score": 8.0,
       "themes": "['market selling', 'India market']",
@@ -34625,7 +34625,7 @@
       "themes": "['market selling', 'India market']",
       "source": "Fortune India",
       "title": "Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMDIzb0ZTeERaTXRqOUNHemwzRkFhS19TUnA5X0h1RWpZZk42Vkw4ODEtc3ExUDVpN2lQaEo0T1l4RFlYNFF5UDdvZFlock0wZUNZdlgwakwtSzRoVnBHclBwTXRCMHdfMDFobDVJQnJXR3U3S1piaGJ6VGs2RXJqRFdkTGo4YlVLSUxXRWZVMThGN3VwODhhMy01MDA4bzFHakI3UDBUTEFDellZRWdOQzhtN3hDWUpUdFZTUjFOdzRnWl9vMDc0c0Vwb2tqeDdSSzFlR0x2alU5QVd3RW9z0gHfAUFVX3lxTE8wMjNvRlN4RFpNdGo5Q0d6bDNGQWFLX1NScDlfSHVFallmTjZWTDg4MS1zcTFQNWk3aVBoSjRPWXhEWVg0UXlQN29kWWhyTTBlQ1l2WDBqTC1LNGhWcEdyUHBNdEIwd18wMWhsNUlCcldHdTdLWmJoYnpUazZFcmpEV2RMajhiVUtJTFdFZlUxOEY3dXA4OGEzLTUwMDhvMUdqQjdQMFRMQUN6WVlFZ05DOG03eENZSlR0VlNSMU53NGdaX28wNzRzRXBva2p4N1JLMWVHTHZqVTlBV3dFb3M?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWFkMlNlek1PRzZrZlV3V3hpUTNfM1RLT3BFdFVaNzhUOHR0MGdkbkY5Rnhhckl2WEV6Y3NmZ2xpOFltLW9BY2VLLWtsZHJ2c2xEZTdrTFlqajlKMGJ6aDZaenR0WEtaUUVUUW1lQnZvVHVuVjJ1Qjd1VzN2c01URm40QU5YVWFnQ1hoOTcxT1Y1ekdzQjJiV1lLVkpjYTFKSHItVFZSNEhGeVFxTHdkaXFaQWJPV2tROVlZR1p0MlBtT3RuSlFOWDlKbWp0d1JNemfSAd8BQVVfeXFMTzAyM29GU3hEWk10ajlDR3psM0ZBYUtfU1JwOV9IdUVqWWZONlZMODgxLXNxMVA1aTdpUGhKNE9ZeERZWDRReVA3b2RZaHJNMGVDWXZYMGpMLUs0aFZwR3JQcE10QjB3XzAxaGw1SUJyV0d1N0taYmhielRrNkVyakRXZExqOGJVS0lMV0VmVTE4Rjd1cDg4YTMtNTAwOG8xR2pCN1AwVExBQ3pZWUVnTkM4bTd4Q1lKVHRWU1IxTnc0Z1pfbzA3NHNFcG9rang3UksxZUdMdmpVOUFXd0Vvcw?oc=5",
       "description": "Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally Fortune India"
     },
     {
@@ -35259,6 +35259,15 @@
       "description": "Nifty 100's 10-year winning streak could end in 2026. Should you continue your mutual fund SIPs or change strategy? Livemint"
     },
     {
+      "published": "2026-11-18T12:23:12+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "The Financial Express",
+      "title": "PNB to distribute SBI Mutual Fund products - The Financial Express",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOeE9oa3Z5a2FfeUJPaXE0UlRNVTNkUTVQcXBJTE53TmVlOWpzbkd2ZkNYUlNFRW9pdnEwS1NTSVA5VzZZVmtTV1BrQVF6NHJKV2lKVkZDd0hqUlBBZXRVTDJULUZGN2RmX2pWNGROMkJ2TzQyMDRiZmd6aW1YRTlZMFF0VFRmVUxXY1VHUnZmRFo4cUh0aVY0RTBaa1VwNnV5Z21reVRfVzVKQzVJQ3fSAbQBQVVfeXFMTVAtWF9CdHBlTkNtSXN6MEduRUdHbWZBci0yZWdTYkwxaEgybGo3Wmsza1NhYUNtaFkwd3NBa0o1VFJ3SmZ6UGRzNE9vNzZPMEI4d21SekdOYWZ5Q0VaMUZJS3luSmxIMzdkS0pUZTVTOEo5d2VOdHhfRzNxUmgyYXE0Rm5yd1VvdkR5OHNQdDQwLVgyMmFtMmZMaFk2ckV4NmpmS3M1clA5ckJtYk0wYUlmYi1a?oc=5",
+      "description": "PNB to distribute SBI Mutual Fund products The Financial Express"
+    },
+    {
       "published": "2026-11-18T02:47:06+00:00",
       "score": 4.0,
       "themes": "['India market']",
@@ -35277,13 +35286,13 @@
       "description": "Mutual fund AUM growth slows to 4% from 19% a year ago: Why your portfolio returns may tell a different story Business Today"
     },
     {
-      "published": "2026-11-18T10:58:30+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "Outlook Money",
-      "title": "International Mutual Funds vs Direct US Stocks vs GIFT City - Which Route Suits Which Investor? - Outlook Money",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHAxTlpGVE5Hc2pZeUN2UHVXbHd4czdvX0NKSDBERG5KZ0ZxMTN0QUFRRmh4QWtqSjJuVTVEclZpY2x5eUNfalFqd3BtNXZ5LVhjZlA4OE5NU3NSQXFWV202RVMtVGVtcTdnaW1HT2E1LUFSZzNCNG1RRGoyOGpBdFVFN0VQZTBXQklobjQ5Ty02SDc5ZVZGTThB0gGnAUFVX3lxTFBURmpBcWFBeE1sTTZsZmVyLWpxQXB6SHZ6NmFsLWpnVEVIWWdIaXh6N01zTFR3U0Q5NUcyUmtYcVZ1OUw1NkY1TUZZNmZhdjRudnFYN3ZaT21JVGlCbHZzU0tXT3dJdnVOZGUtSjc3bGw1U2hvcDdtQkVRSFhKd3BlWFRVc3BhX2w1Qk5UMklPR1J0NXBCYlJmckExUHJhaUlBUVU0N05V?oc=5",
-      "description": "International Mutual Funds vs Direct US Stocks vs GIFT City - Which Route Suits Which Investor? Outlook Money"
+      "published": "2026-11-17T12:38:03+00:00",
+      "score": 4.0,
+      "themes": "['India market']",
+      "source": "ET Now",
+      "title": "Nippon India vs Quant Small Cap Fund: Which turned Rs 15,000 monthly SIP into a bigger corpus in 10 years? Check returns, top holdings, expense ratio and more - ET Now",
+      "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxQeHl5Rm5rWllHNVBlY0R0bTYyNmNnMHhGSkNIeHQydmZETmVacnhDWkkybEpOMGcwZmtyYXc2U2hjS2FJVDdqbjVQRWlrRDdtc0xSYlpQRzBySjBZR1VlVmtDVFdncmI3emY5NGtkMmxadWI2enZ0eVFhc1o2UWNQYTRINXBXOXFjLTNZMDZNWEpiNzFQSUlTNi00aTRPOHFwc3hMalFqX1FEa2NLMWY2UF9OWlVzeHFQdHUyMFM5a2FqZE1veTE4SUFxY2htX2ZaV3JPaHpKSmdNOVZOREJZUVVyc2dPRm5QMVlJRUhLMmQwOC12WWs5aWVxSDJxelJjZkNFanBmcFNOdXdUMk1veGlHNlk2bG5SQlk0MlVmOE0xSlY4cXQ0QnRIZGNFbFM0M0NLRtIBugJBVV95cUxOWWpLckVaaGdhSUt6UVRKUlpiYW45TDVYUkZPTU9sa1JzVDNabWpHeV9NWFNIbFJobFo4TWM4ek5EVEpTWlhwYmxocmFRSDNhUTBOTm56bWRGNmF3bmVXbEd5Tnh6UEdOS3ZTN3dQeGgzRWFHQ3drS1FRTVh3TUdBd29PM0paZl8ycTdYRGdscEFDUlZRNVpzUF9xNWRZa2MxWjd0S3Fpa0NsX01oQU5rT2pldWZRLWpCcWQ2WlBsTEk0RGhDSTZ1NWx1ZFBvMXd3YzVaQmtXUDZ5cXlNNmIyYnZ0N3ZxTlM0UVBkZkVMeDBoZjJOZldGcHNQdUkxNS1pRk5LU08zaFNqUUNTTm5yWUtNZjBYN29jYXIzbW9RcGp0R3ZOTkFQMDFGTHFZaXp6S3o0SHdWTUFfZw?oc=5",
+      "description": "Nippon India vs Quant Small Cap Fund: Which turned Rs 15,000 monthly SIP into a bigger corpus in 10 years? Check returns, top holdings, expense ratio and more ET Now"
     },
     {
       "published": "2026-11-18T08:00:50+00:00",
@@ -35311,15 +35320,6 @@
       "title": "Best Mutual Funds of 2026 So Far: 5 Diversified Equity Funds That Returned 22% to 30% - The Financial Express",
       "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbGN1V3FEM2F3SDRwR3dIdnlWZERpR3dtek5JcHI0SzZHQU5LeUNZRzctVmdRdmR6bDVlTXRzYnpad0drUzZ6X1FjTDFCVHA1N3pzWElsdmlHVTZsbDdkWC1jcVhkV2FRV2FVYXN4TDBGT2J5RExhNUFYZ2tJdDlLdk1EQWlmLVNHM29saUNMWVYtUE1oVjZNSTJYYUttMFdjaWtxcjljQmUyWjhxeDhReDdlMXF6MFhMNzU4clpPbnEwdlgwcnRMV19vNDJROHN4bE5OeUlB0gHcAUFVX3lxTE1xWk94YVJqWDAyTkhBRENmM01DYThydTVlbTVHMmQyZTdMSDhsSk5TZ2Z2U2kzaGlPRUxsa2NMNU9vM2ZUTklER2hZM281Y0NPc1VwNzhDNXczZjllejA2VDhtZmRZWDJiVkg1d3Jfa0dCM0dtRWZlSVczbk9KNGZFeWZ5Q2RZVGhoVTVqUnpQX0l1amtGRm9Vc0FUaldiTVFEVUNodWF6NkhocnFVQm5oZFBFS1JFNGxINHFpcXR6cGt4WW1mUk9MSnRoVWtWTll2enotalY0UXZhYzk?oc=5",
       "description": "Best Mutual Funds of 2026 So Far: 5 Diversified Equity Funds That Returned 22% to 30% The Financial Express"
-    },
-    {
-      "published": "2026-11-18T06:08:02+00:00",
-      "score": 3.0,
-      "themes": "['India market']",
-      "source": "Fortune India",
-      "title": "Sensex pares losses after 750-point intraday slide, Nifty reclaims 25,200; metals, consumer durables drag - Fortune India",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPWWFkMlNlek1PRzZrZlV3V3hpUTNfM1RLT3BFdFVaNzhUOHR0MGdkbkY5Rnhhckl2WEV6Y3NmZ2xpOFltLW9BY2VLLWtsZHJ2c2xEZTdrTFlqajlKMGJ6aDZaenR0WEtaUUVUUW1lQnZvVHVuVjJ1Qjd1VzN2c01URm40QU5YVWFnQ1hoOTcxT1Y1ekdzQjJiV1lLVkpjYTFKSHItVFZSNEhGeVFxTHdkaXFaQWJPV2tROVlZR1p0MlBtT3RuSlFOWDlKbWp0d1JNemfSAd8BQVVfeXFMTzAyM29GU3hEWk10ajlDR3psM0ZBYUtfU1JwOV9IdUVqWWZONlZMODgxLXNxMVA1aTdpUGhKNE9ZeERZWDRReVA3b2RZaHJNMGVDWXZYMGpMLUs0aFZwR3JQcE10QjB3XzAxaGw1SUJyV0d1N0taYmhielRrNkVyakRXZExqOGJVS0lMV0VmVTE4Rjd1cDg4YTMtNTAwOG8xR2pCN1AwVExBQ3pZWUVnTkM4bTd4Q1lKVHRWU1IxTnc0Z1pfbzA3NHNFcG9rang3UksxZUdMdmpVOUFXd0Vvcw?oc=5",
-      "description": "Sensex pares losses after 750-point intraday slide, Nifty reclaims 25,200; metals, consumer durables drag Fortune India"
     },
     {
       "published": "2026-11-18T04:24:35+00:00",
@@ -35556,12 +35556,12 @@
       "description": "At $10 billion, net November FPI flows highest ever for a month BusinessLine"
     },
     {
-      "published": "2026-11-17T13:40:25+00:00",
+      "published": "2026-11-17T14:03:31+00:00",
       "score": 2.0,
       "themes": "['AI / tech risk']",
       "source": "couriernews.com",
       "title": "Wall Street shakes again as Nvidia and other jittery AI stocks swing lower - couriernews.com",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMzdlX0xZTWlCSThHUDR2ejNyTHpUNzBQNmwtVHFNbzBrb3UxSzdadTY2VW5mc0ktRmpqN0kwTmJzQ0lnTVBLZDRHU3lucUdXNFozUWMyNTFZbHYtMmV3MzhPaWdYQ0pYd3Q3VkhHdEl2b1UtdDdvRnJLZjZhdVZwQWkySFlYOUF2Z3Y3RVR3UmpJOWg2NklfZDZDNTBqTFhGdUVJUnd3NW4ya3ZJUWI2U3JnbDVKUkJ3blJma1VzRzdYVFFYS2JqZmN3N0JOc0dIemtJNzF0U09FMXlDUmRwS2JWaVo4Y0NH?oc=5",
+      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNbWpBWnZ3dW5rVjVtRVF4cDFONngtRUIxTjRVZkE2Y19VYjAyOUE0T2wtNEhHeHUwNTd4eTExZ3JnVmZlN1F5T1QyaWg4akR1bXFQOU5FX3lkaV9TaFo1S3owaG9VRll6SGRiQWJmaWJhbGp5QWROckQxQ3FfbWkzTDI0d2l3MTZkTVowLUhUNUxBcU5qdFM4cTZtS0FtbURNc18xSTBmNVZfSHQ5Tk8tVWdnZmRIOUNkdDV1cXRyaXNxQmZ3LVJ5TFNoRFFQbkx4bFZTUks4Y2ZmeHVEZUk3Yld2eEdSTVFCTXZrVmlqS080Qk5mSzU0?oc=5",
       "description": "Wall Street shakes again as Nvidia and other jittery AI stocks swing lower couriernews.com"
     },
     {
@@ -35628,6 +35628,15 @@
       "description": "Titan and 5 Other Jewellery and Gold Financing Stocks Fall by Up to 6% Today; Here's Why Trade Brains"
     },
     {
+      "published": "2026-11-18T06:55:48+00:00",
+      "score": 1.0,
+      "themes": "['India market']",
+      "source": "scanx.trade",
+      "title": "SMALLCAP World Fund cuts Home First Finance stake to 5.77% - scanx.trade",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnV6NzBFeVBGNGtibHU5WjJlUFByaVNqbDdVbzc5VzhuRHk5TUQ1SHJqdG51NlF6b19waXE1VnZyaUJJR3M1V3ZwVWFrZkpYOFN5NUQ5YkhmWXdOMEtkMUo5S3RmQ092ZkkyY1pWTC1DQ3FDbDMxYllKRnRPaFlJMjh6ZzFtUGo2X0xTUkFaOUlQc0Z1c2FaSnJwdk9kaE1TbmVZd1FPZ3R1YUlQMzBCQg?oc=5",
+      "description": "SMALLCAP World Fund cuts Home First Finance stake to 5.77% scanx.trade"
+    },
+    {
       "published": "2026-11-18T06:50:27+00:00",
       "score": 1.0,
       "themes": "['AI / tech risk']",
@@ -35653,15 +35662,6 @@
       "title": "Nifty At 28,400 By December 2027? Gautam Shah Flags These Sectors To Buy - NDTV Profit",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSkNja0lTcTc2TGNyWlVfR241R1ZZQlY0b3JtUVBsYS1uM0NQdjdWOTRVMWxJSVA5SEc3emM1NWwwSE51OHpWbXRobXBGN01TdVB1TmgtdmVpeEx0Qi1US3NwSW83OTBJRXVjN3o1QjhpbVZ4ZElaV2Vfd0NTSUUtcVhkeTY1OWJXMkM0RTNJNEFJazdHOUR4UTA0aFhKWGJCWldCZlJTcE0zeE9rS2FLT0VscEVyTG9MclRnN0hMdUFkZGxPRjgtdUJMa0p0eGFKUWxnVGN5UUhJMDVTU0Y1NTEzbEtYUi1WVXRyZWRjTXVCbEllRGdjSWV6dnVkWDVzOU5jMzdRQjBJV0NyeWfSAZYCQVVfeXFMTk8xa2Y5ams4aFBxSXd6Si0yS01scERCUXVucjl3eFMyMzFnTGtpZlZ0ekx3aXdoWnZCNS1TOXVLR2RXRFlTZjFKWWd1d2xoLTJVRmtYU1gtZWM3OHRHSkFhb055Qnc5aUtUUDVsSG1QRWpLOUxaa1lzU0V0LWI2ZGhHb2Z0NWtDNE1ubEFrUXBhSVJmc29Bc3VCM19vdGhoUXNVbHFuUVZkUmJ0bTBjXzJhTkFOdklCdk9ZX2pFZkw4TzVWNkVUajFiQmIxbU5OeGk0NVdzT05nTVhxaHVJX05nYnZxMEVUX1JUWEE2TS0zMEN5YThXUl9nSG1vWVAtTmdWZFlQandkV2xLTTdDdGVHNVJyVnc?oc=5",
       "description": "Nifty At 28,400 By December 2027? Gautam Shah Flags These Sectors To Buy NDTV Profit"
-    },
-    {
-      "published": "2026-11-18T06:20:03+00:00",
-      "score": 1.0,
-      "themes": "['India market']",
-      "source": "scanx.trade",
-      "title": "SMALLCAP World Fund cuts Home First Finance stake to 5.77% - scanx.trade",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYnV6NzBFeVBGNGtibHU5WjJlUFByaVNqbDdVbzc5VzhuRHk5TUQ1SHJqdG51NlF6b19waXE1VnZyaUJJR3M1V3ZwVWFrZkpYOFN5NUQ5YkhmWXdOMEtkMUo5S3RmQ092ZkkyY1pWTC1DQ3FDbDMxYllKRnRPaFlJMjh6ZzFtUGo2X0xTUkFaOUlQc0Z1c2FaSnJwdk9kaE1TbmVZd1FPZ3R1YUlQMzBCQg?oc=5",
-      "description": "SMALLCAP World Fund cuts Home First Finance stake to 5.77% scanx.trade"
     },
     {
       "published": "2026-11-18T06:08:40+00:00",
