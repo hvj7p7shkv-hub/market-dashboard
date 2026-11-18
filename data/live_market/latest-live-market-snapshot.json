@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-18T08:41:20+05:30",
+  "generated_at": "2026-11-18T09:10:31+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 58,
-      "coverage_pct": 96.7,
-      "advancers": 29,
+      "downloaded_count": 59,
+      "coverage_pct": 98.3,
+      "advancers": 30,
       "decliners": 29,
       "unchanged": 0,
-      "ad_ratio": 1.0,
+      "ad_ratio": 1.03,
       "up_turnover_share_pct": 70.2,
       "down_turnover_share_pct": 29.8,
       "high_volume_decliners": 1,
-      "intraday_quotes": 58,
+      "intraday_quotes": 59,
       "daily_fallbacks": 0,
       "as_of_date": "2026-11-17",
       "as_of_timestamp": "2026-11-17 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 1
     },
     "sector_breadth": [
       {
@@ -102,20 +102,20 @@
         "average_volume_ratio_20d": 0.693
       },
       {
+        "sector": "Producer manufacturing",
+        "count": 13,
+        "advancers": 5,
+        "decliners": 8,
+        "average_1d_pct": -0.454,
+        "average_volume_ratio_20d": 1.808
+      },
+      {
         "sector": "Transportation",
         "count": 1,
         "advancers": 0,
         "decliners": 1,
         "average_1d_pct": -0.497,
         "average_volume_ratio_20d": 0.758
-      },
-      {
-        "sector": "Producer manufacturing",
-        "count": 12,
-        "advancers": 4,
-        "decliners": 8,
-        "average_1d_pct": -0.7,
-        "average_volume_ratio_20d": 1.926
       },
       {
         "sector": "Technology services",
@@ -263,6 +263,23 @@
         "alert": ""
       },
       {
+        "symbol": "KABRAEXTRU",
+        "ticker": "KABRAEXTRU.NS",
+        "name": "Kabra ExtrusionTechnik Ltd.",
+        "sector": "Producer manufacturing",
+        "ltp": 728.4,
+        "previous_close": 710.7,
+        "day_move_pct": 2.4905,
+        "session_volume": 25160.0,
+        "average_volume_20d": 63138.0,
+        "volume_ratio_20d": 0.398,
+        "turnover_proxy": 18326545.0,
+        "quote_date": "2026-11-17",
+        "quote_timestamp": "2026-11-17 15:25 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "RAIN",
         "ticker": "RAIN.NS",
         "name": "Rain Industries Limited",
@@ -325,23 +342,6 @@
         "average_volume_20d": 10208.0,
         "volume_ratio_20d": 1.251,
         "turnover_proxy": 36105897.0,
-        "quote_date": "2026-11-17",
-        "quote_timestamp": "2026-11-17 15:25 IST",
-        "quote_type": "Yahoo 5-minute quote",
-        "alert": ""
-      },
-      {
-        "symbol": "KTKBANK",
-        "ticker": "KTKBANK.NS",
-        "name": "Karnataka Bank Ltd.",
-        "sector": "Finance",
-        "ltp": 367.95,
-        "previous_close": 363.4,
-        "day_move_pct": 1.2521,
-        "session_volume": 1958374.0,
-        "average_volume_20d": 2504970.0,
-        "volume_ratio_20d": 0.782,
-        "turnover_proxy": 720583737.0,
         "quote_date": "2026-11-17",
         "quote_timestamp": "2026-11-17 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -1493,6 +1493,23 @@
         "alert": ""
       },
       {
+        "symbol": "KABRAEXTRU",
+        "ticker": "KABRAEXTRU.NS",
+        "name": "Kabra ExtrusionTechnik Ltd.",
+        "sector": "Producer manufacturing",
+        "ltp": 728.4,
+        "previous_close": 710.7,
+        "day_move_pct": 2.4905,
+        "session_volume": 25160.0,
+        "average_volume_20d": 63138.0,
+        "volume_ratio_20d": 0.398,
+        "turnover_proxy": 18326545.0,
+        "quote_date": "2026-11-17",
+        "quote_timestamp": "2026-11-17 15:25 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "OMNI",
         "ticker": "OMNI.NS",
         "name": "Omnitech Engineering Limited",
@@ -1622,8 +1639,8 @@
       "decliners": 245,
       "unchanged": 2,
       "ad_ratio": 1.03,
-      "up_turnover_share_pct": 60.5,
-      "down_turnover_share_pct": 39.5,
+      "up_turnover_share_pct": 60.6,
+      "down_turnover_share_pct": 39.4,
       "high_volume_decliners": 16,
       "intraday_quotes": 498,
       "daily_fallbacks": 2,
@@ -1702,7 +1719,7 @@
         "advancers": 10,
         "decliners": 16,
         "average_1d_pct": 0.359,
-        "average_volume_ratio_20d": 1.046
+        "average_volume_ratio_20d": 1.079
       },
       {
         "sector": "Fast Moving Consumer Goods",
@@ -3253,10 +3270,10 @@
         "ltp": 1317.5,
         "previous_close": 1316.8,
         "day_move_pct": 0.0532,
-        "session_volume": 617718.0,
+        "session_volume": 1085753.0,
         "average_volume_20d": 544210.0,
-        "volume_ratio_20d": 1.135,
-        "turnover_proxy": 813843465.0,
+        "volume_ratio_20d": 1.995,
+        "turnover_proxy": 1430479578.0,
         "quote_date": "2026-11-17",
         "quote_timestamp": "2026-11-17 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
