@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-19 07:08
+Generated: 2026-11-19 07:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -79,10 +79,10 @@ Margin Calls Drag Silver Into the AI Selloff as Fed Minutes Keep the Lid On ad-h
 ### 8. Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades - Invezz
 
 - Source: Invezz
-- Published: 2026-11-19T05:46:50+00:00
+- Published: 2026-11-19T05:48:52+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOazJuQlFLNEUwQkpMcE9tYUtRbmFpQ00td0NnSlFoZm1Hbk9WNDJDNUtVc2M4LWMtTjdvU3lZWXJ3bjFRMmZTZWZaRHBPS0dRVzllTjZDUlZTaDdMRENjaVhwZV9WT3p5dlBIMU9KcmN3dDJzWjZGLXFOTVNsdkVwblIwLW5HZlBFN1V1Zk05clRtdTc0b01iRXoyMll4UkhKSXVJUHIwM0RWZ1JB?oc=5
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXVOM0NIY3FUbEFDaU1wclVqMG41Ym5HUUx5VnRHRTRlWXdaZjFfUjl0ekZ3UElHam4tcEtGU2JoUy1oeEtlejkxN2xCejAwd0RXbUJlV1FRaXUyaFd0NDJNTUVvMWVUbDZsaUVVLW53c0JyOVBqZC1vVERVd0p0OUxpY25aZVFZcW4wdXJRbjJDRW9sZXdmSDVFWnlMYkI1SktxWHZRS3ZYeS1S?oc=5
 
 Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades Invezz
 
@@ -306,17 +306,7 @@ Sensex Falls 437 Points, Nifty 50 Declines 148 Points as Metal, IT and FMCG Stoc
 
 Why did market fall today? Sensex slumps 500 points, Nifty closes below 25,250. 4 factors behind Rs 5 lakh The Economic Times
 
-### 31. Sensex falls 500 points, Nifty declines 0.63% as investors book profits after November rally - https://www.indiagazette.com/
-
-- Source: https://www.indiagazette.com/
-- Published: 2026-11-18T07:15:00+00:00
-- Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOTzZyUHYyOTUxSFJhSVNMS3hHdG5HVGRhNjhCVTJxWW1qR3V4UElNUU1aV2s2VGdzTnlwMG1fWG9fbk1uTTU5VC1DME9UNXptMXBtY1h1dy16WnZUUW5Dei0tNEhwVC15QzdmUGx1N0lUemg4VmVTX0tiN3FrWGZDYUgwUTloMlp1VXhFMm1Bcmc4Sl85S3dDM2N2Q3FvSm1kMWx0NWUyTUVDZnJHU1A5T3hwS2hjLWF3UzZjSEVyY1V0NjJvaE5VNjE2ZDBwdw?oc=5
-
-Sensex falls 500 points, Nifty declines 0.63% as investors book profits after November rally https://www.indiagazette.com/
-
-### 32. market strategy crude fall gift nifty game changer levels - Zee Business
+### 31. market strategy crude fall gift nifty game changer levels - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-19T06:27:01+00:00
@@ -326,7 +316,7 @@ Sensex falls 500 points, Nifty declines 0.63% as investors book profits after No
 
 market strategy crude fall gift nifty game changer levels Zee Business
 
-### 33. Stock market update: Sensex gains 42 points, Nifty falls 41 points as Indian markets open mixed - Mid-Day
+### 32. Stock market update: Sensex gains 42 points, Nifty falls 41 points as Indian markets open mixed - Mid-Day
 
 - Source: Mid-Day
 - Published: 2026-11-19T05:43:00+00:00
@@ -336,7 +326,7 @@ market strategy crude fall gift nifty game changer levels Zee Business
 
 Stock market update: Sensex gains 42 points, Nifty falls 41 points as Indian markets open mixed Mid-Day
 
-### 34. Japan AI selloff: These chips and electronics stocks were the worst hit - Investing.com
+### 33. Japan AI selloff: These chips and electronics stocks were the worst hit - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-19T05:26:00+00:00
@@ -346,7 +336,7 @@ Stock market update: Sensex gains 42 points, Nifty falls 41 points as Indian mar
 
 Japan AI selloff: These chips and electronics stocks were the worst hit Investing.com
 
-### 35. Stock Market Today: Sensex, Nifty Fall In Early Trade - ETV Bharat
+### 34. Stock Market Today: Sensex, Nifty Fall In Early Trade - ETV Bharat
 
 - Source: ETV Bharat
 - Published: 2026-11-19T04:31:04+00:00
@@ -356,7 +346,7 @@ Japan AI selloff: These chips and electronics stocks were the worst hit Investin
 
 Stock Market Today: Sensex, Nifty Fall In Early Trade ETV Bharat
 
-### 36. Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares face selling - Bhaskar English
+### 35. Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares face selling - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-11-19T04:09:16+00:00
@@ -366,7 +356,7 @@ Stock Market Today: Sensex, Nifty Fall In Early Trade ETV Bharat
 
 Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares face selling Bhaskar English
 
-### 37. Opening Bell: Sensex Rises 79 Points, Nifty 50 Falls 48 Points; 2 IPOs Open for Subscription - Dalal Street Investment Journal
+### 36. Opening Bell: Sensex Rises 79 Points, Nifty 50 Falls 48 Points; 2 IPOs Open for Subscription - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-19T04:04:32+00:00
@@ -376,7 +366,7 @@ Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares fac
 
 Opening Bell: Sensex Rises 79 Points, Nifty 50 Falls 48 Points; 2 IPOs Open for Subscription Dalal Street Investment Journal
 
-### 38. Nifty Falls on Profit Booking, Extends Consolidation - Religare Broking Ltd - Investment Guru India
+### 37. Nifty Falls on Profit Booking, Extends Consolidation - Religare Broking Ltd - Investment Guru India
 
 - Source: Investment Guru India
 - Published: 2026-11-19T03:38:23+00:00
@@ -386,7 +376,7 @@ Opening Bell: Sensex Rises 79 Points, Nifty 50 Falls 48 Points; 2 IPOs Open for 
 
 Nifty Falls on Profit Booking, Extends Consolidation - Religare Broking Ltd Investment Guru India
 
-### 39. Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag - Zee Business
+### 38. Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-19T03:18:00+00:00
@@ -396,7 +386,7 @@ Nifty Falls on Profit Booking, Extends Consolidation - Religare Broking Ltd Inve
 
 Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag Zee Business
 
-### 40. Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guardian - newspaper - Magzter
+### 39. Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guardian - newspaper - Magzter
 
 - Source: Magzter
 - Published: 2026-11-19T03:12:06+00:00
@@ -406,7 +396,7 @@ Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stock
 
 Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guardian - newspaper Magzter
 
-### 41. Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts; consumer durables - IndiaIPO
+### 40. Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts; consumer durables - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-19T03:06:30+00:00
@@ -416,7 +406,7 @@ Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guard
 
 Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts; consumer durables IndiaIPO
 
-### 42. Record FPI buying may leave Dec flows muted; correction likely: Analysts - Business Standard
+### 41. Record FPI buying may leave Dec flows muted; correction likely: Analysts - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-19T02:20:56+00:00
@@ -426,7 +416,7 @@ Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts
 
 Record FPI buying may leave Dec flows muted; correction likely: Analysts Business Standard
 
-### 43. European stocks fall 1% for a third straight day as miners drop 4.7% and the FTSE 100 loses 1.3% - MLQ.ai
+### 42. European stocks fall 1% for a third straight day as miners drop 4.7% and the FTSE 100 loses 1.3% - MLQ.ai
 
 - Source: MLQ.ai
 - Published: 2026-11-19T00:08:05+00:00
@@ -436,7 +426,7 @@ Record FPI buying may leave Dec flows muted; correction likely: Analysts Busines
 
 European stocks fall 1% for a third straight day as miners drop 4.7% and the FTSE 100 loses 1.3% MLQ.ai
 
-### 44. Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction Is Inevitable - BigGo Finance
+### 43. Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction Is Inevitable - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-19T00:05:00+00:00
@@ -446,7 +436,7 @@ European stocks fall 1% for a third straight day as miners drop 4.7% and the FTS
 
 Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction Is Inevitable BigGo Finance
 
-### 45. UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks and bonds - investingLive
+### 44. UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks and bonds - investingLive
 
 - Source: investingLive
 - Published: 2026-11-18T23:03:32+00:00
@@ -456,7 +446,7 @@ Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction 
 
 UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks and bonds investingLive
 
-### 46. Sensex Falls 500 Points, Nifty Slips Below 25,250 as Investors Book Profits - Business News This Week
+### 45. Sensex Falls 500 Points, Nifty Slips Below 25,250 as Investors Book Profits - Business News This Week
 
 - Source: Business News This Week
 - Published: 2026-11-18T11:52:01+00:00
@@ -466,7 +456,7 @@ UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks a
 
 Sensex Falls 500 Points, Nifty Slips Below 25,250 as Investors Book Profits Business News This Week
 
-### 47. Nifty Falls After 3,000-Point Rally: Is The Market Due For A Bigger Correction? | Business News - ET Now
+### 46. Nifty Falls After 3,000-Point Rally: Is The Market Due For A Bigger Correction? | Business News - ET Now
 
 - Source: ET Now
 - Published: 2026-11-18T11:49:35+00:00
@@ -476,7 +466,7 @@ Sensex Falls 500 Points, Nifty Slips Below 25,250 as Investors Book Profits Busi
 
 Nifty Falls After 3,000-Point Rally: Is The Market Due For A Bigger Correction? | Business News ET Now
 
-### 48. Sensex slumps 500 points, Nifty below 25,250 amid profit booking - bfsi.economictimes.indiatimes.com
+### 47. Sensex slumps 500 points, Nifty below 25,250 amid profit booking - bfsi.economictimes.indiatimes.com
 
 - Source: bfsi.economictimes.indiatimes.com
 - Published: 2026-11-18T11:30:00+00:00
@@ -486,7 +476,7 @@ Nifty Falls After 3,000-Point Rally: Is The Market Due For A Bigger Correction? 
 
 Sensex slumps 500 points, Nifty below 25,250 amid profit booking bfsi.economictimes.indiatimes.com
 
-### 49. Sensex Falls 500 Points on Profit Booking, US Fed Rate Hike Speculations - Rediff
+### 48. Sensex Falls 500 Points on Profit Booking, US Fed Rate Hike Speculations - Rediff
 
 - Source: Rediff
 - Published: 2026-11-18T11:26:49+00:00
@@ -496,7 +486,7 @@ Sensex slumps 500 points, Nifty below 25,250 amid profit booking bfsi.economicti
 
 Sensex Falls 500 Points on Profit Booking, US Fed Rate Hike Speculations Rediff
 
-### 50. Profit booking hits Dalal Street as Sensex falls 500 points, Nifty below 25,250 - NewsDrum
+### 49. Profit booking hits Dalal Street as Sensex falls 500 points, Nifty below 25,250 - NewsDrum
 
 - Source: NewsDrum
 - Published: 2026-11-18T11:24:06+00:00
@@ -506,7 +496,7 @@ Sensex Falls 500 Points on Profit Booking, US Fed Rate Hike Speculations Rediff
 
 Profit booking hits Dalal Street as Sensex falls 500 points, Nifty below 25,250 NewsDrum
 
-### 51. Gift Nifty Signals Flat Start; Crude Falls, Asia Mixed - HDFC Sky
+### 50. Gift Nifty Signals Flat Start; Crude Falls, Asia Mixed - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-11-18T11:21:05+00:00
@@ -516,7 +506,7 @@ Profit booking hits Dalal Street as Sensex falls 500 points, Nifty below 25,250 
 
 Gift Nifty Signals Flat Start; Crude Falls, Asia Mixed HDFC Sky
 
-### 52. Sensex Falls 500 Points, Nifty Slips Below 25,250 As Profit Booking Hits Markets - News Mobile
+### 51. Sensex Falls 500 Points, Nifty Slips Below 25,250 As Profit Booking Hits Markets - News Mobile
 
 - Source: News Mobile
 - Published: 2026-11-18T11:18:01+00:00
@@ -526,7 +516,7 @@ Gift Nifty Signals Flat Start; Crude Falls, Asia Mixed HDFC Sky
 
 Sensex Falls 500 Points, Nifty Slips Below 25,250 As Profit Booking Hits Markets News Mobile
 
-### 53. Nifty Metal Falls Nearly 2% as Dollar and Rate Worries Bite - JournalArta
+### 52. Nifty Metal Falls Nearly 2% as Dollar and Rate Worries Bite - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-18T11:11:23+00:00
@@ -536,7 +526,7 @@ Sensex Falls 500 Points, Nifty Slips Below 25,250 As Profit Booking Hits Markets
 
 Nifty Metal Falls Nearly 2% as Dollar and Rate Worries Bite JournalArta
 
-### 54. Berkshire Without Buffett Hits Record High in AI Selloff — $377.4 Billion in Cash Is the Secret - finance.biggo.com
+### 53. Berkshire Without Buffett Hits Record High in AI Selloff — $377.4 Billion in Cash Is the Secret - finance.biggo.com
 
 - Source: finance.biggo.com
 - Published: 2026-11-18T11:06:00+00:00
@@ -546,7 +536,7 @@ Nifty Metal Falls Nearly 2% as Dollar and Rate Worries Bite JournalArta
 
 Berkshire Without Buffett Hits Record High in AI Selloff — $377.4 Billion in Cash Is the Secret finance.biggo.com
 
-### 55. Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking - HDFC Sky
+### 54. Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking - HDFC Sky
 
 - Source: HDFC Sky
 - Published: 2026-11-18T11:05:01+00:00
@@ -556,7 +546,7 @@ Berkshire Without Buffett Hits Record High in AI Selloff — $377.4 Billion in C
 
 Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking HDFC Sky
 
-### 56. Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks Drag - Dalal Street Investment Journal
+### 55. Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks Drag - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-18T10:32:09+00:00
@@ -566,7 +556,7 @@ Sensex Falls 500 Pts; Nifty Slips Below 25,250 on Profit Booking HDFC Sky
 
 Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks Drag Dalal Street Investment Journal
 
-### 57. Sensex Falls 500 Points, Nifty Sheds 159, Heres What Derailed Dalal Street’s Rally? - Free Press Journal
+### 56. Sensex Falls 500 Points, Nifty Sheds 159, Heres What Derailed Dalal Street’s Rally? - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-18T10:19:48+00:00
@@ -576,7 +566,7 @@ Sensex Falls 410 Points, Nifty 50 Slips 139 Points as Metal, IT and FMCG Stocks 
 
 Sensex Falls 500 Points, Nifty Sheds 159, Heres What Derailed Dalal Street’s Rally? Free Press Journal
 
-### 58. Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. - Yahoo Finance
+### 57. Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-18T10:08:02+00:00
@@ -586,7 +576,7 @@ Sensex Falls 500 Points, Nifty Sheds 159, Heres What Derailed Dalal Street’s R
 
 Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wall Street. Yahoo Finance
 
-### 59. Dalal Street Ends In Red As Sensex Falls Over 500 Points, Nifty Tests 25,200 - ABP Live English
+### 58. Dalal Street Ends In Red As Sensex Falls Over 500 Points, Nifty Tests 25,200 - ABP Live English
 
 - Source: ABP Live English
 - Published: 2026-11-18T10:05:04+00:00
@@ -596,7 +586,7 @@ Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wal
 
 Dalal Street Ends In Red As Sensex Falls Over 500 Points, Nifty Tests 25,200 ABP Live English
 
-### 60. Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn
+### 59. Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn
 
 - Source: LinkedIn
 - Published: 2026-11-18T08:51:48+00:00
@@ -606,7 +596,7 @@ Dalal Street Ends In Red As Sensex Falls Over 500 Points, Nifty Tests 25,200 ABP
 
 Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag LinkedIn
 
-### 61. Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) - 아시아경제
+### 60. Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) - 아시아경제
 
 - Source: 아시아경제
 - Published: 2026-11-18T08:43:48+00:00
@@ -616,7 +606,7 @@ Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; 
 
 Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) 아시아경제
 
-### 62. Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers - Zee Business
+### 61. Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-18T08:22:07+00:00
@@ -626,7 +616,7 @@ Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correc
 
 Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG stocks among top losers Zee Business
 
-### 63. Nvidia Q3 Revenue Jumps 103%: Why Did TCS and Infosys Fall? - NiftyTrader
+### 62. Nvidia Q3 Revenue Jumps 103%: Why Did TCS and Infosys Fall? - NiftyTrader
 
 - Source: NiftyTrader
 - Published: 2026-11-18T08:13:18+00:00
@@ -636,7 +626,7 @@ Stock Market Today: Sensex falls over 700 points, Nifty below 25,200; IT, FMCG s
 
 Nvidia Q3 Revenue Jumps 103%: Why Did TCS and Infosys Fall? NiftyTrader
 
-### 64. Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 25,200. Key Reasons Explained - NDTV Profit
+### 63. Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 25,200. Key Reasons Explained - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-18T08:09:15+00:00
@@ -646,17 +636,7 @@ Nvidia Q3 Revenue Jumps 103%: Why Did TCS and Infosys Fall? NiftyTrader
 
 Why Stock Market Is Falling Today? Sensex Drops Over 700 Points, Nifty 50 Below 25,200. Key Reasons Explained NDTV Profit
 
-### 65. MSCI (MSCI) Could Be 20% Undervalued On AI Selloff Focus - Simply Wall St
-
-- Source: Simply Wall St
-- Published: 2026-11-18T07:09:57+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOVEJpamxQclZhaDNzYmE4NlpIRUpkZXNJOEhDTFg5U0lyTURENURUbTFLZTJOYWlCU2lRd2VBTjN5c0t2alduZlZxdnR4M1hvOXZnbXI4dXFBMGZUU0lBLU9QWW42SWxaSUhfVmZ1R0hNaURiX0RnTXN5R0tkVzY4WWN2dE50dGE0ZlFkMk81Y3ByR1hOU2Z1Q3lxTXFUeDlHQkZMeUZDcC1SNEMxSThvb0ZtSmpGMHVuYVNDOFhVM0cxbm9TQVdTMTNLREjSAcwBQVVfeXFMTlRCaWpsUHJWYWgzc2JhODZaSEVKZGVzSThIQ0xYOVNJck1ERDVEVG0xS2UyTmFpQlNpUXdlQU4zeXNLdmpXbmZWcXZ0eDNYbzl2Z21yOHVxQTBmVFNJQS1PUFluNklsWklIX1ZmdUdITWlEYl9EZ01zeUdLZFc2OFljdnROdHRhNGZRZDJPNWNwckdYTlNmdUN5cU1xVHg5R0JGTHlGQ3AtUjRDMUk4b29GbUpqRjB1bmFTQzhYVTNHMW5vU0FXUzEzS0RI?oc=5
-
-MSCI (MSCI) Could Be 20% Undervalued On AI Selloff Focus Simply Wall St
-
-### 66. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
+### 64. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
 
 - Source: TradingView
 - Published: 2026-11-19T05:12:00+00:00
@@ -666,7 +646,7 @@ MSCI (MSCI) Could Be 20% Undervalued On AI Selloff Focus Simply Wall St
 
 Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 
-### 67. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
+### 65. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-19T04:10:59+00:00
@@ -676,7 +656,7 @@ Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 
 IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip NDTV Profit
 
-### 68. Indian shares edge higher despite Asia selloff; IT caps gains - Reuters
+### 66. Indian shares edge higher despite Asia selloff; IT caps gains - Reuters
 
 - Source: Reuters
 - Published: 2026-11-19T02:32:00+00:00
@@ -686,7 +666,7 @@ IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL T
 
 Indian shares edge higher despite Asia selloff; IT caps gains Reuters
 
-### 69. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
+### 67. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
 
 - Source: theopenpress.in
 - Published: 2026-11-18T23:54:43+00:00
@@ -696,7 +676,7 @@ Indian shares edge higher despite Asia selloff; IT caps gains Reuters
 
 Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day theopenpress.in
 
-### 70. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
+### 68. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-18T17:47:06+00:00
@@ -706,7 +686,7 @@ Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a
 
 BSE Sensex falls 500 points as consumer durables and metals weigh ad-hoc-news.de
 
-### 71. Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels - Moneycontrol.com
+### 69. Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-18T12:16:59+00:00
@@ -716,7 +696,7 @@ BSE Sensex falls 500 points as consumer durables and metals weigh ad-hoc-news.de
 
 Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels Moneycontrol.com
 
-### 72. BSE Sensex falls 0.61% as profit-taking hits stocks - ad-hoc-news.de
+### 70. BSE Sensex falls 0.61% as profit-taking hits stocks - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-18T12:02:24+00:00
@@ -726,7 +706,7 @@ Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? 
 
 BSE Sensex falls 0.61% as profit-taking hits stocks ad-hoc-news.de
 
-### 73. Sensex Sheds 500 Points On Metals And Durables Selloff - https://streamlinefeed.co.ke/
+### 71. Sensex Sheds 500 Points On Metals And Durables Selloff - https://streamlinefeed.co.ke/
 
 - Source: https://streamlinefeed.co.ke/
 - Published: 2026-11-18T11:08:34+00:00
@@ -736,7 +716,7 @@ BSE Sensex falls 0.61% as profit-taking hits stocks ad-hoc-news.de
 
 Sensex Sheds 500 Points On Metals And Durables Selloff https://streamlinefeed.co.ke/
 
-### 74. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - IndiaIPO
+### 72. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-18T10:31:27+00:00
@@ -746,7 +726,7 @@ Sensex Sheds 500 Points On Metals And Durables Selloff https://streamlinefeed.co
 
 Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% IndiaIPO
 
-### 75. Indian stock markets tumble as Sensex falls over 500 points - NewsBytes
+### 73. Indian stock markets tumble as Sensex falls over 500 points - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-11-18T10:30:40+00:00
@@ -756,7 +736,7 @@ Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall
 
 Indian stock markets tumble as Sensex falls over 500 points NewsBytes
 
-### 76. Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser - Upstox
+### 74. Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser - Upstox
 
 - Source: Upstox
 - Published: 2026-11-18T10:23:37+00:00
@@ -766,7 +746,7 @@ Indian stock markets tumble as Sensex falls over 500 points NewsBytes
 
 Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser Upstox
 
-### 77. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - CNBC TV18
+### 75. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-18T10:11:48+00:00
@@ -776,7 +756,7 @@ Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks
 
 Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% CNBC TV18
 
-### 78. Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off - Zee Business
+### 76. Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-18T09:58:56+00:00
@@ -786,7 +766,7 @@ Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall
 
 Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off Zee Business
 
-### 79. India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains - NDTV Profit
+### 77. India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-19T02:57:52+00:00
@@ -796,7 +776,7 @@ Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell
 
 India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains NDTV Profit
 
-### 80. Sip, shop and repeat! Double JJ hosts its annual fall market - Shoreline Media Group
+### 78. Sip, shop and repeat! Double JJ hosts its annual fall market - Shoreline Media Group
 
 - Source: Shoreline Media Group
 - Published: 2026-11-18T21:15:00+00:00
@@ -805,3 +785,23 @@ India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Ra
 - Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxQbzA2MF9BR0t4THVXQ1FVZkhIVGE4SXFiRlNPY2VhQnNhcl9EaXpvaE9zUmVXc013SEdocWdJeU05OHcxMnBIY2p6ZXRPSGVLeDB6NkhyeFZZaFRMRlZVdExkRGpWdVpNc2dKUDF6Vlp5UlJDMzRvSFJNMU9RTEhzUTBLUElSVzZTdnduWTM5OTVTMmZ3eG5naDIyRXpuVlg5aEU1ZmQ4MThDVV9kZTdqd2p5elhLVElsMkN1dkpWZWh2ZnZ0R19uM0dySXlPcWpqWGVwd3ZvdUlJZFVtNlpxMFJhcEU0Y1hkb0thZVRnTEdVXzlDSk1tUTh0dw?oc=5
 
 Sip, shop and repeat! Double JJ hosts its annual fall market Shoreline Media Group
+
+### 79. HSBC Mutual Fund launches #MidSeMoreTak campaig… - www.uniindia.com
+
+- Source: www.uniindia.com
+- Published: 2026-11-18T15:34:00+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxQS2RaSGR0SVJMV3Y2dWc3QkRqZ0hpX0laWWtFRExwMVpLUlBWejRLZUN4TjZ4YVFFcmF5dlBEQWxTaUtQeTdGV254YWN0ejJ6TWdnbEh0VVUwcGhKbDVPMVM1d1RmR3dFWnl3LUZSblJuVzVILXZoNE9uMldrZnVXM1NVUnc5WVVudUt4VDZKV2ptOFdKdUoxTFNRczVqMFo0Uk1ZTzg4ckh2LTVDdVFOT1FGZ0ZhemJKVjhPNlVtVFhuMDZEb09VeEsyc05nV3g3WE4tUEJLU3dyMHZmVi1Pd0lKRk0weWVf?oc=5
+
+HSBC Mutual Fund launches #MidSeMoreTak campaig… www.uniindia.com
+
+### 80. Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Here's Why IT And Metal Stocks Are Dragging Markets Down - IBTimes India
+
+- Source: IBTimes India
+- Published: 2026-11-19T05:19:39+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMivwFBVV95cUxQSS1XWkJ1Tm5icldIdHdLTTVuWVZncVAxZTF5UVRORTVpd3UwdllHMVhLNVgtM2JNQ3F5Wk9qci1KRFI0ZVZaVHdFTExIZ2xnX2NFbWZXNjhkUjRSY0Q3YW1IN3ZYNFIwTXlfcGRkSk9CT3JjSGpKR0VHZDE1RTJ2YV9YT1UzRTR4d3JkaHNKS2hkQVpiV1BMeW53cEV4em9oZEw3UTItVC1TZVRnUE90bG50dkhJM2w5LUQtcVB2RQ?oc=5
+
+Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Here's Why IT And Metal Stocks Are Dragging Markets Down IBTimes India
