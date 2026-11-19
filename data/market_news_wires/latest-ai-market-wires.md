@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-19 08:38
+Generated: 2026-11-19 09:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -576,27 +576,7 @@ Stock Market Correction: 2 AI Stocks With 130% and 160% Upside, According to Wal
 
 Dalal Street Ends In Red As Sensex Falls Over 500 Points, Nifty Tests 25,200 ABP Live English
 
-### 58. Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag - LinkedIn
-
-- Source: LinkedIn
-- Published: 2026-11-18T08:51:48+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxNX2diUEJzR1JMZ1g4Rnp2MEFmOEZiaUF6bW5kN3BWSTBPVlVDbWktb00tWW8yNFZsWVNJYUN6TVRTaWI5cEhsUURLb1pITjRQV2RsLURXa0hqVThSdlFqNzZscHhmbWh5UTNzR1NBTXRJTHhpbnJtaHpYWjFKZVl3R3JIRFhPRFFINU9uVUQ2VnhiTElac1BMN1R1OUxKeTJ1LWZTaDJYZFFZeHRkTGI5M1BocjhGZw?oc=5
-
-Sensex Today | Stock Market Live: Sensex falls over 400 pts, Nifty near 25,250; consumer durables, metals plunge; Titan, Bajaj Finance drag LinkedIn
-
-### 59. Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) - 아시아경제
-
-- Source: 아시아경제
-- Published: 2026-11-18T08:43:48+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiZEFVX3lxTFBVWkl2Sk9tcTFTWW93SGNjMjFMZ0E4VjhMWHlSZU9NQ2VTRkxDdWRLZWpmNXpSdFVRUlVETXo0WDA1dkxld2tNQXVJc2JOMWQwODlLV3FNd2lWa2E0RDQ3aXFiLVE?oc=5
-
-Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correction Tape Misused (Updated) 아시아경제
-
-### 60. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
+### 58. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
 
 - Source: TradingView
 - Published: 2026-11-19T05:12:00+00:00
@@ -606,7 +586,7 @@ Police Search Tax Accountant's Home in 'AI Cheating' Probe... Calculator, Correc
 
 Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 
-### 61. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
+### 59. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-19T04:10:59+00:00
@@ -616,7 +596,7 @@ Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 
 IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip NDTV Profit
 
-### 62. Indian shares edge higher despite Asia selloff; IT caps gains - Reuters
+### 60. Indian shares edge higher despite Asia selloff; IT caps gains - Reuters
 
 - Source: Reuters
 - Published: 2026-11-19T02:32:00+00:00
@@ -626,7 +606,7 @@ IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL T
 
 Indian shares edge higher despite Asia selloff; IT caps gains Reuters
 
-### 63. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
+### 61. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
 
 - Source: theopenpress.in
 - Published: 2026-11-18T23:54:43+00:00
@@ -636,7 +616,7 @@ Indian shares edge higher despite Asia selloff; IT caps gains Reuters
 
 Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day theopenpress.in
 
-### 64. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
+### 62. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-18T17:47:06+00:00
@@ -646,7 +626,7 @@ Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a
 
 BSE Sensex falls 500 points as consumer durables and metals weigh ad-hoc-news.de
 
-### 65. Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels - Moneycontrol.com
+### 63. Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-18T12:16:59+00:00
@@ -656,7 +636,7 @@ BSE Sensex falls 500 points as consumer durables and metals weigh ad-hoc-news.de
 
 Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels Moneycontrol.com
 
-### 66. BSE Sensex falls 0.61% as profit-taking hits stocks - ad-hoc-news.de
+### 64. BSE Sensex falls 0.61% as profit-taking hits stocks - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-18T12:02:24+00:00
@@ -666,7 +646,7 @@ Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? 
 
 BSE Sensex falls 0.61% as profit-taking hits stocks ad-hoc-news.de
 
-### 67. Sensex Sheds 500 Points On Metals And Durables Selloff - https://streamlinefeed.co.ke/
+### 65. Sensex Sheds 500 Points On Metals And Durables Selloff - https://streamlinefeed.co.ke/
 
 - Source: https://streamlinefeed.co.ke/
 - Published: 2026-11-18T11:08:34+00:00
@@ -676,7 +656,7 @@ BSE Sensex falls 0.61% as profit-taking hits stocks ad-hoc-news.de
 
 Sensex Sheds 500 Points On Metals And Durables Selloff https://streamlinefeed.co.ke/
 
-### 68. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - IndiaIPO
+### 66. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-18T10:31:27+00:00
@@ -686,7 +666,7 @@ Sensex Sheds 500 Points On Metals And Durables Selloff https://streamlinefeed.co
 
 Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% IndiaIPO
 
-### 69. Indian stock markets tumble as Sensex falls over 500 points - NewsBytes
+### 67. Indian stock markets tumble as Sensex falls over 500 points - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-11-18T10:30:40+00:00
@@ -696,7 +676,7 @@ Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall
 
 Indian stock markets tumble as Sensex falls over 500 points NewsBytes
 
-### 70. Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser - Upstox
+### 68. Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser - Upstox
 
 - Source: Upstox
 - Published: 2026-11-18T10:23:37+00:00
@@ -706,7 +686,7 @@ Indian stock markets tumble as Sensex falls over 500 points NewsBytes
 
 Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser Upstox
 
-### 71. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - CNBC TV18
+### 69. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-18T10:11:48+00:00
@@ -716,17 +696,7 @@ Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks
 
 Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% CNBC TV18
 
-### 72. Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off - Zee Business
-
-- Source: Zee Business
-- Published: 2026-11-18T09:58:56+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQNnNXM3V3Z3lGdVRPTDZZS01sc0pPMVBaT1ZWbzFZZXA1VUh0cHBYV1pkSGRWTWgtSDVETkNTczdNeUsxMjRLNUF3bk9wSGdrMnZTTkc0dGV0blRXaURnOUl5Y1NoS2o1cHFFRm1DOUVLRjZEY29tV1J2NjlzSE9pMTVsbTZYaGZmNU1fZVE5VjUyN0NsRm9pVEU0MGxjQzctTGlJVk1B?oc=5
-
-Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off Zee Business
-
-### 73. India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains - NDTV Profit
+### 70. India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-19T02:57:52+00:00
@@ -736,17 +706,17 @@ Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell
 
 India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains NDTV Profit
 
-### 74. Mutual funds received 53% of Mahanadi Coalfields IPO anchor book: Which schemes will own Coal India subsidiary shares? - Livemint
+### 71. Mutual funds received 53% of Mahanadi Coalfields IPO anchor book: Which schemes will own Coal India subsidiary shares? - Livemint
 
 - Source: Livemint
 - Published: 2026-11-19T07:58:56+00:00
 - Themes: India market
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxPTERWWjZxdVpFWktrczFxdkQtVW5UVnRwd3hza28zYlpLTUJKY3BKbkhWdndYOU4zY2Q0T3gwM1g2YWQtWnZBMjN0UU9mMVNoWHVxem1JY2tDZENveGhZZmMzZ0xnTk5Ialp2b3d5SEZaX2tKdXdvSGdaQWZoUEtYRzEwNy1xblJGaHhGNncySlhtSnhKNDRyT0x3dXZlakc1TGU4Zk1OZXJiSnl2R3BIbXFpT2FNZ2xHSW45LU1xcHN2cU1EbEtwbmlHSUtlN1hJc1VGZFdqUWpSdDJqWlQ5bFJoUldhOXlfdTFDMUZjUG1FSmhqS0h4Skc0X3M1cUpqX3A1X1pnSUctNlZISkZGQg?oc=5
+- Link: https://news.google.com/rss/articles/CBMikAJBVV95cUxPTERWWjZxdVpFWktrczFxdkQtVW5UVnRwd3hza28zYlpLTUJKY3BKbkhWdndYOU4zY2Q0T3gwM1g2YWQtWnZBMjN0UU9mMVNoWHVxem1JY2tDZENveGhZZmMzZ0xnTk5Ialp2b3d5SEZaX2tKdXdvSGdaQWZoUEtYRzEwNy1xblJGaHhGNncySlhtSnhKNDRyT0x3dXZlakc1TGU4Zk1OZXJiSnl2R3BIbXFpT2FNZ2xHSW45LU1xcHN2cU1EbEtwbmlHSUtlN1hJc1VGZFdqUWpSdDJqWlQ5bFJoUldhOXlfdTFDMUZjUG1FSmhqS0h4Skc0X3M1cUpqX3A1X1pnSUctNlZISkZGQtIBlgJBVV95cUxPOElXNHZXaUpidHNPaWNOVG03ZW95Z1otYzlzNkpGX2gySUM2SFk3d2Vnc1JTWTlZTnJXWUtoZ1dNUHJvNTJiU2NxRkJxdEdteU40NmFLS2FibjhtMXJsRnI0ajhBcVRDb2huRHFqaDRhYmd2eS1QTXJUTWFuSVJqS3ZrQUlBWnU2ZzVnU2ZYNW5odFZWaUYyVG5WX0xfR09Tdkp0aGt4VTFzLTc2ajUzVmNyLWFDUURNRjZPQWFQQ2lEa09kaWdQcG1GSUFOSUxSa0FibDBKenRRQ2VWS3pKZzZ4dkpKcUFaRmUyU25KRnIwSlQyWEtXYVhXZlFRX1RiSTlMTGxMWGQ0MnBMa3oybnpsRDFQQQ?oc=5
 
 Mutual funds received 53% of Mahanadi Coalfields IPO anchor book: Which schemes will own Coal India subsidiary shares? Livemint
 
-### 75. Sip, shop and repeat! Double JJ hosts its annual fall market - Shoreline Media Group
+### 72. Sip, shop and repeat! Double JJ hosts its annual fall market - Shoreline Media Group
 
 - Source: Shoreline Media Group
 - Published: 2026-11-18T21:15:00+00:00
@@ -756,7 +726,7 @@ Mutual funds received 53% of Mahanadi Coalfields IPO anchor book: Which schemes 
 
 Sip, shop and repeat! Double JJ hosts its annual fall market Shoreline Media Group
 
-### 76. HSBC Mutual Fund launches #MidSeMoreTak campaig… - www.uniindia.com
+### 73. HSBC Mutual Fund launches #MidSeMoreTak campaig… - www.uniindia.com
 
 - Source: www.uniindia.com
 - Published: 2026-11-18T15:34:00+00:00
@@ -766,7 +736,7 @@ Sip, shop and repeat! Double JJ hosts its annual fall market Shoreline Media Gro
 
 HSBC Mutual Fund launches #MidSeMoreTak campaig… www.uniindia.com
 
-### 77. Mutual Funds, SIPs: How long should you stay invested? Expert says data shows the real truth — Check here - Livemint
+### 74. Mutual Funds, SIPs: How long should you stay invested? Expert says data shows the real truth — Check here - Livemint
 
 - Source: Livemint
 - Published: 2026-11-19T07:57:35+00:00
@@ -776,7 +746,7 @@ HSBC Mutual Fund launches #MidSeMoreTak campaig… www.uniindia.com
 
 Mutual Funds, SIPs: How long should you stay invested? Expert says data shows the real truth — Check here Livemint
 
-### 78. Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Here's Why IT And Metal Stocks Are Dragging Markets Down - IBTimes India
+### 75. Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Here's Why IT And Metal Stocks Are Dragging Markets Down - IBTimes India
 
 - Source: IBTimes India
 - Published: 2026-11-19T05:19:39+00:00
@@ -786,7 +756,7 @@ Mutual Funds, SIPs: How long should you stay invested? Expert says data shows th
 
 Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Here's Why IT And Metal Stocks Are Dragging Markets Down IBTimes India
 
-### 79. Best conservative hybrid mutual funds to invest in November 2026 - The Economic Times
+### 76. Best conservative hybrid mutual funds to invest in November 2026 - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-19T04:17:35+00:00
@@ -796,7 +766,7 @@ Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Here's Why 
 
 Best conservative hybrid mutual funds to invest in November 2026 The Economic Times
 
-### 80. Sensex, Nifty open flat amid Fed rate hike concerns; investors remain cautious - The Tribune
+### 77. Sensex, Nifty open flat amid Fed rate hike concerns; investors remain cautious - The Tribune
 
 - Source: The Tribune
 - Published: 2026-11-19T04:17:27+00:00
@@ -805,3 +775,33 @@ Best conservative hybrid mutual funds to invest in November 2026 The Economic Ti
 - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxOa1RiblgwUlhtS1o5MVBhWENIcjN2SmYyZE9iVk1PWkZrSVd2TUVoQmhxVWdKLWhnWjFRZ0xOcFFTc3pvQ2lxMTZnTnNuZjlUOE9XWEdFazNQYnZZVnhydTlMSEVieGctRm5Mczh1eHpqNXNiTUIySmw0X0VpX1dxazRjQlAwbUw4SHdKY2NVZUt2MzFSem9CZEJJdXRZcGE2S3gyMGJSV3psdzc0OHhZSm90QjJJY0ZpdEk2eNIBwAFBVV95cUxNN0t4NDZyN3MxZ1FRcmVRbWM1YTVKMTNVeE95Z2xZOEl0ZDNDSUM3RTN6U0ZLSTdqNzBVMzcwQU1BTTRnMmY5LW9nMloxTGdEM2ZpWklFWHNxbUFIX2ZuR0M5ZDJoS2FyMHUwRVdpdHFVaGFhZ1dqLU9hT0J5N0o2TWlfdTZjM0pjQWd1R2NkZ3BHVXR3aTNhMTJHRjVvbjhrbE95ZWRaUjVMRWFSelRsX09TUUJIV1FJRkFKZmpHVWQ?oc=5
 
 Sensex, Nifty open flat amid Fed rate hike concerns; investors remain cautious The Tribune
+
+### 78. Stock market cues to watch today: Asia, US market, GIFT Nifty, FII, crude, and other data - ET Now
+
+- Source: ET Now
+- Published: 2026-11-19T00:56:12+00:00
+- Themes: India market, macro / flows
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxQakVROXhxRHBGdW1mYkVrYkNER1phS0ZPRGV4MUk3TV9wYlR5NF9heGQ3VVZwd1JoZkdvQjh2UDgxZnJNUHZfV1FielpSOVdad0sza29YYWlSMnlzZTFEY3BqUmRRdjhiUVg1WTl0SEItZXIwOTdTUFk4MVlaR1ZHbkNOWEsxeHZab3ptTkRmaEMzeXZSekxPWXhZaFIxMFNURWhhZUxfRExkWkxwTl81OFJldjh4dDFUT0MzVHZ6djF6SnJJMzRCdmFvSDZWcnFSdDN2UWl5NkxnVUdqdExzTHFxcDdWNEJQRG13NlJQTU1kQzM3WDBuWnBlZEI2ZmvSAYQCQVVfeXFMTWphZk5fVHhIS1liZ0R2Y0IydUxzR0JYVEhvRGU3M0hDU0xiMnNka1pQNVJpVXpnc1J4REkyR1FtSGdRck40Y0dYTTVsQ3pkUzd0R3FiYXN1bkhDQzkxb1FCSzZrZnI5VUx5OF9BemVXallDN0hQR3I4bE1ydllNREtETWlScUY1dnFWM3FDTG43VjJUdlhPVi0yQXFacjBHcXdFa21zQlhBWmY1SEJRbG1Nb1NNem8ydXhvdTlNaEtXVEZGSUNOZnIxX3NvdGg4MG9hMG5jWXlLdVpzMW1aenpmWmpEOTBLNTh2ZWVBNF9tanlSOGU1bmNjYWRUM2s2QW1LTl8?oc=5
+
+Stock market cues to watch today: Asia, US market, GIFT Nifty, FII, crude, and other data ET Now
+
+### 79. Sip & Savor: A Pizza Workshop, a Holiday Harvest Market, and an Acclaimed Bagel - 425magazine.com
+
+- Source: 425magazine.com
+- Published: 2026-11-18T15:45:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMinAJBVV95cUxQRFUtU3Jfd0tIYWZlNTY1VGt1YTc0UUtaQ3lFNnRhSElZcHlCMnAtZ0VWN2w4ek9WSkdybmxGOEpOamF6ZlhHQWZvS0JqcDF3My1uWENNVnpJWlg4UE9lLXBaaTFObjd6WW96dy1EdEVlQ09xWVlSUXA3cURwNVJOc1pLOWlscFZsMmNuSGJKN2dUUnUxSFVpTjF1LVNqWlhOajV5YUpNX1JnbTExdkZMd1NxaTNjT3JpZUM2NVlrYTl3TDhYZnRBbm96U1Z2TTRqMkVJOWhud3ppeGZHMVM5X3RpNnFETjI2MWxhVUVSVWhqNzdHam5HS2QyMlR4U3kwcXUzYUQtZlJ1Ukd1VWtMU1F5aEpHem0teDBNTw?oc=5
+
+Sip & Savor: A Pizza Workshop, a Holiday Harvest Market, and an Acclaimed Bagel 425magazine.com
+
+### 80. SIP investment: Patience pays as staying invested for 10 years could help you avoid losses—what 21-year study revealed - Livemint
+
+- Source: Livemint
+- Published: 2026-11-18T14:54:51+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMi_AFBVV95cUxNVno3azRHQi1mR2g3Sk9UVWtneWhnVXo4UEZsejBZR05HYmFsbTRFSThISE9USWwxVXVPbDdvLUhKdW1wOWpHNGJobmlIQ3Y0aE5ucnBEMFpmQ2JKVHdJdjBCS0tCeWRBU1BzRzNhM3MxTWpBam1MaHBaLUs1UkxJdEs5eW5RQ1QtUHYyZ0ZiRFE3YjlUV2ZkVWExMWZLTUNwSlhjdVFXYzU2VHJfbnBUN3BwbHpXYjRDQ3VyNVZncml3cjZSY1hmOFhLZ1JuajZOSkFMbnNOY1hPR0VmMm45SXZtVlNhY1p1QVZqQktVNWZvVlhKdUFFQjJDMXjSAYICQVVfeXFMUEUyQktUTUdCQjRDYW9yaFVOS19mQlV2MkFoUlNSdV9VUlE2ZVhuemF6ZGZLT041eWU4X1dZVDczOExtWWNBaGNrTWdKZnZISkJiamJFRkxQeEZoQzFac3JTOTNFdGk0SUVHeUg5bG1UbXhmY2hLelltR3JXVnU3Vlc5ZkY3bjlXTGJMWmFINEZDTm5hUFFrTlhoSHp0NE1jdGRKS3ZXTnlzYnRBb1Z3QmtxeExGLXR2QkNsNHBVNlhtLVJJeVpqa013VW1DYnpSeVAzaXRWWGp3VTJkcW9CQTBCZERtQmk2YnJEMUp6eWhaRmdrejFpQmtmSEdFLXJVX2Rn?oc=5
+
+SIP investment: Patience pays as staying invested for 10 years could help you avoid losses—what 21-year study revealed Livemint
