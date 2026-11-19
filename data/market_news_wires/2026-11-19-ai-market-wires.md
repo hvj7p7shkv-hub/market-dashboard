@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-19 03:08
+Generated: 2026-11-19 03:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -106,17 +106,7 @@ Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap Bloomberg
 
 Even Nvidia’s blowout earnings can’t stop this selloff Curzio Research
 
-### 11. Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom - GuruFocus
-
-- Source: GuruFocus
-- Published: 2026-11-18T18:05:26+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxOTmVpa1ZfR1pNb1pxQnE2c21YaXNtTERnUmVsTHhWRWpsTDFtdkZVOFpKdkNOSDBaMlRhRG5DNTJQMllJRlNWRTJlU0NlUkJQYUtGcHVGZVZkbXpsM3NBOFdHQWFPb0dwUHJKRTAxTVBmcmNIcHo3M1dlWUN4c2hwLVdNZ2NBSTBIV0ExZEdSOWx0Q2J6cHlWU3kzbU5oR09GMkpsNDFKREU5c2hsakxZeQ?oc=5
-
-Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom GuruFocus
-
-### 12. US stocks fall: Dow loses 607 points, Nvidia slips after earnings ahead of Anthropic IPO | Hindustan Times - Hindustan Times
+### 11. US stocks fall: Dow loses 607 points, Nvidia slips after earnings ahead of Anthropic IPO | Hindustan Times - Hindustan Times
 
 - Source: Hindustan Times
 - Published: 2026-11-18T18:04:05+00:00
@@ -125,6 +115,16 @@ Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom GuruF
 - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOb0NWVzc4MmlaSXppeF9UbjdxLUdYRU45bkZTWjlxTzF6X0ZFTm9HYWp5OVdlMFFpN1k0dnRMaTZyb3FsY1N6MExqcmVlX05ISS0zbU9tbE1WeTRjZERKRzA4VzljcWNoMlJOMFBWUW4tQ2VnYlJIN2UtMUthYjBXYUxOamFIdXFQV0xBU2hGQ0ZPMjh4QlNzdWRkeFBXY3ZtYWJicEJ5enZZenFjY0htNWU3Y0tEM211blJwRWZwdEw0S1U4ZUs2Um5aVXFGZmZ2azhjR1E5OFM2alFpZ2NBcDl1YUFTT21rOGNNSmZn0gHzAUFVX3lxTE94a25FOHhmUTZHY2hLMHpwb3VLZmstSEM1M0xyeGZqOG80aHZfdHlIVExyVkFPMVNYaEVKX3FVT0lwZ1h4cU4tNUxIeU5YYVdfWFB2Vnh6ZnZDbkswcFpYM1pvUkxTM25obGhIbXpDYjhLaGx1ZVU1eFNpbmNqbjJpQlR5Skt3TDk5ZGwzcFRNN2t0SG5GQXo2aEVpUU1TZU1jUmp2NHd1bU92eTFROTR1b0E4X3lVVlUyUWJRS3VCbm93R2J5RXc2clpmQ3JtOFloMEFXczQ4NHQxYmNTV3NyMk5GX3BFVWVlaEh6dmg4dThUYw?oc=5
 
 US stocks fall: Dow loses 607 points, Nvidia slips after earnings ahead of Anthropic IPO | Hindustan Times Hindustan Times
+
+### 12. Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom - TradingView
+
+- Source: TradingView
+- Published: 2026-11-18T17:55:22+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOU1Q4TWxSZk1oYUo5MWQ2VE9LWDJRTVZZcjdiWnFtVUFkbTl6UFRaMW5tUEY1MEZLSXllb0xtakIyQktrSzNMMjJ4MmFRYU1wcDFoRlE4LWs4VVhJM1VQY1kxRHRCZFlHMm5ielV5d3VjaTBFNngxcVdZRXZHY2ZqeXhoQXV2b0F3N1JyQUR6THVRMTVPSEVpU2IwRXdZbjVVTzJfakJWRUUtQ2ZBOXdVS1Rpd3ZzenpCdEdzY3pRTkZXUjJNMVBTbDFFdnJDQQ?oc=5
+
+Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom TradingView
 
 ### 13. The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. - Yahoo Finance
 
@@ -696,17 +696,7 @@ IT Stocks Fall: Wipro, Infosys, Mphasis, LTM, Others Trade Lower; Nifty IT Drops
 
 Sensex, Nifty open in red; IT stocks drag markets, TCS falls over 2% Zee Business
 
-### 70. Indian markets to open lower after Wall Street AI selloff - NewsBytes
-
-- Source: NewsBytes
-- Published: 2026-11-18T03:24:35+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNdG9PYlEyX0ZHWmdCWmF5bWotVmc3VDZxdDJxZHJRUzloZ0dISHJaekZBUElYVFFRTEwzejl5ZDE4SzZPQ2NESXJ3UWdJUmhYNHY3ekowczYtc1ZCVnhtd3FnLVRyZmRKM3hDNnFXbEJEbTlqM0VLbDdFVl9JanRVRVNNdnZMNzdFNXdtbERoMEpfMmxocFJRYVFaTzExdmwybUpPYnNWMDg?oc=5
-
-Indian markets to open lower after Wall Street AI selloff NewsBytes
-
-### 71. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
+### 70. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
 
 - Source: theopenpress.in
 - Published: 2026-11-18T23:54:43+00:00
@@ -716,7 +706,7 @@ Indian markets to open lower after Wall Street AI selloff NewsBytes
 
 Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day theopenpress.in
 
-### 72. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
+### 71. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-18T17:47:06+00:00
@@ -726,7 +716,7 @@ Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a
 
 BSE Sensex falls 500 points as consumer durables and metals weigh ad-hoc-news.de
 
-### 73. Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels - Moneycontrol.com
+### 72. Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-18T12:16:59+00:00
@@ -736,7 +726,7 @@ BSE Sensex falls 500 points as consumer durables and metals weigh ad-hoc-news.de
 
 Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels Moneycontrol.com
 
-### 74. BSE Sensex falls 0.61% as profit-taking hits stocks - ad-hoc-news.de
+### 73. BSE Sensex falls 0.61% as profit-taking hits stocks - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-18T12:02:24+00:00
@@ -746,7 +736,7 @@ Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? 
 
 BSE Sensex falls 0.61% as profit-taking hits stocks ad-hoc-news.de
 
-### 75. Sensex Sheds 500 Points On Metals And Durables Selloff - https://streamlinefeed.co.ke/
+### 74. Sensex Sheds 500 Points On Metals And Durables Selloff - https://streamlinefeed.co.ke/
 
 - Source: https://streamlinefeed.co.ke/
 - Published: 2026-11-18T11:08:34+00:00
@@ -756,7 +746,7 @@ BSE Sensex falls 0.61% as profit-taking hits stocks ad-hoc-news.de
 
 Sensex Sheds 500 Points On Metals And Durables Selloff https://streamlinefeed.co.ke/
 
-### 76. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - IndiaIPO
+### 75. Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-18T10:31:27+00:00
@@ -766,7 +756,7 @@ Sensex Sheds 500 Points On Metals And Durables Selloff https://streamlinefeed.co
 
 Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall over 1% IndiaIPO
 
-### 77. Indian stock markets tumble as Sensex falls over 500 points - NewsBytes
+### 76. Indian stock markets tumble as Sensex falls over 500 points - NewsBytes
 
 - Source: NewsBytes
 - Published: 2026-11-18T10:30:40+00:00
@@ -776,7 +766,7 @@ Profit booking after nine-month highs drags Sensex down 500 points; Midcaps fall
 
 Indian stock markets tumble as Sensex falls over 500 points NewsBytes
 
-### 78. Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser - Upstox
+### 77. Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser - Upstox
 
 - Source: Upstox
 - Published: 2026-11-18T10:23:37+00:00
@@ -786,7 +776,7 @@ Indian stock markets tumble as Sensex falls over 500 points NewsBytes
 
 Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks hit lower circuit, Titan Company top loser Upstox
 
-### 79. Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off - Zee Business
+### 78. Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-18T09:58:56+00:00
@@ -796,7 +786,7 @@ Market wrap, Nov 18: SENSEX falls 500 pts, NIFTY50 ends below 25,250; 126 stocks
 
 Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell-off Zee Business
 
-### 80. Nifty 50 Today: Index Falls to 25,236 on November 18, 2026; Check 52-Week High and Low - Business News This Week
+### 79. Nifty 50 Today: Index Falls to 25,236 on November 18, 2026; Check 52-Week High and Low - Business News This Week
 
 - Source: Business News This Week
 - Published: 2026-11-18T05:40:22+00:00
@@ -805,3 +795,13 @@ Closing Bell: Sensex down 500 pts, Nifty50 gives up 25,250 amid broad-based sell
 - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSWFNM2FOczJHM2xuYmVYTndUa0pCN0NXbjIwRVlaOWJKX05QMnJfQzEtbFpocHByaEtsWVFxTURPY2o1VHQxN181aEh1R3ZrTV9wLUgwT0VwcWpzaURSY3N1b2k3Z2ZvQkZDcmx5aVNndVBIZ0hVdlFUN3hHeVhxUUNudl93TEUxb2NMYU5pNTcwcXozYjAyTDZZZmZ3eFR2cWZEck14dG1FcTlUc2ZSU3VaMlk3d2liY3U4Nkhnek5WbUU?oc=5
 
 Nifty 50 Today: Index Falls to 25,236 on November 18, 2026; Check 52-Week High and Low Business News This Week
+
+### 80. India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains - NDTV Profit
+
+- Source: NDTV Profit
+- Published: 2026-11-19T02:57:52+00:00
+- Themes: India market
+- Score: 5
+- Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV3k5MnoxRm9kU0hGQ3p0OXBFOGdfWHNTVXh6MGRqaEQ0cGJDeWFISEliWENqTEJicHlmbUJmYTFKQ1FOY3pub2ttaVdFSlgzTVVkMW1rd0hTNTljZ2Q0ZWo3SjNPS2FBeXJtZ0F5QjFpTmpJRm5xT2lSMnV4cXAzUmhEU1kwRjhMWFdlMnlfVFNqQzFCVjdSRFMyRmRtV09yWXpoTjNRQU8wUnFybHppejUySnJkTFBZRkU2enR0YjFqYnFkeV9aX0VteGQxZzVOY3ViSFBpeUVLQdIB4gFBVV95cUxNQUR6VWs4Q044RENhYVIyNGJpeG1jSlVRcnYwUmNCNzVBSmk1dTdFZmFvSjBNdFRXNDQ0MVVSV0xwVl9WOXRiak1XU0JmQUR0TUFLVnJSeVo1YXVpeGhRbkdLb0h3elNMTnZ5blcyWFdYclBEWTlFVUNpYVRnVkNvTGVMU2I0ZVF5Z1JkMVpQUWpHV2JmcE1LOXBlNlZpT2FIemJyNjIwSnA4cW5lcW9UZjE2dUlvTmxMRDFldjVDU0FfTXdoeDJpbkpJeVFEbTY5QlBmangzelBIb3B0MzFaT2N3?oc=5
+
+India's 'Mutual Fund Put' Is Showing Cracks. Are Retail Investors Selling The Rally? Bernstein Explains NDTV Profit
