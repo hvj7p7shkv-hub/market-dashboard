@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-19 05:38
+Generated: 2026-11-19 06:08
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -69,10 +69,10 @@ Sensex falls 87 points, Nifty sheds 47 as dollar index hits 19-month high, globa
 ### 7. Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades - Invezz
 
 - Source: Invezz
-- Published: 2026-11-19T05:15:00+00:00
+- Published: 2026-11-19T05:48:52+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxQYVk5SmcwbHBXcHFlLWR0d0NQZFNZdjllME9DdmVLcnZYT1RtX1hrOUlpRVJSS3lrbEotMUV1YjJRbFJYMkRjX19YUzFUN3RCYzBKZWhQLUprQS1mM2x4TzBUTXN2VlR1WVVNanZfU0kyX2RiME02YnRjQlBoZmxqaGFWOFpDbkI1cW5jZFd4TXFVOVBLVE5V?oc=5
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOSXVOM0NIY3FUbEFDaU1wclVqMG41Ym5HUUx5VnRHRTRlWXdaZjFfUjl0ekZ3UElHam4tcEtGU2JoUy1oeEtlejkxN2xCejAwd0RXbUJlV1FRaXUyaFd0NDJNTUVvMWVUbDZsaUVVLW53c0JyOVBqZC1vVERVd0p0OUxpY25aZVFZcW4wdXJRbjJDRW9sZXdmSDVFWnlMYkI1SktxWHZRS3ZYeS1S?oc=5
 
 Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades Invezz
 
@@ -96,15 +96,15 @@ Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers India 
 
 Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off TradingView
 
-### 10. Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg
+### 10. Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap - Bloomberg.com
 
-- Source: Bloomberg
+- Source: Bloomberg.com
 - Published: 2026-11-18T21:40:06+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
 - Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxOUHhZZG5FcFhON3BCMkRyY201M2FVdVRTaUF2a29ScWc3ZTd4TkI1Zm44SXNOcmZoOE9tN29nalFxMllaQV9ZQVp5SFNKbFlmVWtxVmtjdGl4WVVRRnpFeVZaVjVCVGozeFVWYzF6NnM1dERENnQ5SWpLTlNsejBDS21mS2k2aUhQeHZHNU80V2dvbG9h?oc=5
 
-Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap Bloomberg
+Stocks Fall as Nvidia’s Earnings Rally Sputters: Markets Wrap Bloomberg.com
 
 ### 11. Even Nvidia’s blowout earnings can’t stop this selloff - Curzio Research
 
@@ -156,15 +156,15 @@ The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Ra
 
 Stocks Fall as Nvidia's Earnings Rally Sputters marketscreener.com
 
-### 16. Watch Stocks Fall as Nvidia’s Earnings Rally Sputters - Bloomberg
+### 16. Stocks Fall as Nvidia's Earnings Rally Sputters - Yahoo Finance
 
-- Source: Bloomberg
-- Published: 2026-11-18T17:21:45+00:00
+- Source: Yahoo Finance
+- Published: 2026-11-18T17:20:55+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPZ3hXQnJVYURjemFLUld3VlFyVkI0YUJJZldVTU9PZDc0LWg5bGxDaGZOeF9qUzdSY1hSbmthbENSZVZiTjNoRTRTQ3ZGRWFuT19ZOWFaMEZKcmRRVlVlcVBwU0h4RDZhQ2hVSi00WWRuMzFkY0JQblFkY0NidWdCTWU2Q29FQzBsTWdWam0teXAzQ3FEWmhLamhKVGM0Y0NLVXFRbQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY1hTT3E3R0ZzVDMxSDcyTVE2S0xRU3UzMjJ3cE9RcXY4UlR4Qktid253SC1FLWcwTkZTS2t6RjJzekRJajkwT3QxQlpjR2dmSXRBcFhaTmNhRWlzaGhzc3RFUXBmNUFpQ1lOS3c2dWlZQUVsaTRrcURwZzBrZVVNbGgyYmlfVUZV?oc=5
 
-Watch Stocks Fall as Nvidia’s Earnings Rally Sputters Bloomberg
+Stocks Fall as Nvidia's Earnings Rally Sputters Yahoo Finance
 
 ### 17. Must Read: Footwear Brands Are Raising Prices, European Luxury Stocks Fall 2% on AI Selloff Fears - Fashionista
 
@@ -316,27 +316,37 @@ Sensex falls 500 points, Nifty declines 0.63% as investors book profits after No
 
 Sensex Falls 338 Points, Nifty 50 Declines 94 Points as Metal and IT Stocks Drag Dalal Street Investment Journal
 
-### 32. Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally - Fortune India
+### 32. Stock market update: Sensex gains 42 points, Nifty falls 41 points as Indian markets open mixed - Mid-Day
 
-- Source: Fortune India
-- Published: 2026-11-18T06:08:02+00:00
+- Source: Mid-Day
+- Published: 2026-11-19T05:43:00+00:00
 - Themes: market selling, India market
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMDIzb0ZTeERaTXRqOUNHemwzRkFhS19TUnA5X0h1RWpZZk42Vkw4ODEtc3ExUDVpN2lQaEo0T1l4RFlYNFF5UDdvZFlock0wZUNZdlgwakwtSzRoVnBHclBwTXRCMHdfMDFobDVJQnJXR3U3S1piaGJ6VGs2RXJqRFdkTGo4YlVLSUxXRWZVMThGN3VwODhhMy01MDA4bzFHakI3UDBUTEFDellZRWdOQzhtN3hDWUpUdFZTUjFOdzRnWl9vMDc0c0Vwb2tqeDdSSzFlR0x2alU5QVd3RW9z0gHfAUFVX3lxTE8wMjNvRlN4RFpNdGo5Q0d6bDNGQWFLX1NScDlfSHVFallmTjZWTDg4MS1zcTFQNWk3aVBoSjRPWXhEWVg0UXlQN29kWWhyTTBlQ1l2WDBqTC1LNGhWcEdyUHBNdEIwd18wMWhsNUlCcldHdTdLWmJoYnpUazZFcmpEV2RMajhiVUtJTFdFZlUxOEY3dXA4OGEzLTUwMDhvMUdqQjdQMFRMQUN6WVlFZ05DOG03eENZSlR0VlNSMU53NGdaX28wNzRzRXBva2p4N1JLMWVHTHZqVTlBV3dFb3M?oc=5
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxOblFmWTBQRWZjZHg5UFZwT3AzZU05dnZRY3FjbjVSZ1FNczRaSnc2blVwMnVBRHdFM1E0T210RmJENE1DanYydXlCLVNiRmxwQXVobVJGT01jUkVPQi1sLVdVTWU3R3lIenJMVkJ1Z0dUWENvTzBXRXlfbDVpWHZEWXZwSWtvR1V3dnppUVVLVERZc1ZOcmtSbkhEd3BIRzN6eG92d2JLVm1BT3lHWmVreHkxbElqU0ZvZDF0WEI0aXd0WHQzNjBCMVpSVzE2NEh5Q2pkZmpnZVFzc3dWVDE5UWozbnZWQ19OR2RMVld3?oc=5
 
-Sensex falls 366 points, Nifty slips below 25,300 as investors book profits after two-day rally Fortune India
+Stock market update: Sensex gains 42 points, Nifty falls 41 points as Indian markets open mixed Mid-Day
 
 ### 33. Japan AI selloff: These chips and electronics stocks were the worst hit - Investing.com
 
 - Source: Investing.com
-- Published: 2026-11-19T05:27:08+00:00
+- Published: 2026-11-19T05:26:00+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxQVFZ0T0JBM2w0bS1fTDBMbkxkTHd6VjhOa0NMSGhNMFZ3cjNzVzN3Z2h0WmE4d0RfNzE4Nzd2bVNFQTV1MnFGZm9YeG1SMkhway1YdmpsS05kaFNWeC1vaHp0QmNRTmpxMkRvSVVobmtNY1gwZVJzaWJnVGYxN1dEN1pNaG1hNGJyX1U4R2Mwa1c3LWFNQVdFV0NocUxjXzhDdmtZWWluQnBESDB6WENDak5RNGgtVWZWTmx2RmVwY3ZxdWNCcWNhZGRwOXo?oc=5
 
 Japan AI selloff: These chips and electronics stocks were the worst hit Investing.com
 
-### 34. Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares face selling - Bhaskar English
+### 34. Stock Market Today: Sensex, Nifty Fall In Early Trade - ETV Bharat
+
+- Source: ETV Bharat
+- Published: 2026-11-19T04:31:04+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxQbHZQMTh4djF5SFZxWkt2SmNLeFBvSXFiZ0Ffa1dXbFF0ejR6MXluTE5vVXpZRm4tZG9lU3lwYTllYnM1WUxUSFVBM2V2YTJ1RTJiTUE0SVNVT2tQamlSekI5ajlJaWh2SkkycnhxMEUyUlBBQVUwLUc5cWtWTlRvMDhHQnROUkFKUllvdmFSbHBTelBYMzBpTDRCM0VncVA2LXI1eEpXWHFoemhHRWU1R3J1VFUxT3JYY3RtNzlGa1NIRHhjOFHSAcYBQVVfeXFMUGx2UDE4eHYxeUhWcVpLdkpjS3hQb0lxYmdBX2tXV2xRdHo0ejF5bkxOb1V6WUZuLWRvZVN5cGE5ZWJzNVlMVEhVQTNldmEydUUyYk1BNElTVU9rUGppUnpCOWo5SWlodkpJMnJ4cTBFMlJQQUFVMC1HOXFrVk5UbzA4R0J0TlJBSlJZb3ZhUmxwU3pQWDMwaUw0QjNFZ3FQNi1yNXhKV1hxaHpoR0VlNUdydVRVMU9yWGN0bTc5RmtTSER4YzhR?oc=5
+
+Stock Market Today: Sensex, Nifty Fall In Early Trade ETV Bharat
+
+### 35. Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares face selling - Bhaskar English
 
 - Source: Bhaskar English
 - Published: 2026-11-19T04:09:16+00:00
@@ -346,7 +356,7 @@ Japan AI selloff: These chips and electronics stocks were the worst hit Investin
 
 Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares face selling Bhaskar English
 
-### 35. Opening Bell: Sensex Rises 79 Points, Nifty 50 Falls 48 Points; 2 IPOs Open for Subscription - Dalal Street Investment Journal
+### 36. Opening Bell: Sensex Rises 79 Points, Nifty 50 Falls 48 Points; 2 IPOs Open for Subscription - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-19T04:04:32+00:00
@@ -355,16 +365,6 @@ Sensex falls 150 points to 81,900: Nifty down 50 points; metal and IT shares fac
 - Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbVo5aWJuR1k0THpvV3JYUFdXRTNBeFhyQXZyQ3RkQV9ZSjY0d2sxLS1YWmhJSFZrRndGY0ctVzhoZmdNbkloSk5fNDh0cjV6aENKUHl5dFhwOWVGbHlJSF9oOHRvYkZLTzdUN2tTa3VpQXhEMnFIcjN1bVFSQjFEMy1YY0JVSGRGYlQ1VEp3ckJkSmNKem5yYmtQSTgtSEJNOEZ2V2liS3VhRFBvZHZwRE5lYlp3WUw2VHBsd18xZFgyTUpmdmdKa09jcENvZ1ExTzlBNg?oc=5
 
 Opening Bell: Sensex Rises 79 Points, Nifty 50 Falls 48 Points; 2 IPOs Open for Subscription Dalal Street Investment Journal
-
-### 36. Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag - Zee Business
-
-- Source: Zee Business
-- Published: 2026-11-19T03:48:16+00:00
-- Themes: market selling, India market
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiyAFBVV95cUxQS2tjTXo5UEt6dVJvRl82V0xMcDJUeUVZM1FzUUxvYk9wcW44WnNOM0NDejlJS1pBVnRLWnM2clFLOUNrZFYzZlh1endfTGJnY05Zd2lMeDFjcFQwLWRLcVN3eXZkeHhidExoblZaNVEyQmEyUGVfTFU0S20xM1pqXzBTTDF2UWVybVZNNjl5Sl85REVqOUlibTBnclVualBUYklseXlsbWxBaDNKRklocXR0elJIcjNWbTlxWTZWSmJuVU1vYU9Tbw?oc=5
-
-Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag Zee Business
 
 ### 37. Nifty Falls on Profit Booking, Extends Consolidation - Religare Broking Ltd - Investment Guru India
 
@@ -376,7 +376,17 @@ Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stock
 
 Nifty Falls on Profit Booking, Extends Consolidation - Religare Broking Ltd Investment Guru India
 
-### 38. Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guardian - newspaper - Magzter
+### 38. Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag - Zee Business
+
+- Source: Zee Business
+- Published: 2026-11-19T03:18:00+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOSWRuNFlMY0JKejhVLXBHYjlVSFQ2RlVBamJ2TVF4R3hfRms1dHNTRnlHa3FmNlU2aXNCTFpkZlRKN0JKRkhRbVNPeUZzakozTlVFQl95Q1FvR0NGLVN4TzlLcHI5RTg2SlpocmpyZkt0YlNvZ1I5Y3RKdXZKNzRjUFlOUU90T2taWU9wYzZtMmJHeUxGa01KdnoxRWVhMGRvdFlhNE5SS1dILXY1a18ycU1kRHlEamNNZ1BlZk13cldWdDJyQXkxZzJwX3J6QQ?oc=5
+
+Stock Market Opening Bell: Sensex falls 107 Points, Nifty below 25,200; IT stocks drag Zee Business
+
+### 39. Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guardian - newspaper - Magzter
 
 - Source: Magzter
 - Published: 2026-11-19T03:12:06+00:00
@@ -386,7 +396,7 @@ Nifty Falls on Profit Booking, Extends Consolidation - Religare Broking Ltd Inve
 
 Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guardian - newspaper Magzter
 
-### 39. Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts; consumer durables - IndiaIPO
+### 40. Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts; consumer durables - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-19T03:06:30+00:00
@@ -396,7 +406,7 @@ Sensex sheds 500 points, Nifty falls as investors book profits | The Daily Guard
 
 Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts; consumer durables IndiaIPO
 
-### 40. Record FPI buying may leave Dec flows muted; correction likely: Analysts - Business Standard
+### 41. Record FPI buying may leave Dec flows muted; correction likely: Analysts - Business Standard
 
 - Source: Business Standard
 - Published: 2026-11-19T02:20:39+00:00
@@ -406,7 +416,7 @@ Sensex Today | Stock Market Live: Nifty slips below 25,300, Sensex falls 360 pts
 
 Record FPI buying may leave Dec flows muted; correction likely: Analysts Business Standard
 
-### 41. European stocks fall 1% for a third straight day as miners drop 4.7% and the FTSE 100 loses 1.3% - MLQ.ai
+### 42. European stocks fall 1% for a third straight day as miners drop 4.7% and the FTSE 100 loses 1.3% - MLQ.ai
 
 - Source: MLQ.ai
 - Published: 2026-11-19T00:08:05+00:00
@@ -416,7 +426,7 @@ Record FPI buying may leave Dec flows muted; correction likely: Analysts Busines
 
 European stocks fall 1% for a third straight day as miners drop 4.7% and the FTSE 100 loses 1.3% MLQ.ai
 
-### 42. Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction Is Inevitable - BigGo Finance
+### 43. Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction Is Inevitable - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-19T00:05:00+00:00
@@ -426,7 +436,7 @@ European stocks fall 1% for a third straight day as miners drop 4.7% and the FTS
 
 Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction Is Inevitable BigGo Finance
 
-### 43. UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks and bonds - investingLive
+### 44. UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks and bonds - investingLive
 
 - Source: investingLive
 - Published: 2026-11-18T23:03:32+00:00
@@ -435,16 +445,6 @@ Lagarde Warns AI Stock Valuations Are 'Very Aggressive,' Says Market Correction 
 - Link: https://news.google.com/rss/articles/CBMivAFBVV95cUxPUlYxUjVJSUh0WWxNQ21mMnotZUxHekwyQUM0Tkd4RjlXZjhlaUlrUmt0UEgyWElsWFBlbDRKSGtERlBBVFBwZHRDZ2cybUMwU3IyTmNSRTJhRFRhOXN1NEJkaTBxR09LY0NoWlRsY2RvQnVtZ2RVMi04a0xUUUpPR0xzTVZfUVRtMmlUNHdCLVRDTmhzdGw1UGNlU2c1TlhGQUNqWFEyQ2xQTmVEWE9ZNFpRYlNGZXVDNFc2Xw?oc=5
 
 UBS says the AI sell-off is a reset, not a collapse, and backs eurozone stocks and bonds investingLive
-
-### 44. Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-18T17:30:02+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMilgFBVV95cUxOMkVvNFN6NjNvS1d0WVdMQW1jOEJER2E0Q0pTc2xwSm1mcmcxVVkzaEl6UVhyZnJWYnBZckZrXzRFb1JaSGNpZjg3N1AxTHNfOHJDQVFaLXRnTWhhVU1RMlFqSVRIc1B2aDl2WmRfbEVXU0pNZy1Xc1dVc0FnbkJxQ1E3UFVua0gzUVlXenFJTkNDb1pTWnc?oc=5
-
-Stock Market Midday, Nov. 18: Nvidia Doubles Revenue, but Wall Street's Sell-Off Continues Yahoo Finance
 
 ### 45. Sensex Falls 500 Points, Nifty Slips Below 25,250 as Investors Book Profits - Business News This Week
 
@@ -676,17 +676,7 @@ Education Ministry Bans Correction Tapes in CSAT After AI Cheating 조선일보
 
 China, Hong Kong stocks fall as US-China tech tensions weigh on AI shares The Economic Times
 
-### 68. Indian shares edge higher despite Asia selloff; IT caps gains - www.marketscreener.com
-
-- Source: www.marketscreener.com
-- Published: 2026-11-19T05:14:20+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxPenpXSmdTMUZFdTljblZFV1VVc2Z6b05taTc1VG1qNmNVS0Vtb0x3QWFRTmwxYUNIcU9qcy1kTXFYdm5XRnFDUXl5TWhFUEFTYUR5dlhtbXZlbTRzaEx3QVRlRTRZaTNEWlFINGRkT0hDc2ExcTlmdVdGVG5yTnVXN3p6aVJDNE03QkUxb3A4dGVzNS01MV84WDZNc29MZmFxVlk2NWg2dWU1N2dDMlZTeDdLcw?oc=5
-
-Indian shares edge higher despite Asia selloff; IT caps gains www.marketscreener.com
-
-### 69. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
+### 68. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
 
 - Source: TradingView
 - Published: 2026-11-19T05:12:00+00:00
@@ -696,7 +686,7 @@ Indian shares edge higher despite Asia selloff; IT caps gains www.marketscreener
 
 Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 
-### 70. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
+### 69. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-19T04:10:59+00:00
@@ -705,6 +695,16 @@ Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 - Link: https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ3RYT1BtOUhUcFR5NUhCWlF3aE9Jdk1sd1lOM3lJb2VCQnBnb1lGNV9YV0tWci1fc2JvMWxxeHljTjF3YmFtbG0wUkZUMXNWbWh0VHltVUpRb2o0OS1jNXYyR3N6UFcxY3MzV25ETFBPaWlRc0VDR2twOWhsMEdFU3ZDYkY4UVZWNkhnUWtkdC0zcHJoZE52a0pPcjNvZ2VieVMxbkpBeS1FYWVyS0pncHF2V2NOTkhEVHpmc1RBMUtUQ3VnSmtUbVBoSTJVUDVxdzhRbHNoRENUUdIB4gFBVV95cUxQb2hxYmYzRldqV3ZiYmlPVV9EOVdndWtDcndtRXJiRDh1UXNuX2hFa2lqT2RaUTVzREVickJHOHo2cUhtOGVPRGVKOFRPVGVIQ0lGcjdQeFVJMkp0bXBxVTJxM0FsV3ExMzQybWhCRlhiM0tPRm5ZcnJHOVB4UEFoaDltdVVlS0htRVlhLU5lSE5HVGVTTnphX0UxQXlQSG8zdkQxTFVtNW9rQlZQc085RVNvRXR1aTlXT1hRLURGRDlkT1VreDQ1VGZrY01VOVpocm0xQkh1T0N1NVRvMjIwNGF3?oc=5
 
 IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip NDTV Profit
+
+### 70. Indian shares edge higher despite Asia selloff; IT caps gains - Reuters
+
+- Source: Reuters
+- Published: 2026-11-19T02:32:00+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxQdEVzVmR2T2hYV1NfZzBnVFp4U0JicFZway1OSzI5bWRpYld6SDZOWGhjUjI5MkVELWo3QlV2UDhxLUFLWWpVYjJPNzR1d002c3p2dER3MnBqZGd2U2ktSlgzUGNqdnk2Y25VbU1IUzBvejNJMU9PRVBoekZuVU96dWc5QXBhV1I0YmQ1ZV9SM1FqUmNva3J2Njk1LTE4SXZqcHVUSA?oc=5
+
+Indian shares edge higher despite Asia selloff; IT caps gains Reuters
 
 ### 71. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
 
