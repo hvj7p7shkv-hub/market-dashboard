@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-19 12:12
+Generated: 2026-11-19 12:30
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -46,7 +46,17 @@ Indian Stocks Slide as Sensex Falls 500 Points, Nifty Drops Below 25,250 INDIA N
 
 US Stock Market Today: Nasdaq Snaps 4-Day Selloff As Nvidia Earnings Beat Refuels AI Bulls; Dow In Red NDTV Profit
 
-### 5. Margin Calls Drag Silver Into the AI Selloff as Fed Minutes Keep the Lid On - ad-hoc-news.de
+### 5. Fed Warns an AI Stock Selloff Could Spread to Bonds and Banks - Coin Edition
+
+- Source: Coin Edition
+- Published: 2026-11-19T12:26:35+00:00
+- Themes: AI / tech risk, market selling, macro / flows
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxNN2V3WDBtUk5TZVdTRXRadWFvR1pISmVZREYyZWY5LWdsWjZqZ2pQOV9DeDBINmUyb0N1alctSDdEODdWZnFMcF9NUGxmazFhbFNZbEdKU08wUWxoOU0ySlF2dEc0YXJham1Eek9RVFpxWVVFQ21xOUR1WjlCeGxhZW5xaEJlUmlRYzByQWFpNA?oc=5
+
+Fed Warns an AI Stock Selloff Could Spread to Bonds and Banks Coin Edition
+
+### 6. Margin Calls Drag Silver Into the AI Selloff as Fed Minutes Keep the Lid On - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-19T06:31:29+00:00
@@ -56,7 +66,7 @@ US Stock Market Today: Nasdaq Snaps 4-Day Selloff As Nvidia Earnings Beat Refuel
 
 Margin Calls Drag Silver Into the AI Selloff as Fed Minutes Keep the Lid On ad-hoc-news.de
 
-### 6. Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades - Invezz
+### 7. Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades - Invezz
 
 - Source: Invezz
 - Published: 2026-11-19T05:15:28+00:00
@@ -66,7 +76,7 @@ Margin Calls Drag Silver Into the AI Selloff as Fed Minutes Keep the Lid On ad-h
 
 Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades Invezz
 
-### 7. Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers - India Today
+### 8. Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers - India Today
 
 - Source: India Today
 - Published: 2026-11-19T03:50:57+00:00
@@ -76,7 +86,7 @@ Samsung and SK Hynix stocks fall again as Nvidia earnings boost fades Invezz
 
 Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers India Today
 
-### 8. Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off - TradingView
+### 9. Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off - TradingView
 
 - Source: TradingView
 - Published: 2026-11-19T02:01:18+00:00
@@ -86,7 +96,7 @@ Stock market opens mixed: Sensex gains, Nifty falls; Infosys leads losers India 
 
 Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off TradingView
 
-### 9. Even Nvidia’s blowout earnings can’t stop this selloff - Curzio Research
+### 10. Even Nvidia’s blowout earnings can’t stop this selloff - Curzio Research
 
 - Source: Curzio Research
 - Published: 2026-11-18T21:23:03+00:00
@@ -96,7 +106,7 @@ Sensex Falls 500 Pts, Nifty Slips As Auto, Metal Stocks Lead Sell-off TradingVie
 
 Even Nvidia’s blowout earnings can’t stop this selloff Curzio Research
 
-### 10. Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom - GuruFocus
+### 11. Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom - GuruFocus
 
 - Source: GuruFocus
 - Published: 2026-11-18T18:05:26+00:00
@@ -106,7 +116,7 @@ Even Nvidia’s blowout earnings can’t stop this selloff Curzio Research
 
 Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom GuruFocus
 
-### 11. US stocks fall: Dow loses 607 points, Nvidia slips after earnings ahead of Anthropic IPO | Hindustan Times - Hindustan Times
+### 12. US stocks fall: Dow loses 607 points, Nvidia slips after earnings ahead of Anthropic IPO | Hindustan Times - Hindustan Times
 
 - Source: Hindustan Times
 - Published: 2026-11-18T18:04:05+00:00
@@ -116,7 +126,7 @@ Intuit Stocks Fall 7.17% Two Days Before Earnings as AI Finance Tools Loom GuruF
 
 US stocks fall: Dow loses 607 points, Nvidia slips after earnings ahead of Anthropic IPO | Hindustan Times Hindustan Times
 
-### 12. The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. - Yahoo Finance
+### 13. The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-18T17:51:02+00:00
@@ -126,7 +136,7 @@ US stocks fall: Dow loses 607 points, Nvidia slips after earnings ahead of Anthr
 
 The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. Yahoo Finance
 
-### 13. Stocks Fall as Nvidia's Earnings Rally Sputters - marketscreener.com
+### 14. Stocks Fall as Nvidia's Earnings Rally Sputters - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-11-18T17:46:05+00:00
@@ -136,7 +146,7 @@ The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Ra
 
 Stocks Fall as Nvidia's Earnings Rally Sputters marketscreener.com
 
-### 14. The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. - The Motley Fool
+### 15. The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. - The Motley Fool
 
 - Source: The Motley Fool
 - Published: 2026-11-18T17:31:02+00:00
@@ -146,7 +156,7 @@ Stocks Fall as Nvidia's Earnings Rally Sputters marketscreener.com
 
 The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Rate Hike. 3 AI Infrastructure Stocks Down 25% or More I’d Buy When Anthropic Starts Trading. The Motley Fool
 
-### 15. Watch Stocks Fall as Nvidia’s Earnings Rally Sputters - Bloomberg
+### 16. Watch Stocks Fall as Nvidia’s Earnings Rally Sputters - Bloomberg
 
 - Source: Bloomberg
 - Published: 2026-11-18T17:21:45+00:00
@@ -156,7 +166,7 @@ The Nasdaq Is in a Correction and Traders Are Pricing in a December Fed Funds Ra
 
 Watch Stocks Fall as Nvidia’s Earnings Rally Sputters Bloomberg
 
-### 16. Must Read: Footwear Brands Are Raising Prices, European Luxury Stocks Fall 2% on AI Selloff Fears - Fashionista
+### 17. Must Read: Footwear Brands Are Raising Prices, European Luxury Stocks Fall 2% on AI Selloff Fears - Fashionista
 
 - Source: Fashionista
 - Published: 2026-11-18T17:00:00+00:00
@@ -166,7 +176,7 @@ Watch Stocks Fall as Nvidia’s Earnings Rally Sputters Bloomberg
 
 Must Read: Footwear Brands Are Raising Prices, European Luxury Stocks Fall 2% on AI Selloff Fears Fashionista
 
-### 17. Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank - www.tmgm.com
+### 18. Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank - www.tmgm.com
 
 - Source: www.tmgm.com
 - Published: 2026-11-18T15:11:58+00:00
@@ -176,7 +186,7 @@ Must Read: Footwear Brands Are Raising Prices, European Luxury Stocks Fall 2% on
 
 Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank www.tmgm.com
 
-### 18. GIFT Nifty Falls Despite ₹4,195 Crore in FII Buying: Can Inflows Support the Rupee? - Coin Edition
+### 19. GIFT Nifty Falls Despite ₹4,195 Crore in FII Buying: Can Inflows Support the Rupee? - Coin Edition
 
 - Source: Coin Edition
 - Published: 2026-11-18T14:16:46+00:00
@@ -186,7 +196,7 @@ Equities: Nvidia earnings lift sentiment after selloff - Deutsche Bank www.tmgm.
 
 GIFT Nifty Falls Despite ₹4,195 Crore in FII Buying: Can Inflows Support the Rupee? Coin Edition
 
-### 19. Equities: Nvidia earnings bolster sentiment following sell-off - Deutsche Bank - www.tmgm.com
+### 20. Equities: Nvidia earnings bolster sentiment following sell-off - Deutsche Bank - www.tmgm.com
 
 - Source: www.tmgm.com
 - Published: 2026-11-18T14:13:19+00:00
@@ -196,7 +206,7 @@ GIFT Nifty Falls Despite ₹4,195 Crore in FII Buying: Can Inflows Support the R
 
 Equities: Nvidia earnings bolster sentiment following sell-off - Deutsche Bank www.tmgm.com
 
-### 20. Nvidia Earnings Should Bring An End To The Market Correction - Seeking Alpha
+### 21. Nvidia Earnings Should Bring An End To The Market Correction - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-18T13:57:03+00:00
@@ -206,7 +216,7 @@ Equities: Nvidia earnings bolster sentiment following sell-off - Deutsche Bank w
 
 Nvidia Earnings Should Bring An End To The Market Correction Seeking Alpha
 
-### 21. Is Nvidia’s post earnings rally a green light to buy the correction? - Investing.com
+### 22. Is Nvidia’s post earnings rally a green light to buy the correction? - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-18T13:53:30+00:00
@@ -216,7 +226,7 @@ Nvidia Earnings Should Bring An End To The Market Correction Seeking Alpha
 
 Is Nvidia’s post earnings rally a green light to buy the correction? Investing.com
 
-### 22. SandboxAQ CEO warns of AI correction – but Gulf bets pay off - Arabian Gulf Business Insight | AGBI
+### 23. SandboxAQ CEO warns of AI correction – but Gulf bets pay off - Arabian Gulf Business Insight | AGBI
 
 - Source: Arabian Gulf Business Insight | AGBI
 - Published: 2026-11-19T11:42:46+00:00
@@ -226,7 +236,7 @@ Is Nvidia’s post earnings rally a green light to buy the correction? Investing
 
 SandboxAQ CEO warns of AI correction – but Gulf bets pay off Arabian Gulf Business Insight | AGBI
 
-### 23. IMF warns AI market correction has further to run - Traders Union
+### 24. IMF warns AI market correction has further to run - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-19T11:10:34+00:00
@@ -236,7 +246,7 @@ SandboxAQ CEO warns of AI correction – but Gulf bets pay off Arabian Gulf Busi
 
 IMF warns AI market correction has further to run Traders Union
 
-### 24. IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go - Bloomberg.com
+### 25. IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-19T10:51:21+00:00
@@ -246,7 +256,7 @@ IMF warns AI market correction has further to run Traders Union
 
 IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go Bloomberg.com
 
-### 25. Watch IMF Chief Sees ‘Little Bit More’ AI Correction, Debt Risk Rise - Bloomberg.com
+### 26. Watch IMF Chief Sees ‘Little Bit More’ AI Correction, Debt Risk Rise - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-19T10:11:44+00:00
@@ -255,16 +265,6 @@ IMF’s Chief Is Warning AI Correction Has ‘Little Bit More’ to Go Bloomberg
 - Link: https://news.google.com/rss/articles/CBMirgFBVV95cUxQak40a1Y0YmpyZzNWa05TS3lKZWZnazBMT2Ztb24zckJFUndFTERBTEJtd1p0Uk45TjB2Q3BLWjBLcWdEN0dIS1N1RzhVc09HVzBEQnNZOEx0eFZuek13eFRlZXU0OEw2alc0aDFPTHpvVDBSdldEUWhLS0VOb0FYbmlxdzlkVWFmUEQyOXlWT1hXWVFKVlM0Q3JMdm1BcmtXTWRDdVZfVGVnYkZ0RkE?oc=5
 
 Watch IMF Chief Sees ‘Little Bit More’ AI Correction, Debt Risk Rise Bloomberg.com
-
-### 26. HK, mainland stocks fall amid chip clampdown - RTHK
-
-- Source: RTHK
-- Published: 2026-11-19T09:24:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMiowFBVV95cUxPdk0xQm1KdTA0bV9YVDVOOTdWMUJydnM2NXY2QjMxRWhjWEpIV3ktR1oyX3lsUy1pWTlmako4NDBhU05GWGtxbUFrUUZ3YjF0VGhxenFVcm5ycHozNi1zS09yLS1SOHItaTZfZHZ0U1VIWmNVZlRiV2h2UW5lNU1zQlplYWFoSng2dDdSeF9WZm04THhvYVRreW1vSkZqLWJDUFJ3?oc=5
-
-HK, mainland stocks fall amid chip clampdown RTHK
 
 ### 27. Correction: Artificial Intelligence in Orthopedic Image Analysis: A Systematic Review and Unified Taxonomy of Bone Age Assessment and Fracture Detection - springermedicine.com
 
@@ -446,7 +446,17 @@ Tencent Stocks Fall 3.53% as AI Spending Drives RMB69.1 Billion Cash Outflow Yah
 
 Smallcap mutual fund AUM multiplies 9.2 times in 7 years, outpacing midcap and largecap funds: ICRA Analyt The Economic Times
 
-### 45. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
+### 45. Nifty IT tanks for 3rd day, down 6.5% in Nov so far: What's behind fall? - Business Standard
+
+- Source: Business Standard
+- Published: 2026-11-19T07:58:26+00:00
+- Themes: market selling, India market
+- Score: 6
+- Link: https://news.google.com/rss/articles/CBMi0AFBVV95cUxPU000Q25QN0tPX1FpRFRjWEVhUTZzTlBSMGhkR1RveXVCLVhRSXhXVU1tSGtqMkp0UEduQjA2NHlKNHNzU3BkV3RnWlhQY0Q4LWNfRS1weF9XWi1oM2xWa1BJVkxJU0R5YmtfQm4tUk5iZHIwZ3pzb082LUhWekFuWWZjMzg5T3FRNmxvMGVzTXg3UThIal92S2NyTHRVYzFpcHpwTFY2MV9CMU9Lczg5cC1US3E0Wm5ncGh3WXhlbTVha2l1TjBlVWkzTzA3Wl9V0gHWAUFVX3lxTFA5ZFhtVGNiRW5Vcjh6RG9ZY2MtaWJjbnRHU3hGYlVwUzRQb2U5c1VkRmk4NURJazdFVVBPV281dThiUDRxQkM0UWVUdEoxemdQNkt6NVNBUGtmSkZ5OXp4aDNWdUVTMUdMSHZoRk9TdmZLTHlqOE80cDhvZ3lDUE9oVXgxdHJJUU1BYm9DdUk2WEdZb2xvdC1ZV0t5am9VR2hUQnNmVElhTjV5Ml9BLWwtSV9QN1Jha0JnUUhVUjctV2VuWXBjQ09tU2VreUphWEZhNlBOTkE?oc=5
+
+Nifty IT tanks for 3rd day, down 6.5% in Nov so far: What's behind fall? Business Standard
+
+### 46. Indian shares edge higher despite Asia selloff; IT caps gains - TradingView
 
 - Source: TradingView
 - Published: 2026-11-19T05:12:00+00:00
@@ -456,7 +466,7 @@ Smallcap mutual fund AUM multiplies 9.2 times in 7 years, outpacing midcap and l
 
 Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 
-### 46. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
+### 47. IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-19T04:10:59+00:00
@@ -466,7 +476,7 @@ Indian shares edge higher despite Asia selloff; IT caps gains TradingView
 
 IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL Tech, Wipro, Coforge Slip NDTV Profit
 
-### 47. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
+### 48. Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day - theopenpress.in
 
 - Source: theopenpress.in
 - Published: 2026-11-18T23:54:43+00:00
@@ -476,7 +486,7 @@ IT Stocks Selloff: Nifty IT Down For Third Straight Session; Infosys, TCS, HCL T
 
 Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a Day theopenpress.in
 
-### 48. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
+### 49. BSE Sensex falls 500 points as consumer durables and metals weigh - ad-hoc-news.de
 
 - Source: ad-hoc-news.de
 - Published: 2026-11-18T17:47:06+00:00
@@ -485,16 +495,6 @@ Sensex Falls Over 700 Points Intraday, Investors Lose About Rs 5 Lakh Crore in a
 - Link: https://news.google.com/rss/articles/CBMixgFBVV95cUxPSGlXa1psYVRzcHJHRDV5dllwcC0taUREb2szVUJfZEx5Vm5mSEE3NllRR0ZISkFickhQT3RVQ3gxQU9NV3BtUlBwdmIyVjd3d21vTHFUWFI1dWk0YTNOTVBEZHl3X0RkN3M0N3A0WnM2allMSWlwbUZ6TUVzcGxrd1ZqOHNyelRvby1jNElncjBqME1YN3cxczJtaEdfcUNyNEJqSVFYaDVnTmtJNFZXY0RhWkxaNWJJTUZaQ1hSODN3cmRzS3c?oc=5
 
 BSE Sensex falls 500 points as consumer durables and metals weigh ad-hoc-news.de
-
-### 49. Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels - Moneycontrol.com
-
-- Source: Moneycontrol.com
-- Published: 2026-11-18T12:16:59+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMi-wFBVV95cUxON0xqRWF2Y1U2dFNRQ1Z5X01iYjBTbkkxM0Y5MWJ3cUxxcUFRSDZ3MEFiaDBrdllxaW9EdlZhUDJrNW10cl93VXAtbUNTejNkS3NpczNMMzJlSkREaUZXX0FRT0lwaDJHWDZpZk5tN2ppbFM2d0ZTcFpPWVVvUzJ4S1dOY0JmaGY5ZFpCRi1nbEFDd2tRQTI3QUsxaTBqOUZfa0JhZ196eFQ4b1ZKOEhUbmJFdWZ0YnZSS1ZpbUxoSU1hd2ZweWZvQzZ0LW5XckNIYUNwSGpPZExwZFdfRkY2RlJ1QlAwMUpBREZuaEI3SE1pQXEzcE1vUHRlTdIBgAJBVV95cUxQNVV3cGtDbjYybHl4UkNLOWZSNTRta1NBa2JhUm5DSk55QUtiYVNLRlptNklVNF9oN0gyOWJRRTJqcW9PQlRTcFVLWnVrSkNCWTNRMjE0RDU1WW1sTUFKa0QwTGMyN3hVNzZCZlZLRmxKUEJiSTF5OWFEaGd4RHlwNXVKNWZHY0pxTnQ0ZGV3MVlmQmZmRGMxUVpIMWp3LWJybC1OaWJoM0ItbVdTd0VkMDhuMVJLRlRGSEJKRDJsT092Wk50dXRlQ2VwX0pmN1REa0NSckxleHJjVEpweTVYVW5SbGRQbWJicnhlMkpnSnlrVVM5V2FRRWpMdjdySkpw?oc=5
-
-Nifty sees biggest single-day fall of Nov so far: Is market rally losing steam? Check key trading levels Moneycontrol.com
 
 ### 50. Capital gains on mutual fund units not taxable in India under Mauritius treaty, rules Delhi HC - Livemint
 
@@ -536,7 +536,17 @@ Rupee hits 7-month high at 93.33 against dollar as FPI buying, softer oil prices
 
 Mutual funds received 53% of Mahanadi Coalfields IPO anchor book: Which schemes will own Coal India subsidiary shares? Livemint
 
-### 54. Sip, shop and repeat! Double JJ hosts its annual fall market - Shoreline Media Group
+### 54. Rupee Weakens 8 Paise To 93.49 Against Dollar, Can Falling Crude Prices And FII Inflows Limit Further Losses? - Free Press Journal
+
+- Source: Free Press Journal
+- Published: 2026-11-19T04:27:43+00:00
+- Themes: India market, macro / flows
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWkhvaVZQZWR5WjhZaVVnSUM2RTFRU292Uk1UMk5SRGhtYWJ0MFF0cGhSR056b2NNV1hNeS1aaDVpZkpqX3M5RGpTTlJpSlhSVmxQYkVSQUoycVhwSDJSLWZjMm5QZkN1Z0ZyUXdQM2FhVjhsN1N1MG9JQnJXUHd2ME43SVJHWlBrcGhtNktiNGQzYUQzMWZxOXRuTnBqV2xZTDlYcURrd2hVYVJWNjFKazhMLXp1bjh5dXlPeEphMk5CTk5nU3ZWcWJFd0w1UHZISXlnQlQ3SUNwaVpnVGlXONIB5gFBVV95cUxPelJJV05YcWFUWjZYcUppM0FxaGhsZHJHZDc2S0JIa0ZxeWZCNE9Sa3pJNmRGZXdzZUhVVEV1ZTQtNXp3Z0J1S2JqLXVsNTJWQVBEZWZiMGw4X1dvYUFCX3p0SHhKeE52X0doZlhuV2xqYUdvdl8tS19FTHJrZnZHTEtqNUlPdm1mdWJYYmpXRnJuMUJaXzl0TzZOYi1tejhkYTBTLUllalYxVWdqNjFaVWZXa1ltQzctRHIwUnFRVTBhNWdzQ0otUG1FMGFQNk1nYzdLZ1oxdjJTM0F4LWZlSXo3NDF4Zw?oc=5
+
+Rupee Weakens 8 Paise To 93.49 Against Dollar, Can Falling Crude Prices And FII Inflows Limit Further Losses? Free Press Journal
+
+### 55. Sip, shop and repeat! Double JJ hosts its annual fall market - Shoreline Media Group
 
 - Source: Shoreline Media Group
 - Published: 2026-11-18T21:15:00+00:00
@@ -546,7 +556,7 @@ Mutual funds received 53% of Mahanadi Coalfields IPO anchor book: Which schemes 
 
 Sip, shop and repeat! Double JJ hosts its annual fall market Shoreline Media Group
 
-### 55. HSBC Mutual Fund launches #MidSeMoreTak campaig… - www.uniindia.com
+### 56. HSBC Mutual Fund launches #MidSeMoreTak campaig… - www.uniindia.com
 
 - Source: www.uniindia.com
 - Published: 2026-11-18T15:34:00+00:00
@@ -556,37 +566,17 @@ Sip, shop and repeat! Double JJ hosts its annual fall market Shoreline Media Gro
 
 HSBC Mutual Fund launches #MidSeMoreTak campaig… www.uniindia.com
 
-### 56. Canara Robeco vs Nippon India Large Cap Fund: Rs 15,000 monthly SIP grew to Rs 39 lakh in 10 years in one fund; Check CAGR, returns, top holdings, expense ratio and more - ET Now
-
-- Source: ET Now
-- Published: 2026-11-18T12:20:33+00:00
-- Themes: India market
-- Score: 4
-- Link: https://news.google.com/rss/articles/CBMiwgJBVV95cUxPMENhWDZuelduSjZFTmc5Um9URHlMY3A1dUV6LTB5LV83Y245dGpCTXhLQ1JZMWRBcDV2aG1tVjdQeHJlUzRoNk01UnpyWU1tR0llOGxFSjRKT3lxQlA5ak1uTkp5R1FncFBTZjI3R1RDUWRSNGdhajRnZ3hMNi1ySWZJUGpMb2JiMVZ0ZDJybHFHRFVvSzVXUU12SFE0ckxZV2Z5dlRoeUVIbHRWSE5jc1BBTk10SXFEeFh0d2Yzdkg2M1Z4ZERfdVhJTzRkbjBFRDhTRUJ4Z3NVNDE5S1dLSHFtM05mVWtSXzB6TkRyNHY4Y1NaU0psbXFjcThrUnc5VU1RdHZxd3hvZ1BfcG5DZ1NUaWVwNmI3YTR1SFhYVEJnMVZpY3VIclFFR0F4c01kLU1CaGNRUm5vTmN4cjRFSjl30gHHAkFVX3lxTFA3WEZURmlWcDlmdlZqS18yWFQ5MDlUSXFGU0F5ZEF0a3pSbnlQbHBfY19zOEkya0xQLWpfSU53eEt4bzJpdFpQbzc1RWF2RzhLM2h6X0xhcnZ6V0pldTF5N1NaaWtQWVVsalM4RUpVUUNkdTdxWGtkVGJaVldFdXNWMlR5cC1aZXc2R2xlM2d1YUZxZFR1eENhZ3lqcHVkaU13Z0xFQkRSRV9NRXZid3lvZXdjcHlkNE4yclhGbGphSmdYaFluMExxOEU0TlZlTGZ3X29DUXhFc05uaXRKTHhyY1cwNWV0Skh2TDB5RVVoRXZ5YVFTRzUxQWdtUWlldjlXa1hGMVZGYkN0ejZzaG91N2hGRnFzcHg5U3hiSjh2am14Uk1XTDdQaXlJWW1GOVYyR3cxNldRd2NERlhmNndQSm5KaHkxYw?oc=5
-
-Canara Robeco vs Nippon India Large Cap Fund: Rs 15,000 monthly SIP grew to Rs 39 lakh in 10 years in one fund; Check CAGR, returns, top holdings, expense ratio and more ET Now
-
-### 57. Sensex Jumps Nearly 1,000 Points, Nifty Reclaims 25,500 Amid Strong FII Inflows - Rediff
-
-- Source: Rediff
-- Published: 2026-11-19T11:57:03+00:00
-- Themes: India market
-- Score: 3
-- Link: https://news.google.com/rss/articles/CBMi9AFBVV95cUxQQTVCeUlPZnVBd29WR2o4Ri1jMnBPbHNud0I2SVc5QlVibUNPbzU2RkJFbmMxMzFnNl9CTlhGOVZuNEtzOWU5a1N6Q1BSNnBqM0l1OWsyU3hGWHkwSnZKcHQtemNPdzYzTjFVeEZsOC1vd2FRUnp0ZWVub0lSajNHbFhzTnJYeVpaTDBZUF9Vcy1DWGhyRExoT2ZvOEZGLUxqRU5iQmlScVZQWVJnMTR4RHMxWWhaWExQXzlWcmFGdTVuY1FxYnh0NTdwTXFlTWRiSld3VDc5dzR4czdfaDNKT3RlYTI3R2tRZjhMSkJGMkdXYV920gH3AUFVX3lxTE5yU19QWnl1UnRHVUpieWwwRWpPMnFBZ2JGVnlKZjNYbmdmdlROdVo0cExmYW9EUUdTLTMwNUNveXFRWUZIUXZyRmtXODhTQUFjYldscnd4bnIySXoyZnNtdDE1b2RLOVBibHpkVFNMcjRjUnVPTk5ZdTJGWndfc243bVRSSEFUNmdnNkFLZ2dvLVpQdmZQRlRIaFdJUGtkTXM3dFZNaHlhT2RkVndPQ3BJUFNIYkhHc0RTREdkRlc4Nll3Q3FlZmdvblVRb0xPdW53alB3SHRkTDdvekRFS0ZQRkl2RmNHWUZrQ3hiTjJ6d0hMeUROWkU?oc=5
-
-Sensex Jumps Nearly 1,000 Points, Nifty Reclaims 25,500 Amid Strong FII Inflows Rediff
-
-### 58. Eternal, RIL and HDFC Bank among 9 stocks owned by 600 mutual funds in October - The Economic Times
+### 57. Eternal, RIL and HDFC Bank among 9 stocks owned by 600 mutual funds in October - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-19T10:42:19+00:00
 - Themes: 
 - Score: 3
-- Link: https://news.google.com/rss/articles/CBMihAJBVV95cUxPd1pFbW1oZzVMSWhuQ0V1aXgxUHhXMXExcDZCRDduUWJSODRiQXJHU3BibGpEeGZienJja1N0ZHpUQ2xrZXBIRkNieUJ3Qk1tS1FVQVQ1bHNhQlVhVmt1Q2ViMGxtcHpQWnh2QU1MYjBSMGZDc2hWVlJoTGxtdmFrbXJtRHA1UHdrYXRUZ2RVdVU2aHBmeW80eGI5NXpvaG1JbDJzR05aZjVLcGk2N0p5ZDk2S0NHNTVqOGZoNGtlVUczd090VU5JSGdZVUhNVkFwazhtVHdIOGR1Q1c0UFNDSE5TOS0zRTdzaFZ1aThVcHdwQ3dLUXc0TXJfRDFIcnNwTjdYaQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVXU3MTJiSzA2c3JDeWNMMGN1bVYxTGtWNkNNSTg4eXR4cENmNEhuUVZkTzhtY25wT29VeXdER0N2cFlXV09WbGc1VGVEQTVqYXFVVlNyc3JIMjVxU1RsRlU0R1NRUzZiTFJ5cUxNVl9YNnBYdG5odmVycV9vLUJlc05URDZWdXlldGZ2N09IbGJKUzNDZEhIX0hyTURQMGRSbVphYjA4dDVQazBJcU1Xb1VjZXlPWWJKMzFvNTJwTnhuaUFKckpkSWNmdHc3blhHeG9vb0hXcw?oc=5
 
 Eternal, RIL and HDFC Bank among 9 stocks owned by 600 mutual funds in October The Economic Times
 
-### 59. Equity Mutual Funds Outpace Industry Growth, AUM Rises 7.7 Times In 10 Years: ICRA - ETV Bharat
+### 58. Equity Mutual Funds Outpace Industry Growth, AUM Rises 7.7 Times In 10 Years: ICRA - ETV Bharat
 
 - Source: ETV Bharat
 - Published: 2026-11-19T10:08:25+00:00
@@ -596,7 +586,7 @@ Eternal, RIL and HDFC Bank among 9 stocks owned by 600 mutual funds in October T
 
 Equity Mutual Funds Outpace Industry Growth, AUM Rises 7.7 Times In 10 Years: ICRA ETV Bharat
 
-### 60. Bulls take charge of D-Street: Autos lead rally, Bank Nifty hits record high as Sensex rebounds 1,177 points - Fortune India
+### 59. Bulls take charge of D-Street: Autos lead rally, Bank Nifty hits record high as Sensex rebounds 1,177 points - Fortune India
 
 - Source: Fortune India
 - Published: 2026-11-19T09:32:20+00:00
@@ -605,6 +595,16 @@ Equity Mutual Funds Outpace Industry Growth, AUM Rises 7.7 Times In 10 Years: IC
 - Link: https://news.google.com/rss/articles/CBMi6AFBVV95cUxPMm5pdEVPWW1oblJVZnY3RV9veXNkbDhWb2NMYUJJSzU5Y3Q1Y3cxbG9mMUdtRGp1YXRSY1V1ZUxYVHRWUjgzQi1waHY2dkxFT1h5aFZOWmF3Tl93MXZhdnE3LV9FTzQ0em43eTBJVjhOWEFCUy1BaGllWVotSDRfakc3bGlMbkdTdVBhWC1EdmdKZEs2MDlYMUhXRDh0ODUweGN4U290ejk5NmZhcVQ3YTZQYk5ZX3draEI0R1pUXzdIT2U5TTQ2ZlZINHVYVTZYY0RjTC1XdjFwWDRxc1JRc21LYUxTcGdD0gH2AUFVX3lxTFBYb1dkcEZveWVsdGltWUo4MVI2RndQOW1uZjZWV2FuMlh2V0ZWa3pOV0VhLWtUOFBQWmRTV1lWVVU5OUY1ZlJQWXM5X0wyVi1pRVVxQ3ZjTWhCallhUF8ySkVhTjkxenFTR19BRWU2N1lzdlFOczg4amhMZmprSXpKTVMtRkpUZG0zcWFPeDUwVEM5b19xZ1dXQllCRkxXQ3drWHgwOGRnVFZEZEY4SzZKaGlEYS1oRDhqRFEzaXRzWXVlMVh6WDJpZEhvdUxQeFM2eVcwV3FxYXphcHFLaDk4YnhGVkdZZG8zemt3OVZvVTlQWWtlZw?oc=5
 
 Bulls take charge of D-Street: Autos lead rally, Bank Nifty hits record high as Sensex rebounds 1,177 points Fortune India
+
+### 60. Are Small Cap Mutual Funds Suitable For First-Time Equity Investors? Key Factors To Assess - NewsGram
+
+- Source: NewsGram
+- Published: 2026-11-19T08:46:09+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE5MUUpiUW5taVBaNXlrU0hqaVlFclR0WVNydnpiYjdVZWNxWmxjRXVnUmdFeU5yWlZ4dXl3S3U3b3RtNXhUd2hiSGxxYnJYYVBmUjBaMlhTcEVJNzJ2VDRpUDhnSGxQSkR6ejhFWDhvXzBVXzVD0gGCAUFVX3lxTE5NX3ZyR2RNWk81XzdlbE9tSG9CZlpzU1VWSGJoek1wT2RtQW1JcjVudVR4REkybXFjM2tPaWNNWnh5MlNjVzlKeTJuWlMzdWVtVFRDRk8tVHZ6a3h6Y254RXFTUzg2VzJ6eHQ4ZWpaQ3dEV0RwZ0NaNkUtUTlPQzVNc3c?oc=5
+
+Are Small Cap Mutual Funds Suitable For First-Time Equity Investors? Key Factors To Assess NewsGram
 
 ### 61. Mutual Funds, SIPs: How long should you stay invested? Expert says data shows the real truth — Check here - Livemint
 
@@ -636,7 +636,17 @@ Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Here's Why 
 
 Sensex, Nifty open flat amid Fed rate hike concerns; investors remain cautious The Tribune
 
-### 64. Stock market cues to watch today: Asia, US market, GIFT Nifty, FII, crude, and other data - ET Now
+### 64. Best conservative hybrid mutual funds to invest in November 2026 - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-19T04:07:40+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiswJBVV95cUxNSFNsV3U4MXlnNUlMQ010SGprM3p0VTJvNFlVbldZR3JPd1g3WjdjSjlEWEc2VnJ5Zl9xNDVyREdmcjVMdDR3WVNJb3VROEhOVXhEckhDODg1NmZwX05fckhSVXZfb2pTcnZDZHpxZlZFandiMzczZkY3QkpFZGlFZU5JaDl0eWwwWDBIYzZhWFRKcFBmWFU1ME1zM1d1MFNWc1BDTjN4U1BGZGd5TllMaW4yc2EwWGNSRV9ha2xRa0tTMG9VS0pqT096QXN2NGRQUFRjRmp1V043UzM4a0R4R1JNOHNfSldkZGMtWUJobmdYMEVpdWNsbHN2Yzc2NlY0NTZMRndkbTdUOHdCRHk2ZF9LeV91bUk5MENZQ0FMdHNfd0NzRklXQVBreGtfT01NUTNV?oc=5
+
+Best conservative hybrid mutual funds to invest in November 2026 The Economic Times
+
+### 65. Stock market cues to watch today: Asia, US market, GIFT Nifty, FII, crude, and other data - ET Now
 
 - Source: ET Now
 - Published: 2026-11-19T00:56:12+00:00
@@ -646,7 +656,37 @@ Sensex, Nifty open flat amid Fed rate hike concerns; investors remain cautious T
 
 Stock market cues to watch today: Asia, US market, GIFT Nifty, FII, crude, and other data ET Now
 
-### 65. Sip & Savor: A Pizza Workshop, a Holiday Harvest Market, and an Acclaimed Bagel - 425magazine.com
+### 66. Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows - Mid-Day
+
+- Source: Mid-Day
+- Published: 2026-11-18T20:26:05+00:00
+- Themes: India market
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMixwFBVV95cUxON041b3JoTWItZzhOdTF6aVhOT1l6NjRNSHVITlhENEQyYTVJSWpuYWFkY2VxdXBidHFjTHZIQmF6a0NKMlJCSGgtWHdMNGNTOGZrNk9Na2V0V2tadmV3aTRJU3o4ekFxLS1sMVp3TXJwZlVqWVpiLW9BTDI1RmRzbHBMR2o5T0s5SDZ4M1Fidk1DSVplSTFQaVg3LTUtdmdHaVp0djV5Ujd4TnNGM3lXbHF5T3ExdHhiQVNnWDQyTzFoYTBkcUdN?oc=5
+
+Sensex, Nifty gain over 8.5 per cent during the week amid FII inflows Mid-Day
+
+### 67. 9 Mutual Funds With 33% to 43% CAGR Since COVID Crash - Myinvestmentideas
+
+- Source: Myinvestmentideas
+- Published: 2026-11-18T18:38:43+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMigwFBVV95cUxPSlYtVTIzMEk0Z0sxMVpvRzBOQlpwY2E0MEJFd2ZvZkVEOE9mMU1JUURqcDREUXVwdEdMOHFzdmZoVHg2X215OTBmSkZuYVhaN1loaEJTSWU5dmpCSndjSXh5bGJPZllQODFHcUVZX1owRGMzc3c0bG1qZ0lYLXYxV2p0TQ?oc=5
+
+9 Mutual Funds With 33% to 43% CAGR Since COVID Crash Myinvestmentideas
+
+### 68. Best Mutual Funds: News, Performance Reports And Investing Ideas - Investor's Business Daily
+
+- Source: Investor's Business Daily
+- Published: 2026-11-18T18:23:00+00:00
+- Themes: 
+- Score: 3
+- Link: https://news.google.com/rss/articles/CBMiswFBVV95cUxOOGh3UmNfU0JQZ2thTDdMbjBhbzVBS01uWWo5aXYxYUE2eHZVVV9yT0hJT2Z6TXY3czdXX1R1QlFZd3h5S0tYTE5UVUVqSFU5cWFtZFJxY3VGa01HT3BUZ3FqS1NkeTFYNEZKdnZWX1BCYUhzRDkzWlg4ZVNjMzFYVmgzd1luU1ZOQnRkYlBJamRFWnYxU0hORjMxM09WUHVuczktZ3M1cHh1cGhuaEI2elBLTQ?oc=5
+
+Best Mutual Funds: News, Performance Reports And Investing Ideas Investor's Business Daily
+
+### 69. Sip & Savor: A Pizza Workshop, a Holiday Harvest Market, and an Acclaimed Bagel - 425magazine.com
 
 - Source: 425magazine.com
 - Published: 2026-11-18T15:45:00+00:00
@@ -656,7 +696,7 @@ Stock market cues to watch today: Asia, US market, GIFT Nifty, FII, crude, and o
 
 Sip & Savor: A Pizza Workshop, a Holiday Harvest Market, and an Acclaimed Bagel 425magazine.com
 
-### 66. SIP investment: Patience pays as staying invested for 10 years could help you avoid losses—what 21-year study revealed - Livemint
+### 70. SIP investment: Patience pays as staying invested for 10 years could help you avoid losses—what 21-year study revealed - Livemint
 
 - Source: Livemint
 - Published: 2026-11-18T14:54:51+00:00
@@ -666,7 +706,7 @@ Sip & Savor: A Pizza Workshop, a Holiday Harvest Market, and an Acclaimed Bagel 
 
 SIP investment: Patience pays as staying invested for 10 years could help you avoid losses—what 21-year study revealed Livemint
 
-### 67. Nifty, Sensex surge more than 1% by closing as sustained foreign inflows boost investor sentiment - The Tribune
+### 71. Nifty, Sensex surge more than 1% by closing as sustained foreign inflows boost investor sentiment - The Tribune
 
 - Source: The Tribune
 - Published: 2026-11-19T10:27:48+00:00
@@ -676,17 +716,27 @@ SIP investment: Patience pays as staying invested for 10 years could help you av
 
 Nifty, Sensex surge more than 1% by closing as sustained foreign inflows boost investor sentiment The Tribune
 
-### 68. FII floodgates open in India, but JPMorgan flags a risk - The Economic Times
+### 72. FII floodgates open in India, but JPMorgan flags a risk - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-19T09:28:04+00:00
 - Themes: India market
 - Score: 2
-- Link: https://news.google.com/rss/articles/CBMi1AFBVV95cUxOcFFrcGVONEJVbDJ5ZFgtZFVZanZvREZOR2YyZnFjMFk4dDUtQWxaNHFLaGxuT1oxT1ZLcDdveGFrUm1RZ2djUVoyS2xUd0JLUHB0amd2M3dvdmQ0SlpDekpYRUZpVEIwN1hrZEZpMFFMZFQ3LUF3QzB6aFZ5YURWampkSkRrcDhHZHp1UHRsLWJpOW11MGVwUHA0TjVPNVpUSV9FS08wUVc2MUZWelFFYmY0ZGxxaXY2M3d0c3dfc0JDaC1Sa0FhV1V5X1FTYUptaXI4cNIB2gFBVV95cUxPZWZhQWZaOHFrZGJhZm9pMG9EY0JIT01HQVF0WERKZEQ0bmt0UFpmaHVtSnNfR0pyN2VHeHBDX1FTZDl5LVpJWlZOS1FtTTVYUmdVcFlkV0dKTkM2MnRFYkZvYVRDLXo2dFMwWUNKSlNIZi1JV1ZRaXVlSDJRWk1uc2xidF82UlJaUUdzd19jVFlDUjZGd0JkMWtJRG84dzFMM1BnNFBrUGIxd244d09Qc0ZUZG92U19pSzdzSFYtRzk5R1VTclB1SlBEYlFnZG8zWU0zU1pOSGJTQQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMi4AFBVV95cUxPenVZOVQ1Tzg1VXk4U3Q1VjdyNWdEMlgxSWl2Njg1SnZXbmxQcm9BQk1lTWpEYnFsR1EzemY4MVR6ZnZjU3FrUGJEVFBENG5jTUhFX0EwcFRNV1habkJvVWpXcmxxeWdEUkw1bW5IMEI2YkpOUU1kbkk1dUIwN1BWbEJZa3ltUThtWUdzRW5ZVkRndW1DSzJGLVpjMjFJcS1OZF9ZcWlFR3lMaEdLV19teFFKUHVEOE8yTEpWM2NmNnFLY0FKNlBmRWNMRFVmV1pfVDBUeURYT3pkcHExdkRpYw?oc=5
 
 FII floodgates open in India, but JPMorgan flags a risk The Economic Times
 
-### 69. Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters - Deccan Herald
+### 73. MF Tracker: Invesco India Midcap Fund tops 3-year equity fund returns with 22%. Should investors invest no - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-19T06:45:18+00:00
+- Themes: India market
+- Score: 2
+- Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxONzVXWGQ4a2VWLWJxM05pNkh2NW1yVld3b0lLaUdUbzZXV1JFdUlaY3ZMWlU1ZDV4TlRsR3lnSzV6MUU3SkhZZ3o2bU8tWDByNWI1OXZXOEdVTWl5NmcyLUJsM0gzRDRuekpmdUhCYzFQeVNiU1JQbmpjZDhBN2s1UWFnWV9QZWxleU5yUGZDQzU0RmlkUXVGTzdLR2NFVWVOb1dIYzBsVFZ0MUZWZVVSd3pqUjRYamEzcV9ic0ozMW5xUkdZZGh1elVZWkhZazIyYzdCQnQtTTllemVCWnU5TlJQRXlzUlJyanYwY0s5RzRXTUFObDdRUmdCUDZ1LTjSAYQCQVVfeXFMTmktajdya0tRZlg5bEdPYUdlQjcxaFFrZkd1QjBUV3M3VUJGamhrenpVTDh1UkpqZlNBUDlnc2FuQ2JXT01VSmREdHFVTHJ4QmE0WjladDZlNDhHNHNGSVNTVU1nVHhPR0dYRTdKcFZNWEt3Q2VUeHQ3NG90R2dlaHJqLS00VzBYdFExek5BNlo3UnpYamxBY2V1ZlN5RzJpOUV5Z2x3RmRCTWhObk05eENSYWhZV3pmcV92Tzl6MEdUMndXeGkzbmlnUU5vUW9lUEVKV2NMQ0VtcFdzSUswb3lTLXZVS0wwT2hEejROakVlZThTZm9GNDZqTEdwemNWWkR3eXg?oc=5
+
+MF Tracker: Invesco India Midcap Fund tops 3-year equity fund returns with 22%. Should investors invest no The Economic Times
+
+### 74. Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters - Deccan Herald
 
 - Source: Deccan Herald
 - Published: 2026-11-19T04:53:32+00:00
@@ -696,7 +746,7 @@ FII floodgates open in India, but JPMorgan flags a risk The Economic Times
 
 Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters Deccan Herald
 
-### 70. IT sector stocks today, November 19: Tanla Platforms falls 3.30%, Birlasoft down 2.90%, Infosys declines 2.51% - Business Upturn
+### 75. IT sector stocks today, November 19: Tanla Platforms falls 3.30%, Birlasoft down 2.90%, Infosys declines 2.51% - Business Upturn
 
 - Source: Business Upturn
 - Published: 2026-11-19T04:31:56+00:00
@@ -706,7 +756,7 @@ Stock markets fall in early trade dragged by IT firms, US Fed rate hike jitters 
 
 IT sector stocks today, November 19: Tanla Platforms falls 3.30%, Birlasoft down 2.90%, Infosys declines 2.51% Business Upturn
 
-### 71. IT stocks miss the November party despite FII comeback and cooling AI trade: What's holding back the secto - The Economic Times
+### 76. IT stocks miss the November party despite FII comeback and cooling AI trade: What's holding back the secto - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-19T04:25:28+00:00
@@ -716,7 +766,7 @@ IT sector stocks today, November 19: Tanla Platforms falls 3.30%, Birlasoft down
 
 IT stocks miss the November party despite FII comeback and cooling AI trade: What's holding back the secto The Economic Times
 
-### 72. Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Heres Why IT And Metal Stocks Are - Free Press Journal
+### 77. Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Heres Why IT And Metal Stocks Are - Free Press Journal
 
 - Source: Free Press Journal
 - Published: 2026-11-19T04:11:26+00:00
@@ -726,7 +776,7 @@ IT stocks miss the November party despite FII comeback and cooling AI trade: Wha
 
 Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Heres Why IT And Metal Stocks Are Free Press Journal
 
-### 73. Market Update: Sensex, Nifty Recover Early Losses, Turn Positive As Auto Stocks Rally - News18
+### 78. Market Update: Sensex, Nifty Recover Early Losses, Turn Positive As Auto Stocks Rally - News18
 
 - Source: News18
 - Published: 2026-11-19T04:02:32+00:00
@@ -736,7 +786,7 @@ Sensex Loses Over 300 Points In Early Trade And Nifty Breaks 25,200, Heres Why I
 
 Market Update: Sensex, Nifty Recover Early Losses, Turn Positive As Auto Stocks Rally News18
 
-### 74. Closing Bell: Nifty below 25,250, Sensex down 500 points; consumer durables, metals worst hit - IndiaIPO
+### 79. Closing Bell: Nifty below 25,250, Sensex down 500 points; consumer durables, metals worst hit - IndiaIPO
 
 - Source: IndiaIPO
 - Published: 2026-11-19T02:58:32+00:00
@@ -746,7 +796,7 @@ Market Update: Sensex, Nifty Recover Early Losses, Turn Positive As Auto Stocks 
 
 Closing Bell: Nifty below 25,250, Sensex down 500 points; consumer durables, metals worst hit IndiaIPO
 
-### 75. TSX plunges 737 points as gold and oil selloff hits Canadian stocks - Investing.com
+### 80. TSX plunges 737 points as gold and oil selloff hits Canadian stocks - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-18T22:10:12+00:00
@@ -755,53 +805,3 @@ Closing Bell: Nifty below 25,250, Sensex down 500 points; consumer durables, met
 - Link: https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeFRHb2Y0Y1pCZlBYQlJ0Q2F5NTUyb0hGR2ZLSm03YXloSDIzZ0hFNUppdGVtUzRsSm5FMjhzNktUSXlRcTFfLXlxMWJnWVlobE5YMUhpTWJYRm1ZZUtOaURPT3dNbi1nWEJNUll6QTFqRVpNeTdtZGY5M2Zudjlxel9kTnFpczlnVmhuZHlTSjd5Mkd3VW41RlJuSlFydTcwYnlCZi0tSThlUmNCeWVxYk5UNWIyNVJKdzRFaXRNUkRjR0k?oc=5
 
 TSX plunges 737 points as gold and oil selloff hits Canadian stocks Investing.com
-
-### 76. Nvidia lost $750B, its CEO, and Wall Street's patience. The AI bubble question is now. - Latin Times
-
-- Source: Latin Times
-- Published: 2026-11-18T21:59:30+00:00
-- Themes: AI / tech risk
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMitwFBVV95cUxOU0dRWnhDZFhLQ3lBVUpOelhhMm5wNWdIaVV6VFQxRDRuMUw2ZUZ6OGM1c3J0WGh0NzByVE5rcGdzRW9fQ0FHaUFaTW5UdERIMy1yMGMtTlROc1JFT1BIc0Vva1dKS2V4b3A1eDNiVElPNldvWGpiY1ZNdFloTjZ6Zk9QYzZmdFhmUXF6UXhPM2U3UVVqUG9BdHQxb2pOdWZSRjV2SHFvYm42U2U0WDFEckwzdU82UTQ?oc=5
-
-Nvidia lost $750B, its CEO, and Wall Street's patience. The AI bubble question is now. Latin Times
-
-### 77. Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call - Investor's Business Daily
-
-- Source: Investor's Business Daily
-- Published: 2026-11-18T21:04:00+00:00
-- Themes: AI / tech risk
-- Score: 2
-- Link: https://news.google.com/rss/articles/CBMingFBVV95cUxQdDZndHkyazEwZDlMRGlkZUZDeHJ2RWZlNWRMUVZsRjZFX0pEclVhNElua3dYUHBMS0FPMkEtY1lLaWlPMGkzZVV3dDBZUnRJUnVEdktLdFBMN09fbkZWZXhnOUNJMjNoeE5QR1FicTVOTnV6ZFhUMnRrbG5KVzZDZ3JhcWdsZmhLRDI1LXdPYVRxbFFlcTdmTEVwUXoxUQ?oc=5
-
-Apple Stock Polishes Breakout As Nvidia-Led AI Boom Gets Wake-Up Call Investor's Business Daily
-
-### 78. Top gainers and losers, Nov 19: Maruti Suzuki soars nearly 8%, Eicher Motors surges 5%, TCS falls 2%; check list - Upstox
-
-- Source: Upstox
-- Published: 2026-11-19T11:25:43+00:00
-- Themes: market selling
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMi9gFBVV95cUxQYU1UUTU2SmF1bWZGNHljNlRjeWdKMnd1cEhiUE1kUlloUV9zVjU0NEg4MW9SYjRLZWFGMDRGQmZqQWNsR3NuV2oweURGbGhFS3ZZclI1ajd4aDNnMjJIaWlKYWZKUWpMUkg5bHZ5eWh5VjFDQThMeDNTaHZxUkRESUhRLUN0SERnUElpcEpISC14X1RFRUZkMlczRmRTZjFHUlVONUJaTzBrZDFhUGFpX1EtNmNEN0dEMllhUmQzSHRyRHJ4LXIyUDBWYkJLR1FtZWQ5OXltemFvZDctTEFUMUZOWWZ1Rzk1MGtNXzNsc0lVejZfcUE?oc=5
-
-Top gainers and losers, Nov 19: Maruti Suzuki soars nearly 8%, Eicher Motors surges 5%, TCS falls 2%; check list Upstox
-
-### 79. Dividend Stocks Or AI Stocks: Which Fits Now? - Trefis
-
-- Source: Trefis
-- Published: 2026-11-19T08:44:00+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxQZG80Vm1YaHpjbkhucTl3aWhsOWliNTBpV0Z5Y0Y1SE1Ud19KU1g3MTFNSmN3aGdteUdzSHQ1aVFHZFpaY3gzMnBzTlp2Tm1lQUt4NUNiWWtiRkFiTHhkREdiOTBfUVFxUDVwSXNmM2paR1loUm9DTkh4ZXFtc2JjdDJBbl9yZ1hOMzBSZDk4QmxkdGNjXzNnbnp6XzJwOGViSV9EUEJR?oc=5
-
-Dividend Stocks Or AI Stocks: Which Fits Now? Trefis
-
-### 80. European Stocks Rebound as Anthropic IPO Revives the AI Trade - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-11-19T08:17:24+00:00
-- Themes: AI / tech risk
-- Score: 1
-- Link: https://news.google.com/rss/articles/CBMisgFBVV95cUxNR01OS1NPVDhfbnRKNDNEa0lmcjd2YXRmZlY5b2lfek5za2RlYUtoSmh6SUtMN2FuNEhPOE8zQUhtQklfNzBNZDktQi03a2o3SXRtMEpCc3Z1bzdRaW9BTGtyUHVVTzZTbTBCUF8wYXVRbjRsNVhIVThJY1NxZU9tRG04UV9sdU5MVVZDUTkwZEs1RFNoblZVbTI3d0g0eDlNcEtMWTdveVlIRzh5Sm9hQm1R?oc=5
-
-European Stocks Rebound as Anthropic IPO Revives the AI Trade Bloomberg.com
