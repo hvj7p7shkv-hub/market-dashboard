@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-22 05:07
+Generated: 2026-11-22 05:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -46,7 +46,17 @@ Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5
 
 Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto Yahoo Finance
 
-### 5. AI Chip Selloff Erases 200 Billion Dollars From Nvidia and AMD - bsinews.id
+### 5. AI Selloff Drives Nasdaq and Chip Stocks Into Deep Declines - cwibc.co.id
+
+- Source: cwibc.co.id
+- Published: 2026-11-21T18:42:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 9
+- Link: https://news.google.com/rss/articles/CBMibEFVX3lxTE5KVzNJYVZkUC1ocldxbTY2MGlFZ1cxd0swajBWY2RtM3RRSGhlUXVvWnQ4OVRZVnFFQXZ5NkR6WWVkNUlwT282akk0NmtoanF1TnhDWXBHamhNaW5LQTd2NktfVDNsalgzVkZONQ?oc=5
+
+AI Selloff Drives Nasdaq and Chip Stocks Into Deep Declines cwibc.co.id
+
+### 6. AI Chip Selloff Erases 200 Billion Dollars From Nvidia and AMD - bsinews.id
 
 - Source: bsinews.id
 - Published: 2026-11-21T18:37:00+00:00
@@ -56,7 +66,7 @@ Nvidia Falls 48% From Peak as AI Selloff Spreads to Bitcoin and Crypto Yahoo Fin
 
 AI Chip Selloff Erases 200 Billion Dollars From Nvidia and AMD bsinews.id
 
-### 6. 3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff - Yahoo Finance
+### 7. 3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-21T18:08:06+00:00
@@ -66,7 +76,7 @@ AI Chip Selloff Erases 200 Billion Dollars From Nvidia and AMD bsinews.id
 
 3 AI Chip Stocks Retail Investors Are Watching After The Nvidia Selloff Yahoo Finance
 
-### 7. AI and Tech Stocks Fall Despite Nvidia Earnings and Anthropic IPO - bsinews.id
+### 8. AI and Tech Stocks Fall Despite Nvidia Earnings and Anthropic IPO - bsinews.id
 
 - Source: bsinews.id
 - Published: 2026-11-21T07:13:55+00:00
@@ -76,7 +86,7 @@ AI Chip Selloff Erases 200 Billion Dollars From Nvidia and AMD bsinews.id
 
 AI and Tech Stocks Fall Despite Nvidia Earnings and Anthropic IPO bsinews.id
 
-### 8. S&P 500 drops more than 3% as semiconductor stocks lead market selloff - www.equiti.com
+### 9. S&P 500 drops more than 3% as semiconductor stocks lead market selloff - www.equiti.com
 
 - Source: www.equiti.com
 - Published: 2026-11-22T03:39:02+00:00
@@ -86,7 +96,7 @@ AI and Tech Stocks Fall Despite Nvidia Earnings and Anthropic IPO bsinews.id
 
 S&P 500 drops more than 3% as semiconductor stocks lead market selloff www.equiti.com
 
-### 9. China’s AI stocks lose $1.7 trillion as tech selloff deepens - Yahoo Finance
+### 10. China’s AI stocks lose $1.7 trillion as tech selloff deepens - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-22T01:39:00+00:00
@@ -96,7 +106,7 @@ S&P 500 drops more than 3% as semiconductor stocks lead market selloff www.equit
 
 China’s AI stocks lose $1.7 trillion as tech selloff deepens Yahoo Finance
 
-### 10. China’s AI stocks lose $1.7 trillion as tech selloff deepens - Investing.com
+### 11. China’s AI stocks lose $1.7 trillion as tech selloff deepens - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-22T01:13:48+00:00
@@ -106,7 +116,7 @@ China’s AI stocks lose $1.7 trillion as tech selloff deepens Yahoo Finance
 
 China’s AI stocks lose $1.7 trillion as tech selloff deepens Investing.com
 
-### 11. Taiwan Stocks Fall 6.7% as AI Sell-Off Hits Chipmakers - JournalArta
+### 12. Taiwan Stocks Fall 6.7% as AI Sell-Off Hits Chipmakers - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-22T00:52:03+00:00
@@ -116,7 +126,7 @@ China’s AI stocks lose $1.7 trillion as tech selloff deepens Investing.com
 
 Taiwan Stocks Fall 6.7% as AI Sell-Off Hits Chipmakers JournalArta
 
-### 12. AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line - BigGo Finance
+### 13. AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-21T23:35:00+00:00
@@ -126,7 +136,7 @@ Taiwan Stocks Fall 6.7% as AI Sell-Off Hits Chipmakers JournalArta
 
 AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below Correction Line BigGo Finance
 
-### 13. AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure - Yahoo Finance
+### 14. AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-21T21:10:24+00:00
@@ -136,7 +146,7 @@ AI Boom Cracks, Unleashing US Stock Selloff as S&P 500 and Dow Both Slip Below C
 
 AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure Yahoo Finance
 
-### 14. Nvidia and AMD Extend AI Selloff on November 20 - Limapagi
+### 15. Nvidia and AMD Extend AI Selloff on November 20 - Limapagi
 
 - Source: Limapagi
 - Published: 2026-11-21T18:36:00+00:00
@@ -146,7 +156,7 @@ AI Selloff Has Opened New Ways To Play Semiconductor Short Exposure Yahoo Financ
 
 Nvidia and AMD Extend AI Selloff on November 20 Limapagi
 
-### 15. US Stocks Enter Correction as AI Fears Trigger Selloff - Peradaban.id
+### 16. US Stocks Enter Correction as AI Fears Trigger Selloff - Peradaban.id
 
 - Source: Peradaban.id
 - Published: 2026-11-21T16:12:50+00:00
@@ -156,7 +166,7 @@ Nvidia and AMD Extend AI Selloff on November 20 Limapagi
 
 US Stocks Enter Correction as AI Fears Trigger Selloff Peradaban.id
 
-### 16. US Stocks Enter Correction as AI Selloff Deepens - bsinews.id
+### 17. US Stocks Enter Correction as AI Selloff Deepens - bsinews.id
 
 - Source: bsinews.id
 - Published: 2026-11-21T16:11:18+00:00
@@ -166,7 +176,7 @@ US Stocks Enter Correction as AI Fears Trigger Selloff Peradaban.id
 
 US Stocks Enter Correction as AI Selloff Deepens bsinews.id
 
-### 17. Tesla falls 7.5% as AI selloff swamps HSBC upgrade; market likely explains 3 to 5.5 points - Quantisnow
+### 18. Tesla falls 7.5% as AI selloff swamps HSBC upgrade; market likely explains 3 to 5.5 points - Quantisnow
 
 - Source: Quantisnow
 - Published: 2026-11-21T15:40:50+00:00
@@ -176,7 +186,7 @@ US Stocks Enter Correction as AI Selloff Deepens bsinews.id
 
 Tesla falls 7.5% as AI selloff swamps HSBC upgrade; market likely explains 3 to 5.5 points Quantisnow
 
-### 18. AI selloff spurs haven demand for Yen, Franc as Dollar slips - BusinessLine
+### 19. AI selloff spurs haven demand for Yen, Franc as Dollar slips - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-21T14:37:26+00:00
@@ -186,7 +196,7 @@ Tesla falls 7.5% as AI selloff swamps HSBC upgrade; market likely explains 3 to 
 
 AI selloff spurs haven demand for Yen, Franc as Dollar slips BusinessLine
 
-### 19. Bitcoin falls to two-year low near $55,000 as AI stock selloff rattles markets - HESPRESS English - Morocco News
+### 20. Bitcoin falls to two-year low near $55,000 as AI stock selloff rattles markets - HESPRESS English - Morocco News
 
 - Source: HESPRESS English - Morocco News
 - Published: 2026-11-21T13:18:48+00:00
@@ -196,7 +206,7 @@ AI selloff spurs haven demand for Yen, Franc as Dollar slips BusinessLine
 
 Bitcoin falls to two-year low near $55,000 as AI stock selloff rattles markets HESPRESS English - Morocco News
 
-### 20. Gold Declines Amid AI Stock Sell-off and Interest Rate Hike Bets - صحيفة مال
+### 21. Gold Declines Amid AI Stock Sell-off and Interest Rate Hike Bets - صحيفة مال
 
 - Source: صحيفة مال
 - Published: 2026-11-21T13:14:14+00:00
@@ -206,7 +216,7 @@ Bitcoin falls to two-year low near $55,000 as AI stock selloff rattles markets H
 
 Gold Declines Amid AI Stock Sell-off and Interest Rate Hike Bets صحيفة مال
 
-### 21. S&P 500 enters correction as AI selloff deepens - https://streamlinefeed.co.ke/
+### 22. S&P 500 enters correction as AI selloff deepens - https://streamlinefeed.co.ke/
 
 - Source: https://streamlinefeed.co.ke/
 - Published: 2026-11-21T12:54:21+00:00
@@ -216,7 +226,7 @@ Gold Declines Amid AI Stock Sell-off and Interest Rate Hike Bets صحيفة ما
 
 S&P 500 enters correction as AI selloff deepens https://streamlinefeed.co.ke/
 
-### 22. Nasdaq Falls 1,225 Points as AI Stock Selloff Deepens - JournalArta
+### 23. Nasdaq Falls 1,225 Points as AI Stock Selloff Deepens - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-21T11:45:22+00:00
@@ -226,7 +236,7 @@ S&P 500 enters correction as AI selloff deepens https://streamlinefeed.co.ke/
 
 Nasdaq Falls 1,225 Points as AI Stock Selloff Deepens JournalArta
 
-### 23. S&P 500 Falls Into Correction as AI Worries Deepen - JournalArta
+### 24. S&P 500 Falls Into Correction as AI Worries Deepen - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-21T11:40:13+00:00
@@ -236,7 +246,7 @@ Nasdaq Falls 1,225 Points as AI Stock Selloff Deepens JournalArta
 
 S&P 500 Falls Into Correction as AI Worries Deepen JournalArta
 
-### 24. Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquidations Converge - BigGo Finance
+### 25. Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquidations Converge - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-21T11:35:00+00:00
@@ -246,7 +256,7 @@ S&P 500 Falls Into Correction as AI Worries Deepen JournalArta
 
 Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquidations Converge BigGo Finance
 
-### 25. The Kobeissi Letter: AI Trade Is in a Normal Correction, Even if the S&P 500 Falls Another 10% - TradingView
+### 26. The Kobeissi Letter: AI Trade Is in a Normal Correction, Even if the S&P 500 Falls Another 10% - TradingView
 
 - Source: TradingView
 - Published: 2026-11-21T08:34:21+00:00
@@ -256,7 +266,7 @@ Bitcoin Slumps to $55,150 as Rate Fears, AI Selloff and $2.64 Billion in Liquida
 
 The Kobeissi Letter: AI Trade Is in a Normal Correction, Even if the S&P 500 Falls Another 10% TradingView
 
-### 26. AI fears deepen sell-off as US indexes enter correction territory - CGTN
+### 27. AI fears deepen sell-off as US indexes enter correction territory - CGTN
 
 - Source: CGTN
 - Published: 2026-11-21T07:55:56+00:00
@@ -266,7 +276,7 @@ The Kobeissi Letter: AI Trade Is in a Normal Correction, Even if the S&P 500 Fal
 
 AI fears deepen sell-off as US indexes enter correction territory CGTN
 
-### 27. AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year - Scripps News
+### 28. AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year - Scripps News
 
 - Source: Scripps News
 - Published: 2026-11-21T07:32:05+00:00
@@ -276,7 +286,7 @@ AI fears deepen sell-off as US indexes enter correction territory CGTN
 
 AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year Scripps News
 
-### 28. AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Reassure Investors - Peradaban.id
+### 29. AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Reassure Investors - Peradaban.id
 
 - Source: Peradaban.id
 - Published: 2026-11-21T07:14:33+00:00
@@ -286,7 +296,7 @@ AI stock sell-off sends S&P 500 into correction, Nasdaq negative for year Scripp
 
 AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Reassure Investors Peradaban.id
 
-### 29. AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Rally Markets - Demokratis.co.id
+### 30. AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Rally Markets - Demokratis.co.id
 
 - Source: Demokratis.co.id
 - Published: 2026-11-21T07:05:28+00:00
@@ -296,7 +306,7 @@ AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Reassure Investors Perad
 
 AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Rally Markets Demokratis.co.id
 
-### 30. The week the AI trade cracked: Anthropic's debut, Nvidia's slide and a global sell-off - MLQ.ai
+### 31. The week the AI trade cracked: Anthropic's debut, Nvidia's slide and a global sell-off - MLQ.ai
 
 - Source: MLQ.ai
 - Published: 2026-11-21T06:40:29+00:00
@@ -306,7 +316,7 @@ AI and Tech Stocks Fall as Nvidia and Anthropic Fail to Rally Markets Demokratis
 
 The week the AI trade cracked: Anthropic's debut, Nvidia's slide and a global sell-off MLQ.ai
 
-### 31. Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction - Dawn
+### 32. Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction - Dawn
 
 - Source: Dawn
 - Published: 2026-11-21T06:35:56+00:00
@@ -316,7 +326,7 @@ The week the AI trade cracked: Anthropic's debut, Nvidia's slide and a global se
 
 Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction Dawn
 
-### 32. Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction - Investify
+### 33. Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction - Investify
 
 - Source: Investify
 - Published: 2026-11-21T06:35:56+00:00
@@ -326,7 +336,7 @@ Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction Dawn
 
 Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction Investify
 
-### 33. S&P 500 Falls for Seventh Straight Session, Enters Correction as AI Stock Rally Loses Steam - BigGo Finance
+### 34. S&P 500 Falls for Seventh Straight Session, Enters Correction as AI Stock Rally Loses Steam - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-21T05:55:00+00:00
@@ -335,16 +345,6 @@ Wall Street ends sharply lower on AI selloff, S&P 500, Dow in correction Investi
 - Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5Hdkp5Tk9WRnBlM2JHeEVLZkd5bGkxNnA1T1FkZWp5YWJkTlBFOVVFMFI0NktSVHdocnp1V0hUNmFUZnJpMWlmaU50NlRVWm42SG9sam5fZk5DTmsyRHpkM2RfTW9pQ3pFa2U2WE1TSnh1bTlBb0E?oc=5
 
 S&P 500 Falls for Seventh Straight Session, Enters Correction as AI Stock Rally Loses Steam BigGo Finance
-
-### 34. Gold price continues to fall as AI selloff, rate-hike bets weigh. What’s ahead? - BusinessLine
-
-- Source: BusinessLine
-- Published: 2026-11-21T05:20:16+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMi3gFBVV95cUxQNEZXNkJwRG5PRkY1U0w3TnR0Z0hYNXhxU2NEQURCeGpSTG1VUUlLOFhGcFpyaVNBMy1DaWVuSEJRaU13eVZvQXJTcGJXZ2p2al9nQnJQTmxnNjFLTHZWTFJjYkpuZXJFVElHeVVCb3VrQTU5MEhya1FIU1QwWk1OWUZsWGNkaGdfVkd4cnBtNENyVmZydXZhOHZfb1JmSjJjRGxrdERoZl9Jd3dYeVdFZlQtd0M3cFRhR2R5OHFjQVRwbDEyWVJOUkhEYU9ISHgyZjNMSmQwMjRaM1dnN2fSAeQBQVVfeXFMUENlMlBzODVGdlF2ZkZ6UUNhMm9NcEk1eHFCX1Y5Q1J5LWhFbVN5NXNNRmg0UVVvYmRkT01Qdk5rMUVrRms0MzVzS0ZjZ05YQm9UZ21NZFZGTW9DcnV6dGRPRVpIQ01XSDJ0ZXViNlNZd1JVYzR6NTY3dEtOcUZFbnpCMDlvcVBhV1F6eTFDNE1UbGdrZWNPV2NnWkpjd2RRYVctaXViVG9FWXFaZEtjUHV5NjdpenI1b3pKVTJmVDhabFpQdmxDdTNQN3poYTBKWUN5OGlodE9mZ0FpY3lHM2RIVy1Z?oc=5
-
-Gold price continues to fall as AI selloff, rate-hike bets weigh. What’s ahead? BusinessLine
 
 ### 35. Market outlook: S&P in correction as AI falters, plus Anthropic IPO, Australian job data and NZ recovery - BusinessDesk
 
@@ -456,17 +456,7 @@ AI Fears Drive Market Selloff as VIX Closes at 36 Wisevoter
 
 Anthony Pompliano: AI-driven selloff, cyber attacks and Anthropic IPO discussed Traders Union
 
-### 46. The AI Correction Trade Arrives | The Wall Street Journal - newspaper - Magzter
-
-- Source: Magzter
-- Published: 2026-11-21T17:37:39+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMingFBVV95cUxOOUU1aUtLQ2Nod3k4bENvVVRKd3R0Ujc3Szk1R1RJOWRMNDBSVDJfVHMtcGUyQTV0MXZ4dzgydHVoOWhfazB6emNJN0lvYWYzcDczTm5WQW9PRnBMSi1neTUzY1dabWxnYWYtc0xQTWdoME9hTEE5S3J2QmpBYTdvdURiSEpiZDUtZnhkUnFuSUNjTDh6cHZveVNESnQwUQ?oc=5
-
-The AI Correction Trade Arrives | The Wall Street Journal - newspaper Magzter
-
-### 47. Stock market enters correction territory Friday amid growing investor fears about AI stocks - CBS News
+### 46. Stock market enters correction territory Friday amid growing investor fears about AI stocks - CBS News
 
 - Source: CBS News
 - Published: 2026-11-21T16:50:00+00:00
@@ -476,7 +466,7 @@ The AI Correction Trade Arrives | The Wall Street Journal - newspaper Magzter
 
 Stock market enters correction territory Friday amid growing investor fears about AI stocks CBS News
 
-### 48. S&P 500 Stocks Fall 8.6% in a Week as AI Shares Slide - JournalArta
+### 47. S&P 500 Stocks Fall 8.6% in a Week as AI Shares Slide - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-21T16:48:32+00:00
@@ -486,7 +476,7 @@ Stock market enters correction territory Friday amid growing investor fears abou
 
 S&P 500 Stocks Fall 8.6% in a Week as AI Shares Slide JournalArta
 
-### 49. Nasdaq Erases 2026 Gains as AI Selloff Hits Wall Street - Limapagi
+### 48. Nasdaq Erases 2026 Gains as AI Selloff Hits Wall Street - Limapagi
 
 - Source: Limapagi
 - Published: 2026-11-21T16:11:04+00:00
@@ -496,7 +486,7 @@ S&P 500 Stocks Fall 8.6% in a Week as AI Shares Slide JournalArta
 
 Nasdaq Erases 2026 Gains as AI Selloff Hits Wall Street Limapagi
 
-### 50. BSE SENSEX Today: Sensex Falls to 81,592.45 as Nifty Ends at 25,144, Snapping a Winning Streak - BBN Times
+### 49. BSE SENSEX Today: Sensex Falls to 81,592.45 as Nifty Ends at 25,144, Snapping a Winning Streak - BBN Times
 
 - Source: BBN Times
 - Published: 2026-11-21T16:10:29+00:00
@@ -506,7 +496,7 @@ Nasdaq Erases 2026 Gains as AI Selloff Hits Wall Street Limapagi
 
 BSE SENSEX Today: Sensex Falls to 81,592.45 as Nifty Ends at 25,144, Snapping a Winning Streak BBN Times
 
-### 51. S&P 500 Outlook Weakens as AI Sell-Off Hits Stocks - Peradaban.id
+### 50. S&P 500 Outlook Weakens as AI Sell-Off Hits Stocks - Peradaban.id
 
 - Source: Peradaban.id
 - Published: 2026-11-21T15:26:39+00:00
@@ -516,7 +506,7 @@ BSE SENSEX Today: Sensex Falls to 81,592.45 as Nifty Ends at 25,144, Snapping a 
 
 S&P 500 Outlook Weakens as AI Sell-Off Hits Stocks Peradaban.id
 
-### 52. Wall Street sell-off drives portfolio buying as AI stocks stumble - Traders Union
+### 51. Wall Street sell-off drives portfolio buying as AI stocks stumble - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-21T15:10:34+00:00
@@ -526,7 +516,7 @@ S&P 500 Outlook Weakens as AI Sell-Off Hits Stocks Peradaban.id
 
 Wall Street sell-off drives portfolio buying as AI stocks stumble Traders Union
 
-### 53. Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff - 24/7 Wall St.
+### 52. Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff - 24/7 Wall St.
 
 - Source: 24/7 Wall St.
 - Published: 2026-11-21T14:44:00+00:00
@@ -536,7 +526,7 @@ Wall Street sell-off drives portfolio buying as AI stocks stumble Traders Union
 
 Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Selloff 24/7 Wall St.
 
-### 54. Global Stock Markets Plunge as AI Sell-Off Spreads - STL.News
+### 53. Global Stock Markets Plunge as AI Sell-Off Spreads - STL.News
 
 - Source: STL.News
 - Published: 2026-11-21T14:42:46+00:00
@@ -546,7 +536,7 @@ Michael Burry Says ‘I Told You So’ as Wall Street Caught Off Guard by AI Sel
 
 Global Stock Markets Plunge as AI Sell-Off Spreads STL.News
 
-### 55. AI selloff drags S&P 500, Dow, and crypto marke... - Pluang
+### 54. AI selloff drags S&P 500, Dow, and crypto marke... - Pluang
 
 - Source: Pluang
 - Published: 2026-11-21T14:24:44+00:00
@@ -556,7 +546,7 @@ Global Stock Markets Plunge as AI Sell-Off Spreads STL.News
 
 AI selloff drags S&P 500, Dow, and crypto marke... Pluang
 
-### 56. Nvidia Stock Falls More Than 35% From Record High - JournalArta
+### 55. Nvidia Stock Falls More Than 35% From Record High - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-21T14:08:18+00:00
@@ -566,7 +556,7 @@ AI selloff drags S&P 500, Dow, and crypto marke... Pluang
 
 Nvidia Stock Falls More Than 35% From Record High JournalArta
 
-### 57. Anthropic Shares Drop 8.5% in Second Session During AI Selloff - Unite.AI
+### 56. Anthropic Shares Drop 8.5% in Second Session During AI Selloff - Unite.AI
 
 - Source: Unite.AI
 - Published: 2026-11-21T13:52:03+00:00
@@ -576,7 +566,7 @@ Nvidia Stock Falls More Than 35% From Record High JournalArta
 
 Anthropic Shares Drop 8.5% in Second Session During AI Selloff Unite.AI
 
-### 58. AI selloff drags Nasdaq to worst week since 2020 - https://streamlinefeed.co.ke/
+### 57. AI selloff drags Nasdaq to worst week since 2020 - https://streamlinefeed.co.ke/
 
 - Source: https://streamlinefeed.co.ke/
 - Published: 2026-11-21T12:57:33+00:00
@@ -586,7 +576,7 @@ Anthropic Shares Drop 8.5% in Second Session During AI Selloff Unite.AI
 
 AI selloff drags Nasdaq to worst week since 2020 https://streamlinefeed.co.ke/
 
-### 59. Nasdaq Drops 10% as AI Investment Fears Grow: Explained - JournalArta
+### 58. Nasdaq Drops 10% as AI Investment Fears Grow: Explained - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-21T12:36:27+00:00
@@ -596,7 +586,7 @@ AI selloff drags Nasdaq to worst week since 2020 https://streamlinefeed.co.ke/
 
 Nasdaq Drops 10% as AI Investment Fears Grow: Explained JournalArta
 
-### 60. SanDisk and Micron shares fall as AI stocks sell off - JournalArta
+### 59. SanDisk and Micron shares fall as AI stocks sell off - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-21T11:40:03+00:00
@@ -606,7 +596,7 @@ Nasdaq Drops 10% as AI Investment Fears Grow: Explained JournalArta
 
 SanDisk and Micron shares fall as AI stocks sell off JournalArta
 
-### 61. S&P 500 Enters Correction as AI Stocks Sell Off - JournalArta
+### 60. S&P 500 Enters Correction as AI Stocks Sell Off - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-21T11:20:13+00:00
@@ -616,7 +606,7 @@ SanDisk and Micron shares fall as AI stocks sell off JournalArta
 
 S&P 500 Enters Correction as AI Stocks Sell Off JournalArta
 
-### 62. Kobeissi Letter Calls AI Rout a Correction, Not a Popped Bubble - TradingView
+### 61. Kobeissi Letter Calls AI Rout a Correction, Not a Popped Bubble - TradingView
 
 - Source: TradingView
 - Published: 2026-11-21T10:56:55+00:00
@@ -626,7 +616,7 @@ S&P 500 Enters Correction as AI Stocks Sell Off JournalArta
 
 Kobeissi Letter Calls AI Rout a Correction, Not a Popped Bubble TradingView
 
-### 63. CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam - The Loadstar
+### 62. CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam - The Loadstar
 
 - Source: The Loadstar
 - Published: 2026-11-21T09:44:40+00:00
@@ -636,7 +626,7 @@ Kobeissi Letter Calls AI Rout a Correction, Not a Popped Bubble TradingView
 
 CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam The Loadstar
 
-### 64. Wall Street reels as AI-linked companies spark massive sell-off in the US - Le Monde.fr
+### 63. Wall Street reels as AI-linked companies spark massive sell-off in the US - Le Monde.fr
 
 - Source: Le Monde.fr
 - Published: 2026-11-21T09:20:07+00:00
@@ -646,7 +636,7 @@ CNBC: S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout pi
 
 Wall Street reels as AI-linked companies spark massive sell-off in the US Le Monde.fr
 
-### 65. Gene Munster Says AI Sell-Off Is About Fear, Not Fundamentals — ‘The Window For Investment Gains Remains Open’ - Yahoo Finance
+### 64. Gene Munster Says AI Sell-Off Is About Fear, Not Fundamentals — ‘The Window For Investment Gains Remains Open’ - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-21T08:56:21+00:00
@@ -656,7 +646,7 @@ Wall Street reels as AI-linked companies spark massive sell-off in the US Le Mon
 
 Gene Munster Says AI Sell-Off Is About Fear, Not Fundamentals — ‘The Window For Investment Gains Remains Open’ Yahoo Finance
 
-### 66. Nvidia Share Price Falls 46% in Seven Weeks as $2.6 Trillion Rout Pushes Stock to Fourth Place in Market Cap - Kotak Neo
+### 65. Nvidia Share Price Falls 46% in Seven Weeks as $2.6 Trillion Rout Pushes Stock to Fourth Place in Market Cap - Kotak Neo
 
 - Source: Kotak Neo
 - Published: 2026-11-21T08:31:52+00:00
@@ -666,7 +656,7 @@ Gene Munster Says AI Sell-Off Is About Fear, Not Fundamentals — ‘The Window 
 
 Nvidia Share Price Falls 46% in Seven Weeks as $2.6 Trillion Rout Pushes Stock to Fourth Place in Market Cap Kotak Neo
 
-### 67. Taiwan Moves To Rein In Short Selling After AI-Led Selloff - Finimize
+### 66. Taiwan Moves To Rein In Short Selling After AI-Led Selloff - Finimize
 
 - Source: Finimize
 - Published: 2026-11-21T08:12:55+00:00
@@ -676,7 +666,7 @@ Nvidia Share Price Falls 46% in Seven Weeks as $2.6 Trillion Rout Pushes Stock t
 
 Taiwan Moves To Rein In Short Selling After AI-Led Selloff Finimize
 
-### 68. U.S. stocks slump into correction territory amid tech and AI worries - The Washington Post
+### 67. U.S. stocks slump into correction territory amid tech and AI worries - The Washington Post
 
 - Source: The Washington Post
 - Published: 2026-11-21T06:26:59+00:00
@@ -686,7 +676,7 @@ Taiwan Moves To Rein In Short Selling After AI-Led Selloff Finimize
 
 U.S. stocks slump into correction territory amid tech and AI worries The Washington Post
 
-### 69. Stocks slide as AI selloff deepens, Asia has worst week since 2020 | Gulf Today - newspaper - Magzter
+### 68. Stocks slide as AI selloff deepens, Asia has worst week since 2020 | Gulf Today - newspaper - Magzter
 
 - Source: Magzter
 - Published: 2026-11-21T05:40:34+00:00
@@ -696,25 +686,35 @@ U.S. stocks slump into correction territory amid tech and AI worries The Washing
 
 Stocks slide as AI selloff deepens, Asia has worst week since 2020 | Gulf Today - newspaper Magzter
 
-### 70. Bought gold on Diwali? Prices fall 12.9% in a fortnight: Check today's value of your 22K and 24K gold purchases in India - Livemint
+### 69. Equity LTCG tax abolition: Will scrapping capital gains tax boost FPI inflows, mutual fund investments? CA explains - Livemint
 
 - Source: Livemint
-- Published: 2026-11-21T05:34:25+00:00
-- Themes: market selling, India market
-- Score: 6
-- Link: https://news.google.com/rss/articles/CBMikgJBVV95cUxQQ0FQd3AzYXJGZHY2b3dXQm13V1pPUmRlSVFTcHZ6XzIwUGF3RUpHQWhyREFUS3pmd0N5R1hvOTlKNi1JUUxTUmZVX2RDcVlldFpqdjlTd3JxckZOQWxHcWlVTXkxa00teW5TLVZyN1lRU2RnaW1YS29NVjIxamtNaFh0dlhBYlRfaF9tb09PVk5lNk5tTW9fOEpSWHFKZC1tc3VVRjZQT2xGQ1d0djBfRmRDZ1FGY3ZhWE10WjlFelZWcmdaM2RsdjJWZTZZZVhjQlRXRUluYVV6b1ZISFdHcHFpLVplS3RFelFPdHRlWnJ5S1ZYNXctdk42MnN4VTdSajFXU1JXeFAxRjNPN0cwTjFR0gGXAkFVX3lxTE1SWVRWZkhGMkNsMTA4eTFBeWtQZS1tejZqOVcxQlZzVWFOUjhXV1l3ZU9WWWFobDJPX3p4dW9DMU91cDZLRl92N3J3Q3N3NGdFV19sZWk3bHdZbTUxX3l4MkRnUm9VSE4zbmRvLXR5akdGTXl1NFVoRmZrcEk4S05fRHFNak9WVnphLTZDSTBBZ01ZcTk0S1VfR1dHcmM4UXBzRTN1RWs2UVpLNFM0YkhqalR3ZUh6TEs5VHFtQy1DTE9OR1JyWGVYVFFHT2lrdWFUX3FVbG9Gd3Zwb1RmTDlHUy05RUNTZHdkTFZyaEJQR1J6VUNRMXBfckZpR2JQRE1LRlhPVU5YbVpHZmxhblJvV2dPVlJnSQ?oc=5
-
-Bought gold on Diwali? Prices fall 12.9% in a fortnight: Check today's value of your 22K and 24K gold purchases in India Livemint
-
-### 71. FIIs reassess India's valuations, not its growth story: DSP Mutual Fund's Sahil Kapoor - Fortune India
-
-- Source: Fortune India
-- Published: 2026-11-21T07:48:41+00:00
+- Published: 2026-11-22T05:05:09+00:00
 - Themes: India market
 - Score: 5
-- Link: https://news.google.com/rss/articles/CBMixAFBVV95cUxQbDd3cFgwWUl5VW1zMFlHMWhDQTJCWGpCZlBKM0NxMkduZ1owN0lmT0Y1QUw5dXVqU3haZWFOUDRGZDZVQmJNeXdoWF9qN3k1MlZQaS1GQzE0YjNjVXdfZzVjbFcyZkFPcG1wSDdSV2p4ZVV4TjBUbkRFai1paEdubXcxVW1QS1ZMMFpYcWZ0eTZqSnVkUkhXQVUzdGR6NnJOZENHNi1iY2F6SlVTUmlzdHhmS00tWFlac3R1U1dtSWFIQWFY0gHSAUFVX3lxTE9nT19Ra3dHQnM4QlBpN0FYblVub2NXeUR4NVBKTHVwZk55bmlwUlNndG5BTW85TzdrbnpkUWZrdmF2bG11Mm9NdFduOGhqMVRsS3piMHVrVy0xQmVPWlMzOV9rd0Vzc2J4ZGtvR2tSMVRDN0VrZzd5MUZMb2VVU04xcEdvZjdLbDdzV3hXOG9jQTdFa1h3N2xKTlp0RkRqMTAyTDBoR1hBVkVHNHZBQjgtQjMyeGVZYzdiU2dHcE9rQmpray1ZM25OODJxakVoZklpZw?oc=5
+- Link: https://news.google.com/rss/articles/CBMijAJBVV95cUxPMTZLM09xTWVtaFN2T2FrSmttSUxLbkhhMkYwaEdmcmlpTXkyUjNNNy1QQXI0bWxoeVZuOVFLZzBwN01EakdRTmhNSDhKVEZwM2VhZHRfSk9TN09landZSURLOUU0ME1nU1lBWGE2X2lhd0N0RFgtWjNWYWpoYzliN3hhbjZQamRjU05xblFhNXBUQWtaTTFJWjJ1al9oMFF0Z3o1bUtCUUYxWlNGczhVUnFmbkdkUjdFcFd6YzdGZ2p0VGRCLWdmcVR1czZZeWdVUnNyZnNNc1E2ckJsXzJSWW5Vd2txc2xMWW9zSnJueDBDMHZRTmhOd0VHMTZBMzhJQlYyME40YzN6cHU20gGSAkFVX3lxTFA1VjhFM3dSVXdoaVRhSk1KeWt3eXhydlRuU001TEZJMTd1UVFNM19KOVhQalpiSU9OdmpnamFUUzVzMUY0OHBrb3AzTGxlLXdPaG5Rc3g3MFZOclBFRWM5U3pMN09VRTZpeTNMWnJzR2RrNktjR1ktWHRqaXNBT19jOHFMdTFISXI2LXl2dFhkT0pzX1pOcjZjX0ZxYTV0TVkxYXJzQ3RHaDVoSDltQzlPQkpodzYyVVRGQUhDUk81RHZkTDVVdFJJR0lETHROdjIteVVxcTh6cU9zRjFGQnBNdFdRM21TVXMxUVY1NWxBTlU3bXI2N2pFd2NJaFhwa09KYzlmLWdYekgtOFdvZkhsbnc?oc=5
 
-FIIs reassess India's valuations, not its growth story: DSP Mutual Fund's Sahil Kapoor Fortune India
+Equity LTCG tax abolition: Will scrapping capital gains tax boost FPI inflows, mutual fund investments? CA explains Livemint
+
+### 70. Mutual fund NFOs: 5 new funds open for subscription this week. Check dates and key details - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-22T05:36:29+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNWRfNDVOd2NSRXNIWkVMU2FRRWZWalB3WDdwYVdzSDdQYXJ6ckFNYVBsVUsyR1dSZThjRHM3bUhteUh4R1VBQkNrSXVqaWQ0RWNId0JkV3BaeVNjX1RXV0doOFM3emhQRkQyUmU5REZIVjhFaE1obVBPMVduR25fUmdOUUE5MV9tenlYaTdxZFE2blJpX21nSkJMb3c3X2tYTnI5NEN0YXhWOG5USzZSRVFUYl9MZzJ1Y1Q2Tm16SEZUT3FEUXpfMXFvck54bzluZVg4TnpldThqU2tRM3d5R0FCNGNQY28?oc=5
+
+Mutual fund NFOs: 5 new funds open for subscription this week. Check dates and key details The Economic Times
+
+### 71. Why mutual fund investors should rethink long-term investing beyond the LTCG clock - Upstox
+
+- Source: Upstox
+- Published: 2026-11-22T03:37:07+00:00
+- Themes: India market
+- Score: 4
+- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0xKQlBGR3FnemxZOHNIZ3JCbWZXQnhKS3ZwNTNGdEJHM0FuOUtlTDFPU2FtdnNCM1JxYXJnV2k3T0JuQklRdnJBdUJmZ1psbUNSU1BtRW1mR1dRbllZR25pM3h3Rl9MdmFmeGozV3VlVklNc0ZyM3R0QmlpQVQ4dWZaRTVpR2VZV3FpYjRwVDM5N1otTTVnSXRsZlVpWVRaT09pSEY2QWRHUjQ0ZWRwY0EtMjVRbjE5RHdPUDVaUWNMQzVzaVN5MVNuTXlncDRZaFRzaUdYVnlLLUU2MEgzd2k2d1oxbnM?oc=5
+
+Why mutual fund investors should rethink long-term investing beyond the LTCG clock Upstox
 
 ### 72. Sensex, Nifty slide nearly 1% as crude oil prices surge amid Iran conflict - DD News
 
@@ -739,10 +739,10 @@ Chasing hot themes, hypergrowth stocks or multibaggers? Why Rajeev Thakkar of PP
 ### 74. PPFAS and Quant Mutual Fund among 6 mutual funds with over Rs 10,000 crore cash in their portfolio in October - The Economic Times
 
 - Source: The Economic Times
-- Published: 2026-11-21T09:22:25+00:00
+- Published: 2026-11-21T09:42:22+00:00
 - Themes: India market
 - Score: 4
-- Link: https://news.google.com/rss/articles/CBMijgJBVV95cUxQUXkzTFoxRmFjaVdBdGhBQ0hoYWNOUG9UeUZuMHNJZ040a01HXzE1ZnIzM2pMQUZ6VmtFQVhVNEFXbXhfTFVfdUVjM0REYWdrbC12VUJpTnNZOEZVWlBOdzF5VTdsQlhUVWZmRXNvZzdzTXh1NkdXbWJEd0RaSnprUVRpTy15VzJkQkFyUTFYY2pWNmNWV2dlS0wwaDd3Z3FxUnBsY080cnZya3NmZXBlOThVOWNiUmI1LVcxanpwZG5aTU85ZmFqSmVxZ2QzcFZTeHhhbnB4U2xkVmZON0w5YWRCZ0FVQjVFU1YxSHBaZWdCdXpRYVdLdE5vVXZDVTh1cDlLc2stMzhYY3hQZUE?oc=5
+- Link: https://news.google.com/rss/articles/CBMiggJBVV95cUxPSURjdjdtOW4wZ1lGa0Ewa09BZ1BDTzJuRVF5WnQ1TGJvNTRQc1VYaHU2RVZZWU9DZlZ0blJIZEVDZmpEUUFCSDBKb2F5VjM2YTdFWk50anVsNmFvaTc2UDE2V2lDWFZWR1E4X01RVU9keDFWT3F0UklVTzFjN3VCVGhBZEVkZWlONUJfS2tpZERRbkk0ZXUzdkd4OHVWNl9RZk1QZUl3czBlbFZrOFZuR1hLOFdxQlBzOUdiMV9FN1RIa2trUHlVNVlYc09qU3dhSlBIWV9JNmVST3RMN0Q5ajhPTkc0MlR3eXF0Y0liLWtJQjJSYWp0TkNhM2hIRVZLNmc?oc=5
 
 PPFAS and Quant Mutual Fund among 6 mutual funds with over Rs 10,000 crore cash in their portfolio in October The Economic Times
 
