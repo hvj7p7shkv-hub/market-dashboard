@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22 09:41 IST",
+  "generated_at": "2026-11-22 10:10 IST",
   "wire_file": "2026-11-22-ai-market-wires.csv",
   "data_quality": {
     "index_downloaded": 25,
@@ -24,7 +24,7 @@
   "posture": {
     "stance": "Risk-off, AI-led",
     "wire_count": "18",
-    "wire_total_count": "141",
+    "wire_total_count": "138",
     "wire_scope_date": "2026-11-22",
     "ai_wire_count": "10",
     "selling_wire_count": "15",
@@ -34,7 +34,7 @@
   },
   "narrative": [
     {
-      "label": "Newest Wire · 2026-11-22 04:03",
+      "label": "Newest Wire · 2026-11-22 04:17",
       "title": "Market outlook: S&P in correction as AI falters, plus Anthropic IPO, Australian job data and NZ recovery - BusinessDesk",
       "text": "Latest dated headline · BusinessDesk. Today's unique wire set contains 18 headlines; the cards below are recalculated from this same set."
     },
@@ -4291,8 +4291,8 @@
         "matched": true,
         "scheme_code": 152842.0,
         "scheme_name": "Nippon India Nifty 500 Equal Weight Index Fund - Direct Plan - Growth Option",
-        "nav": 10.0454,
-        "nav_date": "2026-08-06",
+        "nav": 10.0545,
+        "nav_date": "2026-08-10",
         "return_1d_pct": -0.93,
         "return_5d_pct": 0.92,
         "return_20d_pct": null,
@@ -4304,8 +4304,8 @@
         "matched": true,
         "scheme_code": 152875.0,
         "scheme_name": "Motilal Oswal Nifty 500 Momentum 50 Index Fund-Direct Plan-Growth",
-        "nav": 8.4205,
-        "nav_date": "2026-08-06",
+        "nav": 8.5018,
+        "nav_date": "2026-08-10",
         "return_1d_pct": -1.65,
         "return_5d_pct": 0.82,
         "return_20d_pct": null,
@@ -4317,8 +4317,8 @@
         "matched": true,
         "scheme_code": 153161.0,
         "scheme_name": "ICICI Prudential Nifty 500 Index Fund - Direct Plan - Growth",
-        "nav": 10.7262,
-        "nav_date": "2026-08-06",
+        "nav": 10.7339,
+        "nav_date": "2026-08-10",
         "return_1d_pct": -1.34,
         "return_5d_pct": 0.29,
         "return_20d_pct": null,
@@ -4330,8 +4330,8 @@
         "matched": true,
         "scheme_code": 118955.0,
         "scheme_name": "HDFC Flexi Cap Fund - Growth Option - Direct Plan",
-        "nav": 2297.6,
-        "nav_date": "2026-08-06",
+        "nav": 2298.07,
+        "nav_date": "2026-08-10",
         "return_1d_pct": -1.28,
         "return_5d_pct": -0.02,
         "return_20d_pct": null,
@@ -4343,8 +4343,8 @@
         "matched": true,
         "scheme_code": 130503.0,
         "scheme_name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
-        "nav": 163.991,
-        "nav_date": "2026-08-06",
+        "nav": 163.491,
+        "nav_date": "2026-08-10",
         "return_1d_pct": -1.11,
         "return_5d_pct": -0.27,
         "return_20d_pct": null,
@@ -4390,7 +4390,7 @@
         "return_60d_pct": null
       }
     ],
-    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-07-mutual-fund-navs.csv",
+    "source_file": "/home/runner/work/market-dashboard/market-dashboard/data/mutual_fund_navs/2026-08-11-mutual-fund-navs.csv",
     "count": 8
   },
   "nifty50_rotation": {
@@ -21924,7 +21924,7 @@
     }
   },
   "live_market": {
-    "generated_at": "2026-11-22T09:40:50+05:30",
+    "generated_at": "2026-11-22T10:10:06+05:30",
     "data_layer": "Live/delayed raw LTP versus official previous raw close",
     "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
     "tracked_screen": {
@@ -34258,6 +34258,15 @@
       "description": "Nvidia stock crash: Record market cap wipeout deepens global tech sell-off; shares plunge 14%, Alphabet overtakes chipmaker IBTimes India"
     },
     {
+      "published": "2026-11-21T06:11:37+00:00",
+      "score": 10.0,
+      "themes": "['AI / tech risk', 'market selling', 'macro / flows']",
+      "source": "Livemint",
+      "title": "Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5% - See who wins in earnings, valuation? - Livemint",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPRUlRMHdFNVBfZjk5cWZnT2k1Wm5CMlZMY25WUElKZzJaN2FqZEREcmRVVHVENHRyTkhnSXJZdHhqb01tSWRyczJEbFBXX1lydWI0SW54RlZadHN2Uy1WdjNjQzZ1VGlRbUtpMjVUT2RUdGU3TXNyOTFRQmJYcWFqR0tfb1BuNTVJSUJSUW5JNEcwOXlSd3Y2ZEVmZVlXY2lJMkdSb0dBZHB0aDlSNE42LTZrei1VN25zbzVXbUxTbnpaM3QtckVQM3QzWkJ0RVlQa0dyR0V3M0R2eUxPbGM3Rk0xX3dfV1FoejhEa0NZSlNEYkd5S09vQ25kWU0tVHNPN3ZKX3dFVm96eWZ4NG03dNIBlgJBVV95cUxNdy1VWnUwb0pHa0ttSTJvTzhyOXVNNFV3ZnNEcGZ0amNOTkt3SW5WVGU0NDFvZERlYUY2YWVEY1hmR25PVEFGNkRkWGdRQTRwWEthazJqWmxQOWZPNnFSSnB1TFdCanNUc3FhQkNwZ1NiWHBraHZUemFGTndJMUtnaXVIZlVYNlZZNmRRY0FDdm9oc3NnTEthejROS3NGT0VLS2x2a1dVZFhJOWowdklmbVlrQWFDbHBBM1pCRk45NjZaUXZXSE9tdHl4YWduSFQzTW11X1laWjFBTENwRmNyOXBiU2w3V1lQeWtKWE9nMWlJV1h2OEYyQnlvMDBPTEt4ZUJQbmZBVnZsbjJsR2JFaENsOExRQQ?oc=5",
+      "description": "Nvidia vs Anthropic shares: AI chip stock tanks 14% while Claude-maker falls 8.5% - See who wins in earnings, valuation? Livemint"
+    },
+    {
       "published": "2026-11-21T22:50:00+00:00",
       "score": 9.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -34528,16 +34537,7 @@
       "description": "Gold price continues to fall as AI selloff, rate-hike bets weigh. What’s ahead? BusinessLine"
     },
     {
-      "published": "2026-11-21T04:20:30+00:00",
-      "score": 8.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Times Now",
-      "title": "Nvidia Stock Slides, Falls Behind Alphabet In Market Value As Selloff Continues - Times Now",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOXlBelUyLVd5SGhLZElzTUh4bWI3VUN1cUFCMU1Lakh6SDVvaGhDanJwUm9RVll3QXBsWnRGdkg0ZnItMFQ3YWtLRGlaN0o5MUc1dEFmeEtlT01FS2lGSTJkSV92ZmdzRFFUOGNxS3RUQmJuTXRPdGUxMzd4QWVTOHM4NTlXa2tfeFFCd1J4dE92c3l5Mkd4ZmVzVEt6TlpSeW1heDR2ZXR5Z0k3MW1obkQyM1F6RkttS29YNldIUFBGaUxyZm9nUHlVbnhTRW9lQkxsLVF6eDM2a255TFJwQkltTHLSAeoBQVVfeXFMUHFnRmFYWjUtQU1td3h3VjJtTmZwdEF0TWhMM0Zudl9KM3EtWlA5SzN1MTFGRkR1Z05PMmdxSUxlVl9DSm9taVVWb3o3bmhFMWpaSGgwSTgzM1ZVMGJCYTRBaGxEc0l2c2FPR2NueEFsWDF3enBkRmloSmtUY1VfckxZZThWMVM1WHpsMlJlMS1sNnF4dHFPLWY4MDVzR3V3Tmtid0Jhd2tFbi1yTlM5Z1NGY3RRYktTZVFRdzFQS1Q5SC04VlZ0ME1YYkVlRWtmSFdTUzNZc08xd3RFUDZHLXVhdENoVVE2b3pn?oc=5",
-      "description": "Nvidia Stock Slides, Falls Behind Alphabet In Market Value As Selloff Continues Times Now"
-    },
-    {
-      "published": "2026-11-22T04:03:07+00:00",
+      "published": "2026-11-22T04:17:07+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
       "source": "BusinessDesk",
@@ -34744,6 +34744,24 @@
       "description": "AI selloff drags Nasdaq to worst week since 2020 https://streamlinefeed.co.ke/"
     },
     {
+      "published": "2026-11-21T11:40:03+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "JournalArta",
+      "title": "SanDisk and Micron shares fall as AI stocks sell off - JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaV8tTEZuV0xkYmdqZDU4Mlp5bVJOU25wOU5iZlNHS1c1LVkwd2pjVzl5Mmw3Sy1QRnhLdFdhWG03YnlyejNPRTRoQWpadVZOTVJvYVNySXN2cUZ5TllPYjJLNVd1cVlObDM2VEVfSnZ6TlFIdFF5LTZsMVNsRnYzLUZkaGdYalU?oc=5",
+      "description": "SanDisk and Micron shares fall as AI stocks sell off JournalArta"
+    },
+    {
+      "published": "2026-11-21T11:20:13+00:00",
+      "score": 7.0,
+      "themes": "['AI / tech risk', 'market selling']",
+      "source": "JournalArta",
+      "title": "S&P 500 Enters Correction as AI Stocks Sell Off - JournalArta",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNnc3S0M5bm5ITDU4OXU2cU9MZXZvTkwzVUtlUGZzUmh4T083SXR1cDdyc0xqQkY0TzlRa1pyQnMyLXIxVXhlTTM0a2ZhcURJSUlVeGlBUXc4UW1ob2kxYkp4V1M4dktQT3lYNUM4VVd0UlItajB2NFBXSnE2VWFLX2V3?oc=5",
+      "description": "S&P 500 Enters Correction as AI Stocks Sell Off JournalArta"
+    },
+    {
       "published": "2026-11-21T10:56:55+00:00",
       "score": 7.0,
       "themes": "['AI / tech risk', 'market selling']",
@@ -34832,15 +34850,6 @@
       "title": "Nasdaq slumps more than 5% as fear gripping AI trade spreads across markets - The National",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WVUR3QjJVMXU1aEcxbjJGclVTS2hGYk8xX2Y4ZjUwQkJSX2dlMlUzaERSWEd5SmdjTl9QX0xXVTZxMkUtOV9DV2RvaW00ZHp3QmdLZEZyMXowS1F5ai1KcHA2Y0dmSk9LWWVKMlpiYlBDN2ViVnJWeC10NHJCemM?oc=5",
       "description": "Nasdaq slumps more than 5% as fear gripping AI trade spreads across markets The National"
-    },
-    {
-      "published": "2026-11-21T04:23:00+00:00",
-      "score": 7.0,
-      "themes": "['AI / tech risk', 'market selling']",
-      "source": "Moneycontrol.com",
-      "title": "From No. 1 to No. 4: Nvidia falls behind Apple, Microsoft and Alphabet as shares tumble - Moneycontrol.com",
-      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOSC13YndDZ2dLTHEydjVTNE93WF8wOGo1Zl9EVklybHhoNkhuUXR6bVdOcmVpaTdoY3NtSklnRTJhNF9tV1EyazBPV0pOSmoweWotX1ZGWUNWZzM4T1YyUGdiVl9PTGliaDBrRUtPY2lwWkcxSmk5UjBrUVYzYnFMMXlkUHlBdHYweVV6cVczMVhnX0dBSjZ0ZXNMcGQ1Njd2MFRaWERQT3RoQ2NZOTk1ZmtOZGNKNGdOdDZORW0xZlFqVW9xSDkyX3FOZGdiaDluX0QyTFdFWdIB3AFBVV95cUxORkM1b004VGFkTmRGdWF2eEFwYUtXb1lKaHNXTTA3VmxLbWlCdTlGa1VuRnVPTnZvb1hCenREZWo1NDA1VXRkcE1tX3k1MHBLVXR3UzZiN00tWWNXaW8zMjFoOElzQWZGMmJXbXhmYmNUMGdoQUNySlRsMHktb3pSNk52Zm9wQlN3UEI0cGtkRVNNSG9rMlYwV01zSEdseGFUeGcxY05ra0JiLUoyZVljMkwyT2FKbUc4LTMyUGZ5RFNBX0NZSVY1dFAtellyZTFPeG9CcnlNQ2Jjblla?oc=5",
-      "description": "From No. 1 to No. 4: Nvidia falls behind Apple, Microsoft and Alphabet as shares tumble Moneycontrol.com"
     },
     {
       "published": "2026-11-21T05:34:25+00:00",
@@ -34987,15 +34996,6 @@
       "description": "NRI Talk | NRIs are moving beyond deposits to mutual funds and global investing; Belong manages $20 millio The Economic Times"
     },
     {
-      "published": "2026-11-21T06:13:25+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "NOW Toronto",
-      "title": "Holiday Market Sip ‘n’ Shop at the Kimpton Saint George - NOW Toronto",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcVNPLUg1a2VIVUVTVEFzb3EzaXd6RzZ6TldZTWRWWEZQUU9Ma3lDVzVyNF9HRjk1clR6YUV1LVhEUWRuMkF1X285MU82czZ3NUlMYmkyLUNRTHFrYUpMOXBQbWN2MERKbUtYRHQzMU51UVVnQ0U3NlVmVDBlZUY0NHdVOTlPMHBKcjFZV053?oc=5",
-      "description": "Holiday Market Sip ‘n’ Shop at the Kimpton Saint George NOW Toronto"
-    },
-    {
       "published": "2026-11-21T06:12:23+00:00",
       "score": 3.0,
       "themes": "['market selling', 'macro / flows']",
@@ -35021,15 +35021,6 @@
       "title": "Record Foreign Inflows Boost Indian Rupee and Sensex Performance - India News Network",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPeTNaZmhxMURpQU5Ddk8xbEhYWWt6Y0FWY1Z2M3FLdkV1TWtXSzdTVi1aRGZfbERwNHJIbF9JLU5Mb01FQnRvU2k1eUZhWkdIdDNrTWEyRXp5S0tqTWNydW9LcUFkeGdaYmpmMWZDU3dkSnJCek5TOE5LbThoYVRfVWp5VEp0WTNsMFFoaTZZSF83NEtqbFNpLUpmRDBrLVRTbm9Zblc4UE4?oc=5",
       "description": "Record Foreign Inflows Boost Indian Rupee and Sensex Performance India News Network"
-    },
-    {
-      "published": "2026-11-21T04:30:00+00:00",
-      "score": 3.0,
-      "themes": "[]",
-      "source": "The Financial Express",
-      "title": "Man picked bad mutual funds yet built Rs 1 Cr by 29: 5 lessons for investors - The Financial Express",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcU9Gd0dDZGlPSVlzeERDQm45OXZ6a1FPT1BHRkJMWWhlbUxXWVBYOW9uRzJOTEtlZmgyRXZQWG16TTFmbUpyeDF2bENvWU82M0Z3Z0UzUzBPdVdlYWloZWJaNDRvVXhrM0E5SlFjb2Z6eEdGRDBzdkhEdHpjT1puUHpRLXd0aHdJdE5aV0l6UHktamJRSTgtOWkxcjJhY25XMWhiUFVOeXJKM29nRTJLMFJOZlhNNVBfNEVGcmw3aETSAccBQVVfeXFMT0R2Qkd0bXlIMEdtMDAwZTFBbFVOc000R0JXM0tHM3d6Yi0tZ2ZJQ0NwNFBFR0dSQWNGbE0tdFo1VldjVUZSWk10eTFod0lmeWJDNFpjR0dMSHRUODhyRzlQN2ZJT3hKVUYtajFLZ1pUV2JWTFo3N3NISG1WZzBLWm9tV2toOWFIWldKQkhuSWpKbU5BOXB5YktrY1ZiakVpcUItcFh3Z3hyRXlLN092d0ZNeWVaRDVDY0Rwa3A4M0lLd0Y2X2Ixbw?oc=5",
-      "description": "Man picked bad mutual funds yet built Rs 1 Cr by 29: 5 lessons for investors The Financial Express"
     },
     {
       "published": "2026-11-22T03:53:07+00:00",
@@ -35489,24 +35480,6 @@
       "title": "Easy disclosure for FPIs: Sebi proposes scrapping additional norms to attract foreign investors - Telegraph India",
       "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNN0tGcnpSMWdUaUdvYnU5bFNEazhXQTA2ZUpDU05EcWRaME1XQnREenB4UlRsdGM0cEU2NVg3NUt6c0RORDlrSEVBZms1WFJPck5ETVFTb2RmY29XVWZPMlQwRFRqMTd5bHg0NHBJMVN6RmtJX1VMS0pqYXpQU1Z5S2xlaVpKUC1TcEJGdkhfYTBIODRDeFp4T2F2NVlZWUlWRjBPcldmclN2R2FOY2J4cGE5MkFLbjFIQjNfenJtVVY3bGpLTkRrYTVuV2t2clFHRjBHSTJ5SXE0V0ZITGN0OXNvWU83RXJhZXZr0gHrAUFVX3lxTE03S0ZyelIxZ1RpR29idTlsU0RrOFdBMDZlSkNTTkRxZFowTVdCdER6cHhSVGx0YzRwRTY1WDc1S3pzRE5EOWtIRUFmazVYUk9yTkRNUVNvZGZjb1dVZk8yVDBEVGoxN3lseDQ0cEkxU3pGa0lfVUxLSmphelBTVnlLbGVpWkpQLVNwQkZ2SF9hMEg4NEN4WnhPYXY1WVlZSVZGME9yV2ZyU3ZHYU5jYnhwYTkyQUtuMUhCM196cm1VVjdsaktORGthNW5Xa3ZyUUdGMEdJMnlJcTRXRkhMY3Q5c29ZTzdFcmFldms?oc=5",
       "description": "Easy disclosure for FPIs: Sebi proposes scrapping additional norms to attract foreign investors Telegraph India"
-    },
-    {
-      "published": "2026-11-21T04:30:05+00:00",
-      "score": 1.0,
-      "themes": "['market selling']",
-      "source": "Business Today",
-      "title": "Gold & Silver Crash: What Triggered The Massive Sell-Off? - Business Today",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcTliQ3UwNk5XM25rS092R2tGTmZGMEJ0M094V3NhRnVoUkVfdEI3SThEcmdLQWhlRmdoTkYxcUlaQUI5aXBaR2wyTW9pVF9ZVDVOOVB1T3BJa2h2QzRLeXdUa3BpaEd6Rk03OHJSSHJuMlhpQ3M2OThRNWt5RkFyNEc5dVFXbmQyNVctbnpCOVl1VDFNLXhNYWRGTUZ6Rnd6aW5OS1Ryc3p3MGZxbG0xSzI4dEVqLTdEajRqWWtUMzZSMXPSAcgBQVVfeXFMUEdXUklZb2ZJRER5ZGt0bnRBbnBHZFV0WXRtVnZDcFJtOEtIYlgxVmZGeUNvSmpkbUh0ZGtaV0tBa1BsUlAtd2R0elNKc0xoZnJHakNYR0IyTThKbmNGY2d3VS1paDY0NE9zLWtvSl90SkVob3ZGQ0ttT0RXelVtelpuNktjRVY4MTdKUmFLQlp2cEJRTzN4RTR1Ynp1RERJNXlNRWxyemM2MmZDeDl5UVY5QTAwVlVKTVlpN1hYU0kzb2pLYS01YVg?oc=5",
-      "description": "Gold & Silver Crash: What Triggered The Massive Sell-Off? Business Today"
-    },
-    {
-      "published": "2026-11-21T04:29:12+00:00",
-      "score": 1.0,
-      "themes": "['AI / tech risk']",
-      "source": "ETV Bharat",
-      "title": "US Stock Market Crash: Nasdaq, S&P 500 Tumble; Is the AI Bubble Finally Bursting? - ETV Bharat",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcXJXYVN1a1gwSzRLQ2d6eHY1MUlVNUw4MExlWTl0b0s1NzZsTG1GdjRmdWwycTV2bzI5SXNCRllqUXBKYUNidlFXV043ZkNxQ1JZY3FPb3RvUWhaT1hqS3dZYzlhQXpXblV1NG5lc2E3OWktZXNfMUlDOUtWS0RsXzNPeC1jQkphRWhNWjJZendOTnpYOGUzbHdnVVpMM19TeXRyNTRFM3o5VXZDNjNSRkJ0MW1UMHdwSFRHeU1kRTg5cXV4U0FjZTdtY2FFNFB3T0pYZkF5T2doeVJQWFRiNV9iVdIB6AFBVV95cUxNakpyTC1xdlZVcjByVnkzQ2MxaTNLR1l0Z0MyVU1Db0NabkxqQmFhVFY2MmI2MkxFRWx0d1JuaU1iSjVZQzl3V25aZkJfdUdPbF9zVnpwSE9XTHZZaWJNdjNCZlhoSGluT091Z3JyUDg0MUMxOE9DRldvd0FLWU5zS0ZleWlnaGl4NElyUlplRUI2SS04S1BxbFo2RE5FRlRSRHpnN2dzSWxwVVIyQXQ4VURiY3QzY2RoMjRsOW5rZXJ4T25CUVpEMnVpRjJaak4yWVoxZzdrMndyXzduV3JPY0Zfb25xYmhz?oc=5",
-      "description": "US Stock Market Crash: Nasdaq, S&P 500 Tumble; Is the AI Bubble Finally Bursting? ETV Bharat"
     }
   ]
 }
