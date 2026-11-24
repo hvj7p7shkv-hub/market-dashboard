@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T14:11:01+05:30",
+  "generated_at": "2026-11-24T14:40:36+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
@@ -1642,9 +1642,9 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 499,
-      "coverage_pct": 99.8,
-      "advancers": 133,
+      "downloaded_count": 500,
+      "coverage_pct": 100.0,
+      "advancers": 134,
       "decliners": 363,
       "unchanged": 3,
       "ad_ratio": 0.37,
@@ -1652,10 +1652,10 @@
       "down_turnover_share_pct": 69.7,
       "high_volume_decliners": 19,
       "intraday_quotes": 498,
-      "daily_fallbacks": 1,
+      "daily_fallbacks": 2,
       "as_of_date": "2026-11-23",
       "as_of_timestamp": "2026-11-23 15:25 IST",
-      "stale_rows_excluded": 1
+      "stale_rows_excluded": 0
     },
     "sector_breadth": [
       {
@@ -1756,11 +1756,11 @@
       },
       {
         "sector": "Financial Services",
-        "count": 100,
-        "advancers": 20,
+        "count": 101,
+        "advancers": 21,
         "decliners": 80,
-        "average_1d_pct": -1.22,
-        "average_volume_ratio_20d": 0.931
+        "average_1d_pct": -1.202,
+        "average_volume_ratio_20d": 0.93
       },
       {
         "sector": "Media Entertainment & Publication",
@@ -6363,6 +6363,23 @@
         "quote_date": "2026-11-23",
         "quote_timestamp": "2026-11-23 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "ICICIPRULI",
+        "ticker": "ICICIPRULI.NS",
+        "name": "ICICI Prudential Life Insurance Company Ltd.",
+        "sector": "Financial Services",
+        "ltp": 465.0,
+        "previous_close": 462.0,
+        "day_move_pct": 0.6494,
+        "session_volume": 1682958.0,
+        "average_volume_20d": 1916566.0,
+        "volume_ratio_20d": 0.878,
+        "turnover_proxy": 782575470.0,
+        "quote_date": "2026-11-23",
+        "quote_timestamp": "2026-11-23 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
