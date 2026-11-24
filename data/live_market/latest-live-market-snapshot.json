@@ -1,24 +1,24 @@
 {
-  "generated_at": "2026-11-23T19:15:19+05:30",
+  "generated_at": "2026-11-24T08:40:48+05:30",
   "data_layer": "Live/delayed raw LTP versus official previous raw close",
   "source_note": "Yahoo Finance 5-minute quotes where available; daily close is a labelled fallback.",
   "tracked_screen": {
     "summary": {
       "source_count": 60,
-      "downloaded_count": 57,
-      "coverage_pct": 95.0,
-      "advancers": 20,
+      "downloaded_count": 59,
+      "coverage_pct": 98.3,
+      "advancers": 22,
       "decliners": 37,
       "unchanged": 0,
-      "ad_ratio": 0.54,
-      "up_turnover_share_pct": 48.9,
-      "down_turnover_share_pct": 51.1,
+      "ad_ratio": 0.59,
+      "up_turnover_share_pct": 49.0,
+      "down_turnover_share_pct": 51.0,
       "high_volume_decliners": 4,
-      "intraday_quotes": 57,
+      "intraday_quotes": 59,
       "daily_fallbacks": 0,
       "as_of_date": "2026-11-23",
       "as_of_timestamp": "2026-11-23 15:25 IST",
-      "stale_rows_excluded": 3
+      "stale_rows_excluded": 1
     },
     "sector_breadth": [
       {
@@ -26,8 +26,8 @@
         "count": 7,
         "advancers": 3,
         "decliners": 4,
-        "average_1d_pct": 0.666,
-        "average_volume_ratio_20d": 1.045
+        "average_1d_pct": 0.59,
+        "average_volume_ratio_20d": 1.046
       },
       {
         "sector": "Health technology",
@@ -78,20 +78,20 @@
         "average_volume_ratio_20d": 1.683
       },
       {
+        "sector": "Finance",
+        "count": 12,
+        "advancers": 5,
+        "decliners": 7,
+        "average_1d_pct": -1.263,
+        "average_volume_ratio_20d": 1.059
+      },
+      {
         "sector": "Non-energy minerals",
         "count": 1,
         "advancers": 0,
         "decliners": 1,
         "average_1d_pct": -1.375,
         "average_volume_ratio_20d": 0.518
-      },
-      {
-        "sector": "Finance",
-        "count": 11,
-        "advancers": 4,
-        "decliners": 7,
-        "average_1d_pct": -1.381,
-        "average_volume_ratio_20d": 1.048
       },
       {
         "sector": "Producer manufacturing",
@@ -110,6 +110,14 @@
         "average_volume_ratio_20d": 0.487
       },
       {
+        "sector": "Utilities",
+        "count": 2,
+        "advancers": 1,
+        "decliners": 1,
+        "average_1d_pct": -2.381,
+        "average_volume_ratio_20d": 5.884
+      },
+      {
         "sector": "Technology services",
         "count": 2,
         "advancers": 0,
@@ -124,14 +132,6 @@
         "decliners": 1,
         "average_1d_pct": -3.804,
         "average_volume_ratio_20d": 0.345
-      },
-      {
-        "sector": "Utilities",
-        "count": 1,
-        "advancers": 0,
-        "decliners": 1,
-        "average_1d_pct": -5.793,
-        "average_volume_ratio_20d": 10.758
       }
     ],
     "leaders": [
@@ -272,19 +272,19 @@
         "alert": ""
       },
       {
-        "symbol": "GHCLTEXTIL",
-        "ticker": "GHCLTEXTIL.NS",
-        "name": "Ghcl Textiles Ltd.",
-        "sector": "Process industries",
-        "ltp": 145.18,
-        "previous_close": 143.57,
-        "day_move_pct": 1.1214,
-        "session_volume": 835711.0,
-        "average_volume_20d": 909767.0,
-        "volume_ratio_20d": 0.919,
-        "turnover_proxy": 121328517.0,
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 104.94,
+        "previous_close": 103.87,
+        "day_move_pct": 1.0301,
+        "session_volume": 1486693.0,
+        "average_volume_20d": 1472197.0,
+        "volume_ratio_20d": 1.01,
+        "turnover_proxy": 156013567.0,
         "quote_date": "2026-11-23",
-        "quote_timestamp": "2026-11-23 15:25 IST",
+        "quote_timestamp": "2026-11-23 09:15 IST",
         "quote_type": "Yahoo 5-minute quote",
         "alert": ""
       },
@@ -758,13 +758,13 @@
         "ticker": "GHCLTEXTIL.NS",
         "name": "Ghcl Textiles Ltd.",
         "sector": "Process industries",
-        "ltp": 145.18,
+        "ltp": 144.42,
         "previous_close": 143.57,
-        "day_move_pct": 1.1214,
-        "session_volume": 835711.0,
+        "day_move_pct": 0.592,
+        "session_volume": 842025.0,
         "average_volume_20d": 909767.0,
-        "volume_ratio_20d": 0.919,
-        "turnover_proxy": 121328517.0,
+        "volume_ratio_20d": 0.926,
+        "turnover_proxy": 121605249.0,
         "quote_date": "2026-11-23",
         "quote_timestamp": "2026-11-23 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -1451,6 +1451,23 @@
         "alert": ""
       },
       {
+        "symbol": "PGINVIT",
+        "ticker": "PGINVIT.NS",
+        "name": "Powergrid Infrastructure Invesment Trust",
+        "sector": "Utilities",
+        "ltp": 104.94,
+        "previous_close": 103.87,
+        "day_move_pct": 1.0301,
+        "session_volume": 1486693.0,
+        "average_volume_20d": 1472197.0,
+        "volume_ratio_20d": 1.01,
+        "turnover_proxy": 156013567.0,
+        "quote_date": "2026-11-23",
+        "quote_timestamp": "2026-11-23 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "TORNTPHARM",
         "ticker": "TORNTPHARM.NS",
         "name": "Torrent Pharmaceuticals Ltd",
@@ -1570,6 +1587,23 @@
         "alert": ""
       },
       {
+        "symbol": "INDIGRID",
+        "ticker": "INDIGRID.NS",
+        "name": "IndiGrid Infrastructure Trust",
+        "sector": "Finance",
+        "ltp": 164.99,
+        "previous_close": 164.94,
+        "day_move_pct": 0.0303,
+        "session_volume": 927716.0,
+        "average_volume_20d": 783939.0,
+        "volume_ratio_20d": 1.183,
+        "turnover_proxy": 153063868.0,
+        "quote_date": "2026-11-23",
+        "quote_timestamp": "2026-11-23 09:15 IST",
+        "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
         "symbol": "KISSHT",
         "ticker": "KISSHT.NS",
         "name": "Onemi Technology Solutions Limited",
@@ -1608,20 +1642,20 @@
   "nifty500": {
     "summary": {
       "source_count": 500,
-      "downloaded_count": 498,
-      "coverage_pct": 99.6,
-      "advancers": 132,
+      "downloaded_count": 499,
+      "coverage_pct": 99.8,
+      "advancers": 133,
       "decliners": 363,
       "unchanged": 3,
-      "ad_ratio": 0.36,
-      "up_turnover_share_pct": 30.2,
-      "down_turnover_share_pct": 69.8,
+      "ad_ratio": 0.37,
+      "up_turnover_share_pct": 30.3,
+      "down_turnover_share_pct": 69.7,
       "high_volume_decliners": 19,
       "intraday_quotes": 498,
-      "daily_fallbacks": 0,
+      "daily_fallbacks": 1,
       "as_of_date": "2026-11-23",
       "as_of_timestamp": "2026-11-23 15:25 IST",
-      "stale_rows_excluded": 2
+      "stale_rows_excluded": 1
     },
     "sector_breadth": [
       {
@@ -1669,7 +1703,7 @@
         "count": 48,
         "advancers": 16,
         "decliners": 31,
-        "average_1d_pct": -0.265,
+        "average_1d_pct": -0.264,
         "average_volume_ratio_20d": 0.759
       },
       {
@@ -1677,7 +1711,7 @@
         "count": 29,
         "advancers": 8,
         "decliners": 21,
-        "average_1d_pct": -0.369,
+        "average_1d_pct": -0.365,
         "average_volume_ratio_20d": 1.043
       },
       {
@@ -1754,11 +1788,11 @@
       },
       {
         "sector": "Capital Goods",
-        "count": 62,
-        "advancers": 14,
+        "count": 63,
+        "advancers": 15,
         "decliners": 48,
-        "average_1d_pct": -1.613,
-        "average_volume_ratio_20d": 1.044
+        "average_1d_pct": -1.582,
+        "average_volume_ratio_20d": 1.032
       },
       {
         "sector": "Metals & Mining",
@@ -3225,13 +3259,13 @@
         "ticker": "ANTHEM.NS",
         "name": "Anthem Biosciences Ltd.",
         "sector": "Healthcare",
-        "ltp": 957.0,
+        "ltp": 957.35,
         "previous_close": 951.05,
-        "day_move_pct": 0.6256,
-        "session_volume": 353174.0,
+        "day_move_pct": 0.6624,
+        "session_volume": 353425.0,
         "average_volume_20d": 436392.0,
-        "volume_ratio_20d": 0.809,
-        "turnover_proxy": 337987518.0,
+        "volume_ratio_20d": 0.81,
+        "turnover_proxy": 338351415.0,
         "quote_date": "2026-11-23",
         "quote_timestamp": "2026-11-23 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -4092,13 +4126,13 @@
         "ticker": "FIRSTCRY.NS",
         "name": "Brainbees Solutions Ltd.",
         "sector": "Consumer Services",
-        "ltp": 168.5,
+        "ltp": 168.71,
         "previous_close": 170.2,
-        "day_move_pct": -0.9988,
-        "session_volume": 1536952.0,
+        "day_move_pct": -0.8754,
+        "session_volume": 1543099.0,
         "average_volume_20d": 9580198.0,
-        "volume_ratio_20d": 0.16,
-        "turnover_proxy": 258976412.0,
+        "volume_ratio_20d": 0.161,
+        "turnover_proxy": 260336243.0,
         "quote_date": "2026-11-23",
         "quote_timestamp": "2026-11-23 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
@@ -5870,6 +5904,23 @@
         "quote_date": "2026-11-23",
         "quote_timestamp": "2026-11-23 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
+        "alert": ""
+      },
+      {
+        "symbol": "HEG",
+        "ticker": "HEG.NS",
+        "name": "H.E.G. Ltd.",
+        "sector": "Capital Goods",
+        "ltp": 258.67,
+        "previous_close": 257.39,
+        "day_move_pct": 0.4973,
+        "session_volume": 1087504.0,
+        "average_volume_20d": 3492929.0,
+        "volume_ratio_20d": 0.311,
+        "turnover_proxy": 281304674.0,
+        "quote_date": "2026-11-23",
+        "quote_timestamp": "2026-11-23 00:00 IST",
+        "quote_type": "Yahoo daily-close fallback",
         "alert": ""
       },
       {
@@ -9073,13 +9124,13 @@
         "ticker": "RHIM.NS",
         "name": "RHI MAGNESITA INDIA LTD.",
         "sector": "Capital Goods",
-        "ltp": 355.0,
+        "ltp": 354.5,
         "previous_close": 351.25,
-        "day_move_pct": 1.0676,
-        "session_volume": 352009.0,
+        "day_move_pct": 0.9253,
+        "session_volume": 351234.0,
         "average_volume_20d": 410088.0,
-        "volume_ratio_20d": 0.858,
-        "turnover_proxy": 124963195.0,
+        "volume_ratio_20d": 0.856,
+        "turnover_proxy": 124512453.0,
         "quote_date": "2026-11-23",
         "quote_timestamp": "2026-11-23 15:25 IST",
         "quote_type": "Yahoo 5-minute quote",
