@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-25 08:08
+Generated: 2026-11-25 08:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,7 +16,17 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Sensex Falls 1.77% as Nifty Ends at 25,349 After Selloff Multibagg AI
 
-### 2. U.S. chip stocks fall premarket after Nvidia-led rally on Huang’s return By Investing.com - Investing.com India
+### 2. Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment By Investing.com - Investing.com India
+
+- Source: Investing.com India
+- Published: 2026-11-25T03:42:54+00:00
+- Themes: AI / tech risk, market selling, India market, macro / flows
+- Score: 13
+- Link: https://news.google.com/rss/articles/CBMizgFBVV95cUxOWmhJa0J4WUxZYU1tdTJCNnpMbWw1VjhHd1JnX2NGRXltRU1McllfWU10aXNoQUZkdk9SWl9oUExIbUw4d2YySEFMZUs1RHM0Q0FSYURYN0g5TE5RaDBTektMRnY3N3hoM3hwZHFzWWRfWEtIVlU1Q0VZellpazVnQzd1OG0tLWVkTWt6OEludHlHejF1WkZTTDJ4cEdSU2VWVmRrbVdaeGNNUkJTVVdKNW55c0pQblMzLXhmWDBWaXV0OC11NEFpcV9YX0pmUQ?oc=5
+
+Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment By Investing.com Investing.com India
+
+### 3. U.S. chip stocks fall premarket after Nvidia-led rally on Huang’s return By Investing.com - Investing.com India
 
 - Source: Investing.com India
 - Published: 2026-11-24T12:06:48+00:00
@@ -26,7 +36,7 @@ Sensex Falls 1.77% as Nifty Ends at 25,349 After Selloff Multibagg AI
 
 U.S. chip stocks fall premarket after Nvidia-led rally on Huang’s return By Investing.com Investing.com India
 
-### 3. Sensex jumps 1,900 points as Indian IT stocks gain amid US AI sell-off - The Pioneer
+### 4. Sensex jumps 1,900 points as Indian IT stocks gain amid US AI sell-off - The Pioneer
 
 - Source: The Pioneer
 - Published: 2026-11-25T07:29:44+00:00
@@ -36,7 +46,7 @@ U.S. chip stocks fall premarket after Nvidia-led rally on Huang’s return By In
 
 Sensex jumps 1,900 points as Indian IT stocks gain amid US AI sell-off The Pioneer
 
-### 4. Japanese Stocks Fall on Tech Selloff, Renewed AI Investment Reliability, and Fresh US Tariff Fears - marketscreener.com
+### 5. Japanese Stocks Fall on Tech Selloff, Renewed AI Investment Reliability, and Fresh US Tariff Fears - marketscreener.com
 
 - Source: marketscreener.com
 - Published: 2026-11-25T07:53:28+00:00
@@ -46,7 +56,7 @@ Sensex jumps 1,900 points as Indian IT stocks gain amid US AI sell-off The Pione
 
 Japanese Stocks Fall on Tech Selloff, Renewed AI Investment Reliability, and Fresh US Tariff Fears marketscreener.com
 
-### 5. Asian Markets Fall as Kospi Slides Over 5% and Nikkei Drops Nearly 3% Amid Renewed AI Sell-Off and US Tariff Concerns - Kotak Neo
+### 6. Asian Markets Fall as Kospi Slides Over 5% and Nikkei Drops Nearly 3% Amid Renewed AI Sell-Off and US Tariff Concerns - Kotak Neo
 
 - Source: Kotak Neo
 - Published: 2026-11-25T04:52:51+00:00
@@ -56,7 +66,7 @@ Japanese Stocks Fall on Tech Selloff, Renewed AI Investment Reliability, and Fre
 
 Asian Markets Fall as Kospi Slides Over 5% and Nikkei Drops Nearly 3% Amid Renewed AI Sell-Off and US Tariff Concerns Kotak Neo
 
-### 6. The Dow closes at 50,019 while Nasdaq drops 1.48% on an AI chip selloff - Startup Fortune
+### 7. The Dow closes at 50,019 while Nasdaq drops 1.48% on an AI chip selloff - Startup Fortune
 
 - Source: Startup Fortune
 - Published: 2026-11-25T05:09:21+00:00
@@ -66,7 +76,7 @@ Asian Markets Fall as Kospi Slides Over 5% and Nikkei Drops Nearly 3% Amid Renew
 
 The Dow closes at 50,019 while Nasdaq drops 1.48% on an AI chip selloff Startup Fortune
 
-### 7. Midcap mutual funds with Rs 5,000–15,000 crore AUM prove more resilient during market correction. Check 5 top performers - The Economic Times
+### 8. Midcap mutual funds with Rs 5,000–15,000 crore AUM prove more resilient during market correction. Check 5 top performers - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-25T04:29:22+00:00
@@ -76,7 +86,7 @@ The Dow closes at 50,019 while Nasdaq drops 1.48% on an AI chip selloff Startup 
 
 Midcap mutual funds with Rs 5,000–15,000 crore AUM prove more resilient during market correction. Check 5 top performers The Economic Times
 
-### 8. AI sell-off returns: Nvidia drops 6%, Anthropic slips below $83 IPO price - The Financial Express
+### 9. AI sell-off returns: Nvidia drops 6%, Anthropic slips below $83 IPO price - The Financial Express
 
 - Source: The Financial Express
 - Published: 2026-11-25T03:44:55+00:00
@@ -86,7 +96,7 @@ Midcap mutual funds with Rs 5,000–15,000 crore AUM prove more resilient during
 
 AI sell-off returns: Nvidia drops 6%, Anthropic slips below $83 IPO price The Financial Express
 
-### 9. Nvidia, Anthropic Stocks Fall as AI Sell-Off Pulls U.S. Markets Lower: 11 outlets compared - NewsCord
+### 10. Nvidia, Anthropic Stocks Fall as AI Sell-Off Pulls U.S. Markets Lower: 11 outlets compared - NewsCord
 
 - Source: NewsCord
 - Published: 2026-11-24T23:21:18+00:00
@@ -96,7 +106,7 @@ AI sell-off returns: Nvidia drops 6%, Anthropic slips below $83 IPO price The Fi
 
 Nvidia, Anthropic Stocks Fall as AI Sell-Off Pulls U.S. Markets Lower: 11 outlets compared NewsCord
 
-### 10. Nvidia, AMD and Micron Lead AI Selloff as Chip Stocks Slide - TradingView
+### 11. Nvidia, AMD and Micron Lead AI Selloff as Chip Stocks Slide - TradingView
 
 - Source: TradingView
 - Published: 2026-11-24T17:40:08+00:00
@@ -106,7 +116,7 @@ Nvidia, Anthropic Stocks Fall as AI Sell-Off Pulls U.S. Markets Lower: 11 outlet
 
 Nvidia, AMD and Micron Lead AI Selloff as Chip Stocks Slide TradingView
 
-### 11. Micron Stock Drops 11% as AI Chip Selloff Resumes - TradingView
+### 12. Micron Stock Drops 11% as AI Chip Selloff Resumes - TradingView
 
 - Source: TradingView
 - Published: 2026-11-24T16:57:31+00:00
@@ -115,16 +125,6 @@ Nvidia, AMD and Micron Lead AI Selloff as Chip Stocks Slide TradingView
 - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxQeUxFdFY3am93Zk1TYXlHSHB3VDcyM3hLZ0o0cnVWaUtCU3BtUWZoMjh5MDJ1ZHM2aElfUmFjb1cxcVBRcjVTakU0Y0Nwdlo0Q1RfOWFidVFHUHdLemdGaXlERmJ1RTVMczdoN0gtT1M1YjhuMW0wRFB1SHlIallVc08zNVZqb01Cc3g4X2JianJONjhabDZMSUM2WDlTcjFib2JRQVhQVlQzbkJH?oc=5
 
 Micron Stock Drops 11% as AI Chip Selloff Resumes TradingView
-
-### 12. Tech Selloff Drags Semiconductor Stocks Lower - Wisevoter
-
-- Source: Wisevoter
-- Published: 2026-11-25T07:43:43+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMijgFBVV95cUxPUDk1RWNlZzZURkYwMV81MHhuczFZcmNFMnJqd0hLMWFSbVkwZkNYYXB4TkEzXzVSMTN2OHd6bDZ6SzBDemJHeG43bzhQdENaZ3FXUGxQLUhzbTFKQ2xvMzFKdEdnYzl0TG1LSVVxRlJkWUZhRENEekJ0cHZMbDU2enN1dDU4aVJ1Mmd0VldB?oc=5
-
-Tech Selloff Drags Semiconductor Stocks Lower Wisevoter
 
 ### 13. Stocks Fall as AI Rebound Stalls and US Tariff Threats Shake Markets - Global Banking & Finance Review
 
@@ -146,7 +146,17 @@ Stocks Fall as AI Rebound Stalls and US Tariff Threats Shake Markets Global Bank
 
 HFCL, Sterlite Technologies Shares Fall 5% As Global AI Sell-Off Raises Data Centre Concerns Kotak Neo
 
-### 15. Sandisk stock price closes at $77.95 after AI chip selloff - JournalArta
+### 15. HFCL Limited shares fall 27.67% in month amid AI sell-off - Multibagg AI
+
+- Source: Multibagg AI
+- Published: 2026-11-25T06:01:16+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMimwFBVV95cUxQY2FpUkprY1U2YVp5dExUdnB3UDNzelJQXy14QXdlcXVuVm9ObFJaN1NDdjNiOG54bW1pRWV3TjlRZmtwb0x3SGRvUFExLXhLWXZTYjM1WlRPc0w3czMzVVZBczBtTkhLYVF5SEtpUXI1TlRQM2x1R0NCNU1KMHpidDJ3cVNIT1RsMVo0aWdVV3Y1TS1jSjJIX2RSWQ?oc=5
+
+HFCL Limited shares fall 27.67% in month amid AI sell-off Multibagg AI
+
+### 16. Sandisk stock price closes at $77.95 after AI chip selloff - JournalArta
 
 - Source: JournalArta
 - Published: 2026-11-25T05:35:55+00:00
@@ -155,16 +165,6 @@ HFCL, Sterlite Technologies Shares Fall 5% As Global AI Sell-Off Raises Data Cen
 - Link: https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMFZMRmtuM0MxMWRyVnpUMDRVZUw5MWZyZjU1UUt6VlBSUkpGSTBjWDRfTVRyS0F5bjA3bGVzTDBWSzFOS0xVNmtkcVN6dnRoQWRCQjAwN3R4MWd2SGl1U0dqTnY1RFNOTW41S3k2VVNfWlNEc1VWRU1VdDN6QWo1azcyWi1ZNUhBYzRkUmtDenV4VDNXa1ZPRVBiZE5aYy1BTkRNUkhwN2w?oc=5
 
 Sandisk stock price closes at $77.95 after AI chip selloff JournalArta
-
-### 16. AMD stock price closes at $413.27 after AI chip selloff - JournalArta
-
-- Source: JournalArta
-- Published: 2026-11-25T05:33:37+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMilwFBVV95cUxNMGxjQVVDVVoxcmd4dlp6LVFGUEhyeGwzMUxGRjNJLWxwWE83cmNsX3ExenQ1Q1R5YTZtYUFPT3FIb2dJTm42dkFBNmlvSVlZeHJEQk4wQTVmdGp6RTZvcEtxVzdDV1dJbjdWaS1LYjdoWG1VTTFDaWZnc2pXOFFwcENIWmpEZmF0cVI1cWxhT3BaY056VG1z?oc=5
-
-AMD stock price closes at $413.27 after AI chip selloff JournalArta
 
 ### 17. Asian stocks fall on AI trade worries and US tariff jitters | FXStreet - شبكة تواصل الإخبارية
 
@@ -226,17 +226,7 @@ South Korea’s Kospi tumbles 5% as tech selloff revives AI concerns The Economi
 
 Japan's Nikkei falls over 3% as AI stocks extend selloff, drugmakers cushion losses The Economic Times
 
-### 23. Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment - Investing.com
-
-- Source: Investing.com
-- Published: 2026-11-25T03:38:52+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMizwFBVV95cUxNanFIWUdZeGFoUkJfd3FvUXRHNkNFcjY0T0JNZ040TDZiTHBKMmJVTGNXS2Q5SGhWbmFNWVJPYXU3WUlFcjFFWXR0djFWT1pQNVdwOHRPR0JpczZJdjBXM1RQS3RkNzl4ZUU4STJuTndzQkx2QW13SEU0am1FX3ByclZYYnVhVHNHSEJpeURyS3V0RVhmQVRxWjhHTWxzZHdZS2hXTFQzMm5qWElEeHA1LTZhb0tTSy1uSjdYcy1YZDVmWU9DWFdDTkMwT1lWRDQ?oc=5
-
-Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment Investing.com
-
-### 24. KOSPI plunges 5.3%, Nikkei falls 2.9% as Nvidia-led tech rally fizzles; US tariff fears hit Asian markets - Moneycontrol.com
+### 23. KOSPI plunges 5.3%, Nikkei falls 2.9% as Nvidia-led tech rally fizzles; US tariff fears hit Asian markets - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-25T03:14:49+00:00
@@ -246,7 +236,7 @@ Asian stocks slide as AI selloff deepens, U.S. tariff threats weigh on sentiment
 
 KOSPI plunges 5.3%, Nikkei falls 2.9% as Nvidia-led tech rally fizzles; US tariff fears hit Asian markets Moneycontrol.com
 
-### 25. Doosan Plunges 12% in a Single Day as Nvidia-Led AI Stock Correction Rattles Market - BigGo Finance
+### 24. Doosan Plunges 12% in a Single Day as Nvidia-Led AI Stock Correction Rattles Market - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T01:06:00+00:00
@@ -256,7 +246,7 @@ KOSPI plunges 5.3%, Nikkei falls 2.9% as Nvidia-led tech rally fizzles; US tarif
 
 Doosan Plunges 12% in a Single Day as Nvidia-Led AI Stock Correction Rattles Market BigGo Finance
 
-### 26. SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names - CNBC
+### 25. SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names - CNBC
 
 - Source: CNBC
 - Published: 2026-11-25T00:52:00+00:00
@@ -266,7 +256,7 @@ Doosan Plunges 12% in a Single Day as Nvidia-Led AI Stock Correction Rattles Mar
 
 SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names CNBC
 
-### 27. Dow Jones Reclaims 50000 as Nvidia Shares Lead Tech Selloff - cwibc.co.id
+### 26. Dow Jones Reclaims 50000 as Nvidia Shares Lead Tech Selloff - cwibc.co.id
 
 - Source: cwibc.co.id
 - Published: 2026-11-24T22:42:00+00:00
@@ -276,7 +266,7 @@ SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names CN
 
 Dow Jones Reclaims 50000 as Nvidia Shares Lead Tech Selloff cwibc.co.id
 
-### 28. Nvidia, Anthropic end sharply lower as AI selloff resumes - AFP.com
+### 27. Nvidia, Anthropic end sharply lower as AI selloff resumes - AFP.com
 
 - Source: AFP.com
 - Published: 2026-11-24T22:18:39+00:00
@@ -286,7 +276,7 @@ Dow Jones Reclaims 50000 as Nvidia Shares Lead Tech Selloff cwibc.co.id
 
 Nvidia, Anthropic end sharply lower as AI selloff resumes AFP.com
 
-### 29. Wall Street slides as Nvidia and AI stocks fall back - CommBank
+### 28. Wall Street slides as Nvidia and AI stocks fall back - CommBank
 
 - Source: CommBank
 - Published: 2026-11-24T22:02:15+00:00
@@ -296,7 +286,7 @@ Nvidia, Anthropic end sharply lower as AI selloff resumes AFP.com
 
 Wall Street slides as Nvidia and AI stocks fall back CommBank
 
-### 30. Nvidia, Chip Stocks Fall As Data Center Spending Fears Return - Investor's Business Daily
+### 29. Nvidia, Chip Stocks Fall As Data Center Spending Fears Return - Investor's Business Daily
 
 - Source: Investor's Business Daily
 - Published: 2026-11-24T21:58:00+00:00
@@ -306,7 +296,7 @@ Wall Street slides as Nvidia and AI stocks fall back CommBank
 
 Nvidia, Chip Stocks Fall As Data Center Spending Fears Return Investor's Business Daily
 
-### 31. Nvidia, Anthropic end sharply lower as AI selloff resumes - CNA
+### 30. Nvidia, Anthropic end sharply lower as AI selloff resumes - CNA
 
 - Source: CNA
 - Published: 2026-11-24T21:46:55+00:00
@@ -316,7 +306,7 @@ Nvidia, Chip Stocks Fall As Data Center Spending Fears Return Investor's Busines
 
 Nvidia, Anthropic end sharply lower as AI selloff resumes CNA
 
-### 32. Drops for Nvidia, Anthropic and other AI stocks drag the U.S. market back down - BNN Bloomberg
+### 31. Drops for Nvidia, Anthropic and other AI stocks drag the U.S. market back down - BNN Bloomberg
 
 - Source: BNN Bloomberg
 - Published: 2026-11-24T21:31:28+00:00
@@ -326,7 +316,7 @@ Nvidia, Anthropic end sharply lower as AI selloff resumes CNA
 
 Drops for Nvidia, Anthropic and other AI stocks drag the U.S. market back down BNN Bloomberg
 
-### 33. Nvidia, Anthropic end sharply lower as AI selloff resumes - KMVU FOX 26 Medford
+### 32. Nvidia, Anthropic end sharply lower as AI selloff resumes - KMVU FOX 26 Medford
 
 - Source: KMVU FOX 26 Medford
 - Published: 2026-11-24T21:29:25+00:00
@@ -336,7 +326,7 @@ Drops for Nvidia, Anthropic and other AI stocks drag the U.S. market back down B
 
 Nvidia, Anthropic end sharply lower as AI selloff resumes KMVU FOX 26 Medford
 
-### 34. AI stocks retreat as Nvidia leads broader tech sell-off - Ticker News
+### 33. AI stocks retreat as Nvidia leads broader tech sell-off - Ticker News
 
 - Source: Ticker News
 - Published: 2026-11-24T21:17:26+00:00
@@ -346,7 +336,7 @@ Nvidia, Anthropic end sharply lower as AI selloff resumes KMVU FOX 26 Medford
 
 AI stocks retreat as Nvidia leads broader tech sell-off Ticker News
 
-### 35. Harvard, QuEra, NVIDIA, Anthropic, and Three National Labs Secure $12 Million DOE Award for AI-Driven Quantum Error Correction - Quantum Computing Report
+### 34. Harvard, QuEra, NVIDIA, Anthropic, and Three National Labs Secure $12 Million DOE Award for AI-Driven Quantum Error Correction - Quantum Computing Report
 
 - Source: Quantum Computing Report
 - Published: 2026-11-24T20:18:39+00:00
@@ -355,6 +345,16 @@ AI stocks retreat as Nvidia leads broader tech sell-off Ticker News
 - Link: https://news.google.com/rss/articles/CBMi7gFBVV95cUxQWTdqWno5UFI2N0NHSDlyVWxtTjJ4RUZiSUZycml5dnBtd2hKNl9tQjZrRFZ3eUFDMjNxTVVTZVd6LVFXb0twQWpIR0NsVy02Um9CNzBHblloVmdqNkhMcS1oY181cTdJd05UMGdfZTZDb2hJM3h1d2tmVmlzZzliTDRRZHBGdU5lNjk4U0o5c1BlVUE0LWRXMG93amc5a3JGWGhhcnBDTEN1UjFSREEtbHlpSExHQl9ualNyTUVaa0haYXc0LURxMllERHViN2lpaUl2RzBVMnBSWE5kUlhHcGl5TVIxLWZkRkhyMmtB0gHzAUFVX3lxTE1wVmwyVVU4MFZhZkNUcFR5cW5BdGhBU04wM2x6QWYyM1I5UXdHSkwwb2JsU1l0V0RVUnpXWnY2X1VhYU5Fa3R5N3JRdTd6ZFpJeVRQWDJjTEN3aHJzZl81X1EtM2RYcnUtYW9nUGpVVDVzUXZhUWdUVzFoVFlVb1U0NXlrTllMQ1g4X3FQSE1Rc3EtMkhxTzIxa2NhamtiTHZTd1M5X3dMemZnQzA4a0o5UWdleWloZ2Y3VENiU1VQWWh6MkVSbVJhek9nNXdUaWNCd3NNelNKMUZYdmtSRk1WcHFMdDdzVTlnU3pUcmlpUTItTQ?oc=5
 
 Harvard, QuEra, NVIDIA, Anthropic, and Three National Labs Secure $12 Million DOE Award for AI-Driven Quantum Error Correction Quantum Computing Report
+
+### 35. What's happening in the US stock market today? AI selloff wipes out $1 trillion as Nasdaq and S&P 500 fall - The Economic Times
+
+- Source: The Economic Times
+- Published: 2026-11-24T18:46:41+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiyAJBVV95cUxOQVpWNUUyeXVOWWpXOThjZldxenhsOUkwVi1UdU1qTzVZZVMzaDNaeTF4MmhZRE1LN2prcVBIS0NzTlRKSFpVM1VLLTUtbmVtaVlQY0NyZ2huaVhtMGtFaEVlb2dMcE0tRm1jaTViOUM1UVlTVUgyR1I1aUVzR2xSczRNcmJNS0ItaWt6Yi1iWDE5VElFRFVVUVg1c3RGb1c2Z3NxaGNFT3NjUmczS1FnUU5aNXRLWEh4LVlIZGMteF9VaEozNm9oelVsbDZiVXpkNFpJMGxYd3Q1dHVCOVAxVk1lZnEwZTRRMm5ZNWRTSWpBT0UwUFNXc3JuTy1uYWg4NHl1cGx6OWUxMUN4WE5UMHFZandhMU9teERqNDJkd3k3YnBpY2NTMGxnX200Nzg4NmNxcjhCV0s4TEJ6NFE4cHFfYVRMVXFX0gHOAkFVX3lxTFBlRTExRGozcEdMc2JrLTRUUW1LSEV6SGdGVWdKS2Z2czJXUjhleTVwa2sxcFQ3R2xCVXluZEJ2cGlNUDFuTHZXXzEwTkUxUC1sa3pvbU54Tnl3cHhYNnRYOTdCS09YamJKenhzZHR6UFBPSFViQ3pNcHNpRjNkR05LYkRBajlUTVRTVzJhZWJ6S3E1VXRlZVM1LVVtN0RMZXRiTVhlN0xiUzIzQWpMcFlsZC11a084bDJFT0hyRnRjR2g2SzBSZW80bEdVVjNyUm0xd2MxZFBqeUxnWnhkR1dsSEs0T3JtWVRPTjRLT20tOHFIeWNmVGtYQXpiQmdoZ1JXUEc5MHdhQ2xCaGprd1VReFo3THlITmtXWk5fMmFTOW9lcm5ScFB4dG1WTFRaR0pMVGNyQ3Q1Nm9mRE1MY2tyMHFaUlM0MWQtbUd0YXc?oc=5
+
+What's happening in the US stock market today? AI selloff wipes out $1 trillion as Nasdaq and S&P 500 fall The Economic Times
 
 ### 36. US Stocks Enter Correction as Investors Face AI Selloff - bsinews.id
 
@@ -386,7 +386,17 @@ The AI Cloud Selloff Is Exposing A Multibillion-Dollar Debt Problem Forbes
 
 Nvidia and other AI stocks fall, but the rest of Wall Street rises with confidence in the US economy WTOP News
 
-### 39. China's AI Bubble Bursts: Will Indian Stocks Face a Correction as $1.7 Trillion in Market Value Vanishes? - Dalal Street Investment Journal
+### 39. Indian Stocks Extend World-Beating Run as AI Selloff Resumes - Bloomberg.com
+
+- Source: Bloomberg.com
+- Published: 2026-11-25T07:36:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQZG9UVkhkdlhpa1RGRVRCNHl0eW5RdHUxWGhRSXdrUWFXMHZqbTg4TnU3Q2huOGNjblBBbG1qNHUxUERKQ0NvZEpIajFESTZCaWx1NjFGdFU3SWRldUJvcEV2N3ZyTnR6UXFMTFUxeExJSUJrSmk3N0RQMFRJaWZERUoxd3k2WnNPVnpQTUJzZGI5dEZ1Vi1RSXp4anlFLXl3ckM5eHdQNnZNZ2d1M0VNVQ?oc=5
+
+Indian Stocks Extend World-Beating Run as AI Selloff Resumes Bloomberg.com
+
+### 40. China's AI Bubble Bursts: Will Indian Stocks Face a Correction as $1.7 Trillion in Market Value Vanishes? - Dalal Street Investment Journal
 
 - Source: Dalal Street Investment Journal
 - Published: 2026-11-25T07:05:10+00:00
@@ -396,7 +406,7 @@ Nvidia and other AI stocks fall, but the rest of Wall Street rises with confiden
 
 China's AI Bubble Bursts: Will Indian Stocks Face a Correction as $1.7 Trillion in Market Value Vanishes? Dalal Street Investment Journal
 
-### 40. SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off - BeInCrypto
+### 41. SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off - BeInCrypto
 
 - Source: BeInCrypto
 - Published: 2026-11-25T07:00:00+00:00
@@ -406,7 +416,7 @@ China's AI Bubble Bursts: Will Indian Stocks Face a Correction as $1.7 Trillion 
 
 SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off BeInCrypto
 
-### 41. Bitcoin Miner Turned AI Landlord TeraWulf Says Selloff Hits Price, Not Demand - BeInCrypto
+### 42. Bitcoin Miner Turned AI Landlord TeraWulf Says Selloff Hits Price, Not Demand - BeInCrypto
 
 - Source: BeInCrypto
 - Published: 2026-11-25T07:00:00+00:00
@@ -416,7 +426,7 @@ SoftBank Shares Drop 10% as Samsung and SK Hynix Fall Over 7% in AI Sell Off BeI
 
 Bitcoin Miner Turned AI Landlord TeraWulf Says Selloff Hits Price, Not Demand BeInCrypto
 
-### 42. Oracle Stock $109.50: AI Selloff Undoes a Third of Rebound - FinanceFeeds
+### 43. Oracle Stock $109.50: AI Selloff Undoes a Third of Rebound - FinanceFeeds
 
 - Source: FinanceFeeds
 - Published: 2026-11-25T06:52:33+00:00
@@ -426,7 +436,17 @@ Bitcoin Miner Turned AI Landlord TeraWulf Says Selloff Hits Price, Not Demand Be
 
 Oracle Stock $109.50: AI Selloff Undoes a Third of Rebound FinanceFeeds
 
-### 43. Gold and Silver Price Forecast: AI Selloff Puts Key Support at Risk - FXEmpire
+### 44. Anka India Ltd Falls to 52-Week Low of Rs 15.44 as Sell-Off Deepens - MarketsMojo
+
+- Source: MarketsMojo
+- Published: 2026-11-25T06:46:29+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMizAFBVV95cUxOaG1DMEZYTmgtWWR4MjRaZDVDVF9rc0pxbWlUeV9weEU4cG05dDlzWVVBU3k0dG9LUjZNMXpnbVVWNzZRWWFWeWpEbHJvZGNMMkJEMzBBWXZrT2VlcnNFTmNhTVdwaXZ0YUZtd1JWRnduajJqWDFMZEpLMVBLcUNhaDVBd2hzdHJPTVpsYVJra25sLUNicW1BZ0N1M2tXZUFGeXUzc0tjdDZLeko3UU8wdGRITk4tN3RzdktmQ1B6b18tTmwwNW16N1NISHY?oc=5
+
+Anka India Ltd Falls to 52-Week Low of Rs 15.44 as Sell-Off Deepens MarketsMojo
+
+### 45. Gold and Silver Price Forecast: AI Selloff Puts Key Support at Risk - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-11-25T06:33:34+00:00
@@ -436,7 +456,7 @@ Oracle Stock $109.50: AI Selloff Undoes a Third of Rebound FinanceFeeds
 
 Gold and Silver Price Forecast: AI Selloff Puts Key Support at Risk FXEmpire
 
-### 44. HFCL share price hits 5% lower circuit as AI selloff resumes after 1-day breather. More pain ahead? - The Economic Times
+### 46. HFCL share price hits 5% lower circuit as AI selloff resumes after 1-day breather. More pain ahead? - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-25T05:53:38+00:00
@@ -445,26 +465,6 @@ Gold and Silver Price Forecast: AI Selloff Puts Key Support at Risk FXEmpire
 - Link: https://news.google.com/rss/articles/CBMi_wFBVV95cUxPM192MVJQck95dllDWTRhLUwtbVdRUUU0N0piejNGOGptcUFYQXc3b09LNWd3dlNUTjhiS3JtS0R5emNocnR3VWFuR2FWcUx0RVBVRHdHRThkX1JWS1dFU0VYcjZqUUY5czBaejlvRjZ3NEJMUWlRSjQyV3hzRjM2M2phc0sxN2s3TS1HdHRoNTdsaVk3V25Pc1ZTd0Y5RlhQT2RtNHZEdHktTndQWE5XYnpZdWpETUFWQkZmbktveTFBWTdOYzRDZWphZmxLRjFKM2U1U2tZRTJyRVFmMHBKaWduSWRyUWJXRFU4OFlmN0ZEN091MmhYM3Z2dVphS3PSAYQCQVVfeXFMTkZpSEFQVFVvZk95dlpGREJVV212RWpDcEtyYVIzY0tGZ3RlcEowUFhHWG9RV3NuT3h2Um9PQnJ3a2dxMlR4cUMyUG1PMHhOWmV2LUxiUDBfemRQU2tPTFU4M0hlV3VBcEtrYXl6c0FZRTJhcFlFTEFnMzdvdEtLaFVMeDRFVHZ0MnZuQmZLRkFUelptNW9rQlhfcmFQZU9HcUNVMVdkUm1xcmNPR2NFYmRGQjRuRHd0UnprRnR6cDJYRnpWbEkxbzVfVUNsbUR6aVBpTmNCdkVLNVhIeV9hSWRldFEzVGM3aGlpeXlEdm9tMmV6aG9qT1ROSFNhNHM1RjQtc2g?oc=5
 
 HFCL share price hits 5% lower circuit as AI selloff resumes after 1-day breather. More pain ahead? The Economic Times
-
-### 45. LRCX stock price falls to $196.16 as chip equipment shares slide - JournalArta
-
-- Source: JournalArta
-- Published: 2026-11-25T05:52:58+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkx3THFrQWx3THh6NE1ubVJ5WUZScnRBRE9LN05mOEM4SUk4S1g1emw1bE9nUjlhTy1OQllPc25Eb05aMXhPZU8tenpvUUFMWF9EQU1MTjBBa0dkTFprS3J6VktIai1GRW5sRFB3WUkwQlNVcjVvc3VObUtubHl6TWJndXpPeDdNdnF4Z1dpaEFLNkIzc09LN0x3T1pvcUk?oc=5
-
-LRCX stock price falls to $196.16 as chip equipment shares slide JournalArta
-
-### 46. Indian Stocks Extend World-Beating Run as AI Selloff Resumes - Bloomberg.com
-
-- Source: Bloomberg.com
-- Published: 2026-11-25T05:51:00+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQZG9UVkhkdlhpa1RGRVRCNHl0eW5RdHUxWGhRSXdrUWFXMHZqbTg4TnU3Q2huOGNjblBBbG1qNHUxUERKQ0NvZEpIajFESTZCaWx1NjFGdFU3SWRldUJvcEV2N3ZyTnR6UXFMTFUxeExJSUJrSmk3N0RQMFRJaWZERUoxd3k2WnNPVnpQTUJzZGI5dEZ1Vi1RSXp4anlFLXl3ckM5eHdQNnZNZ2d1M0VNVQ?oc=5
-
-Indian Stocks Extend World-Beating Run as AI Selloff Resumes Bloomberg.com
 
 ### 47. Asian stocks fall as AI trade falters - The Business Times
 
@@ -566,7 +566,17 @@ GIFT Nifty flashes green as Asia bleeds: Will Sensex and Nifty defy global sello
 
 Navigating The Fog: Correction, Inflation, Interest Rates And AI - TalkMarkets Howl.Link
 
-### 57. SoftBank shares crash 14% as Asian tech stocks fall on AI rally concerns - CNBC TV18
+### 57. Asian tech shares slide as AI-led sell-off hits Japan, Korea and Taiwan - Traders Union
+
+- Source: Traders Union
+- Published: 2026-11-25T02:09:27+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMihgFBVV95cUxOYmVMU1RqbnctX3VmMW1nV29XWnA3QzdaMUJqSWdhOWkycUVfeXpCcDV6V1RBNzAxZU1qaWxoMEx2U2RVVERHYnNLeGthY0tSMG9tVk9pQ2ozN0o3X1VOWlZFZ2pzdkxxcTBrWm5GaDZoV3hJYzg4ZHd6Nk9GR0hFTkRhbzB2dw?oc=5
+
+Asian tech shares slide as AI-led sell-off hits Japan, Korea and Taiwan Traders Union
+
+### 58. SoftBank shares crash 14% as Asian tech stocks fall on AI rally concerns - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-25T02:06:00+00:00
@@ -576,7 +586,7 @@ Navigating The Fog: Correction, Inflation, Interest Rates And AI - TalkMarkets H
 
 SoftBank shares crash 14% as Asian tech stocks fall on AI rally concerns CNBC TV18
 
-### 58. Stock Market Today: Gift Nifty To Nasdaq, Kospi Selloff; Five Key Factors For Sensex, Nifty 50 On Nov 25 - NDTV Profit
+### 59. Stock Market Today: Gift Nifty To Nasdaq, Kospi Selloff; Five Key Factors For Sensex, Nifty 50 On Nov 25 - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-25T01:32:04+00:00
@@ -586,7 +596,7 @@ SoftBank shares crash 14% as Asian tech stocks fall on AI rally concerns CNBC TV
 
 Stock Market Today: Gift Nifty To Nasdaq, Kospi Selloff; Five Key Factors For Sensex, Nifty 50 On Nov 25 NDTV Profit
 
-### 59. Asian stocks fall as AI trade doubts resurface - Moneycontrol.com
+### 60. Asian stocks fall as AI trade doubts resurface - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-25T01:28:17+00:00
@@ -596,7 +606,7 @@ Stock Market Today: Gift Nifty To Nasdaq, Kospi Selloff; Five Key Factors For Se
 
 Asian stocks fall as AI trade doubts resurface Moneycontrol.com
 
-### 60. Global Market Today: Asian stocks fall as AI trade doubts resurface - The Economic Times
+### 61. Global Market Today: Asian stocks fall as AI trade doubts resurface - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-25T00:57:44+00:00
@@ -606,7 +616,7 @@ Asian stocks fall as AI trade doubts resurface Moneycontrol.com
 
 Global Market Today: Asian stocks fall as AI trade doubts resurface The Economic Times
 
-### 61. AI super-cycle far from over as market sell-off resets valuations and creates opportunities: MFS - Yahoo Finance Australia
+### 62. AI super-cycle far from over as market sell-off resets valuations and creates opportunities: MFS - Yahoo Finance Australia
 
 - Source: Yahoo Finance Australia
 - Published: 2026-11-25T00:10:00+00:00
@@ -616,7 +626,7 @@ Global Market Today: Asian stocks fall as AI trade doubts resurface The Economic
 
 AI super-cycle far from over as market sell-off resets valuations and creates opportunities: MFS Yahoo Finance Australia
 
-### 62. Dow Reclaims 50000 as Nvidia Leads Technology Selloff - Demokratis.co.id
+### 63. Dow Reclaims 50000 as Nvidia Leads Technology Selloff - Demokratis.co.id
 
 - Source: Demokratis.co.id
 - Published: 2026-11-24T22:50:00+00:00
@@ -626,7 +636,7 @@ AI super-cycle far from over as market sell-off resets valuations and creates op
 
 Dow Reclaims 50000 as Nvidia Leads Technology Selloff Demokratis.co.id
 
-### 63. Chip Selloff Drives Ambarella Shares Down 9.9 Percent - Peradaban.id
+### 64. Chip Selloff Drives Ambarella Shares Down 9.9 Percent - Peradaban.id
 
 - Source: Peradaban.id
 - Published: 2026-11-24T22:38:00+00:00
@@ -636,7 +646,7 @@ Dow Reclaims 50000 as Nvidia Leads Technology Selloff Demokratis.co.id
 
 Chip Selloff Drives Ambarella Shares Down 9.9 Percent Peradaban.id
 
-### 64. AI selloff is psychological, not fundamental, says Intelligent Alpha's Doug Clinton - CNBC
+### 65. AI selloff is psychological, not fundamental, says Intelligent Alpha's Doug Clinton - CNBC
 
 - Source: CNBC
 - Published: 2026-11-24T21:34:18+00:00
@@ -646,7 +656,7 @@ Chip Selloff Drives Ambarella Shares Down 9.9 Percent Peradaban.id
 
 AI selloff is psychological, not fundamental, says Intelligent Alpha's Doug Clinton CNBC
 
-### 65. Fitch sets a neutral 2027 outlook for sovereign ratings and warns an AI stock correction could change it - MLQ.ai
+### 66. Fitch sets a neutral 2027 outlook for sovereign ratings and warns an AI stock correction could change it - MLQ.ai
 
 - Source: MLQ.ai
 - Published: 2026-11-24T20:51:57+00:00
@@ -656,7 +666,7 @@ AI selloff is psychological, not fundamental, says Intelligent Alpha's Doug Clin
 
 Fitch sets a neutral 2027 outlook for sovereign ratings and warns an AI stock correction could change it MLQ.ai
 
-### 66. Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump - WSJ
+### 67. Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump - WSJ
 
 - Source: WSJ
 - Published: 2026-11-24T19:32:00+00:00
@@ -666,7 +676,7 @@ Fitch sets a neutral 2027 outlook for sovereign ratings and warns an AI stock co
 
 Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump WSJ
 
-### 67. Nvidia stocks fall - The Age
+### 68. Nvidia stocks fall - The Age
 
 - Source: The Age
 - Published: 2026-11-24T19:26:32+00:00
@@ -676,7 +686,7 @@ Nasdaq Resumes Selloff as Nvidia, Anthropic Shares Slump WSJ
 
 Nvidia stocks fall The Age
 
-### 68. Nvidia stocks fall - SMH.com.au
+### 69. Nvidia stocks fall - SMH.com.au
 
 - Source: SMH.com.au
 - Published: 2026-11-24T19:26:32+00:00
@@ -686,7 +696,7 @@ Nvidia stocks fall The Age
 
 Nvidia stocks fall SMH.com.au
 
-### 69. Stock Market Today: Sensex Crashes 1,484 Points, Nifty Fall… - theopenpress.in
+### 70. Stock Market Today: Sensex Crashes 1,484 Points, Nifty Fall… - theopenpress.in
 
 - Source: theopenpress.in
 - Published: 2026-11-24T18:43:04+00:00
@@ -696,7 +706,7 @@ Nvidia stocks fall SMH.com.au
 
 Stock Market Today: Sensex Crashes 1,484 Points, Nifty Fall… theopenpress.in
 
-### 70. AI sell-off rattles RRSPs: what to do - Money.ca
+### 71. AI sell-off rattles RRSPs: what to do - Money.ca
 
 - Source: Money.ca
 - Published: 2026-11-24T18:35:42+00:00
@@ -706,7 +716,7 @@ Stock Market Today: Sensex Crashes 1,484 Points, Nifty Fall… theopenpress.in
 
 AI sell-off rattles RRSPs: what to do Money.ca
 
-### 71. Bloom Energy Stock Slides Amid Broader AI Sell-Off - Benzinga
+### 72. Bloom Energy Stock Slides Amid Broader AI Sell-Off - Benzinga
 
 - Source: Benzinga
 - Published: 2026-11-24T18:27:11+00:00
@@ -716,7 +726,7 @@ AI sell-off rattles RRSPs: what to do Money.ca
 
 Bloom Energy Stock Slides Amid Broader AI Sell-Off Benzinga
 
-### 72. What Happens to the S&P 500 & Nasdaq If Nvidia Stock Falls Another 30%? - Coinpaper
+### 73. What Happens to the S&P 500 & Nasdaq If Nvidia Stock Falls Another 30%? - Coinpaper
 
 - Source: Coinpaper
 - Published: 2026-11-24T18:19:17+00:00
@@ -726,7 +736,7 @@ Bloom Energy Stock Slides Amid Broader AI Sell-Off Benzinga
 
 What Happens to the S&P 500 & Nasdaq If Nvidia Stock Falls Another 30%? Coinpaper
 
-### 73. ASE Technology Stocks Fall 6.09% as ADR Cools After Taipei Limit-Up Session - TradingView
+### 74. ASE Technology Stocks Fall 6.09% as ADR Cools After Taipei Limit-Up Session - TradingView
 
 - Source: TradingView
 - Published: 2026-11-24T17:58:20+00:00
@@ -736,7 +746,7 @@ What Happens to the S&P 500 & Nasdaq If Nvidia Stock Falls Another 30%? Coinpape
 
 ASE Technology Stocks Fall 6.09% as ADR Cools After Taipei Limit-Up Session TradingView
 
-### 74. Tech stocks fall after Monday's Nvidia rally - RTE.ie
+### 75. Tech stocks fall after Monday's Nvidia rally - RTE.ie
 
 - Source: RTE.ie
 - Published: 2026-11-24T16:45:57+00:00
@@ -746,7 +756,7 @@ ASE Technology Stocks Fall 6.09% as ADR Cools After Taipei Limit-Up Session Trad
 
 Tech stocks fall after Monday's Nvidia rally RTE.ie
 
-### 75. US Stock Indexes Enter Correction as AI Valuations Raise Concerns - Peradaban.id
+### 76. US Stock Indexes Enter Correction as AI Valuations Raise Concerns - Peradaban.id
 
 - Source: Peradaban.id
 - Published: 2026-11-24T16:23:07+00:00
@@ -756,7 +766,7 @@ Tech stocks fall after Monday's Nvidia rally RTE.ie
 
 US Stock Indexes Enter Correction as AI Valuations Raise Concerns Peradaban.id
 
-### 76. Ichor Holdings slides 16% as semiconductor equipment stocks fall (ICHR:NASDAQ) - Seeking Alpha
+### 77. Ichor Holdings slides 16% as semiconductor equipment stocks fall (ICHR:NASDAQ) - Seeking Alpha
 
 - Source: Seeking Alpha
 - Published: 2026-11-24T15:47:12+00:00
@@ -766,7 +776,7 @@ US Stock Indexes Enter Correction as AI Valuations Raise Concerns Peradaban.id
 
 Ichor Holdings slides 16% as semiconductor equipment stocks fall (ICHR:NASDAQ) Seeking Alpha
 
-### 77. AI stocks – just a correction? - payoff
+### 78. AI stocks – just a correction? - payoff
 
 - Source: payoff
 - Published: 2026-11-24T14:33:01+00:00
@@ -776,7 +786,7 @@ Ichor Holdings slides 16% as semiconductor equipment stocks fall (ICHR:NASDAQ) S
 
 AI stocks – just a correction? payoff
 
-### 78. The AI Stock Sell-Off Is Spreading: How Will It Affect Startups Around The World? - TechRound
+### 79. The AI Stock Sell-Off Is Spreading: How Will It Affect Startups Around The World? - TechRound
 
 - Source: TechRound
 - Published: 2026-11-24T14:14:02+00:00
@@ -786,7 +796,7 @@ AI stocks – just a correction? payoff
 
 The AI Stock Sell-Off Is Spreading: How Will It Affect Startups Around The World? TechRound
 
-### 79. Oppenheimer’s $250 Target Says NVIDIA’s Selloff Went Too Far - TIKR.com
+### 80. Oppenheimer’s $250 Target Says NVIDIA’s Selloff Went Too Far - TIKR.com
 
 - Source: TIKR.com
 - Published: 2026-11-24T13:20:12+00:00
@@ -795,13 +805,3 @@ The AI Stock Sell-Off Is Spreading: How Will It Affect Startups Around The World
 - Link: https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdk42UjlELWFkdWQ3NVhUVFdpaThoXzN2VHdXT2pMRFRZcG8xVEdYOTRHTjlzb0F0SHFfZnIwYmxTVzNCQ0tvQm5nNFJfWWhmUTdram5WbmFsV0o2LXFlbHRuX203MVMxNHkwX0dzdl84bjR3N29ETXRTbnQtQkUxbWd6NEs0QWtIeHF1UFhCWmxNcWZRWG1STm5VVW5qNDJqWWlyanZpdWUyUHdrNl9JZkpHdEI0RHdBZmU3Vjg5YkhmZw?oc=5
 
 Oppenheimer’s $250 Target Says NVIDIA’s Selloff Went Too Far TIKR.com
-
-### 80. US stocks sell-off: How exposed are Indian and global investors to the AI trade? - The Financial Express
-
-- Source: The Financial Express
-- Published: 2026-11-24T12:53:03+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX240bDlXdElBM1k5clEtOXdRdWZTNmgtbkZCLWV5bnRaZm1VdjdoUWlqWFBSd1NUMWRmTHRsR0VVdHBvVFlibGNvZUROVUxPU0tNQW5yNUlIbmQtTzJ1MFp3bE5nd25xYWFYWTZ0WWowUTZiUW16UFJGRkFyLWV0ajI4NDRzdjZwR0dVMDBEbWM2bnhSUUFlSXEwdTZQN3VjOWI3dm1KYXJBMmdCN3JIb2EtVUQ3MDdTdWtCZmh1bXdCRklfd3RjSzRlZWhpc0hTdGpDOF9yN2dmZGdpRW5VX3RoYWlkeVnSAe4BQVVfeXFMUGV4Yl9iejYzUWNINGRBOFFXV2ZhR3BuOXV1Y0g0N2Y2RldNUjBXMXBPUEp5UG1rV3g3RzBaNnhnX2N1REMxcURhcVpWYUl1OGxNUFpBWVBoeS13UHBDNXdzZDkxX2N5QjZBbmpEYlFIY2ZscEw1Q1pneWtBZVhxd3BNeWwzcTAtY1Z0Zkd6SmVVRU1WSEoyOXhpTW9HeFRJMHFFVnA3M1NtbDdBNDhXRUJYajloeGxTaE53ZE5sa09EY1M5RzJEdXZQb2Q1cm9IQy03VzFUZmUwRFlYT1B3TjNvQXBxY2FfVndweXV0QQ?oc=5
-
-US stocks sell-off: How exposed are Indian and global investors to the AI trade? The Financial Express
