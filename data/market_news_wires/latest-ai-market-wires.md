@@ -1,6 +1,6 @@
 # AI and Market-Selling News Wire Digest
 
-Generated: 2026-11-26 06:08
+Generated: 2026-11-26 06:38
 
 Focus: AI/technology risk, broader market selling, Indian equities, flows, mutual funds, and macro triggers.
 
@@ -16,17 +16,7 @@ Focus: AI/technology risk, broader market selling, Indian equities, flows, mutua
 
 Sensex jumps 1,900 points as Indian IT stocks gain amid US AI sell-off The Pioneer
 
-### 2. Nvidia, Micron and Oracle Shares Fall as AI Sell-Off Continues; Key Reasons Behind the Decline - Kotak Neo
-
-- Source: Kotak Neo
-- Published: 2026-11-26T03:37:11+00:00
-- Themes: AI / tech risk, market selling
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMi4wFBVV95cUxQQ1gxUTE2RXBKNUdSVkJUSDJfd3Jidm5EdDVIQjRMVHNVOEZwVWpCMTUwZ2ZYcEJMQ0NVdzlZRWlzU09ub2VlSFdtSUFsWTdTQ0syN05ka0Ita2gybFhrbmI3SUtvWXYzNVFnY0tPaWkwUEc3UE5TUVFZODVMVkJwemJPRS1JNm5oWTJ5aTkzMjNRMWNHTEVkV3M4dzJITk5ENExMNk1pNXdxaTEwS1Fpa29XbWdUYjE5SU15VmI0YnVzYnk2QnFESm9TVEhWSnJEb0VQLTBhQTF6Zy1vWHVMZVdRRQ?oc=5
-
-Nvidia, Micron and Oracle Shares Fall as AI Sell-Off Continues; Key Reasons Behind the Decline Kotak Neo
-
-### 3. Cold Water on the AI Trade: European Stocks Fall Broadly; Tokyo Market Drops 2,100 Yen as Nvidia Frenzy Reverses - BigGo Finance
+### 2. Cold Water on the AI Trade: European Stocks Fall Broadly; Tokyo Market Drops 2,100 Yen as Nvidia Frenzy Reverses - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T18:55:00+00:00
@@ -36,7 +26,7 @@ Nvidia, Micron and Oracle Shares Fall as AI Sell-Off Continues; Key Reasons Behi
 
 Cold Water on the AI Trade: European Stocks Fall Broadly; Tokyo Market Drops 2,100 Yen as Nvidia Frenzy Reverses BigGo Finance
 
-### 4. AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again - Yahoo Finance
+### 3. AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-25T17:02:36+00:00
@@ -46,7 +36,7 @@ Cold Water on the AI Trade: European Stocks Fall Broadly; Tokyo Market Drops 2,1
 
 AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again Yahoo Finance
 
-### 5. AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again - TradingView
+### 4. AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T17:02:36+00:00
@@ -56,7 +46,7 @@ AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again Ya
 
 AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again TradingView
 
-### 6. GIFT Nifty futures fall 0.53% after US tariff proposals on India; Wall Street slides, Nasdaq drops 4% - The Economic Times
+### 5. GIFT Nifty futures fall 0.53% after US tariff proposals on India; Wall Street slides, Nasdaq drops 4% - The Economic Times
 
 - Source: The Economic Times
 - Published: 2026-11-25T15:52:05+00:00
@@ -66,7 +56,7 @@ AI Chip Stocks Extend Brutal Selloff as Nvidia, AMD and Broadcom Tumble Again Tr
 
 GIFT Nifty futures fall 0.53% after US tariff proposals on India; Wall Street slides, Nasdaq drops 4% The Economic Times
 
-### 7. US Stocks Plunge; Dow Falls More Than 1,000 Points at One Stage as AI Selloff Persists, Nasdaq Drops 4% - BigGo Finance
+### 6. US Stocks Plunge; Dow Falls More Than 1,000 Points at One Stage as AI Selloff Persists, Nasdaq Drops 4% - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T15:05:00+00:00
@@ -76,7 +66,7 @@ GIFT Nifty futures fall 0.53% after US tariff proposals on India; Wall Street sl
 
 US Stocks Plunge; Dow Falls More Than 1,000 Points at One Stage as AI Selloff Persists, Nasdaq Drops 4% BigGo Finance
 
-### 8. AI Selloff Deepens: Nasdaq Down 4% As Nvidia Sharply Falls - Forbes
+### 7. AI Selloff Deepens: Nasdaq Down 4% As Nvidia Sharply Falls - Forbes
 
 - Source: Forbes
 - Published: 2026-11-25T14:57:00+00:00
@@ -86,7 +76,7 @@ US Stocks Plunge; Dow Falls More Than 1,000 Points at One Stage as AI Selloff Pe
 
 AI Selloff Deepens: Nasdaq Down 4% As Nvidia Sharply Falls Forbes
 
-### 9. Morning Call Sheet: Tech selloff, AI bubble concerns and Fed rate hike risks - CNBC
+### 8. Morning Call Sheet: Tech selloff, AI bubble concerns and Fed rate hike risks - CNBC
 
 - Source: CNBC
 - Published: 2026-11-25T12:54:56+00:00
@@ -96,17 +86,7 @@ AI Selloff Deepens: Nasdaq Down 4% As Nvidia Sharply Falls Forbes
 
 Morning Call Sheet: Tech selloff, AI bubble concerns and Fed rate hike risks CNBC
 
-### 10. News | Nifty, Sensex Rise; Crude-Sensitive Stocks Gain Up to 4% as Brent Falls - Kalkine India
-
-- Source: Kalkine India
-- Published: 2026-11-25T11:33:50+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 9
-- Link: https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSVQzT0lrbHN3S1NVeklOam5kVnV0V1VXejdNeHFGeUIxUWpQOXY5a05MeXlGVU5zV1dOaEJPQzE2MmR1aEhwSnBPcE5hTUM0SzdLWHhiUUN3TU5SMWNlLXh0ckFPb3drX0dPcVNsQk9tdUo3dEZnZkRxX3ZfU0o1UlR6cnM2ZEdqSGk3bmEtajZFdlQxWHNWcG1adXVIdXR2V3dBcnU3UFowTEF5ckNVMEc5ZkVJa2I3enRj?oc=5
-
-News | Nifty, Sensex Rise; Crude-Sensitive Stocks Gain Up to 4% as Brent Falls Kalkine India
-
-### 11. Arm Holdings stock drops as AI selloff and SoftBank decline weigh - StreetInsider
+### 9. Arm Holdings stock drops as AI selloff and SoftBank decline weigh - StreetInsider
 
 - Source: StreetInsider
 - Published: 2026-11-26T04:53:12+00:00
@@ -116,7 +96,7 @@ News | Nifty, Sensex Rise; Crude-Sensitive Stocks Gain Up to 4% as Brent Falls K
 
 Arm Holdings stock drops as AI selloff and SoftBank decline weigh StreetInsider
 
-### 12. Applied Materials (AMAT) Falls In Chip Selloff, Is It 44% Undervalued? - Yahoo Finance
+### 10. Applied Materials (AMAT) Falls In Chip Selloff, Is It 44% Undervalued? - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-26T00:34:00+00:00
@@ -126,7 +106,7 @@ Arm Holdings stock drops as AI selloff and SoftBank decline weigh StreetInsider
 
 Applied Materials (AMAT) Falls In Chip Selloff, Is It 44% Undervalued? Yahoo Finance
 
-### 13. US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street - BusinessLine
+### 11. US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street - BusinessLine
 
 - Source: BusinessLine
 - Published: 2026-11-25T23:42:09+00:00
@@ -136,7 +116,7 @@ Applied Materials (AMAT) Falls In Chip Selloff, Is It 44% Undervalued? Yahoo Fin
 
 US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street BusinessLine
 
-### 14. Tech selloff extends on AI, neocloud jitters - Semafor
+### 12. Tech selloff extends on AI, neocloud jitters - Semafor
 
 - Source: Semafor
 - Published: 2026-11-25T22:27:00+00:00
@@ -146,7 +126,7 @@ US stock market today: Dow rises, Nasdaq falls as AI selloff hits Wall Street Bu
 
 Tech selloff extends on AI, neocloud jitters Semafor
 
-### 15. New York Stocks Recover From AI Selloff Panic... Nvidia's Loss Narrowed From 9.1% to 3.9% - BigGo Finance
+### 13. New York Stocks Recover From AI Selloff Panic... Nvidia's Loss Narrowed From 9.1% to 3.9% - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T22:05:00+00:00
@@ -156,7 +136,7 @@ Tech selloff extends on AI, neocloud jitters Semafor
 
 New York Stocks Recover From AI Selloff Panic... Nvidia's Loss Narrowed From 9.1% to 3.9% BigGo Finance
 
-### 16. Nvidia ends lower for second straight session as AI trade selloff gathers pace - Investing.com
+### 14. Nvidia ends lower for second straight session as AI trade selloff gathers pace - Investing.com
 
 - Source: Investing.com
 - Published: 2026-11-25T21:33:43+00:00
@@ -166,7 +146,7 @@ New York Stocks Recover From AI Selloff Panic... Nvidia's Loss Narrowed From 9.1
 
 Nvidia ends lower for second straight session as AI trade selloff gathers pace Investing.com
 
-### 17. Fed worries driving market selloff, not AI, says 3Fourteen's Warren Pies - CNBC
+### 15. Fed worries driving market selloff, not AI, says 3Fourteen's Warren Pies - CNBC
 
 - Source: CNBC
 - Published: 2026-11-25T21:26:17+00:00
@@ -176,17 +156,17 @@ Nvidia ends lower for second straight session as AI trade selloff gathers pace I
 
 Fed worries driving market selloff, not AI, says 3Fourteen's Warren Pies CNBC
 
-### 18. Canadian dollar hits 2-week high as AI stock selloff deepens - Reuters
+### 16. Canadian dollar hits 2-week high as AI stock selloff deepens - Kitco
 
-- Source: Reuters
-- Published: 2026-11-25T18:12:10+00:00
+- Source: Kitco
+- Published: 2026-11-25T20:02:21+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMipwFBVV95cUxNbmoyLUlEN3ZIUUlpaEhIMnpMMkJhZ3JIQ3E4cTRFLS1yUnBGOVVoMGZleFZkaF9wU0pOam1SWDNGNXgzdHFwd2ZhbFpqZ3pMeTBpeFpfanYwcDJoY2F4dWJ5SHlKQmZtckVRWXAtVFZnVmVlRlVFMmVHTFYtTVRPZG5xYjlobWZzMkl2WDRMSFNlNjdCZjlwQkhWRnZiclNzaFBVSDFxdw?oc=5
+- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOanNOUVgxRWZ5NVpYUkxPS1FiNEtzMHk1WGJxRG5Ldk9wekt3a2FEX2J2OFdvRGl2NUZ0RDQ4QklOOG1kOXZFckdtem1DWVRGVGlCSEU1V1JKVmRIRXNFbllMSVFWWHBpakdtR3doZVliV0RjTk5UeGFtSGdMN29hTUxiU3I0bGxrYXV2RmNlUW1OVTZ3S1YwNjlNSEJ3TjNwSWR1US1PWU1lTnRP?oc=5
 
-Canadian dollar hits 2-week high as AI stock selloff deepens Reuters
+Canadian dollar hits 2-week high as AI stock selloff deepens Kitco
 
-### 19. Canadian dollar hits 2-week high as AI stock selloff deepens - TradingView
+### 17. Canadian dollar hits 2-week high as AI stock selloff deepens - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T18:05:39+00:00
@@ -196,7 +176,17 @@ Canadian dollar hits 2-week high as AI stock selloff deepens Reuters
 
 Canadian dollar hits 2-week high as AI stock selloff deepens TradingView
 
-### 20. Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets - Decrypt
+### 18. Gold Slumps on Rate Hike Outlook, AI Stocks Selloff - Yahoo Finance
+
+- Source: Yahoo Finance
+- Published: 2026-11-25T17:22:33+00:00
+- Themes: AI / tech risk, market selling
+- Score: 8
+- Link: https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0swSlB2cVFMeWFJTDE1bVA1NmFvTElfVnAxWnY4LXl6aURtTHhONW8wMVUzZ2I4NkRQOTl3NmNkNnhoaHZKRWVsb2ZiZFUzWEFHTV9UekRJNEVJbEFfeHk2MVJaVmlxcEhjRFF1b1NIMU1WdzBiOC1lZ3ZJaFRuSElR?oc=5
+
+Gold Slumps on Rate Hike Outlook, AI Stocks Selloff Yahoo Finance
+
+### 19. Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets - Decrypt
 
 - Source: Decrypt
 - Published: 2026-11-25T16:52:50+00:00
@@ -206,27 +196,7 @@ Canadian dollar hits 2-week high as AI stock selloff deepens TradingView
 
 Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets Decrypt
 
-### 21. Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-25T16:52:50+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMipAFBVV95cUxPOFhEUmQxaFBsZmszQkxnaVE4M3hUcHQtNFpmbDVieHdiRW50SVZCTnFRUkRkUHFxR0FCQVpDTUk2S0hXTGh3YXI1cWNVVTVxRFNHVjdlZ2x1MHFrd3ZfX1BQdGRabXRwakVGV2VKcHk3VFJPRzhoSzFWcWxHOHlXbVRMTm9RamFmZVNWNzFRbVB3Yjg2bkZRRkViVUxLMDRqZHlVXw?oc=5
-
-Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets Yahoo Finance
-
-### 22. Nasdaq tumbles 4% as Nvidia leads AI sell-off, inflation and tariffs weigh on investors - Yahoo Finance
-
-- Source: Yahoo Finance
-- Published: 2026-11-25T16:43:13+00:00
-- Themes: AI / tech risk, market selling
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkVucHFsYk91LUJRTjJQX2RCSGwwUWhzVkhHTU5wREtmaEpxNk9ORTdKam9iRXd0aWZPX0U1RkxqTC1BN1NUOFV1dUowMlFXLVp2RjFkRVFrNFBSYWZDV3lGenRTQzVVOU0zOXlTZWZwQkZKNkNDbzBXbEs1akdqdThjbE1fRnFzMTBlbENDV1J6c05sRVNMeXN3?oc=5
-
-Nasdaq tumbles 4% as Nvidia leads AI sell-off, inflation and tariffs weigh on investors Yahoo Finance
-
-### 23. Why Is Amazon Stock Down Today? Shares Fall 5.6% as an AI Selloff Hits Big Tech and the Nasdaq Sinks 3.9% - Around Prague
+### 20. Why Is Amazon Stock Down Today? Shares Fall 5.6% as an AI Selloff Hits Big Tech and the Nasdaq Sinks 3.9% - Around Prague
 
 - Source: Around Prague
 - Published: 2026-11-25T16:31:06+00:00
@@ -236,7 +206,7 @@ Nasdaq tumbles 4% as Nvidia leads AI sell-off, inflation and tariffs weigh on in
 
 Why Is Amazon Stock Down Today? Shares Fall 5.6% as an AI Selloff Hits Big Tech and the Nasdaq Sinks 3.9% Around Prague
 
-### 24. Nvidia stock falls amid selloff and legal scrutiny over governance, export controls - Traders Union
+### 21. Nvidia stock falls amid selloff and legal scrutiny over governance, export controls - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-25T16:17:29+00:00
@@ -246,7 +216,7 @@ Why Is Amazon Stock Down Today? Shares Fall 5.6% as an AI Selloff Hits Big Tech 
 
 Nvidia stock falls amid selloff and legal scrutiny over governance, export controls Traders Union
 
-### 25. Billionaires lose $380 billion in a day as AI selloff drags Nvidia down 8% - Forbes Australia
+### 22. Billionaires lose $380 billion in a day as AI selloff drags Nvidia down 8% - Forbes Australia
 
 - Source: Forbes Australia
 - Published: 2026-11-25T16:14:19+00:00
@@ -256,7 +226,7 @@ Nvidia stock falls amid selloff and legal scrutiny over governance, export contr
 
 Billionaires lose $380 billion in a day as AI selloff drags Nvidia down 8% Forbes Australia
 
-### 26. Snowflake’s AI Momentum Is Snowballing. Don’t Let the Tech Selloff Scare You. - Barron's
+### 23. Snowflake’s AI Momentum Is Snowballing. Don’t Let the Tech Selloff Scare You. - Barron's
 
 - Source: Barron's
 - Published: 2026-11-25T15:57:00+00:00
@@ -266,7 +236,7 @@ Billionaires lose $380 billion in a day as AI selloff drags Nvidia down 8% Forbe
 
 Snowflake’s AI Momentum Is Snowballing. Don’t Let the Tech Selloff Scare You. Barron's
 
-### 27. US Stocks Plunge as AI Selloff Sends Dow Down 1,000 Points; Tariff Proposal Adds Pressure - BigGo Finance
+### 24. US Stocks Plunge as AI Selloff Sends Dow Down 1,000 Points; Tariff Proposal Adds Pressure - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T15:55:00+00:00
@@ -276,7 +246,7 @@ Snowflake’s AI Momentum Is Snowballing. Don’t Let the Tech Selloff Scare You
 
 US Stocks Plunge as AI Selloff Sends Dow Down 1,000 Points; Tariff Proposal Adds Pressure BigGo Finance
 
-### 28. Broadcom Stocks Slide 6.86% as AI Chip Selloff Deepens - TradingView
+### 25. Broadcom Stocks Slide 6.86% as AI Chip Selloff Deepens - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T15:46:31+00:00
@@ -286,7 +256,7 @@ US Stocks Plunge as AI Selloff Sends Dow Down 1,000 Points; Tariff Proposal Adds
 
 Broadcom Stocks Slide 6.86% as AI Chip Selloff Deepens TradingView
 
-### 29. Meta Platforms Stocks Fall 2.91% as Big Tech Selloff Spreads - TradingView
+### 26. Meta Platforms Stocks Fall 2.91% as Big Tech Selloff Spreads - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T15:39:32+00:00
@@ -296,17 +266,7 @@ Broadcom Stocks Slide 6.86% as AI Chip Selloff Deepens TradingView
 
 Meta Platforms Stocks Fall 2.91% as Big Tech Selloff Spreads TradingView
 
-### 30. Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St - TradingView
-
-- Source: TradingView
-- Published: 2026-11-25T15:27:57+00:00
-- Themes: AI / tech risk, market selling, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1BoWVNkZFVZVDQ1eENDbS1iUnBLOFNTa2lsR3VkVldHV0NRazRLdV9tUTJJTzM1dWJrY3RocERmREFMczctU2hnQ0hFSWppemNqS0s5aDkzbTd2WW43UkhxdWt0SHB6QmxaMHhYdHdGZ1pnejZPWHBzcEl4dkRwRmtKdDdLR1FVd0NXUFFsMFdqMUJUU040VnFNS0Q2aFQwTVZELVBOY1RXanMwNU9TOWoxekFHbm1yTlkxTnpaaldoT0hvUU9ETlhLRQ?oc=5
-
-Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St TradingView
-
-### 31. Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff - Yahoo Finance
+### 27. Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-25T15:00:41+00:00
@@ -316,27 +276,27 @@ Nasdaq slides 4% as AI selloff, tariff proposals rattle Wall St TradingView
 
 Why Nvidia (NVDA) Stock Is Falling Today: Tech and Chip Selloff Yahoo Finance
 
-### 32. Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises - Yahoo Finance
+### 28. Nasdaq Futures Drop 2% as AI Selloff Deepens and New Tariff Plans Loom - BigGo Finance
 
-- Source: Yahoo Finance
-- Published: 2026-11-25T14:38:08+00:00
+- Source: BigGo Finance
+- Published: 2026-11-25T13:55:00+00:00
 - Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMilAFBVV95cUxPbTdiM0RMdDQ3cVQtblMtZU02M2RUWlZBbTM4bHJNc1I0NVlLLUh1TE92S0RIWHowTHhMSW85T0NYQ1lzanhPamc5Q1Z4OHVBOS04djNmREtaSGgweUxQSjNxUkdJcVlMMmZKUDlDcE4wUUdqZHR2LURUTXpsNklfX3NOaDc4LXZWT2c4Y2JFWW5zVFhQ?oc=5
+- Link: https://news.google.com/rss/articles/CBMidkFVX3lxTE5Mc3plTWItd3Q1STN4TVZLMUlaTFgyUFNnVWVvWE8wT2dwb253NHNwRjZwRVhRZVJIR1JKQzZVaWRFcG1mRWIycUVDaXFjYTlUZWt0N1ZVdThGSVRObXpyTGZ6eFJBTGlIeVZHWVdNTE0tSWF5OXc?oc=5
 
-Stocks tumble as AI sell-off deepens, Fed's preferred inflation gauge rises Yahoo Finance
+Nasdaq Futures Drop 2% as AI Selloff Deepens and New Tariff Plans Loom BigGo Finance
 
-### 33. Tech stock sell-off deepens as AI fears outweigh Huang’s Nvidia return - CNN
+### 29. TSX futures slip amid deepening tech selloff, U.S. tariff reports - Yahoo Finance
 
-- Source: CNN
-- Published: 2026-11-25T14:02:14+00:00
-- Themes: AI / tech risk, market selling
+- Source: Yahoo Finance
+- Published: 2026-11-25T13:54:09+00:00
+- Themes: AI / tech risk, market selling, macro / flows
 - Score: 8
-- Link: https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXQ2NDBKdFVxNFVRMEk3bTdlaHNlalZzcGVHb2ZOeURvZTdpeWRuVHp4UGxpLW1PUVluOW5tRmZ0dXJmb2pBRHNJYTk5TWczbTkzT19Cc3ZVdHlFU0VpWmE4bUtTbEJWZ3RpdUtsUjhOMWQzMlNBM0lsTE90Vng3cTRLazN3aWZkVnhJ?oc=5
+- Link: https://news.google.com/rss/articles/CBMinAFBVV95cUxQZlA0ejVLWkI1emVQQnRXRmVocXRCOUZiM2E5SzJFZVZUWWppZktMd2lRTGV3bG9KV25TM1M1c0JoRzBIdVJUaFhsb1laaUpFNWJXREllNnVIT2xiVkE0dW9UZUIzdGFTZU1FeUJvaXY2YlpkMWN1UzdEcE1fdlNPNDNlaE1RYWhMSjBuaXZ0eXNqNi1jMzYxUklmYVo?oc=5
 
-Tech stock sell-off deepens as AI fears outweigh Huang’s Nvidia return CNN
+TSX futures slip amid deepening tech selloff, U.S. tariff reports Yahoo Finance
 
-### 34. AI sell-off is a correction, not the end of the trade, says Shankar Sharma - Moneycontrol.com
+### 30. AI sell-off is a correction, not the end of the trade, says Shankar Sharma - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-25T12:26:22+00:00
@@ -346,7 +306,7 @@ Tech stock sell-off deepens as AI fears outweigh Huang’s Nvidia return CNN
 
 AI sell-off is a correction, not the end of the trade, says Shankar Sharma Moneycontrol.com
 
-### 35. AI sell-off is a correction, not the end of the trade, says Shankar Sharma - Moneycontrol.com
+### 31. AI sell-off is a correction, not the end of the trade, says Shankar Sharma - Moneycontrol.com
 
 - Source: Moneycontrol.com
 - Published: 2026-11-25T12:13:05+00:00
@@ -356,7 +316,7 @@ AI sell-off is a correction, not the end of the trade, says Shankar Sharma Money
 
 AI sell-off is a correction, not the end of the trade, says Shankar Sharma Moneycontrol.com
 
-### 36. Watch Tech Selloff Rolls On as AI Worries Persist - Bloomberg
+### 32. Watch Tech Selloff Rolls On as AI Worries Persist - Bloomberg
 
 - Source: Bloomberg
 - Published: 2026-11-25T11:55:00+00:00
@@ -366,7 +326,7 @@ AI sell-off is a correction, not the end of the trade, says Shankar Sharma Money
 
 Watch Tech Selloff Rolls On as AI Worries Persist Bloomberg
 
-### 37. Global tech selloff deepens amid growing risks surrounding AI spending - Traders Union
+### 33. Global tech selloff deepens amid growing risks surrounding AI spending - Traders Union
 
 - Source: Traders Union
 - Published: 2026-11-25T11:08:11+00:00
@@ -376,7 +336,7 @@ Watch Tech Selloff Rolls On as AI Worries Persist Bloomberg
 
 Global tech selloff deepens amid growing risks surrounding AI spending Traders Union
 
-### 38. HFCL, Sterlite Technologies Shares Drop as Nvidia, AMD Sell-Off Revives Concerns over AI Data Centre Spending - Kotak Neo
+### 34. HFCL, Sterlite Technologies Shares Drop as Nvidia, AMD Sell-Off Revives Concerns over AI Data Centre Spending - Kotak Neo
 
 - Source: Kotak Neo
 - Published: 2026-11-25T07:17:32+00:00
@@ -386,17 +346,17 @@ Global tech selloff deepens amid growing risks surrounding AI spending Traders U
 
 HFCL, Sterlite Technologies Shares Drop as Nvidia, AMD Sell-Off Revives Concerns over AI Data Centre Spending Kotak Neo
 
-### 39. Sensex, Nifty open marginally higher over crude price correction - DD News
+### 35. Sensex falls 300 pts from day's high, Nifty below 25,900: Key reasons behind market paring gains - Moneycontrol.com
 
-- Source: DD News
-- Published: 2026-11-25T06:25:55+00:00
-- Themes: market selling, India market, macro / flows
-- Score: 8
-- Link: https://news.google.com/rss/articles/CBMikwFBVV95cUxNMkpRbV82bXFMSmU0MkItSVlBQmFiUFI0UHVGOUs0NHVOXzVFNmlnTEhVcWNPS1JtQVBjekZaOXdtZGlfTzFWejQ0RHc5YTc2RzFtQ215dzJ3aS1uNGFJVGNmY0p5TldsTTlBUVJqQTFYZ2NjdEZYV0loVkVXcG8tQnVQaGttQ3ZGWDhZei0xUzBqREE?oc=5
+- Source: Moneycontrol.com
+- Published: 2026-11-26T06:28:49+00:00
+- Themes: market selling, India market
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMzZJUGk3TWxSQ1g5YmMyY3JRNDdXdF9vYVk5RklYRVJhMHg5QTU1a3lDWUhwX2RuSkRXVE84aUtDUlhBeWFNMjM1aGJicU1rV2JyVy1PaFBSZ09FQzkydVRtaTZXTy1Sc2JtRWRULXdOWlhDUlJteFludUtjc1lZemJLM1NFcVFzQUN6ZzJjSVl0N2hoY24tNVhXTmlBdlpjTVBmZG80bzc4SFdGN3F6U2VrUmxoTTROUGhLVE9CcVdxWDBOWXJlSVQtbXhDTFA0LXQ2dlpLRFdhWXB3SmNMZnhSWlpNRGhpWFZ3aEpwYkbSAfYBQVVfeXFMTlhNSkJ0VHhkT0h1anpxSS13YndKS2lZbHMyLVI5aXFsVnVpRWF3dFFWMW9jTmF5RkRmWGpnUU5aWndKSTR2SHVrYlI5NGtSZVdHeGZ1VkVGSi0yWlM5bWZjQ0V6Y1RnSF9BdWtuTFhma0VpMlcxMDQ2OUtVVEo3S0ZDaFdZY2xkTXgtV2J6VWlsOExxS041Y0hORE1Id0ZfZ25RSEZrMkp4VjVEZXdRejhPYUotTm5EZUNhVkwtb0F3QmY5SUQ2aUlLSmcyTnNON01nXzhIbFU2dVNERG1GNWdEcUxLSS1ZLTNIQWhtZXVPN2N3UXdB?oc=5
 
-Sensex, Nifty open marginally higher over crude price correction DD News
+Sensex falls 300 pts from day's high, Nifty below 25,900: Key reasons behind market paring gains Moneycontrol.com
 
-### 40. Asia has less to fear from the AI correction than you might think - The Business Times
+### 36. Asia has less to fear from the AI correction than you might think - The Business Times
 
 - Source: The Business Times
 - Published: 2026-11-26T05:00:00+00:00
@@ -406,7 +366,7 @@ Sensex, Nifty open marginally higher over crude price correction DD News
 
 Asia has less to fear from the AI correction than you might think The Business Times
 
-### 41. Nifty 500: Siemens Energy India jumps 7% as profit surges 82%; LG Electronics falls on block deal - CNBC TV18
+### 37. Nifty 500: Siemens Energy India jumps 7% as profit surges 82%; LG Electronics falls on block deal - CNBC TV18
 
 - Source: CNBC TV18
 - Published: 2026-11-26T04:35:36+00:00
@@ -416,7 +376,17 @@ Asia has less to fear from the AI correction than you might think The Business T
 
 Nifty 500: Siemens Energy India jumps 7% as profit surges 82%; LG Electronics falls on block deal CNBC TV18
 
-### 42. What Happens If Oil Falls Back To $45? Cameron Brandt Decodes On How India Stands To Benefit - NDTV Profit
+### 38. Hyperscaler capex rises, AI stocks fall as inve... - Pluang
+
+- Source: Pluang
+- Published: 2026-11-26T04:24:35+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMijwFBVV95cUxQOURJUDRXb3NrLWc4T09RSktHSlUzMU82WHN2b3BuV0R5cHRpWThjOG5abnVaclJzaVdXZHVrNk5LaUNiSlgxV3g5MmtwQzB5REpMVk1TLTJ6MGdBQUtRY2lYSjBSX2U1bDdmazFFb2U1blBpVkpibkl4UVJFZ2pxZjhNVGUwU1hLc2l0S1BPaw?oc=5
+
+Hyperscaler capex rises, AI stocks fall as inve... Pluang
+
+### 39. What Happens If Oil Falls Back To $45? Cameron Brandt Decodes On How India Stands To Benefit - NDTV Profit
 
 - Source: NDTV Profit
 - Published: 2026-11-26T03:56:52+00:00
@@ -426,7 +396,7 @@ Nifty 500: Siemens Energy India jumps 7% as profit surges 82%; LG Electronics fa
 
 What Happens If Oil Falls Back To $45? Cameron Brandt Decodes On How India Stands To Benefit NDTV Profit
 
-### 43. Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? - Mitrade
+### 40. Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? - Mitrade
 
 - Source: Mitrade
 - Published: 2026-11-26T03:53:49+00:00
@@ -436,7 +406,7 @@ What Happens If Oil Falls Back To $45? Cameron Brandt Decodes On How India Stand
 
 Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? Mitrade
 
-### 44. Stock Market Today: Sensex gains 200 points, Nifty falls below 25,800; Nifty IT up 2% - Zee Business
+### 41. Stock Market Today: Sensex gains 200 points, Nifty falls below 25,800; Nifty IT up 2% - Zee Business
 
 - Source: Zee Business
 - Published: 2026-11-26T03:50:40+00:00
@@ -446,7 +416,7 @@ Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? Mitrade
 
 Stock Market Today: Sensex gains 200 points, Nifty falls below 25,800; Nifty IT up 2% Zee Business
 
-### 45. Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues - FOREX.com
+### 42. Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues - FOREX.com
 
 - Source: FOREX.com
 - Published: 2026-11-26T02:56:08+00:00
@@ -456,7 +426,7 @@ Stock Market Today: Sensex gains 200 points, Nifty falls below 25,800; Nifty IT 
 
 Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues FOREX.com
 
-### 46. Pre-Market 26 November 2026: GIFT Nifty Rises as Investors Track Global Tech Sell-Off and Oil Prices - Kotak Neo
+### 43. Pre-Market 26 November 2026: GIFT Nifty Rises as Investors Track Global Tech Sell-Off and Oil Prices - Kotak Neo
 
 - Source: Kotak Neo
 - Published: 2026-11-26T02:51:40+00:00
@@ -466,7 +436,7 @@ Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues FOREX.com
 
 Pre-Market 26 November 2026: GIFT Nifty Rises as Investors Track Global Tech Sell-Off and Oil Prices Kotak Neo
 
-### 47. Core PCE Hits 3.3% as the AI Selloff Returns - InvestorPlace
+### 44. Core PCE Hits 3.3% as the AI Selloff Returns - InvestorPlace
 
 - Source: InvestorPlace
 - Published: 2026-11-26T02:05:20+00:00
@@ -476,7 +446,7 @@ Pre-Market 26 November 2026: GIFT Nifty Rises as Investors Track Global Tech Sel
 
 Core PCE Hits 3.3% as the AI Selloff Returns InvestorPlace
 
-### 48. Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? - BeInCrypto
+### 45. Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? - BeInCrypto
 
 - Source: BeInCrypto
 - Published: 2026-11-26T01:55:00+00:00
@@ -486,7 +456,7 @@ Core PCE Hits 3.3% as the AI Selloff Returns InvestorPlace
 
 Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? BeInCrypto
 
-### 49. SGX Opens Lower With Wall Street’s AI Selloff Weighing On Sentiment - BusinessToday Malaysia
+### 46. SGX Opens Lower With Wall Street’s AI Selloff Weighing On Sentiment - BusinessToday Malaysia
 
 - Source: BusinessToday Malaysia
 - Published: 2026-11-26T01:10:31+00:00
@@ -496,7 +466,7 @@ Apple Stock Defies AI Selloff: Is It the Market's Safe Haven? BeInCrypto
 
 SGX Opens Lower With Wall Street’s AI Selloff Weighing On Sentiment BusinessToday Malaysia
 
-### 50. S&P 500, Nasdaq Close Lower on AI Selloff but Rebound Sharply Off Session Lows - BigGo Finance
+### 47. S&P 500, Nasdaq Close Lower on AI Selloff but Rebound Sharply Off Session Lows - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-26T00:56:00+00:00
@@ -506,7 +476,7 @@ SGX Opens Lower With Wall Street’s AI Selloff Weighing On Sentiment BusinessTo
 
 S&P 500, Nasdaq Close Lower on AI Selloff but Rebound Sharply Off Session Lows BigGo Finance
 
-### 51. Wall Street Closes Mixed As Bargain Hunting Limits AI-Driven Selloff - BusinessToday Malaysia
+### 48. Wall Street Closes Mixed As Bargain Hunting Limits AI-Driven Selloff - BusinessToday Malaysia
 
 - Source: BusinessToday Malaysia
 - Published: 2026-11-26T00:10:13+00:00
@@ -516,7 +486,7 @@ S&P 500, Nasdaq Close Lower on AI Selloff but Rebound Sharply Off Session Lows B
 
 Wall Street Closes Mixed As Bargain Hunting Limits AI-Driven Selloff BusinessToday Malaysia
 
-### 52. AI Stock Selloff Drags U.S. Shares Lower; Dow Plunges 1,000 Points Intraday Before Reversing to Close Up 164 - BigGo Finance
+### 49. AI Stock Selloff Drags U.S. Shares Lower; Dow Plunges 1,000 Points Intraday Before Reversing to Close Up 164 - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T22:35:00+00:00
@@ -526,7 +496,7 @@ Wall Street Closes Mixed As Bargain Hunting Limits AI-Driven Selloff BusinessTod
 
 AI Stock Selloff Drags U.S. Shares Lower; Dow Plunges 1,000 Points Intraday Before Reversing to Close Up 164 BigGo Finance
 
-### 53. Watch M&A Maintains Amid Selloff, AI Credit Risk Rises - Bloomberg.com
+### 50. Watch M&A Maintains Amid Selloff, AI Credit Risk Rises - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-25T22:11:33+00:00
@@ -536,7 +506,17 @@ AI Stock Selloff Drags U.S. Shares Lower; Dow Plunges 1,000 Points Intraday Befo
 
 Watch M&A Maintains Amid Selloff, AI Credit Risk Rises Bloomberg.com
 
-### 54. Dow Jones Industrial Average erases its drop as AI stocks fall - FXStreet
+### 51. Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand - BeInCrypto
+
+- Source: BeInCrypto
+- Published: 2026-11-25T22:03:37+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMidEFVX3lxTE5WeHpqdWpJVlJKUE9CckRBWkRwOXdvcjdwaHBhcVFMTEhMVTN2ZjljZmZMYXBudU1fdnh4ZHMya3dIY3lLaU52SmRULU1PS2tZN0ktSXEtWjdWWElpNXc4WEZ1WHFVSkVKREZRM1IzQ3RNT0Fu?oc=5
+
+Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand BeInCrypto
+
+### 52. Dow Jones Industrial Average erases its drop as AI stocks fall - FXStreet
 
 - Source: FXStreet
 - Published: 2026-11-25T21:39:57+00:00
@@ -546,7 +526,7 @@ Watch M&A Maintains Amid Selloff, AI Credit Risk Rises Bloomberg.com
 
 Dow Jones Industrial Average erases its drop as AI stocks fall FXStreet
 
-### 55. Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In - Bloomberg.com
+### 53. Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-25T21:17:13+00:00
@@ -556,17 +536,7 @@ Dow Jones Industrial Average erases its drop as AI stocks fall FXStreet
 
 Gut-Wrenching Volatility Grips Wall Street as AI Doubts Creep In Bloomberg.com
 
-### 56. Stocks tumble on new tariffs, inflation worries, leading to an AI sell-off - Fast Company
-
-- Source: Fast Company
-- Published: 2026-11-25T21:09:36+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMihAFBVV95cUxNQlhBUmJReUNxVFNtWlBEUGFnd3JUY2VvU2lRajVYdi1LZnhNTVpSdXN0SG13cjA2RGRzam5fZjRsQTc5cl9UdU41cC0wN3gwTWNPODdBQ0Z3bWhXTjlrbmFTUTRXa2lMZm1FbU05OGd2QUxRcTdObUVHb003eUc1akNUcXc?oc=5
-
-Stocks tumble on new tariffs, inflation worries, leading to an AI sell-off Fast Company
-
-### 57. Is the AI Correction Over? Why Ram Ahluwalia Thinks the AI Trade Has Hit Bottom - Yahoo Finance
+### 54. Is the AI Correction Over? Why Ram Ahluwalia Thinks the AI Trade Has Hit Bottom - Yahoo Finance
 
 - Source: Yahoo Finance
 - Published: 2026-11-25T20:00:07+00:00
@@ -576,7 +546,7 @@ Stocks tumble on new tariffs, inflation worries, leading to an AI sell-off Fast 
 
 Is the AI Correction Over? Why Ram Ahluwalia Thinks the AI Trade Has Hit Bottom Yahoo Finance
 
-### 58. Stocks close mixed after Wall Street erases sharp decline: Nvidia drops 4% - ABC News - Breaking News, Latest News and Videos
+### 55. Stocks close mixed after Wall Street erases sharp decline: Nvidia drops 4% - ABC News - Breaking News, Latest News and Videos
 
 - Source: ABC News - Breaking News, Latest News and Videos
 - Published: 2026-11-25T19:54:39+00:00
@@ -586,27 +556,17 @@ Is the AI Correction Over? Why Ram Ahluwalia Thinks the AI Trade Has Hit Bottom 
 
 Stocks close mixed after Wall Street erases sharp decline: Nvidia drops 4% ABC News - Breaking News, Latest News and Videos
 
-### 59. Watch Franklin Templeton's Araghi Sees AI Selloff as Market Reset - Bloomberg
+### 56. Watch Franklin Templeton's Araghi Sees AI Selloff as Market Reset - Bloomberg.com
 
-- Source: Bloomberg
+- Source: Bloomberg.com
 - Published: 2026-11-25T19:53:24+00:00
 - Themes: AI / tech risk, market selling
 - Score: 7
 - Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHg1QVFSU3RFbS0tbkhFU18zNXZXb196bUhOcTdpa1lkLVlpNVlDLTA1MmRlZVlaNWNNUmNSYVB3eTl4SnZCM25QZVFIaUZ5UjMzSUNWQ1Jwbi16QVdTMEo0MENZQkVNM1lyWjVqQ0VVZEhVNV9ESk5XWnFjQU5jalkyQnFGZnhaYWRoSVdpWWpyWTBEN3BEVnZ2X19iLUlHQXVnVjhXRml0dDBN?oc=5
 
-Watch Franklin Templeton's Araghi Sees AI Selloff as Market Reset Bloomberg
+Watch Franklin Templeton's Araghi Sees AI Selloff as Market Reset Bloomberg.com
 
-### 60. Markets sell-off eases up, but AI doubts, tariffs and inflation still weigh down stocks - NBC News
-
-- Source: NBC News
-- Published: 2026-11-25T18:36:31+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOdlpRc1pWbUlBRjhqREZ5aFk5SDJUMjEzOWtOeEZCd19aRnhneEJKaHRFSnQ1TGhTVzEtRmdySjZfdV9MUjVOZmxiN016Qkc5aXNUcEktOHUxUElnX2p6RDk5ZG95Z3hvb3B0bmR3THpRaUJ4bDVOalFaaXV1c2J1RXlnT2o1bXZ1WEI5XzBSQU5pLVBhbTlZNUlXX0hhY2UteDYzbnNB?oc=5
-
-Markets sell-off eases up, but AI doubts, tariffs and inflation still weigh down stocks NBC News
-
-### 61. AI-Linked Stocks Fall in Tandem; Nasdaq-100 Sheds ¥238 Trillion in a Single Day as Doubts Mount Over Returns on Massive Investment - BigGo Finance
+### 57. AI-Linked Stocks Fall in Tandem; Nasdaq-100 Sheds ¥238 Trillion in a Single Day as Doubts Mount Over Returns on Massive Investment - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T18:25:00+00:00
@@ -616,7 +576,7 @@ Markets sell-off eases up, but AI doubts, tariffs and inflation still weigh down
 
 AI-Linked Stocks Fall in Tandem; Nasdaq-100 Sheds ¥238 Trillion in a Single Day as Doubts Mount Over Returns on Massive Investment BigGo Finance
 
-### 62. Nikkei Average Plunges More Than 2,100 Points Intraday as U.S. AI Stock Selloff Spills Over, Briefly Breaks Below 57,000 - BigGo Finance
+### 58. Nikkei Average Plunges More Than 2,100 Points Intraday as U.S. AI Stock Selloff Spills Over, Briefly Breaks Below 57,000 - BigGo Finance
 
 - Source: BigGo Finance
 - Published: 2026-11-25T18:25:00+00:00
@@ -626,7 +586,7 @@ AI-Linked Stocks Fall in Tandem; Nasdaq-100 Sheds ¥238 Trillion in a Single Day
 
 Nikkei Average Plunges More Than 2,100 Points Intraday as U.S. AI Stock Selloff Spills Over, Briefly Breaks Below 57,000 BigGo Finance
 
-### 63. Marvell Technology Stocks Fall 8.47% as Data Center Exposure Bites - TradingView
+### 59. Marvell Technology Stocks Fall 8.47% as Data Center Exposure Bites - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T17:59:58+00:00
@@ -636,7 +596,7 @@ Nikkei Average Plunges More Than 2,100 Points Intraday as U.S. AI Stock Selloff 
 
 Marvell Technology Stocks Fall 8.47% as Data Center Exposure Bites TradingView
 
-### 64. SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer - TradingView
+### 60. SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T17:44:25+00:00
@@ -646,7 +606,17 @@ Marvell Technology Stocks Fall 8.47% as Data Center Exposure Bites TradingView
 
 SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer TradingView
 
-### 65. Palantir Stocks Fall 4.62% as Nasdaq Rout Hits AI Software - TradingView
+### 61. Applied Materials Stocks Fall 7.98% as MATCH Act Fight Rattles Chip Toolmakers - TradingView
+
+- Source: TradingView
+- Published: 2026-11-25T17:40:57+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi0wFBVV95cUxPN3dLWVFNejhrMFpCc1NjY3hBUkwyUy1wRFB6eEFFUTBXMElndjZVLU1KdlRWdExMeWZPVnU0NFFPVU5pMktGZmhRLVVXX3NxWl9Db2FEaldSa3JlVzc0WjdXVzhIN0FSbm9fdm9PWlZFVUd6VzVmNUdXUFpOWlZwcFF3R2txZFVoRUk1eE9DVllDcUhVdlRxT2dFSGN1VzdnaTJzblJxSVAzNUJfOXB6ZVdJU2d6V0o2cXd6aHJtYzRTbmtBbTg5MG9zWGJPS2hLN1JZ?oc=5
+
+Applied Materials Stocks Fall 7.98% as MATCH Act Fight Rattles Chip Toolmakers TradingView
+
+### 62. Palantir Stocks Fall 4.62% as Nasdaq Rout Hits AI Software - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T17:19:59+00:00
@@ -656,7 +626,7 @@ SoftBank Group Stocks Crash 14.83% as AI Selloff Hits OpenAI Backer TradingView
 
 Palantir Stocks Fall 4.62% as Nasdaq Rout Hits AI Software TradingView
 
-### 66. World’s Wealthiest Lose Hundreds Of Billions Wednesday As Tech Selloff Deepens - Forbes
+### 63. World’s Wealthiest Lose Hundreds Of Billions Wednesday As Tech Selloff Deepens - Forbes
 
 - Source: Forbes
 - Published: 2026-11-25T16:14:00+00:00
@@ -666,7 +636,7 @@ Palantir Stocks Fall 4.62% as Nasdaq Rout Hits AI Software TradingView
 
 World’s Wealthiest Lose Hundreds Of Billions Wednesday As Tech Selloff Deepens Forbes
 
-### 67. Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts - TradingView
+### 64. Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T15:41:17+00:00
@@ -676,7 +646,7 @@ World’s Wealthiest Lose Hundreds Of Billions Wednesday As Tech Selloff Deepens
 
 Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts TradingView
 
-### 68. DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff - Bloomberg.com
+### 65. DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-25T15:27:51+00:00
@@ -686,7 +656,7 @@ Amazon Stocks Fall 4.26% as $215 Billion Capex Run Rate Meets AI Doubts TradingV
 
 DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff Bloomberg.com
 
-### 69. Stocks Slump as Tech Selloff Deepens - TradingView
+### 66. Stocks Slump as Tech Selloff Deepens - TradingView
 
 - Source: TradingView
 - Published: 2026-11-25T15:10:16+00:00
@@ -696,7 +666,7 @@ DoubleLine’s Cohen Turns AI Debt Lover From Hater After Selloff Bloomberg.com
 
 Stocks Slump as Tech Selloff Deepens TradingView
 
-### 70. US stocks fall further as fears over AI intensify - BBC
+### 67. US stocks fall further as fears over AI intensify - BBC
 
 - Source: BBC
 - Published: 2026-11-25T15:05:38+00:00
@@ -706,7 +676,7 @@ Stocks Slump as Tech Selloff Deepens TradingView
 
 US stocks fall further as fears over AI intensify BBC
 
-### 71. Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues - FOREX.com
+### 68. Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues - FOREX.com
 
 - Source: FOREX.com
 - Published: 2026-11-25T15:05:31+00:00
@@ -716,7 +686,7 @@ US stocks fall further as fears over AI intensify BBC
 
 Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues FOREX.com
 
-### 72. Nasdaq slides 3pc as AI stock selloff deepens on Wall Street - China Labour Bulletin
+### 69. Nasdaq slides 3pc as AI stock selloff deepens on Wall Street - China Labour Bulletin
 
 - Source: China Labour Bulletin
 - Published: 2026-11-25T14:38:32+00:00
@@ -726,7 +696,7 @@ Nasdaq 100 Forecast: Nasdaq plunges as Nvidia selloff continues FOREX.com
 
 Nasdaq slides 3pc as AI stock selloff deepens on Wall Street China Labour Bulletin
 
-### 73. Nvidia Shares Fall in Premarket Trading Again - Forbes
+### 70. Nvidia Shares Fall in Premarket Trading Again - Forbes
 
 - Source: Forbes
 - Published: 2026-11-25T14:25:17+00:00
@@ -736,7 +706,7 @@ Nasdaq slides 3pc as AI stock selloff deepens on Wall Street China Labour Bullet
 
 Nvidia Shares Fall in Premarket Trading Again Forbes
 
-### 74. World stocks fall as new US tariffs loom, AI rebound fizzles - Kitco
+### 71. World stocks fall as new US tariffs loom, AI rebound fizzles - Kitco
 
 - Source: Kitco
 - Published: 2026-11-25T14:22:06+00:00
@@ -746,7 +716,27 @@ Nvidia Shares Fall in Premarket Trading Again Forbes
 
 World stocks fall as new US tariffs loom, AI rebound fizzles Kitco
 
-### 75. Goldman Strategist Says It’s Too Early to Buy the AI Selloff - Bloomberg
+### 72. Renewed AI Hardware Selloff Pushes Corning (NYSE:GLW) Down 5% Pre-Market, Even With Enterprise Network Sales Up 84% - Kalkine
+
+- Source: Kalkine
+- Published: 2026-11-25T14:15:00+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi4gFBVV95cUxQZnZDZGVrRG53WDliaUNaamNkSGl4Z19VdHN3Tk41S2tCbExjNHVVS29xWGpLbUJUd1kyd0tYN3RhelZOUFdpUFF1SE9PRnRPTk9nbl9nZWVtLXZJb2Y0UjIwclQ4RFBESkpkalk4cmdyVUppQTlXNHc2R3dXUGc3aXI1NTdMZHJiaUJXUG80MENOVXVxR0FtXzZzam5qcEF4X2hUSHlYNGFuZFhtYkhsR29meDNMVHBpZGU5aFhueWJZNFZ3WUpXQ2FLRjNYVzdBa28xaEJMYno5MnBudC1YYXF3?oc=5
+
+Renewed AI Hardware Selloff Pushes Corning (NYSE:GLW) Down 5% Pre-Market, Even With Enterprise Network Sales Up 84% Kalkine
+
+### 73. Nasdaq Futures Tumble as AI Selloff Returns -- Update - marketscreener.com
+
+- Source: marketscreener.com
+- Published: 2026-11-25T13:42:35+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMipgFBVV95cUxOUHY3YkVRX2xRRDI4RGFDNXktYmV2V2xUMDIyak4zeTJybDNTdE5fcW9zWWtIVjZQOTJBT2NWUGFtSlJ6TDgzSGt1X0FxWkdScTdaZURwTTRIUjl5bVBLV19hNkhiVG91TVlRWDJSSUVnNmlzZi1VWV9tV1lUai1YSDg5TWlDQ0dkWXpCSHR1a2c4cVIybWY2ek4xRWpWMS0xWUxBRGhn?oc=5
+
+Nasdaq Futures Tumble as AI Selloff Returns -- Update marketscreener.com
+
+### 74. Goldman Strategist Says It’s Too Early to Buy the AI Selloff - Bloomberg
 
 - Source: Bloomberg
 - Published: 2026-11-25T13:17:13+00:00
@@ -756,7 +746,37 @@ World stocks fall as new US tariffs loom, AI rebound fizzles Kitco
 
 Goldman Strategist Says It’s Too Early to Buy the AI Selloff Bloomberg
 
-### 76. Top Losers Today 25-Nov-2026: SG Finserve Falls 20% - Multibagg AI
+### 75. Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand - CryptoRank
+
+- Source: CryptoRank
+- Published: 2026-11-25T12:58:20+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMihwFBVV95cUxOM0R5d0RDc2NDTGp3VGtVcWM4SElJbEdIUVYtdWlUM1oyY24zSER2WVFpSVRQLXN2cU9GMTRSOHY3Z3dnVTI1d3V1dUdnZkZWOHJBcHVtTy1TTk51UUNubkhCZURyRjMwRng3TFNmMFlyX1A2bFVxUEc4QWxJMGNCM0laR1BwYVU?oc=5
+
+Dell Stock Joins Nvidia, AMD, and Intel Selloff Despite Record Demand CryptoRank
+
+### 76. S&P 500 ‘Quite Cheap’ After Selloff: Tom Lee Counters Citadel’s 2018 Warning, Says AI ‘Supply Shock’ Could Ease - TradingView
+
+- Source: TradingView
+- Published: 2026-11-25T12:00:19+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMi9wFBVV95cUxPazlvaURLaGs3Y1BYRjNEdlRxU3RMMkh1WUF5R3RyaXBwaWpQWE85VlVZczJ6TzM4LXhIalgteFJ1Y01rTHhMeWdFd08wMm9XQk1IZnFWclNsRWJKLS1RT044R1JlYy1kWTAxMjBQcEFRWU9feG5VSG0xU3lVOVVJci1CbHQyMWd6eGNINWxDaUF6R3JENDRYaFRDNW9nREVFWk8tYjU5a09RUVhCTFdhbTJYR1djVGUyMi1kY0s2SE4zbEtLVVcxWnpEUzE2djEwZnY0cFBqalNfa2t1SkNPVFEyT2RTaVhwU3BEbWFKYm04RTNFSlQ4?oc=5
+
+S&P 500 ‘Quite Cheap’ After Selloff: Tom Lee Counters Citadel’s 2018 Warning, Says AI ‘Supply Shock’ Could Ease TradingView
+
+### 77. Wall Street braces for another beatdown as US futures tumble, tech selloff deepens - investingLive
+
+- Source: investingLive
+- Published: 2026-11-25T11:35:49+00:00
+- Themes: AI / tech risk, market selling
+- Score: 7
+- Link: https://news.google.com/rss/articles/CBMitgFBVV95cUxPcHpUQzI0VVhySXpOUnRyZm1mSkE3ckdyemMtZGdDQk91cEI3WUNKbnFLX0o4SUV3dU1ISEJPQ3ZfMHpkV19iR2lSdHVQZVJYRWlVSGFpNDliLWUtaE1PODNGSVZiWEtOOHhyT25IUU1LV3dTVnhyaDA0Z2F2UFMybGVrWjA1YjM0Uk03cWtxTUNHSldrZnRLX0o2Zl8tX1FuaFNGUjlnOUFqZVhnRmdJTi14dlFRUQ?oc=5
+
+Wall Street braces for another beatdown as US futures tumble, tech selloff deepens investingLive
+
+### 78. Top Losers Today 25-Nov-2026: SG Finserve Falls 20% - Multibagg AI
 
 - Source: Multibagg AI
 - Published: 2026-11-25T11:02:14+00:00
@@ -766,7 +786,7 @@ Goldman Strategist Says It’s Too Early to Buy the AI Selloff Bloomberg
 
 Top Losers Today 25-Nov-2026: SG Finserve Falls 20% Multibagg AI
 
-### 77. Gold vs Bitcoin: Gold Leads as Bitcoin Price Slides on AI Selloff - FXEmpire
+### 79. Gold vs Bitcoin: Gold Leads as Bitcoin Price Slides on AI Selloff - FXEmpire
 
 - Source: FXEmpire
 - Published: 2026-11-25T10:35:12+00:00
@@ -776,7 +796,7 @@ Top Losers Today 25-Nov-2026: SG Finserve Falls 20% Multibagg AI
 
 Gold vs Bitcoin: Gold Leads as Bitcoin Price Slides on AI Selloff FXEmpire
 
-### 78. Indian Stocks Extend World-Beating Run as AI Selloff Resumes - Bloomberg.com
+### 80. Indian Stocks Extend World-Beating Run as AI Selloff Resumes - Bloomberg.com
 
 - Source: Bloomberg.com
 - Published: 2026-11-25T10:34:43+00:00
@@ -785,23 +805,3 @@ Gold vs Bitcoin: Gold Leads as Bitcoin Price Slides on AI Selloff FXEmpire
 - Link: https://news.google.com/rss/articles/CBMisAFBVV95cUxQZG9UVkhkdlhpa1RGRVRCNHl0eW5RdHUxWGhRSXdrUWFXMHZqbTg4TnU3Q2huOGNjblBBbG1qNHUxUERKQ0NvZEpIajFESTZCaWx1NjFGdFU3SWRldUJvcEV2N3ZyTnR6UXFMTFUxeExJSUJrSmk3N0RQMFRJaWZERUoxd3k2WnNPVnpQTUJzZGI5dEZ1Vi1RSXp4anlFLXl3ckM5eHdQNnZNZ2d1M0VNVQ?oc=5
 
 Indian Stocks Extend World-Beating Run as AI Selloff Resumes Bloomberg.com
-
-### 79. World stocks fall as new US tariffs loom, AI rebound fizzles - Zawya
-
-- Source: Zawya
-- Published: 2026-11-25T09:50:12+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMirAFBVV95cUxOaVBXeWlQdFkxVmJobXkxbGFUV1NqX1NuSFpXbWlDRGdEQTlsaHlSLTFSYTBNa0hDcXpjRUdPcFlWTkNmUWg1U1QwMVpPSHhnbWZ2R1Z2RHpTVnpQTEV3MXdNdlZqbWNxazBMLUt0TVZlSERYQXc1bXlDYk9Lb0hVb2FZaWFGYURvcGN0MFlSTG05eTVaMVNTVFlXbFQyRy1YdHJ1TFJ3Q3pTUkxM?oc=5
-
-World stocks fall as new US tariffs loom, AI rebound fizzles Zawya
-
-### 80. IT Stocks Rally Despite Global AI Selloff: Infosys, TCS Lead Gains - NiftyTrader
-
-- Source: NiftyTrader
-- Published: 2026-11-25T08:43:23+00:00
-- Themes: AI / tech risk, market selling
-- Score: 7
-- Link: https://news.google.com/rss/articles/CBMif0FVX3lxTFB2VF83Skl3YW53a3c1cG1hbk1YU0xvTnI4QWVGb1daSUNVQ1Y0S2UyZm9XQmR2cC1JNlNBZFJhYkZZbDlObWJfYUVZeTd5cGF6R3JLVkhhZmVnZExURlFENE94RGFJZEpaN3FpcktFQzZRT19SWFJjMDNZN2FJSXM?oc=5
-
-IT Stocks Rally Despite Global AI Selloff: Infosys, TCS Lead Gains NiftyTrader
